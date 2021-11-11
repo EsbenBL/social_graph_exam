@@ -1,0 +1,249 @@
+{{short description|German philosopher, sociologist, and political theorist}}
+{{Infobox philosopher
+| region = [[Western philosophy]]
+| era = [[20th-century philosophy]]
+| image = Herbert Marcuse in Newton, Massachusetts 1955.jpeg
+| caption = Marcuse in 1955<ref>[http://www.ci.newton.ma.us/ ci.newton.ma.us] {{webarchive|url=https://web.archive.org/web/20121020150208/http://www.ci.newton.ma.us/ |date=2012-10-20}}</ref>
+| name = Herbert Marcuse
+| birth_date = {{birth date|1898|7|19}}
+| birth_place = [[Berlin]], [[German Empire]]
+| death_date = {{death date and age|1979|7|29|1898|7|19}}
+| death_place = [[Starnberg]], [[West Germany]]
+| nationality = {{hlist | German | American}}
+| alma_mater = [[University of Freiburg]]
+| notable_works = {{unbulleted list | ''[[Eros and Civilization]]'' (1955) | ''[[One-Dimensional Man]]'' (1964)}}
+| spouse = {{unbulleted list | {{marriage|Sophie Wertheim|1924|1951|end=died}} | {{marriage|Inge Neumann|1955|1973|end=died}} | {{marriage|Erica Sherover|1976}}}}
+| school_tradition = {{hlist | [[Continental philosophy]] | [[Frankfurt School]] | [[Western Marxism]]}}
+| main_interests = {{hlist | [[Social theory]] | [[communism]] | [[socialism]] | [[industrialism]] | [[technology]]}}
+| doctoral_students = {{flatlist|
+* [[Angela Davis]]
+* [[Andrew Feenberg]]<ref name="Proposal">{{cite web |url=http://www.sfu.ca/~andrewf/essentialmarcuse.doc |title=Archived copy |access-date=2020-10-07 |archive-date=2021-05-27 |archive-url=https://web.archive.org/web/20210527172602/http://www.sfu.ca/~andrewf/essentialmarcuse.doc |url-status=live }}</ref>
+* [[Paul Gottfried]]
+* [[William Leiss]]<ref name="Proposal"/>
+}}
+| influences = {{hlist | [[Immanuel Kant]] | [[G.&nbsp;W.&nbsp;F. Hegel]] | [[Karl Marx]] | [[Friedrich Engels]] | [[Sigmund Freud]] | [[Edmund Husserl]] | [[Friedrich Nietzsche]] | [[Martin Heidegger]] | [[Friedrich Pollock]] | [[Theodor W. Adorno]] | [[Max Horkheimer]]}}
+| influenced = {{hlist | [[Norman O. Brown]] | [[Angela Davis]] | [[George Katsiaficas]] | [[Jürgen Habermas]] | [[Abbie Hoffman]] | [[Douglas Kellner]] | [[Emerita S. Quito|Emerita Quito]] | [[Bob Black]] |[[Andrew Feenberg]] | [[Xi Jinping]]<ref>{{cite journal |last1=Torigian |first1=Joseph |title=Historical Legacies and Leaders' Worldviews:Communist Party History and Xi's Learned (and Unlearned) Lessons |journal=China Perspectives |date=1 June 2018 |volume=2018 |issue=1–2 |page=10 |doi=10.4000/chinaperspectives.7548 |url=http://journals.openedition.org/chinaperspectives/7548 |access-date=24 April 2021 |doi-access=free |archive-date=24 April 2021 |archive-url=https://web.archive.org/web/20210424022830/https://journals.openedition.org/chinaperspectives/7548 |url-status=live}}</ref>}}
+| notable_ideas = {{hlist | [[Technological rationality]] | [[great refusal]]<ref>[https://www.iep.utm.edu/frankfur/#SH2a "The Frankfurt School and Critical Theory"] {{Webarchive|url=https://web.archive.org/web/20180218090424/https://www.iep.utm.edu/frankfur/#SH2a |date=2018-02-18}}, Internet Encyclopedia of Philosophy.</ref> | [[One-Dimensional Man|one-dimensional man]] | work as [[Free Play (Derrida)|free play]] | [[repressive tolerance]] | [[repressive desublimation]] | [[Negative dialectics|negative thinking]] | [[totalitarian democracy]]}}
+}}
+{{Frankfurt School}}
+
+'''Herbert Marcuse''' ({{IPAc-en|m|ɑːr|ˈ|k|uː|z|ə}}; {{IPA-de|maʁˈkuːzə|lang}}; July 19, 1898 – July 29, 1979) was a German-American [[philosophy|philosopher]], [[sociology|sociologist]], and [[political philosophy|political theorist]], associated with the [[Frankfurt School]] of [[critical theory]]. Born in [[Berlin]], Marcuse studied at the [[University of Berlin|Humboldt University of Berlin]] and then at [[University of Freiburg|Freiburg]], where he received his PhD.<ref>Lemert, Charles. Social Theory: The Multicultural and Classic Readings. Westview Press, Boulder, CO. 2010.</ref> He was a prominent figure in the Frankfurt-based [[Institute for Social Research]] – what later became known as the [[Frankfurt School]]. He was married to Sophie Wertheim (1924–1951), Inge Neumann (1955–1973), and Erica Sherover (1976–1979).<ref name=":1">{{cite web |url=http://www.marcuse.org/herbert/people/sophie/sophie.htm |title=Sophie Wertheim (1901–1951) |publisher=Marcuse.org |access-date=2013-09-06 |archive-date=2019-09-27 |archive-url=https://web.archive.org/web/20190927095456/https://www.marcuse.org/herbert/people/sophie/sophie.htm |url-status=live}}</ref><ref name=":2">{{cite web |url=http://www.marcuse.org/herbert/people/inge/inge.htm |title=Inge Neumann (1913–1973) |publisher=Marcuse.org |access-date=2018-07-05 |archive-date=2019-10-25 |archive-url=https://web.archive.org/web/20191025223502/https://www.marcuse.org/herbert/people/inge/inge.htm |url-status=live}}</ref><ref name=":3">{{cite web |url=http://www.marcuse.org/herbert/people/ricky/ricky.htm |title=Erica Sherover-Marcuse (1938–1988) |publisher=Marcuse.org |access-date=2013-09-06 |archive-date=2019-10-25 |archive-url=https://web.archive.org/web/20191025222528/https://www.marcuse.org/herbert/people/ricky/ricky.htm |url-status=live}}</ref> In his written works, he criticized [[capitalism]], modern technology, [[Soviet Communism]] and entertainment culture, arguing that they represent new forms of [[social control]].<ref>Mann, Douglas. "A Survey of Modern Social Theory". Oxford University Press. 2008.</ref>
+
+Between 1943 and 1950, Marcuse worked in US government service for the [[Office of Strategic Services]] (predecessor of the [[Central Intelligence Agency]]) where he criticized the [[ideology of the Communist Party of the Soviet Union]] in the book ''[[Soviet Marxism: A Critical Analysis]]'' (1958). In the 1960s and the 1970s he became known as the preeminent theorist of the [[New Left]] and the student movements of [[West Germany]], France, and the United States; some consider him "the Father of the New Left".<ref>{{cite book|url=https://books.google.com/books?id=DKs0DwAAQBAJ&pg=PT177|page=177|title=The End of the Experiment: The Rise of Cultural Elites and the Decline of America's Civic Culture|first=Stanley|last=Rothman|publisher=Routledge|year=2017|isbn=9781351295628|access-date=2017-10-31|archive-date=2020-08-03|archive-url=https://web.archive.org/web/20200803074502/https://books.google.com/books?id=DKs0DwAAQBAJ&pg=PT177|url-status=live}}</ref>
+
+His best known works are ''[[Eros and Civilization]]'' (1955) and ''[[One-Dimensional Man]]'' (1964). His [[Marxism|Marxist]] scholarship inspired many radical intellectuals and political activists in the 1960s and 1970s, both in the United States and internationally.
+
+==Biography==
+
+===Early years===
+Herbert Marcuse was born July 19, 1898, in [[Berlin]], to Carl Marcuse and Gertrud Kreslawsky. Marcuse's family was a German upper-middle class Jewish family that was well integrated into German society.<ref name=":0">{{Cite web|date=April 10, 2019|title=Herbert Marcuse|url=https://plato.stanford.edu/entries/marcuse/|url-status=live|archive-url=https://web.archive.org/web/20180901164348/https://plato.stanford.edu/entries/marcuse/|archive-date=September 1, 2018|access-date=September 2, 2018|website=[[Stanford Encyclopedia of Philosophy]]|quote=According to Marcuse, his childhood was that of a typical German upper-middle class youth whose Jewish family was well integrated into German society}}</ref> Marcuse's formal education began at Mommsen Gymnasium and continued at the Kaiserin-Augusta Gymnasium in Charlottenburg from 1911-1916.<ref name=":0" /> In 1916 he was then drafted into the [[German Army (German Empire)|German Army]], but only worked in horse stables in Berlin during [[World War I]]. He then became a member of a [[Soviet_(council)#Germany|Soldiers' Council]] that participated in the aborted [[socialism|socialist]] [[Spartacist uprising]].  
+
+In 1919 he entered Humboldt University in Berlin and took classes for four semesters. In 1920 he transferred to University of Freiburg to concentrate on German literature, philosophy, politics, and economics.<ref name=":0" /> He completed his PhD thesis at the [[University of Freiburg]] in 1922 on the German ''[[Künstlerroman]]'' after which he moved back to Berlin, where he worked in publishing. In 1924 he married Sophie Wertheim, a mathematician. 
+
+He returned to [[Freiburg]] in 1928 to study with [[Edmund Husserl]] and write a [[habilitation]] with [[Martin Heidegger]], which was published in 1932 as ''[[Hegel's Ontology and the Theory of Historicity]]'' (''Hegels Ontologie und die Theorie der Geschichtlichkeit''). This study was written in the context of the Hegel renaissance that was taking place in Europe with an emphasis on [[Georg Wilhelm Friedrich Hegel]]'s ontology of life and history, idealist theory of spirit and dialectic.<ref name="kellner12">{{cite web|url=http://www.uta.edu/huma/illuminations/kell12.htm|title=Illuminations: Kellner|author=Douglas Kellner|access-date=October 1, 2012|archive-date=November 1, 2019|archive-url=https://web.archive.org/web/20191101085822/http://www.uta.edu/huma/illuminations/kell12.htm|url-status=live}}</ref>
+
+===Emigration to the United States===
+In 1932 Marcuse stopped working with Heidegger, who later joined the Nazi Party in 1933. Marcuse understood that he would not qualify as a professor under the Nazi regime as the Nazis seized power and anti-Semitism increased.<ref name=":0" /> Marcuse was then hired to work in the Institute of Social Research in the Frankfurt School. The Institute deposited their endowment in Holland in anticipation of the Nazi takeover, so Marcuse never got to actually work in the Frankfurt School.<ref name=":0" /> Marcuse began his work with the Institute in Geneva, where a branch office was formed.<ref name=":0" /> While a member of the Frankfurt School (also known as the Institute of Social Research), Marcuse developed a model for critical social theory, created a theory of the new stage of state and monopoly capitalism, described the relationships between philosophy, social theory, and cultural criticism, and provided an analysis and critique of German fascism. Marcuse worked closely with critical theorists while at the institute.<ref name="kellner12" /> After leaving Germany for Switzerland in May 1933, Marcuse emigrated to the United States in June 1934. Marcuse served at the Institute's Columbia University branch from 1934 through 1942. He traveled to Washington, D.C., in 1942, to work for the Office of War Information, afterwards the Office of Strategic Services. Marcuse then went on to teach at Brandeis University and the University of California, San Diego later in his career.<ref name=":0" /> In 1940, he became a US citizen and resided in the country until his death in 1979.<ref name=":0" /> Although he never returned to Germany to live, he remained one of the major theorists associated with the Frankfurt School, along with [[Max Horkheimer]] and [[Theodor W. Adorno]] (among others). In 1940 he published ''Reason and Revolution'', a dialectical work studying [[G. W. F. Hegel]] and [[Karl Marx]].
+
+===World War II===
+
+During World War II, Marcuse first worked for the US [[Office of War Information]] (OWI) on anti-Nazi propaganda projects. In 1943, he transferred to the [[Research and Analysis Branch]] of the [[Office of Strategic Services]] (OSS), the precursor to the [[Central Intelligence Agency]].
+
+Directed by the Harvard historian [[William L. Langer]], the Research and Analysis (R & A) Branch was the largest American research institution in the first half of the twentieth century. At its zenith between 1943 and 1945, it employed over twelve hundred, four hundred of whom were stationed abroad. In many respects, it was the site where post-World War II American social science was born, with protégés of some of the most esteemed American university professors, as well as numerous European intellectual émigrés, in its ranks.
+
+These men comprised the "theoretical brain trust" of the American war machine, which, according to its founder, [[William J. Donovan]], would function as a "final clearinghouse" for the secret services. Although this group did not determine war strategy or tactics, it would be able to assemble, organize, analyze, and filter the immense flow of military information directed toward Washington, thanks to the unique capacity of the gathered specialists to interpret the relevant sources.<ref>''Secret Reports on Nazi Germany. The Frankfurt School Contribution to the War Effort'' by [[Franz Neumann (political scientist)|Franz Neumann]], Herbert Marcuse & [[Otto Kirchheimer]], Edited by Raffaele Laudani, (Princeton University Press, 2013) p. 2</ref>
+
+In March 1943, Marcuse joined fellow Frankfurt School scholar [[Franz Neumann (political scientist)|Franz Neumann]] in R & A's Central European Section as senior analyst; there he rapidly established himself as "the leading analyst on Germany".<ref>Laudani (2013), ''Secret Reports'', p3</ref>
+
+After the dissolution of the OSS in 1945, Marcuse was employed by the [[US Department of State]] as head of the Central European section, becoming an intelligence analyst of Nazism. A compilation of Marcuse's reports was published in ''[[Secret Reports on Nazi Germany: The Frankfurt School Contribution to the War Effort]]'' (2013). He retired after the death of his first wife in 1951.
+
+===Post-war===
+In 1952, Marcuse began a teaching career as a political theorist, first at [[Columbia University]], then at [[Harvard University]]. Marcuse worked at [[Brandeis University]] from 1954 to 1965, then at the [[University of California San Diego]] from 1965 to 1970.<ref>{{Cite web|last=Romano|first=Carlin|date=2011-12-11|title=Occupy This: Is It Comeback Time for Herbert Marcuse?|url=https://www.chronicle.com/article/occupy-this-is-it-comeback-time-for-herbert-marcuse/|access-date=2020-08-04|website=The Chronicle of Higher Education|archive-date=2020-11-11|archive-url=https://web.archive.org/web/20201111233056/https://www.chronicle.com/article/occupy-this-is-it-comeback-time-for-herbert-marcuse/|url-status=live}}</ref> It was during his time at Brandeis that he wrote his most famous work, ''[[One-Dimensional Man]]'' (1964).<ref>Elliott, Anthony and Larry Ray. Key Contemporary Social Theorists. Blackwell Publishers. 2003.</ref>
+
+Marcuse was a friend and collaborator of the [[political sociology|political sociologist]] [[Barrington Moore Jr.]] and of the political philosopher [[Robert Paul Wolff]], and also a friend of the [[Columbia University]] sociology professor [[C. Wright Mills]], one of the founders of the [[New Left]] movement.  In his "Introduction" to ''One-Dimensional Man'', Marcuse wrote, "I should like to emphasize the vital importance of the work of C. Wright Mills."<ref>''One-Dimensional Man (Boston: Beacon Press, 1964), p. xvii''</ref>
+
+In the post-war period, Marcuse rejected the theory of [[class struggle]] and the Marxist concern with labor, instead claiming, according to [[Leszek Kołakowski]], that since "all questions of material existence have been solved, moral commands and prohibitions are no longer relevant." He regarded the realization of man's erotic nature as the true liberation of humanity, which inspired the utopias of [[Jerry Rubin]] and others.<ref name="Kołakowski 1981 416">{{cite book|last=Kołakowski|first=Leszek|author-link=Leszek Kołakowski|title=Main Currents Of Marxism: Volume III, The Breakdown|year=1981|publisher=Oxford University Press|isbn=978-0192851093|page=[https://archive.org/details/goldenagemaincur00lesz/page/416 416]|url=https://archive.org/details/goldenagemaincur00lesz/page/416}}</ref>
+
+Marcuse's critiques of [[capitalism|capitalist]] society (especially his 1955 synthesis of Marx and [[Sigmund Freud]], ''[[Eros and Civilization]]'', and his 1964 book ''[[One-Dimensional Man]]'') resonated with the concerns of the student movement in the 1960s. Because of his willingness to speak at student protests and his essay "[[Repressive Tolerance]]" (1965),<ref name=kellner12 /> Marcuse soon became known in the media as "Father of the New Left."<ref name=kellner12 /><ref name=marcuseweb />  Contending that the students of the sixties were not waiting for the publication of his work to act,<ref name="marcuseweb">{{cite web |url=http://www.marcuse.org/herbert/booksabout/70s/Bourne1979MarcuseGrandfatherNewLeft.pdf |title=Tom Bourne (Sept. 1979) |access-date=2017-10-31 |archive-date=2020-07-09 |archive-url=https://web.archive.org/web/20200709231432/https://www.marcuse.org/herbert/booksabout/70s/Bourne1979MarcuseGrandfatherNewLeft.pdf |url-status=live}}</ref> Marcuse brushed the media's branding of him as "Father of the New Left" aside lightly,<ref name=marcuseweb /> saying "It would have been better to call me not the father, but the grandfather, of the New Left."<ref name=marcuseweb />  His work strongly influenced intellectual discourse on [[popular culture]] and scholarly [[popular culture studies]]. He had many speaking engagements in the US and [[Western Bloc]] in the late 1960s and 1970s. He became a close friend and inspirer of the French philosopher [[André Gorz]].
+
+Marcuse defended the arrested [[East Germany|East German]] dissident [[Rudolf Bahro]] (author of ''Die Alternative: Zur Kritik des real existierenden Sozialismus'' [trans., ''The Alternative in Eastern Europe'']), discussing in a 1979 essay Bahro's theories of "change from within."<ref>{{cite web |author=Stefan Meretz |url=http://www.opentheory.org/marcuse_ueber_bahro/text.phtml |title=open theory · offene theorie: Protosozialismus und Spätkapitalismus. Versuch einer theoretischen Synthese von Bahros Ansatz (von Herbert Marcuse) |publisher=Opentheory.org |access-date=2013-09-06 |archive-date=2013-05-30 |archive-url=https://web.archive.org/web/20130530204419/http://www.opentheory.org/marcuse_ueber_bahro/text.phtml |url-status=live}}</ref>{{Libertarian socialism sidebar}}
+
+===Marriages===
+[[File:Sophie and Herbert in their New York apartment.jpg|thumb|Herbert Marcuse and his first wife, Sophie Marcuse, in their New York apartment]]
+Marcuse married three times. His first wife was [[mathematician]] Sophie Wertheim (1901–1951), whom he married in 1924 and had a son with, Peter (born 1928). Before emigrating to New York in 1934, they resided in Freiburg, Berlin, Geneva, and Paris. They lived in Los Angeles/Santa Monica and Washington, D.C. in the 1930s and 1940s. In 1951 Sophie Wertheim passed away due to Cancer.<ref name=":1" /> He then married Inge Neumann (1914–1973), the widow of his close friend [[Franz Neumann (political scientist)|Franz Neumann]] (1900–1954). After his second wife died in 1972, Marcuse married Erica Sherover (1938–1988) in 1976, a former graduate student.<ref name=":3" /> 
+
+=== Children ===
+In his first Marriage with Sophie Wertheim, they had one son Peter Marcuse born (1928). [[Peter Marcuse]] is a professor emeritus of [[urban planning]] at [[Columbia University]]. Although Marcuse didn't have any children with Inge Neumann Marcuse he helped raise her two sons, Thomas Neumann and Michael Neumann.<ref>{{Cite web|title=Herbert Marcuse {{!}} Encyclopedia.com|url=https://www.encyclopedia.com/people/social-sciences-and-law/political-science-biographies/herbert-marcuse|access-date=2021-10-23|website=www.encyclopedia.com}}</ref> Thomas (now Osha) is a Berkeley-based writer, activist, lawyer, and muralist. Michael works as a philosophy professor at Trent University in Toronto.<ref name=":2" />
+
+Marcuse granddaughter is the novelist [[Irene Marcuse]] and his grandson, [[Harold Marcuse]], is a professor of history at the [[University of California, Santa Barbara]].
+
+===Death===
+On July 29, 1979, ten days after his eighty-first birthday, Marcuse died after suffering a [[stroke]] during a visit to Germany. He had spoken at the Frankfurt ''Römerberggespräche'', and was on his way to the [[Max Planck Society#Former institutes|Max Planck Institute for the Study of the Scientific-Technical World]] in Starnberg, on invitation from second-generation Frankfurt School theorist [[Jürgen Habermas]]. 
+[[Image:Grave-of-Herbert-Marcuse.jpg|thumb|Grave in the [[Dorotheenstädtischer cemetery]], Berlin, where Marcuse's ashes were buried in 2003]]
+In 2003, after his ashes were rediscovered in the United States, they were buried in the [[Dorotheenstädtischer cemetery]] in Berlin.
+
+==Philosophy and views==
+Marcuse's concept [[repressive desublimation]], which has become well-known, refers to his argument that postwar mass culture, with its profusion of sexual provocations, serves to reinforce political repression. If people are preoccupied with inauthentic sexual stimulation, their political energy will be "desublimated"; instead of acting constructively to change the world, they remain repressed and uncritical. Marcuse advanced the prewar thinking of critical theory toward a critical account of the "one-dimensional" nature of bourgeois life in Europe and America. His thinking could, therefore, also be considered an advance of the concerns of earlier liberal critics such as [[David Riesman]].<ref>{{cite book|url=https://books.google.com/books?id=fTowST-_gmYC|title=Key Contemporary Social Theorists – Google Books|date=2002-10-22|access-date=2013-09-06|isbn=9780631219729|last1=Elliott|first1=Anthony|last2=Ray|first2=Larry|archive-date=2021-04-14|archive-url=https://web.archive.org/web/20210414110057/https://books.google.com/books?id=fTowST-_gmYC|url-status=live}}</ref><ref>{{Cite book|last=Mestrovic|first=Stjepan|title=Postemotional Society|publisher=Sage|year=1997|location=London|pages=43}}</ref>
+
+Two aspects of Marcuse's work are of particular importance, first, his use of language more familiar from the critique of Soviet or Nazi regimes to characterize developments in the advanced industrial world; and second, his grounding of critical theory in a particular use of psychoanalytic thought. <ref>Elliot, Anthony and Larry Ray. ''Key Contemporary Social Theorists''. Blackwell Publishing. 2003.</ref>
+
+=== The New Left and radical politics ===
+Many radical scholars and activists were influenced by Marcuse, such as [[Norman O. Brown]],<ref>{{cite book|author=Dufresne, Todd|title=Tales from the Freudian Crypt: The Death Drive in Text and Context|publisher=Stanford University Press|year=2000|isbn=978-0-8047-3885-9|location=Stanford|page=112}}</ref> [[Angela Davis]],<ref name="Ebony-July1971">{{cite news|last=Davis|first=Angela|author-link=Angela Davis|date=July 1971|title=Rhetoric Vs. Reality: Angela Davis tells why black people should not be deceived by words|volume=26|pages=115–120|newspaper=[[Ebony (magazine)|Ebony]]|publisher=[[Johnson Publishing Company]]|issue=9|location=[[Chicago]]|url=https://books.google.com/books?id=5tsDAAAAMBAJ|url-status=live|access-date=2016-01-07|archive-url=https://web.archive.org/web/20210414110444/https://books.google.com/books?id=5tsDAAAAMBAJ|archive-date=2021-04-14}}</ref> [[Charles J. Moore]], [[Abbie Hoffman]], [[Rudi Dutschke]], and [[Robert M. Young (academic)|Robert M. Young]] (see the List of Scholars and Activists link below). Among those who critiqued him from the left were [[Marxist humanism|Marxist-humanist]] [[Raya Dunayevskaya]], fellow German emigre [[Paul Mattick]], both of whom subjected ''One-Dimensional Man'' to a Marxist critique, and [[Noam Chomsky]], who knew and liked Marcuse "but thought very little of his work."<ref>{{cite book|last=Barsky|first=Robert|title=Noam Chomsky: A Life of Dissent|publisher=MIT Press|year=1997|location=Cambridge, Massachusetts|page=[https://books.google.com/books?id=RKUbyYPG4mcC&pg=PA134 134]}}</ref> Marcuse's 1965 essay "[[Repressive Tolerance]]", in which he claimed capitalist [[democracy|democracies]] can have [[totalitarian]] aspects, has been criticized by conservatives.<ref>{{cite web|title=marcuse.org (books about)|url=http://www.marcuse.org/herbert/booksabout/haters/haters.htm|url-status=live|archive-url=https://web.archive.org/web/20060901234928/http://www.marcuse.org/herbert/booksabout/haters/haters.htm|archive-date=2006-09-01|access-date=2006-08-28}}</ref> Marcuse argues that genuine tolerance does not permit support for "repression", since doing so ensures that marginalized voices will remain unheard. He characterizes tolerance of repressive speech as "inauthentic". Instead, he advocates a form of tolerance that is intolerant of repressive (namely right-wing) political movements:
+{{quote|Liberating tolerance, then, would mean intolerance against movements from the Right and toleration of movements from the Left.
+
+Surely, no government can be expected to foster its own subversion, but in a democracy such a right is vested in the people (i.e. in the majority of the people). This means that the ways should not be blocked on which a subversive majority could develop, and if they are blocked by organized repression and indoctrination, their reopening may require apparently undemocratic means. They would include the withdrawal of toleration of speech and assembly from groups and movements that promote aggressive policies, armament, chauvinism, discrimination on the grounds of race and religion, or that oppose the extension of public services, social security, medical care, etc.<ref name="marcuse.org">{{cite web |url=http://www.marcuse.org/herbert/pubs/60spubs/65repressivetolerance.htm |title=Repressive Tolerance, by Herbert Marcuse (1965) |publisher=Marcuse.org |access-date=2013-09-06 |archive-date=2020-01-08 |archive-url=https://web.archive.org/web/20200108013038/https://www.marcuse.org/herbert/pubs/60spubs/65repressivetolerance.htm |url-status=live}}</ref>}}
+Marcuse later expressed his radical ideas through three pieces of writing. He wrote ''[[An Essay on Liberation]]'' in 1969, in which he celebrated liberation movements such as those in [[Vietnam]], which inspired many radicals. In 1972 he wrote ''[[Counterrevolution and Revolt]]'', which argues that the hopes of the 1960s were facing a counterrevolution from the right.<ref name="kellner12" />
+
+After Brandeis denied the renewal of his teaching contract in 1965, Marcuse taught at the [[University of California San Diego]]. In 1968, California Governor [[Ronald Reagan]] and other conservatives objected to his reappointment,<ref>"William McGill, 75, President Who Led Columbia After Years of Distress, Dies", ''The New York Times,'' 21 October 1997</ref> but the university decided to let his contract run until 1970. He devoted the rest of his life to teaching, writing and giving lectures around the world. His efforts brought him attention from the media, which claimed that he openly advocated violence, although he often clarified that only "violence of defense" could be appropriate, not "violence of aggression". He continued to promote Marxian theory, with some of his students helping to spread his ideas. He published his final work ''[[The Aesthetic Dimension]]'' in 1979 on the role of art in the process of what he termed "emancipation" from bourgeois society.<ref name="kellner12" />
+
+===Marcuse's early "Heideggerian Marxism"===
+During his years in Freiburg, Marcuse wrote a series of essays that explored the possibility of synthesizing Marxism and Heidegger's fundamental ontology, as begun in the latter's work ''Being and Time'' (1927). This early interest in Heidegger followed Marcuse's demand for "concrete philosophy," which, he declared in 1928, "concerns itself with the truth of contemporaneous human existence."<ref>Marcuse, Herbert. "On Concrete Philosophy." 1929. In ''Heideggerian Marxism''. Eds. John Abromeit and Richard Wolin. Lincoln, Nebraska: University of Nebraska Press, 2005. p. 49.</ref> These words were directed against the neo-Kantianism of the mainstream, and against both the revisionist and orthodox Marxist alternatives, in which the subjectivity of the individual played little role.<ref>For a thorough discussion of Marcuse's perspectives on the Marxisms of his day, see Benhabib's introduction to ''Hegel's Ontology''. (Marcuse, Herbert. ''Hegel's Ontology and the Theory of Historicity''. 1932. Trans. Seyla Benhabib. Cambridge, MA: MIT Press, 1987. pp. xi–xix.)</ref> Though Marcuse quickly distanced himself from Heidegger following Heidegger's endorsement of Nazism, thinkers such as [[Jürgen Habermas]] have suggested that an understanding of Marcuse's later thinking demands an appreciation of his early Heideggerian influence.<ref>See, e.g., Marcuse, Herbert. ''Heideggerian Marxism'', edited by Richard Wolin and John Abromeit, Lincoln: University of Nebraska Press, 2005, pp. xi–xxx.</ref>
+
+===Marcuse and capitalism===
+Marcuse's analysis of capitalism derives partially from one of Karl Marx's main concepts: Objectification,<ref>{{cite web |url=http://www.marxists.org/glossary/terms/o/b.htm#objectification |title=Glossary of Terms: Ob |publisher=Marxists.org |access-date=2013-09-06 |archive-date=2013-10-19 |archive-url=https://web.archive.org/web/20131019175543/http://www.marxists.org/glossary/terms/o/b.htm#objectification |url-status=live}}</ref> which under capitalism becomes [[Marx's theory of alienation|Alienation]]. Marx believed that capitalism was exploiting humans; that by producing objects of a certain character, laborers became alienated and this ultimately dehumanized them into functional objects themselves. 
+
+Marcuse took this belief and expanded it. He argued that capitalism and industrialization pushed laborers so hard that they began to see themselves as extensions of the objects they were producing. At the beginning of ''One-Dimensional Man'' Marcuse writes, "The people recognize themselves in their commodities; they find their soul in their automobile, hi-fi set, split-level home, kitchen equipment,"<ref>{{cite web |url=http://www.marcuse.org/herbert/quotes/QuotRedThread.html#Capitalism |title=marcuse.org (quotations) |access-date=2009-10-14 |archive-date=2009-02-21 |archive-url=https://web.archive.org/web/20090221031558/http://www.marcuse.org/herbert/quotes/QuotRedThread.html#Capitalism |url-status=live}}</ref> meaning that under capitalism (in consumer society), humans become extensions of the commodities that they buy, thus making commodities extensions of people's minds and bodies. Affluent mass technological societies, he argues, are controlled and manipulated. In societies based upon mass production and mass distribution, the individual worker has become merely a consumer of its commodities and entire commodified way of life. Modern capitalism has created false needs and false consciousness geared to the consumption of [[commodities]]: it locks one-dimensional man into the one-dimensional society which produced the need for people to recognize themselves in their commodities.<ref name="Stuart Sim 1997">{{cite book |url=https://books.google.com/books?id=_1mFAAAAMAAJ |title=The A–Z Guide to Modern Social and Political Theorists |publisher=Prentice-Hall |year=1997 |author1=Parker, Noel |author2=Sim, Stuart |isbn=9780135248850 |access-date=2020-11-06 |archive-date=2021-04-14 |archive-url=https://web.archive.org/web/20210414154530/https://books.google.com/books?id=_1mFAAAAMAAJ |url-status=live}}</ref>
+
+The very mechanism that ties the individual to his society has changed, and social control is anchored in the new needs that it has produced. Most important of all, the pressure of consumerism has led to the total integration of the working class into the [[capitalism|capitalist]] system. Its political parties and trade unions have become thoroughly bureaucratized and the power of [[Negative dialectics|negative thinking]] or critical reflection has rapidly declined.<ref name="SEP">{{Cite web |url=https://plato.stanford.edu/entries/marcuse/ |title=''SEP'' |access-date=2018-09-02 |archive-date=2018-09-01 |archive-url=https://web.archive.org/web/20180901164348/https://plato.stanford.edu/entries/marcuse/ |url-status=live}}</ref> The working class is no longer a potentially subversive force capable of bringing about revolutionary change. As a result, rather than looking to the workers as the revolutionary vanguard, Marcuse put his faith in an alliance between radical intellectuals and those groups not yet integrated into one-dimensional society, the socially marginalized, the substratum of the outcasts and outsiders, the exploited and persecuted of other ethnicities and other colors, the unemployed and the unemployable. These were the people whose standards of living demanded the ending of intolerable conditions and institutions and whose resistance to one-dimensional society would not be diverted by the system. Their opposition was revolutionary even if their consciousness was not.<ref name="Stuart Sim 1997" />
+
+==Criticism==
+[[Leszek Kołakowski]] described Marcuse's views as essentially anti-Marxist, in that they ignored Marx's critique of Hegel and discarded the historical theory of [[class struggle]] entirely in favor of an inverted Freudian reading of human history where all social rules could and should be discarded to create a "New World of Happiness." Kołakowski concluded that Marcuse's ideal society "is to be ruled despotically by an enlightened group [who] have realized in themselves the unity of ''Logos'' and Eros, and thrown off the vexatious authority of logic, mathematics, and the empirical sciences."<ref name="Kołakowski 1981 416"/>
+
+The philosopher [[Alasdair MacIntyre]] asserted that Marcuse falsely assumed consumers were completely passive, uncritically responding to corporate advertising.<ref name="Stuart Sim 1997"/> MacIntyre frankly opposed Marcuse. "It will be my crucial contention in this book," MacIntyre stated, "that almost all of Marcuse's key positions are false." For example, Marcuse was not an orthodox Marxist. Like many of the Frankfurt School, Marcuse wrote of "[[critical theory]]" not of "Marxism" and MacIntyre notes a similarity in this to the [[Right Hegelians]], whom Marx attacked. Hence, MacIntyre proposed that Marcuse be regarded as "a pre-Marxist thinker". According to MacIntyre, Marcuse's assumptions about advanced [[industrial society]] were wrong in whole and in part. "Marcuse," concluded MacIntyre, "invokes the great names of freedom and reason while betraying their substance at every important point."<ref>MacIntyre, ''Herbert Marcuse'' (1970), p.2 ("false" quote); pp. 18-19 ("pre-Marxist"); re Left Hegelians: cf. pp. 19, 41, 58, 67, 72, 106; not a Marxist: p.64; advanced industrial societies, pp. 69-82, 76 (art, language, libido, welfare, work; Nazi Germany and Nixon's America), 78-79; p.106 ("invokes" quote).</ref>
+
+One of Marcuse's critics claims that he succumbed to pessimism and abandoned the working class as a radical subject. Marcuse felt that societal reform may be found among the outcast of society.<ref name=":0" /> Thus he supported movement such as the Feminist movement. Furthermore, Marcuse's critical theory has a particular flaw that feminists like [[Jessica Benjamin]] and [[Nancy Chodorow]] have pointed out. They believed that Marcuse's reliance on Freud's drive theory as the source of the desire for societal change is inadequate for both philosophers since he fails to account for the individual's intersubjective growth.<ref name=":0" />
+
+==Legacy==
+Herbert Marcuse appealed to students of the New Left through his emphasis on the power of critical thought and his vision of total human emancipation and a non-repressive civilization. He supported students he felt were subject to the pressures of a commodifying system, and has been regarded as an inspirational intellectual leader.<ref name="Stuart Sim 1997"/> He is also considered among the most influential of the Frankfurt School critical theorists on American culture, due to his studies on student and counter-cultural movements on the 1960s.<ref>Mann, Douglas. A Survey of Modern Social Theory. Oxford University Press. 2008.</ref> The legacy of the 1960s, of which Marcuse was a vital part, lives on, and the [[great refusal]] is still practiced by oppositional groups and individuals. <ref name="Stuart Sim 1997"/>
+
+== Famous Quotes ==
+
+* "Art cannot change the world, but it can contribute to changing the consciousness and drives of the men and women who could change the world."- Herbert Marcuse<ref>{{Cite web|title=Herbert Marcuse Quote|url=https://www.azquotes.com/quote/652715|access-date=2021-10-23|website=A-Z Quotes}}</ref>
+* "The so-called consumer society and the politics of corporate capitalism have created a second nature of man which ties him libidinally and aggressively to the commodity form. The need for possessing, consuming, handling and constantly renewing the gadgets, devices, instruments, engines, offered to and imposed upon the people, for using these wares even at the danger of one’s own destruction, has become a “biological” need." - Herbert Marcuse<ref>{{Cite web|title=Herbert Marcuse Quote|url=https://www.azquotes.com/quote/351425|access-date=2021-10-23|website=A-Z Quotes}}</ref>
+* "One-dimensional thought is systematically promoted by the makers of politics and their purveyors of mass information. Their universe of discourse is populated by self-validating hypotheses which, incessantly and monopolistically repeated, become hyponotic definitions of dictations." - Herbert Marcuse<ref>{{Cite web|title=Herbert Marcuse Quote|url=https://www.azquotes.com/quote/652710|access-date=2021-10-23|website=A-Z Quotes}}</ref>
+
+==Bibliography==
+;Books
+* ''Hegel's Ontology and the Theory of Historicity'' (1932), originally written in German,<ref>''Hegels Ontologie und die Grundlegung einer Theorie der Geschichtlichkeit'' (Frankfurt 1932).</ref> in English 1987.<ref>Translated and introduced by [[Seyla Benhabib]], published by MIT Press 1987.</ref>
+* ''Studie über Autorität und Familie'' (1936) in German, republished 1987, 2005. Marcuse wrote just over 100 pages in this 900-page study.
+* ''[[Reason and Revolution|Reason and Revolution: Hegel and the Rise of Social Theory]]'' (1941) {{ISBN|978-1-57392-718-5}}
+* ''[[Eros and Civilization|Eros and Civilization: A Philosophical Inquiry into Freud]]'' (1955) {{ISBN|978-0-415-18663-6}}
+* ''[[Soviet Marxism: A Critical Analysis]]'' (1958)<ref>The Vintage 1961 reprint "inexplicably" (Kellner, p. xi,n8) omits Marcuse's 13-page "Introduction" in the 1958 original issue by Columbia University, whose complete 1985 edition contains a new 11-page "Introduction" by Douglas Kellner, yet this edition omits Marcuse's 12-page "Preface to the Vintage Edition" of 1961.</ref>
+* ''[[One-Dimensional Man|One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society]]'' (1964)
+* ''[[A Critique of Pure Tolerance]]'' (1965) Essay "Repressive Tolerance," with additional essays by Robert Paul Wolff and Barrington Moore Jr.
+* ''Negations: Essays in Critical Theory'' (1968)
+* ''[[An Essay on Liberation]]'' (1969)
+* ''Five Lectures'' (1969)
+* ''[[Counterrevolution and Revolt]]'' (1972) {{ISBN|978-0-8070-1533-9}}
+* ''[[The Aesthetic Dimension|The Aesthetic Dimension: Toward a Critique of Marxist Aesthetics]]'' (1978) {{ISBN|978-0-8070-1519-3}}
+
+;Essays
+* Neue Quellen zur Grundlegung des Historischen Materialismus (1932)<ref>Marcuse's review of 1844 writings by Karl Marx, which were later translated as ''Economic and Philosophical Manuscripts''.</ref><ref>Marcuse's review was translated by Joris de Bres in 1972 as "The foundation of historical materialism", and included at pp. 1-48 in Marcuse, ''From Luther to Popper'' (London: New Left Books 1972, London: Verso 1983).</ref><ref>Karl Marx, ''Early Writings'' (New York: Vintage 1975), pp. 279-400: "Economic and Philosophical Manuscripts (1844)".</ref>
+* Repressive Tolerance (1965)<ref name="marcuse.org"/>
+* Liberation (1969)<ref>{{cite web |url=http://www.marcuse.org/herbert/pubs/60spubs/67dialecticlib/69revessaylib02Samson.htm |title=Book Review: Herbert Marcuse's An Essay on Liberation Herbert Marcuse's An Essay on Liberation |publisher=Marcuse.org |access-date=2013-09-06 |archive-date=2012-11-01 |archive-url=https://web.archive.org/web/20121101025706/http://www.marcuse.org/herbert/pubs/60spubs/67dialecticlib/69revessaylib02Samson.htm |url-status=live}}</ref>
+* On the Problem of the Dialectic (1976)
+* Protosocialism and Late Capitalism: Toward a Theoretical Synthesis Based on Bahro's Analysis (1980)
+
+==See also==
+* ''[[After Marcuse]]''
+* [[Freudo-Marxism]]
+*[[Frankfurt School]]
+*[[Marxism]]
+*[[Socialism]]
+*[[German literature]]
+*[[Critical theory]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+;Herbert Marcuse
+* John Abromeit and W. Mark Cobb, eds. (2004), ''Herbert Marcuse: A Critical Reader'', New York, London: Routledge.
+* [[Andrew Feenberg]] and William Leiss (2007), ''The Essential Marcuse: Selected Writings of Philosopher and Social Critic Herbert Marcuse'', Boston: Beacon Press.
+* ''Technology, War and Fascism. Collected papers of Herbert Marcuse, volume 1''. (London: Routledge 1998)
+;Criticism and analysis
+* C. Fred Alford (1985), ''Science and Revenge of Nature: Marcuse and Habermas'', Gainesville: University of Florida Press.
+* Harold Bleich (1977), ''The Philosophy of Herbert Marcuse'', Washington: University Press of America.
+* Paul Breines (1970), ''Critical Interruptions: New Left Perspectives on Herbert Marcuse'', New York: Herder and Herder.
+* [[Douglas Kellner]] (1984), ''Herbert Marcuse and the Crisis of Marxism''. London: Macmillan. {{ISBN|978-0-520-05295-6}}.
+* Paul Mattick (1972), ''Critique of Marcuse: One-dimensional man in class society'' Merlin Press
+* Alain Martineau (1986). Herbert Marcuse's Utopia, Harvest House, Montreal.
+* [[Alasdair MacIntyre]] (1970), ''Herbert Marcuse. An exposition and a polemic'', Viking, New York
+* [[Eliseo Vivas]] (1971), ''Contra Marcuse'', Arlington House, New Rochelle. {{ISBN|0-87000-112-4}}
+*Andrew T. Lamas, Todd Wolfson, and Peter N. Funke, editors (2017), ''[http://tupress.temple.edu/book/20000000008408 The Great Refusal: Herbert Marcuse and Contemporary Social Movements]''. Philadelphia: Temple University Press, 2017.
+*Raffaele Laudani, editor (2013), ''Secret Reports on Nazi Germany. The Frankfurt School Contribution to the War Effort by Franz Neumann, Herbert Marcuse & Otto Kirchheimer''. Princeton University Press.
+*[[Kurt H. Wolff]] and [[Barrington Moore, Jr.]], editors (1967), ''The Critical Spirit. Essays in honor of Herbert Marcuse''. Beacon Press, Boston.
+* J. Michael Tilley (2011). "Herbert Marcuse: Social Critique, Haecker and Kierkegaardian Individualism" in ''Kierkegaard's Influence on Social-Political Thought'' edited by Jon Stewart.
+;General
+* Anthony Elliott and Larry Ray (2003), Key Contemporary Social Theorists.
+* [[Charles Lemert]] (2010), Social Theory: the Multicultural and Classic Readings.
+* Douglas Mann (2008), A Survey of Modern Social Theory.
+* Noel Parker and Stuart Sim (1997),  A-Z Guide to Modern Social and Political Theorist
+*"Herbert Marcuse | American philosopher". ''Encyclopedia Britannica''. Retrieved 2021-10-23
+
+==External links==
+{{wikiquote}}
+{{Commons|Herbert Marcuse}}
+* [http://www.marcuse.org/herbert/index.html Comprehensive 'Official' Herbert Marcuse Website], by one of Marcuse's grandsons, with full bibliographies of primary and secondary works, and full texts of many important works
+* [http://www.marcusesociety.org International Herbert Marcuse Society website]
+* [http://www.marxists.org/reference/archive/marcuse/index.htm "Herbert Marcuse (on-line) Archive"] at the [[Marxists Internet Archive]]
+* [http://cartoon.iguw.tuwien.ac.at/christian/marcuse/welcome.html Herbert Marcuse Archive], by Herbert Marcuse Association
+* {{webarchive |url=https://web.archive.org/web/20041210031755/http://www.worldsocialism.org/wsm-pages/marcuse.html |date=December 10, 2004 |title="Marcuse: professor behind 1960s rebellion"}} from worldsocialism.org
+* [https://web.archive.org/web/20050302050244/http://www.gseis.ucla.edu/faculty/kellner/Illumina%20Folder/marc.htm "Illuminations: The Critical Theory Project"] (detailed biography and essays, by [[Douglas Kellner]]).
+* [[Douglas Kellner]], [http://pages.gseis.ucla.edu/faculty/kellner/essays/herbertmarcuse.pdf "Herbert Marcuse"]
+* [[Bernard Stiegler]], [http://www.arsindustrialis.org/node/2928 "Spirit, Capitalism, and Superego"]
+* [http://aprillins.com/biografi-herbert-marcuse-teori-kritis "Herbert Marcuse Biography Indonesian"] at aprillins.com
+* [[Joxe Azurmendi|Azurmendi, J.]] 1969: [http://www.jakingunea.com/aldizkaria/artikulua/pentsalaria-eta-eragina/973 Pentsalaria eta eragina] ''[[Jakin (magazine)|Jakin]]'', 35: 3–16.
+* [https://www.marxists.org/archive/widgery/1979/09/marcuse.htm Goodbye Comrade M] obituary of Marcuse by [[David Widgery]], ''Socialist Review'' (September 1979).
+
+{{Critical theory}}
+{{continental philosophy}}
+{{Social and political philosophy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Marcuse, Herbert}}
+[[Category:1898 births]]
+[[Category:1979 deaths]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:20th-century German philosophers]]
+[[Category:20th-century German writers]]
+[[Category:American anti-capitalists]]
+[[Category:American anti-fascists]]
+[[Category:American male non-fiction writers]]
+[[Category:American Marxists]]
+[[Category:American sociologists]]
+[[Category:Anti-consumerists]]
+[[Category:Anti-Stalinist left]]
+[[Category:Brandeis University faculty]]
+[[Category:Burials at the Dorotheenstadt Cemetery]]
+[[Category:Columbia University faculty]]
+[[Category:Communication scholars]]
+[[Category:Critics of work and the work ethic]]
+[[Category:Frankfurt School]]
+[[Category:German anti-fascists]]
+[[Category:German communists]]
+[[Category:German male writers]]
+[[Category:German Marxists]]
+[[Category:German socialists]]
+[[Category:German sociologists]]
+[[Category:Jewish American social scientists]]
+[[Category:Jewish anti-fascists]]
+[[Category:Jewish emigrants from Nazi Germany to the United States]]
+[[Category:Jewish philosophers]]
+[[Category:Jewish sociologists]]
+[[Category:Left-libertarians]]
+[[Category:Libertarian socialists]]
+[[Category:Marxist humanists]]
+[[Category:Marxist theorists]]
+[[Category:New Left]]
+[[Category:People from the Province of Brandenburg]]
+[[Category:People of the Office of Strategic Services]]
+[[Category:People of the United States Office of War Information]]
+[[Category:Philosophers of technology]]
+[[Category:Revolution theorists]]
+[[Category:Social critics]]
+[[Category:University of California, San Diego faculty]]
+[[Category:University of Freiburg alumni]]
+[[Category:Writers from Berlin]]

@@ -1,0 +1,49 @@
+{{Infobox scholar
+| name        = Kazuo Yamaguchi
+| image       =
+| image_size  =
+| caption     = 
+| birth_date  = {{Birth date and age|1946|08|06|df=y}}
+| birth_place = [[Tokyo]], [[Japan]]
+| death_date  =
+| death_place =
+}}
+
+{{nihongo|'''Kazuo Yamaguchi'''|山口一男|Yamaguchi Kazuo|extra=born August 6, 1946}} is a [[Japan]]ese sociologist and is the Hanna Holborn Gray Professor of [[sociology]] at [[the University of Chicago]].<ref name=CV>{{cite web | last1= Yamaguchi | first1= Kazuo | title= CV: Kazuo Yamaguchi | url= http://home.uchicago.edu/~kyamagu/CV/VITAWRD.pdf | website= The University of Chicago | access-date= 4 January 2015}}</ref>
+
+== Selected bibliography ==
+
+=== Books ===
+* {{cite book | last = Yamaguchi | first = Kazuo | title = Event history analysis | publisher = Sage Publications | location = [[Newbury Park, California]] | year = 1991 | isbn = 9780803933248 | url-access = registration | url = https://archive.org/details/eventhistoryanal0000yama }}
+
+=== Journal article ===
+* {{Cite journal | last = Yamaguchi | first = Kazuo | title = Married women's gender-role attitudes and social stratification: commonalities and differences between Japan and the United States | journal = International Journal of Sociology | volume = 30 | issue = 2 | pages = 52–89 | date = Summer 2000| doi = 10.1080/15579336.2000.11770215 | jstor = 20628591 | s2cid = 141134485 }}
+* {{cite journal | last = Yamaguchi | first = Kazuo | title = Multinomial logit latent‐class regression models: an analysis of the predictors of gender role attitudes among Japanese women | journal= [[American Journal of Sociology]] | date = May 2000 | volume = 105 | issue = 6 | pages = 1702–1740 | doi = 10.1086/210470 | s2cid = 144752407 }}
+
+=== Papers ===
+* {{cite book | last = Yamaguchi | first = Kazuo | title = Disappearing minority: women's permanent labor-force nonparticipation in Japan and the determinants of its historical change | publisher = Population Research Center, NORC and the University of Chicago | location = Chicago Illinois | year = 1996 | oclc = 37037000 }}
+
+== Honours ==
+*[[Person of Cultural Merit]] (2020)
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [http://home.uchicago.edu/~kyamagu/ Profile Page: Kazuo Yamaguchi] The University of Chicago
+* [http://home.uchicago.edu/~kyamagu/CV/VITAWRD.pdf CV]
+
+{{Subject bar|portal1=Biography|portal2=Society|portal3=Japan}}
+{{Authority control}}
+
+{{DEFAULTSORT:Yamaguchi, Kazuo}}
+[[Category:Japanese sociologists]]
+[[Category:University of Chicago alumni]]
+[[Category:University of Chicago faculty]]
+[[Category:Columbia University faculty]]
+[[Category:1946 births]]
+[[Category:Living people]]
+[[Category:Persons of Cultural Merit]]
+
+
+{{Asia-sociologist-stub}}

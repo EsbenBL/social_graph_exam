@@ -1,0 +1,79 @@
+{{short description|British social scientist|bot=PearBOT 5}}
+{{Multiple issues|
+{{COI|date=July 2016}}
+{{BLP sources|date=February 2014}}
+}}
+
+{{Infobox scientist
+| name = Peter Abell
+| image = PeterAbell2014.jpg
+| image_size = 220
+| caption = Professor Peter Abell
+| birth_date = 1939
+| birth_place = [[London]], [[United Kingdom]]
+| nationality = British
+| field = [[Social science|Social scientist]]
+| death_date  = 
+| death_place = 
+| spouse      =
+| parents     = 
+| children    =
+| occupation = Professor in the Management and Economic Strategy group within the department of Management at [[London School of Economics]]
+|work_institution = {{unbulleted list| London School of Economics | [[Copenhagen Business School]] | [[Nuffield College, Oxford]] | [[University of Essex]] | [[Imperial College of Science and Technology]] | [[University of Surrey]] | [[University of Birmingham]]}}
+|alma_mater = [[University of Leeds]]
+|known_for = 
+}}
+
+'''Peter Abell''' (born 1939) is a British [[social scientist]], currently professor emeritus at the [[London School of Economics]] where he has founded and directed the "Interdisciplinary Institute of Management".<ref>{{cite web|url=http://www.lse.ac.uk/management/documents/cv/PAbell-CV-Jan-2011.pdf|title=Peter Abell's CV 2011|publisher=[[London School of Economics]]|access-date=25 February 2014}}</ref> He has been teaching for many years at LSE's Department of Management,<ref>{{Cite web|url=https://www.lse.ac.uk/management/people/emeriti-visiting-staff/pabell.aspx|title=Professor Peter Abell|last=Science|first=London School of Economics and Political|website=London School of Economics and Political Science|language=en-GB|access-date=2020-02-10}}</ref> managerial economics and strategy group.
+
+==Work==
+He is known for his contribution to mathematical social science, both quantitative and qualitative. He is the author of several books on methodology and individual participation and co-operation<ref>{{cite web|url=http://www.european-academy-sociology.eu/fellows/abell.html|title=European Academy of Sociology - Fellows|publisher=[[European Academy of Sociology]]|access-date=19 February 2014}}</ref> and currently focuses on an approach he coined [[Narrative#Mathematical sociology approach|''Bayesian narratives'']] and on [[Social network|network analysis]] particularly the role of [[Balance theory|signed structures]]  in group formation and identity change.
+
+==Political activism==
+During the 1960s Abell was involved in demonstrations organised by the [[Committee of 100 (United Kingdom)|Committee of 100]] in [[Trafalgar Square]]<ref>{{cite press release
+ | title = Leeds students arrested after sit-down demonstrations
+ | publisher = Union News - The Weekly Newspaper of [[Leeds University Union]]
+ | date = September 29, 1961
+ | url = http://digital.library.leeds.ac.uk/5555/1/LUA-PUB-002-UN-100_000.pdf
+ | access-date = February 25, 2014}}</ref> and advocated for [[civil disobedience]] and [[Campaign for Nuclear Disarmament|nuclear disarmament]].<ref>{{cite press release
+ | title = Letters - The Head and the Heart
+ | publisher = Union News - [[Leeds University Union]]
+ | date = October 13, 1961
+ | url = http://digital.library.leeds.ac.uk/5373/1/LUA-PUB-002-UN-102_000.pdf
+ | access-date = February 25, 2014}}</ref>
+
+==Selected publications==
+;Books
+* {{Cite book | last = Abell | first = Peter | title = Model building in sociology (basic ideas in the human sciences) | publisher = Weidenfeld and Nicolson | location = London | oclc = 610200189 | year = 1971 }}
+* {{Cite book | editor-last = Abell | editor-first = Peter | title = Organizations as bargaining and influence systems | oclc = 464079399 | year = 1975 }}
+* {{cite book | last = Abell | first = Peter | title = The syntax of social life: the theory and method of comparative narratives | publisher = Clarendon Press | location = Oxford Oxfordshire New York | year = 1987 | isbn = 9780198272717 | url-access = registration | url = https://archive.org/details/syntaxofsocialli0000abel }}
+* {{cite book | last = Abell | first = Peter | title = Establishing support systems for industrial co-operatives: case studies from the Third World | publisher = Avebury Gower Pub. Co | location = Aldershot, Hants, England Brookfield, Vt., U.S.A | year = 1988 | isbn = 9780566054754 }}
+* {{cite book | last = Abell | first = Peter| title = Organisation theory: an interdisciplinary approach  | publisher = [[University of London|University of London Press]] | oclc = 903146201 | year = 2006 }}
+
+;Book chapters
+* {{citation | last = Abell | first = Peter | contribution = Singular Mechanisms and Bayesian Narratives | editor-last = Demeulenaere | editor-first = Pierre | title = Analytical sociology and social mechanisms | pages = 121–135 | publisher = [[Cambridge University Press]] | location = Leiden | year = 2011 | isbn = 9781139082617 | postscript = .}}
+
+;Journal articles
+* {{Cite journal | last = Abell | first = Peter | title = Some aspects of narrative method | journal = Journal of Mathematical Sociology | volume = 18 | issue = 2–3 | pages = 93–134 | publisher = [[Taylor and Francis]] | doi = 10.1080/0022250X.1993.9990119 | date = 1993 }}
+* {{Cite journal | last = Abell | first = Peter | title = On the prospects of a unified social science | journal = [[Socio-Economic Review]] | volume = 1 | issue = 1 | pages = 1–26 | publisher = [[Oxford University Press|Oxford Journals]] | doi = 10.1093/soceco/1.1.1 | date = January 2003 | url = http://ddd.uab.cat/record/13863 }}
+* {{Cite journal | last = Abell | first = Peter | title = Narrative explanation: an alternative to variable-centered explanation? | journal = [[Annual Review of Sociology]] | volume = 30 | pages = 287–310 | publisher = [[Annual Reviews (publisher)|Annual Reviews]] | doi = 10.1146/annurev.soc.29.010202.100113 | jstor = 29737695 | date = 2004 }}
+* {{Cite journal | last = Abell | first = Peter | title = Narratives, Bayesian narratives and narrative actions | journal = Sociologica | volume = 1 | issue = 3 | publisher = Società editrice il Mulino | doi = 10.2383/25959 | date = 2007 }}
+* {{Cite journal | last = Abell | first = Peter | title = Review: Are reasons explanations?: ''Why? What Happens When People Give Reasons... and Why'' by Charles Tilly | journal = [[Contemporary Sociology]] | volume = 36 | issue = 6 | pages = 532–534 | publisher = [[SAGE Publications|Sage]] | doi = 10.1177/009430610703600608 | jstor = 20443961 | date = November 2007 | s2cid = 143899770 }}
+* {{Cite journal | last = Abell | first = Peter | title = A case for cases: comparative narratives in sociological explanation | journal = [[Sociological Methods & Research]] | volume = 38 | issue = 1 | pages = 38–70 | publisher = [[SAGE Publications|Sage]] | doi = 10.1177/0049124109339372 | date = August 2009 | s2cid = 119501003 }}
+
+==References==
+{{reflist|}}
+
+==External links==
+*[http://www.lse.ac.uk/researchAndExpertise/Experts/profile.aspx?KeyValue=p.abell%40lse.ac.uk London School of Economics Staff Profile Peter Abell]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Abell, Peter}}
+[[Category:1939 births]]
+[[Category:Living people]]
+[[Category:English sociologists]]
+[[Category:Academics of the London School of Economics]]
+[[Category:Alumni of the University of Leeds]]
+
+{{UK-academic-bio-stub}}

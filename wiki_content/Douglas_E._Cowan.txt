@@ -1,0 +1,92 @@
+{{multiple issues|
+{{BLP sources|date=February 2015}}
+{{third-party|date=February 2015}}
+{{notability|academics|date=December 2017}}
+}}
+{{Infobox person
+| honorific_prefix   = [[The Reverend]]
+| name               = Douglas E. Cowan
+| image              = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| birth_name         = Douglas Edward Cowan
+| birth_date         = {{birth date and age|1958|08|14|df=yes}}
+| birth_place        = Canada
+| death_date         = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (enter DEATH date then BIRTH date (e.g., ...|1908|31|8|1967|28|2}} use both this parameter and |birth_date to display the person's date of birth, date of death, and age at death) -->
+| death_place        = 
+| home_town          = 
+| spouse             = <!-- Use article title or common name -->
+| partner            = <!-- (unmarried long-term partner) -->
+| website            = {{official URL}}
+| module             = {{Infobox clergy |child=yes
+| religion           = Christianity
+| church             = [[United Church of Canada]]
+| ordained           = 
+| congregations      = 
+| offices_held       = 
+}}
+| module2            = {{Infobox academic |child=yes
+| alma_mater         = {{ubl | [[University of Victoria]] | {{nowrap|[[St. Andrews Theological College]]}} | [[University of Calgary]]}}
+| thesis_title       = "Bearing False Witness"<ref>{{cite thesis |last=Cowan |first=Douglas Edward |year=1999 |title='Bearing False Witness': Propaganda, Reality-maintenance, and Christian Anticult Apologetics |url=http://www.nlc-bnc.ca/obj/s4/f2/dsk1/tape10/PQDD_0015/NQ38462.pdf |degree=PhD |location=Calgary, Alberta |publisher=University of Calgary |isbn=978-0-612-38462-0 |access-date=7 April 2020}}</ref>
+| thesis_year        = 1999
+| school_tradition   = 
+| doctoral_advisor   = [[Irving Hexham]]
+| academic_advisors  = 
+| influences         = <!--must be referenced from a third-party source-->
+| era                = 
+| discipline         = {{hlist | [[Religious studies]] | [[sociology]]}}
+| sub_discipline     = [[Sociology of religion]]
+| workplaces         = {{ubl | [[University of Missouri–Kansas City]] | [[University of Waterloo]]}}
+| doctoral_students  = <!--only those with WP articles-->
+| notable_students   = <!--only those with WP articles-->
+| main_interests     = {{hlist | [[New religious movement]]s | [[religion]] and [[popular culture]]}}
+| notable_works      = 
+| notable_ideas      = 
+| influenced         = <!--must be referenced from a third-party source-->
+}}
+| signature          = 
+| signature_alt      = 
+}}
+'''Douglas Edward Cowan''' (born 14 August 1958) is a Canadian academic in [[religious studies]] and the [[sociology of religion]] and currently holds a teaching position at [[Renison University College]], [[University of Waterloo]], [[Ontario]], Canada.<ref>{{cite web|last1=Cowan|first1=Douglas E.|title=Staff Page|url=https://artsweb.uwaterloo.ca/~decowan/|publisher=University of Waterloo|accessdate=21 February 2015}}</ref> Prior to this appointment he was Assistant Professor of Sociology & Religious Studies at the [[University of Missouri–Kansas City]].<ref name=cv2012>{{cite web|last1=Cowan|first1=Douglas E.|title=curriculum vitae|url=http://c.web.umkc.edu/cowande/cv1104.pdf|archiveurl=https://web.archive.org/web/20120426124117/http://c.web.umkc.edu/cowande/cv1104.pdf|archivedate=26 April 2012}}</ref>
+
+==Education and career==
+Cowan was born in Canada and received his undergraduate education at the [[University of Victoria]] where he was awarded a [[Bachelor of Arts]] degree in English literature. He then proceeded to theological studies and received a [[Master of Divinity]] degree from [[St. Andrews Theological College]]. His doctoral work, which involved an examination of the [[Christian countercult movement]] through the prism of the [[sociology of knowledge]] and [[propaganda]] theory, was undertaken through the [[University of Calgary]].<ref name="cv2012"/>
+
+While Cowan currently describes himself as a [[methodological agnostic]],{{citation needed|date=February 2015}} he was ordained to the Christian ministry in the [[United Church of Canada]], and held pastoral positions during his doctoral studies.{{citation needed|date=February 2015}} After graduating with a [[Doctor of Philosophy]] degree in 1999 Cowan received a joint appointment in the Department of Sociology/CJC and the UMKC Center for Religious Studies.<ref name="cv2012"/> During 2005 he relocated from the US to his current teaching post at the University of Waterloo in Ontario, Canada.
+
+==Bibliography==
+*{{cite book|last1=Cowan|first1=Douglas E.|title=Cyberhenge: Modern Pagans on the Internet|date=18 November 2004|publisher=Routledge|location=New York|isbn=978-0415969116}}
+*{{cite book|last1=Cowan|first1=Douglas E.|last2=Bromley|first2=David G.|title=Cults and New Religions: A Brief History|date=24 September 2007|publisher=Blackwell|location=Oxford|isbn=978-1405161282}}
+*{{cite book|last1=Cowan|first1=Douglas E.|title=The Remnant Spirit: Conservative Reform in Mainline Protestantism|date=30 November 2003|publisher=Praeger|location=Westport, Conn. [u.a.]|isbn=978-0275974497}}
+*{{cite book|last1=Cowan|first1=Douglas E.|title=Bearing False Witness? An Introduction to the Christian Countercult|date=30 May 2003|publisher=Praeger|location=Westport, Conn. [u.a.]|isbn=978-0275974596}}
+*{{cite book|editor1-last=Dawson|editor1-first=Lorne L.|editor2-last=Cowan|editor2-first=Douglas E.|title=Religion Online: Finding Faith on the Internet|date=22 July 2004|publisher=Routledge|location=New York|isbn=978-0415970228}}
+*{{cite book|last1=Haddon|first1=Jeffrey K.|editor1-last=Cowan|editor1-first=Douglas E.|title=Religion on the Internet: Research Prospects and Promises|date=1 November 2000|publisher=JAI|location=Amsterdam [u.a.]|isbn=978-0762305353|edition=1st}}
+*{{cite book|last1=Cowan|first1=Douglas E.|title=Sacred Terror: Religion and Horror on the Silver Screen|date=1 October 2008|publisher=Baylor University Press|location=Waco, Tex.|isbn=978-1602580183}}
+*Cowan, Douglas E. (2007). "Episode 712: South Park, Ridicule, and the Cultural Construction of Religious Rivalry". ''Journal of Religion and Popular Culture''. '''17'''. {{ISSN|1703-289X}}.
+
+==See also==
+{{Portal|Biography|Religion}}
+* [[Anti-cult movement]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website}}
+{{authority control}}
+
+{{DEFAULTSORT:Cowan, Douglas E.}}
+[[Category:1958 births]]
+[[Category:Canadian sociologists]]
+[[Category:Living people]]
+[[Category:Ministers of the United Church of Canada]]
+[[Category:People of the Christian countercult movement]]
+[[Category:Researchers of new religious movements and cults]]
+[[Category:Sociologists of religion]]
+[[Category:University of Calgary alumni]]
+[[Category:University of Missouri–Kansas City faculty]]
+[[Category:University of Victoria alumni]]
+[[Category:University of Waterloo faculty]]
+
+
+{{Canada-sociologist-stub}}

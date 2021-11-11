@@ -1,0 +1,57 @@
+{{for|the violinist|Arnold Rosé}}
+{{Infobox scientist
+| name        = Arnold Marshall Rose 
+| image       =   <!--(filename only, i.e. without "File:" prefix)-->
+| alt         = 
+| caption     = 
+| birth_date  = {{birth date|1918|7|2|mf=y}}
+| birth_place = [[Chicago, Illinois]]
+| death_date  = {{death date and age |1968|1|2|1918|7|2}}
+| death_place = [[Minneapolis, Minnesota]]
+| fields      = Sociology
+| workplaces  = [[University of Minnesota]]
+| education   = 
+| alma_mater  = 
+| thesis_title =  <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url  =   <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year =   <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for   = 
+}}
+
+'''Arnold Marshall Rose''' (July 2, 1918 – January 2, 1968) was an American sociologist and politician. He was elected to the [[Minnesota Legislature]] and to the presidency of the [[American Sociological Association]] (ASA). He held faculty appointments at [[Bennington College]], [[Washington University]] and the [[University of Minnesota]]. He had a special interest in the study of race relations.
+
+==Biography==
+Born in Chicago in 1918, Rose earned several degrees from the [[University of Chicago]], including undergraduate degrees in sociology and economics, then master's and doctoral degrees in sociology.<ref name="ASA" /> He served in [[World War II]] in the [[Mediterranean Theater of Operations|Mediterranean Theater]].<ref name="MLRL" />
+
+As a young man, he assisted [[Gunnar Myrdal]] on ''An American Dilemma: The Negro Problem and Modern Democracy''. He worked at the University of Minnesota from 1949 until his death. He also wrote ''The Negro in America'' and ''The Power Struggle''.<ref name="Papers" /> Studying the issue of race relations, Rose found that racism presented four problems. It limited a society's access to talent and leadership, aggravated social issues like poverty, cost a society money and time to defend, and damaged goodwill between nations.<ref name="Brief" /> He spent stints as a [[Fulbright Program|Fulbright Professor]] at the [[University of Paris]] and the [[Sapienza University of Rome|University of Rome]] in the 1950s.<ref name="MLRL" />
+
+Rose was elected to a seat in the [[Minnesota Legislature]] in 1962. He did not seek another term because he had been diagnosed with cancer by 1966.<ref name="Papers" /> Rose married sociologist and professor Caroline Baer in 1943.<ref name="Papers" /> He died in January 1968, shortly after being elected president of the ASA but before beginning his term of office. The organization chose to recognize him as one of its presidents.<ref name="ASA" />
+
+==References==
+{{reflist|refs=
+<ref name="ASA">{{cite web|title=Arnold Marshall Rose |url=http://www2.asanet.org/governance/rose.html |publisher=[[American Sociological Association]] |accessdate=November 10, 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20141110141155/http://www2.asanet.org/governance/rose.html |archivedate=November 10, 2014}}</ref>
+<ref name="Brief">{{cite book|last1=Schaefer|first1=Richard T.|title=Sociology: A Brief Introduction (10th ed.)|date=2012|publisher=McGraw Hill|page=238|url=https://books.google.com/books?id=coPgBAAAQBAJ&pg=PA238|accessdate=November 10, 2014}}</ref>
+<ref name="MLRL">{{cite web|title=Rose, Arnold M.|url=http://www.leg.state.mn.us/legdb/fulldetail.aspx?ID=14576|publisher=Minnesota Legislative Reference Library|accessdate=November 10, 2014}}</ref>
+<ref name="Papers">{{cite web|title=Arnold Marshall Rose Papers, 1935–1968|url=http://special.lib.umn.edu/findaid/xml/uarc00381.xml|publisher=[[University of Minnesota]]|accessdate=November 10, 2014}}</ref>
+}}
+
+{{American Sociological Association presidents|state=uncollapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rose, Arnold Marshall}}
+[[Category:1918 births]]
+[[Category:1968 deaths]]
+[[Category:American sociologists]]
+[[Category:Presidents of the American Sociological Association]]
+[[Category:Members of the Minnesota House of Representatives]]
+[[Category:Deaths from cancer in Minnesota]]
+[[Category:Bennington College faculty]]
+[[Category:Washington University in St. Louis faculty]]
+[[Category:University of Minnesota faculty]]
+[[Category:University of Chicago alumni]]
+[[Category:20th-century American politicians]]

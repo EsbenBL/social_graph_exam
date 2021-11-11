@@ -1,0 +1,204 @@
+{{Infobox person
+| pre-nominals       = 
+| name               = Susan Myra Kingsbury
+| post-nominals      = 
+| image              = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| image_upright      = 
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| native_name        =  
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name         = <!-- only use if different from name -->
+| birth_date         = {{Birth date|1870|10|18}}<ref name=Leonard1914/>
+| birth_place        = [[San Pablo, California]]
+| death_date         = {{death date and age|1949|11|28|1870|10|18}}
+| death_place        = 
+| death_cause        = 
+| resting_place      = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place       = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| nationality        = United States
+| education          = A.B., A.M., Ph.D.
+| alma_mater         = [[College of the Pacific]]<br>[[Stanford University]]<br>[[Columbia University]]
+| occupation         = 
+| known_for          = 
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| spouse             = <!-- Use article title or common name -->
+| partner            = <!-- (unmarried long-term partner) -->
+| children           = 
+| parents            = William Belmont Kingsbury, M.D.<br>Helen Shuler DeLamater
+}}
+
+'''Susan Myra Kingsbury''' (October 18, 1870 – November 28, 1949) was an American professor of economics and a pioneer of social research.
+
+==Biography==
+Susan was born in [[San Pablo, California]] in 1870, the daughter of Willard Belmont Kingsbury, M.D., and Helen Shuler née DeLamater,<ref name=Leonard1914/> and was raised in [[Stockton, California]].<ref name=Ohles1997/> Her father died when she was six, leaving Helen to raise Susan and her brother. Helen was dean of women at the [[College of the Pacific]], where Susan would matriculate then graduate with honors in 1890.<ref name=Dzuback1993/> From 1892–1900 she was a history teacher at [[Lowell High School (San Francisco)|Lowell High School]] in [[San Francisco]], while tending to her ailing mother.<ref name=Dzuback1993/> She graduated with an A.M. in sociology from [[Stanford University]] in 1899, [[Phi Beta Kappa]].<ref name=Leonard1914/>
+
+Following the death of her mother, she moved to New York to study colonial economic history at [[Columbia University]]. In 1904, she taught history for a year at [[Vassar College]].<ref name=Vassar1920/> She graduated from Columbia with a Ph.D. in 1905,<ref name=Leonard1914/> with a dissertation titled ''An Introduction to the Records of the Virginian Company of London.'' During her stay in London (1903–04),<ref name=Marchione2013/> her readings inspired a personal interest in social reform.<ref name=Dzuback1993/> In 1906 she published the first of what would become a four volume set titled ''Records of the Virginian Company of London'', with the final volume being completed in 1933.<ref name=Diaz2017/>
+
+Kingsbury became director of investigation for the Massachusetts Commission on Industrial and Technical Education<ref name=Dzuback1993/> for a year beginning in 1905. The next year she accepted a position as instructor in history and economics at [[Simmons University]], becoming head of the department. She gained the rank of associate professor in 1907.<ref name=Leonard1914/> The same year she was also named director of research for the ''Women's Educational and Industrial Union'' in Boston. She served as president of the New England History Teachers Association in 1911.<ref name=Leonard1914/> From 1911–13, she directed a national study of the opportunities for women in social service.<ref name=Marchione2013/>
+
+Her various publications, including ''Labor Laws and Their Enforcement'' (1911) and ''Economic Efficiency of College Women'' (1911) caught the attention of [[Martha Carey Thomas]], president of [[Bryn Mawr College]].<ref name=Dzuback1993/> After listening to an address by Dr. Kingsbury in 1912, Thomas invited her to come to work at the College.<ref name=Ohles1997/> In 1915 Dr. Kingsbury became director of the ''[[Carola Woerishoffer]] Graduate Department of Social Economy and Social Research'' at the college.<ref name=Marchione2013/> This was the first graduate department in the country to train students for careers in social service.<ref name=Ohles1997/>
+
+In 1919, she helped found the American Association of Schools of Social Work in 1919, and served as vice president of the American Economic Association and the American Sociological Society.<ref name=Ohles1997/> She and Thomas founded the Bryn Mawr Summer School for Women Workers in 1921.<ref name=Ohles1997/> Susan was chairman of Pennsylvania's first minimum wage board and for nearly a decade served as chairman for the American Association of University Women Committee on Economic and Legislative Status on Women.<ref name=ssr1950/> During 1921–22 she toured China and India, then the Soviet Union in 1929–30, 1932, and 1936 to research conditions for women and children.<ref name=Thomson2007/> She published her results of the Russia visits as co-author in 1935.<ref name=ssr1950/> She retired as professor emeritus of social economy at Bryn Mawr College in 1936.<ref name=Marchione2013/>
+
+==Bibliography==
+Her published works include:
+{{Div col|small=yes|colwidth=20em}}
+*{{citation | postscript=.
+ | editor1-last=Kingsbury | editor1-first=Susan Myra
+ | title=The records of the Virginia Company of London
+ | volume=1 | publisher=US Government Printing Office | year=1906 }}
+*{{citation | postscript=.
+ | last1=Kingsbury | first1=Susan Myra
+ | title=A comparison of the Virginia company with the other English trading companies of the sixteenth and seventeenth centuries
+ | publisher=American Historical Association | year=1908 }}
+*{{citation | postscript=.
+ | publisher=Women's Educational and Industrial Union
+ | location=Boston, Massachusetts
+ | author1=Department of Research
+ | first2=Agnes Frances | last2=Perkins
+ | first3=Eleanor | last3=Martin
+ | first4=Margaret A. | last4=Post
+ | first5=Susan Myra | last5=Kingsbury
+ | title=Vocations for the trained woman | year=1910 }}
+*{{citation | postscript=.
+ | first1=Susan | last1=Kingsbury
+ | title=Economic Efficiency of College Women
+ | journal=Journal of the Association of Collegiate Alumnae
+ | volume=3 | issue=20 | date=February 1910 | pages=1–11 }}
+*{{citation | postscript=.
+ | title=Labor Laws and Their Enforcement: with Special Reference to Massachusetts
+ | volume=1 | series=Studies in economic relations of women
+ | editor1-first=Susan Myra | editor1-last=Kingsbury | year=1911
+ | publisher=Longmans, Green }}
+*{{citation | postscript=.
+ | title=Licensed workers in industrial home work in Massachusetts : analysis of current records under the auspices of the Bureau of Research, Women's Educational and Industrial Union
+ | first1=Susan M. | last1=Kingsbury | first2=Mabelle | last2=Moses
+ | publisher=Wright & Potter, state printers
+ | location=Boston | year=1915 }}
+*{{citation | postscript=.
+ | last1=Kingsbury | first1=Susan M. | last2=North | first2=Lila Ver Planck
+ | last3=Evans | first3=Ruth | first4=Florence | last4=Murphy
+ | first5=Abigail | last5=Steere | first6=May | last6=Allinson
+ | display-authors=1
+ | title=The boot and shoe industry in Massachusetts as a vocation for women
+ | journal=Bulletin of the United States Bureau of Labor Statistics
+ | series=Women in Industry Series
+ | volume=180 | issue=7 | date=October 1915 | pages=105 }}
+*{{citation | postscript=.
+ | title=Opportunities for Women in Domestic Science
+ | last1=Francke | first1=Marie
+ | others=under the direction of Susan Myra Kingsbury
+ | journal=Monthly Review of the U.S. Bureau of Labor Statistics
+ | volume=4 | issue=4 | date=April 1917 | pages=570–572
+ | jstor=41823374
+ }}
+*{{citation | postscript=.
+ | last1=Kingsbury | first1=Susan Myra | first2=Louise | last2=Moore
+ | first3=Edith | last3=Gray | first4=Core | last4=Parkhurst
+ | first5=May | last5=Allinson | display-authors=1
+ | title=Industrial experience of trade-school girls in Massachusetts
+ | publisher=Women's Educational and Industrial Union
+ | series=Economic Relations of Women
+ | volume=9 | year=1917 }}
+*{{citation | postscript=.
+ | last1=Kingsbury | first1=Susan Myra | last2=Fairchild | first2=Mildred
+ | title=Employment and unemployment in pre-war and Soviet Russia
+ | year=1932 }}
+*{{citation | postscript=.
+ | first1=Susan M. | last1=Kingsbury | first2=Mildred | last2=Fairchild
+ | title=Factory, Family and Women in the Soviet Union
+ | year=1935 | isbn=978-0404574673 | publisher=AMS Press, Inc }}
+*{{citation | postscript=.
+ | last1=Kingsbury | first1=Susan Myra | first2=Hornell | last2=Hart
+ | title=Newspapers and the news: an objective measurement of ethical and unethical behavior by representative newspapers
+ | volume=1 | publisher=GP Putnam's sons | year=1937 }}
+*{{citation | postscript=.
+ | last1=Kingsbury | first1=Susan Myra
+ | title=Economic status of university women in the USA
+ | work=Report of the Committee on Economic and Legal Status of Women, American Association of University Women in cooperation with the Women's Bureau, United States Department of Labor
+ | volume=170 | publisher=US Government Printing Office | year=1939 }}
+*{{citation | postscript=.
+ | last1=Kingsbury | first1=Susan Myra | last2=Frances | first2=Speek
+ | title=Women on governing boards: a cooperative study of women on governing boards and in administrative posts in local, state and national organizations, public and private, composed of both men and women.
+ | series=Branch, State, and National Committees on Economic and Legal Status of Women
+ | publisher=American Association of University Women | year=1942 }}
+{{Div col end}}
+
+==References==
+{{reflist|refs=
+
+<ref name=Leonard1914>{{citation | postscript=.
+ | title=Woman's Who's who of America: A Biographical Dictionary of Contemporary Women of the United States and Canada
+ | volume=1 | series=Gerritsen collection of women's history
+ | editor1-first=John William | editor1-last=Leonard
+ | publisher=American Commonwealth Company | year=1914 | page=459
+ | url=https://books.google.com/books?id=COsLAAAAIAAJ&pg=PA459 }}</ref>
+
+<ref name=Dzuback1993>{{citation | postscript=.
+ | title=Women and Social Research at Bryn Mawr College, 1915-1940
+ | last1=Dzuback | first1=Mary Ann | year=1993
+ | journal=History of Education Quarterly
+ | volume=33 | issue=4 | pages=579–608
+ | doi=10.2307/369614 | jstor=369614
+ | url=https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1038&context=wgss
+ }}</ref>
+
+<ref name=Diaz2017>{{citation | postscript=.
+ | title=The World of Colonial America: An Atlantic Handbook
+ | editor1-first=Ignacio | editor1-last=Gallup-Diaz
+ | series=Routledge Worlds | publisher=Taylor & Francis
+ | year=2017 | isbn=978-1317662143 | page=239
+ | url=https://books.google.com/books?id=vUAlDwAAQBAJ&pg=PA239 }}</ref>
+
+<ref name=Vassar1920>{{citation | postscript=.
+ | title=General Catalogue of the Officers and Graduates of Vassar College, Poughkeepsie, New York
+ | author=Vassar College | year=1920 | page=12
+ | url=https://books.google.com/books?id=CkoWAQAAIAAJ&pg=PA12 }}</ref>
+
+<ref name=Marchione2013>{{citation | postscript=.
+ | contribution=Kingsbury, Susan Myra
+ | first1=Mollie T. | last1=Marchione
+ | title=Encyclopedia of Social Work | date=June 2013
+ | publisher=Oxford University Press
+ | doi=10.1093/acrefore/9780199975839.013.728 }}</ref>
+
+<ref name=ssr1950>{{citation | postscript=.
+ | title=In Memoriam – Susan Myra Kingsbury, 1870-1949
+ | page=107 | journal=Social Service Review | volume=24
+ | date=March 1950
+ | doi=10.1086/637738 }}</ref>
+
+<ref name=Ohles1997>{{citation | postscript=.
+ | title=Biographical Dictionary of Modern American Educators
+ | first1=Frederik | last1=Ohles | first2=Shirley G. | last2=Ohles
+ | first3=Shirley M. | last3=Ohles | first4=John G. | last4=Ramsay
+ | publisher=Greenwood Publishing Group | display-authors=1
+ | year=1997 | isbn=978-0313291333 | page=191
+ | url=https://books.google.com/books?id=PBj5-zHEMvoC&pg=PA191 }}</ref>
+
+<ref name=Thomson2007>{{citation | postscript=.
+ | first1=Thomson | last1=Gale | year=2007
+ | title=Kingsbury, Susan (1870–1949)
+ | work=Dictionary of Women Worldwide: 25,000 Women Through the Ages
+ | url=https://www.encyclopedia.com/women/dictionaries-thesauruses-pictures-and-press-releases/kingsbury-susan-1870-1949
+ | access-date=2018-11-20 }}</ref>
+
+}}
+{{authority control}}
+{{DEFAULTSORT:Kingsbury, Susan Myra}}
+[[Category:1870 births]]
+[[Category:1949 deaths]]
+[[Category:American sociologists]]
+[[Category:American women sociologists]]
+[[Category:Economic historians]]
+[[Category:People from San Pablo, California]]
+[[Category:University of the Pacific (United States) alumni]]
+[[Category:Stanford University alumni]]
+[[Category:Columbia University alumni]]
+[[Category:Vassar College faculty]]
+[[Category:Simmons College (Massachusetts) faculty]]
+[[Category:Bryn Mawr College faculty]]

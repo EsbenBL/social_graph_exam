@@ -1,0 +1,201 @@
+{{short description|Italian sociologist and economist (1848–1923)}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox economist
+|school_tradition = [[Lausanne School]]<br>[[Italian school of elitism]]<ref>{{cite book|author=Robert A. Nye|title=The Anti-Democratic Sources of Elite Theory: Pareto, Mosca, Michels|publisher=Sage|year=1977|page=22}}</ref><ref>{{cite book|editor=J. J. Chambliss|title=Philosophy of Education: An Encyclopedia|publisher=Routledge|year=2013|page=179}}</ref>
+|image            = Vilfredo Pareto 1870s2.jpg
+|caption          =
+|name             = Vilfredo Pareto
+|birth_date       = {{Birth date|1848|7|15|df=y}}
+|birth_place      = [[Paris]], [[French Second Republic|France]]
+|death_date       = {{Death date and age|1923|8|19|1848|7|15|df=y}}
+|death_place      = [[Céligny]], [[Switzerland]]
+|alma_mater       = [[Polytechnic University of Turin]]
+|institutions     = [[University of Lausanne]]
+|nationality      = [[Italy|Italian]]
+|field            = [[Microeconomics]]<br>[[Socioeconomics]]
+|influences       = {{hlist|[[Niccolò Machiavelli]]|[[Maffeo Pantaleoni]]|[[Auguste Comte]]|[[Herbert Spencer]]|[[Léon Walras]]}}
+|influenced       = {{hlist|[[Luigi Amoroso]]|[[Oskar R. Lange]]|[[Chester Barnard]]|[[Alain de Benoist]]|[[Henry Ludwell Moore]]|[[Maurice Allais]]|[[Alfred Marshall]]|[[Norberto Bobbio]]|[[Gaetano Mosca]]}}
+|contributions    = [[Pareto index]]<br>[[Pareto chart]]<br>[[Pareto principle]]<br>[[Pareto efficiency]]<br>[[Pareto distribution]]
+|signature        = Vilfredo Pareto signature.png
+|birth_name=Wilfried Fritz Pareto}}
+'''Vilfredo Federico Damaso Pareto'''<ref>Geoffrey Duncan Mitchell. ''A Hundred Years of Sociology.'' Transaction Publishers, 1968. [https://books.google.com/books?id=hGPeRMntkDcC&newbks=1&newbks_redir=0&lpg=PP1&pg=PA115#v=onepage&q&f=false p. 115.] {{ISBN|9780202366647}}</ref> ({{IPAc-en|UK|p|æ|ˈ|r|eɪ|t|oʊ|,_|-|ˈ|r|iː|t|-}} {{respell|pa|RAY|toh|,_-|EE|-}},<ref>{{Cite Oxford Dictionaries|Pareto|access-date=28 July 2019}}</ref> {{IPAc-en|US|p|ə|ˈ|r|eɪ|t|oʊ}} {{respell|pə|RAY|toh}},<ref>{{Cite Merriam-Webster|Pareto|access-date=28 July 2019}}</ref> {{IPA-it|vilˈfreːdo paˈreːto|lang}}, {{IPA-lij|paˈɾeːtu|lang}}; born '''Wilfried Fritz Pareto'''; 15 July 1848 – 19 August 1923) was an Italian [[civil engineer]], [[sociologist]], [[economist]], political scientist, and [[philosopher]]. He made several important contributions to economics, particularly in the study of [[income distribution]] and in the analysis of individuals' choices.  He was also responsible for popularising the use of the term "[[elite]]" in social analysis. 
+
+He introduced the concept of [[Pareto efficiency]] and helped develop the field of [[microeconomics]]. He was also the first to discover that [[income]] follows a [[Pareto distribution]], which is a [[power law]] probability distribution. The [[Pareto principle]] was named after him, and it was built on observations of his such as that 80% of the wealth in Italy belonged to about 20% of the population. He also contributed to the fields of [[sociology]] and [[mathematics]], according to the mathematician [[Benoit Mandelbrot]] and Richard L. Hudson:
+
+{{quote|His legacy as an economist was profound. Partly because of him, the field evolved from a branch of moral philosophy as practised by [[Adam Smith]] into a data intensive field of scientific research and mathematical equations.  His books look more like modern economics than most other texts of that day: tables of statistics from across the world and ages, rows of integral signs and equations, intricate charts and graphs.<ref>{{cite book |last=Mandelbrot |first=Benoit |author-link =Benoit Mandelbrot|author2=Richard L Hudson  |title=The (mis)behavior of markets : a fractal view of risk, ruin, and reward |url=https://archive.org/details/misbehaviorofmar00beno |url-access=registration |year=2004 |publisher=Basic Books |location=New York |page=[https://archive.org/details/misbehaviorofmar00beno/page/153 153]|isbn=0465043577}}</ref>}}
+
+==Biography==
+Pareto was born of an exiled noble [[Genoa|Genoese]] family in 1848 in [[Paris]], the centre of the popular revolutions of that year. His father, Raffaele Pareto (1812–1882), was an Italian civil engineer and [[Liguria]]n marquis who had left Italy much like [[Giuseppe Mazzini]] and other Italian nationalists.<ref name=Amoroso>{{cite journal|last=Amoroso|first=Luigi|title=Vilfredo Pareto|journal=Econometrica|date=January 1938|volume=6|issue=1|pages=1–21|jstor=1910081|doi=10.2307/1910081}}</ref> His mother, Marie Metenier, was a French woman. Enthusiastic about the [[Revolutions of 1848 in the German states|1848 German revolution]], his parents named him Wilfried Fritz, which became Vilfredo Federico upon his family's move back to Italy in 1858.<ref>{{cite book |last=van Suntum |first=Ulrich |title=The Invisible Hand |url=https://archive.org/details/ulrichvansuntumi00sunt |url-access=limited |isbn=3-540-20497-0 |publisher=Springer |year=2005 |page=[https://archive.org/details/ulrichvansuntumi00sunt/page/n40 30]}}</ref> In his childhood, Pareto lived in a middle-class environment, receiving a high standard of education, attending the newly created ''Istituto Tecnico Leardi'' where Fernando Pio Rosellini was his mathematics professor.<ref>{{cite journal|last= Giacalone-Monaco|first= Tommaso|title= Ricerche intorno alla giovinezza di Vilfredo Pareto|jstor=23239355|language= it|journal= Giornale degli Economisti e Annali di Economia|volume= 25|issue= 1/2|year= 1966|pages= 97–104|issn= 0017-0097}}</ref> In 1869, he earned a doctor's degree in engineering from what is now the [[Politecnico di Torino|Polytechnic University of Turin]]<ref name=Amoroso/> (then the Technical School for Engineers). His dissertation was entitled "The Fundamental Principles of Equilibrium in Solid Bodies". His later interest in equilibrium analysis in [[Economic equilibrium|economics]] and [[Social equilibrium|sociology]] can be traced back to this paper.
+
+===From civil engineer to classical liberal economist===
+For some years after graduation, he worked as a [[civil engineer]], first for the state-owned Italian Railway Company and later in private industry. He was manager of the Iron Works of San Giovanni Valdarno and later general manager of Italian Iron Works.<ref name=Amoroso/>
+
+He did not begin serious work in economics until his mid-forties. He started his career a fiery advocate of [[classical liberalism]], besetting the most ardent British liberals with his attacks on any form of government intervention in the [[free market]]. In 1886, he became a lecturer on [[economics]] and [[management]] at the [[University of Florence]]. His stay in [[Florence]] was marked by political activity, much of it fueled by his own frustrations with government regulators. In 1889, after the death of his parents, Pareto changed his lifestyle, quitting his job and marrying a Russian, Alessandrina Bakunina.<ref name=wife>{{cite web |url=http://statprob.com/encyclopedia/VilfredoFederigoSamasoPARETO.html |title=The Encyclopedia Sponsored by Statistics and Probability Societies |publisher=StatProb |date=19 August 1923 |access-date=4 November 2015 |url-status=dead |archive-url=https://web.archive.org/web/20160304204438/http://statprob.com/encyclopedia/VilfredoFederigoSamasoPARETO.html |archive-date=4 March 2016  |quote=among a menagerie of cats that he and his French lover kept [in their villa;] the local divorce laws prevented him from divorcing his wife and remarrying until just a few months prior to his death.}}</ref>
+
+===Economics and sociology===
+In 1893, he succeeded [[Léon Walras]] to the chair of Political Economy at the [[University of Lausanne]]<ref name=Amoroso/> in Switzerland where he remained for the rest of his life. In 1906, he made the famous observation that twenty percent of the population owned eighty percent of the property in Italy, later generalised by [[Joseph M. Juran]] into the [[Pareto principle]] (also termed the [[80–20 rule]]). In one of his books published in 1909 he showed the [[Pareto distribution]] of how wealth is distributed, he believed "through any human society, in any age, or country".<ref>{{cite book |last=Mandelbrot |first=Benoit |author2=Richard L Hudson  |title=The (Mis)behavior of Markets :A Fractal View of Risk, Ruin, and Reward |url=https://archive.org/details/misbehaviorofmar00beno |url-access=registration |year=2004 |publisher=Basic Books |location=New York|isbn=9780465043552 }}</ref> 
+
+Pareto maintained cordial personal relationships with individual socialists, but he always thought their economic ideas were severely flawed. He later became suspicious of their motives and denounced socialist leaders as an 'aristocracy of brigands' who threatened to despoil the country and criticized the government of [[Giovanni Giolitti]] for not taking a tougher stance against worker strikes. Growing unrest among labor in Italy led him to the anti-socialist and anti-democratic camp.<ref>{{cite journal|doi=10.1080/03085149000000016|author=Bellamy, Richard |year=1990|title=From Ethical to Economic Liberalism – The Sociology of Pareto's Politics|journal=Economy and Society|volume=19|issue=4|pages=431–55}}</ref> His attitude toward [[fascism]] in his last years is a matter of controversy.<ref name="RenatoCirillo">{{cite journal |year=1983 |last1=Cirillo |first1=Renato |title=Was Vilfredo Pareto really a 'precursor' of fascism? |journal=American Journal of Economics and Sociology |volume=42 |issue=2 |pages=235–246 |jstor=3486644 |doi=10.1111/j.1536-7150.1983.tb01708.x |quote=Vilfredo Pareto has been labeled a fascist and 'a precursor of fascism' largely because he welcomed the advent of fascism in Italy and was honored by the new regime. Some have seen in his sociological works the foundations of fascism. This is not correct: Even fascist writers did not find much merit in these works, and definitely condemned his economic theories. As a political thinker he remained a radical libertarian till the end, and continued to express serious reservations about fascism, and to voice opposition to its basic policies. This is evident from his correspondence with his close friends. There are strong reasons to believe that, had he lived long enough, Pareto would have revolted against fascism}}</ref><ref>{{cite journal |year=1986 |last1=Campbell |first1=Stuart L. |title=The four Paretos of Raymond Aron |journal=Journal of the History of Ideas |volume=47 |issue=2 |pages=287–298 |jstor=2709815|doi=10.2307/2709815}}</ref>
+
+Pareto's relationship with scientific sociology in the age of the foundation is grafted in a paradigmatic way in the moment in which he, starting from the political economy, criticizes [[positivism]] as a totalizing and metaphysical system devoid of a rigorous logical-experimental method. In this sense we can read the fate of the Paretian production within a history of the social sciences that continues to show its peculiarity and interest for its contributions in the 21st&nbsp;century.<ref>Giovanni Busino, ''Sugli studi paretiani all'alba del XXI secolo'' in ''Omaggio a Vilfredo Pareto'', ''Numero monografico in memoria di Giorgio Sola'' a cura di Stefano Monti Bragadin, "Storia Politica Società", Quaderni di Scienze Umane, anno&nbsp;IX, n.&nbsp;15, giugno-dicembre 2009, p.&nbsp;1 e sg.</ref> The story of Pareto is also part of the multidisciplinary research of a scientific model that privileges sociology as a critique of cumulative models of knowledge as well as a discipline tending to the affirmation of relational models of science.<ref>Guglielmo Rinzivillo, ''Vilfredo Pareto e i modelli interdisciplinari nella scienza,'' "Sociologia", A.&nbsp;XXIX, n.&nbsp;1, New Series, 1995, pp.&nbsp;2017–2222</ref><ref>Guglielmo Rinzivillo, ''Una epistemologia senza storia'', Rome, New Culture, 2013, pp.&nbsp;13–29, {{ISBN|978-88-6812-222-5}}</ref>
+
+===Personal life===
+In 1889, Pareto married Alessandrina Bakunina, a Russian. She left him in 1902 for a young servant. Twenty years later in 1923, he married Jeanne Regis, a French woman, just before his death in [[Geneva]], Switzerland on 19 August 1923.<ref name=wife/>
+
+==Sociology==
+Pareto's later years were spent in collecting the material for his best-known work, ''Trattato di sociologia generale'' (1916) (''The Mind and Society'', published in 1935). His final work was ''Compendio di sociologia generale'' (1920).
+
+In his ''Trattato di Sociologia Generale'' (1916, rev. French trans. 1917), published in English by [[Harcourt, Brace]] in a four-volume edition edited by [[Arthur Livingston]] under the title ''[[The Mind and Society]]'' (1935), Pareto developed the notion of the [[circulation of elite]]s, the first [[social cycle theory]] in sociology. He is famous for saying "history is a graveyard of aristocracies".<ref>Rossides, Daniel W. (1998) ''Social Theory: Its Origins, History, and Contemporary Relevance''. Rowman & Littlefield. p. 203. {{ISBN|1882289501}}.</ref>
+
+Pareto seems to have turned to sociology for an understanding of why his abstract mathematical economic theories did not work out in practice, in the belief that unforeseen or uncontrollable social factors intervened. His sociology holds that much social action is nonlogical and that much personal action is designed to give spurious logicality to non-rational actions. We are driven, he taught, by certain "residues" and by "derivations" from these residues. The more important of these have to do with conservatism and risk-taking, and human history is the story of the alternate dominance of these sentiments in the ruling elite, which comes into power strong in conservatism but gradually changes over to the philosophy of the "foxes" or speculators. A catastrophe results, with a return to conservatism; the "lion" mentality follows. This cycle might be broken by the use of force, says Pareto, but the elite becomes weak and humanitarian and shrinks from violence.<ref>Aron, Raymond. (1967) ''Main Currents in Sociological Thought: Durkheim, Pareto, Weber – Vol. 2''  [https://www.questia.com/read/100306508 online edition]; [https://www.amazon.com/Main-Currents-Sociological-Thought-Durkheim/dp/0765804360/  excerpt and text search]
+</ref>
+
+Among those who introduced Pareto's sociology to the United States were [[George C. Homans|George Homans]] and [[Lawrence Joseph Henderson|Lawrence J. Henderson]] at Harvard, and Paretian ideas gained considerable influence, especially on Harvard sociologist [[Talcott Parsons]], who developed a systems approach to society and economics that argues the status quo is usually functional.<ref>Homans, George C., and Charles P. Curtis Jr. (1934) [https://www.questia.com/read/80982212 ''An Introduction to Pareto: His Sociology'']. Alfred A. Knopf. New York.</ref>  The American historian [[Bernard DeVoto]] played an important role in introducing Pareto's ideas to these Cambridge intellectuals and other Americans in the 1930s.  [[Wallace Stegner]], in his biography of DeVoto, recounts these developments and says this about the often misunderstood distinction between "residues" and "derivations":  "Basic to Pareto's method is the analysis of society through its non-rational 'residues,' which are persistent and unquestioned social habits, beliefs, and assumptions, and its 'derivations,' which are the explanations, justifications, and rationalizations we make of them.  One of the commonest errors of social thinkers is to assume rationality and logic in social attitudes and structures; another is to confuse residues and derivations."<ref>Wallace Stegner, ''The Uneasy Chair: A Biography of Bernard DeVoto'' (Garden City, NY: Doubleday, 1974), p. 141.</ref>
+
+Pareto was a lifelong [[Anti-Marxism|opponent of Marxism]].<ref>{{cite web|url=http://jkalb.freeshell.org/misc/pareto.html |title=Vilfredo Pareto – An Overview |publisher=Jkalb.freeshell.org |access-date=4 November 2015}}</ref>
+
+==Fascism and power distribution==
+[[Benoit Mandelbrot]] wrote:
+
+{{quote|One of Pareto's equations achieved special prominence, and controversy. He was fascinated by problems of power and wealth. How do people get it? How is it distributed around society? How do those who have it use it? The gulf between rich and poor has always been part of the human condition, but Pareto resolved to measure it. He gathered reams of data on wealth and income through different centuries, through different countries: the tax records of Basel, Switzerland, from 1454 and from Augsburg, Germany, in 1471, 1498 and 1512; contemporary rental income from Paris; personal income from Britain, Prussia, Saxony, Ireland, Italy, Peru. What he found – or thought he found – was striking. When he plotted the data on graph paper, with income on one axis, and number of people with that income on the other, he saw the same picture nearly everywhere in every era. Society was not a "social pyramid" with the proportion of rich to poor sloping gently from one class to the next. Instead it was more of a "social arrow" – very fat on the bottom where the mass of men live, and very thin at the top where sit the wealthy elite.  Nor was this effect by chance; the data did not remotely fit a bell curve, as one would expect if wealth were distributed randomly. "It is a social law", he wrote: something "in the nature of man".<ref name=mandelbrot>{{cite book |last=Mandelbrot |first=Benoit  |author-link= Benoit Mandelbrot|title=The Misbehavior of Markets: A Fractal View of Financial Turbulence |publisher=Basic Books|date=2006 |chapter=The Mystery of Cotton |isbn=978-0465043576}}</ref>{{rp|153}}}}
+
+Pareto had argued that democracy was an illusion and that a ruling class always emerged and enriched itself. For him, the key question was how actively the rulers ruled. For this reason, he called for a drastic reduction of the state and welcomed [[Benito Mussolini]]'s rule as a transition to this minimal state so as to liberate the "pure" economic forces.<ref>{{cite book |title=Contemporary Political Ideologies |last=Eatwell |first=Roger |author2=Anthony Wright  |publisher=Continuum |location=London |year=1999 |pages=38–39|isbn=082645173X}}</ref>
+
+Mandelbrot summarized Pareto's notions as follows:
+
+{{quote|At the bottom of the Wealth curve, he wrote, Men and Women starve and children die young. In the broad middle of the curve all is turmoil and motion: people rising and falling, climbing by talent or luck and falling by alcoholism, tuberculosis and other kinds of unfitness. At the very top sit the elite of the elite, who control wealth and power for a time – until they are unseated through revolution or upheaval by a new aristocratic class. There is no progress in human history. Democracy is a fraud. Human nature is primitive, emotional, unyielding. The smarter, abler, stronger, and shrewder take the lion's share. The weak starve, lest society become degenerate: One can, Pareto wrote, 'compare the social body to the human body, which will promptly perish if prevented from eliminating toxins.' Inflammatory stuff – and it burned Pareto's reputation.<ref name=mandelbrot/>{{rp|154}}}}
+
+The future leader of [[Italian fascism]] [[Benito Mussolini]], in 1904, when he was a young student, attended some of Pareto's lectures at the [[University of Lausanne]]. It has been argued that Mussolini's move away from [[socialism]] towards a form of "[[elitism]]" may be attributed to Pareto's ideas.<ref name=musso>{{cite book |editor-last1=Di Scala |editor-first1=Spencer M. |editor-last2=Gentile|editor-first2= Emilio|title=Mussolini 1883–1915: Triumph and Transformation of a Revolutionary Socialist |publisher=Palgrave Macmillan|location=USA|date=2016 |isbn=978-1-137-53486-6}}</ref>
+
+To quote [[Franz Borkenau]], a biographer:
+{{quote|In the first years of his rule Mussolini literally executed the policy prescribed by Pareto, destroying political liberalism, but at the same time largely replacing state management of private enterprise, diminishing taxes on property, favoring industrial development, imposing a religious education in dogmas.<ref>{{cite book |last=Borkenau |first=Franz |author-link=Franz Borkenau |title=Pareto |location=New York |publisher=John Wiley & Sons |year=1936 }}</ref>{{rp|18}}}}
+
+[[Karl Popper]] dubbed Pareto the "theoretician of totalitarianism",<ref>Mandelbrot, Benoit; Richard L Hudson (2004). ''The (mis)behavior of markets : a fractal view of risk, ruin, and reward.'' New York: Basic Books. pp. 152–155. {{ISBN|0465043577}}.</ref> but, according to Renato Cirillo, there is no evidence in Popper's published work that he read Pareto in any detail before repeating what was then a common but dubious judgment in anti-fascist circles.<ref name="RenatoCirillo"/>
+
+Some fascist writers, such as [[Luigi Amoroso]], wrote approvingly of Pareto's ideas:
+{{quote|Just as the weaknesses of the flesh delayed, but could not prevent, the triumph of [[Saint Augustine]], so a [[rational]]istic vocation retarded but did not impede the flowering of the [[mysticism]] of Pareto. For that reason, Fascism, having become victorious, extolled him in life, and glorifies his memory, like that of a confessor of its faith.<ref name=Amoroso/>}}
+
+Author Renato Cirillo argued, on the contrary, that:
+{{quote|Some have seen in [Pareto's] sociological works the foundations of fascism. This is not correct. Even fascist writers did not find much merit in these works, and definitely condemned his economic theories.<ref name="RenatoCirillo" />}}
+
+Pareto's elite theory also influenced a number of liberal theorists, such as the anti-fascist [[Piero Gobetti]], who wrote:
+
+{{quote|The concept of an ''elite'' that imposes itself by exploiting a channel of interests and general psychological conditions against the old leaders who have exhausted their function is genuinely liberal.<ref>{{cite book |last1=Martin |first1=J. |title=Piero Gobetti and the Politics of Liberal Revolution |date=2008 |publisher=Springer |page=84}}</ref>}}
+
+Other liberals influenced by Pareto include [[Norberto Bobbio]] and [[Raymond Aron]].<ref>{{cite journal |last1=Campbell |first1=Stuart L. |title=The Four Paretos of Raymond Aron |journal=Journal of the History of Ideas |date=1986 |volume=47 |issue=2 |pages=287–298|doi=10.2307/2709815 |jstor=2709815 }}</ref>
+
+== Economic concepts ==
+
+'''Pareto Theory Of Maximum Economics'''
+
+Pareto turned his interest to economic matters and he became an advocate of free trade, finding himself in difficulty with the Italian government. His writings reflected the ideas of [[Léon Walras]] that economics is essentially a mathematical science. Pareto was a leader of the "[[Lausanne School]]" and represents the second generation of the [[Neoclassical Revolution]].  His "tastes-and-obstacles" approach to [[general equilibrium theory]] was resurrected during the great "Paretian Revival" of the 1930s and has influenced theoretical economics since.<ref>Cirillo, Renato (1978) ''The Economics of Vilfredo Pareto''</ref>
+
+In his ''Manual of Political Economy'' (1906) the focus is on equilibrium in terms of solutions to individual problems of "objectives and constraints".  He used the indifference curve of Edgeworth (1881) extensively, for the theory of the consumer and, another great novelty, in his theory of the producer. He gave the first presentation of the trade-off box now known as the "Edgeworth-Bowley" box.<ref>Mclure, Michael (2001) [https://www.questia.com/read/102813057 ''Pareto, Economics and Society: The Mechanical Analogy''].</ref>
+
+Pareto was the first to realize that cardinal utility could be dispensed with and economic equilibrium thought of in terms of ordinal utility<ref name=Aspers>{{cite journal|last=Aspers|first=Patrik|title=Crossing the Boundary of Economics and Sociology: The Case of Vilfredo Pareto|journal=The American Journal of Economics and Sociology|date=April 2001|volume=60|issue=2|pages=519–545|jstor=3487932|doi=10.1111/1536-7150.00073|url=https://www.alexandria.unisg.ch/260702/1/01_Pareto_AJES.pdf}}</ref> – that is, it was not necessary to know how much a person valued this or that, only that he preferred X of this to Y of that. Utility was a preference-ordering.  With this, Pareto not only inaugurated modern microeconomics, but he also demolished the alliance of economics and utilitarian philosophy (which calls for the greatest good for the greatest number; Pareto said "good" cannot be measured). He replaced it with the notion of ''[[Pareto efficiency|Pareto-optimality]]'', the idea that a system is enjoying maximum economic satisfaction when no one can be made better off without making someone else worse off.  Pareto optimality is widely used in welfare economics and game theory. A standard theorem is that a perfectly competitive market creates distributions of wealth that are Pareto optimal.<ref>{{cite journal|doi=10.1080/00220485.1991.10844705|jstor=1182422|title=How Well Do We Know Pareto Optimality?|journal=The Journal of Economic Education|volume=22|issue=2|pages=172–178|year=2014|last1=Mathur|first1=Vijay K}}</ref>
+
+===Concepts===
+Some economic concepts in current use are based on his work:
+* The [[Pareto index]] is a measure of the inequality of income distribution.
+He argued that in all countries and times, the distribution of income and wealth is highly skewed, with a few holding most of the wealth. He argued that all observed societies follow a regular logarithmic pattern:
+#  <math>\log N = \log A + m \log x</math>
+
+where N is the number of people with wealth higher than x, and A and m are constants.  Over the years, Pareto's Law has proved remarkably close to observed data.
+* The [[Pareto chart]] is a special type of [[histogram]], used to view causes of a problem in order of severity from largest to smallest. It is a statistical tool that graphically demonstrates the Pareto principle or the 80–20 rule.
+* [[Pareto principle|Pareto's law]] concerns the distribution of income.
+* The [[Pareto distribution]] is a [[probability distribution]] used, among other things, as a mathematical realization of Pareto's law.
+* [[Ophelimity]] is a measure of purely economic satisfaction.
+
+==Major works==
+[[File:Pareto, Vilfredo – Compendio di sociologia generale, 1920 – BEIC 15668284.jpg|thumb|''Compendio di sociologia generale'', 1920]]
+
+* ''Cours d'Économie Politique Professé a l'Université de Lausanne'' (in French), 1896–97. ([https://web.archive.org/web/20160407212541/http://www.institutcoppet.org/wp-content/uploads/2012/05/Cours-d%C3%A9conomie-politique-Tome-I-Vilfredo-Pareto.pdf Vol. I], [https://web.archive.org/web/20180128205541/http://www.institutcoppet.org/wp-content/uploads/2012/05/Cours-d%C3%A9conomie-politique-Tome-II-Vilfredo-Pareto.pdf Vol. II])
+* ''Les Systèmes Socialistes'' (in French), 1902. ([https://archive.org/details/LesSystmesSocialistesPareto/page/n5/mode/2up Vol. I], [https://archive.org/details/dli.ernet.286973 Vol. II])
+* ''[[s:it:Manuale di economia politica con una introduzione alla scienza sociale|Manuale di economia politica con una introduzione alla scienza sociale]]'' (in Italian), 1906.
+* ''Trattato di sociologia generale'' (in Italian), G. Barbéra, Florence, 1916. ([https://archive.org/details/ParetoTrattatoDiSociologiaGeneraleVol1 Vol. I], [https://archive.org/details/ParetoTrattatoDiSociologiaGeneraleVol2/page/n1/mode/2up Vol. II])
+** {{Cite book|title=Compendio di sociologia generale|publisher=Barbèra|location=Florence|year=1920|language=it|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=15668284}} ([[Abridgement]] of ''Trattato di sociologia generale'')
+* [https://archive.org/details/fattieteorie00pare/page/n3/mode/2up ''Fatti e teorie''] (in Italian), 1920. (Collection of previously published articles with an original epilogue)
+* ''Trasformazione della democrazia'' (in Italian), 1921. (Collection of previously published articles with an original appendix)
+
+===English translations===
+* ''[[The Mind and Society]],'' New York: Harcourt, Brace and Company, 1935 (translation of''Trattato di sociologia generale''). ([https://archive.org/stream/mindsocietytratt01pare#page/n9/mode/2up Vol. I], [https://archive.org/details/TheMindAndSocietyVolIii Vol. II], [https://archive.org/details/in.ernet.dli.2015.166857 Vol. III], [https://archive.org/stream/mindsocietytratt04pare#page/n7/mode/2up Vol. IV])
+** ''Compendium of General Sociology,'' University of Minnesota Press, 1980 (abridgement of ''The Mind and Society''; translation of ''Compendio di sociologia generale'').
+* ''Sociological Writings,'' Praeger, 1966 (translations of excerpts from major works).
+* ''Manual of Political Economy,'' [[Augustus M. Kelley]], 1971 (translation of 1927 French edition of ''Manuale di economia politica con una introduzione alla scienza sociale'').
+* ''The Transformation of Democracy,'' Transaction Books, 1984 (translation of ''Trasformazione della democrazia'').
+* ''The Rise and Fall of Elites: An Application of Theoretical Sociology,'' Transaction Publishers, 1991 (translation of essay ''Un applicazione di teorie sociologiche'').
+
+===Articles===
+* [https://archive.org/stream/parliamentaryrg00paregoog#page/n103/mode/2up "The Parliamentary Régime in Italy,"] ''Political Science Quarterly'', Vol. VIII, Ginn & Company, 1893.
+* [https://www.jstor.org/stable/1821012 "The New Theories of Economics,"] ''Journal of Political Economy'', Vol. 5, No. 4, Sep. 1897.
+* [https://archive.org/stream/livingage2884090bostuoft#page/446/mode/2up "An Italian View,"] ''The Living Age'', November 1922.
+
+==See also==
+* [[Elite theory]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Amoroso, Luigi. ''"Vilfredo Pareto,"'' Econometrica, Vol. 6, No. 1, Jan. 1938.
+* Bruno, G.  (1987). "Pareto, Vilfredo" ''[[The New Palgrave: A Dictionary of Economics]]'', v. 5, pp.&nbsp;799–804.
+* {{cite encyclopedia |last=Buchanan |first= James |author-link= James M. Buchanan| editor-first=Ronald |editor-last=Hamowy |editor-link=Ronald Hamowy |encyclopedia=The Encyclopedia of Libertarianism |title= Italian Economic Theorists  |url= https://books.google.com/books?id=yxNgXs3TkJYC |year=2008 |publisher= [[SAGE Publications|SAGE]]; [[Cato Institute]] |location= Thousand Oaks, CA |doi=10.4135/9781412965811.n156 |isbn= 978-1-4129-6580-4 |oclc=750831024| lccn = 2008009151 |pages= 258–60 |chapter= Italian Fiscal Theorists }}
+* Busino, Giovanni. [http://ress.revues.org/730 ''The Signification of Vilfredo Pareto’s Sociology,''] Revue Européenne des Sciences Sociales, XXXVIII, 2000.
+* Eisermann, G.(2001). "Pareto, Vilfredo (1848–1923)", ''[[International Encyclopedia of the Social & Behavioral Sciences]]'', pp.&nbsp;11048–51. [https://web.archive.org/web/20090919114136/http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B7MRM-4MT09VJ-2BX&_rdoc=111&_hierId=151000072&_refWorkId=21&_explode=151000072&_fmt=summary&_orig=na&_docanchor=&_idxType=SC&view=c&_ct=148&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=e1c6152199127c6e49da0b4fab6216d2 Abstract.]
+* Femia, Joseph V. ''Pareto and Political Theory'' (2006) [http://observedwww.amazon.com/Pareto-Political-Routledge-Studies-Thought/dp/0415288134/ excerpt and text search]{{dead link|date=July 2016 |bot=InternetArchiveBot |fix-attempted=yes }}
+* Kirman, A. P. (1987). "Pareto as an economist" ''The New Palgrave: A Dictionary of Economics'', v. 5, pp.&nbsp;804–08.
+* Livingston, Arthur. [http://www.unz.org/Pub/SaturdayRev-1935may25-00012 ''"Vilfredo Pareto: A Biographical Portrait,"''] The Saturday Review, 25 May 1935.
+* Millikan, Max. ''"Pareto's Sociology,"'' Econometrica, Vol. 4, No. 4, Oct. 1936.
+* [[Elena Osipova (sociologist)|Osipova, Elena]]; Translated by H. Campbell Creighton, M.A. (Oxon) (1989) [https://archive.org/stream/AHistoryOfClassicalSociology_573/Kon_History_of_Classical_Sociology#page/n183/mode/2up ''"The Sociological System of Vilfredo Pareto"''] in [[Igor Kon]] (ed.) A History of Classical Sociology Moscow: [[Progress Publishers]] pp.&nbsp;312–36
+* Palda, Filip (2011) ''Pareto's Republic and the New Science of Peace'' 2011 [http://www.paretorepublic.com] chapters online. Published by Cooper-Wolfling. {{ISBN|978-0-9877880-0-9}}
+* Parsons, Talcott. [https://archive.org/stream/structureofsocia00pars#page/n7/mode/2up ''The Structure of Social Action,''] The Free Press, 1949.
+* Tarascio, Vincent J. (1968) ''Pareto's Methodological Approach to Economics: A Study in the History of Some Scientific Aspects of Economic Thought'' 1968 [https://www.questia.com/read/98701469 online edition]
+* Forte F., Silvestri P., Pareto's sociological maximum of utility of the community and the theory of the elites, in J. G. Backhaus (ed.), Essentials of Fiscal Sociology. Conceptions of an Encyclopedia, Peter Lang, Frankfurt am Main, 2013, pp.&nbsp;231–65.
+* Della Pelle, P., (a cura di), Introduction a K. Marx, Le Capital par V. Pareto, edizione critica con il testo italiano a fronte, Aracne, Canterano 2018.
+===Primary sources===
+* {{cite journal|title=The Mind and Society [Trattato Di Sociologia Generale]|first=Vilfredo|last=Pareto|publisher=Harcourt, Brace|year=1935}}
+
+==External links==
+{{Commons category|Vilfredo Pareto}}
+{{Wikiquote}}
+* [http://global-fintech.blogspot.com/2015/12/pareto-definition.html The Two Biggest Ideas of Vilfredo Pareto in Economics]
+* [https://web.archive.org/web/20011217191159/http://cepa.newschool.edu/het/profiles/pareto.htm Further information from New School University]
+* [https://web.archive.org/web/20090715071241/http://www.bolenderinitiatives.com/sociology/vilfredo-pareto-1848-1923 Review materials for studying Vilfredo Pareto]
+* {{cite encyclopedia |title=Vilfredo Pareto (1848–1923) |url=http://www.econlib.org/library/Enc/bios/Pareto.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008}}
+* [http://jkalb.freeshell.org/misc/pareto.html Vilfredo Pareto: A Concise Overview of His Life, Works, and Philosophy, by Fr. James Thornton]
+* {{Gutenberg author | id=Pareto,+Vilfredo }}
+* {{Internet Archive author |sname=Vilfredo Pareto}}
+* [http://www.unz.org/Pub/ParetoVilfredo-1935 The Mind and Society]
+* [https://www.hetwebsite.net/het/profiles/pareto.htm#profileworkslist More complete list of works]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pareto, Vilfredo}}
+[[Category:Vilfredo Pareto| ]]
+[[Category:1848 births]]
+[[Category:1923 deaths]]
+[[Category:19th-century Italian writers]]
+[[Category:19th-century male writers]]
+[[Category:20th-century Italian writers]]
+[[Category:Italian writers in French]]
+[[Category:20th-century male writers]]
+[[Category:19th-century economists]]
+[[Category:20th-century economists]]
+[[Category:20th-century Italian philosophers]]
+[[Category:Italian economists]]
+[[Category:Italian Roman Catholics]]
+[[Category:Italian sociologists]]
+[[Category:Italian anti-communists]]
+[[Category:Italian newspaper founders]]
+[[Category:Revolution theorists]]
+[[Category:Engineers from Turin]]
+[[Category:Elite theory]]
+[[Category:Social status]]
+[[Category:University of Lausanne faculty]]
+[[Category:Critics of Marxism]]
+[[Category:Structural functionalism]]
+
+[[Category:Neoclassical economists]]
+[[Category:Neoclassical economics]]
+[[Category:Polytechnic University of Turin alumni]]
+[[Category:Writers from Turin]]

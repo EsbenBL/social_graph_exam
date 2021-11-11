@@ -1,0 +1,319 @@
+{{short description|American sociologist}}
+{{Use mdy dates|date=September 2021}}
+{{use American English|date=December 2019}}
+{{other people|Robert Merton}}
+{{more footnotes|date=October 2017}}
+{{Infobox scientist
+| image             = Robert_K_Merton.jpg
+| name              = Robert K. Merton
+| birth_name        = Meyer Robert Schkolnick
+| birth_date        = {{birth date|1910|7|4}}
+| birth_place       = [[Philadelphia]], Pennsylvania, U.S.
+| death_date        = {{Death date and age|2003|2|23|1910|7|4}}
+| death_place       = New York City, U.S.
+| known_for         = {{plainlist|
+* [[Self-fulfilling prophecy]]
+* [[Self-defeating prophecy]]
+* Merton's strain theory of deviance
+* [[Sociology of Science]]
+* [[Structural functionalism|Functionalism]]
+* [[Role model]]
+* [[Reference group]]
+* [[Mertonian norms]]
+* [[Merton thesis]]
+* [[Matthew effect]]
+}}
+| alma_mater        = {{plainlist|
+* [[Harvard University]] ([[Master of Arts|MA]]) (PhD)
+* [[Temple University]] ([[Bachelor of Arts|BA]])
+}}
+| fields            = Sociology
+| influences        = {{plainlist|
+* [[Émile Durkheim]]
+* [[Max Weber]]
+* [[Talcott Parsons]]
+}}
+| awards            = {{plainlist|
+* [[John Desmond Bernal Prize]] <small>(1982)</small>
+* [[National Medal of Science]] <small>(1994)</small>
+}}
+| spouse            = {{plainlist|
+* Suzanne Carhart
+* [[Harriet Zuckerman]]
+}}
+| children          = {{plainlist|
+* Vanessa Merton
+* [[Robert C. Merton]]
+* Stephanie Merton Tombrello
+}}
+| doctoral_advisor  = [[Pitirim Sorokin]]
+| academic_advisors = [[Talcott Parsons]], [[Lawrence Joseph Henderson]], [[George Sarton]]
+| doctoral_students = {{plainlist|
+* [[Peter Blau]]
+* [[Lewis Coser]]
+* [[Barney Glaser]]
+* [[Alvin Gouldner]]
+}}
+| notable_students  = {{plainlist|
+* [[Richard Cloward]]
+* [[Jonathan R. Cole]]
+* [[Stephen Cole (sociologist)|Stephen Cole]]
+* [[Cynthia Fuchs Epstein]]
+* [[Nathan Glazer]]
+* [[Piotr Sztompka]]
+}}
+}}
+
+'''Robert King Merton''' (born '''Meyer Robert Schkolnick'''; July 4, 1910 – February 23, 2003) was an American sociologist who is considered a founding father of modern sociology, and a major contributor to the subfield of [[criminology]]. He served as the 47th President of the American Sociological Association.<ref>{{Cite web|date=2009-06-08|title=Robert K. Merton|url=https://www.asanet.org/about/governance-and-leadership/council/presidents/robert-k-merton|access-date=2021-10-19|website=American Sociological Association|language=en}}</ref> He spent most of his career teaching at [[Columbia University]], where he attained the rank of University Professor. In 1994 he was awarded the [[National Medal of Science]] for his contributions to the field and for having founded the [[Sociology of scientific knowledge|sociology of science]].<ref name="Robert K. Merton"/><ref group="lower-roman">Synonyms for the term "[[sociology of science]]" include "science of science" and the [[Back-formation|back-formed]] term "[[Logology (sociology)|logology]]". The latter term provides convenient grammatical variants not available with the earlier terms, i.e. "logologist", "to logologize", "logological", and "logologically".
+
+"[http://sci.slis.indiana.edu/ Science of Science Cyberinfrastructure Portal]." Indiana University. {{webarchive|url=https://web.archive.org/web/20130219224025/http://sci.slis.indiana.edu/|date=February 19, 2013}}; 
+
+[[Maria Ossowska|Ossowska]], [[Maria Ossowska|Maria]], and [[Stanisław Ossowski]]. 1982 [1935]. "The Science of Science." Pp. 82–95 ''Polish Contributions to the Science of Science'', edited by B. Walentynowicz. Boston: [[D. Reidel]]. {{ISBN|978-83-01-03607-2}}. 
+
+[[Christopher Kasparek|Kasparek, Christopher]]. 1994. "[[Bolesław Prus|Prus]]' '[[Pharaoh (Prus novel)|Pharaoh]]': the Creation of a Historical Novel." ''[[The Polish Review]]'' 39(1):45–6. note 3.
+
+[[:pl:Stefan Zamecki|Zamecki, Stefan]]. 2012. ''Komentarze do naukoznawczych poglądów Williama Whewella (1794–1866): studium historyczno-metodologiczne'' [Commentaries to the Logological Views of [[William Whewell]] (1794–1866): A Historical-Methodological Study]. Warsaw: [[Polish Academy of Sciences]]. {{ISBN|978-83-86062-09-6}}, [English-language] summary, pp. 741–743).</ref>
+
+Merton’s contribution to sociology falls into three areas: (1) sociology of science; (2) sociology of crime and deviance; (3) sociological theory. He developed notable concepts, such as "[[unintended consequences]]", the "[[Types of social groups#Reference groups|reference group]]", and "[[role strain]]", but is perhaps best known for the terms "[[role model]]" and "[[self-fulfilling prophecy]]".<ref name="The Unanticipated Consequences of Purposive Social Action"/> The concept of ''self-fulfilling prophecy'', which is a central element in modern sociological, political, and economic theory, is one type of process through which a belief or expectation affects the outcome of a situation or the way a person or group will behave.<ref name="Bearman">{{cite book|editor-last1=Hedström|editor-first1=Peter|editor-last2=Bearman|editor-first2=Peter|first=Michael |last=Biggs|chapter=Self-fulfilling prophecies |title=The Oxford handbook of analytical sociology|date=2009|publisher=Oxford University Press|location=Oxford|isbn=978-0-19-921536-2|edition= 1st|url=https://books.google.com/books?id=Tqf718wB2CUC&q=-CTI+Biggs+prophecies}}</ref><ref name="Hedström">{{cite book|last1=Hedström|first1=Peter|last2=Swedberg|first2=Richard|title=Social mechanisms : an analytical approach to social theory|date=1998|publisher=Cambridge University Press|location=Cambridge|isbn=978-0-521-59687-9|edition= Repr.|url=https://books.google.com/books?id=-iUmQRcYSIEC&pg=PA18|access-date=March 12, 2018}}</ref> More specifically, as Merton defined, "the self-fulfilling prophecy is, in the beginning, a false definition of the situation evoking a new behavior, which makes the originally false conception come true".<ref name="SFP-48">{{Citation|last=Merton|first=Robert K.|title=The Self Fulfilling Prophecy|journal=[[Antioch Review]]|volume=8|issue=2|pages=193–210|year=1948|doi=10.2307/4609267|issn=0003-5769|jstor=4609267}}</ref>
+
+Merton's concept of the "role model" first appeared in a study on the socialization of medical students at Columbia University. The term grew from his theory of the ''reference group'', the group to which individuals compare themselves but to which they do not necessarily belong. [[Social role]]s were central to Merton's theory of ''social groups''. Merton emphasized that, rather than a person assuming just one role and one status, they have a [[status set]] in the social structure that has, attached to it, a whole set of expected behaviors.<ref name="Holton"/>
+
+==Biography==
+===Early life===
+Robert King Merton was born on July 4, 1910, in [[Philadelphia]] as Meyer Robert Schkolnick<ref name="nytimes.com"/> into a family of [[Yiddish]]-speaking [[Russian Jews]] who had immigrated to the United States in 1904. His mother was Ida Rasovskaya, an "unsynagogued" [[Socialism|socialist]] who had freethinking radical sympathies. His father was Aaron Schkolnickoff, a tailor who had officially been registered at port of entry to the United States as "Harrie Skolnick".<ref name="Simonson2010"/> Merton's family lived in straitened circumstances after his father's uninsured dairy-product shop in [[South Philadelphia]] burned down. His father later became a carpenter's assistant to support the family. 
+
+Even though Merton grew up fairly poor, he believed that he had been afforded many opportunities.<ref name="footnotes">{{cite journal | url=http://www.asanet.org/sites/default/files/savvy/footnotes/mar03/indextwo.html | title=Robert K. Merton Remembered | author=Calhoun, Craig | year=2003 | journal=Footnotes | publisher=American Sociological Association | access-date=January 17, 2019}}</ref> As a student at [[South Philadelphia High School]], he was a frequent visitor to nearby cultural and educational venues, including the [[Carnegie library|Andrew Carnegie Library]], the [[Academy of Music (Philadelphia)|Academy of Music]], the Central Library, and the Museum of Arts. In 1994, Merton stated that growing up in [[South Philadelphia]] provided young people with "every sort of capital—social capital, cultural capital, human capital, and, above all, what we may call public capital—that is, with every sort of capital except the personally financial."<ref>Merton, Robert K. 1996 [1994]. "A Life of Learning." Pp.&nbsp;339–59 in ''On Social Structure and Science'', edited by [[Piotr Sztompka]]. Chicago: [[University of Chicago Press]]. p.&nbsp;346.</ref>
+
+He adopted the name Robert K. Merton initially as a stage name for his [[Magic (illusion)|magic]] performances.<ref name="Simonson2010" /> Young Merton developed a strong interest in magic, heavily influenced by his sister's boyfriend. For his magic acts he initially chose the stage name "Merlin", but eventually settled on the surname "Merton" to further "Americanize" his immigrant-family name. He picked the given name "Robert" in honor of the 19th-century French magician [[Jean-Eugène Robert-Houdin]], widely considered the father of modern-style [[Evocation|conjuring]]. Thus his stage name became "Robert Merton", and he kept it as his personal name upon receiving a scholarship to [[Temple University]].<ref name="footnotes" />
+
+===Education===
+Merton began his sociological career under the guidance of George E. Simpson at Philadelphia's [[Temple University]] (1927–1931). Merton's work as Simpson's [[research assistant]] on a project dealing with race and media introduced Merton to sociology. Under Simpson's leadership, Merton attended an [[American Sociological Association]] annual meeting where he met [[Pitrim A. Sorokin]], the founding chair of the sociology department at [[Harvard University]]. Merton applied to Harvard and went to work as a research assistant to Sorokin from 1931 to 1936.<ref name=":0">[[Piotr Sztompka|Sztompka, Piotr]]. 2003. "Robert K. Merton." Pp. 12–33 in ''The Blackwell Companion to Major Contemporary Social Theorists'', edited by [[George Ritzer|G. Ritzer]]. Malden, MA: Blackwell. {{ISBN|978-1-4051-0595-8}}.</ref>
+
+Many had doubted that Merton would be accepted into Harvard after graduating from Temple, but he quickly defied the odds and by his second year he had begun publishing with Sorokin. By 1934, he had even begun publishing articles of his own, including: "Recent French Sociology", "The Course of Arabian Intellectual Development, 700–1300 A.D.", "Fluctuations in the Rate of Industrial Invention", and "Science and Military Technique". After completing these, Merton went on to graduate from Harvard with an [[Master of Arts|MA]] and PhD in sociology. 
+
+By the end of his student career in 1938, he had already begun to embark on works that made him renowned in the sociological field, publishing his first major study, ''Science, Technology, and Society in Seventeenth-Century England'', which helped create the [[sociology of science]].<ref name="footnotes" /> Merton's dissertation committee was composed of Sorokin, but also [[Talcott Parsons]], the historian [[George Sarton]], and the biochemist [[Lawrence Joseph Henderson]].<ref name="coserbio">{{cite book |editor1-last=Coser |editor1-first=Lewis |editor1-link=Lewis Coser |last1=Cole |first1=Jonathan |author-link1=Jonathan R. Cole |author-link2=Harriet Zuckerman |last2=Zuckerman |first2=Harriet |date=1975 |title=The Idea of Social Structure: Papers in Honor of Robert K. Merton |chapter=The Emergence of a Scientific Specialty: The Self-Exemplifying Case of the Sociology of Science |location=New York |publisher=[[Harcourt_(publisher)#Harcourt_Brace_Jovanovich|Harcourt Brace Jovanovich]] |page=139-174 }}</ref> The [[Merton thesis]]—similar to [[Max Weber]]'s [[The Protestant Ethic and the Spirit of Capitalism|famous claim]] on the link between [[Protestant work ethic|Protestant ethic]] and the [[capitalist economy]]—proposes a positive [[correlation]] between the rise of [[Protestant]] [[Pietism]], [[Puritans|Puritanism]] and early experimental science.<ref name=":0" />
+
+===Personal life===
+In 1934 Merton married Suzanne Carhart, with whom he had one son, [[Robert C. Merton]], winner of the 1997 [[Nobel Prize in economics]], and two daughters, Stephanie Merton Tombrello and Vanessa Merton, a professor of law at [[Pace University School of Law]]. Merton and Carhart separated in 1968, and she died in 1992.<ref>"Renowned Columbia Sociologist and National Medal of Science Winner Robert K. Merton Dies at 92." ''Columbia News''.</ref> 
+
+In 1993 Merton married his fellow sociologist and collaborator, [[Harriet Zuckerman]]. On February 23, 2003, aged 92, Merton died in [[Manhattan]], survived by his wife, three children, nine grandchildren, and nine great-grandchildren.<ref>"Renowned Columbia Sociologist and National Medal of Science Winner Robert K. Merton Dies at 92." ''Columbia News''.</ref>
+
+== Career ==
+
+===Teaching career===
+Merton taught at Harvard until 1938, when he became professor and chairman of the Department of Sociology at [[Tulane University]]. In 1941, he joined the [[Columbia University]] faculty, where he spent the vast majority of his teaching career. Over his five decades at Columbia University he held numerous prestigious titles. He was associate director of the university's [[Bureau of Applied Social Research]] from 1942 to 1971, and named Giddings Professor of Sociology in 1963. He was also named to the university's highest academic rank, University Professor, in 1974 and became a Special Service Professor, a title reserved by the trustees for [[emeritus]] faculty who "render special services to the University", upon his retirement in 1979. He was an adjunct faculty member at [[Rockefeller University]], and was also the first Foundation Scholar at the [[Russell Sage Foundation]].<ref name="CURecord"/> He withdrew from teaching in 1984. In recognition of his lasting contributions to scholarship and the university, Columbia established the Robert K. Merton Professorship in the Social Sciences in 1990.<ref name="CURecord"/>
+
+=== Accolades ===
+Over his career, Merton published some 50 papers in the sociology of science. Among many other fields and topics to which he contributed his ideas and theories were [[Deviance (sociology)|deviance theory]], [[Organization|organization theory]], and [[Middle-range theory (sociology)|middle-range theory]].<ref name=":1" />{{Rp|829}}
+[[File:Robert Merton (1965).jpg|thumb|Merton receiving honorary degree, [[Leiden]], 1965]]
+Merton received many national and international honors for his research. He was one of the first sociologists elected to the [[United States National Academy of Sciences|National Academy of Sciences]], and the first American sociologist to be elected a foreign member of the [[Royal Swedish Academy of Sciences]] and a Corresponding Fellow of the [[British Academy]]. He was also a member of the [[American Philosophical Society]], the [[American Academy of Arts and Sciences]], which awarded him its Parsons Prize, the National Academy of Education, and [[Academia Europaea|Academica Europaea]].<ref name="CURecord" /> Merton is also credited as the creator of the ''[[focus group]]'' research method.<ref name="nytimes.com"/>
+
+He received a [[Guggenheim Fellowship]] in 1962 and was the first sociologist to be named a [[MacArthur Fellow]] (1983–1988). More than twenty universities awarded him honorary degrees, including: [[Harvard University|Harvard]], [[Yale]], [[Columbia University|Columbia]], and [[University of Chicago|Chicago]] University in the US; and, abroad, the Universities of [[Leiden University|Leiden]], [[University of Wales|Wales]], [[University of Oslo|Oslo]], [[University of Kraków|Kraków]], [[University of Oxford|Oxford]], and the [[Hebrew University of Jerusalem]].<ref name="CURecord" />
+
+In 1994 Merton became the first sociologist to be awarded the US [[National Medal of Science]],<ref name="CURecord" /> for "founding the sociology of science and for his pioneering contributions to the study of social life, especially the [[self-fulfilling prophecy]] and the [[unintended consequences]] of social action."<ref>Gore, Al. December 19, 1994. "speech to Robert K. Merton." ''US [[National Medal of Science]].'' Washington, DC: [[Andrew W. Mellon Auditorium]].</ref>
+
+==Theory==
+===Middle-range theory===
+{{main|Middle range theory (sociology)}}
+
+Merton's work is often compared to that of [[Talcott Parsons]]. Merton enrolled in Parsons' theory course while at Harvard, admiring Parsons' work because it introduced him to European methods of theory, while also broadening his own ideas about sociology. However, unlike Parsons, who emphasized the necessity for social science to establish a general foundation, Merton preferred more limited, ''middle-range'' theories. Merton later explained in his writings that "although much impressed by Parsons as a master-builder of sociological theory, I found myself departing from his mode of theorizing (as well as his mode of exposition)."<ref name="footnotes" /> Merton himself fashioned his theory very similarly to that of [[Emile Durkheim]]'s ''[[Suicide (Durkheim book)|Suicide]]'' (1897) or [[Max Weber]]'s ''[[The Protestant Ethic and the Spirit of Capitalism|Protestant Ethic and the Spirit of Capitalism]]'' (1905).  Weber had suggested a strong relationship between Protestant beliefs and the Economic activity that gave rise to capitalism. Merton’s extensive research highlighted a complementarity between puritanical Protestant beliefs and science, which developed rapidly in the seventeenth century.<ref name=":2">{{Cite book|last1=Cashmore|first1=Professor Ellis|last2=Cashmore|first2=Ellis|date=2002-09-11|title=Dictionary of Race and Ethnic Relations|url=http://dx.doi.org/10.4324/9780203437513|doi=10.4324/9780203437513|isbn=9780203437513}}</ref> Merton believed that middle range theories bypassed the failures of larger theories, which are too distant from observing social behavior in a particular social setting.<ref name="Mann, Doug 2008">Mann, Doug. 2008. ''Understanding Society: A Survey of Modern Social Theory''. Don Mills, ON: [[Oxford University Press]].</ref> 
+
+According to Merton, ''middle-range theory'' starts its theorizing with clearly defined aspects of social phenomena, rather than with broad, abstract entities such as society as a whole. Theories of the middle range should be firmly supported by empirical data. These theories must be constructed with observed data to create theoretical problems and to be incorporated in proposals that allow empirical testing.<ref name="Merton"/> [[Middle range theory (sociology)|Middle-range theories]], applicable to limited ranges of data, transcend sheer description of [[social phenomena]] and fill in the blanks between raw [[empiricism]] and grand or all-inclusive theory.
+
+The identification of middle-range theories or "intermediate provisions", as defined by Rinzivillo (2019), is typical of the specification that passes through functional analysis, developed by Merton in the course of his research on the relationship betweenn theory and empirical research. Unlike the [[Structural functionalism|functionalist]] theorisation proposed by Parsons, Merton proposes a choice that puts in particular evidence the relationship that the researcher should assume in the direction of a [[Pragmatism|pragmatic]] choice of the instruments and methodology it uses. In this way, the theory can be addressed for [[heuristic]] purposes and the empirical research results in the operative aspect of the analysis, where the sociologist is obliged to choose to represent always, not the universe of the variables in play, but a reduction of the field of scientific interest. A strategy, in short, in favor of the ''survey''.<ref>Rinzivillo, Guglielmo. 2019. ''Robert King Merton''. Turin: UTET. {{ISBN|978-88-6008-571-9}}. p. 237–38.</ref>
+
+=== Strain theory ===
+Merton argued that [[general strain theory]] is developed by a blockage in an individual's life which does not allow them to achieve their goal, essentially leading to [[Deviance (sociology)|deviant]] behaviour. Merton uses the progress of achieving the '[[American Dream]]' as an example. If an individual can not achieve this, it can prove frustrating for the individual and may lead to breaking free into illegal escape routes or anger-based delinquency. This theory has many criticisms as it does not factor in an individual's social class as someone as a lower [[Socioeconomic status|socio-economic]] level might not be striving to achieve the 'American Dream', meaning they do not need to carry out illegal acts. This also creates the idea that only people that fall under the bracket of the lower socio-economic are the only ones that will become a criminal and people that have achieved the 'American Dream' will not, which is simply incorrect.<ref>{{Cite journal|last=Agnew|date=1985|title=A revised strain theory of delinquency|journal=Social Forces|volume=64 |issue=1|pages=151–167|doi=10.2307/2578977|jstor=2578977}}</ref>
+
+===Clarifying functional analysis===
+Merton argues that the central orientation of [[Functionalism (sociology)|functionalism]] is in interpreting data by their consequences for larger structures in which they are implicated. Like Durkheim and Parsons, he analyzes society with reference to whether cultural and [[social structure]]s are well or badly integrated. Merton is also interested in the persistence of societies and defines [[social function|functions]] that make for the adaptation of a given [[social system]]. He believed that the way these early functionalists put emphasis on functions of one social structure or institution for another, created bias when focusing only on adaptation or adjustment because they would always have a positive consequence.<ref name="Ritzer"/> Finally, Merton thinks that shared values are central in explaining how societies and [[social institution|institutions]] work; however, he disagrees with Parsons on some issues.
+
+His belief in empirical testing led to the development of his "paradigm" of functional analysis.<ref name="Ritzer" /> According to Merton, ''paradigm'' refers to:<ref name="Holton" /> <blockquote>exemplars of codified basic and often tacit assumptions, problem sets, key concepts, logic of procedure, and selectively accumulated knowledge that guide [theoretical and empirical] inquiry in all scientific fields.</blockquote>
+
+====Dysfunctions====
+In Merton's writing on [[Abnormality (behavior)|''dysfunctions'']], he highlights problems that tend to keep social systems from meeting all of their functional requirements. In doing this, he was able to point out the details as well as the contradictions of the overall concept. One group's function could serve as another group's dysfunction, and a general incident could turn out to be both functional and dysfunctional for the same group. Merton clarified the concept by stating that a certain degree of social cohesion eases the productivity of a group and is therefore functional, but it can become dysfunctional when it surpasses a certain threshold, because then the members of the group may become equally indulgent and fail to hold each other to high performance standards.<ref name="Holton" />
+
+Merton elaborates on his three main issues or flaws with functionalism, which he labels ''postulates'': 
+
+* the postulate of the ''functional unity'' of society; 
+* the postulate of ''universal functionalism''; and
+* the postulate of ''indispensability''.
+
+The '''postulate of the functional unity of society''' refers to the misunderstanding that societies are functional and harmonious unions. According to Merton's perception of ''functionalism'', all standardized social and cultural beliefs and practices are functional for both society as a whole as well as individuals in society. This outlook maintains that various parts of social systems must show a high level of integration, but Merton argues that a generalization like this cannot be extended to larger, more complex societies. Merton points out that not all societies are happy and well-integrated, where the people function well together and all involved prosper. Merton cites examples, such as civil wars, African-Americans in the 1950s, and South African blacks during the apartheid regime as instances where societies were not necessarily functional for all people.
+
+The '''postulate of universal functionalism''' refers to the idea that all ideals work for everyone in a society. The claim of ''universal functionalism'' argues that all standardized social and cultural structures and forms have a positive function. Merton argues that this is a contradiction to what is seen in the real world; not every structure, idea, belief, etc., has positive functions. Merton believes that some things may have consequences that are generally dysfunctional or which are dysfunctional for some and functional for others. For example, poverty may benefit the rich because they are allowed to maintain more of their wealth, but it certainly does not benefit the poor who struggle. On this point he approaches [[conflict theory]], although he does believe that institutions and values can be functional for society as a whole. Merton states that only by recognizing the dysfunctional aspects of institutions, can we explain the development and persistence of alternatives. Merton's concept of dysfunctions is also central to his argument that functionalism is not essentially conservative.
+
+Lastly, the '''postulate of indispensability''' refers to the social function for customs, ideals, or institutions as a whole. This postulate states that the standardized parts of society have positive functions, and also represent indispensable parts of the working whole, which implies that structures and functions are functionally necessary for society. Here, Merton argues, people must be willing to admit that there exist various structural and functional alternatives within society.<ref name="Ritzer" /> In terms of structural functionalism, Merton felt that the focus should be on social functions rather than on individual motives.<ref name="Ritzer" /> He raises the question and doubt of whether every social institution performs a specific function, believing that several institutions can provide the same function or none at all, so it is impossible to decipher what functions are vital or not to a society.<ref name="Mann, Doug 2008" />
+
+==== Net balance ====
+To help people determine whether positive functions outweigh dysfunctions, and vice versa, Merton developed the concept of ''net balance''. Because the issues are complex and based on a lot of subjective judgement, they cannot be calculated and weighed easily. Therefore, positive functions and dysfunctions cannot be simply added up and objectively determine which outweighs the other. To deal with these issues, Merton believed that there must be levels of functional analysis. Rather than solely focusing on the analysis of society as a whole, Merton argued that analysis could and should also be done on an organization, institution or group.<ref name="Ritzer" />
+
+===Unanticipated consequences and manifest vs latent functions===
+{{main|Manifest and latent functions and dysfunctions}}
+Some of the crucial innovations that Merton made to sociology include the description of the unanticipated consequences of social action, of latent functions vs. manifest functions, and, as previously mentioned, of dysfunctions.<ref name="Holton"/> 
+
+According to Merton, ''unanticipated consequences'' are actions that have both intended and unintended consequences. Everyone is aware of the intended consequences, but the unintended are more difficult to recognize, and therefore, sociological analysis is required to uncover what they may be.<ref name="Ritzer" /> In his 1936 essay, "The Unanticipated Consequences of Social Action", Merton uncovered the wide field of human activity where things do not go as planned, and paradoxes and strange outcomes are seen. One of these outcomes is the "self-defeating prophecy", which through the very fact of its being publicized, is actually wrong. Merton was able to illustrate this by referencing [[Karl Marx]]'s prediction that as societies become more modern, the wealth will be concentrated amongst fewer people, and the majority of society would suffer from poverty and misery. This prediction helped to stimulate the socialist movement, which in some countries slowed the development that Marx had predicted.<ref name="Holton" /> Struggles for economic equality tend to spread economic benefit rather than concentrating it. The opposite of the "self-defeating prophecy" then, is the "self-fulfilling prophecy", when an originally unfounded prophecy turns out to be correct because it is believed and acted upon.<ref name="Holton" />
+
+The distinction implied between manifest and latent functions was devised to preclude the unintentional confusion between conscious motivations for our social behavior and its objective consequences.<ref>{{Cite book|last=Lemert|first=Charles C.|url=http://worldcat.org/oclc/780807465|title=Social theory : the multicultural and classic readings|date=cop. 2010|publisher=Westview|year=2014|isbn=978-0-8133-4392-1|pages=161|oclc=780807465}}</ref> [[Manifest function|'''Manifest functions''']] are the consequences that people observe or expect, or what is intended; [[latent function|'''latent functions''']] are those that are neither recognized nor intended. In distinguishing between manifest and latent functions, Merton argued that one must dig to discover latent functions. His example from his 1949 piece, "Manifest and Latent Functions", was an analysis of political machines. Manifest and latent functions were devised to prelude the inadvertent confusion between conscious motivations for social behavior and its objective consequences.<ref>{{Citation|title=Patterns of Manifest and Latent Influence: A Double Case Study of Influences on and from Robert K. Merton|date=2018-04-17|url=http://dx.doi.org/10.4324/9781351291361-21|work=Robert K. Merton and Contemporary Sociology|pages=217–230|publisher=Routledge|doi=10.4324/9781351291361-21|isbn=9781351291361|access-date=2021-10-19}}</ref>  Merton began by describing the negative consequences of political machines, and then changed the angle and demonstrated how the people in charge of the machines, acting in their own interest, were meeting the social needs not met by government institutions.<ref name="Holton" /> Merton made it very clear however, that unanticipated consequences and latent functions are not the same. ''Latent functions'' are one type of unanticipated consequences; functional for the designated system.
+
+According to Merton, there are also two other types of unanticipated consequences:<ref name="Ritzer" /> 
+
+# "Those that are dysfunctional for a designated system," which comprise the latent dysfunctions; and 
+# "Those which are irrelevant to the system which they affect neither functionally or dysfunctionally…non-functional consequences."
+
+Merton sees attention to latent functions as increasing the understanding of society: the distinction between manifest and latent forces the sociologist to go beyond the reasons individuals give for their actions or for the existence of customs and institutions; it makes them look for other social consequences that allow these practices' survival and illuminate the way society works.
+
+===Functional alternatives===
+[[Functionalism (sociology)|Functionalists]] believe societies must have certain characteristics to survive. Merton shares this view but stresses that at the same time particular institutions are not the only ones able to fulfill these functions; a wide range of functional alternatives may be able to perform the same task. This notion of functional alternative is important because it alerts sociologists to the similar functions different institutions may perform and it further reduces the tendency of functionalism to imply approval of the status quo.
+
+===Theory of deviance===
+[[File:Mertons social strain theory.svg|thumb|Merton's [[structural-functional]] idea of [[deviance (sociology)|deviance]] and [[anomie]].]]
+
+Merton's theory on deviance stems from his 1938 analysis of the relationship between culture, structure and anomie. Merton argued that deviance is most likely to occur when there is a discrepancy between culturally prescribed goals and the legitimate means of obtaining them.<ref name=":2" /> Merton defines culture as an "organized set of normative values governing behavior which is common to members of a designated society or group". Social structures are the "organized set of social relationships in which members of the society or group are variously implicated."<ref name="Merton"/> Anomie, the state of normlessness, arises when there is "an acute disjunction between the cultural norms and goals and the socially structured capacities of members of the group to act in accord with them."<ref name="Merton"/> In his theory, Merton links anomie with deviance and argues that the discontinuity between culture and structure have the dysfunctional consequence of leading to deviance within society.<ref name="Ritzer"/>  The goal of material success was accepted, but the legitimate means were abandoned in preference for illegitimate ones. So, theft might replace hard work as the means for achieving goals.<ref name=":2" /> Merton argued deviance results not from pathological personalities but from the culture and structure of society itself. Value consensus is when all members of society share the same values; however, since members of society are placed in different positions in the social structure, they do not have the same opportunity of realizing the shared values. This can create deviance.
+
+The term ''[[anomie]]'', derived from [[Émile Durkheim]], for Merton means a discord between cultural goals and the legitimate means available to reach them.<ref name="Social Structure and Anomie"/> Applied to the United States, he sees the [[American dream]] as an emphasis on the goal of monetary success, but without a corresponding emphasis on the legitimate avenues to attaining the Dream. In other words, Merton believes that the American Dream is a cultural ideal, but the ways in which people go about obtaining it are not the same.  This can lead to a considerable amount of deviance (in the [[Talcott Parsons|Parsonian]] sense). This theory is commonly used in the study of [[criminology]] (specifically the [[strain theory (sociology)|strain theory]]).
+
+In 1938, Merton’s “Social Structure and Anomie,” one of the most important works of structural theory in American sociology, Merton’s basic assumption was that the individual is not just in a structured system of action but that his or her actions may be forced by the demands of the system. Merton argued that when the economic system fails to provide legitimate means to earn an income, and status, the cultural logic of the social system may force the individual to act in ways that are culturally logical, even if illegal.<ref name=":2" />
+
+{| class="wikitable" style="text-align:center"
+|+Merton's Paradigm of Deviant Behaviour<ref>Tepperman, L., and Curtis, J. 2006. ''Principles of Sociology: Canadian Perspectives''. Dons Mills, ON: Oxford University Press. {{ISBN|978-0-19-542348-8}}. p. 117.</ref>
+|-
+! Attitude to Goals !! Attitude to Means !! Modes of Adaptation
+|-
+| accept || accept || Conformity
+|-
+| accept || reject || Innovation
+|-
+| reject || accept || Ritualism
+|-
+| reject || reject || Retreatism
+|-
+| reject/accept || reject/accept || Rebellion
+|}
+
+In this rubric, '''''conformity''''' refers to the attaining of societal goals by socially accepted means, while '''''innovation''''' refers to the attaining of those goals in unaccepted ways (such as crime and deviance). Innovators find and create their own ways to obtain what they want, and a majority of the time, these new means are considered to be socially unaccepted and deviant. Merton considers ''ritualism'' the acceptance of the means but the forfeit of the goals. Ritualists continue to subscribe to the means, but they have rejected the overall goal; they are not viewed as deviant. '''''Retreatism''''' is the rejection of both the means and the goals. Retreaters want to find a way to escape from everything and therefore reject both the goals and the means and are seen as deviant. '''''Rebellion''''' differs from the other four approaches in a number of ways. Temporally, rebellion is a short-term response (unlike the other four). Like retreaters, rebels reject both existing societal goals and means, but unlike retreaters, rebels work at the macro level to replace those existing societal goals and means with new goals and means embodying other values. Innovation and ritualism are the pure cases of anomie as Merton defined it because in both cases there is a contradiction or discontinuity between goals and means.
+
+===Sociology of science and CUDOS===
+The [[sociology of science]] was a field that Merton was very interested in and remained very passionate about throughout his career. Merton was interested in the interactions and importance between social and cultural structures and science. For example, he did pioneering historical research in his PhD dissertation on the role of military institutions in stimulating scientific research during the era of the [[Scientific Revolution]].
+
+Merton carried out extensive research into the sociology of science, developing the [[Merton Thesis]] explaining some of the religious causes of the [[Scientific Revolution]], and the [[Mertonian norms]] of science, often referred to by the acronym "[[Mertonian norms|CUDOS]]". This is a set of ideals that are dictated by what Merton takes to be the goals and methods of science and to be binding on scientists. They include:
+
+*'''Communism''': the common ownership of scientific discoveries, according to which scientists give up intellectual property in exchange for recognition and esteem.
+*'''Universalism''': according to which claims to truth are evaluated in terms of universal or impersonal criteria, and not on the basis of race, class, gender, religion, or nationality;
+*'''Disinterestedness''': according to which scientists are rewarded for acting in ways that outwardly appear to be selfless; and
+*'''Organized Skepticism''': all ideas must be tested and are subject to rigorous, structured community scrutiny.
+
+The "OS" in "CUDOS" is sometimes identified as "Originality" (i.e. novelty in research contributions) and "Skepticism". This is a subsequent modification of Merton's norm set, as he did not refer to Originality in the 1942 essay that introduced the norms, "The Normative Structure of Science".
+
+Merton introduced many concepts to the sociology of science, including: "[[obliteration by incorporation]]", referring to when a concept becomes so popularized that its inventor is forgotten; and "[[Multiple (sociology)|multiples]]", referring to independent similar discoveries.
+
+Merton and his colleagues spent much time studying "how the social system of science works in accordance with, and often also in contradiction to, the ethos of science."<ref name="Holton" /> This newer focus on the social organization of science led Merton to study the reward system in science, priority disputes between scientists, and the way in which famous scientists often receive disproportionate credit for their contributions, while less-known scientists receive less credit than their contributions merit.<ref name="Holton" /> Merton called this phenomenon the "[[Matthew effect (sociology)|Matthew effect]]". (See also [[Stigler's law of eponymy]].) As a result of the [[Matilda effect]], [[Harriet Zuckerman]] is credited by Merton as co-author of the [[Matthew effect]].<ref>http://garfield.library.upenn.edu/merton/matthewii.pdf</ref>
+
+With his study of the ''Matthew effect'', Merton showed how the social system of science sometimes deviated structurally from the ethos of science, in this case by violating the norm of universalism:<ref name="Holton" /> a few top scientists enjoying large chunks of awards, grants and jobs, and the spread and distribution of resources and recognition among scientists being highly skewed.<ref>{{cite journal |last=Gieryn |first=Thomas |title=Robert K. Merton, 1910–2003 |journal=Isis |year=2004 |volume=95 |pages=91–94 |doi=10.1086/423512|s2cid=143604816 }}</ref>
+
+===''On the Shoulders of Giants''===
+Merton referred to his book ''On the Shoulders of Giants: A Shandean Postscript'' as "OTSOG"—"part parody and part history of ideas", according to the publisher. In ''OTSOG'', he traces the history of Newton's famous comment "If I have seen farther, it is by standing on the shoulders of giants"<ref>Leyburn, James G. 1966. "On the Shoulders of Giants: A Shandean Postscript by Robert K. Merton." ''[[Social Forces]]'':603–04.</ref> back to centuries earlier, in the rambling style of [[Laurence Sterne]]'s ''[[The Life and Opinions of Tristram Shandy, Gentleman]]''.<ref>
+"Book Reviews: 'On the Shoulders of Giants: A Shandean Postscript. By Robert K. Merton'." ''Sociology and Social Research'' 50 (1965):509–10.</ref>
+
+==Influences==
+Merton was heavily influenced by [[Talcott Parsons]] and to a much lesser degree of [[Pitirim Sorokin]]. Indeed, Merton's choice of dissertation topic reflect profoundly the interest from Parsons and was not of Sorokin's liking. Hence, Sorokin was strongly opposed to the emphasis of the creativity of Puritanism, which was a central element in Merton's discussion. Merton, however, managed to have both men on his dissertation committee.<ref name=":1">Cole, Stephen. 2004. "Merton's Contribution to the Sociology of Science." ''Social Studies of Science''.</ref>{{Rp|836}} Merton worked with Sorokin as a graduate student at Harvard University.<ref name=":1" />{{Rp|837}} However, intellectuals like [[Paul Lazarsfeld]] influenced Merton to occupy himself with [[Middle range theory (sociology)|middle-range theories]]. Yet Merton's general theoretical perspectives were much closer to Parsons than Sorokin. He was also influenced by [[Lawrence Joseph Henderson|Lawrence Joseph (L.J.) Henderson]], who taught him something about the disciplined investigation of what is first entertained as an interesting idea. [[Edwin Francis Gay|E.F. Gay]] also played a role in Merton's thought, as did the famous historian of science [[George Sarton]], who allowed Merton to work with him at Harvard and is believed to have inspired Merton to have interest in science.<ref name=":1" />{{Rp|836–7}} [[Émile Durkheim]] and [[Georg Simmel]] also greatly contributed to Merton's understanding of sociology and to his own ideas.<ref name="Ritzer"/>
+
+==Legacy==
+Today, Merton is viewed as one of the founding fathers of modern-day sociology. His works are seen as the driving force of many of today's sociologists' studies. Merton's friends and colleagues credit his guidance to the positive direction of modern sociology as well. In particular, Columbia provost [[Jonathan R. Cole]] who studied under Merton praised him shortly after his death, saying:<ref name="footnotes" />
+
+<blockquote>Bob Merton became the leader of structural-functional analysis in sociology, and the leader of those sociologists who attempted to create social theories that could be empirically tested. He was an inspirational teacher and editor, and with his students, such as [[James Samuel Coleman|James S. Coleman]] and [[Seymour Martin Lipset]], among many others who would become leading figures in the field, he helped to build and legitimate the field of sociology in America. For me, he was a model teacher and mentor, a trusted colleague, and a close friend. His death, in many ways, puts a period at the end of 20th-century sociology. </blockquote>
+
+Through his theory and research during his many decades as a sociologist, Merton essentially created and sustained what is the modern sociology of science.{{citation needed|date=June 2015}}
+
+The '''Robert K. Merton Award''' for the best paper in [[analytical sociology]], has been awarded annually by the [[International Network of Analytical Sociology]] since 2013.<ref>{{cite web | url=https://www.analyticalsociology.com/index.php/about/the-merton-award | title=About the Robert K. Merton Award | publisher=International Network of Analytical Sociology | access-date=December 26, 2019}}</ref>
+
+==Publications==
+*1938. "Science, Technology and Society in Seventeenth Century England." ''[[Osiris (journal)|Osiris]]'' 4(2):360–632.<ref>Merton, Robert K. 1938. "Science, Technology and Society in Seventeenth Century England." ''[[Osiris (journal)|Osiris]]'' 4(2):360–62. Bruges: St. Catherine Press. {{Doi|10.1086/368484}}.</ref><ref>Merton, Robert K. 2001 [1938]. "Science, Technology and Society in Seventeenth Century England." New York: Howard Fertig, 2001, {{ISBN|978-0-86527-434-1}}.</ref>
+**This publication made Merton well known among [[History of science|historians of science]]. It was strongly influenced by [[Boris Hessen]]'s famous 1931 Marxist account, ''The Socio-economic Roots of Newton's Principia'', which he defended in a paper "Science and the Economy of Seventeenth Century England".<ref>Merton, Robert K. 1939. "Science and the Economy of Seventeenth Century England." ''[[Science & Society]]'' 3:3–27.</ref> However, Merton also supplemented Hessen's analysis of the technological determinants of the fields of inquiry of [[seventeenth-century science]] with a study of the influence of religion (especially [[Protestantism]]) on the social legitimacy of science as a profession: the so-called "[[Merton Thesis]]". He also supported Hessen's arguments by revealing how military problems influenced the research agendas of the [[Royal Society]].
+*1938. "Social Structure and Anomie." ''[[American Sociological Review]]'' 3:672–82.<ref>Merton, Robert K. 1938. "[https://web.archive.org/web/20070221105257/http://www.d.umn.edu/cla/faculty/jhamlin/2111/Readings/MertonAnomie.pdf Social Structure and Anomie]." ''[[American Sociological Review]]'' 3:672–82.</ref>
+*1942. "The Normative Structure of Science"<ref>Merton, Robert K. 1979 [1942]. "The Normative Structure of Science." In ''The Sociology of Science: Theoretical and Empirical Investigations''. Chicago: [[University of Chicago Press]]. {{ISBN|978-0-226-52092-6}}. Version [http://www.panarchy.org/merton/science.html available to read via Panarchy.org].</ref>
+* 1949. ''[[Social Theory and Social Structure]]'' (revised and expanded in 1957 and 1968)
+* 1965. ''On the Shoulders of Giants: A [[Tristram Shandy|Shandean]] Postscript''
+* 1973. ''The Sociology of Science''
+* 1976. ''Sociological Ambivalence''
+* 1979. ''The Sociology of Science: An Episodic Memoir''
+*1985. "George Sarton: Episodic Recollections by an Unruly Apprentice." ''[[Isis (journal)|Isis]]'' 76(4):470–86.<ref>Merton, Robert K. 1985. "George Sarton: Episodic Recollections by an Unruly Apprentice." ''[[Isis (journal)|Isis]]'' 76(4):470–86. {{Doi|10.1086/353958}}. {{ISSN|0021-1753}}. {{JSTOR|233022}}.</ref>
+* 1996. ''On Social Structure and Science'', edited by [[Piotr Sztompka]]
+* 2004. ''The Travels and Adventures of Serendipity: A Study in Sociological Semantics and the Sociology of Science''
+
+==See also==
+* [[Historic recurrence#Striking similarity|Historic recurrence]]
+* [[Logology (science)|Logology (science of science)]]
+* [[Narcotizing dysfunction]]
+* [[Role set]]
+* [[Sociology of scientific knowledge]]
+
+==References==
+
+=== Notes ===
+{{Reflist|group=lower-roman}}
+
+=== Citations ===
+{{reflist|35em|refs=
+
+<ref name="Holton">{{Cite book | publisher = American Philosophical Society | isbn = 978-1-4223-7290-6 | volume = 148 | last = Gerald Holton | title = Robert K. Merton, 4 July 1910· 23 February 2003 | url = http://www.amphilsoc.org/publications/proceedings/v/148/n/4 | date = December 2004 | issue = 4 | url-status = dead | archive-url = https://web.archive.org/web/20170214075141/https://amphilsoc.org/publications/proceedings/v/148/n/4 | archive-date = February 14, 2017 }}</ref>
+
+<ref name="Merton">{{Cite book | edition = 1968 enlarged | publisher = Free Press | isbn = 978-0-02-921130-4 | last = Merton | first = Robert K. | title = Social Theory and Social Structure | location = New York, NY, US | date = August 1, 1968 }}</ref>
+
+<ref name="CURecord">{{Cite journal | issn = 	0747-4504 | volume = 20 | issue = 2 | title = Merton Awarded Nation's Highest Science Honor | journal = Columbia University Record | date = September 16, 1994 | url = http://www.columbia.edu/cu/record/archives/vol20/vol20_iss2/record2002.13.html }}</ref>
+
+<ref name="Ritzer">{{Cite book | edition = 7 | publisher = McGraw-Hill Higher Education | isbn = 978-0-07-352818-2 | last = Ritzer | first = George | title = Sociological Theory | date = July 23, 2007 | pages = [https://archive.org/details/sociologicaltheo00ritz/page/251 251–257] | url-access = registration | url = https://archive.org/details/sociologicaltheo00ritz/page/251 }}</ref>
+
+<ref name="Robert K. Merton">{{cite web |url=http://www.columbia.edu/cu/news/03/02/robertKMerton.html |title= Robert K. Merton}}</ref>
+
+<ref name="Simonson2010">{{cite book|author=Peter Simonson|title=Refiguring Mass Communication: A History|year=2010|publisher=University of Illinois Press|isbn=978-0-252-07705-0|pages=123–130}}</ref>
+
+<ref name="Social Structure and Anomie">{{Cite journal | doi = 10.2307/2084686 | issn = 0003-1224 | volume = 3 | issue = 5 | pages = 672–682 | last = Merton | first = Robert K. | title = Social Structure and Anomie | journal = American Sociological Review | date = October 1938 | jstor = 2084686 }}</ref>
+
+<ref name="The Unanticipated Consequences of Purposive Social Action">{{Cite journal | doi = 10.2307/2084615 | issn = 0003-1224 | volume = 1 | issue = 6 | pages = 894–904 | last = Merton | first = Robert K. | title = The Unanticipated Consequences of Purposive Social Action | journal = American Sociological Review | date = December 1936 | jstor = 2084615 | s2cid = 8005707 | url = https://semanticscholar.org/paper/dc9f6f377a93108e8ad73be1e9c0111428a5a8b9 }}</ref>
+
+<ref name="nytimes.com">{{cite news| url=https://www.nytimes.com/2003/02/24/nyregion/robert-k-merton-versatile-sociologist-and-father-of-the-focus-group-dies-at-92.html | work=The New York Times | first=Michael T. | last=Kaufman | title=Robert K. Merton, Versatile Sociologist and Father of the Focus Group, Dies at 92 | date=February 24, 2003}}</ref>
+}}
+
+== Further reading ==
+
+* Deflem, Mathieu. 2018. "[https://deflem.blogspot.com/2018/04/anomiestrainmerton.html Anomie, Strain, and Opportunity Structure: Robert K. Merton's Paradigm of Deviant Behavior]." Pp.&nbsp;140–55 in ''The Handbook of the History and Philosophy of Criminology'', edited by R. A. Triplett. Malden, MA: [[Wiley-Blackwell]].
+*— 2018. "[https://deflem.blogspot.com/2018/05/robertkmerton.html Merton, Robert K]." ''The Wiley Blackwell Encyclopedia of Social Theory'', edited by B. S. Turner. Malden, MA: Wiley-Blackwell.
+*Poros, Maritsa V., and Elizabeth Needham. 2004. "Writings of Robert K. Merton." ''Social Studies of Science'' 34(6):863–78. {{JSTOR|4144349}}.
+
+==External links==
+{{Wikiquote|Robert K. Merton}}
+*{{Google Scholar id|id=FizCgdoAAAAJ|name=Robert. K. Merton}}.
+*[http://garfield.library.upenn.edu/merton/rkmpublications.html Robert K. Merton Selected Publications] — posted by E. Garfield, [[University of Pennsylvania]].
+*[https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_6911309 Robert K. Merton papers, 1928–2003, bulk 1943–2001] — [https://library.columbia.edu/libraries/rbml.html ''Rare Book & Manuscript Library'']. Columbia University Archival Collections.
+*[http://www.faculty.rsu.edu/~felwell/Theorists/Merton/ Robert K. Merton (1910–2003)] — by F. W. Elwell, [[Rogers State University]].
+
+{{Media studies}}
+{{American Sociological Association presidents}}
+{{Winners of the National Medal of Science|behav-social}}
+{{Authority control}}
+
+{{DEFAULTSORT:Merton, Robert King}}
+[[Category:Robert K. Merton| ]]
+[[Category:1910 births]]
+[[Category:2003 deaths]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:American sociologists]]
+[[Category:Columbia University faculty]]
+[[Category:Functionalism (social theory)]]
+[[Category:Harvard University alumni]]
+[[Category:Historians of science]]
+[[Category:Jewish American social scientists]]
+[[Category:Jewish sociologists]]
+[[Category:MacArthur Fellows]]
+[[Category:Members of the Royal Swedish Academy of Sciences]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:National Medal of Science laureates]]
+[[Category:Presidents of the American Sociological Association]]
+[[Category:Public administration scholars]]
+[[Category:Sociologists of science]]
+[[Category:Medical sociologists]]
+[[Category:Temple University alumni]]
+[[Category:Structural functionalism]]
+[[Category:Russell Sage Foundation]]
+[[Category:Corresponding Fellows of the British Academy]]

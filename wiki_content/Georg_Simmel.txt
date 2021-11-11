@@ -1,0 +1,242 @@
+{{short description|German sociologist and philosopher}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox philosopher
+| region  = [[Western philosophy]]
+| era     = [[19th-century philosophy]]
+| image   = Simmel 01.JPG
+| name    = Georg Simmel
+| birth_date   = 1 March 1858
+| birth_place  = [[Berlin]], [[Kingdom of Prussia]]
+| death_date   = {{death date and age|df=yes|1918|09|26|1858|03|01}}
+| death_place  = [[Strasbourg|Strassburg]], [[German Empire]]
+| nationality = German
+| alma_mater  = [[Humboldt University of Berlin|University of Berlin]]
+| institutions = [[Humboldt University of Berlin|University of Berlin]]<br />[[University of Strasbourg]]
+| school_tradition = [[Neo-Kantianism]]<br />''[[Lebensphilosophie]]''<ref>Nicolas de Warren, Andrea Staiti (eds.), ''New Approaches to Neo-Kantianism'', Cambridge University Press, 2015, p. 196.</ref>
+| main_interests = [[Philosophy]], [[sociology]]
+| influences = [[Immanuel Kant]], [[Max Weber]]
+| influenced = [[Lewis A. Coser]], [[Mark Granovetter]], [[Georg Lukács]], [[Max Weber]], [[Barry Wellman]], [[Harrison White]], [[Emil Cioran]]
+| notable_ideas = [[Formal sociology]], social forms and contents, the tragedy of culture,<ref>Georg Simmel (1919), ''Philosophische Kultur'', Alfred Kröner Verlag, Leipzig.</ref> web of group affiliation
+| notable_students = [[György Lukács]], [[Robert E. Park]], [[Max Scheler]]
+}}
+'''Georg Simmel''' ({{IPAc-en|ˈ|z|ɪ|m|əl}}; {{IPA-de|ˈzɪməl|lang}}; 1 March 1858 – 26 September 1918) was a German [[sociologist]], [[philosopher]], and [[critic]].
+
+Simmel was influential in the field of sociology.<ref>{{Cite journal|last=Broćić|first=Miloš|last2=Silver|first2=Daniel|date=2021|title=The Influence of Simmel on American Sociology Since 1975|url=https://www.annualreviews.org/doi/10.1146/annurev-soc-090320-033647|journal=Annual Review of Sociology|language=en|volume=47|issue=1|doi=10.1146/annurev-soc-090320-033647|issn=0360-0572}}</ref> Simmel was one of the first generation of German sociologists: his [[neo-Kantian]] approach laid the foundations for sociological [[antipositivism]], asking ''what is society?''—directly alluding to Kant's ''what is nature?''<ref name="l6">Levine, Donald, ed. (1971) ''Simmel: On individuality and social forms''. Chicago: University of Chicago Press. {{ISBN|0226757765}}. p. 6.</ref>—presenting pioneering analyses of social [[Individualism|individuality]] and [[Fragmentation (sociology)|fragmentation]]. For Simmel, ''culture'' referred to "the cultivation of individuals through the agency of external forms which have been objectified in the course of history."<ref name=l6/> Simmel discussed social and cultural phenomena in terms of "forms" and "contents" with a transient relationship, wherein form becomes content, and vice versa dependent on context. In this sense, Simmel was a forerunner to [[structuralism (sociology)|structuralist]] styles of reasoning in the [[social sciences]]. With his work on ''the [[metropolis]],'' Simmel would also be a precursor of [[urban sociology]], [[symbolic interactionism]], and [[social network]] analysis.<ref>[[Barry Wellman|Wellman, Barry]]. 1988. "Structural Analysis: From Method and Metaphor to Theory and Substance." Pp. 19–61 in ''Social Structures: A Network Approach'', edited by B. Wellman and S. D. Berkowitz. Cambridge: Cambridge University Press. {{ISBN|0521286875}}.</ref><ref>Freeman, Linton (2004) ''The Development of Social Network Analysis.'' Vancouver: Empirical Press, {{ISBN|1594577145}}.</ref>
+
+An acquaintance of [[Max Weber]], Simmel wrote on the topic of personal character in a manner reminiscent of the sociological '[[ideal type]]'. He broadly rejected academic standards, however, philosophically covering topics such as emotion and romantic love. Both Simmel and Weber's nonpositivist theory would inform the eclectic [[critical theory]] of the [[Frankfurt School]].<ref>Outhwaite, William. 2009 [1988]. ''Habermas: Key Contemporary Thinkers'' (2nd ed.). {{ISBN|9780745643281}}. p. 5.</ref>
+
+Simmel's most famous works today are ''The Problems of the Philosophy of History'' (1892), ''[[The Philosophy of Money]]'' (1900), ''[[The Metropolis and Mental Life]]'' (1903), and ''Fundamental Questions of Sociology'' (1917), as well as ''Soziologie'' (1908), which compiles various essays of Simmel's, including "[[The Stranger (sociology)|The Stranger]]", "The Social Boundary", "The Sociology of the Senses", "[[Sociology of space|The Sociology of Space]]", and "On The Spatial Projections of Social Forms". He also wrote extensively on the philosophy of [[Schopenhauer]] and [[Nietzsche]], as well on [[art]], most notably through his ''Rembrandt: An Essay in the Philosophy of Art'' (1916).
+
+==Biography==
+
+=== Early life and education ===
+Georg Simmel was born in [[Berlin]], [[Germany]], as the youngest of seven children to an [[Jewish assimilation|assimilated Jewish]] family. His father, Eduard Simmel (1810–1874), a prosperous businessman and convert to [[Roman catholic|Roman Catholicism]], had founded a confectionery store called "Felix & Sarotti" that would later be taken over by a [[Sarotti|chocolate manufacturer]]. His mother Flora Bodstein (1818–1897) came from a Jewish family who had converted to [[Lutheranism]]. Georg, himself, was [[baptized]] as a [[Protestant]] when he was a child.<ref name="The Sociology of Georg Simmel">[[Kurt Heinrich Wolff|Wolff, Kurt H.]] 1950. [[iarchive:sociologyofgeorg030082mbp|''The Sociology of Georg Simmel'']]. Glencoe, IL: Free Press.</ref> 
+His father died in 1874, when Georg was 16, leaving a sizable inheritance.<ref>[[Horst Helle|Helle, Horst J.]] 2009. "Introduction to the translation." ''Sociology: inquiries into the construction of social forms'' 1. Leiden, HL: [[Brill Publishers|Koninklijke Brill]]. p. 12.</ref> Georg was then adopted by Julius Friedländer, the founder of an international music publishing house known as Peters Verlag, who endowed him with the large fortune that enabled him to become a scholar.<ref>Coser, Lewis A. 1977. "[http://socio.ch/sim/bio.htm Georg Simmel: Biographic Information]." In  ''Masters of Sociological Thought: Ideas in Historical and Social Context'' (2nd ed.). New York: [[Harcourt (publisher)|Harcourt Brace Jovanovich]].</ref>
+
+Beginning in 1876, Simmel studied [[philosophy]] and [[history]] at the [[Humboldt University of Berlin]],<ref name="GS-society">"[http://www.simmel-gesellschaft.de/00_simmel/biostud.htm Biografie]" {{in lang|de}}. Section: "Studien und Ehe" (university studies and marriage). Georg Simmel Gesellschaft. simmel-gesellschaft.de. Retrieved 17 January 2018.</ref> going on to receive his doctorate in 1881 for his thesis on Kantian philosophy of matter, titled "{{Lang-de|Das Wesen der Materie nach Kants Physischer Monadologie|label=none|italic=no}}" ("The Nature of Matter According to Kant's Physical Monadology").<ref name="GS-society" />
+
+===Later life===
+In 1890, Georg married Gertrud Kinel, a philosopher who published under the [[pseudonym]] Marie-Luise Enckendorf, and under her own name. They lived a sheltered and bourgeois life, their home becoming a venue for cultivated gatherings in the tradition of the salon.<ref name="socio.ch">{{cite book|last1=Coser|first1=Lewis A|url=http://socio.ch/sim/bio.htm|title=Masters of Sociological Thought: Ideas in Historical and Social Context|date=1977}}</ref> They had one son, Hans Eugen Simmel, who became a medical doctor.<ref>{{cite web|url=http://agso.uni-graz.at/lexikon/klassiker/simmel/42bio.htm|title=Biografie Georg Simmel|website=50 Klassiker der Soziologie|access-date=21 September 2017}}</ref> Georg and Gertrud's granddaughter was the psychologist [[Marianne Simmel]]. Simmel also had a secret affair with his assistant [[Gertrud Kantorowicz]], who bore him a daughter in 1907, though this fact was hidden until after Simmel's death.<ref name="LaneRuehl2011">{{cite book|last=Lerner|first=Robert E.|title=A Poet's Reich: Politics and Culture in the George Circle|publisher=Camden House|year=2011|isbn=978-1-57113-462-2|editor1=Melissa Lane|editor-link1=Melissa Lane|pages=56–77|chapter=The Secret Germany of Gertrud Kantorowicz|author-link=Robert E. Lerner|editor2=Martin Ruehl|chapter-url=https://books.google.com/books?id=5YiiHc6WLpMC&pg=PA56}}</ref>
+
+In 1917, Simmel stopped reading the newspapers and withdrew to the [[Black Forest]] to finish the book ''The View of Life'' (''Lebensanschauung'').<ref name="The Sociology of Georg Simmel" |pages=xii–xiii/> Shortly before the end of the war in 1918, he died from [[Hepatocellular carcinoma|liver cancer]] in Strasbourg.<ref name="socio.ch" />
+
+==Career==
+In 1885, Simmel became a ''[[privatdozent]]'' at the [[Humboldt University of Berlin|University of Berlin]], officially lecturing in philosophy but also in [[ethics]], [[logic]], [[pessimism]], [[art]], [[psychology]] and [[sociology]].<ref name=":0">"[https://www.britannica.com/biography/Georg-Simmel Georg Simmel]." ''[[Encyclopædia Britannica]]'', 2020 [1999].</ref> His lectures were not only popular inside the university, but attracted the intellectual elite of Berlin as well. Although his applications for vacant chairs at German universities were supported by [[Max Weber]], Simmel remained an academic outsider. However, with the support of an inheritance from his guardian, he was able to pursue his scholarly interests for many years without needing a salaried position.<ref name="Palmisano">Palmisano, Joseph&nbsp;M. 2001. "Georg Simmel." ''World of Sociology''. Detroit: [[Gale (publisher)|Gale]]. Retrieved 17 January 2018 via ''Biography in Context'' database.</ref>
+
+Simmel had a hard time gaining acceptance in the academic community despite the support of well known associates, such as [[Max Weber]], [[Rainer Maria Rilke]], [[Stefan George]] and [[Edmund Husserl]]. This was partly because he was seen as a Jew during an era of anti-Semitism, but also simply because his articles were written for a general audience rather than academic sociologists. This led to dismissive judgements from other professionals. Simmel nevertheless continued his intellectual and academic work, as well as taking part in artistic circles.
+
+In 1909, Simmel, together with [[Ferdinand Tönnies]] and [[Max Weber]], and others, was a co-founder of the [[German Sociological Association|German Society for Sociology]],<ref name="Palmisano"/> serving as a member of its first executive body.<ref>Glatzer, Wolfgang. "[http://www.soziologie.de/index.php?id=14 Die akademische soziologische Vereinigung seit 1909]" {{Webarchive|url=https://web.archive.org/web/20160303171433/http://www.soziologie.de/index.php?id=14 |date=3 March 2016 }} {{in lang|de}}. ''Deutsche Gesellschaft für Soziologie''. Retrieved 17 January 2018.</ref>
+
+In 1914, Simmel received an ordinary professorship with chair, at the then German [[University of Strasbourg|University of Strassburg]],<ref name=":0" /> but did not feel at home there. Because [[World War I]] broke out, all academic activities and lectures were halted and lecture halls were converted to military hospitals. In 1915 he applied &ndash; without success &ndash; for a chair at the [[University of Heidelberg]].<ref name="Goodstein">Goodstein, Elizabeth S. (2017). ''Georg Simmel and the Disciplinary Imaginary''. Stanford: Stanford University Press, {{ISBN|1503600742}}.</ref> He remained at the University of Strasbourg until his death in 1918.<ref>{{Cite book|title=Encyclopedia of the City|last=Caves|first=R. W.|publisher=Routledge|year=2004|pages=596}}</ref>
+
+Prior to World War I, Simmel had not been very interested in contemporary history, but rather in looking at the interactions, art and philosophy of his time. However, after its start, he was interested in its unfolding. Yet, he seems to give conflicting opinions of events, being a supporter in "Germany's inner transformation," more objective in "the idea of Europe" and a critic in "The crisis of culture." {{Dubious|date=July 2009}} Eventually, Simmel grew tired of the war, especially in the year of his death.
+
+==Theory==
+There are four basic levels of concern in Simmel's work:
+
+# The psychological workings of social life 
+# The sociological workings of [[interpersonal relationship]]s.
+# The structure of and changes in ''[[zeitgeist]]'' (i.e. the social and cultural "spirit") of his time. He would also adopt the principle of ''[[emergentism]]'', the idea that higher levels of conscious properties emerge from lower levels.
+# The nature and inevitable fate of humanity.
+
+===Dialectical method===
+
+A [[dialectic]]al approach is a multicausal and multidirectional method: it focuses on social relations; integrates facts and value, rejecting the idea that there are hard and fast dividing lines between social phenomena; looks not only at the present, but also at the past and future; and is deeply concerned with both conflicts and contradictions. Simmel's sociology was concerned with relationships—especially interaction—and was thus known as a {{Wikt-lang|en|methodological}} ''[[Relationalism|relationalist]]''. This approach is based on the idea that interactions exist between everything.<ref name="ritzer" /> Overall, Simmel would be mostly interested in [[Mind–body dualism|dualisms]], [[Conflict (process)|conflicts]], and [[contradiction]]s in whatever realm of the social world he happened to be working on.<ref name="ritzer" />
+
+=== Forms of association ===
+The furthest Simmel has brought his work to a [[Microsociology|micro-level]] of analysis was in dealing with forms and interactions that takes place with different types of people. Such forms would include ''subordination'', ''superordination'', ''exchange'', ''conflict'' and ''sociability''.<ref name="ritzer">{{cite book|author=Ritzer|first=George|title=Modern Sociological Theory|publisher=McGraw–Hill|year=2007|isbn=978-0073404103|edition=7th|place=New York|ref=Ritzer|author-link=George Ritzer}}</ref>{{rp|158–88}}
+
+Simmel focused on these forms of [[Social relation|association]] while paying little attention to individual consciousness. Simmel believed in the ''creative [[consciousness]]'' that can be found in diverse forms of interaction, which he observed both the ability of actors to create [[social structure]]s, as well as the disastrous effects such structures had on the creativity of individuals. Simmel also believed that social and cultural structures come to have a life of their own.<ref name="ritzer" />
+
+====Sociability====
+Simmel refers to "all the forms of association by which a mere sum of separate individuals are made into a 'society'," whereby ''society'' is defined as a "higher unity," composed of individuals.<ref name="ritzer" />{{rp|157}}
+
+Simmel would especially be fascinated by man's "impulse to sociability," whereby "the solitariness of the individuals is resolved into togetherness," referring to this unity as "the free-playing, interacting interdependence of individuals."<ref name="ritzer" />{{rp|157–8}} Accordingly, he defines ''sociability'' as "the play-form of association" driven by "amicability, breeding, cordiality and attractiveness of all kinds."<ref name="ritzer" />{{rp|158}} In order for this free association to occur, Simmel explains, "the personalities must not emphasize themselves too individually...with too much abandon and aggressiveness."<ref name="ritzer" />{{rp|158}} Rather, "this world of sociability...a democracy of equals" is to be without friction so long as people blend together in the spirit of pleasure and bringing "about among themselves a pure interaction free of any disturbing material accent."<ref name="ritzer" />{{rp|159}}
+
+Simmel describes idealized interactions in expressing that "the vitality of real individuals, in their sensitivities and attractions, in the fullness of their impulses and convictions...is but a symbol of life, as it shows itself in the flow of a lightly amusing play," adding that "a symbolic play, in whose [[Aesthetics|aesthetic]] charm all the finest and most highly sublimated dynamics of social existence and its riches are gathered."<ref name="ritzer" />{{rp|162–3}}
+
+===Social geometry===
+In a dyad (i.e. a two-person group), a person is able to retain their individuality as there is no fear that another may shift the balance of the group. In contrast, triads (i.e. three-person groups) risk the potential of one member becoming subordinate to the other two, thus threatening their individuality. Furthermore, were a triad to lose a member, it would become a dyad.
+
+The basic nature of this dyad-triad principle forms the essence of structures that form society. As a group (structure) increases in size, it becomes more isolated and segmented, whereby the individual also becomes further separated from each member. In respect to the notion of "group size", Simmel's view was somewhat ambiguous. On one hand, he believed that the individual benefits most when a group gets bigger, as such makes it harder to exert control on the individual. On the other hand, with a large group there is a possibility of the individual becoming distant and impersonal. Therefore, in an effort for the individual to cope with the larger group they must become a part of a smaller group such as the family.<ref name="ritzer" />
+
+The value of something is determined by the distance from its actor. In [[The Stranger (sociology)|"The Stranger"]], Simmel discusses how if a person is too close to the actor they are not considered a stranger. If they are too far, however, they would no longer be a part of a group. The particular distance from a group allows a person to have objective relationships with different group members.<ref name="ritzer" />
+
+==Views==
+
+===On the metropolis===
+
+One of Simmel's most notable essays is "[[The Metropolis and Mental Life]]" ("{{Lang-de|Die Großstädte und das Geistesleben|label=none|italic=no}}") from 1903, which was originally given as one of a series of lectures on all aspects of city life by experts in various fields, ranging from science and religion to art. The series was conducted alongside the [[Dresden]] cities exhibition of 1903. Simmel was originally asked to lecture on the role of intellectual (or scholarly) life in the big city, but he effectively reversed the topic in order to analyze the effects of the big city on the mind of the individual. As a result, when the lectures were published as essays in a book, to fill the gap, the series editor himself had to supply an essay on the original topic.{{citation needed|date=July 2017}}
+
+The ''Metropolis and Mental Life'' was not particularly well received during Simmel's lifetime. The organizers of the exhibition over-emphasized its negative comments about city life, because Simmel also pointed out positive transformations. During the 1920s the essay was influential on the thinking of Robert E. Park and other American sociologists at the University of Chicago who collectively became known as the [[Chicago school (sociology)|"Chicago School"]]. It gained wider circulation in the 1950s when it was translated into English and published as part of Kurt Wolff's edited collection, ''The Sociology of Georg Simmel''. It now appears regularly on the reading lists of courses in urban studies and architecture history. However, it is important to note that the notion of the blasé is actually not the central or final point of the essay, but is part of a description of a sequence of states in an irreversible transformation of the mind. In other words, Simmel does not quite say that the big city has an overall negative effect on the mind or the self, even as he suggests that it undergoes permanent changes. It is perhaps this ambiguity that gave the essay a lasting place in the discourse on the metropolis.<ref>Simmel, Georg. 1971 [1903]. "The Metropolis and Mental Life." P. 324 in ''Simmel: On individuality and social forms'', edited by [[Donald N. Levine|D. N. Levine]]. Chicago: Chicago University Press. {{ISBN|0226757765}}.</ref>
+
+{{Quotation|The deepest problems of modern life flow from the attempt of the individual to maintain the independence and individuality of his existence against the sovereign powers of society, against the weight of the historical heritage and the external culture and technique of life. The antagonism represents the most modern form of the conflict which primitive man must carry on with nature for his own bodily existence. The eighteenth century may have called for liberation from all the ties which grew up historically in politics, in religion, in morality and in economics in order to permit the original natural virtue of man, which is equal in everyone, to develop without inhibition; the nineteenth century may have sought to promote, in addition to man's freedom, his individuality (which is connected with the division of labor) and his achievements which make him unique and indispensable but which at the same time make him so much the more dependent on the complementary activity of others; Nietzsche may have seen the relentless struggle of the individual as the prerequisite for his full development, while socialism found the same thing in the suppression of all competition – but in each of these the same fundamental motive was at work, namely the resistance of the individual to being levelled, swallowed up in the social-technological mechanism.|Georg Simmel|''The Metropolis and Mental Life'' (1903)|source=}}
+
+===''The Philosophy of Money''===
+{{main|The Philosophy of Money}}
+In ''The Philosophy of Money'', Simmel views [[money]] as a component of life which helped us understand the totality of life. Simmel believed people created value by making objects, then separating themselves from that object and then trying to overcome that distance. He found that things which were too close were not considered valuable and things which were too far for people to get were also not considered valuable. Considered in determining value was the scarcity, time, sacrifice, and difficulties involved in getting the object.<ref name="ritzer" />
+
+For Simmel, city life led to a division of labor and increased [[financialization]]. As financial transactions increase, some emphasis shifts to what the individual can do, instead of who the individual is. Financial matters in addition to emotions are in play.<ref name=ritzer/>
+
+===''The Stranger''===
+{{Main|The Stranger (sociology)}}
+[[Image:Georg-Simmel-1914.jpg|thumb|150px|Simmel in 1914]]
+Simmel's concept of distance comes into play where he identifies a stranger as a person that is far away and close at the same time.<ref name="Simmel, Georg 1976">Simmel, Georg. 1976 [1908]. "The Stranger." In ''The Sociology of Georg Simmel''. New York: Free Press.</ref>
+
+{{Quotation|The Stranger is close to us, insofar as we feel between him and ourselves common features of a national, social, occupational, or generally human, nature. He is far from us, insofar as these common features extend beyond him or us, and connect us only because they connect a great many people.|Georg Simmel|"[[The Stranger (sociology)|The Stranger]]" (1908)|source=}}
+A stranger is far enough away that he is unknown but close enough that it is possible to get to know him. In a society there must be a stranger. If everyone is known then there is no person that is able to bring something new to everybody.
+
+The stranger bears a certain objectivity that makes him a valuable member to the individual and society. People let down their inhibitions around him and confess openly without any fear. This is because there is a belief that the Stranger is not connected to anyone significant and therefore does not pose a threat to the confessor's life.{{citation needed|date=October 2017}}
+
+More generally, Simmel observes that because of their peculiar position in the group, strangers often carry out special tasks that the other members of the group are either incapable or unwilling to carry out. For example, especially in pre-modern societies, most strangers made a living from trade, which was often viewed as an unpleasant activity by "native" members of those societies. In some societies, they were also employed as [[arbitrator]]s and judges, because they were expected to treat rival factions in society with an [[Impartiality|impartial]] attitude.<ref>{{cite journal|author=Karakayali, Nedim|doi=10.1111/j.1467-9558.2006.00293.x|title=The Uses of the Stranger: Circulation, Arbitration, Secrecy, and Dirt|year=2006|journal=Sociological Theory|volume=24|issue=4|pages=312–330 |hdl=11693/23657|s2cid=53581773|hdl-access=free}}</ref>
+
+{{Quotation|Objectivity may also be defined as freedom: the objective individual is bound by no commitments which could prejudice his perception, understanding, and evaluation of the given.|Georg Simmel|"The Stranger" (1908)|source=}}
+
+On one hand the stranger's opinion does not really matter because of his lack of connection to society, but on the other the stranger's opinion does matter, because of his lack of connection to society. He holds a certain objectivity that allows him to be unbiased and decide freely without fear. He is simply able to see, think, and decide without being influenced by the opinion of others.{{citation needed|date=July 2017}}
+
+===On secrecy===
+According to Simmel, in small groups, secrets are less needed because everyone seems to be more similar. In larger groups [[Sociological aspects of secrecy|secrets are needed]] as a result of their heterogeneity. In secret societies, groups are held together by the need to maintain the secret, a condition that also causes tension because the society relies on its sense of secrecy and exclusion.<ref>{{cite journal |last1=Simmel |first1=Georg |title=The Sociology of Secrecy and of Secret Societies |journal=American Journal of Sociology |date=1906 |volume=11 |issue=4 |pages=441–498 |doi=10.1086/211418 |s2cid=55481088 |url=https://zenodo.org/record/2422431 }}</ref>
+For Simmel, secrecy exists even in relationships as intimate as marriage.{{citation needed|date=July 2017}}In revealing all, marriage becomes dull and boring and loses all excitement. Simmel saw a general thread in the importance of secrets and the strategic use of ignorance: To be social beings who are able to cope successfully with their social environment, people need clearly defined realms of unknowns for themselves.<ref>{{cite journal|author=Gross, Matthias |doi=10.1177/1749975512445431|title='Objective Culture' and the Development of Nonknowledge: Georg Simmel and the Reverse Side of Knowing|year=2012|journal=Cultural Sociology|volume=6|issue=4|pages=422–437|s2cid=144524090|author-link=Matthias Gross}}</ref> Furthermore, sharing a common secret produces a strong "we feeling." The modern world depends on honesty and therefore a lie can be considered more devastating than it ever has been before.{{citation needed|date=July 2017}}
+Money allows a level of secrecy that has never been attainable before, because money allows for "invisible" transactions, due to the fact that money is now an integral part of human values and beliefs. It is possible to buy silence.<ref name=ritzer/>
+
+===On flirtation===
+In his multi-layered essay, "Women, Sexuality & Love", published in 1923, Simmel discusses [[flirtation]] as a generalized type of social interaction. According to Simmel, "to define flirtation as simply a 'passion for pleasing' is to confuse the means to an end with the desire for this end." The distinctiveness of the flirt lies in the fact that she awakens delight and desire by means of a unique antithesis and synthesis: through the alternation of accommodation and denial. In the behavior of the flirt, the man feels the proximity and interpenetration of the ability and inability to acquire something. This is in essence the "price." A sidelong glance with the head half-turned is characteristic of flirtation in its most banal guise.<ref>Simmel, Georg. 1984 [1923]. "Women, Sexuality & Love"</ref>
+
+===On fashion===
+In the eyes of Simmel, fashion is a form of social relationship that allows those who wish to conform to the demands of a group to do so. It also allows some to be individualistic by deviating from the norm. There are many social roles in fashion and both objective culture and individual culture can have an influence on people.<ref name=":02">{{Cite web|url=http://socio.ch/sim/work.htm|title=Georg Simmel: Work|website=socio.ch|access-date=2018-05-05}}</ref> In the initial stage everyone adopts what is fashionable and those that deviate from the fashion inevitably adopt a whole new view of what they consider fashion. Ritzer wrote:<ref name=ritzer/>{{rp|163}}
+
+{{Quotation|Simmel argued that not only does following what is in fashion involve dualities so does the effort on the part of some people to be of fashion. Unfashionable people view those who follow a fashion as being imitators and themselves as mavericks, but Simmel argued that the latter are simply engaging in an inverse form of imitation.|[[George Ritzer]]|"Georg Simmel"|source=''Modern Sociological Theory'' (2008)}}
+This means that those who are trying to be different or "unique," are not, because in trying to be different they become a part of a new group that has labeled themselves different or "unique".<ref name=ritzer/>
+
+==Works==
+Simmel's major monographic works include, in chronological order:
+
+* ''Über sociale Differenzierung'' (1890). Leipzig: Duncker & Humblot [''On Social Differentiation'']
+* ''Einleitung in die Moralwissenschaft'' 1 & 2 (1892&ndash;1893). Berlin: Hertz [''Introduction to the Science of Ethics'']
+* ''Die Probleme der Geschichtphilosophie'' (1892). Leipzig: Duncker & Humblot. (2nd ed., 1905) [''The Problems of the Philosophy of History'']
+* ''Philosophie des Geldes'' (1900). Leipzig: Duncker & Humblot (2nd ed., 1907) [''The Philosophy of Money'']
+* ''Die Grosstädte und das Geistesleben'' (1903). Dresden: Petermann. [''The Metropolis and Mental Life'']
+* ''Kant'' (1904). Leipzig: Duncker & Humblot. (6th ed., 1924)
+* ''Philosophie der Mode'' (1905). Berlin: Pan-Verlag.
+* ''Kant und Goethe'' (1906). Berlin: Marquardt.
+* ''Die Religion'' (1906). Frankfurt am Main: Rütten & Loening. (2nd ed., 1912).
+* ''Schopenhauer und Nietzsche (''1907). Leipzig: Duncker & Humblot.<ref>Simmel, George. 1991 [1907]. ''Schopenhauer and Nietzsche''. University of Illinois Press. {{ISBN|0-252-06228-0}}.</ref>
+* ''Soziologie'' (1908). Leipzig: Duncker & Humblot. [''Sociology : inquiries into the construction of social forms'']
+* ''Hauptprobleme der Philosophie'' (1910). Leipzig: Göschen.
+* ''Philosophische Kultur'' (1911) Leipzig: Kröner. (2nd ed., 1919).
+* ''Goethe'' (1913). Leipzig: Klinkhardt.
+* ''Rembrandt'' (1916) Leipzig: Wolff.
+* ''Grundfragen der Soziologie'' (1917) Berlin: Göschen. [''Fundamental Questions of Sociology'']
+* ''Lebensanschauung'' (1918). München: Duncker & Humblot. [''The View of Life'']
+* ''Zur Philosophie der Kunst'' (1922). Potsdam: Kiepenheur.
+* ''Fragmente und Aufsäze aus dem Nachlass'' (1923), edited by G. Kantorowicz. München: Drei Masken Verlag.
+* ''Brücke und Tür'' (1957), edited by M. Landmann & M. Susman. Stuttgart: Koehler.
+
+;Works in periodicals
+* "Rom, eine ästhetische Analyse." ''Die Zeit, Wiener Wochenschrift für Politik, Vollwirtschaft Wissenschaft und Kunst'' [weekly newspaper] (28 May 1898).
+* "Florenz." ''Der Tag'' [magazine] (2 March 1906).
+* "Venedig." ''Der Kunstwart, Halbmonatsschau über Dichtung, Theater, Musik, bildende und angewandte Kunst'' [magazine] (June 1907).
+
+==See also==
+* [[Kantianism]]
+* [[Karl Mannheim]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+
+=== Edited works of Simmel ===
+
+*Andrews, John A. Y., and [[Donald N. Levine]], trans. 2010. ''The View of Life: Four Metaphysical Essays with Journal Aphorisms,'' with introduction by D. N. Levine and D. Silver. Chicago: University of Chicago Press.
+*[[Donald N. Levine|Levine, Donald]], ed. 1972. ''On Individuality and Social Forms.'' Chicago: [[University of Chicago Press]].
+* Wolff, Kurt, trans. & ed. 1950. ''The Sociology of Georg Simmel''. Glencoe, IL: Free Press.
+*Wolff, Kurt, trans. & ed. 1955. ''Conflict and the Web of Group Affiliations'' (1922). Glencoe, IL: Free Press.
+
+=== Works on Simmel ===
+
+*Ankerl, Guy. 1972. ''Sociologues Allemands. Sociologie de la forme.'' Neuchâtel: {{Interlanguage link|La Baconnière editions|lt=|fr|La Baconnière editions|WD=}}''.'' pp.&nbsp;73–106.
+*Best, Shaun, 2019. ''The Stranger'', London, Routledge: {{ISBN|978-1-138-31220-3}}.
+*Bistis, Margo. 2005. "Simmel and Bergson: The Theorist and the Exemplar of the Blasé Person." ''Journal of European Studies'' 35(4):395–418.
+*Hartmann, Alois. 2003. "Sinn und Wert des Geldes." In ''der Philosophie von Georg Simmel und [[Adam Müller|Adam (von) Müller]]''. Berlin. {{ISBN|3-936749-53-1}}.
+*Ionin, Leonid. 1989. "[[iarchive:AHistoryOfClassicalSociology|Georg Simmel's Sociology]]." Pp.&nbsp;189–205. in ''A History of Classical Sociology'', edited by [[Igor Kon|I. S. Kon]], translated by H. Campbell Creighton. Moscow: [[Progress Publishers]].
+* Karakayali, Nedim. 2003. ''Simmel's Stranger: In Theory and in Practice''. PhD Thesis. Toronto: University of Toronto.
+* — 2006. "The Uses of the Stranger: Circulation, Arbitration, Secrecy and Dirt". ''[[Sociological Theory (journal)|Sociological Theory]]'' 24(4):312–30.
+* Kim, David, ed. 2006. ''Georg Simmel in Translation: Interdisciplinary Border-Crossings in Culture and Modernity.'' Cambridge: Cambridge Scholars Press. {{ISBN|1-84718-060-4}}.
+*Muller, Jerry Z. 2002. ''The Mind and the Market: Capitalism in Western Thought.'' [[Vintage Books|Anchor Books]].
+
+==External links==
+{{commons}}
+{{wikiquote}}
+*{{LBI Collection Links|pid=1769389|title=Georg Simmel Collection|partner=Leo Baeck Institute, New York |callNumber=AR 388 | type=Archival Collection}}
+* [https://web.archive.org/web/20070921011723/http://ssr1.uchicago.edu/PRELIMS/Theory/simmel.html Detailed overview, extracts and essays on Simmel at University of Chicago]
+* [http://www.socio.ch/sim/index_sim.htm Sociology in Switzerland presents Georg Simmel Online]
+* [https://web.archive.org/web/20090629142418/http://www.bolenderinitiatives.com/sociology/georg-simmel-1858-1918 Review materials for studying Georg Simmel]
+* [https://web.archive.org/web/20050103041159/http://socsci.colorado.edu/SOC/SI/si-simmel-bio.htm A short biography of Simmel]
+* [http://socio.ch/sim/bio.htm A detailed biography and appreciation of Simmel]
+* [https://web.archive.org/web/20070809111448/http://www2.pfeiffer.edu/~lridener/DSS/INDEX.HTML#simmel About Simmel and his works]
+* [https://web.archive.org/web/20050512225833/http://www.socialeconomics.org/uploads/Mellor.doc The Social Role of Money]
+* [http://www.altruists.org/static/files/The%20Metropolis%20and%20Mental%20Life%20%28Georg%20Simmel%29.htm The Metropolis and Mental Life]
+* [http://deflem.blogspot.com/1996/09/georg-simmel-on-philosophy-and-culture.html Jürgen Habermas, ''Georg Simmel on Philosophy and Culture: Postscript to a Collection of Essays,'' Translated by Mathieu Deflem, Critical Inquiry, 22(3), pp. 403&ndash;414, Spring 1996]
+* {{Gutenberg author | id=Simmel,+Georg | name=Georg Simmel}}
+* {{Internet Archive author |sname=Georg Simmel}}
+
+{{Social and political philosophy}}
+{{Portal bar|Biography|Philosophy|Society}}
+{{Authority control}}
+
+{{DEFAULTSORT:Simmel, Georg}}
+[[Category:1858 births]]
+[[Category:1918 deaths]]
+[[Category:19th-century essayists]]
+[[Category:19th-century German non-fiction writers]]
+[[Category:19th-century German male writers]]
+[[Category:19th-century German philosophers]]
+[[Category:20th-century essayists]]
+[[Category:20th-century German non-fiction writers]]
+[[Category:20th-century German writers]]
+[[Category:20th-century German philosophers]]
+[[Category:Cultural critics]]
+[[Category:Deaths from liver cancer]]
+[[Category:German ethicists]]
+[[Category:19th-century German Jews]]
+[[Category:German male essayists]]
+[[Category:German male non-fiction writers]]
+[[Category:German sociologists]]
+[[Category:Humboldt University of Berlin alumni]]
+[[Category:Humboldt University of Berlin faculty]]
+[[Category:Jewish philosophers]]
+[[Category:Jewish sociologists]]
+[[Category:Kantian philosophers]]
+[[Category:Moral philosophers]]
+[[Category:People from the Province of Brandenburg]]
+[[Category:Philosophers of culture]]
+[[Category:Philosophers of ethics and morality]]
+[[Category:Philosophers of history]]
+[[Category:Philosophers of religion]]
+[[Category:Rembrandt scholars]]
+[[Category:Social critics]]
+[[Category:Social philosophers]]
+[[Category:Sociologists of religion]]
+[[Category:University of Strasbourg faculty]]
+[[Category:Writers from Berlin]]

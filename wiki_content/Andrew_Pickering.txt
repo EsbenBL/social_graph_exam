@@ -1,0 +1,122 @@
+{{Short description|British academic}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox scholar
+| name = Andrew Pickering
+| image = Andrew Pickering.jpg
+| imagesize = 
+| alt = 
+| caption = Andrew Pickering, 2011
+| fullname = 
+| othernames = 
+| birth_name =         <!-- Use only if different from full/othernames -->
+| birth_date = 1948 <!-- {{Birth date and age|df=yes|YYYY|MM|DD}} -->
+| birth_place = 
+| death_date = 
+| death_place = 
+| death_cause = 
+| era = 
+| region = 
+| alma_mater = 
+| school_tradition = 
+| main_interests = Sociology of science
+| principal_ideas = 
+| major_works = ''Constructing Quarks: A Sociological History of Particle Physics''; ''The cybernetic brain: sketches of another future''.
+| awards = 
+| influences = 
+| influenced = 
+| footnotes = 
+}}
+'''Andrew Pickering''' (born 1948) is a British sociologist, philosopher and historian of science at the [[University of Exeter]]. He was a professor of sociology and a director of science and technology studies at the [[University of Illinois at Urbana-Champaign]] until 2007. He holds a doctorate in physics from the [[University of London]], and a doctorate in Science Studies from the [[University of Edinburgh]].<ref>{{Cite web|url=https://www.era.lib.ed.ac.uk/handle/1842/18545|title=History of particle physics : a sociological analysis|last=Pickering|first=A. R.|date=1983|website=Edinburgh Research Archive|access-date=20 March 2018}}</ref> His book ''Constructing Quarks: A Sociological History of Particle Physics''{{Ref_label|a|a|none}} is a classic in the field of the [[sociology of science]].
+
+== Career ==
+[[File:Andrew Pickering 2011.jpg|thumb|left|Andrew Pickering in 2011]]
+In elucidating some of the sociological factors prevailing in particle physics, Pickering also wrote a number of papers for journals and conferences.<ref name=Pickering1981/><ref name=Pickering1983/><ref name=Pickering1984/><ref name=Pickering&Trower1985/> According to Pickering, theory and experiment come in packages, and traditions of experiment generate just the kind of data which will fuel further theorising, while traditions of theory generate new problems for further development.<ref name=Pickering1983p12/>
+
+Pickering thus described two theoretical frameworks in particle physics: 'old physics' – which at the time of its death, was "still alive"<ref name=Pickering1983p12/> – dominated high energy physics through the 1960s and into the early 1970s, and concerned itself with 'common [particle physics] phenomena'. 'New physics' refers to the theory and experiment 'package' concerned with rare phenomena, such as the search for quarks. While each theoretical framework had little to say about the other, and "was useless in the phenomenal world of its rival",<ref name=Pickering1983p12/> each was satisfactory in its own terms. Despite this, Pickering also outlined a process of "magical transmutation", where new theories are produced from old, by what he called "analogical recycling".<ref name=Pickering1981p11/> Pickering noted that all this is symptomatic of [[The Structure of Scientific Revolutions|Kuhnian type revolutions]].<ref name=Pickering1983p12/>
+
+He authored ''The mangle of practice: Time, agency and science'' (University of Chicago Press, 1995), where he develops a performative conception of scientific practice, focusing on non-human agency and strongly contributing to the posthumanist trend of Science and Technology Studies. His most recent book, ''The Cybernetic Brain: Sketches of Another Future'' traces the history of British Cybernetics after the Second World War. Pickering considers [[Cybernetics]] as a type of nomad science that, instead of seeking to dominate reality as its modern counterpart (thus leading to processes of enframing, following Heidegger) rather develops an ontological theatre between humans and non-humans. In this book, Pickering explores projects that intertwine, for instance, technology, psychiatry, spirituality, education and, of course, brain sciences.
+
+== Selected publications ==
+
+=== Books ===
+* {{cite book | last = Pickering | first = Andrew | title = The Mangle of Practice: Time, Agency, and Science | publisher = [[University of Chicago Press]] | location = Chicago, Illinois | year = 1995 | isbn = 9780226668031 }}
+* {{cite book | last = Pickering | first = Andrew | title = Constructing Quarks: A Sociological History of Particle Physics | publisher = [[University of Chicago Press]] Wiley | location = Chicago, Illinois Chichester | year = 1999 | isbn = 9780226667997 }}
+* {{cite book | last1 = Pickering | first1 = Andrew | last2 = Guzik | first2 = Keith
+ | title = The Mangle in Practice: Science, Society, and Becoming | publisher = Duke University Press | location = Durham, North Carolina | year = 2008  | isbn = 9780822390107 }}
+* {{cite book | last = Pickering | first = Andrew | title = The Cybernetic Brain: Sketches of Another Future | publisher = [[University of Chicago Press]] | location = Chicago, Illinois | year = 2010 | isbn = 9780226667898 }}
+
+=== Chapters in books ===
+* {{citation | last = Pickering | first = Andrew  | contribution = Interests and Analogies | editor-last1 = Barnes | editor-first1 = Barry | editor-last2 = Edge | editor-first2 = David O. | editor-link1 = S. Barry Barnes | title = Science in Context: Readings in the Sociology of Science | pages = 125–146 | publisher = [[MIT Press]] | location = Cambridge, Massachusetts | year = 1982 | isbn = 9780262520768 }}
+* {{citation | last = Pickering | first = Andrew  | contribution = Elementary Particles: Discovered or Constructed? | editor-last1 = Trower | editor-first1 = W. Peter | editor-last2 = Bellini | editor-first2 = Gianpaolo | title = Physics in Collision: High-Energy ee/ep/pp Interactions, volume 1 | pages = 439–448 | publisher = Plenum Press | location = New York, New York | year = 1982 | isbn = 9780306409967 }}
+* {{citation | last = Pickering | first =Andrew | contribution = From Science As Knowledge to Science As Practice | editor-last = Pickering | editor-first = Andrew | title = Science As Practice and Culture | pages = 1–28 | publisher = [[University of Chicago Press]] | location = Chicago, Illinois | year = 1992 | isbn = 9780226668017 }}
+* {{citation | last1 = Pickering | first1 =Andrew | last2 = Stephanides | first2 = Adam | contribution = Constructing Quaternions: On the Analysis of Conceptual Practice | editor-last = Pickering | editor-first = Andrew | editor-link = Andrew Pickering | title = Science As Practice and Culture | pages = 139–167 | publisher = [[University of Chicago Press]] | location = Chicago, Illinois | year = 1992 | isbn = 9780226668017 }}
+* {{citation | last = Pickering | first = Andrew | contribution = The Science of the Unknowable: Stafford Beer's Cybernetic Informatics | editor-last1 = Rayward | editor-first1 = W. Boyd | editor-last2 = Bowden | editor-first2 = Mary Ellen | editor-link1 = W. Boyd Rayward | title = The History and Heritage of Scientific and Technological Information Systems | pages = 29–38 | publisher = Information Today, Inc. | location = Medford, New Jersey | year = 2004 | isbn = 9781573872294 }}
+
+=== Journal articles ===
+* {{Cite journal | last = Pickering | first = Andy | title = Exemplars and Analogies: A Comment On Crane's Study of Kuhnian Paradigms in High-Energy Physics | journal = [[Social Studies of Science]] | volume = 10 | issue = 4 | pages = 497–502 | publisher = [[Sage Publications|Sage]] | doi = 10.1177/030631278001000404 | date = November 1980 }}
+* {{Cite journal | last = Pickering | first = Andy | title = Reply to Crane | journal = [[Social Studies of Science]] | volume = 10 | issue = 4 | pages = 507–508 | publisher = [[Sage Publications|Sage]] | doi = 10.1177/030631278001000406 | date = November 1980}}
+* {{Cite journal | last = Pickering | first = Andrew | title = The Hunting of the Quark | journal = [[Isis (journal)|Isis]] | volume = 72 | issue = 2 | pages = 216–236 | publisher = [[University of Chicago Press]] | doi = 10.1086/352719 | date = June 1981 | jstor = 230970 }}
+* {{Cite journal | last = Pickering | first = Andy | title = Knowledge, Practice and Mere Construction | journal = [[Social Studies of Science]] | volume = 20 | issue = 4 | pages = 683–729 | publisher = [[Sage Publications|Sage]] | doi = 10.1177/030631290020004006 | date = November 1990}}
+
+==Notes==
+{{refbegin}}
+'''a.''' {{Note_label|a|a|none}} See [[Richard Dalitz|Dalitz]] (1985) for a critical review of this book.<ref name=Dalitz1985/>
+{{refend}}
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=Dalitz1985>{{citation |author=Dalitz, R.H. |author-link=Richard Dalitz |date=28 March 1985 |title=Fundamental Developments: |journal=Nature |volume=314 |pages=387–388 |doi=10.1038/314387a0 |issue=6009 |bibcode=1985Natur.314..387D|doi-access=free }}</ref>
+
+<ref name="Pickering1981">{{Cite book | first= Andy | last= Pickering | title= Elementary Particles: Discovered or Constructed? | series= Pre-publication copy of article to appear in Proc. of Int. Conf. on Physics in Collision: High Energy ee/ep/pp Interactions | place= Blacksburg, Virginia, 28–31 May 1981 | page= 11 | year= 1981 | url= http://www-spires.slac.stanford.edu/spires/find/hep/www?irn=822760 | archive-url= https://archive.is/20121214231646/http://www-spires.slac.stanford.edu/spires/find/hep/www?irn=822760 | url-status= dead | archive-date= 2012-12-14 }}</ref>
+
+<ref name="Pickering1981p11">Pickering, Andy (1981), p.11</ref>
+
+<ref name="Pickering1983">{{Cite book | first= Andy | last= Pickering | title= Producing A World: Transformations Of Experimental Practice In The History Of High-Energy Physics | series= Paper presented at History of Science Society Mtg., Norwalk, Conn., 27–30 Oct 1983 | place= Maui, Hawaii | page= 12 | year= 1983 | url= http://www.slac.stanford.edu/spires/find/hep/www?r=PRINT-83-1051 | archive-url= https://archive.is/20121215015947/http://www.slac.stanford.edu/spires/find/hep/www?r=PRINT-83-1051 | url-status= dead | archive-date= 2012-12-15 }}</ref>
+
+<ref name="Pickering1983p12">Pickering, Andy (1983), p.12</ref>
+
+<ref name="Pickering1984">{{Citation
+ |last=Pickering 
+ |first=A.R. 
+ |title=Against putting the phenomena first: The discovery of the weak neutral current 
+ |journal=Studies in History and Philosophy of Science 
+ |volume=15 
+ |issue=2 
+ |pages=85–117 
+ |year=1984 
+ |url=http://philoscience.unibe.ch/documents/TexteFS10/Pickering1984app.pdf
+ |accessdate=20 March 2013 
+ |doi=10.1016/0039-3681(84)90001-3 
+}}{{dead link|date=July 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+<ref name="Pickering&Trower1985">{{Citation
+  | last= Pickering
+  | first= Andrew R.
+  | last2= Trower
+  | first2= W. Peter
+  | title= Some sociological problems of high-energy physics
+  | journal= Nature
+  | volume= 318
+  | pages= 243–245
+  | year= 1985 |doi=10.1038/318243a0
+  | issue=6043|bibcode = 1985Natur.318..243P }}</ref>
+
+}}
+
+==External links==
+{{Commons category|Andrew Pickering}}
+*[http://huss.exeter.ac.uk/sociology/staff/pickering/ Home page at the University of Exeter]
+*[https://web.archive.org/web/20080705100529/http://www.soc.uiuc.edu/people/pickerin Former home page at UIUC]
+*[http://www.cbc.ca/ideas/features/science/ Ideas radio show, discusses Pickering's views of science and its view in society]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pickering, Andrew}}
+[[Category:Living people]]
+[[Category:Historians of science]]
+[[Category:Alumni of University College London]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:British sociologists]]
+[[Category:1948 births]]

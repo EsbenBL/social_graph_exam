@@ -1,0 +1,92 @@
+{{Use dmy dates|date=June 2020}}
+{{Infobox scientist
+| honorific_prefix =
+| name        = 
+| honorific_suffix =
+| native_name = 
+| native_name_lang = 
+| image       =         <!--(filename only, i.e. without "File:" prefix)-->
+| image_size  = 
+| alt         = 
+| caption     = 
+| birth_date  = 
+| birth_place = 
+| death_date  = 6 February 2019
+| death_place = [[Seattle]], [[United States]]
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates =  <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names = 
+| residence   = 
+| citizenship = 
+| nationality = 
+| fields      = [[Sociology]], [[anthropology]]
+| workplaces  = [[University of Washington]], [[University of Natal]]{{sfn|van den Berghe|1989|pp=158-159, 170-171}}
+| patrons     = 
+| education   = 
+| alma_mater  =
+| thesis_title =        <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url  =         <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year =         <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor =    <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for   = 
+| influences  = 
+| influenced  = 
+| awards      = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse      =        <!--(or | spouses = )-->
+| partner     =         <!--(or | partners = )-->
+| children    = 
+| signature   =         <!--(filename only)-->
+| signature_alt = 
+| website     =         <!--{{URL|www.example.com}}-->
+| footnotes   = 
+}}
+
+'''Pierre L. van den Berghe''' (1933-2019) was a [[professor emeritus]]<ref>{{cite web|url=http://www.soc.washington.edu/people/faculty_detail.asp?UID=plvdb |title=Pierre van den Berghe |publisher=Soc.washington.edu |access-date=2012-12-10}}</ref> of sociology and anthropology at the [[University of Washington]], where he had worked since 1965. Born in the [[Belgian Congo]] to Belgian parents, and spending [[World War II]] in occupied Belgium, he was an early witness to ethnic conflict and racism, which eventually led him to become a leading authority on ethnic relations. He conducted field work in South Africa, Mexico, Guatemala, Iran, Lebanon, Nigeria, Peru, and Israel. Early in his career, he lectured at the [[University of Natal]] alongside [[Leo Kuper]] and [[Fatima Meer]].{{sfn|van den Berghe|1989|pp=158-159, 170-171}} A student of [[Talcott Parsons]] at Harvard (receiving the PhD in 1960), he nevertheless had little interest in [[structural functionalism]] and was one of the first proponents of [[sociobiology|sociobiological]] approaches to social phenomena.<ref>(van den Berghe 1990)</ref> Van den Berghe died on 6 February 2019.<ref>{{cite news|title=King County deaths (02/13/2019) - seattlepi.com|date=14 February 2019|work=[[Seattle Post-Intelligencer]]|publisher=[[Hearst Communications]]|url=https://www.seattlepi.com/local/obits/article/King-County-deaths-02-13-2019-13616735.php|access-date=17 December 2019}}</ref>
+
+==Selected works==
+
+*Van den Berghe, Pierre L.  1981. ''The Ethnic Phenomenon.'' New York: Elsevier.
+*---. 1979. ''Human Family Systems: An Evolutionary View.'' New York: Elsevier.
+*---. 1977. ''Inequality in the Peruvian Andes: Class and Ethnicity in Cuzco.'' Columbia: University of Missouri Press.
+*---. 1975. ''Man in Society: A Biosocial View.'' New York: Elsevier.
+*---. 1973. ''Age and Sex in Human Societies: A Biosocial Perspective.'' Belmont, Calif: Wadsworth Pub. Co.
+*---. 1972. ''Intergroup Relations: Sociological Perspectives.'' New York: Basic Books.
+*---. 1970. ''Academic Gamesmanship; How to Make a PhD Pay.'' London: Abelard-Schuman.
+*---. 1967. ''Race and Racism: A Comparative Perspective.'' NY; Sydney: Wiley.
+*---. 1965. ''Africa: Social Problems of Change and Conflict.'' San Francisco: Chandler Pub. Co.
+*---. 1964. ''Caneville; the Social Structure of a South African Town.'' Middletown, Conn: Wesleyan University Press.
+
+==See also==
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite book|last1=van den Berghe|first1=Pierre |title=Stranger in their Midst|url=https://books.google.com/books?id=Ao0iAAAAMAAJ|year=1989|publisher=University Press of Colorado|isbn=0870812025}}
+*Van den Berghe, Pierre L. 1990. "From the Popocatetepl to the Limpopo." pages 410–431 in Bennett M. Berger, editor, ''Authors of Their Own Lives: Intellectual Autobiographies by Twenty American Sociologists.'' University of California Press.
+*[https://web.archive.org/web/20101014133103/http://www.time.com/time/magazine/article/0,9171,919586,00.html Time Writers. May 1, 1978. "Fleeced Again".], Accessed 10 July 2011.
+
+{{Evolutionary psychology}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Van den Berghe, Pierre L.}}
+[[Category:1933 births]]
+[[Category:2019 deaths]]
+[[Category:Belgian sociologists]]
+[[Category:Scholars of nationalism]]
+[[Category:Harvard University alumni]]
+[[Category:University of Washington faculty]]
+[[Category:Belgian anthropologists]]
+[[Category:Belgian expatriates in the United States]]
+[[Category:Belgian Congo people]]
+
+
+{{anthropologist-stub}}
+{{belgium-academic-bio-stub}}

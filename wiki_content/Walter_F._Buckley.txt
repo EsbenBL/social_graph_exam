@@ -1,0 +1,73 @@
+{{Short description|American sociologist}}
+{{Infobox scientist
+| name          = Walter F. Buckley
+| image         = 
+| caption       = 
+| birth_date    = 1922
+| birth_place   = [[Lynn, Massachusetts]]
+| death_date    = {{death date and age|2006|01|26|1922|df=yes}}
+| fields        = [[Sociology]], [[Systems theory]]
+| influenced    = [[Thomas Baumgartner]] [[Tom R. Burns]], [[Philippe DeVille]]
+| known_for     = Introducing [[cybernetics|cybernetic]] principles to sociology<ref>[[Kenneth D. Bailey (sociologist)|Kenneth D. Bailey]] (1994) ''[https://books.google.com/books?id=svcL64IgMdoC&pg Sociology and the new systems theory: toward a theoretical synthesis]''. p. 154</ref> 
+}}
+'''Walter Frederick Buckley''' (1922 – January 26, 2006) was an American sociologist, and professor of [[sociology]] at the [[University of New Hampshire]]. Buckley was among the first to apply concepts from [[general systems theory]] based on the work of [[Ludwig von Bertalanffy|Bertalanffy]] to [[sociology]]<ref name = "GZ 92">[[Felix Geyer]] and [[Hans van der Zouwen]] (1992), "Sociocybernetics", in: ''Cybernetics and Applied Systems'', C.V. Negoita ed. p.96.</ref>
+
+== Biography ==
+Born and raised in [[Lynn, Massachusetts]], Buckley studied [[sociology]] at the [[University of Wisconsin–Madison]]. In 1958 he received his Ph.D. with the doctoral dissertation ''Sociological theory and social stratification'', in which he outlined a non-functionalist theory of [[social stratification]].<ref>Library of Congress (1959) ''Catalog of Copyright Entries. Third Series: 1959: January–June''. p. 103</ref>
+
+Buckley started his academic career early 1960s as  Assistant Professor of Sociology at the [[University of California, Santa Barbara]] in the department of sociology, which was chaired by David Gold PhD.<ref>University of California, Santa Barbara (1963) ''General Catalog''. p. 184</ref> From 1971 to 1985 he was professor of Sociology at the [[University of New Hampshire]]. In the 1970s he participated in the [[Tom R. Burns#Work|Uppsala Theory Circle]] at the [[Uppsala University]] in Sweden founded by [[Tom R. Burns]]. In 1998 he was awarded the honorary chair of the [[Sociocybernetics|Socio-Cybernetics]] Research Committee of the [[International Sociological Association]].
+
+Buckley has been described as a pioneer in [[social systems]] theory that challenged conventional views.<ref>[https://www.alumni.unh.edu/obits/fac_staff/buckley.html ''UNH Alumni in Memoriam: Walter F. Buckley''], University of New Hampshire, 2006.</ref> In his personal life he appreciated [[jazz]] music and played tenor [[saxophone]]. He died in 2006 in [[Durham, New Hampshire]].<ref>[http://www.unizar.es/sociocybernetics/chen/buckley.html ''Walter F. Buckley''], Research Committee on Sociocybernetics, 2006.</ref>
+<!--
+== Work ==
+Buckley was among the first to apply concepts from [[general systems theory]] (GST), based on the work of [[Ludwig von Bertalanffy]], to sociology although he never specifically aligned to either [[cybernetics]] or the general systems movements.<ref name =" ASC 03">[[American Society for Cybernetics]], [http://www.asc-cybernetics.org/foundations/timeline.htm ''Timeline for the Evolution of Cybernetics''], 2003,</ref>
+
+=== Sociology and Modern Systems Theory ===
+* In a series of books and articles, most notable his 1967 publication ''Sociology and Modern Systems Theory'', Buckley argued that the sociological theory of systems needs to be rewritten. The action-based functionalist theories of Parsons, along with the equilibrium and evolutionary models of Durkheim and Spencer, needed to be thrown  out and replaced with the latest advances taking place in second-order cybernetics. Equally important, second-order cybernetics needed to be integrated with the ideas of sociology. 
+** Brian Castellani, Frederic William Hafferty (2009) ''Sociology and Complexity Science: A New Field of Inquiry''. p. 183
+* Buckley introduced [[cybernetic]] principles to [[sociologists]], emphasizing concepts such as feedback much more than [[:w:Talcott Parsons|Parsons]] had. He presented the standard feedback loops where a positive and negative relationship in concert lead to a steady state... In addition, he drew upon the innovative work of Maruyama (1963) to show that loops could be other than homeostatic or stead state. For example, loops containing only "pluses" (positive relationships) are termed "deviation-amplifying" loops by Maruyama, as they do not lead to a steady state but expand indefinitely. Loops which are "deviation minimizing" in contrast contain all "minuses" (negative relationships) and proceed continuously down in a negative spiral. Both can be seen as examples of what are colloquially termed "circular causation."
+** [[Kenneth D. Bailey (sociologist)|Kenneth D. Bailey]] (1994) ''Sociology and the new systems theory: toward a theoretical synthesis''. p. 154  - Pagina 154 - Social Science
+
+=== Sociocybernetics ===
+* The first sociologist to make the argument of sociocybernetics was the American sociologist, Walter F. Buckley, professor of sociology at the University of New Hampshire and 1998 honorary chair of the sociocybernetics research committee (RC-51) of the International Sociological Association.
+** Brian Castellani, Frederic William. Hafferty (2009, p. 183)
+
+=== Complex adaptive systems ===
+* Buckley (1967, 1968) is best known for his outline of the features that characterize complex adaptive systems.  He proposed that a complex adaptive system must manifest some degree of "plasticity" and "irritability" vis-a-vis its environment
+** Roberta R. Greene (2011) ''Human Behavior Theory and Social Work Practice''. p. 182
+-->
+
+== Publications ==
+Books,  a selection:<ref>[http://www.worldcat.org/identities/lccn-n50-41371 Buckley, Walter Frederick 1921-] at worldcat.org</ref> 
+* 1959. ''Sociological theory and social stratification.'' Dissertation University of Wisconsin–Madison.
+* 1967, ''Sociology and Modern Systems Theory''. Prentice Hall
+* 1968, ''Modern Systems Research for the Behavioral Scientist''. Foreword from [[Anatol Rapoport]],<ref name="Overview">[http://www.isss.org/world/en/connections/1968-buckley-modern-systems-research-for-the-behavioral-scientist Overview] of this book on the [[International Society for the Systems Sciences|ISSS]] website, retrieved 24.03.2008.</ref>
+* 1969. ''Class and society'' with Kurt Bernd Mayer. New York 
+* 1971. ''A systems study in regional inequality: Norrbotten, a fourth of Sweden''. With Bengt Sandkull. Stockholm, 
+* 1975. ''Multi-level, dialectical social action : an open systems theory perspective''. With [[Thomas Baumgartner]] and [[Tom R. Burns]]
+* 1976. ''Power and control : social structures and their transformation'' Edited by [[Tom R. Burns]] and Walter Buckley. London : SAGE.
+* 1982. ''Power, Conflict, and Exchange in Social Life: An Actor-oriented Systems Theory of the Structuring and Dialectics of Social Systems''. With [[Thomas Baumgartner]] and P. DeVille. Institute of Sociology, Uppsala. 
+* 1998, ''Society—A Complex Adaptive System : Essays in Social Theory'', Routledge.
+<!--
+Articles, a selection:
+* 1996. "Mind, Mead, and Mental Behaviorism". In: K.M. Kwan (ed). (1996). ''Individuality and Social Control: Essays in Honor of Tamotsu Shibutani''. Greenwich, Conn.: JAI Press.
+-->
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+{{wikiquote}} 
+* [https://www.unh.edu/news/campusjournal/2006/february/020106buckley.html In Memoriam: Walter F. Buckley, professor of sociology, 1971-1985]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Buckley, Walter F.}}
+[[Category:1922 births]]
+[[Category:2006 deaths]]
+[[Category:American sociologists]]
+[[Category:Cyberneticists]]
+[[Category:American systems scientists]]
+[[Category:University of California, Santa Barbara faculty]]
+[[Category:University of New Hampshire faculty]]
+[[Category: University of Wisconsin–Madison College of Letters and Science alumni]]

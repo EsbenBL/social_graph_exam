@@ -1,0 +1,216 @@
+{{Short description|American linguist}}
+{{Infobox scientist
+|name              = George P. Lakoff
+|image             = George Lakoff.jpg
+|caption           = Lakoff, 2012
+|birth_date        = {{birth date and age|mf=yes|1941|05|24}}
+|birth_place       = [[Bayonne, New Jersey]]
+|residence         = [[Berkeley, California]], U.S.
+|nationality       = United States
+|religion          =
+|fields            = [[Cognitive linguistics]]<br />[[Cognitive science]]
+|workplaces        = [[University of California, Berkeley]]
+|alma_mater        = [[Indiana University]]<br />[[MIT]]
+|doctoral_advisor  = [[Fred Householder]]
+|known_for         = [[Conceptual metaphor|Conceptual metaphor theory]]<br />[[Embodied cognition]]
+|spouse            = [[Robin Lakoff]] (divorced), Kathleen Frumkin (current spouse)
+|website           = {{URL|http://georgelakoff.com/}}
+}}
+
+'''George Philip Lakoff''' ({{IPAc-en|ˈ|l|eɪ|k|ɒ|f}}; born May 24, 1941) is an American [[cognitive linguistics|cognitive linguist]] and [[philosopher]], best known for his thesis that people's lives are significantly influenced by the [[conceptual metaphor]]s they use to explain complex phenomena.
+
+The conceptual metaphor thesis, introduced in his and [[Mark Johnson (philosopher)|Mark Johnson]]'s 1980 book ''[[Metaphors We Live By]]'' has found applications in a number of academic disciplines. Applying it to politics, literature, philosophy and mathematics has led Lakoff into territory normally considered basic to [[political science]]. In his 1996 book ''[[Moral Politics]]'', Lakoff described [[Conservatism|conservative]] voters as being influenced by the "[[strict father model]]" as a central metaphor for such a complex phenomenon as the [[State (polity)|state]], and [[Liberalism|liberal]]/[[Progressivism|progressive]] voters as being influenced by the "[[nurturant parent model]]" as the [[folk psychology|folk psychological]] metaphor for this complex phenomenon. According to him, an individual's experience and attitude towards sociopolitical issues is influenced by being [[Framing (social sciences)|framed]] in [[Construction grammar|linguistic constructions]]. In ''Metaphor and War: The Metaphor System Used to Justify War in the Gulf'' (1991), he argues that the American involvement in the [[Gulf war]] was obscured or "spun" by the metaphors which were used by the first [[George H. W. Bush|Bush]] administration to justify it.<ref>
+Compare:
+{{cite web
+ |url= http://www2.iath.virginia.edu/sixties/HTML_docs/Texts/Scholarly/Lakoff_Gulf_Metaphor_1.html
+ |title= Metaphor and War: The Metaphor System Used to Justify War in the Gulf
+ |last= Lakoff
+ |first= George
+ |author-link= George Lakoff
+ |year= 1991
+ |website= The Sixties Project
+ |access-date= 2018-10-04
+ |quote= The most natural way to justify a war on moral grounds is to fit this fairy tale structure to a given situation. This is done by metaphorical definition, that is, by answering the questions: Who is the victim? Who is the villain? Who is the hero? What is the crime? What counts as victory? Each set of answers provides a different filled-out scenario. [...] As the gulf crisis developed, President Bush tried to justify going to war by the use of such a scenario. At first, he couldn't get his story straight. What happened was that he was using two different sets of metaphorical definitions, which resulted in two different scenarios [...].
+}}
+</ref>
+Between 2003 and 2008, Lakoff was involved with a [[Progressivism in the United States|progressive]] [[think tank]], the now defunct [[Rockridge Institute]].<ref>{{cite web|title= George Lakoff |publisher= Rockridge Institute |url= http://www.rockridgeinstitute.org/people/lakoff |access-date= 2007-06-13 |url-status= dead |archive-url= https://web.archive.org/web/20070611210922/http://www.rockridgeinstitute.org/people/lakoff |archive-date= 2007-06-11 }}</ref><ref name="Moral Politics">{{cite book| last = Lakoff| first = George| title = Moral Politics: How Liberals and Conservatives Think| publisher = The University of Chicago Press| year = 2002| location = Chicago| isbn = 0-226-46771-6| url = https://archive.org/details/moralpoliticswha00lako_0}}</ref> He is a member of the scientific committee of the [[IDEAS Foundation for progress|Fundación IDEAS]] (IDEAS Foundation), Spain's [[Spanish Socialist Workers' Party|Socialist Party]]'s think tank.
+
+The more general theory that elaborated his thesis is known as [[embodied philosophy|embodied mind]]. Lakoff served as a professor of linguistics at the [[University of California, Berkeley]], from 1972 until his retirement in 2016.<ref>{{cite news|last1= White|first1= Daphne|title= Berkeley author George Lakoff says, 'Don't underestimate Trump'|url= http://www.berkeleyside.com/2017/05/02/berkeley-author-george-lakoff-says-dont-underestimate-trump/|publisher= Berkeleyside.com|date= May 2, 2017}}
+</ref>
+
+==Work==
+
+===Reappraisal of metaphor===
+Although some of Lakoff's research involves questions traditionally pursued by linguists, such as the conditions under which a certain linguistic construction is grammatically viable, he is best known for his reappraisal of the role that metaphors play in the socio-political life of humans.
+
+Metaphor has been seen within the Western scientific tradition as a purely linguistic construction. The essential thrust of Lakoff's work has been the argument that metaphors are a primarily conceptual construction and are in fact central to the development of thought.
+
+In his words: 
+:"Our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature."
+
+According to Lakoff, non-metaphorical thought is possible only when we talk about purely physical reality; the greater the level of abstraction, the more layers of metaphor are required to express it. People do not notice these metaphors for various reasons, including that some metaphors become 'dead' in the sense that we no longer recognize their origin. Another reason is that we just don't "see" what is "going on".
+
+In intellectual debate, for instance, the underlying metaphor according to Lakoff is usually that argument is war (later revised to "argument is struggle"):
+*He ''won'' the argument.
+*Your claims are ''indefensible''.
+*He ''shot down'' all my arguments.
+*His criticisms were ''right on target''.
+*If you use that ''strategy'', he'll ''wipe you out''.
+
+According to Lakoff, the development of thought has been the process of developing better metaphors. He also points out that the application of one domain of knowledge to another offers new perceptions and understandings.
+
+===Linguistics wars===
+{{further|Linguistics wars}}
+Lakoff began his career as a student and later a teacher of the theory of [[transformational grammar]] developed by [[Massachusetts Institute of Technology]] professor [[Noam Chomsky]]. In the late 1960s, however, he joined with others to promote [[generative semantics]]<ref>http://www.db-thueringen.de/servlets/DerivateServlet/Derivate-4550/Government_and_Binding.pdf</ref> as an alternative to Chomsky's [[generative linguistics|generative syntax]]. In an interview he stated:
+
+{{quote|text=During that period, I was attempting to unify Chomsky's transformational grammar with formal [[logic]]. I had helped work out a lot of the early details of Chomsky's theory of grammar. Noam claimed then — and still does, so far as I can tell — that [[syntax]] is independent of meaning, context, background knowledge, memory, cognitive processing, communicative intent, and every aspect of the body...In working through the details of his early theory, I found quite a few cases where [[semantic]]s, context, and other such factors entered into rules governing the syntactic occurrences of phrases and [[morphemes]]. I came up with the beginnings of an alternative theory in 1963 and, along with wonderful collaborators like [[John R. Ross|"Haj" Ross]] and [[James D. McCawley|Jim McCawley]], developed it through the sixties.<ref>John Brockman (03/09/99), Edge.org,  [http://www.edge.org/3rd_culture/lakoff/lakoff_p2.html "Philosophy In The Flesh" A Talk With George Lakoff]</ref>}}
+
+Lakoff's claim that Chomsky asserts independence between syntax and semantics has been rejected by Chomsky, who holds the following view: {{quote|text=A decision as to the boundary separating syntax and semantics (if there is one) is not a prerequisite for theoretical and descriptive study of syntactic and semantic rules. On the contrary, the problem of delimitation will clearly remain open until these fields are much better understood than they are today. Exactly the same can be said about the boundary separating semantic systems from systems of knowledge and belief. That these seem to interpenetrate in obscure ways has long been noted…."<ref>{{cite book |last1=Chomsky |first1=Noam |title=Aspects of the Theory of Syntax |date=May 1965 |publisher=MIT Press |page=159}}</ref>}}
+
+In response to Lakoff's making the above claim about Chomsky's view, Chomsky claimed that Lakoff has "virtually no comprehension of the work he is discussing".<ref>[http://www.nybooks.com/articles/archives/1973/jul/19/chomsky-replies/ "Chomsky Replies"], ''The New York Review of Books'', 1973 20;12</ref> Despite Lakoff's mischaracterization of Chomsky's view on the matter, their linguistic positions diverge significantly; this rift between Generative Grammar and Generative Semantics led to fierce, acrimonious debates among linguists that have come to be known as the "[[linguistics wars]]".
+
+===Embodied mind===
+{{further|Embodied philosophy}}
+When Lakoff claims the mind is "embodied", he is arguing that almost all of human cognition, up through the most abstract reasoning, depends on and makes use of such concrete and "low-level" facilities as the sensorimotor system and the emotions. Therefore, embodiment is a rejection not only of dualism vis-a-vis mind and matter, but also of claims that human reason can be basically understood without reference to the underlying "implementation details".
+
+Lakoff offers three complementary but distinct sorts of arguments in favor of embodiment. First, using evidence{{Which|date=April 2010}} from [[neuroscience]] and [[neural network]] simulations, he argues that certain concepts, such as color and [[spatial relation]] concepts (e.g. "red" or "over"; see also ''[[qualia]]''), can be almost entirely understood through the examination of how processes of perception or motor control work.
+
+Second, based on [[cognitive linguistics]]' analysis of figurative language, he argues that the reasoning we use for such abstract topics as warfare, economics, or morality is somehow rooted in the reasoning we use for such mundane topics as spatial relationships. (See [[conceptual metaphor]].)
+
+Finally, based on research in [[cognitive psychology]] and some investigations in the [[philosophy of language]], he argues that very few of the categories used by humans are actually of the black-and-white type amenable to analysis in terms of necessary and sufficient conditions. On the contrary, most categories are supposed to be much more complicated and messy, just like our bodies.
+
+"We are neural beings", Lakoff states, "Our brains take their input from the rest of our bodies. What our bodies are like and how they function in the world thus structures the very concepts we can use to think. We cannot think just anything — only what our embodied brains permit."<ref>{{cite web|url=http://www.edge.org/3rd_culture/lakoff/lakoff_p1.html |title=EDGE 3rd Culture: A Talk with George Lakoff |publisher=Edge.org |access-date=2013-09-29}}</ref>
+
+Lakoff believes consciousness to be neurally embodied, however he explicitly states that the mechanism is not just neural computation alone. Using the concept of disembodiment, Lakoff supports the physicalist approach to the afterlife. If the soul can not have any of the properties of the body, then Lakoff claims it can not feel, perceive, think, be conscious, or have a personality. If this is true, then Lakoff asks what would be the point of the afterlife?{{Citation needed|date=March 2013}}
+
+Many scientists share the belief that there are problems with [[falsifiability]] and [[foundation ontology|foundation ontologies]] purporting to describe "what exists", to a sufficient degree of rigor to establish a reasonable method of [[empirical validation]]. But Lakoff takes this further to explain why hypotheses built with complex metaphors cannot be directly falsified. Instead, they can only be rejected based on interpretations of empirical observations guided by other complex metaphors. This is what he means when he says<ref>Lakoff, G., and M. Johnson, 1999, ''Philosophy in the Flesh: The Embodied Mind and its Challenge to Western Thought'', New York: Basic Books</ref> that falsifiability itself can never be established by any reasonable method that would not rely ultimately on a shared human bias. The bias he's referring to is the set of conceptual metaphors governing how people interpret observations.
+
+Lakoff is, with coauthors [[Mark Johnson (professor)|Mark Johnson]] and [[Rafael E. Núñez]], one of the primary proponents of the embodied mind thesis. Lakoff discussed these themes in his 2001 [[Gifford Lectures]] at the [[University of Glasgow]], published as ''The Nature and Limits of Human Understanding''.<ref>ed. Anthony Sanford, T & T Clark, 2003. [http://www.giffordlectures.org/Browse.asp?PubID=TPNLHU&Volume=0&Issue=0&Summary=True Summary] at giffordlectures.org {{webarchive|url=https://web.archive.org/web/20110614093320/http://www.giffordlectures.org/Browse.asp?PubID=TPNLHU&Volume=0&Issue=0&Summary=True |date=2011-06-14 }} by Brannon Hancock.</ref> Others who have written about the embodied mind include philosopher [[Andy Clark]] (See his ''Being There''), philosopher and neurobiologists [[Humberto Maturana]] and [[Francisco Varela]] and his student [[Evan Thompson]] (See Varela, Thompson & Rosch's ''The Embodied Mind''), roboticists such as [[Rodney Brooks]], [[Rolf Pfeifer]] and [[Tom Ziemke]], the physicist [[David Bohm]] (see his ''Thought As A System''), [[Ray Gibbs]] (see his ''Embodiment and Cognitive Science''), [[John Grinder]] and [[Richard Bandler]] in their [[neuro-linguistic programming]], and [[Julian Jaynes]]. The work of these writers can be traced back to earlier philosophical writings, most notably in the [[Phenomenology (philosophy)|phenomenological]] tradition, such as [[Maurice Merleau-Ponty]] and [[Heidegger]]. The basic thesis of "embodied mind" is also traceable to the American contextualist or pragmatist tradition, notably [[John Dewey]] in such works as ''Art As Experience''.
+
+===Mathematics===
+According to Lakoff, even mathematics is subjective to the human species and its cultures: thus "any question of math's being inherent in physical reality is moot, since there is no way to know whether or not it is." By this, he is saying that there is nothing outside of the thought structures we derive from our embodied minds that we can use to "prove" that mathematics is somehow beyond biology. Lakoff and [[Rafael E. Núñez]] (2000) argue at length that [[mathematics|mathematical]] and [[philosophy|philosophical]] ideas are best understood in light of the embodied mind. The [[philosophy of mathematics]] ought therefore to look to the current scientific understanding of the human body as a [[foundation ontology]], and abandon self-referential attempts to ground the operational components of mathematics in anything other than "meat".
+
+Mathematical reviewers have generally been critical of Lakoff and Núñez, pointing to mathematical errors.{{Citation needed|date=November 2014}} Lakoff claims that these errors have been corrected in subsequent printings.{{Citation needed|date=November 2014}} Although their book attempts a refutation of some of the most widely accepted viewpoints in philosophy of mathematics and advice for how the field might proceed, they have yet to elicit much of a reaction from philosophers of mathematics themselves.{{Citation needed|date=July 2013}} The small community specializing in the psychology of mathematical learning, to which Núñez belongs, is paying attention.<ref>G. Lakoff & R. Núñez. (2000). ''Where Mathematics Comes From: How the Embodied Mind Brings Mathematics into Being''. New York: Basic Books.</ref>
+
+Lakoff has also claimed that we should remain agnostic about whether math is somehow wrapped up with the very nature of the universe. Early in 2001 Lakoff told the American Association for the Advancement of Science (AAAS): "Mathematics may or may not be out there in the world, but there's no way that we scientifically could possibly tell." This is because the structures of scientific knowledge are not "out there" but rather in our brains, based on the details of our anatomy. Therefore, we cannot "tell" that mathematics is "out there" without relying on conceptual metaphors rooted in our biology. This claim bothers those who believe that there really is a way we could "tell". The falsifiability of this claim is perhaps the central problem in the [[cognitive science of mathematics]], a field that attempts to establish a [[foundation ontology]] based on the human cognitive and scientific process.<ref>Dehaene, S. (1997) ''The number sense: How the mind creates mathematics''. New York: Oxford University Press. {{ISBN|0-19-513240-8}}</ref>
+
+==Political significance and involvement==
+Lakoff has publicly expressed some of his political views and his ideas about the conceptual structures that he views as central to understanding the political process. He almost always discusses the former in terms of the latter.
+
+''[[Moral Politics]]'' (1996, revisited in 2002) gives book-length consideration to the conceptual metaphors that Lakoff sees as present in the minds of American "[[American liberalism|liberals]]" and "[[American conservatism|conservatives]]". The book is a blend of cognitive science and political analysis. Lakoff makes an attempt to keep his personal views confined to the last third of the book, where he explicitly argues for the superiority of the liberal vision.<ref name="Moral Politics"/>
+
+Lakoff argues that the differences in opinions between liberals and conservatives follow from the fact that they subscribe with different strength to two different central metaphors about the relationship of the state to its citizens. Both, he claims, see governance through metaphors of the [[family]]. Conservatives would subscribe more strongly and more often to a model that he calls the "[[strict father model]]" and has a family structured around a strong, dominant "father" (government), and assumes that the "children" (citizens) need to be disciplined to be made into responsible "adults" (morality, self-financing). Once the "children" are "adults", though, the "father" should not interfere with their lives: the government should stay out of the business of those in society who have proved their responsibility. In contrast, Lakoff argues that liberals place more support in a model of the family, which he calls the "[[nurturant parent model]]", based on "nurturant values", where both "mothers" and "fathers" work to keep the essentially good "children" away from "corrupting influences" (pollution, social injustice, poverty, etc.). Lakoff says that most people have a blend of both metaphors applied at different times, and that political speech works primarily by invoking these metaphors and urging the subscription of one over the other.<ref>{{cite book| last = Lakoff| first = George| title = [[Moral Politics (book)|Moral Politics: How Liberals and Conservatives Think]]| publisher = The University of Chicago Press| year = 2002| location = Chicago| pages = [https://archive.org/details/moralpoliticswha00lako_0/page/143 143–176]| isbn = 0-226-46771-6}}</ref>
+
+Lakoff further argues that one of the reasons liberals have had difficulty since the 1980s is that they have not been as aware of their own guiding metaphors, and have too often accepted conservative terminology framed in a way to promote the strict father metaphor. Lakoff insists that liberals must cease using terms like ''partial birth abortion'' and ''tax relief'' because they are manufactured specifically to allow the possibilities of only certain types of opinions. ''Tax relief'' for example, implies explicitly that [[taxes]] are an affliction, something someone would want "relief" from. To use the terms of another metaphoric worldview, Lakoff insists, is to unconsciously support it. Liberals must support linguistic [[think tank]]s in the same way that conservatives do if they are going to succeed in appealing to those in the country who share their metaphors.<ref>{{cite book| last = Lakoff| first = George| title = Moral Politics: How Liberals and Conservatives Think| publisher = The University of Chicago Press| year = 2002| location = Chicago| pages = [https://archive.org/details/moralpoliticswha00lako_0/page/415 415–418]| isbn = 0-226-46771-6| url = https://archive.org/details/moralpoliticswha00lako_0/page/415}}</ref>
+
+Between 2003 and 2008, Lakoff was involved with a [[Progressivism in the United States|progressive]] [[think tank]], the [[Rockridge Institute]], an involvement that follows in part from his recommendations in ''Moral Politics''. Among his activities with the Institute, which concentrates in part on helping liberal candidates and politicians with re-framing political metaphors, Lakoff has given numerous public lectures and written accounts of his message from ''Moral Politics.'' In 2008, Lakoff joined [[Fenton Communications]], the nation's largest [[public interest]] communications firm, as a Senior Consultant.
+
+One of his political works, ''Don't Think of an Elephant! Know Your Values and Frame the Debate'', self-labeled as "the Essential Guide for Progressives", was published in September 2004 and features a foreword by former [[Democratic Party (United States)|Democratic]] presidential candidate [[Howard Dean]].
+
+==Disagreement with Steven Pinker==
+In 2006 [[Steven Pinker]] wrote an unfavorable review of Lakoff's book ''Whose Freedom?'' in ''[[The New Republic]]''.<ref>"[https://newrepublic.com/article/77730/block-metaphor-steven-pinker-whose-freedom-george-lakoff "Block that Metaphor!"] ''New Republic'' October 8, 2006.</ref> Pinker argued that Lakoff's propositions are unsupported, and his prescriptions are a recipe for electoral failure. He wrote that Lakoff was condescending and deplored Lakoff's "shameless caricaturing of beliefs" and his "faith in the power of euphemism". Pinker portrayed Lakoff's arguments as "cognitive relativism, in which mathematics, science, and philosophy are beauty contests between rival frames rather than attempts to characterize the nature of reality." Lakoff wrote a rebuttal to the review<ref name="web.archive.org">{{cite web |url=http://www.rockridgeinstitute.org/research/lakoff/whencognitivescienceenterspolitics |title=When cognitive science enters politics |access-date=2006-10-15 |url-status=dead |archive-url=https://web.archive.org/web/20080517092902/http://www.rockridgeinstitute.org/research/lakoff/whencognitivescienceenterspolitics |archive-date=May 17, 2008 }}, rockridgeinstitute.org, 12 October 2006.</ref> stating that his position on many matters is the exact reverse of what Pinker attributes to him. Lakoff states that he explicitly rejects cognitive relativism, arguing that he is "a realist, both about how the mind works and how the world works. Given that the mind works by frames and metaphors, the challenge is to use such a mind to accurately characterize how the world works."<ref name="web.archive.org"/>
+
+==Works==
+<!-- This section is linked from George Lakoff -->
+
+===Writings===
+*2016. ''Moral Politics: How Liberals and Conservatives Think, Third Edition''. University of Chicago Press. {{ISBN|978-0-226-41129-3}}.
+*2012 with Elisabeth Wehling. ''The Little Blue Book: The Essential Guide to Thinking and Talking Democratic''. [[Free Press (publisher)|Free Press]]. {{ISBN|978-1-476-70001-4}}.
+*2010. {{cite journal|first1=George|last1=Lakoff|title=Why it Matters How We Frame the Environment|journal=Environmental Communication|date=March 2010|pages=70–81|volume=4|issue=1|doi=10.1080/17524030903529749|s2cid=7254556|url=https://escholarship.org/content/qt6mf9j40q/qt6mf9j40q.pdf|display-authors=0}}
+*2008. ''The Political Mind : Why You Can't Understand 21st-Century American Politics with an 18th-Century Brain''. [[Viking Adult]]. {{ISBN|978-0-670-01927-4}}.
+*2006. ''Whose Freedom?: The Battle over America's Most Important Idea''. [[Farrar, Straus and Giroux]]. {{ISBN|978-0-374-15828-6}}.
+*2006. ''Thinking Points: Communicating Our American Values and Vision''. [[Farrar, Straus and Giroux]]. {{ISBN|978-0-374-53090-7}}.
+*2005. [https://web.archive.org/web/20130515072928/http://www.defendingscience.org/sites/default/files/upload/LakoffDAUBERT.pdf "A Cognitive Scientist Looks at Daubert"], ''[[American Journal of Public Health]]''. 95, no. 1: S114.
+*2005. "The Brain's Concept: The Role of the Sensory-Motor System in Conceptual Knowledge"-Vittorio Gallese, Università di Parma and George Lakoff University of California, Berkeley<ref>{{Cite web|url=https://www.ed.ac.uk/ppls|title=School of Philosophy, Psychology & Language Sciences|website=The University of Edinburgh}}</ref>
+*2004. ''Don't Think of an Elephant: Know Your Values and Frame the Debate.'' [[Chelsea Green Publishing]]. {{ISBN|978-1-931498-71-5}}.
+*2003 (1980) with [[Mark Johnson (professor)|Mark Johnson]]. ''{{w|Metaphors We Live By}}''. University of Chicago Press. 2003 edition contains an 'Afterword'. {{ISBN|978-0-226-46800-6}}.
+*2001 Edition. ''Moral Politics: How Liberals and Conservatives Think''. University of Chicago Press. {{ISBN|978-0-226-46771-9}}.
+*2000 with [[Rafael E. Núñez|Rafael Núñez]]. ''[[Where Mathematics Comes From|Where Mathematics Comes From: How the Embodied Mind Brings Mathematics into Being]]''. Basic Books. {{ISBN|0-465-03771-2}}.
+*1999 with [[Mark Johnson (professor)|Mark Johnson]]). ''Philosophy In The Flesh: the Embodied Mind and its Challenge to Western Thought''. Basic Books.
+*1996. ''[[Moral Politics|Moral politics : What Conservatives Know that Liberals Don't]]''. University of Chicago Press. {{ISBN|978-0-226-46805-1}}.
+*1989 with [[Mark Turner (cognitive scientist)|Mark Turner]]. ''More Than Cool Reason: A Field Guide to Poetic Metaphor''. [[University of Chicago Press]]. {{ISBN|978-0-226-46812-9}}.
+*1987. ''[[Women, Fire, and Dangerous Things|Women, Fire, and Dangerous Things: What Categories Reveal About the Mind]].'' University of Chicago Press. {{ISBN|0-226-46804-6}}.
+*1980 with Mark Johnson. ''{{w|Metaphors We Live By}}''. University of Chicago Press. {{ISBN|978-0-226-46801-3}}.
+*1970. ''[[Irregularity in Syntax]]''. Holt, Rinehart, and Winston. {{ISBN|978-0030841453}}.
+*{{Cite journal
+  |first=George |last=Lakoff
+  |author-mask=2
+  |date=February 1968
+  |jstor=25000311
+  |title=Instrumental Adverbs and the Concept of Deep Structure
+  |journal=[[Foundations of Language]]
+  |volume=4 |issue=1
+  |pages=4–29
+}}
+
+===Videos===
+*''How Democrats and Progressives Can Win: Solutions from George Lakoff'' DVD format. {{oclc|315514475}}
+
+== See also ==
+*[[Code word (figure of speech)]]
+*[[Cognitive linguistics]]
+*[[Cognitive science of mathematics]]
+*[[Conceptual metaphor]]
+*[[Embodied philosophy]]
+*[[Framing (social sciences)]]
+*[[Invariance principle]]
+*[[Language and thought]]
+*[[Metaphor]]
+*[[Metonymy]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*Dean, John W. (2006), ''[[Conservatives without Conscience]]'', Viking Penguin {{ISBN|0-670-03774-5}}.
+*Harris, Randy Allen (1995). ''The Linguistics Wars''. Oxford University Press. {{ISBN|0-19-509834-X}}. (Focuses on the disputes Lakoff and others have had with Chomsky.)
+*Haser, Verena (2005). ''Metaphor, Metonymy, and Experientialist Philosophy: Challenging Cognitive Semantics (Topics in English Linguistics)'', [[Mouton de Gruyter]]. {{ISBN|978-3-11-018283-5}} (A critical look at the ideas behind embodiment and conceptual metaphor.)
+*[[William J. Kelleher|Kelleher, William J.]] (2005). ''Progressive Logic: Framing A Unified Field Theory of Values For Progressives''. La CaCañada Flintridge, CA: The Empathic Science Institute. {{ISBN|0-9773717-1-9}}.
+*McGlone, M. S. (2001). "Concepts as Metaphors" in Sam Glucksberg, ''Understanding Figurative Language: From Metaphors to Idioms''. Oxford Psychology Series 36. [[Oxford University Press]], 90–107. {{ISBN|0-19-511109-5}}.
+*[[Bill O'Reilly (commentator)|O'Reilly, Bill]] (2006). ''Culture Warrior''. New York: Broadway Books. {{ISBN|0-7679-2092-9}}. (Calls Lakoff the guiding philosopher behind the "secular progressive movement".)
+*Renkema, Jan (2004). ''Introduction to Discourse Studies''. Amsterdam: John Benjamins. {{ISBN|1-58811-529-1}}.
+*Rettig, Hillary (2006). ''The Lifelong Activist: How to Change the World Without Losing Your Way''. New York: Lantern Books. {{ISBN|1-59056-090-6}}. (Documents strong parallels between Lakoff's nurturant parent model of progressive thought and psychologist Abraham Maslow's model of the self-actualized individual. Also discusses framing in the context of marketing and sales with the aim of bolstering progressive activists' persuasive skills.)
+*Richardt, Susanne (2005). ''Metaphor in Languages for Special Purposes: The Function of Conceptual Metaphor in Written Expert Language and Expert-Lay Communication in the Domains of Economics, Medicine and Computing''. European University Studies: Series XIV, Anglo-Saxon Language and Literature, 413. Frankfurt am Main: Peter Lang. {{ISBN|0-8204-7381-2}}.
+*[[George Soros|Soros, George]] (2006). ''The Age of Fallibility: Consequences of the War on Terror''. {{ISBN|1-58648-359-5}}. (discusses Lakoff in regard to the application of his theories on the work of [[Frank Luntz]] and with respect to his own theory about perception and reality)
+*Winter, Steven L. (2003). ''A Clearing in the Forest''. Chicago: [[University of Chicago Press]]. {{ISBN|0-226-90222-6}}. (Applies Lakoff's work in cognitive science and metaphor to the field of law and legal reasoning.)
+
+==External links==
+{{commons category}}
+{{wikiquote}}
+*{{Official website}}
+*[http://linguistics.berkeley.edu/people/fac/lakoff.html University of California, Berkeley department of Linguistics page on George Lakoff]
+*{{C-SPAN|George Lakoff}}
+*[https://web.archive.org/web/20080424093437/http://www.edge.org/3rd_culture/bios/lakoff.html Edge bio of Lakoff]
+*[http://lists.village.virginia.edu/sixties/HTML_docs/Texts/Scholarly/Lakoff_Gulf_Metaphor_1.html "Metaphor and War" (1991)]
+*[https://web.archive.org/web/20040826154735/http://www.alternet.org/story/15414 "Metaphor and War, Again" (2003)]
+*[https://www.theatlantic.com/doc/prem/200504/cooper "Thinking of Jackasses: the grand delusions of the Democratic Party", a critical review by Marc Cooper in Atlantic Monthly]
+*[https://archive.org/details/sglGreatSpeechesandInterviews_UnderstandingProgressivevs.Conservative "The Political Mind" a talk by George Lakoff] recorded June 28, 2008 in Sacramento, CA
+*[http://www.democracynow.org/2009/11/18/amidst_california_fiscal_crisis_and_political George Lakoff Proposes Ballot Measure to End ⅔ Rule in State Legislature] – video report by ''[[Democracy Now!]]''
+*[https://web.archive.org/web/20100610015303/http://www.giffordlectures.org/Author.asp?AuthorID=247 Biography and summary of Gifford Lectures] ([[University of Glasgow]], 2001) by Brannon Hancock
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lakoff, George}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:Linguists from the United States]]
+[[Category:American political writers]]
+[[Category:Cognitive scientists]]
+[[Category:Enactive cognition]]
+[[Category:Mathematical cognition researchers]]
+[[Category:Psycholinguists]]
+[[Category:Philosophers of mathematics]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:Consciousness researchers and theorists]]
+[[Category:Metaphor theorists]]
+[[Category:Framing theorists]]
+[[Category:Jewish American scientists]]
+[[Category:Jewish philosophers]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:Fellows of the Cognitive Science Society]]
+[[Category:20th-century American male writers]]
+[[Category:American male non-fiction writers]]
+[[Category:Jewish anthropologists]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American Jews]]

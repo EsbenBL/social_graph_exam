@@ -1,0 +1,70 @@
+{{Use dmy dates|date=September 2017}}
+{{Use British English|date=September 2017}}
+{{Infobox scholar
+| name = Donald Angus MacKenzie
+| image = 
+| imagesize = 
+| alt = 
+| caption = 
+| fullname = 
+| othernames = 
+| birth_name =         <!-- Use only if different from full/othernames -->
+| birth_date = {{Birth date and age|df=yes|1950|05|03}}
+| birth_place = 
+| death_date = 
+| death_place = 
+| death_cause = 
+| era = 
+| region = 
+| alma_mater = The University of Edinburgh
+| school_tradition = 
+| main_interests = Social studies of technology
+| principal_ideas = 
+| major_works = 
+| awards = 1993 Robert K. Merton Award of the American Sociological Association
+| influences = 
+| influenced = 
+| footnotes = 
+}}
+'''Donald Angus MacKenzie''' {{post-nominals|country=GBR|FBA|FRSE|FAcSS}} (born 3 May 1950)<ref name=Congress>{{cite web |title= MacKenzie, Donald A. |url= http://id.loc.gov/authorities/names/n82008489.html |publisher= Library of Congress |accessdate= 13 February 2015 |quote= data view p. (b. 03/05/1950) }}</ref> is a Professor of Sociology at the [[University of Edinburgh]], [[Scotland]]. His work constitutes a crucial contribution to the field of [[science and technology studies]]. He has also developed research in the field of [[social studies of finance]]. He has undertaken widely cited work on the history of [[statistics]], [[eugenics]], [[nuclear weapon]]s, [[computing]] and [[finance]], among other things.
+
+In August 2006, MacKenzie was awarded the Chancellor's Award from [[Prince Philip, Duke of Edinburgh]] and [[Chancellor (education)|Chancellor]] of the [[University of Edinburgh]], for his contributions to the field of science and technology studies. He is also the winner of the 1993 Robert K. Merton Award of the [[American Sociological Association]] and the 2005 [[John Desmond Bernal Prize]] of the [[Society for Social Studies of Science]] among many others.
+
+==Books==
+* {{cite book | last = MacKenzie | first = Donald | title = Statistics in Britain, 1865-1930: The Social Construction of Scientific Knowledge | publisher = Edinburgh University Press | location = Edinburgh | year = 1981 | isbn = 9780852243695 }}
+* {{cite book | last1 = MacKenzie | first1 = Donald | last2 = Wajcman | first2 = Judy | author-link2 = Judy Wajcman | title = The Social Shaping of Technology: How the Refrigerator Got Its Hum | publisher = Open University Press | location = Milton Keynes Philadelphia | year = 1985 | isbn = 9780335150267 }}
+* {{cite book |last1= MacKenzie |first1= Donald |author-link1= Donald Angus MacKenzie |date= 1990-12-13 |title= Inventing Accuracy: A Historical Sociology of Nuclear Missile Guidance |url= https://books.google.com/books?id=QymEXZIWEe8C&pg=PP1 |url-status= live |language= en |edition= 1st |publisher= [[MIT Press]] |isbn= 978-0262132589 |lccn= 90005915 |oclc= 1068009953 |ol= OL1854178M |archive-url= https://web.archive.org/web/20191122195156/https://books.google.com/books?id=QymEXZIWEe8C&printsec=frontcover&dq=isbn:9780262631471&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwi7qIjUyv7lAhVKJt8KHU5tBPkQ6AEwAHoECAAQAg#v=onepage&q&f=false |archive-date= 2019-11-22 |access-date= 2019-11-22 |ref= 1990_MacKenzie |df= dmy-all}}
+* {{cite book | last = MacKenzie | first = Donald | title = Knowing Machines: Essays on Technical Change | publisher = [[MIT Press]] | location = Cambridge, Massachusetts | year = 1998 | isbn = 9780262631884 }}
+* {{cite book | last = MacKenzie | first = Donald | title = Mechanizing Proof: Computing, Risk, and Trust | publisher = [[MIT Press]] | location = Cambridge, Massachusetts | year = 2001 | isbn = 9780585436739 }}
+* {{cite book | last = MacKenzie | first = Donald | title = An Engine, Not a Camera: How Financial Models Shape Markets | publisher = [[MIT Press]] | location = Cambridge, Massachusetts | year = 2006 | isbn = 9781423774488 }}
+* {{cite book | last1 = MacKenzie | first1 = Donald | last2 = Muniesa | first2 = Fabian | last3 = Siu | first3 = Lucia | title = Do Economists Make Markets?: On the Performativity of Economics | publisher = Princeton University Press | location = Princeton | year = 2007 | isbn = 9780691138497 }}
+* {{cite book | last = MacKenzie | first = Donald | title = Material Markets: How Economic Agents are Constructed | publisher = Oxford University Press | location = Oxford New York | year = 2009 | isbn = 9780199278152 }}
+* {{cite book | last = MacKenzie | first = Donald | title = Trading at the Speed of Light: How Ultrafast Algorithms Are Transforming Financial Markets | publisher = Princeton University Press | year = 2021 | isbn = 9780691211381 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.sps.ed.ac.uk/staff/donald-mackenzie Donald MacKenzie's faculty homepage] at the University of Edinburgh
+*[https://www.lrb.co.uk/contributors/donald-mackenzie Donald MacKenzie's contributions] published in ''[[The London Review of Books]]'' (including [https://www.lrb.co.uk/the-paper/v29/n07/donald-mackenzie/the-political-economy-of-carbon-trading "The Political Economy of Carbon Trading"])
+
+{{Subject bar|portal1 = Biography| portal2 = Society| portal3 = Technology | portal4 = United Kingdom}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mackenzie, Donald}}
+[[Category:1950 births]]
+[[Category:Academics of the University of Edinburgh]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:British sociologists]]
+[[Category:Economic sociologists]]
+[[Category:Fellows of the Academy of Social Sciences]]
+[[Category:Fellows of the British Academy]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Formal methods people]]
+[[Category:Sociologists of science]]
+[[Category:Living people]]
+
+
+{{scotland-academic-bio-stub}}
+{{UK-sociologist-stub}}

@@ -1,0 +1,389 @@
+{{Short description|English polymath: geographer, statistician, pioneer in eugenics (1822–1911)}}
+{{Redirect|Galton}}
+{{Use British English|date=August 2014}}
+{{Use dmy dates|date=January 2018}}
+{{Infobox scientist
+| honorific_prefix  = [[Sir]]
+| name              = Francis Galton
+| honorific_suffix  = [[Fellow of the Royal Society|FRS]] [[Royal Anthropological Institute of Great Britain and Ireland|FRAI]]
+| image             = Sir Francis Galton by Charles Wellington Furse.jpg
+| caption           = ''Sir Francis Galton'' by [[Charles Wellington Furse]], given to the [[National Portrait Gallery, London|National Portrait Gallery]], London in 1954
+| birth_date        = {{Birth date|df=yes|1822|2|16}}
+| birth_place       = [[Birmingham]], [[West Midlands (region)|West Midlands]], England
+| death_date        = {{Death date and age|df=yes|1911|1|17|1822|2|16}}
+| death_place       = [[Haslemere]], [[Surrey]], England
+| resting_place     = [[Claverdon]], [[Warwickshire]], England
+| residence         = England
+| nationality       = [[United Kingdom of Great Britain and Ireland|British]]
+| alma_mater        = [[King's College, London]]<br/>[[Trinity College, Cambridge]]
+| academic_advisors = [[William Hopkins]]
+| notable_students  = [[Karl Pearson]]
+| known_for         = [[Eugenics]]<br/>[[Behavioural genetics]]<br/>[[Regression toward the mean]]<br/>[[Standard deviation]]<br/>[[Anticyclone]]<br>[[Isochrone map]]<br/>[[Weather map]]<br/>[[Bean machine|Galton board]]<br/>[[Log-normal distribution|Galton distribution]]<br/>[[Galton–Watson process]]<br/>[[Galton's problem]]<br/>[[Dog whistle|Galton's whistle]]
+| field             = [[Anthropology]], [[Sociology]], [[Psychology]], [[Statistics]]
+| work_institution  = Meteorological Council<br/>[[Royal Geographical Society]]
+| prizes            = {{no wrap|[[Royal Medal]] (1886)<br/>[[Huxley Memorial Medal]] (1901)<br/>[[Darwin–Wallace Medal]] (Silver, 1908)<br/>[[Copley Medal]] (1910)}}
+}}
+
+'''Sir Francis Galton''', [[Fellow of the Royal Society|FRS]] [[Royal Anthropological Institute of Great Britain and Ireland|FRAI]] ({{IPAc-en|ˈ|g|ɔː|l|t|ən}}; 16 February 1822&nbsp;– 17 January 1911), was an English [[Victorian era]] [[polymath]]: a [[statistics|statistician]], [[sociologist]], [[psychologist]],<ref name="famouspsychologists.org" /> [[Anthropology|anthropologist]], tropical [[Exploration|explorer]], [[geography|geographer]], [[Invention|inventor]], [[Meteorology|meteorologist]], proto-[[geneticist]], [[Psychometrics|psychometrician]] and a proponent of [[social Darwinism]], [[eugenics]] and [[scientific racism]]. He was knighted in 1909.
+
+Galton produced over 340 papers and books. He also created the statistical concept of [[correlation]] and widely promoted [[regression toward the mean]]. He was the first to apply statistical methods to the study of human differences and [[inheritance of intelligence]], and introduced the use of [[questionnaires]] and [[Statistical survey|survey]]s for collecting data on human communities, which he needed for genealogical and biographical works and for his [[anthropometrics|anthropometric]] studies. He was a pioneer of [[eugenics]], coining the term itself in 1883, and also coined the phrase "[[nature versus nurture]]".{{sfn|Galton|1874|pp= 227–236}} His book ''[[Hereditary Genius]]'' (1869) was the first social scientific attempt to study [[genius]] and [[greatness]].{{sfn|Galton|1869|p=}}
+
+As an investigator of the human mind, he founded [[psychometrics]] (the science of measuring mental faculties) and [[differential psychology]], as well as the [[lexical hypothesis]] of personality. He devised a method for classifying [[fingerprint]]s that proved useful in [[forensic science]]. He also conducted research on the [[Efficacy of prayer|power of prayer]], concluding it had none due to its null effects on the longevity of those prayed for.{{sfn|Galton|1872|pp=125-135}} His quest for the scientific principles of diverse phenomena extended even to the optimal method for making tea.{{sfn|Galton|1855|p=208}}
+
+As the initiator of scientific [[meteorology]], he devised the first [[weather map]], proposed a theory of [[anticyclone]]s, and was the first to establish a complete record of short-term climatic phenomena on a European scale.<ref name="scienceworld.wolfram.com" /> He also invented the [[Dog whistle|Galton Whistle]] for testing differential hearing ability.{{sfn|Galton|1883|p=}} He was [[Charles Darwin]]'s half-cousin.{{sfn|Darwin|1887|p=5}}
+
+==Early life==
+Galton was born at "The Larches", a large house in the [[Sparkbrook]] area of [[Birmingham]], England, built on the site of "Fair Hill", the former home of [[Joseph Priestley]], which the [[botanist]] [[William Withering]] had renamed. He was [[Charles Darwin]]'s half-cousin, sharing the common grandparent [[Erasmus Darwin]]. His father was [[Samuel Tertius Galton]], son of [[Samuel Galton, Jr.]]. He was also a cousin of [[Douglas Strutt Galton]]. The Galtons were [[Quaker]] gun-manufacturers and bankers, while the Darwins were involved in medicine and science.
+
+Both the Galton and Darwin families included [[Fellow of the Royal Society|Fellow]]s of the [[Royal Society]] and members who loved to invent in their spare time. Both Erasmus Darwin and Samuel Galton were founding members of the [[Lunar Society]] of Birmingham, which included [[Matthew Boulton]], [[James Watt]], [[Josiah Wedgwood]], [[Joseph Priestley]] and [[Richard Lovell Edgeworth]]. Both families were known for their literary talent. Erasmus Darwin composed lengthy technical treatises in verse. Galton's aunt [[Mary Anne Galton]] wrote on aesthetics and religion, and her autobiography detailed the environment of her childhood populated by Lunar Society members.
+
+[[File:Sir Francis Galton by Octavius Oakley.jpg|thumb|upright|Portrait of Galton by [[Octavius Oakley]], 1840]]
+
+Galton was a [[child prodigy]]&nbsp;– he was reading by the age of two; at age five he knew some [[Ancient Greek|Greek]], [[Latin]] and long division, and by the age of six he had moved on to adult books, including [[Shakespeare]] for pleasure, and poetry, which he quoted at length.{{sfn|Bulmer|2003|p=4}} Galton attended [[King Edward's School, Birmingham]], but chafed at the narrow classical curriculum and left at 16.{{sfn|Cowan|2005}} His parents pressed him to enter the medical profession, and he studied for two years at [[Birmingham General Hospital]] and [[King's College London]] [[Medical School]]. He followed this up with mathematical studies at [[Trinity College, Cambridge|Trinity College]], [[University of Cambridge]], from 1840 to early 1844.<ref name="ACAD" />
+
+According to the records of the [[United Grand Lodge of England]], it was in February 1844 that Galton became a [[freemason]] at the ''Scientific'' lodge, held at the Red Lion Inn in Cambridge, progressing through the three masonic degrees: Apprentice, 5 February 1844; Fellow Craft, 11 March 1844; Master Mason, 13 May 1844. A note in the record states: "Francis Galton Trinity College student, gained his certificate 13 March 1845".<ref name="Freemasonry" /> One of Galton's masonic certificates from ''Scientific'' lodge can be found among his papers at [[University College, London]].<ref name="MerringtonGolden1976" />
+
+A [[nervous breakdown]] prevented Galton's intent to try for honours. He elected instead to take a "poll" (pass) B.A. degree, like his half-cousin Charles Darwin.{{sfn|Bulmer|2003|p=5}} (Following the Cambridge custom, he was awarded an M.A. without further study, in 1847.) He briefly resumed his medical studies but the death of his father in 1844 left him emotionally destitute, though financially independent,{{Citation needed|date=May 2017}} and he terminated his medical studies entirely, turning to foreign travel, sport and technical invention.
+
+In his early years Galton was an enthusiastic traveller, and made a notable solo trip through Eastern Europe to [[Constantinople]], before going up to Cambridge. In 1845 and 1846, he went to [[Egypt]] and travelled up the [[Nile]] to [[Khartoum]] in the [[Sudan]], and from there to [[Beirut]], [[Damascus]] and down the [[Jordan]].
+
+In 1850 he joined the [[Royal Geographical Society]], and over the next two years mounted a long and difficult [[exploration|expedition]] into then little-known [[South West Africa]] (now [[Namibia]]). He wrote a book on his experience, "Narrative of an Explorer in Tropical South Africa".{{sfn|Galton|1853}} He was awarded the Royal Geographical Society's [[Gold Medal (RGS)|Founder's Gold Medal]] in 1853 and the Silver Medal of the French Geographical Society for his pioneering cartographic survey of the region.{{sfn|Bulmer|2003|p=16}} This established his reputation as a geographer and explorer. He proceeded to write the best-selling ''The Art of Travel'', a handbook of practical advice for the [[Victorian era|Victorian]] on the move, which went through many editions and is still in print.
+
+==Middle years==
+[[File:Francis_Galton_1850s.jpg|thumb|Galton in the 1850s]]
+Galton was a [[polymath]] who made important contributions in many fields of science, including [[meteorology]] (the [[anticyclone]] and the first popular weather maps), statistics (regression and correlation), [[psychology]] ([[synaesthesia]]), [[biology]] (the nature and mechanism of heredity), and [[criminology]] (fingerprints). Much of this was influenced by his [[penchant]] for counting and measuring. Galton prepared the first [[weather map]] published in ''[[The Times]]'' (1 April 1875, showing the weather from the previous day, 31 March), now a standard feature in newspapers worldwide.<ref name="meteor" />
+
+He became very active in the [[British Association for the Advancement of Science]], presenting many papers on a wide variety of topics at its meetings from 1858 to 1899.{{sfn|Bulmer|2003|p=29}} He was the general secretary from 1863 to 1867, president of the Geographical section in 1867 and 1872, and president of the Anthropological Section in 1877 and 1885. He was active on the council of the Royal Geographical Society for over forty years, in various committees of the Royal Society, and on the Meteorological Council.
+
+[[James McKeen Cattell]], a student of [[Wilhelm Wundt]] who had been reading Galton's articles, decided he wanted to study under him. He eventually built a professional relationship with Galton, measuring subjects and working together on research.{{sfn|Gillham|2001a|p=}}
+
+In 1888, Galton established a lab in the science galleries of the South Kensington Museum. In Galton's lab, participants could be measured to gain knowledge of their strengths and weaknesses. Galton also used these data for his own research. He would typically charge people a small fee for his services.{{sfn|Hergenhahn|Henley|2013|p=288}}
+
+In 1873, Galton wrote a controversial letter to ''[[The Times]]'' titled 'Africa for the Chinese', where he argued that the Chinese, as a race capable of high civilisation and only temporarily stunted by the recent failures of Chinese dynasties, should be encouraged to immigrate to Africa and displace the supposedly inferior aboriginal blacks.<ref name="TheTimes1873" />
+
+==Heredity and eugenics==
+{{more citations needed|section|date=January 2018}}<!--first 4 paragraphs have no citations-->
+[[File:Francis Galton2.jpg|thumb|Galton in his later years]]
+The publication by his cousin Charles Darwin of ''[[The Origin of Species]]'' in 1859 was an event that changed Galton's life.{{sfn|Forrest|1974|page=84}} He came to be gripped by the work, especially the first chapter on "Variation under Domestication", concerning [[animal breeding]].
+
+Galton devoted much of the rest of his life to exploring variation in human populations and its implications, at which Darwin had only hinted in ''The Origin of Species'', although he returned to it in his 1871 book ''[[The Descent of Man]]'', drawing on his cousin's work in the intervening period. Galton established a research program which embraced multiple aspects of human variation, from mental characteristics to height; from facial images to fingerprint patterns. This required inventing novel measures of traits, devising large-scale collection of data using those measures, and in the end, the discovery of new statistical techniques for describing and understanding the data.
+
+Galton was interested at first in the question of whether human ability was [[hereditary]], and proposed to count the number of the relatives of various degrees of eminent men. If the qualities were hereditary, he reasoned, there should be more eminent men among the relatives than among the general population. To test this, he invented the methods of [[historiometry]]. Galton obtained extensive data from a broad range of biographical sources which he tabulated and compared in various ways. This pioneering work was described in detail in his book ''Hereditary Genius'' in 1869.{{sfn|Galton|1869|p=}} Here he showed, among other things, that the numbers of eminent relatives dropped off when going from the first degree to the second degree relatives, and from the second degree to the third. He took this as evidence of the [[inheritance of intelligence|inheritance of abilities]].
+
+Galton recognised the limitations of his methods in these two works, and believed the question could be better studied by comparisons of twins. His method envisaged testing to see if twins who were similar at birth diverged in dissimilar environments, and whether twins dissimilar at birth converged when reared in similar environments. He again used the method of questionnaires to gather various sorts of data, which were tabulated and described in a paper ''The history of twins'' in 1875. In so doing he anticipated the modern field of [[behaviour genetics]], which relies heavily on [[twin studies]]. He concluded that the evidence favoured nature rather than nurture. He also proposed [[adoption study|adoption studies]], including trans-racial adoption studies, to separate the effects of heredity and environment.
+
+Galton recognised that cultural circumstances influenced the capability of a civilisation's citizens, and their [[reproductive success]]. In ''Hereditary Genius'', he envisaged a situation conducive to resilient and enduring civilisation as follows:
+
+{{quote|
+The best form of civilization in respect to the improvement of the race, would be one in which society was not costly; where incomes were chiefly derived from professional sources, and not much through inheritance; where every lad had a chance of showing his abilities, and, if highly gifted, was enabled to achieve a first-class education and entrance into professional life, by the liberal help of the exhibitions and scholarships which he had gained in his early youth; where marriage was held in as high honour as in ancient Jewish times; where the pride of race was encouraged (of course I do not refer to the nonsensical sentiment of the present day, that goes under that name); where the weak could find a welcome and a refuge in celibate monasteries or sisterhoods, and lastly, where the better sort of emigrants and refugees from other lands were invited and welcomed, and their descendants naturalised.
+|source={{harvnb|Galton|1869|p=362}} }}
+
+Galton invented the term ''[[eugenics]]'' in 1883 and set down many of his observations and conclusions in a book, ''[[Inquiries into Human Faculty and Its Development]]''. In the book's introduction, he wrote: {{quote|[This book's] intention is to touch on various topics more or less connected with that of the cultivation of race, or, as we might call it, with "eugenic"<sup>1</sup> questions, and to present the results of several of my own separate investigations.<br/><sup>1</sup> This is, with questions bearing on what is termed in Greek, ''eugenes'', namely, good in stock, hereditarily endowed with noble qualities. This, and the allied words, ''eugeneia'', etc., are equally applicable to men, brutes, and plants. We greatly want a brief word to express the science of improving stock, which is by no means confined to questions of judicious mating, but which, especially in the case of man, takes cognisance of all influences that tend in however remote a degree to give the more suitable races or strains of blood a better chance of prevailing speedily over the less suitable than they otherwise would have had. The word ''eugenics'' would sufficiently express the idea; it is at least a neater word and a more generalised one than ''viriculture'', which I once ventured to use.|source={{harvnb|Galton|1883|pp=24–25}} }}
+
+He believed that a scheme of 'marks' for family merit should be defined, and early marriage between families of high rank be encouraged via provision of monetary incentives. He pointed out some of the tendencies in British society, such as the late marriages of eminent people, and the paucity of their children, which he thought were ''[[dysgenics|dysgenic]]''. He advocated encouraging eugenic marriages by supplying able couples with incentives to have children. On 29 October 1901, Galton chose to address eugenic issues when he delivered the second Huxley lecture at the Royal Anthropological Institute.{{sfn|Gillham|2001a|p=}}
+
+''[[The Eugenics Review]]'', the journal of the Eugenics Education Society, commenced publication in 1909. Galton, the Honorary President of the society, wrote the foreword for the first volume.{{sfn|Gillham|2001a|p=}} The First International Congress of Eugenics was held in July 1912. [[Winston Churchill]] and Carls Elliot were among the attendees.{{sfn|Gillham|2001a|p=}}
+
+According to the ''[[Encyclopedia of Genocide]]'', Galton bordered on the [[justification of genocide]] when he stated: "There exists a sentiment, for the most part quite unreasonable, against the gradual extinction of an inferior race."<ref>{{cite book |last1=Charny |first1=Israel W. |last2=Adalian |first2=Rouben Paul |last3=Jacobs |first3=Steven L. |last4=Markusen |first4=Eric |last5=Sherman |first5=Marc I. |title=Encyclopedia of Genocide: A-H |date=1999 |publisher=ABC-CLIO |isbn=978-0-87436-928-1 |page=218 |url=https://books.google.com/books?id=8Q30HcvCVuIC&pg=PA218 |language=en}}</ref>
+
+In June 2020, [[University College London|UCL]] announced that it was renaming a lecture theatre which had been named after Galton because of his connection with eugenics.<ref>{{cite web|access-date=2020-06-20|title=UCL renames three facilities that honoured prominent eugenicists|url=http://www.theguardian.com/education/2020/jun/19/ucl-renames-three-facilities-that-honoured-prominent-eugenicists|date=19 June 2020|website=The Guardian}}</ref>
+
+== Model for population stability ==
+[[File:Sir Francis Galton, 1890s.jpg|thumb|left|Sir Francis Galton, 1890s]]
+Galton's formulation of regression and its link to the bivariate normal distribution can be traced to his attempts at developing a mathematical model for population stability. Although Galton's first attempt to study Darwinian questions,  ''Hereditary Genius'', generated little enthusiasm at the time, the text led to his further studies in the 1870s concerning the inheritance of physical traits.{{sfn|Stigler|2010|pp=469–482}} This text contains some crude notions of the concept of regression, described in a qualitative matter. For example, he wrote of dogs: "If a man breeds from strong, well-shaped dogs, but of mixed pedigree, the puppies will be sometimes, but rarely, the equals of their parents. They will commonly be of a mongrel, nondescript type, because ancestral peculiarities are apt to crop out in the offspring."{{sfn|Galton|1914|p=57}}
+
+This notion created a problem for Galton, as he could not reconcile the tendency of a population to maintain a normal distribution of traits from generation to generation with the notion of inheritance. It seemed that a large number of factors operated independently on offspring,  leading to the normal distribution of a trait in each generation. However, this provided no explanation as to how a parent can have a significant impact on his offspring, which was the basis of inheritance.{{sfn|Stigler|1986|pp=265–299}}
+
+Galton's solution to this problem was presented in his Presidential Address at the September 1885 meeting of the [[British Association for the Advancement of Science]], as he was serving at the time as President of Section H: Anthropology.<ref name=":3">{{Cite journal|last=Galton|first=Francis|year=1885b|title=Opening address as President of the Anthropology Section of the British Association for the Advancement of Science, September 10th, 1885, at Aberdeen|journal=Nature|volume=32|pages=507–510}}</ref> The address was published in ''[[Nature (journal)|Nature]],'' and Galton further developed the theory in  "Regression toward mediocrity in hereditary stature" and "Hereditary Stature."{{sfn|Galton|1886|pp=246–263}}{{sfn|Galton|1886b|pp=295–298}} An elaboration of this theory was published in 1889 in ''Natural Inheritance.'' There were three key developments that helped Galton develop this theory: the  development of the law of error in 1874&ndash;1875, the formulation of an empirical law of reversion in 1877, and the development of a mathematical framework encompassing regression using human population data during 1885.{{sfn|Stigler|1986|pp=265–299}}
+
+Galton's development of the law of regression to the mean, or reversion, was due to insights from the [[Galton board]] ('bean machine') and his studies of sweet peas. While Galton had previously invented the quincunx prior to February 1874, the 1877 version of the quincunx had a new feature that helped Galton demonstrate that a normal mixture of normal distributions is also normal.{{sfn|Galton|1877|pp=492–495, 512–514, 532–533}} Galton demonstrated this using a new version of quincunx, adding chutes to the apparatus to represent reversion. When the pellets passed through the curved chutes (representing reversion) and then the pins (representing family variability), the result was a stable population. On Friday 19 February 1877 Galton gave a lecture entitled ''Typical Laws of Heredity'' at the [[Royal Institution]] in London.{{sfn|Galton|1877|pp=492–495, 512–514, 532–533}} In this lecture, he posited that there must be a counteracting force to maintain population stability. However, this model required a much larger degree of intergenerational natural selection than was plausible.{{sfn|Stigler|2010|pp=469–482}}
+
+In 1875, Galton started growing sweet peas, and addressed the Royal Institution on his findings on 9 February 1877.{{sfn|Galton|1877|pp=492–495, 512–514, 532–533}} He found that each group of progeny seeds followed a normal curve, and the curves were equally disperse. Each group was not centered about the parent's weight, but rather at a weight closer to the population average. Galton called this reversion, as every progeny group was distributed at a value that was closer to the population average than the parent. The deviation from the population average was in the same direction, but the magnitude of the deviation was only one-third as large. In doing so, Galton demonstrated that there was variability among each of the families, yet the families combined to produce a stable, normally distributed population. When Galton addressed the British Association for the Advancement of Science in 1885, he said of his investigation of sweet peas, "I was then blind to what I now perceive to be the simple explanation of the phenomenon."<ref name=":3" />
+
+Galton was able to further his notion of regression by collecting and analyzing data on human stature. Galton asked for help of mathematician J. Hamilton Dickson in investigating the geometric relationship of the data. He determined that the regression coefficient did not ensure population stability by chance, but rather that the regression coefficient, conditional variance, and population were interdependent quantities related by a simple equation.{{sfn|Stigler|1986|pp=265–299}} Thus Galton identified that the linearity of regression was not coincidental but rather was a necessary consequence of population stability.
+
+The model for population stability resulted in Galton's formulation of the Law of Ancestral Heredity.  This law, which was published in ''Natural Inheritance,'' states that the two parents of an offspring jointly contribute one half of an offspring's heritage, while the other, more-removed ancestors constitute a  smaller proportion of the offspring's heritage.{{sfn|Bulmer|1998|pp=579–585}} Galton viewed reversion as a spring, that when stretched, would return the distribution of traits back to the normal distribution. He concluded that evolution would have to occur via discontinuous steps, as reversion would neutralize any incremental steps.{{sfn|Gillham|2001b|pp=1383–1392}} When [[Mendelian inheritance|Mendel's]] principles were rediscovered in 1900, this resulted in a fierce battle between the followers of Galton's Law of Ancestral Heredity, the biometricians, and those who advocated Mendel's principles.{{sfn|Gillham|2013|pp=61–75}}
+
+==Empirical test of pangenesis and Lamarckism==
+Galton conducted wide-ranging inquiries into heredity which led him to challenge Charles Darwin's hypothesis of [[pangenesis]]. Darwin had proposed as part of this model that certain particles, which he called "[[gemmules]]" moved throughout the body and were also responsible for the inheritance of acquired characteristics. Galton, in consultation with Darwin, set out to see if they were transported in the blood. In a long series of experiments in 1869 to 1871, he transfused the blood between dissimilar breeds of rabbits, and examined the features of their offspring.<ref name="abc.net.au" /> He found no evidence of characters transmitted in the transfused blood.{{sfn|Bulmer|2003|pp=116–118}}
+
+Darwin challenged the validity of Galton's experiment, giving his reasons in an article published in ''[[Nature (journal)|Nature]]'' where he wrote:
+
+{{quote|
+Now, in the chapter on Pangenesis in my ''[[Variation of Animals and Plants under Domestication]]'' I have not said one word about the blood, or about any fluid proper to any circulating system. It is, indeed, obvious that the presence of gemmules in the blood can form no necessary part of my hypothesis; for I refer in illustration of it to the lowest animals, such as the Protozoa, which do not possess blood or any vessels; and I refer to plants in which the fluid, when present in the vessels, cannot be considered as true blood. The fundamental laws of growth, reproduction, inheritance, &c., are so closely similar throughout the whole organic kingdom, that the means by which the gemmules (assuming for the moment their existence) are diffused through the body, would probably be the same in all beings; therefore the means can hardly be diffusion through the blood. Nevertheless, when I first heard of Mr. Galton's experiments, I did not sufficiently reflect on the subject, and saw not the difficulty of believing in the presence of gemmules in the blood.
+|source={{harvnb|Darwin|1871|pp=502–503}} }}
+
+Galton explicitly rejected the idea of the [[inheritance of acquired characteristics]] ([[Lamarckism]]), and was an early proponent of "hard heredity"{{sfn|Bulmer|2003|pp=105–107}} through selection alone. He came close to rediscovering Mendel's particulate theory of inheritance, but was prevented from making the final breakthrough in this regard because of his focus on continuous, rather than discrete, traits (now regarded as [[polygenic]] traits). He went on to found the [[Biostatistics|biometric]] approach to the study of heredity, distinguished by its use of statistical techniques to study continuous traits and population-scale aspects of heredity.
+
+This approach was later taken up enthusiastically by [[Karl Pearson]] and [[Raphael Weldon|W. F. R. Weldon]]; together, they founded the highly influential journal ''[[Biometrika]]'' in 1901.  ([[R. A. Fisher]] would later show how the biometrical approach could be reconciled with the Mendelian approach.{{sfn|Nelson|Pettersson|Carlborg|2013|pp=669–676}}) The statistical techniques that Galton invented (correlation and regression—see below) and phenomena he established (regression to the mean) formed the basis of the biometric approach and are now essential tools in all social sciences.
+
+== Anthropometric Laboratory at the 1884 International Health Exhibition ==
+In 1884, London hosted the International Health Exhibition. This exhibition placed much emphasis on highlighting Victorian developments in sanitation and public health, and allowed the nation to display its advanced public health outreach, compared to other countries at the time. Francis Galton took advantage of this opportunity to set up his anthropometric laboratory. He stated that the purpose of this laboratory was to "show the public the simplicity of the instruments and methods by which the chief physical characteristics of man may be measured and recorded."{{sfn|Galton|1885a|pp=205-221}} The laboratory was an interactive walk-through in which physical characteristics such as height, weight, and eyesight, would be measured for each subject after payment of an admission fee. Upon entering the laboratory, a subject would visit the following stations in order.
+
+First, they would fill out a form with personal and family history (age, birthplace, marital status, residence, and occupation), then visit stations that recorded hair and eye color, followed by the keenness, color-sense, and depth perception of sight. Next, they would examine the keenness, or relative acuteness, of hearing and highest audible note of their hearing followed by an examination of their sense of touch. However, because the surrounding area was noisy, the apparatus intended to measure hearing was rendered ineffective by the noise and echoes in the building. Their breathing capacity would also be measured, as well as their ability to throw a punch. The next stations would examine strength of both pulling and squeezing with both hands. Lastly, subjects' heights in various positions (sitting, standing, etc.) as well as arm span and weight would be measured.{{sfn|Galton|1885a|pp=205-221}}
+
+One excluded characteristic of interest was the size of the head. Galton notes in his analysis that this omission was mostly for practical reasons. For instance, it would not be very accurate and additionally it would require much time for women to disassemble and reassemble their hair and bonnets.{{sfn|Galton|1884|p=}} The patrons would then be given a souvenir containing all their biological data, while Galton would also keep a copy for future statistical research.
+
+Although the laboratory did not employ any revolutionary measurement techniques, it was unique because of the simple logistics of constructing such a demonstration within a limited space, and because of the speed and efficiency with which all the necessary data were gathered. The laboratory itself was a see-through (lattice-walled) fenced off gallery measuring 36 feet long by 6 feet long. To collect data efficiently, Galton had to make the process as simple as possible for people to understand. As a result, subjects were taken through the laboratory in pairs so that explanations could be given to two at a time, also in the hope that one of the two would confidently take the initiative to go through all the tests first, encouraging the other. With this design, the total time spent in the exhibit was fourteen minutes for each pair.{{sfn|Galton|1885a|pp=205-221}}
+
+Galton states that the measurements of human characteristics are useful for two reasons. First, he states that measuring physical characteristics is useful in order to ensure, on a more domestic level, that children are developing properly. A useful example he gives for the practicality of these domestic measurements is regularly checking a child's eyesight, in order to correct any deficiencies early on. The second use for the data from his anthropometric laboratory is for statistical studies. He comments on the usefulness of the collected data to compare attributes across occupations, residences, races, etc.{{sfn|Galton|1885a|pp=205-221}} The exhibit at the health exhibition allowed Galton to collect a large amount of raw data from which to conduct further comparative studies. He had 9,337 respondents, each measured in 17 categories, creating a rather comprehensive statistical database.{{sfn|Galton|1884|p=}}
+
+After the conclusion of the International Health Exhibition, Galton used these data to confirm in humans his theory of linear regression, posed after studying sweet peas. The accumulation of this human data allowed him to observe the correlation between forearm length and height, head width and head breadth, and head length and height. With these observations he was able to write ''Co-relations and their Measurements, chiefly from Anthropometric Data''.{{sfn|Gillham|2001c|pp=82-102}} In this publication, Galton defined what co-relation as a phenomenon that occurs when "the variation of the one [variable] is accompanied on the average by more or less variation of the other, and in the same direction."{{sfn|Galton|1888|pp=273-279}}
+
+==Innovations in statistics and psychological theory==
+
+===Historiometry===
+The method used in ''Hereditary Genius'' has been described as the first example of [[historiometry]]. To bolster these results, and to attempt to make a distinction between 'nature' and 'nurture' (he was the first to apply this phrase to the topic), he devised a questionnaire that he sent out to 190 [[Fellows of the Royal Society]]. He tabulated characteristics of their families, such as [[birth order]] and the occupation and [[Race (classification of human beings)|race]] of their parents. He attempted to discover whether their interest in science was 'innate' or due to the encouragements of others. The studies were published as a book, ''English men of science: their nature and nurture'', in 1874. In the end, it promoted the [[nature versus nurture]] question, though it did not settle it, and provided some fascinating data on the sociology of scientists of the time.{{Citation needed|date=February 2020}}
+
+===The lexical hypothesis===
+Sir Francis was the first scientist to recognise what is now known as the [[lexical hypothesis]].{{sfn|Caprara|Cervone|2000|p=68}} This is the idea that the most salient and socially relevant personality differences in people's lives will eventually become encoded into language. The hypothesis further suggests that by sampling language, it is possible to derive a comprehensive taxonomy of human [[personality traits]].
+
+===The questionnaire===
+Galton's inquiries into the mind involved detailed recording of people's subjective accounts of whether and how their minds dealt with phenomena such as [[visual memory|mental imagery]]. To better elicit this information, he pioneered the use of the [[questionnaire]]. In one study, he asked his fellow members of the Royal Society of London to describe mental images that they experienced. In another, he collected in-depth surveys from eminent scientists for a work examining the effects of nature and nurture on the propensity toward scientific thinking.{{sfn|Clauser|2007|pp=440-444}}
+
+===Variance and standard deviation===
+Core to any statistical analysis is the concept that measurements vary: they have both a [[central tendency]], or mean, and a spread around this central value, or [[variance]]. In the late 1860s, Galton conceived of a measure to quantify normal variation: the [[standard deviation]].<ref>{{cite web|author=Chad Denby |url=http://www.sciencetimeline.net/1866.htm |title=Science Timeline |publisher=Science Timeline |access-date=22 April 2013}}</ref>
+
+Galton was a keen observer. In 1906, visiting a livestock fair, he stumbled upon an intriguing contest. An ox was on display, and the villagers were invited to guess the animal's weight after it was slaughtered and dressed. Nearly 800 participated, and Galton was able to study their individual entries after the event. Galton stated that "the middlemost estimate expresses the ''vox populi'', every other estimate being condemned as too low or too high by a majority of the voters",{{sfn|Galton|1907|p=450}} and reported this value (the [[median]], in terminology he himself had introduced, but chose not to use on this occasion) as 1,207 pounds. To his surprise, this was within 0.8% of the weight measured by the judges. Soon afterwards, in response to an enquiry, he reported<ref>"[http://galton.org/cgi-bin/searchImages/galton/search/essays/pages/galton-1907-ballot-box_1.htm The Ballot Box]", ''Nature'', 28 March 1907</ref> the mean of the guesses as 1,197 pounds, but did not comment on its improved accuracy.  Recent archival research{{sfn|Wallis|2014|pp=420-424}} has found some slips in transmitting Galton's calculations to the original article in ''Nature'': the median was actually 1,208 pounds, and the dressed weight of the ox 1,197 pounds, so the mean estimate had zero error.  James Surowiecki{{sfn|Surowiecki|2004|p=}} uses this weight-judging competition as his opening example: had he known the true result, his conclusion on the wisdom of the crowd would no doubt have been more strongly expressed.
+
+The same year, Galton suggested in a letter to the journal ''[[Nature (journal)|Nature]]'' a better method of cutting a round cake by avoiding making radial incisions.{{sfn|Galton|1906|p=173}}
+
+===Experimental derivation of the normal distribution===
+[[File:Quincunx (Galton Box) - Galton 1889 diagram.png|thumb|Galton's 1889 illustration of the quincunx or [[Galton board]].]]
+Studying variation, Galton invented the [[Galton board]], a [[pachinko]]-like device also known as the bean machine, as a tool for demonstrating the [[law of error]] and the [[normal distribution]].{{sfn|Bulmer|2003|p=4}}
+
+===Bivariate normal distribution===
+He also discovered the properties of the [[bivariate normal distribution]] and its relationship to [[correlation]] and [[regression analysis]].
+
+===Correlation and regression===
+[[File:Galton's correlation diagram 1875.jpg|thumb|Galton's correlation diagram 1886{{sfn|Galton |1886|p= 248|loc=[https://books.google.com/books?id=JPcRAAAAYAAJ&pg=PA248-IA3#v=onepage Plate X]}}]]
+In 1846, the French physicist [[Auguste Bravais]] (1811–1863) first developed what would become the correlation coefficient.{{sfn|Bravais|1846|pp=255-332}} After examining forearm and height measurements, Galton independently rediscovered the concept of [[correlation]] in 1888{{sfn|Galton|1888|pp=135-145}}{{sfn|Bulmer|2003|pp=191–196}} and demonstrated its application in the study of heredity, anthropology, and psychology.{{sfn|Clauser|2007|pp=440-444}} Galton's later statistical study of the probability of extinction of surnames led to the concept of [[Galton–Watson process|Galton–Watson stochastic processes]].{{sfn|Bulmer|2003|pp=182–184}} This is now a core of modern statistics and regression.
+
+Galton invented the use of the regression line{{sfn|Bulmer|2003|p=184}} and for the choice of r (for reversion or regression) to represent the correlation coefficient.{{sfn|Clauser|2007|pp=440-444}}
+
+In the 1870s and 1880s he was a pioneer in the use of [[normal distribution|normal theory]] to fit [[histogram]]s and [[Ogive (statistics)|ogives]] to actual tabulated data, much of which he collected himself: for instance [[big data|large samples]] of sibling and parental height. Consideration of the results from these empirical studies led to his further insights into evolution, natural selection, and regression to the mean.
+
+===Regression toward the mean===
+Galton was the first to describe and explain the common phenomenon of [[regression toward the mean]], which he first observed in his experiments on the size of the seeds of successive generations of sweet peas.
+
+The conditions under which regression toward the mean occurs depend on the way the term is mathematically defined. Galton first observed the phenomenon in the context of [[simple linear regression]] of data points. Galton{{sfn|Galton|1889|p=}} developed the following model: pellets fall through a ''[[quincunx]]'' or "[[bean machine]]" forming a normal distribution centered directly under their entrance point. These pellets could then be released down into a second gallery (corresponding to a second measurement occasion). Galton then asked the reverse question "from where did these pellets come?"
+{{quote|
+The answer was not "on average directly above". Rather it was "on average, more towards the middle", for the simple reason that there were more pellets above it towards the middle that could wander left than there were in the left extreme that could wander to the right, inwards.
+|source={{harvnb|Stigler|2010|p=477}} }}
+
+===Theories of perception===
+Galton went beyond measurement and summary to attempt to explain the phenomena he observed. Among such developments, he proposed an early theory of ranges of sound and [[hearing (sense)|hearing]], and collected large quantities of anthropometric data from the public through his popular and long-running Anthropometric Laboratory, which he established in 1884, and where he studied over 9,000 people.{{sfn|Gillham|2001a|p=}} It was not until 1985 that these data were analysed in their entirety.
+
+He made a beauty map of Britain, based on a secret grading of the local women on a scale from attractive to repulsive. The lowest point was in [[Aberdeen]].<ref>{{cite web |title=Francis Galton: The man who drew up the 'ugly map' of Britain |url=https://www.bbc.com/news/magazine-13775520 |website=[[BBC]] |access-date=24 June 2020 |date=16 June 2011}}</ref>
+
+===Differential psychology===
+{{Main|Differential psychology}}
+
+Galton's study of human abilities ultimately led to the foundation of [[differential psychology]] and the formulation of the first mental tests. He was interested in measuring humans in every way possible. This included measuring their ability to make sensory discrimination which he assumed was linked to intellectual prowess. Galton suggested that individual differences in general ability are reflected in performance on relatively simple sensory capacities and in speed of reaction to a stimulus, variables that could be objectively measured by tests of sensory discrimination and reaction
+time.{{sfn|Jensen|2002|pp=145-172}} He also measured how quickly people reacted which he later linked to internal wiring which ultimately limited intelligence ability. Throughout his research Galton assumed that people who reacted faster were more intelligent than others.
+
+===Composite photography===
+Galton also devised a technique called "[[composite portrait]]ure" (produced by superimposing multiple photographic portraits of individuals' faces registered on their eyes) to create an average face (see [[averageness]]). In the 1990s, a hundred years after his discovery, much psychological research has examined the [[attractiveness]] of these faces, an aspect that Galton had remarked on in his original lecture. Others, including [[Sigmund Freud]] in his work on dreams, picked up Galton's suggestion that these composites might represent a useful metaphor for an [[Ideal type]] or a [[concept]] of a "[[natural kind]]" (see [[Eleanor Rosch]])—such as Jewish men, criminals, patients with tuberculosis, etc.—onto the same photographic plate, thereby yielding a blended whole, or "composite", that he hoped could generalise the facial appearance of his subject into an "average" or "central type".{{sfn|Galton|1883|p=}}{{sfn|Galton|1878|pp=132–142}} (See also entry ''Modern physiognomy'' under [[Physiognomy]]).
+
+This work began in the 1880s while the Jewish scholar [[Joseph Jacobs]] studied anthropology and statistics with Francis Galton. Jacobs asked Galton to create a composite photograph of a Jewish type.{{sfn|Novak|2008|p=100}} One of Jacobs' first publications that used Galton's composite imagery was "The Jewish Type, and Galton's Composite Photographs," ''Photographic News'', 29, (24 April 1885): 268–269.
+
+Galton hoped his technique would aid medical diagnosis, and even criminology through the identification of typical criminal faces. However, his technique did not prove useful and fell into disuse, although after much work on it including by photographers [[Lewis Hine]] and [[John L. Lovell]] and [[Arthur Batut]].
+
+==Fingerprints==
+In a [[Royal Institution]] paper in 1888 and three books (''[[Finger Prints (book)|Finger Prints]]'', 1892; ''Decipherment of Blurred Finger Prints'', 1893; and ''Fingerprint Directories'', 1895),{{sfn|Conklin|Gardner|Shortelle|2002|p=}} Galton estimated the probability of two persons having the same [[fingerprint]] and studied the heritability and racial differences in fingerprints. He wrote about the technique (inadvertently sparking a controversy between Herschel and Faulds that was to last until 1917), identifying common pattern in fingerprints and devising a classification system that survives to this day.
+
+The method of identifying criminals by their fingerprints had been introduced in the 1860s by Sir [[William James Herschel]] in India, and their potential use in forensic work was first proposed by Dr [[Henry Faulds]] in 1880. Galton was introduced to the field by his half-cousin [[Charles Darwin]], who was a friend of Faulds's, and he went on to create the first scientific footing for the study (which assisted its acceptance by the courts{{sfn|Bulmer|2003|p=35}}) although Galton did not ever give credit that the original idea was not his.<ref name="BBC" /> Galton pointed out that there were specific types of fingerprint patterns. He described and classified them into eight broad categories: 1: plain arch, 2: tented arch, 3: simple loop, 4: central pocket loop, 5: double loop, 6: lateral pocket loop, 7: plain whorl, and 8: accidental.{{sfn|Innes|2005|pp=32–33}}
+
+==Final years==
+[[File:Karl Pearson; Sir Francis Galton.jpg|thumb|Francis Galton (right), aged 87, on the stoep at Fox Holm, Cobham, with the statistician [[Karl Pearson]].]]
+In an effort to reach a wider audience, Galton worked on a novel entitled ''Kantsaywhere'' from May until December 1910. The novel described a utopia organised by a eugenic religion, designed to breed [[Fitness (biology)|fitter]] and smarter humans. His unpublished notebooks show that this was an expansion of material he had been composing since at least 1901. He offered it to [[Methuen Publishing|Methuen]] for publication, but they showed little enthusiasm. Galton wrote to his niece that it should be either "smothered or superseded". His niece appears to have burnt most of the novel, offended by the love scenes, but large fragments survived,{{sfn|Pearson|1930a|p=413}} and it was published online by University College, London.{{sfn|Galton|Sargent|2001|pp=191-209}}
+
+Galton is buried in the family tomb in the churchyard of St Michael and All Angels, in the village of [[Claverdon]], [[Warwickshire]].<ref name="Challis" />
+
+==Personal life and character==
+In January 1853, Galton met [[Louisa Jane Butler]] (1822–1897) at his neighbour's home and they were married on 1 August 1853. The union of 43 years proved childless.{{sfn|Pearson|1914b|p=281}}<ref name="auden" />
+[[File:Louisa Jane Galton00.jpg|thumb|right|upright|Louisa Jane Butler]]
+
+It has been written of Galton that "On his own estimation he was a supremely intelligent man."{{sfn|Winston|2020}} Later in life, Galton proposed a connection between genius and insanity based on his own experience:{{quote|Men who leave their mark on the world are very often those who, being gifted and full of nervous power, are at the same time haunted and driven by a dominant idea, and are therefore within a measurable distance of insanity.|source={{harvnb|Pearson|1914, 1924, 1930}} }}
+
+==Awards and influence==
+Over the course of his career Galton received many awards, including the [[Copley Medal]] of the Royal Society (1910). He received in 1853 the Founder's Medal, the highest award of the [[Royal Geographical Society]], for his explorations and map-making of southwest Africa. He was elected a member of the [[Athenaeum Club, London|Athenaeum Club]] in 1855 and made a [[Fellow of the Royal Society]] in 1860. His [[autobiography]] also lists:{{sfn|Galton|1909|p=331}}
+
+* Silver Medal, French Geographical Society (1854)
+* Gold Medal of the Royal Society (1886)
+* Officier de l'Instruction Publique, France (1891)
+* D.C.L. Oxford (1894)
+* Sc.D. (Honorary), Cambridge (1895)
+* Huxley Medal, Anthropological Institute (1901)
+* Elected Hon. Fellow Trinity College, Cambridge (1902)
+* Darwin Medal, Royal Society (1902)
+* [[Linnean Society of London]]'s [[Darwin–Wallace Medal]] (1908)
+
+Galton was knighted in 1909. His statistical heir [[Karl Pearson]], first holder of the Galton Chair of Eugenics at [[University College, London]] (now Galton Chair of Genetics), wrote a three-volume biography of Galton, in four parts, after his death.{{sfn|Pearson|1914a}}{{sfn|Pearson|1914b}}{{sfn|Pearson|1930a}}{{sfn|Pearson|1930b}}
+
+The flowering plant genus ''[[Galtonia]]'' was named after Galton.
+
+[[University College London]] has in the twenty-first century been involved in a historical inquiry into its role as the institutional birthplace of eugenics. [[Galton Laboratory|Galton established a laboratory at UCL]] in 1904. Some students and staff have called on the university to rename its Galton lecture theatre. "Galton's seductive promise was of a bold new world filled only with beautiful, intelligent, productive people. The scientists in its thrall claimed this could be achieved by controlling reproduction, policing borders to prevent certain types of immigrants, and locking away "undesirables", including disabled people."{{sfn|Saini|2019}}
+
+==Published works==
+{{refbegin}}
+
+*{{cite book|last=Galton |first=Francis |title=The art of travel, or, Shifts and contrivances available in wild countries|url=https://archive.org/details/arttravelorshif02galtgoog|year=1855|publisher=John Murray|location=London|display-authors=0}}
+* {{cite book|last1=Galton|first1=Francis|author-link=Francis Galton|title=Narrative of an Explorer in Tropical South Africa|url=https://archive.org/details/narrativeofexplo00galt|date=1853|location=London|display-authors=0}}
+* {{cite book|last=Galton|first= F. |date=1869|url=http://galton.org/books/hereditary-genius/ |title=Hereditary Genius|location= London|publisher=Macmillan|display-authors=0}}
+*{{cite journal|url=http://galton.org/essays/1870-1879/galton-1872-fortnightly-review-efficacy-prayer.html|last=Galton |first=Francis |display-authors=0|title=Statistical Inquiries into the Efficacy of Prayer|journal=Fortnightly Review |volume= 12|pages= 125–35|date= 1872}}
+*{{cite journal | last1 = Galton | first1 = Francis | year = 1874 | title = On men of science, their nature and their nurture |url=https://books.google.com/books?id=_uE-bpGo2N4C&pg=PA227 | journal = Proceedings of the Royal Institution of Great Britain | volume = 7 | pages = 227–236 |display-authors=0}}
+*{{Cite journal|last=Galton|first=Francis|year=1877|title=Typical laws of heredity|journal=Nature|volume=15|issue=388|pages=492–495, 512–514, 532–533|bibcode=1877Natur..15..492.|doi=10.1038/015492a0|display-authors=0|doi-access=free}}
+*{{cite journal | last1 = Galton | first1 = F | year = 1878 | title = Composite portraits |url=http://www.galton.org/essays/1870-1879/galton-1879-jaigi-composite-portraits.pdf | journal = Journal of the Anthropological Institute of Great Britain and Ireland | volume = 8 | pages = 132–142 | doi=10.2307/2841021| jstor = 2841021 |display-authors=0}}
+*{{cite book|last=Galton|first=Francis |title=Inquiries Into Human Faculty and Its Development|url=https://archive.org/details/inquiriesintohu00galtgoog|page=[https://archive.org/details/inquiriesintohu00galtgoog/page/n42 24]|year=1883|publisher=Macmillan|display-authors=0}}
+*{{citation|title=Anthropometric Laboratory|last=Galton|first=Francis|journal=Science|volume=5|issue=114|publisher=William Clowes|year=1884|location=London|pages=294–295|display-authors=0|bibcode=1885Sci.....5..294.|doi=10.1126/science.ns-5.114.294|pmid=17831706}}
+*{{Cite journal|last=Galton|first=Francis|date=1 January 1885a|title=On the Anthropometric Laboratory at the Late International Health Exhibition.|journal=The Journal of the Anthropological Institute of Great Britain and Ireland|volume=14|pages=205–221|doi=10.2307/2841978|jstor=2841978|url=https://zenodo.org/record/1449574|id={{zenodo|1449574}} |display-authors=0}}
+*{{Cite journal|last=Galton|first=Francis|year=1886|title=Regression Towards Mediocrity in Hereditary Stature|journal=The Journal of the Anthropological Institute of Great Britain and Ireland|volume=15|pages=246–263|doi=10.2307/2841583|jstor=2841583|id={{zenodo|1449548}}|url=https://books.google.com/books?id=JPcRAAAAYAAJ&pg=PA246|display-authors=0}}
+*{{Cite journal|last=Galton|first=Francis|year=1886b|title=Hereditary stature|journal=Nature|volume=33|issue=848|pages=295–298|doi=10.1038/033295c0|bibcode=1886Natur..33..295.|display-authors=0|doi-access=free}}
+*{{Cite journal|last=Galton|first=Francis|date=1 January 1888|title=Co-Relations and Their Measurement, Chiefly from Anthropometric Data|journal=Proceedings of the Royal Society of London|volume=45|issue=273–279|pages=135–145|url=https://books.google.com/books?id=ki0nL-JWNGsC&pg=PA135|doi=10.1098/rspl.1888.0082|bibcode=1888RSPS...45..135G|jstor=114860|s2cid=13851067|display-authors=0}}
+* {{cite book|last=Galton|first= F.|date=1889|url=http://galton.org/books/natural-inheritance/pdf/galton-nat-inh-1up-clean.pdf |title=Natural Inheritance|location= London|publisher= Macmillan|display-authors=0}}
+*{{Cite journal|url=http://galton.org/essays/1900-1911/galton-1906-cake.pdf|title=Cutting a Round Cake on Scientific Principles (Letters to the Editor)|last=Galton|first=Francis|journal=[[Nature (journal)|Nature]]|page=173|date=20 December 1906|issue=1938|volume=75|doi=10.1038/075173c0 |bibcode=1906Natur..75..173G|s2cid=3980060|display-authors=0}}
+*{{cite journal|last=Galton|first= F.|url=http://galton.org/essays/1900-1911/galton-1907-vox-populi.pdf |title=Vox Populi|journal=Nature|date= 7 March 1907|display-authors=0|volume=75|issue=1949|pages= 450–451|doi= 10.1038/075450a0|bibcode= 1907Natur..75..450G|s2cid= 4013898|doi-access=free}}
+*{{Cite book|last=Galton|first= Francis|title=Memories of My Life |year=1909|location=New York|publisher=E. P. Dutton and Company|url=https://archive.org/details/memoriesmylife01galtgoog|page=[https://archive.org/details/memoriesmylife01galtgoog/page/n335 331]|display-authors=0}}
+*{{cite book|last=Galton|first=Sir Francis |title=Hereditary Genius: An Inquiry Into Its Laws and Consequences|url=https://archive.org/details/hereditarygenius00galtuoft|year=1914|publisher=Macmillan|display-authors=0}}
+*{{Cite journal|last1=Galton|first1=Francis|last2=Sargent|first2=Lyman Tower|year=2001|title=The Eugenic College of Kantsaywhere|journal=Utopian Studies|volume=12|issue=2|pages=191–209|issn=1045-991X|jstor=20718325|oclc=5542769084|display-authors=0}}
+{{refend}}
+
+==See also==
+* ''[[A Large Attendance in the Antechamber]]'', a play about Galton
+* [[Darwin–Wedgwood family]]
+* [[Efficacy of prayer]]
+* [[Eugenics in the United States]]
+* [[Historiometry]]
+* [[Racial hygiene]]
+* [[British people]]
+
+==References==
+===Citations===
+{{reflist|2|refs=
+
+<ref name="famouspsychologists.org">{{cite web|url=http://www.famouspsychologists.org/francis-galton/|title=Francis Galton - Biography, Books and Theories|work=famouspsychologists.org|access-date=9 January 2017}}</ref>
+
+<ref name="scienceworld.wolfram.com">{{cite web|url=http://scienceworld.wolfram.com/biography/Galton.html|title=Francis Galton (1822-1911) |website= Eric Weisstein's World of Scientific Biography|first1=Margherita |last1=Barile |first2=Eric W.|last2=Weisstein |author2-link=Eric W. Weisstein |access-date=9 January 2017}}</ref>
+
+<ref name="ACAD">{{acad|id=GLTN839F|name=Galton, Francis}}</ref>
+
+<ref name="Freemasonry">'Scientific Lodge No. 105 Cambridge' in ''Membership Records: Foreign and Country Lodges, Nos. 17–145, 1837–1862''. London: Library and Museum of Freemasonry (manuscript)</ref>
+
+<ref name="MerringtonGolden1976">M. Merrington and J. Golden (1976) ''A List of the Papers and Correspondence of Sir Francis Galton (1822–1911) held in The Manuscripts Room, The Library, University College London''. The Galton Laboratory, University College London (typescript), at Section 88 on p. 10</ref>
+
+<ref name="auden">{{Cite web |url=http://www.stanford.edu/group/auden/cgi-bin/auden/individual.php?pid=I7570&ged=auden-bicknell.ged |title=Sir Francis Galton FRS FRGS&nbsp;– I7570 |access-date=28 June 2010 |archive-url=https://web.archive.org/web/20121120200548/http://www.stanford.edu/group/auden/cgi-bin/auden/individual.php?pid=I7570&ged=auden-bicknell.ged |archive-date=20 November 2012 |url-status=dead }}</ref>
+
+<ref name="meteor">{{cite web|url=http://www.galton.org/meteorologist.html |title=Francis Galton: Meteorologist |publisher=Galton.org |access-date=22 April 2013}}</ref>
+
+<ref name="TheTimes1873">{{cite news|newspaper=The Times|first =Francis|last=Galton|title=Africa For The Chinese:To The Editor Of The Times|date=5 June 1873|url=http://galton.org/letters/africa-for-chinese/AfricaForTheChinese.htm|via=galton.org}}</ref>
+
+<ref name="abc.net.au">{{cite web |url=http://www.abc.net.au/rn/science/ss/stories/s216074.htm |title= Sir Francis Galton|date= 25 November 2000|access-date=8 September 2007 |archive-url=https://web.archive.org/web/20080114010050/http://www.abc.net.au/rn/science/ss/stories/s216074.htm |archive-date=14 January 2008 |url-status=dead |df=dmy-all |website=Science Show}}</ref>
+
+<ref name="Challis">{{cite web |last1=Challis |first1=Debbie |title=The Grave of Francis Galton |url=https://blogs.ucl.ac.uk/museums/2011/07/07/the-grave-of-francis-galton/ |website=UCL Museums & Collections Blog |access-date=27 January 2019}}</ref>
+
+<ref name="BBC">{{Cite news|url=http://news.bbc.co.uk/2/hi/uk_news/scotland/4005589.stm|title=Tribute to fingerprinting pioneer|date=2004-11-12|access-date=2019-06-01|website=BBC News}}</ref>
+
+}}
+
+===Sources===
+{{refbegin|2|indent=yes}}
+
+*{{cite journal | last1 = Bravais | first1 = A | year = 1846 | title = Analyse mathématique sur les probabilités des erreurs de situation d'un point |trans-title=Mathematical analysis of the probabilities of errors in a point's location |url=http://gallica.bnf.fr/ark:/12148/bpt6k5516293p/f261.image | journal = Mémoires Presents Par Divers Savants à l'Académie des Sciences de l'Institut de France. Sciences Mathématiques et Physiques | volume = 9 | pages = 255–332}}
+*{{Cite journal|last=Bulmer|first=Michael|year=1998|title=Galton's law of ancestral heredity|journal=Heredity|volume=81|issue=5|pages=579–585|doi=10.1038/sj.hdy.6884180}}
+*{{Cite book|last=Bulmer|first=Michael|year=2003|title=Francis Galton: Pioneer of Heredity and Biometry|publisher=[[Johns Hopkins University Press]]|isbn=978-0-8018-7403-1}}
+*{{cite book | title=Personality: Determinants, Dynamics, and Potentials | publisher=Cambridge University Press |last1=Caprara|first1= G. V. |last2= Cervone|first2= D. | year=2000 | location=New York | isbn=978-0-521-58310-7}}
+*{{cite journal|last=Clauser|first= Brian E. |date=2007|title= The Life and Labors of Francis Galton: A Review of Four Recent Books About the Father of Behavioral Statistics |journal= Journal of Educational and Behavioral Statistics |volume= 32|issue=4|pages= 440–444|doi=10.3102/1076998607307449|s2cid= 121124511 }}
+*{{cite book|last1=Conklin|first1=Barbara Gardner |last2=Gardner|first2=Robert |last3=Shortelle|first3=Dennis |title=Encyclopedia of Forensic Science: A Compendium of Detective Fact and Fiction|url=https://archive.org/details/encyclopediaoffo0000conk|url-access=registration|year=2002|publisher=Oryx Press|isbn=978-1-57356-170-9}}
+*{{cite ODNB|id=33315|title=Galton, Sir Francis, (1822–1911)|first=Ruth S.|last=Cowan|date=22 September 2005}}
+*{{cite journal|last=Darwin|first= C. R.|author-link=Charles Darwin|date=27 April 1871|url=http://darwin-online.org.uk/content/frameset?itemID=F1751&viewtype=side&pageseq=1 |title=Pangenesis|journal=Nature |volume=3 |issue= 78|pages=502–503|doi= 10.1038/003502a0|bibcode= 1871Natur...3..502D|doi-access=free}}
+*{{cite book|last=Darwin|first=Francis |author-link=Francis Darwin|title=The Life and Letters of Charles Darwin|url=https://books.google.com/books?id=iodTqIRzVukC&pg=PA5|volume=Volume 1|year=1887|publisher=Appleton and Co.|location=New York}}
+*{{Cite book|last=Forrest|first=D.W.|year=1974|title=Francis Galton: The Life and Work of a Victorian Genius|publisher=Taplinger|isbn=978-0-8008-2682-6|url=https://archive.org/details/francisgaltonlif00forr}}
+*{{cite book|last=Gillham|first=Nicholas Wright |title=A Life of Sir Francis Galton: From African Exploration to the Birth of Eugenics|url=https://books.google.com/books?id=pJfgUvTPAv8C|year=2001a|publisher=Oxford University Press|isbn=978-0-19-534943-6}}
+*{{Cite journal|last=Gillham|first=Nicholas|year=2001b|title=Evolution by Jumps: Francis Galton and William Bateson and the Mechanism of Evolutionary Change|journal=Genetics|volume=159 | issue = 4 |pages=1383–1392|doi=10.1093/genetics/159.4.1383|pmid=11779782|pmc=1461897}}
+*{{Cite journal|last=Gillham|first=Nicholas W.|title=Sir Francis Galton and the Birth of Eugenics|journal=Annual Review of Genetics|volume=35|pages=83–102|doi=10.1146/annurev.genet.35.102401.090055|pmid=11700278|year=2001c }}
+*{{Cite journal|last=Gillham|first=Nicholas|date=9 August 2013|title=The Battle Between the Biometricians and the Mendelians: How Sir Francis Galton's Work Caused his Disciples to Reach Conflicting Conclusions About the Hereditary Mechanism|journal= Science & Education|volume=24|issue=1–2|pages=61–75|doi=10.1007/s11191-013-9642-1|bibcode=2015Sc&Ed..24...61G|s2cid=144727928}}
+*{{cite book|last1=Hergenhahn|first1=B. R. |last2=Henley|first2=Tracy |title=An Introduction to the History of Psychology|url=https://books.google.com/books?id=6-FchL0K_ioC&pg=PA288|year=2013|publisher=Cengage Learning|isbn=978-1-133-95809-3}}
+*{{cite book|last=Innes|first=Brian |title=Body in Question: Exploring the Cutting Edge in Forensic Science|url=https://archive.org/details/bodyinquestionex0000inne|url-access=registration|year=2005|publisher=Barnes & Noble|isbn=978-0-7607-7560-8}}
+*{{cite journal|last=Jensen|first=Arthur R.|title=Galton's Legacy to Research on Intelligence|journal=Journal of Biosocial Science|date=April 2002|volume=34 | issue = 2 |pages=145–172|doi=10.1017/s0021932002001451|pmid=11926452|s2cid=20153127}}
+*{{cite journal|last1=Nelson|first1=R|last2=Pettersson|first2= M |author3-last= Carlborg|author3-first= C|title=A century after Fisher: time for a new paradigm in quantitative genetics|journal=Trends in Genetics|date=23 October 2013|doi=10.1016/j.tig.2013.09.006|volume=29|issue=12|pages=669–676|pmid=24161664}}
+*{{cite book|last=Novak|first=Daniel A. |title=Realism, Photography and Nineteenth-Century Fiction|url=https://books.google.com/books?id=UeiMt7Yzb1MC&pg=PA100|date=May 2008|publisher=Cambridge University Press|isbn=978-0-521-88525-6}}
+*{{cite book|last=Pearson|first=Karl |author-link=Karl Pearson|title=The Life, Letters and Labours of Francis Galton|url=https://archive.org/details/lifeletterslabou01pearuoft/page/n7|volume=Volume 1|year=1914a|publisher=University Press|location=Cambridge }}
+*{{cite book|last=Pearson|first=Karl |author-link=Karl Pearson|title=The Life, Letters and Labours of Francis Galton|url=https://archive.org/details/b29000695_0002/page/n353|volume=Volume 2|year=1914b|publisher=University Press|location=Cambridge }}
+*{{cite book|last=Pearson|first=Karl |author-link=Karl Pearson|title=The Life, Letters and Labours of Francis Galton|url=https://archive.org/details/b29000695_0003/page/n9|volume=Volume 3A|year=1930a|publisher=University Press|location=Cambridge }}
+*{{cite book|last=Pearson|first=Karl |author-link=Karl Pearson|title=The Life, Letters and Labours of Francis Galton|url=https://archive.org/details/lifeletterslabou03pearuoft/page/n10|volume=Volume 3B|year=1930b|publisher=University Press|location=Cambridge }}
+*{{cite web|last=Pearson|first=Karl|title=The life, letters and labours of Francis Galton (3 vols. 1914, 1924, 1930)|url=http://galton.org|ref={{sfnref|Pearson|1914, 1924, 1930}}}}
+*{{cite news|newspaper= The Guardian|date= 3 October 2019|first=Angela |last=Saini |url=https://www.theguardian.com/commentisfree/2019/oct/03/eugenics-francis-galton-science-ideas|title=In the twisted story of eugenics, the bad guy is all of us}}
+*{{cite book|last=Stigler|first=Stephen M. |author-link=Stephen Stigler|title=The History of Statistics: The Measurement of Uncertainty Before 1900|url=https://archive.org/details/historyofstatist00stig|url-access=registration|year=1986|publisher=Harvard University Press|isbn=978-0-674-40341-3}}
+*{{Cite journal|last=Stigler|first=Stephen M.|date=1 July 2010|title=Darwin, Galton and the Statistical Enlightenment|journal=[[Journal of the Royal Statistical Society, Series A]]|volume=173|issue=3|pages=469–482|doi=10.1111/j.1467-985X.2010.00643.x|issn=1467-985X|author-link=Stephen Stigler}}
+*{{cite book|last=Surowiecki|first= James |date=2004|title=The Wisdom of Crowds|title-link=The Wisdom of Crowds|publisher= Random House|location= New York}}
+*{{cite journal | last1 = Wallis | first1 = Kenneth F | year = 2014 | title = Revisiting Francis Galton's forecasting competition | journal = Statistical Science | volume = 29 | issue = 3 | pages = 420–424 | doi = 10.1214/14-STS468 | arxiv = 1410.3989 | bibcode = 2014arXiv1410.3989W | s2cid = 53642221}}
+*{{cite news|title=Robert Winston: eugenics has evil in its DNA|newspaper=The Times|date= 23 February 2020|url=https://www.thetimes.co.uk/edition/news-review/robert-winston-eugenics-has-evil-in-its-dna-2zzmk33tb|first=Robert|last=Winston|author-link=Robert Winston}}
+
+{{refend}}
+
+===Further reading===
+{{refbegin|2|indent=yes}}
+*{{Cite book|last=Brookes|first=Martin|year=2004|title=Extreme Measures: The Dark Visions and Bright Ideas of Francis Galton| publisher=Bloomsbury}}
+*{{Cite thesis|last=Cowan|first=Ruth Schwartz|title=Sir Francis Galton and the Study of Heredity in the Nineteenth Century|publisher=Georgetown University|date=1969|hdl=10822/548629|type=PhD}}
+*{{citation|last1=Ewen|first1= Stuart |first2=Elizabeth|last2= Ewen |date= 2006|chapter=Nordic Nightmares|pages=257–325 |title=Typecasting: On the Arts and Sciences of Human Inequality|publisher= Seven Stories Press|isbn=978-1-58322-735-0|url=https://books.google.com/books?id=qXC1AAAAIAAJ}}
+* {{cite book|last=Quinche|first= Nicolas|title=Crime, Science et Identité. Anthologie des textes fondateurs de la criminalistique européenne (1860–1930)|language=fr|trans-title=Crime, Science and Identity: An Anthology of Foundational Texts in European Criminology|location=  Genève|publisher= Slatkine|date= 2006|pages= 368}}
+{{refend}}
+
+==External links==
+{{Sister project links| wikt=no | commons=Category:Francis Galton | b=no | n=no | q=Francis Galton | s=Author:Francis Galton | v=no | voy=no | species=no | d=q191026}}
+* [http://galton.org Galton's Complete Works] at Galton.org (including all his published books, all his published scientific papers, and popular periodical and newspaper writing, as well as other previously unpublished work and biographical material).
+* {{Find a Grave|10454153}}
+* {{Gutenberg author |id=Galton,+Francis | name=Francis Galton}}
+* {{Internet Archive author |sname=Francis Galton}}
+* {{Librivox author |id=2337}}
+* {{YouTube|9xUBhhM4vbM|The Galton Machine or Board demonstrating the normal distribution}}
+* {{npg name}}
+* {{MacTutor Biography|id=Gillham}}
+* [http://vlp.mpiwg-berlin.mpg.de/people/data?id=per78 Biography and bibliography] in the [[Virtual Laboratory]] of the [[Max Planck Institute for the History of Science]]
+* [http://urss.ru/cgi-bin/db.pl?cp=&page=Book&id=53184&lang=en&blang=en&list=Found History and Mathematics]
+* [http://memory.uva.nl/testpanel/gc/en/ Human Memory&nbsp;– University of Amsterdam] website with test based on the work of Galton
+* {{YouTube|AUSKTk9ENzg|An {{convert|8|ft|m|adj=mid|-tall}} Probability Machine (named Sir Francis Galton) comparing stock market returns to the randomness of the beans dropping through the quincunx pattern.}} from Index Funds Advisors [http://www.ifa.com IFA.com]
+*[http://archives.ucl.ac.uk/DServe/dserve.exe?dsqServer=localhost&dsqIni=Dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqDb=Catalog&dsqPos=2&dsqSearch=%28%28text%29=%27galton%27%29 Catalogue of the Galton papers held at UCL Archives]
+**[https://www.ucl.ac.uk/library/special-collections/kantsaywhere Galton's novel ''Kantsaywhere'']
+*{{webarchive|url=https://web.archive.org/web/20170102172112/http://ringmar.net/politicaltheoryfornomads/index.php/francis-galton-management-of-savages-the-art-of-travel-1861/ |title=Francis Galton, “Management of Savages,” The Art of Travel, 1861}}
+*{{YouTube|wBU9N35ZHIw|The Scientific Way to Cut a Cake}}, demonstrated by [[Alex Bellos]]
+
+{{Copley Medallists 1901–1950}}
+{{Historical definitions of race}}
+{{Portal bar|Biography|Mathematics|United Kingdom}}
+{{Authority control}}
+
+{{DEFAULTSORT:Galton, Francis}}
+[[Category:1822 births]]
+[[Category:1911 deaths]]
+[[Category:19th-century English people]]
+[[Category:Alumni of King's College London]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Anthropometry]]
+[[Category:Biopolitics]]
+[[Category:Critics of Lamarckism]]
+[[Category:Darwin–Wedgwood family]]
+[[Category:English anthropologists]]
+[[Category:English eugenicists]]
+[[Category:English explorers]]
+[[Category:English geographers]]
+[[Category:English inventors]]
+[[Category:English meteorologists]]
+[[Category:English statisticians]]
+[[Category:Evolutionary biologists]]
+[[Category:British explorers of Africa]]
+[[Category:Fellows of the Royal Geographical Society]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Fellows of the Royal Anthropological Institute of Great Britain and Ireland]]
+[[Category:Presidents of the Royal Anthropological Institute of Great Britain and Ireland]]
+[[Category:Freemasons of the United Grand Lodge of England]]
+[[Category:Independent scientists]]
+[[Category:Intelligence researchers]]
+[[Category:Knights Bachelor]]
+[[Category:People educated at King Edward's School, Birmingham]]
+[[Category:People from Birmingham, West Midlands]]
+[[Category:Probability theorists]]
+[[Category:Psychometricians]]
+[[Category:Recipients of the Copley Medal]]
+[[Category:Royal Medal winners]]

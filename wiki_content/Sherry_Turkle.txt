@@ -1,0 +1,161 @@
+{{Short description|American social scientist and psychologist (born 1948)}}
+{{Infobox artist
+| name             = Sherry Turkle
+| image            = Sherry Turkle.jpg
+| image_size       = 
+| caption          = 
+| birth_name       = <!--if different-->
+| birth_date       = {{birth date and age|1948|6|18}}<ref name="Henderson 2009, p. 482">Henderson, Harry. ''Encyclopedia of Computer Science and Technology''. 2009. [https://books.google.com/books?id=3Tla6d153uwC&pg=PA482 p. 482].</ref>
+| birth_place      = [[New York City]], [[New York (state)|New York]], U.S.<ref name="Henderson 2009, p. 482" />
+| death_date       = 
+| death_place      = 
+| nationality      = [[United States|American]]
+| movement         = 
+| awards           = 
+| patrons          = 
+| spouse           = {{marriage|[[Seymour Papert]]|<!--unknown-->|1985|end=divorced}}<br />{{marriage|Ralph Willard|1987|1998|end=divorced}}
+| website          = https://sherryturkle.com/
+| known_for        = Social Studies of Science and Technology
+| training         = PhD in [[Sociology]] and [[Personality Psychology]]
+BA in [[Social Studies]]
+| notable_works    = ''The Second Self: Computers and the Human Spirit'',<ref>[http://web.mit.edu/sturkle/www/interviews.html Turkle, Sherry. MIT Profile]</ref> Alone Together: Why We Expect More from Technology and Less from Each Other
+}}
+
+'''Sherry Turkle''' (born June 18, 1948) is the [[Abby_Rockefeller_Mauzé|Abby Rockefeller Mauzé]] Professor of the Social Studies of Science and Technology at the [[Massachusetts Institute of Technology]]. She obtained an AB in Social Studies and later a PhD in Sociology and Personality Psychology at [[Harvard University]]. She now focuses her research on [[psychoanalysis]] and human-technology interaction. She has written several books focusing on the psychology of human relationships with [[technology]], especially in the realm of how people relate to computational objects.
+
+In ''The Second Self'', originally published in 1984, Turkle writes about how computers are not tools as much as they are a part of our social and psychological lives. “‘Technology,’ she writes, ‘catalyzes changes not only in what we do but in how we think.’”<ref>{{cite web |url=http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=10515 |title=Archived copy |access-date=2011-12-08 |url-status=dead |archive-url=https://web.archive.org/web/20111225230252/http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=10515 |archive-date=2011-12-25 }}</ref> She goes on using [[Jean Piaget]]'s psychology discourse to discuss how children learn about computers and how this affects their minds. ''The Second Self'' was received well by critics and was praised for being “a very thorough and ambitious study.”<ref>{{Cite web | url=http://metapsychology.mentalhelp.net/poc/view_doc.php?type=book&id=3240 |title = Metapsychology Online Reviews}}</ref>
+
+In ''[[Life on the Screen]]'', Turkle discusses how emerging technology, specifically computers, affect the way we think and see ourselves as humans.  She presents to us the different ways in which computers affect us, and how it has led us to the now prevalent use of "cyberspace."  Turkle suggests that assuming different personal identities in a [[MUD]] (i.e. computer fantasy game) may be therapeutic. She also considers the problems that arise when using MUDs. Turkle discusses what she calls women's "non-linear" approach to the technology, calling it "soft mastery" and "[[bricolage]]" (as opposed to the "hard mastery" of linear, abstract thinking and computer programming). She discusses problems that arise when children pose as adults online.
+
+Turkle also explores the psychological and societal impact of such "relational artifacts" as [[social robots]], and how these and other technologies are changing attitudes about human life and living things generally. One result may be a devaluation of authentic experience in a relationship.
+Together with [[Seymour Papert]] she wrote the influential paper "Epistemological Pluralism and the Revaluation of the Concrete."<ref>{{cite journal
+| title = Epistemological Pluralism and Revaluation of the Concrete
+| last = Turkle
+| first = Sherry
+| author2 = Papert, Seymour
+| url = http://www.papert.org/articles/EpistemologicalPluralism.html
+| journal = Journal of Mathematical Behavior
+| volume = 11
+| issue = 1
+| year = 1992 }}</ref>
+Turkle has written numerous articles on psychoanalysis and culture and on the "subjective side" of people's relationships with technology, especially computers. She is engaged in active study of robots, digital pets, and simulated creatures, particularly those designed for children and the elderly as well as in a study of mobile cellular technologies. Profiles of Turkle have appeared in such publications as The New York Times, Scientific American, and Wired Magazine. She is a featured media commentator on the effects of technology for CNN, NBC, ABC, and NPR, including appearances on such programs as Nightline and 20/20.
+
+Turkle has begun to assess the adverse effects of rapidly advancing technology on human social behavior. ''Alone Together: Why We Expect More from Technology and Less from Each Other'' was published in 2011 and when discussing the topic she speaks about the need to limit the use of popular technological devices because of these adverse effects.<ref>[http://billmoyers.com/segment/sherry-turkle-on-being-alone-together/ Sherry Turkle on Being Alone Together], Moyers & Company, October 18, 2013</ref>
+
+==Early life and education==
+Sherry Turkle was born in [[Brooklyn, New York|Brooklyn]] on June 18, 1948. After she graduated as a [[valedictorian]] from [[Abraham Lincoln High School (Brooklyn, New York)|Abraham Lincoln High School]] in 1965, she began her studies at [[Radcliffe College]], graduating in 1969  with a bachelors degree in Social Studies. She then obtained a masters in Sociology in 1973 and a doctorate in Sociology and Personality Psychology in 1976, both from [[Harvard University]]. Inspired by her time in France during her undergraduate years, she did her dissertation research in France, "writing about the relationship between Freudian thought and the modern French revolutionary movements."<ref name="Henderson 2009, p. 482" /> This relationship was also the subject of her first book, ''Psychoanalytic Politics: Jacques Lacan and Freud's French Revolution''. Turkle has been married twice, first to MIT researcher Seymour Papert, and then to consultant Ralph Willard. Both marriages ended in divorce.
+
+==''The Second Self''==
+
+In ''The Second Self'', Turkle defines the computer as more than just a tool, but part of our everyday personal and psychological lives.  She looks at how the computer affects the way we look at ourselves and our relationships with others, claiming that technology defines the way we think and act.  Turkle's book allows us to view and reevaluate our own relationships with technology.
+
+In her process of evaluating our relationships with computers, Turkle interviews children, college students, engineers, AI scientists, hackers and personal computer owners in order to further understand our relationships with computers and how we interact with them on a personal level.  The interviews showed that computers are both a part of our selves as well as part of the external world.  In this book, Turkle tries to figure out why we think of computers in such psychological terms, how this happens and what this means for all of us.<ref>[https://mitpress.mit.edu/books/second-self "The Second Self"]</ref>
+
+==''Life on the Screen''==
+
+In ''Life on the Screen'', Turkle presents a study of how people's use of the computer has evolved over time, and the profound effect that this machine has on its users.  The computer, which connects millions of people across the world together, is changing the way we think and see ourselves.  Although it was originally intended to serve as a tool to help us to write and communicate with others, it has more recently transformed into a means of providing us with virtual worlds which we can step into and interact with other people. The book discusses how our everyday interactions with computers affect our minds and the way we think about ourselves.
+
+Turkle also discusses the way our human identity is changing due to the fading boundary between humans and computers, and how people now have trouble distinguishing between humans and machines.  It used to be thought that humans were nothing like machines, because humans had feelings and machines did not.  However, as technology has improved, computers have become more and more human-like, and these boundaries had to be redrawn.  People now compare their own minds to machines, and talk to them freely without any shame or embarrassment.  Turkle questions our ethics in defining and differentiating between real life and simulated life.<ref>Turkle, Sherry. [https://books.google.com/books?id=auXlqr6b2ZUC ''Life on the Screen: Identity in the Age of the Internet'']. New York.</ref>
+
+==''Alone Together''==
+[[File:Distracted by Phones.jpg|thumb|''Alone Together'' explores how technology is changing the way we interact]]
+In ''Alone Together'', Turkle explores how [[technology]] is changing the way we communicate. In particular, Turkle raises concerns about the way in which genuine, organic social interactions become degraded through constant exposure to illusory meaningful exchanges with [[artificial intelligence]]. Underlying Turkle's central argument is the fact that the technological developments which have most contributed to the rise of inter-connectivity have at the same time bolstered a sense of [[Social alienation|alienation]] between people. The alienation involves links between [[social networks]] favouring those of proper conversations.
+
+Turkle's main argument in the first part of the book is that our interactions with robots that simulate emotion pose serious threats to our ability to relate to one another properly. Turkle discusses robots that have been designed to interact with humans on an emotional level; she fears that they may then replace other humans and animals in these emotional roles. Turkle is concerned that we often attribute certain qualities to robots that the robots do not in fact possess, and that our emotional interactions with other humans become eroded as a direct result. Turkle's concern is that our appreciation for human interaction may become eroded.
+
+The second part of the book examines the nature of online social interactions, and the way in which social media has changed how people, particularly [[Generation Z|younger people]], connect with one another. Turkle argues that because people in interpersonal social situations, particularly young people, are often distracted by their phones, they will pay insufficient attention to one another, creating increasingly shallow relationships. Turkle argues that teenagers' reliance on friends' advice prevents self-reflection, leading to less personal independence.
+
+Turkle talks about the nature of [[privacy]] in the post 9/11 world, arguing that privacy was sacrificed in exchange for safety. Turkle argues that because they have grown up as part of a world in which privacy is regarded as increasingly tenuous, children do not always appreciate the full value of privacy, which in turn causes them to share even more personal details on the web. This further depreciates the value of privacy in a self-perpetuating cycle.
+
+Using her 15 year of experience, Turkle uses ''Alone Together'' to explore the question of whether or not technology is bringing quality to our lives. Turkle argues people use technology to escape from reality and emotions, which weakens genuine relationships.<ref>{{Cite journal|last=Weinberger|first=David|date=January 16, 2011|title=ANTISOCIAL MEDIA: An MIT professor and psychologist argues our modern wired lifestyle is damaging us and our relationships, but she may be a bit premature|journal=Boston Globe|via=ProQuest}}</ref>
+
+In 2011, Turkle was interviewed by [[Stephen Colbert]] on [[The Colbert Report]], where she spoke briefly about ''Alone Together'', and the impact that technology has on communication skills.<ref>{{Cite web|url=http://www.cc.com/video-clips/kd5rmr/the-colbert-report-sherry-turkle|title=Sherry Turkle - The Colbert Report (Video Clip) {{!}} Comedy Central|website=Comedy Central|date=18 January 2011|access-date=2018-04-22}}</ref>
+
+Turkle gave a [[TED (conference)|TED]] talk on the subject of ''Alone Together'' in February 2012, under the title “Connected, but alone?”<ref>[http://www.ted.com/talks/sherry_turkle_alone_together.html Turkle, Sherry. "Connected, but alone?"]  [[TED (conference)|TED]]</ref>
+
+== ''Reclaiming Conversation'' ==
+''Reclaiming Conversation'' is Turkle's examination of evolving interpersonal and intrapersonal communications, and ''The Power of Talk in A Digital Age''. In the preamble, Turkle cites Henry David Thoreau's Walden as providing guidance for the structure of the book: "I had three chairs in my house; one for solitude, two for friendship, three for society."<ref>Thoreau, Henry (1845). Walden. ''Boston: Ticknor and Fields.''</ref> This book is thus divided into three general parts: a single chair for intrapersonal communication, two chairs concerning the importance of conversations in friendships, families and romances, and three chairs for interpersonal communication such as in school, work, and politics.<ref>Claire, Steinberger (Spring 2017). "Book Reviews: Reclaiming Conversation". Journal of Psychohistory. 44: 334–338 – via Academic Search Complete</ref> Turkle gathered data from schools, companies, families, and articulates the statistical and psychoanalytic barriers that have forced users to "sacrifice conversation for mere connection".<ref name=":1" /> This trade-off in interwoven intimacies and apps ultimately withholds the necessary "face-to-face experiences that are needed for generating authentic connection".<ref name=":0">Kathleen, Cumiskey (Winter 2016). "Walden Three?". The American Journal of Psychology. 129: 488–493 – via JSTOR</ref>
+
+The capacity to interact on a personal or private basis is the cornerstone to empathy, and Turkle argues that loneliness is also essential to this.<ref>4. Turkle, Sherry (2016). Reclaiming Conversation: The Power of Talk in a Digital Age. New York: Penguin. pp. 60–62</ref> Paradoxically, Turkle presents the blossoming of technologies role in our reconciliation of lonely experiences and maintaining close social interactions.<ref name=":0" /> While access to mobile devices can empower connections with pre-existing relationships, it can also harm the general sense of solitude and ability to meet personal and social standards on a grander scale. The ability to connect through technology then becomes the compromise that chatting online is "better than nothing".<ref name=":0" />
+
+Turkle gave a talk for Google about her book ''Reclaiming Conversation.''<ref>[https://www.youtube.com/watch?v=awFQtX7tPoI "Sherry Turkle: "Reclaiming Conversation" | Talks at Google". Youtube.]</ref>
+
+[[Aziz Ansari]] responded to ''Reclaiming Conversation'' by saying, "In a time in which the ways we communicate and connect are constantly changing, and not always for the better, Sherry Turkle provides a much needed voice of caution and reason to help explain what the f*** is going on."<ref>{{Cite news|url=https://sherryturkle.com/insights/books/|title=Books {{!}} Sherry Turkle|work=Sherry Turkle|access-date=2018-04-22|language=en-US}}</ref>
+
+==Books==
+*''Psychoanalytic Politics: [[Jacques Lacan]] and [[Sigmund Freud|Freud]]'s French Revolution'' (1978) {{ISBN|0-89862-474-6}}
+*''The Second Self: Computers and the Human Spirit'' (1984). {{ISBN|0-262-70111-1}}
+*''Life on the Screen: Identity in the Age of the Internet'' (1995) (paperback {{ISBN|0-684-83348-4}})<ref>{{Cite journal |last1=Naranjo |first1=Julio Meneses |title=Ten Years of (Everyday) Life on the Screen: A Critical Re-reading of the Proposal of Sherry Turkle |journal=UOC Papers |issue=2 |pages=1–8 |date=2006 |url=https://www.uoc.edu/uocpapers/dt/eng/meneses.html |language=es |issn=1885-1541 |df=mdy-all }}</ref>
+*''Evocative Objects: Things We Think With'', (Ed.), [[MIT Press]] (2007). {{ISBN|0-262-20168-2}}
+*''Falling for Science: Objects in Mind'', (Ed.), MIT Press (2008). {{ISBN|978-0-262-20172-8}}
+*''The Inner History of Devices'', (Ed.), MIT Press (2008). {{ISBN|978-0-262-20176-6}}
+*''Simulation and Its Discontents'', MIT Press (2009). {{ISBN|978-0-262-01270-6}}
+*''Alone Together'', Basic Books (2011). {{ISBN|978-0-465-01021-9}}
+*''Reclaiming Conversation: The Power of Talk in a Digital Age'', Penguin Press (2015). {{ISBN|978-1-594-20555-2}}
+**The younger generation is becoming too consumed in their digital lives resulting in lack of communication with family, friends, and teachers. In addition, technology impacts our lives resulting in negative consequences and outcomes in our relationships.<ref name=":1">{{Cite book|title=Reclaiming Conversation: The Power of Talk in the Digital Age|last=Turkle|first=Sherry|publisher=Penguin Press|year=2015|isbn=9780143109792|location=New York, New York}}</ref>
+*''The Empathy Diaries: A Memoir'', Penguin Press (2021). {{ISBN|978-0-525-56009-8}}
+
+==Papers and reports==
+* Sherry Turkle, Will Taggart, Cory D. Kidd, and Olivia Dasté. (December 2006). "[http://web.mit.edu/sturkle/www/pdfsforstwebpage/ST_Relational%20Artifacts.pdf Relational Artifacts with Children and Elders: The Complexities of Cybercompanionship],"  ''[http://www.informaworld.com/smpp/title~content=t713411269 Connection Science]'', ''18''(4):347-361.
+* Sherry Turkle, (July 2006). "[http://web.mit.edu/sturkle/OldFiles/www/nascentroboticsculture.pdf A Nascent Robotics Culture: New Complicities for Companionship]," [[AAAI]] Technical Report Series.
+* Sherry Turkle. (January 1996). "[https://www.wired.com/wired/archive/4.01/turkle.html Who Am We? : We are moving from modernist calculation toward postmodernist simulation, where the self is a multiple, distributed system]," [[Wired (magazine)|''Wired'' Magazine]], Issue 4.01, January 1996.
+
+==Interviews==
+* Liz Else, Sherry Turkle. [https://www.newscientist.com/article/mg19125691.600 "Living online: I'll have to ask my friends"], [[New Scientist]], issue 2569, 20 September 2006. (interview; subscription needed for full article)
+* [http://www.colbertnation.com/the-colbert-report-videos/371249/january-17-2011/sherry-turkle Colbert Report, Jan. 17th, 2011.]
+*Fischetti, M. (2014). THE NETWORKED PRIMATE. [[Scientific American]], 311 (3). 82–85. [http://0-web.b.ebscohost.com.dewey2.library.denison.edu/ehost/detail/detail?sid=a064affb-dff6-47a6-9c79-aabf14d5cdf1%40sessionmgr110&vid=7&hid=125&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#db=a9h&AN=97598539]
+*Russ Roberts. [https://www.econtalk.org/sherry-turkle-on-family-artificial-intelligence-and-the-empathy-diaries/ EconTalk Podcast 15 March 2021.]
+
+==Awards and honors==
+
+Turkle is a recipient of a Guggenheim Fellowship, a Rockefeller Humanities Fellowship, the Harvard Centennial Medal, and is a member of the American Academy of Arts and Sciences. {{Citation needed|date=September 2017}}
+
+Turkle has been named "woman of the year" by Ms. Magazine and among the "forty under forty" who are changing the nation by ''Esquire''. {{Citation needed|date=September 2017}}
+
+In May 2015, Turkle received an [https://www.fandm.edu/commencement/commencement-archive/commencement-2015/commencement-2015-citations-and-remarks/2015/05/08/sherry-turkle-ph-d-doctor-of-science Honorary Degree, Doctor of Science, from Franklin & Marshall College.]
+
+In June 2016, Turkle received an [[honorary degree|honorary doctorate degree]] from [[Concordia University]].<ref>{{Cite web | url=https://www.concordia.ca/cunews/main/stories/2016/05/04/concordia-awards-9-new-honorary-doctorates-spring-convocation-2016.html |title = Concordia awards 9 new honorary doctorates}}</ref>
+
+In 2018 she was featured among "America's Top 50 Women In Tech" by [[Forbes]].<ref>{{cite magazine|url=https://www.forbes.com/profile/sherry-turkle/?list=top-tech-women-america |title=Sherry Turkle |magazine=[[Forbes]]}}</ref>
+
+==Personal life==
+She was married to [[Seymour Papert]]<ref>Emily Langer, [https://www.washingtonpost.com/national/seymour-papert-mit-professor-who-connected-children-with-computers-dies-at-88/2016/08/03/59009d08-582a-11e6-9aee-8075993d73a2_story.html "Seymour Papert, MIT scholar who connected children with computers, dies at 88"], ''The Washington Post'', August 7, 2016.</ref> until 1985 and Ralph Willard from 1987 to 1998.<ref>{{cite magazine |url=https://www.newyorker.com/culture/persons-of-interest/sherry-turkles-plugged-in-year |title=Sherry Turkle's plugged-in year |last=Purtill |first=Corinne|magazine=[[The New Yorker]] |date= March 23, 2021|access-date= March 24, 2021}}</ref>
+
+==References==
+{{Reflist}}
+
+===Sources===
+* Meneses, J. (2006). [http://www.uoc.edu/uocpapers/dt/eng/meneses.html Ten Years of (Everyday) Life on the Screen: A Critical Re-reading of the Proposal of Sherry Turkle]
+
+==External links==
+{{Portal|Biography|Society|Psychology|History|Video games}}
+* [http://web.mit.edu/sturkle/www/ Sherry Turkle's homepage]
+* [https://web.archive.org/web/20020803144512/http://www.prospect.org/print/V7/24/turkle-s.html Turkle's article "Virtuality and Its Discontents: Searching for Community in Cyberspace" (1996)].
+* [http://www.transmitmedia.com/svr/vault/turkle/turkle_transcript.html Interview]
+* {{webarchive |url=https://web.archive.org/web/20060806022312/http://www.priory.com/ital/turkleeng.htm |date=August 6, 2006 |title=Detailed interview at priory.com }}
+* [http://www.transmitmedia.com/svr/vault/turkle/index.html Interview with Sherry Turkle] Silicon Valley Radio
+* [http://web.mit.edu/echemi/www/becca.html Sherry Turkle Playlist] Appearance on WMBR's ''[http://web.mit.edu/echemi/www/index.html Dinnertime Sampler]'' radio show February 9, 2005
+* [http://richmedia.lse.ac.uk/publicLecturesAndEvents/20110602_1830_aloneTogether.mp3 Lecture about Alone Together (MP3)] London School of Economics, 2 June 2011
+* [http://billmoyers.com/segment/sherry-turkle-on-being-alone-together/ Sherry Turkle on Being Alone Together], Moyers & Company, October 18, 2013
+* [https://www.npr.org/2015/09/26/443480452/making-the-case-for-face-to-face-in-an-era-of-digital-conversation/  Making The Case For Face To Face In An Era Of Digital Conversation], interview on [[Weekend Edition Saturday]] on NPR, September 27, 2015
+
+{{MUDs|state=collapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Turkle, Sherry}}
+[[Category:American mass media scholars]]
+[[Category:Mass media theorists]]
+[[Category:Human–computer interaction researchers]]
+[[Category:MUD scholars]]
+[[Category:Abraham Lincoln High School (Brooklyn) alumni]]
+[[Category:American women psychologists]]
+[[Category:American psychologists]]
+[[Category:American sociologists]]
+[[Category:American women sociologists]]
+[[Category:American women social scientists]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences faculty]]
+[[Category:Harvard University alumni]]
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:Radcliffe College alumni]]

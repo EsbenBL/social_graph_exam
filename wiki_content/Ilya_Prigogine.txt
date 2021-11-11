@@ -1,0 +1,158 @@
+{{Short description|Russian-Belgian physical chemist (1917 - 2003)}}
+{{Use dmy dates|date=November 2019}}
+{{Infobox scientist
+| name              = Ilya Prigogine
+| image             = Ilya Prigogine 1977c.jpg
+| image_size        = 
+| caption =Prigogine in 1977
+|birth_name=Ilya Romanovich Prigogine
+| birth_date        = {{birth date|1917|1|25|df=y}}
+| birth_place       = [[Moscow]], [[Russian Empire]]
+| death_date        = {{death date and age|2003|5|28|1917|1|25|df=y}}
+| death_place       = [[Brussels]], [[Belgium]]
+| nationality       = [[Belgian]] (1949—)
+| field             = [[Chemistry]]<br/>[[Physics]]
+| workplaces        = [[Free University of Brussels (1834–1969)|Free University of Brussels]], [[Université libre de Bruxelles]]<br/>International Solvay Institute<br/>[[University of Texas, Austin]]
+| alma_mater        = [[Free University of Brussels (1834–1969)|Free University of Brussels]]
+| doctoral_advisor  = [[Théophile de Donder]]
+| doctoral_students = {{plainlist|1=
+*[[Adi Bulsara]]
+*[[Radu Bălescu]]
+*[[Harry Friedmann]]
+*[[Linda Reichl]]
+}}
+| influences        = [[Ludwig Boltzmann]] <br/> [[Alan Turing]]<ref>H. Bunke, T. Kanade, H. Noltemeier (ed.), [https://books.google.com/books?id=A_Zfjq5P5OAC&dq= ''Modelling and Planning for Sensor Based Intelligent Robot Systems''], World Scientific, 1995, p. 438.</ref> <br/> [[Henri Bergson]]<ref>{{cite journal | author = P. A. Y. Gunter | year = 1991 | title = Bergson and non-linear non-equilibrium thermodynamics: an application of method | journal = Revue Internationale de Philosophie | volume = 45 | issue = 177| pages = 108–21 }}</ref> <br/> [[Michel Serres]]<ref>Michel Serres, [https://books.google.com/books?ei=tBmBUKT2OLHN4QSj34CoDQ&id=LQ1hAAAAMAAJ&dq= ''Hermes''], Johns Hopkins University Press, 1982, p. 135.</ref>
+| influenced        = [[Yves Pomeau]], [[Isabelle Stengers]], [[Immanuel Wallerstein]], [[Gilles Deleuze]], [[Félix Guattari]]
+| known_for         = [[Dissipative structures]] <br/> [[Brusselator]] <br /> [[Non-equilibrium thermodynamics]]
+| prizes            = {{no wrap|[[Francqui Prize]] <small>(1955)</small><br/>[[Rumford Medal]] {{small|(1976)}}<br/>[[Nobel Prize in Chemistry]] {{small|(1977)}}}}
+|spouse=Hélène Jofé (m. 1945; son Yves Prigogine) Maria Prokopowicz (m. 1961; son Pascal Prigogine)
+}}
+
+[[Viscount]] '''Ilya Romanovich Prigogine''' ({{IPAc-en|p|r|ɪ|ˈ|ɡ|oʊ|ʒ|iː|n}}; {{lang-ru|Илья́ Рома́нович Приго́жин}}; {{OldStyleDate|25 January|1917|12 January}}{{snd}}28 May 2003) was a [[physical chemistry|physical chemist]] and [[Nobel Prize|Nobel laureate]] noted for his work on [[dissipative system|dissipative structures]], [[complex systems]], and [[irreversibility]].
+
+==Biography==
+Prigogine was born in [[Moscow]] a few months before the [[October Revolution|Russian Revolution]] of 1917, into a Jewish family.<ref>{{cite book|url=https://books.google.com/books?id=3-G3vi5av28C&q=prigogine+anti+semitic&pg=PA80 |title=Francis Leroy. A century of Nobel Prizes recipients: chemistry, physics, and medicine (p. 80) |access-date=12 March 2012|isbn=9780203014189 |date=13 March 2003 |last1=Leroy |first1=Francis }}</ref><ref>{{cite news|url=https://www.telegraph.co.uk/news/obituaries/1431987/Vicomte-Ilya-Prigogine.html |title=Vicomte Ilya Prigogine (Obituary, The Telegraph) |work=Telegraph|date=5 June 2003 |access-date=12 March 2012}}</ref><ref>{{cite book|url=https://books.google.com/books?id=_80mmfL-i0MC&q=prigogine+jewish&pg=PA227 |title=Magnus Ramage, Karen Shipp. Systems Thinkers (p. 227) |access-date=12 March 2012|isbn=9781848825253 |date=29 September 2009 |last1=Ramage |first1=Magnus |last2=Shipp |first2=Karen }}</ref><ref>{{cite web|url=http://www.timeshighereducation.co.uk/story.asp?storyCode=108305&sectioncode=26 |title=Andrew Robinson. Time and notion |publisher=Timeshighereducation.co.uk |date=17 July 1998 |access-date=12 March 2012}}</ref><ref>{{cite web |url=http://www.chaosforum.com/docs/denkers/column7.html |title=Time and Change |publisher=Chaosforum.com |date=28 May 2003 |access-date=12 March 2012 |archive-url=https://web.archive.org/web/20120425092616/http://www.chaosforum.com/docs/denkers/column7.html |archive-date=25 April 2012 |url-status=dead }}</ref><ref>{{cite web|url=http://pagerankstudio.com/Blog/2010/09/ilya-prigogine-biography-life-and-career-facts-invented/ |title=Biography of Ilya Prigogine |publisher=Pagerankstudio.com |access-date=12 March 2012}}</ref> His father, Roman (Ruvim Abramovich) Prigogine, was a [[chemical engineer]] at the [[Bauman Moscow State Technical University|Imperial Moscow Technical School]]; his mother, Yulia Vikhman, was a pianist. Because the family was critical of the new [[Soviet Union|Soviet system]], they left Russia in 1921. They first went to [[Germany]] and in 1929, to [[Belgium]], where Prigogine received Belgian nationality in 1949. His brother [[Alexandre Prigogine|Alexandre]] (1913–1991) became an ornithologist.<ref>{{cite journal|title=Obituary: Alexandre Prigogine (1913–1991)|pages=89–90|author=Louette, Michel|journal=Ibis|volume=134|year=1992|doi=10.1111/j.1474-919X.1992.tb07238.x|doi-access=free}}</ref>
+
+Prigogine studied [[chemistry]] at the [[Free University of Brussels (1834–1969)|Free University of Brussels]], where in 1950, he became professor. In 1959, he was appointed director of the [[Solvay Conference|International Solvay Institute]] in Brussels, Belgium. In that year, he also started teaching at the [[University of Texas at Austin]] in the [[United States]], where he later was appointed Regental Professor and Ashbel Smith Professor of Physics and Chemical Engineering. From 1961 until 1966 he was affiliated with the [[Enrico Fermi Institute]] at the [[University of Chicago]] and was a visiting professor at [[Northwestern University]].<ref>{{cite book|author=Todd May|title=Emerging Trends in Continental Philosophy|date=11 September 2014|publisher=Routledge|isbn=978-1317546788|page=114}}</ref><ref>{{Cite web|title=Northwestern Nobels: Northwestern Magazine - Northwestern University|url=http://www.northwestern.edu/magazine/spring2017/feature/stoddart_sidebar/northwestern-nobels|access-date=2021-01-05|website=www.northwestern.edu}}</ref> In Austin, in 1967, he co-founded the Center for Thermodynamics and Statistical Mechanics, now the [[Center for Complex Quantum Systems]].<ref>{{cite web|url=http://www.utexas.edu/news/2003/05/28/nr_prigogine/|title=Nobel Prize-winning physical chemist dies in Brussels at age 86|publisher=Utexas.edu|date=28 May 2003|access-date=19 December 2012}}</ref> In that year, he also returned to Belgium, where he became director of the Center for Statistical Mechanics and Thermodynamics.
+
+He was a member of numerous scientific organizations, and received numerous awards, prizes and 53 honorary degrees. In 1955, Ilya Prigogine was awarded the [[Francqui Prize]] for Exact Sciences. For his study in [[irreversibility|irreversible]] [[thermodynamics]], he received the [[Rumford Medal]] in 1976, and in 1977, the [[Nobel Prize]] in [[Nobel Prize in Chemistry|Chemistry]]. In 1989, he was awarded the title of [[Viscount]] in the [[Belgian nobility]] by the [[King of the Belgians]]. Until his death, he was president of the [[International Academy of Science, Munich]] and was in 1997, one of the founders of the International Commission on Distance Education (CODE), a worldwide accreditation agency.<ref>{{cite web|url=http://www.ias-icsd.org/history.html|title=History – International Academy of Science, Munich|website=www.ias-icsd.org|access-date=30 March 2018}}</ref><ref>[http://www.ias-icsd.org/resources/ICSD-IAS-Presidium.pdf International Council for Scientific Development. Presidium]. ias-icsd.org</ref> Prigogine received an Honorary Doctorate from [[Heriot-Watt University]] in 1985<ref>{{cite web|url=http://www1.hw.ac.uk/graduation/honorary-graduates.htm|title=Heriot-Watt University Edinburgh: Honorary Graduates|website=www1.hw.ac.uk|access-date=5 April 2016}}</ref> and in 1998 he was awarded an ''[[honoris causa]]'' doctorate by the [[UNAM]] in [[Mexico City]].
+
+Prigogine was first married to Belgian poet Hélène Jofé (as an author also known as Hélène Prigogine) and in 1945 they had a son Yves. After their divorce, he married Polish-born [[chemist]] Maria Prokopowicz (also known as Maria Prigogine) in 1961. In 1970 they had a son, Pascal.<ref>Ilya Prigogine. (2003). [https://books.google.com/books?id=VqSMk7IpzacC&pg=PA97&lpg=PA97 Curriculum Vitae of Ilya Prigogine In Is future given]. World Scientific.</ref>
+
+In 2003 he was one of 22 Nobel Laureates who signed the [[Humanism and Its Aspirations|Humanist Manifesto]].<ref>{{cite web|url=http://www.americanhumanist.org/Humanism/Humanist_Manifesto_III/Notable_Signers |title=Notable Signers |publisher=American Humanist Association |work=Humanism and Its Aspirations |access-date=4 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20121005105825/http://www.americanhumanist.org/Humanism/Humanist_Manifesto_III/Notable_Signers |archive-date=5 October 2012  }}</ref>
+
+==Research==
+Prigogine is best known for his definition of [[dissipative structures]] and their role in [[thermodynamic system]]s far from [[thermodynamic equilibrium|equilibrium]], a discovery that won him the [[Nobel Prize]] in Chemistry in 1977. In summary, Ilya Prigogine discovered that importation and dissipation of energy into chemical systems could result in the emergence of new structures (hence dissipative structures) due to internal self reorganization.<ref>{{cite journal|author=P. T. Macklem|title=Emergent phenomena and the secrets of life|journal=Journal of Applied Physiology|date=3 April 2008|volume=104|issue=6|pages=1844–1846|doi=10.1152/japplphysiol.00942.2007|pmid=18202170}}</ref> In his 1955 text, Prigogine drew connections between dissipative structures and the [[Rayleigh–Bénard convection|Rayleigh-Bénard instability]] and the [[Turing pattern|Turing mechanism]].<ref>I. Prigogine, ''Introduction to Thermodynamics of Irreversible Processes'', Charles C. Thomas Publisher, Springfield, Illinois, 1955</ref>
+
+===Dissipative structures theory===
+Dissipative structure theory led to pioneering research in [[self-organizing system]]s, as well as philosophical inquiries into the formation of complexity on biological entities and the quest for a creative and irreversible role of time in the [[natural science]]s.
+
+With professor [[Robert Herman]], he also developed the basis of the [[two fluid model]], a traffic model in [[traffic engineering (transportation)|traffic engineering]] for urban networks, analogous to the two fluid model in classical statistical mechanics.
+
+Prigogine's formal concept of [[self-organization]] was used also as a "complementary bridge" between [[General Systems Theory]] and [[thermodynamics]], conciliating the cloudiness of some important systems theory concepts{{which|date=December 2013}} with scientific rigor.{{citation needed|date=March 2015}}
+
+===Work on unsolved problems in physics===
+{{see also|Unsolved problems in physics}}
+In his later years, his work concentrated on the fundamental role of [[indeterminism]] in [[nonlinear dynamics|nonlinear systems]] on both the [[classical physics|classical]] and [[quantum physics|quantum]] level. Prigogine and coworkers proposed a [[Liouville's theorem (Hamiltonian)|Liouville space]] extension of quantum mechanics. A Liouville space is the [[vector space]] formed by the set of (self-adjoint) [[linear operator]]s, equipped with an inner product, that act on a [[Hilbert space]].<ref>Gregg Jaeger: ''Quantum Information: An Overview'', Springer, 2007, {{ISBN|978-0-387-35725-6}}, Chapter B.3 "Lioville space and open quantum systems", [https://books.google.com/books?id=E0ho97k7S4oC&pg=PA248 p. 248]</ref> There exists a mapping of each linear operator into Liouville space, yet not every self-adjoint operator of Liouville space has a counterpart in Hilbert space, and in this sense Liouville space has a richer structure than Hilbert space.<ref>T. Sida, K. Saitô, Si Si (eds.): ''Quantum Information and Complexity: Proceedings of the Meijo Winter School, 6–10 January 2003'', World Scientific Publishing, 2004, {{ISBN|978-981-256-047-6}}, [https://books.google.com/books?id=BQ1MPLxzR4AC&pg=PA62 p. 62]</ref> The Liouville space extension proposal by Prigogine and co-workers aimed to solve the [[Entropy (arrow of time)#Current research|arrow of time problem]] of thermodynamics and the [[measurement problem]] of quantum mechanics.<ref>{{cite journal|author=T. Petrosky|author2=I. Prigogine|year=1997|title=The Liouville Space Extension of Quantum Mechanics|journal=Adv. Chem. Phys.|series=Advances in Chemical Physics|volume=99|pages=1–120|doi=10.1002/9780470141588.ch1|isbn=978-0-470-14158-8}}<!--| access-date = 10 April 2011--></ref>
+
+Prigogine co-authored several books with [[Isabelle Stengers]], including ''The End of Certainty'' and ''La Nouvelle Alliance'' (''Order out of Chaos'').
+
+===''The End of Certainty''===
+In his 1996 book, ''La Fin des certitudes'', written in collaboration with [[Isabelle Stengers]] and published in English in 1997 as ''The End of Certainty: Time, Chaos, and the New Laws of Nature'', Prigogine contends that determinism is no longer a viable scientific belief: "The more we know about our universe, the more difficult it becomes to believe in determinism." This is a major departure from the approach of [[Isaac Newton|Newton]], [[Albert Einstein|Einstein]] and [[Erwin Schrödinger|Schrödinger]], all of whom expressed their theories in terms of deterministic equations. According to Prigogine, determinism loses its explanatory power in the face of [[irreversibility]] and [[instability]].
+
+Prigogine traces the dispute over determinism back to [[Charles Darwin|Darwin]], whose attempt to explain individual variability according to evolving populations inspired [[Ludwig Boltzmann]] to explain the behavior of gases in terms of populations of particles rather than individual particles.{{sfnp|Prigogine|Stengers|1997|p=19–20}} This led to the field of [[statistical mechanics]] and the realization that gases undergo [[irreversible process]]es. In deterministic physics, all processes are time-reversible, meaning that they can proceed backward as well as forward through time. As Prigogine explains, determinism is fundamentally a denial of the [[arrow of time]]. With no arrow of time, there is no longer a privileged moment known as the "present," which follows a determined "past" and precedes an undetermined "future." All of time is simply given, with the future as determined or as undetermined as the past. With irreversibility, the arrow of time is reintroduced to physics. Prigogine notes numerous examples of irreversibility, including [[diffusion]], [[radioactive decay]], [[solar radiation]], [[weather]] and the emergence and evolution of [[life]]. Like weather systems, organisms are unstable systems existing far from [[thermodynamic equilibrium]]. Instability resists standard deterministic explanation. Instead, due to sensitivity to initial conditions, unstable systems can only be explained statistically, that is, in terms of [[probability]].
+
+Prigogine asserts that [[Newtonian physics]] has now been "extended" three times:{{Citation needed|date=March 2012}} first with the introduction of spacetime in [[general relativity]], then with the use of the wave function in [[quantum mechanics]], and finally with the recognition of indeterminism in the study of unstable systems ([[chaos theory]]).
+
+==Publications==
+* {{cite book | last1=Prigogine | first1=I. | last2=Defay | first2=R. | year=1954 | title=Chemical Thermodynamics | location=London | publisher=Longmans Green and Co.}}
+* {{cite book | last1=Prigogine | first1=I. | year=1955 | title=Introduction to Thermodynamics of Irreversible Processes | location=Springfield, Illinois | publisher=Charles C. Thomas Publisher}}
+* {{cite book | last=Prigogine | first=Ilya | year=1957 | title=The Molecular Theory of Solutions | location=Amsterdam | publisher = North Holland Publishing Company}}
+* {{cite book | last=Prigogine | first=Ilya | year=1961 | title=Introduction to Thermodynamics of Irreversible Processes | url=https://archive.org/details/introductiontoth0000prig | url-access=registration | edition=Second | location=New York | publisher=Interscience| oclc=219682909}}
+*Defay, R. & Prigogine, I. (1966). Surface tension and adsorption. Longmans, Green & Co. LTD.
+* {{cite book | last=Glansdorff | first=Paul | year=1971 |author2=Prigogine, I. | title=Thermodynamics Theory of Structure, Stability and Fluctuations | location=London | publisher=Wiley-Interscience}}
+* {{cite book | last=Prigogine | first=Ilya | year=1971 |author2=Herman, R. | title=Kinetic Theory of Vehicular Traffic | location=New York | publisher=American Elsevier | isbn=0-444-00082-8 }}
+* {{cite book | last=Prigogine | first=Ilya | year=1977 |author2=Nicolis, G. | title=Self-Organization in Non-Equilibrium Systems | publisher=Wiley| isbn=0-471-02401-5}}
+* {{cite book | last=Prigogine | first=Ilya | year=1980 | title=From Being To Becoming | publisher=Freeman | isbn=0-7167-1107-9 | url-access=registration | url=https://archive.org/details/frombeingtobecom00ipri }}
+* {{cite book | last=Prigogine | first=Ilya | year=1984 |author2=Stengers, Isabelle | title=Order out of Chaos: Man's new dialogue with nature | publisher=Flamingo | isbn=0-00-654115-1}}
+* Prigogine, I. ''The Behavior of Matter under Nonequilibrium Conditions: Fundamental Aspects and Applications in Energy-oriented Problems'', [[United States Department of Energy]], Progress Reports: 
+**[https://www.osti.gov/biblio/6892665-behavior-matter-under-nonequilibrium-conditions-fundamental-aspects-applications-energy-oriented-problems-progress-report-period-september-november September 1984 – November 1987], (7 October 1987). Department of Physics at the University of Texas-Austin
+** [https://www.osti.gov/biblio/6476254-behavior-matter-under-nonequilibrium-conditions-fundamental-aspects-applications-progress-report-april-april 15 April 1988 – 14 April 1989], (January 1989), Center for Studies in Statistical Mathematics at the University of Texas-Austin.
+**[https://www.osti.gov/biblio/6139111-behavior-matter-under-nonequilibrium-conditions-fundamental-aspects-applications-progress-report-period-april-april 15 April 1990 – 14 April 1991], (December 1990), Center for Studies in Statistical Mechanics and Complex Systems at the University of Texas-Austin. 
+* {{cite book | last=Nicolis | first=G. | year=1989 |author2=Prigogine, I. | title=Exploring complexity: An introduction | location=New York, NY | publisher=W. H. Freeman | isbn=0-7167-1859-6}}
+* Prigogine, I. [https://www.osti.gov/biblio/6390561-time-dynamics-chaos-integrating-poincare-non-integrable-systems  "Time, Dynamics and Chaos: Integrating Poincare's 'Non-Integrable Systems'"], Center for Studies in Statistical Mechanics and Complex Systems at the University of Texas-Austin, [[United States Department of Energy]]-Office of Energy Research, Commission of the European Communities (October 1990).
+* {{cite book | last=Prigogine | first=Ilya | year=1993 | title=Chaotic Dynamics and Transport in Fluids and Plasmas: Research Trends in Physics Series | location=New York | publisher=American Institute of Physics | isbn=0-88318-923-2}}
+*{{cite book|first1=Ilya |last1=Prigogine|first2=Isabelle |last2=Stengers |title=The End of Certainty |url=https://books.google.com/books?id=-VI8093PJuUC |date=1997 |publisher=The Free Press |isbn=978-0-684-83705-5 }}
+* {{cite book | last1=Kondepudi | first1=Dilip | last2=Prigogine | first2=Ilya | year=1998 | title=Modern Thermodynamics: From Heat Engines to Dissipative Structures | publisher=Wiley  | isbn=978-0-471-97394-2}}
+* {{cite book | last=Prigogine | first=Ilya | title=Advances in Chemical Physics | location=New York | publisher=Wiley InterScience | year=2002 | isbn=978-0-471-26431-6 | access-date=29 July 2008 | url=http://www3.interscience.wiley.com/cgi-bin/bookhome/93517918/ProductInformation.html| archive-url=https://archive.today/20121217210216/http://www3.interscience.wiley.com/cgi-bin/bookhome/93517918/ProductInformation.html| url-status=dead| archive-date=17 December 2012}}
+* Editor (with Stuart A. Rice) of the [http://www3.interscience.wiley.com/bookseries/114180445/home Advances in Chemical Physics]{{dead link|date=July 2021|bot=medic}}{{cbignore|bot=medic}} book series published by [[John Wiley & Sons]] (presently over 140 volumes)
+* Prigogine I, (papers and interviews) ''Is future given?'', World Scientific, 2003. {{ISBN|9789812385086}} (145p.)
+
+== Ilya Prigogine Prize for Thermodynamics ==
+The Ilya [https://quantum-thermodynamics.unibs.it/PrigoginePrize/PrigoginePrize.htm Prigogine Prize for Thermodynamics] was initialized in 2001 and patronized by Ilya Prigogine himself before his death in 2003. It is awarded on a biennial basis during the Joint European Thermodynamics Conference (JETC) and considers all branches of thermodynamics (applied, theoretical, and experimental as well as quantum thermodynamics and classical thermodynamics). 
+
+==See also==
+{{Portal|Systems science}}
+* [[Autocatalytic reactions and order creation]]
+* [[List of Jewish Nobel laureates]]
+* [[Schismatrix]] <!-- influential cyberpunk novel which coopts Prigogine's dissipative structures theory-->
+* [[Systems theory]] <!-- his works on self-organization conciliate important "systems theory concepts" with "system thermodynamics" -->
+* [[Process philosophy]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite web | editor=Karl Grandin | title=Ilya Prigogine Autobiography | url=http://www.nobel.se/chemistry/laureates/1977/prigogine-autobio.html | work=Les Prix Nobel | publisher=The Nobel Foundation | year=1977 | access-date=24 July 2008}}
+* {{cite journal | last=Eftekhari | first=Ali | title=Obituary – Prof. Ilya Prigogine (1917–2003) | journal=Adaptive Behavior | volume=11 | issue=2 | pages=129–131 | year=2003 | url=http://www.ait.ac/papers/eftekhari/AB11-129.pdf | url-status=dead | archive-url=https://web.archive.org/web/20090327050704/http://www.ait.ac/papers/eftekhari/AB11-129.pdf | archive-date=27 March 2009 | df=dmy-all | doi=10.1177/10597123030112005 | s2cid=221315813 }}
+* {{cite web | author=Barbra Rodriguez | title=Nobel Prize-winning physical chemist dies in Brussels at age 86 | url=http://order.ph.utexas.edu/people/Prigogine.htm | publisher= University of Texas at Austin | date=28 May 2003 | access-date=29 July 2008}}
+
+==External links==
+{{Commons category|Ilya Prigogine}}
+{{Wikiquote}}
+* {{Nobelprize}} including the Nobel Lecture, 8 December 1977 ''Time, Structure and Fluctuations''
+* [http://order.ph.utexas.edu The Center for Complex Quantum Systems]
+* [http://www.kanadas.com/emergent.html Emergent computation]
+* {{YouTube|2NCdpMlYJxQ|Video of Ilya Prigogine talking about complexity}}
+* {{YouTube|MnD0IlBvgO4|An interview of Ilya Prigogine with Giannis Zisis}}
+* [https://web.archive.org/web/20160310212835/http://oldportal.euscreen.eu/play.jsp?id=EUS_65C0E3CC51E541D489AD452223D564C3 Interview with Prigogine (Belgian VRT, 1977)]
+
+{{Nobel Prize in Chemistry Laureates 1976-2000}}
+{{1977 Nobel Prize winners}}
+{{International Society for the Systems Sciences Presidents}}
+{{Systems}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Prigogine, Ilya}}
+[[Category:1917 births]]
+[[Category:2003 deaths]]
+[[Category:Nobel laureates in Chemistry]]
+[[Category:Belgian Nobel laureates]]
+[[Category:Jewish Nobel laureates]]
+[[Category:Soviet emgirants to Germany]]
+[[Category:German emigrants to Belgium]]
+[[Category:Belgian physicists]]
+[[Category:Jewish physicists]]
+[[Category:Belgian physical chemists]]
+[[Category:Belgian academics]]
+[[Category:Belgian systems scientists]]
+[[Category:Jewish systems scientists]]
+[[Category:Complex systems scientists]]
+[[Category:Theoretical chemists]]
+[[Category:Thermodynamicists]]
+[[Category:Free University of Brussels alumni]]
+[[Category:University of Texas at Austin faculty]]
+[[Category:Foreign Members of the USSR Academy of Sciences]]
+[[Category:Foreign Members of the Russian Academy of Sciences]]
+[[Category:Foreign associates of the National Academy of Sciences]]
+[[Category:Jewish chemists]]
+[[Category:Jewish scientists]]
+[[Category:Belgian Jews]]
+[[Category:Belgian people of Russian-Jewish descent]]
+[[Category:Naturalised citizens of Belgium]]
+[[Category:Viscounts of Belgium]]
+[[Category:People from Moscow]]
+[[Category:Emigrants from the Russian Empire to Belgium]]
+[[Category:Computational chemists]]
+[[Category:Members of the German Academy of Sciences at Berlin]]

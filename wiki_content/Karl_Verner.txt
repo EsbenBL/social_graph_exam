@@ -1,0 +1,39 @@
+{{short description|Danish linguist}}
+{{About|the Danish linguist|people with a similar name|Karl Werner (disambiguation)}}
+{{Infobox academic
+|name=Karl Verner
+|birth_date=7 March 1846
+|birth_place=[[Aarhus]]<ref name="Asher">{{cite book|title=The Encyclopedia of Language and Linguistics|url=https://books.google.com/books?id=9_9wAAAAIAAJ|author=R. E. Asher|author2=J. M. Y. Simpson|publisher=Pergamon Press|year=1994|access-date=2021-02-14|language=en|isbn=978-0-08-035943-4}}</ref><ref name="Britannica"/>
+|death_place=[[Copenhagen]]<ref name="Britannica">{{cite web|title=Karl Verner|url=https://www.britannica.com/biography/Karl-Verner|agency=Encyclopedia Britannica|archive-url=https://archive.is/GfZs7|archive-date=2015-12-07|access-date=2015-12-07|language=en}}</ref>
+|death_date={{death date and age|df=yes|1896|11|5|1846|5|7}}
+|image=Karl Verner.jpg
+|workplaces=
+|known_for=[[Verner's law]]
+|education=[[University of Copenhagen]]
+|citizenship=Danish}}
+'''Karl Adolph Verner''' ({{IPA-da|ˈkʰɑˀl ˈvɛɐ̯ˀnɐ|lang}}; 7 March 1846 – 5 November 1896) was a Danish linguist. He is remembered today for [[Verner's law]], which he published in 1876.<ref>{{Cite book|last=Morpugo Davies|first=Anna|title=International Encyclopedia of Linguistics|publisher=Oxford University Press|year=2003|isbn=978-0-19-513977-8|editor-last=Frawley|editor-first=William|location=|pages=346|chapter=Verner, Karl Adolf}}</ref>
+
+==Biography==
+Verner's interest in languages was stimulated by reading about the work of [[Rasmus Christian Rask]]. He began his university studies in 1864 in Oriental, Germanic, and Slavic languages, and then he served in the army before resuming his studies. He travelled to Russia in December 1871, spending nearly a year learning the language. His first scientific paper was ''Nogle Raskiana'' (1874). He began to study the accent of Danish and Slavic languages, and he was puzzled by the fact that the Gothic words ''fadar'' and ''broþar'' have different consonants after the root vowel. He was preoccupied with the study of accent at the time, so he sought the explanation in that direction which led to the formation of Verner's Law. He finished the relevant paper and sent it to [[Vilhelm Thomsen]] in 1875; he published it a year later.
+
+Despite his achievement, Verner considered himself only an amateur of German philology. He declined certain offers of professorship, contenting himself to be a librarian in [[Halle, Saxony-Anhalt|Halle]]. He was taught by [[August Leskien]], a pioneer of research into sound-change laws,<ref>Anna Morpurgo Davies, ''History of Linguistics, Volume IV: Nineteenth-Century Linguistics'', Routledge, 2016: 9.2.</ref> and he applied for the [[Franz Bopp|Bopp]] prize, which he received in 1877. He became a professor in 1888, when he was also elected a member of the [[Royal Danish Academy of Sciences and Letters]].
+
+==Notes==
+{{reflist}}
+
+==External links==
+{{NIE Poster|Verner, Karl Adolph|Karl Verner}}
+*[https://www.jstor.org/stable/287936 Daniel Kilham Dodge's review of Verner Dahlerup's ''Nekrolog over Karl Verner''], ''[[American Journal of Philology]]'', The Johns Hopkins University Press, 1897. Available through [[JSTOR]].
+
+{{Authority control}}
+
+{{DEFAULTSORT:Verner, Karl}}
+[[Category:1846 births]]
+[[Category:1896 deaths]]
+[[Category:Linguists from Denmark]]
+[[Category:Linguists of Indo-European languages]]
+[[Category:Historical linguists]]
+[[Category:People from Aarhus]]
+[[Category:Members of the Royal Danish Academy of Sciences and Letters]]
+[[Category:Danish anthropologists]]
+[[Category:Syntacticians]]

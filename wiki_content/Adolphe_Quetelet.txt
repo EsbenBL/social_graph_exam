@@ -1,0 +1,148 @@
+{{Short description|Belgian astronomer, mathematician, and sociologist}}{{Use dmy dates|date=March 2020}}
+{{Infobox scientist
+|name              = Adolphe Quetelet
+| birth_name = Lambert Adolphe Jacques Quetelet 
+|image=Adolphe Quételet by Joseph-Arnold Demannez.jpg
+|birth_date        = {{birth date|1796|2|22|df=yes}}
+|birth_place       = [[Ghent]], [[First French Republic|French Republic]]<br/><small>(now [[Ghent, Belgium]])</small>
+|death_date        = {{death date and age|1874|2|17|1796|2|22|df=yes}}
+|death_place       = [[Brussels]], [[Belgium]]
+|residence         =
+|citizenship       =
+|nationality       = [[Belgian]]
+|ethnicity         =
+|field             = [[astronomer]]<br/>[[mathematician]]<br/>[[statistician]]<br/>[[sociologist]]
+|work_institutions = [[Brussels Observatory]]
+|alma_mater        = [[University of Ghent]]
+|doctoral_advisor  =
+|doctoral_students =
+|influences        = [[Joseph Fourier]]<ref name="BGSP">[https://books.google.com/books?id=CI111lrB6vsC&pg=PA282 "Quetelet, Adolphe"]: entry in ''The Britannica Guide to Statistics and Probability'', edited by Erik Gregersen</ref><br>[[Pierre-Simon Laplace]]<ref name="BGSP"/>
+|influenced        =
+| awards = [[Fellow of the Royal Society|ForMemRS]] (1839)<ref name=frs>{{cite web|archive-url=https://web.archive.org/web/20150316060617/https://royalsociety.org/about-us/fellowship/fellows/|archive-date=2015-03-16|url=https://royalsociety.org/about-us/fellowship/fellows/|publisher=[[Royal Society]]|location=London|title=Fellows of the Royal Society}}</ref>
+|known_for         = contributions to [[social physics]]
+}}
+'''Lambert Adolphe Jacques Quetelet''' [[Royal Society of London|FRSF]] or [[FRSE]] ({{IPA-fr|kətlɛ|lang|Fr-AdolpheQuetelet.ogg}}; 22 February 1796 &ndash; 17 February 1874)<ref name=frs/> was a [[Demographics of Belgium|Belgian]] [[astronomer]], [[mathematician]], [[statistician]] and [[sociologist]] who founded and directed the [[Royal Observatory of Belgium|Brussels Observatory]] and was influential in introducing statistical methods to the [[social science]]s. His name is sometimes spelled with an accent as ''Quételet''.<ref>{{wsPSM|Quetelet on the Science of Man|1|May 1872|first=Edward Burnett|last=Tylor|authorlink=Edward Burnett Tylor|scan=Page:Popular Science Monthly Volume 1.djvu/55}}</ref><ref name=mactutor>{{MacTutor Biography|id=Quetelet}}</ref> 
+
+He also founded the science of [[anthropometry]] and developed the [[body mass index]] (BMI) scale, originally called the [[Quetelet Index]].<ref>{{cite book|title=Biographical Index of Former Fellows of the Royal Society of Edinburgh 1783–2002|date=July 2006|publisher=The Royal Society of Edinburgh|isbn=0-902-198-84-X|url=https://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp2.pdf|access-date=27 January 2018|archive-url=https://web.archive.org/web/20160304074135/https://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp2.pdf|archive-date=4 March 2016|url-status=dead}}</ref>
+
+== Biography ==
+Adolphe was born in [[Ghent]] (which, at the time was a part of the new [[First French Republic|French Republic]]). He was the son of François-Augustin-Jacques-Henri Quetelet, a Frenchman and Anne Françoise Vandervelde, a Flemish woman. His father was born at [[Ham, France|Ham]], [[Picardy]], and being of a somewhat adventurous spirit, he crossed the English Channel and became both a British citizen and the secretary of a Scottish nobleman. In that capacity, he traveled with his employer on the Continent, particularly spending time in Italy. At about 31, he settled in Ghent and was employed by the city, where Adolphe was born, the fifth of nine children, several of whom died in childhood.
+
+Francois died when Adolphe was only seven years old. Adolphe studied at the Ghent Lycée, where he afterwards started teaching mathematics in 1815 at the age of 19.  In 1819, he moved to the [[:wikt:athenaeum|Athenaeum]] in Brussels and in the same year he completed his [[Thesis|dissertation]] (''De quibusdam locis geometricis, necnon de curva focal &ndash; Of some new properties of the focal distance and some other curves'').
+
+Quetelet received a doctorate in [[mathematics]] in 1819 from the [[University of Ghent]]. Shortly thereafter, the young man set out to convince government officials and private donors to build an astronomical [[observatory]] in [[Brussels]]; he succeeded in 1828.
+He became a member of the [[Royal Academy]] in 1820. He lectured at the museum for sciences and letters and at the Belgian Military School. In 1825, he became a correspondent of the Royal Institute of the Netherlands, in 1827 he became a member. In 1839, he was elected as a member of the [[American Philosophical Society]].<ref>{{Cite web|title=APS Member History|url=https://search.amphilsoc.org/memhist/search?creator=&title=&subject=&subdiv=&mem=&year=1839&year-max=1839&dead=&keyword=&smode=advanced|access-date=2021-04-09|website=search.amphilsoc.org}}</ref> From 1841 to 1851, he was a supernumerary associate in the Institute, and when it became [[Royal Netherlands Academy of Arts and Sciences]] he became foreign member.<ref>{{cite web|url=http://www.dwc.knaw.nl/biografie/pmknaw/?pagetype=authorDetail&aId=PE00002452 |title=Lambert Adolphe Jacques Quetelet (1796–1874) |publisher=[[Royal Netherlands Academy of Arts and Sciences]] |access-date=20 July 2015}}</ref> In 1850, he was elected a foreign member of the [[Royal Swedish Academy of Sciences]].
+
+Quetelet also founded several statistical journals and societies, and was especially interested in creating international cooperation among statisticians. He encouraged the creation of a statistical section of the British Association for the Advancement of Science (BA), which later became the [[Royal Statistical Society]], of which he became the first overseas member. In 1853 he chaired both the [[International Meteorological Organization|International Maritime Conference]] and the [[First International Statistical Congress]]. He was a founding member of the first ''[[Société des douze]]''.
+
+In 1855, Quetelet suffered from [[apoplexy]], which diminished but did not end his scientific activity.
+
+He died in [[Brussels]] on 17 February 1874, and is buried in the [[Brussels Cemetery]].
+
+In 1825, he married Cécile-Virginie Curtet.<ref>{{Cite web |url=https://www.genealogieonline.nl/magnum-opus/I71480.php |title=Archived copy |access-date=15 June 2018 |archive-date=15 June 2018 |archive-url=https://web.archive.org/web/20180615193210/https://www.genealogieonline.nl/magnum-opus/I71480.php |url-status=dead }}</ref>
+
+== Work ==
+His scientific research encompassed a wide range of different scientific disciplines: [[meteorology]], astronomy, mathematics, statistics, [[demography]], sociology, [[criminology]] and history of science.  He made significant contributions to scientific development, but he also wrote several [[monograph]]s directed to the general public. He founded the [[Royal Observatory of Belgium]], founded or co-founded several national and international statistical societies and scientific journals, and presided over the first series of the International Statistical Congresses.  Quetelet was a [[Liberalism|liberal]] and an [[Anti-clericalism|anticlerical]], but not an [[Atheism|atheist]] or [[Materialism|materialist]] nor a [[Socialism|socialist]].
+
+===Social physics===
+The new science of [[probability]] and [[statistics]] was mainly used in astronomy at the time, where it was essential to account for measurement [[errors and residuals in statistics|errors]] around means. This was done using the method of [[least squares]]. Quetelet was among the first to apply statistics to social science, planning what he called "social physics". He was keenly aware of the overwhelming complexity of social phenomena, and the many variables that needed measurement. His goal was to understand the statistical laws underlying such phenomena as crime rates, marriage rates or [[List of countries by suicide rate|suicide rates]]. He wanted to explain the values of these variables by other social factors. These ideas were rather controversial among other scientists at the time who held that it contradicted the concept of freedom of choice.
+
+His most influential book was ''Sur l'homme et le développement de ses facultés, ou Essai de physique sociale'', published in 1835 (In English translation, it is titled ''Treatise on Man'', but a literal translation would be "On Man and the Development of his Faculties, or Essays on Social Physics"). In it, he outlines the project of a social physics and describes his concept of the "average man" (''l'homme moyen'') who is characterized by the [[mean value]]s of measured variables that follow a [[normal distribution]]. He collected data about many such variables.
+
+Quetelet's student [[Pierre François Verhulst]] developed the [[logistic function]] in the 1830s as a model of [[population growth]]; see {{slink|Logistic function|History}} for details.{{sfn|Cramer|2002|pp=3–5}}
+
+When [[Auguste Comte]] discovered that Quetelet had appropriated the term 'social physics', which Comte had originally introduced, Comte found it necessary to invent the term 'sociologie' ([[sociology]]) because he disagreed with Quetelet's notion that a theory of society could be derived from a collection of statistics.
+
+Adolphe Quetelet also had a significant influence on [[Florence Nightingale]] who shared with him a religious view of statistics which saw understanding statistics as revealing the work of God in addition to statistics being a force of good administration. Nightingale met Quetelet in person at the 1860 International Statistical Congress in London, and they corresponded for years afterwards.<ref>{{cite journal |last1=Jahoda |first1=Gustav |title=Quetelet and the emergence of the behavioral sciences |journal=SpringerPlus |date=4 September 2015 |volume=4 |issue=1 |page=473 |doi=10.1186/s40064-015-1261-7 |pmid=26361574 |pmc=4559562 }}</ref>
+
+===Criminology===
+Quetelet was an influential figure in [[criminology]].  Along with [[Andre-Michel Guerry]], he helped to establish the [[cartographic school]] and [[positivist school]]s of criminology which made extensive use of statistical techniques.  Through statistical analysis, Quetelet gained insight into the relationships between [[crime]] and other social factors.  Among his findings were strong relationships between age and crime, as well as [[gender and crime]].  Other influential factors he found included [[climate]], [[poverty]], [[education]], and [[alcoholic beverage|alcohol]] consumption, with his research findings published in ''Of the Development of the Propensity to Crime''.<ref>Piers Beirne (1987). "Adolphe Quetelet and the Origins of Positivist Criminology". In; ''American Journal of Sociology'' 92(5): pp. 1140–1169.</ref>
+
+===Anthropometry===
+
+In his 1835 text on social physics, in which he presented his theory of human [[variance]] around the [[average]], with human traits being distributed according to a [[Normal distribution|normal curve]], he proposed that normal variation provided a basis for the idea that populations produce sufficient variation for [[artificial selection|artificial]] or [[natural selection]] to operate.<ref name=dc>{{cite book |last=Eiseley  |first=Loren |title=Darwin's Century |url=https://archive.org/details/darwinscenturye000eise  |url-access=registration  |date=1961 |publisher=Anchor Books (Doubleday) |page=[https://archive.org/details/darwinscenturye000eise/page/227 227] }}</ref>
+
+In terms of influence over later [[public health]] agendas, one of Quetelet's lasting legacies was the establishment of a simple measure for classifying people's weight relative to an ideal for their height. His proposal, the [[body mass index]] (or Quetelet index), has endured with minor variations to the present day.<ref>Garabed Eknoyan (2008). [https://web.archive.org/web/20110221195712/http://ndt.oxfordjournals.org/content/23/1/47.full "Adolphe Quetelet (1796&ndash;1874) &ndash; the average man and indices of obesity".] In: ''Nephrol. Dial. Transplant''. 23 (1): 47–51.</ref> Anthropometric data is used in modern applications and referenced in the development of every consumer-based product.
+
+==Awards and honours==
+Quetelet was elected a [[List of Fellows of the Royal Society elected in 1839|Foreign Member of the Royal Society (ForMemRS) in 1839]].<ref name=frs/>
+
+The asteroid [[1239 Queteleta]] is named after him. The title of [[Quetelet professor]] at [[Columbia University]] is awarded in his name.
+
+== Publications ==
+* 1823. ''Relation d'un voyage fait à la grotte de Han au mois d'août 1822'. 'With M.M. Kickx.
+* 1827. ''Recherches sur la population, les naissances, les décès, les prisons, les dépôts de mendicité, etc., dans le royaume des Pays-Bas''.
+* 1829. ''Recherches statistiques sur le royaume des Pays-Bas''.
+* 1831. ''The Propensity to Crime''.
+* 1834. ''Astronomie élémentaire''.
+* 1835. ''Sur l'homme et le développement de ses facultés, ou Essai de physique sociale''. 2 volumes.
+* 1838. ''De l'influence des saisons sur la mortalité aux différens âges dans la Belgique''.
+* 1839. ''Catalogue des principales apparitions d'étoiles filantes''.
+* 1842. ''A Treatise on Man and the Development of His Faculties''.
+* 1843. ''Sur l'emploi de la boussole dans les mines''.
+* 1845&ndash;1851. ''Sur le climat de la Belgique''. 2 volumes.
+* 1848. ''Du système social et des lois qui le régissent''.
+* 1848. ''Sur la statistique morale et les principes qui doivent en former la base''.
+* 1850. ''Mémoire sur les lois des naissances et de la mortalité à Bruxelles''.
+* 1853. ''Mémoire sur les variations périodiques et non périodiques de la température, d'après les observations faites, pendant vingt ans, à l'observatoire royal de Bruxelles''.
+* 1864. ''Histoire des sciences mathématiques et physiques chez les Belges''.
+* 1867. ''Météorologie de la Belgique comparée à celle du globe''.
+* 1867. ''Sciences mathématiques et physiques au commencement du XIXe siècle''.
+* 1869. ''Sur la physique du globe en Belgique''.
+* 1870. ''Anthropométrie, ou Mesure des différentes facultés de l'homme''.
+
+== References ==
+{{reflist|35em}}
+{{ref begin}}
+* {{cite techreport
+|last=Cramer|first=J. S.
+|title=The origins of logistic regression
+|institution=Tinbergen Institute
+|date=2002|volume=119|issue=4|pages=167–178
+|doi=10.2139/ssrn.360300
+|url=https://papers.tinbergen.nl/02119.pdf
+}}
+** Published as:{{cite journal
+|title=The early origins of the logit model
+|last=Cramer|first=J. S.
+|journal=Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences
+|volume=35
+|number=4
+|year=2004
+|pages=613–626
+|doi=10.1016/j.shpsc.2004.09.003
+}}
+{{ref end}}
+
+== Further reading ==
+{{Wikisource author}}
+{{Wikiquote}}
+{{commons category|Adolphe Quetelet}}
+* Kevin Donnelly (2015). ''Adolphe Quetelet, Social Physics and the Average Men of Science, 1796–1874''. University of Pittsburgh Press.
+* Ian Hacking (1990). ''The Taming of Chance''. Cambridge University Press, chapters 13&ndash;15.
+* Alain Desrosières (1998). ''The Politics of Large Numbers: A History of Statistical Reasoning''. Harvard University Press, chapter 3.
+* Stephen Stigler (1999). ''Statistics on the Table''. Harvard University Press, chapter 2.
+* Philip Ball (2005). ''Critical Mass: How One Thing Leads to Another''. Arrow Books 2005, chapter 3.
+* Fabien Locher (2007). "The observatory, the land-based ship and the crusades: earth sciences in european context, 1830&ndash;1850", ''British Journal for History of Science'', 40(4), 2007, pp.&nbsp;491&ndash;504 (On the leading role of Adolphe Quetelet in the fields of meteorology and geomagnetism in early nineteenth-century).
+
+{{Visualization}}
+{{FRS 1839}}
+{{Authority control}}
+
+{{DEFAULTSORT:Quetelet, Adolphe}}
+[[Category:1796 births]]
+[[Category:1874 deaths]]
+[[Category:19th-century Belgian astronomers]]
+[[Category:19th-century Belgian mathematicians]]
+[[Category:Belgian sociologists]]
+[[Category:Belgian statisticians]]
+[[Category:Belgian criminologists]]
+[[Category:Ghent University alumni]]
+[[Category:Members of the Royal Netherlands Academy of Arts and Sciences]]
+[[Category:Members of the Royal Swedish Academy of Sciences]]
+[[Category:Corresponding members of the Saint Petersburg Academy of Sciences]]
+[[Category:Information graphic designers]]
+[[Category:Information visualization experts]]
+[[Category:Foreign Members of the Royal Society]]
+[[Category:Burials at Brussels Cemetery]]
+[[Category:Scientists from Ghent]]

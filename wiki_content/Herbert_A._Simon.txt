@@ -1,0 +1,293 @@
+{{short description|American political scientist, economist, sociologist, and psychologist}}
+{{For|the Indiana Pacers' owner|Herbert Simon (real estate)}}
+{{Infobox scientist
+| birth_name = Herbert Alexander Simon
+| name = Herbert A. Simon
+| image = 
+| birth_date = {{birth date|1916|6|15|mf=y}}
+| birth_place = [[Milwaukee]], [[Wisconsin]], U.S.
+| death_date = {{death date and age|2001|2|9|1916|6|15|mf=y}}
+| death_place = [[Pittsburgh]], [[Pennsylvania]], U.S.
+| citizenship = United States
+| spouse = {{marriage|Dorothea Isabel Pye<ref name=DorotheaSObit>{{cite web|url=http://www.legacy.com/obituaries/postgazette/obituary.aspx?n=dorothea-isabel-pye-simon&pid=447980|title=Dorothea Simon Obituary - Pittsburgh, PA - Post-Gazette.com|work=Post-Gazette.com|access-date=8 August 2015}}</ref>|1939}}
+| children = 3
+| field = [[Economics]]<br/>[[Artificial intelligence]]<br />[[Computer science]]<br />[[Political science]]
+| work_institutions = [[Carnegie Mellon University]]
+| education = [[University of Chicago]]<br />(B.A., 1936; Ph.D., 1943)
+| doctoral_advisor = [[Henry Schultz]]
+| academic_advisors = [[Rudolf Carnap]]<br />[[Nicholas Rashevsky]]<br />[[Harold Lasswell]]<br />[[Charles Merriam]]<ref name=nobelAutoBiog>[https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1978/simon-bio.html Herbert Simon, "Autobiography"], in ''Nobel Lectures, Economics 1969–1980'', Editor Assar Lindbeck, World Scientific Publishing Co., Singapore, 1992.</ref><br />[[John R. Commons]]<ref>Forest, Joelle, "John R. Commons and Herbert A. Simon on the Concept of Rationality", ''Journal of Economic Issues'' Vol. XXXV, 3 (2001), pp. 591–605</ref>
+| doctoral_students = [[Edward Feigenbaum]]<br />[[Allen Newell]]<br />[[Richard Waldinger]]<ref>{{cite web|url=http://aigp.eecs.umich.edu/researcher/show/171 |title=Herbert Alexander Simon |publisher=AI Genealogy Project |access-date=2012-03-15 |url-status=dead |archive-url=https://web.archive.org/web/20120430020221/http://aigp.eecs.umich.edu/researcher/show/171 |archive-date=2012-04-30 }}</ref><br />[[John Muth]]<br />[[William F. Pounds]]
+| notable_students = 
+| influences = [[Richard T. Ely]], [[John R. Commons]], [[Henry George]], [[Chester Barnard]], [[Charles Merriam]], [[Yuji Ijiri]],  [[William W. Cooper]], [[Richard Cyert]], [[James G. March]]
+| influenced = [[Daniel Kahneman]], [[Amos Tversky]], [[Gerd Gigerenzer]], [[James March]], [[Allen Newell]], [[Philip E. Tetlock]], [[Richard Thaler]], [[John Muth]], [[Oliver E. Williamson]], [[Massimo Egidi]], [[Vela Velupillai]], [[Ha Joon Chang]], [[William C. Wimsatt]], [[Alok Bhargava]], [[Nassim Nicholas Taleb]], [[Yuji Ijiri]], [[William W. Cooper]], [[Richard Cyert]],  [[James G. March]]
+| known_for = [[Bounded rationality]]<br />[[Satisficing]]<br />[[Information Processing Language]]<br />[[Logic Theorist]]<br />[[General Problem Solver]]
+| prizes = {{Plainlist|
+* [[Member of the National Academy of Sciences]] <small>(1967)</small>
+* [[Turing Award]] <small>(1975)</small>
+* [[Nobel Prize in Economics]] <small>(1978)</small>
+* [[National Medal of Science]] <small>(1986)</small>
+* [[Harold Pender Award]] <small>(1987)</small>
+* [[John von Neumann Theory Prize|von Neumann Theory Prize]] <small>(1988)</small>
+* [[APA Award for Distinguished Scientific Contributions to Psychology]] <small>(1969)</small>
+* [[ACM Fellow]] <small>(1994)</small>
+* [[IJCAI Award for Research Excellence]] <small>(1995)</small>}}
+}}
+
+'''Herbert Alexander Simon''' (June 15, 1916&nbsp;– February 9, 2001) was an American [[economist]], [[political scientist]] and [[Cognitive psychology|cognitive psychologist]], whose primary research interest was [[decision-making]] within organizations and is best known for the theories of "[[bounded rationality]]" and "[[satisficing]]".<ref name="econ">{{cite news|title=Guru: Herbert Simon|url=http://www.economist.com/node/13350892|access-date=13 February 2018|work=The Economist|date=20 March 2009}}</ref> He received the [[Nobel Memorial Prize in Economic Sciences]] in 1978 and the [[Turing Award]] in 1975.<ref>{{cite web |title=The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 1978 |url=https://www.nobelprize.org/prizes/economic-sciences/1978/simon/biographical/ |website=NobelPrize.org}}</ref><ref name = amturing>{{cite web|first = Hunter |last = Heyck |title=Herbert A. Simon - A.M. Turing Award Laureate |url=https://amturing.acm.org/award_winners/simon_1031467.cfm |website= amturing.acm.org}}</ref> His research was noted for its interdisciplinary nature and spanned across the fields of [[cognitive science]], [[computer science]], [[public administration]], [[management]], and [[political science]].<ref name=edward2001>{{cite journal |title=Herbert A. Simon, 1916-2001 |last1=Edward Feigenbaum |date=2001 |journal=Science |volume=291 |issue=5511 |pages=2107 |quote=Studies and models of decision-making are the themes that unify most of Simon's contributions.|doi=10.1126/science.1060171 |s2cid=180480666 |author1-link=Edward Feigenbaum }}</ref> He was at [[Carnegie Mellon University]] for most of his career, from 1949 to 2001.<ref>{{cite book|last=Simon|first=Herbert A.|title=Nobel Lectures, Economics 1969–1980|year=1978|publisher=[[World Scientific|World Scientific Publishing Co.]]|location= Singapore|url=https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1978/simon-facts.html|editor=Assar Lindbeck|access-date=22 May 2012}}</ref>
+
+Notably, Simon was among the pioneers of several modern-day scientific domains such as [[artificial intelligence]], [[information processing]], [[decision-making]], [[problem-solving]], [[organization theory]], and [[complex systems]]. He was among the earliest to analyze the architecture of complexity and to propose a [[preferential attachment]] mechanism to explain [[power law]] distributions.<ref name=simon>Simon, H. A., 1955, ''Biometrika'' 42, 425.</ref><ref>B. Mandelbrot, "A Note on a Class of Skew Distribution Functions, Analysis and Critique of a Paper by H. Simon", ''Information and Control'', 2 (1959), p. 90</ref>
+
+==Early life and education==
+Herbert Alexander Simon was born in [[Milwaukee]], [[Wisconsin]] on June 15, 1916. Simon's father, Arthur Simon (1881–1948), was a [[Jewish]]<ref>''Herbert A. Simon: The Bounds of Reason in Modern America'' by Hunter Crowther-Heyck, (JHU 2005), page 25.</ref> electrical engineer who came to the United States from [[Germany]] in 1903 after earning his engineering degree at [[Technische Hochschule|Technische Hochschule Darmstadt]].<ref>Simon 1991, p.3, 23</ref> An inventor, Arthur also was an independent patent attorney.<ref>Simon 1991 p. 20</ref> Simon's mother, Edna Marguerite Merkel (1888-1969), was an accomplished pianist whose ancestors came from [[Prague]] and [[Cologne]].<ref name="Simon 1991 p.3">Simon 1991 p.3</ref> Simon's European ancestors were piano makers, [[goldsmith]]s, and [[vintner]]s. Like his father, Simon's mother also came from a family with Jewish, Lutheran, and Catholic backgrounds.<ref name="Simon 1991 p.3"/> 
+
+Simon attended [[Milwaukee Public Schools]], where he developed an interest in science and established himself as an atheist. While attending middle school, Simon wrote a letter to "the editor of the ''[[Milwaukee Journal Sentinel|Milwaukee Journal]]'' defending the civil liberties of atheists".<ref>{{cite book|title=Herbert A. Simon: The Bounds of Reason in Modern America|author=Hunter Crowther-Heyck|publisher=JHU Press|year=2005|isbn=9780801880254|page=22|quote=His secular, scientific values came well before he was old enough to make such calculating career decisions. For example, while still in middle school, Simon wrote a letter to the editor of the ''Milwaukee Journal'' defending the civil liberties of atheists, and by high school, he was "certain" that he was "religiously an atheist", a conviction that never wavered.}}</ref> Unlike most children, Simon's family introduced him to the idea that human behavior could be studied scientifically; his mother's younger brother, Harold Merkel (1892-1922), who studied economics at the [[University of Wisconsin–Madison]] under [[John R. Commons]], became one of his earliest influences. Through Harold's books on economics and psychology, Simon discovered social science. Among his earliest influences, Simon cited [[Norman Angell]] for his book ''[[The Great Illusion]]'' and [[Henry George]] for his book ''[[Progress and Poverty]]''. While attending high school, Simon joined the debate team, where he argued "from conviction, rather than cussedness" in favor of George's [[Georgism|single tax]].<ref name="Velupillai, Kumaraswamy 2000">Velupillai, Kumaraswamy. ''Computable Economics: The Arne Ryde Memorial Lectures''. New York: Oxford University Press, 2000.</ref>
+
+In 1933, Simon entered the [[University of Chicago]], and, following his early influences, decided to study social science and mathematics. Simon was interested in studying biology but chose not to pursue the field because of his "color-blindness and awkwardness in the laboratory".<ref>Simon 1991 p. 39</ref> At an early age, Simon learned he was color blind and discovered the external world is not the same as the perceived world. While in college, Simon focused on [[political science]] and [[economics]]. Simon's most important mentor was [[Henry Schultz]], an [[Econometrics|econometrician]] and [[mathematical economist]].<ref name=nobelAutoBiog/>  Simon received both his B.A. (1936) and his Ph.D. (1943) in political science from the University of Chicago, where he studied under [[Harold Lasswell]], [[Nicolas Rashevsky]], [[Rudolf Carnap]], Henry Schultz, and [[Charles Edward Merriam]].<ref>Augier & March 2001</ref> After enrolling in a course on "Measuring Municipal Governments," Simon became a research assistant for Clarence Ridley, and the two co-authored ''Measuring Municipal Activities: A Survey of Suggested Criteria for Appraising Administration'' in 1938.<ref>Simon 1991 p. 64</ref> Simon's studies led him to the field of [[Organizational behavior|organizational]] [[decision-making]], which became the subject of his doctoral dissertation.
+
+==Career==
+After graduating with his undergraduate degree, Simon obtained a research assistantship in municipal administration which turned into a directorship at the [[University of California, Berkeley]].
+
+From 1942 to 1949, Simon was a professor of political science and also served as department chairman at [[Illinois Institute of Technology]] in [[Chicago]]. There, he began participating in the seminars held by the staff of the [[Cowles Commission]] who at that time included [[Trygve Haavelmo]], [[Jacob Marschak]], and [[Tjalling Koopmans]]. He thus began an in-depth study of economics in the area of [[Institutional economics|institutionalism]]. Marschak brought Simon in to assist in the study he was currently undertaking with [[Sam Schurr]] of the "prospective economic effects of [[atomic energy]]".<ref name="nobel autobio">{{Cite web|url=https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1978/simon-bio.html|title=Herbert A. Simon – Biographical|website=nobelprize.org|access-date=2016-12-01}}</ref>
+
+From 1949 to 2001, Simon was a faculty member at [[Carnegie-Mellon University]], in Pittsburgh, Pennsylvania. In 1949, Simon became a professor of administration and chairman of the Department of Industrial Management at [[Carnegie Institute of Technology]] ("Carnegie Tech"), which, in 1967, became Carnegie-Mellon University. Simon later also<ref>Simon 1991 p. 136</ref> taught [[psychology]] and [[computer science]] in the same university,<ref name="nobel autobio" /> (occasionally visiting other universities<ref>[http://philosophy.princeton.edu/about/faculty-1949 "Princeton University, Department Of Philosophy, Faculty Since 1949"], at philosophy.princeton.edu accessed 2014-Oct-13</ref>).
+
+==Research==
+Seeking to replace the highly simplified classical approach to economic modeling, Simon became best known for his theory of corporate decision in his book ''[[Administrative Behavior]]''. In this book he based his concepts with an approach that recognized multiple factors that contribute to decision making. His organization and administration interest allowed him to not only serve three times as a university department chairman, but he also played a big part in the creation of the [[Economic Cooperation Administration]] in 1948; administrative team that administered aid to the [[Marshall Plan]] for the U.S. government, serving on President [[Lyndon Johnson]]'s Science Advisory Committee, and also the [[National Academy of Science]].<ref name="nobel autobio"/> Simon has made a great number of contributions to both economic analysis and applications. Because of this, his work can be found in a number of economic literary works, making contributions to areas such as mathematical economics including theorem, human rationality, behavioral study of firms, theory of casual ordering, and the analysis of the [[parameter identification problem]] in econometrics.<ref>{{cite journal | author = William J. Baumol | year = 1979 | title = On The Contributions of Herbert A. Simon to Economics | jstor =343945 | journal = The Scandinavian Journal of Economics | volume = 81 | issue = 1| pages = 655 | doi=10.2307/3439459| author-link = William Baumol }}</ref>
+
+===Decision-making===
+{{Main|Administrative Behavior}}
+[[File:Simons 3 stages in Decision Making.gif|thumb|320px|alt=Simon's 3 stages in Rational Decision Making: Intelligence, Design, Choice (IDC)|Simon's three stages in Rational Decision Making: Intelligence, Design, Choice (IDC)]]
+
+''Administrative Behavior'',<ref name="BarnardSimon1947">C. Barnard and H. A. Simon. (1947). ''Administrative Behavior: A Study of Decision-making Processes in Administrative Organization''. Macmillan, New York.</ref> first published in 1947 and updated across the years, was based on Simon's doctoral dissertation.<ref name="Simon1976">{{Harvnb|Simon|1976}}</ref> It served as the foundation for his life's work. The centerpiece of this book is the behavioral and cognitive processes of humans making rational decisions. By his definition, an operational administrative decision should be correct, efficient, and practical to implement with a set of coordinated means.<ref name="Simon1976"/>
+	
+Simon recognized that a theory of administration is largely a theory of human decision making, and as such must be based on both economics and on psychology. He states:
+
+{{Quotation|[If] there were no limits to human rationality administrative theory would be barren. It would consist of the single precept: Always select that alternative, among those available, which will lead to the most complete achievement of your goals.<ref name="Simon1976"/> (p xxviii)}}
+
+Contrary to the "[[homo economicus]]" stereotype, Simon argued that alternatives and consequences may be partly known, and means and ends imperfectly differentiated, incompletely related, or poorly detailed.<ref name="Simon1976"/>
+
+Simon defined the task of rational decision making is to select the alternative that results in the more preferred set of all the possible consequences. Correctness of administrative decisions was thus measured by:
+* Adequacy of achieving the desired objective
+* Efficiency with which the result was obtained
+
+The task of choice was divided into three required steps:<ref>{{Harvnb|Simon|1976|p=67}}</ref>
+
+* Identifying and listing all the alternatives
+* Determining all consequences resulting from each of the alternatives;
+* Comparing the accuracy and efficiency of each of these sets of consequences
+
+Any given individual or organization attempting to implement this model in a real situation would be unable to comply with the three requirements. Simon argued that knowledge of all alternatives, or all consequences that follow from each alternative is impossible in many realistic cases.<ref name="BarnardSimon1947"/>
+
+Simon attempted to determine the techniques and/or behavioral processes that a person or organization could bring to bear to achieve approximately the best result given limits on rational decision making.<ref name=Simon1976/> Simon writes:
+
+{{quote|The human being striving for rationality and restricted within the limits of his knowledge has developed some working procedures that partially overcome these difficulties. These procedures consist in assuming that he can isolate from the rest of the world a closed system containing a limited number of variables and a limited range of consequences.<ref>{{Harvnb|Simon|1976|p=82}}</ref>}}
+
+Therefore, Simon describes work in terms of an economic framework, conditioned on human cognitive limitations: ''Economic man'' and ''Administrative man''.
+
+''Administrative Behavior'' addresses a wide range of human behaviors, cognitive abilities, management techniques, personnel policies, training goals and procedures, specialized roles, criteria for evaluation of accuracy and efficiency, and all of the ramifications of communication processes. Simon is particularly interested in how these factors influence the making of decisions, both directly and indirectly.{{citation needed|date=January 2014}}
+
+Simon argued that the two outcomes of a choice require monitoring and that many members of the organization would be expected to focus on adequacy, but that administrative management must pay particular attention to the efficiency with which the desired result was obtained.{{citation needed|date=January 2014}}
+
+Simon followed [[Chester Barnard]], who stated "the decisions that an individual makes as a member of an organization are quite distinct from his personal decisions".<ref>{{Harvnb|Barnard|1938|p=77}} cited by {{Harvnb|Simon|1976|pp= 202–203}}</ref> Personal choices may be determined whether an individual joins a particular organization and continue to be made in his or her extra–organizational private life. As a member of an organization, however, that individual makes decisions not in relationship to personal needs and results, but in an impersonal sense as part of the organizational intent, purpose, and effect. Organizational inducements, rewards, and sanctions are all designed to form, strengthen, and maintain this identification.{{citation needed|date=January 2014}}
+
+Simon<ref name="Simon1976"/> saw two universal elements of human social behavior as key to creating the possibility of organizational behavior in human individuals: Authority (addressed in Chapter VII—The Role of Authority) and in Loyalties and Identification (Addressed in Chapter X: Loyalties, and Organizational Identification).
+
+Authority is a well-studied, primary mark of organizational behavior, straightforwardly defined in the organizational context as the ability and right of an individual of higher rank to guide the decisions of an individual of lower rank. The actions, attitudes, and relationships of the dominant and subordinate individuals constitute components of role behavior that may vary widely in form, style, and content, but do not vary in the expectation of obedience by the one of superior status, and willingness to obey from the subordinate.{{citation needed|date=January 2014}}
+
+Loyalty was defined by Simon as the "process whereby the individual substitutes organizational objectives (service objectives or conservation objectives) for his own aims as the value-indices which determine his organizational decisions".<ref>{{Harvnb|Simon|1976|pp= 218}}</ref> This entailed evaluating alternative choices in terms of their consequences for the group rather than only for oneself or one's family.<ref>{{Harvnb|Simon|1976|pp= 206}}</ref>
+
+Decisions can be complex admixtures of facts and values. Information about facts, especially empirically-proven facts or facts derived from specialized experience, are more easily transmitted in the exercise of authority than are the expressions of values. Simon is primarily interested in seeking identification of the individual employee with the organizational goals and values. Following [[Lasswell]],<ref>{{Harvnb|Lasswell|1935|pp=29–51}} cited by {{Harvnb|Simon|1976|pp=205}}</ref> he states that "a person identifies himself with a group when, in making a decision, he evaluates the several alternatives of choice in terms of their consequences for the specified group".<ref>{{Harvnb|Simon|1976|p=205}}</ref> A person may identify himself with any number of social, geographic, economic, racial, religious, familial, educational, gender, political, and sports groups. Indeed, the number and variety are unlimited. The fundamental problem for organizations is to recognize that personal and group identifications may either facilitate or obstruct correct decision making for the organization. A specific organization has to determine deliberately, and specify in appropriate detail and clear language, its own goals, objectives, means, ends, and values.{{citation needed|date=January 2014}}
+
+Simon has been critical of traditional economics' elementary understanding of decision-making, and argues it "is too quick to build an idealistic, unrealistic picture of the decision-making process and then prescribe on the basis of such unrealistic picture".<ref>Simon, Herbert. https://www.ubs.com/microsites/nobel-perspectives/en/herbert-simon.html</ref> 
+
+Herbert Simon rediscovered path diagrams, which were originally invented by Sewall Wright around 1920.<ref>{{Cite book|last1=Pearl|first1=Judea|title=The Book of Why: The New Science of Cause and Effect|last2=Mackenzie|first2=Dana|publisher=Basic Books|year=2018|isbn=978-0465097609|location=046509760X|pages=79}}</ref>
+
+===Artificial intelligence===
+Simon was a pioneer in the field of [[artificial intelligence]], creating with [[Allen Newell]] the [[Logic Theorist|Logic Theory Machine]] (1956) and the [[General Problem Solver]] (GPS) (1957) programs. GPS may possibly be the first method developed for separating problem solving strategy from information about particular problems. Both programs were developed using the [[Information Processing Language]] (IPL) (1956) developed by Newell, [[Cliff Shaw]], and Simon. [[Donald Knuth]] mentions the development of list processing in IPL, with the [[linked list]] originally called "NSS memory" for its inventors.<ref>Volume 1 of ''[[The Art of Computer Programming]]''</ref> In 1957, Simon predicted that [[computer chess]] would surpass human chess abilities within "ten years" when, in reality, that transition took about forty years.<ref>[http://www.ddj.com/hpc-high-performance-computing/184405171 Computer Chess: The Drosophila of AI] October 30, 2002</ref>
+
+In the early 1960s psychologist [[Ulric Neisser]] asserted that while machines are capable of replicating "cold cognition" behaviors such as reasoning, planning, perceiving, and deciding, they would never be able to replicate "[[hot cognition]]" behaviors such as pain, pleasure, desire, and other emotions. Simon responded to Neisser's views in 1963 by writing a paper on emotional cognition,<ref>Herbert A. Simon, [http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=346072 ''A Theory of Emotional Behavior'']. Carnegie Mellon University Complex Information Processing (CIP) Working Paper #55, June 1, 1963.</ref> which he updated in 1967 and published in ''Psychological Review''.<ref>Herbert A. Simon, [http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=34512 "Motivational and Emotional Controls of Cognition"]. ''Psychological Review'', 1967, Vol. 74, No. 1, 29-39.</ref> Simon's work on emotional cognition was largely ignored by the artificial intelligence research community for several years, but subsequent work on emotions by [[Aaron Sloman|Sloman]] and [[Rosalind Picard|Picard]] helped refocus attention on Simon's paper and eventually, made it highly influential on the topic.{{citation needed|date=January 2014}}
+
+Simon also collaborated with [[James G. March]] on several works in [[organization theory]].<ref name=edward2001/>
+
+With [[Allen Newell]], Simon developed a [[theory]] for the [[simulation]] of human [[problem solving]] behavior using production rules.<ref>Allen Newell and Herbert A. Simon, ''Human Problem Solving'', 1972</ref> The study of human [[problem solving]] required new kinds of human measurements and, with [[Anders Ericsson]], Simon developed the experimental technique of verbal protocol analysis.<ref>K. A. Ericsson and H. A. Simon, ''Protocol Analysis: Verbal Reports as Data'', 1993</ref> Simon was interested in the role of knowledge in expertise. He said that to become an expert on a topic required about ten years of experience and he and colleagues estimated that expertise was the result of learning roughly 50,000 [[chunking (psychology)|chunks]] of information. A [[chess]] [[expert]] was said to have learned about 50,000 chunks or chess position patterns.<ref>Chase and Simon. "Perception in Chess". ''[[Cognitive Psychology]]'' Volume 4, 1973</ref>
+
+He was awarded the [[Association for Computing Machinery|ACM]] [[Turing Award]], along with [[Allen Newell]], in 1975. "In joint scientific efforts extending over twenty years, initially in collaboration with [[Cliff Shaw|J. C. (Cliff) Shaw]] at the [[RAND Corporation]], and {{Sic|nolink=y|subsequent|ially|expected=subsequently}} with numerous faculty and student colleagues at [[Carnegie Mellon University]], they have made basic contributions to [[artificial intelligence]], the psychology of human cognition, and list processing."<ref name =amturing/>
+
+===Psychology===
+Simon was interested in how humans learn and, with [[Edward Feigenbaum]], he developed the [[EPAM]] (Elementary Perceiver and Memorizer) theory, one of the first theories of [[learning]] to be implemented as a computer program. EPAM was able to explain a large number of phenomena in the field of verbal learning.<ref>{{cite journal | last1 = Feigenbaum | first1 = E. A. | last2 = Simon | first2 = H. A. | year = 1984 | title = EPAM-like models of recognition and learning | journal = Cognitive Science | volume = 8 | issue = 4| pages = 305–336 | doi=10.1016/s0364-0213(84)80005-1| doi-access = free }}</ref> Later versions of the model were applied to [[concept formation]] and the acquisition of [[expertise]]. With [[Fernand Gobet]], he has expanded the EPAM theory into the [[CHREST]] computational model.<ref>{{cite journal | last1 = Gobet | first1 = F. | last2 = Simon | first2 = H. A. | year = 2000 | title = Five seconds or sixty? Presentation time in expert memory | url = http://bura.brunel.ac.uk/handle/2438/811| journal = Cognitive Science | volume = 24 | issue = 4| pages = 651–682 | doi=10.1016/s0364-0213(00)00031-8| doi-access = free }}</ref> The theory explains how simple [[chunking (psychology)|chunks]] of information form the building blocks of schemata, which are more complex structures. CHREST has been used predominantly, to simulate aspects of chess expertise.{{citation needed|date=January 2014}}
+
+===Sociology and economics===
+Simon has been credited for revolutionary changes in [[microeconomics]]. He is responsible for the concept of organizational decision-making as it is known today. He was the first to rigorously examine how administrators made decisions when they did not have [[Perfect information|perfect and complete information]]. It was in this area that he was awarded the Nobel Prize in 1978.<ref>{{cite web|title=Press Release: Studies of Decision-Making Lead to Prize in Economics |url= https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1978/press.html|publisher=Nobelprize.org|access-date=11 May 2014|date=16 October 1978}}</ref>
+
+At the [[Cowles Commission]], Simon's main goal was to link economic theory to mathematics and statistics. His main contributions were to the fields of [[general equilibrium]] and [[econometrics]]. He was greatly influenced by the marginalist debate that began in the 1930s. The popular work of the time argued that it was not apparent empirically that entrepreneurs needed to follow the marginalist principles of profit-maximization/cost-minimization in running organizations. The argument went on to note that profit maximization was not accomplished, in part, because of the lack of complete information. In decision-making, Simon believed that agents face uncertainty about the future and costs in acquiring information in the present. These factors limit the extent to which agents may make a fully rational decision, thus they possess only "[[bounded rationality]]" and must make decisions by "[[satisficing]]", or choosing that which might not be optimal, but which will make them happy enough. Bounded rationality is a central theme in behavioral economics. It is concerned with the ways in which the actual decision making process influences decision. Theories of bounded rationality relax one or more assumptions of standard [[Expected utility hypothesis|expected utility theory]].
+
+Further, Simon emphasized that psychologists invoke a "procedural" definition of rationality, whereas economists employ a "substantive" definition. Gustavos Barros argued that the procedural rationality concept does not have a significant presence in the economics field and has never had nearly as much weight as the concept of bounded rationality.<ref>{{cite journal|last1=Barros|first1=Gustavo|title=Herbert A. Simon and the Concept of Rationality: Boundaries and Procedures|journal=Brazilian Journal of Political Economy|date=2010|volume=30|issue=3|pages=455–472|url=http://www.scielo.br/pdf/rep/v30n3/a06v30n3.pdf|doi=10.1590/S0101-31572010000300006|s2cid=8481653|doi-access=free}}</ref> However, in an earlier article, Bhargava (1997) noted the importance of Simon's arguments and emphasized that there are several applications of the "procedural" definition of rationality in econometric analyses of data on health. In particular, economists should employ "auxiliary assumptions" that reflect the knowledge in the relevant biomedical fields, and guide the specification of econometric models for health outcomes.
+
+Simon was also known for his research on [[industrial organization]].<ref>{{Cite journal|last1=Anderson|first1=Marc H.|last2=Lemken|first2=Russell K.|date=2019|title=An Empirical Assessment of the Influence of March and Simon's Organizations: The Realized Contribution and Unfulfilled Promise of a Masterpiece|journal=Journal of Management Studies|language=en|volume=56|issue=8|pages=1537–1569|doi=10.1111/joms.12527|s2cid=201323442|issn=1467-6486}}</ref><ref>{{Cite journal|last1=Wilden|first1=Ralf|last2=Hohberger|first2=Jan|last3=Devinney|first3=Timothy M.|last4=Lumineau|first4=Fabrice|date=2019|title=60 Years of March and Simon's Organizations: An Empirical Examination of its Impact and Influence on Subsequent Research|journal=Journal of Management Studies|language=en|volume=56|issue=8|pages=1570–1604|doi=10.1111/joms.12531|issn=1467-6486|doi-access=free}}</ref> He determined that the internal organization of firms and the external business decisions thereof, did not conform to the [[Neoclassical economics|neoclassical theories]] of "rational" decision-making. Simon wrote many articles on the topic over the course of his life, mainly focusing on the issue of decision-making within the behavior of what he termed "[[bounded rationality]]". "Rational behavior, in economics, means that individuals maximize their utility function under the constraints they face (e.g., their budget constraint, limited choices, ...) in pursuit of their self-interest. This is reflected in the theory of [[subjective expected utility]]. The term, [[bounded rationality]], is used to designate rational choice that takes into account the cognitive limitations of both knowledge and cognitive capacity. Bounded rationality is a central theme in [[behavioral economics]]. It is concerned with the ways in which the actual decision-making process influences decisions. Theories of bounded rationality relax one or more assumptions of standard expected utility theory".{{cite quote|date=September 2013}}
+
+Simon determined that the best way to study these areas was through [[computer simulation]]s. As such, he developed an interest in [[computer science]]. Simon's main interests in computer science were in artificial intelligence, [[human–computer interaction]], principles of the organization of humans and machines as information processing systems, the use of computers to study (by modeling) philosophical problems of the nature of intelligence and of [[epistemology]], and the social implications of computer technology.{{citation needed|date=January 2014}}
+
+In his youth, Simon took an interest in [[land economics]] and [[Georgism]], an idea known at the time as "single tax".<ref name="Velupillai, Kumaraswamy 2000"/> The system is meant to redistribute unearned [[economic rent]] to the public and improve land use. In 1979, Simon still maintained these ideas and argued that [[land value tax]] should replace taxes on wages.<ref>Simon, Herbert. [http://www.cooperative-individualism.org/batt-h-william_real-explanation-for-the-tax-rebellion-2011.pdf "Letter to the Pittsburgh City Council"], December 13, 1979. Archived in the Herbert A. Simon Collected Papers, Carnegie Mellon University Library. Quote: "It is clearly preferable to impose the additional cost on land by increasing the land tax, rather than to increase the wage tax"</ref>
+
+Some of Simon's economic research was directed toward understanding technological change in general and the information processing revolution in particular.{{citation needed|date=January 2014}}
+
+===Pedagogy===
+Simon's work has strongly influenced [[John Mighton]], developer of a program that has achieved significant success in improving mathematics performance among elementary and high school students.<ref name="tvo">"John Mighton: The Ubiquitous Bell Curve", in ''[[Big Ideas (TV series)|Big Ideas]]'' on [[TVOntario]], broadcast 1:30 a.m., 6 November 2010.</ref> Mighton cites a 2000 paper by Simon and two coauthors that counters arguments by French mathematics educator, [[Guy Brousseau]], and others suggesting that excessive practice hampers children's understanding:<ref name="tvo" />
+
+{{Quotation|[The] criticism of practice (called "drill and kill," as if this phrase constituted empirical evaluation) is prominent in constructivist writings. Nothing flies more in the face of the last 20 years of research than the assertion that practice is bad. All evidence, from the laboratory and from extensive case studies of professionals, indicates that real competence only comes with extensive practice... In denying the critical role of practice one is denying children the very thing they need to achieve real competence. The instructional task is not to "kill" motivation by demanding drill, but to find tasks that provide practice while at the same time sustaining interest.|[[John Robert Anderson (psychologist)|John R. Anderson]], Lynne M. Reder, and Herbert A. Simon||"[http://act-r.psy.cmu.edu/papers/misapplied.html Applications and misapplications<br>of cognitive psychology to mathematics education]", ''Texas Educational Review'' 6 (2000)}}
+
+==Awards and honors==
+Simon received many top-level honors in life, including becoming a fellow of the [[American Academy of Arts and Sciences]] in 1959;<ref>[http://www.amacad.org/publications/BookofMembers/ChapterS.pdf American Academy of Arts and Sciences 2012 Book of Members/ChapterS, amacad.org]</ref> election as a [[Member of the National Academy of Sciences]] in 1967;<ref>[http://nas.nasonline.org/site/Dir/1715450020?pg=rslts National Academy of Sciences]. Nas.nasonline.org. Retrieved on 2013-09-23.</ref> [[APA Award for Distinguished Scientific Contributions to Psychology]] (1969); the [[Association for Computing Machinery|ACM]]'s [[Turing Award]] for making "basic contributions to artificial intelligence, the psychology of human [[cognition]], and list processing" (1975); the [[Nobel Prize in Economics|Nobel Memorial Prize in Economics]] "for his pioneering research into the decision-making process within economic organizations" (1978); the [[National Medal of Science]] (1986); the [[American Psychological Association|APA]]'s [[APA Award for Lifetime Contributions to Psychology|Award for Outstanding Lifetime Contributions to Psychology]] (1993); [[Association for Computing Machinery|ACM]] fellow (1994); and [[IJCAI Award for Research Excellence]] (1995).
+
+*Honorary doctorate, [[Lund School of Economics and Management]], 1968.<ref>{{cite web|title=Honorary doctors at Lund School og Economics and Management|url=http://www.lusem.lu.se/research/honorary-doctors|website=Lund University|access-date=4 September 2014|archive-url=https://web.archive.org/web/20140905005826/http://www.lusem.lu.se/research/honorary-doctors|archive-date=5 September 2014|url-status=dead}}</ref>
+*Honorary degree, [[University of Pavia]], 1988.<ref>[http://news.cornell.edu/stories/2008/10/interview-contrarian-ted-lowi interview with Ted Lowi (subsequent Cornell recipient of an Honorary degree from the University of Pavia), at news.cornell.edu]</ref>
+*Honorary [[Doctor of Laws]] (LL.D.) degree from [[Harvard University]] in 1990.{{citation needed|date=February 2016}}
+*Honorary degree, [[University of Buenos Aires]], 1999.<ref>{{cite web|title=Publicaciones, Facultad de Ciencias Económicas, Universidad de Buenos Aires, Boletín Informativo|url=http://www.econ.uba.ar/servicios/publicaciones/boletin/boletin8.htm#53|website=Universidad de Buenos Aires, Facultad de Ciencias Económicas|access-date=6 June 2015}}</ref>
+
+==Selected publications==
+Simon was a prolific writer and authored 27 books and almost a thousand papers. As of 2016, Simon was the most cited person in [[artificial intelligence]] and [[cognitive psychology]] on [[Google Scholar]].<ref>{{Cite web|url=https://scholar.google.com/citations?user=9d7rMrkAAAAJ|title=Herbert a Simon}}</ref> With almost a thousand highly cited publications, he was one of the most influential social scientists of the twentieth century.
+
+===Books===
+* 1947. ''[[Administrative Behavior]]: A Study of Decision-Making Processes in Administrative Organization''.
+: – 4th ed. in 1997, The Free Press
+* 1957. ''Models of Man''. John Wiley.  Presents mathematical models of human behaviour.
+* 1958 (with [[James G. March]] and the collaboration of Harold Guetzkow). ''[[Organizations (book)|Organizations]]''. New York: Wiley. the foundation of modern organization theory
+* 1969. ''[[The Sciences of the Artificial]]''. MIT Press, Cambridge, Mass, 1st edition. Made the idea easy to grasp: "objects (real or symbolic) in the environment of the decision-maker influence choice as much as the intrinsic information-processing capabilities of the decision-maker"; Explained "the principles of modeling complex systems, particularly the human information-processing system that we call the mind."
+: - 2nd ed. in 1981, MIT Press. As stated in the Preface, the second edition provided the author an opportunity "to amend and expand [his] thesis and to apply it to several additional fields" beyond organization theory, economics, management science, and psychology that were covered in the previous edition.
+: - 3rd ed. in 1996, MIT Press.
+* 1972 (with [[Allen Newell]]). ''[[Human Problem Solving]]''. Prentice Hall, Englewood Cliffs, NJ, (1972). "the most important book on the scientific study of human thinking in the 20th century"
+* 1977. ''Models of Discovery : and other topics in the methods of science''. Dordrecht, Holland: Reidel.
+* 1979. ''Models of Thought, Vols. 1 and 2''. Yale University Press. His papers on human information-processing and problem-solving.
+* 1982. ''Models of Bounded Rationality, Vols. 1 and 2''. MIT Press. His papers on economics.
+: - Vol. 3. in 1997, MIT Press. His papers on economics since the publication of Vols. 1 and 2 in 1982. The papers grouped under the category "The Structure of Complex Systems"– dealing with issues such as causal ordering, decomposability, aggregation of variables, model abstraction– are of general interest in systems modelling, not just in economics.
+* 1983. ''Reason in Human Affairs'', Stanford University Press. A readable 115pp. book on human decision-making and information processing, based on lectures he gave at Stanford in 1982. A popular presentation of his technical work.
+* 1987 (with P. Langley, G. Bradshaw, and J. Zytkow). ''Scientific Discovery: computational explorations of the creative processes''. MIT Press.
+* 1991. ''Models of My Life''. Basic Books, Sloan Foundation Series. His autobiography.
+* 1997. ''An Empirically Based Microeconomics''. Cambridge University Press.  A compact and readable summary of his criticisms of conventional "axiomatic" microeconomics, based on a lecture series.
+* 2008 (posthumously). ''Economics, Bounded Rationality and the Cognitive Revolution''. Edward Elgar Publishing, {{ISBN|1847208967}}. reprint some of his papers not widely read by economists.
+
+===Articles===
+* 1938 (with Clarence E. Ridley). ''Measuring Municipal Activities: a Survey of Suggested Criteria and Reporting Forms For Appraising Administration''.
+* 1943. ''Fiscal Aspects of Metropolitan Consolidation''.
+* 1945. ''The Technique of Municipal Administration'', 2d ed.
+* 1955. [http://doi.library.cmu.edu/10.1184/pmc/simon/box00063/fld04838/bdl0001/doc0001/ "A Behavioral Model of Rational Choice"], ''Quarterly Journal of Economics'', vol. 69, 99–118.
+* 1956. [http://doi.library.cmu.edu/10.1184/pmc/simon/box00063/fld04852/bdl0001/doc0001/ "Reply: Surrogates for Uncertain Decision Problems"], Office of Naval Research, January 1956.
+: – Reprinted in 1982, In: H.A. Simon, Models of Bounded Rationality, Volume 1, Economic Analysis and Public Policy, Cambridge, Mass., MIT Press, 235–44.
+* 1958 (with [[Allen Newell]] and [[J. C. Shaw]]). ''Elements of a theory of human problem solving''<ref>{{Cite journal | last1 = Newell | first1 = A. | author-link1 = Allen Newell | last2 = Shaw | first2 = J. C.  | author-link2 = Cliff Shaw | last3 = Simon | first3 = H. A. | author-link3 = Herbert A. Simon | year = 1958 | title = Elements of a Theory of Human Problem Solving | journal = [[Psychological Review]] | volume = 65 | issue = 3 | pages = 151–166 | url = http://doi.library.cmu.edu/10.1184/pmc/simon/box00064/fld04878/bdl0001/doc0001   | doi = 10.1037/h0048495 }}</ref>
+* 1967. [http://doi.library.cmu.edu/10.1184/pmc/simon/box00065/fld04976/bdl0001/doc0001/ "Motivational and emotional controls of cognition"], ''Psychological Review'', vol. 74, 29–39, reprinted in ''Models of Thought'' Vol 1.
+* 1972. [http://innovbfa.viabloga.com/files/Herbert_Simon___theories_of_bounded_rationality___1972.pdf "Theories of Bounded Rationality"], Chapter 8 in C. B. McGuire and R. Radner, eds., Decision and Organization, Amsterdam: North-Holland Publishing Company.
+* 1980 (with [[K. Anders Ericsson]]). [http://doi.library.cmu.edu/10.1184/pmc/simon/box00067/fld05144/bdl0001/doc0001/ "Verbal reports as data"], ''Psychological Review'', vol. 87, 215–251.
+* 1985 [http://doi.library.cmu.edu/10.1184/pmc/simon/box00068/fld05211/bdl0001/doc0001 "Human Nature in Politics: The Dialogue of Psychology with Political Science"], ''The American Political Science Review'', vol. 79, no. 2 (Jun., 1985), pp.&nbsp;293–304
+* 1989 (with M.J. Prietula). "[https://hbr.org/1989/01/the-experts-in-your-midst The Experts in Your Midst]"'', Harvard Business Review'', January-February, 120-124.
+*1992 [https://journals.sagepub.com/doi/pdf/10.1111/j.1467-9280.1992.tb00017.x 'What is an "Explanation" of Behavior?'] ''Psychological Science'', 3(3), 150-161
+* 1995 (with Peter C.-H. Cheng). [http://doi.library.cmu.edu/10.1184/pmc/simon/box00070/fld05392/bdl0001/doc0001/ "Scientific discovery and creative reasoning with diagrams"], in S. M. Smith, T. B. Ward & R. A. Finke (Eds.), ''The Creative Cognition Approach'' (pp.&nbsp;205–228). Cambridge, MA: MIT Press.
+* 1998 (with [[John Robert Anderson (psychologist)|John R. Anderson]], Lynne M. Reder, K. Anders Ericsson, and Robert Glaser). [https://web.archive.org/web/20100626180748/http://memory.psy.cmu.edu/publications/98_jra_lmr_has.pdf "Radical Constructivism and Cognitive Psychology"], ''Brookings Papers on Education Policy'', no. 1, 227–278.
+* 2000 (with John R. Anderson and Lynne M. Reder). [https://web.archive.org/web/20100626161414/http://memory.psy.cmu.edu/publications/Applic.MisApp.pdf "Applications and misapplications of cognitive psychology to mathematics education"], ''Texas Education Review'', vol. 1, no. 2, 29–49.
+
+==Personal life and interests==
+Simon married Dorothea Pye in 1938. Their marriage lasted 63 years until his death. In January 2001, Simon underwent surgery at [[UPMC Presbyterian]] to remove a cancerous tumor in his abdomen. Although the surgery was successful, Simon later succumbed to the complications that followed. They had three children, Katherine, Peter, and Barbara. His wife died in 2002.<ref name=DorotheaSObit/>
+
+From 1950 to 1955, Simon studied mathematical economics and during this time, together with [[David Hawkins (philosopher)|David Hawkins]], discovered and proved the [[Hawkins–Simon theorem]] on the "conditions for the existence of positive solution vectors for input-output matrices". He also developed theorems on near-decomposability and aggregation. Having begun to apply these theorems to organizations, by 1954 Simon determined that the best way to study problem-solving was to simulate it with computer programs, which led to his interest in computer simulation of human cognition. Founded during the 1950s, he was among the first members of the [[Society for General Systems Research]].{{citation needed|date=January 2014}}
+
+Simon was a pianist and had a keen interest in the arts. He was a friend of [[Robert Lepper]]<ref>{{cite web|url=http://www.warhol.org/whats_on/pdfs/PR_Robert_Lepper_Artist_Teacher.pdf |title=PR_Robert_Lepper_Artist_Teacher.pdf |access-date=2008-05-31 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20060626151911/http://www.warhol.org/whats_on/pdfs/PR_Robert_Lepper_Artist_Teacher.pdf |archive-date=June 26, 2006 }}</ref> and Richard Rappaport.<ref>{{cite web|url=http://search.library.cmu.edu/client/default/q$003dlepper$0026rw$003d0$0026d$003dent$00253A$00252F$00252FSD_ILS$00252F1380$00252FSD_ILS$00253A1380888$00253AILS$00253A3$00253A636$0026tt$003dDIRECT$0026|title=Home - Carnegie Mellon University Libraries|access-date=8 August 2015}}{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Rappaport also painted Simon's commissioned portrait at [[Carnegie Mellon University]].<ref name="nobel autobio" /> He was also a keen [[mountain climber]]. As a testament to his wide interests, he at one point taught an undergraduate course on the [[French Revolution]].<ref name="econ"/>
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+{{refbegin}}
+* {{citation |last=Barnard|first=C.I.|title=The Functions of the Executive |location=Cambridg, MA |publisher=Harvard University Press |year=1938 |title-link=The Functions of the Executive }}
+* {{citation |last=Lasswell |first=H.D. |title=World Politics and Personal Insecurity |location=New York, NY |publisher=Whittlesey House |year=1935 }}
+* {{citation |last=Simon|first=Herbert |title=Administrative Behavior |publisher=The Free Press |location=New York, NY |year=1976 |edition=3rd }}
+* {{citation |last=Simon|first=Herbert|title=Models of My Life |publisher=Basic Books |location=USA |year=1991 }}
+* Simon, Herbert A. [https://web.archive.org/web/20181025201729/http://diva.library.cmu.edu/webapp/simon/item.jsp?q=%2Fbox00069%2Ffld05327%2Fbdl0001%2Fdoc0001%2F 'Organizations and markets'], ''Journal of Economic Perspectives'', vol. 5, no. 2 (1991), pp.&nbsp;25–44.
+* {{cite journal |last1=Augier |first1=Mie |last2=March |first2=James |title = Remembering Herbert A. Simon (1916-2001) |journal = Public Administration Review |year=2001 |volume=61 |issue=4 |pages=396–402 |jstor=977501 |doi = 10.1111/0033-3352.00043 }}
+{{refend}}
+
+==Further reading==
+* {{cite journal | last1 = Bhargava | first1 = Alok | year = 1997 | title = Editor's introduction: Analysis of data on health | journal = Journal of Econometrics | volume = 77 | pages = 1–4 | doi=10.1016/s0304-4076(96)01803-9}}
+* Courtois, P.J., 1977. ''Decomposability: queueing and computer system applications''. New York: Academic Press. Courtois was influenced by the work of Simon and [[Albert Ando]] on hierarchical nearly-decomposable systems in economic modelling as a criterion for computer systems design, and in this book he presents the mathematical theory of these nearly-decomposable systems in more detail than Simon and Ando do in their original papers.
+* Frantz, R., and Marsh, L. (Eds.) (2016). ''[http://www.palgrave.com/us/book/9781137442499 Minds, Models and Milieux: Commemorating the Centennial of the Birth of Herbert Simon]''. Palgrave Macmillan.
+
+==External links==
+{{Wikiquote}}
+* {{MathGenealogy |id=87903 |title=Herbert Alexander Simon}}
+* {{AIGenealogy|id=171|title=Herbert Alexander Simon}}
+* [https://www.cs.cmu.edu/simon/ A Tribute to Herbert A. Simon]
+* [https://web.archive.org/web/20180714185803/http://diva.library.cmu.edu/Simon/ Full-text digital archive of Herbert Simon papers]
+* [https://web.archive.org/web/20120209080433/http://shelf1.library.cmu.edu/IMLS/MindModels/index.html Mind Models] online Artificial Intelligence exhibit
+* [http://werdet.atspace.com/bin/simonntation-speech.html pioneering research into the decision-making process within economic organizations]
+* [http://www.philsci.com History of Twentieth-Century Philosophy of Science] BOOK VIII: Herbert Simon, Paul Thagard and Others on Discovery Systems&nbsp;– with free downloads for public use.
+* {{cite journal |author=Simon, H.A. |author-mask=1 |title=The Architecture of Complexity |journal=American Philosophical Society |volume=106 |issue=6 |pages=467–482 |date=12 December 1962 |jstor=985254 |url=http://www.ecoplexity.org/files/uploads/Simon.pdf |access-date=23 February 2010 |archive-url=https://web.archive.org/web/20090310150418/http://ecoplexity.org/files/uploads/Simon.pdf |archive-date=10 March 2009 |url-status=dead |df=dmy-all }}
+* [https://ideas.repec.org/e/psi29.html IDEAS/RePEc]
+* {{Cite encyclopedia |title=Herbert Alexander Simon (1901–1985) |url=http://www.econlib.org/library/Enc/bios/Simon.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+* [https://www.informs.org/content/view/full/271830 Biography of Herbert A. Simon] from the Institute for Operations Research and the Management Sciences
+* [https://www.ubs.com/herbert-simon Documentary interviews with Herbert Simon, with critiques of his work, as part of the Nobel Perspectives project]
+* {{Nobelprize|name=Herbert Simon}} including the Prize Lecture December 8, 1978 ''Rational Decision-Making in Business Organizations''
+
+{{-}}
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Bertil Ohlin]] | before2 = [[James E. Meade]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 1978 }}
+{{s-aft | after = [[Theodore W. Schultz]] | after2 = [[Sir Arthur Lewis]] }}
+{{s-end}}
+
+{{Winners of the National Medal of Science|behav-social}}
+{{Nobel laureates in economics 1976–2000}}
+{{1978 Nobel Prize winners}}
+{{Turing award}}
+{{John von Neumann Theory Prize recipients}}
+{{Carnegie Mellon}}
+{{instecon}}
+{{Psychology}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Simon, Herbert}}
+[[Category:1916 births]]
+[[Category:2001 deaths]]
+[[Category:Nobel laureates in Economics]]
+[[Category:Jewish Nobel laureates]]
+[[Category:American Nobel laureates]]
+[[Category:American atheists]]
+[[Category:American business theorists]]
+[[Category:American people of German descent]]
+[[Category:American people of German-Jewish descent]]
+[[Category:American psychologists]]
+[[Category:American social scientists]]
+[[Category:American sociologists]]
+ <!-- Organization theorists -->
+[[Category:Carnegie Mellon University faculty]]
+[[Category:Cognitive psychologists]]
+[[Category:Cognitive scientists]]
+[[Category:Econometricians]]
+[[Category:Educational psychologists]]
+[[Category:Computational psychologists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Association for Computing Machinery]]
+[[Category:History of artificial intelligence]]
+[[Category:Illinois Institute of Technology faculty]]
+[[Category:Jewish American scientists]]
+[[Category:Jewish atheists]]
+[[Category:John von Neumann Theory Prize winners]]
+[[Category:Mathematical cognition researchers]]
+[[Category:Mathematics educators]]
+[[Category:Design researchers]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Foreign members of the Chinese Academy of Sciences]]
+[[Category:Microeconomists]]
+[[Category:National Medal of Science laureates]]
+[[Category:Scientists from Milwaukee]]
+[[Category:Public administration scholars]]
+[[Category:Turing Award laureates]]
+[[Category:University of Chicago alumni]]
+[[Category:20th-century American writers]]
+[[Category:20th-century American economists]]
+[[Category:20th-century psychologists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Economists from Wisconsin]]
+[[Category:American people of Czech descent]]
+[[Category:Deaths from cancer in Pennsylvania]]

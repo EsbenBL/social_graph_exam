@@ -1,0 +1,514 @@
+{{short description|17th-century English philosopher}}
+{{Redirect|Hobbes|other people called Hobbes|Hobbes (disambiguation)}}
+{{About||the Dean of Exeter|Thomas Hobbes (priest)|those of a similar name|Thomas Hobbs (disambiguation){{!}}Thomas Hobbs}}
+{{pp-move-indef}}
+{{Use British English|date=August 2011}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox philosopher
+| region           = [[Western philosophy]]
+| era              = [[17th-century philosophy]]
+| image            = Thomas Hobbes by John Michael Wright (2).jpg
+| caption          = Hobbes by [[John Michael Wright]]
+| name             = Thomas Hobbes
+| birth_date       = {{Birth date|1588|4|5|df=yes}}
+| birth_place      = [[Westport, Wiltshire|Westport]],<!-- near [[Malmesbury]] --> [[Wiltshire]], [[Kingdom of England|England]]
+| death_date       = {{Death date and age|1679|12|4|1588|4|5|df=yes}}
+| death_place      = [[Derbyshire]], England
+| education        = [[Magdalen Hall, Oxford]]<br>[[St John's College, Cambridge]] (B.A., 1608)
+| school_tradition = {{plainlist|
+* [[British empiricism]]
+* [[Classical realism (international relations)|Classical realism]]
+* [[Corpuscularianism]]<ref name=Hobbes>Kenneth Clatterbaugh, ''The Causation Debate in Modern Philosophy, 1637–1739'', Routledge, 2014, p. 69.</ref>
+* [[Egoism#Descriptive theories|Descriptive egoism]]
+* [[Determinism]]
+* [[English Renaissance]]<ref>{{cite journal|last=Orozco-Echeverri|first=Sergio H.|title=On the Origin of Hobbes's Conception of Language: The Literary Culture of English Renaissance Humanism|journal=Revista de Estudios Sociales|volume=44|year=2012|pages=102–112}}</ref>
+* [[Materialism]]<ref name=SEP/>
+* [[Natural law]]
+* [[Nominalism]]<ref name=SEP>[http://plato.stanford.edu/entries/hobbes/ Thomas Hobbes (Stanford Encyclopedia of Philosophy)]</ref>
+* [[Social contract]]
+}}
+| main_interests   = [[Political philosophy]], [[history]], [[ethics]], [[geometry]]
+| influences       = [[Plato]], [[Aristotle]], [[Thucydides]], [[Epicurus]], [[Cicero]], [[Tacitus]], [[William of Ockham]], [[René Descartes]], [[Hugo Grotius]], [[Niccolò Machiavelli]], [[Francis Bacon]], [[Paolo Sarpi]], [[Thomas White (scholar)|Thomas White]], [[Roger Bacon]],<ref name=Companion>{{cite book |first=Tom |last=Sorell |title=The Cambridge Companion to Hobbes |url=https://books.google.com/books?id=iaHbJNClqjQC&pg=PA155 |publisher=[[Cambridge University Press]] |date= 1996 |page=155 |isbn=978-0-521-42244-4 |doi=10.1017/CCOL0521410193|editor1-last=Sorell |editor1-first=Tom }}</ref> [[Robert Grosseteste]]<ref name=Companion/>
+| influenced       = Western [[political philosophy|political]] and [[Jurisprudence|legal]] philosophy, and [[sociology]]
+| notable_ideas    = [[Social contract]], [[state of nature]], ''[[bellum omnium contra omnes]]''
+}}
+
+'''Thomas Hobbes''' ({{IPAc-en|h|ɒ|b|z}} {{respell|HOBZ}}; sometimes known as '''Thomas Hobbes of Malmesbury''';<ref>{{cite book|last=Hobbes|first=Thomas|url=https://books.google.com/books?id=5tQ6AAAAMAAJ|title=Tracts of Mr. Thomas Hobbs of Malmsbury: Containing I. Behemoth, the history of the causes of the civil wars of England, from 1640. to 1660. printed from the author's own copy: never printed (but with a thousand faults) before. II. An answer to Arch-bishop Bramhall's book, called the Catching of the Leviathan: never printed before. III. An historical narration of heresie, and the punishment thereof: corrected by the true copy. IV. Philosophical problems, dedicated to the King in 1662. but never printed before|publisher=W. Crooke|year=1682|page=339}}</ref> 5 April 1588 – 4 December 1679) was an [[English people|English]] [[philosopher]], considered to be one of the founders of modern [[political philosophy]].<ref>Williams, Garrath. "[https://www.iep.utm.edu/hobmoral/ Thomas Hobbes: Moral and Political Philosophy]." ''[[Internet Encyclopedia of Philosophy]]''. Retrieved 20 June 2020.</ref><ref>{{Cite book |title=The History of Political Theory: Ancient Greece to Modern America |first=Dr. Garrett Ward |last=Sheldon |url=https://books.google.com/books?id=X2_3A1RyscYC |publisher=[[Peter Lang (publisher)|Peter Lang]] |year=2003 |page=253 |isbn=978-0-8204-2300-5}}</ref> Hobbes is best known for his 1651 book ''[[Leviathan (Hobbes book)|Leviathan]]'', in which he expounds an influential formulation of [[social contract]] theory.<ref>[[Sharon Lloyd|Lloyd, Sharon A.]], and [[Susanne Sreedhar]]. [2002] 2018. "[https://plato.stanford.edu/entries/hobbes-moral/ Hobbes's Moral and Political Philosophy]." ''[[Stanford Encyclopedia of Philosophy]]''. Retrieved 20 June 2020.</ref> In addition to political philosophy, Hobbes contributed to a diverse array of other fields, including [[history]], [[jurisprudence]], [[geometry]], the [[physics]] of [[gas]]es, [[theology]], and [[ethics]], as well as [[philosophy]] in general.
+
+==Biography==
+===Early life===
+Thomas Hobbes was born on 5 April 1588, in [[Malmesbury#Westport St Mary|Westport]], now part of [[Malmesbury]] in [[Wiltshire]], England.<ref>"[http://www.notablebiographies.com/He-Ho/Hobbes-Thomas.html Thomas Hobbes Biography]." ''Encyclopedia of World Biography''. [[Advameg|Advameg, Inc]]. 2020. Retrieved 20 June 2020.</ref> Having been born [[Preterm birth|prematurely]] when his mother heard of the coming [[Spanish Armada|invasion of the Spanish Armada]], Hobbes later reported that "my mother gave birth to twins: myself and fear."<ref>{{cite book |title=Vita carmine expressa |year=1679 |first=Thomas |last=Hobbes |chapter=Opera Latina |editor-first=William |editor-last=Molesworth |editor-link=William Nassau Molesworth |location=London |volume=I |page=86 |chapter-url=https://archive.org/stream/operaphilosophi00molegoog#page/n96/mode/2up |url=https://books.google.com/books?id=Z_JiAAAAcAAJ&pg=PA86}}</ref> Hobbes had a brother, Edmund, about two years older, as well as a sister named Anne.
+
+Although Thomas Hobbes's childhood is unknown to a large extent, as is his mother's name,<ref>{{Cite journal |doi=10.2307/3791051 |jstor=3791051 |title=Thomas Hobbes: Radical in the Service of Reaction |url=https://books.google.com/books?id=sNtoQgAACAAJ |year=1986 |last1=Jacobson |first1=Norman |last2=Rogow |first2=Arnold A. |journal=[[Political Psychology (journal)|Political Psychology]] |publisher=[[W.W. Norton]] |volume=8 |issue=3 |pages=469 |issn=0162-895X |isbn=978-0-393-02288-9 |lccn=79644318 |oclc=44544062}}</ref> it is known that Hobbes's father, Thomas Sr., was the [[Vicar (Anglicanism)|vicar]] of both [[Charlton, Brinkworth|Charlton]] and Westport. Hobbes's father was uneducated, according to [[John Aubrey]], Hobbes's biographer, and he "disesteemed learning."<ref name="Sommerville" /> Thomas Sr. was involved in a fight with the local [[clergy]] outside his church, forcing him to leave [[London]]. As a result, the family was left in the care of Thomas Sr.'s older brother, Francis, a wealthy [[glove]] manufacturer with no family of his own.
+
+==== Education ====
+Hobbes Jr. was educated at Westport church from age four, passed to the [[Malmesbury school]], and then to a [[Independent school|private school]] kept by a young man named Robert Latimer, a graduate of the [[University of Oxford]].{{sfn|Robertson|1911|p=545}} Hobbes was a good pupil, and between 1601 and 1602 he went up to [[Magdalen Hall]], the predecessor to [[Hertford College, Oxford]], where he was taught [[scholastic logic]] and [[physics]].<ref>{{cite web |url=http://philosophy.hertford.ox.ac.uk/ |title=Philosophy at Hertford College |location=Oxford |publisher=[[Hertford College]] |access-date=24 July 2009}}</ref><ref>{{cite web |url=http://galileo.rice.edu/Catalog/NewFiles/hobbes.html |work=The Galileo Project |title=Hobbes, Thomas |publisher=[[Rice University]] |year=1995 |first=Al Van |last=Helden}}</ref><ref>{{cite book |url=https://books.google.com/books?id=LGSytrSTMQwC&pg=PT89 |title=Thomas Hobbes: Politics and law |publisher=[[Routledge]] |isbn=978-0-415-08083-5 |year=1993 |page=89 |last=King |first=Preston T.}}</ref> The principal, John Wilkinson, was a [[Puritan]] and had some influence on Hobbes. Before going up to Oxford, Hobbes translated [[Euripides]]' ''[[Medea (play)|Medea]]'' from [[Ancient Greek language|Greek]] into [[Latin verse]].<ref name="Sommerville" />
+
+At university, Thomas Hobbes appears to have followed his own curriculum as he was little attracted by the scholastic learning.{{sfn|Robertson|1911|p=545}} Leaving Oxford, Hobbes completed his [[B.A. degree]] by incorporation at [[St John's College, Cambridge]] in 1608.<ref>{{cite ODNB|id=13400|title=Hobbes, Thomas (1588–1679), philosopher |author=Malcolm, Noel|year=2004}}</ref> He was recommended by Sir James Hussey, his master at Magdalen, as tutor to [[William Cavendish, 2nd Earl of Devonshire|William]], the son of [[William Cavendish, 1st Earl of Devonshire|William Cavendish]],{{sfn|Robertson|1911|p=545}} [[Baron]] of Hardwick (and later [[Duke of Devonshire|Earl of Devonshire]]), and began a lifelong connection with that family.<ref>{{cite web |url=http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Hobbes.html |title=Thomas Hobbes |publisher=[[University of St Andrews]] |last1=O'Connor |first1=J. J. |last2=Robertson |first2=E. F. |author2-link=E. F. Robertson|date=November 2002 |website=School of Mathematics and Statistics |location=Scotland}}</ref> William Cavendish was elevated to the peerage on his father's death in 1626, holding it for two years before his death in 1628. His son, also William, likewise became the 3rd Earl of Devonshire. Hobbes served as a tutor and secretary to both men. The 1st Earl's younger brother, Charles Cavendish, had two sons who were patrons of Hobbes. The elder son, [[William Cavendish, 1st Duke of Newcastle|William Cavendish]], later 1st [[Duke of Newcastle]], was a leading supporter of Charles I during the [[English civil war|civil war]] personally financing an army for the king, having been governor to the [[Prince of Wales]], Charles James, Duke of Cornwall. It was to this William Cavendish that Hobbes dedicated his ''Elements of Law''.<ref name="Sommerville" />
+
+Hobbes became a companion to the younger William Cavendish and they both took part in a [[Grand Tour|grand tour]] of Europe between 1610 and 1615. Hobbes was exposed to European scientific and critical methods during the tour, in contrast to the [[scholastic philosophy]] that he had learned in Oxford. In Venice, Hobbes made the acquaintance of [[Fulgenzio Micanzio]], an associate of [[Paolo Sarpi]], a Venetian scholar and statesman.<ref name=Sommerville/>
+
+His scholarly efforts at the time were aimed at a careful study of classic Greek and Latin authors, the outcome of which was, in 1628, his great translation of [[Thucydides]]' ''[[History of the Peloponnesian War]]'',{{sfn|Robertson|1911|p=545}}  the first translation of that work into English from a Greek manuscript. It has been argued that three of the discourses in the 1620 publication known as ''Horae Subsecivae: Observations and Discourses'' also represent the work of Hobbes from this period.<ref>{{Cite book |last=Hobbes |first=Thomas |title=Three Discourses: A Critical Modern Edition of Newly Identified Work of the Young Hobbes |editor-last=Reynolds |editor-first=Noel B. |editor-link=Noel B. Reynolds |editor2-last=Saxonhouse |editor2-first=Arlene W. |publisher=[[University of Chicago Press]] |year=1995 |isbn=978-0-226-34545-1 |url=https://books.google.com/books?id=vPD5QjS6OCIC}}</ref>
+
+Although he did associate with literary figures like [[Ben Jonson]] and briefly worked as [[Francis Bacon (philosopher)|Francis Bacon]]'s [[amanuensis]], translating several of his ''[[Essays (Francis Bacon)|Essays]]'' into Latin,<ref name=Sommerville/> he did not extend his efforts into philosophy until after 1629. In June 1628, his employer Cavendish, then the Earl of Devonshire, died of the [[Bubonic plague|plague]], and his widow, the countess [[Christian Cavendish, Countess of Devonshire|Christian]], dismissed Hobbes.{{sfn|Robertson|1911|p=546}}<ref>{{Cite book|url=https://play.google.com/books/reader?id=gI0JAwAAQBAJ&hl=fr&printsec=frontcover&pg=GBS.PA44#v=onepage&q=which%20cavendish%20was%20at%20the%20virginia%20company?&f=false|title=The Cavendish family|last=Bickley|first=F.|date=1914|publisher=Рипол Классик|isbn=978-5-87487-145-1|pages=44|language=en}}</ref>
+
+===In Paris (1630–1637)===
+[[File:Thomas Hobbes.jpeg|thumb|Thomas Hobbes]]
+Hobbes soon found work as a tutor to [[Sir Gervase Clifton, 2nd Baronet|Gervase Clifton]], the son of [[Sir Gervase Clifton, 1st Baronet]], mostly spent in Paris until 1631. Thereafter, he again found work with the Cavendish family, tutoring [[William Cavendish, 3rd Earl of Devonshire]], the eldest son of his previous pupil. Over the next seven years, as well as tutoring, he expanded his own knowledge of philosophy, awakening in him curiosity over key philosophic debates. He visited [[Galileo Galilei]] in [[Florence]] while he was under house arrest upon [[Galileo affair|condemnation]], in 1636, and was later a regular debater in philosophic groups in Paris, held together by [[Marin Mersenne]].{{sfn|Robertson|1911|p=546}}
+
+Hobbes's first area of study was an interest in the physical doctrine of motion and physical momentum. Despite his interest in this phenomenon, he disdained experimental work as in [[physics]]. He went on to conceive the system of thought to the elaboration of which he would devote his life. His scheme was first to work out, in a separate treatise, a systematic doctrine of body, showing how physical phenomena were universally explicable in terms of motion, at least as motion or mechanical action was then understood. He then singled out Man from the realm of Nature and plants. Then, in another treatise, he showed what specific bodily motions were involved in the production of the peculiar phenomena of sensation, knowledge, affections and passions whereby Man came into relation with Man. Finally, he considered, in his crowning treatise, how Men were moved to enter into society, and argued how this must be regulated if people were not to fall back into "brutishness and misery". Thus he proposed to unite the separate phenomena of Body, Man, and the State.{{sfn|Robertson|1911|p=546}}
+
+=== In England (1637–1641) ===
+Hobbes came back home, in 1637, to a country riven with discontent, which disrupted him from the orderly execution of his philosophic plan.{{sfn|Robertson|1911|p=546}} However, by the end of the [[Short Parliament]] in 1640, he had written a short treatise called ''The Elements of Law, Natural and Politic''. It was not published and only circulated as a manuscript among his acquaintances. A pirated version, however, was published about ten years later. Although it seems that much of ''The Elements of Law'' was composed before the sitting of the Short Parliament, there are polemical pieces of the work that clearly mark the influences of the rising political crisis. Nevertheless, many (though not all) elements of Hobbes's political thought were unchanged between ''The Elements of Law'' and ''Leviathan'', which demonstrates that the events of the [[English Civil War]] had little effect on his [[contractarian]] methodology. However, the arguments in ''Leviathan'' were modified from ''The Elements of Law'' when it came to the necessity of consent in creating political obligation: Hobbes wrote in ''The Elements of Law'' that Patrimonial kingdoms were not necessarily formed by the [[consent of the governed]], while in ''Leviathan'' he argued that they were. This was perhaps a reflection either of Hobbes's thoughts about the [[engagement controversy]] or of his reaction to treatises published by [[Patriarchalism|Patriarchalists]], such as [[Robert Filmer|Sir Robert Filmer]], between 1640 and 1651.{{citation needed|date=February 2014}}
+
+When in November 1640 the [[Long Parliament]] succeeded the Short, Hobbes felt that he was in disfavour due to the circulation of his treatise and fled to Paris. He did not return for 11 years. In Paris, he rejoined the coterie around Mersenne and wrote a critique of the ''[[Meditations on First Philosophy]]'' of [[René Descartes|Descartes]], which was printed as third among the sets of "Objections" appended, with "Replies" from Descartes, in 1641. A different set of remarks on other works by Descartes succeeded only in ending all correspondence between the two.{{sfn|Robertson|1911|p=547}}
+
+Hobbes also extended his own works in a way, working on the third section, ''[[De Cive]]'', which was finished in November 1641. Although it was initially only circulated privately, it was well received, and included lines of argumentation that were repeated a decade later in ''Leviathan''. He then returned to hard work on the first two sections of his work and published little except a short treatise on optics (''Tractatus opticus''), included in the collection of scientific tracts published by Mersenne as ''Cogitata physico-mathematica'' in 1644. He built a good reputation in philosophic circles and in 1645 was chosen with Descartes, [[Gilles de Roberval]] and others to referee the controversy between [[John Pell]] and [[Christen Sørensen Longomontanus|Longomontanus]] over the problem of [[squaring the circle]].{{sfn|Robertson|1911|p=547}}
+
+===Civil War Period (1642–1651)===
+The [[English Civil War]] began in 1642, and when the [[Cavalier|royalist]] cause began to decline in mid-1644, many royalists came to Paris and were known to Hobbes.{{sfn|Robertson|1911|p=547}} This revitalised Hobbes's political interests, and the ''[[De Cive]]'' was republished and more widely distributed. The printing began in 1646 by [[Samuel de Sorbiere]] through the [[House of Elzevir|Elsevier press]] in [[Amsterdam]] with a new preface and some new notes in reply to objections.{{sfn|Robertson|1911|p=547}}
+
+In 1647, Hobbes took up a position as mathematical instructor to the young [[Charles II of England|Charles, Prince of Wales]], who had come to Paris from [[Jersey]] around July. This engagement lasted until 1648 when Charles went to Holland.{{sfn|Robertson|1911|p=547}}
+
+[[File:Hobbes de cive.jpg|thumb|Frontispiece from ''De Cive'' (1642)]]
+
+The company of the exiled royalists led Hobbes to produce ''[[Leviathan (Hobbes book)|Leviathan]]'', which set forth his theory of civil government in relation to the political crisis resulting from the war. Hobbes compared the State to a monster ([[leviathan]]) composed of men, created under pressure of human needs and dissolved by civil strife due to human passions. The work closed with a general "Review and Conclusion", in response to the war, which answered the question: Does a subject have the right to change allegiance when a former sovereign's power to protect is irrevocably lost?{{sfn|Robertson|1911|p=547}}
+
+During the years of composing ''Leviathan'', Hobbes remained in or near Paris. In 1647, he suffered a near-fatal illness that disabled him for six months.{{sfn|Robertson|1911|p=547}} On recovering, he resumed his literary task and completed it by 1650. Meanwhile, a translation of ''De Cive'' was being produced; scholars disagree about whether it was Hobbes who translated it.{{sfn|Robertson|1911|p=548}}
+
+In 1650, a pirated edition of ''The Elements of Law, Natural and Politic'' was published.<ref>{{cite book |last=Vardanyan |first=Vilen |year=2011 |title=[[iarchive:panoramaofpsycho0000vard|Panorama of Psychology]] |publisher=[[AuthorHouse]] |isbn=978-1-4567-0032-4 |page=72}}.</ref> It was divided into two small volumes: ''Human Nature, or the Fundamental Elements of Policie''; and ''De corpore politico, or the Elements of Law, Moral and Politick''.{{sfn|Robertson|1911|p=548}}
+
+In 1651, the translation of ''De Cive'' was published under the title ''Philosophical Rudiments concerning Government and Society''.<ref>{{cite book |first=John |last=Aubrey |author-link=John Aubrey |orig-year=1669–1696 |year=1898 |title=[[Brief Lives|Brief Lives: Chiefly of Contemporaries]] |volume=II |editor-first=A. |editor-last=Clark |editor-link=Andrew Clark (priest) |location=Oxford |publisher=[[Clarendon Press]] |page=277}}</ref> Also, the printing of the greater work proceeded, and finally appeared in mid-1651, titled ''[[Leviathan (Hobbes book)|Leviathan, or the Matter, Forme, and Power of a Common Wealth, Ecclesiastical and Civil]]''. It had a famous title-page engraving depicting a crowned giant above the waist towering above hills overlooking a landscape, holding a sword and a [[crozier]] and made up of tiny human figures. The work had immediate impact.{{sfn|Robertson|1911|p=548}} Soon, Hobbes was more lauded and decried than any other thinker of his time.{{sfn|Robertson|1911|p=548}} The first effect of its publication was to sever his link with the exiled royalists, who might well have killed him.{{sfn|Robertson|1911|p=548}} The secularist spirit of his book greatly angered both [[Anglican]]s and [[French Catholic]]s.{{sfn|Robertson|1911|p=548}} Hobbes appealed to the revolutionary English government for protection and fled back to London in winter 1651.{{sfn|Robertson|1911|p=548}} After his submission to the [[English Council of State|Council of State]], he was allowed to subside into private life{{sfn|Robertson|1911|p=548}} in [[Fetter Lane]].{{citation needed|date=November 2018}}
+
+===Later life===
+
+In 1658, Hobbes published the final section of his philosophical system, completing the scheme he had planned more than 20 years before. ''De Homine'' consisted for the most part of an elaborate theory of vision. The remainder of the treatise dealt cursorily with some of the topics more fully treated in the ''Human Nature'' and the ''Leviathan''. In addition to publishing some controversial writings on mathematics and physics, Hobbes also continued to produce philosophical works.{{sfn|Robertson|1911|p=548}}
+
+From the time of [[Restoration (England)|the Restoration]], he acquired a new prominence; "Hobbism" became a byword for all that respectable society ought to denounce. The young king, Hobbes's former pupil, now Charles II, remembered Hobbes and called him to the court to grant him a pension of £100.{{sfn|Robertson|1911|p=550}}
+
+The king was important in protecting Hobbes when, in 1666, the [[British House of Commons|House of Commons]] introduced a bill against atheism and profaneness. That same year, on 17 October 1666, it was ordered that the committee to which the bill was referred "should be empowered to receive information touching such books as tend to atheism, blasphemy and profaneness... in particular... the book of Mr. Hobbes called the ''Leviathan''."<ref>{{cite web|title=House of Commons Journal Volume 8|website=[[British History Online]] |url=http://www.british-history.ac.uk/report.asp?compid=26780|access-date=14 January 2005}}</ref> Hobbes was terrified at the prospect of being labelled a heretic, and proceeded to burn some of his compromising papers. At the same time, he examined the actual state of the law of [[Christian heresy|heresy]]. The results of his investigation were first announced in three short Dialogues added as an ''Appendix'' to his ''Latin translation of Leviathan'', published in Amsterdam in 1668. In this appendix, Hobbes aimed to show that, since the [[Court of High Commission|High Court of Commission]] had been put down, there remained no court of heresy at all to which he was amenable, and that nothing could be heresy except opposing the [[Nicene Creed]], which, he maintained, ''Leviathan'' did not do.{{sfn|Robertson|1911|p=551}}
+
+The only consequence that came of the bill was that Hobbes could never thereafter publish anything in England on subjects relating to human conduct. The 1668 edition of his works was printed in Amsterdam because he could not obtain the censor's licence for its publication in England. Other writings were not made public until after his death, including ''Behemoth: the History of the Causes of the Civil Wars of England and of the Counsels and Artifices by which they were carried on from the year 1640 to the year 1662''. For some time, Hobbes was not even allowed to respond, whatever his enemies tried. Despite this, his reputation abroad was formidable.{{sfn|Robertson|1911|p=551}}
+
+Hobbes spent the last four or five years of his life with his patron, [[William Cavendish, 1st Duke of Devonshire]], at the family's [[Chatsworth House]] estate. He had been a friend of the family since 1608 when he first tutored an earlier William Cavendish.<ref>{{cite web |url=http://www.bbc.co.uk/history/historic_figures/hobbes_thomas.shtml#:~:text=In%201672%2C%20Hobbes%20published%20an,of%20the%20Cavendish%20family's%20homes.|title=Thomas Hobbes (1588-1679)|website=BBC|access-date=14 April 2021 |quote=}}</ref> After Hobbes's death, many of his manuscripts would be found at Chatsworth House.<ref name="Malcolm 2003 80">{{cite book |last=Malcolm |first=Noel |date=2003 |title=Aspects of Hobbes |url=https://www.google.ca/books/edition/Aspects_of_Hobbes/_x_KthbDyHQC?hl=en&gbpv=1&kptab=overview |location=Oxford |publisher=Oxford University Press |page=80 |isbn=0199247145  |author-link= }}</ref>
+
+His final works were an autobiography in Latin verse in 1672, and a translation of four books of the ''[[Odyssey]]'' into "rugged" English rhymes that in 1673 led to a complete translation of both ''[[Iliad]]'' and ''Odyssey'' in 1675.{{sfn|Robertson|1911|p=551}}
+
+===Death===
+[[File:Tomb of Thomas Hobbes - geograph.org.uk - 1592556.jpg|thumb|Tomb of Thomas Hobbes in [[St John the Baptist's Church, Ault Hucknall]] in [[Derbyshire]]]]
+
+In October 1679 Hobbes suffered a [[bladder disorder]], and then a [[paralytic stroke]], from which he died on 4 December 1679, aged 91,{{sfn|Robertson|1911|p=551}}<ref>{{cite book |title=The Bedside Book of Final Words |url=https://books.google.com/books?id=zgHCBQAAQBAJ&pg=PT20 |publisher=Amberley Publishing Limited |date=25 November 2014 |page=20 |isbn=978-1-4456-4464-6 |first1=Eric |last1=Grounds |first2=Bill |last2=Tidy |author2-link=Bill Tidy |first3=Richard |last3=Stilgoe |author3-link=Richard Stilgoe}}</ref> 
+at [[Hardwick Hall]], owned by the Cavendish family.<ref name="Malcolm 2003 80"/>
+
+His last words were said to have been "A great leap in the dark", uttered in his final conscious moments.<ref>Norman Davies, ''Europe: A history'' p. 687</ref> His body was interred in [[St John the Baptist's Church, Ault Hucknall]], in Derbyshire.<ref>{{cite book |first1=Michael L. |last1=Coulter |first2=Richard S. |last2=Myers |first3=Joseph A. |last3=Varacalli |author3-link=Joseph A. Varacalli |title=Encyclopedia of Catholic Social Thought, Social Science, and Social Policy: Supplement |url=https://books.google.com/books?id=tSyO8MGI8kUC&pg=PA140 |publisher=[[Scarecrow Press]] |date=5 April 2012 |page=140 |isbn=978-0-8108-8275-1}}</ref>
+
+==Political theory==
+Hobbes, influenced by contemporary scientific ideas, had intended for his political theory to be a quasi-geometrical system, in which the conclusions followed inevitably from the premises.<ref name=Sommerville>{{cite book |last=Sommerville|first=J.P.|title=Thomas Hobbes: Political Ideas in Historical Context |publisher=MacMillan |date=1992 |pages=256–324 |isbn=978-0-333-49599-5}}</ref> The main practical conclusion of Hobbes's political theory is that state or society cannot be secure unless at the disposal of an absolute sovereign. From this follows the view that no individual can hold rights of property against the sovereign, and that the sovereign may therefore take the goods of its subjects without their consent. This particular view owes its significance to it being first developed in the 1630s when [[Charles I of England|Charles I]] had sought to raise revenues without the consent of Parliament, and therefore of his subjects.<ref name=Sommerville/> Hobbes rejected one of the most famous [[Thesis|theses]] of [[Aristotle|Aristotle’s]] politics, namely that human beings are naturally suited to life in a [[polis]] and do not fully realize their natures until they exercise the role of [[Citizenship|citizen]].<ref>{{Cite web|last=[[Hobbes]]|first=[[Thomas]]|date=10 November 2021|title=Thomas Hobbes - Political Philosophy|url=https://www.britannica.com/biography/Thomas-Hobbes/Political-philosophy|url-status=live|access-date=10 November 2021|website=[[Britannica]]}}</ref>
+
+===''Leviathan''===
+{{Main|Leviathan (Hobbes book)}}
+[[File:Leviathan by Thomas Hobbes.jpg|thumb|Frontispiece of ''Leviathan'']]
+
+In ''Leviathan'', Hobbes set out his doctrine of the foundation of [[State (polity)|states]] and legitimate governments and creating an objective science of morality.<ref>{{cite book |last1=Malcolm |first1=Noel |title=Aspects of Hobbes |date=2003 |publisher=Oxford Scholarship Online |isbn=9780199247141 |pages=147–155 |edition=Online |url=https://oxford.universitypressscholarship.com/view/10.1093/0199247145.001.0001/acprof-9780199247141-chapter-5 |access-date=21 March 2021 |chapter=Hobbes's Science of Politics and His Theory of Science|doi=10.1093/0199247145.001.0001 }}</ref> Much of the book is occupied with demonstrating the necessity of a strong central authority to avoid the evil of discord and civil war.
+
+Beginning from a [[Mechanism (philosophy)|mechanistic]] understanding of human beings and their passions, Hobbes postulates what life would be like without government, a condition which he calls the [[state of nature]]. In that state, each person would have a right, or license, to everything in the world. This, Hobbes argues, would lead to a "war of all against all" (''[[bellum omnium contra omnes]]''). The description contains what has been called one of the best-known passages in English philosophy, which describes the natural state humankind would be in, were it not for political community:<ref>{{Cite book|last=Gaskin|chapter=Introduction|title=Human Nature and De Corpore Politico|publisher=Oxford University Press|page=xxx}}</ref>
+{{quotation|In such condition, there is no place for industry; because the fruit thereof is uncertain: and consequently no culture of the earth; no navigation, nor use of the commodities that may be imported by sea; no commodious building; no instruments of moving, and removing, such things as require much force; no knowledge of the face of the earth; no account of time; no arts; no letters; no society; and which is worst of all, continual fear, and danger of violent death; and the life of man, solitary, poor, nasty, brutish, and short.<ref>{{Cite book|title=Leviathan|chapter=Chapter XIII.: Of the Natural Condition of Mankind As Concerning Their Felicity, and Misery.|chapter-url=http://www.bartleby.com/34/5/13.html}}</ref>}}
+
+In such states, people fear death and lack both the things necessary to [[wikt:commodious|commodious]] living, and the hope of being able to obtain them. So, in order to avoid it, people accede to a [[social contract theory|social contract]] and establish a [[civil society]]. According to Hobbes, society is a population and a [[wikt:sovereign|sovereign]] [[authority]], to whom all individuals in that society cede some right<ref>Part I, ''Chapter XIV. Of the First and Second Naturall Lawes, and of Contracts. (Not All Rights are Alienable)'', ''Leviathan'': "And therefore there be some Rights, which no man can be understood by any words, or other signes, to have abandoned, or transferred. As first a man cannot lay down the right of resisting them, that assault him by force, to take away his life; because he cannot be understood to ayme thereby, at any Good to himselfe. The same may be sayd of Wounds, and Chayns, and Imprisonment".</ref> for the sake of protection. Power exercised by this authority cannot be resisted, because the protector's sovereign power derives from individuals' surrendering their own sovereign power for protection. The individuals are thereby the authors of all decisions made by the sovereign,<ref>{{Cite book|last=Gaskin|chapter=Of the Rights of Sovereigns by Institution|title= Leviathan|publisher=Oxford University Press|page=117}}</ref> "he that complaineth of injury from his sovereign complaineth that whereof he himself is the author, and therefore ought not to accuse any man but himself, no nor himself of injury because to do injury to one's self is impossible". There is no doctrine of [[separation of powers]] in Hobbes's discussion.<ref>"1000 Makers of the Millennium", p. 42. Dorling Kindersley, 1999</ref><ref>{{Cite book|last=Peter|first=Kanzler|title=The Leviathan (1651), The Two Treatises of Government (1689), The Social Contract (1762), The Constitution of Pennsylvania (1776)|date=31 May 2020|isbn=978-1-716-89340-7|pages=44}}</ref> According to Hobbes, the sovereign must control civil, military, judicial and [[Cuius regio, eius religio|ecclesiastical]] powers, even the words.<ref>Vélez, F., ''La palabra y la espada'' (2014)</ref>
+
+==Opposition==
+
+===John Bramhall===
+In 1654 a small treatise, ''Of Liberty and Necessity'', directed at Hobbes, was published by Bishop [[John Bramhall]].{{sfn|Robertson|1911|p=548}}<ref>{{Cite book |title=Hobbes and Bramhall on Liberty and Necessity |publisher=[[Cambridge University Press]] |editor-first=Vere |editor-last=Chappell |editor-link=Vere Chappell |first1=Karl |last1=Ameriks |author-link=Karl Ameriks |first2=Desmond M. |last2=Clarke |author2-link=Desmond M. Clarke |url=http://assets.cambridge.org/97805215/96688/frontmatter/9780521596688_frontmatter.pdf |year=2007|doi=10.1017/CBO9780511495830 |page=31|isbn=978-0-511-49583-0 }}</ref> Bramhall, a strong [[Arminianism|Arminian]], had met and debated with Hobbes and afterwards wrote down his views and sent them privately to be answered in this form by Hobbes. Hobbes duly replied, but not for publication. However, a French acquaintance took a copy of the reply and published it with "an extravagantly laudatory epistle".{{sfn|Robertson|1911|p=548}}  Bramhall countered in 1655, when he printed everything that had passed between them (under the title of ''A Defence of the True Liberty of Human Actions from Antecedent or Extrinsic Necessity'').{{sfn|Robertson|1911|p=548}}
+
+In 1656, Hobbes was ready with ''The Questions concerning Liberty, Necessity and Chance'', in which he replied "with astonishing force"{{sfn|Robertson|1911|p=548}} to the bishop. As perhaps the first clear exposition of the psychological doctrine of determinism, Hobbes's own two pieces were important in the history of the [[Free will|free-will]] controversy. The bishop returned to the charge in 1658 with ''Castigations of Mr Hobbes's Animadversions'', and also included a bulky appendix entitled ''The Catching of Leviathan the Great Whale''.{{sfn|Robertson|1911|p=549}}
+
+===John Wallis===
+{{details|Hobbes–Wallis controversy}}
+Hobbes opposed the existing academic arrangements, and assailed the system of the original universities in ''Leviathan''. He went on to publish ''[[De Corpore]]'', which contained not only tendentious views on mathematics but also an erroneous proof of the [[squaring of the circle]]. This all led mathematicians to target him for [[polemics]] and sparked [[John Wallis]] to become one of his most persistent opponents. From 1655, the publishing date of ''De Corpore'', Hobbes and Wallis continued name-calling and bickering for nearly a quarter century, with Hobbes failing to admit his error to the end of his life.<ref name="Wallis">{{cite web | last = Boyd | first = Andrew | title = HOBBES AND WALLIS | work = Episode 2372 | publisher = [[The Engines of Our Ingenuity]] | date = 2008 | url = https://www.uh.edu/engines/epi2372.htm  | access-date = 2020-11-14 }}</ref> After years of debate, the spat over proving the squaring of the circle gained such notoriety that it has become one of the most infamous feuds in mathematical history.
+
+==Religious views==
+
+Hobbes was accused of [[atheism]] by several contemporaries; Bramhall accused him of teachings that could lead to atheism. This was an important accusation, and Hobbes himself wrote, in his answer to Bramhall's ''The Catching of Leviathan'', that "atheism, impiety, and the like are words of the greatest defamation possible".<ref>p. 282 of Molesworth's edition.</ref> Hobbes always defended himself from such accusations.<ref>{{cite book|last=Martinich|first=A. P.|title=A Hobbes Dictionary|location=Cambridge|publisher=Blackwell|date=1995|page=35}}</ref> In more recent times also, much has been made of his religious views by scholars such as Richard Tuck and [[J. G. A. Pocock]], but there is still widespread disagreement about the exact significance of Hobbes's unusual views on religion.
+
+As Martinich has pointed out, in Hobbes's time the term "atheist" was often applied to people who believed in God but not in [[divine providence]], or to people who believed in God but also maintained other beliefs that were considered to be inconsistent with such belief. He says that this "sort of discrepancy has led to many errors in determining who was an atheist in the [[early modern period]]".<ref>{{cite book|last=Martinich|first=A. P.|title=A Hobbes Dictionary|location=Cambridge|publisher=Blackwell|date=1995|page=31}}</ref> In this extended early modern sense of atheism, Hobbes did take positions that strongly disagreed with church teachings of his time. For example, he argued repeatedly that there are no incorporeal substances, and that all things, including human thoughts, and even God, heaven, and hell are corporeal, matter in motion. He argued that "though Scripture acknowledge spirits, yet doth it nowhere say, that they are incorporeal, meaning thereby without dimensions and quantity".<ref>''Human Nature'' I.XI.5.</ref> (In this view, Hobbes claimed to be following [[Tertullian]].) Like [[John Locke]], he also stated that true [[revelation]] can never disagree with human reason and experience,<ref>''Leviathan'' III.xxxii.2. "...we are not to renounce our Senses, and Experience; nor (that which is undoubted Word of God) our naturall Reason".</ref> although he also argued that people should accept revelation and its interpretations for the reason that they should accept the commands of their sovereign, in order to avoid war.
+
+While in Venice on tour, Hobbes made the acquaintance of Fulgenzio Micanzio, a close associate of Paolo Sarpi, who had written against the pretensions of the papacy to temporal power in response to the [[Venetian Interdict|Interdict]] of [[Pope Paul V]] against [[Republic of Venice|Venice]], which refused to recognise papal prerogatives. James I had invited both men to England in 1612. Micanzio and Sarpi had argued that God willed human nature, and that human nature indicated the autonomy of the state in temporal affairs. When he returned to England in 1615, William Cavendish maintained correspondence with Micanzio and Sarpi, and Hobbes translated the latter's letters from Italian, which were circulated among the Duke's circle.<ref name=Sommerville/>
+
+== Works ==
+* 1602. Latin translation of Euripides' ''[[Medea (play)|Medea]]'' (lost).
+* 1620. "A Discourse of Tacitus", "A Discourse of Rome", and "A Discourse of Laws." In ''The Horae Subsecivae: Observation and Discourses''.<ref>[[Noel B. Reynolds|Reynolds, Noel B.]] and Arlene W. Saxonhouse, eds. 1995. ''[https://books.google.com/books?id=vPD5QjS6OCIC Three Discourses: A Critical Modern Edition of Newly Identified Work of the Young Hobbes]''. Chicago: [[University of Chicago Press]]. {{ISBN|978-0-226-34545-1}}.</ref>
+* 1626. "De Mirabilis Pecci, Being the Wonders of the Peak in Darby-shire" (publ. 1636) — a poem on the [[Seven Wonders of the Peak]]
+* 1629. ''Eight Books of the Peloponnesian Warre'', translation with an Introduction of [[Thucydides]], ''[[History of the Peloponnesian War]]''
+* 1630. ''A Short Tract on First Principles''.<ref>Hobbes, Thomas. 1630. ''A Short Tract on First Principles'', [[British Museum]], [[Harleian MS]] 6796, ff. 297–308.</ref><ref>Bernhardt, Jean. 1988. ''Court traité des premiers principes''. Paris: [[Presses Universitaires de France|PUF]]. (Critical edition with commentary and French translation).</ref>
+** Authorship doubtful, as this work is attributed by important critics to [[Robert Payne (natural philosopher)|Robert Payne]].<ref>Timothy Raylor, Franco Giudice, Stephen Clucas, and [[Noel Malcolm]] vote for Robert Payne. [[:it:Karl Schuhmann|Karl Schuhmann]], Cees Leijenhorst, Guilherme Rodrigues Neto, and Frank Horstmann vote for Thomas Hobbes. On arguments pro Payne see Timothy Raylor, ''Hobbes, Payne, and 'A Short Tract on First Principles' '' (''The Historical Journal'', 44, 2001, pp. 29–58) and Noel Malcolm, ''Robert Payne, the Hobbes Manuscripts, and the 'Short Tract' '' (in: ''Aspects of Hobbes''. Oxford: Oxford University Press, 2002, pp. 80–145). On arguments pro Hobbes see Karl Schuhmann, ''Le 'Short Tract', première oeuvre philosophique de Hobbes'' (''Hobbes Studies'', 8, 1995, pp. 3-36.) and Frank Horstmann, ''Der Grauvließer. Robert Payne und Thomas Hobbes als Urheber des 'Short Tract' '' (Berlin: epubli, 2020, {{ISBN|978-3-752952-92-6}}.)</ref>
+* 1637. ''A Briefe of the Art of Rhetorique''<ref>Harwood, John T., ed. 1986. ''The Rhetorics of Thomas Hobbes and Bernard Lamy''. Carbondale: [[Southern Illinois University Press]]. (Provides a new edition of the work).</ref>
+** Molesworth edition title: ''The Whole Art of Rhetoric''.
+** Authorship probable: While Schuhmann (1998) firmly rejects the attribution of this work to Hobbes,<ref>{{cite journal|last=Schuhmann|first=Karl|date=1998|title=Skinner's Hobbes|journal=British Journal for the History of Philosophy|volume=6|issue=1|page=115|doi=10.1080/09608789808570984}} p. 118.</ref> a preponderance of scholarship disagrees with Schuhmann's idiosyncratic assessment. Schuhmann disagrees with historian [[Quentin Skinner]], who would come to agree with Schuhmann.<ref>[[Quentin Skinner|Skinner, Quentin]]. [2002] 2012. ''Hobbes and Civil Science'', (''Visions of Politics'' 3). Cambridge: [[Cambridge University Press]]. {{Doi|10.1017/CBO9780511613784}}. (Skinner affirms Schuhmann's view: p. 4, fn. 27.)</ref><ref>[[Ioannis D. Evrigenis|Evrigenis, Ioannis D.]] 2016. ''[http://www.cambridge.org/gb/academic/subjects/politics-international-relations/political-theory/images-anarchy-rhetoric-and-science-hobbess-state-nature?format=PB Images of Anarchy: The Rhetoric and Science in Hobbes's State of Nature]''. Cambridge: [[Cambridge University Press]]. p. 48, n. 13. (Provides a summary of this confusing episode, as well as most relevant literature.)</ref>
+* 1639. ''Tractatus opticus II'' (also known as ''Latin Optical Manuscript'')<ref>Hobbes, Thomas. 1639. ''Tractatus opticus II''. vis [[British Library]], [[Harley MS]] 6796, ff. 193–266.</ref><ref>First complete edition: 1963. For this dating, see the convincing arguments given by: Horstmann, Frank. 2006. ''Nachträge zu Betrachtungen über Hobbes' Optik''. Berlin: Mackensen. {{ISBN|978-3-926535-51-1}}. pp. 19–94.</ref>
+* 1640. ''Elements of Law, Natural and Politic'' 
+** Initially circulated only in handwritten copies; without Hobbes's permission, the first printed edition would be in 1650.
+* 1641. ''Objectiones ad Cartesii Meditationes de Prima Philosophia'' — 3rd series of Objections
+* 1642. ''[[De Cive|Elementorum Philosophiae Sectio Tertia de Cive]]'' (Latin, 1st limited ed.).
+* 1643. ''De Motu, Loco et Tempore<ref>A critical analysis of Thomas White (1593–1676) ''De mundo dialogi tres'', Parisii, 1642.</ref>''
+** First edition (1973) with the title: ''Thomas White's De Mundo Examined''
+* 1644. Part of the "Praefatio to Mersenni Ballistica." In ''F. Marini Mersenni minimi Cogitata physico-mathematica. In quibus tam naturae quàm artis effectus admirandi certissimis demonstrationibus explicantur''.
+* 1644. "Opticae, liber septimus" (also known as ''Tractatus opticus I'' written in 1640). In ''Universae geometriae mixtaeque mathematicae synopsis'', edited by [[Marin Mersenne]].
+** Molesworth edition (OL V, pp.&nbsp;215–48) title: "Tractatus Opticus"
+* 1646. ''A Minute or First Draught of the Optiques''<ref>Hobbes, Thomas. 1646. ''A Minute or First Draught of the Optiques'' via [[Harley MS]] 3360.</ref>
+** Molesworth published only the dedication to Cavendish and the conclusion in EW VII, pp.&nbsp;467–71.
+* 1646. ''Of Liberty and Necessity'' (publ. 1654)
+** Published without the permission of Hobbes
+* 1647. ''Elementa Philosophica de Cive''
+** Second expanded edition with a new ''Preface to the Reader''
+* 1650. ''Answer to Sir William Davenant's Preface before [[Gondibert]]''
+* 1650. ''Human Nature: or The fundamental Elements of Policie'' 
+** Includes first thirteen chapters of ''The Elements of Law, Natural and Politic''
+** Published without Hobbes's authorisation
+* 1650. ''The Elements of Law, Natural and Politic'' (pirated ed.)
+** Repackaged to include two parts:
+*** "Human Nature, or the Fundamental Elements of Policie," ch. 14–19 of ''Elements'', Part One (1640)
+*** "De Corpore Politico", ''Elements'', Part Two (1640)
+* 1651. ''Philosophicall Rudiments concerning Government and Society'' — English translation of ''De Cive''<ref>Modern scholars are divided as to whether or not this translation was done by Hobbes. For a pro-Hobbes account see H. Warrender's introduction to ''De Cive: The English Edition'' in ''The Clarendon Edition of the Works of Thomas Hobbes'' (Oxford, 1984). For the contra-Hobbes account see Noel Malcolm, "Charles Cotton, Translator of Hobbes's De Cive" in ''Aspects of Hobbes'' (Oxford, 2002)</ref>
+* 1651. ''[[Leviathan (Hobbes book)|Leviathan, or the Matter, Forme, and Power of a Commonwealth, Ecclesiasticall and Civil]]''
+* 1654. ''Of Libertie and Necessitie, a Treatise''
+* 1655. ''[[De Corpore]]'' (in Latin)
+* 1656. ''Elements of Philosophy, The First Section, Concerning Body'' — anonymous English translation of ''De Corpore''
+* 1656. ''Six Lessons to the Professor of Mathematics''
+* 1656. ''The Questions concerning Liberty, Necessity and Chance'' — reprint of ''Of Libertie and Necessitie, a Treatise'', with the addition of Bramhall's reply and Hobbes's reply to Bramahall's reply.
+* 1657. ''Stigmai, or Marks of the Absurd Geometry, Rural Language, Scottish Church Politics, and Barbarisms of John Wallis''
+* 1658. ''Elementorum Philosophiae Sectio Secunda De Homine''
+* 1660. ''Examinatio et emendatio mathematicae hodiernae qualis explicatur in libris Johannis Wallisii''
+* 1661. ''Dialogus physicus, sive De natura aeris''
+* 1662. ''Problematica Physica'' 
+** English translation titled: ''Seven Philosophical Problems'' (1682)
+* 1662. ''Seven Philosophical Problems, and Two Propositions of Geometry'' — published posthumously
+* 1662. ''Mr. Hobbes Considered in his Loyalty, Religion, Reputation, and Manners. By way of Letter to Dr. Wallis'' — English autobiography
+* 1666. ''De Principis & Ratiocinatione Geometrarum''
+* 1666. ''A Dialogue between a Philosopher and a Student of the Common Laws of England'' (publ. 1681)
+* 1668.  ''[[Leviathan (Hobbes book)|Leviathan]]'' — Latin translation
+* 1668. ''An answer to a book published by Dr. Bramhall, late bishop of Derry; called the Catching of the leviathan. Together with an historical narration concerning heresie, and the punishment thereof'' (publ. 1682)
+* 1671. ''Three Papers Presented to the Royal Society Against Dr. Wallis. Together with Considerations on Dr. Wallis his Answer to them''
+* 1671. ''Rosetum Geometricum, sive Propositiones Aliquot Frustra antehac tentatae. Cum Censura brevi Doctrinae Wallisianae de Motu''
+* 1672. ''Lux Mathematica. Excussa Collisionibus Johannis Wallisii''
+* 1673. English translation of [[Homer]]'s ''[[Iliad]]'' and ''[[Odyssey]]''
+* 1674. ''Principia et Problemata Aliquot Geometrica Antè Desperata, Nunc breviter Explicata & Demonstrata''
+* 1678. ''Decameron Physiologicum: Or, Ten Dialogues of Natural Philosophy''
+* 1679. ''Thomae Hobbessii Malmesburiensis Vita. Authore seipso'' — Latin autobiography
+** Translated into English in 1680
+
+=== Posthumous works ===
+* 1680. ''An Historical Narration concerning Heresie, And the Punishment thereof''
+* 1681. ''[[Behemoth (Hobbes book)|Behemoth, or The Long Parliament]]''
+** Written in 1668, it was unpublished at the request of the King
+** First pirated edition: 1679
+* 1682. ''Seven Philosophical Problems'' (English translation of ''Problematica Physica'', 1662)
+* 1682. ''A Garden of Geometrical Roses'' (English translation of ''Rosetum Geometricum'', 1671)
+* 1682. ''Some Principles and Problems in Geometry'' (English translation of ''Principia et Problemata'', 1674)
+* 1688. ''Historia Ecclesiastica Carmine Elegiaco Concinnata''
+
+=== Complete editions ===
+
+==== Molesworth editions ====
+Editions compiled by William Molesworth.
+{| class="wikitable"
+|+''Thomae Hobbes Malmesburiensis Opera Philosophica quae Latina Scripsit'', 5 vols. 1839–1845. London: Bohn.
+<small>Reprint: Aalen, 1966 (= OL)</small>
+!Volume
+!Featured works
+|-
+|[[iarchive:operaphilosophi04molegoog|Volume I]]
+|Elementorum Philosophiae I: ''De Corpore''
+|-
+|[[iarchive:operaphilosophi00molegoog|Volume II]]
+|Elementorum Philosophiae II and III: ''De Homine'' and ''De Cive''
+|-
+|[[iarchive:operaphilosophi03molegoog|Volume III]]
+|Latin version of ''Leviathan''.
+|-
+|[[iarchive:operaphilosophi01molegoog|Volume IV]]
+|Various concerning mathematics, geometry and physics
+|-
+|[[iarchive:operaphilosophi02molegoog|Volume V]]
+|Various short works.
+|}
+{| class="wikitable"
+|+''The English Works of Thomas Hobbes of Malmesbury'', 11 vols. 1839–1845. London: Bohn.
+<small>Reprint: London, 1939–; Aalen, 1966 (= EW)</small>
+!style="width: 10%" | Volume
+!Featured Works
+|-
+|[[iarchive:englishworkstho21hobbgoog|Volume 1]]
+|''[[De Corpore]]'' translated from Latin to English.
+|-
+|[[iarchive:englishworksofth029501mbp|Volume 2]]
+|''[[De Cive]]''.
+|-
+|[http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php%3Ftitle=585&Itemid=27 Volume 3]
+|''The Leviathan''
+|-
+|[[iarchive:englishworksofth029531mbp|Volume 4]]
+|{{Bulleted list|TRIPOS ; in Three Discourses: {{Ordered list||list_style_type=upper-roman|Human Nature, or the Fundamental Elements of Policy|De Corpore Politico, or the Elements of Law|Of Liberty and Necessity}}|An Answer to Bishop Bramhall's Book, called "The Catching of the Leviathan"|An Historical Narration concerning Heresy, and the Punishment thereof|Considerations upon the Reputation, Loyalty, Manners, and Religion of Thomas Hobbes|Answer to Sir William Davenant's Preface before "Gondibert"|Letter to the Right Honourable Edward Howard}}<br />
+|-
+|[[iarchive:englishworksofth029527mbp|Volume 5]]
+|''The Questions concerning Liberty, Necessity and Chance, clearly stated and debated between Dr Bramhall Bishop of Derry and Thomas Hobbes of Malmesbury''.
+|-
+|[http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php%3Ftitle=770&Itemid=27 Volume 6].
+|
+* ''A Dialogue Between a Philosopher & a Student of the Common Laws of England''
+* ''A Dialogue of the Common Law''
+* ''Behemoth: the History of the Causes of the Civil Wars of England, and of the Counsels and Artifices By Which They Were Carried on From the Year 1640 to the Year 1660''
+* ''The Whole Art of Rhetoric'' (Hobbes's translation of his own Latin summary of Aristotle's Rhetoric published in 1637 with the title ''A Briefe of the Art of Rhetorique'')
+* ''The Art of Rhetoric Plainly Set Forth. With Pertinent Examples For the More Easy Understanding and Practice of the Same'' (this work is not of Hobbes but by Dudley Fenner, ''The Artes of Logike and Rethorike'', 1584)
+* ''The Art of Sophistry''
+|-
+|[[iarchive:englishworksofth029755mbp|Volume 7]].
+|
+*Seven Philosophical Problems
+*Decameron Physiologicum
+*Proportion of a straight line to half the arc of a quadrant
+*Six lessons to the Savilian Professors of the Mathematics
+*ΣΤΙΓΜΑΙ, or Marks of the absurd Geometry etc. of Dr Wallis
+*Extract of a letter from Henry Stubbe
+*Three letters presented to the [[Royal Society]] against Dr Wallis
+*Considerations on the answer of Dr Wallis
+*Letters and other pieces
+|-
+|[http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php%3Ftitle=771&Itemid=27 Volume 8]
+| rowspan="2" |''[[The Peloponnesian War]]'' by [[Thucydides]], translated into English by Hobbes.
+|-
+|[http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php%3Ftitle=772&Itemid=27 Volume 9]
+|-
+|[http://oll.libertyfund.org/titles/homer-the-english-works-vol-x-iliad-and-odyssey Volume 10]
+|''[[The Iliad]]'' and ''[[The Odyssey]]'', translated by Hobbes into English
+|-
+|[[iarchive:englishworksofth029530mbp|Volume 11]]
+|Index
+|}
+
+==== Posthumous works not included in the Molesworth editions ====
+{| class="wikitable"
+!Work
+!Published year
+!Editor
+!Notes
+|-
+|''The Elements of Law, Natural and Politic'' (1st complete ed.)
+| rowspan="3" |London: 1889
+| rowspan="3" |[[Ferdinand Tönnies]], with a preface and critical notes
+|
+|-
+|"Short Tract on First Principles."<ref>critical edition: ''Court traité des premiers principes'', text, French translation and commentary by Jean Bernhardt, Paris: PUF, 1988</ref>
+
+<small>Pp.&nbsp;193–210 in ''Elements'', Appendix I.</small>
+|Attributed by important critics to Robert Payne
+|-
+|''Tractatus opticus II''  (1st partial ed.)
+<small>pp.&nbsp;211–26 in ''Elements'', Appendix II.</small>
+|1639, British Library, Harley MS 6796, ff. 193–266
+|-
+|''Tractatus opticus II'' (1st complete ed.)
+
+<small>Pp.&nbsp;147–228 in ''Rivista critica di storia della filosofia'' 18</small>
+|1963
+|Franco Alessio
+|Omits the diagrams
+|-
+|''Critique du 'De mundo' de Thomas White''
+|Paris: 1973
+|Jean Jacquot and Harold Whitmore Jones
+|Includes three appendixes:
+
+* ''De Motibus Solis, Aetheris & Telluris'' (pp.&nbsp;439–47: a Latin poem on the movement of the Earth).
+* Notes in English on an ancient redaction of some chapters of ''De Corpore'' (July 1643; pp.&nbsp;448–60: MS 5297, National Library of Wales).
+* Notes for the ''Logica'' and ''Philosophia prima'' of the ''De Corpore'' (pp.&nbsp;461–513: Chatsworth MS A10 and the notes of Charles Cavendish on a draft of the ''De Corpore'': British Library, Harley MS 6083).
+|-
+|''Of the Life and History of Thucydides''
+
+<small>Pp.&nbsp;10–27 in ''Hobbes's Thucydides''</small>
+|New Brunswick: 1975
+|Richard Schlatter
+|
+|-
+|''Three Discourses: A Critical Modern Edition of Newly Identified Work of the Young Hobbes'' (TD)
+
+<small>Pp.&nbsp;10–27 in ''Hobbes's Thucydides''</small>
+|Chicago: 1975
+|Noel B. Reynolds and Arlene Saxonhouse
+|Includes:
+
+* ''A Discourse upon the Beginning of Tacitus'' pp.&nbsp;31–67.
+*''A Discourse of Rome'', pp.&nbsp;71–102.
+*''A Discourse of Law'', pp.&nbsp;105–19.
+|-
+|''Thomas Hobbes' A Minute or First Draught of the Optiques'' (critical ed.)
+|University of Wisconsin-Madison: 1983
+|Elaine C. Stroud
+|British Library, Harley MS 3360
+
+PhD dissertation
+|-
+|''Of Passions''
+
+<small>Pp.&nbsp;729–38 in ''Rivista di storia della filosofia'' 43</small>
+|1988
+|Anna Minerbi Belgrado
+|Edition of the unpublished manuscript Harley 6093
+|-
+|''The Correspondence of Thomas Hobbes'' (I: 1622–1659; II: 1660–1679)
+
+<small>''Clarendon Edition'', vol. 6–7</small>
+|Oxford: 1994 
+|Noel Malcolm
+|
+|}
+
+=== Translations in modern English ===
+* ''De Corpore, Part I. Computatio Sive Logica''. Edited with an Introductory Essay by L C. Hungerland and G. R. Vick. Translation and Commentary by A. Martinich. New York: Abaris Books, 1981.
+* ''Thomas White's De mundo Examined'', translation by H. W. Jones, Bradford: Bradford University Press, 1976 (the appendixes of the Latin edition (1973) are not enclosed).
+
+=== New critical editions of Hobbes's works ===
+* ''Clarendon Edition of the Works of Thomas Hobbes'', Oxford: Clarendon Press (10 volumes published of 27 planned).
+* ''Traduction des œuvres latines de Hobbes'', under the direction of Yves Charles Zarka, Paris: Vrin (5 volumes published of 17 planned).
+
+==See also==
+* {{slink|Natural and legal rights|Thomas Hobbes}}
+* {{slink|Natural law|Hobbes}}
+* [[Hobbesian trap]]
+* {{slink|Conatus|In Hobbes}}
+* [[Joseph Butler]]
+* [[Hobbes's moral and political philosophy]]
+* ''[[Leviathan and the Air-Pump]]''
+
+==References==
+===Citations===
+{{Reflist|32em}}
+
+===Sources===
+*{{Gutenberg|no=39232 |name="Hinduism" to "Home, Earls of"}}
+
+'''Attribution:'''
+* {{EB1911 |last=Robertson |first=George Croom |author2=Anonymous texts |wstitle=Hobbes, Thomas|volume=13|pages=545–552 |ref={{harvid|Robertson|1911}} }}
+
+==Further reading==
+
+===General resources===
+* MacDonald, Hugh & Hargreaves, Mary. ''Thomas Hobbes, a Bibliography'', London: The Bibliographical Society, 1952.
+* Hinnant, Charles H. (1980). ''Thomas Hobbes: A Reference Guide'', Boston: G. K. Hall & Co.
+* Garcia, Alfred (1986). ''Thomas Hobbes: bibliographie internationale de 1620 à 1986'', Caen: Centre de Philosophie politique et juridique Université de Caen.
+
+===Critical studies===
+* Brandt, Frithiof (1928). ''Thomas Hobbes' Mechanical Conception of Nature'', Copenhagen: Levin & Munksgaard.
+* Jesseph, Douglas M. (1999). ''Squaring the Circle. The War Between Hobbes and Wallis'', Chicago: University of Chicago Press.
+* Leijenhorst, Cees (2002). ''The Mechanisation of Aristotelianism. The Late Aristotelian Setting of Thomas Hobbes' Natural Philosophy'', Leiden: Brill.
+* Lemetti, Juhana (2011). ''Historical Dictionary of Hobbes's Philosophy'', Lanham: Scarecrow Press.
+* [[C. B. Macpherson|Macpherson, C. B.]] (1962). ''The Political Theory of Possessive Individualism: Hobbes to Locke'', Oxford: [[Oxford University Press]].
+* [[Noel Malcolm|Malcolm, Noel]] (2002). ''Aspects of Hobbes'', New York: Oxford University Press.
+* MacKay-Pritchard, Noah (2019). "Origins of the State of Nature", London
+* Malcolm, Noel (2007). ''Reason of State, Propaganda, and the Thirty Years' War: An Unknown Translation by Thomas Hobbes'', New York: Oxford University Press.
+* [[Pierre Manent|Manent, Pierre]] (1996). ''An Intellectual History of Liberalism'', Princeton: Princeton University Press.
+* [[A.P. Martinich|Martinich, A. P.]] (2003) "Thomas Hobbes" in ''The Dictionary of Literary Biography, Volume 281: British Rhetoricians and Logicians, 1500–1660, Second Series'', Detroit: [[Gale (publisher)|Gale]], pp.&nbsp;130–44.
+* Martinich, A. P. (1995). ''A Hobbes Dictionary'', Cambridge: Blackwell.
+* Martinich, A. P. (1997).  ''Thomas Hobbes'', New York: [[St. Martin's Press]].
+* Martinich, A. P. (1992). ''The Two Gods of Leviathan: Thomas Hobbes on Religion and Politics'', Cambridge: [[Cambridge University Press]].
+* Martinich, A. P. (1999). ''Hobbes: A Biography'', Cambridge: Cambridge University Press.
+* {{cite encyclopedia |last1=Narveson |first1= Jan|author-link1= Jan Narveson|last2=Trenchard |first2= David |editor-first=Ronald |editor-last=Hamowy |editor-link=Ronald Hamowy |encyclopedia=The Encyclopedia of Libertarianism |title=  Hobbes, Thomas (1588–1679) |chapter-url=https://books.google.com/books?id=yxNgXs3TkJYC |year=2008 |publisher= [[SAGE Publications|SAGE]]; [[Cato Institute]] |location= Thousand Oaks, CA |doi= 10.4135/9781412965811.n137 |isbn= 978-1-4129-6580-4 |oclc=750831024| lccn = 2008009151 |pages=226–27 |chapter= Hobbes, Thomas (1588–1676)}}
+* [[Michael Oakeshott|Oakeshott, Michael]] (1975). [http://oll.libertyfund.org/title/668 ''Hobbes on Civil Association''], Oxford: [[Basil Blackwell]].
+* Parkin, Jon, (2007), ''Taming the Leviathan: The Reception of the Political and Religious Ideas of Thomas Hobbes in England 1640–1700'', [Cambridge: Cambridge University Press]
+* Pettit, Philip (2008). ''Made with Words. Hobbes on Language, Mind, and Politics'', Princeton: Princeton University Press.
+* Robinson, Dave and Groves, Judy (2003). ''Introducing Political Philosophy'', Icon Books. {{ISBN|978-1-84046-450-4}}.
+* Ross, George MacDonald (2009). ''Starting with Hobbes'', London: Continuum.
+* [[Steven Shapin|Shapin, Steven]] and [[Simon Schaffer|Schaffer, Simon]] (1995). ''[[Leviathan and the Air-Pump]].'' Princeton: [[Princeton University Press]].
+* [[Quentin Skinner|Skinner, Quentin]] (1996). ''Reason and Rhetoric in the Philosophy of Hobbes'', Cambridge: Cambridge University Press.
+* Skinner, Quentin (2002). ''Visions of Politics. Vol. III: Hobbes and Civil Science'', Cambridge: Cambridge University Press
+*Skinner, Quentin (2008). ''Hobbes and Republican Liberty'', Cambridge: Cambridge University Press.
+* Stomp, Gabriella (ed.) (2008). ''Thomas Hobbes'', Aldershot: Ashgate.
+* [[Leo Strauss|Strauss, Leo]] (1936). ''The Political Philosophy of Hobbes; Its Basis and Its Genesis'', Oxford: [[Clarendon Press]].
+* Strauss, Leo (1959). "On the Basis of Hobbes's Political Philosophy" in ''What Is Political Philosophy?'', Glencoe, IL: [[Free Press (publisher)|Free Press]], chap. 7.
+* [[Ferdinand Tönnies|Tönnies, Ferdinand]] (1925). ''Hobbes. Leben und Lehre'', Stuttgart: [[:de:Frommann-Holzboog Verlag|Frommann]], 3rd ed.
+* Tuck, Richard (1993). ''Philosophy and Government, 1572–1651'', Cambridge: Cambridge University Press.
+* Vélez, Fabio (2014). ''La palabra y la espada:  a vueltas con Hobbes'', Madrid: Maia.
+* Vieira, Monica Brito (2009). ''The Elements of Representation in Hobbes'', Leiden: [[Brill Publishers]].
+* [[Perez Zagorin|Zagorin, Perez]] (2009). ''Hobbes and the Law of Nature'', Princeton NJ: Princeton University Press.
+
+==External links==
+{{commons}}
+{{wikiquote}}
+{{wikisource author}}
+*{{NPG name}}
+* {{cite book |last= Montmorency |first= James E. G. de |chapter= Thomas Hobbes |editor1= Macdonell, John  |editor1-link = John_Macdonell_(judge)|editor2= Manson, Edward William Donoghue  |title= Great Jurists of the World |place= London |publisher=  John Murray |year=  1913 |pages= 195–219 |chapter-url=https://archive.org/details/in.ernet.dli.2015.13326/page/n217|access-date= 12 March 2019  |via= Internet Archive}}
+* {{Gutenberg author |id=Hobbes,+Thomas | name=Thomas Hobbes}}
+* {{Internet Archive author |sname=Thomas Hobbes}}
+* {{cite web |title= Thomas Hobbes |url=https://oll.libertyfund.org/people/thomas-hobbes |via= Online Library of Liberty |access-date= 29 March 2019}}
+* {{Librivox author |id=4335}}
+* [https://web.archive.org/web/20120125090843/http://www.philosophy.leeds.ac.uk/GMR/hmp/texts/modern/modindex.html Hobbes Texts] English translations by George Mac Donald Ross
+* [http://www.earlymoderntexts.com Contains Leviathan, lightly edited for easier reading]
+* [http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_3360 Thomas Hobbes, A minute or first Draught of the Optiques] at Digitised Manuscripts
+* [http://global.oup.com/academic/content/series/c/clarendon-edition-of-the-works-of-thomas-hobbes-cewth/?cc=it&lang=en& Clarendon Edition of the Works of Thomas Hobbes]
+* [http://www.pdcnet.org/pdc/BVDB.nsf/item?openform&product=publications&item=hobbes Richard A. Talaska (ed.), ''The Hardwick Library and Hobbes's Early Intellectual Development'']
+* [http://booksandjournals.brillonline.com/content/18750257 Hobbes studies] Online edition
+* [https://web.archive.org/web/20130908092835/http://www.archivesdephilo.com/bull.php Bulletin Hobbes] in the Journal Archives de Philosophie
+* [http://plato.stanford.edu/entries/hobbes/ Thomas Hobbes] at the [[Stanford Encyclopedia of Philosophy]]
+* [http://plato.stanford.edu/entries/hobbes-moral/ Hobbes's Moral and Political Philosophy] at the Stanford Encyclopedia of Philosophy
+* [http://www.iep.utm.edu/hobmeth/ Hobbes: Methodology] at the [[Internet Encyclopedia of Philosophy]]
+* [http://www.iep.utm.edu/h/hobmoral.htm Hobbes: Moral and Political Philosophy] at the Internet Encyclopedia of Philosophy
+* [http://www.wwnorton.com/college/english/nael/noa/pdf/27636_17th_U41_Aubrey-1-7.pdf A Brief Life of Thomas Hobbes, 1588–1679] by John Aubrey
+* [http://atheisme.free.fr/Biographies/Hobbes_e.htm A short biography of Thomas Hobbes]
+* [http://www.philosophypages.com/hy/3x.htm Hobbes] at The Philosophy pages
+* {{In Our Time|Thomas Hobbes|p003k9l1|Thomas_Hobbes}}
+* [https://www.bbc.co.uk/programmes/b018csyq Thomas Hobbes] nominated by [[Steven Pinker]] for the [[BBC Radio 4]] programme ''[[Great Lives]]''.
+
+{{Navboxes
+|list=
+{{Social and political philosophy}}
+{{philosophy of language}}
+{{jurisprudence}}
+{{philosophy of science}}
+{{Evolutionary psychology}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hobbes, Thomas}}
+[[Category:Thomas Hobbes| ]]
+[[Category:1588 births]]
+[[Category:1679 deaths]]
+[[Category:17th-century English writers]]
+[[Category:17th-century Latin-language writers]]
+[[Category:17th-century English male writers]]
+[[Category:17th-century English philosophers]]
+[[Category:Alumni of Magdalen Hall, Oxford]]
+[[Category:Atomists]]
+[[Category:Critics of Christianity]]
+[[Category:Critics of religions]]
+[[Category:Critics of the Catholic Church]]
+[[Category:Empiricists]]
+[[Category:English expatriates in France]]
+[[Category:English mathematicians]]
+[[Category:English physicists]]
+[[Category:English political philosophers]]
+[[Category:English social commentators]]
+[[Category:English theologians]]
+[[Category:Epistemologists]]
+[[Category:Founders of philosophical traditions]]
+[[Category:Materialists]]
+[[Category:Metaphysicians]]
+[[Category:Moral philosophers]]
+[[Category:Ontologists]]
+[[Category:People from Malmesbury]]
+[[Category:Philosophers of culture]]
+[[Category:Philosophers of education]]
+[[Category:Philosophers of ethics and morality]]
+[[Category:Philosophers of history]]
+[[Category:Philosophers of language]]
+[[Category:Philosophers of law]]
+[[Category:Philosophers of mathematics]]
+[[Category:Philosophers of mind]]
+[[Category:Philosophers of religion]]
+[[Category:Philosophers of science]]
+[[Category:Political philosophers]]
+[[Category:Political realists]]
+[[Category:Rhetoric theorists]]
+[[Category:Social critics]]
+[[Category:Social philosophers]]
+[[Category:Theorists on Western civilization]]

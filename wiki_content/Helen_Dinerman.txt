@@ -1,0 +1,137 @@
+{{Infobox scientist
+ | name              = Helen Schneider Dinerman
+ | image             = 
+ | image_size       = 
+ | caption           = 
+ | birth_date        = 25 December 1920
+ | birth_place       = [[New York City]], [[New York (state)|New York]]
+ | death_date        = {{death date and age|1974|8|14|1920|12|25}}
+ | death_place       = [[Portland, Oregon|Portland]], [[Oregon]]
+ | residence         = 
+ | citizenship       = 
+ | nationality       = [[United States|American]]
+ | ethnicity         = 
+ | field             = [[Sociology]]
+ | work_institutions = International Research Associates
+ | alma_mater        = [[Hunter College]]<br>[[Columbia University]]
+ | doctoral_advisor  = 
+ | doctoral_students = 
+ | known_for         = [[Public opinion]] research
+ | influences        = 
+ | influenced        = 
+ | prizes            = 
+ | religion          = 
+ | footnotes         = 
+ | signature         =
+}}
+'''Helen Schneider Dinerman''' (25 December 1920 – 14 August 1974) was an [[United States|American]] [[sociology|sociologist]] and [[public opinion]] researcher.<ref name="Berelson">
+{{cite journal
+ | last       = Berelson
+ | first      = Bernard
+ | authorlink = Bernard Berelson
+ | year       = 1974
+ | title      = In Memoriam: Helen Dinerman, 1920-1974
+ | journal    = [[Public Opinion Quarterly]]
+ | volume     = 38
+ | issue      = 4
+ | pages      = 640
+ | doi      = 10.1086/268192
+| jstor=2748137}}</ref>
+
+== Biography ==
+Born in [[New York City]] in 1920, Dinerman received her education at [[Hunter College]] and [[Columbia University]].<ref name="Berelson"/> Later, she worked as a researcher in the [[United States Office of War Information]]<ref name="News&Notes">
+{{cite journal
+ | author     = Bivins, Joseph T. (ed)
+ | year       = 1968
+ | title      = News and Notes
+ | journal    = [[Public Opinion Quarterly]]
+ | volume     = 32
+ | issue      = 3
+ | pages      = 525–31
+ | doi      = 10.1086/267633
+| jstor=2747654}}</ref>
+and trained at the [[Bureau for Applied Social Research]],<ref name="Berelson"/> the first academic research centre dedicated to [[survey research]],<ref>
+{{cite book
+ |author1=Church, Allan H. |author2=Janine Waclawski
+ | title      = Designing and Using Organizational Surveys 
+ | url        = https://books.google.com/books?id=zbnzeAR34LcC&q=%22Bureau+for+Applied+Social+Research%22&pg=PA6
+ | accessdate = 2008-01-01
+ | year       = 1998
+ | publisher  = Gower Publishing
+ | location   = 
+ | isbn       = 978-0-566-07975-7
+ | pages      = 6 }}</ref>
+founded by [[Paul Lazarsfeld]] in 1944.<ref>
+{{cite web
+ |url         = http://www.iserp.columbia.edu/about/
+ |title       = About ISERP
+ |accessdate  = 2008-01-01
+ |publisher   = [[Institute for Social and Economic Research and Policy]]
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20080213054517/http://www.iserp.columbia.edu/about/
+ |archivedate = 2008-02-13
+}}</ref>
+She became employed with the International Research Associates in 1948, and became Chairman of the firm's Executive Committee in 1968.<ref name="News&Notes"/>
+
+Dinerman died in [[Emanuel Hospital]]<ref>
+{{cite news
+ | title = Helen Dinerman, Opinion Analyst; Research Specialist Dies-Named to Head World Unit
+ | url = http://select.nytimes.com/gst/abstract.html?res=F30D13FD3A5E1A7493C5A81783D85F408785F9
+ | work = [[The New York Times]]
+ | page = 26
+ | date = 1974-08-17
+ | accessdate = 2008-01-01 }}</ref>
+in [[Portland, Oregon]] on 14 August 1974 while on holiday with her daughter.<ref name="Berelson"/>
+
+== Legacy ==
+In 1981, the [[World Association for Public Opinion Research]] established the Helen Dinerman Award – "in memory of Helen Dinerman's scientific achievements over three decades of public opinion research" – to recognize individuals who have made "significant contributions to survey research methodology".<ref>
+{{cite web
+ |url         = http://www.unl.edu/WAPOR/awards.html
+ |title       = Awards and Prizes
+ |accessdate  = 2008-01-01
+ |publisher   = [[World Association for Public Opinion Research]]
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20080102024431/http://www.unl.edu/WAPOR/awards.html
+ |archivedate = 2008-01-02
+}}</ref>
+
+== Selected publications ==
+* {{cite book
+ | author    = [[Paul Lazarsfeld|Lazarsfeld, Paul]], and Helen Dinerman
+ | editor    = Paul F. Lazarsfeld and Frank M. Stanton
+ | title     = Communications Research, 1948–49
+ | year      = 1949
+ | publisher = [[Harper & Brothers]]
+ | location  = [[New York City|New York]]
+ | pages     = 73–108
+ | chapter   = Research for Action }}
+* {{cite journal
+ |author1=Cooper, Eunice |author2=Helen Dinerman
+ | year    = 1951
+ | title   = Analysis of the Film "Don't Be a Sucker": A Study in Communication
+ | journal = [[Public Opinion Quarterly]]
+ | volume  = 15
+ | issue   = 2
+ | pages   = 243–64
+ | doi   = 10.1086/266306
+| jstor=2746167}}
+
+== References ==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Dinerman, Helen}}
+[[Category:1920 births]]
+[[Category:1974 deaths]]
+[[Category:American sociologists]]
+[[Category:Columbia University alumni]]
+[[Category:Hunter College alumni]]
+[[Category:People of the United States Office of War Information]]
+[[Category:American women sociologists]]
+[[Category:20th-century American women scientists]]
+[[Category:20th-century American scientists]]
+[[Category:20th-century American non-fiction writers]]
+
+
+{{US-sociologist-stub}}

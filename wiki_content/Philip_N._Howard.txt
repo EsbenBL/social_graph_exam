@@ -1,0 +1,106 @@
+{{Short description|Canadian sociologist}}
+{{Use Canadian English|date=July 2019}}
+{{Infobox academic
+| name        = Philip N. Howard
+| image       =
+| alt         = 
+| caption     = Howard at IPR Forum
+| birth_date  = {{birth date and age|1970|12|09}}
+| birth_place = [[Montreal]], Canada
+| death_date  = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place = 
+| occupation  = {{hlist|Author|Administrator|[[University of Oxford]] Professor}}
+| alma_mater  = 
+| discipline = [[Social Science]]
+| networth =
+| awards      = 
+| nationality =
+| spouse = 
+| children =
+| website = [http://www.philhoward.org/ www.philhoward.org/]
+| known_for   = {{ubl
+|[[politics and technology]]
+|[[political communication]]
+|network ethnography
+|astroturf
+|bots
+|computational propaganda
+}}
+}}
+
+'''Philip N. Howard''' is a [[sociologist]] and communication researcher who studies the impact of information technologies on [[democracy]] and [[social inequality]]. He studies how new information technologies are used in both civic engagement and social control in countries around the world.  He is Professor of Internet Studies at the [[Oxford Internet Institute]] and [[Balliol College]] at the [[University of Oxford]].<ref>https://www.oii.ox.ac.uk/people/philip-howard/</ref> He is the author of ten books, including ''New Media Campaigns and The Managed Citizen'', ''The Digital Origins of Dictatorship and Democracy'', and ''Pax Technica: How the Internet of Things May Set Us Free or Lock Us Up''.<ref>http://philhoward.org/about/</ref><ref>https://www.amazon.co.uk/Philip-N.-Howard/e/B001IU11FO/ref=sr_ntt_srch_lnk_1?qid=1515841317&sr=8-1</ref> His latest book is ''Lie Machines: How to Save Democracy from Troll Armies, Deceitful Robots, Junk News Operations, and Political Operatives''.<ref>https://www.washingtonpost.com/outlook/political-lies-arent-new-but-the-delivery-methods-are/2020/06/25/92bacf40-656a-11ea-845d-e35b0234b136_story.html</ref>
+
+==Research==
+
+His research has demonstrated that the diffusion of [[digital media]] has long-term, often positive, implications for democratic institutions.{{cn|date=July 2021}} Through [[information infrastructure]], some young democracies have become more entrenched and durable; some [[authoritarian]] regimes have made significant transitions towards democratic institutions and practices; and others have become less authoritarian and hybrid where information technologies support the work of particular actors such as [[Sovereign state|state]], [[political parties]], [[journalists]], or [[civil society]] groups.
+
+===Astroturf campaigns and fake news===
+
+Howard was one of the first to investigate the impact of digital media on political campaigning in advanced democracies, and he was the first political scientist to define and study "astroturf" political movements as the managed perception of grassroots support through [[astroturfing]] in his research on the Gore and Bush presidential campaigns.  [https://books.google.com/books/about/New_media_campaigns_and_the_managed_citi.html?id=5umWb7GM_jkC New Media Campaigns and the Managed Citizen] (2005) is about how politicians and lobbyists in the United States use the internet to manipulate the public and violate privacy.<ref>{{cite web |url=http://www.com.washington.edu/faculty/howard.html |title=Howard - Department of Communication, University of Washington |publisher=Com.washington.edu |date= |accessdate=December 7, 2011 |archive-url=https://web.archive.org/web/20111209133434/http://www.com.washington.edu/faculty/howard.html |archive-date=December 9, 2011 |url-status=dead }}</ref>  His research on technology and social change has been prescient. The subject's study of the [[2016 United States presidential election|2016 U.S. presidential election]] did not identify the Russian sources of disinformation that other investigations have alluded to,<ref>Stone, Peter and Gordon, Greg. (20 March 2017). "FBI’s Russian-influence probe includes a look at Breitbart, InfoWars news sites". [http://www.mcclatchydc.com/news/politics-government/white-house/article139695453.html McClatchy DC website] Retrieved 21 June 2017.</ref> though Howard later studied the disinformation campaigns launched by the [[Internet Research Agency]].<ref>{{Cite journal|last1=Howard|first1=Philip|last2=Ganesh|first2=Bharath|last3=Liotsiou|first3=Dimitra|last4=Kelly|first4=John|last5=François|first5=Camille|date=2019-10-01|title=The IRA, Social Media and Political Polarization in the United States, 2012-2018|url=https://digitalcommons.unl.edu/senatedocs/1|journal=U.S. Senate Documents}}</ref>
+
+===Digital media and the Arab Spring===
+
+Howard wrote presciently about the role of the internet in transforming Political Islam, and is the author of [https://books.google.com/books?id=lpBb2FiFIjUC&printsec=frontcover&dq=The+Digital+Origins+of+Dictatorship+and+Democracy&hl=en&ei=54PBTt_0A8OLsgK06aGRDw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC4Q6AEwAA#v=onepage&q&f=false ''The Digital Origins of Dictatorship and Democracy''] (2010) which argues that how states respond to new information technologies has become a defining feature of both democracy and authoritarianism.  Howard demonstrated that the internet was having an important impact on political Islam.  The book was published before the [[Arab Spring]], and shows how [[new social movements]] in [[North Africa]] and the [[Middle East]] were using [[social media]] to outmaneuver some of the region's dictators, partly because these regimes lacked effective responses to online evidence of their abuses.<ref>{{cite web|last=Rothman |first=Wilson |url=http://technolog.msnbc.msn.com/_news/2011/02/11/6035566-how-the-internet-brought-down-a-dictator |archive-url=https://web.archive.org/web/20110217001252/http://technolog.msnbc.msn.com/_news/2011/02/11/6035566-how-the-internet-brought-down-a-dictator |url-status=dead |archive-date=February 17, 2011 |title=Technolog - How the Internet brought down a dictator |publisher=Technolog.msnbc.msn.com |date= |accessdate=December 7, 2011}}</ref>  Using Charles Ragin's method of "[[qualitative comparative analysis]]" Howard investigated technology diffusion and political Islam and explained trends in many countries, with the exception of Tunisia and Egypt.  But very shortly the trends in social activism and political Islam he had identified appeared in those two countries as well in the "Arab Spring."
+
+[https://books.google.com/books/about/Democracy_s_Fourth_Wave.html?id=ayHOyrmmT8kC&redir_esc=y Democracy's Fourth Wave?] (2013), with Muzammil M. Hussain, suggests that turning off the Internet, as the Mubarak regime did on [[Timeline of the 2011 Egyptian revolution under Hosni Mubarak's rule|January 28, 2011]], actually strengthened the revolution by forcing people into the streets to seek information.<ref>{{cite web|url=https://www.cbsnews.com/stories/2011/01/29/eveningnews/main7297700.shtml |title=Egypt Cuts Off Communication amid Crisis |publisher=CBS News |date=January 29, 2011 |accessdate=December 7, 2011}}</ref> It sees events like the [[Arab Spring]] as "early signs of the next big wave of democratization. But this time, it will be wrestled into life in the digital living room of the global community."<ref>{{cite web|url=http://www.csmonitor.com/USA/2011/0510/In-Libya-perfecting-the-art-of-revolution-by-Twitter/%28page%29/2 |title=In Libya, perfecting the art of revolution by Twitter |publisher=CSMonitor.com |date=May 10, 2011 |accessdate=December 7, 2011}}</ref>  His research and commentary is regularly featured in the [[Mass media|media]], including recent contributions about [[media politics]] in the US, Hungary and around the world [[the New York Times]] and [[Washington Post]].<ref>{{cite web|url=https://www.nytimes.com/2014/09/09/opinion/hungarys-crackdown-on-the-press.html?_r=0 |title=Hungary's Crackdown on the Press |work=New York Times |date=September 8, 2014 |accessdate=December 20, 2014}}</ref><ref>{{cite web|url=https://www.washingtonpost.com/lifestyle/style/hashtagactivismmatters-some-experts-see-online-to-irl-change-in-police-protests/2014/12/14/4d943708-83d4-11e4-9534-f79a23c40e6c_story.html?tid=hpModule_1f58c93a-8a7a-11e2-98d9-3012c1cd8d1e |title=#HashtagActivismMatters: Some experts see online-to-IRL change in police protests |work=Washington Post |date=December 14, 2014 |accessdate=December 20, 2014}}</ref><ref>{{cite web|url=https://www.nytimes.com/2014/12/21/style/millennials-and-the-age-of-tumblr-activism.html |title=Millennials and the Age of Tumblr Activism |work=New York Times |date=December 19, 2014 |accessdate=December 20, 2014}}</ref>
+
+===Politics and the Internet of Things===
+
+In [https://books.google.com/books?id=qvC5BwAAQBAJ&pg=PA145&dq=pax+technica&hl=en&sa=X&ei=klFwVd78CIirsQGok4GwDg&ved=0CB8Q6AEwAA#v=onepage&q=pax%20technica&f=false Pax Technica] (2015) he argues that the [[Internet of Things]] will be the most important tool of political communication we have ever built.  He advocates for more public input in its design and more civic engagement with how this information infrastructure gets used.<ref>{{cite web|url=http://www.ft.com/intl/cms/s/0/035db35e-f3db-11e4-99de-00144feab7de.html#axzz3btAequH3 |title=Review: Pax Technica, by Philip Howard |publisher=Financial Times |date=May 20, 2015 |accessdate=June 5, 2015}}</ref>
+
+===Computational propaganda===
+
+In ''Lie Machines'' (2020) he surveyes the extent to which large-scale misinformation campaigns have shaped politics. He highlights the roots these developments have in propaganda but mobilizes contemporary data to argue that a host of technologies, techniques, and actors (e.g., AI bots, political activists, conspiracy theorists, national governments, and so forth) are innovating at a rapid pace. ''Lie Machines'' extends Howard's 2014 hypothesis that political elites in democracies would soon be using algorithms over social media to manipulate public opinion, a process he called "computational propaganda." Evidence from Russia, Myanmar, Hungary, Poland, Brazil, and of course the United States, documented in ''Lie Machines'' and scholarly articles and policy reports, further substantiate this hypothesis.<ref name="WaPoLM">{{Cite web |url=https://www.washingtonpost.com/outlook/political-lies-arent-new-but-the-delivery-methods-are/2020/06/25/92bacf40-656a-11ea-845d-e35b0234b136_story.html
+|title=Political lies aren't new, but the methods of spreading them are
+|last=Huq
+|first=Aziz
+|work=Washington Post
+|quote= a new tool kit for Web-based public lies has been tested by Russia and China, for use first at home and then against foreign foes. It is diffusing quickly to more nations. Howard counts five other countries — India, Iran, Pakistan, Saudi Arabia and Venezuela — that are using the same tool kit against overseas democratic publics. In 2020, there were 'organized social media misinformation teams' working for parties and governments in some 70 countries.
+|date=June 25, 2020
+|access-date=September 17, 2021}}</ref>
+
+For example, his research on political redlining, astroturf campaigns and fake news inspired a decade of work and became particularly relevant during the Brexit referendum and the 2016 U.S. Presidential Campaign.<ref>{{cite web|url=https://www.washingtonpost.com/news/the-intersect/wp/2016/10/19/one-in-four-debate-tweets-comes-from-a-bot-heres-how-to-spot-them/ |title=One in four debate tweets comes from a bot. Here's how to spot them. |work=Washington Post |date=October 19, 2016 |accessdate=January 29, 2016}}</ref><ref>{{cite web|url=https://www.nytimes.com/2016/11/18/technology/automated-pro-trump-bots-overwhelmed-pro-clinton-messages-researchers-say.html |title=Automated Pro-Trump Bots Overwhelmed Pro-Clinton Messages, Researchers Say |work=New York Times |date=November 17, 2016 |accessdate=January 29, 2016}}</ref>  His research has exposed the global impact of bots and trolls on public opinion.
+
+===Impact===
+As Director of the [https://demtech.oii.ox.ac.uk/ Democracy and Technology Programme] at the Oxford Internet Institute, Howard has contributed to more than 130 reports<ref>https://demtech.oii.ox.ac.uk/research/</ref> on computational propaganda, political communication, election interference, and the abuse of social media by politicians and foreign governments.<ref>{{Cite journal|url=https://doi.org/10.1080/10584609.2019.1663322|doi=10.1080/10584609.2019.1663322|title=Sourcing and Automation of Political News and Information over Social Media in the United States, 2016-2018|year=2020|last1=Bradshaw|first1=Samantha|last2=Howard|first2=Philip N.|last3=Kollanyi|first3=Bence|last4=Neudert|first4=Lisa-Maria|journal=Political Communication|volume=37|issue=2|pages=173–193|s2cid=210452697}}</ref><ref>{{Cite journal|url=https://doi.org/10.1093/joc/jqaa027|doi = 10.1093/joc/jqaa027|title = "Anything that Causes Chaos": The Organizational Behavior of Russia Today (RT)|year = 2020|last1 = Elswah|first1 = Mona|last2 = Howard|first2 = Philip N.|journal = Journal of Communication|volume = 70|issue = 5|pages = 623–645}}</ref> Like fellow Canadian researcher [[Ronald Deibert]] of the Citizen Lab, Howard's work is often critical of authoritarian regimes and the use of technology for political manipulation. Howard has testified before the UK Parliament, European Commission, and US Senate on election interference.<ref>https://www.intelligence.senate.gov/hearings/open-hearing-foreign-influence-operations%E2%80%99-use-social-media-platforms-third-party-expert</ref><ref>https://www.lse.ac.uk/iga/assets/documents/arena/2018/Report-Hearing-on-Preserving-Democracy-in-the-Digital-Age.pdf/</ref> 
+
+Howard is sometimes critiqued by the subjects of his research and investigations.  After a reporter presented one of the research findings from a report that Dr. Howard was listed as the Primary Investigator on, President [[Rodrigo Duterte]] said:  “Oxford University? That’s a school for stupid people.” <ref>{{cite web|url= https://www.independent.co.uk/news/education/education-news/oxford-university-philippines-president-rodrigo-duterte-for-stupid-people-trolls-social-media-a7862731.html |title=Oxford University is 'for stupid people', claims Philippines president |work=Washington Post |date= July 27, 2017|accessdate=February 20, 2020}}</ref> Erik Wemple in [[The Washington Post]] and Elizabeth Harrington in The Washington Free Beacon argue that his research is biased against those who voted for President [[Donald J. Trump]] . <ref>{{cite web|url= https://www.washingtonpost.com/blogs/erik-wemple/wp/2018/02/07/study-bashes-trumpites-for-promoting-junk-news-but-whats-that/ |title=Study bashes Trumpites for promoting 'junk' news. But what's that? |work=Washington Post |date= February 7, 2018|accessdate=February 20, 2020}}</ref> <ref>{{cite web|url= https://freebeacon.com/issues/the-oxford-study-saying-trump-supporters-share-more-fake-news-is-fake-news/ |title=The Oxford Study Saying Trump Supporters Share More Fake News Is Fake News |publisher= Washington Free Beacon|date=February 9, 2018|accessdate=February 20, 2020}}</ref>
+
+==Books==
+* Howard, Philip N. ''Lie Machines: How to Save Democracy from Troll Armies, Deceitful Robots, Junk News Operations, and Political Operatives''. Yale University Press, 2020.
+* Woolley, Samuel and Philip N. Howard. ''Computational Propaganda: Political Parties, Politicians, and Political Manipulation on Social Media.'' Oxford University Press, 2018.
+* Howard, Philip N. ''Pax Technica:  How the Internet of Things May Set Us Free or Lock Us Up''. Yale University Press, 2015.  Also published in German and Chinese.
+* Howard, Philip N. (editor). ''State Power 2.0:  Authoritarian Entrenchment and Civic Engagement Worldwide.'' Ashgate Press, 2013.
+* Howard, Philip N. (coauthor). ''Democracy's Fourth Wave? Digital Media and the Arab Spring.'' Oxford University Press, 2013.
+* Howard, Philip N.  ''Castells on the Media.''  Polity Press, 2011. 
+* Howard, Philip N.  ''The Digital Origins of Dictatorship and Democracy:  Information Technology and Political Islam.'' Oxford University Press, 2011. 
+* Howard, Philip N. (editor). ''Handbook of Internet Politics.'' Routledge, 2009. 
+* Howard, Philip N. ''New Media Campaigns and the Managed Citizen.'' Cambridge University Press, 2006.
+* Howard, Philip N. (editor). ''Society Online:  The Internet in Context.'' Sage, 2004.  Also published in Spanish.
+
+==Essays and journalism==
+* "Facebook and Twitter's Real Sin Goes Beyond Spreading Fake News," Reuters https://www.reuters.com/article/us-twitter-facebook-commentary-idUSKBN13W1WO
+* "Hungary's Crackdown on the Press," New York Times https://www.nytimes.com/2014/09/09/opinion/hungarys-crackdown-on-the-press.html?_r=0
+* "Let's Make Candidates Pledge Not to Use Bots," Reuters, [https://web.archive.org/web/20140106175102/http://blogs.reuters.com/great-debate/2014/01/02/lets-make-candidates-pledge-not-to-use-bots/]
+* "Politics won’t know what hit it: The Internet of Things is poised to change democracy itself," Politico, http://www.politico.com/agenda/story/2015/06/philip-howard-on-iot-transformation-000099
+* "Bots Unite to Automate the Presidential Election", Wired Magazine, https://www.wired.com/2016/05/twitterbots-2/
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.oii.ox.ac.uk/people/philip-howard/ Oxford University faculty page for Philip N. Howard ]
+* [http://www.philhoward.org/ Official website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Howard, Philip N.}}
+[[Category:Canadian academics]]
+[[Category:Canadian sociologists]]
+[[Category:Living people]]
+[[Category:University of Washington faculty]]
+[[Category:1970 births]]
+[[Category:Fellows of Balliol College, Oxford]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:Academics of the University of Oxford]]
+[[Category:Center for Advanced Study in the Behavioral Sciences fellows]]

@@ -1,0 +1,391 @@
+{{for|the English snooker player|Nigel Gilbert (snooker player)}}
+{{EngvarB|date=September 2014}}
+{{Use dmy dates|date=September 2014}}
+{{Infobox scientist
+|name              = Nigel Gilbert
+|image             = Nigel Gilbert at the 1st World Congress on Social Simulation, Kyoto, Japan, August 2006.jpg
+|image_size        = 200px
+|alt               = Nigel Gilbert at the 1st World Congress on Social Simulation, Kyoto, Japan, August 2006
+|caption           =
+|birth_date        = {{birth date and age|df=yes|1950|3|21}}
+|birth_name        = Geoffrey Nigel Gilbert
+|birth_place       =
+|death_date        =
+|death_place       =
+|residence         = [[Guildford]] ([[Surrey]]), United Kingdom
+|citizenship       =
+|nationality       = British
+|ethnicity         =
+|fields            = [[Computational sociology]], [[Complex systems|Complexity theory]], [[Sociology of science]]
+|workplaces        = [[University of Surrey]]
+|alma_mater        = [[University of Cambridge]]
+|doctoral_advisor  = [[Mike Mulkay|Michael Mulkay]]
+|academic_advisors =
+|thesis_title		= The development of science and scientific knowledge 
+|thesis_year		= 1976
+|doctoral_students =
+|notable_students  =
+|known_for         = [[Agent-based model]]s for the social sciences, [[Social simulation]]
+|author_abbrev_bot =
+|author_abbrev_zoo =
+|influences        =
+|influenced        =
+|awards            = [[CBE]] [[ScD]](Cantab), [[FBCS]], [[FRSA]], [[FAcSS]], [[FREng]]
+|religion          =
+|signature         = <!--(filename only)-->
+|signature_alt     =
+|footnotes         =
+}}
+'''Geoffrey Nigel Gilbert''' {{post-nominals|country=GBR|CBE|FBCS|FRSA|FAcSS|FREng}} (born 21 March 1950) is a British [[Sociology|sociologist]] and a pioneer in the use of [[agent-based model]]s in the [[social sciences]].<ref>{{Cite web
+  | last = Castellani
+  | first = Brian
+  | title = Map of Complexity Science
+  | year = 2009
+  | url= https://commons.wikimedia.org/wiki/File:Complexity-map-overview.png
+  | accessdate = 2 December 2009
+  | via = WikiMedia Commons}}</ref><ref>{{cite book
+  | last1 =Castellani
+  | first1 =Brian
+  | last2 =Hafferty
+  | first2 = Frederic William
+  | title = Sociology and Complexity Science: A New Field of Inquiry
+  | isbn = 978-3-540-88461-3
+  | pages = viii
+| date =4 February 2009
+ }}</ref> He is the founder and director of the ''Centre for Research in Social Simulation'' ([[University of Surrey]]), author of several books on [[computational sociology|computational social science]], [[social simulation]] and [[social research]] and past editor of the ''[[Journal of Artificial Societies and Social Simulation]]'' (JASSS), the leading journal in the field.
+
+==Career==
+A [[University of Cambridge|Cambridge]] engineering graduate ([[Emmanuel College, Cambridge|Emmanuel College]]), he turned to the [[sociology of scientific knowledge]] for his PhD under the direction of [[Mike Mulkay|Michael Mulkay]].  He was a lecturer at the [[University of York]] (1974–76) and then joined the [[University of Surrey]] where he became a professor in the Department of Sociology in 1991.<ref>{{Cite web
+ |last        = Debrett's
+ |title       = Authorized Biography of Prof Nigel Gilbert, FREng
+ |url         = http://www.debretts.com/people/biographies/search/results/20809/%28Geoffrey%29%20Nigel%20GILBERT.aspx
+ |accessdate  = 2 December 2009
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20120309021118/http://www.debretts.com/people/biographies/search/results/20809/(Geoffrey)%20Nigel%20GILBERT.aspx
+ |archivedate = 9 March 2012
+ |df          = dmy-all
+}}</ref>
+At the University of Surrey he founded the Social and Computer Sciences research group in 1984 with a grant from the [[Alvey Programme]]. The group focused on applying social science to the design of intelligent knowledge-based systems. Later he established the Centre for Research in Social Simulation (1997),<ref>{{Cite web
+  | last = University of Surrey
+  | title = Centre for Research in Social Simulation
+  | url= http://cress.soc.surrey.ac.uk/
+  | accessdate = 21 May 2016 }}</ref> and the Digital World Research Centre (1998).<ref>{{Cite press release
+  | title = Establishment of the Digital World Research Centre
+  | publisher = University of Surrey news release
+  | date = 23 September 1997
+  | url= http://www.surrey.ac.uk/news/releases/digital_world.html
+  | accessdate = 2 December 2009 }}</ref> He served as a Pro-Vice-Chancellor of the [[University of Surrey]] (1998–2005)<ref>{{Cite web
+  | last = CRESS Research Group
+  | title = CRESS director
+  | url = http://cress.soc.surrey.ac.uk/web/people/director-cress
+  | accessdate = 2 December 2009
+  | archive-url = https://web.archive.org/web/20100124021621/http://cress.soc.surrey.ac.uk/web/people/director-cress
+  | archive-date = 24 January 2010
+  | url-status = dead
+  }}</ref> and he is the current Director of its Institute of Advanced Studies.<ref>{{Cite web
+  | last = University of Surrey
+  | title = Institute of Advanced Studies
+  | url= http://www.ias.surrey.ac.uk/
+  | accessdate = 2 December 2009 }}</ref>
+In 2017, he was appointed a member of the Council of the [[Economic and Social Research Council]].<ref>{{cite web|last=ESRC|url=http://www.esrc.ac.uk/about-us/governance-and-structure/esrc-council/|title=Members of the ESRC Council|accessdate=24 March 2017}}</ref>
+
+==Work==
+
+===Sociology of scientific knowledge===
+Gilbert and Mulkay (1984) is a key contribution on the use of [[discourse analysis]] methods in the [[sociology of scientific knowledge]].<ref>{{cite journal
+ | doi = 10.1177/030631285015004007
+ | last1 = Tibbetts
+ | first1 = Paul
+ | last2 =Johnson
+ | first2 =Patricia
+ |date=November 1985
+ | title=The Discourse and Praxis Models in Recent Reconstructions of Scientific Knowledge Generation
+ | journal=Social Studies of Science
+ | volume=15
+ | issue=4
+ | pages =739–749
+| s2cid = 145613882
+ }}</ref><ref>{{cite book
+ | last=Wooffitt
+ | first=Robin
+ | year=2005
+ | title=Conversation Analysis and Discourse Analysis: A Comparative and Critical Introduction
+ | publisher=SAGE
+ | location=London
+ | isbn=0-7619-7426-1
+}}</ref> By applying discourse analysis to extensive qualitative data on a scientific dispute in the field of chemistry, Gilbert and Mulkay account for the social processes that underpin knowledge production, especially when consensus has not yet been established within the scientific community.
+
+===Secondary analysis of large government datasets===
+With [[Sara Arber]], he was a pioneer in the use for academic analysis of computer files of survey data collected by the [[Office of Population Censuses and Surveys]], a [[Secondary data|data source]] that has now become commonplace in sociology.<ref>{{cite journal
+ | doi=10.1177/0038038583017002006
+ | last1=Gilbert
+ | first1=G. Nigel
+ | last2=Arber
+ | first2=Sara|author2-link=Sara Arber
+ | last3= Dale
+ | first3=Angela|author3-link=Angela Dale
+ | year=1983
+ | title=The General Household Survey as a source for secondary analysis
+ | journal=Sociology
+ | volume=17
+ | pages=255–259
+ | issue=2
+| s2cid=144817171
+ }}</ref>
+
+===Access to social security information===
+The regulations determining what claimants of UK welfare benefits are entitled to (e.g. [[income support]], [[tax credits]], [[Disability Living Allowance]]) are complicated and often very difficult for claimants to apprehend unaided.  With the growing availability of personal computers in the 1980s, he realised that an interactive program, designed for claimants themselves to use, could be helpful.<ref>{{cite journal
+ | doi=10.1332/030557390782454602
+ | last1=Dawson
+ | first1=Patrick
+ | last2= Buckland
+ | first2=Sarah
+ | last3=Gilbert
+ | first3=Nigel
+ | year=1990
+ | title=Expert systems and the public provision of welfare benefit advice
+ | journal=Policy and Politics
+ | volume=18
+ | issue=1
+ | pages= 43–54
+}}</ref> He developed a prototype, which was taken up by both the then [[Department of Health and Social Security]] and [[Citizens Advice Bureau]]x, and which was the forerunner of the systems nowadays routinely used in advice centres.  This work also contributed to understanding the interface requirements for publicly accessible computer systems, using graphical interfaces and, later, speech dialogue interfaces
+.<ref>{{cite book
+ | last1=Luff
+ | first1=Paul
+ | last2=Gilbert
+ | first2=Nigel
+ | last3=Frohlich
+ | first3=David
+ | year=1990
+ | title=Computers and conversation
+ | publisher=Academic Press
+ | isbn=0-12-459560-X
+}}</ref>
+
+===Social simulation===
+Nigel Gilbert is one of the founders of modern [[computational sociology]], a discipline that merges social science research with [[Social simulation|simulation techniques]] with the goal of modelling complex policy issues and fundamental aspects of human societies. His first work in this area was a project on modelling the emergence of organised society in prehistoric France, with Jim Doran
+.<ref>{{cite book |last4=Mellars |first4=Paul|last3=Gilbert|first3=Nigel|last2=Palmer|first2=Mike|last1=Doran|first1=Jim |editor-last2=Doran |editor-first2=Jim|editor-last1=Gilbert |editor-first1=Nigel |title=Simulating Societies: the computer simulation of social phenomena |publisher=UCL Press |pages=195–223 |chapter=Chapter 9: The EOS Project: modelling Upper Palaeolithic social change |isbn=1-85728-082-2|year=1994}}</ref>  While this was only moderately successful, it led him to organise in 1992 the first of an influential series of workshops on 'Simulating Societies’
+<ref>{{cite book
+| last1=Gilbert
+| first1=Nigel
+| last2=Doran
+| first2=Jim
+| year=1994
+| title=Simulating Societies: the computer simulation of social phenomena
+| location=London
+| publisher=UCL Press
+| isbn=1-85728-082-2
+}}</ref>
+<ref>{{cite book
+| last1=Gilbert
+| first1=Nigel
+| last2=Conte
+| first2=Rosaria
+| year=1995
+| title=Artificial Societies: the computer simulation of social life
+| location=London
+| publisher=UCL Press
+| isbn=1-85728-305-8
+}}</ref> Later he established:
+* the [https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=simsoc SIMSOC] mailing list. In May 2016 the list had 1220 subscribers.
+* the ''[[Journal of Artificial Societies and Social Simulation]]'' (JASSS), which was launched in 1998 to provide a publication outlet for simulation-based research. Professor Gilbert was the editor until 2014.<ref>{{Cite web
+  | last = Journal of Artificial Societies and Social Simulation
+  | title = Editorial Board
+  | url = http://jasss.soc.surrey.ac.uk/admin/info.html
+  | accessdate = 2 December 2009}}</ref> JASSS is an online no-fee Open Access journal.<ref>{{Cite web
+  | last = Journal Info
+  | title = Journal of Artificial Societies and Social Simulation info
+  | url = http://jinfo.lub.lu.se/jinfo?func=fullRecord&jId=9617&issn=14607425
+  | accessdate = 2 December 2009
+  | archive-url = https://web.archive.org/web/20110726180929/http://jinfo.lub.lu.se/jinfo?func=fullRecord&jId=9617&issn=14607425
+  | archive-date = 26 July 2011
+  | url-status = dead
+  }}</ref>
+
+In 1997, CRESS received funding from the FAIR programme of the [[European Commission]] for a project called IMAGES: Improving agri-environmental policies–a simulation approach to the role of the cognitive properties of farmers and institutions (1997–2000).<ref>{{Cite web
+  | date = 31 December 2000
+  | title = European Project IMAGES
+  | url= http://wwwlisc.clermont.cemagref.fr/ImagesProject/default.asp
+  | accessdate = 2 December 2009 }}</ref> This was the first of many [[European Commission|Commission]] funded projects using social simulation to which he contributed
+,<ref>{{Cite web
+| last = University of Surrey
+| title = Prof Nigel Gilbert's page
+| url= http://www.surrey.ac.uk/sociology/people/nigel_gilbert/
+| accessdate = 21 May 2016 }}</ref> such as SEIN
+,<ref>{{Cite web
+| title = Simulating Self-Organising Innovation Networks (SEIN)
+| url= http://cordis.europa.eu/docs/publications/7088/70885301-6_en.pdf
+| accessdate = 21 May 2016 }}</ref> FIRMA
+,<ref>{{Cite web
+| title = Freshwater Integrated Resource Management with Agents
+| url= http://cfpm.org/firma/
+| accessdate = 21 May 2016 }}</ref> SIMWEB
+,<ref>{{Cite web
+| title = SimWEB
+| url= http://www.cimne.com/simweb/
+| accessdate = 21 May 2016 }}</ref> EMIL
+,<ref>{{Cite web
+| title = Emergence In the Loop
+| url= http://emil.istc.cnr.it/
+| accessdate = 21 May 2016 }}</ref> NEMO
+,<ref>{{Cite web
+| title = Network Models, Governance and R&D collaboration networks (NEMO)
+| url= http://cress.soc.surrey.ac.uk/web/projects/network-models-governance-and-rd-collaboration-networks-nemo
+| accessdate = 21 May 2016 }}</ref> NEWTIES
+,<ref>{{Cite web
+| title = New and Emergent World models Through Individual, Evolutionary, and Social Learning
+| url= http://www.new-ties.eu/
+| accessdate = 21 May 2016 }}</ref> PATRES
+,<ref>{{Cite web
+| title = PATRES: Pattern Resilience
+| url= http://www.patres-project.eu/index.php/Main_Page
+| accessdate = 21 May 2016 }}</ref> QLectives
+,<ref>{{Cite web
+| title = Quality Collectives
+| url= http://www.qlectives.eu/
+| accessdate = 21 May 2016 }}</ref> ePolicy
+,<ref>{{Cite web
+| title = Engineering the Policy Making Lifecycle
+| url= http://www.epolicy-project.eu/node
+| accessdate = 21 May 2016 }}</ref> TellMe
+,<ref>{{Cite web
+| title = Transparent communication in Epidemics: Learning Lessons from experience, delivering effective Messages, providing Evidence
+| url= http://www.tellmeproject.eu/
+| accessdate = 21 May 2016 }}</ref> GLODERS
+<ref>{{Cite web
+| title = Global Dynamics of Extortion Racket Systems
+| url= http://www.gloders.eu/
+| accessdate = 21 May 2016 }}</ref>
+and P2Pvalue
+.<ref>{{Cite web
+| title = Techno-social platform for sustainable models and value generation in commons-based peer production in the Future Internet
+| url= http://www.p2pvalue.eu/
+| accessdate = 21 May 2016 }}</ref>
+
+In 1999, Nigel Gilbert and [[Klaus G. Troitzsch]] published ''Simulation for the social scientist'',<ref>{{cite book|last1= Gilbert|first1= Nigel|last2= Troitzsch |first2=Klaus G.|title= Simulation for the social scientist|year=2005|orig-year=1999|publisher=Open University Press|location=Milton Keynes|isbn=0-335-21600-5}}</ref> the first "how to" text book on social simulation and, in 2008, ''Agent-based Models'',<ref>{{cite book|last=Gilbert|first=Nigel|year=2007|title=Agent-based models|publisher=Sage Publications|location=London|isbn=978-1-4129-4964-4}}</ref> now one of the standard references on agent-based modelling.
+
+===Other research and advisory activity===
+In 1993, Gilbert founded the journal ''Sociological Research Online''.<ref>{{Cite web
+  | title = Sociological Research Online
+  | url= http://www.socresonline.org.uk/home.html
+  | accessdate = 2 December 2009 }}</ref> This pioneered the use of the web as a medium for academic publication.<ref>{{cite journal
+| last1       = Peters
+| first1      = Stuart M.
+| last2      = Gilbert
+| first2     = G. Nigel
+| date       = 1997
+| title      = The electronic alternative: Sociological Research Online
+| journal    = Learned Publishing
+| volume     = 10
+| issue = 4
+| pages      = 339–343
+| doi = 10.1087/09531519750146824
+| s2cid = 45211311
+| doi-access= free
+}}</ref>  He is founding editor of ''Social Research Update'', a quarterly publication of the University of Surrey.<ref>{{Cite web
+  | last = University of Surrey
+  | title = Social Research Update
+  | url= http://sru.soc.surrey.ac.uk/
+  | accessdate = 2 December 2009 }}</ref>
+He and Stuart Peters created a journal management system, [https://web.archive.org/web/20200201154849/https://www.epress.ac.uk// epress], originally to make running ''Sociological Research Online'' and ''JASSS'' easier, but now available commercially and used by about 40 journals.
+
+In 2016, he became the Director of a newly established Centre for the Evaluation of Complexity Across the Nexus (CECAN)
+.<ref>{{Cite web
+| title = Centre for Evaluation of Complexity Across the Nexus
+| url= http://www.cecan.ac.uk/
+| accessdate = 21 May 2016 }}</ref>  The Centre, funded by the [[Economic and Social Research Council]] and the [[Natural Environment Research Council]] with the support of [[Department of Energy and Climate Change|DECC]], [[Department for Environment, Food and Rural Affairs|DEFRA]], the [[Environment Agency]] and the [[Food Standards Agency]], will pioneer, test and promote innovative evaluation approaches and methods across [[Water-energy nexus|nexus]] problem domains, such as biofuel production or climate change, where food, energy, water and environmental issues intersect.
+
+Beside his research activity, he has served on a number of government and national committees: as the Deputy Chairman of the Manufacturing, Production and Business Processes Foresight Panel (1994–99), Deputy Chairman of the [[Economic and Social Research Council]]'s Research Priorities Board (1997–2000) and on the Advisory Group of the Foresight Intelligent Infrastructures Project,<ref>{{Cite web
+  | last = Foresight
+  | date = January 2006
+  | title = Intelligent Infrastructures Project
+  | url= http://www.foresight.gov.uk/OurWork/CompletedProjects/IIS/Index.asp
+  | accessdate = 2 December 2009 }}</ref> as well as on many research council boards, both in the UK and abroad. As Chairman of the [[Royal Academy of Engineering]]'s Group on Privacy and Surveillance, he published ''Dilemmas of Privacy and Surveillance: Challenges of Technological Change'' (2007).<ref>{{Cite book
+  | last = Royal Academy of Engineering, Group on Privacy and Surveillance
+  | title = Dilemmas of Privacy and Surveillance: Challenges of Technological Change
+  | pages = 64
+  | publisher = The Royal Academy of Engineering
+  | date = March 2007
+  | isbn = 978-1-903496-32-9
+  | url = http://www.raeng.org.uk/news/publications/list/reports/dilemmas_of_privacy_and_surveillance_report.pdf
+  | accessdate = 2 December 2009
+  | archive-url = https://web.archive.org/web/20110612052145/http://www.raeng.org.uk/news/publications/list/reports/dilemmas_of_privacy_and_surveillance_report.pdf
+  | archive-date = 12 June 2011
+  | url-status = dead
+  }}</ref><ref>{{Cite press release
+  | last = BBC News
+  | date = 26 March 2007
+  | title = Hi-tech 'threat' to private life
+  | url=http://news.bbc.co.uk/2/hi/technology/6494815.stm
+  | accessdate = 4 December 2009 }}</ref> He was a member of the Sociology sub-panel for the 2001 and 2008 [[Research Assessment Exercise]]s (RAE).
+
+From 2012 to 2016, he was a member of the  Social Science Expert Panel for [[Department for Environment, Food and Rural Affairs|DEFRA]] and [[Department of Energy and Climate Change|DECC]].<ref>{{Cite press release
+  | title = Professor Nigel Gilbert - Social Science Expert Panel
+  | publisher = University of Surrey news release
+  | date = 13 March 2012
+  | url= http://www.surrey.ac.uk/sociology/news/stories/2012/77322_professor_nigel_gilbert_social_science_expert_panel.htm
+  | accessdate = 20 May 2016 }}</ref> The panel's purpose was to bring high quality, multi-disciplinary social science advice to both departments. In 2016, it was replaced by the Social Science Expert Group (SSEG), a sub-group of the [[Department for Environment, Food and Rural Affairs|DEFRA]] [https://www.gov.uk/government/organisations/science-advisory-council Science Advisory Council], and he continues to be a member of this.
+
+He is member of the [[European Commission]]'s Advisory Group for the Future and Emerging Technologies programme <ref>{{Cite web 
+| url = https://ec.europa.eu/digital-single-market/node/69419
+| last = European Commission
+| title = List of members of the Future & Emerging Technologies Advisory Group
+| accessdate = 20 May 2016| date = 25 April 2014
+}}</ref>
+
+===Awards and scientific recognitions===
+In 1999, he was appointed [[FREng|Fellow of the Royal Academy of Engineering]] in recognition of his work as "a pioneer of the application of computer modelling to social science", becoming the first practising social scientist to become a Fellow.<ref>{{Cite press release
+  | publisher = University of Surrey news release
+  | date = August 1999
+  | title = University of Surrey professors receive Fellowship from Royal Society of Engineering
+  | url= http://www.surrey.ac.uk/news/releases/fellowships.htm
+  | accessdate = 2 December 2009 }}</ref> He was awarded a [[Doctor of Science]] degree by the University of Cambridge in 2003. He is also a [[Fellow of the British Computer Society]] and of the [[Fellow of the Royal Society of Arts|Royal Society of Arts]] and a Fellow of the [[AcSS|Academy of the Social Sciences]] (for which he served as a Council Member). From 2004 to 2006, he was President of the [[European Social Simulation Association]] (ESSA).<ref>{{Cite web
+  | title = European Social Simulation Association portal
+  | url= http://www.essa.eu.org/
+  | accessdate = 2 December 2009 }}</ref>
+
+Gilbert was appointed [[Commander of the Order of the British Empire]] (CBE) in the 2016 Birthday Honours for services to engineering and the social sciences.<ref>{{London Gazette|issue=61608|supp=y|page=B9|date=11 June 2016}}</ref>
+
+==Selected works on social simulation==
+
+* {{cite book|editor1-last= Gilbert|editor1-first= Nigel|editor2-last= Doran|editor2-first= Jim|title= Simulating societies: The computer simulation of social phenomena|year=1994|publisher=UCL Press|location=London|isbn= 1-85728-082-2}}
+* {{cite book|last1=Gilbert|first1=Nigel|last2=Conte|first2=Rosaria|title=Artificial Societies: The Computer Simulation of Social Life|year=1995|publisher=Taylor & Francis|isbn=1-85728-305-8}}
+* {{cite book|last1= Gilbert|first1= Nigel|last2= Troitzsch |first2=Klaus G.|title= Simulation for the social scientist|year=2005|orig-year=1999|publisher=Open University Press|location=Milton Keynes|isbn=0-335-21600-5}}
+* {{cite book|last=Gilbert|first=Nigel|year=2007|title=Agent-based models|publisher=Sage Publications|location=London|isbn=978-1-4129-4964-4}}
+* {{cite book|last=Gilbert|first=Nigel|year=2010|title=Computational Social Science|publisher=Sage Publications|location=London|isbn=978-1847871718}}
+
+==Other works==
+* {{cite book|last1=Gilbert|first1=Nigel|last2=Mulkay|first2=Michael|title=Opening Pandora's Box: A sociological analysis of scientists' discourse|year=1984|publisher=Cambridge University Press|location=Cambridge|isbn=0-521-27430-3}}
+* {{cite book|editor-last=Gilbert|editor-first=Nigel|title=Researching Social Life|orig-year=1992|year=2008|location=London|publisher=Sage Publications|isbn=978-0-7619-7245-7|url-access=registration|url=https://archive.org/details/researchingsocia0000unse_d3y0}}
+* {{cite book|editor-last=Gilbert|editor-first=Nigel|title=From postgraduate to social scientist: A guide to key skills|year=2006|location=London|publisher=Sage Publications|isbn=0-7619-4460-5}}
+* {{cite book|last1=Fielding|first1=Jane L.|last2=Gilbert|first2=Nigel|title=Understanding social statistics|year=2006|publisher=Sage Publications|isbn=1-4129-1054-4}}
+
+==See also==
+
+* [[Agent-based model]]
+* [[Artificial society]]
+* [[Computational Sociology]]
+* [[Social simulation]]
+* [[Sociology and complexity science]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [http://www.surrey.ac.uk/sociology/people/nigel_gilbert/ Nigel Gilbert, University of Surrey (Sociology)]
+* [http://cress.soc.surrey.ac.uk/web/home Centre for Research in Social Simulation (CRESS) ]
+* [http://jasss.soc.surrey.ac.uk/ Journal of Artificial Societies and Social Simulation (JASSS) ]
+* [http://www.essa.eu.org/ European Social Simulation Association (ESSA)]
+* [https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=simsoc SIMSOC mailing list]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gilbert, Nigel}}
+[[Category:Academics of the University of Surrey]]
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:British sociologists]]
+[[Category:Fellows of the Academy of Social Sciences]]
+[[Category:Fellows of the Royal Academy of Engineering]]
+[[Category:Alumni of Emmanuel College, Cambridge]]
+[[Category:Commanders of the Order of the British Empire]]

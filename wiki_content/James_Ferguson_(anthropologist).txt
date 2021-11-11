@@ -1,0 +1,85 @@
+{{BLP sources|date=December 2010}}
+{{Infobox academic
+| honorific_prefix   =
+| name               = James Gordon Ferguson
+| honorific_suffix   =
+| native_name        = 
+| native_name_lang   = 
+| image              = File:James Ferguson IDS, July 2016.png
+| image_size         = 
+| alt                = 
+| caption            = Ferguson at the [[University of Sussex]], July 2016
+| birth_name         = <!-- Use only if different from full/othernames -->
+| birth_date         = {{birth date and age|1959|06|16}}<ref name=LCauth>{{cite web |url=http://id.loc.gov/authorities/names/n88157683.html |title=Ferguson, James, 1959- |author=<!--Staff writer(s); no by-line.--> |website=Library of Congress Name Authority File |publisher=Library of Congress |access-date=November 5, 2016 }}</ref>
+| birth_place        = 
+| death_date         = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) --> 
+| death_place        = 
+| death_cause        = 
+| region             =
+| nationality        = [[United States of America|American]]
+| period             = 
+| occupation         = [[Professor]], [[scholar]]
+| title              = Susan S. and William H. Hindle Professor in the School of Humanities and Sciences<ref name=StanBio>{{cite web |url=https://anthropology.stanford.edu/people/james-ferguson |title=James Ferguson |author=<!--Staff writer(s); no by-line.--> |website= Stanford - Department of Anthropology |publisher=[[Stanford University]] |access-date=November 5, 2016 }}</ref>
+| boards             = <!-- Board or similar positions extraneous to main occupation   -->
+| known_for          =
+| spouse             = 
+| children           = 
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| era                = 
+| language           = 
+| discipline         = [[Anthropologist]]
+| sub_discipline     = [[Development studies]]
+| movement           = <!-- Should match the ideological movement or denomination (for religious), "school" of thought etc. (e.g. "Anglican", "Postmodernist", "Socialist" or "Green" etc. -->
+| religion           = <!-- Religion should be supported with a citation from a reliable source -->
+| denomination       = <!-- Religious denomination should be supported with a citation from a reliable source -->
+| education          = [[B.A.]], [[M.A.]], [[Ph.D.]]
+| alma_mater         = [[University of California, Santa Barbara]], [[Harvard University]]<ref name=CV2015>{{cite web |url=https://anthropology.stanford.edu/sites/default/files/ferguson_vita2015.pdf |title=Curriculum Vitae - James Ferguson |last1=Ferguson |first1=James |date=May 2015 |website= Stanford - Department of Anthropology |publisher=[[Stanford University]] |access-date=November 5, 2016 }}</ref>
+| thesis_title       = Discourse, knowledge, and structural production in the "development" industry : an anthropological study of a rural development project in Lesotho<ref name=diss>{{cite thesis |last=Ferguson |first=James Gordon |date=1985 |title=Discourse, knowledge, and structural production in the "development" industry : an anthropological study of a rural development project in Lesotho |type=Ph.D. |publisher=[[Harvard University]] |oclc=19506355 |url=http://www.worldcat.org/title/discourse-knowledge-and-structural-production-in-the-development-industry-an-anthropological-study-of-a-rural-development-project-in-lesotho/oclc/19506355&referer=brief_results |access-date=November 5, 2016}}</ref>
+| thesis_url         = 
+| thesis_year        = 1985<ref name=diss />
+| school_tradition   = 
+| doctoral_advisor   = 
+| doctoral_students  = 
+| notable_students   = <!--Only those with WP articles-->
+| main_interests     = [[Political economy]], [[Development studies]], [[Human migration|Migration]]<ref name=CV2015 />
+| workplaces         = [[Stanford University]] (2003 - )<br>[[University of California, Irvine]] (1986-2003)<ref name=CV2015 />
+| notable_works      = 
+| notable_ideas      = 
+| influences         = <!--Must be referenced from a third party source-->
+| influenced         = <!--Must be referenced from a third party source-->
+| awards             = <!--Notable national level awards only-->
+| website            =
+| footnotes          =
+}}
+
+'''James Ferguson''' (born June 16, 1959) is an [[United States|American]] [[anthropologist]]. He is known for his work on the politics and anthropology of [[international development]], specifically his critical stance ([[development criticism]]). He was chair of the Anthropology Department at [[Stanford University]].<ref name=StanBio /> His best-known work is his book, ''[[The Anti-Politics Machine]]''. He delivered the most prestigious lecture in anthropology, the Morgan Lecture, in 2009, for his work on [[basic income]]. He earned his [[B.A.]] in [[cultural anthropology]] from the [[University of California, Santa Barbara]] and an [[M.A.]] and [[Ph.D.]] in [[social anthropology]] from [[Harvard University]].<ref name=CV2015 />
+
+==Selected publications==
+*2015, ''Give a Man a Fish''. Duke University Press
+*2010, ''The Uses of Neoliberalism''. Antipode, volume 41, supplement 1, 2010.
+*2006, ''Global Shadows: Africa in the Neoliberal World Order'', Duke University Press.
+*1999, ''Expectations of Modernity: Myths and Meanings of Urban Life on the Zambian Copperbelt'', University of California Press.
+*1997, Editor, ''Anthropological Locations: Boundaries and Grounds of a Field Science'' (with [[Akhil Gupta]]), Univ. of California Press.
+*1997, Editor, ''Culture, Power, Place: Explorations in Critical Anthropology'' (with Akhil Gupta), Duke University Press.
+*1994, ''[[The Anti-Politics Machine]]: 'Development,' Depoliticization, and Bureaucratic Power in Lesotho'', Cambridge University Press.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.stanford.edu/dept/anthropology/cgi-bin/web/?q=node/97 Ferguson's faculty profile at Stanford]
+*[http://www.theory-talks.org/2009/11/theory-talk-34.html Interview with James Ferguson] by 'Theory Talks'
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ferguson, James}}
+[[Category:Living people]]
+[[Category:Stanford University Department of Anthropology faculty]]
+[[Category:University of California, Santa Barbara alumni]]
+[[Category:Harvard Graduate School of Arts and Sciences alumni]]
+[[Category:1959 births]]
+
+
+{{US-anthropologist-stub}}

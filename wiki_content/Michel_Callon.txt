@@ -1,0 +1,69 @@
+{{BLP sources|date=November 2009}}
+{{Infobox scholar
+| name = Michel Callon
+| image = 
+| imagesize = 
+| alt = 
+| caption = 
+| fullname = 
+| othernames = 
+| birth_name =         <!-- Use only if different from full/othernames -->
+| birth_date = 1945
+| birth_place = 
+| death_date = 
+| death_place = 
+| death_cause = 
+| era = 
+| region = 
+| alma_mater = 
+| school_tradition = 
+| main_interests = [[Sociology]]
+| principal_ideas = [[Actor–network theory]]
+| major_works = 
+| awards = 
+| influences = 
+| influenced = 
+| footnotes = 
+}}
+'''Michel Callon''' (born 1945) is a professor of sociology at the [[École des mines de Paris]] and member of the [[Centre de sociologie de l'innovation]]. He is an author in the field of [[Science and Technology Studies]] and one of the leading proponents of [[actor–network theory]] (ANT) with [[Bruno Latour]].
+
+== Recent career ==
+In recent years (since the late 1990s), Michel Callon has spearheaded the movement of applying ANT approaches to study economic life (notably economic markets). This body of work interrogates the interrelation between the economy and economics, highlighting the ways in which economics (and economics-inspired disciplines such as marketing) shapes the economy (see Callon, 1998 and 2005).
+
+== Bibliography ==
+
+=== Books ===
+* {{cite book | last1 = Callon | first1 = Michel | last2 = Law | first2 = John | last3 = Rip | first3 = Arie | author-link2 = John Law (sociologist) | author-link3 = Arie Rip | title = Mapping the dynamics of science and technology: sociology of science in the real world | publisher = Macmillan | location = Basingstoke | year = 1986 | isbn = 9780333372234 }}
+* Callon, Michel (ed.) (1998). The Laws of the Markets. London: Blackwell Publishers.
+* Callon, Michel (2005). "Why virtualism paves the way to political impotence", Economic Sociology - the European electronic newsletter. [https://web.archive.org/web/20051223142042/http://econsoc.mpifg.de/archive/esfeb05.pdf Read as PDF]
+* Callon, M., Lascoumes, P., & Barthe, Y. (2009). Acting in an uncertain world: an essay on technical democracy. The MIT Press.
+
+=== Chapters in books ===
+* Callon, Michel (1980). "Struggles and Negotiations to Define What is Problematic and What is Not: The Socio-logic of Translation." pp.&nbsp;197–221 in The Social Process of Scientific Investigation, edited by Karin D. Knorr. Dordrecht: Reidel Publishing.
+* Callon, Michel (1986). "Some Elements of a Sociology of Translation: Domestication of the Scallops and the Fishermen of [[Saint-Brieuc|St Brieuc Bay]]." pp.&nbsp;196–233 in Power, Action and Belief: A New Sociology of Knowledge, edited by John Law. London: Routledge & Kegan Paul.
+* {{citation | last1 = Callon | first1 = Michel | contribution = Society in the making: the study of technology as a tool for sociological analysis | editor-last1 = Bijker | editor-first1 = Wiebe E. | editor-last2 = Hughes | editor-first2 = Thomas P. | editor-last3 = Pinch | editor-first3 = Trevor | editor-link1 = Wiebe Bijker | editor-link2 = Thomas P. Hughes | editor-link3 = Trevor Pinch | title = The social construction of technological systems: new directions in the sociology and history of technology | pages = 83–103 | publisher = [[MIT Press]] | location = Cambridge, Massachusetts | year = 1987 | isbn = 9780262022620 | postscript = .}}
+* {{citation | last1 = Callon | first1 = Michel | contribution = Techno-economic networks and irreversibility | editor-last = Law | editor-first = John | editor-link = John Law (sociologist) | title = A sociology of monsters: essays on power, technology and domination | pages = 132–165 | publisher = Routledge | location = London | year = 1991 | isbn = 9780262022620 | postscript = .}}
+* {{citation | last1 = Callon | first1 = Michel | last2 = Latour | first2 = Bruno | author-link2 = Bruno Latour | contribution = Don't throw the baby out with the Bath School! A reply to Collins and Yearley | editor-last = Pickering | editor-first = Andrew  | editor-link = Andrew Pickering | title = Science as practice and culture | pages = 343–368 | publisher = [[University of Chicago Press]] | location = Chicago, Illinois | year = 1992 | isbn = 9780226668017 | postscript = .}}
+
+== See also ==
+* [[Obligatory passage point]]
+
+== External links ==
+* [http://www.csi.ensmp.fr/en/equipe/membres-d-honneur/michel-callon Michel Callon's University Home Page]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Callon, Michel}}
+[[Category:Innovation economists]]
+[[Category:French sociologists]]
+[[Category:French academics]]
+[[Category:French engineers]]
+[[Category:Living people]]
+[[Category:Sociologists of science]]
+[[Category:1945 births]]
+[[Category:Actor-network theory]]
+[[Category:French male writers]]
+
+
+{{France-sociologist-stub}}
+{{France-academic-bio-stub}}

@@ -1,0 +1,69 @@
+{{use American English|date=September 2019}}
+{{use mdy dates|date=September 2019}}
+{{Infobox scientist
+|name              = Paul Bohannan
+|birth_date        = {{birth date|1920|3|5}}
+|birth_place       = [[Lincoln, Nebraska]]
+|death_date        = {{death date and age|2007|7|13|1920|3|5}} 
+|death_place       = [[Visalia, California]]<ref name="LATimes" />
+|residence         = {{ubl|[[United States]]|[[United Kingdom]]}}
+|nationality       = [[United States]]
+|fields            = [[Cultural anthropology]]
+|workplaces        = {{ubl|[[Oxford University]]|[[Princeton University]]|[[Northwestern University]]|[[University of California, Santa Barbara]]|[[University of Southern California]]|[[Nigeria]]}}
+|alma_mater        = {{ubl|[[University of Arizona]]|[[Queen's College, Oxford]]}}
+|known_for         = {{ubl|Ethnography of the [[Tiv people|Tiv]]|[[Spheres of exchange]]|[[Divorce in the United States]]}}
+|awards            = {{ubl|[[Legion of Merit]] (1944)|[[Herskovitz Prize]] (1969)}}
+}}
+{{Economic anthropology}}
+'''Paul James Bohannan''' (March 5, 1920 – July 13, 2007) was an [[United States|American]] [[anthropologist]] known for his research on the [[Tiv people]] of Nigeria, [[spheres of exchange]] and [[divorce in the United States]].
+
+==Early life and education==
+Bohannan was born in [[Lincoln, Nebraska|Lincoln]], [[Nebraska]], to Hillory Bohannan and Hazel Truex Bohannan. During the [[dust bowl]] his family moved to [[Benson, Arizona]].  [[World War II]] interrupted his college education, and he served in the [[U.S. Army]] [[Quartermaster Corps (United States Army)|Quartermaster Corps]] from 1941 to 1945 reaching the rank of [[Captain (United States O-3)|captain]].  In 1947 he graduated [[Phi Beta Kappa]]<ref>Staff (1947) "Phi Beta Kappa to Accept 16" ''Tucson Daily Citizen'' 4 April 1947, p. 3, col. 6</ref> with his [[bachelor's degree]] in [[German language|German]]<ref name="Tucson-2">Staff (1946) "3 Chosen for Rhodes Honor" ''Tucson Daily Citizen'' 13 December 1946, p. 18, col. 3</ref> from the [[University of Arizona]].  He attended [[The Queen's College, Oxford|Queen's College, Oxford]], thereafter as a [[Rhodes Scholarship|Rhodes scholar]],<ref name="Johnson">Johnson, Pamela J. (2007) [http://college.usc.edu/news/stories/378/pioneering-anthropologist-was-authority-on-the-tiv-tribe/ "Pioneering Anthropologist was Authority on the Tiv Tribe"] ''USC College News'', July 2007</ref> receiving a [[Bachelor of Science]] in 1949 and his [[Doctorate|doctor of philosophy degree]] in 1951, both in anthropology.<ref name="LATimes">{{cite news |title=Obituary: Paul Bohannan, 87; USC anthropologist researched Nigerian culture and American divorce |author=Thomas H. Maugh II |newspaper=[[Los Angeles Times]] |date=2 August 2007 |url=http://www.latimes.com/news/science/la-me-bohannan2aug02,1,1578759.story?coll=la-news-science |access-date=4 December 2009 }}</ref>
+
+==Academic career==
+Bohannan remained in England and was a lecturer in social anthropology at Oxford University until 1956 when he returned to the United States taking up an assistant professorship in anthropology at [[Princeton University]]. In 1959, Bohannan left Princeton for a full professorship at [[Northwestern University]] in [[Evanston, Illinois]]. From 1975 to 1982 he taught at the [[University of California, Santa Barbara]]. In 1982 he became dean of the social science and communications department at the [[University of Southern California]] (U.S.C.).<ref name="Johnson"/>  He retired from full-time teaching in 1987, but remained at U.S.C. as professor emeritus until his death.
+
+From 1962 to 1964 Bohannan was a director on the [[Social Science Research Council]]. He was a director of [[American Ethnological Society]] from 1963 to 1966. Bohannan was president of the [[African Studies Association]] in 1964. In 1979–1980, he was president of the [[American Anthropological Association]].
+
+==Personal life==
+Bohannan married [[Laura Bohannan|Laura Marie Smith]], an anthropologist with whom he collaborated on ''Tiv Economy'', on 15 May 1943. They had one son, Denis, and were divorced in 1975. He remained married to his second wife, Adelyse D'Arcy, from 1981 until his death.<ref name="LATimes" /> Bohannan died on 13 July 2007, in [[Visalia, California]].<ref name="LATimes" /> He was a connoisseur of [[Scotch whisky]] and a [[ballet]] enthusiast.<ref name="LATimes" />
+
+==Awards==
+*1944 [[Legion of Merit]].<ref name="Tucson-2"/>
+*1969 [[Herskovitz Prize]] for ''Tiv Economy'', shared with his wife Laura Bohannan.
+
+==Selected bibliography==
+* {{cite book |title=Justice and Judgment among the Tiv |year=1957 |publisher=Oxford University Press |location=Oxford |oclc=67530323 }}
+* {{cite book |title=Social Anthropology |url=https://archive.org/details/socialanthropolo00boha |url-access=registration |year=1963 |publisher=Holt, Rinehart and Winston |location=New York |oclc=230074 }}
+* {{cite book |title=Africa and Africans |year=1964 |publisher=Natural History Press |location=Garden City, NY |oclc=413202 }} (Fourth Edition [with Philip Curtin] published Long Grove, IL: Waveland Press, 1995)
+* {{cite book |last=With Bohannan |first=Laura |title=Tiv Economy |url=https://archive.org/details/tiveconomy0000boha |url-access=registration |year=1968 |publisher=Northwestern University Press |location=Evanston, IL |oclc=7394758 }}
+* {{cite book |last=With Bernard |first=Jessie |title=Divorce and After |year=1970 |publisher=Doubleday |location=Garden City, NY |oclc=87758 }}
+* {{cite book |title=We, the Alien: An introduction to cultural anthropology |year=1991 |publisher=Waveland Press |location=Long Grove, IL |isbn= 978-0-88133-637-5 }}
+* {{cite book |title=How Culture Works |year=1995 |publisher=Free Press |location=New York |isbn=978-0-02-904505-3 |url=https://archive.org/details/howcultureworks0000boha }}
+* With van der Elst, Dirk (1998). Asking and Listening: Ethnography as Personal Adaptation. Long Grove, IL: Waveland Press. {{ISBN|978-0-88133-987-1}}.
+
+==Notes==
+{{Reflist}}
+
+{{American Anthropological Association presidents|state=uncollapsed}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bohannan, Paul J.}}
+[[Category:1920 births]]
+[[Category:2007 deaths]]
+[[Category:Writers from Lincoln, Nebraska]]
+[[Category:Social anthropologists]]
+[[Category:American Africanists]]
+[[Category:American anthropologists]]
+[[Category:American Rhodes Scholars]]
+[[Category:Academics of the University of Oxford]]
+[[Category:Princeton University faculty]]
+[[Category:Northwestern University faculty]]
+[[Category:University of California, Santa Barbara faculty]]
+[[Category:University of Southern California faculty]]
+[[Category:University of Arizona alumni]]
+[[Category:Alumni of The Queen's College, Oxford]]
+[[Category:Recipients of the Legion of Merit]]
+[[Category:People from Benson, Arizona]]
+[[Category:20th-century anthropologists]]
+[[Category:United States Army personnel of World War II]]

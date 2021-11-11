@@ -1,0 +1,71 @@
+{{EngvarB|date=February 2018}}
+{{Use dmy dates|date=February 2018}}
+{{Infobox scientist
+| name        = David Bloor
+| image       = 
+| caption     = 
+| birth_date  = {{Birth year and age|1942}}
+| birth_place = [[Derby]], United Kingdom
+| fields      = Sociology
+| influences    = [[Ludwig Wittgenstein]]
+}}
+
+'''David Bloor''' ({{IPAc-en|b|l|ʊər}}; born 1942) is a British sociologist. He is a professor in, and a former director of, the Science Studies Unit at the [[University of Edinburgh]]. He is a key figure in the [[sociology of scientific knowledge|Edinburgh school]] and played a major role in the development of the field of [[science and technology studies]].<ref>{{cite journal |author-link=Bruno Latour |last=Latour |first=B. |year=1999 |title='For Bloor and Beyond' – a reply to David Bloor's 'Anti-Latour' |journal=Studies in History and Philosophy of Science |volume=30 |issue=1 |pages=113–129 |doi=10.1016/s0039-3681(98)00039-9 |pmid=11623971}}</ref> He is best known for advocating the [[strong programme]] in the [[sociology of scientific knowledge]], most notably in his book ''Knowledge and Social Imagery''.
+
+==Biography==
+
+He was born in [[Derby]]. He started his academic career in philosophy and [[psychology]]. In 1972 he was awarded a PhD by the University of Edinburgh for his thesis "Speech and the regulation of behaviour."<ref>{{Cite journal|last=C.|first=Bloor, David|year=1972|title=Speech and the regulation of behaviour|hdl=1842/22721}}</ref> In the 1970s he and [[S. Barry Barnes|Barry Barnes]] were the major figures of the [[strong programme]], which put forward queries against ''philosophical [[a priorism]]'' in the understanding of scientific knowledge. This is an approach, popular in the philosophy of science, that simply precluded inquiries about science by treating successful scientific knowledge as simply true or rational without empirically investigating how such knowledge has come to be accepted as true or rational. Bloor's book ''Knowledge and Social Imagery'' (Routledge, 1976) is one of the key texts of the [[strong programme]].
+
+Bloor wrote extensively on the [[T. S. Kuhn|Kuhn]]/[[Karl Popper|Popper]] debate, and is a representative figure of the [[sociology of scientific knowledge]]. In the 1980s when French scholars like [[Bruno Latour]] developed the [[actor-network theory]] (partially based on the strong programme), David Bloor strongly disagreed with the ANT camp when they argued that human and non-humans should be treated in an equivalent manner, going so far as to write an article entitled "Anti-Latour".<ref>{{Cite journal|last=Bloor|first=David|year=1999|title=Anti-Latour|url=https://philpapers.org/rec/BLOA-5|journal=Studies in History and Philosophy of Science Part A|volume=30|issue=1|pages=81–112|doi=10.1016/S0039-3681(98)00038-7}}</ref>
+
+He was awarded the [[John Desmond Bernal Prize]] by the [[Society for Social Studies of Science]] in 1996 in recognition of his distinguished contribution to the field.<ref>[http://www.4sonline.org/prizes/bernal List of winners of the John Desmond Bernal Prize]</ref>
+
+==Publications==
+
+===Books===
+* {{cite book | last = Bloor | first =David | title = Wittgenstein: a social theory of knowledge | publisher = Macmillan and Columbia | year = 1983 }}
+* {{cite book | last = Bloor | first =David | title = Knowledge and social imagery | publisher = [[University of Chicago Press]] | location = Chicago, Illinois | year = 1991 | orig-year = 1976 | edition = 2nd }}
+* {{cite book | last1 = Bloor | first1 =David | last2 = Barnes | first2 = Barry | last3 = Henry | first3 = John | author-link2 = S. Barry Barnes | title = Scientific knowledge: a sociological analysis | publisher = Athlone and Chicago University Press | year = 1996 }}
+* {{cite book | last = Bloor | first =David | title = Wittgenstein: rules and institutions | publisher = Routledge | year = 1997 }}
+* {{cite book | last = Bloor | first =David | title = The enigma of the aerofoil: rival theories in aerodynamics, 1909–1930 | publisher = [[University of Chicago Press]] | location = Chicago, Illinois | year = 2011 }}
+
+===Selected articles===
+*{{cite journal|last1=Bloor|first1=David|title=Is the Official Theory of Mind Absurd?|journal=British Journal for the Philosophy of Science|year=1970|volume=21|issue=2|pages=167–183|doi=10.1093/bjps/21.2.167}}
+*{{cite journal|last1=Bloor|first1=David|title=Explanation and Analysis in Strawson's 'Persons'|journal=Australasian Journal of Philosophy|year=1970|volume=48|issue=1|pages=2–9|doi=10.1080/00048407012341411}}
+*{{cite journal|last1=Bloor|first1=David|title=Two Paradigms for Scientific Knowledge?|journal=Science Studies|year=1971|volume=1|pages=101–115|doi=10.1177/030631277100100108}}
+* {{Cite journal | last = Bloor | first = David | title = Wittgenstein and Mannheim on the sociology of mathematics | journal = Studies in History and Philosophy of Science Part A | volume = 4 | issue = 2 | pages = 173–191 | doi =  10.1016/0039-3681(73)90003-4|year = 1973 }}
+* {{Cite journal | last = Bloor | first = David | title = The strengths of the strong programme | journal = Philosophy of the Social Sciences
+ | volume = 11 |year = 1981 |doi=10.1177/004839318101100206 | pages = 199–213 }}
+* {{Cite journal | last = Bloor | first = David | title = Durkheim and Mauss revisited: classification and the sociology of knowledge | journal = Studies in the History and Philosophy of Science | volume = 13 | issue = 4 | pages = 267–297 | doi =  10.1016/0039-3681(82)90012-7|year = 1982 }}
+* {{citation | last1 = Bloor | first1 =David | last2 = Barnes | first2 = Barry | author-link2 = S. Barry Barnes | contribution = Relativism, rationalism and the sociology of knowledge | editor-last1 = Hollis | editor-first1 = Martin | editor-last2 = Lukes | editor-first2 = Steven | editor-link1 = Martin Hollis (philosopher) | editor-link2 = Steven Lukes | title = Rationality and relativism | publisher = [[MIT Press]] | location = Cambridge, Massachusetts | year = 1982 | isbn = 9780262580618 | postscript = .}}
+*{{cite journal|last1=Bloor|first1=David|title=Reply to Gerd Buchdahl|journal=Studies in History and Philosophy of Science Part A|year=1982|volume=13|issue=4|pages=305–311|doi=10.1016/0039-3681(82)90014-0}}
+*{{cite journal|last1=Bloor|first1=David|title=Reply to Steven Lukes|journal=Studies in History and Philosophy of Science Part A|year=1982|volume=13|issue=4|pages=319–323|doi=10.1016/0039-3681(82)90016-4}}
+* {{citation | last = Bloor | first =David | contribution = Left and Right Wittgensteinians | editor-last = Pickering | editor-first = Andrew  | editor-link = Andrew Pickering | title = Science as practice and culture | pages = 266–282 | publisher = [[University of Chicago Press]] | location = Chicago, Illinois | year = 1992 | isbn = 9780226668017 | postscript = .}}
+* {{Cite journal | last = Bloor | first = David | title = Idealism and the sociology of knowledge | journal = Social Studies of Science | volume = 26 | issue = 4 | pages = 839–856 | doi =  10.1177/030631296026004005|year = 1996 }}
+* {{Cite journal | last = Bloor | first = David | title = Anti-Latour | journal = Studies in the History and Philosophy of Science | volume = 30 | issue = 1 | pages = 81–112 | doi =  10.1016/s0039-3681(98)00038-7|year = 1999 }}
+*{{cite journal|last1=Bloor|first1=David|title=Critical Notice on The Social Construction of What?|journal=Canadian Journal of Philosophy|year=2000|volume=30|issue=4|pages=597–608|doi=10.1080/00455091.2000.10717545}}
+* {{citation | last = Bloor | first =David | contribution = Sociology of scientific knowledge | editor-last1 = Niiniluoto | editor-first1 = Ilkka | editor-last2 = Woleński | editor-first2 = Jan | editor-last3 = Sintonen | editor-first3 = Matti | editor-link1 = Ilkka Niiniluoto | editor-link2 = Jan Woleński | title = Handbook of epistemology | pages = 919–962 | publisher = Kluwer Academic Publishers | location = Dordrecht Boston | year = 2004 | isbn = 9781402019852 | postscript = .}}
+*{{cite journal|last1=Bloor|first1=David|title=Toward a Sociology of Epistemic Things|journal=Perspectives on Science|year=2005|volume=13|issue=3|pages=285–312|doi=10.1162/106361405774287982}}
+*{{cite journal|last1=Bloor|first1=David|title=Epistemic Grace. Antirelativism as Theology in Disguise.|journal=Common Knowledge|year=2007|volume=13|issue=2–3|pages=250–280|doi=10.1215/0961754x-2007-007}}
+*{{cite journal|last1=Bloor|first1=David|title=Ideals and Monisms: Recent Criticisms of the Strong Programme in the Sociology of Knowledge|journal=Studies in History and Philosophy of Science Part A|year=2007|volume=38|issue=1|pages=210–234|doi=10.1016/j.shpsa.2006.12.003}}
+*{{citation | last = Bloor | first =David | contribution = Relativism at 30,000 feet | editor-last1 = Mazzotti | editor-first1 = Massimo | title = Knowledge as Social Order: Rethinking the Sociology of Barry Barnes | publisher = Ashgate Publishing | year = 2008 | postscript = .}}
+* {{citation | last = Bloor | first =David | contribution = Relativism and the sociology of knowledge | editor-last1 = Hales | editor-first1 = Steven D. | title = A companion to relativism | pages = 433–455 | publisher = Wiley-Blackwell | location = Chichester, West Sussex, UK Malden, Massachusetts | year = 2011 | isbn = 9781405190213 | postscript = .}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* David Bloor's [http://www.sps.ed.ac.uk/staff/science_technology_and_innovation_studies/bloor_david home page] at the [[University of Edinburgh]].
+* [http://www.stis.ed.ac.uk/ Science Technology and Innovation Studies], [[University of Edinburgh]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bloor, David}}
+[[Category:Living people]]
+[[Category:British sociologists]]
+[[Category:Sociologists of science]]
+[[Category:Philosophers of science]]
+[[Category:1942 births]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Academics of the University of Edinburgh]]
+[[Category:People from Derby]]

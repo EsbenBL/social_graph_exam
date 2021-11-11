@@ -1,0 +1,61 @@
+{{Infobox scientist
+| name        = Clifford C. Clogg
+| native_name = 
+| native_name_lang = 
+| image       =         <!--(filename only, i.e. without "File:" prefix)-->
+| image_size  = 
+| alt         = 
+| caption     = 
+| birth_date  = {{birth date |1949|10|16}}
+| birth_place = [[Oberlin, Ohio]]
+| death_date  = {{death date and age |1995|05|07 |1949|10|16}} 
+| death_place = [[Bellefonte, Pennsylvania]]
+| nationality = American
+| fields      = Sociology, demographics, statistics
+| workplaces  = [[Pennsylvania State University]]
+| alma_mater  = [[University of Chicago]]
+| thesis_title =        <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url  =         <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year =         <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor =    <!--(or  | doctoral_advisors = )-->
+| doctoral_students = [[Eva Petkova]]
+| known_for   = Contributions to population statistics, categorical data analysis, and latent class analysis
+| awards      = 
+| spouse      =         <!--(or | spouses = )-->
+}}
+
+'''Clifford Collier Clogg''' (October 16, 1949 – May 7, 1995) was an [[Americans|American]] [[sociologist]], [[demographer]], and [[statistician]].  He is best known for his contributions to [[population statistics]], [[categorical data analysis]], and [[latent class analysis]].
+
+==Biography==
+Clogg was born in 1949 in [[Oberlin, Ohio|Oberlin]], [[Ohio]].  He earned a [[B.A.]] in sociology in 1971 from [[Ohio University]], and continued his studies at the [[University of Chicago]], where he earned an [[M.A.]] in sociology and an [[M.Sc.]] in statistics in 1974, and a [[Ph.D.]] in sociology in 1977. Starting in 1976 he served at the [[Pennsylvania State University]] faculty, rising to the rank of Distinguished Professor of Sociology and Professor of Statistics.<ref name="obit">{{cite news|url=https://www.nytimes.com/1995/05/10/obituaries/clifford-c-clogg-45-authority-on-demographics.html|work=[[The New York Times]]|date= May 10, 1995|title= Clifford C. Clogg, 45, Authority on Demographics|author=Wolfgang Saxon}}</ref><ref>[https://groups.google.com/forum/#!topic/bit.listserv.sos-data/ggbjibUlUy0 ''Center Daily Times'', May 9, 1995]</ref>
+
+He served as an editor of several journals, including the ''[[Journal of the American Statistical Association]]'', ''[[Demography (journal)|Demography]]'', ''[[Sociological Methodology]]'', and the ''[[Journal of Educational and Behavioral Statistics]]''.<ref name="obit"/>
+
+The Clifford C. Clogg Award of the [[Population Association of America]],<ref>[http://www.populationassociation.org/sidebar/annual-meeting/awards/clifford-clogg-award-past-recipients/ ''Award Criteria and Past Recipients: Clifford C. Clogg Award for Mid-Career Achievement'' Population Association of America]</ref> the Clifford Clogg Award of the Methodology Section of the [[American Sociological Association]],<ref>American Sociological Association. [http://www.asanet.org/sections/methodology_awards.cfm Call for Nominations for the 2015 Methodology Section Clifford Clogg Award] {{Webarchive|url=https://web.archive.org/web/20150802160037/http://www.asanet.org/sections/methodology_awards.cfm |date=2015-08-02 }}.</ref> and the Clifford C. Clogg Scholarship of the [[Inter-university Consortium for Political and Social Research]]<ref>[http://www.icpsr.umich.edu/icpsrweb/content/sumprog/scholarships/clogg.html ''Clifford C. Clogg Scholarship'' Inter-university Consortium for Political and Social Research]</ref> are named in his honor.
+
+==Selected publications==
+* Clogg, Clifford C. "Latent class models." Handbook of statistical modeling for the social and behavioral sciences. Springer US, 1995. 311-359.
+* Clogg, Clifford C., [[Eva Petkova]], and Adamantios Haritou. "Statistical methods for comparing regression coefficients between models." ''[[American Journal of Sociology]]'' (1995): 1261-1293.
+* Clogg, Clifford C., and [[Leo Goodman|Leo A. Goodman]]. "Latent structure analysis of a set of multidimensional contingency tables." ''[[Journal of the American Statistical Association]]'' 79.388 (1984): 762-771.
+* Clogg, Clifford C. "Some models for the analysis of association in multiway cross-classifications having ordered categories." ''Journal of the American Statistical Association'' 77.380 (1982): 803-815.
+* Clogg, Clifford C., and Scott R. Eliason. "Some common problems in log-linear analysis." ''[[Sociological Methods & Research]]'' 16.1 (1987): 8-44.
+* Clogg, Clifford C. "Latent structure models of mobility." ''American Journal of Sociology'' (1981): 836-868.
+* Clogg, Clifford C. "Using association models in sociological research: Some examples." ''American Journal of Sociology'' (1982): 114-134.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Find a Grave}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Clogg, Clifford}}
+[[Category:American sociologists]]
+[[Category:Ohio University alumni]]
+[[Category:American statisticians]]
+[[Category:American demographers]]
+[[Category:University of Chicago alumni]]
+[[Category:Pennsylvania State University faculty]]
+[[Category:1949 births]]
+[[Category:1995 deaths]]

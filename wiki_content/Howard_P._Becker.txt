@@ -1,0 +1,116 @@
+{{For|the symbolic interactionist sociologist, author, and jazz pianist|Howard S. Becker}}
+{{short description|American sociologist}}
+
+{{Infobox academic
+| name               = Howard P. Becker
+| image              = 
+| alt                = 
+| caption            = 
+| birth_name         = Howard Paul Becker
+| birth_date         = {{birth date|1899|12|09}}
+| birth_place        = [[New York City]], [[New York (state)|New York]], US
+| death_date         = {{death date and age|1960|06|08|1899|12|09}}
+| death_place        = [[Madison, Wisconsin|Madison]], [[Wisconsin]], US
+| residence          = 
+| spouse             = 
+| partner            = 
+| children           = 
+| parents            = {{hlist | [[Charles Becker]] | Letitia Stenson}}
+| relatives          =
+| awards             = <!--notable national level awards only-->
+| alma_mater         = {{ubl | [[Northwestern University]] | [[University of Chicago]]}}
+| thesis_title       = Ionia and Athens Studies in Secularization<ref name="ionia" />
+| thesis_year        = 1930
+| school_tradition   = 
+| doctoral_advisor   = [[Robert E. Park]]
+| academic_advisors  = 
+| influences         = <!--must be referenced from a third party source-->
+| era                = 
+| discipline         = [[Sociology]]
+| sub_discipline     = <!--academic discipline specialist area – e.g. Sub-atomic research, 20th Century Danish specialist, Pauline research, Arcadian and Ugaritic specialist-->
+| workplaces         = {{nowrap|[[University of Wisconsin–Madison]]}}
+| doctoral_students  = [[C. Wright Mills]]<ref name="mills" />
+| notable_students   = <!--only those with WP articles-->
+| main_interests     = 
+| notable_works      = ''Man in Reciprocity'' (1956)
+| notable_ideas      = 
+| influenced         = <!--must be referenced from a third party source-->
+| signature          = 
+| signature_alt      = 
+}}
+'''Howard Paul Becker''' (December 9, 1899 – June 8, 1960) was a longtime professor of [[sociology]] at the [[University of Wisconsin–Madison]].
+
+==Biography==
+Becker was born in New York in 1899, the son of [[Charles Becker]], a [[New York City Police Department|New York police]] officer, and Letitia (née Stenson), of [[Ontario]].<ref name="ASA" /> His parents divorced six years after his birth. His mother married again, to Becker's brother Paul. His father Charles Becker later married twice more. He was prosecuted in New York for the 1912 murder of a gambler, found guilty, and executed in 1915.
+
+Howard P. Becker was brought up by his mother and stepfather in [[Reno, Nevada|Reno]] and [[Winnemucca, Nevada]], where he attended local schools. He earned his undergraduate degree at [[Northwestern University]], and completed a master's and doctorate in sociology at the [[University of Chicago]].
+
+Becker became a full professor of sociology at [[University of Wisconsin-Madison]]. Among his interests was exploring what he called "constructed types" of sacred and secular societies.<ref name="evan" />
+
+He is perhaps best remembered as the author of the book ''Man in Reciprocity: Introductory Lectures on Culture, Society and Personality'' (1956). This was an edited series of radio lectures on introductory sociology, a novel approach at the time. He was praised for a style described as "urbane, witty, and literate", and also for his interdisciplinary approach drawing from concepts in sociology, social psychology, and anthropology.<ref name="gittler" /> His book was also described as presenting a "coherent view of sociology" in a "vigorous and idiosyncratic manner".<ref name="evan" />
+
+Among graduate students whom Becker advised was [[C. Wright Mills]], when he was completing his doctoral thesis at Wisconsin-Madison. Mills later said that he was not happy with Becker's role in the thesis defense. He outright refused to rework his dissertation in lines with criticism from his committee.<ref name="kerr" />
+
+At the time of his death, Becker had just been elected President of the [[American Sociological Association]]. His presidential address, entitled "Normative Reactions to Normlessness", was delivered by his son, historian Christopher Bennett Becker.
+
+Becker died on June 8, 1960, of a [[cerebral thrombosis]].<ref name="ASRObit" />
+
+==Bibliography==
+*{{Citation
+| last = Barnes
+| first = Harry Elmer
+| author-link = Harry Elmer Barnes
+| last2 = Becker
+| first2 = Howard Paul
+| title = Social Thought From Lore to Science
+| publisher = Heath
+| location = New York
+| year = 1938
+| oclc = 502796286}}
+* Becker, Howard Paul (1946).  ''German Youth: Bond or Free''.  New York: Oxford University Press, 1946. Detailed history and sociology of the various aspects of the [[Wandervogel|youth movement]]. Remarkable for the times, the discussion of [[homoeroticism]] and [[homosexuality]] within some of these groups is non-judgmental. [http://www.worldcat.org/search?q=no%3A2083809&qt=advanced&dblist=638 OCLC 2083809] In 1998, [[Routledge]] reprinted this work as Volume 8 of its ''International Library of Sociology'' and ''The Sociology of Youth and Adolescence'' series. [http://www.worldcat.org/title/german-youth-bond-or-free/oclc/761549797?referer=di&ht=edition OCLC 761549797]  {{ISBN|978-0-415-86351-3}}
+*{{Citation
+| last = Becker
+| first = Howard Paul
+| title = Through Values to Social Interpretation
+| publisher = Duke University Press
+| location = Durham, N. C.
+| year = 1950
+| oclc = 562723
+}}
+*{{Citation
+| last = Becker
+| first = Howard Paul
+| title = Man in Reciprocity: Introductory lectures on culture, society and personality
+| publisher = F. A. Praeger
+| location = New York
+| year = 1956
+| oclc = 973583
+}}
+
+==References==
+{{reflist|refs=
+<ref name="ASA">{{Citation | title = Howard Paul Becker, President 1960 | work = Asanet.org | publisher = [[American Sociological Association]] | date = March 24, 2005 | url = http://www.asanet.org/about/presidents/Howard_Becker.cfm | access-date =February 23, 2016}}</ref>
+<ref name="ASRObit">{{Citation | title = News and Announcements: Howard Becker (1899–1960) | journal = [[American Sociological Review]] | publisher = American Sociological Association | volume = 25 | issue = 5 | pages = 735–749| date = October 1960 | jstor = 2090149}}</ref>
+<ref name="evan">{{cite journal|title=Book Reviews (4)|last=Evan|first=William M.|journal=American Journal of Sociology|volume= 62|number=4 |date= January 1957|pages=444|doi=10.1086/222072}}</ref>
+<ref name="gittler">{{cite journal|url= https://academic.oup.com/sf/article-abstract/37/1/83/2226806|title=Review: Man in Reciprocity|last=Gittler|first=Joseph B.|journal=Social Forces|volume=37 |number=1|date=1 October 1958|pages=83|doi=10.2307/2573788|jstor=2573788}}</ref>
+<ref name="ionia">{{cite thesis |last=Becker |first=Howard Paul |year=1930 |title=Ionia and Athens Studies in Secularization |degree=PhD |location=Chicago |publisher=University of Chicago |oclc=28264817}}</ref>
+<ref name="kerr">Kerr, Keith. (2009) ''Postmodern Cowboy: C. Wright Mills and the New 21st Century Sociology.'' Boulder, CO: Paradigm, p.50.</ref>
+<ref name="mills">{{cite book |last=Mills |first=C. Wright |author-link=C. Wright Mills |year=2000 |editor1-last=Mills |editor1-first=Kathryn |editor2-last=Mills |editor2-first=Pamela |title=C. Wright Mills: Letters and Autobiographical Writings |location=Berkeley, California |publisher=University of California Press |page=[https://archive.org/details/lettersautobiogr0000mill/page/139 139] |isbn=978-0-520-21106-3 |url-access=registration |url=https://archive.org/details/lettersautobiogr0000mill/page/139 }}</ref>
+}}
+
+==External links==
+*{{Find a Grave}}
+
+{{American Sociological Association presidents|state=uncollapsed}}
+{{Authority control}}
+
+{{DEFAULTSORT:Becker, Howard Paul}}
+[[Category:1899 births]]
+[[Category:1960 deaths]]
+[[Category:American sociologists]]
+[[Category:Presidents of the American Sociological Association]]
+[[Category:University of Wisconsin–Madison faculty]]
+[[Category:People from Winnemucca, Nevada]]
+
+
+{{US-sociologist-stub}}

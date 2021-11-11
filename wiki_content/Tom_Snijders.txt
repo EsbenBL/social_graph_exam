@@ -1,0 +1,38 @@
+[[File:TomSnijders 2015-04-10.JPG|thumb|Tom Snijders (2015)]]
+'''Tom A.  B. Snijders''' (born September 26, 1949) is [[professor]] of [[Statistics]] in the [[Social Sciences]] at [[Nuffield College, Oxford]], one of the constituent colleges of the [[University of Oxford]] (since October 1, 2006). He is also professor of Methodology at the [[University of Groningen]], a position he has held for more than twenty years.
+
+==Career==
+Tom Snijders was born in [[Tilburg]], a son of Jan Snijders, professor of [[Psychology]] at Groningen University from 1949 to 1980, and Nan Snijders-Oomen, an internationally well-known [[child psychologist]] (author of the [[SON-tests|SON nonverbal intelligence test]], 1943, 1978, 1991).
+
+Snijders grew up in the province of [[Groningen (province)|Groningen]], in the northern part of the [[Netherlands]]. He was awarded a [[cum laude]] Ph.D. in [[Mathematics]], specializing in mathematical statistics, for his thesis ''[[Asymptotic]] optimality theory for testing problems with restricted alternatives''. Since 1985 he worked as a professor of various forms of mathematics serving social science. He was part-time professor of Mathematical Sociology at [[Utrecht University]] from 1989-1992 and is an honorary senior [[fellow]] of the [[University of Melbourne]] in Australia. [[Stockholm University]] made him an [[honorary doctor]] in 2005, as did [[Paris Dauphine University]] in 2011.<ref>[http://www.dauphine.fr/fr/international/detail-de-lactualite/article/ceremonie-annuelle-des-docteurs-honoris-causa.html Annual ceremony of honorary doctors 2011] {{Webarchive|url=https://web.archive.org/web/20120323203248/http://www.dauphine.fr/fr/international/detail-de-lactualite/article/ceremonie-annuelle-des-docteurs-honoris-causa.html |date=2012-03-23 }}</ref> In 2007 Snijders became correspondent of the [[Royal Netherlands Academy of Arts and Sciences]].<ref>{{cite web|author= |url=https://www.knaw.nl/en/members/correspondents/7404 |title=Tom Snijders |publisher=Royal Netherlands Academy of Arts and Sciences |date= |accessdate=18 July 2015}}</ref> In 2008 Snijders was awarded the [[Order of the Netherlands Lion|Order of Knight of the Netherlands Lion]].
+
+==Social networks==
+Snijders is a prominent researcher in the field of statistic methods in [[behavioural]] and social sciences. In 1998, together with others, he created Stocnet, an open software system for the advanced statistical analysis of social networks. Snijders is working especially in [[social network analysis]]: statistical methods for analysing [[social network]]s and in network evolution, in social science, [[mathematical sociology]] and [[mathematical response theory]], and also in [[multilevel models]] analysis, about which he wrote a textbook, titled ''Multilevel Analysis. An Introduction to Basic and Advanced Multilevel Modeling'' (1999). Apart from this he developed new statistical methods for social science applications, often in combination with the development of [[computer software]] to implement these methods. Together with professor [[Patrick Doreian]] of the [[University of Pittsburgh]] Tom Snijders edits the international scientific journal ''Social networks. An international journal of structural analysis''.
+
+==Sources and links==
+*[http://www.nuffield.ox.ac.uk/sociology Nuffield College, Sociology Group]
+*[http://www.rug.nl/gmw/index University of Groningen, Faculty of Behavioural and Social Sciences]
+*[https://web.archive.org/web/20070128013911/http://stat.gamma.rug.nl/socnet.htm Social Network Analysis page of Tom Snijders]
+*[http://www.elsevier.com/wps/find/journaldescription.cws_home/505596/description#description Social networks. An international journal of structural analysis]
+*[https://www.stats.ox.ac.uk/~snijders/ Website of Tom Snijders with a full list of functions, publications and interests]
+*Knipscheer, Corn.J.: XIX generaties Oome- Oomen- Oomens- Oomes. Breda, 1984. 
+*Snijders, Jan: Snijders-Oomen. Een levens- en familieverhaal. Den Haag, 1997.
+
+==Notes==
+<references/>
+
+==External links==
+*{{MathGenealogy|id=61171}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Snijders, Tom}}
+[[Category:1949 births]]
+[[Category:Living people]]
+[[Category:Dutch statisticians]]
+[[Category:Fellows of Nuffield College, Oxford]]
+[[Category:Members of the Royal Netherlands Academy of Arts and Sciences]]
+[[Category:People from Groningen (city)]]
+[[Category:People from Tilburg]]
+[[Category:University of Groningen faculty]]
+[[Category:Network scientists]]

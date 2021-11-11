@@ -1,0 +1,120 @@
+{{Use dmy dates|date=December 2020}}
+{{Infobox academic
+| name               = David Lockwood
+| honorific_suffix   = {{post-nominals|country=GBR|CBE|FBA|MAE|size=100%}}
+| image              = 
+| alt                = 
+| caption            = 
+| birth_name         = 
+| birth_date         = {{birth date|1929|04|09|df=yes}}
+| birth_place        = [[Holmfirth]], England
+| death_date         = {{death date and age|2014|06|06|1929|04|09|df=yes}}
+| death_place        = 
+| nationality        = 
+| spouse             = {{marriage|[[Leonore Davidoff]]|1954}}
+| awards             = <!--notable national-level awards only-->
+| alma_mater         = [[London School of Economics]]
+| thesis_title       = 
+| thesis_year        = 
+| school_tradition   = 
+| doctoral_advisor   = 
+| academic_advisors  = 
+| influences         = {{flatlist|
+* [[T.&nbsp;H. Marshall]]{{sfn|Rose|1996|p=386}}
+* [[Max Weber]]
+}}
+| era                = 
+| discipline         = [[Sociology]]
+| sub_discipline     = {{hlist | [[Social stratification]] | [[sociological theory]]}}
+| workplaces         = {{ubl | [[University of Cambridge]] | [[University of Essex]]}}
+| doctoral_students  = <!--only those with WP articles-->
+| notable_students   = [[Anthony Giddens]]
+| main_interests     = 
+| notable_works      = 
+| notable_ideas      = 
+| influenced         = <!--must be referenced from a third-party source-->
+| signature          = 
+| signature_alt      = 
+}}
+'''David Lockwood''' {{post-nominals|country=GBR|CBE|FBA|MAE}} (1929–2014) was a British [[sociologist]].{{sfn|Rose|1996}}
+
+== Early life ==
+Lockwood was born on 9 April 1929 in [[Holmfirth]], England, and was the youngest child in his working-class family.<ref name=":0">{{cite news |last=Rose |first=David |date=29 June 2014 |title=David Lockwood Obituary |url=https://www.theguardian.com/education/2014/jun/29/david-lockwood |url-access=limited |work=The Guardian |location=London |access-date=3 December 2020}}</ref> His father, Herbert, was a dyer and then retrained as a cobbler after being wounded during the [[First World War]] and he died when Lockwood was 10. His mother, Edith, was a cleaner. He served in the [[Army Intelligence Corps]] from 1947 to 1949.<ref name=":0"/>
+
+== Life and works ==
+His book, ''The Blackcoated Worker'' (1958 & 1989), seeks to analyse the changes in the stratification position of the clerical worker by using a framework based on [[Max Weber]]'s distinction between market and work situations.<ref name=":0" />{{failed verification|date=December 2020}} Lockwood argued that the class position of any occupation can be most successfully located by distinguishing between the material rewards gained from the market and work situations, and those symbolic rewards deriving from its status situation.{{sfn|Scott|Marshall|2009|p=421}} His work became a very important contribution to the "proletarianisation" debate which argued that many [[white-collar worker]]s were beginning to identify with manual workers by identifying their work situation as having much in common with the [[proletariat]].
+
+Other published work included ''The Affluent Worker in the Class Structure'' (1969) and ''Solidarity and Schism'' (1992).<ref name=":0" />{{sfn|Mouzelis|1998|p=174}}
+
+== Family life ==
+Lockwood was married to the [[gender studies]] pioneer [[Leonore Davidoff]], whom he met while studying at LSE. They had three sons: Matthew, Ben, and Harold.<ref name=":0" />
+
+Lockwood died on 6 June 2014.<ref name=":0" />
+
+==See also==
+* [[Macrosociology]]
+
+==References==
+===Footnotes===
+{{reflist|22em}}
+
+===Works cited===
+{{refbegin|35em|indent=yes}}
+* {{cite book
+|last=Mouzelis
+|first=Nicos
+|year=1998
+|chapter=David Lockwood
+|editor-last=Sones
+|editor-first=Rob
+|title=Key Sociological Thinkers
+|location=London
+|publisher=Palgrave
+|pages=163–174
+|doi=10.1007/978-1-349-26616-6_13
+|isbn=978-1-349-26616-6
+}}
+* {{cite journal
+|last=Rose
+|first=David
+|year=1996
+|title=For David Lockwood
+|journal=The British Journal of Sociology
+|volume=47
+|issue=3
+|pages=385–396
+|doi=10.2307/591358
+|issn=1468-4446
+|jstor=591358
+}}
+* {{cite book
+|year=2009
+|editor1-last=Scott
+|editor1-first=John
+|editor1-link=John Scott (sociologist)
+|editor2-last=Marshall
+|editor2-first=Gordon
+|editor2-link=Gordon Marshall (sociologist)
+|title=A Dictionary of Sociology
+|edition=3rd rev.
+|location=Oxford
+|publisher=Oxford University Press
+|isbn=978-0-19-953300-8
+}}
+{{refend}}
+
+== External links ==
+*[http://www.esds.ac.uk/qualidata/pioneers/pioneerdetail.asp?id=pioneer_people_lockwood David Lockwood at "Pioneers of Qualitative Research" from the Economic and Social Data Service]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lockwood}}
+[[Category:1929 births]]
+[[Category:2014 deaths]]
+[[Category:Academics of the University of Essex]]
+[[Category:British sociologists]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Fellows of the British Academy]]
+
+
+{{UK-sociologist-stub}}

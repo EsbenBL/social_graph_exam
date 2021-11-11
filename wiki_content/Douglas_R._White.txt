@@ -1,0 +1,76 @@
+{{Infobox person
+| name        = Douglas R. White
+| image       = Douglas R. White.jpg
+| caption     = Douglas R. White
+| birth_date  = 1942
+| death_date  = {{Death date|2021|08|22}}<ref>[https://www.socsci.uci.edu/newsevents/news/2021/2021-09-03-white-memoriam.php In memoriam: Douglas White]</ref>
+| alma_mater  = [[University of Michigan]]
+| occupation  = [[Anthropologist]]
+| known_for   = [[Network Analysis and Ethnographic Problems]], [[Complex systems|Complexity research]], [[Standard cross-cultural sample]]
+}}
+{{Political anthropology}}
+'''Douglas R. White''' (1942 – 22 August 2021) was an American [[complexity|complexity researcher]], [[Social anthropology|social anthropologist]], [[sociology|sociologist]], and [[social network]] researcher at the [[List of University of California, Irvine people|University of California, Irvine]].<ref>{{cite web|url=http://intersci.ss.uci.edu/wiki|title=InterSciWiki|access-date=2 February 2016}}</ref>
+
+==Biography==
+Douglas White was born in [[Minneapolis]] in 1942. He attended the [[University of Michigan]], [[Columbia University]], and the [[University of Minnesota]], where he received a [[Bachelor of Arts|B.A.]] in 1964, an [[Master's degree|M.A.]] in 1967, and a [[Doctor of Philosophy|Ph.D.]] degree in 1969, all under advisor E. Adamson [[Hoebel]] and the Travelling Scholars Program.<ref>[http://www.cic.uiuc.edu/programs/TravelingScholars/ CIC: Travelling Scholars Program] {{webarchive |url=https://web.archive.org/web/20070405145357/http://www.cic.uiuc.edu/programs/TravelingScholars/ |date=April 5, 2007 }}</ref>
+
+White taught at the [[University of Pittsburgh]] from 1967 to 1976. Since then he has been a Social Science Professor at the [[University of California, Irvine]], teaching in Social Relations, in Comparative Culture, in Social Networks and in Anthropology. He co-founded and chaired the [[Social network|Social Networks]] PhD program and within the Institute for Mathematical [[Behavioral Sciences]] chaired the Social Dynamics and Complexity<ref>{{cite web|url=http://www.socsci.uci.edu/socdyn/|title=Home|access-date=2 February 2016}}</ref> research group and the [[University of California|UC]] four-campus videoconference group.<ref>{{cite web|url=http://eclectic.ss.uci.edu/~drwhite/center/cac.html|title=Human Sciences and Complexity (HSC-UC)|access-date=2 February 2016}}</ref>
+
+He was on the external faculty at the [[Santa Fe Institute]],<ref>{{cite web|url=http://intersci.ss.uci.edu/wiki/index.php/Douglas_R._White|title=Douglas R. White|access-date=2 February 2016}}</ref> was on the governing Council of the European Complex Systems Society,<ref>[http://complexsystems.lri.fr/ECSS/tiki-index.php European Complex Systems Society] {{webarchive |url=https://web.archive.org/web/20060901090924/http://complexsystems.lri.fr/ECSS/tiki-index.php |date=September 1, 2006 }}</ref> and served as President of the [http://computationalsocialscience.org/ Social Science Computing Association] and of the Linkages Development Research Council.
+
+He founded the [[World Cultures]] electronic journal in 1985 as part of the movement for [[Open access (publishing)|open access]] scientific data and publication and founded the open access and [[peer reviewed]] [[Structure and dynamics|Structure and Dynamics]] electronic journal in 2005, where he continued as editor-in-chief.
+
+He was a recipient of the U.S. Distinguished Scientist Award of the [[Alexander von Humboldt#The Alexander von Humboldt Foundation|Alexander von Humboldt]] Foundation, the "Best Paper in Mathematical Sociology of 2004" Award of the [[American Sociological Association]] (2004), and the 2007 "Viviana Zelizer Distinguished Scholarship Award" for the outstanding article published in the field of economic sociology in the previous two years.
+
+== Work ==
+Major contributions of Douglas R. White:
+* White was known for [[Cross-cultural studies]], studies of the [[division of labor]], sexual division of labor,<ref>{{cite web|url=http://eclectic.ss.uci.edu/~drwhite/pw/SexualDivision_ofLabor.htm|title=Standard Cross-Cultural Sample: The Sexual Division of Labor Page, Causes and Entailments|access-date=2 February 2016}}</ref> polygyny,<ref>{{cite web|url=http://eclectic.ss.uci.edu/~drwhite/pw/Polygyny.htm|title=Standard Cross-Cultural Sample: The Polygyny Page|access-date=2 February 2016}}</ref> marriage and [[kinship]], his collaborative creation of the [[Standard Cross-Cultural Sample]] (SCCS), and [http://intersci.ss.uci.edu/wiki/index.php/Standard_Cross-Cultural_Sample#Download_for_Spss:_Standard_Cross-Cultural_Sample_Spss_data_file public domain distribution of SCCS data, courseware and software], which has given way to the [http://www.xsede.org/gateways-listing UCI Complex Social Science Gateway] that hosts Anthropology's [http://intersci.ss.uci.edu Ethnographics of the Lives of World Peoples] along with software used in solving [[Galton's problem]] of autocorrelation [http://SocSciCompute.ss.uci.edu for analysis of observational data],<ref>{{cite web|url=http://intersci.ss.uci.edu/wiki/index.php/DEf|title=DEf|access-date=2 February 2016}}</ref> and for research on:
+* [[Longitudinal study|Longitudinal]] historical evolution and field studies of human groups, larger societies, and city systems<ref>[http://intersci.ss.uci.edu/wiki/index.php/Realistic_modeling_of_complex_interactive_systems Realistic modeling of complex interactive systems]</ref>
+* [[Mathematical modeling]] of social, economic, and historical dynamics, as well as statistical [[entailment]] analysis, [[Galton's problem]], the Natchez Paradox,<ref>[http://eclectic.ss.uci.edu/~drwhite/pub/NatchezPeople.pdf the Natchez Paradox]</ref> [[Structural endogamy]] and network simulation, [[Weighted networks#cite note-5|regular equivalence]], flow [[centrality]], and [[structural cohesion#cite note-1|structural cohesion]],
+* [[Social networks]], including, more specifically, the network realism<ref>[http://eclectic.ss.uci.edu/~drwhite/NetworkRealism.htm network realism]</ref> paradigm,
+* Social complexity and [[Social-circles network model|complex-network]] system dynamics.
+* [[Standard Cross-Cultural Sample]]
+* [[System dynamics]] Studies of world system dynamics and urban studies, including his current studies of urban dynamics over the last millennium,
+
+A reaction to his latest book, [[Network Analysis and Ethnographic Problems]], by one reviewer, was that this "could be the most important book in anthropology in fifty years." His work on implications of feedback and feedforward processes, published in [[Physical Review]] in collaboration with the founder of [[Constantino Tsallis|nonextensive physics]], a founder of [[J. Doyne Farmer|chaos theory]], and two young computer scientists, provides one of the foundational network simulations for understanding complex networks.
+
+White's [http://intersci.ss.uci.edu/wiki/index.php/Main_Page Main page] hosts a public server, that if used externally at http://SocSciCompute.ss.uci.edu, offers ethnographic data, variables and tools for inference with R scripts by Dow (2007) and Eff and Dow (2009) in an NSF supported Galaxy (http://getgalaxy.org) framework (https://www.xsede.org) for instructors, students and researchers to do cross-cultural research modeling with controls for Galton's problem using Standard Cross-Cultural Sample variables at https://web.archive.org/web/20160402201432/https://dl.dropboxusercontent.com/u/9256203/SCCScodebook.txt.
+
+== Books ==
+White authored or coauthored 5 books and over 100 articles, and edited 3 books and 2 special journal issues dealing with his research interests.
+* 1972, ''The Anthropology of Urban Environments''. with Thomas Weaver. Society for Applied Anthropology, Monograph Series.
+* 1975, ''Tuaraiscail: Report of the Committee on Language Attitudes Research Regarding Irish''. 5 volumes. with Lilyan A. Brudner. Dublin: Government Printing Office.
+* 1991, ''Research Methods in Social Network Analysis''. with Linton C. Freeman and A. Kimball Romney. Transaction Publishers.
+* 1998, ''Kinship, Networks, and Exchange : Structural Analysis in the Social Sciences'', with Thomas Schweizer. Cambridge University Press.
+* 2004, ''Network Analysis and Ethnographic Problems: Process Models of a Turkish Nomad Clan'' (with Ulla Johansen and [http://eclectic.ss.uci.edu/~drwhite/turks/Fwd.pdf Foreword]<ref>[http://eclectic.ss.uci.edu/~drwhite/turks/Networks_and_Ethnography.htm Foreword, by Andrey Korotayev, ''Network Analysis and Ethnographic Problems: Process Models of a Turkish Nomad Clan'']</ref> by [[Andrey Korotayev]]). Lexington Press.
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[http://eclectic.ss.uci.edu/drwhite/ Homepage]
+** [http://eclectic.ss.uci.edu/~drwhite/pw/Polygyny.htm Standard Cross-Cultural Sample: Polygyny page]
+** [http://eclectic.ss.uci.edu/~drwhite/pw/SexualDivision_ofLabor.htm Standard Cross-Cultural Sample: Sexual Division of Labor page]
+*[http://repositories.cdlib.org/imbs/socdyn/sdeas/ Structure and Dynamics eJournal (General editor)]
+*[https://web.archive.org/web/20060211003825/http://worldcultures.org/ World Cultures eJournal (Founder and past Editor)]
+*[http://intersci.ss.uci.edu/wiki/index.php/Douglas_R._White Complexity Sciences wiki (Founder and sysop)]
+
+{{Authority control}}
+
+{{DEFAULTSORT:White, Douglas R}}
+[[Category:1942 births]]
+[[Category:2021 deaths]]
+[[Category:American anthropologists]]
+[[Category:American sociologists]]
+[[Category:Complex systems scientists]]
+[[Category:Cross-cultural studies]]
+[[Category:University of Michigan alumni]]
+[[Category:University of Minnesota alumni]]
+[[Category:Columbia University alumni]]
+[[Category:University of Pittsburgh faculty]]
+[[Category:Social anthropologists]]
+[[Category:World system scholars]]
+[[Category:Neoevolutionists]]
+[[Category:University of California, Irvine faculty]]
+[[Category:Network scientists]]
+[[Category:People from Minneapolis]]

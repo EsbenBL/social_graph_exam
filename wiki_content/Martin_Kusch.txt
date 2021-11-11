@@ -1,0 +1,85 @@
+{{Short description|German philosopher}}
+{{Use dmy dates|date=November 2017}}
+{{Infobox philosopher
+| name             =  <!-- include middle initial, if not specified in birth_name -->
+| image            =  <!-- filename only, i.e. without the File: (or Image:) prefix or enclosing [[brackets]] -->
+| alt              = 
+| caption          = 
+| other_names      = 
+| birth_name       = <!-- only use if different from name -->
+| birth_date       = {{Birth date and age|df=yes|1959|10|19}}
+| birth_place      = [[Leverkusen]], [[West Germany]]
+| death_date       = <!-- {{death date and age|df=yes|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place      = 
+| residence        = 
+| nationality      = [[Germany|German]]
+| religion         = 
+| alma_mater       = 
+| notable_works    = <!-- use "notable_works" in place of "books" parameter (deprecated) -->
+| awards           = 
+| signature        = 
+| signature_size   = 
+| signature_alt    = 
+| era              = 
+| region           = 
+| school_tradition = 
+| institutions     = [[University of Vienna]]
+| main_interests   = [[Sociology of scientific knowledge]]
+| notable_ideas    = 
+| influences       = 
+| influenced       = 
+| website          = <!-- {{URL|example.com}} -->
+}}
+'''Martin Kusch''' (born 19 October 1959)<ref name=Congress>{{cite web |title= Kusch, Martin |url= http://id.loc.gov/authorities/names/n88202305.html |publisher= Library of Congress |access-date= 15 February 2015 |quote= data sheet (b. 10-19-59) }}</ref> is Professor of philosophy at the [[University of Vienna]]. Until 2009, Kusch was Professor of [[Philosophy]] and [[Sociology of science]] at the Department of History and Philosophy of Science at [[Cambridge University]]. Prior to Cambridge, Kusch was lecturer in the [[Science Studies]] Unit of the [[University of Edinburgh]].
+
+== Biography ==
+Kusch's wide-ranging contributions to philosophy reflect both systematic and historical interests and cut across traditional disciplinary divides. He has published in the [[philosophy of the social sciences]], [[epistemology]], [[philosophy of language]] and mind, philosophy of the [[natural sciences]], [[philosophy of technology]], and the history of German and Austrian philosophy.
+
+Kusch has also made important contributions to [[science and technology studies]], particularly in the field of the [[sociology of scientific knowledge]].
+
+In addition, Kusch has written on the history of science with a special reference to the history of German [[psychology]].
+
+In 2005, he delivered the Leibniz Lectures at [[Leibniz University Hannover]].
+
+==Selected publications==
+=== Books ===
+* {{cite book | last = Kusch | first = Martin | title = Einzelheit und allgemeinheit: Einführung in die philosophie G.W.F. Hegels | trans-title = Singularity and universality: introduction to philosophy G.W.F. Hegels | publisher = Jyväskylän yliopisto Filosofian laitos | location = Jyväskylä, Finland | year = 1984 | language = German | isbn = 9789516791138 }} Reports from the Philosophy Department of the University of Jyväskylä.
+* {{cite book | last = Kusch | first = Martin | title = Ymmärtämisen haaste | trans-title = The challenge of understanding: an introduction to hermeneutics | publisher = Pohjoinen | location = Oulu | year = 1986 | language = Finnish | isbn = 9789517490429 }}
+* {{cite book | last1 = Kusch | first1 = Martin | last2 = Hintikka | first2 = Jaakko | author-link2 = Jaakko Hintikka | title = Kieli ja Maailma | trans-title = Language and the world | publisher = Pohjoinen | location = Oulu | year = 1988 | language = Finnish | isbn = 9789517490849 }}
+* {{cite book | last = Kusch | first = Martin | title = Language as calculus vs. language as universal medium: a study in Husserl, Heidegger, and Gadamer | publisher = Kluwer Academic Publishers | location = Dordrecht Boston | year = 1989 | isbn = 9780792303336 }}
+* {{cite book | last = Kusch | first = Martin | title = Foucault's strata and fields: an investigation into archaeological and genealogical science studies | publisher = Kluwer Academic Publishers | location = Dordrecht Boston | year = 1991 | isbn = 9780792314622 }}
+* {{cite book | last = Kusch | first = Martin | title = Psychologism: a case study in the sociology of philosophical knowledge | publisher = Routledge | location = London New York | year = 1995 | isbn = 9780203983898 }}
+* {{cite book | last1 = Kusch | first1 = Martin | last2 = Collins | first2 = Harry M. | author-link2 = Harry M. Collins | title = The shape of actions what humans and machines can do | publisher = MIT Press | location = Cambridge, Mass | year = 1998 | isbn = 9780262032575 }}
+* {{cite book | last = Kusch | first = Martin | title = Psychological knowledge: a social history and philosophy | publisher = Routledge | location = London New York | year = 1999 | isbn = 9780415192538 }}
+* {{cite book | last = Kusch | first = Martin | title = The sociology of philosophical knowledge | publisher = Kluwer Academic Publishers | location = Dordrecht Boston | year = 2000 | isbn = 9789048153909 }}
+* {{cite book | last = Kusch | first = Martin | title = Knowledge by agreement: the programme of communitarian epistemology | publisher = Clarendon Press Oxford University Press | location = Oxford New York | year = 2002 | isbn = 9780199251223 }}
+* {{cite book | last = Kusch | first = Martin | title = A sceptical guide to meaning and rules: defending Kripke's Wittgenstein | publisher = Acumen | location = Chesham England | year = 2006 | isbn = 9781844650651 }}
+
+=== Journal articles ===
+* {{cite journal | last1 = Kusch | first1 = Martin | last2 = Pauer-Studer | first2 = Herlinde | last3 = Schmid | first3 = Hans Bernhard | title = Introduction | journal = Erkenntnis, Supplement 9: Group Agency and Collective Intentionality | volume = 79 | issue = s9 | page = 1563 | publisher = [[Springer Science+Business Media|Springer]] | doi = 10.1007/s10670-014-9628-7 | jstor = 24021469 | date = October 2014 | doi-access = free }} [https://www.academia.edu/7143103/Group_Agency_and_Collective_Intentionality_ed._with_Martin_Kusch_and_Hans_Bernhard_Schmid_ Pdf.]
+* {{cite journal | last = Kusch | first = Martin | title = The metaphysics and politics of corporate personhood | journal = Erkenntnis, Supplement 9: Group Agency and Collective Intentionality | volume = 79 | issue = s9 | pages = 1587–1600 | publisher = [[Springer Science+Business Media|Springer]] | doi = 10.1007/s10670-014-9630-0 | jstor = 24021471 | date = October 2014 | s2cid = 144577233 }}
+
+=== Other ===
+* {{Cite SEP|psychologism|Psychologism|Kusch}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [https://martinkusch.academia.edu Kusch's web page]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kusch, Martin}}
+[[Category:1959 births]]
+[[Category:20th-century German philosophers]]
+[[Category:21st-century German philosophers]]
+[[Category:Academics of the University of Cambridge]]
+[[Category:Academics of the University of Edinburgh]]
+[[Category:Living people]]
+[[Category:Sociologists of science]]
+[[Category:University of Vienna faculty]]
+[[Category:German male writers]]
+[[Category:European Research Council grantees]]
+
+{{Germany-philosopher-stub}}

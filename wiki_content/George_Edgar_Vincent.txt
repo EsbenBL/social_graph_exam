@@ -1,0 +1,102 @@
+{{short description|American sociologist}}
+{{use mdy dates|date=December 2019}}
+{{use American English|date=December 2019}}
+{{other people|George Vincent}}
+{{Infobox officeholder
+| name        = George Edgar Vincent
+| image       = Portrait of George Edgar Vincent.jpg 
+| caption     =
+| order       = Third 
+| title       = President of the<br />[[University of Minnesota]]
+| term_start  = 1911
+| term_end    = 1917
+| order2      =
+| birth_date  = {{birth date|1864|3|21|mf=y}}
+| birth_place = [[Rockford, Illinois]]<br />[[United States]]
+| death_date  = {{death date and age|1941|2|1|1864|3|21|mf=y}}
+| death_place = [[New York City, New York]]<br />[[United States]]
+| predecessor = [[Cyrus Northrop]]
+| successor   = [[Marion LeRoy Burton]]
+| alma_mater  = [[Yale University]]
+| residence   =
+| known_for   = Co-author of the first sociology textbook with [[Albion Woodbury Small|Albion Small]]
+| profession  = Sociologist, Professor, University President
+| religion    =
+| parents     = {{ubl|Bishop John Heyl Vincent|Elizabeth (Dusenbury) Vincent}}
+| spouse      = Louise (Palmer) Vincent
+| children    = {{ubl|John Henry Vincent|Isabel (Vincent) Harper|Elizabath (Vincent) Foster}}
+| footnotes   =
+}}
+'''George Edgar Vincent''' (March 21, 1864 – February 2, 1941) was an [[Americans|American]] sociologist and university president.
+
+==Biography==
+He was born at [[Rockford, Illinois|Rockford]], [[Illinois]], the son of [[Bishop]] [[John Heyl Vincent|John H. Vincent]].  He studied at [[Yale University|Yale]], where he was a member of [[Delta Kappa Epsilon]] fraternity and served on the thirteenth editorial board of ''[[The Yale Record]]''.<ref>"''Record'' Editors". ''The Yale Banner''. New Haven: Thomas Penney and G. D. Pettee. 1877. p. 182.</ref> After graduating in 1885, he engaged in [[journalism|journalistic]] and literary work.
+
+In 1888 he became associated with the [[Chautauqua, New York|Chautauqua]] system as vice principal, and after 1907 was president of the [[Chautauqua Institution]] (of the [[Chautauqua]] movement).
+
+From 1892 to 1894 he was a fellow at the [[University of Chicago]], in the first Department of [[Sociology]] in the [[United States]]. He was appointed to the Chicago faculty in 1894 and became a [[professor]] of [[sociology]] in 1904.  From 1900 to 1907 he was [[Dean (education)|dean]] of the junior colleges, and from 1907 to 1911 he was dean of the faculties of arts, literature, and science.
+
+In 1911 he became the third president of the [[University of Minnesota]] in [[Minneapolis]]/[[Saint Paul, Minnesota|Saint Paul]], [[Minnesota]]. Drawing on his experience with the [[Chautauqua Institute]], he helped found the General Extension Division (the predecessor of the College of Continuing Education) to provide working adults with access to the University's courses.<ref>{{cite web|title=George Edgar Vincent, 1911–1917|url=https://president.umn.edu/about/presidential-history/george-edgar-vincent|website=University of Minnesota Office of the President|access-date=2015-06-08|archive-url=https://web.archive.org/web/20190419144539/https://president.umn.edu/about/presidential-history/george-edgar-vincent|archive-date=2019-04-19|url-status=dead}}</ref> While at the U of MN, Vincent put in place innovative programming including 'University Weeks' with plays, lectures, concerts and debates similar to the Chautauqua Institute, in the spirit of increasing educational and cultural opportunities for the general public.<ref name="Vincent">{{cite web|title=Presidential History|url=https://president.umn.edu/about/presidential-history/george-edgar-vincent|publisher=University of Minnesota|access-date=December 17, 2017|archive-url=https://web.archive.org/web/20190419144539/https://president.umn.edu/about/presidential-history/george-edgar-vincent|archive-date=April 19, 2019|url-status=dead}}</ref><ref name="Chautauqua">{{cite book| title=' 'The Pursuit of Knowledge under Difficulties: From Self-Improvement to Adult Education in America, 1750–1990."|url= https://books.google.com/books?id=BjGrAAAAIAAJ&q=minnesota&pg=PA573|work=[[Stanford University Press]] |date=1994|page=291 |access-date=January 6, 2018|isbn=978-0-8047-6528-2}}</ref><ref name="150years">{{cite book| last1=Lehmberg |first1=Stanford |author-link=Stanford Lehmberg| last2=Pflaum|first2=Ann M. |author-link2=Ann M. Pflaum| date=2001| title= The University of Minnesota 1945–2000| url=https://archive.org/details/universityofminn00stan | url-access=registration |publisher= [[University of Minnesota Press]] |page=xvii }}</ref>
+
+Vincent Hall on the [[University of Minnesota#East Bank|University of Minnesota's East Bank campus]] is named in his honor. Vincent Hall is home to the School of Mathematics.
+
+In 1917 he took the position of president of the [[Rockefeller Foundation]].
+
+==References==
+{{Reflist}}
+* {{NIE|title=George Edgar Vincent}}
+
+==Works==
+* ''An Introduction to the Study of Society'' (1894)  with [[Albion Woodbury Small|Albion W. Small]], the first sociology textbook
+* ''The Social Mind and Education'' (1896)
+* ''The National Memory'' (1913)
+
+==Further reading==
+* {{cite book | last1=Gray|first1=James |date=1958|title=Open Wide The Door: The History of the University of Minnesota |publisher=[[G.P. Putnam’s Sons]] |location=[[New York City|New York]] }}
+
+==External links==
+{{Commons category}}
+* {{Internet Archive author |sname=George Edgar Vincent |sopt=t}}
+* [https://www.jstor.org/action/doBasicSearch?Search=Search&Query=au:%22George%20E.%20Vincent%22&wc=on Works by George Edgar Vincent], at [[JSTOR]]
+* [https://web.archive.org/web/20070927072035/http://www2.asanet.org/governance/vincentobit.html Obituary, American Sociological Review, 1941]
+* {{Find a Grave}}
+
+{{s-start}}
+{{s-aca}}
+{{succession box
+| before = [[Edward A. Ross]]
+| title  = President of the [[American Sociological Association]]
+| years  = 1915–1916
+| after  = [[George E. Howard]]
+}}
+{{succession box
+| before = [[Cyrus Northrop]]
+| title  = President of the [[University of Minnesota]]
+| years  = 1911–1917
+|order=3rd
+| after  = [[Marion LeRoy Burton]]
+}}
+{{s-npo}}
+{{s-bef|before=[[John D. Rockefeller Jr.]]}}
+{{s-ttl|title=[[Rockefeller Foundation|President of the Rockefeller Foundation]]|years=November 6, 1917 – September 20, 1929}}
+{{s-aft|after=[[Max Mason]]}}
+{{s-end}}
+{{s-end}}
+
+{{American Sociological Association presidents}}
+{{University of Minnesota presidents}}
+{{Authority control}}
+
+{{DEFAULTSORT:Vincent, George Edgar}}
+[[Category:1864 births]]
+[[Category:1941 deaths]]
+[[Category:American sociologists]]
+[[Category:American textbook writers]]
+[[Category:American male non-fiction writers]]
+[[Category:Sociology educators]]
+[[Category:People from Rockford, Illinois]]
+[[Category:Yale University alumni]]
+[[Category:Presidents of the University of Minnesota]]
+[[Category:University of Chicago faculty]]
+[[Category:Presidents of the American Sociological Association]]
+[[Category:Presidents of the Rockefeller Foundation]]

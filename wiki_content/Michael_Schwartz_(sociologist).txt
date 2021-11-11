@@ -1,0 +1,74 @@
+{{Infobox scientist
+| name              = Michael H. Schwartz
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date and age |1942|5|9|mf=y}}<ref name=whoswho>{{cite encyclopedia |title=Michael Schwartz |encyclopedia=Who's Who in America |year=2016 |publisher=[[Marquis Who's Who]] |location=[[Berkeley Heights, NJ]] |edition=70 }}</ref>
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| nationality       = [[United States|American]]
+| fields            = [[Sociology]]
+| workplaces        = [[State University of New York at Stony Brook]]
+| alma_mater        = [[University of California, Berkeley]] <small>([[B.A.]] 1964)</small><p>[[Harvard University]] <small>([[Ph.D.]] 1971)</small><ref name=whoswho />
+| thesis_title      = The Southern Farmers' Alliance: The Organizational Forms of Radical Protest<ref name=diss>{{cite thesis |last=Schwartz |first=Michael Herman |date=1971 |title=The Southern Farmers' Alliance: The organizational forms of radical protest |type=PhD |publisher=Harvard University |oclc=3257607 |id={{ProQuest|302462395}} }}</ref>
+| thesis_url        = https://search.proquest.com/docview/302462395
+| thesis_year       = 1971
+| doctoral_advisor  = [[Harrison White]]
+| doctoral_students = [[Mark Mizruchi]],<ref name=mizruchi_dissertation>{{cite thesis |last=Mizruchi |first=Mark |date=1980 |title=The structure of the American corporate network: 1904-1974 |type=PhD |page=ii |oclc=7297026 |id={{ProQuest|303081789}} }}</ref> [[Dan Clawson]]
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| spouse            = <!--(or | spouses = )-->
+}}
+
+'''Michael Herman Schwartz''' (born May 9, 1942) is an American [[Sociology|sociologist]] and prominent critic of the [[Iraq War|Iraq war]]. He is a Distinguished Teaching Professor Emeritus of Sociology at the [[State University of New York at Stony Brook]] in [[New York (state)|New York]], where he also serves as faculty director of the Undergraduate College of Global Studies and Chair of the Sociology Department. Schwartz has written extensively in the areas of [[economic sociology]] and [[social movements]].
+
+==Career==
+Schwartz received his doctorate from the Department of Social Relations, [[Harvard University]], where he was a student of [[Harrison White]] and [[Charles Tilly]]. His writings on Iraq have appeared in ''TomDispatch'', ''[[Asia Times]]'', ''[[Mother Jones (magazine)|Mother Jones]]'', and ''[[Contexts]]''. In ''Radical Protest and Social Structure'', Schwartz develops the concept of "structural ignorance" to refer to how individuals make choices and decisions in regard to collective action based on their position in the social structure, which constrains their access to relevant information.
+
+==Books==
+===Solely authored books===
+*{{cite book |last1=Young |first1=Kevin A. |last2= Banerjee |first2= Tarun |last3=Schwartz |first3=Michael |date=2020 |title=Levers of Power: How the 1% Rules and What the 99% Can Do About It  |location=[[New York City|New York]] |publisher=[[Verso Books]] |isbn=9781788730969 }}
+*{{cite book |last1=Schwartz |first1=Murray |title=War Without End: The Iraq War in Context |location=Chicago |publisher=[[Haymarket Books]] |date=2008 |isbn=9781931859547 |url=https://www.researchgate.net/publication/294728347 |url-access=registration}}
+*{{cite book |last1=Schwartz |first1=Murray |title=Radical Protest and Social Structure: The Southern Farmers' Alliance and Cotton Tenancy, 1880–1890 |location=New York |publisher=[[Academic Press]] |date=1976 |isbn=0126328501 |url=https://www.academia.edu/3531396 |url-access=registration }}
+
+===Co-authored books===
+*{{cite book |last1=Murray |first1=Joshua |last2=Schwartz |first2=Murray |date=2019 |title=Wrecked: How the American Automobile Industry Destroyed its Capacity to Compete |url=https://www.russellsage.org/publications/wrecked |location=[[New York City|New York]] |publisher=[[Russell Sage Foundation]] |isbn=9780871548207 }}
+*{{cite book |last1=Mintz |first1=Beth |first2=Michael |last2=Schwartz |title=The Power Structure of American Business |url=https://archive.org/details/powerstructureof0000mint |url-access=registration |location=Chicago |publisher=[[University of Chicago Press]] |year=1985 }}
+
+===Edited books===
+*{{cite book |editor-last=Schwartz |editor-first=Michael |date=1987 |title=Structure of Power in America: The Corporate Elite As a Ruling Class |location=[[Teaneck, NJ]] |publisher=Holmes & Meier Publishers |url=https://www.researchgate.net/publication/274508199 |url-access=registration |isbn= 9780841907645 }}
+
+==Articles==
+*Takuyoshi Takada, Beth Mintz, and Michael Schwartz (eds.) Corporate Control, Capital Institute of Business Research. Tokyo: Chuo University Press, 1996.
+*{{cite journal |first1=Frank |last1=Romo |first2=Michael |last2=Schwartz |title=The Structural Embeddedness of Business Decisions |journal=[[American Sociological Review]] |volume=60 |year=1995 |issue=6 |pages=874–907 |jstor=2096431 |doi=10.2307/2096431 }}
+
+==See also==
+*[[Social movement#Social movement theories|Social Movement Theories]]
+*[[Opposition to the Iraq War]]
+
+==References==
+{{Reflist}}
+*Wrecked Iraq: What the Good News from Iraq Really Means. [http://www.tomdispatch.com/post/174993]
+*War Without End: The Iraq War in Context.[https://archive.today/20130414235345/http://www.haymarketbooks.org/product_info.php?products_id=1609]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Schwartz, Michael}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:Harvard University alumni]]
+[[Category:American sociologists]]
+[[Category:Stony Brook University faculty]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:21st-century American male writers]]
+[[Category:American male non-fiction writers]]
+
+
+{{US-sociologist-stub}}

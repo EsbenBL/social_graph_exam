@@ -1,0 +1,3079 @@
+{{Short description|Psychological anthropologist}}
+{{Use British English|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox scientist
+<!-- Scroll down to edit this page -->
+| fields      = [[Anthropology]], [[social sciences]], [[linguistics]], [[cybernetics]], [[systems theory]]
+| image       = Arnhein and Bateson.jpg
+| caption     = [[Rudolph Arnheim]] (L) and Bateson (R) speaking at the [[American Federation of Arts]] 48th Annual Convention, 1957 Apr 6 / Eliot Elisofon, photographer<br />[[American Federation of Arts]] records, [[Archives of American Art]], [[Smithsonian Institution]]
+| name        = Gregory Bateson
+| birth_date  = {{Birth date|df=yes|1904|05|09}}
+| birth_place = [[Grantchester]], England
+| death_date  = {{Death date and age|df=yes|1980|07|04|1904|05|09}}
+| death_place = San Francisco, California, U.S.
+| spouse      = {{marriage|[[Margaret Mead]]|1936|1950|end=div}}<br />{{marriage|Elizabeth Sumner|1951|1957|end=div}}<br />{{marriage|Lois Cammack<br />|1961}}
+| children    = 5, including [[Mary Catherine Bateson|Mary C. Bateson]]
+| influences  = [[Margaret Mead]], [[Conrad Hal Waddington]], [[Warren McCulloch]], [[Norbert Wiener]], [[John von Neumann]], [[Evelyn Hutchinson]], [[Julian Bigelow]]
+| influenced  = [[John C. Lilly]], [[Heinz von Foerster]], [[Jerry Brown]], [[Richard Bandler]], [[Stewart Brand]], [[Gilles Deleuze]], [[John Grinder]], [[Félix Guattari]], [[Jay Haley]], [[Donald deAvila Jackson|Don D. Jackson]], [[Bradford Keeney]], [[Stephen Nachmanovitch]], [[William Irwin Thompson]], [[R. D. Laing]], [[Paul Watzlawick]], [[Carl Whitaker]], [[Niklas Luhmann]], [[Sharon Traweek]]; [[biosemiotics]], application of [[type theory]] in social sciences, [[communication theory]], [[ethnicity]] theory,<ref>[[Thomas Hylland Eriksen]], "Bateson and the North Sea Ethnicity paradigm", [http://folk.uio.no/geirthe/Batesonethnicity.html folk.uio.no]</ref> [[evolutionary biology]], [[family therapy]], [[brief therapy]], [[neuro-linguistic programming]], [[systemic coaching]], [[anti-psychiatry]], [[visual anthropology]]
+| known_for  = [[Double bind]], ecology of mind, deuterolearning, [[schismogenesis]]}}
+{{Anthropology}}
+'''Gregory Bateson''' (9 May 1904 – 4 July 1980) was an English [[anthropology|anthropologist]], [[social sciences|social scientist]], [[linguistics|linguist]], [[visual anthropology|visual anthropologist]], [[semiotics|semiotician]], and [[cybernetics|cyberneticist]] whose work intersected that of many other fields. His writings include ''[[Steps to an Ecology of Mind]]'' (1972) and ''Mind and Nature'' (1979).
+
+In [[Palo Alto]], California, Bateson and colleagues developed the [[double bind|double-bind]] theory of [[schizophrenia]].
+
+Bateson's interest in [[systems theory]] forms a thread running through his work. He was one of the original members of the core group of the [[Macy conferences]] in Cybernetics (1941–1960), and the later set on Group Processes (1954–1960), where he represented the social and behavioral sciences. He was interested in the relationship of these fields to [[epistemology]]. His association with the editor and author [[Stewart Brand]] helped widen his influence.
+
+== Early life and education ==
+Bateson was born in [[Grantchester]] in [[Cambridgeshire|Cambridgeshire, England]], on 9 May 1904. He was the third and youngest son of (Caroline) Beatrice Durham and the distinguished geneticist [[William Bateson]]. He was named Gregory after [[Gregor Mendel]], the Austrian monk who founded the modern science of [[genetics]].<ref>{{cite book |last=Koestler |first=Arthur |author-link=Arthur Koestler |title = The Case of the Midwife Toad |year=1926}}</ref>
+
+The younger Bateson attended [[Charterhouse School]] from 1917 to 1921, obtained a [[Bachelor of Arts]] in [[biology]] at [[St. John's College, Cambridge]], in 1925, and continued at Cambridge from 1927 to 1929.
+According to Lipset (1982), Bateson's life was greatly affected by the death of his two brothers.  John Bateson (1898–1918), the eldest of the three, was killed in [[World War I]]. Martin Bateson (1900–1922), the second brother, was then expected to follow in his father's footsteps as a scientist, but came into conflict with his father over his ambition to become a poet and playwright. The resulting stress, combined with a disappointment in love, resulted in Martin's public suicide by gunshot under the statue of [[Anteros]] in [[Piccadilly Circus]] on 22 April 1922, which was John's birthday. After this event, which transformed a private family tragedy into public scandal, the parents ambitious expectations fell on Gregory.<ref>Schuetzenberger, Anne (1998). ''The Ancestor Syndrome''.  New York: [[Routledge]].</ref>
+
+==Career==
+In 1928, Bateson lectured in linguistics at the [[University of Sydney]]. 
+From 1931 to 1937, he was a Fellow of St. John's College, Cambridge. He spent the years before [[World War II]] in the South Pacific in [[New Guinea]] and [[Bali]] doing anthropology.
+
+In the 1940s, he helped extend [[systems theory]] and [[cybernetics]] to the social and behavioral sciences.
+Although initially reluctant to join the intelligence services, Bateson served in [[Office of Strategic Services|OSS]] during [[World War II]] along with dozens of other anthropologists.<ref name="currentconcerns.ch">Price, David H. (Dr.). [http://www.currentconcerns.ch/index.php?id=1110 "Gregory Bateson and the OSS: World War II and Bateson's Assessment of Applied Anthropology."] currentconcerns.ch</ref> He was stationed in the same offices as [[Julia Child]] (then Julia McWilliams), [[Paul Cushing Child]], and others.<ref>{{cite book|last1=Conant|first1=Jennet|title=A Covert Affair: Julia Child and Paul Child in the OSS|url=https://archive.org/details/covertaffairjuli00cona|url-access=registration|date=2011|publisher=[[Simon and Schuster]]|page=[https://archive.org/details/covertaffairjuli00cona/page/43 43]|isbn=9781439163528}}</ref> He spent much of the war designing 'black propaganda' radio broadcasts. He was deployed on covert operations in Burma and Thailand, and worked in China, India, and Ceylon as well. Bateson used his theory of [[schismogenesis]] to help foster discord among enemy fighters. He was upset by his wartime experience and disagreed with his wife over whether science should be applied to social planning or used only to foster understanding rather than action.<ref name="currentconcerns.ch"/>
+
+He appeared in [[Maya Deren]]'s [[At Land]] (1944), a 15-minute silent experimental film.
+
+In [[Palo Alto]], California, Bateson developed the [[double bind|double-bind]] theory, together with his colleagues [[Donald deAvila Jackson|Donald Jackson]], [[Jay Haley]] and [[John Weakland|John H. Weakland]], also known as the ''[[Bateson Project]]'' (1953–1963).<ref name="Bateson, G. 1956">{{Cite journal |last1=Bateson |first1=G. |last2=Jackson |first2=D. D. |last3=Haley |first3=J. |last4=Weakland |first4=J. |year=1956 |title=Toward a theory of schizophrenia |journal=[[Behavioral Science (journal)|Behavioral Science]] |volume=1 |issue= 4|pages=251–264 |doi=10.1002/bs.3830010402}}</ref>
+
+In 1956, he became a [[naturalised citizen]] of the United States.
+
+Bateson was one of the original members of the core group of the [[Macy conferences]] in [[cybernetics]] (1941–1960), and the later set on Group Processes (1954–1960), where he represented the social and behavioral sciences.
+
+In the 1970s, he taught at the Humanistic Psychology Institute in San Francisco, renamed the [[Saybrook University]],<ref>{{cite book |last= Gordon |first= Susan |chapter= Editor's Introduction |title= Neurophenomenology and Its Applications to Psychology |editor= Susan Gordon |location= New York |publisher= [[Springer Publishing]] |year= 2013 |page= xxxii |isbn= 978-1-4614-7238-4}}</ref> and in 1972 joined the faculty of [[Kresge College]] at the [[University of California, Santa Cruz]].<ref>Per the jacket copy of the first edition of ''Mind and Nature'' (1979)</ref>
+
+In 1976, he was elected a Fellow of the [[American Academy of Arts and Sciences]].<ref name=AAAS>{{cite web |title=Book of Members, 1780–2010: Chapter B |url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf |publisher=[[American Academy of Arts and Sciences]] |access-date=21 May 2011}}</ref> 
+California Governor [[Jerry Brown]] appointed him to the [[Regents of the University of California]],<ref>{{cite web|title=The Regents of the University of California (list) |url=http://regents.universityofcalifornia.edu/_documents/pdf/regentslistb.pdf |publisher=[[University of California]] |access-date=31 August 2014}}</ref> a position he held until his death, although he resigned from the Special Research Projects committee in 1979 in opposition to the university's work on [[nuclear weapons]].
+
+Bateson spent the last decade of his life developing a "meta-science" of [[epistemology]] to bring together the various early forms of systems theory developing in different fields of science.<ref>{{cite book | title=Gregory Bateson: Legacy of a Scientist | publisher=[[Prentice-Hall]] | author=Lipset, David | year=1980 | isbn=0133650561 | url=https://archive.org/details/gregorybatesonle00lipsrich| url-access=registration }}</ref>
+
+==Personal life==
+From 1936 until 1950, he was married to American cultural anthropologist [[Margaret Mead]].<ref>[[NNDB]], [http://www.nndb.com/people/169/000100866/ Gregory Bateson], Soylent Communications, 2007.</ref> He applied his knowledge to the war effort before moving to the United States.<ref name="Britannica">[[Encyclopædia Britannica]] (2007). "Gregory Bateson". Retrieved from [https://web.archive.org/web/20060413134325/http://concise.britannica.com/ebc/article-9356738/Gregory-Bateson Britannica Concise], 5 August 2007</ref> Bateson and Mead had a daughter, [[Mary Catherine Bateson]] (1939–2021), who also became an anthropologist.<ref>{{cite web|url=http://www.marycatherinebateson.com |title=Mary Catherine Bateson |publisher=Mary Catherine Bateson |access-date=27 July 2013}}</ref> Bateson separated from Mead in 1947, and they were divorced in 1950.<ref name="Mead letters">''To Cherish the Life of the World: Selected Letters of Margaret Mead''. Margaret M. Caffey and Patricia A. Francis, eds. With foreword by Mary Catherine Bateson. New York. [[Basic Books]]. 2006.</ref> In 1951, he married Elizabeth "Betty" Sumner (1919–1992), the daughter of the [[Episcopal Church (United States)|Episcopalian]] [[Bishop of Oregon]], [[Walter Taylor Sumner]].<ref name="Findagrave">{{cite web|work=[[Find a Grave]]|title=Walter Taylor Sumner|date=August 21, 2011|access-date=2016-02-28|url=https://www.findagrave.com/memorial/75267297}}</ref> They had a son, John Sumner Bateson (1951–2015), as well as twins who died shortly after birth in 1953.  Bateson and Sumner were divorced in 1957, after which Bateson was married a third time, to therapist and social worker Lois Cammack (born 1928), in 1961.  They had one daughter, Nora Bateson (born 1969).<ref name="Mead letters"/>
+
+Bateson was a lifelong atheist, as his family had been for several generations.<ref>{{cite book |title=Understanding Gregory Bateson: mind, beauty, and the sacred earth |year=2008 |publisher=SUNY Press |isbn=9780791474525|page=29 |author=Noel G. Charlton |quote=This was to be the last large-scale work of lifelong atheist Bateson, seeking to understand the meaning of the sacred.}}</ref> He was a member of [[William Irwin Thompson]]'s esoteric [[Lindisfarne Association]].
+
+Bateson died on July 4, 1980, at age 76, in the guest house of the [[San Francisco Zen Center]].<ref>[http://www.wholeearth.com/issue/2035/article/298/gregory.bateson.old.men.ought.to.be.explorers, 'Gregory Bateson: Old Men Ought to be Explorers'], [[Stephen Nachmanovitch]], ''[[CoEvolution Quarterly]]'', Fall 1982</ref>
+The 2014 novel ''Euphoria'' by [[Lily King]] is a fictionalized account of Bateson's relationships with Mead and [[Reo Fortune]] in pre-WWII New Guinea.<ref>{{cite news|last1=Eakin|first1=Emily|title=Going Native: 'Euphoria,' by Lily King|url=https://www.nytimes.com/2014/06/08/books/review/euphoria-by-lily-king.html|access-date=29 September 2017|work=The New York Times|date=6 June 2014}}</ref>
+
+==Philosophy==
+Where others might see a set of inexplicable details, Bateson perceived simple relationships.<ref name=Tognetti2002>{{cite book |last=Tognetti |first=Sylvia S. |title=Encyclopedia of Global Environmental Change|year=2002 |publisher=[[John Wiley & Sons|Wiley]] |location=Chichester |isbn=0471977969 |pages=183–184|url=http://www.sylviatognetti.org/data/BatesonEGEC.pdf |editor=Peter Timmerman|access-date=15 August 2012|chapter=Bateson, Gregory|quote=Instead, Bateson stressed the importance of relationships that provide the basis for organization, and that are a greater limiting factor than energy. Relationships, which are sustained through communication of information rather than by energy flows, are also important as a source of information about context and meaning.}}</ref> In "From Versailles to Cybernetics," Bateson argues that the history of the twentieth century can be perceived as the history of a malfunctioning relationship. In his view, the [[Treaty of Versailles]] exemplifies a whole pattern of human relationships based on betrayal and hate. He therefore claims that the treaty of Versailles and the development of [[cybernetics]]—which for him represented the possibility of ''improved'' relationships—are the only two anthropologically important events of the twentieth century.<ref name="Bateson—Versailles–Cybernetics">{{cite book|last=Bateson |first=Gregory |title=Steps to an Ecology of Mind |pages=477–485 |url=http://www.ralphmag.org/batesonP.html |access-date=15 August 2012 |chapter=Versailles to Cybernetics |date=21 April 1966 |quote=This is what mammals are about. They are concerned with patterns of relationship, with where they stand in love, hate, respect, dependency, trust, and similar abstractions, vis-à-vis somebody else.}}</ref>
+
+== Work ==
+
+=== New Guinea ===
+Bateson's beginning years as an anthropologist were spent floundering, lost without a specific objective in mind. He began in 1927 with a trip to [[New Guinea]], spurred by mentor [[A. C. Haddon]].<ref name="Lipset 1982">Lipset, 1982 {{page needed|date=November 2014}}<!--Actually must need separate page numbers for each ref to Lipset 1982, so these references need to be split--></ref> His goal, as suggested by Haddon, was to explore the effects of contact between the [[Sepik]] natives and whites.  Unfortunately for Bateson, his time spent with the [[Baining people|Baining]] of New Guinea was halted and difficult. The Baining were not particularly accommodating of his research, and he missed out on many communal activities. They were also not inclined to share their religious practices with him.<ref name="Lipset 1982"/> He left the Baining frustrated. Next, he set out to study the [[Sulka language|Sulka]], belonging to another native population of New Guinea. Although the Sulka were very different from the Baining and their culture more easily observed, he felt their culture was dying, which left him dispirited and discouraged.<ref name="Lipset 1982"/>
+
+He experienced more success with the [[Iatmul people]], an indigenous people living along New Guinea's [[Sepik River]]. The observations he made among the Iatmul people allowed him to develop his concept of [[schismogenesis]]. In his 1936 book ''Naven'' he defined the term, based on his Iatmul fieldwork, as "a process of differentiation in the norms of individual behaviour resulting from cumulative interaction between individuals" (p.&nbsp;175). The book was named after the 'naven' rite, an honorific ceremony among the Iatmul, still continued today, that celebrates first-time cultural achievements.  The ceremony entails behaviours that are otherwise forbidden during everyday social life. For example, men and women reverse and exaggerate gender roles; men dress in women's skirts, and women dress in men's attire and ornaments.<ref name="Lipset 1982"/> Additionally, some women smear mud in the faces of other relatives, beat them with sticks, and hurl bawdy insults.  Mothers may drop to the ground so their celebrated 'child' walks over them.  And during a male rite, a mother's brother may slide his buttocks down the leg of his honoured sister's son, a complex gesture of masculine birthing, pride, and insult, rarely performed before women, that brings the honoured sister's son to tears.<ref>Silverman, Eric Kline (2001) ''Masculinity, Motherhood and Mockery: Psychoanalyzing Culture and the Iatmul Naven Rite in New Guinea''. University of Michigan Press</ref> Bateson suggested the influence of a circular system of causation, and proposed that:
+
+<blockquote>Women watched for the spectacular performances of the men, and there can be no reasonable doubt that the presence of an audience is a very important factor in shaping the men's behavior. In fact, it is probable that the men are more exhibitionistic because the women admire their performances. Conversely, there can be no doubt that the spectacular behavior is a stimulus which summons the audience together, promoting in the women the appropriate behavior.<ref name="Lipset 1982"/>{{page needed|date=November 2014}}<!--direct quote requires exact page--></blockquote>
+
+In short, the behaviour of person X affects person Y, and the reaction of person Y to person X's behaviour will then affect person X's behaviour, which in turn will affect person Y, and so on. Bateson called this the "vicious circle."<ref name="Lipset 1982"/> He then discerned two models of schismogenesis: symmetrical and complementary.<ref name="Lipset 1982"/> Symmetrical relationships are those in which the two parties are equals, competitors, such as in sports. Complementary relationships feature an unequal balance, such as dominance-submission (parent-child), or exhibitionism-spectatorship (performer-audience). Bateson's experiences with the Iatmul led him to publish a book in 1936 titled ''Naven: A Survey of the Problems suggested by a Composite Picture of the Culture of a New Guinea Tribe drawn from Three Points of View'' (Cambridge University Press).  The book proved to be a watershed in anthropology and modern social science.<ref>Marcus, George (1985) A Timely Rereading of Naven: Gregory Bateson as Oracular Essayist. ''Raritan'' 12:66–82.</ref>
+
+Until Bateson published ''Naven,'' most anthropologists assumed a realist approach to studying culture, in which one simply described social reality. Bateson's book argued that this approach was naive, since an anthropologist's account of a culture was always and fundamentally shaped by whatever theory the anthropologist employed to define and analyse the data. To think otherwise, stated Bateson, was to be guilty of what [[Alfred North Whitehead]] called the "fallacy of misplaced concreteness."  There was no singular or self-evident way to understand the Iatmul naven rite.  Instead, Bateson analysed the rite from three unique points of view: [[Sociology|sociological]], [[Ethology|ethological]], and eidological. The book, then, was not a presentation of anthropological analysis but an epistemological account that explored the nature of anthropological analysis itself.
+
+The sociological point of view sought to identify how the ritual helped bring about social integration. In the 1930s, most anthropologists understood marriage rules to regularly ensure that social groups renewed their alliances.  But Iatmul, argued Bateson, had contradictory marriage rules. Marriage, in other words, could not guarantee that a marriage between two clans would at some definite point in the future recur. Instead, Bateson continued, the naven rite filled this function by regularly ensuring exchanges of food, valuables, and sentiment between mothers' brothers and their sisters' children, or between separate lineages. Naven, from this angle, held together the different social groups of each village into a unified whole.
+
+The ethological point of view interpreted the ritual in terms of the conventional emotions associated with normative male and female behaviour, which Bateson called ethos. In Iatmul culture, observed Bateson, men and women lived different emotional lives.  For example, women were rather submissive and took delight in the achievement of others; men fiercely competitive and flamboyant. During the ritual, however, men celebrated the achievement of their nieces and nephews while women were given ritual license to act raucously. In effect, naven allowed men and women to experience momentarily the emotional lives of each other, and thereby to achieve a level of psychological integration.
+
+The third and final point of view, the eidological, was the least successful. Here Bateson endeavoured to correlate the organisation structure of the naven ceremony with the habitual patterns of Iatmul thought. Much later, Bateson would harness the very same idea to the development of the double-bind theory of schizophrenia.
+
+In the Epilogue to the book, Bateson was clear: "The writing of this book has been an experiment, or rather a series of experiments, in methods of thinking about anthropological material." That is to say, his overall point was not to describe Iatmul culture of the naven ceremony but to explore how different modes of analysis, using different premises and analytic frameworks, could lead to different explanations of the same sociocultural phenomenon.  Not only did Bateson's approach re-shape fundamentally the anthropological approach to culture, but the naven rite itself has remained a locus classicus in the discipline.  In fact, the meaning of the ritual continues to inspire anthropological analysis.<ref>See, most recently, Michael Houseman and Carlo Seviri, 1998, ''Naven or the Other Self: A Relational Approach to Ritual Action'' (Leiden: Brill); Eric Kline Silverman, 2001, ''Masculinity, Motherhood and Mockery: Psychoanalyzing Culture and the Iatmul Naven Rite in New Guinea'' (Ann Arbor: University of Michigan Press); Andrew Moutu, 2013, ''Names are Thicker than Blood: Kinship and Ownership amongst the Iatmul'' (Oxford University Press).</ref>
+
+=== Bali===
+[[File:Trance and Dance in Bali.webm|thumb|thumbtime=34|''[[Trance and Dance in Bali]]'', a documentary by Bateson and [[Margaret Mead]]]]
+Bateson next{{when|date=September 2019}} travelled to [[Bali]] with his new wife [[Margaret Mead]] to study the people of the village Bajoeng Gede. Here, Lipset states, "in the short history of [[ethnographic]] fieldwork, film was used both on a large scale and as the primary research tool."<ref name="Lipset 1982"/> Bateson took 25,000 photographs of their Balinese subjects.<ref name=" Harries-Jones 1995">{{cite book | author=Harries-Jones, Peter | title= A Recursive Vision: Ecological Understanding and Gregory Bateson | publisher=University of Toronto Press | year=1995}}</ref>
+
+He discovered that the people of Bajoeng Gede raised their children very unlike children raised in Western societies. Instead of attention being paid to a child who was displaying a climax of emotion (love or anger), Balinese mothers would ignore them. Bateson notes, "The child responds to [a mother's] advances with either affection or temper, but the response falls into a vacuum. In Western cultures, such sequences lead to small climaxes of love or anger, but not so in Bali. At the moment when a child throws its arms around the mother's neck or bursts into tears, the mother's attention wanders".<ref name="Lipset 1982"/> This model of stimulation and refusal was also seen in other areas of the culture. Bateson later described the style of Balinese relations as stasis instead of schismogenesis.  Their interactions were "muted" and did not follow the schismogenetic process because they did not often escalate competition, dominance, or submission.<ref name="Lipset 1982"/>
+
+===New Guinea, 1938===
+In 1938, Bateson and Mead returned to the Sepik River, and settled into the village of Tambunum, where Bateson had spent three days in the 1920s.  They aimed to replicate the Balinese project on the relationship between childraising and temperament, and between conventions of the body – such as pose, grimace, holding infants, facial expressions, etc. – reflected wider cultural themes and values. Bateson snapped some 10,000 black and white photographs, and Mead typed thousands of pages of fieldnotes. But Bateson and Mead never published anything substantial from this research.<ref>Silverman, Eric Kline. Margaret Mead and Gregory Bateson in the Sepik, 1938: A Timely Polemic From a Lost Anthropological Efflorescence. Pacific Studies 28 (3/4) 2005:128-41.</ref>
+
+[[Image:SOCyberntics.png|thumb|200px|right|Bateson and [[Margaret Mead]] contrasted first and [[Second-order cybernetics]] with this diagram in an interview in 1973.<ref>[http://www.oikos.org/forgod.htm Interview] {{webarchive|url=https://web.archive.org/web/20101126194238/http://oikos.org/forgod.htm |date=26 November 2010 }} with Gregory Bateson and Margaret Mead, in: ''CoEvolutionary Quarterly,'' June 1973.</ref>]]
+
+Bateson's encounter with Mead on the Sepik river (Chapter 16) and their life together in Bali (Chapter 17) is described in Mead's autobiography ''Blackberry Winter: My Earlier Years'' ([[Angus and Robertson]]. London.  1973). Their daughter Catherine's birth in New York on 8 December 1939 is recounted in Chapter 18.
+
+=== Double bind theory of schizophrenia ===
+{{Main|Double bind}}
+In 1956 in [[Palo Alto]], Bateson and his colleagues [[Donald deAvila Jackson|Donald Jackson]], [[Jay Haley]], and [[John Weakland]]<ref name="Bateson, G. 1956"/> articulated a related theory of schizophrenia as stemming from [[double bind]] situations. The [[double bind]] refers to a communication paradox described first in families with a schizophrenic member. The first place where double binds were described (though not named as such) was according to Bateson, in [[Samuel Butler (novelist)|Samuel Butler]]'s ''[[The Way of All Flesh]]'' (a semi-autobiographical novel about Victorian hypocrisy and cover-up).<ref>Bateson, ''Steps to an ecology of mind''</ref>
+
+Full double bind requires several conditions to be met:
+
+# The victim of double bind receives contradictory injunctions or emotional messages on different levels of communication (for example, love is expressed by words, and [[hate]] or detachment by nonverbal behaviour; or a child is encouraged to speak freely, but criticised or silenced whenever he or she actually does so).
+# No metacommunication is possible – for example, asking which of the two messages is valid or describing the communication as making no sense.
+# The victim cannot leave the communication field.
+# Failing to fulfill the contradictory injunctions is punished (for example, by withdrawal of love).
+
+The strange behaviour and speech of schizophrenics was explained by Bateson et al. as an expression of this paradoxical situation, and were seen in fact as an adaptive response, which should be valued as a cathartic and transformative experience.
+
+The double bind was originally presented (probably mainly under the influence of Bateson's psychiatric co-workers) as an explanation of part of the [[etiology]] of [[schizophrenia]]. Currently, it is considered to be more important as an example of Bateson's approach to the complexities of communication which is what he understood it to be.{{Citation needed|date=January 2010}}
+
+=== The role of somatic change in evolution ===
+According to [[Merriam-Webster's Collegiate Dictionary|Merriam-Webster's dictionary]] the term [[Somatic (biology)|somatic]] is basically defined as the body or body cells of change distinguished from [[germplasm]] or psyche/mind. Bateson writes about how the actual physical changes in the body occur within [[evolutionary]] processes.<ref name="Bateson 1963">{{cite journal |last=Bateson |first=Gregory |title=The Role of Somatic Change in Evolution |date=December 1963 |volume=17 |issue=4 |pages=529–539 |journal=Evolution |jstor=2407104 |doi=10.2307/2407104}}</ref> He describes this through the introduction of the concept of "economics of flexibility".<ref name="Bateson 1963"/> In his conclusion he makes seven statements or theoretical positions which may be supported by his ideology.
+
+The first is the idea that although environmental stresses have theoretically been believed to guide or dictate the changes in the [[wikt:soma|soma]] (physical body), the introduction of new stresses do not automatically result in the physical changes necessary for survival as suggested by original evolutionary theory.<ref name="Bateson 1963"/> In fact the introduction of these stresses can greatly weaken the organism.   An example that he gives is the sheltering of a sick person from the weather or the fact that someone who works in an office would have a hard time working as a rock climber and vice versa.  The second position states that though "the economics of flexibility has a logical structure-each successive demand upon flexibility fractioning the set of available possibilities".<ref name="Bateson 1963"/> This means that theoretically speaking each demand or variable creates a new set of possibilities.  Bateson's third conclusion is "that the [[genotypic]] change commonly makes demand upon the adjustive ability of the soma".<ref name="Bateson 1963"/> This, he states, is the commonly held belief among biologists although there is no evidence to support the claim.  Added demands are made on the soma by sequential genotypic modifications is the fourth position.  Through this he suggests the following three expectations:<ref name="Bateson 1963"/>
+
+# The idea that organisms that have been through recent modifications will be delicate.
+# The belief that these organisms will become progressively harmful or dangerous.
+# That over time these new "breeds" will become more resistant to the stresses of the environment and change in [[genetics|genetic]] traits.
+
+The fifth theoretical position which Bateson believes is supported by his data is that characteristics within an organism that have been modified due to environmental stresses may coincide with genetically determined attributes.<ref name="Bateson 1963"/> His sixth position is that it takes less economic flexibility to create somatic change than it does to cause a genotypic modification.  The seventh and final theory he believes to be supported is the idea that in rare occasions there will be populations whose changes will not be in accordance with the thesis presented within this paper.  According to Bateson, none of these positions (at the time) could be tested but he called for the creation of a test which could possibly prove or disprove the theoretical positions suggested within.<ref name="Bateson 1963"/>
+
+===Ecological anthropology and cybernetics===
+In his book ''[[Steps to an Ecology of Mind]]'', Bateson applied [[cybernetics]] to the field of [[ecological anthropology]] and the concept of [[homeostasis]].<ref name="Bateson 1972">{{cite book | author=Bateson, Gregory | title=Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology | publisher=University of Chicago Press | year=1972 | isbn=0-226-03905-6}}</ref> He saw the world as a series of systems containing those of individuals, societies and ecosystems. Within each system is found competition and dependency. Each of these systems has adaptive changes which depend upon [[feedback loops]] to control balance by changing multiple variables.  Bateson believed that these self-correcting systems were conservative by controlling exponential slippage.  He saw the natural ecological system as innately good as long as it was allowed to maintain homeostasis<ref name="Bateson 1972"/> and that the key unit of survival in evolution was an organism and its environment.<ref name="Bateson 1972"/>
+
+Bateson also viewed that all three systems of the individual, society and ecosystem were all together a part of one supreme cybernetic system that controls everything instead of just interacting systems.<ref name="Bateson 1972"/> This supreme cybernetic system is beyond the self of the individual and could be equated to what many people refer to as God, though Bateson referred to it as Mind.<ref name="Bateson 1972"/> While Mind is a cybernetic system, it can only be distinguished as a whole and not parts. Bateson felt Mind was immanent in the messages and pathways of the supreme cybernetic system. He saw the root of system collapses as a result of [[Occidentalism|Occidental]] or [[Western culture|Western]] [[epistemology]]. According to Bateson, consciousness is the bridge between the cybernetic networks of individual, society and ecology and the mismatch between the systems due to improper understanding will result in the degradation of the entire supreme cybernetic system or Mind. Bateson thought that consciousness as developed through Occidental epistemology was at direct odds with Mind.<ref name="Bateson 1972"/>
+
+At the heart of the matter is scientific [[hubris]]. Bateson argues that Occidental epistemology perpetuates a system of understanding which is purpose or means-to-an-end driven.<ref name="Bateson 1972"/> Purpose controls attention and narrows perception, thus limiting what comes into consciousness and therefore limiting the amount of wisdom that can be generated from the perception.  Additionally Occidental epistemology propagates the false notion that man exists outside Mind and this leads man to believe in what Bateson calls the philosophy of control based upon false knowledge.<ref name="Bateson 1972"/>
+
+Bateson presents Occidental epistemology as a method of thinking that leads to a mindset in which man exerts an [[autocratic]] rule over all cybernetic systems.<ref name="Bateson 1972"/> In exerting his autocratic rule man changes the environment to suit him and in doing so he unbalances the natural cybernetic system of controlled competition and mutual dependency. The purpose-driven accumulation of knowledge ignores the supreme cybernetic system and leads to the eventual breakdown of the entire system. Bateson claims that man will never be able to control the whole system because it does not operate in a [[linear]] fashion and if man creates his own rules for the system, he opens himself up to becoming a slave to the self-made system due to the non-linear nature of cybernetics.  Lastly, man's technological prowess combined with his scientific hubris gives him the potential to irrevocably damage and destroy the supreme cybernetic system, instead of just disrupting the system temporally until the system can self-correct.<ref name="Bateson 1972"/>
+
+Bateson argues for a position of humility and acceptance of the natural cybernetic system instead of scientific arrogance as a solution.<ref name="Bateson 1972"/> He believes that humility can come about by abandoning the view of operating through consciousness alone. Consciousness is only one way in which to obtain knowledge and without complete knowledge of the entire cybernetic system disaster is inevitable. The limited conscious must be combined with the unconscious in complete synthesis. Only when thought and emotion are combined in whole is man able to obtain complete knowledge. He believed that religion and art are some of the few areas in which a man is acting as a whole individual in complete consciousness.  By acting with this greater wisdom of the supreme cybernetic system as a whole man can change his relationship to Mind from one of [[schism (religion)|schism]], in which he is endlessly tied up in constant competition, to one of [[:wikt:complementarity|complementarity]].  Bateson argues for a culture that promotes the most general wisdom and is able to flexibly change within the supreme cybernetic system.<ref name="Bateson 1972"/>
+
+=== Other terms used by Bateson ===
+*'''[[Abductive reasoning|Abduction]]'''.  Used by Bateson to refer to a third scientific methodology (along with [[Inductive reasoning|induction]] and [[Deductive reasoning|deduction]]) which was central to his own holistic and qualitative approach. Refers to a method of comparing patterns of relationship, and their symmetry or asymmetry (as in, for example, [[comparative anatomy]]), especially in complex organic (or mental) systems.  The term was originally coined by American Philosopher/Logician [[Charles Sanders Peirce]], who used it to refer to the process by which scientific hypotheses are generated.
+*'''Criteria of Mind (from ''Mind and Nature A Necessary Unity'')''':<ref name="Bateson 1972"/>
+#Mind is an aggregate of interacting parts or components.
+#The interaction between parts of mind is triggered by difference.
+#Mental process requires collateral energy.
+#Mental process requires circular (or more complex) chains of determination.
+#In mental process the effects of difference are to be regarded as transforms (that is, coded versions) of the difference which preceded them.
+#The description and classification of these processes of transformation discloses a hierarchy of [[type theory|logical types]] immanent in the phenomena.
+*'''Creatura and [[Pleroma]]'''.  Borrowed from [[Carl Jung]] who applied these [[gnosis|gnostic]] terms in his "Seven Sermons To the Dead".<ref>Carl Jung, ''Memories, Dreams, Reflections'', Vintage Books, 1961, {{ISBN|0-394-70268-9}}, p. 378</ref> Like the [[Hinduism|Hindu]] term [[maya (illusion)|maya]], the basic idea captured in this distinction is that meaning and organisation are projected onto the world. Pleroma refers to the non-living world that is undifferentiated by subjectivity; Creatura for the living world, subject to perceptual difference, distinction, and information.
+*'''Deuterolearning'''. A term he coined in the 1940s referring to the organisation of learning, or learning to learn:<ref name="Visser 2002">{{cite book | author=Visser, Max | title=Managing knowledge and action in organizations; towards a behavioral theory of organizational learning | publisher=EURAM Conference, Organizational Learning and Knowledge Management, Stockholm, Sweden | year=2002}}</ref>
+*'''[[Schismogenesis]]''' – the emergence of divisions within social groups.
+* '''Information''' – Bateson defined information as "a difference which makes a difference." This definition, however, is taken out of its context and lacks Bateson's reference to the requirement of energy to make a difference, and his definition of a difference as a matter that can be abstract also.<ref>[https://www.cs.bham.ac.uk/research/projects/cogaff/misc/information-difference.html What did Bateson mean when he wrote "information" is "a difference that makes a difference"?]. Aaron Sloman, School of Computer Science, The University of Birmingham, UK. 5 Oct 2018. Accessed 23 May 2021.</ref><ref>[http://faculty.washington.edu/jernel/521/Form.htm ''Form, Substance and Difference'' by Gregory Bateson]. The Nineteenth Annual Korzybski Memorial Lecture, delivered January 9, 1970, under the auspices of the Institute of General Semantics. Reprinted from the ''General Semantics Bulletin'', No. 37, 1970. Accessed 23 May 2021.</ref> For Bateson, information in fact mediated [[Alfred Korzybski]]'s [[map–territory relation]], and thereby resolved, according to Bateson, the mind-body problem.<ref>''Form, Substance, and Difference'', in ''Steps to an Ecology of Mind, p. 448-466''</ref><ref>{{cite web |author=David A Reid |url=http://plato.acadiau.ca/courses/educ/reid/papers/PME25-WS4/SEM.html |title=plato.acadiau.ca |publisher=plato.acadiau.ca |access-date=27 July 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120204101244/http://plato.acadiau.ca/courses/educ/reid/papers/PME25-WS4/SEM.html |archive-date=4 February 2012 |df=dmy-all }}</ref><ref>{{cite web|url=https://scholar.google.com/scholar?q=author:%22Jacob%22%20intitle:%22Classification%20and%20Categorization:%20A%20Difference%20that%20...%22%20 |title=Scholar.google.com |access-date=27 July 2013}}</ref>
+
+=== Continuing extensions of his work ===
+In 1984, his daughter Mary Catherine Bateson published a joint biography of her parents (Bateson and [[Margaret Mead]]).<ref>Bateson, M. C. (1984). ''With a daughter's eye: A memoir of Margaret Mead and Gregory Bateson''. New York: Pocket Books.</ref>
+ 
+His other daughter the filmmaker Nora Bateson released ''An Ecology of Mind'', a documentary that premiered at the [[Vancouver International Film Festival]].<ref>{{cite web |last1=Bateson |first1=Nora |title=An Ecology of Mind |url=http://www.anecologyofmind.com |website=A Daughter's Portrait of Gregory Bateson |access-date=9 June 2020}}</ref> This film was selected as the audience favourite with the ''Morton Marcus Documentary Feature Award'' at the 2011 [[Santa Cruz, California|Santa Cruz]] Film Festival,<ref>{{cite web |url=http://santacruzfilmfestival.org/2011-scff-award-winners/ |title=2011 SCFF Award Winners |publisher=Santa Cruz Film Festival |access-date=27 July 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130729192322/http://santacruzfilmfestival.org/2011-scff-award-winners/ |archive-date=29 July 2013 |df=dmy-all }}</ref> and honoured with the 2011 ''John Culkin Award for Outstanding Praxis in the Field of Media Ecology'' by the [[Media Ecology Association]].<ref>{{cite web|url=http://www.media-ecology.org/awards/2011_awards.html |title=The 2011 MEA Awards |publisher=Media-ecology.org |access-date=27 July 2013}}</ref>
+
+The Bateson Idea Group (BIG) initiated a web presence in October 2010.  The group collaborated with the [[American Society for Cybernetics]] for a joint meeting in July 2012 at the [[Asilomar Conference Grounds]] in California.
+
+==Bibliography==
+
+;Books
+
+* {{Cite book
+| publisher = Stanford University Press
+| last = Bateson
+| first = G.
+| title = Naven: A Survey of the Problems suggested by a Composite Picture of the Culture of a New Guinea Tribe drawn from Three Points of View
+| date = 1965
+| orig-date = First published 1936
+| url = https://archive.org/details/naven0000unse
+| url-access = registration}}
+* {{Cite book
+| publisher = University of Chicago Press
+| isbn = 9780226039053
+| last = Bateson
+| first = G.
+| title = [[Steps to an Ecology of Mind]]: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology
+| date = 2000
+| orig-date = First published 1972}}
+* {{Cite book
+| publisher = Hampton Press
+| isbn = 9781572734340
+| last = Bateson
+| first = G.
+| title = Mind and Nature: A Necessary Unity
+| date = 2002
+| orig-date = First published 1979
+| url = https://archive.org/details/mindnaturenecess00baterich
+| url-access = registration}}
+* {{Cite book
+| publisher = Hampton Press
+| isbn = 9781572736252
+| last = Bateson
+| first = G.
+| editor-last = Donaldson
+| editor-first = Rodney E.
+| title = A Sacred Unity: Further Steps to an Ecology of Mind
+| location = New York
+| date = 2005
+| orig-date = First published 1991
+| url = https://archive.org/details/sacredunityfurth0000bate
+| url-access = registration}}
+* {{Cite book
+| publisher = Hampton Press
+| isbn = 9781572735941
+| last1 = Bateson
+| first1 = G.
+| last2 = Bateson
+| first2 = M.C.
+| author2-link = Mary Catherine Bateson
+| title = Angels Fear: Towards an Epistemology of the Sacred
+| date = 2005
+| orig-date = First published 1987
+| url = https://archive.org/details/angelsfeartoward00greg
+| url-access = registration}}
+* {{Cite book
+| publisher = New York Academy of Sciences
+| isbn = 9780890727805
+| last1 = Bateson
+| first1 = G.
+| last2 = Mead
+| first2 = M.
+| author2-link = Margaret Mead
+| title = Balinese Character: A Photographic Analysis
+| series = Special Publications of the New York Academy of Sciences, Vol. 2.
+| date = 1985
+| orig-date = First published 1942}}
+* {{Cite book
+| publisher = Linguistic Society of America at the Waverly Press, Inc
+| last1 = Hall
+| first1 = Robert A.
+| last2 = Bateson
+| first2 = G.
+| last3 = Mead
+| first3 = Margaret
+| author3-link = Margaret Mead
+| last4 = Kaberry
+| first4 = Phyllis M.
+| last5 = Reed
+| first5 = Stephen W.
+| last6 = Whiting
+| first6 = John W.M.
+| title = Melanesian Pidgin English: Grammar, Texts, Vocabulary
+| series = Special Publications of the Linguistic Society of America
+| date = 1943}}
+* {{Cite book
+| publisher = Linguistic Society of America at the Waverly Press, Inc
+| last1 = Hall
+| first1 = Robert A.
+| last2 = Bateson
+| first2 = G.
+| last3 = Whiting
+| first3 = John W.M.
+| last4 = Linguistic Society of America
+| last5 = United States Armed Forces Institute
+| title = Melanesian Pidgin English, Short Grammar and Vocabulary: With Grammatical Introduction
+| series = Special Publications of the Linguistic Society of America
+| date = 1943}}
+* {{Cite book
+| publisher = Stanford University Press
+| last = Perceval
+| first = John
+| editor-last = Bateson
+| editor-first = G.
+| title = Perceval's Narrative: A Patient's Account of His Psychosis, 1830-1832
+| date = 1974
+| orig-date = First published 1961}}
+* {{Cite book
+| publisher = Routledge
+| last1 = Ruesch
+| first1 = Jurgen
+| last2 = Bateson
+| first2 = G.
+| editor1-last = Pinsker
+| editor1-first = Eve C.
+| editor2-last = Combs
+| editor2-first = Gene
+| title = Communication: The Social Matrix of Psychiatry
+| date = 2008
+| orig-date = First published 1951
+| doi = 10.4324/9781315080932
+| isbn = 9781351527590
+| url = https://archive.org/details/communicationsoc00inrues
+| url-access = registration}}
+
+{{^|----------------------------------------------------------}}
+;Books about or related to Gregory Bateson
+
+* {{cite book 
+|last=Bateson 
+|first=M.C. 
+|author-link=Mary Catherine Bateson 
+|year=2001 
+|orig-year=1984 
+|title=With a Daughter's Eye: A Memoir of Margaret Mead and Gregory Bateson 
+|publisher=[[HarperCollins]]}}
+* {{cite book 
+|last=Bateson 
+|first=M.C. 
+|author-link=Mary Catherine Bateson 
+|year=2004 
+|orig-year=1972 
+|title=Our Own Metaphor: A Personal Account of a Conference on the Effects of Conscious Purpose on Human Adaptation 
+|publisher=Hampton Press}}
+* {{cite book 
+|editor-last1=Bateson 
+|editor-first1=N. 
+|editor-last2=Jaworska-Witkowska 
+|editor-first2=M. 
+|year=2017 
+|title=Batesoniana Polonica I: Towards an ecology of mind: Batesonian legacy continued 
+|publisher=Wyższej Szkoły Biznesu w Dabrowie Górniczej 
+|url=https://www.academia.edu/35356629}}
+* {{cite book 
+|editor-last1=Bertrando 
+|editor-first1=Paolo 
+|editor-last2=Bianciardi 
+|editor-first2=Marco 
+|year=2009 
+|title=La natura sistemica dell'uomo : attualità del pensiero di Gregory Bateson
+|publisher=R. Cortina
+| isbn = 9788860302748}}
+* {{cite book 
+|last=Bowers 
+|first=C.A. 
+|year=2011 
+|title = Perspectives on the Ideas of Gregory Bateson, Ecological Intelligence, and Educational Reforms
+|publisher=Eco-Justice Press
+| isbn = 9780966037005}}
+* {{cite book 
+|editor-last=Brockman 
+|editor-first=J. 
+|editor-link=John Brockman (literary agent) 
+|year=1977 
+|title=About Bateson 
+|publisher=[[E.P. Dutton]]}}
+* {{cite book 
+|last=Brunello 
+|first=Stefano 
+|year=1992 
+|title=Gregory Bateson: verso una scienza eco-genetica dei sistemi viventi 
+|publisher=Edizioni GB}}
+* {{cite book 
+|last=Chaney 
+|first=A. 
+|year=2017 
+|title=Runaway: Gregory Bateson, the Double Bind, and the Rise of Ecological Consciousness 
+|publisher=The University of North Carolina Press 
+|isbn=9781469631738 
+|url=https://uncpress.org/book/9781469631738/runaway/}}
+* {{cite book 
+|last=Charlton 
+|first=N.G. 
+|year=2008 
+|title=Understanding Gregory Bateson: Mind, Beauty, and the Sacred Earth 
+|publisher=[[State University of New York]] Press}}
+* {{cite book 
+|last=Deriu 
+|first=Marco 
+|year=2000 
+|title=Gregory Bateson 
+|publisher=Bruno Mondadori
+| isbn = 9788842494065}}
+* {{cite book 
+|last=Flemons 
+|first=D.G. 
+|year=2001 
+|title=Completing Distinctions: Interweaving the Ideas of Gregory Bateson and Taoism into a Unique Approach to Therapy 
+|publisher=Shambala Publications}}
+* {{cite book 
+|last=Geertz 
+|first=H. 
+|year=1994 
+|title=Images of Power: Balinese Paintings Made for Gregory Bateson and Margaret Mead 
+|publisher=University of Hawaii Press}}
+* {{cite book 
+|last=Greppi 
+|first=Alessandra 
+|year=1993 
+|title=Giochi con carte truccate: La tautologia in Gregory Bateson 
+|publisher=A. Pellicani}}
+* {{cite book 
+|last=Guddemi 
+|first=P. 
+|year=2020 
+|title=Gregory Bateson on Relational Communication: From Octopuses to Nations 
+|series=Biosemiotics 
+|volume=20 
+|publisher=Springer 
+|doi=10.1007/978-3-030-52101-1
+|isbn=978-3-030-52100-4 
+|s2cid=222119393 }}
+* {{cite book 
+|last=Harries-Jones 
+|first=P. 
+|year=1995 
+|title=A Recursive Vision: Ecological Understanding and Gregory Bateson 
+|publisher=[[University of Toronto Press]]}}
+* {{cite book 
+|last=Harries-Jones 
+|first=P. 
+|year=2016 
+|title=Upside-Down Gods: Gregory Bateson's World of Difference 
+|publisher=Fordham University Press 
+|isbn=9780823270361}}
+* {{cite book 
+|editor-last=Hoffmeyer 
+|editor-first=J. 
+|editor-link=Jesper Hoffmeyer 
+|year=2008 
+|title=A Legacy for Living Systems: Gregory Bateson as Precursor to Biosemiotics 
+|series=Biosemiotics 
+|volume=2 
+|publisher=Springer 
+|doi=10.1007/978-1-4020-6706-8
+|isbn=978-1-4020-6705-1 }}
+* {{cite book 
+|editor1-last=Jaworska-Witkowska 
+|editor1-first=M. 
+|editor2-last=Witkowski 
+|editor2-first=L. 
+|year=2016 
+|title=Humanistyczne wyzwania ekologii umysłu: Gregory Bateson w Polsce 
+|publisher=Fundacja na rzecz myślenia im}}
+* {{cite book 
+|last=Keeney 
+|first=Bradford
+|year=1983 
+|title=Aesthetics of Change 
+|publisher=Guilford Press 
+|isbn=0898620430}}
+* {{cite book 
+|last=Kessel 
+|first=Ralph 
+|year=1971 
+|title=Logic and Social Structure: A critical revaluation of Bateson's Naven: the Iatmul tribe of New Guinea
+|publisher=University of Northern Colorado Museum of Anthropology
+|lccn = 80500428}}
+* {{cite book 
+|editor1-last=Kirschenbaum
+|editor1-first=H. 
+|editor2-last=Henderson 
+|editor2-first=V.L. 
+|year=1989 
+|title=Carl Rogers: Dialogues : Conversations with Martin Buber, Paul Tillich, B.F. Skinner, Gregory Bateson, Michael Polanyi, Rollo May, and Others 
+|publisher=Houghton, Mifflin and Company}}
+* {{cite book 
+|last=Lipset 
+|first=D. 
+|year=1982 
+|title=Gregory Bateson: The Legacy of a Scientist 
+|publisher=[[Beacon Press]]}}
+* {{cite book 
+|last=Manghi 
+|first=Sergio 
+|year=1994 
+|title=Attraverso Bateson: Ecologia della mente e relazioni sociali 
+|publisher=Anabasi
+| isbn = 8841750200}}
+* {{cite book 
+|editor1-last=Ramage
+|editor1-first=Marcus 
+|editor2-last=Shipp 
+|editor2-first=Karen 
+|year=2009 
+|title=Systems Thinkers 
+|publisher=Springer Verlag}}
+* {{cite book 
+|editor-last=Rieber 
+|editor-first=R.W. 
+|year=1989 
+|title=The Individual, Communication, and Society: Essays in Memory of Gregory Bateson 
+|publisher=[[Cambridge University Press]]}}
+* {{cite book 
+|last=Sullivan 
+|first=G. 
+|year=1999 
+|title=Margaret Mead, Gregory Bateson, and Highland Bali : Fieldwork Photographs of Bayung Gede, 1936-1939 
+|publisher=[[University of Chicago Press]]}}
+* {{cite book 
+|last=Van Den Eede 
+|first=Y. 
+|year=2019 
+|title=The Beauty of Detours: A Batesonian Philosophy of Technology 
+|publisher=SUNY Press 
+|isbn=9781438477114 
+|lccn=2019011364}}
+* {{cite book 
+|last=Watras
+|first=Joseph 
+|year=2015 
+|title=Philosophies of environmental education and democracy: Harris, Dewey, and Bateson on human freedoms in nature
+|publisher=Palgrave Macmillan 
+|isbn=9781137484208 
+|lccn=2015490488}}
+* {{cite book 
+|editor-last1=Wilder-Mott 
+|editor-first1=C. 
+|editor-last2=Weakland 
+|editor-first2=J.H. 
+|editor-link2=John Weakland 
+|year=1981 
+|title=Rigor and Imagination: Essays From the Legacy of Gregory Bateson 
+|publisher=[[Praeger Publishing]]}}
+* {{cite book 
+|editor-last=Winkin
+|editor-first=Yves
+|year=1981 
+|title=La nouvelle communication 
+|publisher=Seuil}}
+* {{cite book 
+|editor-last=Winkin
+|editor-first=Yves
+|year=1988 
+|title=Bateson: Premier état d'un héritage: Colloque de Cerisy 
+|publisher=Seuil}}
+* {{cite book 
+|last=Zoletto
+|first=Davide
+|year=2001 
+|title=Pensiero e scrittura del doppio legame: a partire da Bateson 
+|publisher=Edizioni Università di Trieste
+| isbn = 888303077X
+| lccn = 2002450975}}
+
+{{^|----------------------------------------------------------}}
+;Published works
+
+* {{Cite journal
+| volume = 34
+| issue = 4
+| pages = 648–536, 538, 540, 542, 544, 546–548, 550
+| last1 = Albrecht-Carrié
+| first1 = R.
+| last2 = Bateson
+| first2 = G.
+| title = From One Social Scientist to Another
+| journal = American Scientist
+| date = 1946
+| jstor = 27826127}}
+* {{Cite journal
+| doi = 10.2307/2789539
+| issn = 0025-1496
+| volume = 31
+| pages = 49
+| last = Bateson
+| first = G.
+| title = 48. Head Hunting on the Sepik River
+| journal = Man
+| date = 1931
+| url = https://www.jstor.org/stable/2789539
+| jstor = 2789539}}
+* {{Cite journal
+| doi = 10.2307/2789055
+| volume = 31
+| pages = 114–115
+| last = Bateson
+| first = G.
+| title = 119. Review: Orokaiva Society by F.E. Williams
+| journal = Man
+| date = 1931
+| jstor = 2789055}}
+* {{Cite journal
+| doi = 10.1002/j.1834-4461.1932.tb00032.x
+| issn = 0029-8077
+| volume = 2
+| issue = 3
+| pages = 334–341
+| last = Bateson
+| first = G.
+| title = Further Notes on a Snake Dance of the Baining
+| journal = Oceania
+| date = 1932
+| url = http://doi.wiley.com/10.1002/j.1834-4461.1932.tb00032.x}}
+* {{Cite journal
+| doi = 10.1002/j.1834-4461.1932.tb00029.x
+| volume = 2
+| issue = 3
+| pages = 245–291
+| last = Bateson
+| first = G.
+| title = Social Structure of the Iatmül People of the Sepik River, Parts I-II
+| journal = Oceania
+| date = 1932}}
+* {{Cite journal
+| doi = 10.1002/j.1834-4461.1932.tb00042.x
+| volume = 2
+| issue = 4
+| pages = 401–453
+| last = Bateson
+| first = G.
+| title = Social Structure of the Iatmül People of the Sepik River, Parts III-VI
+| journal = Oceania
+| date = 1932}}
+* {{Cite conference
+| publisher = Institut royal d'anthropologie
+| pages = 153
+| last = Bateson
+| first = G.
+| title = Field Work in Social Psychology in New Guinea
+| book-title = Congrès International des Sciences Anthropologiques et Ethnologiques: Compte-rendu de la première Session, Londres
+| date = 1934}}
+* {{Cite journal
+| volume = 48
+| issue = 214
+| pages = 158–170
+| last = Bateson
+| first = G.
+| title = Music in New Guinea
+| journal = The Eagle
+| date = 1934}}
+* {{Cite conference
+| publisher = Institut royal d'anthropologie
+| pages = 274–275
+| last = Bateson
+| first = G.
+| title = Ritual Transvesticism on the Sepik River, New Guinea
+| book-title = Congrès International des Sciences Anthropologiques et Ethnologiques: Compte-rendu de la première Session, Londres
+| date = 1934}}
+* {{Cite conference
+| publisher = Institut royal d'anthropologie
+| pages = 187
+| last = Bateson
+| first = G.
+| title = The Segmentation of Society
+| book-title = Congrès International des Sciences Anthropologiques et Ethnologiques: Compte-rendu de la première Session, Londres
+| date = 1934}}
+* {{Cite journal
+| doi = 10.2307/2790916
+| volume = 34
+| pages = 109–110
+| last = Bateson
+| first = G.
+| title = 130. Personal Names among the Iatmul Tribe (Sepik River)
+| journal = Man
+| date = 1934
+| jstor = 2790916}}
+* {{Cite news
+| pages = 12
+| last = Bateson
+| first = G.
+| title = Psychology and War: Tendencies of Early Man
+| work = The Times
+| date = 1934}}
+* {{Cite journal
+| doi = 10.2307/2789408
+| issn = 0025-1496
+| volume = 35
+| pages = 178–183
+| last = Bateson
+| first = G.
+| title = 199. Culture Contact and Schismogenesis
+| journal = Man
+| date = 1935
+| url = https://www.jstor.org/stable/2789408
+| jstor = 2789408}}
+* {{Cite journal
+| volume = 36
+| pages = 35–36
+| last = Bateson
+| first = G.
+| title = 41. Review of "Reports of the Cambridge Anthropological Expedition to Torres Straits, Vol 1: General Ethnography" by A.C. Haddon
+| journal = Man
+| date = 1936
+| jstor = 2791202}}
+* {{Cite journal
+| volume = 36
+| pages = 38
+| last = Bateson
+| first = G.
+| title = 47. Culture Contact and Schismogenesis (Cf. Man, 1935, 199)
+| journal = Man
+| date = 1936
+| jstor = 2791208}}
+* {{Cite journal
+| volume = 36
+| pages = 88
+| last = Bateson
+| first = G.
+| title = 116. A Carved Wooden Statuette from the Sepik River, New Guinea (cf. Man, 935, 161)
+| journal = Man
+| date = 1936
+| jstor = 2789904}}
+* {{Cite journal
+| volume = 17
+| issue = 5–6
+| pages = 291–307
+| last = Bateson
+| first = G.
+| title = An Old Temple and a New Myth
+| journal = Djawa
+| date = 1937}}
+* {{Cite conference
+| publisher = Institute for Intercultral Studies
+| last = Bateson
+| first = G.
+| title = Age Conflicts and Radical Youth
+| date = 1941}}
+* {{Cite journal
+| volume = 8
+| issue = 1
+| pages = 53–68
+| last = Bateson
+| first = G.
+| title = Experiments in Thinking about Observed Ethnological Material
+| journal = Philosophy of Science
+| date = 1941
+| doi = 10.1086/286669
+| jstor = 184365| s2cid = 119563832
+}}
+* {{Cite journal
+| volume = 43
+| issue = 1
+| pages = 115–116
+| last = Bateson
+| first = G.
+| title = Review of Conditioning and Learning by Ernest R. Hilgard and Donald G. Marquis
+| journal = American Anthropologist
+| series = New Series
+| date = 1941
+| doi = 10.1525/aa.1941.43.1.02a00270
+| jstor = 663007| doi-access = free
+}}
+* {{Cite journal
+| volume = 43
+| issue = 1
+| pages = 116–118
+| last = Bateson
+| first = G.
+| title = Review of Mathematico-Deductive Theory of Rote Learning: a Study in Scientific Methodology by Clark L. Hull, Carl I Hovland, Robert T. Ross, Marshall Hall, Donald T. Perkins & Frederic B. Fitch
+| journal = American Anthropologist |series=New Series
+| date = 1941
+| doi = 10.1525/aa.1941.43.1.02a00280
+| jstor = 663008}}
+* {{Cite journal
+| doi = 10.1037/h0055948
+| issn = 0033-295X
+| volume = 48
+| issue = 4
+| pages = 350–355
+| last = Bateson
+| first = G.
+| title = The Frustration-Aggression Hypothesis and Culture
+| journal = Psychological Review
+| date = 1941
+| url = http://doi.apa.org/getdoi.cfm?doi=10.1037/h0055948}}
+* {{Cite journal
+| volume = 1
+| issue = 2
+| pages = 66–67
+| last = Bateson
+| first = G.
+| title = Announcement: Council on Human Relations (15 West 77th Street, New York City)
+| journal = Applied Anthropology
+| date = 1942
+| jstor = 44135385}}
+* {{Cite conference
+| publisher = Conference on Science, Philosophy and Religion in Their Relation to the Democratic Way of Life, Inc.
+| conference = Conference on Science, Philosophy and Religion in Their Relation to the Democratic Way of Life
+| pages = 81–97
+| editor1-last = Bryson
+| editor1-first = Lyman
+| editor2-last = Finkelstein
+| editor2-first = Louis
+| last = Bateson
+| first = G.
+| title = Comment on "The Comparative Study of Culture and the Purposive Cultivation of Democratic Values" by Margaret Mead
+| book-title = Science, Philosophy, and Religion: Second Symposium
+| location = New York
+| date = 1942}}
+* {{Cite book
+| publisher = Houghton-Mifflin Co. (for Reynal & Hitchcock, New York)
+| pages = 71–91
+| editor-last = Watson
+| editor-first = Goodwin
+| last = Bateson
+| first = G.
+| title = Civilian Morale: Second Yearbook of the Society for the Psychological Study of Social Issues
+| chapter = Morale and National Character
+| location = Boston
+| date = 1942
+| chapter-url = http://content.apa.org/books/13983-005}}
+* {{Cite journal
+| volume = 44
+| issue = 2
+| pages = 334–336
+| last = Bateson
+| first = G.
+| title = Notes and News
+| journal = American Anthropologist |series=New Series
+| date = 1942
+| doi = 10.1525/aa.1942.44.2.02a00280
+| jstor = 663045| doi-access = free
+}}
+* {{Cite journal
+| volume = 42
+| pages = 93–94
+| last = Bateson
+| first = G.
+| title = 50. The Council on Human Relations
+| journal = Man
+| date = 1942
+| jstor = 2792740}}
+* {{Cite journal
+| volume = 11
+| issue = 1
+| pages = 83–84
+| last = Bateson
+| first = G.
+| title = Council on Intercultural Relations
+| journal = Character and Personality
+| date = 1942}}
+* {{Cite journal
+| volume = 50
+| issue = 2
+| pages = 109
+| last = Bateson
+| first = G.
+| title = Review of The Ageless Indies by Raymond Kennedy
+| journal = Natural History
+| date = 1942}}
+* {{Cite journal
+| volume = 11
+| issue = 1
+| pages = 76–82
+| last = Bateson
+| first = G.
+| title = Some Systematic Approaches to the Study of Culture and Personality
+| journal = Character and Personality
+| date = 1942| doi = 10.1111/j.1467-6494.1942.tb01919.x
+}}
+* {{Cite journal
+| volume = 39
+| issue = 8
+| pages = 670
+| last = Bateson
+| first = G.
+| title = Note requesting "materials on the existing stereotypes and attitudes of the American people toward the cultures and the individual members of countries engaged in the present war."
+| journal = Psychological Bulletin
+| date = 1942}}
+* {{Cite book
+| last = Bateson
+| first = G.
+| title = An Analysis of the film "Hitlerjunge Quex" (1933)
+| date = 1943}}
+* {{Cite conference
+| conference = Conference on Science, Philosophy and Religion in Their Relation to the Democratic Way of Life
+| pages = 245–255
+| editor1-last = Bryson
+| editor1-first = Lymon
+| editor2-last = Finkelstein
+| editor2-first = Louis
+| last = Bateson
+| first = G.
+| title = Human Dignity and the Varieties of Civilization
+| book-title = Science, Philosophy and Religion: Third Symposium
+| date = 1943}}
+* {{Cite journal
+| doi = 10.1111/j.2164-0947.1943.tb00868.x
+| volume = 5
+| issue = 4
+| pages = 72–78
+| last = Bateson
+| first = G.
+| title = Cultural and Thematic Analysis of Fictional Films
+| journal = Transactions of the New York Academy of Sciences
+| series = 2
+| date = 1943}}
+* {{Cite journal
+| volume = 10
+| issue = 2
+| pages = 140–142
+| last = Bateson
+| first = G.
+| title = Discussion: The Science of Decency
+| journal = Philosophy of Science
+| date = 1943
+| doi = 10.1086/286802
+| jstor = 184297| s2cid = 123638395
+}}
+* {{Cite journal
+| volume = 14
+| issue = 1
+| pages = 20
+| last = Bateson
+| first = G.
+| title = Remarks in "Psychology—In the War and After, Part II: Comments on General Course in Psychology" by Louise Omwake
+| journal = Junior College Journal
+| date = 1943}}
+* {{Cite book
+| publisher = The Ronald Press Company
+| volume = 2
+| pages = 714–735
+| editor-last = Hunt
+| editor-first = JMV
+| last = Bateson
+| first = G.
+| title = Personality and Behavior Disorders: A Handbook Based on Experimental and Clinical Research
+| chapter = Cultural Determinants of Personality
+| date = 1944}}
+* {{Cite journal
+| doi = 10.1111/j.2164-0947.1944.tb00109.x
+| issn = 0028-7113
+| volume = 6
+| issue = 4
+| pages = 137–141
+| last = Bateson
+| first = G.
+| title = Pidgin English and Cross-Cultural Communication
+| journal = Transactions of the New York Academy of Sciences
+| series = 2
+| date = 1944
+| url = http://doi.wiley.com/10.1111/j.2164-0947.1944.tb00109.x}}
+* {{Cite journal
+| volume = 14
+| issue = 7
+| pages = 308–311
+| last = Bateson
+| first = G.
+| title = Psychology—In the War and After (VII): Material on Contemporary Peoples
+| journal = Junior College Journal
+| date = 1944}}
+* {{Cite journal
+| volume = 14
+| issue = 9
+| pages = 427–429
+| last = Bateson
+| first = G.
+| title = Psychology—In the War and After (VIII): Use of Film Material in Studying Peoples
+| journal = Junior College Journal
+| date = 1944}}
+* {{Cite journal
+| doi = 10.2307/3047063
+| issn = 0004-3079
+| volume = 28
+| issue = 2
+| pages = 119–123
+| last = Bateson
+| first = G.
+| title = Arts of the South Seas
+| journal = The Art Bulletin
+| date = 1946
+| url = https://www.jstor.org/stable/3047063
+| jstor = 3047063}}
+* {{Cite journal
+| volume = 103
+| issue = 5
+| pages = 521–522
+| last = Bateson
+| first = G.
+| title = Discussion (of "Some Relationships Between Maturation and Acculturation," by Arnold Gesell; "Cultural Patterning of Maturation in Selected Primitive Societies," by Margaret Mead; and "Environment vs. Race—Environment as an Etiological Factor in Psychiatric Disturbances in Infancy," by Renfe A. Spitz and Kathe M. Wolf)
+| journal = The Journal of Nervous and Mental Disease
+| date = 1946}}
+* {{Cite journal
+| doi = 10.1126/science.103.2686.717
+| issn = 0036-8075
+| volume = 103
+| issue = 2686
+| pages = 717–718
+| last = Bateson
+| first = G.
+| title = Physical Thinking and Social Problems
+| journal = Science
+| date = 1946
+| pmid = 17842994
+| bibcode = 1946Sci...103..717B
+| url = https://www.sciencemag.org/lookup/doi/10.1126/science.103.2686.717}}
+* {{Cite news
+| pages = 10–
+| last = Bateson
+| first = G.
+| title = Protecting the Future: Aiding the Work of Scientists Is Believed Best Safeguard
+| work = The New York Times
+| date = 1946-12-08}}
+* {{Cite journal
+| volume = 8
+| issue = 5
+| pages = 363–364
+| last = Bateson
+| first = G.
+| title = Review of Man, Morals and Society, by John Carl Flugel
+| journal = Psychosomatic Medicine
+| date = 1946| doi = 10.1097/00006842-194609000-00012
+}}
+* {{Cite journal
+| doi = 10.1080/00963402.1946.11458021
+| issn = 0096-3402
+| volume = 2
+| issue = 5–6
+| pages = 10–16
+| last = Bateson
+| first = G.
+| title = The Pattern of an Armaments Race: An Anthropological Approach—Part 1
+| journal = Bulletin of the Atomic Scientists
+| date = 1946-09-01
+| url = http://www.tandfonline.com/doi/full/10.1080/00963402.1946.11458021}}
+* {{Cite journal
+| doi = 10.1080/00963402.1946.11458036
+| issn = 0096-3402
+| volume = 2
+| issue = 7–8
+| pages = 26–29
+| last = Bateson
+| first = G.
+| title = The Pattern of an Armaments Race—Part II: An Analysis of Nationalism
+| journal = Bulletin of the Atomic Scientists
+| date = 1946-10-01
+| url = http://www.tandfonline.com/doi/full/10.1080/00963402.1946.11458036}}
+* {{Cite journal
+| volume = 11
+| issue = 2
+| pages = 47–50
+| last = Bateson
+| first = G.
+| title = Atoms, Nations, and Cultures
+| journal = International House Quarterly
+| date = 1947}}
+* {{Cite conference
+| publisher = Conference on Science, Philosophy and Religion in Their Relation to the Democratic Way of Life, Inc.
+| conference = Sixth Symposium of the Conference on Science, Philosophy and Religion
+| pages = 510–512–513
+| editor1-last = Bryson
+| editor1-first = Lymon
+| editor2-last = Finkelstein
+| editor2-first = Louis
+| editor3-last = MacIver
+| editor3-first = R.M.
+| last = Bateson
+| first = G.
+| title = Comments on "In Quest of an Heuristic Approach to the Study of Mankind" by Laura Thompson
+| book-title = Approaches to Group Understanding: Sixth Symposium
+| date = 1947}}
+* {{Cite journal
+| doi = 10.2307/2144299
+| issn = 0032-3195
+| volume = 62
+| issue = 3
+| pages = 428–430
+| last = Bateson
+| first = G.
+| title = Review of The Theory of Human Culture, by James Feibleman
+| journal = Political Science Quarterly
+| date = 1947
+| url = http://www.jstor.org/stable/2144299
+| jstor = 2144299}}
+* {{Cite journal
+| volume = 47
+| issue = 5
+| pages = 647–660
+| last = Bateson
+| first = G.
+| title = Sex and Culture
+| journal = Annals of the New York Academy of Sciences
+| date = 1947| doi = 10.1111/j.1749-6632.1947.tb31729.x
+| bibcode = 1947NYASA..47..647B
+| s2cid = 83994228
+}}
+* {{Cite book
+| publisher = Clarendon Press
+| pages = 35–53
+| editor-last = Fortes
+| editor-first = Meyer
+| last = Bateson
+| first = G.
+| title = Social Structure: Studies Presented to A.R. Radcliffe-Brown
+| chapter = Bali: The Value System of a Steady State
+| date = 1949}}
+* {{Cite journal
+| volume = 7
+| issue = 3–4
+| pages = 14–35
+| last = Bateson
+| first = G.
+| title = Panelist comments in "An Open Forum on the Exhibition of Illusionism and Trompe L'Oeil"
+| journal = Bulletin of the California Palace of the Legion of Honor
+| date = 1949}}
+* {{Cite news
+| volume = 13
+| issue = 23
+| pages = 80–83
+| last = Bateson
+| first = G.
+| title = Remarks in "Modern Art Argument" (Report on the Western Round Table on Modern Art, April 8-10, 1949, San Francisco)
+| work = Look
+| date = 1949-11-08}}
+* {{Cite conference
+| publisher = Josiah Macy, Jr. Foundation
+| conference = Conference on Cybernetics
+| pages = 14–23, 57, 75, 76, 85, 89, 138, 152, 154, 157, 161, 164, 165, 181, 182, 185, 189, 200, 201, 206
+| editor-last = von Foerster
+| editor-first = H.
+| last = Bateson
+| first = G.
+| title = Conference remarks
+| book-title = Cybernetics: Circular Causal and Feedback Mechanisms in Biological and Social Systems; Transactions of the Sixth Conference, March 24–25, 1949
+| date = 1950}}
+* {{Cite conference
+| publisher = Social Science Research Council
+| conference = Social Science Research Council; Pacific Coast Committee on Old Age Research
+| pages = 49–54
+| editor-last = Jones
+| editor-first = H.E.
+| last = Bateson
+| first = G.
+| title = Culural Ideas about Aging
+| book-title = Research on Aging: Proceedings of a Conference held on August .7-10, 1950, at the University of California, Berkeley
+| date = 1950}}
+* {{Cite conference
+| publisher = Josiah Macy, Jr. Foundation
+| conference = Conference on Cybernetics
+| pages = 13–26, 27, 44, 49, 78, 113, 140, 149, 150, 164, 165, 166, 169, 171, 182, 184, 185, 196, 201, 204, 222, 231, 232
+| editor1-last = von Foerster
+| editor1-first = H.
+| editor2-last = Mead
+| editor2-first = M.
+| editor3-last = Teuber
+| editor3-first = H.L.
+| last = Bateson
+| first = G.
+| title = Conference remarks
+| book-title = Cybernetics: Circular Causal and Feedback Mechanisms in Biological and Social Systems; Transactions of the Seventh Conference, March 23–24, 1950
+| date = 1951}}
+* {{Cite book
+| publisher = W.W. Norton
+| pages = 212–227
+| contributor-last = Bateson
+| contributor-first = G.
+| last1 = Ruesch
+| first1 = Jurgen
+| last2 = Bateson
+| first2 = G.
+| title = Communication: The Social Matrix of Psychiatry
+| contribution = Conventions of Communication: Where Validity Depends upon Belief
+| date = 1951}}
+* {{Cite book
+| publisher = W.W. Norton
+| pages = 168–211
+| contributor-last = Bateson
+| contributor-first = G.
+| last1 = Ruesch
+| first1 = Jurgen
+| last2 = Bateson
+| first2 = G.
+| title = Communication: The Social Matrix of Psychiatry
+| contribution = Information and Codification: A Philosophical Approach
+| date = 1951}}
+* {{Cite book
+| publisher = Impulse Publications
+| pages = 21–24
+| editor-last = Van Tuyl
+| editor-first = M.
+| last = Bateson
+| first = G.
+| title = Impulse: Annual of Contemporary Dance, 1951
+| chapter = Metalogue: Why do Frenchmen?
+| date = 1951}}
+* {{Cite book
+| publisher = W.W. Norton
+| pages = 228–256
+| contributor-last = Bateson
+| contributor-first = G.
+| last1 = Ruesch
+| first1 = Jurgen
+| last2 = Bateson
+| first2 = G.
+| title = Communication: The Social Matrix of Psychiatry
+| contribution = Psychiatric Thinking: An Epistemological Approach
+| date = 1951}}
+* {{Cite book
+| publisher = W.W. Norton
+| pages = 257–272
+| contributor-last = Bateson
+| contributor-first = G.
+| last1 = Ruesch
+| first1 = Jurgen
+| last2 = Bateson
+| first2 = G.
+| title = Communication: The Social Matrix of Psychiatry
+| contribution = The Convergence of Science and Psychiatry
+| date = 1951}}
+* {{Cite journal
+| volume = 10
+| issue = 1
+| pages = 71–73
+| last = Bateson
+| first = G.
+| title = Applied Metalinguistics and International Relations
+| journal = ETC: A Review of General Semantics
+| date = 1952
+| jstor = 42581023}}
+* {{Cite book
+| publisher = University of Chicago Press
+| pages = 302–314
+| editor-last1 = Mead
+| editor-first1 = M.
+| editor-last2 = Metraux
+| editor-first2 = R.
+| last = Bateson
+| first = G.
+| title = The Study of Culture at a Distance
+| chapter = An Analysis of the Nazi Film Hitlerjunge Quex
+| date = 1953}}
+* {{Cite book
+| publisher = University of Chicago Press
+| pages = 367–378
+| editor-last1 = Mead
+| editor-first1 = M.
+| editor-last2 = Metraux
+| editor-first2 = R.
+| last = Bateson
+| first = G.
+| title = The Study of Culture at a Distance
+| chapter = Formulation of End Linkage
+| date = 1953}}
+* {{Cite journal
+| volume = 10
+| issue = 3
+| pages = 213–217
+| last = Bateson
+| first = G.
+| title = Metalogue: About Games and Being Serious
+| journal = ETC: A Review of General Semantics
+| date = 1953
+| jstor = 42581090}}
+* {{Cite journal
+| volume = 10
+| issue = 4
+| pages = 311–315
+| last = Bateson
+| first = G.
+| title = Metalogue: Daddy, How Much Do You Know?
+| journal = ETC: A Review of General Semantics
+| date = 1953
+| jstor = 42581370}}
+* {{Cite journal
+| volume = 11
+| issue = 1
+| pages = 59–63
+| last = Bateson
+| first = G.
+| title = Metalogue: Why Do Things Have Outlines?
+| journal = ETC: A Review of General Semantics
+| date = 1953
+| jstor = 42581122}}
+* {{Cite conference
+| publisher = Josiah Macy, Jr. Foundation
+| conference = Conference on Cybernetics
+| pages = 1–47
+| editor1-last = von Foerster
+| editor1-first = H.
+| editor2-last = Mead
+| editor2-first = M.
+| editor3-last = Teuber
+| editor3-first = H.L.
+| last = Bateson
+| first = G.
+| title = The Position of Humor in Human Communication
+| book-title = Cybernetics: Circular causal and feedback mechanisms in biological and social systems, Transactions of the Ninth Conference, March 20–21, 1952
+| date = 1953}}
+* {{Cite book
+| publisher = Impulse Publications
+| pages = 23–26
+| editor-last = Van Tuyl
+| editor-first = M.
+| last = Bateson
+| first = G.
+| title = Impulse, Annual of Contemporary Dance, 1954
+| chapter = Why a Swan? — A Metalogue
+| date = 1954}}
+* {{Cite conference
+| publisher = American Psychiatric Association
+| pages = 39–51
+| last = Bateson
+| first = G.
+| title = A Theory of Play and Fantasy: A Report on Theoretical Aspects of the Project of Study of the Role of Paradoxes of Abstraction in Communication
+| series = Approaches to the Study of Human Personality: Psychiatric Research Reports
+| date = 1955}}
+* {{Cite conference
+| publisher = University of Utah
+| conference = The Epidemiology of Mental Health: An Institute sponsored by the Departments of Psychiatry and Psychology of the University of Utah and by the Veterans Administration Hospital, Fort Douglas Division, Salt Lake City, UT
+| pages = 25–31
+| editor-last = Branch
+| editor-first = C.H.H.
+| last = Bateson
+| first = G.
+| title = How the Deviant Sees His Society
+| book-title = The Epidemiology of Mental Health: An Institute, Brighton, Utah, 1955. Papers and Summary of Discussions
+| location = Brighton, UT
+| date = 1955}}
+* {{Cite book
+| publisher = Josiah Macy, Jr. Foundation
+| pages = 11–12
+| editor-last = Schaffner
+| editor-first = B.
+| last = Bateson
+| first = G.
+| title = Group Processes: Transactions of the Second Conference, October 9-12, 1955, Princeton, New Jersey
+| chapter = Autobiographical sketch
+| date = 1956}}
+* {{Cite journal
+| volume = 10
+| issue = 4, Part II
+| pages = 188
+| last = Bateson
+| first = G.
+| title = Communication in Occupational Therapy
+| journal = American Journal of Occupational Therapy
+| date = 1956| pmid = 13339893
+}}
+* {{Cite book
+| publisher = Josiah Macy, Jr. Foundation
+| pages = 145–242
+| editor-last = Schaffner
+| editor-first = B.
+| last = Bateson
+| first = G.
+| title = Group Processes: Transactions of the Second Conference, October 9-12, 1955, Princeton, New Jersey
+| chapter = The Message “This is Play.”
+| date = 1956}}
+* {{Cite book
+| publisher = Josiah Macy, Jr. Foundation
+| pages = 9
+| editor-last = Schaffner
+| editor-first = B.
+| last = Bateson
+| first = G.
+| title = Group Processes: Transactions of the Third Conference, October 7-10, 1956, Princeton, NJ
+| chapter = Autobiographical sketch
+| date = 1957}}
+* {{Cite conference
+| publisher = Hacker Foundation
+| conference = Conference on Perception and Personality
+| pages = 10, 42–43, 44, 45, 51, 62, 71, 85, 90, 92–93, 97, 112, 113, 114–115, 116, 117, 118, 119, 134, 135
+| editor-last = Mitchell
+| editor-first = D.
+| last = Bateson
+| first = G.
+| title = Conference remarks
+| book-title = Conference on Perception and Personality
+| location = Beverly Hills, CA
+| date = 1957}}
+* {{Citation
+| last = Bateson
+| first = G.
+| title = G. Bateson to Cecil P. Martin, September 9, 1957
+| date = 1957-09-09}}
+* {{Cite book
+| publisher = Charles C. Thomas
+| pages = 334–349
+| editor-last = Wilmer
+| editor-first = H.A.
+| last = Bateson
+| first = G.
+| title = Social Psychiatry in Action: A Therapeutic Community
+| chapter = Analysis of Group Therapy in an Admission Ward, United States Naval Hospital, Oakland, California
+| date = 1958}}
+* {{Cite journal
+| doi = 10.1080/00332747.1958.11023118
+| issn = 0033-2747
+| volume = 21
+| issue = 1
+| pages = 96–100
+| last = Bateson
+| first = G.
+| title = Language and Psychotherapy—Frieda Fromm-Reichmann's Last Project
+| journal = Psychiatry
+| date = 1958
+| url = https://www.tandfonline.com/doi/full/10.1080/00332747.1958.11023118}}
+* {{Cite conference
+| publisher = Little, Brown
+| conference = Sea Island Conference on Psychotherapy of Chronic Schizophrenic Patients, sponsored by Little, Brown & Co.
+| pages = 31–56
+| editor-last = Whitaker
+| editor-first = C.A.
+| last = Bateson
+| first = G.
+| title = Schizophrenic Distortions of Communication
+| book-title = Psychotherapy of Chronic Schizophrenic Patients
+| location = Sea Island, GA
+| date = 1958}}
+* {{Cite conference
+| conference = Sixth Annual Psychiatric Institute
+| pages = 54–71
+| last = Bateson
+| first = G.
+| title = The New Conceptual Frames for Behavioral Research
+| book-title = Proceedings of the Sixth Annual Psychiatric Institute
+| location = New Jersey Neuro-Psychiatric Institute, Princeton, NJ
+| date = 1958-09-17}}
+* {{Cite conference
+| publisher = Josiah Macy, Jr. Foundation
+| conference = Conference on Group Processes
+| pages = 13–14
+| editor-last = Schaffner
+| editor-first = B.
+| last = Bateson
+| first = G.
+| title = Autobiographical sketch
+| book-title = Group Processes: Transactions of the Fourth Conference, October 13–16, 1957, Princeton NJ
+| date = 1959}}
+* {{Cite conference
+| publisher = Ronald Press Co.
+| conference = Symposium on Schizoprenia
+| pages = 125–148
+| editor-last = Auerback
+| editor-first = A.
+| last = Bateson
+| first = G.
+| title = Cultural Problems Posed by a Study of Schizophrenic Process
+| book-title = Schizophrenia: An Integrated Approach
+| location = American Psychiatric Association symposium of the Hawaiian Divisional Meeting, 1958, San Francisco, CA
+| date = 1959}}
+* {{Cite journal
+| doi = 10.1126/science.129.3344.294-a
+| issn = 0036-8075
+| volume = 129
+| issue = 3344
+| pages = 294–298
+| last = Bateson
+| first = G.
+| title = Letter in response to "Role and Status of Anthropological Theories" by Sidney Morganbesser
+| journal = Science
+| date = 1959-01-30
+| pmid = 17795225
+| url = https://www.sciencemag.org/lookup/doi/10.1126/science.129.3344.294-a}}
+* {{Cite book
+| publisher = Grune & Stratton
+| volume = 2
+| pages = 207–211
+| editor-last = Masserman
+| editor-first = J.H.
+| last = Bateson
+| first = G.
+| title = Individual and Familial Dynamics
+| chapter = Panel Review
+| series = Science and Psychoanalysis
+| date = 1959}}
+* {{Cite conference
+| publisher = Josiah Macy, Jr. Foundation
+| conference = Conference on Group Processes
+| pages = 7
+| editor-last = Schaffner
+| editor-first = B.
+| last = Bateson
+| first = G.
+| title = Remarks in "Memorial to Dr. Fromm-Reichmann"
+| book-title = Group Processes: Transactions of the Fourth Conference, October 13–16, 1957, Princeton NJ
+| date = 1959}}
+* {{Cite conference
+| publisher = Josiah Macy, Jr. Foundation
+| conference = Conference on Group Processes
+| pages = 12, 14, 20, 21, 22, 34, 35, 54, 56, 57, 61, 63, 65, 66, 96, 108–109, 120, 124, 125, 177
+| editor-last = Schaffner
+| editor-first = B.
+| last = Bateson
+| first = G.
+| title = Conference remarks
+| book-title = Group Processes: Transactions of the Fifth Conference, October 12–15, 1958, Princeton NJ
+| date = 1960}}
+* {{Cite conference
+| publisher = Josiah Macy, Jr. Foundation
+| conference = Conference on d-Lysergic Acid Diethylamide (LSD-25)
+| pages = 10, 19, 25, 28, 35–36, 37, 39–40, 48, 51, 58, 61, 62, 88, 98, 100, 117, 134, 155, 156, 158, 159, 162, 163, 164, 165, 183, 185, 187–188, 189, 190, 191–192, 193, 210, 211, 213, 214, 218, 222, 225, 231, 234–235, 235
+| editor-last = Abramson
+| editor-first = H.A.
+| last = Bateson
+| first = G.
+| title = Conference remarks
+| book-title = The Use of LSD in Psychotherapy: Transactions of a Conference on d-Lysergic Acid Diethylamide (LSD-25), April 22–24, 1959, Princeton NJ
+| date = 1960}}
+* {{Cite journal
+| volume = 30
+| issue = 2
+| pages = 263–266
+| last = Bateson
+| first = G.
+| title = Discussion of "Families of Schizophrenic and of Well Children; Method, Concepts and Some Results" by Samuel J. Beck
+| journal = American Journal of Orthopsychiatry
+| date = 1960}}
+* {{Cite journal
+| doi = 10.1001/archpsyc.1960.03590110001001
+| issn = 0003-990X
+| volume = 2
+| issue = 5
+| pages = 477–491
+| last = Bateson
+| first = G.
+| title = Minimal Requirements for a Theory of Schizophrenia
+| journal = AMA Archives of General Psychiatry
+| date = 1960-05-01
+| pmid = 13797500
+| url = http://archpsyc.jamanetwork.com/article.aspx?doi=10.1001/archpsyc.1960.03590110001001}}
+* {{Cite conference
+| publisher = Free Press
+| conference = Institute on Chronic Schizoprhenia and Hospital Treatment Programs
+| pages = 90–105
+| editor1-last = Appleby
+| editor1-first = Lawrence
+| editor2-last = Scher
+| editor2-first = Jordan M.
+| editor3-last = Cumming
+| editor3-first = John
+| last = Bateson
+| first = G.
+| title = The Group Dynamics of Schizophrenia
+| book-title = Chronic Schizophrenia: Explorations in Theory and Treatment
+| location = State Hospital, Osawatomie, KS
+| date = 1960}}
+* {{Cite conference
+| publisher = Family Service Association of America
+| conference = M. Robert Gomberg Memorial Conference
+| pages = 136–140
+| editor1-last = Ackerman
+| editor1-first = Nathan W.
+| editor2-last = Beatman
+| editor2-first = Frances L.
+| editor3-last = Sherman
+| editor3-first = Sanford N.
+| last = Bateson
+| first = G.
+| title = Formal Research in Family Structure
+| book-title = Exploring the Base for Family Therapy
+| location = New York Academy of Medicine, New York, NY
+| date = 1961}}
+* {{Cite book
+| publisher = Stanford University Press
+| pages = v-xxii
+| editor-last = Bateson
+| editor-first = G.
+| last1 = Perceval
+| first1 = John
+| contributor-last = Bateson
+| contributor-first = G.
+| title = Perceval's Narrative: A Patient's Account of His Psychosis, 1830-1832
+| contribution = Introduction
+| date = 1961}}
+* {{Cite conference
+| publisher = Family Service Association of America
+| conference = M. Robert Gomberg Memorial Conference
+| pages = 116–122
+| editor1-last = Ackerman
+| editor1-first = N.W.
+| editor2-last = Beatman
+| editor2-first = F.L.
+| editor3-last = Sherman
+| editor3-first = S.N.
+| last = Bateson
+| first = G.
+| title = The Biosocial Integration of Behavior in the Schizophrenic Family
+| book-title = Exploring the Base for Family Therapy
+| location = New York Academy of Medicine, New York, NY
+| date = 1961}}
+* {{Cite conference
+| publisher = International Universities Press
+| conference = Symposium on Expression of the Emotions of Man, Meeting of the American Association for the Advancement of Science
+| pages = 230–236
+| editor-last = Knapp
+| editor-first = Peter H.
+| last = Bateson
+| first = G.
+| title = A Social Scientist Views the Emotions
+| book-title = Expression of the Emotions in Man
+| location = New York
+| date = 1963}}
+* {{Cite conference
+| publisher = Charles C. Thomas
+| conference = Houston Neurological Society Tenth Annual Scientific Meeting
+| pages = 173–186
+| editor1-last = Fields
+| editor1-first = William S.
+| editor2-last = Abbott
+| editor2-first = Walter
+| last = Bateson
+| first = G.
+| title = Exchange of Information About Patterns of Human Behavior
+| book-title = Information Storage and Neural Control
+| date = 1963}}
+* {{Cite journal
+| doi = 10.2307/2407104
+| issn = 0014-3820
+| volume = 17
+| issue = 4
+| pages = 529–539
+| last = Bateson
+| first = G.
+| title = The Role of Somatic Change in Evolution
+| journal = Evolution
+| date = 1963-12-24
+| url = https://www.jstor.org/stable/2407104
+| jstor = 2407104}}
+* {{Cite book
+| publisher = Science and Behavior Books
+| pages = 36–37
+| contributor-last = Bateson
+| contributor-first = G.
+| last = Wazlawick
+| first = Paul
+| title = An Anthology of Human Communication, Text and Tape
+| contribution = Patient Therapist Dialogue with Interpretation
+| date = 1964}}
+* {{Cite book
+| publisher = Science and Behavior Books
+| pages = iv-iv
+| contributor-last = Bateson
+| contributor-first = G.
+| last = Wazlawick
+| first = Paul
+| title = An Anthology of Human Communication, Text and Tape
+| contribution = Preface
+| date = 1964}}
+* {{Cite conference
+| publisher = University of Hawaii Press
+| conference = Hawaiian Academy of Sciences, 40th Annual Meeting
+| last = Bateson
+| first = G.
+| title = Communication Among the Higher Vertebrates (Abstract)
+| book-title = Proceedings of the Hawaiian Academy of Sciences, Fortieth Annual Meeting, 1964-1965
+| date = 1965}}
+* {{Cite conference
+| publisher = Science and Behavior Books
+| conference = Symposium sponsored by The Society of Medical Psychoanalysts, March 17–18, 1962, New York
+| pages = 28–35
+| editor1-last = Merin
+| editor1-first = Joseph H.
+| editor2-last = Nagler
+| editor2-first = Simon H.
+| last = Bateson
+| first = G.
+| title = Communication Theories in Relation to the Etiology of the Neuroses
+| book-title = The Etiology of the Neuroses
+| date = 1966}}
+* {{Cite book
+| publisher = University of California Press
+| pages = 569–579
+| editor-last = Norris
+| editor-first = Kenneth S.
+| last = Bateson
+| first = G.
+| title = Whales, Dolphins, and Porpoises
+| chapter = Problems in Cetacean and Other Mammalian Communication
+| date = 1966}}
+* {{Cite journal
+| volume = 2
+| pages = 415–417
+| last = Bateson
+| first = G.
+| title = Slippery Theories. Comment on "Family Interaction and Schizophrenia: A Review of Current Theories" by Elliot G. Mishler and Nancy E. Waxler
+| journal = International Journal of Psychiatry
+| date = 1966}}
+* {{Cite conference
+| publisher = The Symposia Committee of the Associated Students of the University of Hawaii
+| conference = The Cybernetics Revolution Symposium sponsored by The Symposia Committee, Associated Students of the University of Hawaii
+| last = Bateson
+| first = G.
+| title = Threads in the Cybernetic Pattern
+| book-title = Proceedings from The Cybernetics Revolution Symposium
+| location = University of Hawaii, Honolulu
+| date = 1966}}
+* {{Cite news
+| issue = 1622
+| pages = 10
+| last = Bateson
+| first = G.
+| title = Consciousness versus nature
+| work = Peace News
+| date = 1967-07-28}}
+* {{Cite journal
+| doi = 10.1177/0002764201000808
+| volume = 10
+| issue = 8
+| pages = 29–32
+| last = Bateson
+| first = G.
+| title = Cybernetic Explanation
+| journal = The American Behavioral Scientist
+| date = 1967-04-01| s2cid = 220678731
+}}
+* {{Cite journal
+| volume = 69
+| issue = 6
+| pages = 765–766
+| last = Bateson
+| first = G.
+| title = Review of Person, Time, and Conduct in Bali: An Essay in Cultural Analysis by Clifford Geertz
+| journal = American Anthropologist |series=New Series
+| date = 1967
+| doi = 10.1525/aa.1967.69.6.02a00400
+| jstor = 669708| doi-access = free
+}}
+* {{Cite book
+| publisher = Pelican Books
+| pages = 34–49
+| editor-last = Cooper
+| editor-first = David
+| last = Bateson
+| first = G.
+| title = The Dialectics of Liberation
+| chapter = Conscious Purpose Versus Nature
+| date = 1968}}
+* {{Cite journal
+| volume = 7
+| issue = 2
+| pages = 292–298
+| last = Bateson
+| first = G.
+| title = On Dreams and Animal Behavior (…a fragment of a metalogue by G. Bateson which will be published in Thomas A. Sebeok and Alexandra Ramsay (Eds) Approaches to Animal Communication, The Hague, Mouton and Co.
+| journal = Family Process
+| date = 1968}}
+* {{Cite conference
+| publisher = Indiana University Press
+| conference = Wenner-Gren Conference on Animal Communication
+| pages = 614–626
+| editor-last = Sebeok
+| editor-first = Thomas A. 
+| last = Bateson
+| first = G.
+| title = Redundancy and Coding
+| book-title = Animal Communication: Techniques of Study and Results of Research
+| date = 1968}}
+* {{Cite journal
+| volume = 70
+| issue = 5
+| pages = 1034–1035
+| last = Bateson
+| first = G.
+| title = Review of Primate Ethology. Desmond Morris, ed.
+| journal = American Anthropologist |series=New Series
+| date = 1968
+| doi = 10.1525/aa.1968.70.5.02a00830
+| jstor = 669832| doi-access = free
+}}
+* {{Cite journal
+| volume = 10
+| issue = 2/3
+| pages = 215
+| last = Bateson
+| first = G.
+| title = Comment on "The Study of Language and Communication Across Species" by Harvey B. Sarles
+| journal = Current Anthropology
+| date = 1969
+| jstor = 2740478}}
+* {{Cite book
+| publisher = Mouton & Co.
+| pages = 11–30
+| editor-last1 = Sebeok
+| editor-first1 = T.A.
+| editor-last2 = Ramsay
+| editor-first2 = A.
+| last = Bateson
+| first = G.
+| title = Approaches to Animal Communication
+| chapter = Metalogue: What is an Instinct?
+| date = 1969}}
+* {{Cite journal
+| volume = 27
+| issue = 3
+| pages = 359–363
+| last = Bateson
+| first = G.
+| title = An Open Letter to Anatol Rapoport
+| journal = ETC: A Review of General Semantics
+| date = 1970
+| jstor = 42575737}}
+* {{Cite journal
+| volume = 37
+| pages = 5–13
+| last = Bateson
+| first = G.
+| title = Form, Substance, and Difference
+| journal = General Semantics Bulletin
+| date = 1970}}
+* {{Cite journal
+| doi = 10.2307/1295099
+| issn = 0006-3568
+| volume = 20
+| issue = 14
+| pages = 819
+| last = Bateson
+| first = G.
+| title = On Empty-Headedness among Biologists and State Boards of Education
+| journal = BioScience
+| date = 1970-07-15
+| jstor = 1295099
+| url = https://academic.oup.com/bioscience/article-lookup/doi/10.2307/1295099}}
+* {{Cite book
+| publisher = De Gruyter
+| isbn = 978-3-11-087875-2
+| pages = 62–72
+| editor-last1 = Akin
+| editor-first1 = Johnnye
+| editor-last2 = Goldberg
+| editor-first2 = Alvin
+| editor-last3 = Myers
+| editor-first3 = Gail
+| editor-last4 = Stewart
+| editor-first4 = Joseph
+| last = Bateson
+| first = G.
+| title = Language Behavior: A Book of Readings in Communication
+| chapter = The Message of Reinforcement
+| location = Berlin, Boston
+| date = 1970-01-31
+| chapter-url = https://www.degruyter.com/view/books/9783110878752/9783110878752.62/9783110878752.62.xml}}
+* {{Cite journal
+| doi = 10.1007/BF02984165
+| issn = 0022-1333
+| volume = 60
+| issue = 3
+| pages = 230–240
+| last = Bateson
+| first = G.
+| title = A Re-Examination of "Bateson's Rule"
+| journal = Journal of Genetics
+| date = 1971
+| s2cid = 20214238
+| url = http://link.springer.com/10.1007/BF02984165}}
+* {{Cite journal
+| volume = 9
+| pages = 242–244
+| last = Bateson
+| first = G.
+| title = A systems approach
+| journal = International Journal of Psychiatry
+| date = 1971| pmid = 5482974
+}}
+* {{Cite book
+| editor-last = McQuown
+| editor-first = N.A.
+| last = Bateson
+| first = G.
+| title = The Natural History of an Interview
+| chapter = Chapter 1: Communication
+| date = 1971-06-30}}
+* {{Cite book
+| editor-last = McQuown
+| editor-first = N.A.
+| last = Bateson
+| first = G.
+| title = The Natural History of an Interview
+| chapter = Chapter 5: The Actors and the Setting
+| date = 1971-06-30}}
+* {{Cite journal
+| volume = 1
+| issue = 3
+| pages = 2–3
+| last = Bateson
+| first = G.
+| title = Restructuring the Ecology of a Great City
+| journal = Radical Software
+| date = 1971}}
+* {{Cite journal
+| volume = 34
+| issue = 1
+| pages = 1–18
+| last = Bateson
+| first = G.
+| title = The Cybernetics of "Self": A Theory of Alcoholism
+| journal = Psychiatry
+| date = 1971| doi = 10.1080/00332747.1971.11023653
+| pmid = 5100189
+}}
+* {{Cite book
+| publisher = Alfred A. Knopf
+| last = Bateson
+| first = Mary Catherine
+| contributor-last = Bateson
+| contributor-first = G.
+| title = Our Own Metaphor: A Personal Account of a Conference on the Effects of Conscious Purpose on Human Adaptation
+| contribution = Comments
+| date = 1972}}
+* {{Cite book
+| publisher = Chandler Publishing Company
+| last = Bateson
+| first = G.
+| title = [[Steps to an Ecology of Mind]]: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology
+| chapter = Double Bind, 1969
+| date = 1972}}
+* {{Cite book
+| publisher = Chandler Publishing Company
+| last = Bateson
+| first = G.
+| title = [[Steps to an Ecology of Mind]]: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology
+| chapter = Effects of Conscious Purpose on Human Adaptation
+| date = 1972}}
+* {{Cite book
+| publisher = Chandler Publishing Company
+| last = Bateson
+| first = G.
+| title = [[Steps to an Ecology of Mind]]: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology
+| chapter = From Versailles to Cybernetics
+| date = 1972}}
+* {{Cite book
+| publisher = Chandler Publishing Company
+| last = Bateson
+| first = G.
+| title = [[Steps to an Ecology of Mind]]: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology
+| chapter = Metalogue: Why Do Things Get in a Muddle?
+| date = 1972}}
+* {{Cite book
+| publisher = Chandler Publishing Company
+| last = Bateson
+| first = G.
+| title = [[Steps to an Ecology of Mind]]: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology
+| chapter = Pathologies of Epistemology
+| date = 1972}}
+* {{Cite book
+| publisher = Chandler Publishing Company
+| last = Bateson
+| first = G.
+| title = [[Steps to an Ecology of Mind]]: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology
+| chapter = Style, Grace and Information in Primitive Art
+| date = 1972}}
+* {{Cite book
+| publisher = Chandler Publishing Company
+| last = Bateson
+| first = G.
+| title = [[Steps to an Ecology of Mind]]: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology
+| chapter = The Logical Categories of Learning and Communication
+| date = 1972}}
+* {{Cite book
+| publisher = Chandler Publishing Company
+| last = Bateson
+| first = G.
+| title = [[Steps to an Ecology of Mind]]: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology
+| chapter = The Roots of the Ecological Crisis
+| date = 1972}}
+* {{Cite book
+| publisher = Chandler Publishing Company
+| last = Bateson
+| first = G.
+| title = [[Steps to an Ecology of Mind]]: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology
+| chapter = The Science of Mind and Order
+| date = 1972}}
+* {{Cite journal
+| issue = 1
+| pages = 6–21
+| last = Bateson
+| first = G.
+| others = Vic Gioscia (ed.)
+| title = Mind/Environment
+| journal = Social Change
+| date = 1973}}
+* {{Cite conference
+| publisher = Biological Computer Laboratory, University of Illinois
+| pages = 97–98, 98–101, 299, 419–420
+| last1 = Bateson
+| first1 = G.
+| last2 = von Foerster
+| first2 = Heinz
+| title = Conditioning, Adaptation, Learning Model, and Double Bind
+| location = Urbana, IL
+| series = Cybernetics of Cybernetics: Or the Control of Control and the Communication of Communication
+| date = 1974}}
+* {{Cite book
+| publisher = University of Hawaii Press
+| pages = 197–199
+| editor-last = Lebra
+| editor-first = W.P.
+| last = Bateson
+| first = G.
+| title = Youth, Socialization, and Mental Health
+| chapter = Distortions Under Culture Contact
+| series = Mental Health Research in Asia and the Pacific, Vol 3
+| date = 1974}}
+* {{Cite news
+| volume = 4
+| pages = 26–27
+| last = Bateson
+| first = G.
+| title = DRAFT: Scattered Thoughts for a Conference on "Broken Power"
+| work = The CoEvolution Quarterly
+| date = 1974}}
+* {{Cite news
+| issue = 1
+| pages = 45
+| last = Bateson
+| first = G.
+| title = Energy Does Not Explain
+| work = The CoEvolution Quarterly
+| date = 1974}}
+* {{Cite journal
+| doi = 10.2307/1296651
+| issn = 0006-3568
+| volume = 24
+| issue = 1
+| pages = 8
+| last = Bateson
+| first = G.
+| title = Gratitude for Death
+| journal = BioScience
+| date = 1974
+| jstor = 1296651
+| url = https://academic.oup.com/bioscience/article-lookup/doi/10.2307/1296651}}
+* {{Cite news
+| issue = 4
+| pages = 28
+| last = Bateson
+| first = G.
+| title = Reading Suggested by G. Bateson
+| work = The CoEvolution Quarterly
+| date = 1974}}
+* {{Cite news
+| issue = 4
+| pages = 120
+| last = Bateson
+| first = G.
+| title = Review of Acting: The First Six Lessons, by Richard Boleslavsky
+| work = The CoEvolution Quarterly
+| date = 1974}}
+* {{Cite book
+| publisher = Penguin Books
+| pages = 741
+| editor-last = Brand
+| editor-first = S.
+| last = Bateson
+| first = G.
+| title = Whole Earth Epilog
+| chapter = Review of Advanced Techniques of Hypnosis and Therapy: Selected Papers of Milton H. Erickson, M.D., edited by Jay Haley
+| date = 1974}}
+* {{Cite news
+| volume = 248
+| issue = 1487
+| pages = 105
+| last = Bateson
+| first = G.
+| title = Review of Septem Sermones ad Mortuos, by C.G. Jung
+| work = Harper's
+| date = 1974}}
+* {{Cite news
+| issue = 4
+| pages = 123
+| last = Bateson
+| first = G.
+| title = Review of Tracks by E.A.R. Ennion and N. Tinbergen
+| work = The CoEvolution Quarterly
+| date = 1974}}
+* {{Cite news
+| issue = 4
+| pages = 24–25
+| last = Bateson
+| first = G.
+| title = The Creature and Its Creations
+| work = The CoEvolution Quarterly
+| date = 1974}}
+* {{Cite news
+| issue = 6
+| pages = 133–135
+| last = Bateson
+| first = G.
+| title = Coding and Redundancy
+| work = The CoEvolution Quarterly
+| date = 1975}}
+* {{Cite book
+| publisher = Association for Humanistic Psychology
+| pages = 12–13, 14, 15, 16, 18–19, 43–44, 53–54
+| editor-last = Gilbert
+| editor-first = R.
+| last = Bateson
+| first = G.
+| title = Edited Transcript AHP Theory Conference
+| chapter = Comments
+| location = San Francisco
+| date = 1975}}
+* {{Cite book
+| publisher = Anchor Books
+| pages = 24–27
+| editor-last = Fields
+| editor-first = R.
+| last = Bateson
+| first = G.
+| title = Loka: A Journal from Naropa Institute
+| chapter = Ecology of Mind: The Sacred
+| date = 1975}}
+* {{Cite book
+| publisher = Science and Behavior Books
+| pages = ix-xi
+| editor-last1 = Bandler
+| editor-first1 = R.
+| editor-last2 = Grinder
+| editor-first2 = J.
+| last = Bateson
+| first = G.
+| title = The Structure of Magic: A Book About Language and Therapy
+| chapter = Introduction
+| date = 1975}}
+* {{Cite news
+| issue = 5
+| pages = 137
+| last = Bateson
+| first = G.
+| title = Letter in "Counsel for a Suicide's Friend"
+| work = The CoEvolution Quarterly
+| date = 1975}}
+* {{Cite book
+| publisher = Anchor Books
+| pages = 59–63
+| editor-last = Fields
+| editor-first = R.
+| last = Bateson
+| first = G.
+| title = Loka 2: A Journal From Naropa Institute
+| chapter = Orders of Change
+| date = 1975}}
+* {{Cite news
+| issue = 6
+| pages = 132–135
+| last = Bateson
+| first = G.
+| title = "Reality" and Redundancy
+| work = The CoEvolution Quarterly
+| date = 1975}}
+* {{Cite journal
+| volume = 3
+| issue = 2
+| pages = 143–155
+| last = Bateson
+| first = G.
+| title = Some Components of Socialization for Trance
+| journal = Ethos
+| date = 1975
+| doi = 10.1525/eth.1975.3.2.02a00050
+| jstor = 640225| doi-access = free
+}}
+* {{Cite news
+| issue = 5
+| pages = 29
+| last = Bateson
+| first = G.
+| title = What Energy Isn't
+| work = The CoEvolution Quarterly
+| date = 1975}}
+* {{Cite book
+| publisher = Grune & Stratton
+| pages = 105–106
+| editor-last1 = Sluzki
+| editor-first1 = C.E.
+| editor-last2 = Ransom
+| editor-first2 = D.C.
+| last = Bateson
+| first = G.
+| title = Double Bind: The Foundation of the Communicational Approach to the Family
+| chapter = A Comment by G. Bateson
+| date = 1976}}
+* {{Cite book
+| publisher = Grune & Stratton
+| pages = 
+| editor-last1 = Sluzki
+| editor-first1 = C.E.
+| editor-last2 = Ransom
+| editor-first2 = D.C.
+| last = Bateson
+| first = G.
+| title = Double Bind: The Foundation of the Communicational Approach to the Family
+| chapter = Foreword: A Formal Approach to Explicit, Implicit and Embodied Ideas and to Their Forms of Interaction
+| date = 1976}}
+* {{Cite news
+| issue = 11
+| pages = 56–57
+| last = Bateson
+| first = G.
+| title = Invitational Paper by G. Bateson
+| work = The CoEvolution Quarterly
+| date = 1976}}
+* {{Cite news
+| issue = 12
+| pages = 94–95
+| last = Bateson
+| first = G.
+| title = The Case Against the Case for Mind/Body Dualism
+| work = The CoEvolution Quarterly
+| date = 1976}}
+* {{Cite news
+| issue = 10
+| pages = 66
+| last = Bateson
+| first = G.
+| title = The Oak Beams of New College, Oxford
+| work = The CoEvolution Quarterly
+| date = 1976}}
+* {{Cite book
+| publisher = E.P. Dutton
+| pages = 235–247
+| editor-last = Brockman
+| editor-first = J.
+| last = Bateson
+| first = G.
+| title = About Bateson: Essays on G. Bateson
+| chapter = Afterword
+| date = 1977}}
+* {{Cite book
+| publisher = Grune & Stratton
+| pages = 331–337
+| editor-last = Ostwald
+| editor-first = P.F.
+| last = Bateson
+| first = G.
+| title = Communication and Social Interaction: Clinical and Therapeutic Aspects of Human Behavior
+| chapter = Epilogue: The Growth of Paradigms for Psychiatry
+| date = 1977}}
+* {{Cite journal
+| volume = 4
+| issue = 1
+| pages = 2–8
+| last = Bateson
+| first = G.
+| title = Play and Paradigm
+| journal = The Association for the Anthropological Study of Play Newsletter
+| date = 1977}}
+* {{Cite book
+| publisher = Lindisfarne Books/Harper and Row
+| pages = 143–154
+| editor-last1 = Katz
+| editor-first1 = M.
+| editor-last2 = Marsh
+| editor-first2 = W.P.
+| editor-last3 = Thompson
+| editor-first3 = G.G.
+| last = Bateson
+| first = G.
+| title = Earth's Answer: Explorations of Planetary Culture at the Lindisfarne Conferences
+| chapter = The Thing of It Is
+| date = 1977}}
+* {{Cite book
+| publisher = Brunner/Mazel
+| pages = 197–229
+| editor-last = Berger
+| editor-first = M.M.
+| last = Bateson
+| first = G.
+| title = Beyond the Double Bind: Communication and Family Systems, Theories, and Techniques with Schizophrenics
+| chapter = Bateson's Workshop
+| date = 1978}}
+* {{Cite journal
+| volume = 1
+| issue = 2
+| pages = 50–55
+| last = Bateson
+| first = G.
+| title = Intelligence, Experience and Evolution
+| journal = ReVision
+| date = 1978}}
+* {{Cite news
+| issue = 18
+| pages = 16–17
+| last = Bateson
+| first = G.
+| title = Nuclear Addiction: Bateson to Ellerbroek
+| work = The CoEvolution Quarterly
+| date = 1978}}
+* {{Cite news
+| issue = 18
+| pages = 16
+| last = Bateson
+| first = G.
+| title = Nuclear Addiction: Bateson to Saxon
+| work = The CoEvolution Quarterly
+| date = 1978}}
+* {{Cite news
+| issue = 17
+| pages = 44–46
+| last = Bateson
+| first = G.
+| title = Number is Different from Quantity
+| work = The CoEvolution Quarterly
+| date = 1978}}
+* {{Cite news
+| issue = 17
+| pages = 46
+| last = Bateson
+| first = G.
+| title = Protect the trophies, slay the children
+| work = The CoEvolution Quarterly
+| date = 1978}}
+* {{Cite news
+| volume = 16
+| issue = 4
+| pages = 4–6
+| last = Bateson
+| first = G.
+| title = Symptoms, Syndromes and Systems
+| work = The Esalen Catalog
+| date = 1978}}
+* {{Cite book
+| publisher = Brunner/Mazel
+| pages = 39–64
+| editor-last = Berger
+| editor-first = M.M.
+| last = Bateson
+| first = G.
+| title = Beyond the Double Bind: Communication and Family Systems, Theories, and Techniques with Schizophrenics
+| chapter = The Birth of a Matrix or Double Bind and Epistemology
+| date = 1978}}
+* {{Cite news
+| issue = 13
+| pages = 40–41
+| last = Bateson
+| first = G.
+| title = The Double-Bind Theory: Misunderstood?
+| work = Psychiatric News
+| date = 1978-04-21}}
+* {{Cite news
+| issue = 18
+| pages = 4–15
+| last = Bateson
+| first = G.
+| title = The Pattern Which Connects
+| work = The CoEvolution Quarterly
+| date = 1978}}
+* {{Cite journal
+| doi = 10.2307/3317127
+| issn = 0003-5491
+| volume = 51
+| issue = 1
+| pages = 77–78
+| last = Bateson
+| first = G.
+| title = Towards a Theory of Cultural Coherence: Comment
+| journal = Anthropological Quarterly
+| date = 1978
+| url = https://www.jstor.org/stable/3317127
+| jstor = 3317127}}
+* {{Cite journal
+| volume = 5
+| issue = 4
+| pages = 2–4
+| last = Bateson
+| first = G.
+| title = Letter in "G. Bateson on Play and Work" by Phillips Stevens, Jr.
+| journal = The Association for the Anthropological Study of Play Newsletter
+| date = 1979}}
+* {{Cite news
+| issue = 24
+| pages = 22–23
+| last = Bateson
+| first = G.
+| title = Letter to the Regents of the University of California
+| work = The CoEvolution Quarterly
+| date = 1979}}
+* {{Cite news
+| issue = 3
+| pages = 34–41
+| last = Bateson
+| first = G.
+| title = Nuclear Armament as Epistemological Error: Letters to the California Board of Regents
+| work = Zero
+| date = 1979}}
+* {{Cite news
+| volume = 13
+| issue = 6
+| pages = 128
+| last = Bateson
+| first = G.
+| title = The Magic of G. Bateson
+| work = Psychology Today
+| date = 1979}}
+* {{Cite news
+| volume = 17
+| issue = 2
+| pages = 6–7
+| last = Bateson
+| first = G.
+| title = The Science of Knowing
+| work = The Esalen Catalog
+| date = 1979}}
+* {{Cite journal
+| doi = 10.1111/j.2326-8492.1980.tb00121.x
+| issn = 0276-6558
+| volume = 6
+| issue = 3
+| pages = 20–55
+| last = Bateson
+| first = G.
+| title = An Analysis of the Nazi Film "Hitlerjunge Quex"
+| journal = Studies in Visual Communication
+| date = 1980
+| url = http://doi.wiley.com/10.1111/j.2326-8492.1980.tb00121.x}}
+* {{Cite book
+| publisher = Harvard University Press
+| pages = 76–77, 78, 222, 262, 263–264, 266, 269
+| editor-last = Piattelli-Palmarini
+| editor-first = M.
+| last = Bateson
+| first = G.
+| title = Language and Learning: The Debate Between Jean Piaget and Noam Chomsky
+| chapter = Comments
+| date = 1980}}
+* {{Cite news
+| volume = 1
+| issue = 1
+| pages = 70–75
+| last = Bateson
+| first = G.
+| title = Health: Whose Responsibility?
+| work = Energy Medicine
+| date = 1980}}
+* {{Cite news
+| volume = 19
+| issue = 3
+| pages = 6–7
+| last = Bateson
+| first = G.
+| title = In July, 1979…
+| work = The Esalen Catalog
+| date = 1980}}
+* {{Cite news
+| issue = 11
+| last = Bateson
+| first = G.
+| title = Men are Grass: Metaphor and the World of Mental Process
+| work = Lindisfarne Letter
+| date = 1980}}
+* {{Cite news
+| volume = 10
+| issue = 6
+| pages = 18–20
+| last = Bateson
+| first = G.
+| title = Seek the Sacred: Dartington Seminar
+| work = Resurgence
+| date = 1980}}
+* {{Cite news
+| volume = 2
+| issue = 1
+| pages = 2
+| last = Bateson
+| first = G.
+| title = Syllogisms in Grass
+| work = London Review of Books
+| date = 1980-01-24}}
+* {{Cite book
+| publisher = Random House
+| pages = 77
+| editor-last = Brand
+| editor-first = S.
+| last = Bateson
+| first = G.
+| title = The Next Whole Earth Catalog
+| chapter = The Oak Beams of New College, Oxford
+| date = 1980}}
+* {{Cite news
+| volume = 20
+| issue = 1
+| pages = 13
+| last = Bateson
+| first = G.
+| title = Allegory
+| work = The Esalen Catalog
+| date = 1981}}
+* {{Cite news
+| volume = 13
+| issue = 2–3
+| pages = xxix-xxx
+| last = Bateson
+| first = G.
+| title = Letter in "Editor's Note: Sociobiology: A Paradigm's Unnatural Selection Through Science, Philosophy, and Ideology" by Anthony Leeds and Valentine Dusek
+| work = The Philosophical Forum: A Quarterly
+| date = 1981}}
+* {{Cite book
+| publisher = Praeger Publishers
+| pages = 347–355
+| editor-last1 = Wilder-Mott
+| editor-first1 = C.
+| editor-last2 = Weakland
+| editor-first2 = J.H.
+| last = Bateson
+| first = G.
+| title = Rigor & Imagination: Essays from the Legacy of G. Bateson
+| chapter = Paradigmatic Conservatism
+| date = 1981}}
+* {{Cite news
+| volume = 71
+| issue = 1
+| pages = 1–12
+| last = Bateson
+| first = G.
+| title = The Eternal Verities
+| work = The Yale Review
+| date = 1981}}
+* {{Cite news
+| volume = 20
+| issue = 1
+| pages = 12
+| last = Bateson
+| first = G.
+| title = The Manuscript
+| work = The Esalen Catalog
+| date = 1981}}
+* {{Cite book
+| publisher = University of Kansas
+| pages = 3–8
+| editor-last = Hanson
+| editor-first = A.F.
+| last = Bateson
+| first = G.
+| title = Studies in Symbolism and Cultural Communication
+| chapter = Difference, Double Description and the Interactive Designation of Self
+| series = University of Kansas Pubklications in Anthropology No. 14
+| date = 1982}}
+* {{Cite book
+| publisher = The C.G. Jung Institute of San Francisco, Inc.
+| pages = xi-xiii
+| contributor-last = Bateson
+| contributor-first = G.
+| last = Wheelwright
+| first = Joseph B.
+| title = St. George and the Dandelion: 40 Years of Practice as a Jungian Analyst
+| contribution = Foreword
+| date = 1982}}
+* {{Cite news
+| issue = 36
+| pages = 62–67
+| last = Bateson
+| first = G.
+| title = They Threw God Out of the Garden: Letters from G. Bateson to Philip Wylie and Warren McCulloch
+| work = The CoEvolution Quarterly
+| date = 1982}}
+* {{Cite book
+| publisher = University of Kansas Press
+| contributor-last = Bateson
+| contributor-first = G.
+| last = Evans
+| first = Terry
+| title = Prairie: Images of Ground and Sky
+| contribution = The Prairie Seen Whole
+| date = 1986}}
+* {{Cite book
+| publisher = A Cornelia & Michael Bessie Book
+| pages = 89–90
+| editor-last = Donaldson
+| editor-first = R.E.
+| last = Bateson
+| first = G.
+| title = A Sacred Unity: Further Steps to an Ecology of Mind
+| chapter = From Anthropology to Epistemology
+| date = 1991}}
+* {{Cite book
+| publisher = A Cornelia & Michael Bessie Book
+| pages = 307–313
+| editor-last = Donaldson
+| editor-first = R.E.
+| last = Bateson
+| first = G.
+| title = A Sacred Unity: Further Steps to an Ecology of Mind
+| chapter = "Last Lecture"
+| date = 1991}}
+* {{Cite book
+| publisher = A Cornelia & Michael Bessie Book
+| pages = 225–229
+| editor-last = Donaldson
+| editor-first = R.E.
+| last = Bateson
+| first = G.
+| title = A Sacred Unity: Further Steps to an Ecology of Mind
+| chapter = Our Own Metaphor: Nine Years After
+| date = 1991}}
+* {{Cite book
+| publisher = A Cornelia & Michael Bessie Book
+| pages = 253–257
+| editor-last = Donaldson
+| editor-first = R.E.
+| last = Bateson
+| first = G.
+| title = A Sacred Unity: Further Steps to an Ecology of Mind
+| chapter = The Moral and Aesthetic Structure of Human Adaptation
+| date = 1991}}
+* {{Cite journal
+| doi = 10.1177/036215379702700210
+| issn = 0362-1537
+| volume = 27
+| issue = 2
+| pages = 138–145
+| last = Bateson
+| first = G.
+| title = Epistemology of Organization: Inaugural Eric Berne Lecture in Social Psychotherapy, Southeast Institute, March 1977
+| journal = Transactional Analysis Journal
+| date = 1997
+| url = https://www.tandfonline.com/doi/full/10.1177/036215379702700210}}
+* {{Cite journal
+| doi = 10.1108/03684920710777379
+| issn = 0368-492X
+| volume = 36
+| issue = 7/8
+| pages = 855–858
+| last = Bateson
+| first = G.
+| others = M.S. Broecker, Georg Ivanovas (eds.)
+| title = Adaptation, acclimation, addiction, remedy, etc.
+| journal = Kybernetes
+| date = 2007-08-14
+| url = https://www.emerald.com/insight/content/doi/10.1108/03684920710777379/full/html}}
+* {{Cite journal
+| doi = 10.1108/03684920710777504
+| issn = 0368-492X
+| volume = 36
+| issue = 7/8
+| pages = 985–999
+| last = Bateson
+| first = G.
+| others = M.S. Broecker, Georg Ivanovas (eds.)
+| title = Reflections on learning and addiction: porpoises and palm trees
+| journal = Kybernetes
+| date = 2007-08-14
+| url = https://www.emerald.com/insight/content/doi/10.1108/03684920710777504/full/html}}
+* {{Cite journal
+| volume = 72
+| issue = 1
+| pages = 90–104
+| last = Bateson
+| first = G.
+| title = Form, Substance and Difference
+| journal = ETC: A Review of General Semantics
+| date = 2015
+| jstor = 24761998}}
+* {{Cite journal
+| volume = 23
+| issue = 3
+| pages = 91–92
+| last = Bateson
+| first = G.
+| title = Letter: G. Bateson to Cecil P. Martin
+| journal = Cybernetics and Human Knowing
+| date = 2016}}
+* {{Cite journal
+| pages = 24–33
+| last = Bateson
+| first = G.
+| title = Metalogue: Is There a Conspiracy?
+| journal = Transdyscyplinarne Studia o Kulturze (I) Edukacji
+| date = 2017}}
+* {{Cite journal
+| volume = 24
+| issue = 1
+| pages = 55–79
+| last = Bateson
+| first = G.
+| title = Some 19th Century Problems of Evolution (1965)
+| journal = Cybernetics and Human Knowing
+| date = 2017}}
+* {{Cite news
+| issue = 9
+| pages = 82–84
+| last1 = Bateson
+| first1 = G.
+| last2 = Brown
+| first2 = Edmund G.
+| title = Prayer Breakfast
+| work = The CoEvolution Quarterly
+| date = 1976}}
+* {{Cite journal
+| doi = 10.2307/535357
+| issn = 0021-8715
+| volume = 57
+| issue = 226
+| pages = 255–262
+| last1 = Bateson
+| first1 = G.
+| last2 = Hall
+| first2 = Robert A.
+| title = A Melanesian Culture-Contact Myth in Pidgin English
+| journal = The Journal of American Folklore
+| date = 1944
+| url = https://www.jstor.org/stable/535357
+| jstor = 535357}}
+* {{Cite book
+| publisher = Williams & Wilkins
+| volume = 42
+| pages = 270–290
+| editor-last1 = Rioch
+| editor-first1 = D.M.
+| editor-last2 = Weinstein
+| editor-first2 = E.A.
+| last1 = Bateson
+| first1 = G.
+| last2 = Jackson
+| first2 = Don D.
+| title = Research publications - Association for Research in Nervous and Mental Disease
+| chapter = Social Factors and Disorders of Communication. Some Varieties of Pathogenic Organization
+| date = 1964
+| pmid = 14265454}}
+* {{Cite journal
+| volume = 1
+| issue = 4
+| pages = 251–264
+| last1 = Bateson
+| first1 = G.
+| last2 = Jackson
+| first2 = Don D.
+| last3 = Haley
+| first3 = Jay
+| last4 = Weakland
+| first4 = John
+| title = Toward a Theory of Schizophrenia
+| journal = Behavioral Science
+| date = 1956| doi = 10.1002/bs.3830010402
+}}
+* {{Cite journal
+| doi = 10.1111/j.1545-5300.1963.00154.x
+| issn = 0014-7370
+| volume = 2
+| issue = 1
+| pages = 154–161
+| last1 = Bateson
+| first1 = G.
+| last2 = Jackson
+| first2 = Don D.
+| last3 = Haley
+| first3 = Jay
+| last4 = Weakland
+| first4 = John H.
+| title = A Note on the Double Bind—1962
+| journal = Family Process
+| date = 1963
+| url = http://doi.wiley.com/10.1111/j.1545-5300.1963.00154.x}}
+* {{Cite book
+| pages = 4–5
+| editor-last = McQuown
+| editor-first = N.A.
+| last1 = Bateson
+| first1 = G.
+| last2 = McQuown
+| first2 = Norman A.
+| title = The Natural History of an Interview
+| chapter = Remarks on the by-products of The Natural History of an Interview research project
+| date = 1971-06-30}}
+* {{Cite journal
+| doi = 10.2307/2262467
+| issn = 0885-3525
+| volume = 15
+| issue = 4
+| pages = 206–220
+| last1 = Bateson
+| first1 = G.
+| last2 = Mead
+| first2 = Margaret
+| title = Principles of Morale Building
+| journal = Journal of Educational Sociology
+| date = 1941
+| url = https://www.jstor.org/stable/2262467
+| jstor = 2262467}}
+* {{Cite book
+| publisher = Academic Press
+| isbn = 978-0-12-588260-6
+| pages = 241–252
+| editor-last = Rieber
+| editor-first = R.W.
+| last1 = Bateson
+| first1 = G.
+| last2 = Rieber
+| first2 = Robert W.
+| title = Body and Mind: Past, Present, and Future
+| chapter = Mind and Body: A Dialogue
+| location = New York
+| date = 1980}}
+* {{Cite book
+| publisher = Houghton, Mifflin and Company
+| editor-last1 = Kirschenbaum
+| editor-first1 = H.
+| editor-last2 = Henderson
+| editor-first2 = V.L.
+| last1 = Bateson
+| first1 = G.
+| last2 = Rogers
+| first2 = Carl
+| title = Carl Rogers: Dialogues : Conversations with Martin Buber, Paul Tillich, B.F. Skinner, G. Bateson, Michael Polanyi, Rollo May, and Others
+| chapter = Dialogue Between G. Bateson and Carl Rogers
+| date = 1989}}
+* {{Cite journal
+| volume = 28
+| issue = 2
+| pages = 239–240
+| last1 = Bateson
+| first1 = G.
+| last2 = Ruderman
+| first2 = Sheldon
+| title = Comment on "An Open Letter to G. Bateson" by Sheldon Ruderman
+| journal = ETC: A Review of General Semantics
+| date = 1971
+| jstor = 42576097}}
+* {{Cite news
+| issue = 1
+| pages = 46–67
+| last1 = Bateson
+| first1 = G.
+| last2 = Ryan
+| first2 = Paul
+| title = Metalogue: G. Bateson, Paul Ryan
+| work = All Area
+| date = 1980}}
+* {{Cite journal
+| doi = 10.1007/BF02983990
+| issue = 16
+| pages = 101–123
+| last1 = Bateson
+| first1 = William
+| last2 = Bateson
+| first2 = G.
+| title = On certain aberrations of the red-legged partridges Alectoris rufa and Saxatilis
+| journal = Journal of Genetics
+| date = 1925| volume = 16
+| s2cid = 28076556
+}}
+* {{Cite journal
+| volume = 2
+| issue = 2
+| pages = 1–3, 15–16
+| last = Beels
+| first = C. Christian
+| title = Profile: G. Bateson
+| journal = The Kinesis Report: News and View of Nonverbal Communication
+| date = 1979}}
+* {{Cite news
+| volume = 247
+| issue = 1482
+| pages = 20–37
+| last = Brand
+| first = Stewart
+| title = Both Sides of the Necessary Paradox
+| work = Harper's
+| date = 1973}}
+* {{Cite news
+| issue = 7
+| pages = 32–47
+| last = Brand
+| first = Stewart
+| title = Caring and Clarity: Conversation with G. Bateson and Edmund G. Brown, Jr., Governor of California
+| work = The CoEvolution Quarterly
+| date = 1975}}
+* {{Cite news
+| issue = 10
+| pages = 32–44
+| last = Brand
+| first = Stewart
+| title = For God's Sake, Margaret: A Conversation with G. Bateson and Margaret Mead
+| work = The CoEvolution Quarterly
+| date = 1976}}
+* {{Cite journal
+| volume = 4
+| issue = 2
+| pages = 78–80
+| last = Brand
+| first = Stewart
+| title = Margaret Mead and G. Bateson on the Use of the Camera in Anthropology
+| journal = Studies in the Anthropology of Visual Communication
+| date = 1977| doi = 10.1525/var.1977.4.2.78
+| url = https://repository.upenn.edu/cgi/viewcontent.cgi?article=1052&context=svc
+}}
+* {{Cite journal
+| doi = 10.2307/778528
+| issn = 0162-2870
+| volume = 14
+| pages = 18–20
+| last1 = Deren
+| first1 = Maya
+| last2 = Bateson
+| first2 = G.
+| title = Letter in "An Exchange of Letters between Maya Deren and G. Bateson"
+| journal = October
+| date = 1980
+| url = https://www.jstor.org/stable/778528
+| jstor = 778528}}
+* {{Cite book
+| publisher = Anchor Books
+| pages = 28–34
+| last1 = Fields
+| first1 = Rick
+| last2 = Greene
+| first2 = Richard
+| title = Loka: A Journal from Naropa Institute
+| chapter = A Conversation with G. Bateson
+| date = 1975}}
+* {{Cite news
+| volume = 12
+| issue = 8
+| pages = 42–51
+| last = Goleman
+| first = Daniel
+| title = Breaking Out of the Double Bind
+| work = Psychology Today
+| date = 1978}}
+* {{Cite book
+| publisher = The Boas School
+| pages = 46–52, Plates 11–19
+| last1 = Holt
+| first1 = Claire
+| last2 = Bateson
+| first2 = G.
+| title = The Function of Dance in Human Society: A Seminar Directed by Franziska Boas
+| chapter = Form and Function of the Dance in Bali
+| location = New York
+| date = 1944}}
+* {{Cite journal
+| doi = 10.1111/j.1545-5300.1981.00001.x
+| issn = 0014-7370
+| volume = 20
+| issue = 1
+| pages = 1
+| last = Keeney
+| first = Bradford P.
+| title = G. Bateson: A Final Metaphor
+| journal = Family Process
+| date = 1981
+| url = http://doi.wiley.com/10.1111/j.1545-5300.1981.00001.x}}
+* {{Cite journal
+| doi = 10.1080/00332747.1949.11022724
+| volume = 12
+| issue = 2
+| pages = 105–124
+| last1 = Ruesch
+| first1 = Jurgen
+| last2 = Bateson
+| first2 = G.
+| title = Structure and Process in Social Relations
+| journal = Psychiatry
+| date = 1949
+| pmid = 18152792
+| url = https://www.tandfonline.com/doi/full/10.1080/00332747.1949.11022724}}
+* {{Cite book
+| publisher = W.W. Norton
+| pages = 150–167
+| last1 = Ruesch
+| first1 = Jurgen
+| last2 = Bateson
+| first2 = G.
+| title = Communication: The Social Matrix of Psychiatry
+| chapter = Communication and the System of Checks and Balances: An Anthropological Approach
+| date = 1951}}
+* {{Cite book
+| publisher = W.W. Norton
+| pages = 273–289
+| last1 = Ruesch
+| first1 = Jurgen
+| last2 = Bateson
+| first2 = G.
+| title = Communication: The Social Matrix of Psychiatry
+| chapter = Individual, Group, and Culture: A Review of the Theory of Human Communication
+| date = 1951}}
+* {{Cite book
+| publisher = Gordon and Breach
+| pages = 247–248
+| editor-first = Lee
+| editor-last = Thayer
+| last = Thayer
+| first = Lee
+| title = Communication: Ethical and Moral Issues
+| chapter = A Conversation with G. Bateson
+| date = 1973}}
+* {{Cite book
+| pages = 56–63
+| editor-last1 = Wilder-Mott
+| editor-first1 = Carol
+| editor-last2 = Weakland
+| editor-first2 = John H.
+| last = Weakland
+| first = John
+| title = Rigor & Imagination: Essays from the Legacy of G. Bateson
+| chapter = One Thing Leads to Another
+| date = 1981}}
+* {{Cite journal
+| volume = 1
+| issue = 2
+| pages = 43–49
+| last = Welwood
+| first = John
+| title = A Conversation with G. Bateson
+| journal = ReVision
+| date = 1978}}
+
+{{^|----------------------------------------------------------}}
+;Documentary film
+
+* {{cite AV media |people=Mead, M. & Bateson, G. (Producers). |year=1951 |title=A Balinese Family |medium=Film}}, 2 reels.
+* {{cite AV media |people=Mead, M. & Bateson, G. (Producers). |year=1952 |title=First Days in the Life of a New Guinea Baby |medium=Film}}, 2 reels.
+* {{cite AV media |people=Mead, M. & Bateson, G. (Producers). |year=1952 |title=Karba's First Years |medium=Film}}, 2 reels.
+* {{cite AV media |people=Mead, M. & Bateson, G. (Directors). |year=1952 |title=[[Trance and Dance in Bali]] |medium=Film}}, 2 reels. The film was an inductee of the 1999 [[National Film Registry]] list.
+* {{cite AV media |people=Mead, M. & Bateson, G. (Producers). |year=1954 |title=Childhood Rivalry in Bali and New Guinea |medium=Film}}, 2 reels.
+* {{cite AV media |people=Mead, M. & Bateson, G. (Producers). |year=1954 |title=Bathing Babies in Three Cultures |medium=Film}}, 1 reel.
+* {{cite AV media |people=Mead, M. & Bateson, G. (Producers). |year=1978 |title=Learning to Dance in Bali |medium=Film}}, 1 reel.
+
+==See also==
+{{Portal|Systems science}}
+{{div col|colwidth=28em}}
+* [[Ray Birdwhistell]]
+* {{section link|Coherence therapy|Hierarchical organization of constructs}}
+* [[Complex systems]]
+* [[Constructivist epistemology]]
+* [[Family therapy]]
+* [[Holism]]
+* [[Ignacio Matte Blanco]]
+* [[Macy Conferences]]
+* [[Mary Catherine Bateson]]
+* [[Mind-body problem]]
+* [[Niklas Luhmann]]
+* [[Second-order cybernetics]]
+* [[Systems philosophy]]
+* [[Systems theory in anthropology]]
+* [[Systems thinking]]
+{{div col end}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+== Further reading ==
+
+* {{cite journal |last=Bale |first=L.S. |date=1995 |title=Gregory Bateson, Cybernetics, and the Social/Behavioral Sciences |journal=Cybernetics and Human Knowing |volume=3 |issue=1 |pages=27–45 |url=http://www.narberthpa.com/Bale/lsbale_dop/gbcatsbs.pdf |ref=none}}
+* {{cite web |last=Bale |first=L.S. |date=2000 |orig-date=1992 |title=Gregory Bateson's Theory of Mind: Practical Applications to Pedagogy |publisher=D&O Press |url=http://www.narberthpa.com/Bale/lsbale_dop/gbtom_patp.pdf |ref=none}}
+* {{cite magazine |last=Bateson |first=M.C. |date=Winter 1980 |title=Six Days of Dying |magazine=The CoEvolution Quarterly |volume=28 |pages=4–11 |ref=none}}
+* {{cite journal |last=Bateson |first=M.C. |date=2005 |title=Comments on Deborah Rose and Katja Neves-Graça |journal=Australian Humanities Review |volume=35 |issue=June |url=http://australianhumanitiesreview.org/2005/06/01/comments-on-deborah-rose-and-katja-neves-graca/ |ref=none}}
+* {{cite journal |last=Beels |first=C.C. |date=Winter 1979 |title=Profile: Gregory Bateson |journal=The Kinesis Report: News and Views of Nonverbal Communication |volume=2 |issue=2 |pages=1–3, 15–16 |ref=none}}
+* {{cite book |last=Bochner |first=A.P. |contribution=Forming Warm Ideas |editor-last1=Wilder-Mott |editor-first1=C. |editor-last2=Weakland |editor-first2=J.H. |title=Rigor & Imagination: Essays from the Legacy of Gregory Bateson |pages=65–81 |publisher=Praeger |ref=none}}
+* {{cite journal |last=Bochner |first=A.P. |date=November 2009 |title=Warm Ideas and Chilling Consequences |journal=International Review of Qualitative Research |volume=2 |issue=3 |pages=357–370 |doi=10.1525/irqr.2009.2.3.357 |s2cid=143207262 |url=https://scholarcommons.usf.edu/spe_facpub/17 |ref=none}}
+* {{cite journal |last=Borden |first=R.J. |date=2017 |title=Gregory Bateson's Search for "Patterns Which Connect" Ecology and Mind |journal=Human Ecology Review |volume=23 |issue=2 |pages=87–96 |doi=10.22459/HER.23.02.2017.09 |ref=none|doi-access=free }}
+* {{cite web |last=Brockman |first=J. |date=2004-11-19 |title=Gregory Bateson: The Centennial |publisher=Edge |url=https://www.edge.org/conversation/john_brockman-gregory-bateson-the-centennial |ref=none}}
+* {{cite journal |last=Flemons |first=D. |date=2005 |title=May the Pattern be With You |journal=Cybernetics and Human Knowing |volume=12 |issue=1/2 |pages=91–101 |ref=none}}
+* {{cite web |last=Guddemi |first=PJ. |date=1996-03-15 |title=Anthropology of Power – long Bateson article |publisher=Anthro-L mailing list |url=https://unauthorised.org/anthropology/anthro-l/march-1996/0378.html |ref=none}}
+* {{cite journal |last=Guddemi |first=P. |date=2011-11-28 |title=Conscious Purpose in 2010: Bateson's Prescient Warning |journal=Systems Research and Behavioral Science |volume=28 |issue=5 |pages=465–475 |doi=10.1002/sres.1110 |ref=none}}
+* {{cite web |last=Harries-Jones |first=P. |date=2004 |title=Revisiting Angels Fear: Recursion, Ecology and Aesthetics |url=https://www.researchgate.net/publication/241678380 |ref=none}}
+* {{cite journal |last=Harries-Jones |first=P. |date=2005 |title=Gregory Bateson and Ecological Aesthetics: An Introduction |journal=Australian Humanities Review |volume=35 |issue=June |url=http://australianhumanitiesreview.org/2005/06/01/gregory-bateson-and-ecological-aesthetics-an-introduction/ |ref=none}}
+* {{cite journal |last=Harries-Jones |first=P. |date=2010-11-26 |title=Bioentropy, Aesthetics and Meta-dualism: The Transdisciplinary Ecology of Gregory Bateson |journal=Entropy |volume=12 |issue=12 |pages=2359–2385 |doi=10.3390/e12122359 |bibcode=2010Entrp..12.2359H |ref=none|doi-access=free }}
+* {{cite journal |last=Henley |first=P. |date=2013 |title=From Documentation to Representation: Recovering the Films of Margaret Mead and Gregory Bateson |journal=Visual Anthropology |volume=26 |issue=2 |pages=75–108 |doi=10.1080/08949468.2013.751857 |s2cid=144734899 |ref=none}}
+* {{cite web |last=Hoffman |first=L. |date=2008-01-14 |title=Gregory Bateson: Clairvoyant Philosopher |publisher=Territories of the Alive |url= http://christopherkinman.blogspot.com/2008/01/gregory-bateson-clairvoyant-philosopher.html |ref=none}}
+* {{cite magazine |last=Humphrey |first=N. |date=1979-12-06 |title=New Ideas, Old Ideas (review of Mind and Nature: A Necessary Unity) |magazine=London Review of Books |volume=1 |issue=4 |url=https://www.lrb.co.uk/the-paper/v01/n04/nicholas-humphrey/new-ideas-old-ideas |ref=none}}
+* {{cite magazine |last=Humphrey |first=N. |date=1980-02-07 |title=Syllogisms of grass |magazine=London Review of Books |volume=2 |issue=2 |url=https://www.lrb.co.uk/the-paper/v02/n02/letters |ref=none}}
+* {{cite journal |last=Keesing |first=R.M. |date=June 1974 |title=Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology by Gregory Bateson |journal=American Anthropologist |volume=76 |issue=2 |pages=370–372 |doi=10.1525/aa.1974.76.2.02a00330 |ref=none|doi-access=free }}
+* {{cite web |last=Kenny |first=V. |date=1999-08-04 |title=Interview with Anatol Holt conducted by Vincent Kenny |publisher=Oikos |url=http://www.oikos.org/Holtint.htm |ref=none}}
+* {{cite web |last=Koopmans |first=M. |date=1996 |title=Schizophrenia and the Family II—Paradox and Absurdity in Human Communication Reconsidered |url=https://www.goertzel.org/dynapsyc/1998/KoopmansPaper.htm |ref=none}}
+* {{cite web |last=Koopmans |first=M. |date=1997 |title=Schizophrenia and the Family: Double Bind Theory Revisited |url=https://www.goertzel.org/dynapsyc/1997/Koopmans.html |ref=none}}
+* {{cite journal |last1=Levy |first1=R.IM. |last2=Rappoport |first2=R. |date=June 1982 |title=Gregory Bateson: 1904-1980 |journal=American Anthropologist |volume=84 |issue=2 |pages=379–394 |doi=10.1525/aa.1982.84.2.02a00100 |ref=none}}
+* {{cite journal |last=Mitchell |first=R.W. |date=1991 |title=Bateson's Ideas of 'Metacommunication' in play |journal=New Ideas in Psychology |volume=9 |issue=1 |pages=73–87 |doi=10.1016/0732-118X(91)90042-K |ref=none}}
+* {{cite journal |last=Nachmanovitch |first=S. |date=1984 |title=Gregory Bateson: Old Men Ought to be Explorers |journal=Leonardo |volume=17 |issue=2 |pages=113–118 |doi=10.2307/1575000 |jstor=1575000 |s2cid=191383719 |ref=none}}
+* {{cite journal |last=Nachmanovitch |first=S. |date=2007 |title=Bateson and the Arts |journal=Kybernetes |volume=36 |issue=7/8 |pages=1122–1133 |doi=10.1108/03684920710777919 |ref=none}}
+* {{cite journal |last=Nachmanovitch |first=S. |date=March 2007 |title=It Don't Mean a Thing (If It Ain't Got That Swing): Bateson's Epistemology and the Rhythms of Life |journal=Ultimate Reality and Meaning |volume=30 |issue=1 |pages=32–53 |doi=10.3138/uram.30.1.32 |ref=none}}
+* {{cite journal |last=Nachmanovitch |first=S. |date=2009 |title=This is Play |journal=New Literary History |volume=40 |issue=1 |pages=1–24 |doi=10.1353/nlh.0.0074 |s2cid=143628981 |ref=none}}
+* {{cite journal |last=Nachmanovitch |first=S. |date=2013 |title=An old dinosaur |journal=Kybernetes |volume=42 |issue=9/10 |pages=1439–1446 |doi=10.1108/K-10-2012-0061 |ref=none}}
+* {{cite journal |last=Nagin |first=C. |date=November 2004 |title=Gregory Bateson: The Mindful Wizard |journal=Common Ground |volume=126 |pages=23–24 |ref=none}}
+* {{cite journal |last=Neves-Graça |first=K. |date=June 2005 |title=Chasing Whales with Bateson and Daniel |journal=Australian Humanities Review |volume=35 |url=http://australianhumanitiesreview.org/2005/06/01/chasing-whales-with-bateson-and-daniel/ |ref=none}}
+* {{cite journal |last=Price |first=D.H. |date=Winter 1998 |title=Gregory Bateson and the OSS: World War II and Bateson's Assessment of Applied Anthropology |journal=Human Organization |volume=57 |issue=4 |pages=379–384 |doi=10.17730/humo.57.4.7428246q71t7p612 |jstor=44127534 |ref=none}}
+* {{cite web |last=Rodgers |first=T. |date=1997-03-24 |title=Personal snapshots from Old Hawaii |publisher=Oikos |url=http://www.oikos.org/batsnap.htm |ref=none}}
+* {{cite journal |last=Rose |first=D.B. |date=June 2005 |title=Pattern, Connections, Desire—In honour of Gregory Bateson |journal=Australian Humanities Review |volume=35 |url=http://australianhumanitiesreview.org/2005/06/01/pattern-connection-desire-in-honour-of-gregory-bateson/ |ref=none}}
+* {{cite magazine |last=Rose |first=S. |date=1980-11-21 |title=Review of "Mind and Nature." |magazine=Times Literary Supplement |issue=4051 |page=1314 |ref=none}}
+* {{cite journal |last=Sarles |first=H.B. |date=April–June 1969 |title=The Study of Language and Communication across Species |journal=Current Anthropology |volume=10 |issue=2/3 |pages=211–221 |doi=10.1086/201073 |jstor=2740478 |s2cid=144352251 |ref=none}} Gregory Bateson comments, p.&nbsp;215.
+* {{cite journal |last=Stagoll |first=B. |date=2005 |title=Gregory Bateson (1904-1980): A Reappraisal |journal=Australian & New Zealand Journal of Psychiatry |volume=39 |issue=11/12 |pages=1036–1045 |doi=10.1080/j.1440-1614.2005.01723.x |pmid=16343307 |s2cid=208218665 |ref=none}}
+* {{cite journal |last=Steier |first=F. |date=2013 |title=Gregory Bateson gets a mobile phone |journal=Mobile Media & Communication |volume=1 |issue=1 |pages=160–165 |doi=10.1177/2050157912459183 |ref=none|doi-access=free }}
+* {{cite journal |last=Stewart |first=P. |date=1975 |title=Slobodkin on Bateson: A Comment |journal=Human Ecology |volume=3 |issue=1 |pages=59–60 |doi=10.1007/bf01531773 |s2cid=154350916 |ref=none}}
+* {{cite book |last=Thayer |first=L. |date=2015 |orig-date=1973 |contribution=A Conversation with Gregory Bateson |editor-last=Thayer |editor-first=L. |title=Communication: Ethical and Moral Issues |publisher=Gordon and Breach }}
+* {{cite magazine |last=Turner |first=T. |date=1980 |title=Review of "Mind and Nature" |magazine=In These Times |issue=September |pages=17–23 |ref=none}}
+
+==External links==
+{{Wikiquote}}
+{{commons category}}
+
+* {{IMDb name|61057}}
+* [http://batesonideagroup.org Bateson Idea Group] (official)
+* [https://www.facebook.com/pages/Bateson-Idea-Group/101726406563108 Bateson Idea Group] at [[Facebook]]
+* [https://batesoninstitute.org International Bateson Institute]
+* [http://www.interculturalstudies.org/Bateson Institute for Intercultural Studies]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bateson, Gregory}}
+[[Category:1904 births]]
+[[Category:1980 deaths]]
+[[Category:People from Grantchester]]
+[[Category:People educated at Charterhouse School]]
+[[Category:English emigrants to the United States]]
+[[Category:Alumni of St John's College, Cambridge]]
+[[Category:English anthropologists]]
+[[Category:English atheists]]
+[[Category:Communication theorists]]
+[[Category:Consciousness researchers and theorists]]
+[[Category:Cyberneticists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:General semantics]]
+[[Category:Humor researchers]]
+[[Category:Philosophers of mind]]
+[[Category:Psychological anthropologists]]
+[[Category:British semioticians]]
+[[Category:Systems psychologists]]
+[[Category:British systems scientists]]
+[[Category:University of California, Santa Cruz faculty]]
+[[Category:Schizophrenia]]
+[[Category:Bateson family]]

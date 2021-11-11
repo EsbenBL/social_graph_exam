@@ -1,0 +1,91 @@
+{{EngvarB|date=April 2015}}
+{{Use dmy dates|date=April 2015}}
+{{BLP primary sources|date=September 2009}}
+{{Infobox scholar
+| name = Trevor J. Pinch
+| image = Trevor Pinch at Cornell (438994520).jpg
+| imagesize = 
+| alt = 
+| caption = 
+| fullname = 
+| othernames = 
+| birth_name =         <!-- Use only if different from full/othernames -->
+| birth_date = {{Birth date and age|df=yes|1952|01|01}}
+| birth_place = [[Lisnaskea]], Northern Ireland
+| death_date = 
+| death_place = 
+| death_cause = 
+| era = 
+| region = 
+| alma_mater = [[University of Bath]]
+| school_tradition = 
+| main_interests = 
+| principal_ideas = [[Social Construction of Technology|Social Construction of Technology (SCOT)]]
+| major_works = ''Confronting Nature''
+| awards = 
+| influences = 
+| influenced = 
+| footnotes = 
+}}
+'''Trevor J. Pinch''' (born 1 January 1952),<ref name=Congress>{{cite web |title= Pinch, T. J. (Trevor J.) | url =http://id.loc.gov/authorities/names/n81099695.html | publisher = Library of Congress | access-date = 12 February 2015 | quote = data sheet (b. 1-1-52) }}</ref> is a British sociologist, part-time musician and former chair of the [[Science and Technology Studies]] department at [[Cornell University]]. In 2018, he won the J.D. Bernal Prize from the [[Society for Social Studies of Science]] for "distinguished contributions to Science and Technology Studies over the course of [a] career".<ref>http://www.4sonline.org/prizes/bernal, retrieved 19 February 2018</ref>
+
+==Early life==
+Pinch was born in [[Lisnaskea]], Northern Ireland.<ref>{{cite web|url=http://chronicle.cornell.edu/stories/1999/10/christopher-ober-and-trevor-pinch-named-department-chairs|title=''Christopher Ober and Trevor Pinch named to department chairs at Cornell'', Cornell Chronicle|work=[[Cornell University]]|access-date=5 January 2015}}</ref>
+
+== Education ==
+He has a degree in [[Physics]] from [[Imperial College London]] and a PhD in Sociology from the [[University of Bath]].
+
+== Career ==
+He taught sociology at the [[University of York]] before moving to the United States.
+
+Together with [[Wiebe Bijker]], Pinch started the movement known as [[Social Construction of Technology]] (SCOT) within the sociology of science.
+
+==Works==
+He is a significant contributor to the study of [[Sound culture]], and his books include a major study of [[Robert Moog]].
+
+Pinch's book, ''Confronting Nature'' is widely considered the definitive sociological account of the history of the solar neutrino problem, and was mentioned by Raymond Davis in his 2002 Nobel Prize autobiography.<ref name=Nobel>{{cite web|title=Raymond Davis Jr. – Biographical|url=https://www.nobelprize.org/nobel_prizes/physics/laureates/2002/davis-bio.html|website=Nobelprize.org|publisher=Nobel Media AB 2014|access-date=31 December 2015}}</ref>
+
+=== Books ===
+* {{cite book | last1 = Pinch | first1 = Trevor | last2 = Bijker | first2 = Wiebe E. | last3 = Hughes | first3 = Thomas P. | author-link2 = Wiebe Bijker | author-link3 = Thomas P. Hughes | title = The social construction of technological systems: new directions in the sociology and history of technology | publisher = [[MIT Press]] | location = Cambridge, Massachusetts | year = 1987 | isbn = 9780262022620 }}
+* {{cite book | last1 = Pinch | first1 = Trevor | last2 = Mulkay | first2 = Michael | last3 = Ashmore | first3 = Malcolm | author-link2 = Mike Mulkay | title = Health and efficiency: a sociology of health economics | publisher = Open University Press | location = Milton Keynes England Philadelphia | year = 1989 | isbn = 9780335099122 }}
+* {{cite book | last1 = Pinch | first1 = Trevor | last2 = Gooding | first2 = David | last3 = Schaffer | first3 = Simon | author-link2 = David Gooding | author-link3 = Simon Schaffer | title = The uses of experiment: studies in the natural sciences | publisher = Cambridge University Press | location = Cambridge England New York | year = 1989 | isbn = 9780521337687 }}
+* {{cite book | last1 = Pinch | first1 = Trevor | last2 = Collins | first2 = Harry M. | author-link2 = Harry Collins | title = The golem: what you should know about science | url = https://archive.org/details/golemwhatyoushou00coll | url-access = registration | publisher = Cambridge University Press | location = Cambridge England New York City | year = 1998 | orig-year = 1993 | edition = 2nd | isbn = 9781107604650 }}
+* {{cite book | last1 = Pinch | first1 = Trevor | last2 = Collins | first2 = Harry M. | author-link2 = Harry Collins | title = The golem at large: what you should know about technology | publisher = Cambridge University Press | location = Cambridge | year = 2014 | orig-year = 1998 | edition = 6th | isbn = 9781107688285 }}
+* {{cite book | last1 = Pinch | first1 = Trevor | last2 = Trocco | first2 = Frank | title = Analog days the invention and impact of the Moog synthesizer | publisher = Harvard University Press | location = Cambridge, Massachusetts | year = 2002 | isbn = 9780674016170 | url-access = registration | url = https://archive.org/details/analogdaysinvent00trev }}
+* {{cite book | last1 = Pinch | first1 = Trevor | last2 = Oudshoorn | first2 = Nellie | title = How users matter the co-construction of users and technology | publisher = [[MIT Press]] | location = Cambridge, Massachusetts | year = 2005 | isbn = 9780262651097 }}
+* {{cite book | last1 = Pinch | first1 = Trevor | last2 = Collins | first2 = Harry M. | author-link2 = Harry Collins | title = Dr. Golem how to think about medicine | publisher = University of Chicago Press | location = Chicago | year = 2005 | isbn = 9780226113692 }}
+
+=== Chapters in books ===
+* {{citation | last1 = Pinch | first1 = Trevor | last2 = Kline | first2 = Ronald | contribution = The social construction of technology | editor-last1 = MacKenzie | editor-first1 = Donald | editor-last2 = Wajcman | editor-first2 = Judy | editor-link1 = Donald Angus MacKenzie | editor-link2 = Judy Wajcman | title = The social shaping of technology | pages = [https://archive.org/details/socialshapingoft0000unse/page/113 113–115] | publisher = Open University Press | location = Buckingham England Philadelphia | year = 1999 | orig-year = 1985 | edition = 2nd | isbn = 9780335199136 | postscript = . | url = https://archive.org/details/socialshapingoft0000unse/page/113 }}
+* {{citation | last1 = Pinch | first1 = Trevor | last2 = Bijker | first2 = Wiebe E. | author-link2 = Wiebe Bijker | contribution = The social construction of facts and artefacts: or how the sociology of science and the sociology of technology might benefit each other | editor-last1 = Pinch | editor-first1 = Trevor | editor-last2 = Bijker | editor-first2 = Wiebe E. | editor-last3 = Hughes | editor-first3 = Thomas P. | editor-link2 = Wiebe Bijker | editor-link3 = Thomas P. Hughes | title = The social construction of technological systems: new directions in the sociology and history of technology | pages = 17–50 | publisher = [[MIT Press]] | location = Cambridge, Massachusetts | year = 1987 | isbn = 9780262022620 | postscript = .}}
+* {{citation | last1 = Pinch | first1 = Trevor | last2 = Ashmore | first2 = Malcolm | last3 = Mulkay | first3 = Michael | author-link3 = Michael Mulkay | contribution = Technology, testing, text: clinical budgeting in the UK National Health Service | editor-last1 = Bijker | editor-first1 = Wiebe E. | editor-last2 = Law | editor-first2 = John | editor-link1 = Wiebe Bijker | editor-link2 = John Law (sociologist) | title = Shaping technology/building society: studies in sociotechnical change | pages = [https://archive.org/details/shapingtechnolog00wieb/page/265 265–289] | publisher = [[MIT Press]] | location = Cambridge, Massachusetts | year = 1992 | isbn = 9780262521949 | postscript = . | url = https://archive.org/details/shapingtechnolog00wieb/page/265 }}
+* {{citation | last1 = Pinch | first1 = Trevor | contribution = The social construction of technology: a review | editor-last1 = Fox | editor-first1 = Robert | title = Technological change: methods and themes in the history of technology | pages = 17–35 | publisher = Harwood Academic Publishers | location = Amsterdam, Holland | year = 1996 | isbn = 9789057023378 | postscript = .}}
+* {{citation | last1 = Pinch | first1 = Trevor | contribution = Why do you go to a piano store to buy a synthesizer: path dependence and the social construction of technology | editor-last1 = Garud | editor-first1 = Raghu | editor-last2 = Karnøe | editor-first2 = Peter | title = Path dependence and creation | pages = 381–399 | publisher = Lawrence Erlbaum Associates | location = Mahwah, New Jersey | year = 2001 | isbn = 9780805832723 | postscript = .}}
+
+=== Journal articles ===
+* {{Cite journal | last1 = Pinch | first1 = Trevor | last2 = Bijker | first2 = Wiebe E. | author-link2 = Wiebe Bijker | title = The social construction of facts and artefacts: or how the sociology of science and the sociology of technology might benefit each other | journal = [[Social Studies of Science]] | volume = 14 | issue = 3 | pages = 388–441 | doi = 10.1177/030631284014003004 | date = August 1984 | url = https://ris.utwente.nl/ws/files/6876146/Social%20Studies%20of%20Science-1984-Pinch-399-441.pdf }}
+:: {{Cite journal | last = Russell | first = Stewart | title = The social construction of artefacts: a response to Pinch and Bijker | journal = [[Social Studies of Science]] | volume = 16 | issue = 2 | pages = 331–346 | doi = 10.1177/0306312786016002008 | date = May 1986 }}
+* {{Cite journal | last1 = Pinch | first1 = Trevor | last2 = Bijker | first2 = Wiebe E. | author-link2 = Wiebe Bijker | title = Science, relativism and the new sociology of technology: reply to Russell | journal = [[Social Studies of Science]] | volume = 16 | issue = 2 | pages = 347–360 | doi = 10.1177/0306312786016002009 | date = May 1986 | url = https://research.utwente.nl/en/publications/science-relativism-and-the-new-sociology-of-technology-reply-to-russell(6984b9fe-d1f9-4fe3-9e94-585887ec41e6).html }}
+* {{Cite journal | last = Pinch | first = Trevor | title = Deconstructing Roth and Barrett | journal = [[Social Studies of Science]] | volume = 20 | issue = 4 | pages = 658–663 | doi = 10.1177/030631290020004004 | date = November 1990 }}
+* {{Cite journal | last1 = Pinch | first1 = Trevor | last2 = Kline | first2 = Ronald | title = Users as agents of technological change: the social construction of the automobile in the rural United States | journal = [[Technology and Culture]] | volume = 37 | issue = 4 | pages = 763–795 | doi = 10.2307/3107097 | date = October 1996 | jstor = 3107097 }}
+* {{Cite journal | last = Pinch | first = Trevor | title = On making infrastructure visible: putting the non-humans to rights | journal = [[Cambridge Journal of Economics]] | volume = 34 | issue = 1 | pages = 77–89 | doi = 10.1093/cje/bep044 | date = January 2010 }}
+
+== References ==
+{{reflist|30em}}
+
+==External links==
+*[http://sts.cornell.edu/trevor-j-pinch Trevor Pinch at Cornell S&TS]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pinch, Trevor}}
+[[Category:1952 births]]
+[[Category:Alumni of Imperial College London]]
+[[Category:Alumni of the University of Bath]]
+[[Category:Academics of the University of York]]
+[[Category:Cornell University faculty]]
+[[Category:Historians of technology]]
+[[Category:Living people]]
+[[Category:Scottish sociologists]]
+[[Category:Social constructionism]]
+[[Category:Sociologists of science]]

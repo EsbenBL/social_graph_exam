@@ -1,0 +1,59 @@
+{{Infobox scientist
+| name              = Christopher Winship
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date and age|1950|3|5|mf=y}}
+| birth_place       = [[Topeka, Kansas]]
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| nationality       = [[United States|American]]
+| fields            = [[Sociology]]
+| workplaces        = [[Northwestern University]]
+| alma_mater        = [[Harvard University]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = [[Harrison White]]
+| doctoral_students = [[Lincoln Quillian]]
+| known_for         = 
+| awards            = 
+}}
+
+'''Christopher Winship''' (born March 5, 1950) is Diker-Tishman Professor of sociology at [[Harvard University]], and principal of the [[Hauser Center for Nonprofit Organizations]] at Harvard. He is best known for his contributions to quantitative methods in sociology and, since 1995, has served as editor of ''[[Sociological Methods and Research]]''. He received the 2006 Paul Lazarsfeld Award from the Methodology Section of the [[American Sociological Association]], which recognizes outstanding contributions over a career to sociological methodology.<ref>{{cite web|url=http://www.albany.edu/asam/Awards/index.htm|title=List of Lazarsfeld Award Recipients|access-date=2010-01-08|archive-url=https://web.archive.org/web/20180506104223/https://www.albany.edu/asam/Awards/index.htm|archive-date=2018-05-06|url-status=dead}}</ref>
+
+He grew up in [[New Britain, Connecticut]] and earned his bachelor's degree in mathematics and sociology from [[Dartmouth College]] in 1977. He holds a Ph.D in sociology from Harvard.
+
+After leaving Harvard he did a one-year post-doctoral fellowship at the Institute for Research on Poverty at the [[University of Wisconsin–Madison]] and a two-year fellowship at the [[National Opinion Research Center]] at the [[University of Chicago]].
+
+In 1980 he joined the Sociology Department at [[Northwestern University]]. During his twelve years at Northwestern he was Director of the Program in Mathematical Methods in the Social Sciences and for four years chair of the Department of Sociology. He was a founding member of Northwestern's Department of Statistics, and held a courtesy appointment in Economics.
+
+From 1984 to 1986, he was the director of the Economics Research Center at [[National Opinion Research Center|NORC]].
+
+He returned to Harvard in 1992, and served as the Chair of Harvard's sociology department from 1998 to 2001.
+
+He is currently doing research on several topics: The Ten Point Coalition, a group of black ministers who are working with the [[Boston]] police to reduce youth violence; statistical models for causal analysis; the effects of education on mental ability; causes of the racial difference in performance in elite colleges and universities; changes in the racial differential in imprisonment rates over the past sixty years.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20060901090049/http://www.wjh.harvard.edu/soc/faculty/winship/ Harvard Faculty biographical note and CV]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Winship, Christopher}}
+[[Category:1950 births]]
+[[Category:American sociologists]]
+[[Category:People from Topeka, Kansas]]
+[[Category:Harvard University faculty]]
+[[Category:Hotchkiss School alumni]]
+[[Category:Dartmouth College alumni]]
+[[Category:Harvard Graduate School of Arts and Sciences alumni]]
+[[Category:University of Wisconsin–Madison alumni]]
+[[Category:University of Chicago alumni]]
+[[Category:Northwestern University faculty]]
+[[Category:Living people]]
+[[Category:Academic journal editors]]

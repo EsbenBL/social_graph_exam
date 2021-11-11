@@ -1,0 +1,83 @@
+{{Use dmy dates|date=August 2013}}
+{{Use British English|date=August 2013}}
+{{Infobox scholar
+| name = Stephen Woolgar
+| image = Steve Woolgar.jpg
+| imagesize = 
+| alt = 
+| caption = 
+| fullname = 
+| othernames = 
+| birth_name =
+| birth_date = {{Birth date and age|df=yes|1950|02|14}}
+| birth_place = 
+| death_date = 
+| death_place = 
+| death_cause = 
+| era = 
+| region = 
+| alma_mater = [[University of Cambridge]] (BA/PhD)
+| school_tradition = 
+| main_interests = [[Sociology|Sociologist]]
+| principal_ideas = 
+| major_works = ''[[Laboratory Life|Laboratory Life: The Construction of Scientific Facts]]''
+| awards = 
+| influences = [[Bruno Latour]]
+| influenced = 
+| footnotes = 
+}}
+'''Stephen William Woolgar''' (born 14 February 1950)<ref name=Congress>{{cite web |title= Woolgar, Steve |url= http://id.loc.gov/authorities/names/n79004601.html |publisher= Library of Congress |access-date= 16 February 2015 |quote= data sheet (b. 2-14-50) }}</ref> is a British [[Sociology|sociologist]]. He has worked closely with [[Bruno Latour]], with whom he wrote ''[[Laboratory Life|Laboratory Life: The Construction of Scientific Facts]]'' (1979).
+
+== Education ==
+Stephen Woolgar holds a BA (First Class Honours) in engineering and a PhD in sociology, both at the [[University of Cambridge]].
+
+== Career ==
+Woolgar wrote ''[[Laboratory Life|Laboratory Life: The Construction of Scientific Facts]]'' (1979), a [[social constructionist]] account of the practice of science, together with [[Bruno Latour]]. Woolgar has subsequently adopted an even more [[relativist]] stance, for example in his 1988 book ''[[Science: The Very Idea]]''.<ref>{{cite book|last=Raatikainen|first=Panu|title=Ihmistieteet ja filosofia|year=2004|publisher=Gaudeamus|location=Helsinki|language=fi|isbn=951-662-898-2|pages=62–63}}</ref> Woolgar espouses a radically relativist and constructionist position. In 1985 he wrote a paper proposing a sociological approach towards Machines and AI, in which he outlined the importance of tacking AI from the field of Sociology <ref>{{Cite journal | last1 = Woolgar | first1 = Steve | title = Why not a Sociology of Machines? The Case of Sociology and Artificial Intelligence | journal = [[Sociology]] | volume = 19 | issue = 4 | pages = 557–572 | publisher = [[SAGE Publications|Sage]] | doi = 10.1177/0038038585019004005 | date = November 1985 | s2cid = 143156873 }}</ref>
+
+He has been Professor of Sociology and Head of the Department of Human Sciences and director of CRICT (Centre for Research into Innovation, Culture and Technology) at [[Brunel University]]. He holds the Chair of Sociology and Marketing and is a professor of marketing at the [[University of Oxford]] and a fellow at [[Green Templeton College]]. He is the former director of Science and Technology Studies within Oxford's Institute for Science, Innovation and Society. He is an important contributor in the fields of [[Science Studies|science studies]], [[sociology of scientific knowledge]] (SSK) and the [[science and technology studies]] (STS) (especially on the topic of sociology of machines). Woolgar is a recipient of the 2008 [[John Desmond Bernal Prize]],  awarded annually by the [[Society for Social Studies of Science]] to an individual judged to have made a distinguished contribution to the field.
+
+== Selected bibliography ==
+
+=== Books ===
+* {{cite book | last1 = Woolgar | first1 = Steve | last2 = Latour | first2 = Bruno | author-link2 = Bruno Latour | title = Laboratory life: the construction of scientific facts | publisher = [[Princeton University Press]] | location = Princeton, New Jersey | year = 1986 | orig-year = 1979 | isbn = 9780691094182 }} Originally published 1979 in Los Angeles, by [[Sage Publications]]
+* {{cite book | last = Woolgar | first = Steve | title = Science: the very idea | publisher = Routledge | location = London New York | year = 1993 | orig-year = 1988 | isbn = 9780415084758 }}
+* {{cite book | last = Woolgar | first = Steve | title = Knowledge and reflexivity: new frontiers in the sociology of knowledge | publisher = Sage | location = London | year = 1988 | isbn = 9780803981201 }}
+* {{cite book | last1 = Woolgar | first1 = Steve | last2 = Fuller | first2 = Steve | last3 = de Mey | first3 = Marc  | last4 = Shinn | first4 = Terry | author-link2 = Steve Fuller (sociologist) | title = The cognitive turn: sociological and psychological perspectives on science | publisher = Springer | location = Dordrecht, Netherlands | year = 1989 | isbn = 9789401578257 }}
+* {{cite book | last1 = Woolgar | first1 = Steve | last2 = Lynch | first2 = Michael | author-link2 = Michael Lynch (ethnomethodologist) | title = Representation in scientific practice | publisher = [[MIT Press]] | location = Cambridge, Massachusetts | year = 1990 | isbn = 9780262620765 }}
+* {{cite book | last1 = Woolgar | first1 = Steve | last2 = Grint | first2 = Keith | title = The machine at work: technology, work, and organization | publisher = Polity Press | location = Cambridge, UK Malden, Massachusetts | year = 1997 | isbn = 9780745609256 }}
+* {{cite book | last = Woolgar | first = Steve | title = Virtual society? Technology, cyberbole, reality | publisher = Oxford University Press | location = Oxford New York | year = 2002 | isbn = 9780191593963 }}
+* {{cite book | last1 = Woolgar | first1 = Steve | last2 = Lynch | first2 = Michael | last3 = Coopmans | first3 = Catelijne | last4 = Vertesi | first4 = Janet | author-link2 = Michael Lynch (ethnomethodologist) | title = Representation in scientific practice revisited | publisher = [[MIT Press]] | location = Cambridge, Massachusetts | year = 2014 | isbn = 9780262525381 }}
+
+=== Chapter in books ===
+* {{citation | last = Woolgar | first = Steve | contribution = Some remarks about positionism: A reply to Collins and Yearley | editor-last = Pickering | editor-first = Andrew | editor-link = Andrew Pickering | title = Science as practice and culture | pages = 327–342 | publisher = University of Chicago Press | location = Chicago | year = 1992 | isbn = 9780226668017 | postscript = .}}
+
+=== Journal articles ===
+* {{Cite journal | last1 = Woolgar | first1 = Steve | last2 = Mulkay | first2 = Michael | last3 = Gilbert | first3 = G. Nigel | author-link2 = Mike Mulkay | title = Problem areas and research networks in science | journal = [[Sociology (journal)|Sociology]] | volume = 9 | issue = 2 | pages = 187–203 | publisher = [[SAGE Publications|Sage]] | doi = 10.1177/003803857500900201 | date = May 1975 | s2cid = 145579542 }}
+* {{Cite journal | last1 = Woolgar | first1 = Steve | title = Interests and explanation in the social study of science | journal = [[Social Studies of Science]] | volume = 11 | issue = 3 | pages = 365–394 | publisher = [[SAGE Publications|Sage]] | doi = 10.1177/030631278101100304 | date = August 1981 | s2cid = 143629573 }}
+* {{Cite journal | last1 = Woolgar | first1 = Steve | last2 = Pawluch | first2 = Dorothy | title = Ontological gerrymandering: The anatomy of social problems explanations | journal = [[Social Problems]] | volume = 32 | issue = 3 | pages = 214–227 | publisher = [[Oxford University Press]] | doi = 10.2307/800680 | date = February 1985 | jstor = 800680 | doi-access = free }}
+* {{Cite journal | last1 = Woolgar | first1 = Steve | title = Why not a Sociology of Machines? The Case of Sociology and Artificial Intelligence | journal = [[Sociology]] | volume = 19 | issue = 4 | pages = 557–572 | publisher = [[SAGE Publications|Sage]] | doi = 10.1177/0038038585019004005 | date = November 1985 | s2cid = 143156873 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20091201051952/http://www.sbs.ox.ac.uk/centres/insis/people/Pages/SteveWoolgar.aspx Oxford home page]
+* [https://web.archive.org/web/20061230115832/http://virtualsociety.sbs.ox.ac.uk/text/people/woolgar.htm  Professor Steve Woolgar (short biography)]
+* [http://www.4sonline.org/index.htm Society for Social Studies of Science]
+* [http://www.insis.ox.ac.uk/ Institute for Science, Innovation and Society]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Woolgar, Steve}}
+[[Category:1950 births]]
+[[Category:British sociologists]]
+[[Category:Academics of Brunel University London]]
+[[Category:Academics of the University of Oxford]]
+[[Category:Alumni of Emmanuel College, Cambridge]]
+[[Category:Fellows of Green Templeton College, Oxford]]
+[[Category:Living people]]
+[[Category:Sociologists of science]]
+[[Category:Social constructionism]]
+
+
+{{UK-sociologist-stub}}

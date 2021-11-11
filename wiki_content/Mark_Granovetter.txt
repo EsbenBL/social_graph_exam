@@ -1,0 +1,111 @@
+{{Infobox scientist
+| name              = Mark S. Granovetter
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date and age |1943|10|20|mf=y}}
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| nationality       = [[United States|American]]
+| fields            = [[Sociology]]
+| workplaces        = [[Stanford University]]
+| alma_mater        = [[Princeton University]]<br>[[Harvard University]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = [[Harrison White]]
+| doctoral_students = [[Emilio J. Castilla]], [[Mark Mizruchi]]<ref name=dissertation>{{cite thesis |last=Mizruchi |first=Mark |date=1980 |title=The structure of the American corporate network: 1904-1974 |type=PhD |page=ii |oclc=7297026 |id={{ProQuest|303081789}} }}</ref>
+| notable_students  = [[Walter W. Powell]]
+| known_for         = [[Social network]] theory
+| awards            = 
+| spouse            = <!--(or | spouses = )-->
+}}
+
+'''Mark Sanford Granovetter''' ({{IPAc-en|ˈ|ɡ|r|æ|n|ə|v|ɛ|t|ər}}; born October 20, 1943) is an [[Americans|American]] [[sociologist]] and professor at [[Stanford University]].<ref>{{cite web|url=http://www.stanford.edu/dept/soc/people/mgranovetter/ |title=Archived copy |access-date=2007-11-06 |url-status=dead |archive-url=https://web.archive.org/web/20080429195957/http://www.stanford.edu/dept/soc/people/mgranovetter/ |archive-date=2008-04-29 }} Mark Granovetter, Stanford University</ref> He is best known for his work in [[social network]] theory and in [[economic sociology]], particularly his theory on the spread of [[information]] in social networks known as "The Strength of Weak Ties" (1973).<ref>{{Cite journal | last1 = Granovetter | first1 = M. S. | title = The Strength of Weak Ties | journal = The American Journal of Sociology | volume = 78 | issue = 6 | pages = 1360–1380 | doi = 10.1086/225469 | jstor= 2776392| url = https://sociology.stanford.edu/sites/default/files/publications/the_strength_of_weak_ties_and_exch_w-gans.pdf| year = 1973 | s2cid = 59578641 }}</ref> Granovetter was recently recognized as a Citation Laureate by Thomson Reuters and added to that organization’s list of predicted Nobel Prize winners in economics for the year 2014. Data from the Web of Science show that Granovetter has written both the first and third most cited sociology articles. 
+
+==Education==
+Granovetter earned an [[Bachelor of Arts|A.B.]] in History at [[Princeton University]] (1965) and a [[Ph.D]] in Sociology at [[Harvard University]] (1970). At Harvard he studied under the supervision of [[Harrison White]]. He is currently the Joan Butler Ford Professor in the [[Stanford University School of Humanities and Sciences|School of Humanities and Sciences]] at Stanford and is the chair of the Department of Sociology. He worked at [[Northwestern University]], the [[State University of New York at Stony Brook]], and [[Johns Hopkins University]].<ref>[http://www.stanford.edu/dept/soc/people/faculty/granovetter/resumark.doc ''Curriculum Vitae''] {{webarchive|url=https://web.archive.org/web/20060908040626/http://www.stanford.edu/dept/soc/people/faculty/granovetter/resumark.doc |date=2006-09-08 }}, November 2005, from Stanford University website</ref>
+
+==Major ideas==
+
+===The strength of weak ties===
+{{main|Interpersonal ties}}
+Granovetter's paper "The Strength of Weak Ties" is a highly influential research paper, with about 50,000 citations according to Google Scholar (as of November 2018).  Its thesis is that weak ties -- acquaintanceships that are not reinforced by many mutual friendships -- are especially pivotal in the flow of information.  It has become a core idea in the field of social networks. In marketing, information science, or politics, weak ties enable reaching populations and audiences that are not accessible via strong ties. The concepts and findings of this work were later published in the monograph ''Getting A Job'', an adaptation of Granovetter's doctoral dissertation at [[Harvard University]]'s Department of Social Relations, with the title: "Changing Jobs: Channels of Mobility Information in a Suburban Population" (313 pages).
+
+In 1969 Granovetter submitted this paper to ''[[American Sociological Review]]'', but it was rejected. Eventually this pioneering research was published in 1973 in [[American Journal of Sociology]] and became the most cited work in the social sciences.{{Citation needed|reason=Biographical fact not widely known|date=June 2021}}
+
+===Economic sociology: Embeddedness===
+In the field of economic sociology, Granovetter has been a leader since the publication in 1985 of an article that launched "new economic sociology", "Economic Action and Social Structure: The Problem of Embeddedness". This article caused Granovetter to be identified with the concept of "[[embeddedness]]", the idea that economic relations between individuals or firms are embedded in actual [[social network]]s and do not exist in an abstract idealized market. The concept of embeddedness originated with [[Karl Polanyi]] in his book ''[[The Great Transformation (book)|The Great Transformation]]'', where Polanyi posited that all economies are embedded in social relations and institutions. Granovetter also published a book called ''Society and Economy'' (2017).
+
+
+==="Tipping points" / threshold models===
+Granovetter has done research on a model of how [[fad]]s are created. Consider a hypothetical mob assuming that each person's decision whether to riot or not is dependent on what everyone else is doing. Instigators will begin rioting even if no one else is, while others need to see a critical number of trouble makers before they riot, too. This threshold is assumed to be distributed to some probability distribution. The outcomes may diverge largely although the initial condition of threshold may only differ very slightly. This threshold model of social behavior was proposed previously by [[Thomas Schelling]] and later popularized by [[Malcolm Gladwell]]'s book ''[[The Tipping Point]]''.
+
+===Security influence===
+Granovetter's work has influenced researchers in [[capability-based security]]. Interactions in these systems can be described using "Granovetter diagrams", which illustrate changes in the ties between objects.<ref>J.B. Dennis and E.C. Van Horn. Programming semantics for multiprogrammed computations. Communications of the ACM, 9(3):143--155, March 1966. [http://citeseer.ist.psu.edu/dennis66programming.html Citeseer entry]</ref>
+
+==Bibliography (selected)==
+* {{Cite book
+  | title = Getting A Job: A Study of Contacts and Careers
+  | publisher = Harvard University
+  | place = Cambridge, Mass
+  | year = 1974
+  | isbn = 978-0-674-35416-6
+  }}
+* {{Cite journal | last1 = Granovetter | first1 = M. | title = Threshold Models of Collective Behavior | doi = 10.1086/226707 | journal = American Journal of Sociology | volume = 83 | issue = 6 | jstor= 2778111| pages = 1420–1443 | year = 1978 | s2cid = 49314397 }}
+* {{Cite journal | last1 = Granovetter | first1 = M. | title = The Strength of Weak Ties: A Network Theory Revisited | journal = Sociological Theory | volume = 1 | doi = 10.2307/202051 | jstor = 202051| pages = 201–233 | year = 1983 | citeseerx = 10.1.1.128.7760 }}
+: - Reprinted in {{Cite book
+  | editor-last = Marsden
+  | editor-first = Peter V.
+  | editor2-last = Lin
+  | editor2-first = Nan
+  | title = Social Structure and Network Analysis
+  | publisher = Sage
+  | year = 1982
+  | isbn = 978-0-8039-1888-7
+  | url-access = registration
+  | url = https://archive.org/details/socialstructuren0000unse
+  }}
+* {{Cite journal | last1 = Granovetter | first1 = M. | title = Economic Action and Social Structure: The Problem of Embeddedness | doi = 10.1086/228311 | jstor = 2780199| journal = American Journal of Sociology | volume = 91 | issue = 3 | pages = 481–510 | year = 1985 | s2cid = 17242802 | url = http://rcin.org.pl/Content/62014 }}
+* {{Cite book
+  | editor-last = Nohria
+  | editor-first = Nitin
+  | editor2-last = Eccles
+  | editor2-first = Robert
+  | contribution = Problems of Explanation in Economic Sociology
+  | title = Networks and Organizations: Structure, Form, and Action
+  | year = 1992
+  | place = Boston, Mass
+  | publisher = Harvard Business School
+  | isbn = 978-0-87584-324-7
+  }}
+* {{Cite journal | last1 = Granovetter | first1 = M. | doi = 10.1257/0895330053147958 | title = The Impact of Social Structure on Economic Outcomes | journal = Journal of Economic Perspectives | volume = 19 | pages = 33–50 | year = 2005 }}
+
+==See also==
+* [[James Samuel Coleman]]
+* [[Economic sociology]]
+* [[Harrison White]]
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Granovetter, Mark}}
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:American sociologists]]
+[[Category:Princeton University alumni]]
+[[Category:Harvard University alumni]]
+[[Category:Northwestern University faculty]]
+[[Category:State University of New York faculty]]
+[[Category:Johns Hopkins University faculty]]
+[[Category:Stanford University Department of Sociology faculty]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Highly Cited Researchers]]
+[[Category:Center for Advanced Study in the Behavioral Sciences fellows]]
+[[Category:Network scientists]]

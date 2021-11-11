@@ -1,0 +1,452 @@
+{{Redirect|Bergson}}
+{{short description|French philosopher}}
+{{Use dmy dates|date=May 2017}}
+{{Infobox philosopher
+| region        = [[Western philosophy]]
+| era           = [[20th-century philosophy]]
+| image         = Henri Bergson 02.jpg
+| caption       = Bergson in 1927
+| birth_name    = Henri-Louis Bergson
+| birth_date    = {{Birth date|df=yes|1859|10|18}}
+| birth_place   = [[Paris]], [[Second French Empire|France]]
+| death_date    = {{Death date and age|df=yes|1941|1|4|1859|10|18}}
+| death_place   = Paris, [[German military administration in occupied France during World War II|German-occupied France]]
+| alma_mater       = {{ubl | [[École Normale Supérieure]] | [[University of Paris]]}}
+| notable_works    = {{ubl | ''[[Time and Free Will]]'' (1889) | ''[[Matter and Memory]]'' (1896) | ''[[Creative Evolution (book)|Creative Evolution]]'' (1907)}}
+| spouse           = {{marriage|Louise Neuberger|1891}}
+| institutions     = [[Collège de France]]
+| school_tradition = {{hlist | [[Continental philosophy]] | [[French spiritualism]] | [[philosophy of life]]<ref>John Ó Maoilearca, Beth Lord (eds.), ''The Continuum Companion to Continental Philosophy'', Bloomsbury Academic, 2009, p. 204.</ref>}}
+| main_interests   = {{hlist | [[Metaphysics]] | [[epistemology]] | [[philosophy of language]] | [[philosophy of mathematics]] | studies of [[immediate experience]]}}
+| influences    = {{hlist | [[Spinoza]]<ref>Ford, Russell (2004), 'Immanence and Method: Bergson's Early Reading of Spinoza,'. ''The Southern Journal of Philosophy'' 42(2): 171–92. {{doi|10.1111/j.2041-6962.2004.tb00995.x}}</ref><ref>Astesiano, Lionel: ''Joie et liberté chez Bergson et Spinoza''. (Paris: CNRS Éditions, 2016)</ref> | [[Immanuel Kant]] | [[Arthur Schopenhauer]] | [[William James]] | [[Charles Darwin]] | [[Félix Ravaisson-Mollien]] | [[Herbert Spencer]] | [[Gottfried Wilhelm Leibniz]] | [[Maine de Biran]] | [[Plotinus]]<ref>
+{{cite conference
+| url           = https://books.google.com/books?id=1PwTZPW1ohQC
+| title         = The Influence of Plotinus on Berson's Critique of Empirical Science
+| first         = Curtis L.
+| last          = Hancock
+|date=May 1995
+| conference    = Congress of the [[International Society for Neoplatonic Studies]] held in May 1995 at Vanderbilt University
+| editor        = R. Baine Harris
+| others        = [[International Society for Neoplatonic Studies]]
+| volume        = 10
+| book-title     = Neoplatonism and Contemporary Thought
+| publisher     = State University of New York Press
+| location      = Albany
+| isbn          = 978-0-7914-5275-2
+| access-date    = 10 May 2010
+| quote         = That the philosophy of Henri Bergson is significantly influenced by the doctrines of Plotinus is indicated by the many years Bergson devoted to teaching Plotinus and the many parallels in their respective philosophies. This influence has been discussed at some length by Bergson's contemporaries, such as Emile Bréhier and Rose-Marie Rossé-Bastide. ...
+| page          = 139ff
+}}
+</ref>}}
+| influenced    = {{hlist | [[Henry Miller]] | [[Michel Aflaq]] | [[Aldous Huxley]] | [[Émile Bréhier]] | [[Guy Debord]] | [[Gilles Deleuze]] | [[Robert Frost]] | [[Vladimir Nabokov]] | [[Muhammad Iqbal]] | [[Jawaharlal Nehru]] | [[Vladimir Jankélévitch]] | [[Nikos Kazantzakis]] | [[Necip Fazıl Kısakürek]] | [[Édouard Le Roy]] | [[Emmanuel Levinas]] | [[Wyndham Lewis]] | [[Gabriel Marcel]] | [[Jacques Maritain]] | [[Maurice Merleau-Ponty]] | [[Emmanuel Mounier]]<ref name="Rauch">R. William Rauch, ''Politics and Belief in Contemporary France: Emmanuel Mounier and Christian Democracy, 1932–1950'', Springer, 2012, p. 67.</ref> | [[Jean-Paul Sartre]] | [[Marcel Proust]] | [[Alfred Schütz]] | [[Liang Shuming]] | [[Anna-Teresa Tymieniecka]] | [[Alfred North Whitehead]] | [[Nurettin Topçu]]}}
+| notable_ideas = {{hlist | [[Duration (philosophy)|Duration]] | [[intuition (Bergson)|intuition]] | [[affect (philosophy)|affection]] | ''[[élan vital]]'' | [[immediate data of consciousness]] | [[open society]]}}
+| awards        = [[Nobel Prize in Literature]] (1927)
+}}
+
+'''Henri-Louis Bergson''' ({{IPA-fr|bɛʁksɔn|lang}}; 18 October 1859&nbsp;– 4 January 1941) was a [[French philosophy|French]] philosopher<ref name="Gelber">{{cite encyclopedia |url= https://www.highbeam.com/doc/1G2-2587502673.html|archive-url= https://web.archive.org/web/20150329105853/http://www.highbeam.com/doc/1G2-2587502673.html|url-status= dead|archive-date= 29 March 2015|title=Bergson|first= Nathan Michael |last=Gelber |encyclopedia=[[Encyclopaedia Judaica]]|date=1 January 2007|access-date=7 December 2015|url-access=subscription }}</ref><ref name="Dynner 2008 104–105">{{cite book|url=https://books.google.com/books?id=jVtp3s8CtScC&pg=PA102 |title=Men of Silk: The Hasidic Conquest of Polish Jewish Society|author-link=Glenn Dynner|first=Glenn|last=Dynner|year=2008|publisher=Oxford University Press|isbn=978-0195382655|pages=104–105}}</ref><ref name="britannica.com">Henri Bergson. 2014. Encyclopædia Britannica Online. Retrieved 13 August 2014, from http://www.britannica.com/EBchecked/topic/61856/Henri-Bergson</ref><ref name="Z ziemi polskiej do Nobla">{{Cite news | title = Z ziemi polskiej do Nobla | url = http://www.wprost.pl/ar/140524/Z-ziemi-polskiej-do-Nobla/?O=140524&pg=2 | newspaper = Wprost | publisher = Agencja Wydawniczo-Reklamowa Wprost | location = Warsaw | date = 4 January 2008 
+ | access-date = 10 May 2010 | language = pl |trans-title=From the Polish lands to the Nobel Prize | quote = Polskie korzenie ma Henri Bergson, jeden z najwybitniejszych pisarzy, fizyk i filozof francuski żydowskiego pochodzenia. Jego ojcem był Michał Bergson z Warszawy, prawnuk Szmula Jakubowicza Sonnenberga, zwanego Zbytkowerem (1756–1801), żydowskiego kupca i bankiera. [Translation: Henri Bergson, one of the greatest French writers, physicists and philosophers of Jewish ancestry, had Polish roots. His father was Michael Bergson from Warsaw, the great-grandson of Szmul Jakubowicz Sonnenberg – known as Zbytkower – (1756–1801), a Jewish merchant and banker.] }}</ref><ref name="dziedzictwo.polska.pl">[http://dziedzictwo.polska.pl/katalog/skarb,Testament_starozakonnego_Berka_Szmula_Sonnenberga_z_1818_roku,gid,261356,cid,3312.htm?body=desc Testament starozakonnego Berka Szmula Sonnenberga z 1818 roku] {{webarchive|url=https://web.archive.org/web/20110928215838/http://dziedzictwo.polska.pl/katalog/skarb%2CTestament_starozakonnego_Berka_Szmula_Sonnenberga_z_1818_roku%2Cgid%2C261356%2Ccid%2C3312.htm?body=desc |date=28 September 2011 }}</ref> who was influential in the tradition of [[continental philosophy]], especially during the first half of the 20th century until the [[Second World War]].<ref>Merquior, J.&nbsp;G. (1987). Foucault (Fontana Modern Masters series), University of California Press, {{ISBN|0-520-06062-8}}.</ref> Bergson is known for his arguments that processes of [[immediate experience]] and [[Intuition (knowledge)|intuition]] are more significant than abstract [[rationalism]] and science for understanding reality.
+
+He was awarded the 1927 [[Nobel Prize in Literature]] "in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented".<ref>
+{{cite web|url=http://nobelprize.org/nobel_prizes/literature/laureates/1927/|title=The Nobel prize in Literature|access-date=15 November 2010}}</ref> In 1930 France awarded him its highest honour, the [[Grand-Croix de la Legion d'honneur]].
+
+Bergson's great popularity created a controversy in France where his views were seen as opposing the secular and scientific attitude adopted by the Republic's officials.<ref>Robert C. Grogin, ''The Bergsonian Controversy in France, 1900–1914'', Univ of Calgary Press (May 1988), {{ISBN|0919813305}}</ref>
+
+==Biography==
+
+=== Overview ===
+
+Bergson lived the quiet life of a French professor, marked by the publication of his four principal works:
+
+# in 1889, ''[[Time and Free Will]]'' (''Essai sur les données immédiates de la conscience'')
+# in 1896, ''[[Matter and Memory]]'' (''Matière et mémoire'')
+# in 1907, ''[[Creative Evolution (book)|Creative Evolution]]'' (''L'Évolution créatrice'')
+# in 1932, ''The Two Sources of Morality and Religion'' (''Les deux sources de la morale et de la religion'')
+
+In 1900 the [[College of France|Collège de France]] selected Bergson to a Chair of Greek and Roman Philosophy, which he held until 1904. He then replaced [[Gabriel Tarde]] in the Chair of Modern Philosophy, which he held until 1920. The public attended his open courses in large numbers.<ref>https://antilogicalism.com/wp-content/uploads/2017/07/matter-and-memory.pdf
+</ref>
+
+===Early years ===
+Bergson was born in the Rue Lamartine in Paris, not far from the [[Palais Garnier]] (the old Paris opera house) in 1859. His father, the composer and pianist [[Michał Bergson]], was of [[Polish-Jewish]] background (originally bearing the name Bereksohn). His great-grandmother, [[Temerl Bergson]], was a well-known patroness and benefactor of Polish Jewry, especially those associated with the [[Hasidic Judaism|Hasidic]] movement.<ref name="Gelber"/><ref name="Dynner 2008 104–105"/> His mother, Katherine Levison, daughter of a Yorkshire doctor, was from an [[History of the Jews in England|English-Jewish]] and [[History of the Jews in Ireland|Irish-Jewish]] background. The Bereksohns were a famous Jewish entrepreneurial family<ref name="britannica.com"/> of Polish descent. Henri Bergson's great-great-grandfather, Szmul Jakubowicz Sonnenberg, called Zbytkower, was a prominent banker and a protégé of [[Stanisław II Augustus]],<ref name="Z ziemi polskiej do Nobla"/><ref name="dziedzictwo.polska.pl"/>
+King of Poland from 1764 to 1795.
+
+Henri Bergson's family lived in London for a few years after his birth, and he obtained an early familiarity with the English language from his mother. Before he was nine, his parents settled in France, Henri becoming a naturalized French citizen.
+
+Henri Bergson married Louise Neuberger, a cousin of [[Marcel Proust]], in 1891. (The novelist served as [[groomsman#best man|best man]] at Bergson's wedding.)<ref>Suzanne Guerlac, ''Thinking in Time: An Introduction to Henri Bergson'', Ithaca, New York: Cornell University Press, 2007, p. 9.</ref> Henri and Louise Bergson had a daughter, Jeanne, born deaf in 1896. Bergson's sister, Mina Bergson (also known as [[Moina Mathers]]), married the English [[occult]] author [[Samuel Liddell MacGregor Mathers]], a founder of the [[Hermetic Order of the Golden Dawn]], and the couple later relocated to Paris as well.
+
+===Education and career===
+[[File:Bergson1889Diss2.jpg|thumb|200px|right|''Essai sur les données immédiates de la conscience'' (Dissertation, 1889)]]
+[[File:Bergson1889Diss1.jpg|thumb|200px|right|''Quid Aristoteles de loco senserit'' (Dissertation, 1889)]]
+Bergson attended the Lycée Fontanes (known as the [[Lycée Condorcet]] 1870–1874 and 1883–present) in Paris from 1868 to 1878.  He had previously received a Jewish religious education.<ref>Lawlor, Leonard and Moulard Leonard, Valentine, "Henri Bergson", The Stanford Encyclopedia of Philosophy (Summer 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2016/entries/bergson/></ref> Between 14 and 16, however, he lost his faith. According to Hude (1990), this moral crisis is tied to his discovery of the theory of [[evolution]], according to which humanity shares common ancestry with modern primates, a process sometimes construed as not needing a creative deity.<ref>Henri Hude, ''Bergson'', Paris, Editions Universitaires, 1990, 2 volumes, quoted by Anne Fagot-Largeau in her [http://www.college-de-france.fr/default/EN/all/phi_sci/cours_3.jsp 21 December 2006 course] at the College of France</ref>
+
+While at the lycée Bergson won a prize for his scientific work and another, in 1877 when he was eighteen, for the solution of a mathematical problem. His solution was published the following year in ''[[Nouvelles Annales de Mathématiques]].''<ref>{{cite journal|title=Nouvelles Annales de Mathématiques |series=2 |number=17 |year=1878 |page=268 |location=Paris |url=https://books.google.com/books?id=S3c_AQAAIAAJ&pg=PA268 |access-date=15 March 2018}}</ref> It was his first published work. After some hesitation as to whether his career should lie in the sphere of the sciences or that of the [[humanities]], he decided in favour of the latter, to the dismay of his teachers.<ref name=Fagot-Largeau>[[Anne Fagot-Largeau]], [http://www.college-de-france.fr/default/EN/all/phi_sci/p1184676830986.htm 21 December 2006 course] {{webarchive|url=https://web.archive.org/web/20090206183341/http://www.college-de-france.fr/default/EN/all/phi_sci/p1184676830986.htm |date=6 February 2009 }} at the [[College of France]] (audio file of the course)</ref> When he was nineteen, he entered the [[École Normale Supérieure]]. During this period, he read [[Herbert Spencer]].<ref name=Fagot-Largeau/> He obtained there the degree of ''[[licence ès lettres]]'', and this was followed by that of ''[[Agrégation|agrégation de philosophie]]'' in 1881 from the [[University of Paris]].
+
+The same year he received a teaching appointment at the [[lycée]] in [[Angers]], the ancient capital of [[Anjou]]. Two years later he settled at the {{Interlanguage link multi|Lycée Blaise-Pascal (Clermont-Ferrand)|fr}} in [[Clermont-Ferrand]], capital of the [[Puy-de-Dôme]] [[département]].
+
+The year after his arrival at Clermont-Ferrand Bergson displayed his ability in the humanities by the publication of an edition of extracts from [[Lucretius]], with a critical study of De Rerum Natura, issued as Extraits de Lucrèce, and of the [[materialism|materialist]] [[cosmology]] of the poet (1884). Repeated editions of which attest to its value in promoting Classics among French youth. While teaching and lecturing in this part of his country (the [[Auvergne (province)|Auvergne]] region), Bergson found time for private study and original work. He crafted his dissertation ''Time and Free Will'', which was submitted, along with a short [[Latin]] thesis on [[Aristotle]] (''Quid Aristoteles de loco senserit'', "On the Concept of Place in Aristotle"), for his doctoral degree which was awarded by the [[University of Paris]] in 1889. The work was published in the same year by [[Félix Alcan]]. He also gave courses in Clermont-Ferrand on the [[Pre-Socratic Philosophy|Pre-Socratics]], in particular on [[Heraclitus]].<ref name=Fagot-Largeau/>
+
+Bergson dedicated ''Time and Free Will'' to {{ill|Jules Lachelier|fr}} (1832–1918), then [[Minister of National Education (France)|public education minister]], a disciple of [[Félix Ravaisson]] (1813–1900) and the author of a philosophical work ''On the Founding of [[inductive reasoning|Induction]]'' (''Du fondement de l'induction'', 1871). Lachelier endeavoured "to substitute everywhere force for inertia, life for death, and liberty for fatalism". (Bergson owed much to both of these teachers of the École Normale Supérieure. Compare his memorial address on Ravaisson, who died in 1900.)
+
+Bergson settled again in Paris in 1888,<ref>''Henri Bergson: Key Writings'', ed. Keith Ansell Pearson and John Mullarkey. London: Continuum, 2002, p. ix.</ref> and after teaching for some months at the [[municipal college]], known as the ''College Rollin'', he received an appointment at the [[Lycée Henri-Quatre]], where he remained for eight years. There, he read [[Charles Darwin|Darwin]] and gave a course on his theories.<ref name=Fagot-Largeau/> Although Bergson had previously endorsed [[Lamarckism]] and its theory of the [[inheritance of acquired characters|heritability of acquired characteristics]], he came to prefer Darwin's hypothesis of gradual variations, which were more compatible with his continual vision of life.<ref name=Fagot-Largeau/>
+
+In 1896 he published his second major work, entitled ''Matter and Memory''. This rather difficult work investigates the function of the brain and undertakes an analysis of [[perception]] and [[memory]], leading up to a careful consideration of the problems of the relation of body and mind. Bergson had spent years of research in preparation for each of his three large works. This is especially obvious in ''Matter and Memory'', where he showed a thorough acquaintance with the extensive pathological investigations which had been carried out during the period.
+
+In 1898 Bergson became ''[[maître de conférences]]'' at his alma mater, École Normale Supérieure, and later in the same year received a promotion to a Professorship. The year 1900 saw him installed as Professor at the [[Collège de France]], where he accepted the Chair of [[Greek philosophy|Greek and Roman Philosophy]] in succession to {{Interlanguage link multi|Charles Lévêque|fr}}.
+
+At the first [[International Congress of Philosophy]], held in Paris during the first five days of August 1900, Bergson read a short, but important, paper, "Psychological Origins of the Belief in the Law of Causality" (''Sur les origines psychologiques de notre croyance à la loi de causalité''). In 1900 [[Felix Alcan]] published a work which had previously appeared in the ''[[Revue de Paris]]'', entitled ''[[Laughter (book)|Laughter]]'' (''Le rire''), one of the most important of Bergson's minor productions. This essay on the meaning of comedy stemmed from a lecture which he had given in his early days in the Auvergne. The study of it is essential to an understanding of Bergson's views of life, and its passages dealing with the place of the artistic in life are valuable. The main thesis of the work is that [[laughter]] is a corrective evolved to make social life possible for human beings. We laugh at people who fail to adapt to the demands of society if it seems their failure is akin to an inflexible mechanism. Comic authors have exploited this human tendency to laugh in various ways, and what is common to them is the idea that the comic consists in there being "something mechanical encrusted on the living".<ref>p. 39</ref><ref>Seth Benedict Graham ''[http://etd.library.pitt.edu/ETD/available/etd-11032003-192424/unrestricted/grahamsethb_etd2003.pdf A CULTURAL ANALYSIS OF THE RUSSO-SOVIET ANEKDOT]'', 2003, p. 2</ref>
+
+In 1901 the [[Académie des sciences morales et politiques]] elected Bergson as a member, and he became a member of the institute. In 1903 he contributed to the ''[[Revue de métaphysique et de morale]]'' a very important essay entitled ''[[Introduction to Metaphysics (Bergson)|Introduction to Metaphysics]]'' (''Introduction à la metaphysique''), which is useful as a preface to the study of his three large books. He detailed in this essay his philosophical program, realized in the ''Creative Evolution''.<ref name=Fagot-Largeau/>
+
+On the death of [[Gabriel Tarde]], the sociologist and philosopher, in 1904, Bergson succeeded him in the Chair of Modern Philosophy. From 4 to 8 September of that year he visited [[Geneva]], attending the Second International Congress of Philosophy, when he lectured on ''The Mind and Thought: A Philosophical Illusion'' (Le cerveau et la pensée: une illusion philosophique). An illness prevented his visiting Germany from attending the Third Congress held at [[Heidelberg]]. In these years, Bergson strongly influenced a young [[Jacques Maritain]], perhaps even saving Maritain and his wife Raïssa from thoughts of suicide.<ref>[https://plato.stanford.edu/entries/maritain Stanford Encyclopedia of Philosophy: Jacques Maritain]/</ref><ref>[https://undpress.nd.edu/9780268021528/bergsonian-philosophy-and-thomism/ The Collected Works of Jacques Maritain, Volume 1: Notre Dame Press, 2007.]</ref>
+
+His third major work, ''Creative Evolution'', the most widely known and most discussed of his books, appeared in 1907. Pierre Imbart de la Tour remarked that ''Creative Evolution'' was a milestone of new direction in thought.{{Citation needed|date=November 2009}} By 1918, [[Alcan]], the publisher, had issued twenty-one editions, making an average of two editions ''per annum'' for ten years. Following the appearance of this book, Bergson's popularity increased enormously, not only in academic circles but among the general reading public.
+
+At that time, Bergson had already made an extensive study of [[biology]] including the theory of [[fecundation]] (as shown in the first chapter of the ''Creative Evolution''), which had only recently emerged, ca. 1885 – no small feat for a philosopher specializing in the [[history of philosophy]], in particular Greek and Roman philosophy.<ref name=Fagot-Largeau/> He also most certainly had read, apart from Darwin, [[Haeckel]], from whom he retained his idea of a unity of life and of the ecological solidarity between all living beings,<ref name=Fagot-Largeau/> as well as [[Hugo de Vries]], from whom he quoted his [[mutation theory]] of evolution (which he opposed, preferring Darwin's gradualism).<ref name=Fagot-Largeau/> He also quoted [[Charles-Édouard Brown-Séquard]], the successor of [[Claude Bernard]] at the Chair of Experimental Medicine in the Collège de France, etc.
+
+Bergson served as a juror with [[Florence Meyer Blumenthal]] in awarding the [[Prix Blumenthal]], a grant given between 1919 and 1954 to painters, sculptors, decorators, engravers, writers, and musicians.<ref name="FMBlumenthal">{{Cite web
+  | title = Florence Meyer Blumenthal
+  | publisher = Jewish Women's Archive, Michele Siegel
+  | url = http://jwa.org/encyclopedia/article/blumenthal-florence-meyer}}</ref>
+
+===Relationship with James and pragmatism===
+Bergson traveled to London in 1908 and met there with [[William James]], the [[Harvard]] philosopher who was Bergson's senior by seventeen years, and who was instrumental in calling the attention of the Anglo-American public to the work of the French professor. The two became great friends. James's impression of Bergson is given in his Letters under date of 4 October 1908:
+
+<blockquote>So modest and unpretending a man but such a genius intellectually! I have the strongest suspicions that the tendency which he has brought to a focus, will end by prevailing, and that the present epoch will be a sort of turning point in the history of philosophy.</blockquote>
+
+As early as 1880, James had contributed an article in French to the periodical ''La Critique philosophique'', of Renouvier and Pillon, entitled ''[[Le Sentiment de l'Effort]]''. Four years later, a couple of articles by him appeared in the journal ''Mind'': "What is an Emotion?" and "On some Omissions of Introspective Psychology". Bergson quoted the first two of these articles in his 1889 work, ''Time and Free Will''. In the following years, 1890–91 appeared the two volumes of James's monumental work, ''[[The Principles of Psychology]]'', in which he refers to a pathological phenomenon observed by Bergson. Some writers, taking merely these dates into consideration and overlooking the fact that James's investigations had been proceeding since 1870 (registered from time to time by various articles which culminated in "The Principles"), have mistakenly dated Bergson's ideas as earlier than James's.
+
+William James hailed Bergson as an ally. In 1903, he wrote:
+<blockquote>I have been re-reading Bergson's books, and nothing that I have read for years has so excited and stimulated my thoughts. I am sure that his philosophy has a great future; it breaks through old frameworks and brings things to a solution from which new crystallizations can be reached.<ref>
+[http://www.ibiblio.org/HTMLTexts/John_Alexander_Gunn/Bergson_And_His_Philosophy/chapter1.html Bergson and his philosophy] Chapter 1: Life of Bergson
+</ref></blockquote>
+
+The most noteworthy tributes James paid to Bergson come in the [[Hibbert Lectures]] (A Pluralistic Universe), which James gave at [[Manchester College, Oxford]], shortly after meeting Bergson in London. He remarks on the encouragement he gained from Bergson's thought, and refers to his confidence in being "able to lean on Bergson's authority." (See further James's reservations about Bergson, below.)
+
+The influence of Bergson had led James "to renounce the intellectualist method and the current notion that [[logic]] is an adequate measure of what can or cannot be". It had induced him, he continued, "to give up logic, squarely and irrevocably" as a method, for he found that "reality, life, experience, concreteness, immediacy, use what word you will, exceeds our logic, overflows, and surrounds it".
+
+These remarks, which appeared in James's book ''A Pluralistic Universe'' in 1909, impelled many English and American readers to investigate Bergson's philosophy for themselves, but no English translations of Bergson's major work had yet appeared. James, however, encouraged and assisted [[Arthur Mitchell (physician)|Arthur Mitchell]] in preparing an English translation of ''Creative Evolution''. In August 1910, James died. It was his intention, had he lived to see the translation finished, to introduce it to the English reading public by a prefatory note of appreciation. In the following year, the translation was completed and still greater interest in Bergson and his work was the result. By coincidence, in that same year (1911), Bergson penned a preface of sixteen pages entitled ''Truth and Reality'' for the French translation of James's book, ''Pragmatism''. In it, he expressed sympathetic appreciation of James's work, together with certain important reservations.
+
+From 5 to 11 April, Bergson attended the Fourth International Congress of Philosophy held at [[Bologna]], in Italy, where he gave an address on "Philosophical Intuition". In response to invitations he visited England in May of that year, and on several subsequent occasions. These visits were well received. His speeches offered new Perspectives and elucidated many passages in his three major works: ''Time and Free Will'', ''Matter and Memory'', and ''Creative Evolution''. Although necessarily brief statements, they developed and enriched the ideas in his books and clarified for English audiences the fundamental principles of his philosophy.
+
+===Lectures on change===
+In May 1911 Bergson gave two lectures entitled ''The Perception of Change'' (''La perception du changement'') at the [[University of Oxford]]. The [[Clarendon Press]] published these in French in the same year.<ref>
+{{Cite book
+|last= Bergson
+|first= Henri
+|title= La perception du changement; conférences faites à l'Université d'Oxford les 26 et 27 mai 1911
+|url= https://archive.org/details/perceptionchange00berguoft
+|trans-title= The perception of change: lectures delivered at the University of Oxford on 26 and 27 May 1911
+|year= 1911
+|publisher= Clarendon
+|location= Oxford
+|language= fr
+|page= [https://archive.org/details/perceptionchange00berguoft/page/n40 37]}}
+</ref>
+His talks were concise and lucid, leading students and the general reader to his other, longer writings. Oxford later conferred on him the degree of [[Doctor of Science]].
+
+Two days later he delivered the [[Huxley Lecture]] at the [[University of Birmingham]], taking for his subject ''Life and Consciousness''. This subsequently appeared in ''[[The Hibbert Journal]]'' (October 1911), and since revised, is the first essay in the collected volume ''Mind-Energy'' (''L'Énergie spirituelle''). In October he again traveled to England, where he had an enthusiastic reception, and delivered at [[University College London]] four lectures on ''La Nature de l'Âme'' [The nature of the soul].
+
+In 1913 Bergson visited the United States of America at the invitation of [[Columbia University]], New York, and lectured in several American cities, where very large audiences welcomed him. In February, at Columbia University, he lectured both in French and English, taking as his subjects: ''Spirituality and Freedom'' and ''The Method of Philosophy''. Being again in England in May of the same year, he accepted the Presidency of the British [[Society for Psychical Research]], and delivered to the Society an address on ''Phantoms of Life and Psychic Research'' (Fantômes des vivants et recherche psychique).
+
+Meanwhile, his popularity increased, and translations of his works began to appear in a number of languages: English, German, Italian, Danish, Swedish, Hungarian, Polish, and Russian. In 1914 Bergson's fellow-countrymen honoured him by his election as a member of the [[Académie française]]. He was also made President of the Académie des Sciences morales et politiques, and in addition, he became Officier de la [[Légion d'honneur]], and Officier de l'Instruction publique.
+
+Bergson found disciples of many types. In France movements such as [[Neo-Catholicism (France)|neo-Catholicism]] and [[Modernism (Roman Catholicism)|Modernism]] on the one hand and [[syndicalism]] on the other endeavoured to absorb and appropriate for their own ends some central ideas of his teaching. The continental organ of socialist and syndicalist theory, ''[[Le Mouvement socialiste]]'',<ref>
+{{Cite journal
+| last        = Reberioux
+| first       = M.
+| author-link  = Madeleine Rebérioux
+|date=January–March 1964
+| title       = La gauche socialiste française: ''La Guerre Sociale'' et ''Le Mouvement Socialiste'' face au problème colonial
+|trans-title=French right-wing socialism: ''La Guerre Sociale'' and ''Le Mouvement Socialiste'' in the face of the colonial problem
+| journal     = Le Mouvement Social
+| issue       = 46
+| pages       = 91–103
+| publisher   = Editions l'Atelier/Association Le Mouvement Social
+| doi = 10.2307/3777267
+| jstor         = 3777267
+| language    = fr
+| quote       = ... deux organes, d'ailleurs si dissembables, ou s'exprime l'extrême-gauche du courant socialiste français: le ''Mouvement socialiste'' d'Hubert Lagardelle et la ''Guerre sociale'' de Gustave Hervé. Jeune publications – le ''Mouvement socialiste est fondé en janvier 1899, la ''Guerre sociale'' en décembre 1906 –, dirigées par de jeunes équipes qui faisaient profession de rejeter le chauvinisme, d'être attentives au nouveau et de ne pas reculer devant les prises de position les plus véhémentes, ...
+}}
+</ref>
+portrayed the realism of [[Karl Marx]] and [[Pierre-Joseph Proudhon]] as hostile to all forms of intellectualism, and argued, therefore, that supporters of Marxist socialism should welcome a philosophy such as that of Bergson.{{Citation needed|date=September 2009}} Other writers, in their eagerness, claimed that the thought of the holder of the Chair of Philosophy at the Collège de France, and the aims of the ''[[Confédération Générale du Travail]]'' and the [[Industrial Workers of the World]] were in essential agreement.
+
+While social revolutionaries endeavoured to make the most out of Bergson, many religious leaders, particularly the more liberal-minded theologians of all creeds, e.g., the Modernists and Neo-Catholic Party in his own country, showed a keen interest in his writings, and many of them found encouragement and stimulus in his work. The [[Roman Catholic Church]], however, banned Bergson's three books on the charge of [[pantheism]] (that is, of conceiving of God as immanent to his Creation and of being himself created in the process of the Creation).<ref name=Fagot-Largeau/> They were placed on the [[Index Librorum Prohibitorum|Index of prohibited books]] (Decree of 1 June 1914).
+
+===Later years===
+In 1914 the Scottish universities arranged for Bergson to give the famous [[Gifford Lectures]], planning one course for the spring and another for the autumn. Bergson delivered the first course, consisting of eleven lectures, under the title of ''The Problem of Personality'', at the [[University of Edinburgh]] in the spring of that year. The course of lectures planned for the autumn months had to be abandoned because of the outbreak of war. Bergson was not, however, silent during the conflict, and he gave some inspiring addresses. As early as 4 November 1914, he wrote an article entitled ''Wearing and Nonwearing forces'' (La force qui s'use et celle qui ne s'use pas), which appeared in that unique and interesting periodical of the ''[[poilu]]s'', ''Le Bulletin des Armées de la République Française''. A presidential address, ''The Meaning of the War'', was delivered in December 1914, to the Académie des sciences morales et politiques.
+
+Bergson contributed also to the publication arranged by ''[[The Daily Telegraph]]'' in honour of King [[Albert I of Belgium|Albert I of the Belgians]], ''King Albert's Book'' (Christmas, 1914).<ref>
+{{Cite book
+|title= King Albert's book: a tribute to the Belgian king and people from representative men and women throughout the world
+|url= https://archive.org/details/kingalbertsbookt00lond
+|year= 1914
+|publisher= The Daily Telegraph
+|location= London
+|page= [https://archive.org/details/kingalbertsbookt00lond/page/187 187]
+}}
+</ref>
+In 1915 he was succeeded in the office of President of the ''Académie des Sciences morales et politiques'' by [[Alexandre Ribot]], and then delivered a discourse on "The Evolution of German [[Imperialism]]". Meanwhile, he found time to issue at the request of the Minister of Public Instruction a brief summary of French Philosophy. Bergson did a large amount of traveling and lecturing in America during the war. He participated in the negotiations which led to the [[World War I#Entry of the United States|entry of the United States]] in the war. He was there when the French Mission under [[René Viviani]] paid a visit in April and May 1917, following upon America's entry into the conflict. Viviani's book ''La Mission française en Amérique'' (1917), contains a preface by Bergson.
+
+Early in 1918 the ''[[Académie française]]'' received Bergson officially when he took his seat among "The Select Forty" as successor to [[Emile Ollivier]] (the author of the historical work ''L'Empire libéral''). A session was held in January in his honour at which he delivered an address on Ollivier. In the war, Bergson saw the conflict of Mind and Matter, or rather of Life and Mechanism; and thus he shows us the central idea of his own philosophy in action. To no other philosopher has it fallen, during his lifetime, to have his philosophical principles so vividly and so terribly tested.[citation?]
+
+As many of Bergson's contributions to French periodicals remained relatively inaccessible, he had them published in two volumes. The first of these was being planned when war broke out. The conclusion of strife was marked by the appearance of a delayed volume in 1919. It bears the title ''Spiritual Energy: Essays and Lectures'' (reprinted as ''Mind-Energy''&nbsp;– ''L'Énergie spirituelle: essais et conférences''). The advocate of Bergson's philosophy in England, [[Wildon Carr]], prepared an English translation under the title ''Mind-Energy''. The volume opens with the Huxley Memorial Lecture of 1911, "Life and Consciousness", in a revised and developed form under the title "Consciousness and Life". Signs of Bergson's growing interest in social ethics and in the idea of a future life of personal survival are manifested. The lecture before the Society for Psychical Research is included, as is also the one given in France, ''L'Âme et le Corps'', which contains the substance of the four London lectures on the Soul. The seventh and last article is a reprint of Bergson's famous lecture to the Congress of Philosophy at Geneva in 1904, ''The Psycho-Physiological Paralogism'' (Le paralogisme psycho-physiologique), which now appears as ''Le cerveau et la pensée: une illusion philosophique''. Other articles are on the False Recognition, on Dreams, and Intellectual Effort. The volume is a most welcome production and serves to bring together what Bergson wrote on the concept of mental force, and on his view of "tension" and "detension" as applied to the relation of matter and mind.
+
+In June 1920, the [[University of Cambridge]] honoured him with the degree of [[Doctor of Letters]]. In order that he might devote his full-time to the great new work he was preparing on ethics, religion, and sociology, the Collège de France relieved Bergson of the duties attached to the Chair of Modern Philosophy there. He retained the chair, but no longer delivered lectures, his place being taken by his disciple, the mathematician and philosopher [[Édouard Le Roy]], who supported a [[conventionalism|conventionalist]] stance on the [[foundations of mathematics]], which was adopted by Bergson.<ref name=TheCreativeEvolution>See Chapter III of [https://archive.org/stream/creativeevolu1st00berguoft#page/n7/mode/2up ''The Creative Evolution'']</ref> Le Roy, who also succeeded to Bergson at the ''Académie française'' and was a fervent Catholic, extended to [[Revelation|revealed truth]] his conventionalism, leading him to privilege faith, heart and sentiment to [[dogma]]s, speculative theology and abstract reasoning. Like Bergson's, his writings were placed on the Index by the Vatican.
+
+===Debate with Albert Einstein===
+In 1922, Bergson's book ''Durée et simultanéité, a propos de la theorie d'Einstein'' (''Duration and Simultaneity: Bergson and the Einsteinian Universe'') was published.<ref>[[Jimena Canales|Canales J.]], ''The Physicist and the Philosopher: Einstein, Bergson and the Debate That Changed Our Understanding of Time'', Princeton, Princeton Press, 2015.</ref> Earlier in year, [[Albert Einstein]] had come to the French Society of Philosophy and briefly replied to a short speech made by Bergson.<ref>Minutes of the meeting:[http://s3.archive-host.com/membres/up/784571560/GrandesConfPhiloSciences/philosc13_einstein_1922.pdf Séance du 6 Avril 1922]</ref> It has been alleged that Bergson's knowledge of physics was insufficient and that the book did not follow up contemporary developments on physics.{{By whom|date=September 2021}} On the contrary, in "Einstein and the Crisis of Reason", a leading French philosopher, [[Maurice Merleau-Ponty]], accused Einstein of failing to grasp Bergson's argument. This argument, Merleau-Ponty says, which concerns not the physics of special relativity but its philosophical foundations, addresses paradoxes caused by popular interpretations and misconceptions about the theory, including Einstein's own.<ref>Signs, Maurice Merleau-Ponty, trans. Richard C. McCleary, Northwestern Univ. Press, 1964.</ref> ''Duration and simultaneity'' was not published in the 1951 ''Edition du Centenaire'' in French, which contained all of his other works, and was only published later in a work gathering different essays, titled ''Mélanges''. This work took advantage of Bergson's experience at the [[League of Nations]], where he presided from 1920 to 1925 over the [[International Committee on Intellectual Cooperation]] (the ancestor of [[UNESCO]], and which included Einstein, [[Marie Curie]], etc.).<ref>On the relation between Einstein and Bergson in this committee, see [http://www.jimenacanales.org/pdf-files/canales-Einstein,%20Bergson%20and%20the%20Experiment%20that%20Failed.pdf ''Einstein, Bergson and the Experiment that Failed: Intellectual Cooperation at the League of Nations''] {{Webarchive|url=https://web.archive.org/web/20160304081431/http://www.jimenacanales.org/pdf-files/canales-Einstein,%20Bergson%20and%20the%20Experiment%20that%20Failed.pdf |date=4 March 2016 }}. On the involvement of Bergson (and Einstein) in the Committee in general, see {{cite book |last=Grandjean |first=Martin |date=2018 |title=Les réseaux de la coopération intellectuelle. La Société des Nations comme actrice des échanges scientifiques et culturels dans l'entre-deux-guerres |trans-title=The Networks of Intellectual Cooperation. The League of Nations as an Actor of the Scientific and Cultural Exchanges in the Inter-War Period |url=https://tel.archives-ouvertes.fr/tel-01853903/document |language=fr |location=Lausanne |publisher=Université de Lausanne }}.</ref>
+
+===Later years and death===
+While living with his wife and daughter in a modest house in a quiet street near the [[Porte d'Auteuil (Paris Métro)|Porte d'Auteuil]] in Paris, Bergson won the [[Nobel Prize for Literature]] in 1927 for having written ''The Creative Evolution''. Because of serious [[rheumatology|rheumatics ailments]], he could not travel to Stockholm, and sent instead a text subsequently published in ''La Pensée et le mouvant''.<ref name=Fagot-Largeau/> He was elected a foreign honorary member of the [[American Academy of Arts and Sciences]] in 1928.<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=American Academy of Arts and Sciences|access-date=16 June 2011}}</ref>
+
+After his retirement from the Collège de France, Bergson began to fade into obscurity: he suffered from a degenerative illness (rheumatism, which left him half paralyzed<ref name=Fagot-Largeau/>). He completed his new work, ''The Two Sources of Morality and Religion'', which extended his philosophical theories to the realms of morality, religion, and art, in 1932. It was respectfully received by the public and the philosophical community, but all by that time realized that Bergson's days as a philosophical luminary were past. He was, however, able to reiterate his core beliefs near the end of his life, by renouncing all of the posts and honours previously awarded him, rather than accept exemption from the [[Vichy anti-Jewish legislation|antisemitic laws]] imposed by the [[Vichy France|Vichy]] government.
+
+Bergson inclined to convert to Catholicism, writing in his will on 7 February 1937: "My thinking has always brought me nearer to Catholicism, in which I saw the perfect complement to Judaism."<ref>Quoted in: {{Cite book
+|last= Zolli
+|first= Eugenio
+|author-link= Israel Zolli
+|title= Before the Dawn
+|url= https://books.google.com/books?id=bq_Qp53ksMAC&pg=PA81
+|orig-year= 1954
+|year= 2008
+|publisher= Ignatius Press
+|isbn= 978-1-58617-287-9
+|page= 89
+}}
+</ref> Though wishing to convert to Catholicism, as stated in his will, he did not convert in view of the travails inflicted on the Jewish people by the rise of [[Nazism]] and [[anti-Semitism]] in Europe in the 1930s; he did not want to appear to want to leave the persecuted. After the fall of France in 1940, Jews in occupied France were required to register at police stations. When completing his police form, Bergson made the following entry:  "Academic. Philosopher. Nobel Prize winner. Jew."<ref>Gilbert, Martin. The Second World War: A Complete History (p. 129). Rosetta Books. Kindle Edition.</ref> It was the position of the Archbishop of Paris, [[Emmanuel Célestin Suhard]], that the public revelation of Bergson's conversion was too dangerous at the time, when the city was occupied by the Nazis, to both the Church and the Jewish population.<ref>[https://catholicism.org/forgotten-converts.html Forgotten Converts, Gary Potter, 2006.]</ref>
+
+On 3 January 1941 Bergson died in occupied Paris from bronchitis.<ref name="TuckerWood1999">{{cite book|author1=Spencer Tucker|author2=Laura Matysek Wood|author3=Justin D. Murphy|title=The European Powers in the First World War: An Encyclopedia|url=https://books.google.com/books?id=gv3GEyB19wIC&pg=PA124|year=1999|publisher=Taylor & Francis|isbn=978-0-8153-3351-7|pages=124}}</ref>
+
+A Roman Catholic priest said prayers at his funeral per his request. Bergson is buried in the Cimetière de Garches, [[Hauts-de-Seine]].
+
+==Philosophy==
+Bergson rejected what he saw as the overly mechanistic predominant view of causality (as expressed in reductionism). He argued that we must allow space for free will to unfold in an autonomous and unpredictable fashion. While Kant saw free will as something beyond time and space and therefore ultimately a matter of faith, Bergson attempted to redefine the modern conceptions of time, space, and causality in his concept of [[Duration (philosophy)|Duration]], making room for a tangible marriage of free will with causality. Seeing Duration as a mobile and fluid concept, Bergson argued that one cannot understand Duration through "immobile" analysis, but only through experiential, first-person [[Intuition (Bergson)|intuition]].<ref>{{Citation|last1=Lawlor|first1=Leonard|title=Henri Bergson|date=2016|url=https://plato.stanford.edu/archives/sum2016/entries/bergson/|encyclopedia=The Stanford Encyclopedia of Philosophy|editor-last=Zalta|editor-first=Edward N.|edition=Summer 2016|publisher=Metaphysics Research Lab, Stanford University|access-date=2019-12-10|last2=Moulard Leonard|first2=Valentine}}</ref>
+
+===Creativity===
+Bergson considers the appearance of novelty as a result of pure undetermined creation, instead of as the predetermined result of mechanistic forces. His philosophy emphasises pure mobility, unforeseeable novelty, creativity and freedom; thus one can characterize his system as a [[process philosophy]]. It touches upon such topics as time and identity, [[free will]], perception, change, memory, consciousness, language, the [[foundation of mathematics]] and the limits of reason.<ref>Bergson explores these topics in ''Time and Free Will: An Essay on the Immediate Data of Consciousness'', in ''Matter and Memory'', in ''Creative Evolution'', and in ''The Creative Mind: An Introduction to Metaphysics''.
+</ref>
+
+Criticizing [[Immanuel Kant|Kant]]'s theory of knowledge exposed in the ''[[Critique of Pure Reason]]'' and his conception of truth – which he compares to [[Plato]]'s conception of truth as its symmetrical inversion (order of nature/order of thought) – Bergson attempted to redefine the relations between science and metaphysics, intelligence and [[intuition (Bergson)|intuition]], and insisted on the necessity of increasing thought's possibility through the use of intuition, which, according to him, alone approached a knowledge of the absolute and of real life, understood as pure [[Duration (philosophy)|duration]]. Because of his (relative) criticism of intelligence, he makes a frequent use of images and metaphors in his writings in order to avoid the use of [[concept]]s, which (he considers) fail to touch the whole of reality, being only a sort of abstract net thrown on things. For instance, he says in ''The Creative Evolution'' (chap. III) that thought in itself would never have thought it possible for the human being to swim, as it cannot deduce swimming from walking. For swimming to be possible, man must throw itself in water, and only then can thought consider swimming as possible. Intelligence, for Bergson, is a practical faculty rather than a pure speculative faculty, a product of evolution used by man to survive. If metaphysics is to avoid "false problems", it should not extend the abstract concepts of intelligence to pure speculation, but rather use intuition.<ref>Elie During, ''[http://ciepfc.rhapsodyk.net/article.php3?id_article=63 « Fantômes de problèmes »] {{Webarchive|url=https://web.archive.org/web/20080428142556/http://ciepfc.rhapsodyk.net/article.php3?id_article=63 |date=28 April 2008 }}'', published by the ''[[Centre International d'Etudes de la Philosophie Française Contemporaine]]'' (short version first published in ''[[Le magazine littéraire]]'', n°386, April 2000 (issue dedicated to Bergson)</ref>
+
+''The Creative Evolution'' in particular attempted to think through the continuous creation of life, and explicitly pitted itself against [[Herbert Spencer]]'s evolutionary philosophy. Spencer had attempted to transpose [[Charles Darwin]]'s theory of [[evolution]] in philosophy and to construct a [[cosmology]] based on this theory (Spencer also coined the expression "[[survival of the fittest]]"). Bergson disputed what he saw as Spencer's mechanistic philosophy.<ref>''The Creative Mind: An Introduction to Metaphysics'', pages 11 to 14</ref>
+
+Bergson's ''[[Lebensphilosophie]]'' ([[philosophy of life]]) can be seen as a response to the [[mechanism (philosophy)|mechanistic philosophies]] of his time,<ref name="Creative_Mind">Henri Bergson, ''The Creative Mind: An Introduction to Metaphysics'', pages 11 to 13.</ref>  but also to the failure of [[finalism]].<ref name=Fagot-Largeau/> Indeed, he considers that finalism is unable to explain "duration" and the "continuous creation of life", as it only explains life as the progressive development of an initially determined program – a notion which remains, for example, in the expression of a "[[genetics|genetic]] program";<ref name=Fagot-Largeau/> such a description of finalism was adopted, for instance, by [[Gottfried Wilhelm Leibniz|Leibniz]].<ref name=Fagot-Largeau/>
+
+Bergson regarded planning beforehand for the future as impossible, since time itself unravels unforeseen possibilities. Indeed, one could always explain a historical event retrospectively by its conditions of possibility. But, in the introduction to the ''Pensée et le mouvant'', he explains that such an event created retrospectively its causes, taking the example of the creation of a work of art, for example a symphony: it was impossible to predict what would be the symphony of the future, as if the musician knew what symphony would be the best for his time, he would realize it. In his words, the effect created its cause. Henceforth, he attempted to find a third way between mechanism and finalism, through the notion of an original impulse, the ''élan vital'', in life, which dispersed itself through evolution into contradictory tendencies (he substituted to the finalist notion of a [[teleological]] aim a notion of an original impulse).
+
+===Duration===
+{{See also|Duration (philosophy)}}
+The foundation of Henri Bergson's philosophy, his theory of [[Duration (philosophy)|Duration]], he discovered when trying to improve the inadequacies of [[Herbert Spencer]]'s philosophy.<ref name="Creative_Mind"/> Bergson introduced Duration as a theory of time and [[consciousness]] in his doctoral thesis ''Time and Free Will: An Essay on the Immediate Data of Consciousness'' as a response to another of his influences: [[Immanuel Kant]].<ref name="Stanford_Kant">[http://plato.stanford.edu/entries/bergson/ ''The Stanford Encyclopedia of Philosophy''], "Henri Bergson": "'Time and Free Will' has to be seen as an attack on Kant, for whom freedom belongs to a realm outside of space and time."</ref>
+
+Kant believed that free will (better perceived as The Will) could only exist outside of time and space, indeed the only non-determined aspect of our private existence in the universe, separate to water cycles, mathematics and mortality. However, we could therefore not know whether or not it exists, and that it is nothing but a pragmatic faith.<ref name="Stanford_Kant"/> Bergson responded that Kant, along with many other philosophers, had confused time with its spatial representation.<ref>Henri Bergson, ''Time and Free Will: An Essay on the Immediate Data of Consciousness'', Author's Preface.</ref> In reality, Bergson argued, Duration is unextended yet heterogeneous, and so its parts cannot be juxtaposed as a succession of distinct parts, with one causing the other. Based on this he concluded that determinism is an impossibility and free will pure mobility, which is what Bergson identified as being the Duration.<ref>[http://plato.stanford.edu/entries/bergson/ ''The Stanford Encyclopedia of Philosophy''], "Henri Bergson": "For Bergson – and perhaps this is his greatest insight – freedom is mobility."</ref> For Bergson, reality is composed of change.<ref>{{Cite book|last=Lovasz|first=Adam|title=Updating Bergson|publisher=Lexington Books|year=2021|isbn=978-1-7936-4081-9|location=Lanham|pages=65}}</ref>
+
+===Intuitionism===
+{{See also|Intuition (Bergson)}}
+Duration, as defined by Bergson, then is a unity and a multiplicity, but, being mobile, it cannot be grasped through immobile concepts. Bergson hence argues that one can grasp it only through his method of [[Intuition (Bergson)|intuition]]. Two images from Henri Bergson's ''An Introduction to Metaphysics'' may help one to grasp Bergson's term intuition, the limits of concepts, and the ability of intuition to grasp the absolute. The first image is that of a city. Analysis, or the creation of concepts through the divisions of points of view, can only ever give us a model of the city through a construction of photographs taken from every possible point of view, yet it can never give us the dimensional value of walking in the city itself. One can only grasp this through intuition; likewise the experience of reading a line of [[Homer]]. One may translate the line and pile commentary upon commentary, but this commentary too shall never grasp the simple dimensional value of experiencing the poem in its originality itself. The method of intuition, then, is that of getting back to the things themselves.<ref>Henri Bergson, ''The Creative Mind: An Introduction to Metaphysics'', pages 160 to 161. For a Whiteheadian use of Bergsonian intuition, see [[Michel Weber]]'s ''[https://www.academia.edu/279953/Whiteheads_Pancreativism._The_Basics Whitehead’s Pancreativism. The Basics]''. Foreword by [[Nicholas Rescher]], Frankfurt / Paris, Ontos Verlag, 2006.
+</ref>
+
+===''Élan vital''===
+{{See also|Élan vital}}
+
+''Élan vital'' ranks as Bergson's third essential concept, after Duration and intuition. An idea with the goal of explaining evolution, the ''élan vital'' first appeared in 1907's ''Creative Evolution''. Bergson portrays ''élan vital'' as a kind of vital impetus which explains evolution in a less mechanical and more lively manner, as well as accounting for the creative impulse of mankind. This concept led several authors to characterize Bergson as a supporter of [[vitalism]]—although he criticized it explicitly in ''The Creative Evolution'', as he thought, against [[Hans Adolf Eduard Driesch|Driesch]] and [[Johannes Reinke]] (whom he cited) that there is neither "purely internal finality nor clearly cut individuality in nature":<ref>''L'Évolution créatrice'', pp. 42–44; pp. 226–227</ref>
+
+<blockquote>Hereby lies the stumbling block of vitalist theories ... It is thus in vain that one pretends to reduce finality to the individuality of the living being. If there is finality in the world of life, it encompasses the whole of life in one indivisible embrace.<ref>''L'Évolution créatrice'', pp. 42–43</ref></blockquote>
+
+===Laughter===
+In ''[[Laughter: An Essay on the Meaning of the Comic]]'', Bergson develops a theory not of laughter itself but of how laughter can be provoked (see his objection to Delage, published in the 23rd edition of the essay).<ref name=Fagot-Largeau/> He describes the process of laughter (refusing to give a conceptual definition which would not approach its reality<ref name=Fagot-Largeau/>), used in particular by comics and [[clown]]s, as caricature of the mechanistic nature of humans (habits, automatic acts, etc.), one of the two tendencies of life (degradation towards inert matter and mechanism, and continual creation of new forms).<ref name=Fagot-Largeau/> However, Bergson warns us that laughter's criterion of what should be laughed at is not a moral criterion and that it can in fact cause serious damage to a person's [[self-esteem]].<ref>[http://www.timoroso.com/philosophy/writings/sketches/2006-04-09-henri-bergsons-theory-of-laughter Henri Bergson's theory of laughter] {{Webarchive|url=https://web.archive.org/web/20090514072652/http://www.timoroso.com/philosophy/writings/sketches/2006-04-09-henri-bergsons-theory-of-laughter |date=14 May 2009 }}. A brief summary.</ref> This essay made his opposition to the [[Cartesianism|Cartesian]] theory of the animal-machine obvious.<ref name=Fagot-Largeau/> In criticism of Bergson's hypothesis, it is stated that he does not address [[joke]]s.<ref>{{cite journal
+| last1      = Kivy
+| first1     = Peter
+| date       = 13 February 2003
+| title      = Jokes Are a Laughing Matter
+| url        = https://onlinelibrary.wiley.com/doi/pdf/10.1111/1540-6245.00087
+| journal    = The Journal of Aesthetics and Art Criticism
+| volume     = 61
+| issue      = 1
+| pages      = 12
+| doi        = 10.1111/1540-6245.00087
+| access-date = 1 January 2021
+| quote      = [T]he joke is a very special kind of human artifact, and Bergson has nothing to say about it.}}</ref>
+
+==Reception==
+From his first publications, Bergson's philosophy attracted strong criticism from different quarters, although he also became very popular and durably influenced [[French philosophy]].  The mathematician [[Édouard Le Roy]] became Bergson's main disciple. Nonetheless, Suzanne Guerlac has argued that his institutional position at the Collège de France, delivering lectures to a general audience, may have retarded the systematic reception of his thought: "Bergson achieved enormous popular success in this context, often due to the emotional appeal of his ideas.  But he did not have the equivalent of graduate students who might have become rigorous interpreters of his thought.  Thus Bergson's philosophy—in principle open and nonsystematic—was easily borrowed piecemeal and altered by enthusiastic admirers".<ref>Suzanne Guerlac, ''Thinking in Time: An Introduction to Henri Bergson'', Ithaca, NY: Cornell University Press, 2006, p. 10</ref>
+
+[[Alfred North Whitehead]] acknowledged Bergson's influence on his [[process philosophy]] in his 1929 ''[[Process and Reality]].''<ref>Cf. Ronny Desmet and [[Michel Weber]] (edited by), ''[https://www.academia.edu/279940/Whitehead._The_Algebra_of_Metaphysics Whitehead. The Algebra of Metaphysics. Applied Process Metaphysics Summer Institute Memorandum]'', Louvain-la-Neuve, Éditions Chromatika, 2010 & [[Michel Weber]], ''[https://www.academia.edu/279953/Whiteheads_Pancreativism._The_Basics Whitehead’s Pancreativism. The Basics]''. Foreword by Nicholas Rescher, Frankfurt / Paris, ontos verlag, 2006.</ref> However, [[Bertrand Russell]], Whitehead's collaborator on ''[[Principia Mathematica]]'', was not so entranced by Bergson's philosophy. Although acknowledging Bergson's literary skills, Russell saw Bergson's arguments at best as persuasive or emotive speculation but not at all as any worthwhile example of sound reasoning or philosophical insight.<ref>Russell, B.; "The Philosophy of Bergson," The Monist 1912 vol. 22 pp.&nbsp;321–347</ref> The [[epistemology|epistemologist]] [[Gaston Bachelard]] explicitly alluded to him in the last pages of his 1938 book ''The Formation of the Scientific Mind''. Others influenced by Bergson include [[Vladimir Jankélévitch]], who wrote a book on him in 1931,<ref>entitled ''Henri Bergson''.</ref> [[Pierre Teilhard de Chardin]], and [[Gilles Deleuze]] who wrote ''Le bergsonisme'' in 1966.<ref>transl. 1988.</ref> The Greek philosopher [[Helle Lambridis]] developed an interest in Bergson early in her career, and after two publications in 1929 - a book that introduced Bergson's work to the Greek audience and a translation into Greek of Bergson's book ''L'Énergie spirituelle'' (1919) - the second part of her ''Introduction to Philosophy'' I & II (1965) included his philosophical work on the concept of 'time', although this part (II) was not published until 2004.<ref>{{Cite book|last=Lambridis|first=Helle|title=Introduction to Philosophy|publisher=Academy of Athens|year=2004|isbn=9604040480|location=Athens|script-title=el: Εισαγωγή στη Φιλοσοφία}}</ref><ref>{{Cite book|title=In Memory of Helle Lambridis|publisher=Hellenic Parliament Foundation|year=2017|isbn=9786185154189|editor-last=Karapanou|editor-first=Anna|location=Athens|pages=55|script-title=el: Έλλη Λαμπρίδη: αφιέρωμα στη μνήμη της}}</ref> Bergson also influenced the [[phenomenology (philosophy)|phenomenology]] of [[Maurice Merleau-Ponty]] and [[Emmanuel Levinas]],<ref>Dermot Moran, ''Introduction to Phenomenology'', 2000, pp. 322 and 393.</ref> although Merleau-Ponty had reservations about Bergson's philosophy.<ref>
+{{Cite book
+|last= Merleau-Ponty
+|first= Maurice
+|author-link= Maurice Merleau-Ponty
+|editor1-last= Bjelland
+|editor1-first= Andrew G.
+|editor2-last= Burke
+|editor2-first= Patrick
+|others= preface by Jacques Taminiaux ; translation by Paul B. Milan
+|title= The incarnate subject : Malebranche, Biran, and Bergson on the union of body and soul
+|url= https://archive.org/details/incarnatesubject00merl
+|url-access= limited
+|year= 2001
+|publisher= Humanity Books
+|location= Amherst, N.Y.
+|isbn= 1-57392-915-8
+|page= [https://archive.org/details/incarnatesubject00merl/page/n152 152]
+}}
+</ref> The Greek author [[Nikos Kazantzakis]] studied under Bergson in Paris and his writing and philosophy were profoundly influenced as a result.<ref>Peter Bien, ''Three Generations of Greek Writers'', Published by Efstathiadis Group, Athens, 1983</ref>
+
+Many writers of the early 20th century criticized Bergson's [[intuitionism]], indeterminism, [[psychologism]] and interpretation of the scientific impulse. Those who explicitly criticized Bergson, either in published articles or in letters, included [[Bertrand Russell]]<ref>see his short book
+{{Cite book
+|last= Russell
+|first= Bertrand
+|author-link= Bertrand Russell
+|title= The philosophy of Bergson
+|year= 1977
+|publisher= Folcroft Library Editions
+|location= Folcroft, Pa.
+|isbn= 0-8414-7371-4
+|page= 36
+}}on the subject).</ref> [[George Santayana]],<ref>see his study on the author in "Winds of Doctrine"</ref> [[G. E. Moore]], [[Ludwig Wittgenstein]], [[Martin Heidegger]],<ref>see ''Being and Time,'' esp. sections 5, 10, and 82.</ref> [[Julien Benda]],<ref>see his two books on the subject</ref> [[T. S. Eliot]], [[Wyndham Lewis]],<ref>Wyndham Lewis, ''Time and Western Man'' (1927), ed. Paul Edwards, Santa Rosa, CA: Black Sparrow, 1993.</ref> [[Wallace Stevens]],<ref>"The Irrational Element in Poetry." 1936. ''Opus Posthumous''. 1957. Ed. Milton J. Bates. New York: Random House, 1990.</ref> [[Paul Valéry]], [[André Gide]], [[Jean Piaget]],<ref>see his book ''Insights and Illusions of Philosophy 1972''</ref> Marxist philosophers [[Theodor W. Adorno]],<ref>see "Against Epistemology"</ref> [[Lucio Colletti]],<ref>see "Hegel and Marxism"</ref> [[Jean-Paul Sartre]],<ref>see his early book ''Imagination'' – although Sartre also appropriated himself Bergsonian thesis on novelty as pure creation – see ''Situations I'' Gallimard 1947, p. 314</ref> and [[Georges Politzer]],<ref>see the latter's two books on the subject: ''Le Bergsonisme, une Mystification Philosophique'' and ''La fin d'une parade philosophique: le Bergsonisme'' both of which had a tremendous effect on French  [[existential phenomenology]]</ref> as well as [[Maurice Blanchot]],<ref>see ''Bergson and Symbolism''</ref> American philosophers such as [[Irving Babbitt]], [[Arthur Lovejoy]], [[Josiah Royce]], [[New realism (philosophy)|The New Realists]] ([[Ralph B. Perry]], [[E. B. Holt]], and [[William Pepperell Montague]]), The Critical Realists (Durant Drake, [[Roy W. Sellars]], C. A. Strong, and A. K. Rogers), [[Daniel-Henry Kahnweiler]], [[Roger Fry]] (see his letters), [[Julian Huxley]] (in ''[[Evolution: The Modern Synthesis]]'') and [[Virginia Woolf]] (for the latter, see [[Ann Banfield]], ''The Phantom Table'').{{Citation needed|date=May 2010}}
+
+The [[Roman Catholic Church|Vatican]] accused Bergson of [[pantheism]], while others have characterized his philosophy as a [[emergent materialism|materialist emergentism]] – [[Samuel Alexander]] and [[C. Lloyd Morgan]] explicitly claimed Bergson as their forebear.<ref name=Fagot-Largeau/> According to Henri Hude (1990, II, p.&nbsp;142), who supports himself on the whole of Bergson's works as well as his now published courses, accusing him of pantheism is a "counter-sense". Hude alleges that a [[mysticism|mystical experience]], roughly outlined at the end of ''Les Deux sources de la morale et de la religion'', is the inner principle of his whole philosophy, although this has been contested by other commentators.
+
+[[Charles Sanders Peirce]] took strong exception to those who associated him with Bergson. In response to a letter comparing their work, Peirce wrote, "a man who seeks to further science can hardly commit a greater sin than to use the terms of his science without anxious care to use them with strict accuracy; it is not very gratifying to my feelings to be classed along with a Bergson who seems to be doing his utmost to muddle all distinctions."{{Page needed|date=February 2020}} Peirce also comments on Bergson in respect to a proposed book on his semiotics (which he never wrote) saying: "I feel confident the book would make a serious impression much deeper and surer than Bergson’s, which I find quite too vague."<ref>Charles Sanders Peirce, ''Collected Papers of Charles Sanders Peirce: Volume VII & VIII'', Cambridge, Massachusetts: The Belknap Press of Harvard University Press, 1966, p. 428.</ref> Gilles Deleuze, however, saw much in common between Bergson's philosophy and that of Peirce - exploring the many connections between them in ''[[Cinema 1: The Movement Image]]'' and ''[[Cinema 2: The Time-Image]]''. As the Deleuze scholar David Deamer writes: Deleuze sets about "aligning Bergson’s sensory-motor schema [from ''Matter and Memory''] with the semiosis of Charles Sanders Peirce from ''Pragmatism and Pragmaticism'' (1903).<ref>David Deamer, ''Deleuze, Japanese Cinema, and the Atom Bomb: The Spectre of Impossibility'', London and New York, Bloomsbury'', 2014, p. 27.</ref> [[William James]]'s students resisted the assimilation of his work to that of Bergson. See, for example, [[Horace Kallen]]'s book on the subject ''James and Bergson''. As [[Jean Wahl]] described the "ultimate disagreement" between James and Bergson in his ''System of Metaphysics'': "for James, the consideration of action is necessary for the definition of truth, according to Bergson, action ... must be kept from our mind if we want to see the truth"{{Page needed|date=September 2010}}. Gide even went so far as to say that future historians will overestimate Bergson's influence on art and philosophy just because he was the self-appointed spokesman for "the spirit of the age".
+
+As early as the 1890s, Santayana attacked certain key concepts in Bergson's philosophy, above all his view of the New and the indeterminate:
+
+<blockquote>the possibility of a new and unaccountable fact appearing at any time," he writes in his book on [[Hermann Lotze]], "does not practically affect the method of investigation; ... the only thing given up is the hope that these hypotheses may ever be adequate to the reality and cover the process of nature without leaving a remainder. This is no great renunciation; for that consummation of science ... is by no one really expected.</blockquote>
+
+According to Santayana and Russell, Bergson projected false claims onto the aspirations of scientific method, claims which Bergson needed to make in order to justify his prior moral commitment to freedom. Russell takes particular exception to Bergson's understanding of number in chapter two of ''Time and Free-will''. According to Russell, Bergson uses an outmoded spatial metaphor ("extended images") to describe the nature of mathematics as well as [[logic]] in general. "Bergson only succeeds in making his theory of number possible by confusing a particular collection with the number of its terms, and this again with number in general", writes Russell (see ''The Philosophy of Bergson''{{Page needed|date=September 2010}} and ''A History of Western Philosophy''{{Page needed|date=September 2010}}).
+
+[[Suzanne Guerlac]] has argued that the more recent resurgence of scholarly interest in Bergson is related to the growing influence of his follower [[Deleuze]] within [[continental philosophy]]: "If there is a return to Bergson today, then, it is largely due to Gilles Deleuze whose own work has etched the contours of the New Bergson.  This is not only because Deleuze wrote about Bergson; it is also because Deleuze's own thought is deeply engaged with that of his predecessor, even when Bergson is not explicitly mentioned."<ref>Suzanne Guerlac, ''Thinking in Time: An Introduction to Henri Bergson'', Ithaca, NY: Cornell University Press, 2006, p. 175.</ref> [[Leonard Lawlor]] and Valentine Moulard agree with Guerlac that "the recent revitalization of Bergsonism ... is almost entirely due to Deleuze."  They explain that Bergson's concept of multiplicity "is at the very heart of Deleuze's thought, and [[Duration (philosophy)|duration]] is the model for all of Deleuze's 'becomings.'  The other aspect that attracted Deleuze, which is indeed connected to the first, is Bergson's criticism of the concept of negation in ''Creative Evolution'' ... Thus Bergson became a resource in the criticism of the [[Hegel]]ian [[Dialectic#Hegelian dialectic|dialectic]], the negative."<ref name=LawlorMoulard2011>{{citation |author=Leonard Lawlor and Valentine Moulard |chapter=The revitalization of Bergsonism |title=Henri Bergson |url=http://plato.stanford.edu/entries/bergson/ |publisher=Stanford Encyclopedia of Philosophy |orig-year= 18 May 2004|date= 12 July 2011 |chapter-url=http://plato.stanford.edu/entries/bergson/#7 |access-date=20 August 2012}}</ref> It is this aspect that [[Mark Sinclair (philosopher)|Mark Sinclair]] focuses upon in ''Bergson'' (2020). He writes that despite the philosopher and his philosophy being very popular during the early years of the twentieth century, his ideas had been critiqued and then rejected first by [[Phenomenology (philosophy)|phenomenology]], then by [[existentialism]], and finally by [[post-structuralism]].<ref>Mark Sinclair, ''Bergson'', New York: Routledge, 2020, pp. 256-269.</ref> As Sinclair goes on to explain, over series of publications including ''Bergsonism'' (1966) and ''[[Difference and Repetition]]'' (1968), Deleuze championed Bergson as a thinker of "difference that proceeds any sense of negation"<ref name="Mark Sinclair 2020, pp. 270">Mark Sinclair, ''Bergson'', New York: Routledge, 2020, pp. 270.</ref> In this way, "Deleuze’s interpretation served to keep the flame of Bergson’s philosophy alive and it has been a key motivation for the renewed scholarly attention to it."<ref name="Mark Sinclair 2020, pp. 270"/>
+
+[[Ilya Prigogine]] acknowledged Bergson's influence at his Nobel Prize reception lecture: "Since my adolescence, I have read many philosophical texts, and I still remember the spell ''L’évolution créatrice'' cast on me. More specifically, I felt that some essential message was embedded, still to be made explicit, in Bergson‘s remark: 'The more deeply we study the nature of time, the better we understand that duration means invention, creation of forms, continuous elaboration of the absolutely new.'"<ref>{{Cite web | url=https://www.nobelprize.org/prizes/chemistry/1977/prigogine/biographical/ |title = The Nobel Prize in Chemistry 1977}}</ref>
+
+Japanese philosopher Yasushi Hirai from Fukuoka University has led a collaborative and interdisciplinary project from 2007, bringing together Eastern and Western philosophers and scientists to discuss and promote Bergson's work.<ref>{{Cite web | url=https://matterandmemory.jimdofree.com/ |title = Project Bergson in Japan}}</ref> This has influenced the development of specific artificial neural networks which incorporate features inspired by Bergson's philosophy of memory.<ref>{{Cite web| url=https://www.researchgate.net/publication/328474302 |title= Burns, Benureau, Tani (2018) A Bergson-Inspired Adaptive Time Constant for the Multiple Timescales Recurrent Neural Network Model. JNNS}}</ref><ref>{{Cite web| url=http://jnns.org/conference/2018/JNNS2018_Technical_Programs.pdf |title= Proceedings of the 28th Annual Conference of the Japanese Neural Network Society (October, 2018)}}</ref>
+
+===Comparison to Indian philosophies===
+Several [[Hindu]] authors have found parallels to Hindu philosophy in Bergson's thought. The integrative evolutionism of [[Sri Aurobindo]], an Indian philosopher from the early 20th century, has many similarities to Bergson's philosophy. Whether this represents a direct influence of Bergson is disputed, although Aurobindo was familiar with many Western philosophers.<ref>K Mackenzie Brown. "Hindu perspectives on evolution: Darwin, Dharma, and Design". Routledge, Jan 2012. Page 164-166</ref> K Narayanaswami Aiyer, a member of the [[Theosophical Society]], published a pamphlet titled "Professor Bergson and the Hindu Vedanta", where he argued that Bergson's ideas on matter, consciousness, and evolution were in agreement with Vedantic and Puranic explanations.<ref>KN Aiyer. "Professor Bergson and the Hindu Vedanta". Vasanta Press. 1910. Pages 36 – 37.</ref> Nalini Kanta Brahma, Marie Tudor Garland and Hope Fitz are other authors who have comparatively evaluated Hindu and Bergsonian philosophies, especially in relation to intuition, consciousness and evolution.<ref>Marie Tudor Garland. "Hindu Mind Training". Longmans, Green and Company, 1917. Page 20.</ref><ref>Nalini Kanta Brahma. "Philosophy of Hindu Sadhana". PHI Learning Private Ltd 2008.</ref><ref>Hope K Fitz. "Intuition: Its nature and uses in human experience." Motilal Banarsidass publishers 2000. Pages 22–30.</ref>
+
+==Bibliography==
+* Bergson, H.; ''The Philosophy of Poetry: The Genius of Lucretius'' (''La Philosophie de la Poesie: le Génie de Lucrèce'', 1884), Philosophical Library 1959: {{ISBN|978-1-4976-7566-7}}
+* Bergson, H.; ''[[Time and Free Will|Time and Free Will: An Essay on the Immediate Data of Consciousness]]'' (''Essai sur les données immédiates de la conscience'', 1889). Allen & Unwin 1910, Dover Publications 2001: {{ISBN|0-486-41767-0}} – Bergson's doctoral dissertation.
+* Bergson, H.; ''[[Matter and Memory]]'' (''Matière et mémoire'', 1896). Swan Sonnenschein 1911, Zone Books 1990: {{ISBN|0-942299-05-1}}, Dover Publications 2004: {{ISBN|0-486-43415-X}}.
+* Bergson, H.; ''[[Laughter (book)|Laughter: An Essay on the Meaning of the Comic]]'' (''Le rire'', 1900). Green Integer 1998: {{ISBN|1-892295-02-4}}, Dover Publications 2005: {{ISBN|0-486-44380-9}}.
+* Bergson, H.; ''[[Creative Evolution (book)|Creative Evolution]]'' (''L'Évolution créatrice'', 1907). Henry Holt and Company 1911, University Press of America 1983: {{ISBN|0-8191-3553-4}}, Dover Publications 1998: {{ISBN|0-486-40036-0}}, Kessinger Publishing 2003: {{ISBN|0-7661-4732-0}}, Cosimo 2005: {{ISBN|1-59605-309-7}}.
+* Bergson, H.; ''Mind-energy'' (''L'Énergie spirituelle, 1919''). McMillan 1920. – a collection of essays and lectures. On [https://archive.org/stream/mindenergylectur00berguoft#page/n5/mode/2up Archive.org].
+* Bergson, H.; ''Duration and Simultaneity: Bergson and the Einsteinian Universe'' (''Durée et simultanéité'', 1922). Clinamen Press Ltd 1999. {{ISBN|1-903083-01-X}}.
+* Bergson, H.; ''The Two Sources of Morality and Religion'' (''Les Deux Sources de la Morale et de la Religion'', 1932). University of Notre Dame Press 1977. {{ISBN|0-268-01835-9}}. On [https://archive.org/stream/twosourcesofmora033499mbp#page/n1/mode/2up Archive.org].
+* Bergson, H.; ''The Creative Mind: An Introduction to Metaphysics'' (''La Pensée et le mouvant'', 1934). Citadel Press 1946: {{ISBN|0-8065-2326-3}} – essay collection, sequel to ''Mind-Energy'', including 1903's "An Introduction to Metaphysics."
+
+==See also==
+* [[Philosophy of biology]]
+* [[Psychosophy]]
+* [[Intuition (Bergson)]]
+* [[Duration (philosophy)]]
+* [[List of Jewish Nobel laureates]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* [[Keith Ansell-Pearson|Ansell-Pearson, Keith]].  ''[https://books.google.com/books?id=tZjc0gUec18C&printsec=frontcover&dq=philosophy+and+the+Adventure+of+the+Virtual:+Bergson+and+the+Time+of+Life&hl=en&sa=X&ved=0CBwQ6AEwAGoVChMIk_mKyInbxgIVZyOmCh2njw2n#v=onepage&q&f=false Philosophy and the Adventure of the Virtual: Bergson and the Time of Life]''. London: Routledge, 2002.
+*[[Keith Ansell-Pearson|Ansell-Pearson, Keith.]] ''[https://www.bloomsbury.com/uk/bergson-9781350043947/ Bergson. Thinking Beyond the Human Condition.]'' London: Bloomsbury, 2018.
+* [[Gaston Bachelard|Bachelard, Gaston]]. ''The Dialectic of Duration''. Trans. Mary Mcallester Jones. Manchester: Clinamen Press, 2000.
+* [[Giuseppe Bianco|Bianco, Giuseppe]]. ''Après Bergson. Portrait de groupe avec philosophe''. Paris, PUF, 2015.
+* [[Jimena Canales|Canales, Jimena]]. ''[https://archive.org/details/physicistphiloso0000cana <!-- quote="The physicist and the Philosopher" "Jimena Canales". --> The Physicist and the Philosopher: Einstein, Bergson and the Debate That Changed Our Understanding of Time]''. Princeton, Princeton Press, 2015.
+* [[Gilles Deleuze|Deleuze, Gilles]].  ''Bergsonism''.  Trans. [[Hugh Tomlinson]] and Barbara Habberjam.  New York: Zone Books, 1988.
+* [[Gilles Deleuze|Deleuze, Gilles]].  ''[[Cinema 1: The Movement Image|Cinema 1: The Movement-Image]]''.  Trans. Hugh Tomlinson and Barbara Habberjam.  Minneapolis: University of Minnesota Press, 1986.
+* [[Gilles Deleuze|Deleuze, Gilles]].  ''[https://books.google.com/books?id=WKGsHmlEfYkC&printsec=frontcover&dq=Cinema+2:+The+Time-Image&hl=en&sa=X&ved=0CBwQ6AEwAGoVChMIrszkjI_bxgIVyxeUCh0NXwgw#v=onepage&q&f=false Cinema 2: The Time-Image]''.  Trans. Hugh Tomlinson and Robert Galeta.  Minneapolis: University of Minnesota Press, 1989.
+* Fradet, Pierre-Alexandre, ''Derrida-Bergson. Sur l'immédiateté'', [[Éditions Hermann|Hermann]], Paris, coll. "Hermann Philosophie", 2014. {{ISBN|978-2-7056-8831-8}}
+* [[Elizabeth Grosz|Grosz, Elizabeth]].  ''[https://books.google.com/books?id=feR5UWpCA5cC&printsec=frontcover&dq=The+Nick+of+Time:+Politics,+Evolution,+and+the+Untimely&hl=en&sa=X&ved=0CBwQ6AEwAGoVChMItq6r0YrbxgIVA5-mCh0O8Alw#v=onepage&q=The%20Nick%20of%20Time%3A%20Politics%2C%20Evolution%2C%20and%20the%20Untimely&f=false The Nick of Time: Politics, Evolution, and the Untimely]''.  Durham, NC: Duke University Press, 2004.
+* Guerlac, Suzanne.  ''[https://books.google.com/books?id=OYW2zfEA4TgC&printsec=frontcover&dq=Thinking+in+Time:+An+Introduction+to+Henri+Bergson&hl=en&sa=X&ved=0CBwQ6AEwAGoVChMI3KKskYrbxgIVYmCmCh3vbA3U#v=onepage&q&f=false Thinking in Time: An Introduction to Henri Bergson]''.  Ithaca, NY: Cornell University Press, 2006.
+* [[Max Horkheimer|Horkheimer, Max]].  "On Bergson's Metaphysics of Time."  Trans. Peter Thomas, revised by Stewart Martin.  ''Radical Philosophy'' 131 (2005) 9–19.
+* [[William James|James, William]].  "[https://books.google.com/books?id=uW8YT0pFw4gC&lpg=PP1&dq=A%20Pluralistic%20Universe&pg=PA91#v=onepage&q&f=false Bergson and his Critique of Intellectualism]."  In ''A Pluralistic Universe''.  Lincoln, NE: University of Nebraska Press, 1996.  223–74.
+* [[Leonard Lawlor|Lawlor, Leonard]].  ''[https://books.google.com/books?id=H0Mxlqc5W6wC&pg=PR1&dq=The+Challenge+of+Bergsonism:+Phenomenology,+Ontology,+Ethics&hl=en&sa=X&ved=0CBwQ6AEwAGoVChMIuKialovbxgIVqNmmCh1E-ggN#v=onepage&q&f=false The Challenge of Bergsonism: Phenomenology, Ontology, Ethics]''. London: Continuum Press, 2003.
+*Lovasz, Adam. ''[https://rowman.com/ISBN/9781793640819/Updating-Bergson-A-Philosophy-of-the-Enduring-Present Updating Bergson. A Philosophy of the Enduring Present]''. Lanham: Lexington Books, 2021.
+* [[Maurice Merleau-Ponty|Merleau-Ponty, Maurice]].  "[https://books.google.com/books?id=9bt0KCx2eZkC&lpg=PP1&dq=In%20Praise%20of%20Philosophy%20and%20Other%20Essays&pg=PA9#v=onepage&q&f=false Bergson]."  In ''[https://books.google.com/books?id=9bt0KCx2eZkC&printsec=frontcover&dq=In+Praise+of+Philosophy+and+Other+Essays&hl=en&sa=X&ved=0CBwQ6AEwAGoVChMIzYW4jIzbxgIVASyUCh1QZQee#v=onepage&q&f=false In Praise of Philosophy and Other Essays]''.  Trans. John O'Neill.  Evanston, IL: Northwestern University Press, 1963. 9–32.
+* [[Maurice Merleau-Ponty|Merleau-Ponty, Maurice]].  "[https://books.google.com/books?id=Qj-iZurbei4C&lpg=PP1&dq=Signs%20Merleau-Ponty%20Bergson%20in%20the%20Making.&pg=PA182#v=onepage&q&f=false Bergson in the Making]."  In ''[https://books.google.com/books?id=Qj-iZurbei4C&printsec=frontcover&dq=Signs+Merleau-Ponty+Bergson+in+the+Making.&hl=en&sa=X&ved=0CBwQ6AEwAGoVChMIzvSOu4zbxgIVjKOUCh1v_g5f#v=onepage&q&f=false Signs]''.  Trans. Richard McCleary.  Evanston, IL: Northwestern University Press, 1964.  182–91.
+* [[John Mullarkey|Mullarkey, John]]. ''Bergson and Philosophy.'' Edinburgh University Press, 1999. 
+* Mullarkey, John, ed.  ''[https://books.google.com/books?id=adgCLfgRX2UC&printsec=frontcover&dq=The+New+Bergson&hl=en&sa=X&ved=0CBwQ6AEwAGoVChMIoZblyYvbxgIVIiCmCh0CKAyF#v=onepage&q=The%20New%20Bergson&f=false The New Bergson]''.  Manchester and New York: Manchester University Press, 1999.
+* [[Bertrand Russell|Russell, Bertrand]] [https://archive.org/stream/philosophyofberg00russ#page/n3/mode/2up "The Philosophy of Bergson"]. ''[[The Monist]]'' 22 (1912): 321–47.
+* [[Mark Sinclair (philosopher)|Sinclair, Mark]]. ''Bergson'', New York: Routledge, 2020.
+
+==External links==
+{{sister project links}}
+* [http://plato.stanford.edu/entries/bergson/ Stanford Encyclopedia of Philosophy entry]
+* [https://web.archive.org/web/20090514072652/http://www.timoroso.com/philosophy/writings/sketches/2006-04-09-henri-bergsons-theory-of-laughter Henri Bergson's theory of laughter]. A brief summary.
+* [https://web.archive.org/web/20131113160947/http://www.ciepfc.fr/spip.php?article56 « 'A History of Problems' : Bergson and the French Epistemological Tradition », by Elie During]
+* Gontarski, Stanley E.: [https://encyclopedia.1914-1918-online.net/article/bergson_henri/ Bergson, Henri], in: [https://encyclopedia.1914-1918-online.net/home.html/ 1914-1918-online. International Encyclopedia of the First World War].
+* [http://webshells.com/spantrans/bergson.html M. C. Sanchez Rey « The Bergsonian Philosophy of the Intelligence »] translation
+* {{PM20}}
+* [https://nobel.bh.org.il/en/persona/Henri-Bergson/ Henri Bergson], Nobel Luminaries - Jewish Nobel Prize Winners, on the [https://www.bh.org.il/ Beit Hatfutsot-The Museum of the Jewish People] Website.
+* {{Nobelprize}}
+*[http://noblib.internet-box.ch/NLEW.php?authorid=27 List of Works]
+
+===Works online===
+* {{Gutenberg author |id=Bergson,+Henri | name=Henri Bergson}}
+* {{Internet Archive author |sname=Henri Bergson}}
+* {{Librivox author}}
+* {{OL author|OL18539A}}
+* [https://web.archive.org/web/20090513043046/http://www.laphilosophie.fr/livres-de-Bergson-texte-integral.html Works by Henri Bergson in French] at [http://www.laphilosophie.fr/ "La Philosophie"]
+* [http://classiques.uqac.ca/classiques/bergson_henri/bergson_henri.html Complete works in French on the "Classiques des sciences sociales" website]
+* [http://classiques.uqac.ca/classiques/bergson_henri/evolution_creatrice/evolution_creatrice.html ''L'Évolution créatrice''] (in the original French, 1907)
+** {{webarchive |url=https://web.archive.org/web/20060423033749/http://spartan.ac.brocku.ca/~lward/Bergson/Bergson_1911a/Bergson_1911_toc.html |date=23 April 2006 |title=1911 English translation }} of ''Creative Evolution'' ([[html]])
+** [https://archive.org/details/creativeevolutio00berguoft multiple formats] at [[Internet Archive]]
+* {{webarchive |url=https://web.archive.org/web/20060424080648/http://spartan.ac.brocku.ca/~lward/Bergson/Bergson_1910/Bergson_1910_toc.html |date=24 April 2006 |title=1910 English translation of ''Time and Free Will'' }} (HTML)
+** [https://archive.org/details/timeandfreewilla00berguoft multiple formats] at Internet Archive
+* {{webarchive |url=https://web.archive.org/web/20060424080926/http://spartan.ac.brocku.ca/~lward/Bergson/Bergson_1911b/Bergson_1911_toc.html |date=24 April 2006 |title=1911 English translation of ''Matter and Memory'' }} (HTML)
+** [https://archive.org/details/matterandmemory00berguoft multiple formats] at Internet Archive
+
+{{Works of Henri Bergson|state=collapsed}}
+{{Navboxes
+|list=
+{{continental philosophy}}
+{{Metaphysics}}
+{{philosophy of language}}
+{{philosophy of mind}}
+{{Académie française Seat 7}}
+{{Nobel Prize in Literature Laureates 1926–1950}}
+{{1927 Nobel Prize winners}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bergson, Henri}}
+[[Category:Henri Bergson| ]]
+[[Category:1859 births]]
+[[Category:1941 deaths]]
+[[Category:19th-century French philosophers]]
+[[Category:19th-century French writers]]
+[[Category:19th-century male writers]]
+[[Category:19th-century philosophers]]
+[[Category:20th-century French philosophers]]
+[[Category:20th-century French writers]]
+[[Category:20th-century male writers]]
+[[Category:Bereksohn family|Henri]]
+[[Category:Collège de France faculty]]
+[[Category:Continental philosophers]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:Epistemologists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:19th-century French Jews]]
+[[Category:French Nobel laureates]]
+[[Category:French people of Polish-Jewish descent]]
+[[Category:Grand Croix of the Légion d'honneur]]
+[[Category:History of psychology]]
+[[Category:Jewish Nobel laureates]]
+[[Category:Jewish philosophers]]
+[[Category:Lycée Condorcet alumni]]
+[[Category:Lycée Henri-IV teachers]]
+[[Category:Members of the Académie des sciences morales et politiques]]
+[[Category:Members of the Académie Française]]
+[[Category:Metaphysicians]]
+[[Category:Nobel laureates in Literature]]
+[[Category:Ontologists]]
+[[Category:Parapsychologists]]
+[[Category:Philosophers of language]]
+[[Category:Philosophers of mathematics]]
+[[Category:Philosophers of mind]]
+[[Category:Philosophers of psychology]]
+[[Category:Philosophers of religion]]
+[[Category:Philosophers of science]]
+[[Category:Philosophers of time]]
+[[Category:Prix Blumenthal]]
+[[Category:Process philosophy]]
+[[Category:Process theologians]]
+[[Category:Vitalists]]
+[[Category:Writers from Paris]]
+[[Category:Corresponding Fellows of the British Academy]]
