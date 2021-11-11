@@ -1,0 +1,179 @@
+{{Short description|Scottish economist}}
+{{Use British English|date=October 2017}}
+{{Use dmy dates|date=March 2021}}
+{{Infobox writer
+| name = John Law
+| image = John Law-Casimir Balthazar mg 8450.jpg
+| caption = John Law, by Casimir Balthazar
+| birth_date = {{Birth date|df=yes|1671|4|21}}
+| birth_place = [[Edinburgh]], [[Kingdom of Scotland]]
+| death_date = {{Death date and age|df=yes|1729|3|21|1671|4|21}}
+| death_place = [[Venice]], [[Republic of Venice]]
+| occupation = Economist, banker, financier, author, controller-general of finances
+| signature = Signatur John Law.PNG
+}}
+{{Economics sidebar}}
+'''John Law''' (pronounced {{IPA-fr|lɑs|}} in French in the traditional approximation of ''Laws'', the colloquial Scottish form of the name;<ref>{{cite DNB |wstitle=Law,_John_(1671-1729) |first=Francis |last=Espinasse |volume=32 |pages=230–234}}</ref><ref>{{Cite book |url=https://books.google.com/books?id=vAFA8x953OMC&printsec=frontcover#v=onepage&q&f=false |title=Estudes Romanes Dediees a Gaston Paris |date=1976 |publisher=Slatkine |pages=487 to 506, especially p. 501 |language=fr}}</ref> [[baptism|baptised]] 21 April 1671 – 21 March 1729) was a Scottish [[economist]] who distinguished [[money]], a means of [[Financial transaction|exchange]], from national wealth dependent on trade. He served as Controller General of Finances under the [[Philippe II, Duke of Orléans|Duke of Orleans]], who was regent for the juvenile [[Louis XV of France]]. In 1716, Law set up a private [[Banque Générale]] in France. A year later it was nationalised at his request and renamed as [[Banque Royale]]. The private bank had been funded mainly by John Law and Louis XV; three-quarters of its [[capital (economics)|capital]] consisted of government bills and government-accepted notes, effectively making it the nation's first [[central bank]]. Backed only partially by silver, it was a [[Fractional-reserve banking|fractional reserve bank]]. Law also set up and directed the [[Mississippi Scheme|Mississippi Company]], funded by the Banque Royale. Its chaotic collapse has been compared to the 17th-century [[tulip mania]] in Holland.<ref name=nyfed/> The Mississippi bubble coincided with the [[South Sea Company|South Sea bubble]] in England, which allegedly took ideas from it. Law as a [[gambler]] would win card games by mentally calculating [[odds]]. He originated ideas such as the [[scarcity value|scarcity theory of value]]<ref>{{Cite book |url=https://books.google.com/books?id=oxUHBgAAQBAJ |title=Agricultural Finance: From Crops to Land, Water and Infrastructure |last=Geman |first=Helyette |date=29 December 2014 |publisher=John Wiley & Sons |isbn=9781118827369 |language=en}}</ref> and the [[real bills doctrine]].<ref>{{Cite journal |last1=Humphrey |first1=Thomas M. |title=The Real Bills Doctrine |journal=Federal Reserve Bank of Richmond Economic Review |date=1982 |page=5 |url=https://core.ac.uk/download/pdf/6917306.pdf |access-date=15 January 2019}}</ref> He held that money creation stimulated an economy, paper money was preferable to metal, and dividend-paying shares a superior form of money.<ref>{{Cite web|url=http://www.chicagofed.org/digital_assets/publications/working_papers/2009/wp2009_10.pdf|title=Federal Reserve Bank of Chicago, ''The Life and Times of Nicolas Dutot'', November 2009}}</ref> The term "[[millionaire]]" was coined for beneficiaries of Law's scheme.<ref>{{Cite book |last1=Murphy |first1=Antoine |title=John Law: Economic Theorist and Policy-maker |date=1997 |publisher=Clarendon Press |isbn=9780198286493 |pages=3 |url=https://books.google.com/books?id=0kduEtlToecC&pg=PA3}}</ref><ref>{{Cite news |last1=Henriques |first1=Diana |title=A Big Idea About Money |url=http://movies2.nytimes.com/books/00/07/23/reviews/000723.23henriqt.html |access-date=30 January 2019 |work=New York Times |date=23 July 2000}}</ref>
+
+==Early years==
+[[File: Law - Money and trade considered, with a proposal for supplying the Nation with money, 1934 - 5802114.tif|thumb|''Money and trade considered, with a proposal for supplying the Nation with money'', 1934 French translation of 1712 English edition]]
+Law was born into a family of Lowland Scots bankers and [[goldsmith]]s from [[Fife]]; his father, William, had purchased [[Lauriston Castle]], a landed estate at [[Cramond]] on the [[Firth of Forth]] and was known as Law of [[Lauriston Castle|Lauriston]]. On leaving the High School of Edinburgh, Law joined the family business at the age of 14 and studied the banking business until his father died in 1688. He subsequently neglected the firm in favour of extravagant pursuits and travelled to London, where he lost large sums by gambling.<ref name="Mackay 1848">{{Cite book |title=Memoirs of Extraordinary Popular Delusions and the Madness of Crowds |first=Charles |last=Mackay |publisher=London: Office of the National Illustrated Library |year=1848 |chapter=1.3}}</ref>
+
+On 9 April 1694, John Law fought a [[duel]] with another British dandy, Edward "Beau" Wilson, in [[Bloomsbury Square]], London.<ref name="Letters to John Law">{{Cite book |author=Adams, Gavin John |author-link=Gavin John Adams |title=Letters to John Law |year=2012 |publisher=Newton Page |isbn=978-1934619087 |pages=xiv, xxi, liii}}</ref> Wilson had challenged Law over the affections of [[Elizabeth Villiers]]. Law killed Wilson with a single pass and thrust of his sword.<ref name="Letters to John Law" /> He was arrested, charged with murder and stood trial at the [[Old Bailey]].<ref name="Letters to John Law"/> He appeared before the infamously sadistic "hanging judge" [[Salathiel Lovell]] and was found guilty of murder and sentenced to death.<ref name="Letters to John Law" /> He was initially incarcerated in [[Newgate Prison]] to await execution.<ref name="Letters to John Law"/> His sentence was later commuted to a fine, on the grounds that the killing only amounted to [[manslaughter]]. Wilson's brother appealed and had Law imprisoned, but he managed to escape to [[Amsterdam]].<ref name="Mackay 1848"/>
+
+==Career==
+===Economic theory and practice===
+[[File:John Law by Alexis Simon Belle.jpg|thumb|left|Portrait of John Law by Alexis Simon Belle]]
+Law urged the establishment of a [[national bank]] to create and increase instruments of [[credit (finance)|credit]] and the issue of [[banknotes]] backed by land, gold, or silver. The first manifestation of [[Law's system]] came when he had returned to Scotland and contributed to the debates leading to the [[Treaty of Union 1707]]. He wrote a pamphlet entitled ''[[Two Overtures Humbly Offered to His Grace John Duke of Argyll, Her Majesties High Commissioner, and the Right Honourable the Estates of Parliament]]'' (1705)<ref>{{Cite book |last=Law |first=John |year=1705 |title=Two Overtures Humbly Offered to His Grace John Duke of Argyll, Her Majesties High Commissioner, and the Right Honourable the Estates of Parliament |publisher= |publication-date=1705 |location=Edinburgh |url= |access-date=}}</ref><ref>{{Cite book |last=Patterson |first=William |year=1750 |title=The Writings of William Paterson ... Founder of the Bank of England, Volume 2 |publisher= Effingham Wilson |publication-date=1858 |location=London |url=https://books.google.com/books?id=0Xd0I5-jlcYC&pg=PR43 |access-date=28 January 2021}}</ref> which foreshadowed the ideas he would propose for establishing new systems of finance, paper money and refinancing the national debt in a subsequent tract entitled ''[[Money and Trade Considered|Money and Trade Considered: with a Proposal for Supplying the Nation with Money]]'' (1705).<ref>{{Cite book |last=Law |first=John |year=1750 |title=Money and Trade Consider'd with a Proposal for Supplying the Nation with Money, First Published in Edinburgh in 1705 |publisher= A. Foulis |publication-date=1750 |location=Glasgow |url=https://archive.org/details/moneytradeconsid00lawj |access-date=26 June 2015}} via Internet Archive</ref><ref name="Buchan97">{{Cite book |last=Buchan |first=James |title=Frozen Desire: An inquiry into the meaning of money |publisher=Picador |year=1997 |isbn=0-330-35527-9}}</ref>{{rp|136}} Law's propositions of creating a national bank in [[Scotland]] were ultimately rejected, and he left to pursue his ambitions abroad.<ref>''Collier's Encyclopedia'' (Book 14): "Law, John", p. 384. P. F. Collier Inc., 1978.</ref>
+
+He spent ten years moving between France and the [[Dutch Republic|Netherlands]], dealing in financial [[speculation]]s. Problems with the French economy presented the opportunity to put his system into practice.{{cn|date=March 2021}}
+
+He had the idea of abolishing minor [[monopoly|monopolies]] and private [[tax farming (France)|farming of taxes]]. He would create a bank for national finance and a state company for commerce, ultimately to exclude all private revenue. This would create a huge monopoly of finance and trade run by the state, and its profits would pay off the [[national debt]]. The council called to consider Law's proposal, including financiers such as [[Samuel Bernard]], rejected the proposition on 24 October 1715.<ref name="Buchan97"/>{{rp|141}}
+
+Law made his home in Place Louis-le-Grand, a royal square where he hosted and entertained various Parisian nobles. Gaining the attention of such notable people as the Duke of Orleans, Law quickly found himself a regular in high-stakes gambling parties attended by only the most affluent of Paris. His tall stature and elegant dress allowed Law to charm his way across Europe's financial hubs, from Amsterdam to Venice. These travels heavily influenced Law's theories on monetary policy and the importance of paper money as credit. Law's idea of a centralised bank which would deal in a new form of paper money was years ahead of its time. Despite this forward concept, Law still championed mercantilist beliefs with the promotion of monopolistic companies through government charters.<ref>{{Cite book |title=The Diligent: A Voyage through the Worlds of the Slave Trade |last=Robert |first=Harms |pages=43–54}}</ref>
+
+The wars waged by [[Louis XIV]] left the country completely wasted, both economically and financially. The resultant shortage of [[precious metal]]s led to a shortage of coins in circulation, which in turn limited the production of new coins. With the death of Louis XIV seventeen months after Law's arrival, the Duke of Orleans finally presented Law with the opportunity to display his ingenuity. Since, following the devastating [[War of the Spanish Succession]], France's economy was stagnant and her [[national debt]] was crippling, Law proposed to stimulate industry by replacing gold with paper credit and then increasing the supply of credit, and to reduce the national debt by replacing it with shares in economic ventures.<ref>{{Cite book |url=https://books.google.com/books?id=0kduEtlToecC&pg=PA105 |title=John Law |author=Antoin E Murphy |publisher=Oxford U. Press |year=1997 |page=105|isbn=9780198286493}}</ref> On 1 May 1716, Law presented a modified version of his centralised bank plan to the Banque Générale which approved a private bank that allowed investors to supply one-fourth of an investment in currency and the other parts in defunct government bonds. The second key feature of the proposal centred on the premise that this private bank was able to issue its own currency backed by [[Louis d'or|Louis of gold]]. This enabled the currency to be redeemed by the weight of silver from the original deposit instead of the fluctuating value of the [[French livre|livre]], which had been devaluing rapidly.<ref name="Velde07">{{Cite journal |last=Velde |first=François R. |date=May 2007 |title=John Law's System |journal=American Economic Review |volume=97 |issue=2 |pages=276–279 |doi=10.1257/aer.97.2.276 |jstor=30034460}}</ref>{{rp|277}}
+
+In May 1716 Law set up the Banque Générale Privée ("General Private Bank"), which developed the use of paper money.<ref>Roger Backhouse, ''Economists and the economy: the evolution of economic ideas'', Transaction Publishers, 1994, {{ISBN|978-1-56000-715-9}}, p. 118.</ref>
+It was one of only six such banks to have issued paper money, joining Sweden, England, Holland, Venice, and Genoa.<ref name=nyfed>{{Cite web|url=https://libertystreeteconomics.newyorkfed.org/2014/01/crisis-chronicles-the-mississippi-bubble-of-1720-and-the-european-debt-crisis.html|title=Crisis Chronicles: The Mississippi Bubble of 1720 and the European Debt Crisis -Liberty Street Economics|website=libertystreeteconomics.newyorkfed.org}}</ref> The bank was nationalised in December 1718 at Law's request.<ref name="Velde07"/>{{rp|277}}
+
+From this new banking platform, Law was able to pursue the [[monopoly]] companies he envisioned by having France bankroll the endeavour with 100 million ''livres'' in the form of company stock. The founding of the Mississippi Company, later renamed the Occident Company and eventually part of the Company of the Indies, was financed in the same way as the bank.{{cn|date=March 2021}}
+
+In this context the regent, [[Philippe II, Duke of Orléans|Philippe d'Orléans]], appointed Law as Controller General of Finances in 1720, effectively giving him control over external and internal commerce. The rapid ascension of this new global monopoly led to massive speculation and stock prices ballooned to over sixty times their original value.{{cn|date=March 2021}}
+
+As Controller General, Law instituted many beneficial reforms, some of which had lasting effect, while others were soon abolished. He tried to break up large land-holdings to benefit the peasants; he abolished internal road and canal tolls; he encouraged the building of new roads, the starting of new industries (even importing artisans but mostly by offering low-interest loans), and the revival of overseas commerce — and indeed industry increased by 60 per cent in two years, and the number of French ships engaged in export went from 16 to 300.<ref>Will and Ariel Durant, ''The Age of Voltaire'', Simon & Schuster, 1965, p. 13.</ref>
+
+Law helped in 1719 to refinance the French Indies companies. His nephew, [[Jean Law de Lauriston]], was later Governor-General of [[Pondicherry]].<ref>William Dalrymple ''The Anarchy: The Relentless Rise of The East India Company'', Bloomsbury Publishing, 2019.</ref>
+
+===Mississippi Company===
+Law became the architect of what would later be known as the [[Mississippi Bubble]], an event that would begin with consolidating the trading companies of [[Louisiana]] into a single monopoly (The Mississippi Company), and ended with the collapse of the [[Banque Générale]] and subsequent devaluing of the Mississippi Company's shares.
+<blockquote>
+In 1719, the French government allowed Law to issue 50,000 new shares in the Mississippi Company at 500 livres with just 75 livres down and the rest due in seventeen additional monthly payments of 25 livres each. The share price rose to 1,000 livres before the second instalment was even due, and ordinary citizens flocked to Paris to participate.<ref name=nyfed/>
+</blockquote>
+In October 1719 Law's Company lent the French state 1.5 billion livres at 3 per cent to pay off the national debt, a transaction funded by issuing a further 300,000 shares in the company.<ref name=nyfed/><ref name="RSA91">{{Cite journal |last1=Lande |first1=Lawrence |last2=Congdon |first2=Tim |date=January 1991 |title=John Law and the invention of paper money |journal=RSA Journal |volume=139 |issue=5414 |pages=916–928 |jstor=41375433}}</ref>{{rp|919}}
+
+Between May and December 1719 the market price of a share rose from 500 to 10,000 livres<ref name="Velde07"/>{{rp|277}} and continued rising into early 1720, supported by Law's 4 per cent dividend promise.<ref name="Buchan97"/>{{rp|143–4}} Under rapidly emerging price inflation,<ref name=nyfed/> Law sought to hold the share price at 9,000 livres in March 1720, and then on 21 May 1720 to engineer a controlled reduction in the value of both notes and the shares, a measure that was itself reversed six days later.<ref name="Buchan97"/>{{rp|147}}<ref name="RSA91"/>{{rp|920}}<ref>{{Cite book |last=Hayek |first=F A |title=The Trend of Economic Thinking |year=1991 |publisher=Liberty Fund |isbn=9780865977426 |page=162}}</ref> 
+<blockquote>
+As the public rushed to convert banknotes to coin, Law was forced to close the Banque Générale for ten days, then limit the transaction size once the bank reopened. But the queues grew longer, the Mississippi Company stock price continued to fall, and [[food prices]] soared by as much as 60 per cent.<ref name=nyfed/>
+</blockquote>
+The fractional reserve ratio was one fifth,<ref>"John Law and the Mississippi Company" (5:55 of 9:44)</ref> and a Royal edict to criminalise the sale of gold was decreed.<ref>"John Law and the Mississippi Company" (6:45 of 9:44)</ref> A later Royal edict decreed that gold coin was illegal,<ref>"John Law and the Mississippi Company" (7:35 of 9:44)</ref> which was soon reversed,<ref>"John Law and the Mississippi Company" (7:55 of 9:44)</ref> leading to 50 people being killed in a stampede.<ref>"John Law and the Mississippi Company" (8:00 of 9:44)</ref> The company's shares were ultimately rendered worthless, and initially inflated speculation about their worth led to widespread financial stress, which saw Law dismissed at the end of 1720 from his sinecure as Controller General<ref name=nyfed/> and his post as Chief Director of the Banque Générale.
+
+===Downfall===
+Speculation gave way to panic as people flooded the market with future shares trading as high as 15,000 livres per share, while the shares themselves remained at 10,000 livres each. By May 1720, prices fell to 4,000 livres per share, a 73 per cent decrease within a year. The rush to convert paper money to coins led to sporadic bank hours and riots. Squatters now occupied the square of Palace Louis-le-Grand and openly attacked the financiers that inhabited the area. It was under these circumstances and the cover of night that John Law left Paris some seven months later, leaving all of his substantial property assets in France, including the [[Place Vendôme]] and at least 21 châteaux which he had purchased over his years in Paris, for the repayment of creditors.{{cn|date=March 2021}}
+
+The descent of a relatively unknown man came as fast as his rise, leaving an economic power vacuum. Law's theories live on 300 years later and "captured many key conceptual points which are very much a part of modern monetary theorizing."<ref>{{Cite book |url=https://books.google.com/books?id=0kduEtlToecC&pg=PA1 |title=John Law |author=Antoin E Murphy|publisher=Oxford U. Press|year= 1997|page=1|isbn=9780198286493}}</ref>
+
+[[File:John Law Paper Money.jpg|thumb|Paper money endorsed by John Law, 1718.]]
+[[File:John Law cartoon (1720).png|thumb|Contemporary political cartoon of Law from ''Het Groote Tafereel der Dwaasheid'' (1720); text reads "''Law loquitur''. The wind is my treasure, cushion, and foundation. Master of the wind, I am master of life, and my wind monopoly becomes straightway the object of idolatry".]]
+
+==Later years==
+Law moved to [[Brussels]] on 22 December 1720 in impoverished circumstances when his properties in France were voluntarily confiscated.<ref name="Buchan97"/>{{rp|148}} He spent the next few years gambling in [[Rome]], [[Copenhagen]] and [[Venice]] but never regained his former prosperity. Law realised he would never return to France when Orléans died suddenly in 1723 and Law was granted permission to return to London, having been pardoned in 1719. He lived in London for four years and then moved to Venice, where he contracted [[pneumonia]] and died poor in 1729.<ref name="Buchan97"/>{{rp|150}}
+
+==Cultural references==
+[[Sharon Condie]] and [[Richard Condie]]'s 1978 [[National Film Board of Canada]] (NFB) [[animated short]] ''John Law and the Mississippi Bubble'' is a humorous interpretation. The film was produced by the NFB at its newly opened [[Winnipeg]] studio. It opened in Canadian cinemas starting in September 1979 and was sold to international broadcasters. The film received an award at the [[Tampere Film Festival]].<ref name=Ohayon>{{Cite web |last=Ohayon |first=Albert |title=John Law and the Mississippi Bubble: The Madness of Crowds |url=http://blog.nfb.ca/2011/06/22/john-law-and-the-mississippi-bubble-the-madness-of-crowds/ |work=NFB.ca Blog |publisher=[[National Film Board of Canada]] |access-date=22 June 2011}}</ref>
+
+John Law is the focus of Rafael Sabatini's 1949 novel "The Gamester".<ref>{{cite news |last1=Match |first1=Richard |title=Economic Swordplay; THE GAMESTER. By Rafael Sabatini |url=https://www.nytimes.com/1949/09/04/archives/economic-swordplay-the-gamester-by-rafael-sabatini-310-pp-boston.html |access-date=23 March 2021 |work=New York Times |date=4 September 1949}}</ref>
+
+John Law is referenced in Voltaire's 'Dictionnaire Philosophique', as part of the entry on reason.<ref>{{Cite web|url=https://www.gutenberg.org/files/18569/18569-h/18569-h.htm#Reason|title=The Project Gutenberg eBook of Voltaire's Philosophical Dictionary|website=www.gutenberg.org}}</ref>
+
+<!--
+==Ancestry==
+{{ahnentafel
+|collapsed=yes |align=center
+|boxstyle_1=background-color: #fcc;
+|boxstyle_2=background-color: #fb9;
+|boxstyle_3=background-color: #ffc;
+|boxstyle_4=background-color: #bfc;
+|boxstyle_5=background-color: #9fe;
+|1 = '''John Law'''
+|2 = William Law
+|3 = Jean Campbell
+|4 = Alexander Law
+|5 = Marion Boyd
+|6 = Hugh Campbell
+|7 = Elspeth Kinninmonth
+|8 = John Law
+|9 = Janet Galbraith
+|10= Stevin Boyd
+|11= Elizabeth Hutchesone
+|12= 
+|13= 
+|14= John Kinninmonth
+|15= 
+|16= [[James Law]]
+|17= Gmizel Boswell
+|18= Valentin Galbraith
+|19= Barbara Burrell
+|20= James Boyd
+|21= Marion Carmichael
+|22= 
+|23= 
+}}
+-->
+
+==See also==
+* [[Early modern France]]
+* [[Assignat]], a bank note system of the [[French Revolution]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+===Non-fiction===
+*{{Cite book |author=Adams, Gavin John |author-link=Gavin John Adams |date= 2017 |title= John Law: The Lauriston Lecture and Collected Writings |publisher=Newton Page |isbn= 9781934619155 }}. Includes the entire first lecture on the life of John Law to be delivered by the author at Law's ancestral home of [[Lauriston Castle]], and other accounts of John Law's life and the Mississippi Scheme by some of the most popular writers of the last 250 years, including: [[Bram Stoker]]; [[Washington Irving]], [[Charles Mackay (author)|Charles Mackay]]; [[Adam Smith]]; and [[Voltaire]].
+*{{Cite book |author=Adams, Gavin John |author-link=Gavin John Adams |date= 2012 |title= Letters to John Law |publisher= Newton Page |isbn= 9781934619087 }}. A collection of early eighteenth-century political propagandist pamphlets documenting the hysteria surrounding John Law's return to Britain after the collapse of his Mississippi Scheme and expulsion from France. It also contains a very useful chronology and extensive biographical introduction to John Law and the Mississippi Scheme.
+*{{Cite book |author=Buchan, James |date= 2018 |title= John Law: A Scottish Adventurer of the Eighteenth Century |publisher= MacLehose Press|pages= 528|isbn= 9781848666078}}. A biography/memoir of John Law's life and how he built his way to becoming an "economist abroad" in France, yet oversaw a debilitating bank run/financial crisis in the early 18th century.<ref>{{Cite web|url=https://www.economist.com/books-and-arts/2018/09/13/the-rise-and-fall-of-an-alchemical-scottish-economist|title=The rise and fall of an alchemical Scottish economist|date=13 September 2018|via=The Economist}}</ref>
+*{{Cite book |author=Defoe, Daniel |author-link=Daniel Defoe |date= 2013 |title= John Law and the Mississippi Scheme: An Anthology |publisher=Newton Page |isbn= 978-1934619070 }}. Contains Defoe's contemporary accounts of the euphoria and excess of the first ever stock market boom unleashed by John Law and his Mississippi Scheme and his remarkable insight into the European economic crises of the 1720s. It includes: The Chimera (1720), The Case of Mr. Law Truly Stated (1721), and Selected Journalism (1719-1722).
+* {{cite book|last=Gleeson|first=Janet|title=Millionaire: The Philanderer, Gambler, and Duelist Who Invented Modern Finance|year=2001|place=New York|publisher=[[Simon & Schuster]]|isbn=978-0684872957}}
+*{{Cite book |author=Hyde, H. Montgomery |author-link=H. Montgomery Hyde |title=John Law: The History of an Honest Adventurer |date=1948 |url=https://archive.org/details/in.ernet.dli.2015.61288|publisher= Home & Van Thal }}. A post-war account of John Law.
+*[[John Lanchester|Lanchester, John]], "The Invention of Money: How the heresies of two bankers became the basis of our modern economy", ''[[The New Yorker]]'', 5 & 12 August 2019, pp.&nbsp;28–31.
+*{{Cite book |author=Mackay, Charles |author-link=Charles Mackay (author) |title=Extraordinary Popular Delusions and the Madness of Crowds|date=1841 |publisher= Richard Bentley }}. A negative account of John Law.
+*{{Cite book |author=Minton, Robert |title=John Law: The Father of Paper Money |date=1975 |url=https://archive.org/details/johnlawfatherofp00robe |publisher=Association Press |isbn=978-0809619047 |url-access=registration}}.
+*{{Cite book |author=Murphy, Antoin E. |date= 1997 |title= John Law: Economic Theorist and Policy-Maker |publisher= Oxford University Press |isbn= 9780198286493 }}. The most extensive account of Law's writings. It is given credit for restoring the reputation of Law as an important economic theorist.
+* Pollard, S. "John Law and the Mississippi Bubble." ''History Today'' (Sept 1953) 3#9 pp 622–630. 
+*{{Cite book |author=Thiers, Adolphe |author-link=Adolphe Thiers |date= 2011 |title= The Mississippi Bubble: A Memoir of John Law |publisher= Newton Page Classics |isbn= 978-1934619056 }}. An account of the euphoria and wealth John Law created by engineering the first stock market boom, and the despair, poverty and destroyed lives that followed its crash.
+* Velde, Francois R. (2003) Government Equity and Money: John Law's System in 1720 France. Available at SSRN: [https://ssrn.com/abstract=486983 Government Equity and Money: John Law's System in 1720 France] or [http://dx.doi.org/10.2139/ssrn.486983 Government Equity and Money: John Law's System in 1720 France]
+
+===Fiction/satire===
+*{{Cite book |author=Anonymous |date= 1720 |title=Het Groote Tafereel der Dwaasheid |location=Amsterdam }} A contemporary satire on the financial crisis in 1720
+*{{Cite book |author=Ainsworth, William Harrison |date=1864 |title=John Law: the Protector |location=London |publisher=Chapman and Hall }} A fictionalised biography
+*{{Cite book |author=Sabatini, Rafael |date=1949 |title=The Gamester |publisher= Houghton Mifflin }}. A sympathetic fictionalised account of Law's career as financial adviser to the Duke of Orléans, Regent under Louis XV.
+*{{Cite book |author=Greig, David |date=1999 |title=The Speculator |publisher=Methuen |isbn=978-0413743107 |author-link=David Greig (dramatist)}} A costume drama based on John Law's life
+
+==External links==
+{{Commons category|John Law}}
+*[http://www.mapforum.com/05/law.htm John Law]
+*[http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=6949 Project Gutenberg Edition of Fiat Money Inflation in France: How ...]
+*[https://mises.org/daily/4800 John Law: Proto-Keynesian, by Murray Rothbard]
+*{{Wikisource-inline|list=
+**{{Cite EB1911 |wstitle=Law, John |short=x |noicon=x}}
+**{{Cite NSRW |wstitle=Law, John |short=1 |noicon=x}}
+}}
+*[http://hnoc.minisisinc.com/thnoc/catalog/3/10047 John Law collection] at [https://www.hnoc.org/  The Historic New Orleans Collection] 
+{{Physiocrats}}
+{{Finance Ministers of France}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Law, John}}
+[[Category:Scottish bankers]]
+[[Category:Scottish economists]]
+[[Category:Physiocrats]]
+[[Category:Economy of France]]
+[[Category:History of banking]]
+[[Category:People from Fife]]
+[[Category:Scottish criminals]]
+[[Category:Scottish gamblers]]
+[[Category:Scottish statisticians]]
+[[Category:British duellists]]
+[[Category:1671 births]]
+[[Category:1729 deaths]]
+[[Category:Recipients of British royal pardons]]
+[[Category:18th-century Scottish people]]
+[[Category:17th-century Scottish people]]
+[[Category:People of the Regency of Philippe d'Orléans]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:People of the Ancien Régime]]
+[[Category:Deaths from pneumonia in Veneto]]
+[[Category:French Ministers of Finance]]
+[[Category:Converts to Roman Catholicism from Calvinism]]

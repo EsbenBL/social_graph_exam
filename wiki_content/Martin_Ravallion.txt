@@ -1,0 +1,76 @@
+{{Short description|Australian economist}}
+{{Use dmy dates|date=October 2016}}
+{{Use Australian English|date=October 2016}}
+{{Infobox economist
+| name        = Martin Ravallion
+| native_name = 
+| native_name_lang = 
+| school_tradition = 
+| image       = Martin Ravallion (2016).jpg
+| image_size  = 
+| caption     = Martin Ravallion (2016)
+| birth_date  =  {{birth date and age|df=yes|1952|03|19}}
+| birth_place = 
+| death_date  = 
+| death_place = 
+| resting_place = 
+| resting_place_coordinates = 
+| nationality = [[Australia]]n
+| institution = [[Georgetown University]]
+| field       = [[Development economics]]
+| alma_mater  = [[London School of Economics]]
+| influences  = 
+| influenced  = 
+| contributions = 
+| awards      =
+| memorials   = 
+| spouse      =
+| signature   = <!--(filename only)-->
+| module      = 
+| repec_prefix = e
+| repec_id = pra29
+}}
+'''Martin Ravallion''' (born 19 March 1952),<ref name=Congress>{{cite web | title= Ravallion, Martin | url= http://id.loc.gov/authorities/names/n85373096.html | publisher= Library of Congress | access-date= 3 October 2014 |quote= (Martin Ravallion) data sheet (b. 3-19-52) }}</ref> is an [[Australian]] [[economist]].  {{As of|2013}} he was the inaugural Edmond D. Villani Professor of Economics at [[Georgetown University]],<ref>[https://blogs.worldbank.org/developmenttalk/team/martin-ravallion blogs.worldbank.orh: Martin Ravallion]</ref> and previously had been director of the research department at the [[World Bank]].<ref>{{cite news|url=http://www.monitor.co.ug/artman/publish/business/Shs35_billion_Gates_fund_for_agriculture_95493.shtml|title=Shs35 billion Gates fund for agriculture |date=3 December 2009|publisher=[[The Monitor (Uganda)|Daily Monitor]]|access-date=8 December 2009}} {{Dead link|date=October 2010|bot=H3llBot}}</ref> He holds a PhD in economics from the [[London School of Economics]].<ref>[http://www.voxeu.org/person/martin-ravallion Vox:Martin Ravallion]</ref>
+
+Ravallion has researched extensively on [[poverty]] in developing countries and on policies for fighting poverty. In 1990 he proposed what has come to be known as the "$1 a day" [[Poverty threshold|poverty line]],<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/business/7122356.stm|title=When a dollar a day means 25 cents|date=2 December 2007|work=[[BBC News]]|access-date=8 December 2009|first=Mukul|last=Devichand}}</ref> and since then he and his colleagues at the bank monitored progress against global poverty by this and other measures.<ref>{{cite news|url=http://blogs.timesofindia.indiatimes.com/men-and-ideas/entry/at-last-good-news-about|title=At last, good news about poverty|date=14 November 2009|newspaper=[[The Times of India]]|access-date=8 December 2009|first1=Gurcharan|last1=Das}}</ref> A paper he wrote in 2012 became the basis of the [[World Bank]], and subsequently [[United Nations]], development goal of eliminating [[extreme poverty]] in the world by 2030.<ref>{{cite news|url=https://openknowledge.worldbank.org/bitstream/handle/10986/21427/wbro_28_2_139.pdf;sequence=1|title=How long will it take to lift one billion people out of poverty?|date=2012|first1=Martin|last1=Ravallion}}</ref> He has advised numerous governments and international agencies and written five books and 250 papers in scholarly journals and edited volumes.
+
+His book ''The Economics of Poverty: History, Measurement, and Policy'' was published by [[Oxford University Press]] in January 2016. Based on publications and citations, Ravallion is regularly ranked in the top 10 development economists in the world and was ranked  number 1 globally in the field of Development Economics by RePEc/IDEAS. <ref>{{Cite web|url=https://ideas.repec.org/top/top.dev.html#authors|title=Top 10% Institutions and Economists in the Field of Development, as of November 2016|last=Zimmermann|first=Christian|website=ideas.repec.org|access-date=2016-12-20}}</ref> He is ranked in the top 100 economists in all fields.<ref>{{Cite web|url=https://ideas.repec.org/top/top.person.all.html|title=Top 10% Authors, as of November 2016|last=Zimmermann|first=Christian|website=ideas.repec.org|access-date=2016-12-20}}</ref>  
+
+He is a research associate of the National Bureau of Economic Research, a senior fellow of the Bureau for Research in Economic Analysis of Development, a non-resident fellow of the Center for Global Development and ex-president of the society for the Study of Economic Inequality. In 2011 he received the John Kenneth Galbraith Award from the American Agricultural and Applied Economics Association. He won the 2015 [[BBVA Foundation Frontiers of Knowledge Award]] in Development Cooperation for his groundbreaking work on defining the extreme poverty threshold with internationally applicable standards that facilitate the establishment of specific development cooperation goals. In 2018 he was awarded an honorary doctorate in economics from the University of Fribourg, Switzerland.
+
+== Selected bibliography ==
+=== Books ===
+* {{cite book | title = Markets and Famines | last = Ravallion | first = Martin | publisher = Oxford University Press | year = 1987 | isbn = 0198287275 | location = Oxford, England }}
+* {{cite book | title = Poverty Comparisons | last = Ravallion | first = Martin | publisher = Harwood Academic Publishers | year = 1994 | isbn = 9783718654024 | location = Chur, Switzerland Langhorne, Pennsylvania }}
+* {{cite book | last1 = Ravallion | first1 = Martin | last2 = van de Walle | first2 = Dominique | title = Land in transition: Reform and poverty in rural Vietnam | publisher = World Bank | location = Washington D.C. | year = 2008 | isbn = 9780821372746 }}
+* {{cite book | last1 = Ravallion | first1 = Martin | last2 = van de Walle | first2 = Dominique | last3 = Murgai | first3 = Rinku | last4 = Dutta | first4 = Puja | title = Right to Work? Assessing India's Employment Guarantee Scheme in Bihar | publisher = World Bank | location = Washington D.C. | year = 2014 | isbn = 9781464801303 }}
+* {{cite book | last1 = Ravallion | first1 = Martin | title = Economics of poverty: History, measurement and policy | publisher = Oxford University Press | location = New York | year = 2016 | isbn = 9780190212766 }}
+
+=== Chapters in books ===
+* {{Citation | last = Ravallion | first = Martin | contribution = Evaluating Antipoverty Policies. | editor-last1 = Schultz  | editor-first1 = Paul    | editor-last2 = Strauss | editor-first2 = John   |  title = Handbook of Development Economics Volume 4  | publisher = North-Holland | year = 2008 }}
+* {{Citation | last = Ravallion | first = Martin | contribution = On the welfarist rationale for relative poverty lines | editor-last1 = Kanbur | editor-first1 = Ravi | editor-last2 = Basu | editor-first2 = Kaushik | editor-link1= Ravi Kanbur | editor-link2 = Kaushik Basu | title = Arguments for a better world: essays in honor of Amartya Sen &#124; Volume I: Ethics, welfare, and measurement | pages = 375–396 | publisher = Oxford University Press | location = Oxford New York | year = 2009 | isbn = 9780199239115 }}
+* {{Citation | last = Ravallion | first = Martin | contribution = Poverty and Inequality: The Global Context. | editor-last1 = Salverda | editor-first1 = Wiemer   | editor-last2 = Nolan | editor-first2 = Brian   | editor-last3 = Smeeding | editor-first3 = Timothy   | title = Oxford Handbook of the Economics of Inequality  | publisher = Oxford University Press | year = 2010 }}
+* {{Citation | last = Ravallion | first = Martin | contribution = Poverty Lines across the World. | editor-last1 = Jefferson | editor-first1 = Philip N.  |  title = Oxford Handbook of the Economics of Poverty  | publisher = Oxford University Press | year = 2013 }}
+* {{Citation | last = Ravallion | first = Martin | contribution = Poor or Just Feeling Poor? On Using Subjective Data in Measuring Poverty. | editor-last1 = Clark | editor-first1 = Andrew | editor-last2 = Senik | editor-first2 = Claudia | title = Happiness and Economic Growth  | publisher = Oxford University Press | year = 2014 }}
+* {{Citation | last = Ravallion | first = Martin | contribution = Poverty is Good for Development | editor-last1 = Frey | editor-first1 = Bruno | editor-last2 = Iselin | editor-first2 = David | title = Economic Ideas you should Forget  | publisher = Springer | year = 2017 }}
+
+== References ==
+{{Reflist|2}}
+
+==External links==
+*[http://explore.georgetown.edu/people/mr1185/ Georgetown University profile]
+*[https://economicsandpoverty.com/ Economics & Poverty - Martin Ravallion's Website on the Economics of Poverty]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ravallion, Martin}}
+[[Category:1952 births]]
+[[Category:Australian economists]]
+[[Category:Development economists]]
+[[Category:Georgetown University faculty]]
+[[Category:Living people]]
+[[Category:World Bank people]]
+[[Category:Center for Global Development]]
+
+
+{{economist-stub}}

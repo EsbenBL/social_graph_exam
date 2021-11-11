@@ -1,0 +1,91 @@
+{{Use dmy dates|date=November 2019}}
+{{Infobox scientist
+| name = Takeshi Amemiya
+| native_name = 雨宮 健
+| native_name_lang = jp
+| image = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size = 
+| alt = 
+| caption = 
+| birth_date = {{birth date and age|1935|3|29}}
+| birth_place = [[Tokyo]], [[Japan]]
+| death_date = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| death_cause = 
+| nationality = [[Japan]]ese
+| fields = [[Economics]]
+| workplaces = [[Stanford University]]
+| alma_mater = [[Johns Hopkins University]]
+| doctoral_advisor = [[Carl Christ|Carl F. Christ]] <!--(or  | doctoral_advisors = )-->
+| doctoral_students = [[James L. Powell]]<br>[[Victor Chernozhukov]]
+| known_for = 
+| awards = 
+}}
+
+{{nihongo|'''Takeshi Amemiya'''|雨宮 健|''Amemiya Takeshi''|extra=born 29 March 1935, in Tokyo, Japan}} is an [[economist]] specializing in [[econometrics]] and the [[economy of ancient Greece]].<ref>{{cite book |editor1-first=Roger |editor1-last=Backhouse |editor2-first=Roger |editor2-last=Middleton |chapter=Takeshi Amemiya b 1935 |title=Exemplary Economists: North America |volume=1 |publisher=Edward Elgar |year=2000 |isbn=1-78254-311-2 |pages=311–22 |chapter-url=https://books.google.com/books?id=SHnGSiiK4dUC&pg=PA311 }}</ref>
+
+Amemiya is the [[Edward Ames Edmonds]] Professor of Economics (emeritus) and a Professor of Classics at [[Stanford University]].   He is a Fellow of the [[Econometric Society]], the [[American Statistical Association]]<ref>{{cite journal | last1 = Powell | first1 = James Lawrence | author-link = James L. Powell | date = 6 December 2006 | title = The ET Interview: Takeshi Amemiya | journal = Econometric Theory | volume = 23 | pages = 155–181 | doi = 10.1017/S0266466607070065 }}</ref> and the [[American Academy of Arts and Sciences]] (1985).<ref name=AAAS>{{cite web|title=Book of Members, 1780-2010: Chapter A|url=http://www.amacad.org/publications/BookofMembers/ChapterA.pdf|publisher=American Academy of Arts and Sciences|access-date=17 April 2011}}</ref>
+
+==Education==
+*B.A., 1958, Social Science, [[International Christian University]], Tokyo, Japan
+*M.A., 1961, Economics, [[American University]], Washington, DC
+*Ph.D., 1964, Economics, [[Johns Hopkins University]], Baltimore, Maryland
+
+==Honors and awards==
+* U.S. Scientist Award, [[Alexander von Humboldt Foundation]], 1988
+* Fellowship, Japan Society for Promotion of Science, 1989
+* Fellowship, John Simon [[John Simon Guggenheim Memorial Foundation|Guggenheim Foundation]], 1975–1976
+* Ford Foundation Doctoral Dissertation Fellowship in Economics, Johns Hopkins University, 1963–1965
+
+==Publications==
+===Books===
+* {{cite book |last= Amemiya |first= Takeshi |date= 1985 |title= Advanced econometrics |location= [[Cambridge, Massachusetts]] |publisher= [[Harvard University Press]] |isbn= 9780674005600 |url-access= registration |url= https://archive.org/details/advancedeconomet00amem }}
+* {{cite book |last= Amemiya |first= Takeshi |date= 1994 |title= Studies in Econometric Theory: The Collected Essays of Takeshi Amemiya |series= Economists of the Twentieth Century |location= [[Aldershot, England]] |publisher= [[Edward Elgar Publishing|Edward Elgar Pub]] |isbn= 9781852787974 }}
+* {{cite book |last= Amemiya |first= Takeshi |date= 1994 |title= Introduction to Statistics and Econometrics |location= Cambridge, Massachusetts and [[London, England]] |publisher= Harvard University Press |isbn= 9780674462250 }}
+* {{cite book |last= Amemiya |first= Takeshi |date= 2007 |title= Economy and Economics of Ancient Greece |series= Routledge Explorations in Economic History |volume= 33 |location= London |publisher= [[Routledge]] |isbn= 9780415701549 }}
+
+===Chapter in book===
+* {{citation | last1 = Amemiya | first1 = Takeshi | chapter = Nonlinear Regression Models | editor-last1 = Griliches | editor-first1 = Zvi | editor-last2 = Intriligator | editor-first2 = Michael D. | editor-link1 = Zvi Griliches | editor-link2 = Michael Intriligator | title = Handbook of Econometrics | pages = 333–389 | volume = 1 | publisher = North Holland | location = [[Amsterdam]] | year = 1983 | chapter-url = http://down.cenet.org.cn/upfile/28/200512894118171.PDF | isbn = 9780444861856 | postscript = . }}{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}
+
+===Selected journal articles===
+* {{cite journal |last1= Amemiya |first1= Takeshi |last2= Fuller |first2= Wayne A. |author-link2= Wayne Fuller |date= 1967 |title= A Comparative Study of Alternative Estimators in a Distributed Lag Model |journal= [[Econometrica]] |volume= 35 |issue= 3–4 |pages= 509–529 |doi= 10.2307/1905652 |jstor= 1905652 }}
+* {{cite journal |last1= Amemiya |first1= Takeshi |last2= Wu |first2= Roland Y. |date= 1972 |title= The Effect of Aggregation on Prediction in the Autoregressive Model |journal= [[Journal of the American Statistical Association]] |volume= 67 |issue= 339 |pages= 628–632 |doi= 10.2307/2284454 |jstor= 2284454 }}
+* {{cite journal |last= Amemiya |first= Takeshi |date= 1973 |title= Generalized Least Squares with an Estimated Autocovariance Matrix |journal= Econometrica |volume= 41 |issue= 4 |pages= 723–732 |doi= 10.2307/1914092 |jstor= 1914092 }}
+* {{cite journal |last= Amemiya |first= Takeshi |date= 1973 |title= Regression Analysis when the Dependent Variable Is Truncated Normal |journal= Econometrica |volume= 41 |issue= 6 |pages= 997–1016 |doi= 10.2307/1914031 |jstor= 1914031 }}
+* {{cite journal |last= Amemiya |first= Takeshi |date= 1974 |title= Multivariate Regression and Simultaneous Equation Models when the Dependent Variables Are Truncated Normal |journal= Econometrica |volume= 42 |issue= 6 |pages= 999–1012 |doi= 10.2307/1914214 |jstor= 1914214 }}
+* {{cite journal |last= Amemiya |first= Takeshi |date= 1977 |title= The Maximum Likelihood and the Nonlinear Three-Stage Least Squares Estimator in the General Nonlinear Simultaneous Equation Model |journal= Econometrica |volume= 45 |issue= 4 |pages= 955–968 |doi= 10.2307/1912684 |jstor= 1912684 }}
+* {{cite journal |last= Amemiya |first= Takeshi |date= 1978 |title= The Estimation of a Simultaneous Equation Generalized Probit Model |url= http://fisher.osu.edu/~schroeder.9/AMIS900/Amemiya1978.pdf |journal= Econometrica |volume= 46 |issue= 5 |pages= 1193–1205 |doi= 10.2307/1911443 |jstor= 1911443 }}{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}
+* {{cite journal |last= Amemiya |first= Takeshi |date= 1979 |title= The Estimation of a Simultaneous-Equation Tobit Model |journal= [[International Economic Review]] |volume= 20 |issue= 1 |pages= 169–181 |doi= 10.2307/2526423 |jstor= 2526423 }}
+* {{cite journal |last= Amemiya |first= Takeshi |date= 1980 |title= Selection of Regressors |journal= International Economic Review |volume= 21 |issue= 2 |pages= 331–354 |doi= 10.2307/2526185 |jstor= 2526185 }}
+* {{cite journal |last1= Amemiya |first1= Takeshi |last2= MaCurdy |first2= Thomas E. |author-link2= Thomas E. MaCurdy |date= 1986 |title= Instrumental-Variable Estimation of an Error-Components Model |journal= Econometrica |volume= 54 |issue= 4 |pages= 869–880 |doi= 10.2307/1912840 |jstor= 1912840 }}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20090330111439/http://economics.stanford.edu/faculty/amemiya Emeritus Faculty at Stanford University Department of Economics]
+*[https://scholar.google.com/scholar?q=Takeshi+Amemiya&hl=en&lr=&btnG=Search Google Scholar]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Amemiya, Takeshi}}
+[[Category:1935 births]]
+[[Category:Living people]]
+[[Category:People from Tokyo]]
+[[Category:Japanese economists]]
+[[Category:20th-century American economists]]
+[[Category:Econometricians]]
+[[Category:International Christian University alumni]]
+[[Category:American University alumni]]
+[[Category:Johns Hopkins University alumni]]
+[[Category:Stanford University Department of Economics faculty]]
+[[Category:Hitotsubashi University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:American academics of Japanese descent]]
+[[Category:Japanese emigrants to the United States]]
+
+
+{{US-economist-stub}}
+{{Japan-economist-stub}}

@@ -1,0 +1,59 @@
+{{Infobox economist
+| name             = Marc L. Nerlove
+| school_tradition =
+| image            =
+| image_size       =
+| caption          =
+| birth_date       = {{Birth date and age|1933|10|12}}
+| birth_place      = [[Chicago, Illinois]]
+| death_date       =
+| death_place      =
+| nationality      = [[United States]]
+| institution      = [[University of Maryland]]
+| field            = [[Agricultural economics]], [[econometrics]]
+| alma_mater       = [[Johns Hopkins University]] <small>(Ph.D., M.A.)</small><br>[[University of Chicago]] <small>(B.A.)</small>
+| doctoral_advisor = [[Carl Christ]]
+| doctoral_students = [[Pietro Balestra (economist)|Pietro Balestra]]<br>[[Francis X. Diebold]]<br>[[Daniel Hamermesh]]
+| contributions    =
+| awards           = [[John Bates Clark Medal]] (1969)
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pne74
+}}
+
+'''Marc Leon Nerlove''' (born October 12, 1933) is an American economist specialized in [[agricultural economics]] and [[econometrics]]. He is currently Professor of Agricultural and Resource Economics at the [[University of Maryland, College Park|University of Maryland]]. In 1964 he was elected as a [[Fellow of the American Statistical Association]].<ref>[http://www.amstat.org/awards/fellowslist.cfm View/Search Fellows of the ASA], accessed 2016-07-23.</ref> In 1969 he was awarded the [[John Bates Clark Medal]] for his contributions to economics. In 2012, he was elected Distinguished Fellow of the [[American Economic Association]].
+
+Nerlove's father, Samuel Henry Nerlove, was the son of [[Russian Americans|Russian immigrants]] from [[Vitebsk]].<ref>{{cite journal |title=The ''ET'' Interview |journal=Econometric Theory |volume=9 |issue=1 |year=1993 |pages=117–143 |doi=10.1017/S0266466600007386 }}</ref> Marc Nerlove earned a B.A. with honors in mathematics in 1952 from the [[University of Chicago]]. He moved for graduate work to the [[Johns Hopkins University]], earning in 1955 his M.A. and in 1956 his Ph.D. in Economics, with a dissertation on farmers' response to prices.<ref>{{cite book |last=Qin |first=Duo |title=The Formation of Econometrics: A Historical Perspective |location=New York |publisher=Oxford University Press |year=1993 |isbn=0-19-828388-1 |pages=163–164 |url=https://books.google.com/books?id=NIqMd5EX-CgC&pg=PA163 }}</ref> He held teaching positions at the [[University of Minnesota]] (1959–60), [[Stanford University]] (1960–65), [[Yale University]] (1965–69), the [[University of Chicago]] (1969–74), [[Northwestern University]] (1974–82) and the [[University of Pennsylvania]] (1982–93). Since 1993 he is part of the faculty of the [[University of Maryland, College Park|University of Maryland]].
+
+A wider known contribution by Nerlove in the field of econometrics is the estimator for the random effects model in [[Panel analysis|panel data analysis]],<ref>{{cite journal |first1=Ariane |last1=Dupont-Kieffer |first2=Alain |last2=Pirotte |title=The Early Years of Panel Data Econometrics |journal=History of Political Economy |year=2011 |volume=43 |issue=Suppl 1 |pages=258–282 |doi=10.1215/00182702-1158754 }}</ref> which is implemented in most econometric software packages.
+
+== Selected publications ==
+* {{cite journal |last1=Balestra |first1=Pietro |authorlink=Pietro Balestra (economist) |last2=Nerlove |first2=Marc |author-mask2=3 |title=Pooling Cross Section and Time Series Data in the Estimation of a Dynamic Model: The Demand for Natural Gas |journal=[[Econometrica]] |volume=34 |issue=3 |pages=585–612 |year=1966 |doi=10.2307/1909771 |jstor=1909771 }}
+* {{cite journal |last=Nerlove |first=Marc |title=Further evidence on the estimation of dynamic economic relations from a time–series of cross–sections |journal=[[Econometrica]] |volume=39 |issue=2 |pages=359–382 |year=1971 |doi=10.2307/1913350 |jstor=1913350|url=http://cowles.yale.edu/sites/default/files/files/pub/d02/d0257.pdf }}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20120520040856/http://www.arec.umd.edu/People/Faculty/Nerlove_Marc/index.cfm UMD Faculty News]
+* [http://www.iza.org/index_html?lang=en&mainframe=http%3A//www.iza.org/iza/en/webcontent/personnel/photos/index_html%3Fkey%3D624&topSelect=personnel&subSelect=fellows IZA page on Marc Nerlove] (including CV)
+
+{{Presidents of the Econometric Society}}
+{{John Bates Clark Medal recipients}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nerlove, Marc}}
+[[Category:1933 births]]
+[[Category:Living people]]
+[[Category:Economists from Illinois]]
+[[Category:Time series econometricians]]
+[[Category:University of Maryland, College Park faculty]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+
+
+{{US-economist-stub}}

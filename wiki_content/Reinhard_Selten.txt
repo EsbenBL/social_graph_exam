@@ -1,0 +1,109 @@
+{{Short description|German economist}}
+{{Infobox scientist
+|name = Reinhard Selten
+|image = Reinhard Selten2.jpg
+| image_size   = 180px
+|caption = Selten in 2001
+|birth_name=Reinhard Justus Reginald Selten
+|birth_date = {{birth date|1930|10|05|df=y}}
+|birth_place = [[Wrocław|Breslau]], [[Weimar Germany]] [[Wrocław]], [[Polska|Poland]])
+|death_date = {{death date and age|2016|08|23|1930|10|05|df=y}}
+|death_place = [[Poznań]], Poland
+|nationality = German
+|alma_mater = [[Goethe University Frankfurt]]
+|doctoral_advisor = [[Ewald Burger]]<br />[[Wolfgang Franz (mathematician)|Wolfgang Franz]]
+| doctoral_students = [[Eric van Damme]]
+|known_for  = [[Game theory]]
+|influenced = [[Axel Ockenfels]]<br />[[Benny Moldovanu]]<br />Abdolkarim Sadrieh<ref name=nytobit/>
+|field = [[Economics]]
+|work_institution = [[University of Bonn]]
+|prizes = [[Nobel Memorial Prize in Economic Sciences]] (1994)
+}}
+
+'''Reinhard Justus Reginald Selten'''  ({{IPA-de|ˈʁaɪ̯nhaʁt ˈzɛltn̩|lang|De-Reinhard Selten.ogg}}; 5 October 1930&nbsp;– 23 August 2016) was a German [[economics|economist]], who won the 1994 [[Nobel Memorial Prize in Economic Sciences]] (shared with [[John Harsanyi]] and [[John Forbes Nash|John Nash]]). He is also well known for his work in [[bounded rationality]] and can be considered one of the founding fathers of [[experimental economics]].
+
+== Biography ==
+Selten was born in [[Wrocław|Breslau (Wrocław)]] in [[Province of Lower Silesia|Lower Silesia]], now in [[Poland]], to a [[Jewish]] father, Adolf Selten (blind bookseller; d. 1942<ref name=nytobit>Roberts, Sam, [https://www.nytimes.com/2016/09/04/business/economy/reinhard-selten-whose-strides-in-game-theory-led-to-a-nobel-dies-at-85.html "Reinhard Selten, Whose Strides in Game Theory Led to a Nobel, Dies at 85"], New York ''Times'', September 2, 2016. Retrieved 2016-09-03.</ref><ref name=mcs/>), and [[Protestant]] mother, Käthe Luther.<ref name=mcs>O'Connor, J J, and E F Robertson, [http://www-history.mcs.st-and.ac.uk/Biographies/Selten.html "Reinhard Selten"], ''www-history.mcs.st-and.ac.uk'', November 2010. Retrieved 2016-09-03.</ref><ref name="nobelprize.org">[http://nobelprize.org/nobel_prizes/economics/laureates/1994/selten-autobio.html From Les Prix Nobel. The Nobel Prizes 1994, Editor Tore Frängsmyr, [Nobel Foundation&#93;, Stockholm, 1995]</ref> Reinhard Selten was raised as Protestant.<ref name="nobelprize.org"/>
+
+After a brief family exile in Saxony and Austria, Selten returned to Hesse, Germany after the war and, in high school, read an article in [[Fortune (magazine)|Fortune]] magazine about game theory by the business writer [[John D. McDonald]]. He recalled later, he would occupy his "mind with problems of elementary geometry and algebra" while walking back and forth to school during that time.<ref name=nytobit/><ref name=mcs/> He studied mathematics at [[Goethe University Frankfurt]] and obtained his diploma in 1957. He then worked as scientific assistant to Heinz Sauermann until 1967. In 1959, he married with Elisabeth Langreiner. They had no children. In 1961, he also received his doctorate in Frankfurt in mathematics with a thesis on the evaluation of n-person games.
+
+He was a visiting professor at [[University of California, Berkeley|Berkeley]] and taught from 1969 to 1972 at the [[Free University of Berlin]] and, from 1972 to 1984, at the [[University of Bielefeld]]. He then accepted a professorship at the [[University of Bonn]]. There he built the BonnEconLab, a laboratory for experimental economic research, where he was active even after his retirement.
+
+Selten was professor emeritus at the [[University of Bonn]], Germany, and held several honorary doctoral degrees. He had been an [[Esperantist]] since 1959<ref name="nobelprize.org"/> and met his wife through the Esperanto movement.<ref>Lins, Ulrich & Ertl, István. "Intervjuo kun Reinhard Selten, Nobelpreemiito" ''Esperanto'' (n° 1065-12, December 1994, p. 203</ref> He was a member and co-founder of the [[Akademio Internacia de la Sciencoj San Marino|International Academy of Sciences San Marino]].
+
+For the [[2009 European Parliament election in Germany|2009 European Parliament election]], he was the top candidate for the German wing of [[Europe – Democracy – Esperanto]].<ref>[http://e-d-e.org/-DE-Germanio- Eŭropo – Demokratio – Esperanto: Germanio]</ref>
+
+== Work ==
+For his work in [[game theory]], Selten won the 1994 [[Nobel Memorial Prize in Economic Sciences]] (shared with [[John Harsanyi]] and [[John Forbes Nash|John Nash]]). Selten was Germany's first and, at the time of his death, only Nobel winner for economics.<ref name=nytobit/>
+
+He is also well known for his work in [[bounded rationality]], and can be considered one of the founding fathers of [[experimental economics]]. With [[Gerd Gigerenzer]] he edited the book ''Bounded Rationality: The Adaptive Toolbox'' (2001). He developed an example of a game called Selten's Horse because of its extensive form representation. His last work was "Impulse Balance Theory and its Extension by an Additional Criterion".
+
+He is noted for his publishing in non-refereed journals to avoid being forced to make unwanted changes to his work.<ref>Frey, Bruno S., [https://www.bsfrey.ch/articles/388_03.pdf "Publishing as prostitution? – Choosing between one's own ideas and academic success"] {{webarchive|url=https://web.archive.org/web/20160316235039/http://www.bsfrey.ch/articles/388_03.pdf |date=2016-03-16 }}, ''bsfrey.ch'' p. 215 (11).</ref>
+
+== Bibliography ==
+* Preispolitik der Mehrproduktenunternehmung in der statischen Theorie, Berlin-Heidelberg-New York: Springer-Verlag, 1970, {{ISBN|978-3-642-48888-7}} - in [[German Language|German]]
+* General Equilibrium with Price-Making Firms (with Thomas Marschak), Lecture Notes in Economics and Mathematical Systems, Berlin-Heidelberg-New York: Springer-Verlag, 1974, ISBN 978-3-662-07369-8
+* A General Theory of Equilibrium Selection in Games (with [[John C. Harsanyi]]), Cambridge, Massachusetts: MIT-Press. (1988)
+* Models of Strategic Rationality, Theory and Decision Library, Series C: Game Theory, Mathematical Programming and Operations Research, Dordrecht-Boston-London: Kluwer Academic Publishers. (1988)
+* Game Equilibrium Models IV, Berlin, New York, Springer Verlag, 1991, ISBN 978-3-662-07369-8.
+* Rational Interaction - Essays in Honor of John C. Harsanyi, Berlin, New York, Springer-Verlag, 1992, ISBN 978-3-642-08136-1.
+* Enkonduko en la Teorion de Lingvaj Ludoj – Ĉu mi lernu Esperanton? (with [[Jonathan Pool]]), Berlin-Paderborn: Akademia Libroservo, Institut für Kybernetik. (1995) – in [[Esperanto]]
+* Game Theory and Economic Behavior: Selected Essays, 2. vol Cheltenham-Northampton: Edward Elgar Publishing. (1999)
+* New edition of: Models of Strategic Rationality (1988), with a Chinese Introduction. Outstanding Academic Works on Economics by Nobel Prize Winners. Dordrecht-Boston-London: Kluwer Academic Publishers. (2000)
+* Chinese Translation of: Models of Strategic Rationality (1988). Outstanding Academic Works on Economics by Nobel Prize Winners. Dordrecht-Boston-London: Kluwer Academic Publishers. (2000)
+* Russian Translation of: A General Theory of Equilibrium Selection in Games (with John C. Harsanyi), Cambridge, Massachusetts: MIT-Press. (2000)
+* Gigerenzer, G., & Selten, R. (Eds.). (2001). Bounded rationality: The adaptive toolbox. Cambridge, Massachusetts: MIT Press.
+* Impulse Balance Theory and its Extension by an Additional Criterion. BoD. (2015)
+
+==See also==
+*[[Subgame perfect Nash equilibrium]]
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+{{Wikiquote}}
+* [https://web.archive.org/web/20060130213634/http://www.bonneconlab.uni-bonn.de/econlab/ Laboratory for Experimental Economics], at the [https://web.archive.org/web/20030621084618/http://www.uni-bonn.de/index_en.shtml University of Bonn, Germany]
+* {{Nobelprize}}
+* [https://ideas.repec.org/e/pse24.html IDEAS/RePEc]
+* {{MathGenealogy}}
+* [http://vvvvvvvv.scriptmania.com/newfolder/megaw/nb/selten.htm Economista alemán, nacido en Breslau (actualmente Wroclaw, en Polonia).]
+* {{Cite encyclopedia |title=Reinhard Selten (1930– ) |url=http://www.econlib.org/library/Enc/bios/Selten.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Robert W. Fogel]] | before2 = [[Douglass C. North]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 1994 |alongside= [[John C. Harsanyi]], [[John F. Nash Jr.]]}}
+{{s-aft | after = [[Robert E. Lucas Jr.]] }}
+{{s-end}}
+
+{{Nobel laureates in economics 1976-2000}}
+{{1994 Nobel Prize winners}}
+{{Presidents of the European Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Selten, Reinhard}}
+[[Category:1930 births]]
+[[Category:2016 deaths]]
+[[Category:Nobel laureates in Economics]]
+[[Category:German Nobel laureates]]
+[[Category:Jewish Nobel laureates]]
+[[Category:Game theorists]]
+[[Category:German economists]]
+[[Category:German Esperantists]]
+[[Category:20th-century German mathematicians]]
+[[Category:Grand Crosses with Star and Sash of the Order of Merit of the Federal Republic of Germany]]
+[[Category:Members of the Order of Merit of North Rhine-Westphalia]]
+[[Category:Recipients of the Pour le Mérite (civil class)]]
+[[Category:Technical University of Berlin faculty]]
+[[Category:University of Bonn faculty]]
+[[Category:Free University of Berlin faculty]]
+[[Category:Goethe University Frankfurt alumni]]
+[[Category:German people of Jewish descent]]
+[[Category:People from the Province of Lower Silesia]]
+[[Category:Writers from Wrocław]]
+[[Category:Foreign associates of the National Academy of Sciences]]
+[[Category:Members of the European Academy of Sciences and Arts]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]

@@ -1,0 +1,52 @@
+{{short description|American political scientist}}
+{{Use dmy dates|date=December 2019}}
+{{Infobox scientist
+| name              = Donald E. Stokes
+| image             =
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date |1927|04|01}}
+| birth_place       = [[Philadelphia]], [[Pennsylvania]]
+| death_date        = {{death date and age |1997|01|26|1927|04|01}}
+| death_place       = Philadelphia, Pennsylvania
+| nationality       = [[United States|American]]
+| fields            = [[Political science]]
+| workplaces        = {{ubl|[[University of Michigan]]|[[Princeton University]]}}
+| alma_mater        = {{ubl|[[Princeton University]]|[[Yale University]]}}
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = 
+| awards            = {{ubl|Elmer B. Staats Award|[[American Political Science Association|APSA]] Woodrow Wilson Prize}}
+}}
+
+'''Donald E. Stokes''' (1 April 1927 &ndash; 26 January 1997) was an American political scientist and dean of the [[Woodrow Wilson School of Public and International Affairs]]. Stokes was a founder of [[public opinion]] research, and a coauthor of the seminal book ''[[The American Voter]]''.
+
+==Early life and education==
+Stokes was born in [[Philadelphia]], [[Pennsylvania]] on April 1, 1927.<ref name="harmon97">{{cite web |url=https://pr.princeton.edu/news/97/q1/0127stok.html |date=1997-01-27 | website=Princeton News |title=Professor of Politics and Public Affairs Donald E. Stokes Dies; Led Woodrow Wilson School for 18 Years | publisher=Princeton University |access-date=25 December 2019}}</ref> He obtained a bachelor's degree from [[Princeton University]] in 1951, and a PhD from [[Yale University]] in 1958.<ref name="harmon97" />
+
+==Career==
+Stokes began to work at the University of Michigan in 1958. There he collaborated with fellow University of Michigan social scientists [[Angus Campbell (psychologist)|Angus Campbell]], [[Philip Converse]], and [[Warren Miller (political scientist)|Warren Miller]] to write ''The American Voter'', which was one of the first major empirical studies of voting behavior.<ref name="DeGroat97">{{cite web |url=http://ns.umich.edu/Releases/1997/May97/chr051497b.html |date=1997-05-14 | website=University of Michigan News |title=Former graduate school Dean Donald E. Stokes has died | publisher=University of Michigan |access-date=25 December 2019}}</ref> Through thousands of interviews with American citizens during the election periods in 1948, 1952, 1954, 1956 and 1958, the authors first identified several of the core results in voting behavior that would form the [[Michigan model]].<ref name="pace97">{{cite news |url=https://www.nytimes.com/1997/01/29/nyregion/donald-e-stokes-69-leading-political-scientist.html |date=1997-01-29 |title=Donald E. Stokes, 69, Leading Political Scientist (Obituary) | work=The New York Times |access-date=25 December 2019}}</ref> These include the importance of party identification, the low information level of many voters, and the large number of voters who remain undecided until immediately before an election.<ref name="pace97" />
+
+In 1966, Campbell, Converse, Miller, and Stokes followed ''The American Voter'' with another book, ''Elections and the Political Order''. Stokes studied the politics of the [[United Kingdom]] as well as American politics; he and [[David Butler (psephologist)|David Butler]] conducted the first [[British Election Study]], and coauthored the 1969 book ''Political Change in Britain''.
+
+In 1971, Stokes became the dean of the [[Horace H. Rackham School of Graduate Studies]] at the University of Michigan. He held that position until 1974, when he moved to Princeton University.<ref name="DeGroat97"/> At Princeton, he became the dean of the Woodrow Wilson School of Public and International Affairs, which expanded significantly under his oversight.<ref name="pace97"/>
+
+Towards the end of his career, Stokes published the book ''[[Pasteur's Quadrant]]'', which studied the connection between basic science, applied science, and government policies.<ref>{{cite book |first= Donald E. |last= Stokes |title= Pasteur's Quadrant – Basic Science and Technological Innovation |publisher= [[Brookings Institution]] Press |date= 1997 |url= https://archive.org/details/pasteursquadrant00stok |url-access= registration |pages= 196 |isbn= 9780815781776 }}</ref>
+
+Stokes is one of the most cited political scientists of all time, and is widely regarded as a founding scholar in the empirical study of political behavior.<ref name="britannica">{{cite news |url=https://www.britannica.com/topic/political-science/Behavioralism | title=Behavioralism | publisher=Encyclopedia Britannica |access-date=25 December 2019}}</ref>  [[Harold Tafler Shapiro]], who was president of the University of Michigan and then of Princeton University, called Stokes "a pioneer in the development of modern political science".<ref name="DeGroat97"/>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stokes, Donald E.}}
+[[Category:1927 births]]
+[[Category:1997 deaths]]
+[[Category:American political scientists]]
+[[Category:University of Michigan faculty]]
+[[Category:Princeton University faculty]]
+[[Category:Princeton University alumni]]
+[[Category:Yale University alumni]]
+[[Category:Public opinion]]

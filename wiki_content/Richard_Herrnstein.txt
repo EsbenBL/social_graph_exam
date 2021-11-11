@@ -1,0 +1,78 @@
+{{short description|American psychologist}}
+{{Infobox scientist
+|name = Richard Herrnstein
+|image = Richard Herrnstein (1930–1994).png
+|caption = Herrnstein in 1981, aged 51
+|birth_name = Richard Julius Herrnstein
+|birth_date = {{birth date|1930|05|20}}
+|birth_place = [[New York City]], New York, U.S.<ref name="NYT">{{cite news|last=Goleman|first=Daniel|url=https://www.nytimes.com/1994/09/16/obituaries/richard-herrnstein-64-dies-backed-nature-over-nurture.html|title=Richard Herrnstein, 64, Dies; Backed Nature Over Nurture|work=The New York Times|date=16 September 1994|access-date=2018-11-21}}</ref>
+|death_date = {{dda|1994|09|13|1930|05|20}}
+|death_place = [[Belmont, Massachusetts]], U.S.
+|citizenship = [[United States|American]]
+|field = [[Behaviorism]]
+|work_institutions = [[Harvard University]]
+|alma_mater = [[City College of New York]] {{small|([[Bachelor of Arts|BA]])}} <br /> [[Harvard University]] {{small|([[Doctor of Philosophy|PhD]])}}
+|doctoral_advisor  = [[B. F. Skinner]]<ref name="Klein" />
+|doctoral_students =
+|known_for = [[Matching law]], ''[[The Bell Curve]]''
+|prizes =
+| spouse       = {{marriage|Barbara Brodo|28 May 1951|February 1961|end=divorced}}<br />{{marriage|Susan Chalk Gouinlock|11 November 1961}}
+| children     = 3
+}}
+
+'''Richard Julius Herrnstein''' (May 20, 1930 – September 13, 1994) was an American [[psychology|psychologist]] at [[Harvard University]]. He was an active researcher in animal learning in the [[B. F. Skinner|Skinnerian]] tradition. Herrnstein was the Edgar Pierce Professor of Psychology until his death, and previously chaired the Harvard Department of Psychology for five years. With political scientist [[Charles Murray (political scientist)|Charles Murray]], he co-wrote ''[[The Bell Curve]]'', a controversial 1994 book on [[human intelligence]]. He was one of the founders of the [[Society for Quantitative Analysis of Behavior]].
+
+==Early life and education==
+Richard Herrnstein was born on 20 May 1930, in New York City, to a family of [[History of the Jews in Hungary|Hungarian Jewish]] immigrants;<ref>{{cite book |editor-last1=Ohles |editor-first1=Frederik |editor-last2=Ohles |editor-first2=Shirley M. |editor-last3=Ramsay |editor-first3=John G. |title=Biographical Dictionary of Modern American Educators |place=Westport, CT |publisher=Greenwood Press |year=1997 |pages=[https://archive.org/details/biographicaldict0000ohle/page/154 154–155] |chapter=Herrnstein, Richard Julius |chapter-url=https://books.google.com/books?id=PBj5-zHEMvoC&pg=PA154 |isbn=9780313291333 |url=https://archive.org/details/biographicaldict0000ohle/page/154 }}</ref> the son of Flora Irene (née Friedman) and Rezso Herrnstein, a housepainter.<ref name="SEAL"/> He was educated at the [[High School of Music & Art]] and the [[City College of New York]], receiving a B.A. from the latter in 1952. In 1955, Herrnstein obtained his Ph.D. at Harvard University, with a thesis titled ''Behavioral Consequences of the Removal of a Discriminative Stimulus Associated with Variable-Interval Reinforcement''.<ref name="SEAL">{{cite book |last=Gordon |first=Nancy M. |editor-last=Jackson |editor-first=Kenneth T. |title=The Scribner Encyclopedia of American Lives |place=New York|publisher=Charles Scribner's Sons |year=2001 |pages=240–241 |chapter=Herrnstein, Richard Julius |chapter-url= https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/herrnstein-richard-julius |volume=4|isbn=9780684806440}}</ref> Before joining the Harvard faculty, he worked  for three years in the [[United States Army]].<ref name="NYT" />
+
+==Research and work==
+His major research finding as an experimental psychologist is the [[matching law]], the tendency of animals to allocate their choices in direct proportion to the rewards they provide. To illustrate the phenomenon, if there are two sources of reward, one of which is twice as rich as the other, Herrnstein found that animals often chose at twice the frequency the alternative that was seemingly twice as valuable. That is known as  matching, both in quantitative analysis of behavior and [[mathematical psychology]]. He also developed [[melioration theory]] with William Vaughan, Jr.
+
+Herrnstein was considered a "star pupil" of B. F. Skinner while working for his PhD at Harvard.<ref name="NYT" /> He worked with Skinner in the Harvard pigeon lab that he ran until his death. His research greatly contributed to the field of [[cognitive psychology]].<ref name="Klein">{{cite book |last=Klein |first=Stephen B. |date=2013 |title=Learning: Principles and Applications |url=https://books.google.com/books?id=8NxDBAAAQBAJ&q=herrnstein+behavioral+economics+pigeon&pg=PA206 |publisher=SAGE Publications |page= 206 |isbn=978-1452271934 }}</ref> In 1965, and with [[Edwin Boring]], Herrnstein wrote ''A Source Book in the History of Psychology''.
+
+Herrnstein was the Edgar Pierce Professor of Psychology at Harvard University. He was the chairman of the Harvard Department of Psychology from 1967 to 1971. He also acted as the editor of the ''[[Psychological Bulletin]]'' from 1975 to 1981.<ref name="NYT"/> In 1977, he was elected a Fellow of the [[American Academy of Arts and Sciences]].<ref>{{cite web|url=https://www.amacad.org/sites/default/files/media/document/2019-10/ChapterH.pdf|title=Members of the American Academy of Arts and Sciences - H|website=American Academy of Arts and Sciences|access-date=January 14, 2020}}</ref>
+
+Herrnstein's research focused first on natural concepts and [[human intelligence]] in the 1970s, and became prominent with the publication of his and [[Charles Murray (political scientist)|Charles Murray's]] controversial book, ''[[The Bell Curve]]''.<ref name="Klein" />
+
+== Matching law ==
+{{further|Matching law}}
+Perhaps his most notable accomplishment was the formulation of the matching law: choices are distributed according to rates of reinforcement for making the choices. An instance for two choices can be stated mathematically as
+
+:<math>\frac{R_1}{R_1 + R_2} = \frac{r_1}{r_1 + r_2}</math>,
+
+where ''R''<sub>1</sub> and ''R''<sub>2</sub> are rates of response for two alternative responses, and ''r''<sub>1</sub> and ''r''<sub>2</sub> are rates of reinforcement for the same two responses. Behavior conforming to this law is matching, and explanations of matching and of departures from matching are a large and important part of the literature on behavioral choice.<ref name="Klein" />
+
+==Personal life==
+Herrnstein married his first wife, Barbara Brodo, in May 1951. The couple had a daughter together, Julia, before their divorce in February 1961. Through his second marriage to Susan Chalk Gouinlock, in November 1961, he fathered two sons named Max and James.<ref name="SEAL"/><ref name="NYT" /> Herrnstein died of [[lung cancer]] shortly before the book ''Bell Curve'' was released.<ref name=NYT/>
+
+==Selected bibliography==
+* ''A Source Book in the History of Psychology'', Edited by Richard J. Herrnstein, Edwin G. Boring, Harvard 1965 {{ISBN|0-674-82410-5}}
+* [https://www.gwern.net/docs/iq/1973-herrnstein-iqinthemeritocracy.pdf ''I.Q. in the Meritocracy''], Richard J. Herrnstein, Atlantic Monthly Press 1973 (expansion of article, [https://www.gwern.net/docs/iq/1971-herrnstein.pdf "I.Q. In the Meritocracy"], ''Atlantic Monthly'' 1971)
+* ''[[Crime and Human Nature: The Definitive Study of the Causes of Crime]]'',  James Q. Wilson, Richard J. Herrnstein, The Free Press 1985 {{ISBN|0-684-85266-7}}
+* {{Cite book |last1=Herrnstein |first1=Richard J. |last2=Murray |first2=Charles |title=The Bell Curve: Intelligence and Class Structure in American Life |location=New York |publisher=Free Press |isbn=0-02-914673-9 |year=1994  |lay-url=http://reason.com/archives/1995/03/01/cracked-bell |lay-date=19 May 2013 |title-link=The Bell Curve: Intelligence and Class Structure in American Life }}
+* ''The Matching Law: Papers in Psychology and Economics by Richard J. Herrnstein'', Edited by Howard Rachlin, David I. Laibson, Harvard  1997 {{ISBN|0-674-06459-3}}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Herrnstein, Richard}}
+[[Category:1930 births]]
+[[Category:1994 deaths]]
+[[Category:20th-century psychologists]]
+[[Category:American psychologists]]
+[[Category:American sociologists]]
+[[Category:Behaviorism]]
+[[Category:City College of New York alumni]]
+[[Category:Deaths from lung cancer]]
+[[Category:Experimental psychologists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Harvard University alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Intelligence researchers]]
+[[Category:Jewish American social scientists]]
+[[Category:Race and crime in the United States]]
+[[Category:Race and intelligence controversy]]
+[[Category:American people of Hungarian-Jewish descent]]
+[[Category:20th-century American Jews]]

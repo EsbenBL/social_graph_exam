@@ -1,0 +1,79 @@
+{{Short description|German economist}}
+{{Use dmy dates|date=March 2020}}
+{{Use Australian English|date=September 2011}}
+{{Infobox economist
+| name             = Christoph M. Schmidt
+| school_tradition =
+| color            =
+| image       = Christoph Schmidt.jpg
+| image_size       =
+| caption    = Christoph M. Schmidt
+| birth_date       = {{Birth date and age|df=yes|1962|08|25}}
+| birth_place      = [[Canberra]], [[Australia]]
+| death_date       =
+| death_place      =
+| nationality      = [[Germany]]
+| institution      = [[RWI Essen]]
+| field            = [[Econometrics]]<br>[[Labor economics]]
+| alma_mater       = [[Ludwig Maximilian University of Munich]]<br>[[Princeton University]]<br>[[University of Mannheim]]
+| doctoral_advisor = [[David Card]]
+| contributions    =
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = psc165
+}}
+'''Christoph Matthias Schmidt''' (born 25 August 1962) is a [[Germany|German]] economist. He is the president of the [[RWI Essen]] and since 2009 chairman of the [[German Council of Economic Experts]]. He is also a professor at the [[University of Bochum]]. His field of interest is Applied Econometrics, particularly in the context of Labor Economics and Energy Economics.
+
+==Early life and education==
+Schmidt received his [[Diplom]] in Economics at the [[University of Mannheim]] in 1987, and his [[Master of Arts|M.A.]] in Economics from [[Princeton University]] in 1989. He also earned his [[Doctor of Philosophy|PhD]] from Princeton in 1991, under supervision of [[David Card]]. Schmidt received his [[Habilitation]] in 1995 from [[Ludwig Maximilian University of Munich]].
+
+==Career==
+In 2002, Schmidt became president of the [[RWI Essen|RWI - Leibniz Institute for Economic Research]] and in 2009 he replaced [[Bert Rürup]] on the [[German Council of Economic Experts|German Council of Economic Experts (GCEE)]] advising the German government. Since March 2013, he has been chairman of the GCEE.<ref name="auto">{{Cite web|url=https://www.rwi-essen.de/schmidt/lebenslauf/|title=Team|website=RWI Essen}}</ref> In 2014, he became member of the Steering Committee of the [[German Academy of Science and Engineering]] (acatech).
+
+Schmidt was co-editor of the Journal of Population Economics and the German Economic Review. His research has been published in journals like the European Economic Review, the Journal of Economic Behavior and Organization, the Journal of Health Economics, the Journal of Public Economics, and the Review of Economics and Statistics.<ref name="auto"/>
+
+In April 2020, Schmidt was appointed by [[List of Ministers-President of North Rhine-Westphalia|Minister-President]] [[Armin Laschet]] of [[North Rhine-Westphalia]] to a 12-member expert group to advise on economic and social consequences of the [[COVID-19 pandemic in Germany]].<ref>Kristian Frigelj (April 1, 2020), [https://www.welt.de/politik/deutschland/article206936077/Zwoelfkoepfiges-Gremium-Armin-Laschet-gruendet-Expertenrat-Corona.html Zwölfköpfiges Gremium: Armin Laschet gründet „Expertenrat Corona“] ''[[Die Welt]]''.</ref>
+
+==Other activities==
+===Corporate boards===
+* [[IKB Deutsche Industriebank]], Member of the Advisory Board<ref>[https://www.ikb.de/ueber-uns/unternehmen/gremien/beraterkreis Members of the Advisory Board] [[IKB Deutsche Industriebank]].</ref>
+
+===Non-profit organizations===
+* [[Fritz Thyssen Foundation]], Member of the Scientific Advisory Board<ref>[http://www.fritz-thyssen-stiftung.de/ueber-uns/organe/wissenschaftlicher-beirat/ Scientific Advisory Board] [[Fritz Thyssen Foundation]].</ref>
+* ''[[Wirtschaftsdienst]]'', Member of the Scientific Advisory Board<ref>[https://www.wirtschaftsdienst.eu/wissenschaftlicher-beirat.html Scientific Advisory Board] ''[[Wirtschaftsdienst]]''.</ref>
+* [[German Academy of Science and Engineering]], Member of the Presidium (since 2014)
+* [[Alfried Krupp von Bohlen und Halbach Foundation]], Member of the Board of Trustees
+* Jackstädt Center for Entrepreneurship and Innovation Research, Member of the Advisory Board (since 2013)<ref>[http://www.jackstaedt.uni-wuppertal.de/en/team/beirat.html Members of the Advisory Board] {{Webarchive|url=https://web.archive.org/web/20160413003757/http://www.jackstaedt.uni-wuppertal.de/en/team/beirat.html |date=13 April 2016 }} [[University of Wuppertal]].</ref>
+* [[Max Planck Institute for Tax Law and Public Finance]], Chairman of the Board of Trustees (since 2013)<ref>[http://www.tax.mpg.de/en/organization/board_of_trustees.html Members of the Board of Trustees] [[Max Planck Institute for Tax Law and Public Finance]].</ref>
+* Kinderstiftung Essen, Member of the Board of Trustees<ref>[http://www.kinderstiftungessen.de/ueber-uns/organisation/kuratorium.html Members of the Board of Trustees] Kinderstiftung Essen.</ref>
+
+==Recognition==
+Schmidt was awarded the Princeton University Fellowship (1987–1990), the Alfred P. Sloan Doctoral Dissertation Fellowship (1990–1991) and a scholarship for his Habilitation from the Deutsche Forschungsgemeinschaft (DFG; English: [[German Research Foundation]]) (1992–1995).<ref name="auto"/> In 2020 he became a member of the [[German Academy of Sciences Leopoldina]].<ref>{{cite web |title= Christoph M. Schmidt |url=https://www.leopoldina.org/mitglieder/mitgliederverzeichnis/mitglieder/member/Member/show/christoph-m-schmidt/|publisher=German Academy of Sciences Leopoldina |access-date=26 May 2021}}</ref>
+
+==Selected publications==
+* {{cite journal |last1=Bauer |first1=Thomas K. |last2=Bender |first2=Stefan |last3=Paloyo |first3=Alfredo R. |last4=Schmidt |first4=Christoph M. |author4-mask=3 |year=2015 |title=Evaluating the labor-market effects of compulsory military service |journal=[[European Economic Review]] |volume=56 |issue=4 |pages=814–829 |doi=10.1016/j.euroecorev.2012.02.002|hdl=10419/35864 |hdl-access=free }}
+* {{cite journal |last1=Bauer |first1=Thomas K. |last2=Bender |first2=Stefan |last3=Paloyo |first3=Alfredo R. |last4=Schmidt |first4=Christoph M. |author4-mask=3 |year=2014 |title=Do Guns Displace Books? The Impact of Compulsory Military Service on Educational Attainment |journal=[[Economics Letters]] |volume=124 |issue=3 |pages=313–515 |doi=10.1016/j.econlet.2014.07.026|hdl=10419/61364 |s2cid=185892 |hdl-access=free }}
+* {{cite journal |first1=Manuel |last1=Frondel |first2=Christoph M. |last2=Schmidt |author2-mask=3 |year=2014 |title=A Measure of a Nation's Physical Energy Supply Risk |journal=[[The Quarterly Review of Economics and Finance]] |volume=54 |issue=2 |pages=208–215|doi=10.1016/j.qref.2013.10.003 |hdl=2003/31104 |hdl-access=free }}
+* {{cite journal |last1=Bauer |first1=Thomas K. |last2=Breidenbach |first2=Philipp|last3=Paloyo |first3=Alfredo R. |last4=Schmidt |first4=Christoph M. |author4-mask=3 |year=2012 |title="Phantom of the Opera" or "Sex and the City" - Historical Amenities as Sources of Exogenous Variation |journal=[[Labour Economics]] |volume=37 |pages=93–98|doi=10.1016/j.labeco.2015.05.005|hdl=10419/103319 |s2cid=18095163 |hdl-access=free }}
+* {{cite journal |first1=Thomas K. |last1=Bauer |first2=Jochen |last2=Kluve |first3=Sandra |last3=Schaffner |first4=Christoph M. |last4=Schmidt |author4-mask=3 |year=2009 |title=Fiscal Effects of Minimum Wages: An Analysis for Germany |journal=[[German Economic Review]] |volume=10 |issue= 2|pages=224–242 |doi= 10.1111/j.1468-0475.2009.00467.x|s2cid=53407727 |url=http://repec.rwi-essen.de/files/REP_08_079.pdf }}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://en.rwi-essen.de/schmidt Profile at the RWI - Leibniz Institute for Economic Research]
+* [https://lt.org/publication/do-financial-incentives-help-obese-people-achieve-and-maintain-target-weight Video on Christoph M. Schmidt's research (Latest Thinking)]
+
+{{German Council of Economic Experts}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Schmidt, Christoph M.}}
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:German economists]]
+[[Category:Time series econometricians]]
+[[Category:University of Mannheim alumni]]
+[[Category:Princeton University alumni]]
+[[Category:Ludwig Maximilian University of Munich alumni]]
+[[Category:Members of the German Academy of Sciences Leopoldina]]

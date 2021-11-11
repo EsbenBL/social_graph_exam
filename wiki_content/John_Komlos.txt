@@ -1,0 +1,55 @@
+{{Third-party|date=August 2019}}
+{{short description|American economic historian}}
+{{Infobox economist
+| name = John Komlos
+| image = Komlos.jpg
+| image_size = | alt = | caption = 
+| native_name = | native_name_lang = 
+| birth_date = {{birth date and age|1944|12|28}}
+| birth_place = [[Budapest]], [[Kingdom of Hungary (1920–46)|Hungary]]
+| death_date = | death_place = | resting_place = | resting_place_coords = <!--{{coord ...}}-->
+| nationality = [[United States|American]]
+| institutions = [[University of Munich]]<br>[[University of North Carolina at Chapel Hill]]
+| field = [[Economic history]]
+| school_tradition =
+| alma_mater = [[University of Chicago]]
+| influences = [[Robert Fogel]]
+| contributions = [[Economics and Human Biology]]
+| awards = | memorials = | spouse = | signature = 
+| module = | repec_prefix = | repec_id = 
+}}
+
+'''John Komlos''' (born December 28, 1944) is an [[United States|American]] [[Economic history|economic historian]] of [[Hungarians|Hungarian]] descent and former holder of the Chair of Economic History at the [[University of Munich]] for eighteen years. In the 1980s, Komlos was instrumental in the emergence of [[anthropometric history]], the study of the effect of economic development on [[Human physical appearance|human biological outcomes]] such as [[physical stature]].<ref>{{Cite journal|last=Komlos|first=John|date=1985|title=Stature and Nutrition in the Habsburg Monarchy: The Standard of Living and Economic Development in the Eighteenth Century|journal=The American Historical Review|volume=90|issue=5|pages=1149–1161|doi=10.2307/1859662|jstor=1859662}}</ref><ref>{{Cite journal|last=Komlos|first=John|date=1987|title=The Height and Weight of West Point Cadets: Dietary Change in Antebellum America|journal=The Journal of Economic History|volume=47|issue=4|pages=897–927|doi=10.1017/s002205070004986x|issn=0022-0507}}</ref>
+
+==Career==
+Komlos received a [[PhD]] in [[history]] (1978) and a second [[PhD]] in economics (1990) from the [[University of Chicago]], where he was influenced by the economic historian [[Robert Fogel]] to research the economic history of human physical stature. Komlos named this new discipline "anthropometric history" in 1989. He was a fellow at the Carolina Population Center of the [[University of North Carolina at Chapel Hill]] from 1984 to 1986. Komlos also taught at such institutions as [[Harvard University]], [[Duke University]], [[University of North Carolina at Chapel Hill]], [[University of Vienna]], and the [[Vienna University of Economics]]. He was professor of economics and of economic history at the University of Munich for eighteen years before his retirement. He is also the founding editor of ''[[Economics and Human Biology]]'' in 2003. Komlos was elected a Fellow of the [[Cliometric Society]] in 2013.<ref>{{cite web |url=http://cliometrics.org/fellows/2013.htm |title=2013 Fellows |website=The Cliometric Society: 2013 Fellows |accessdate=21 April 2017 |archive-url=https://web.archive.org/web/20171211053404/http://cliometrics.org/fellows/2013.htm |archive-date=11 December 2017 |url-status=dead }}</ref> Komlos also blogs for PBS on current economic affairs <ref>{{cite web|url=https://www.pbs.org/newshour/author/john-komlos |title=PBS Newshour |website=PBS |accessdate=10 December 2017}}</ref> and more recently has written an economics textbook.<ref>{{cite book|title= What Every Economics Student Needs to Know |isbn = 978-0765639233|last1 = Komlos|first1 = John|year = 2014}}</ref> 
+
+== See also ==
+{{div col|colwidth=20em}}
+* [[Antebellum Puzzle]]
+* [[Anthropometric history]]
+* [[Auxology]]
+* [[Economics and human biology]]
+* [[Humanistic economics]]
+* [[Social determinants of health]]
+* [[Real-world economics]]
+* [[Richard H. Steckel]]
+* [[Joerg Baten]]
+{{div col end}}
+
+==References==
+<references />
+
+==External links==
+* [https://econpapers.repec.org/ras/pko37.htm List of publications]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Komlos, John}}
+[[Category:Economic historians]]
+[[Category:Hungarian emigrants to the United States]]
+[[Category:1944 births]]
+[[Category:Living people]]
+[[Category:Duke University faculty]]
+[[Category:Academic journal editors]]
+[[Category:Auxologists]]

@@ -1,0 +1,91 @@
+{{Short description|Swedish economist}}
+{{Infobox economist
+| name             = Erik Lindahl
+| school_tradition = [[Stockholm school (economics)|Stockholm School]]
+| image       = Erik Lindahl.jpg
+| image_size       = 
+| caption     = 
+| birth_date       = {{Birth date|1891|11|21|df=y}}
+| birth_place      = [[Stockholm]]
+| death_date       = {{Death date and age|1960|01|06|1891|11|21|df=y}}
+| death_place      = [[Uppsala]]
+| nationality      = Swedish
+| institution      = 
+| field            = [[Political economics]]
+| alma_mater       =[[Lund University]] 
+| influences       = [[Knut Wicksell]]
+| opposed          = 
+| influenced       = [[Duncan K. Foley]], 
+[[John Hicks]], [[Roy Radner]]
+| contributions    = [[Lindahl equilibrium]]
+| awards           = 
+| signature        = <!-- file name only -->
+| repec_prefix =   | repec_id =
+}}
+'''Erik Lindahl''' (21 November 1891 &ndash; 6 January 1960) was a Swedish economist. He was professor of economics at [[Uppsala University]] 1942–58 and in 1956–59 he was the President of the [[International Economic Association]]. He was an also an advisor to the Swedish government and the [[Central Bank of Sweden|central bank]], and in 1943 was elected as a member of the [[Royal Swedish Academy of Sciences]]. Lindahl posed the question of financing [[public goods]] in accordance with individual benefits. The quantity of the public good satisfies the requirement that the aggregate [[marginal benefit]] equals the [[marginal cost]] of providing the good.
+
+Lindahl's contributions to economic theory extend beyond his Wicksellian roots to embrace much of what is contained in modern Neo-[[Léon Walras|Walrasian]] theory. Lindahl's formulation of the concept of sequence economies and intertemporal equilibrium (1929, 1930) is by far the first rigorous attempt to do so. Lindahl's couching of a theory of capital (1929, 1939) in intertemporal terms anticipates Malinvaud's (1953) famous attempt. The transfer of Lindahl's concepts to the anglophone world was accomplished by two of his most ardent supporters, [[John Hicks]] (1939, 1965) and [[Friedrich Hayek]] (1941). Since then, his work on "sequence analysis" has been given greater emphasis since the work of [[Frank Hahn]] (1973) and [[Roy Radner]] (1972).  Lindahl's 1919 solution to the pricing of public goods is another noticeable achievement, brought into modern economics by [[Duncan Foley]] (1970).
+
+== Contributions to economic analysis ==
+A [[Lindahl tax]] is a form of [[taxation]] in which individuals pay for [[Public good (economics)|public good]]s according to their [[marginal benefit]]s. In other words, they pay according to the amount of satisfaction or [[utility]] they derive from the consumption of an additional unit of the public good.
+
+It can be seen as an individual's share of the collective tax burden of an economy. The optimal level of a public good is that quantity at which the [[willingness to pay]] for one more unit of the good, taken in totality for all the individuals is equal to the [[marginal cost]] of supplying that good. Lindahl tax is the optimal quantity times the willingness to pay for one more unit of that good at this quantity.
+
+Erik Lindahl was deeply influenced in this by [[Knut Wicksell]] and proposed a method for financing public goods in order to show that consensus politics is possible. As people are different in nature, their preferences are different, and consensus requires each individual to pay a somewhat different tax for every service, or good that he consumes. If each person's tax price is set equal to the marginal benefits received at the ideal service level, each person is made better off by provision of the public good and may accordingly agree to have that service level provided.
+
+=== Lindahl equilibrium ===
+Lindahl equilibrium is a state of [[economic equilibrium]] under a Lindahl tax as well as a method for finding the optimum level for the supply of public goods or services that happens when the total per-unit price paid by each individual equals the total per-unit cost of the public good. It can be shown that an equilibrium exists for different environments.<ref name="u.arizona.edu">Mark Walker, [http://www.u.arizona.edu/~mwalker/11_PublicGoods/LindahlEquilibrium.pdf "Lindahl Equilibrium"], University of Arizona</ref> Therefore, the Lindahl equilibrium describes how efficiency can be sustained in an economy with personalised prices. [[Leif Johansen]] gave the complete interpretation of the concept of "Lindahl equilibrium", which assumes that household consumption decisions are based on the share of the cost they must provide for the supply of the particular public good.<ref name="ier">{{cite journal|author1=Leif Johansen|authorlink1=Leif Johansen|title=Some Notes on the Lindahl Theory of Determination of Public Expenditures|journal=[[International Economic Review]]|date=September 1963|volume=4|issue=3|pages=346–58|doi=10.2307/2525312|jstor=2525312}}</ref>
+
+The necessary and sufficient condition for such an [[Equilibrium (economics)|equilibrium]] being:
+*(i) the sum of the declared willingness be greater than the cost of provision and
+*(ii) the minimum willingness to pay is positive and non-zero.
+
+The importance of Lindahl equilibrium is that it fulfills the [[Samuelson condition]] and is therefore [[Pareto efficient]],<ref name="u.arizona.edu" /> despite the good in question being a public one. It also demonstrates how efficiency can be reached in an economy with public goods by the use of personalised prices. The personalised prices equate the individual valuation for a public good to the cost of the public good.<ref name="google1">[https://books.google.com/books?id=H0IQ0PKZ4WYC&pg=PA103&lpg=PA103&dq=lindahl+tax&source=bl&ots=CEDhLuQdwh&sig=YN_6zVVOA2PfRc5p_TT1lMP8ZLA&hl=en&ei=nY6BTrKLAYLtrAfBm4X2Dw&sa=X&oi=book_result&ct=result&resnum=5&ved=0CEUQ6AEwBA#v=onepage&q=lindahl%20tax&f=false ''Equity: In Theory and Practice''], p. 103.</ref>
+
+==Major works of Erik Lindahl==
+
+*Die Gerechtigkeit der Besteurung, 1919. (trans. as "Just Taxation: A positive solution", 1958)
+*"Some Controversial Questions in the Theory of Taxation",
+*Scope and Means of Monetary Policy, two volumes, 1929. (privately published - see Lindahl, 1930)
+*"The Place of Capital in the Theory of Price", 1929, Ekonomisk Tidskrift.
+*Methods of Monetary Policy, 1930.
+*"The Concept of Income", 1933, Essays in Honor of [[Gustav Cassel]].
+*"A Note on the Dynamic Pricing Problem", 1934, (published later)
+*"The Problem of Balancing the Budget", 1935, Ekon Tidsk.
+*Studies in the Theory of Money and Capital, 1939. (English translations of 1929, 1930, 1935).
+*"Metodfragor inom den dynamiska teorien", 1942, Ekon Tidsk.
+*"Sweden's Monetary Policy and Tax Policy After the War", 1943, Ekon Tidsk.
+*"Some Aspects of the Inflation Problem", 1948, Nationalok Tidsk.
+*"On Keynes's Economic System", 1954, Economic Record.
+*"Basic Concept of National Accounting", 1957, IER.
+
+==Works==
+* 1956: President of the [[International Economic Association]]
+* 1939: ''Studies in the Theory of Money and Capital''
+* 1919: ''Die Gerechtigkeit der Besteuerung'' ([[German language|German]], translated as ''Just Taxation: A positive solution'', 1958)
+
+== See also ==
+* [[Lindahl tax]]
+* [[Lindahl–Bowen–Samuelson conditions]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20110524011555/http://www.newschool.edu/nssr/het/profiles/lindahl.htm Lindahl's work]
+* {{PM20|FID=pe/047829}}
+
+{{Presidents of the International Economic Association}}
+{{Authority control}}
+
+{{DEFAULTSORT:Lindahl, Erik}}
+[[Category:Public economists]]
+[[Category:Swedish economists]]
+[[Category:1891 births]]
+[[Category:1960 deaths]]
+[[Category:Financial economists]]
+[[Category:Macroeconomists]]
+[[Category:Monetary economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Burials at Uppsala old cemetery]]
+[[Category:Corresponding Fellows of the British Academy]]

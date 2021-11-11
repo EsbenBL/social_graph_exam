@@ -1,0 +1,317 @@
+{{short description|Self-report personality test}}
+{{Infobox diagnostic |
+  Name        = 16PF Questionnaire |
+  Image       = |
+  Caption     = |
+  ICD10       = |
+  ICD9        = |
+  MeshID      = D002416 |
+  OPS301      = |
+  OtherCodes  = |
+}}
+The '''Sixteen Personality Factor Questionnaire''' ('''16PF''') is a self-report [[personality test]] developed over several decades of empirical research by [[Raymond Cattell|Raymond B. Cattell]], Maurice Tatsuoka and Herbert Eber. The 16PF provides a measure of normal [[personality]] and can also be used by psychologists, and other [[mental health]] professionals, as a clinical instrument to help diagnose [[psychiatric disorders]], and help with [[prognosis]] and [[therapy]] planning. The 16PF can also provide information relevant to the clinical and counseling process, such as an individual’s capacity for insight, self-esteem, cognitive style, internalization of standards, openness to change, capacity for empathy, level of interpersonal trust, quality of attachments, interpersonal needs, attitude toward authority, reaction toward dynamics of power, frustration tolerance, and coping style. Thus, the 16PF instrument provides clinicians with a normal-range measurement of [[anxiety]], adjustment, emotional stability and behavioral problems. Clinicians can use 16PF results to identify effective strategies for establishing a working alliance, to develop a therapeutic plan, and to select effective therapeutic interventions or modes of treatment.<ref>Karson, W & J. W O'Dell.(1976). ''A Guide to the Clinical Use of the 16PF.''  University of Michigan Press.{{page needed|date=November 2020}}</ref> It can also be used within other areas of [[psychology]], such as career and occupational selection.<ref>{{cite journal |last1=Schuerger |first1=J.M. |title=Career Assessment and The Sixteen Personality Factor Questionnaire |journal=Journal of Career Assessment |date=March 1995 |volume=3 |issue=2 |pages=157–175 |doi=10.1177/106907279500300204 |s2cid=143342751 }}</ref>
+
+Beginning in the 1940s, Cattell used several techniques including the new statistical technique of common [[factor analysis]] applied to the English-language trait lexicon to elucidate the major underlying dimensions within the normal personality sphere. This method takes as its starting point the matrix of [[Pearson product-moment correlation coefficient|inter-correlations]] between these variables in an attempt to uncover the underlying source traits of human personality.<ref>Cattell, R. B. (1978). ''Use of Factor Analysis in Behavioral and Life Sciences''. New York: Plenum.{{page needed|date=November 2020}}</ref> Cattell found that personality structure was hierarchical, with both primary and secondary stratum level traits.<ref name="Cattell, R. B. (1957).">Cattell, R. B. (1957). ''Personality and Motivation Structure and Measurement.'' New York: World Book.{{page needed|date=November 2020}}</ref> At the primary level, the 16PF measures 16 primary trait constructs, with a version of the [[Big Five personality traits|Big Five secondary traits]] at the secondary level.<ref>{{cite journal |last1=Boyle |first1=Gregory J. |title=Re-examination of the major personality-type factors in the Cattell, Comrey and Eysenck scales: Were the factor solutions by Noller et al. optimal? |journal=Personality and Individual Differences |date=January 1989 |volume=10 |issue=12 |pages=1289–1299 |doi=10.1016/0191-8869(89)90241-9 }}</ref><ref>{{cite journal |last1=Cattell |first1=R. B. |year=1995 |title=The fallacy of five factors in the personality sphere |journal=The Psychologist |volume=8 |issue=5 |pages=207–208 }}</ref><ref>Boyle, G. J. (2008). Critique of Five-Factor Model (FFM). In G.J. Boyle, G. Matthews, & D.H. Saklofske (Eds.), ''The SAGE Handbook of Personality Theory and Assessment: Vol. 1 - Personality Theories and Models''. Los Angeles, CA: Sage. {{ISBN|1-4129-2365-4}}</ref> These higher-level factors emerged from factor-analyzing the 16 x 16 intercorrelation matrix for the sixteen primary factors themselves. The 16PF yields scores on primary and second-order "global" traits, thereby allowing a multilevel description of each individual's unique personality profile.  A listing of these trait dimensions and their description can be found [[#Raymond Cattell.27s 16 Personality Factors|below]]. Cattell also found a third-stratum of personality organization that comprised just two overarching factors.<ref name="Cattell, R. B. (1973).">Cattell, R. B. (1973). ''Personality and Mood by Questionnaire''. San Francisco, CA: Jossey-Bass.{{page needed|date=November 2020}}</ref><ref name="Cattell, H. E. P. & Mead, A. D. (2008)">Cattell, H. E. P. & Mead, A. D. (2008). ''The Sixteen Personality Factor Questionnaire'' (16PF). In G.J. Boyle, G. Matthews, & D.H. Saklofske (Eds), ''The Sage Handbook of Personality Theory and Assessment: Vol. 2, Personality Measurement and Testing.'', Los Angeles, CA: Sage.{{page needed|date=November 2020}}</ref>
+
+The measurement of normal personality trait constructs is an integral part of Cattell's comprehensive theory of intrapersonal psychological variables covering individual differences in cognitive abilities, normal personality traits, abnormal (psychopathological) personality traits, dynamic motivational traits, mood states, and transitory emotional states<ref>Boyle, G. J. (2008). Simplifying the Cattellian psychometric model. In G. J. Boyle, G. Matthews, & D. H. Saklofske.  (Eds.), ''The SAGE Handbook of Personality Theory and Assessment: Vol. 1 - Personality Theories and Models''. Los Angeles, CA: Sage Publishers. {{ISBN|1-4129-2365-4}}</ref> which are all taken into account in his behavioral specification/prediction equation.<ref>{{cite journal |last1=Cattell |first1=Raymond B. |last2=Boyle |first2=Gregory J. |last3=Chant |first3=David |title=Enriched behavioral prediction equation and its impact on structured learning and the dynamic calculus |journal=Psychological Review |date=2002 |volume=109 |issue=1 |pages=202–205 |doi=10.1037/0033-295X.109.1.202 |pmid=11863038 |url=http://epublications.bond.edu.au/cgi/viewcontent.cgi?article=1042&context=hss_pubs |access-date=2020-11-13 |archive-date=2011-04-13 |archive-url=https://web.archive.org/web/20110413233604/http://epublications.bond.edu.au/cgi/viewcontent.cgi?article=1042&context=hss_pubs |url-status=dead }}</ref> The 16PF has also been translated into over 30 languages and dialects and is widely used internationally.<ref>Cattell, H. E. P. & Mead, A. D. (2008). ''The Sixteen Personality Factor Questionnaire (16PF)''. In G.J. Boyle, G. Matthews, & D.H. Saklofske. (Eds.), The SAGE Handbook of Personality Theory and Assessment: Vol. 2 – Personality Measurement and Testing''. Los Angeles, CA: Sage. {{ISBN|1-4129-2364-6}}</ref><ref name="opp.com">{{cite web|url=http://www.opp.com/tools/16pf |title=Archived copy |access-date=2014-01-31 |url-status=dead |archive-url=https://web.archive.org/web/20140201194702/http://www.opp.com/tools/16pf |archive-date=2014-02-01 }}</ref>
+
+Cattell and his co-workers also constructed downward extensions of the 16PF – parallel personality questionnaires designed to measure corresponding trait constructs in younger age ranges, such as the High School Personality Questionnaire (HSPQ) – now the Adolescent Personality Questionnaire (APQ) for ages 12 to 18 years,<ref name="Schuerger, J.M. 2001">Schuerger, J.M. (2001). ''16PF Adolescent Personality Questionnaire.'' Champaign, IL: IPAT.{{page needed|date=November 2020}}</ref> the Children's Personality Questionnaire (CPQ),<ref>Porter, R. B. & Cattell, R. B. (1985). ''Handbook for the Children's Personality Questionnaire'' (CPQ), Champaign, IL: IPAT.{{page needed|date=November 2020}}</ref> the Early School Personality Questionnaire (ESPQ),<ref>{{cite journal |last1=Coan |first1=Richard W. |last2=Cattell |first2=Raymond B. |title=The Development of the Early School Personality Questionnaire |journal=The Journal of Experimental Education |date=December 1959 |volume=28 |issue=2 |pages=143–152 |doi=10.1080/00220973.1959.11010646 }}</ref> as well as the Preschool Personality Questionnaire (PSPQ).<ref>{{cite journal |id={{ProQuest|1292282028}} |last1=Lichtenstein |first1=Don |last2=Dreger |first2=Ralph Mason |last3=Cattell |first3=Raymond B |title=Factor Structure and Standardization of the Preschool Personality Questionnaire |journal=Journal of Social Behavior and Personality |volume=1 |issue=2 |date=1 April 1986 |pages=165–182 }}</ref>
+
+Cattell also constructed (T-data) tests of cognitive abilities such as the Comprehensive Ability Battery (CAB) – a multidimensional measure of 20 primary cognitive abilities,<ref>Hakstian, A. R. & Cattell, R. B. (1982). ''Manual for the Comprehensive Ability Battery''. Champaign, IL: IPAT.{{page needed|date=November 2020}}</ref> as well as measures of non-verbal visuo-spatial abilities, such as the three scales of the [[Culture-Fair Intelligence Test]] (CFIT),<ref>Cattell, R. B. & Cattell, A. K. S. (1973). ''Measuring intelligence with the Culture Fair Tests''. Champaign, IL: IPAT.{{page needed|date=November 2020}}</ref> In addition, Cattell and his colleagues constructed objective (T-data) measures of dynamic motivational traits including the Motivation Analysis Test (MAT),<ref>Cattell, R. B., Horn, J. L., Sweney, A. B., & Radcliffe, J. (1964). ''Handbook for the Motivation Analysis Test'' (MAT), Champaign IL: IPAT.{{page needed|date=November 2020}}</ref> the School Motivation Analysis Test (SMAT),<ref>Krug, S. E., Cattell, R. B., & Sweney, A. B. (1976). ''Handbook for the School Motivation Analysis Test'' (SMAT). Champaign, IL: IPAT.{{page needed|date=November 2020}}</ref> as well as the Children's Motivation Analysis Test (CMAT).<ref>Cattell, R. B. et al. (1982). The Children's Motivation Analysis Test (CMAT). Champaign, IL: IPAT.{{page needed|date=November 2020}}</ref><ref>{{cite journal |last1=Boyle |first1=Gregory J. |last2=Richards |first2=Lisa M. |last3=Baglioni |first3=Anthony J. |title=Children's motivation analysis test (CMAT): An experimental manipulation of curiosity and boredom |journal=Personality and Individual Differences |date=December 1993 |volume=15 |issue=6 |pages=637–643 |doi=10.1016/0191-8869(93)90005-N |url=http://epublications.bond.edu.au/cgi/viewcontent.cgi?article=1819&context=hss_pubs |access-date=2020-11-13 |archive-date=2017-09-22 |archive-url=https://web.archive.org/web/20170922000412/http://epublications.bond.edu.au/cgi/viewcontent.cgi?article=1819&context=hss_pubs |url-status=dead }}</ref> As for the mood state domain, Cattell and his colleagues constructed the Eight State Questionnaire (8SQ), a [[self-report]] (Q-data) measure of eight clinically important emotional/mood states, labeled Anxiety, Stress, Depression, Regression, Fatigue, Guilt, Extraversion, and Arousal.<ref>Curran, J. P. & Cattell, R. B. (1976). ''Manual for the Eight State Questionnaire'' (8SQ). Champaign, IL: IPAT.{{page needed|date=November 2020}}</ref>
+
+==Outline==
+The most recent edition of the ''Sixteen Personality Factor Questionnaire'' (16PF), released in 1993, is the fifth edition (16PF5e) of the original instrument.<ref name="Cattell, R. B., Cattell, A. K., & Cattell, H. E. P. (1993).">Cattell, R. B., Cattell, A. K., & Cattell, H. E. P. (1993). ''16PF Fifth Edition Questionnaire.'' Champaign, IL: IPAT.{{page needed|date=November 2020}}</ref><ref name="Russell, M. T., & Karol, D. (2002).">Russell, M. T., & Karol, D. (2002). ''The 16PF Fifth Edition Administrator's Manual.'' Champaign, IL: IPAT.{{page needed|date=November 2020}}</ref> The self-report instrument was first published in 1949; the second and third editions were published in 1956 and 1962, respectively; and the five alternative forms of the fourth edition were released between 1967 and 1969.<ref name="Cattell, R. B., Eber, H. W., & Tatsuoka, H. W.">Cattell, R. B., Eber, H. W., & Tatsuoka, M. M. (1970). ''Handbook for the Sixteen Personality Factor Questionnaire'' (16PF). Champaign, IL: IPAT.{{page needed|date=November 2020}}</ref>
+
+The goal of the fifth edition revision in 1993 was to:
+* update, improve, and simplify the language used in the test items; 
+* simplify the answer format; 
+* develop new validity scales; 
+* improve the psychometric properties of the test, including new reliability and validity data; and 
+* develop a new standardization sample (of 10,000 people) to reflect the current U.S. Census population.
+
+The ''16PF Fifth Edition'' contains 185 multiple-choice items which are written at a fifth-grade reading level.  Of these items, 76% were from the four previous 16PF editions, although many of them were re-written to simplify or update the language. The item content typically sounds non-threatening and asks simple questions about daily behavior, interests, and opinions.
+
+=== Item format===
+A characteristic of the 16PF items is that, rather than asking respondents to self-assess their personality as some instruments do (e.g., "I am a warm and friendly person; I am not a worrier; I am an even tempered person."), they tend instead to ask about daily, concrete situations, e.g.:
+
+* When I find myself in a boring situation, I usually "tune out" and daydream about other things.      True/False.
+* When a bit of tact and convincing is needed to get people moving, I'm usually the one who does it.   True/False.
+
+Cattell argued that self-ratings relate to self-image, and are affected by self-awareness, and defensiveness about one's actual traits. The 16PF provides scores on 16 primary personality scales and five global personality scales, all of which are bi-polar (both ends of each scale have a distinct, meaningful definition).  The instrument also includes three validity scales: 
+* a bi-polar Impression Management (IM) scale, 
+* an Acquiescence (ACQ) scale, and 
+* an Infrequency (INF) scale.
+
+The Impression Management (IM) scale is a bipolar scale with high scores reflecting a preponderance of socially desirable responses and low scores reflecting a preponderance of socially undesirable responses. Possible reasons for an extremely high Impression Management score include: the examinee may actually behave in highly socially desirable ways, and responses are accurate self-descriptions; responses reflect an unconscious distortion consistent with the examinee’s self-image but not with their behavior; or deliberate self-presentation as behaving in a highly socially desirable manner. A low impression management score suggests an unusual willingness to admit undesirable attributes or behaviors and can occur when an examinee is unusually self-critical, discouraged, or under stress.
+
+The Acquiescence (ACQ) scale’s purpose is to index the degree to which the examinee agreed with items regardless of what was being asked. A high score might indicate that the examinee misunderstood the item content, responded randomly, has an unclear self-image, or had a “yea-saying” response style.
+
+The Infrequency (INF) scale comprises the most statistically infrequent responses on the test, which are all middle (b) responses and appear in the test booklet with a question mark. A score above the 95th percentile may indicate that the examinee had trouble reading or comprehending the questions, responded randomly, experienced consistent indecisiveness about the a or c response choice, or tried to avoid making the wrong impression by choosing the middle answer rather than one of the more definitive answers.
+
+=== Administration ===
+Administration of the test takes about 35–50 minutes for the paper-and-pencil version and about 30 minutes by computer.  The test instructions are simple and straightforward and the test is un-timed; thus, the test is generally self-administrable and can be used in either an individual or a group setting.  The 16PF test was designed for adults at least age 16 and older, but there are also parallel tests for various younger age ranges (e.g., the 16PF Adolescent Personality Questionnaire<ref name="Schuerger, J.M. 2001"/>).
+
+The ''16PF Questionnaire'' has been translated into more than 30 languages and dialects.<ref name="opp.com"/>  Thus the test can be administered in different languages, scored based on either local, national, or international normative samples, and computerized interpretive reports provided in about 23 different languages.  The test has generally been culturally adapted (rather than just translated) in these countries, with local standardization samples plus reliability and validity information collected locally and presented in individual manuals.
+
+=== Scoring ===
+The test can be hand-scored using a set of scoring keys, or computer-scored by mailing-in or faxing-in the answer sheet to the publisher IPAT. There is also a software system that can be used to administer, score, and provide reports on the test results directly in the professional's office; and an Internet-based system that can also provide administration, scoring, and reports in a range of different languages.
+
+After the test has been administered there is a total score computed from each of the 16 personality factors. These totals have been created in a way to correlate to the sten scale.<ref>{{Cite web|date=2008|title=16pf administration instructions|url=https://www.16pf.com/wp-content/uploads/Resources-16pf-Admin-and-Scoring-Instruction-Card.pdf|url-status=live|access-date=May 29, 2021}}</ref> Scores on the 16PF are presented on a 10-point scale, or standard-ten scale. The sten scale has a mean of 5.5 and a standard deviation of 2, with scores below 4 considered low and scores above 7 considered high.<ref>{{Cite web|title=Sten score|url=https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100531847|url-status=live|access-date=May 29, 2021|website=Oxford Reference}}</ref> The sten scales are bipolar, meaning that each end of the scale has a distinct definition and meaning. Because bipolar scales are designated with “high” or “low” for each factor, a high score should not be considered to reflect a positive personality characteristic and a low score should not be considered to reflect a negative personality characteristic.
+
+=== Interpretation ===
+Cattell and Schuerger provided six steps that outline how they recommend interpreting the results of the 16PF:<ref name=":0" />
+
+# Consider the context of the assessment.
+# Evaluate the Response Style Indexes by first checking responses on Factor B, and then looking at scores on the Infrequency, Impression Management, and Acquiescence scales. 
+# Evaluate the Global Scale scores.
+# Evaluate the Primary Scales in the context of the Global Scales
+# Consider scale interactions
+# Integrate 16PF results in relation to the assessment question
+
+There are about a dozen computer-generated interpretive reports that can be used to help interpret the test for different purposes, for example:
+
+* Career Development Report 
+* Karson Clinical Report
+* Cattell Comprehensive Personality Interpretation
+* Teamwork Development Report,
+* Management Potential Report,
+* Security Selection Report 
+* Leadership Coaching Report
+
+There are also many books that help with test interpretation, for example, 
+* ''16PF Interpretation in Clinical Practice'' (Karson, Karson, & O'Dell, 1997),<ref>Karson, M., Karson, S., & O'Dell, J.W. (1997). 
+* ''16PF Interpretation in Clinical Practice: A guide to the Fifth Edition.'' Champaign, IL: Institute for Personality and Ability Testing.</ref> 
+* ''The 16PF: Personality in Depth'' (Cattell, H.B., 1989),<ref>Cattell, H.B. (1989) ''The 16PF:Personality in Depth.'' Champaign, IL: Institute for Personality and Ability Testing.</ref> and 
+* ''Essentials of the 16PF'' (Cattell, H.E. & Schuerger, J.M, 2003)<ref>Cattell, H.E. & Schuerger, J.M. (2003) ''Essentials of the 16PF.'' New York: John Wiley & Sons.</ref>
+
+The 16PF traits are also included in the ''Psychological Evaluation Questionnaire (PEQ)'', which combines measures of both normal and abnormal personality traits into one test (Cattell, Cattell, Cattell, Russell, & Bedwell, 2003)<ref name=":0">Cattell, R.B., Cattell, A.K., Cattell, H.E.P., Russell, M.T., & Bedwell, S. (2003). ''The Psychological Evaluation Questionnaire.'' Champaign, IL: Institute for Personality and Ability Testing.</ref>
+
+== Raymond Cattell's 16 Personality Factors ==
+Below is a table outlining the personality traits measured by the 16PF Questionnaire.
+
+{| class="wikitable"
+! style="width:45%;" | Descriptors of low range
+! style="width:10%;" | Primary factor
+! style="width:45%;" | Descriptors of high range
+|-
+| Impersonal, distant, cool, reserved, detached, formal, aloof
+| align="center"| Warmth<br>(A)
+| Warm, outgoing, attentive to others, kindly, easygoing, participating, likes people 
+|-
+| Concrete-thinking, less intelligent, lower general mental capacity, unable to handle abstract problems 
+| align="center"| [[Intelligence (trait)|Reasoning]]<br>(B)
+| Abstract-thinking, more intelligent, bright, higher general mental capacity, fast-learner
+|-
+| Reactive emotionally, changeable, affected by feelings, emotionally less stable, easily upset 
+| align="center"| <nowiki>Emotional Stability</nowiki><br>(C)
+| Emotionally stable, adaptive, mature, faces reality calmly 
+|-
+| Deferential, cooperative, avoids conflict, submissive, humble, obedient, easily led, docile, accommodating 
+| align="center"| [[Dominance (ethology)|Dominance]]<br>(E)
+| Dominant, forceful, assertive, aggressive, competitive, stubborn, bossy 
+|-
+| Serious, restrained, prudent, taciturn, introspective, silent 
+| align="center"| Liveliness<br>(F)
+| Lively, animated, spontaneous, enthusiastic, happy-go-lucky, cheerful, expressive, impulsive 
+|-
+| Expedient, nonconforming, disregards rules, self-indulgent 
+| align="center"| [[Conscientiousness|Rule-Consciousness]]<br>(G)
+| Rule-conscious, dutiful, conscientious, conforming, moralistic, staid, rule-bound 
+|-
+| Shy, threat-sensitive, timid, hesitant, intimidated 
+| align="center"| [[Introversion and extroversion|Social Boldness]]<br>(H)
+| Socially bold, venturesome, thick-skinned, uninhibited 
+|-
+| Utilitarian, objective, unsentimental, tough-minded, self-reliant, no-nonsense, rough 
+| align="center"| [[Sensitivity (human)|Sensitivity]]<br>(I)
+| Sensitive, aesthetic, sentimental, tender-minded, intuitive, refined 
+|-
+| Trusting, unsuspecting, accepting, unconditional, easy 
+| align="center"| Vigilance<br>(L)
+| Vigilant, suspicious, skeptical, distrustful, oppositional 
+|-
+| Grounded, practical, prosaic, solution oriented, steady, conventional 
+| align="center"| Abstractedness<br>(M)
+| Abstract, imaginative, absentminded, impractical, absorbed in ideas 
+|-
+| Forthright, genuine, artless, open, guileless, naive, unpretentious, involved 
+| align="center"| Privateness<br>(N)
+| Private, discreet, nondisclosing, shrewd, polished, worldly, astute, diplomatic 
+|-
+| Self-assured, unworried, complacent, secure, free of guilt, confident, self-satisfied 
+| align="center"| [[Neuroticism|Apprehension]]<br>(O)
+| Apprehensive, self-doubting, worried, guilt-prone, insecure, worrying, self-blaming 
+|-
+| Traditional, attached to familiar, conservative, respecting traditional ideas 
+| align="center"| [[Neophilia|Openness to Change]]<br>(Q1)
+| Open to change, experimental, liberal, analytical, critical, freethinking, flexibility 
+|-
+| Group-oriented, affiliative, a joiner and follower dependent 
+| align="center"| [[Self-sufficiency|Self-Reliance]]<br>(Q2)
+| Self-reliant, solitary, resourceful, individualistic, self-sufficient 
+|-
+| Tolerates disorder, unexacting, flexible, undisciplined, lax, self-conflict, impulsive, careless of social rules, uncontrolled 
+| align="center"| [[Perfectionism (psychology)|Perfectionism]]<br>(Q3)
+| Perfectionistic, organized, compulsive, self-disciplined, socially precise, exacting will power, control, self-sentimental 
+|-
+| Relaxed, placid, tranquil, torpid, patient, composed low drive 
+| align="center" | [[Stress (biological)|Tension]]<br>(Q4)
+| Tense, high-energy, impatient, driven, frustrated, over-wrought, time-driven 
+|-
+| colspan="3" align="center" | Primary Factors and Descriptors in Cattell's 16 Personality Factor Model (Adapted from Conn & Rieke, 1994).
+|}
+
+==Relationship to five-factor models==
+In the Fourth and Fifth Editions of the 16PF, there were five global factors that seem to correspond fairly closely to the "[[Big Five personality traits]]".<ref name="Cattell, H.E.P. 1996"/> The Big Five (BF) trait of [[Openness to experience|Openness]] seems to be related to 16PF Openness/Tough-mindedness, The BF trait of [[Conscientiousness]] to the 16PF Self-Control, the BF [[Extraversion and introversion|Extraversion]] to the 16PF Extraversion, the BF [[Agreeableness]]/Dis-Agreeableness to the 16PF Independence/Accommodation, and the BF [[Neuroticism]] to the 16PF Anxiety.<ref>Conn, S.R., & Rieke, M.L. (1994).  ''The 16PF Fifth Edition technical manual.'' Champaign, IL: Institute for Personality and Ability Testing, Inc.</ref>  In fact, the development of the Big-Five factors began in 1963 with W.T. Norman factor-analyzing responses to the same items as the 16PF, replicating Cattell's work and suggested that five factors would be sufficient.<ref>Costa, P.T., Jr., McCrae, R.R. (1985). The NEO Personality Inventory Manual. Odessa, FL: Psychological Assessment Resources.</ref>
+
+However, one big technical difference between Cattell's five Global Factors and popular five-factor models was Cattell's insistence on using [[Angle#Types of angles|oblique]] rotation in the factor analysis whereas [[Lewis Goldberg|Goldberg]] and Costa & McCrae used [[orthogonal]] rotation in their factor analysis. Oblique rotation allows the factors to correlate with each other, whereas orthogonal rotation restricts the factors from correlating with each other.  Although personality traits are thought to be correlated, using orthogonal factor analysis makes the factors easier to understand and to work on statistically in research. This is one of the reasons the Big-Five traits have definitions that are different from the 16PF global factors. For example, as seen in the table below, in Cattell's model the primary personality trait of Dominance (Factor E) is strongly located in the Independence/Accommodation global factor which represents a quality of fearless, original thinking and forceful, independent actions.  However, other popular big five models consider Dominance as a [[Facet (psychology)|facet]] of several Big-Five traits, including Extraversion, Dis-Agreeableness, and Conscientiousness.  Thus Dominance is spread across a range of Big-Five factors with little influence on any one (Cattell & Mead, 2008). Below is a table that shows how the 16 primary factors are related to the five global factors of the 16 Personality Factor theory. Compare with the [[Hierarchical Structure of the Big Five]]. Also, note that factor B is considered separate from the other factors because it is not a part of the hierarchical structure of personality in the same way as the other factors.{{citation needed|date=April 2012}}
+
+==Factor analytic strategy==
+Assumptions shared by standardized personality tests, simply stated, are that humans possess characteristics or traits that are stable, vary from individual to individual, and can be measured.<ref name="kap">Kaplan, R. M., & Saccuzzo, D. P. (2013). "Psychological testing: Principles, applications, and issues" (8th ed.). Belmont, CA: Wadsworth</ref><ref name= "psychcorp">Pearson Education, Inc. (n.d.). '16pf fifth edition: Clinical assessment'. Retrieved December 8, 2013 from http://www.pearsonassessments.com/HAIWEB/Cultures/en-us/Productdetail.htm?Pid=PAg101&Mode=summary</ref> Factor analysis is a statistical procedure for reducing the redundancy in a set of intercorrelated scores. One major technique of factor analysis, the principal-components method, finds the minimum number of common factors that can account for an interrelated set of scores.<ref name="kap"/><ref name="cattell">Cattell, R. B. (1952). "Factor analysis." New York: Wiley</ref> Cattell's goal was to empirically determine and measure the essence of personality.<ref name="kap"/> Cattell used factor analysis to reduce thousands of psychological traits into what he believed to be 16 of the basic dimensions, or source traits of human personality. As a result, he created the 16PF personality test.<ref name="kap" /><ref name="psychcorp" />
+
+== 16PF global and primary factors ==
+{| class="wikitable"
+! style="width:18%;" | Introversion/Extroversion
+! style="width:18%;" | Low Anxiety/High Anxiety
+! style="width:18%;" | Receptivity/Tough-Mindedness
+! style="width:18%;" | Accommodation/Independence
+! style="width:18%;" | Lack of Restraint/Self-Control
+! style="width:10%;" | 
+|-
+| A: Reserved/Warm
+| C: Emotionally Stable/Reactive
+| A: Warm/Reserved
+| E: Deferential/Dominant
+| F: Serious/Lively
+| B: Problem-Solving
+|-
+| F: Serious/Lively
+| L: Trusting/Vigilant
+| I: Sensitive/Unsentimental
+| H: Shy/Bold
+| G: Expedient/Rule-Conscious
+|
+|-
+| H: Shy/Bold
+| O: Self-Assured/Apprehensive
+| M: Abstracted/Practical
+| L: Trusting/Vigilant
+| M: Abstracted/Practical
+|
+|-
+| N: Private/Forthright
+| Q4: Relaxed/Tense
+| Q1: Open-to-Change/Traditional
+| Q1: Traditional/Open-to-Change
+| Q3: Tolerates Disorder/Perfectionistic
+|
+|-
+| Q2: Self-Reliant/Group-Oriented
+| 
+| 
+| 
+|
+| 
+|-
+|}
+
+==History and development==
+
+===Cattell physical sciences background===
+The 16PF Questionnaire was created from a fairly unusual perspective among personality tests. Most personality tests are developed to measure just the pre-conceived traits that are of interest to a particular theorist or researcher. The main author of the 16PF, [[Raymond B. Cattell]], had a strong background in the physical sciences, especially chemistry and physics, at a time when the basic elements of the physical world were being discovered, placed in the periodic table, and used as the basis for understanding the fundamental nature of the physical world and for further inquiry. From this background in the physical sciences, Cattell developed the belief that all fields are best understood by first seeking to find the fundamental underlying elements in that domain, and then developing a valid way to measure and research these elements (Cattell, 1965).<ref>Cattell, R.B. (1965). ''The Scientific Analysis of Personality.'' NYC, NY: Penguin Group.{{page needed|date=November 2020}}</ref>
+
+Personality research author Schuerger stated that:
+{{cquote|Cattell's goal in creating the 16PF Questionnaire was to provide a thorough, research-based map of normal personality.<ref>Schuerger, J. M. (2009). The 16 Personality Factor Questionnaire: 16PF. In C. E. Watkins, Jr., and V. L. Campbell (Eds.), "Testing and Assessment in Counseling Practice" (pp.&nbsp;67–99). Mahwah, NJ: Lawrence Erlbaum Associates, Inc.</ref>}}
+
+When Cattell moved from the physical sciences into the field of psychology in the 1920s, he described his disappointment about finding that it consisted largely of a wide array of abstract, unrelated theories and concepts that had little or no scientific bases.  He found that most personality theories were based on philosophy and on personal conjecture, or were developed by medical professionals, such as Jean Charcot and Sigmund Freud, who relied on their personal intuition to reconstruct what they felt was going on inside people, based on observing individuals with serious psycho-pathological problems.  Cattell (1957)<ref name="Cattell, R. B. (1957)." /> described the concerns he felt as a scientist:
+
+:"In psychology there is an ocean of spawning intuitions and comfortable assumptions which we share with the layman, and out of which we climb with difficulty to the plateaus of scientific objectivity....Scientific advance hinges on the introduction of measurement to the field under investigation….Psychology has bypassed the necessary descriptive, taxonomic, and metric stages through which all healthy sciences first must pass….If Aristotle and other philosophers could get no further by sheer power of reasoning in two thousand years of observation, it is unlikely that we shall do so now.... For psychology to take its place as an effective science, we must become less concerned with grandiose theory than with establishing, through research, certain basic laws of relationship." (p.3-5)
+
+Thus, Cattell's goal in creating the ''16PF Questionnaire'' was to discover the number and nature of the fundamental traits of human personality and to develop a way to measure these dimensions.  At the University of London, Cattell worked with Charles Spearman who was developing  factor analysis to aid in his quest to discover the basic factors of human ability.  Cattell thought that could also be applied to the area of personality. He reasoned that human personality must have basic, underlying, universal dimensions just as the physical world had basic building blocks (like oxygen and hydrogen).  He felt that if the basic building blocks of personality were discovered and measured, then human behavior (e.g., creativity, leadership, altruism, or aggression) could become increasingly understandable and predictable.
+
+===Lexical Hypothesis (1936)===
+In 1936 [[Gordon Allport]] and H.S. Odbert hypothesized that:
+
+{{cquote|Those individual differences that are most salient and socially relevant in people's lives will eventually become encoded into their language; the more important such a difference, the more likely is it to become expressed as a single word.}}
+
+This statement has become known as the [[Lexical hypothesis|Lexical Hypothesis]], which posits that if there is a word for a trait, it must be a real trait. Allport and Odbert used this hypothesis to identify personality traits by working through two of the most comprehensive [[dictionary|dictionaries]] of the English language available at the time, and extracting 18,000 personality-describing words. From this gigantic list they extracted 4500 personality-describing adjectives which they considered to describe observable and relatively permanent traits.
+
+Cattell and his colleagues began a comprehensive program of international research aimed at identifying and mapping out the basic underlying dimensions of personality. Their goal was to systematically measure the widest possible range of personality concepts, in a belief that "all aspects of human personality which are or have been of importance, interest, or utility have already become recorded in the substance of language" (Cattell, R. B., 1943, p.&nbsp;483).<ref>{{cite journal |last1=Cattell |first1=Raymond B. |title=The description of personality: basic traits resolved into clusters |journal=The Journal of Abnormal and Social Psychology |date=1943 |volume=38 |issue=4 |pages=476–506 |doi=10.1037/h0054116 }}</ref> They wanted to include every known personality dimension in their investigation, and thus began with the largest existing compilation of personality traits (Allport and Odbert, 1936).<ref>{{cite journal |last1=Allport |first1=Gordon W. |last2=Odbert |first2=Henry S. |title=Trait-names: A psycho-lexical study |journal=Psychological Monographs |date=1936 |volume=47 |issue=1 |pages=i–171 |doi=10.1037/h0093360 }}</ref> Over time, they used factor analysis to reduce the massive list of traits by analyzing the underlying patterns among them.  They studied personality data from different sources (e.g. objective measures of daily behavior, interpersonal ratings, and questionnaire results), and measured these traits in diverse populations, including working adults, university students, and military personnel. (Cattell, 1957, 1973).<ref name="Cattell, R. B. (1957)." /><ref name="Cattell, R.B. 1973">Cattell, R.B. (1973). ''Personality and mood by questionnaire.'' San Francisco: Jossey-Bass.{{page needed|date=November 2020}}</ref>
+
+===16 Personality Factors identified (1949)===
+The 16 Personality Factors were identified in 1949 by Raymond Cattell.<ref>Cattell, R.B. (1949): ''The sixteen personality factor questionnaire'', Institute for Personality and Ability Testing</ref> He believed that in order to adequately map out personality, one had to utilize L-Data (life records or observation), Q data (information from questionnaires), and T-data (information from objective tests).<ref>Cattell, H. E. P., and Schuerger, J. M. (2003). "Essentials of 16PF Assessment." Hoboken, NJ: John Wiley & Sons, Inc.{{page needed|date=November 2020}}</ref> The development of the 16PF Questionnaire, although confusingly named, was an attempt to develop an adequate measure of T-data.
+
+Cattell analyzed the list of 4500 adjectives and organized the list of adjectives into fewer than 171 items and asked subjects to rate people whom they knew on each of the adjectives on the list (an example of L-data because the information was gathered from observers). This allowed Cattell to narrow down to 35 terms and [[factor analysis]] in 1945, 1947 and 1948 revealed a 11 or 12 factor solution.<ref>{{cite journal |last1=Cattell |first1=Raymond B. |title=The Description of Personality: Principles and Findings in a Factor Analysis |journal=The American Journal of Psychology |date=1945 |volume=58 |issue=1 |pages=69–90 |doi=10.2307/1417576 |jstor=1417576 }}</ref><ref>{{cite journal |last1=Cattell |first1=Raymond B. |title=Confirmation and clarification of primary personality factors |journal=Psychometrika |date=1 September 1947 |volume=12 |issue=3 |pages=197–220 |doi=10.1007/BF02289253 |pmid=20260610 |s2cid=28667497 }}</ref><ref>{{cite journal |last1=Cattell |first1=Raymond B. |title=The primary personality factors in women compared with those in men |journal=British Journal of Statistical Psychology |date=July 1948 |volume=1 |issue=2 |pages=114–130 |doi=10.1111/j.2044-8317.1948.tb00231.x }}</ref>
+
+In 1949 Cattell found that there were 4 additional factors, which he believed consisted of information that could only be provided through self-rating. This process allowed the use of ratings by observers, questionnaires, and objective measurements of actual behavior.<ref name="Cattell, R.B. 1973"/><ref>Cattell, R.B. (1946). The description and measurement of personality. New York: World Book</ref><ref>Cattell, R.B. (1957). Personality and motivation structure and measurement. New York: World Book</ref> In 1952 the [[ILLIAC I]] became available at the [[University of Illinois at Urbana-Champaign]] to be used for factor analysis.<ref>{{cite journal |last1=Cattell |first1=R. B. |last2=Cattell |first2=A. K. S. |title=Factor Rotation for Proportional Profiles: Analytical Solution and an Example |journal=British Journal of Statistical Psychology |date=November 1955 |volume=8 |issue=2 |pages=83–92 |doi=10.1111/j.2044-8317.1955.tb00323.x }}</ref>
+
+Together the original 12 factors and the 4 covert factors made up the original 16 primary personality factors.<ref>Cattell, H. B. (1989). "The 16PF: Personality In Depth." Champaign, IL: Institute for Personality and Ability Testing, Inc.</ref> As the five factor theory gained traction and research on the 16 factors continued, subsequent analysis identified five factors underlying the 16 factors. Cattell called these global factors.
+
+The 16PF factorial structure resembles that of [[Szondi test]] and the ''Berufsbilder test'' (BTT), despite being based on different theories.<ref>{{cite journal |last1=Welter |first1=Giselle Müller-Roger |last2=Capitão |first2=Claudio Garcia |title=Professional tendency and personality: research on the correlation among measures of these constructs |journal=Psicologia: Ciência e Profissão |date=2009 |volume=29 |issue=3 |pages=588–601 |doi=10.1590/S1414-98932009000300012 |doi-access=free }}</ref>
+
+===Analytic study and revisions of the factors (1949–2011)===
+Because the 16PF dimensions were developed through factor analysis, construct validity is provided by studies that confirm its factor structure. Over several decades of factor-analytic study, Cattell and his colleagues gradually refined and validated their list of underlying source traits.  The search resulted in the sixteen unitary traits of the 16PF Questionnaire. These traits have remained the same over the last 50 years of research. In addition, the 16PF Questionnaire traits are part of a multi-variate personality model that provides a broader framework including developmental, environmental, and hereditary patterns of the traits and how they change across the life span (Cattell, 1973, 1979, 1980).<ref>{{cite book |last1=Cattell |first1=Raymond Bernard |title=The Structure of Personality in Its Environment |date=1979 |publisher=Springer Publishing Company |isbn=978-0-8261-2120-2 }}{{page needed|date=November 2020}}</ref><ref>{{cite book |last1=Cattell |first1=Raymond Bernard |title=A Systems Theory of Maturation and Structured Learning |date=1980 |publisher=Springer Publishing Company |isbn=978-0-8261-2124-0 }}{{page needed|date=November 2020}}</ref>
+
+The validity of the factor structure of the 16PF Questionnaire (the 16 primary factors and 5 global factors) has been supported by more than 60 published studies (Cattell & Krug, 1986; Conn & Rieke, 1994; Hofer and Eber, 2002).<ref name="Conn, S.R., & Rieke, M.L. 1994">{{cite book |last1=Conn |first1=Steven R. |last2=Rieke |first2=Mark L. |title=The 16PF Fifth Edition Technical Manual |date=1994 |publisher=Institute for Personality and Ability Testing |isbn=978-0-918296-22-1 }}{{page needed|date=November 2020}}</ref><ref name="Cattell, R.B. & Krug, S.E. 1986">{{cite journal |last1=Cattell |first1=Raymond B. |last2=Krug |first2=Samuel E. |title=The Number of Factors in the 16PF: A Review of the Evidence with Special Emphasis on Methodological Problems |journal=Educational and Psychological Measurement |date=September 1986 |volume=46 |issue=3 |pages=509–522 |doi=10.1177/0013164486463002 |s2cid=143507573 }}</ref><ref name="Hofer, S.M. & Eber, H.W. 2002">{{cite book |last1=Hofer |first1=Scott M. |last2=Eber |first2=Herbert W. |chapter=Second-order factor structure of the Cattell Sixteen Personality Factor Questionnaire |pages=397–404 |editor1-last=de Raad |editor1-first=Boele |editor2-last=Perugini |editor2-first=Marco |year=2002 |title=Big Five Assessment |publisher=Hogrefe & Huber |isbn=978-0-88937-242-9 }}</ref>  Research has also supported the comprehensiveness of the 16PF traits: all dimensions on other major personality tests (e.g., the NEO Personality Inventory, the [[California Psychological Inventory]], the Personality Research Form, and the [[Myers-Briggs Type Indicator]]) have been found to be contained within the 16PF scales in regression and factor-analytic studies (Conn & Rieke, 1994; Cattell, 1996).<ref name="Cattell, H.E.P. 1996">{{cite journal |last1=Cattell |first1=H.E.P. |year=1996 |title=The original big-five: A historical perspective |journal=European Review of Psychology |volume=46 |issue=1 |pages=5–14 }}</ref>
+
+Since its release in 1949, the 16PF Questionnaire has been revised four times: once in 1956, once in 1962, once in 1968, and the current version was developed in 1993. The US version of the test was also re-standardized in 2002, along with the development of forms for children and teenagers; versions for the UK, Ireland, France and the Netherlands were re-standardised in 2011. Additionally, there is a shortened form available primarily for employee selection and the questionnaire has been adapted into more than 35 languages. The questionnaire has also been validated in a range of international cultures over time{{dubious|date=February 2019}}.<ref>{{cite book |last1=Cattell |first1=Heather E.P. |last2=Mead |first2=Alan D. |chapter=The Sixteen Personality Factor Questionnaire (16PF) |pages=135–159 |doi=10.4135/9781849200479.n7 |chapter-url=https://books.google.com/books?id=NOeann4wvo4C&pg=PA135 |editor1-last=Boyle |editor1-first=Gregory J. |editor2-last=Matthews |editor2-first=Gerald |editor3-last=Saklofske |editor3-first=Donald H. |title=The SAGE Handbook of Personality Theory and Assessment: Volume 2 — Personality Measurement and Testing |year=2008 |isbn=978-1-4129-4652-0 }}</ref>
+
+==The original Big Five traits==
+
+From the beginning of his research, Cattell found personality traits to have a multi-level, hierarchical structure (Cattell, 1946).<ref name="Cattell, R. B. (1957)." />  The first goal of these researchers was to find the most fundamental primary traits of personality.  Next they factor-analyzed these numerous primary traits to see if these traits had a structure of their own—i.e. if some of them naturally went together in self-defining, meaningful groupings.
+
+They consistently found that the primary traits themselves came together in particular, meaningful groupings to form broader secondary or global traits, each with its own particular focus and function within personality (Cattell & Schuerger, 2003).  For example, the first global trait they found was '''Extraversion-Introversion'''.  It resulted from the natural affinity of five primary traits that defined different reasons for an individual to move toward versus away from other people (see below).  They found that there was a natural tendency for these traits to go together in the real world, and to define an important domain of human behavior—social behavior.  This global factor '''Global Extraversion/Introversion''' (the tendency to move toward versus away from interaction with others) is composed from the following primary traits:
+*'''Warmth (Factor A)''': the tendency to move toward others seeking closeness and connection because of genuine feelings of caring, sympathy, and concern (versus the tendency to be reserved and detached, and thus be independent and unemotional).
+*'''Liveliness (Factor F)''': the tendency to be high-energy, fun-loving, and carefree, and to spontaneously move towards others in an animated, stimulating manner. Low-scorers tend to be more serious and self-restrained, and to be cautious, unrushed, and judicious.
+*'''Social Boldness (Factor H)''': the tendency to seek social interaction in a confident, fearless manner, enjoying challenges, risks, and being the center of attention. Low-scorers tend to be shy and timid, and to be more modest and risk-avoidant.
+*'''Forthrightness (Factor N)''': the tendency to want to be known by others—to be open, forthright, and genuine in social situations, and thus to be self-revealing and unguarded.  Low-scorers tend to be more private and unself-revealing, and to be harder to get to know.
+*'''Affiliative (Factor Q2)''': the tendency to seek companionship and enjoy belonging to and functioning in a group (inclusive, cooperative, good follower, willing to compromise).  Low-scorers tend to be more individualistic and self-reliant and to value their autonomy.
+
+In a similar manner, these researchers found that four other primary traits consistently merged to define another global factor which they called '''Receptivity or Openness (versus Tough-Mindedness)'''.  This factor was made up of four primary traits that describe different kinds of openness to the world:
+*Openness to sensitive feelings, emotions, intuition, and aesthetic dimensions '''(Sensitivity – Factor I)'''
+*Openness to abstract, theoretical ideas, conceptual thinking, and imagination '''(Abstractedness – Factor M)'''
+*Openness to free thinking, inquiry, exploration of new approaches, and innovative solutions '''(Openness-to-Change – Factor Q1)''' and
+*Openness to people and their feelings '''(Warmth – Factor A)'''.
+
+Another global factor, '''Self-Controlled (or conscientious) versus Unrestrained''', resulted from the natural coming together of four primary factors that define the different ways that human beings manage to control their behavior:
+*'''Rule-Consciousness (Factor G)''' involves adopting and conscientiously following society's accepted standards of behavior
+*'''Perfectionism (Factor Q3)''' describes a tendency to be self-disciplined, organized, thorough, attentive to detail, and goal-oriented
+*'''Seriousness (Factor F)''' involves a tendency to be cautious, reflective, self-restrained, and deliberate in making decisions; and
+*'''Groundedness (Factor M)''' involves a tendency to stay focused on concrete, pragmatic, realistic solutions.
+
+Because the global factors were developed by factor-analyzing the primary traits, the meanings of the global traits were determined by the primary traits which made them up.  In addition, then the global factors provide the overarching, conceptual framework for understanding the meaning and function of each of the primary traits.  Thus, the two levels of personality are essentially inter-connected and inter-related.
+
+However it is the primary traits that provide a clear definition of the individual's unique personality.  Two people might have exactly the same level of Extraversion, but still be quite different from each other.  For example, they may both be at the 80% on Extraversion, and both tend to move toward others to the same degree, but they may be doing it for quite different reasons.  One person might achieve an 80% on Extraversion by being high on Social Boldness (Factor H: confident, bold, talkative, adventurous, fearless [[attention-seeking]]) and on Liveliness (Factor F: high-energy, enthusiastic, fun-loving, impulsive), but Reserved (low on Factor A: detached, cool, unfeeling, objective).  This individual would be talkative, bold, and impulsive but not very sensitive to others people's needs or feelings.  The second Extravert might be high on Warmth (Factor A: kind, soft-hearted, caring and nurturing), and Group-Oriented (low Factor Q2: companionable, cooperative, and participating), but Shy (low on Factor H: timid, modest, and easily embarrassed).  This second Extravert would tend to show quite different social behavior and be caring, considerate, and attentive to others but not forward, bold or loud—and thus have quite a different effect on his/her social environment.
+
+Today, the global traits of personality are commonly known as the Big Five.  The Big Five traits are most important for getting an abstract, theoretical understanding of the big, overarching domains of personality, and in understanding how different traits of personality relate to each other and how different research findings relate to each other.  The big-five are important for understanding and interpreting an individual's personality profile mainly in getting a broad overview of their personality make-up at the highest level of personality organization.  However, it is still the scores on the more specific primary traits that define the rich, unique personality make-up of any individual.  These more-numerous primary traits have repeatedly been found to be the most powerful in predicting and understanding the complexity of actual daily behavior (Ashton, 1998; Goldberg, 1999; Mershon & Gorsuch, 1988; Paunonen & Ashton, 2001).<ref>{{cite journal |last1=Ashton |first1=Michael C. |title=Personality and job performance: the importance of narrow traits |journal=Journal of Organizational Behavior |date=1998 |volume=19 |issue=3 |pages=289–303 |doi=10.1002/(SICI)1099-1379(199805)19:3<289::AID-JOB841>3.0.CO;2-C |url=https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-1379(199805)19:3%3C289::AID-JOB841%3E3.0.CO;2-C |id={{ProQuest|228800151}} |jstor=3100173 }}</ref><ref>Goldberg. L.R. (1999). A broad-bandwidth, public-domain, personality inventory measuring the lower-level facets of several five-factor models. In I. Mervielde, I. Deary, F. De Fruyt, & F. Ostendorf (Eds), ''Personality psychology in Europe: Vol. 7,'' 7-28.  Tilburg, The Netherlands: Tilburg University Press.</ref><ref>{{cite journal |last1=Mershon |first1=Bryan |last2=Gorsuch |first2=Richard L. |title=Number of factors in the personality sphere: Does increase in factors increase predictability of real-life criteria? |journal=Journal of Personality and Social Psychology |date=1988 |volume=55 |issue=4 |pages=675–680 |doi=10.1037/0022-3514.55.4.675 }}</ref><ref>{{cite journal |last1=Paunonen |first1=Sampo V. |last2=Ashton |first2=Michael C. |title=Big Five factors and facets and the prediction of behavior |journal=Journal of Personality and Social Psychology |date=2001 |volume=81 |issue=3 |pages=524–539 |doi=10.1037/0022-3514.81.3.524 |pmid=11554651 }}</ref>
+
+==Key features==
+*The 16PF assessment is easy to administer, requiring only 35 to 50 minutes to complete.
+*Five distinct report options give the 16PF test utility in a wide variety of settings.
+*Because the relationship between the test items and the traits measured by the 16PF instrument is not obvious, it is difficult for the test-taker to deliberately tailor responses to achieve a desired outcome.
+*The Couple's Counseling Report includes an easy-to-understand narrative summary of results to share with the couple.<ref name="psychcorp" />
+
+==See also==
+*[[Minnesota Multiphasic Personality Inventory|Minnesota Multiphasic Personality Inventory (MMPI)]]
+*[[NEO-PI|Neuroticism Extraversion Openness Personality Inventory (NEO-PI)]]
+*[[Trait theory]]
+
+==References==
+{{Reflist|30em}}
+
+== Further reading ==
+
+* {{Cite book |title=Psychological Testing: History, Principles, and Applications |last=Gregory |first=Robert J. |year=2011 |edition=Sixth |publisher=Allyn & Bacon |location=Boston |isbn=978-0-205-78214-7 |lay-url=http://www.pearsonhighered.com/bookseller/product/Psychological-Testing-History-Principles-and-Applications-6E/9780205782147.page |lay-date=7 November 2010 }}
+
+== External links ==
+
+* [http://www.psychometrica.ae/16pf.htm 16PF]{{Dead link|date=August 2018 |bot=InternetArchiveBot |fix-attempted=yes }} l [[16PF]] for Corporate Industry
+*[http://www.panpowered.com/assessments/personality-assessments/16-personality-factors-16pf-by-ipat/] Personality Assessment Network, Inc. (PAN) which owns the IPAT Institute founded by Raymond B. Cattell
+*The [[International Personality Item Pool]] contains scales designed to mimic the 16PFQ: an interactive implementation can be found [http://personality-testing.info/tests/16PF.php here.] {{Webarchive|url=https://web.archive.org/web/20131029222320/http://personality-testing.info/tests/16PF.php |date=2013-10-29 }}
+
+{{Psychologic and psychiatric evaluation and testing}}
+{{Authority control}}
+
+{{DEFAULTSORT:16pf Questionnaire}}
+[[Category:Personality tests]]
+[[Category:1949 introductions]]

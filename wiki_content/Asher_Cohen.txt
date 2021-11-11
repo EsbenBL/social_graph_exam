@@ -1,0 +1,120 @@
+{{Infobox person
+| honorific_prefix   = 
+| name               = Asher Cohen
+| honorific_suffix   = 
+| image              = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| image_upright      = 
+| landscape          = <!-- yes, if wide image, otherwise leave blank -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| native_name        = אשר כהן
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name         = <!-- only use if different from name -->
+| birth_date         = <!-- {{Birth date and age|YYYY|MM|DD}} for living people supply only the year with {{Birth year and age|YYYY}} unless the exact date is already widely published, as per [[WP:DOB]]. For people who have died, use {{Birth date|YYYY|MM|DD}}. -->
+| birth_place        = 
+| baptised           = <!-- will not display if birth_date is entered -->
+| disappeared_date   = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place  = 
+| disappeared_status = 
+| death_date         = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (enter DEATH date then BIRTH date (e.g., ...|1908|31|8|1967|28|2}} use both this parameter and |birth_date to display the person's date of birth, date of death, and age at death) -->
+| death_place        = 
+| death_cause        = 
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place       = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| nationality        = 
+| other_names        = 
+| siglum             = 
+| citizenship        = 
+| education          = 
+| alma_mater         = 
+* [[Hebrew University of Jerusalem]] (B.A. in Economics and M.A. in Psychology)
+* [[University of Oregon]] (doctoral and post-doctoral studies)
+| occupation         = 
+| years_active       = 
+| era                = 
+| employer           = [[Hebrew University of Jerusalem]] 
+| organization       = 
+| agent = <!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source -->
+| known_for          = 
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| style              = 
+| home_town          = 
+| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->
+| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
+| television         = 
+| title              = President and Samuel Sturman Chair in Psychology
+| term               = 
+| predecessor        = 
+| successor          = 
+| party              = 
+| movement           = 
+| opponents          = 
+| boards             = 
+| criminal_charges   = <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty   =  
+| criminal_status    = 
+| spouse             = <!-- Use article title or common name -->
+| partner            = <!-- (unmarried long-term partner) -->
+| children           = 
+| parents            = <!-- overrides mother and father parameters -->
+| mother             = <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| father             = <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| relatives          = 
+| family             = 
+| callsign           = 
+| awards             = 
+| website            = <!-- {{URL|example.com}} -->
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
+'''Asher Cohen'''  ({{lang-he|אשר כהן}}) is an Israeli psychologist. He has been the 14th President of the [[Hebrew University of Jerusalem]] since September 1, 2017, and holds the university's Samuel Sturman Chair in Psychology.
+
+==Biography==
+Asher Cohen graduated from the [[Hebrew University of Jerusalem]] with a B.A. in Economics and an M.A. in Psychology.<ref name=huji>{{cite web|url=https://new.huji.ac.il/en/page/454 |title=Office of the President &#124; האוניברסיטה העברית בירושלים &#124; The Hebrew University of Jerusalem |publisher=New.huji.ac.il |date=2017-09-01 |accessdate=2020-01-18}}</ref> He completed his doctoral and post-doctoral studies at the [[University of Oregon]].<ref name=huji/> 
+==Academic career==
+Cohen was a senior lecturer and Assistant Professor at [[Indiana University]].<ref name="google1">{{cite book|url=https://books.google.com/books?id=-6SgBgAAQBAJ&q=%22Asher+Cohen%22+%22Rector%22&pg=PA276 |title=Cognitive Modeling in Perception and Memory: A Festschrift for Richard M. Shiffrin|author= J G W Raaijmakers|author2= Robert Goldstone|author3= Mark Steyvers|author4= Amy Criss|author5= Robert Nosofsky|publisher=Psychology Press |date=2015 |isbn=9781134629251|accessdate=2020-01-18}}</ref><ref name="autogenerated1">[https://www.afhu.org/2017/11/06/president-professor-asher-cohen/ "Spotlights; President Professor Asher Cohen,"] November 6, 2017.</ref>
+
+Cohen returned in the early 1990s to the Hebrew University’s Department of Psychology, in the Faculty of Social Sciences.<ref name=huji/> From 2008 to 2012, he was the head of the university's Department of Psychology.<ref>{{cite web|last=Trachtman |first=Chaim |url=https://jewishweek.timesofisrael.com/the-latest-from-the-classroom-and-beyond-3/ |title=The Latest From The Classroom, And Beyond &#124; ''Jewish Week'' |work=Times of Israel|date=2017-08-23 |accessdate=2020-01-18}}</ref> From 2012 to 2017, Cohen was the Hebrew University’s Rector.<ref name="autogenerated1"/><ref>{{cite web|url=https://new.huji.ac.il/en/article/35133 |title=Prof. Asher Cohen Elected President of the Hebrew University of Jerusalem &#124; האוניברסיטה העברית בירושלים &#124; The Hebrew University of Jerusalem |publisher=New.huji.ac.il |date=2017-09-01 |accessdate=2020-01-18}}</ref>
+
+Cohen has been the 14th President of the [[Hebrew University of Jerusalem]] since September 1, 2017, succeeding [[Menahem Ben-Sasson]], who was President of the University for eight years.<ref name=huji/> He holds the university's Samuel Sturman Chair in Psychology.<ref name="autogenerated1"/>
+==See also==
+*[[Education in Israel]]
+== References ==
+<!-- Inline citations added to your article will automatically display here. See en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->
+{{reflist}}
+
+==External links==
+*[https://www.alainelkanninterviews.com/asher-cohen/  "Alain Elkann Interviews: Asher Cohen,"] November 10, 2013
+* [https://www.youtube.com/watch?v=wBtyb5qVj3g "Asher Cohen interviewed for l'X on air,"] November 28, 2016
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cohen, Asher}}
+[[Category:Hebrew University of Jerusalem faculty]]
+[[Category:Indiana University faculty]]
+[[Category:21st-century Israeli educators]]
+[[Category:Israeli expatriates in the United States]]
+[[Category:Hebrew University of Jerusalem Faculty of Social Sciences alumni]]
+[[Category:University of Oregon alumni]]
+[[Category:20th-century Israeli educators]]
+[[Category:Presidents of universities in Israel]]
+[[Category:Israeli psychologists]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+
+{{Israel-bio-stub}}
+{{edu-bio-stub}}
+{{psychologist-stub}}

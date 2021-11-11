@@ -1,0 +1,85 @@
+{{Short description|Austrian economist}}
+{{Infobox economist
+| name             = Ernst Fehr
+| school_tradition =
+| color            =
+| image       = Fehr Ernst Webbild.jpg
+| image_size       =
+| caption     =
+| birth_date       = {{Birth date and age|1956|06|21|df=y}}
+| birth_place      = [[Hard, Austria]]
+| death_date       =
+| death_place      =
+| nationality      = [[Austria]], [[Switzerland]]<ref name="double_citizen">[https://www.munzinger.de/document/00000028268 Ernst Fehr, Internationales Biographisches Archiv 21/2016 vom 24. Mai 2016 (fl). Ergänzt um Nachrichten durch MA-Journal bis KW 14/2018], im [[Munzinger-Archiv]], abgerufen am 18. Juli 2018.</ref>
+| institution      = [[University of Zürich]]
+| field            = [[Behavioral economics]]
+| alma_mater       = [[University of Vienna]]
+| influences       =
+| influenced       = [[Armin Falk]]
+| contributions    =
+| awards           = [[Gossen Prize]] (1999),<br />[[Marcel Benoist Prize]] (2008)
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pfe29
+|doctoral_students=[[Armin Falk]]}}
+'''Ernst Fehr''' (born 21 June 1956 in Hard, [[Austria]]) is an Austrian-Swiss<ref name="double_citizen"/> behavioral economist and [[Neuroeconomics|neuroeconomist]] and a Professor of Microeconomics and Experimental Economic Research, as well as the vice chairman of the Department of Economics at the [[University of Zürich]], [[Switzerland]].  His research covers the areas of the [[evolution]] of human [[cooperation]] and sociality, in particular [[Social justice|fairness]], [[reciprocity (social and political philosophy)|reciprocity]] and [[bounded rationality]].
+
+He is also well known for his important contributions to the new field of neuroeconomics, as well as to behavioral economics, [[behavioral finance]] and [[experimental economics]]. According to [[Research Papers in Economics|IDEAS/REPEC]], he is the second-most influential German-speaking economist, and is ranked at 86th globally.<ref>{{cite web | title=Top 10% Authors, as of September 2011 | url=http://ideas.repec.org/top/top.person.all.html | work=IDEAS/REPEC | access-date=2011-10-09 }}</ref>
+
+In 2010 Ernst Fehr founded, together with his brother, Gerhard Fehr, FehrAdvice & Partners, the first globally operating consultancy firm completely dedicated to [[behavioral economics]].
+
+In 2016, Fehr was ranked as the most influential economist in Germany,<ref>[https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/f-a-z-oekonomenranking-2016-ernst-fehr-gewinnt-14417933.html FAZ.net / Patrick Bernau: Ernst Fehr an der Spitze der Ökonomen]</ref> Austria,<ref>Top 23 - diese Ökonomen prägen Österreich / die Presse.com: http://diepresse.com/home/wirtschaft/economist/4813687/Top-23_Diese-Okonomen-praegen-Osterreich</ref> and Switzerland.<ref>Diese Ökonomen prägen die Debatte in der Schweiz / www.nzz.ch: http://www.nzz.ch/wirtschaft/oekonomen-einfluss-ranking-2016-diese-oekonomen-praegen-die-debatte-in-der-schweiz-ld.114203</ref>
+
+== Awards and prizes==
+In 2008, Fehr won the Marcel-Benoist of 100,000 [[Swiss francs]]. In 2011, he was awarded the Vorarlberg Science Prize ([[€]]10,000); in 2012, he received the [[Austrian Decoration for Science and Art]] and on 9 April 2013 he was awarded the [[Gottlieb Duttweiler Prize]] "for his pioneering research on the role of fairness in markets, organisations and in individual decisions".<ref>[http://www.gdi.ch/en/gd-prize Gottlieb Duttweiler Award]</ref>
+
+Fehr is an honorary member of the [[American Academy of Arts and Sciences]], a member of the [[American Academy of Political and Social Sciences]] and visiting professor at the [[Massachusetts Institute of Technology]].
+
+In 2016, Fehr received the honorary doctorate of the [[University of Graz]].
+
+In 2017, Fehr was appointed as lifelong foreign honorary member of the American Economic Association, AEA, together with Philippe Aghion, an economics professor at Harvard University.<ref>[https://www.aeaweb.org/about-aea/honors-awards/foreign-honorary-members ''AER Foreign Honorary Members''] [[American Economic Association|aeaweb.org]], 15. April 2017.</ref> The number of honorary members is limited. The election is made by the Executive Committee of the American Economic Association and will only take place if a former honorary member dies.<ref>[https://www.aeaweb.org/news/press-release-awards-2017] [[American Economic Association|aeaweb.org]], 14. April 2017, 15. April 2017.</ref>
+
+==Why Social Preferences Matter==
+In his 2002 collaboration with [[Urs Fischbacher]], ''Why Social Preferences Matter – The Impact of Non-Selfish Motives on Competition, Cooperation and Incentives'', he begins with the abstract:
+
+<blockquote>A substantial number of people exhibit social preferences, which means they are not solely motivated by material self-interest but also care positively or negatively for the material payoffs of relevant reference agents.  We show empirically that economists can fail to understand fundamental economic questions when they disregard social preferences, in particular, that without taking social preferences into account, it is not possible to understand adequately (i) effects of competition on market outcomes, (ii) laws governing cooperation and collective action, (iii) effects and the determinants of material incentives, (iv) which contracts and property rights arrangements are optimal, and (v) important forces shaping social norms and market failures.</blockquote>
+
+He conjectures that we could call economics "[[the dismal science]]" because it consistently assumes the worst in human motives, which contrasts sharply with the pervasive idea that consumer tastes are heterogeneous.  He attacks the idea on two fronts.  First, because a great amount of evidence has contradicted the selfishness hypothesis; second, because failure to regard other-concerning behavior ignores central market activities.<ref>''The Economic Journal'', "Why Social Preferences Matter – The Impact of Non-Selfish Motives on Competition, Cooperation and Incentives" (Blackwell Publishers, Oxford and Malden, 2002) Vol. 112, No. 489 C1–C33</ref>
+
+==See also==
+* [[Dictator game]]
+* [[Inequity aversion]]
+* [[List of publications in economics]]
+
+==Selected bibliography==
+* {{cite book | last1 = Fehr | first1 = Ernst | last2 = Henrich | first2 = Joseph | last3 = Boyd | first3 = Robert | last4 = Camerer | first4 = Colin | last5 = Bowles | first5 = Samuel | last6 = Gintis | first6 = Herbert| author-link2 = Joseph Henrich | author-link3 = Robert Boyd (anthropologist) | author-link4 = Colin Camerer | author-link5 = Samuel Bowles (economist) | author-link6 = Samuel Bowles (economist)  | title = Foundations of human sociality: economic experiments and ethnographic evidence from fifteen small-scale societies | publisher = Oxford University Press | location = Oxford New York | year = 2004 | isbn = 9780199262052 }}
+* {{cite book | last1 = Fehr | first1 = Ernst | last2 = Gintis | first2 = Herbert | last3 = Bowles | first3 = Samuel | last4 = Boyd | first4 = Robert | author-link2 = Herbert Gintis | author-link3 = Samuel Bowles (economist) | author-link4 = Robert Boyd (anthropologist) | title = Moral sentiments and material interests: the foundations of cooperation in economic life | publisher = MIT Press | location = Cambridge, Massachusetts | year = 2005 | isbn = 9780262572378 }}
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://www.econ.uzh.ch/index.html University of Zürich, Department of Economics]
+* [http://www.iew.uzh.ch/institute/people/fehr.html Homepage of Ernst Fehr]
+* [http://fehradvice.com/ueber-uns/team/der-verwaltungsrat/ernst-fehr-verwaltungsrat, FehrAdvice & Partners AG, The Behavioral Economics Consultancy Group]
+
+{{Presidents of the European Economic Association}}
+{{Evolutionary psychology}}
+{{Authority control}}
+
+{{DEFAULTSORT:Fehr, Ernst}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:People from Bregenz District]]
+[[Category:Austrian economists]]
+[[Category:Swiss economists]]
+[[Category:Experimental economists]]
+[[Category:University of Zurich faculty]]
+[[Category:Neuroeconomists]]
+[[Category:Austrian expatriates in Switzerland]]
+[[Category:Recipients of the Austrian Decoration for Science and Art]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Association for Psychological Science]]
+[[Category:Members of Academia Europaea]]
+[[Category:Labor economists]]
+[[Category:Fellows of the European Economic Association]]

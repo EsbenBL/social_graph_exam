@@ -1,0 +1,74 @@
+{{short description|British economist}}
+{{Use dmy dates|date=February 2018}}
+{{Use British English|date=February 2018}}
+{{Infobox scientist
+| name           = Neil Shephard
+| image          = Shephard, Neil (1964).jpeg
+| image_size     = 
+| caption        = 
+| birth_date     = {{Birth date and age|1964|10|08|df=y}}
+| birth_place    = [[Plymouth]], [[England]]
+| death_date     = 
+| death_place    = 
+| workplaces     = [[London School of Economics]]<br>[[Nuffield College, Oxford]]<br>[[Harvard University]]
+| education      = [[University of York]]<br>[[London School of Economics]]
+| field         = [[econometrics]], [[statistics]], [[finance]]
+|known_for       = [[auxiliary particle filter]], [[realised variance]], [[bipower variation]]
+| spouse         = Dr Heather Bell
+| prizes         = [[Guy Medal]] in Silver, 2017 <br> [[Richard Stone Prize]], 2012
+| parents        =
+| children       =
+| website        = {{url|https://scholar.harvard.edu/shephard/home}}
+}}
+
+'''Neil Shephard''' (born 8 October 1964), [[British Academy|FBA]], is an [[econometrician]], currently Frank B. Baird Jr., Professor of Science in the Department of [[Economics]] and the Department of [[Statistics]] at [[Harvard University]].  He is Head of the Department of Statistics at Harvard.  
+
+His most well known contributions are: (i) the formalisation of the econometrics of realised [[Volatility (finance)|volatility]], which nonparametrically estimates the volatility of asset prices, (ii) the introduction of the auxiliary particle filter (signal extraction), (iii) the nonparametric identification of jumps in financial economics, through multipower variation, (iv) stochastic volatility models based on non-Gaussian Ornstein-Uhlenbeck processes, known as 'Barndorff-Nielsen-Shephard' models.
+
+==Early life and education==
+
+Neil Shephard was born in Plymouth, England, but moved to Norfolk, England, at age of one. His mother was Tydfil Shephard (1930-1972), who was a high school teacher.  
+His father is Tom Shephard, who was a Norfolk high school head.  Since 1975 [[Gillian Shephard]] has been his step-mother.  He attended the [[Marshland High School]] West Walton, King Edward VII Grammar School in King's Lynn and 1981-1983 [[City of Norwich School]] (he studied pure mathematics & statistics, economics and politics at A-level).   He studied economics and statistics as an undergraduate at the [[University of York]] in the UK 1983-1986. He did his M.Sc. and Ph.D. (examined in 1989 and graduated in 1990) at the [[London School of Economics|LSE]].
+
+==Academic career==
+
+He was a lecturer in statistics at the [[London School of Economics|LSE]] from 1988 to 1993. He moved to [[Nuffield College, Oxford]] in 1991 to join the economics group as the Gatsby Prize Research Fellow in Econometrics (funded by the [[Gatsby Foundation]]).  In 1993 he became an Official Fellow in Economics at [[Nuffield College, Oxford]].   
+He has been Professor of Economics and of Statistics at [[Harvard University]] since 2013. 
+
+He was elected a Fellow of the [[British Academy]] in 2006, a Fellow of the [[Econometric Society]] in 2004. He was awarded an honorary doctorate in economics by [[Aarhus University]] in 2009, the 2012 Richard Stone Prize in Applied Econometrics and the 2017 Guy Medal in Silver of the Royal Statistical Society.
+
+With [[David F. Hendry]] he founded the [[Econometrics Journal]] in 1998.  With [[Colin Mayer]] he founded Oxford University's Masters in Financial Economics. In 2007 he co-founded the [[Oxford-Man Institute]], which he directed from 2007 to 2011. He chaired the Statistics Department at Harvard from 2015 to 2022. With Computer Science and Statistical colleagues, he founded Harvard University's Masters in Data Science in 2018 and the Harvard Data Science Initiative.
+
+==Publications==
+
+===Representative articles===
+*[[Ole E. Barndorff-Nielsen]], [[Peter Reinhard Hansen]], Asger Lunde, Neil Shephard (2008), "Designing realised kernels to measure the ex-post variation of equity prices in the presence of noise", Econometrica. Vol. 76, pp.&nbsp;1481–1536
+*G. Fiorentini, Enrique Sentana and Neil Shephard (2004) ''Likelihood-based estimation of latent generalised ARCH structures'', Econometrica, 2004, 72, 1481–1517.
+*Ole E. Barndorff-Nielsen and Neil Shephard (2004) ''Econometric analysis of realised covariation: high frequency based covariance, regression and correlation in financial economics'', Econometrica, 72, 885–925.
+*Ole E. Barndorff-Nielsen and Neil Shephard (2004) ''Power and bipower variation with stochastic volatility and jumps'' (with discussion) Journal of Financial Econometrics, 2004, 2, 1–48.
+*Ole E. Barndorff-Nielsen and Neil Shephard (2002) ''Econometric analysis of realised volatility and its use in estimating stochastic volatility models'', [[Journal of the Royal Statistical Society]], Series B, 63, 2002, 253–280.
+*Ole E. Barndorff-Nielsen and Neil Shephard (2001) ''Non-Gaussian Ornstein-Uhlenbeck-based models and some of their uses in financial economics'', (with discussion), Journal of the Royal Statistical Society, Series B, 63, 2001, 167–241.
+*Michael K. Pitt and Neil Shephard (1999) ''Filtering via simulation: auxiliary particle filter'', Journal of the American Statistical Association, 94, 1999, 590–599.
+*Sangjoon Kim, [[Siddhartha Chib]] and Neil Shephard (1998) ''Stochastic volatility: likelihood inference and comparison with ARCH models'', Review of Economic Studies, 65, 1998, 361–393.
+*Andrew C. Harvey, Esther Ruiz and Neil Shephard (1994) ''Multivariate stochastic variance models'', Review of Economic Studies 61, 1994, 247–264.
+
+===Edited volumes===
+*Neil Shephard (2005) ''Stochastic Volatility: Selected Readings'', edited volume, [[Oxford University Press]].
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shephard, Neil}}
+<!-- [[Category:Econometrician]] -->
+[[Category:1964 births]]
+[[Category:Living people]]
+[[Category:British economists]]
+[[Category:Fellows of the British Academy]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Alumni of the University of York]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:Academics of the London School of Economics]]
+[[Category:Fellows of Nuffield College, Oxford]]
+[[Category:Statutory Professors of the University of Oxford]]
+[[Category:Probability theorists]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]

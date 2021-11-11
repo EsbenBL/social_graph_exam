@@ -1,0 +1,52 @@
+{{short description|American economist}}
+{{Infobox scientist
+| name        = Truman F. Bewley
+| image       = <!--(filename only, i.e. without "File:" prefix)-->
+| imagesize   = 
+| alt         = 
+| caption     = 
+| birth_date  = {{birth date and age|1941|7|19|mf=y}}
+| birth_place = 
+| death_date  = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| nationality = [[United States|American]]
+| fields      = [[Mathematical economics]]
+| workplaces  = [[Yale University]]
+| alma_mater  = [[University of California, Berkeley]]
+| doctoral_advisor = [[Calvin C. Moore]]
+| doctoral_students = [[Stephen Morris (game theorist)|Stephen Morris]]<br>[[James A. Robinson (economist)|James A. Robinson]]<br>Dean Corbae
+| known_for   = 
+| awards      = 
+}}
+
+'''Truman Fassett Bewley''' (born July 19, 1941) is an American economist. He is the Alfred Cowles Professor of Economics at [[Yale University]].<ref>{{Cite web|url=http://cowles.econ.yale.edu/faculty/bewley.htm|title = Welcome &#124; Cowles Foundation for Research in Economics}}</ref> Originally specializing in [[mathematical economics]] and [[general equilibrium theory]], since the late 1990s Bewley has gained renown for his work on [[sticky wages]].<ref>"Why Wages Do Not Fall in Recessions," ''The Economist'', February 26, 2000: http://cowles.econ.yale.edu/news/bewley/tfb_00-02_wages.htm</ref> In Bewley's 1999 book ''Why Wages Don't Fall During a Recession'',<ref>{{cite book |last=Bewley |first=Truman F. |year=1999 |title=Why Wages Don't Fall During a Recession |url=https://archive.org/details/whywagesdontfall00bewl |url-access=registration |publisher=Harvard University Press |isbn=9780674952416 }}</ref> hundreds of interviews with executives, labor leaders, and other professionals establish morale as an important factor in why businesses are reluctant to decrease employee compensation at times of low demand.
+
+In [[general equilibrium theory]], Bewley (1972) established key existence results for models with infinitely many goods.<ref>{{cite journal |last=Bewley |first=T. |year=1972 |title=Existence of Equilibria in Economies with Infinitely many Commodities |journal=[[Journal of Economic Theory]] |volume=4 |issue= 3|pages=514–40 |doi= 10.1016/0022-0531(72)90136-6}}</ref>
+
+Due to Bewley (1977),<ref>{{cite journal |last=Bewley |first=Truman F. |year=1977 |title=The Permanent Income Hypothesis: A Theoretical Formulation |journal=J. Econ. Theory |volume=16 |issue= 2|pages=252–92 |doi= 10.1016/0022-0531(77)90009-6|url=http://www.dtic.mil/get-tr-doc/pdf?AD=ADA031359 }}</ref> Bewley is the namesake of Bewley models, the class of [[incomplete markets]] general equilibrium models in which agents face idiosyncratic income shocks and achieve ''partial'' insurance via, for example, a [[risk-free bond]] or capital.<ref>{{cite journal |last=Bewley |first=Truman F. |year=1986 |title=Stationary Monetary Equilibrium with a Continuum of Independently Fluctuating Consumers |url=http://dido.wss.yale.edu/P/cp/p06b/p0671.pdf }}</ref><ref>{{cite book |last1=Ljungqvist |first1=L. |author-link=Lars Ljungqvist |last2=Sargent |first2=T. J. |author2-link=Thomas Sargent |year=2004 |title=Recursive Macroeconomic Theory |url=https://archive.org/details/recursivemacroec02edljun |url-access=registration |publisher=The MIT Press }}</ref> Aiyagari (1994),<ref>{{cite journal |last=Aiyagari |first=S. Rao |year=1994 |title=Uninsured Idiosyncratic Risk and Aggregate Saving |journal=[[Quarterly Journal of Economics]] |volume=109 |issue= 3|pages=659–84 |doi= 10.2307/2118417|jstor=2118417 |url=http://www.minneapolisfed.org/research/WP/WP502.pdf }}</ref> Huggett (1993),<ref>{{cite journal |last=Huggett |first=Mark |year=1993 |title=The Risk-Free Rate in Heterogeneous-Agent Incomplete-Insurance Economies |journal=J. Econ. Dyn. Control |volume=17 |issue= 5–6|pages=953–69 |doi= 10.1016/0165-1889(93)90024-m|hdl=2142/30021 |hdl-access=free }}</ref> and [[Per Krusell|Krusell]] and Smith (1998)<ref>{{cite journal |last1=Krusell |first1=P. |first2=A. A., Jr. |last2=Smith |year=1998 |title=Income and Wealth Heterogeneity in the Macroeconomy |journal=[[Journal of Political Economy]] |volume=106 |issue= 5|pages=867–96 |doi= 10.1086/250034|s2cid=17606592 }}</ref> are examples of Bewley models, each with many hundreds of citations according to [[Google Scholar]].
+
+Bewley was elected a fellow of the [[American Academy of Arts and Sciences]] in 2005.<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=American Academy of Arts and Sciences|access-date=June 25, 2011}}</ref>  In 2012 he was elected a distinguished fellow of the [[American Economic Association]].
+
+== References ==
+<!--- See http://en.wikipedia.org/wiki/Wikipedia:Footnotes on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist}}
+
+== External links ==
+* [http://cowles.econ.yale.edu/faculty/bewley.htm Homepage of Truman F. Bewley]
+* [https://web.archive.org/web/20110514030836/http://homepage.newschool.edu/~het/profiles/bewley.htm Major Works of Truman F. Bewley]
+* {{MathGenealogy |id=32246}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bewley, Truman F.}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Yale University faculty]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]

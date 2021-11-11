@@ -1,0 +1,148 @@
+{{for|Lloyd Stowell Shapley's grand-uncle, the United States navy captain|Lloyd Stowell Shapley}}
+{{short description|American mathematician}}
+{{Use mdy dates|date=March 2016}}
+{{Infobox scientist
+| image       = Shapley, Lloyd (1923).jpeg{{!}}border
+| caption     = Shapley in 1980
+| birth_name  = Lloyd Stowell Shapley
+| birth_date  = {{Birth date|1923|6|2}}
+| birth_place = [[Cambridge, Massachusetts]], U.S.
+| death_date  = {{death date and age|2016|3|12|1923|6|2}}
+| death_place = [[Tucson, Arizona]], U.S.
+| alma_mater  = [[Princeton University]]<br />[[Harvard University]]
+| doctoral_advisor  = [[Albert W. Tucker]]<ref name=AWT_LSShapley>{{mathgenealogy|id=46053}}</ref>
+| doctoral_students = 
+| thesis_title = Additive and non-additive set functions{{r|PhDLink}} 
+| known_for    = [[Shapley value]]<br />[[Shapley–Shubik power index]]<br />[[stochastic games]]<br />[[Bondareva–Shapley theorem]]<br />[[Shapley–Folkman lemma|Shapley–Folkman lemma
+& theorem]]<br />[[Gale–Shapley algorithm]]<br />[[potential game]]<br />[[Core (game theory)|core]], kernel and nucleolus <br />[[market games]]<br />[[authority distribution]]<br />multi-person utility<br />non-atomic games
+| influences = [[John von Neumann]]<br />[[Martin Shubik]]<br />[[Jon Folkman]]
+| influenced = [[Martin Shubik]]<br />[[Jon Folkman]]
+| awards = [[Nobel Memorial Prize in Economic Sciences]] (2012)<br>[[File:Bronze Star medal.jpg|10px]] [[Bronze Star Medal]](1944)<br> [[Golden Goose Award]] (2013)<br>[[John von Neumann Theory Prize]] (1981)
+| field = [[Mathematics]], [[economics]]
+| work_institution = {{nowrap|[[University of California, Los Angeles]]}}<br />[[RAND Corporation]]<br />[[Princeton University]]
+| website ={{URL|http://www.econ.ucla.edu/shapley/}}
+}}
+'''Lloyd Stowell Shapley''' ({{IPAc-en|ˈ|ʃ|æ|p|l|i}}; June 2, 1923 – March 12, 2016) was an American [[mathematician]] and [[Nobel Prize]]-winning [[economist]]. He contributed to the fields of [[mathematical economics]] and especially [[game theory]]. Shapley is generally considered one of the most important contributors to the development of game theory since the work of [[John von Neumann|von Neumann]] and [[Oskar Morgenstern|Morgenstern]].<ref>Roth, A.E., Introduction to the Shapley Value, in "The Shapley Value: Essays in Honor of Lloyd S. Shapley", Cambridge University Press, 1988.</ref> With [[Alvin E. Roth]], Shapley won the 2012 [[Nobel Memorial Prize in Economic Sciences]] "for the theory of stable allocations and the practice of [[market design]]."<ref name=":0">{{Cite news|url=https://www.economist.com/blogs/freeexchange/2016/03/matchmaker-heaven|title=Lloyd Shapley, a Nobel laureate in economics, has died|newspaper=The Economist|issn=0013-0613|access-date=March 13, 2016}}</ref><ref>{{cite journal|url=http://marketdesigner.blogspot.com/2016/03/lloyd-s-shapley-1923-2016.html|title=Lloyd S. Shapley 1923– 2016|last=Roth|first=Al|date=March 12, 2016|journal=Nature|volume=532|issue=7598|page=178|doi=10.1038/532178a|pmid=27075091|bibcode=2016Natur.532..178R|s2cid=4469185|access-date=March 13, 2016|doi-access=free}}</ref>
+
+== Life and career ==
+
+Lloyd Shapley was born on June 2, 1923, in [[Cambridge, Massachusetts]], one of the sons of astronomers [[Harlow Shapley]] and [[Martha Betz Shapley]], both from Missouri.<ref>{{cite news|url=https://www.nytimes.com/1981/01/27/obituaries/martha-betz-shapley.html|title=MARTHA BETZ SHAPLEY|date=January 27, 1981|work=The New York Times}}</ref> He attended [[Phillips Exeter Academy]] and was a student at Harvard when he was drafted in 1943. He served in the [[United States Army Air Corps]] in [[Chengdu, China]] and received the [[Bronze Star Medal|Bronze Star]] decoration for breaking the Soviet weather code.<ref name=int>{{cite web|url=https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2012/shapley-interview.html|title=Lloyd S. Shapley – Interview|publisher=Nobel Media AB| access-date = March 13, 2016}}</ref>
+
+After the war, Shapley returned to Harvard and graduated with an [[Bachelor of Arts|A.B.]] in mathematics in 1948. After working for one year at the [[RAND Corporation]], he went to [[Princeton University]] where he received a Ph.D. in 1953<ref name=princ>{{cite web | url = https://www.princeton.edu/main/news/archive/S35/03/02E57/index.xml | title = Princeton alumnus Shapley wins Nobel Prize | date= October 15, 2012 | access-date = March 13, 2016|publisher = [[Princeton University]]}}</ref> based on the thesis "Additive and non-additive set functions"{{r|AWT_LSShapley}}.<ref name=PhDLink>{{cite web
+|url=https://perso.uclouvain.be/pierre.dehez/Shapley/Shapley-Thesis.pdf
+|title=Additive and non-additive set functions
+|  author=L.S. Shapley|year=1953| access-date = May 13, 2021
+}}</ref> His thesis and post-doctoral work introduced the [[Shapley value]] and the [[core (game theory)|core]] solution in [[game theory]].  Shapley defined game theory as "a mathematical study of conflict and cooperation." After graduating, he remained at Princeton for a short time before going back to the RAND corporation from 1954 to 1981. In 1950, while a graduate student, Shapley invented the board game ''[[So Long Sucker]]'', along with [[Mel Hausner]], [[John Forbes Nash]], and [[Martin Shubik]].<ref>Hausner, M., Nash, J. F., Shapley, L. S. & Shubik, M., (1964), "So Long Sucker, A Four-Person Game", ''Game Theory and Related Approaches to Social Behavior'', John Wiley & Sons, Inc., New York.</ref> Israeli economist [[Robert Aumann]] said Shapley was "the greatest game theorist of all time."<ref name="Hagerty, James 2016">Hagerty, James, Lloyd Shapley: 1923-2016, Wall Street Journal, March 19–20, 2016, p. A7.</ref>
+
+[[File:Lloyd Shapley 2 2012.jpg|left|thumb|upright=.85|Lloyd Shapley in Stockholm 2012]]
+From 1981 until his death, Shapley was a professor at the [[University of California, Los Angeles]] (UCLA), serving at the time of his death as a professor emeritus there, affiliated with the Mathematics and Economics departments. He died on March 12, 2016, in [[Tucson, Arizona]], after suffering from a [[broken hip]], at the age of 92.<ref name=":0" />
+
+Shapley was an expert [[Kriegspiel (chess)|Kriegspiel]] player, and an avid baseball fan.<ref name="Hagerty, James 2016"/>
+
+== Contribution ==
+
+Along with the [[Shapley value]], [[stochastic games]], the [[Bondareva–Shapley theorem]] (which implies that [[convex games]] have non-empty cores), the [[Shapley–Shubik power index]] (for [[Weighted voting|weighted]] or block voting power), the [[Gale–Shapley algorithm]] for the [[stable marriage problem]], the concept of a [[potential game]] (with [[Dov Monderer]]), the [[Aumann–Shapley value|Aumann–Shapley]] pricing, the [[John Harsanyi|Harsanyi]]–Shapley solution, the [[Snow–Shapley theorem]] for matrix games, and the [[Shapley–Folkman lemma|Shapley–Folkman lemma & theorem]] bear his name.<ref name=aea/> According to ''[[The Economist]]'', Shapley "may have thought of himself as a mathematician, but he cannot avoid being remembered for his huge contributions to economics".<ref name=econ>{{cite news | url = https://www.economist.com/blogs/freeexchange/2016/03/matchmaker-heaven | title = Matchmaker in heaven – Lloyd Shapley, a Nobel laureate in economics, has died | work = [[The Economist]] | access-date = March 13, 2016 | date = March 13, 2016}}</ref>  The [[American Economic Association]] noted that Shapley was "one of the giants of game theory and economic theory".<ref name=aea>{{cite web | url = https://www.aeaweb.org/PDF_files/Bios/Shapley_bio.pdf | access-date = March 13, 2016 | publisher = [[American Economic Association]] | title = Lloyd Shapley | url-status = dead | archive-url = https://web.archive.org/web/20160316223210/https://www.aeaweb.org/PDF_files/Bios/Shapley_bio.pdf | archive-date = March 16, 2016 | df = mdy-all }}</ref>
+
+Besides, his early work with R. N. Snow and [[Samuel Karlin]] on [[matrix game]]s was so complete that little has been added since. He has been instrumental in the development of [[utility theory]], and it was he who laid much of the groundwork for the solution of the problem of the existence of [[Von Neumann-Morgenstern solution|Von Neumann–Morgenstern stable sets]]. His work with [[Michael Maschler|M. Maschler]] and B. Peleg on the kernel and the nucleolus, and his work with [[Robert Aumann]] on non-atomic games and on long-term competition have all appeared in economic theory.<ref>{{Cite book | url = https://books.google.com/books?id=qWyjAQAAQBAJ&q=shapley+%22utility+theory%22&pg=PA385 | title = Economic Thinkers: A Biographical Encyclopedia | page = 385 | last = Diertele | first = David A. | access-date = 2016-03-13| isbn = 9780313397479 | date = 2013-08-08 }}</ref>
+
+Shapley argued with his sons about whether he should accept the Nobel Prize at all.  He opined that his father, the astronomer [[Harlow Shapley]], deserved it more.  His sons persuaded him to accept it and accompanied him to [[Stockholm, Sweden|Stockholm]].<ref>Hagerty, James, Lloyd Shapley: 1923-2016, Wall Street Journal, March 19–20, 2016, p.A7</ref>
+
+== Awards and honors ==
+
+* [[Bronze Star Medal|Bronze Star]], U.S. Army Air Corps, 1944<ref name=int/>
+* Procter Fellow, [[Princeton University]], 1951–52<ref name=econometric/>
+* Fellow, [[Econometric Society]], 1967<ref name=econometric>{{cite web | url = http://www.econ.ucla.edu/shapley/ShapleyBio.1.html | title = Lloyd Stowell Shapley – Vita | access-date = March 13, 2016 | publisher = [[UCLA]]}}</ref>
+* Fellow, [[American Academy of Arts and Sciences]], 1974<ref name=econometric/>
+* Member, [[National Academy of Sciences]], 1978<ref name=econometric/>
+* [[John von Neumann Theory Prize]], 1981<ref name=econometric/>
+* Honorary Ph.D., [[Hebrew University of Jerusalem]], 1986<ref name=econometric/>
+* Fellow, INFORMS ([[Institute for Operations Research and the Management Sciences]]), 2002<ref>{{cite web | url = https://www.informs.org/Connect-with-People/Fellows/INFORMS-Fellows-Class-of-2002 | title = INFORMS – Fellows Class of 2002 | publisher = [[Institute for Operations Research and the Management Sciences]] | access-date = March 13, 2016 | url-status = dead | archive-url = https://web.archive.org/web/20160314012641/https://www.informs.org/Connect-with-People/Fellows/INFORMS-Fellows-Class-of-2002 | archive-date = March 14, 2016 | df = mdy-all }}</ref>
+* Distinguished Fellow, [[American Economic Association]], 2007<ref>{{cite web | url = https://www.aeaweb.org/honors_awards/disting_fellows.php | title = Distinguished Fellows | publisher = [[American Economic Association]] | access-date = March 13, 2016}}</ref>
+* Fellow, [[American Mathematical Society]], 2012<ref>[http://www.ams.org/profession/fellows-list List of Fellows of the American Mathematical Society], retrieved July 18, 2013.</ref>
+* Sveriges Riksbank [[Nobel Memorial Prize in Economic Sciences]], 2012<ref name=princ/>
+* [[Golden Goose Award]], 2013<ref>{{cite web | title=Market Design | url=http://www.goldengooseaward.org/awardees/zfh0utmzft7uewzc3lscuvdp21ogw2 | publisher=The Golden Goose Award | access-date=May 27, 2015}}</ref>
+
+== Selected publications ==
+
+* A Value for ''n''-person Games [1953], In ''Contributions to the Theory of Games'' volume II, H. W. Kuhn and A. W. Tucker (eds.).
+* Stochastic Games [1953], ''Proceedings of National Academy of Science'' Vol. 39, pp.&nbsp;1095–1100. {{doi|10.1073/pnas.39.10.1095}}
+* A Method for Evaluating the Distribution of Power in a Committee System [1954] (with [[Martin Shubik]]), ''[[American Political Science Review]]'' Vol. 48, pp.&nbsp;787–792.
+* College Admissions and the Stability of Marriage [1962] (with [[David Gale]]), ''The [[American Mathematical Monthly]]'' Vol. 69, pp.&nbsp;9–15.
+* Simple Games : An Outline of the Descriptive Theory [1962], ''[[Behavioral Science (journal)|Behavioral Science]]'' Vol. 7, pp.&nbsp;59–66.
+* On Balanced Sets and Cores [1967], ''[[Naval Research Logistics Quarterly]]'' Vol. 14, pp.&nbsp;453–460.
+* On Market Games [1969] (with [[Martin Shubik]]), ''[[Journal of Economic Theory]]'' Vol. 1, pp.&nbsp;9–25.
+* Utility Comparison and the Theory of Games [1969], ''La Decision'', pp.&nbsp;251–263.
+* Cores of Convex Games [1971] ''International Journal of Game Theory'' Vol. 1, pp.&nbsp;11–26.
+* The Assignment Game I: The Core [1971] (with [[Martin Shubik]]), ''International Journal of Game Theory'' Vol. 1, pp.&nbsp;111–130.
+* ''Values of Non-Atomic Games'' [1974] (with [[Robert Aumann]]), Princeton University Press.
+* Mathematical Properties of the Banzhaf Power Index [1979] (with [[Pradeep Dubey]]), ''[[Mathematics of Operations Research]]'' Vol. 4, pp.&nbsp;99–132.
+* Long-Term Competition – A Game-Theoretic Analysis [1994] (with [[Robert Aumann]]), in ''Essays in Game Theory: In Honor of [[Michael Maschler]]'', [[Nimrod Megiddo]] (ed.), Springer-Verlag.
+* Potential Games [1996] (with [[Dov Monderer]]), ''[[Games and Economic Behavior]]'' Vol. 14, pp.&nbsp;124–143.
+* On Authority Distributions in Organizations [2003] (with Xingwei Hu), ''Games and Economic Behavior'' Vol. 45, pp.&nbsp;132–152, 153–170.
+* Multiperson Utility [2008] (with Manel Baucells). ''Games and Economic Behavior'' Vol. 62, pp.&nbsp;329–347.
+
+== See also ==
+{{Portal|Economics|Biography}}
+
+* [[Matching theory (economics)]]
+
+== References ==
+{{reflist|30em}}
+
+==Further reading==
+''Stable Marriage and Its Relation to Other Combinatorial Problems: An Introduction to the Mathematical Analysis of Algorithms'', Donald E. Knuth, American Mathematical Society, 1997 (English Translation.)
+
+== External links ==
+<!--* [http://www.econ.ucla.edu/shapley/ Home Page]
+* {{MathGenealogy}}-->
+* [https://web.archive.org/web/20061001143028/http://www.ma.huji.ac.il/~mseyal/shapley4to95.pdf The Shapley Value]
+* [https://web.archive.org/web/20121203072321/http://www.informs.org/Recognize-Excellence/Award-Recipients/Lloyd-S.-Shapley Citation of von Neumann Theory Prize on L.S.Shapley's work]: "Lloyd Shapley has dominated game theory for the thirty-seven years since von Neumann and Morgenstern published their path-breaking book, ''The Theory of Games and Economic Behavior''."
+* [https://www.informs.org/About-INFORMS/History-and-Traditions/Biographical-Profiles/Wolfe-Philip Albert Tucker's comment on L.S.Shapley's work]. In 1995, [[Albert W. Tucker]] mentioned in his passing that Shapley was second only to Von Neumann as the most important researcher in theory of games so far. Philip Wolfe Interview by Irv Lustig, May 4, 2001.  Video by Irv Lustig, Short Hills, NJ.
+* {{Nobelprize|name=Lloyd S. Shapley}} including the Nobel Lecture 
+* [https://web.archive.org/web/20110719104159/http://ratio.huji.ac.il/dp/dp428.pdf Robert Aumann's Nobel lecture], also see here [http://www.huji.ac.il/dovrut/nobel_lecture.doc].
+* [http://newsroom.ucla.edu/releases/ucla-mourns-the-passing-of-nobel-laureate-lloyd-shapley-92 UCLA - In Memoriam]
+* [https://www.informs.org/content/view/full/271822 Biography of Lloyd S. Shapley] from the Institute for Operations Research and the Management Sciences
+* {{Google Scholar id|dbF9HlQAAAAJ}}
+* {{cite web|title=Lloyd S. Shapley|url=https://econpapers.repec.org/RAS/psh559.htm|publisher=[[EconPapers]]}}
+* {{cite web|title= Lloyd Shapley|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Lloyd+Shapley%22+&acc=off&wc=on&fc=off&group=none|publisher=[[JSTOR]]}}
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Thomas J. Sargent]] | before2 = [[Christopher A. Sims]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 2012 | alongside = [[Alvin E. Roth]] }}
+{{s-aft | after = [[Eugene F. Fama]] | after2 = [[Lars Peter Hansen]] | after3 = [[Robert J. Shiller]] }}
+{{s-end}}
+
+{{Nobel laureates in economics 2001–2025}}
+{{2012 Nobel Prize winners}}
+{{John von Neumann Theory Prize recipients}}
+{{Authority control}}
+
+{{DEFAULTSORT:Shapley, Lloyd}}
+[[Category:Lloyd Shapley| ]]
+[[Category:1923 births]]
+[[Category:2016 deaths]]
+[[Category:People from Cambridge, Massachusetts]]
+[[Category:John von Neumann Theory Prize winners]]
+[[Category:American Nobel laureates]]
+[[Category:Nobel laureates in Economics]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the Institute for Operations Research and the Management Sciences]]
+[[Category:Game theorists]]
+[[Category:Mathematical economists]]
+[[Category:RAND Corporation people]]
+[[Category:Probability theorists]]
+[[Category:20th-century American writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:Harvard University alumni]]
+[[Category:Fellows of the American Mathematical Society]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Economists from Massachusetts]]
+[[Category:United States Army Air Forces personnel of World War II]]
+[[Category:American expatriates in China]]
+[[Category:American people of German descent]]

@@ -1,0 +1,139 @@
+{{short description|Research institute at the University of Oxford}}
+{{Use dmy dates|date=July 2020}}
+{{Use British English|date=April 2011}}
+[[File:Oxford Internet Institute Front Door.jpg|thumb|Front door of the Oxford Internet Institute on [[St Giles', Oxford|St Giles]], Oxford]]
+The '''Oxford Internet Institute''' ('''OII''') is a multi-disciplinary department of social and computer science dedicated to the study of information, communication, and technology, and is part of the [[Social Sciences Division, University of Oxford|Social Sciences Division]] of the [[University of Oxford]], England.
+
+==Overview==
+The OII is housed over three sites on [[St Giles', Oxford|St Giles]] in [[Oxford]], including a primary site at 1 St Giles, owned by [[Balliol College]]. The department undertakes research and teaching devoted to understanding life online, with the aim of shaping [[Internet]] research, policy, and practice.
+
+Founded in 2001, the OII has tracked the Internet's development and use, aiming to shed light on individual, collective, and institutional behaviour online. The department brings together academics from a wide range of disciplines including political science, sociology, geography, economics, philosophy, physics and psychology.
+
+The current director is Professor Victoria Nash.<ref>{{cite web| title=Announcing the OII’s next Director |url=https://www.oii.ox.ac.uk/news/releases/announcing-the-oiis-next-director/ |website=www.oii.ox.ac.uk |publisher=Oxford Internet Institute | location=UK |access-date=15 April 2021}}</ref>
+
+==Research==
+Research at the OII covers a huge variety of topics, with faculty publishing journal articles and books on issues including [[privacy]] and [[Computer security|security]], [[e-government]] and [[e-democracy]], [[Virtual economy|virtual economies]], [[Smart city|smart cities]], digital exclusion, [[digital humanities]], online gaming, [[big data]] and [[Internet geography]]. The OII currently has the following research clusters reflecting the diverse expertise of faculty: 
+* Digital Politics and Government 
+* Information Governance and Security 
+* Social Data Science 
+* Connectivity, Inclusion and Inequality 
+* Internet Economies 
+* Digital Knowledge and Culture 
+* Education, Digital Life and Wellbeing 
+* Ethics and Philosophy of Information
+
+The research conducted at the OII covers a wide range of topics in Internet studies and social impact of online technologies. Online politics, online education, social media and mental health, Internet-based collaboration, online dating, digital economy, geography of the internet, and ethical and legal aspects of the online technologies are among the main research topics followed at the Oxford Internet Institute.{{fact|date=March 2021}} 
+
+===Studies of Wikipedia===
+OII has published several studies in Internet geography and Wikipedia. In November 2011, [[The Guardian]] Data Blog published maps of [[geotagged]] Wikipedia articles written in English, [[Arabic]], [[Egyptian Arabic]], [[French language|French]], [[Hebrew]] and [[Persian language|Persian]].<ref>{{cite news| url=https://www.theguardian.com/news/datablog/2011/nov/11/wikipedia-map-world-languages | newspaper=[[The Guardian]] | first=Simon | last=Rogers | title=The world of Wikipedia's languages mapped | date=11 November 2011}}</ref> OII researcher Mark Graham<ref>{{cite web| url=http://www.oii.ox.ac.uk/people/?id=165 | title=Dr. Mark Graham | publisher=Oxford Internet Institute | location=UK | access-date=14 June 2013}}</ref> led the study and published the results on his blog, ''Zero Geography''.<ref name="zerogeography">{{cite web| first1=Mark | last1=Graham | title=Mapping Wikipedia's augmentations of our planet | url=http://www.zerogeography.net/2011/11/mapping-wikipedias-augmentations-of-our.html | website=www.zerogeography.net | access-date=2014-09-04 | date=10 November 2011 }}</ref> 
+
+Graham also leads an OII project focused on how new users are perceived, represented, and incorporated into the Wikipedia community.<ref>{{cite web| title=Wikipedia's Networks and Geographies: Representation and Power in Peer-Produced Content | url=http://www.oii.ox.ac.uk/research/projects/?id=66 | publisher=Oxford Internet Institute | location=UK |access-date=2014-09-04|date=November 2010}}</ref> 
+
+In 2013, OII researchers led by [[Taha Yasseri]] published a study of controversial topics in 10 different language versions of Wikipedia, using data related to "edit wars".<ref>{{cite arxiv| eprint=1305.5566v2 | last1=Yasseri | first1=Taha|title=The most controversial topics in Wikipedia: A multilingual and geographical analysis |last2=Spoerri|first2=Anselm|last3=Graham|first3=Mark|last4=Kertész|first4=János| class=physics.soc-ph | year=2013}}</ref>
+
+The OII has also been involved in research on the effects of computational propaganda, the [[Big data ethics|ethics of big data]] in different contexts and the political implications of the Internet and social media. It  collaborates with other institutions of the University of Oxford such as the [[Reuters Institute for the Study of Journalism]], the [[Department of Computer Science, University of Oxford|Department of Computer Science]], and the [[Oxford Martin School]].{{fact|date=March 2021}}
+
+==Teaching==
+Since 2006, the OII has offered a [[Doctor of Philosophy|DPhil]] (doctoral) degree in "Information, Communication, and the Social Sciences."<ref>{{cite web|url=http://www.oii.ox.ac.uk/teaching/dphil/|title=Oxford Internet Institute's D. Phil programme|access-date=29 April 2011|url-status=dead|archive-url=https://web.archive.org/web/20110429093642/http://www.oii.ox.ac.uk/teaching/dphil/|archive-date=29 April 2011}}</ref> Since 2009, it has offered a one-year [[Master of Science]] (MSc) degree in "Social Science of the Internet".<ref>{{cite web|url=http://www.oii.ox.ac.uk/teaching/msc/|title=Oxford Internet Institute's one year MSc|access-date=29 April 2011|url-status=dead|archive-url=https://web.archive.org/web/20110415141631/http://www.oii.ox.ac.uk/teaching/msc/|archive-date=15 April 2011}}</ref> From 2015, prospective students can apply to study the MSc degree part-time over two years.<ref>{{Cite web|title = The OII's MSc in Social Science of the Internet is now available for part-time study {{!}} Oxford Internet Institute|url = http://www.oii.ox.ac.uk/graduatestudy/part-time-msc/|website = www.oii.ox.ac.uk|access-date = 2016-01-15}}</ref> In addition, the department also runs an annual Summer Doctoral Programme which brings outstanding PhD students to study at the OII for two weeks each July.<ref>{{Cite web|title = The OII Summer Doctoral Programme|url = http://sdp.oii.ox.ac.uk|website = The OII Summer Doctoral Programme|access-date = 2016-01-15|language = en-US}}</ref> From 2018, prospective students also have the option to apply for a one-year Master of Science degree in Social Data Science<ref>{{Cite web| url=https://www.oii.ox.ac.uk/study/msc-in-social-data-science/ | title=MSc in Social Data Science | publisher=Oxford Internet Institute | location=UK | website=www.oii.ox.ac.uk|language=en-GB|access-date=2017-09-11}}</ref> with the related DPhil in Social Data Science available from 2020 onward.<ref>{{Cite web|url=https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/ | title=DPhil in Social Data Science | publisher=Oxford Internet Institute | location=UK |website=www.oii.ox.ac.uk|language=en-GB|access-date=2019-09-01}}</ref>
+
+==History==
+The Oxford Internet Institute was made possible by a major donation from the [[Shirley Foundation]] of over £10m, with public funding totalling over £5m from the [[Higher Education Funding Council for England]].<ref name="history">{{cite web| title=The Origins of the Oxford Internet Institute: A brief history | first=Andrew | last=Graham | authorlink=Andrew Graham (academic) | url=https://www.balliol.ox.ac.uk/sites/default/files/andrew_graham_origins_of_the_oii.pdf | publisher=[[Balliol College, Oxford]] | location=UK | format=PDF | accessdate=8 October 2021 }}</ref>
+
+The idea originated with Derek Wyatt MP and [[Andrew Graham (academic)|Andrew Graham]], then Master-Elect of Balliol.  Two Balliol Alumni, who knew Dame Stephanie from The Worshipful Company of Information Technologists, persuaded Dame Stephanie to meet Andrew Graham and it was following their meeting that she agreed to give the idea her support.<ref name="history" />
+
+The Oxford Internet Institute is part of a small network of research centres that includes the centres like the [[Berkman Klein Center for Internet & Society]] and [[Information Society Project]] at the [[Yale Law School]]. But it is the only one that functions as a fully functioning, degree-granting department.{{fact|date=March 2021}} 
+
+==Directors==
+* [[Andrew Graham (academic)|Andrew Graham]] Acting (2001–2002)
+* [[William H. Dutton]] (2002–2011)
+* [[Helen Margetts]] (2011–2018)<ref>{{cite web|url=http://www.oii.ox.ac.uk/news/?id=580|title=Professor Helen Margetts Appointed Director of the Oxford Internet Institute|access-date=7 November 2011}}</ref>
+* [[Philip N. Howard]] (2018–2021)
+* Victoria Nash (2021–present)<ref>{{cite web |title=OII {{!}} Announcing the OII’s next Director |url=https://www.oii.ox.ac.uk/news/releases/announcing-the-oiis-next-director/ |website=www.oii.ox.ac.uk |publisher=Oxford Internet Institute |access-date=15 April 2021}}</ref>
+
+== Faculty ==
+
+* [[Helen Margetts]]
+* [[Luciano Floridi]]
+* [[Philip N. Howard]]
+* [[Vili Lehdonvirta]]
+* [[Viktor Mayer-Schönberger]]
+* [[Gina Neff]]
+* [[Taha Yasseri]]
+
+==OII awards==
+For its 10th anniversary, the OII launched the OII awards for lifetime achievement awards on the internet research field and the Internet & Society awards for significant recent contribution to develop the internet for public good.<ref>[http://blogs.oii.ox.ac.uk/oiiawards/oii-awards/#lifetime-achievement OII Awards | OII Awards] {{webarchive|url=https://web.archive.org/web/20131202231559/http://blogs.oii.ox.ac.uk/oiiawards/oii-awards/ |date=2 December 2013 }}. Blogs.oii.ox.ac.uk (18 July 2013). Retrieved 2014-04-12.</ref>
+
+===Lifetime achievement awards winners===
+2016:
+* [[Lawrence Lessig]]
+2014:
+* Sir [[Tim Berners-Lee]]
+* Dame [[Steve Shirley]]
+* [[Barry Wellman]]
+2013:
+* [[John Seely Brown]]
+2012:
+* Professor [[Yochai Benkler]]
+2011:
+* Professor [[Manuel Castells]]
+* Dr [[Vinton G. Cerf]]
+* Dr [[David D. Clark|David Clark]]
+* Professor [[William H. Dutton]]
+* Professor Dame [[Wendy Hall]]
+* Mr. [[Joi Ito]]
+* Mr. [[Niklas Zennström]]
+
+===Internet and society awards===
+2016:
+* [[Shami Chakrabarti]]
+* Mike Bracken
+* [[Juliana Rotich]]
+
+2014:
+*  [[Beth Noveck]]
+* [[Martha Lane Fox]]
+* [[Laura Bates]]
+
+2013:
+* [[Chris Lintott]] and [[galaxy zoo]]
+* [[Alec Ross (innovator)|Alec Ross]]
+* [[Max Schrems]]
+
+2012:
+* [[Simon Rogers]]
+* [[Raspberry Pi Foundation]]
+* [[Jennifer Pahlka]]
+
+2011:
+* [[Tom Watson (Labour politician)|Tom Watson]]
+* [[38 Degrees]]
+* [[Public Sector Transparency Board]]
+
+== See also==
+{{Portal|University of Oxford|Internet}}
+*[[Berkeley Center for Law and Technology]] at [[Boalt Hall]]
+*[[Berkman Klein Center for Internet & Society]]
+*[[Information Society Project]] at [[Yale Law School]]
+*[[Haifa Center for Law & Technology]] at [[Haifa University]]
+*[[Centre for Internet and Society (India)]]
+*[[iLabour Project]]
+
+==References==
+{{Reflist|32em}}
+
+==External links==
+*[http://www.oii.ox.ac.uk/ Oxford Internet Institute website]
+
+{{University of Oxford}}
+
+{{authority control}}
+
+{{coord |51.7578|-1.2595|type:edu_region:GB-OXF|display=title}}
+
+[[Category:2001 establishments in England]]
+[[Category:Research institutes established in 2001]]
+[[Category:Departments of the University of Oxford|Internet Institute]]
+[[Category:Research institutes of the University of Oxford|Internet Institute]]
+[[Category:Balliol College, Oxford]]
+[[Category:Information technology research institutes]]
+[[Category:Internet in England]]

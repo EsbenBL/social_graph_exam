@@ -1,0 +1,33 @@
+{{multiple issues|
+{{BLP self-published|date=February 2009}}
+{{BLP sources|date=February 2009}}
+}}
+{{Use dmy dates|date=November 2019}}
+
+'''Saul Sternberg''' is a [[Professor Emeritus]] of [[Psychology]] and former Paul C. Williams Term Professor (1993–1998) at the [[University of Pennsylvania]].  He is a pioneer in the field of [[cognitive psychology]] in the development of experimental techniques to study human [[information processing]]. Sternberg received a [[Bachelor of Arts|B.A.]] in [[mathematics]] in 1954 from [[Swarthmore College]] and a [[PhD]] in [[social psychology]] from [[Harvard University]] in 1959.<ref>{{cite web |url=https://woodrow.org/news/perspectives/profiles-saul-sternberg/ |title=Profiles in Giving Back: Dr. Saul Sternberg |author=<!--Not stated--> |date=12 February 2018 |website=www.woodrow.org |publisher= The Woodrow Wilson National Fellowship Foundation |access-date= 18 July 2019|quote= After completing his PhD at Harvard in 1960, Dr. Sternberg held a postdoctoral fellowship in mathematical statistics at the University of Cambridge, took up his first academic post at the University of Pennsylvania, and then went on to a research position at Bell Telephone Laboratories for more than two decades. While there, he conducted research in perception, memory, and the control of action, and for fifteen years headed the Human Information Processing Research Department.}}</ref>  He completed a [[postdoctoral researcher|postdoctoral fellowship]] in mathematical [[statistics]] at the [[University of Cambridge]] in 1960, and he subsequently worked as a research scientist in the [[linguistics]] and [[artificial intelligence]] research department at [[Bell Laboratories]], where he continued to work as a member of the technical staff for over twenty years.  Sternberg's first academic position was at the [[University of Pennsylvania]], where he was employed from 1961–1964, and where he has remained since 1985.  He has also served as a [[visiting professor]] at [[University College, London]], the [[University of California, Berkeley]], and [[Rutgers University]].  The impact of Sternberg's theoretical and empirical contributions to the field of [[cognitive psychology]] have been recognized by many organizations, and he has been elected to fellowship in the [[American Psychological Association]], the [[Association for Psychological Science]], the [[Society of Experimental Psychologists]], the [[American Association for the Advancement of Science]], and the [[United States National Academy of Sciences|National Academy of Sciences]].<ref>{{cite web | title=Saul Sternberg's CV | url=http://www.psych.upenn.edu/~saul/saul.vita.html | access-date=22 December 2008}}</ref>
+
+== Additive factors method ==
+Sternberg is best known for his introduction of the [[additive factor method]]. This is a method that uses [[Reaction Time|reaction time]] measures over a range of tasks in order to identify different [[Cognitive model|cognitive processing stages]]. The logic of this method has been disputed {{Asof|2011|lc=yes}}.<ref>{{Cite journal|title = Additive Factors Do Not Imply Discrete Processing Stages: A Worked Example Using Models of the Stroop Task|journal = Frontiers in Psychology|date = 14 November 2011|issn = 1664-1078|pmc = 3214734|pmid = 22102842|volume = 2|doi = 10.3389/fpsyg.2011.00287|first1 = Tom|last1 = Stafford|first2 = Kevin N.|last2 = Gurney|page = 287|doi-access = free}}</ref>
+
+==The Sternberg Task==
+In the early 1960s, Sternberg published an original experiment demonstrating the mechanics of cognitive information processing. The experiment entails memorization of a positive set, a list of items such as numbers or words. The subject is then asked about a particular test item that may or may not have actually been present in the set, and is asked to respond "yes" or "no" accordingly. The time taken for the subject to respond is recorded. This process is then repeated over several trials. What Sternberg found was that response time varied with the size of the positive set. In particular, response time tended to increase with the size of the list.<ref>{{cite web|last=Bokhorst|first=F|title=The Sternberg Short-Term Memory Experiment|url=http://web.uct.ac.za/depts/psychology/psy300/sternb.html|publisher=University of Cape Town|access-date=2 December 2013|url-status=dead|archive-url=https://archive.is/20131202171231/http://web.uct.ac.za/depts/psychology/psy300/sternb.html|archive-date=2 December 2013}}</ref> This is significant because it demonstrates evidence for what is known today as the [[Serial memory processing|Serial Exhaustive Search Theory]], which contends that when questioned regarding the presence of an item in a memory set, people will search every item in short-term memory without stopping, even if the item was found.<ref>{{cite web|last=Schmidt|first=Charles|title=Scanning Short Term Memory|url=http://www-rci.rutgers.edu/~cfs/305_html/MentalChron/MChronscan.html#|publisher=Rutgers|access-date=2 December 2013|url-status=dead|archive-url=https://web.archive.org/web/20131203051126/http://www-rci.rutgers.edu/~cfs/305_html/MentalChron/MChronscan.html|archive-date=3 December 2013}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.psych.upenn.edu/~saul/ Saul Sternberg's Homepage]
+*[http://www.psych.upenn.edu/~saul/saul.brief.biog.html Biography]
+*[http://www.psych.upenn.edu/~saul/saul.vita.html CV]
+{{Authority control}}
+{{DEFAULTSORT:Sternberg, Saul}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:American psychologists]]
+[[Category:Cognitive scientists]]
+[[Category:Fellows of the Society of Experimental Psychologists]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Swarthmore College alumni]]
+[[Category:Harvard University alumni]]
+[[Category:University of Pennsylvania faculty]]

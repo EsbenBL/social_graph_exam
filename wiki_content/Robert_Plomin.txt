@@ -1,0 +1,80 @@
+{{short description|American psychologist and geneticist}}
+{{Infobox scientist
+| birth_name        = Robert Plomin
+| image             = Robert Plomin.jpg
+| image_size        = 
+| caption           = Plomin in 2018
+| birth_date        = {{Birth year and age|1948}}
+| birth_place       = [[Chicago]], [[Illinois]], US
+| residence         = 
+| citizenship       = American
+| ethnicity         = 
+| field             = [[Psychology]], [[Behavioural genetics|behavioral genetics]]
+| work_institution  = [[University of Colorado at Boulder]], [[Pennsylvania State University]], [[King's College London]]
+| alma_mater        = [[DePaul University]], [[University of Texas at Austin]]
+| doctoral_advisor  = [[Arnold H. Buss]]
+| doctoral_students = 
+| spouse            = [[Judith Dunn]]
+| known_for         = [[Twins Early Development Study]]
+| prizes            = ''Dobzhansky Memorial Award'' (2002; [[Behavior Genetics Association]]), ''William James Fellow Award'' (2004; [[Association for Psychological Science]]), ''Lifetime Achievement Award'' (2011; [[International Society for Intelligence Research]])
+|website            = {{website|https://www.kcl.ac.uk/people/robert-plomin}}
+}}
+'''Robert J. Plomin''', [[Fellow of the British Academy|FBA]] (born 1948) is an American psychologist and geneticist best known for his work in [[twin studies]] and [[behavior genetics]]. A ''[[Review of General Psychology]]'' survey, published in 2002, ranked Plomin as the 71st most cited psychologist of the 20th century.<ref name ="Haggbloom">{{cite journal | last1=Haggbloom | first1=Steven J. | last2=Warnick | first2=Renee | last3=Warnick | first3=Jason E. | last4=Jones | first4=Vinessa K. | last5=Yarbrough | first5=Gary L. | last6=Russell | first6=Tenea M. | last7=Borecky | first7=Chris M. | last8=McGahhey | first8=Reagan | last9=Powell | first9=John L., III | last10=Beavers | first10=Jamie | last11=Monte | first11=Emmanuelle | title=The 100 most eminent psychologists of the 20th century. | journal=Review of General Psychology | volume=6 | issue=2 | year=2002 | issn=1089-2680 | doi=10.1037/1089-2680.6.2.139 | pages=139–152|url=http://www.apa.org/monitor/julaug02/eminent.aspx|citeseerx=10.1.1.586.1913| s2cid=145668721 }}</ref> He is the author of several books on [[genetics]] and [[psychology]].
+
+== Biography ==
+Plomin was born in Chicago to a family of Polish-German extraction.<ref>https://www.jpost.com/health-and-science/nature-versus-nurture-human-personality</ref> He graduated high school from DePaul University Academy in Chicago, he then earned a B.A. in psychology from [[DePaul University]] in 1970 and a Ph.D. in psychology in 1974 from the [[University of Texas at Austin]] under personality psychologist [[Arnold H. Buss]]. He then worked at the [[University of Colorado Boulder#Research Institutes|Institute for Behavioral Genetics]] at the [[University of Colorado Boulder]]. From 1986 until 1994 he worked at [[Pennsylvania State University]], studying elderly twins reared apart and twins reared together to study aging and since 1994 has been at the [[Institute of Psychiatry]] ([[King's College London]]). He has been president of the [[Behavior Genetics Association]].
+
+In 1987 Plomin married [[Judith Dunn]], a British psychologist and academic.<ref name="Who's Who 2017" />
+
+==Honors and awards==
+In 2002, the Behavior Genetics Association awarded him the Dobzhansky Memorial Award for a Lifetime of Outstanding Scholarship in Behavior Genetics. He was awarded the [[William James Fellow Award]] by the [[Association for Psychological Science]] in 2004 and the 2011 Lifetime Achievement Award of the [[International Society for Intelligence Research]].<ref name="APSAward">{{cite web |url=http://www.psychologicalscience.org/index.php/members/awards-and-honors/fellow-award/recipent-past-award-winners/robert_plomin |title=2004-2005 William James Fellow Award: Robert Plomin|newspaper=psychologicalscience.org|publisher=Association for Psychological Science|access-date= October 20, 2015}}</ref><ref name="ISIR2011">{{cite web | url=http://www.isironline.org/2011lifetime-achievement-award/ | title=2011 Lifetime Achievement Award of the International Society for Intelligence Research | publisher=ISIR | date=2011 | access-date=June 24, 2014}}</ref> In 2017, Plomin received the [[APA Award for Distinguished Scientific Contributions to Psychology|APA Award for Distinguished Scientific Contributions]].<ref> {{cite web|url=http://www.apa.org/about/awards/scientific-contributions.aspx?tab=3|title=APA Award for Distinguished Scientific Contributions|publisher=APA|access-date= 11 December 2017}} </ref>  Plomin was ranked among the 100 most eminent psychologists in the history of science.<ref name="Haggbloom"/> In 2005, he was elected a [[Fellow of the British Academy]] (FBA), the United Kingdom's [[national academy]] for humanities and social sciences.<ref name="Who's Who 2017">{{cite web|date=November 2016|title=PLOMIN, Prof. Robert|url=http://www.ukwhoswho.com/view/article/oupww/whoswho/U31010|access-date=19 April 2017|website=Who's Who 2017|publisher=Oxford University Press}}</ref>
+
+== Research ==
+{{Expand section|date=August 2020}}
+Plomin has shown the importance of ''[[Heritability of IQ#Non-shared family environment and environment outside the family|non-shared environment]]'', a term that he coined to refer to the environmental factors that reduce the similarity of individuals raised in the same family environment.<ref>{{Cite journal|last1=Plomin|first1=Robert|last2=Daniels|first2=Denise|date=June 2011|title=Why are children in the same family so different from one another?|journal=International Journal of Epidemiology|volume=40|issue=3|pages=563–582|doi=10.1093/ije/dyq148|issn=1464-3685|pmc=3147063|pmid=21807642}}</ref> In addition, he has shown that many environmental measures in psychology show genetic influence and that genetic factors can [[Mediation_(statistics)|mediate]] associations between environmental measures and developmental outcomes.
+
+Plomin currently conducts the [[Twins Early Development Study]] of all twins born in England from 1994 to 1996, focusing on developmental delays in early childhood, their association with behavioural problems and educational attainment.<ref name="ghosh">Ghosh, Pallab (8 August 2000). [http://news.bbc.co.uk/2/hi/health/850358.stm Genius of genes.] ''[[BBC News]]''</ref>
+
+In 1994 he was one of 52 signatories on "[[Mainstream Science on Intelligence]]", an editorial written by [[Linda Gottfredson]] and published in the ''[[Wall Street Journal]]'', which declared the consensus of the signing scholars on issues related to intelligence research following the publication of the book ''[[The Bell Curve]]''.<ref name="gottfredson">Gottfredson, Linda (December 13, 1994). [[Mainstream Science on Intelligence]]. ''[[Wall Street Journal]]'', p A18.</ref>
+
+==Bibliography==
+*''Behavioral Genetics: A Primer'', together with [[John C. DeFries]], [[Gerald E. McClearn]], WH Freeman & Co, 1989, {{ISBN|978-0716720560}}
+*''Separate Lives: Why Siblings Are So Different'', together with [[Judy Dunn]], Basic Books, 1992, {{ISBN|978-0465076895}}
+*''Behavioral Genetics in the Postgenomic Era'', together with John C. DeFries, [[Peter McGuffin]], Ian W. Craig, American Psychological Association, 2002, {{ISBN|978-1557989260}}
+*''The Relationship Code: Deciphering Genetic and Social Influences on Adolescent Development (Adolescent Lives)'', together with [[David Reiss (psychologist)|David Reiss]], [[Jenae Neiderhiser|Jenae M. Neiderhiser]], [[E. Mavis Hetherington]], Harvard University Press, 2003, {{ISBN|978-0674011267}}
+*''Nature, Nurture, and the Transition to Early Adolescence'', together with John C. DeFries, [[Stephen Petrill|Stephen A. Petrill]], [[John K. Hewitt]], Oxford University Press, 2003, {{ISBN|978-0195157475}}
+*''Nature And Nurture: An Introduction To Human Behavioral Genetics'', Wadsworth Publishing, 2004, {{ISBN|978-0534651121}}
+*''Nature and Nurture during Infancy and Early Childhood'', together with John C. DeFries, [[David Fulker]], Cambridge University Press, 2006, {{ISBN|978-0521034241}}
+*''Behavioral Genetics'', together with John C. DeFries, Peter McGuffin, Gerald E. McClearn, Worth Publishers; 5th edition, 2008, {{ISBN|978-1429205771}}
+*''Behavioral Genetics'', together with John C. DeFries, Valerie S Knopik, Jenae M. Neiderhiser, Worth Publishers; 6th edition, 2012, {{ISBN|978-1429242158}}
+*''[[G Is for Genes]]'', together with Kathryn Ashbury, [[Wiley Blackwell]]; 2013, {{ISBN|978-1118482810}}
+*''Behavioral Genetics'', together with John C. DeFries, Valerie S Knopik, Jenae M. Neiderhiser, Worth Publishers; 7th edition, 2016, {{ISBN|9781464176050}}
+*''[[Blueprint (book)|Blueprint: How DNA Makes Us Who We Are]]'', [[Penguin Books Ltd.]], 2018, {{ISBN|9780241282076}}
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Wikiquote}}
+*{{Official website}}
+*[https://www.youtube.com/watch?v=wiDWj_idj8w Robert Plomin Interview] with [[David Lubinski]]
+*{{Google Scholar id|6e21j94AAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Plomin, Robert}}
+
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:Academics of King's College London]]
+[[Category:American psychologists]]
+[[Category:Behavior geneticists]]
+[[Category:DePaul University alumni]]
+[[Category:Fellows of King's College London]]
+[[Category:Fellows of the British Academy]]
+[[Category:Intelligence researchers]]
+[[Category:Pennsylvania State University faculty]]
+[[Category:Race and intelligence controversy]]
+[[Category:University of Texas at Austin College of Liberal Arts alumni]]
+[[Category:University of Colorado faculty]]
+[[Category:Personality psychologists]]
+[[Category:People from Chicago]]

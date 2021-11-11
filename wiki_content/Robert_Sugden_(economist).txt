@@ -1,0 +1,68 @@
+{{Use dmy dates|date=September 2017}}
+{{Use British English|date=September 2017}}
+{{Infobox economist
+|name=Robert Sugden
+|school_tradition=[[behavioural economics|Cognitive & Behavioural Economics]]
+
+|image=
+|image_size=
+|caption=
+|birth_date= {{birth date and age|1949|8|26|df=y}}
+|birth_place=
+|death_date=
+|death_place=
+|nationality=United Kingdom
+|institution=[[University of East Anglia|University of East Anglia, Norwich]]
+|field=[[Microeconomics]]
+|alma_mater=[[University of York|University of York, UK]]
+|influences=[[John Harsanyi|Harsanyi]], [[John Rawls|Rawls]], [[Adam Smith|Smith]], [[David Hume|Hume]], [[John Stuart Mill|Mill]], and [[Friedrich August von Hayek|Hayek]]
+|influenced=[[Kenneth Binmore|Binmore]], Starmer, [[Graham Loomes|Loomes]], Gui
+|contributions=[[welfare economics]], [[social choice]], [[decision theory]], evolutionary social theory, [[Regret (decision theory)|regret theory]]
+|awards=
+|signature=<!-- file name only -->
+|repec_prefix=e |repec_id=psu169
+}}
+'''Robert Sugden''', [[Fellow of the British Academy|FBA]] (born 26 August 1949) is an English author in the area of cognitive and [[behavioural economics]]. Professor Sugden's research combines [[game theory]] (mainly experimental game theory and coordination games) with moral and [[political philosophy]]. He is associated with the classical-liberal tradition of [[David Hume|Hume]], [[John Stuart Mill|Mill]], and [[Friedrich August von Hayek|Hayek]].
+
+== Theory ==
+In his most cited work, Sugden explored how conventions of property, mutual aid, and voluntary supply of public goods can evolve spontaneously out of the interactions of self-interested individuals and can become moral norms.<ref>R Sugden, [https://www.amazon.com/dp/0333682394 ''The economics of rights, co-operation, and welfare''] (1986)</ref>
+
+Sugden investigated a number of violations of the [[John von Neumann|von Neumann]] and [[Oskar Morgenstern|Morgenstern]]'s [[Expected utility hypothesis|expected utility]] axioms, and developed [[Regret (decision theory)|regret theory]] as an alternative with [[Graham Loomes]]. In support of this work, he developed a number of experimental methods to test theories of decision under risk.<ref>G Loomes and R Sugden, [https://www.jstor.org/stable/2232669 Regret theory: An alternative theory of rational choice under uncertainty] (1982), The Economic Journal</ref>
+
+His work also deals with economic methods, in which he argues that economic models are not abstractions from, or simplifications of, the real world, but rather descriptions of imaginary worlds whose validity can only be inferred by how reasonable their predictions are.<ref>R Sugden, [http://www.informaworld.com/openurl?genre=article&issn=1350-178X&volume=7&issue=1&spage=1 Credible worlds: the status of theoretical models in economics] (2000), Journal of Economic Methodology
+</ref>
+
+In ''The Community of Advantage'', Sugden develops a contractarian approach to welfare economics that is based on opportunity sets and not individual preferences.<ref>R Sugden, [https://www.amazon.com/Community-Advantage-Behavioural-Economists-Defence/dp/0198825145 The community of advantage: A behavioural economist's defense of the market] (2018)</ref>  The shift from preferences to opportunity is partly motivated by recent experimental work indicating that individuals lack well-defined preferences.  In 2019, ''The Community of Advantage'' was awarded the Joseph B. Gittler Award for outstanding contribution in the field of the philosophy of the social sciences.<ref>{{Cite web|title=Joseph B. Gittler Award - The American Philosophical Association|url=https://www.apaonline.org/page/gittler|access-date=2020-10-19|website=www.apaonline.org|language=en}}</ref>
+
+==Awards and fellowships==
+* Leverhulme Personal Research Professorship, [[Leverhulme Trust]], February 1998 – January 2003
+
+== Selected papers ==
+* G Loomes and R Sugden, [https://www.jstor.org/stable/2232669 Regret theory: An alternative theory of rational choice under uncertainty] (1982), ''The Economic Journal''
+* R Sugden, [https://www.jstor.org/stable/1942911 Spontaneous order] (1989), ''The Journal of Economic Perspectives''
+* R Sugden, [https://www.jstor.org/stable/2232294 Reciprocity: the supply of public goods through voluntary contributions] (1984), ''The Economic Journal''
+* R Sugden, [https://www.jstor.org/stable/2235016 A theory of focal points] (1995), ''The Economic Journal''
+* R Sugden, [http://www.informaworld.com/openurl?genre=article&issn=1350-178X&volume=7&issue=1&spage=1 Credible worlds: the status of theoretical models in economics] (2000), ''Journal of Economic Methodology''
+
+== Selected books ==
+* R Sugden and AH Williams, [https://books.google.com/books?id=KxjLME26dTMC&lpg=PA89&ots=so7mvXQIxC&dq=The%20principles%20of%20practical%20cost-benefit%20analysis&pg=PA89#v=onepage&q=&f=false ''The principles of practical cost-benefit analysis''] (1978)
+* R Sugden, [https://www.amazon.com/dp/0333682394 ''The economics of rights, co-operation, and welfare''] (1986)
+* R Sugden, [https://www.amazon.com/Community-Advantage-Behavioural-Economists-Defence/dp/0198825145 ''The community of advantage: A behavioural economist's defense of the market''] (2018)
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.uea.ac.uk/ UEA faculty page]
+* [http://hcr3.isiknowledge.com/author.cgi?id=1751&cb=1789 ISI Highly Cited Page]
+* [http://organizationsandmarkets.com/2009/12/18/robert-sugden Review by Nicolai J. Foss]
+* [https://scholar.google.co.uk/citations?user=O0kfGeQAAAAJ&hl=en Google Scholar Citations]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sugden, Robert}}
+[[Category:1949 births]]
+[[Category:Living people]]
+[[Category:Alumni of the University of York]]
+[[Category:Academics of the University of East Anglia]]
+[[Category:British economists]]

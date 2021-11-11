@@ -1,0 +1,40 @@
+{{Infobox scientist
+|name              = Isaak Russman
+|image             = Russman.jpg
+|image_size        = 200px
+|caption           = <!--(not needed as image is straightforward portrait)-->
+|birth_date        = {{birth date|1938|03|7}}
+|birth_place       = [[Voronezh, Russia]]
+|death_date        = {{death date and age|2005|6|11|1938|03|7}}
+|death_place       = [[Voronezh, Russia]]
+|citizenship       = [[Russia]]
+|fields            = [[Mathematician]], [[Economist]]
+|workplaces        = [[Voronezh State University]], Russia
+|doctoral_advisor  = [[Selim Krein]]
+|known_for         = Some new concepts in [[qualimetry]] and [[systems analysis]].
+}}
+
+'''Isaak Borisovich Russman''' ({{lang-ru|Исаак Борисович Руссман}}; 7 March 1938 &ndash; 11 July 2005) was a [[Russians|Russian]] [[mathematician]] and [[economist]]. He studied and worked at [[Voronezh State University]].
+
+Isaak Borisovich Russman was born on March 7, 1938 in [[Voronezh]]. Although his childhood dream was studying [[astronomy]], in 1955 he entered Voronezh State University where he studied in the [[Physics]] and [[Mathematics]] department.  Starting in 1969 and until the end of his life, Russman conducted research in [[operations research]] at the same institution where he had studied.
+
+Russman taught [[discrete mathematics]], the [[theory of algorithms]] and [[mathematical logic]], [[probability theory]], economic [[cybernetics]], and [[systems analysis]].
+
+Russman conducted research on topics related to simulation-targeted systems (economic, social, institutional), quality assessment, and building [[Valuation (finance)|valuation]] models. He is famous for creating the concept "difficulty in achieving the objectives", a concept which is used to assess the value of a certain specified requirement. This approach was usefully applied to models of control and management of organizational systems and [[Portfolio (finance)|portfolio]] [[optimization]] models.
+
+== External links ==
+* [http://www.adeptis.ru/russman/ In memory of Isaak Russman] (Russian language)
+* [https://translate.google.com/translate?hl=en&ie=UTF-8&sl=ru&tl=en&u=http://www.adeptis.ru/russman/scientific_heritage.html&prev=_t&rurl=translate.google.com Scientific contributions] (translated to English via Google)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Russman, Isaak}}
+[[Category:1938 births]]
+[[Category:2005 deaths]]
+[[Category:Russian economists]]
+[[Category:Soviet mathematicians]]
+[[Category:Russian mathematicians]]
+[[Category:Voronezh State University alumni]]
+
+
+{{Russia-scientist-stub}}

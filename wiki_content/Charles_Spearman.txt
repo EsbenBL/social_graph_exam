@@ -1,0 +1,120 @@
+{{for multi|the African-American baseball catcher|Charles Spearman (baseball)|the American football coach|Charles Spearman (American football)}}
+{{short description|English psychologist}}
+{{Use dmy dates|date=August 2020}}
+{{Use British English|date=September 2012}}
+{{Infobox scientist
+| name = Charles Spearman
+| birth_name=Charles Edward Spearman
+| birth_date = {{birth date|1863|9|10|df=y}}
+| birth_place = [[London]], [[United Kingdom]]
+| death_date = {{Death date and age|1945|9|17|1863|9|10|df=y}} 
+| death_place = [[London]], [[United Kingdom]]
+| resting_place = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} -->
+| residence = 
+| citizenship = 
+| nationality = 
+| fields = 
+| workplaces = [[University College London]]
+| alma_mater = [[University of Leipzig]], Germany
+| doctoral_advisor = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = [[Raymond Cattell]], [[John C. Raven]], [[David Wechsler]]
+| known_for = [[g factor (psychometrics)|''g'' factor]], [[Spearman's rank correlation coefficient]], [[factor analysis]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences = [[Francis Galton]], [[Wilhelm Wundt]]
+| influenced = [[Hans Eysenck]], [[Philip E. Vernon]], [[Cyril Burt]], [[Arthur Jensen]]
+| awards = [[Fellow of the Royal Society]]<ref name="frs"/>
+| signature = <!--(filename only)-->
+| signature_alt = 
+| footnotes = 
+| spouse = 
+}}
+
+'''Charles Edward Spearman''', [[Fellow of the Royal Society|FRS]]<ref name="frs">{{Cite journal | last1 = Thomson | first1 = Godfrey| author-link = Godfrey Thomson| title = Charles Spearman. 1863-1945 | doi = 10.1098/rsbm.1947.0006 | journal = [[Obituary Notices of Fellows of the Royal Society]] | volume = 5 | issue = 15 | pages = 373–385 | year = 1947 | s2cid = 159844032}}</ref><ref name="lovie">{{Cite journal | last1 = Lovie | first1 = P. | last2 = Lovie | first2 = A. D. | doi = 10.1098/rsnr.1996.0007 | title = Charles Edward Spearman, F.R.S. (1863-1945) | journal = Notes and Records of the Royal Society | volume = 50 | pages = 75–88 | year = 1996 | s2cid = 143787063 }}</ref> (10 September 1863 – 17 September 1945) was an English psychologist known for work in [[statistics]], as a pioneer of [[factor analysis]], and for [[Spearman's rank correlation coefficient]]. He also did seminal work on models for [[intelligence (trait)|human intelligence]], including his theory that disparate [[cognitive test]] scores reflect a single [[General intelligence factor]]<ref name="spearman1904">{{Cite journal | last1 = Spearman | first1 = C. | author-link = Charles Spearman| title = "General Intelligence," Objectively Determined and Measured | journal = The American Journal of Psychology | volume = 15 | issue = 2 | pages = 201–292 | doi = 10.2307/1412107 | year = 1904 | jstor = 1412107 }}</ref> and coining the term ''g'' factor.<ref>{{Cite book | last1 = Lovie | first1 = Pat| chapter = Spearman, Charles Edward | doi = 10.1002/0470013192.bsa634 | title = Encyclopedia of Statistics in Behavioral Science | year = 2005 | isbn = 0470860804 }}</ref>
+
+==Biography==
+
+Spearman had an unusual background for a psychologist. In his childhood he was ambitious to follow an academic career. He first joined the [[British Army|army]] as a regular officer of engineers in August 1883,<ref name="Spearman">{{cite news | author=Thomson, Godfrey |title=Charles Spearman |publisher=The Royal Society|year=1947 |pages=373–385 }}</ref> and was promoted to [[Captain (BARM)|captain]] on 8 July 1893, serving in the [[Munster Fusiliers]].<ref>Hart's Army list, 1901</ref> After 15 years he resigned in 1897 to study for a PhD in experimental psychology. In Britain, psychology was generally seen as a branch of [[philosophy]] and Spearman chose to study in [[University of Leipzig|Leipzig]] under [[Wilhelm Wundt]], because it was a center of the "new psychology"—one that used the scientific method instead of metaphysical speculation. As Wundt was often absent due to his multiple duties and popularity, Spearman largely worked with [[Felix Krueger]] and [[Wilhelm Wirth]], both of whom he admired.<ref name="Spearman"/> He started in 1897, and after some interruption (he was recalled to the army during the [[Second Boer war]], and served as a [[Deputy Assistant Adjutant General]] from February 1900<ref>{{London Gazette| issue=27164|page=1002| date=13 February 1900|}}</ref>) he obtained his degree in 1906. He had already published his seminal paper on the factor analysis of intelligence (1904). Spearman met and impressed the psychologist [[William McDougall (psychologist)|William McDougall]] who arranged for Spearman to replace him when he left his position at [[University College London]]. Spearman stayed at University College until he retired in 1931. Initially he was [[Lecturer#United Kingdom|Reader]] and head of the small psychological laboratory. In 1911 he was promoted to the [[Grote Chair of the Philosophy of Mind and Logic|Grote professorship of the Philosophy of Mind and Logic]]. His title changed to Professor of Psychology in 1928 when a separate Department of Psychology was created.
+
+When Spearman was elected to the [[Royal Society]] in 1924<ref name="frs"/> the citation read: <blockquote>Dr. Spearman has made many researches in experimental psychology. His many published papers cover a wide field, but he is especially distinguished by his pioneer work in the application of mathematical methods to the analysis of the human mind, and his original studies of correlation in this sphere. He has inspired and directed research work by many pupils.</blockquote>Chief amongst these achievements was the discovery of the general factor in human intelligence,<ref name="spearman1904" /> and his subsequent development of a theory of "g"<ref name="spearman1923">{{Cite journal | last1 = Ogden | first1 = R. M. | last2 = Spearman | first2 = C. | author-link2 = Charles Spearman| title = The Nature of 'Intelligence' and the Principles of Cognition, 1923 | journal = The American Journal of Psychology | volume = 36 | issue = 1 | doi = 10.2307/1413513 | pages = 140–145 | year = 1925 | jstor = 1413513 | hdl = 2027/mdp.39015012170307 | url = http://dspace.nehu.ac.in/handle/123456789/13507 | hdl-access = free }}</ref> and synthesis of empirical work on ability.<ref name="spearman1927">{{cite book |author=Spearman, Charles B. |title=The Abilities of Man: Their Nature and Measurement |publisher=The Blackburn Press |year=2005 |isbn=1-932846-10-7 }}</ref>
+
+Spearman was strongly influenced by the work of [[Francis Galton]]. Galton did pioneering work in psychology and developed [[correlation]], the main statistical tool used by Spearman.
+
+In statistics, Spearman developed [[Spearman's rank correlation coefficient|rank correlation]] (1904), a non-parametric version of the conventional [[Pearson correlation]], as well as both the widely used [[correction for attenuation]] (1907), and ''the earliest version of a 'factor analysis''' (Lovie & Lovie, 1996, p.&nbsp;81).<ref name="lovie"/> His statistical work was not appreciated by his University College colleague [[Karl Pearson]] and there was a long feud between them.
+
+Although Spearman achieved most recognition in his day for his statistical work, he regarded this work as subordinate to his quest for the fundamental laws of psychology, and he is now similarly renowned for both.
+
+Charles Spearman always insisted that his work be applied in [[psychiatry]] and urged so in his Maudsley lecture to the [[Royal College of Psychiatrists|Royal Medico-Psychological Association]]. While some work has been made on these lines by pupils and associates of his, the development of factor analysis as a tool of psychiatry followed a different path than he had intended. Regardless, his indirect contributions towards psychiatry were considerable.<ref>"[[The Lancet]]" A Chair of Anatomy. October 1945. p. 440</ref>
+
+Spearman's life both began and ended in the city of London. He had three daughters along with one son, who died early on in 1941 in Crete.<ref name="frs"/>
+
+==Theory of intelligence==
+
+A record of Spearman's views on ''g'' (and also those of [[Godfrey Thomson]] and [[Edward Thorndike]]) was made in the course of the [[Andrew Carnegie|Carnegie]]-sponsored International Examinations Inquiry Meetings.<ref name=deary2008>{{Cite journal | last1 = Deary | first1 = I. J. | last2 = Lawn | first2 = M. | last3 = Bartholomew | first3 = D. J. | doi = 10.1037/1093-4510.11.3.163 | title = "A conversation between Charles Spearman, Godfrey Thomson, and Edward L. Thorndike: The International Examinations Inquiry Meetings 1931-1938": Correction to Deary, Lawn, and Bartholomew (2008) | journal = History of Psychology | volume = 11 | issue = 3 | pages = 163 | year = 2008 | url = https://www.research.ed.ac.uk/portal/files/8897614/a_conversation_between_charles_spareman.pdf }}</ref>
+
+Here, Spearman gives a compact summary of his findings and theory of '''''g''''':<blockquote>When asked what G is, one has to distinguish between the meanings of terms and the facts about things. G means a particular quantity derived from statistical operations. Under certain conditions the score of a person at a mental test can be divided into two factors, one of which is always the same in all tests, whereas the other varies from one test to another; the former is called the general factor or G, while the other is called the specific factor. This then is what the G term means, a score-factor and nothing more. But this meaning is sufficient to render the term well defined so that the underlying thing is susceptible to scientific investigation; we can proceed to find out facts about this score-factor, or G factor. We can ascertain the kind of mental operations in which it plays a dominant part as compared with the other or specific factor. And so the discovery has been made that G is dominant in such operations as reasoning, or learning Latin; whereas it plays a very small part indeed in such operation (sic) as distinguishing one tone from another. . . G tends to dominate according as the performance involves the perceiving of relations, or as it requires that relations seen in one situation should be transferred to another. . . . On weighing the evidence, many of us used to say that this G appears to measure some form of mental energy. But in the first place, such a suggestion is apt to invite needless controversy. This can be avoided by saying more cautiously that G behaves as if it measured an energy. In the second place, however, there seems to be good reason for changing the concept of energy to that of "power" (which, of course, is energy or work divided by time). In this way, one can talk about mind power in much the same manner as about horse power. . . . . . .G is in the normal course of events determined innately; a person can no more be trained to have it in higher degree than he can be trained to be taller. (pp. 156 –157).</blockquote>There was also another co-factor as proposed by Spearman that was special intelligence. The special intelligence was for individuals who accomplished high success results in the same tests. However, later Spearman introduced group factor that was particular to those correlations that were not a result of factor g or s. His ideas were in 1938 criticized on paper by psychologist [[Louis Leon Thurstone|Louis L. Thurstone]] who argued his own experiments showed that intelligence formed seven primary categories: numerical, reasoning, spatial, perceptual, memory, verbal fluency and verbal comprehension. Thurstone ultimately agreed with Spearman that there was a general factor among ability measures. Subsequently, [[Raymond Cattell]] (1963) also supported the general ability concept theorized by Spearman but highlighted two forms of ability, distinguished by their development in older age: [[fluid and crystallized intelligence]].<ref>{{cite book |author1=Edward Roy |author2=Bernstein, Douglas A. |author3=Penner, Louis A. |author4=Clarke-Stewart, Alison |title=Psychology |publisher=Houghton Mifflin |location=Boston |year=2007 |isbn=978-0-618-87407-1 }}</ref>
+
+As time progressed, Spearman increasingly argued that ''g'' was not, from a psychological point of view, a single ability but composed of two very different abilities which normally worked closely together. These he called "eductive" ability and "reproductive" ability. The former term comes from the Latin root "educere" – which means to "draw out" and thus refers to the ability to make meaning out of confusion. He claimed that to understand these different abilities "in their trenchent contrast, their ubiquitous cooperation, and their genetic interlinkage" would, for the study of "individual differences – and even cognition itself" – be "the very beginning of wisdom."<ref name="spearman1927"/>
+
+Despite Spearman arguing that ''g'' was what emerged from a large battery of tests, i.e., that it was not measured perfectly by any single test, the fact that g-theory suggested that much of ability could be captured in a single factor, and his suggestion that "the eduction of relations and correlates" underlay this general factor led to the quest for tests of this general ability. [[Raven's Progressive Matrices]] might be regarded as one of these although Raven himself clearly stated that his tests should not be regarded as "intelligence" tests.
+
+While arguing consistently that g accounted for much of individual differences in "ability" (as measured by tests which had "no place in schools"), Spearman also acknowledged that "Every normal man, woman, and child is … a genius at something … It remains to discover at what …" He thought that detecting these areas of genius required procedures very different from "any of the testing procedures at present in current usage", though he felt these to be capable of "vast improvement".<ref>{{Cite journal | last1 = Spearman | first1 = C. | author-link = Charles Spearman| title = Some Issues in the Theory of "g" (including the Law of Diminishing Returns) | doi = 10.1038/116436a0 | journal = Nature | volume = 116 | issue = 2916 | pages = 436–439 | year = 1925 | bibcode = 1925Natur.116..436S | doi-access = free }}</ref>
+
+Spearman felt that though ''g'' could be detected in any sufficiently-broad set of cognitive measures, he felt that the tests from which his ''g'' had emerged "had no place in schools" because they "deflected" teachers', pupils', parents' and politicians' attention from the business of education which, as the Latin root of the word implies, should be concerned with "drawing out" whatever talents a student may have.{{Citation needed|date=March 2011}}
+
+He presented a digest of his views in the entry "Abilities, general and special" in the 14th edition of the ''[[Encyclopaedia Britannica]]''.<ref>{{cite encyclopedia |year=1930 |title=Abilities, General and Special |author=Charles Spearman|encyclopedia=Encyclopaedia Britannica |edition=14|volume=1|pages=45–47 |language=en}}</ref>
+
+Spearman's model was influential, but was also critiqued by others, such as [[Godfrey Thomson]].<ref>[http://human-nature.com/nibbs/03/spearman.html Williams, R. H., Zimmerman, D. W., Zumbo, B. D. & Ross, D. (2003). Charles Spearman: British Behavioral Scientist. Human Nature Review. 3: 114–118]
+</ref> In particular the move from a psychological g to a biological g – that is a unitary biological mechanism or mechanisms has remained a matter of active research.
+
+== Factor analysis ==
+[[Factor analysis]] is a statistical test that is used to find relationships between multiple correlated measures and Spearman played a clear part in its development. Spearman coined the term factor analysis and used it extensively in analyzing multiple measures of cognitive performance. It was factor analytic data which led Spearman to postulate his original general and specific factor models of ability.<ref name="Human">Spearman, C. (1950). ''Human Ability'', Macmillan, London.</ref> Spearman applied mathematical procedures to psychological phenomena and molded the outcome of his analysis into a theory – which has greatly influenced modern psychology.<ref>{{cite journal |title=The Chair of Anatomy |journal=The Lancet |volume=246 |issue=6371 |pages=440 |date=October 1945 |doi=10.1016/S0140-6736(45)91700-4 }}</ref> Factor analysis and its modern relations [[confirmatory factor analysis]] and [[structural equation modelling]] underlie much of modern behaviour research.
+
+== References ==
+<references/>
+
+== Further reading ==
+* {{Cite journal 
+| doi = 10.2307/1422689 
+| last1 = Spearman | first1 = C. 
+| author-link = Charles Spearman
+| title = The proof and measurement of association between two things. By C. Spearman, 1904 
+| journal = The American Journal of Psychology 
+| volume = 100 
+| issue = 3–4 
+| pages = 441–471 
+| year = 1987 
+| pmid = 3322052
+| jstor = 1422689 | url = http://archive.org/details/proofmeasurement00speauoft }}
+* {{Cite journal | last1 = Spearman | first1 = C. | author-link = Charles Spearman| title = The proof and measurement of association between two things | doi = 10.1093/ije/dyq191 | journal = International Journal of Epidemiology | volume = 39 | issue = 5 | pages = 1137–1150 | year = 2010 | pmid = 21051364| doi-access = free }}
+* {{Cite journal | last1 = Spearman | first1 = C. | author-link = Charles Spearman| title = Demonstration of Formulæ for True Measurement of Correlation | journal = The American Journal of Psychology | volume = 18 | issue = 2 | pages = 161–169 | doi = 10.2307/1412408 | year = 1907 | jstor = 1412408 }}
+* {{Cite book |title=Psychological Testing: History, Principles, and Applications |last=Gregory |first=Robert J. |year=2011 |edition=Sixth |publisher=Allyn & Bacon |location=Boston |isbn=978-0-205-78214-7 |lay-url=http://www.pearsonhighered.com/bookseller/product/Psychological-Testing-History-Principles-and-Applications-6E/9780205782147.page |lay-date=7 November 2010 }}
+* {{Cite book |title=IQ and Human Intelligence |last=Mackintosh |first=N. J. |author-link=Nicholas Mackintosh |year=1998 |publisher=Oxford University Press |location=Oxford |isbn=978-0-19-852367-3 |lay-url=http://www.oup.com/us/catalog/general/subject/Psychology/CognitivePsychology/?view=usa&ci=9780198523673 |lay-date=9 August 2010 |url-access=registration |url=https://archive.org/details/iqhumanintellige00mack }}
+*[http://www.indiana.edu/~intell/spearman.shtml Charles Spearman at Human Intelligence]
+*
+
+== External links ==
+{{commons category|Charles Spearman}}
+*[http://www.york.ac.uk/depts/maths/histstat/people/spearman.gif Charles Spearman] on the [http://www.york.ac.uk/depts/maths/histstat/people/welcome.htm Portraits of Statisticians] page.
+*John Raven, [http://eyeonsociety.co.uk/resources/Spearman-on-Intelligence.pdf Spearman on Intelligence], 14 May 2011
+*Charles Spearman, 1927 [https://wellcomecollection.org/works/evdevd8m The abilities of man : their nature and measurement]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Spearman, Charles}}
+[[Category:1863 births]]
+[[Category:1945 deaths]]
+[[Category:Academics of University College London]]
+[[Category:Differential psychologists]]
+[[Category:Mathematical psychologists]]
+[[Category:Educational psychologists]]
+[[Category:English psychologists]]
+[[Category:English statisticians]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Foreign associates of the National Academy of Sciences]]
+[[Category:Intelligence researchers]]
+[[Category:Presidents of the British Psychological Society]]
+[[Category:Race and intelligence controversy]]

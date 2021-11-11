@@ -1,0 +1,39 @@
+{{short description|Swedish economist}}
+'''Per Lennart Krusell''', born 1959, is a [[Swedish people|Swedish]] [[macroeconomic]] theorist who is currently the Torsten and Ragnar Soderberg Chair in Economics and the [[Institute for International Economic Studies]], [[Stockholm University]], as well as Centennial Professor of Economics at the [[London School of Economics]]. 
+
+Until recently, he was a professor of economics at [[Princeton University]] and, before that, held positions at the [[University of Rochester]], the [[University of Pennsylvania]], and [[Northwestern University]]. He received numerous awards and grants, most recently the 2007 Söderberg Prize and a 2.1 Million Euro 2008 senior research grant from the European Research Council. Krusell's research has focused on macroeconomics, broadly defined, with particular contributions in the areas of technological change, inequality, political economy, macroeconomic policy, and labor economics. He is currently pursuing a long-term project on the interactions between global climate change and the economy.  He is especially known for developing the most widely used computational [[algorithm]] for calculating [[dynamic stochastic general equilibrium|macroeconomic equilibrium]] under [[rational expectations]] in economies with [[heterogeneous agents]] and aggregate uncertainty when financial markets are incomplete.<ref>Per Krusell and [[Anthony A. Smith, Jr.]], (1998), 'Income and wealth heterogeneity in the macroeconomy'. ''Journal of Political Economy'' 106 (5), pp. 867-96.</ref> His work with Jeremy Greenwood and [[Zvi Hercowitz]] on [[investment-specific technological progress]] has also been extremely influential.<ref>Jeremy Greenwood, Per Krusell and [[Zvi Hercowitz]], (1997), 'Long-Run Implications of Investment-Specific Technological Change'. ''American Economic Review'' 87 (3), pp. 342-62.</ref>
+
+Krusell was elected a member of the [[Royal Swedish Academy of Sciences]] in 2003.  Since 2003, he is a member of the Prize Committee for The Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel, and its chair since 2011. He served as the president of the [[European Economic Association]] in 2020.<ref>{{Cite web|title=Past Presidents {{!}} EEA|url=https://www.eeassoc.org/governance/executive-committee/past-presidents|access-date=2021-01-07|website=www.eeassoc.org}}</ref>
+
+==Influential Publications==
+
+1. '''''"Long-Run Implications of Investment-Specific Technological Progress",{{jstor|2951349}} American Economic Review, June 1997, (with Jeremy Greenwood and [[Zvi Hercowitz]]).'''''
+Casual empiricism suggests that technological progress is often embodied in the form of new and improved capital goods. Many examples come to mind: computers, robots, cell phones and the like. The paper analyzes the role of this type of technological change in U.S. economic growth. The results suggest that [[investment-specific technological progress]] accounts for the major part of U.S. economic growth over the postwar period.<ref>Some history for this research is here:  http://hdl.handle.net/1802/2375</ref>
+
+2.'''''"The Role of Investment-Specific Technological Change in the Business Cycle",{{doi|10.1016/S0014-2921(98)00058-0}} European Economic Review, 2000, (with Jeremy Greenwood and [[Zvi Hercowitz]]).'''''
+This research incorporates the notion of [[investment-specific technological progress]] into a business cycle model.
+
+==See also==
+* [http://people.su.se/~pkrus/ Per Krusell's homepage]
+* {{cite web|title=Most widely held works by Per Krusell|url=https://www.worldcat.org/identities/lccn-n87923202/|publisher=[[WorldCat]]}}
+
+==References==
+{{reflist}}
+
+{{Presidents of the European Economic Association}}
+{{authority control}}
+
+{{DEFAULTSORT:Krusell, Per}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:Swedish economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Members of the Royal Swedish Academy of Sciences]]
+[[Category:Computational economists]]
+[[Category:Princeton University faculty]]
+[[Category:Stockholm University faculty]]
+[[Category:Labor economists]]
+[[Category:Fellows of the European Economic Association]]
+
+
+{{Sweden-economist-stub}}

@@ -1,0 +1,85 @@
+{{Use mdy dates|date=October 2021}}
+{{Short description|American economist}}
+{{For|the race track|Anthony Downs (race track)}}
+{{Infobox economist
+| name             = Anthony Downs
+| school_tradition = [[Public choice theory|Public Choice school]]
+| birth_date       = {{birth date|1930|11|21}}
+| birth_place      = [[Evanston, Illinois|Evanston]], [[Illinois]], U.S.
+| death_date       = {{death date and age|2021|10|2|1930|11|21}}
+| death_place      = [[Bethesda, Maryland]], U.S.
+| institution      = [[Brookings Institution]]
+| field            = [[Public economics]]<br />[[Political sciences]]
+| alma_mater       = [[Carleton College]] ([[Bachelor of Arts|BA]])<br />[[Stanford University]] ([[Master of Arts|MA]], [[Doctor of Philosophy|PhD]])
+| influences       = [[Joseph Schumpeter]]<br />[[Kenneth J. Arrow]]
+| influenced       = [[Duncan Black]]
+}}
+
+'''Anthony Downs''' (November 21, 1930{{spnd}}October 2, 2021) was an American economist specializing in [[public policy]] and [[public administration]]. His research focuses included [[political choice theory]], [[rent control]], [[affordable housing]], and [[transportation economics]]. He wrote a number of books including, ''[[An Economic Theory of Democracy]]'' (1957) and ''Inside Bureaucracy'' (1967), which have been major influences on the [[public choice]] school of [[political economy]]. In ''Downs's Law of Peak-Hour Traffic Congestion'' (1962), he accurately predicted that expanding expressways could not reduce traffic congestion, since demand would increase as well, and that reducing speeds increases capacity.   
+
+He served as a senior senior fellow at the [[Brookings Institution]] in [[Washington, D.C.]], member of faculty at the [[University of Chicago]] and a visiting fellow at the [[Public Policy Institute of California]] in [[San Francisco]].
+
+== Early life ==
+James Anthony Downs was born on November 21, 1930, in [[Evanston, Illinois]].<ref name="nytobit">{{Cite news|last=Roberts|first=Sam|date=2021-11-03|title=Tony Downs, Economist Who Studied Why People Vote, Dies at 90|language=en-US|work=The New York Times|url=https://www.nytimes.com/2021/11/03/us/tony-downs-dead.html|access-date=2021-11-03|issn=0362-4331}}</ref> His father was the founder of a consulting firm, Real Estate Research Corporation, and a frequent speaker on real estate related topics. He grew up in [[Park Ridge, Illinois]], a suburb of Chicago.<ref name=":0">{{Cite news|last=Hagerty|first=James R.|date=October 28, 2021|title=Economist Explained Politics and Traffic Jams|language=en-US|work=Wall Street Journal|url=https://www.wsj.com/articles/economist-explained-politics-and-traffic-jams-11635433486|access-date=October 29, 2021|issn=0099-9660}}</ref> 
+
+He received a B.A. in international relations and political theory from [[Carleton College]] in 1952.<ref name="bweek">{{cite web|title=Executive Profile: Anthony Downs|url=http://investing.businessweek.com/research/stocks/private/person.asp?personId=657143&privcapId=3777895&previousCapId=398549&previousTitle=VENTAS%20INC|access-date=October 9, 2014|website=Bloomberg Businessweek}}</ref> During this time he was the elected president of the college student body. He would later credit this experience for some of his interests in studying democracy.<ref name=":0" /> He went to the [[Stanford Graduate School of Business|Graduate School of Business]] at [[Stanford University]] on a scholarship to pursue his M.A. and Ph.D. in [[economics]], obtaining his doctorate in 1956.<ref name="brook">{{cite web|title=Anthony Downs – Senior Fellow, Metropolitan Policy Program|url=http://www.brookings.edu/experts/downsa|access-date=October 9, 2014|website=The Brookings Institution}}</ref>
+
+He enlisted in the [[US Navy|Navy]] and served as an [[intelligence officer]] when he was drafted. During this time he also served on an aircraft carrier in the [[Mediterranean Sea]]. He quit the service after three years to join his father's consulting firm and also briefly served as a member of the faculty at the [[University of Chicago]].<ref name=":0" />
+
+== Career ==
+Downs served as a consultant to many of the nation's largest corporations and public institutions, including the [[U.S. Department of Housing and Urban Development]] (HUD) and the [[White House]]. President [[Lyndon B. Johnson]] appointed him to the National Commission on Urban Problems in 1967, and HUD Secretary [[Jack Kemp]] appointed him to the Advisory Commission on Regulatory Barriers to Affordable Housing in 1989. He was an officer or trustee of the [[NAACP Legal Defense and Educational Fund]].<ref>{{Cite web|title=Anthony Downs|url=https://www.amacad.org/person/anthony-downs|access-date=October 29, 2021|website=American Academy of Arts & Sciences|language=en}}</ref>
+
+=== Democracy and the left–right continuum ===
+In his [[wikt:seminal|seminal]] work, ''[[An Economic Theory of Democracy]]'' (1957), Downs introduced a [[political spectrum|left–right axis]] to economic theory.<ref>[https://books.google.com/books?id=tp2FAAAAIAAJ&q= ''Conceptualising the left-right continuum as an enduring dimension of political competition''], [[European University Institute]], 1996, p. 8.</ref> On the "left" he placed [[communist parties]] that want entirely [[Planned economy|state-planned economies]], and on the "right" he placed [[Conservatism|conservative]] parties that demand an entirely deregulated economy.<ref>{{cite book|last=Downs|first=Anthony|url=https://archive.org/details/economictheoryof00down|title=An Economic Theory of Democracy|year=1957|location=New York|page=[https://archive.org/details/economictheoryof00down/page/116 116]|url-access=registration}}</ref> 
+
+He claimed that most voters have incomplete information when voting for political candidates in a democracy, and therefore will resort to economic issues of "how much government intervention in the economy there should be" and how parties will control this. Downs borrowed the curve from [[Harold Hotelling]], who developed it to explain how grocery stores targeted customers. Downs's book has since become one of the most cited books in [[political science]]. His left–right axis model has been integrated into the [[median voter theory]] first articulated by [[Duncan Black]].<ref>{{cite journal|last=Black|first=Duncan|year=1948|title=On the Rationale of Group Decision-making|journal=[[Journal of Political Economy]]|volume=56|issue=1|pages=23–34|doi=10.1086/256633|jstor=1825026|s2cid=153953456}}</ref>
+
+In ''An Economic Theory of Democracy'' (1957), an early work in rational choice theory, Downs posited the [[paradox of voting]], which claimed that significant elements of political life could not be explained in terms of voter [[Rational egoism|self-interest]]. Downs showed that in democracies the aggregate distribution of political opinion forms a [[Normal distribution|bell-shaped curve]], with most voters possessing moderate opinions; he argued that this fact forces [[political parties]] in democracies to adopt [[centrism|centrist]] positions.<ref>W. Hayward Rogers, ''Some Methodological Difficulties in Anthony Downs's An Economic Theory of Democracy'', The American Political Science Review, Vol. 53, No. 2 (Jun. 1959), pp. 483–485.</ref>
+
+=== Housing and traffic policy ===
+Later, Downs concerned himself with housing policy,<ref>Anthony Downs, ''The Impact of Housing Policies on Family Life in the United States since World War II'', Daedalus, Vol. 106, No. 2, The Family (Spring, 1977), pp. 163–180.</ref> writing about [[rent control]] and [[affordable housing]]. ''The Revolution in Real Estate Finance'' (1985) predicted a long-term housing slowdown and decrease in housing prices. Downs had involved himself with [[transportation economics]]. 
+
+In 1962, Downs published his ''Downs's Law of Peak-Hour Traffic Congestion''. This law states that on ''urban commuter expressways, peak-hour traffic congestion rises to meet maximum capacity''. Therefore, expanding the expressway network does not help against traffic jams. A complex set of forces lie behind this law, which were analyzed by presentation of a model of commuter decision-making and its underlying set of assumptions.<ref>{{Cite journal|url=https://trid.trb.org/view.aspx?id=694596|title=THE LAW OF PEAK-HOUR EXPRESSWAY CONGESTION|first=A.|last=Downs|date=July 20, 1962|journal=Traffic Quarterly|volume=16|issue=3|via=trid.trb.org}}</ref> Sometimes this effect is referred to as [[Induced demand]]. By the same token, e.g. the 1965 ''Highway Capacity Manual'' stated that the capacity of a highway or motorway increases with decreasing traffic speed, until its maximum capacity is reached at about 50&nbsp;km/h (30&nbsp;mph).<ref>Highway Capacity Manual 1965, figures 3.38–3.45</ref> (Cf. [[Braess's paradox]].) 
+
+His book, ''Stuck in Traffic'' (1992), which detailed the economic disadvantages of traffic congestion and proposed [[road pricing]] as the only effective means of alleviating it, was denounced by [[Traffic engineering (transportation)|traffic engineers]] for its insistence on the futility of congestion relief measures. However, enough of his gloomy predictions about congestion were proven correct that he successfully published a second edition, ''Still Stuck in Traffic'' (2004).<ref>{{Cite web|last=Downs|first=Anthony|date=November 30, 2001|title=Still Stuck in Traffic|url=https://www.brookings.edu/book/still-stuck-in-traffic/|url-status=live|access-date=October 29, 2021|website=Brookings|language=en-US}}</ref><ref>{{Cite web|title=Still Stuck in Traffic: Coping with Peak-hour Traffic Congestion - ProQuest|url=https://www.proquest.com/openview/bfd183f273c70ed4f7e803aeed20439a/1?pq-origsite=gscholar&cbl=41477|access-date=October 29, 2021|website=www.proquest.com|language=en}}</ref>
+
+Downs's recommendations are starting to see implementation, largely in the form of [[High occupancy/toll and express toll lanes|high-occupancy toll]] (HOT) lanes in the [[Median (road)|medians]] of crowded American [[freeway]]s, and through [[congestion pricing]], already implemented in several cities around the world: [[Singapore]]<ref>[http://www.move-forum.net/documenti/B_06032003170931.pdf "Road pricing: Singapore's experience"] {{webarchive|url=https://web.archive.org/web/20080410123530/http://www.move-forum.net/documenti/B_06032003170931.pdf |date=April 10, 2008 }}</ref> (see [[Area Licensing Scheme]] and [[Electronic Road Pricing]]); [[London]] (see [[London congestion charge]]); [[Stockholm]] (see [[Stockholm congestion tax]]); [[Valletta]], [[Malta]];<ref>[http://www.cva.gov.mt "Controlled Vehicular Access"] {{webarchive|url=https://web.archive.org/web/20120306095431/http://www.cva.gov.mt/ |date=March 6, 2012 }}, ''CVA Technology'', May 1, 2007</ref><ref>[http://www.maltamedia.com/artman2/publish/govt_politics/article_1745.shtml "Valletta traffic congestion considerably reduced"]</ref> and [[Milan]], [[Italy]].<ref>[http://news.bbc.co.uk/2/hi/europe/7167992.stm "Milan introduces traffic charge"], BBC</ref><ref>[http://www.nysun.com/article/68854 "Milan Introduces Congestion Charge To Cut Pollution"], ''New York Sun''</ref><ref>[http://www.timesonline.co.uk/tol/news/world/europe/article3123679.ece "Congestion fee leaves Milan in a jam"]</ref>
+
+He joined the [[Brookings Institution]], an American thinktank, in 1977. He continued his work on housing policies and traffic issues management at the institute.<ref name=":0" /><ref name="biog">{{cite book|url=https://books.google.com/books?id=QIfIo8zSnBIC&pg=PA25|title=Biographical Dictionary of Public Administration|date=2001|publisher=[[Greenwood Publishing Group|Greenwood]]|isbn=978-0313302039|editor1-last=Wigfall|editor1-first=Patricia Moss|location=[[Westport, CT]]|pages=25–27|editor2-last=Kalantari|editor2-first=Behrooz}}</ref> 
+
+He was the author or co-author of 24 books and more than 500 articles. His most influential books are ''[[An Economic Theory of Democracy]]'' (1957) and ''Inside Bureaucracy'' (1967); widely translated, both are credited as major influences on the [[public choice]] school of [[political economy]].<ref name=":0" /><ref name=":1" /><ref>{{Cite news|title=Anthony Downs, who viewed politics and traffic through the lens of economics, dies at 90|language=en-US|work=Washington Post|url=https://www.washingtonpost.com/local/obituaries/anthony-downs-dead/2021/10/27/ebff5d5a-3679-11ec-8be3-e14aaacfa8ac_story.html|access-date=October 27, 2021|issn=0190-8286}}</ref>
+
+He was a visiting fellow at the [[Public Policy Institute of California]] in [[San Francisco]], between 2004 and 2005.<ref name=":1">{{Cite web|last=Down|first=Anthony|date=November 1, 2005|title=PPIC: California's Inland Empire|url=https://www.ppic.org/wp-content/uploads/content/pubs/cacounts/CC_1105ADCC.pdf|url-status=live|access-date=October 28, 2021|website=PPIC}}</ref>
+
+== Personal life ==
+Downs met his first wife, Mary Katherine Watson, at a high-school prom. During this time, he challenged her to a game of chess, which she won. The couple were married in 1956. They had five children.  Kay died in 1998 from [[ovarian cancer]].<ref name=":0" /> Downs later married his second wife Darian Dreyfuss Olsen.<ref name=":0" />
+
+Anthony Downs died of natural causes in Bethesda, Maryland, on October 2, 2021.<ref name="nytobit" /><ref name=":0" />
+
+== See also ==
+* [[Rational choice theory]]
+* [[Rational ignorance]]
+* [[Induced demand]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+
+* Simon Fraser University's [https://www.sfu.ca/city City Program] has a [https://web.archive.org/web/20090421113254/http://www.sfu.ca/city/city_pgm_mp3_11.htm podcast of a presentation by him called, ''Shaping the Region’s Future: Connecting Land Use and Transportation''.]
+* {{C-SPAN|anthonydowns}}
+
+{{Chicago school economists}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Downs, Anthony}}
+[[Category:1930 births]]
+[[Category:2021 deaths]]
+[[Category:People from Evanston, Illinois]]
+[[Category:Economists from Illinois]]
+[[Category:Carleton College alumni]]
+[[Category:Stanford University alumni]]
+[[Category:Public choice theory]]
+[[Category:Brookings Institution]]
+[[Category:RAND Corporation people]]

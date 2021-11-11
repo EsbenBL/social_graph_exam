@@ -1,0 +1,61 @@
+{{short description|Professor and American Economist}}
+{{Infobox economist
+| name             = Bennett T. McCallum
+| school_tradition = [[New classical economics]]
+
+| image            =
+| image_size       =
+| caption          =
+| birth_date       = {{Birth date and age|1935|07|27}}
+| birth_place      = [[Poteet, Texas|Poteet]], [[Texas]]<ref>[https://books.google.com/books?id=29U9GeQQnSUC&dq= ''Who's Who in Economics''], Edward Elgar Publishing, 2003, p. 549.</ref>
+| death_date       =
+| death_place      =
+| nationality      = [[United States]]
+| institution      = [[Carnegie Mellon University]]<br>[[University of Virginia]]
+| field            = [[Monetary economics]]<br>[[Econometrics]]
+| alma_mater       = [[Rice University]]<br>[[Harvard University]]
+| influences       = [[John Muth]]<br>[[Robert E. Lucas]]
+| influenced       = [[Edward Nelson]]<br>[[Charles L. Evans]]
+| contributions    = [[McCallum rule]]
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pmc4
+}}
+'''Bennett T. McCallum''' (born July 27, 1935) is an American [[monetary economics|monetary economist]]. He is H. J. Heinz Professor of Economics at [[Carnegie Mellon University]]'s [[Tepper School of Business]].<ref>{{Cite web|url=https://research.stlouisfed.org/conferences/homer/bm.html|title=Bennett T. McCallum (Homer Jones Lecture) - St. Louis Fed|website=research.stlouisfed.org|access-date=2019-05-13}}</ref> He is known for the [[McCallum rule|McCallum Rule]], a monetary policy proposal advocating targeting the growth rate of the [[monetary base]].<ref>{{Cite web|url=https://www.investopedia.com/terms/m/mccallum_rule.asp|title=McCallum Rule|last=Chen|first=James|website=Investopedia|language=en|access-date=2019-05-13}}</ref><ref>McCallum, B. T. (1987). The case for rules in the conduct of monetary policy: a concrete example. ''Review of World Economics'', ''123''(3), 415-429.</ref>
+
+McCallum earned a [[Bachelor of Arts|B.A.]] and a [[Bachelor of Science|B.Sc.]] (in chemical engineering) from [[Rice University]]. He then attended [[Harvard Business School]] to earn his [[Master of Business Administration|M.B.A.]], before returning to Rice in order to obtain his [[Doctor of Philosophy|Ph.D.]] in economics.
+
+He became professor at Carnegie Mellon in 1981, after holding a professorship at the [[University of Virginia]] (1974–1982). Among his doctoral students was [[Charles L. Evans]], the current president of the [[Federal Reserve Bank of Chicago]].<ref>[http://www.tepper.cmu.edu/current-students/current-doctoral/doctoral-newsletter/download.aspx?id=1687 Tepper School of Business: ''Doctoral Program Newsletter'', Issue 14, September 2007.] {{webarchive |url=https://web.archive.org/web/20100613034046/http://www.tepper.cmu.edu/current-students/current-doctoral/doctoral-newsletter/download.aspx?id=1687 |date=June 13, 2010 }}</ref>
+
+== See also ==
+
+* [[McCallum rule]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/mccallum-bennett.html Website at Carnegie Mellon]
+*https://www.nber.org/people/bennett_mccallum
+*https://www.c-span.org/person/?bennettmccallum
+* {{cite encyclopedia |last1=McCallum |first1=Bennett T. |authorlink1=|editor= [[David R. Henderson]]|encyclopedia=[[Concise Encyclopedia of Economics]] |title=Monetarism |url=http://www.econlib.org/library/Enc/Monetarism.html |year=2008 |edition= 2nd |publisher=[[Library of Economics and Liberty]] |location=Indianapolis |isbn=978-0865976658 |oclc=237794267}}
+
+{{Neoclassical economists}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:McCallum, Bennett}}
+[[Category:1935 births]]
+[[Category:Living people]]
+[[Category:Monetary economists]]
+[[Category:New classical economists]]
+[[Category:Rice University alumni]]
+[[Category:Harvard University alumni]]
+[[Category:University of Virginia faculty]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Fellows of the Econometric Society]]
+
+
+{{US-economist-stub}}

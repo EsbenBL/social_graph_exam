@@ -1,0 +1,38 @@
+[[File:Fernand Gobet.jpg|thumb|Fernand Gobet]]
+'''Fernand Gobet''' (born February 12, 1962 in [[Switzerland]]) is a [[cognitive scientist]] and a [[cognitive psychologist]], currently Professor of Cognitive Psychology at the [[London School of Economics]]. His research interests focus on the study of cognition, especially in the areas of [[cognitive architectures]], perception, [[Intuition (knowledge)|intuition]], problem solving, learning and decision making. He has developed the [[CHREST]] cognitive architecture, an acronym for Chunk Hierarchy and REtrieval STructures, which is a complete architecture for the processes of learning and perception used by humans.<ref>Gobet, F., Lane, P. C. R., Croker, S., Cheng, P. C-H., Jones, G., Oliver, I. & Pine, J. M. (2001). Chunking mechanisms in human learning. Trends in Cognitive Sciences, 5, 236-243.</ref>
+He is a [[chess]] [[International Master]], and played numerous times for the Swiss national team.<ref>{{cite web|url=http://www.olimpbase.org/players/f1jjnl3e.html|title=Men's Chess Olympiads: Fernand Gobet|last=Bartelski|first=Wojciech|publisher=OlimpBase|accessdate=2011-12-01}}</ref> He was co-editor of the Swiss Chess Review from 1981 to 1989. His [[Elo rating system|Elo rating]] is 2400.<ref>{{cite web|url=http://www.chessgames.com/player/fernand_gobet.html|title=The chess games of Fernand Gobet|publisher=ChessGames.com|accessdate=1 December 2011}}</ref>
+
+==Books==
+* Addis, M., Lane, P., Sozou, P., & Gobet, F. (Eds.) (2019). Scientific discovery in the social sciences. New York: Springer.
+* Gobet, F. (2018). The psychology of chess. London: Routledge.
+* Gobet, F. (2015). Understanding expertise: A multidisciplinary approach. London: Palgrave.
+* Gobet, F. & Schiller, M. (Eds.) (2014). Problem gambling: Cognition, prevention and treatment. London: Palgrave Macmillan.
+* Gobet, F. (2011). Psychologie du talent et de l’expertise. Paris: De Boeck.
+* Gobet, F., Chassy, P., & Bilalić, M. (2011). Foundations of cognitive psychology. New York, NY: McGraw Hill.
+* Gobet, F., de Voogt, A., & Retschitzki, J. (2004). Moves in mind - The psychology of board games. Hove, UK: Psychology Press.
+* de Groot, A. & Gobet, F. (1996). Perception and memory in chess. Heuristics of the professional eye. Assen: Van Gorcum.
+* Gobet, F. (1993). Les mémoires d'un joueur d'échecs. Fribourg (Switzerland): Editions Universitaires
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://chessprogramming.wikispaces.com/Fernand+Gobet Page on Chess Programming Wiki]
+* {{Fide}}
+* {{chessgames player|id=15756}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gobet, Fernand}}
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:Cognitive scientists]]
+[[Category:Artificial intelligence researchers]]
+[[Category:Swiss psychologists]]
+[[Category:Swiss chess players]]
+[[Category:Chess International Masters]]
+[[Category:Chess Olympiad competitors]]
+[[Category:Academics of Brunel University London]]
+
+<!--- Categories --->
+[[Category:Academics of the University of Liverpool]]

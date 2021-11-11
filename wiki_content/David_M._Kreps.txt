@@ -1,0 +1,67 @@
+{{more footnotes|date=February 2013}}
+{{Infobox scientist
+| name = David M. Kreps
+| native_name = 
+| native_name_lang = 
+| image = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size = 
+| alt = 
+| caption = 
+| birth_date = 
+| birth_place = 
+| death_date = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| nationality = 
+| fields = [[Game theory]]
+| workplaces = [[Stanford University]]
+| alma_mater = [[Stanford University]]
+| thesis_title = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor = [[Evan Lyle Porteus]] <!--(or  | doctoral_advisors = )-->
+| doctoral_students = [[Chi-fu Huang]]<br>[[Robert Gibbons (economist)|Robert Gibbons]]
+| known_for = 
+| awards = [[John Bates Clark Medal]]
+}}
+'''David Marc "Dave" Kreps''' (born 1950 in [[New York City]]) is a [[game theory|game theorist]] and [[economist]] and professor at the [[Stanford Graduate School of Business|Graduate School of Business]] at [[Stanford University]].  He is known for his analysis of dynamic choice models and non-cooperative game theory, particularly the idea of [[sequential equilibrium]], which he developed with Stanford Business School colleague [[Robert B. Wilson]].
+
+He earned his A.B. from [[Dartmouth College]] in 1972 and his Ph.D. from Stanford in 1975.  Kreps won the [[John Bates Clark Medal]] in 1989.  He was awarded an honorary Ph.D. by the [[Université Paris-Dauphine]] in 2001. With colleagues [[Paul Milgrom]] and [[Robert B. Wilson]], he was awarded the 2018 [[John J. Carty Award for the Advancement of Science]]. He is a member of the [[National Academy of Sciences]].
+
+He has also written many books, including ''Microeconomics for Managers'',<ref>{{cite book|author=David M. Kreps|title=Microeconomics for Managers|url=https://books.google.com/books?id=_l2bQgAACAAJ|year=2004|publisher=Norton|isbn=978-0-393-97678-6}}</ref> ''A Course in Microeconomic Theory'', and ''Game Theory and Economic Modeling''.<ref>{{cite book|author=David M. Kreps|title=Game Theory and Economic Modelling|url=https://books.google.com/books?id=qMoTDAAAQBAJ|year=1990|publisher=Oxford University Press|isbn=978-0-19-828381-2}}</ref>
+
+==See also==
+* [[Trade-off Talking Rational Economic Person]]
+
+==External links==
+*[https://www.gsb.stanford.edu/faculty-research/faculty/david-m-kreps David M. Kreps' home page at Stanford University]
+* {{citation|title=Contributions to the ''New Palgrave''|author1=David&nbsp;M. Kreps|author2=John Roberts|author2-link=Donald John Roberts|author3=Robert&nbsp;B. Wilson|author3-link=Robert B. Wilson|date=July 1986|pages=30–35|url=https://gsbapps.stanford.edu/researchpapers/library/RP892.pdf|access-date=7 February 2011|series=Research paper|volume=892|publisher=Graduate School of Business, Stanford University|location=Palo Alto,&nbsp;CA|id=(Draft of articles for the first edition of ''New&nbsp;Palgrave Dictionary of Economics'')}}
+
+==References==
+{{reflist}}
+
+{{John Bates Clark Medal recipients}}
+{{Game theory}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kreps, David M.}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:Dartmouth College alumni]]
+[[Category:Stanford University alumni]]
+[[Category:Stanford University Graduate School of Business faculty]]
+[[Category:Stanford University Department of Economics faculty]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Information economists]]
+[[Category:Game theorists]]
+[[Category:Mathematical economists]]
+[[Category:General equilibrium theorists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]
+
+
+{{US-economist-stub}}

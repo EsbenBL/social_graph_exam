@@ -1,0 +1,111 @@
+{{Short description|American Nobel laureate in economics}}
+{{Infobox economist
+| name             = Eric Maskin
+| school_tradition =
+| image       = 05N3441 emaskin.jpg
+| image_size       =
+| caption    = Maskin in 2009
+| birth_date       = {{Birth date and age|1950|12|12}}
+| birth_place      = [[New York City, New York]] [[United States|USA]]
+| death_date       =
+| death_place      =
+| nationality      = [[United States]]
+| institution      = [[Harvard University]]<br />[[Institute for Advanced Study]]<br />[[Massachusetts Institute of Technology]]<br />[[Princeton University]]<br />[[University of Cambridge]]
+| field            = [[Game theory]]
+| alma_mater       = [[Harvard University]]
+| doctoral_advisor = [[Kenneth Arrow]]
+| academic_advisors=
+| doctoral_students= [[Abhijit Banerjee]]<br>[[Drew Fudenberg]]<ref>Fudenberg, Drew (1981), ''[http://library.mit.edu/F/BTEFEQ2JUEEYTP6S2F8BXGRG7K4UVMRD9BK36Q6RHQ3MHAERAL-03669?func=find-acc&acc_sequence=005785566 Strategic behavior in economic rivalry]''. Ph.D. dissertation, Massachusetts Institute of Technology.</ref><br>[[Robert W. Vishny]]<ref>{{cite thesis |last= Vishny |first= Robert W. |date= 1985 |title= Informational aspects of securities markets |type= Ph.D. |publisher= [[MIT]] |url= http://library.mit.edu/item/000242323 |access-date= April 5, 2018 }}</ref><br>[[Mathias Dewatripont]]<br>[[David S. Scharfstein]]<br>[[Jean Tirole]]
+| notable_students =
+| influences       = 
+| influenced       = 
+| contributions    = [[Mechanism design]]
+| awards           = [[Nobel Memorial Prize in Economic Sciences|Nobel Memorial Prize]] (2007)
+| signature        = <!-- file name only -->
+| repec_prefix = f | repec_id = pma498
+}}
+'''Eric Stark Maskin''' (born December 12, 1950) is an [[United States|American]] [[economist]] and 2007 [[Nobel laureate]] recognized with [[Leonid Hurwicz]] and [[Roger Myerson]] "for having laid the foundations of [[mechanism design]] theory".<ref>{{cite press release |url=http://nobelprize.org/nobel_prizes/economics/laureates/2007/press.html |title=The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2007 |date=October 15, 2007 |access-date=2008-08-15 |publisher=[[Nobel Foundation]]}}</ref> He is the [[Harvard University Professor|Adams University Professor]] and Professor of Economics and Mathematics at [[Harvard University]]. 
+
+Until 2011, he was the [[Albert O. Hirschman]] Professor of Social Science at the [[Institute for Advanced Study]], and a visiting lecturer with the rank of professor at [[Princeton University]].<ref name="dp">[http://www.dailyprincetonian.com/archives/2007/10/16/news/19009.shtml Economics professor wins Nobel – The Daily Princetonian<!--Bot-generated title-->] {{webarchive|url=https://web.archive.org/web/20071017151649/http://www.dailyprincetonian.com/archives/2007/10/16/news/19009.shtml|date=October 17, 2007}}</ref>
+
+==Early life and education==
+Maskin was born in [[New York City]] on December 12, 1950, into a Jewish family, and spent his youth in [[Alpine, New Jersey|Alpine]], New Jersey. He graduated from [[Tenafly High School]] in [[Tenafly, New Jersey|Tenafly]], New Jersey, in 1968.<ref>[http://www.tenaflynj.org/filestorage/68/470/10-October_15.pdf Minutes of Library Board Meeting] {{webarchive|url=https://web.archive.org/web/20080626040032/http://www.tenaflynj.org/filestorage/68/470/10-October_15.pdf |date=2008-06-26 }}, Tenafly Public Library, dated October 15, 2007. Accessed January 22, 2008.</ref> In 1972, he graduated with [[Bachelor of Arts|A.B.]] in mathematics from [[Harvard College]], the undergraduate [[liberal arts college]] of [[Harvard University]]. In 1974, he earned [[Master of Arts|A.M.]] in applied mathematics and in 1976 earned a [[Doctor of Philosophy|Ph.D.]] in applied mathematics, both at [[Harvard University]]. In 1975-76, he was a visiting student at [[Darwin College, Cambridge|Darwin College]], Cambridge University. 
+
+==Career and topics==
+In 1976, after earning his doctorate, Maskin became a research fellow at [[Jesus College, Cambridge|Jesus College]], Cambridge University. In the following year, he joined the faculty at [[Massachusetts Institute of Technology]]. In 1985 he returned to Harvard as the Louis Berkman Professor of Economics, where he remained until 2000. That year, he moved to the [[Institute for Advanced Study]] in [[Princeton, New Jersey|Princeton]], New Jersey. In addition to his position at the Princeton Institute, Maskin is the director of the Jerusalem Summer School in Economic Theory at [[The Institute for Advanced Studies at The Hebrew University of Jerusalem]].<ref>{{Cite web | url=http://www.as.huji.ac.il/schools/econ23 | title=The 23rd Jerusalem School in Economic Theory - Intertemporal Public Economics &#124; the Institute for Advanced Studies}}</ref> In 2010, he was conferred an honorary doctoral degree in economics from The [[University of Cambodia]].<ref>{{Cite web|url=http://uc.edu.kh/ucb/List%20of%20Honorary%20Doctorates%20(2004%20-%202014)/2015-07-22%2006:45:24/1889/|title=Welcome to The University of Cambodia (UC)|website=uc.edu.kh|access-date=2018-05-07}}</ref> In 2011, Maskin returned to [[Harvard University|Harvard]] as the Adams University Professor and professor of economics and mathematics.<ref>Gautam S. Kumar and Julia L. Ryan. [http://www.thecrimson.com/article/2011/10/25/Maskin-Economics-Princeton Economics Nobel Laureate Eric Maskin Returning to Harvard]. ''Harvard Crimson'', Oct 25 2011</ref>
+
+Maskin has worked in diverse areas of [[economic theory]], such as [[game theory]], the economics of incentives, and contract theory. He is particularly known for his papers on [[mechanism design]]/[[implementation theory]] and [[dynamic game]]s. With Jean Tirole, he advanced the concept of [[Markov perfect equilibrium]]. His research projects include comparing different electoral rules, examining the causes of inequality, and studying coalition formation.
+
+Maskin is a Fellow of the ''[[American Academy of Arts and Sciences]]'',<ref>{{Cite web|title=Eric Stark Maskin|url=https://www.amacad.org/person/eric-stark-maskin|access-date=2021-03-24|website=American Academy of Arts & Sciences|language=en}}</ref> ''[[Econometric Society]]'',<ref>{{Cite web|title=Fellows {{!}} The Econometric Society|url=https://www.econometricsociety.org/society/organization-and-governance/fellows|access-date=2021-03-24|website=www.econometricsociety.org}}</ref> and the ''[[European Economic Association]]'',<ref>{{Cite web|title=Fellows {{!}} EEA|url=https://www.eeassoc.org/fellows|access-date=2021-03-24|website=www.eeassoc.org}}</ref> and a Corresponding Fellow of the ''[[British Academy]]''.<ref>{{Cite web|title=Professor Eric Maskin FBA|url=https://www.thebritishacademy.ac.uk/fellows/eric-maskin-FBA/|access-date=2021-03-24|website=The British Academy|language=en}}</ref> He was president of the ''Econometric Society'' in 2003.<ref>{{Cite web|title=Past Presidents {{!}} The Econometric Society|url=https://www.econometricsociety.org/society/organization-and-governance/executive-committee-2021/past-presidents|access-date=2021-03-24|website=www.econometricsociety.org|language=en}}</ref>
+
+In 2014, Maskin was appointed as a visiting professor at [[Covenant University]], Nigeria.<ref>{{cite news |first=Mojeed |last=Alabi| newspaper=[[New Telegraph]] |place=Lagos, Nigeria |url= http://newtelegraphonline.com/nobel-laureate-joins-covenant-varsity/ |title= Nobel laureate joins Covenant varsity |date=16 July 2014| url-status=dead |archive-url= https://web.archive.org/web/20140811055122/http://newtelegraphonline.com/nobel-laureate-joins-covenant-varsity |archive-date=11 August 2014}}</ref>
+
+In September 2017, Maskin received the title of [[HEC Paris]] [[Honorary degree|Honoris Causa Professor]].<ref>{{Cite news|url=http://www.hec.edu/Knowledge/Events/Nobel-Prize-Eric-MASKIN-Conference-on-Improving-French-and-American-presidential-elections|title=Nobel Prize Eric MASKIN Conference on "Improving French and American presidential elections"|last=Paris|first=HEC|work=HEC Paris|access-date=2018-04-02}}</ref><ref>{{cite web |title=HEC PARIS HONORIS CAUSA PROFESSOR 2017 REWARDS LIFELONG WORK OF NOBEL LAUREATE ERIC MASKIN |url=https://www.hec.edu/en/news-room/hec-paris-honoris-causa-professor-2017-rewards-lifelong-work-nobel-laureate-eric-maskin |website=HEC Paris |access-date=10 November 2019 |date=Oct 12, 2017}}</ref> He also served on the Social Sciences jury for the [[Infosys Prize]] in 2018.
+
+==Software patents==
+Maskin suggested that [[Software patent debate|software patents]] inhibit [[innovation]] rather than stimulate progress. Software, semiconductor, and computer industries have been innovative despite historically weak patent protection, he argued. Innovation in those industries has been sequential and complementary, so competition can increase firms' future profits. In such a dynamic industry, "patent protection may reduce overall innovation and social welfare". A natural experiment occurred in the 1980s when patent protection was extended to software", wrote Maskin with co-author [[James Bessen]]. "Standard arguments would predict that R&D intensity and productivity should have increased among patenting firms. Consistent with our model, however, these increases did not occur". Other evidence supporting this model includes a distinctive pattern of [[cross-licensing]] and a positive relationship between rates of innovation and firm entry.<ref>{{Cite journal | doi = 10.1111/j.1756-2171.2009.00081.x| title = Sequential innovation, patents, and imitation| year = 2009| last1 = Bessen | first1 = J. | last2 = Maskin | first2 = E. | journal = The RAND Journal of Economics| volume = 40| issue = 4| pages = 611| url = http://publications.ut-capitole.fr/16447/1/bessen.pdf}}</ref>
+
+==See also==
+* [[List of economists]]
+* [[Mechanism design]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+* {{Nobelprize|name=Eric S. Maskin}} including the Nobel prize Lecture ''Mechanism Design: How to Implement Social Goals''
+* [https://web.archive.org/web/20071017151649/http://dailyprincetonian.com/archives/2007/10/16/news/19009.shtml Profile in The Daily Princetonian]
+* Videos of Eric Maskin
+**{{cite AV media |last=Maskin |first=Eric |date=8 December 2007 |title=Nobel Prize Lecture |url=http://www.nobelprize.org/mediaplayer/index.php?id=789 |publisher=Nobel Media AB |location=[[Aula Magna (Stockholm University)|Aula Magna]], Stockholm University}}
+**{{cite AV media |last=Maskin |first=Eric |date=January 2008 |title=Mechanism Design: How to Implement Social Goals |url=https://www.youtube.com/watch?v=AtRmnTeIPio |publisher=[[University of California, Irvine School of Social Sciences]]}}
+**{{cite AV media |last=Maskin |first=Eric |date=23 December 2013 |title=Mechanism Design  |url=https://www.youtube.com/watch?v=Y645BrYSi74 |publisher=Serious Science}}
+**{{cite AV media |last=Maskin |first=Eric |date=1 June 2014 |title=An Introduction to Mechanism Design |url=https://www.youtube.com/watch?v=XSVoeETsEcU |location=Warwick Economics Summit}} Maskin giving a keynote address on 'How to Make the Right Decisions without knowing People's Preferences'
+**{{cite AV media |last=Maskin |first=Eric |date=24 June 2015 |title=Introduction to Repeated Games |url=https://www.youtube.com/watch?v=RBZGBk3N2Ok |location=26th Jerusalem Summer School on Economics Theory}}
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Edmund S. Phelps]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 2007 | alongside = [[Leonid Hurwicz]], [[Roger B. Myerson]] }}
+{{s-aft | after = [[Paul Krugman]] }}
+{{s-end}}
+
+{{2007 Nobel Prize winners}}
+{{Nobel laureates in economics 2001-2025}}
+{{Presidents of the Econometric Society}}
+{{Presidents of the Game Theory Society}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Maskin, Eric}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:Nobel laureates in Economics]]
+[[Category:American Nobel laureates]]
+[[Category:Jewish Nobel laureates]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Corresponding Fellows of the British Academy]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Game theorists]]
+[[Category:Harvard College alumni]]
+[[Category:Harvard University alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Information economists]]
+[[Category:Institute for Advanced Study faculty]]
+[[Category:Jewish American social scientists]]
+[[Category:Massachusetts Institute of Technology faculty]]
+[[Category:People from Alpine, New Jersey]]
+[[Category:Princeton University faculty]]
+[[Category:Fellows of Jesus College, Cambridge]]
+[[Category:Fellows of Churchill College, Cambridge]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Jewish American economists]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Covenant University faculty]]
+[[Category:Santa Fe Institute people]]
+[[Category:Tenafly High School alumni]]
+[[Category:Economists from New Jersey]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]
+[[Category:Fellows of the European Economic Association]]

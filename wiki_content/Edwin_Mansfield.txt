@@ -1,0 +1,31 @@
+{{Infobox person
+| name               = Edwin Mansfield
+| birth_date         = 1930
+| death_date         = 1997
+| occupation         = Professor of economics
+}}
+
+'''Edwin Mansfield''' (1930 &ndash; 17 November 1997) was a professor of economics at [[University of Pennsylvania]] from 1964 and until his death. From 1985 he was also a director of the Center for Economics and Technology.<ref>{{cite news |title=Edwin Mansfield, 67, Scholar Of Economics and Technology |url=https://www.nytimes.com/1997/11/21/business/edwin-mansfield-67-scholar-of-economics-and-technology.html |url-access=subscription |access-date=11 July 2020 |work=[[The New York Times]] |date=21 November 1997 |page=B11}}</ref>
+
+Edwin Mansfield is best known for his scientific results concerning [[technological change]] / [[diffusion of innovations]], and also for his textbooks on [[microeconomics]], [[managerial economics]], and [[econometrics]] that were published in millions copies and translated into foreign languages.
+
+==References==
+{{reflist}}
+* Diamond, Arthur M., Jr. 2003. "Edwin Mansfield's Contributions to the Economics of Technology," ''Research Policy'', 32(9), pp. [ftp://ftp.ige.unicamp.br/pub/CT001%20SocCiencia/Agosto%2030/Diamond%20on%20Mansfield.pdf 1607-17].
+* Mansfield, Edwin, et al. 2009. ''Managerial Economics Theory, Applications, and Cases'', 7th Edition. Norton. [http://books.wwnorton.com/books/detail-contents.aspx?ID=13385 Contents].
+* [[Frederic M. Scherer|Scherer, F.M.]]  2005. "Edwin Mansfield: An Appreciation," ''Essays in Honor of Edwin Mansfield'', Part I, Springer,  pp.[https://doi.org/10.1007%2F0-387-25022-0_1 1]-7.  [https://ssrn.com/abstract=1503896 Abstract.]
+* [[David Teece|Teece, David J.]] 2005. "Technology and Technology Transfer: Mansfieldian Inspirations and Subsequent Developments," ''Journal of Technology Transfer'', 30(1/2), Springer, pp. [https://doi.org/10.1007%2Fs10961-004-4355-x 17]-33. [https://ssrn.com/abstract=1500957 Abstract.]
+
+==External links==
+* [http://www.upenn.edu/almanac/v44/n14/obitmansfield.html An obituary on the UPENN website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mansfield, Edwin}}
+[[Category:1930 births]]
+[[Category:1997 deaths]]
+[[Category:20th-century American economists]]
+[[Category:Fellows of the Econometric Society]]
+
+
+{{US-economist-stub}}

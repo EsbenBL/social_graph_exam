@@ -1,0 +1,113 @@
+{{short description|American economist|bot=PearBOT 5}}
+{{Infobox economist
+| name             = William A. Barnett
+| school_tradition = [[neoclassical economics]]
+
+| image            = Wabarnett.jpg
+| image_size       = 200
+| caption          = Photograph of William A. Barnett
+| birth_date       = {{birth date and age|1941|10|30}}
+| birth_place      = [[Boston, Massachusetts]]
+| death_date       =
+| death_place      =
+| nationality      = United States
+| institution      = [[University of Kansas]], Department of Economics.
+
+[http://www.centerforfinancialstability.org/amfm.php Center for Financial Stability], NY City.
+| field            = Economic measurement, macroeconomics, monetary econometrics, consumer demand and production modelling, nonlinear dynamics.
+| alma_mater       = [[Carnegie Mellon University]] <small>(Ph.D., 1974)</small>.<br>
+[[University of California at Berkeley]] <small>(M.B.A., 1965)</small>.<br>
+[[M.I.T]] <small>(B.S., 1963)</small>.<br>
+| influences       = [[Henri Theil]], [[Milton Friedman]], [[Franco Modigliani]], [[Simon Kuznets]], [[Robert Lucas, Jr.]], [[Thomas J. Sargent]].
+| influenced       = [[Apostolos Serletis]]
+| contributions    = Originator of the [[Divisia monetary aggregates]].
+
+Editor of [[Macroeconomic Dynamics]].
+
+President of [[Society for Economic Measurement (SEM)|Society for Economic Measurement]].
+
+Director of [http://www.centerforfinancialstability.org/ Center for Financial Stability].
+
+Director of the [http://icemr.ru/institute-for-nonlinear-dynamical-inference/ Institute for Nonlinear Dynamical Inference] at RUDN University in Moscow. <br>
+| awards           = [https://college.ku.edu/2017-mentor-awards John C. Wright Outstanding Graduate Mentor Award.] (2017).
+
+[http://news.ku.edu/2013/10/07/higuchi-ku-endowment-research-awards-go-faculty-ku-kansas-state-wichita-state/ Higuchi Research Award] (2013).
+
+American Publishers Award for Professional and Scholarly Excellence (the [[PROSE Awards]]) (2012).
+| repec_prefix = e | repec_id = pba28
+| signature        = <!-- file name only -->
+}}
+
+'''William Arnold Barnett''' (born October 30, 1941) is an [[United States|American]] [[economist]], whose current work is in the fields of [[chaos theory|chaos]], [[Bifurcation theory|bifurcation]], and [[nonlinear dynamics]] in socioeconomic contexts, [[econometric]] modeling of consumption and production, and the study of the [[aggregation problem]] and the challenges of [[measurement in economics]].
+
+==Education==
+Barnett received his B.S. degree in [[mechanical engineering]] from [[M.I.T.]], his [[M.B.A.]] from the [[University of California, Berkeley]], and his M.A. and [[Ph.D.]] from [[Carnegie Mellon University]].
+
+==Positions==
+Barnett is currently the Oswald Distinguished Professor of [[Macroeconomics]] at the [[University of Kansas]] and Director of the [http://www.centerforfinancialstability.org/amfm.php Center for Financial Stability], in New York City.  He is also a Fellow of the [http://ic2.utexas.edu/ IC² Institute] at the University of Texas at Austin and a Fellow of the [[Johns Hopkins University|Johns Hopkins]] [[Institute for Applied Economics, Global Health, and the Study of Business Enterprise]]. He is the founder and President of the [[Society for Economic Measurement]]. He is also the Director of the [http://icemr.ru/institute-for-nonlinear-dynamical-inference/ Institute for Nonlinear Dynamical Inference] at RUDN University in Moscow.
+
+He was previously Research Economist at the [[Board of Governors of the Federal Reserve|Board of Governors]] of the [[Federal Reserve]] System in [[Washington, D.C.]]; Stuart Centennial Professor of Economics at the [[University of Texas]] at [[Austin]]; and Professor of Economics at [[Washington University]] in [[St. Louis]].  Prior to becoming an economist, he worked from 1963 to 1969, as an engineer at [[Rocketdyne]] division of  the [[Rockwell International Corporation]] on development of the [[Rocketdyne F-1|F-1]] and [[Rocketdyne J-2|J-2 rocket]] engines during [[Apollo program]].
+
+==Research==
+His research is in [[macroeconomics]] and [[econometrics]].  He is Founding President of the [[Society for Economic Measurement (SEM)|Society for Economic Measurement]], Founding Editor of the [[Cambridge University Press]] journal, [[Macroeconomic Dynamics]] and of the [[Emerald Group Publishing]] monograph series, ''International Symposia in Economic Theory and Econometrics'', and originator of the [[Divisia monetary aggregates]] and the "[[Barnett critique]]".<ref>{{Cite journal|title = Empirical Evidence on the Recent Behavior and Usefulness of Simple-Sum and Weighted Measures of the Money Stock|last1 = Chrystal|first1 = Alec|date = 1994|journal = Federal Reserve Bank of St. Louis Review|volume = 76|issue = 2|doi = 10.20955/r.76.73-109|last2 = MacDonald|first2 = Ronald|pages = 73–109|doi-access = free}}</ref><ref>{{Cite journal|last1=Belongia|first1=Michael|last2=Ireland|first2=Peter|date=2014|title=The Barnett Critique After Three Decades: A New Keynesian Analysis|url=http://irelandp.com/pubs/barnett.pdf|journal=Journal of Econometrics|volume=5|issue=21|access-date=August 1, 2016}}</ref>
+
+In consumer demand and production modelling, he originated the [[Laurent series]] approach to specification design and the [[seminonparametric]] approach using the [[Müntz–Szász theorem]].  His publications on bifurcation analysis and nonlinear dynamics have shown that robustness of dynamical inferences is compromised, when policy simulations are run only at point estimates of parameters, since confidence regions about those estimates are often crossed by bifurcation boundaries.
+
+He is a Fellow of the [[American Statistical Association]], a Charter Fellow of the [[Journal of Econometrics]], a Charter Fellow of the [[Society for Economic Measurement (SEM)|Society for Economic Measurement]], a Fellow of the World Innovation Foundation, a Fellow of the IC² Institute, and a Fellow of the Johns Hopkins [[Institute for Applied Economics, Global Health, and the Study of Business Enterprise]], and Honorary Professor at [[Henan University]] in Kaifeng, China.  He is ranked among the top 2% of the world's economists in [[RePEc]].
+
+His book with Nobel Laureate, [[Paul A. Samuelson]], ''Inside the Economist's Mind: Conversations with Eminent Economists'', [[Wiley-Blackwell]] Publishing (2007), {{ISBN|1-4051-5917-0}}, has been translated into seven languages.  His ''MIT Press book'', ''Getting It Wrong: How Faulty Monetary Statistics Undermine the Fed, the Financial System, and the Economy'', {{ISBN|9780262516884}}, won the American Publishers Award for Professional and Scholarly Excellence (the [[PROSE Awards]]) for the best book published in economics during 2012.
+
+During January 2017, he was interviewed in depth about his life's work by Apostolos Serletis.<ref>{{Cite news|url=http://www.centerforfinancialstability.org/research/Barnett_Interview.pdf|title=An Interview with William A. Barnett|last=Serletis|first=Apostolos|date=2017|work=Center for Financial Stability}}</ref> A [http://www.centerforfinancialstability.org/events/BoE_Barnett_conference_021417.pdf conference in his honor] was held at the Bank of England on May 23–24, 2017.
+
+==Honorary journal special issues==
+
+Special issues of two eminent professional journals, the ''Journal of Econometrics'' and ''Econometric Reviews'', have been published in Professor Barnett's honor with contribution by many of the world's most prominent economists. These journals are:
+* Special issue of the [[Journal of Econometrics]] on the topic of "[http://www.sciencedirect.com/science/journal/03044076/183/1 Internally Consistent Modeling, Aggregation, Inference, and Policy]," coedited in honor of William A. Barnett by [[James Heckman]] and [[Apostolos Serletis]], v. 183, no. 1, November 2014, pp.&nbsp;1 – 146.
+* Special issue of [[Econometric Reviews]] on the topic of "[http://www.tandfonline.com/toc/lecr20/34/1-2#.VE-m01cnnyA Econometrics with Theory: A Volume Honoring William A. Barnett]," coedited by [[James Heckman]] and [[Apostolos Serletis]], v. 34, no. 1-2, 2015, pp.&nbsp;1 – 254.
+
+==Publications==
+
+===Selected books===
+* {{cite book |author1=Barnett, William  |author2=Apostolos Serletis |name-list-style=amp |title=The Theory of Monetary Aggregation |publisher=Elsevier |year=2000|isbn=978-0444501196 }}
+* {{cite book |author1=Barnett, William  |author2=Jane Binner |name-list-style=amp |title=Functional Structure and Approximation in Econometrics |publisher=Elsevier |year=2004|isbn=978-0444508614 }}
+* {{cite book |author1=Barnett, William  |author2=Paul Samuelson |name-list-style=amp |title=Inside the Economist's Mind: Conversations with Eminent Economists |publisher=Wiley/Blackwell|year=2007|isbn=978-1405159173 }}
+* {{cite book |author1=Barnett, William  |author2=Marcelle Chauvet |name-list-style=amp |title=Financial Aggregation and Index Number Theory |publisher=World Scientific Publishing|year=2011|isbn=978-9814293099 }}
+* {{cite book |author=Barnett, William|title=Getting It Wrong: How Faulty Monetary Statistics Undermine the Fed, the Financial System, and the Economy |publisher=MIT Press|year=2012|isbn=978-0262516884 }}
+
+===Selected journal articles===
+* {{cite journal |author=Barnett, William|title=Economic Monetary Aggregates: An Application of Index Number and Aggregation Theory |journal=Journal of Econometrics|date=September 1980 |volume=14 |pages=11–48 |doi=10.1016/0304-4076(80)90070-6 }}
+* {{cite journal |authors=Barnett, William, Paul Spindt, and Edward Offenbacher|title=The New Divisia Monetary Aggregates |journal=Journal of Political Economy|volume=92 |issue=6 |pages=1049–1085 |date=December 1984 | doi = 10.1086/261275|url=https://kuscholarworks.ku.edu/bitstream/1808/13153/1/The_New_Divisia_Monetary_Aggregates.pdf|hdl=1808/13153 |s2cid=55991556 |hdl-access=free }}
+* {{cite journal |authors=Barnett, William, A. R. Gallant, M. J. Hinich. J. A. Jungeilges, D. T. Kaplan, and M. J. Jensen|title=A Single-Blind Controlled Competition among Tests for Nonlinearity and Chaos |journal=Journal of Econometrics|volume=82 |pages=157–192 |year=1997|doi=10.1016/S0304-4076(97)00081-X |citeseerx=10.1.1.705.4679 }}
+* {{cite journal |author1=Barnett, William |author2=Shu Wu |name-list-style=amp |title=On User Costs of Risky Monetary Assets |journal=Annals of Finance|date=January 2005 |volume=1 |pages=35–50 |doi=10.1007/s10436-004-0003-6 |s2cid=17520332 }}
+* {{cite journal |author=Barnett, William|title=Multilateral Aggregation-Theoretic Monetary Aggregation over Heterogeneous Countries |journal=Journal of Econometrics|date=February 2007 |volume=136 |issue=2 |pages=457–482 |doi=10.1016/j.jeconom.2005.11.004 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikiquote}}
+* [http://econ.tepper.cmu.edu/barnett/Papers.html Barnett papers]
+* [http://alum.mit.edu/www/barnett Personal web site]
+* [http://www.centerforfinancialstability.org Center for Financial Stability]
+* [[Society for Economic Measurement (SEM)|Society for Economic Measurement]]
+* [http://economistmind.blogspot.com Blog]
+
+{{Neoclassical economists}}
+{{macroeconomics-footer}}
+{{History of economic thought}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Barnett, William A.}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:Tepper School of Business alumni]]
+[[Category:MIT School of Engineering alumni]]
+[[Category:Haas School of Business alumni]]
+[[Category:Carnegie Mellon University alumni]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:University of Kansas faculty]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Neoclassical economists]]
+[[Category:Monetary economists]]

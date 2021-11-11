@@ -1,0 +1,538 @@
+{{short description|Group of economic thinkers who share or shared a common perspective on the way economies work}}
+{{Economics sidebar|history}}
+In the [[history of economic thought]], a '''school of economic thought''' is a group of [[economics|economic]] thinkers who share or shared a common perspective on the way [[economy|economies]] work. While [[economist]]s do not always fit into particular schools, particularly in modern times, classifying economists into [[schools of thought]] is common. Economic thought may be roughly divided into three phases: premodern ([[Greco-Roman]], [[History of India|Indian]], [[Persian Empire|Persian]], [[Caliphate|Islamic]], and [[Imperial era of Chinese history|Imperial Chinese]]), early modern ([[mercantilist]], [[physiocrats]]) and modern (beginning with [[Adam Smith]] and [[classical economics]] in the late 18th century, and [[Karl Marx]] and [[Friedrich Engels|Friedrich Engels']] [[Marxian economics]] in the mid 19th century). Systematic economic theory has been developed mainly since the beginning of what is termed the [[modern era]].
+
+Currently, the great majority of economists follow an approach referred to as [[mainstream economics]] (sometimes called 'orthodox economics'). Economists generally specialize into either macroeconomics, broadly on the general scope of the economy as a whole,<ref name="mankiw7e">{{cite book |last1=Mankiw |first1=N Gregory |title=Macroeconomics |url=https://archive.org/details/macroeconomicsth00mank |url-access=limited |date=2010 |publisher=Worth Publishers |location=New York |isbn=978-1-4292-1887-0 |page=[https://archive.org/details/macroeconomicsth00mank/page/n53 15] |edition=7th }}</ref> and microeconomics, on specific markets or actors.{{sfn|Mankiw|2010|p=13}}
+
+Within the macroeconomic mainstream in the United States, distinctions can be made between [[Saltwater school (economics)|saltwater]] economists{{efn|Saltwater economists are generally associated with [[Cornell University|Cornell]], [[University of California, Berkeley|Berkeley]], [[Harvard]], [[MIT]], [[Princeton University|Princeton]], and [[Yale]]{{citation needed|date=November 2019}}}} and the more [[laissez-faire]] ideas of freshwater economists.{{efn|Freshwater economists generally hail from the interior of the nation, represented by the [[Chicago school of economics]], [[Carnegie Mellon University]], the [[University of Rochester]] and the [[University of Minnesota]]{{citation needed|date=November 2019}}}} However, there is broad agreement on the importance of general equilibrium, the methodology related to models used for certain purposes (e.g. statistical models for forecasting, structural models for counterfactual analysis, etc.), and the importance of partial equilibrium models for analyzing specific factors important to the economy (e.g. banking).<ref name="blanchard_future">{{cite journal |last1=Blanchard |first1=Oliver |title=On the future of macroeconomic models |journal=Oxford Review of Economic Policy |date=5 January 2018 |volume=34 |issue=1–2 |pages=43–54 |doi=10.1093/oxrep/grx045 |doi-access=free }}</ref>
+
+Some influential approaches of the past, such as the [[historical school of economics]] and [[institutional economics]], have become defunct or have declined in influence, and are now considered [[heterodox economics|heterodox approaches]]. Other longstanding heterodox schools of economic thought include [[Austrian economics]] and [[Marxian economics]]. Some more recent developments in economic thought such as [[feminist economics]] and [[ecological economics]] adapt and critique mainstream approaches with an emphasis on particular issues rather than developing as independent schools.
+
+== Contemporary economic thought ==
+=== Mainstream economics ===
+{{More citations needed section|date=September 2020}}
+{{main|Mainstream economics}}
+{{Missing information|microeconomics (information and behavioural), might require separating micro and macro into subsections?|date=September 2020}}
+Mainstream economics is distinguished in general economics from [[Heterodox economics|heterodox]] approaches and schools within economics. It begins with the premise that resources are scarce and that it is necessary to choose between competing alternatives. That is, economics deals with [[tradeoff]]s. With scarcity, choosing one alternative implies forgoing another alternative&mdash;the [[opportunity cost]]. The opportunity cost expresses an implicit relationship between competing alternatives. Such costs, considered as prices in a market economy, are used for analysis of [[economic efficiency]] or for predicting responses to disturbances in a market.  In a [[planned economy]] comparable [[shadow price]] relations must be satisfied for the efficient use of resources, as first demonstrated by the Italian economist [[Enrico Barone]].
+
+Economists believe that incentives and costs play a pervasive role in shaping [[decision making]]. An immediate example of this is the [[consumer theory]] of individual demand, which isolates how prices (as costs) and income affect quantity demanded. Modern mainstream economics has foundations in [[neoclassical economics]], which began to develop in the late 19th century. Mainstream economics also acknowledges the existence of [[market failure]] and insights from [[Keynesian economics]], most contemporaneously in the macroeconomic [[new neoclassical synthesis]].<ref>Woodford, Michael. ''Convergence in Macroeconomics: Elements of the New Synthesis''. January 2009. http://www.columbia.edu/~mw2230/Convergence_AEJ.pdf.</ref> It uses models of [[economic growth]] for analyzing long-run variables affecting [[national income]].  It employs [[game theory]] for modeling market or non-market behavior. Some important insights on collective behavior (for example, [[emergence]] of [[organization]]s) have been incorporated through the [[new institutional economics]]. A definition that captures much of modern economics is that of [[Lionel Robbins]] in a [[An Essay on the Nature and Significance of Economic Science#Major propositions|1932 essay]]: "the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses." [[Scarcity]] means that available [[Resource (economics)|resources]] are insufficient to satisfy all wants and needs. Absent scarcity and alternative uses of available resources, there is no [[economic problem]]. The subject thus defined involves the study of [[Rational choice theory|choice]], as affected by incentives and resources.
+
+Mainstream economics encompasses a wide (but not unbounded) range of views. Politically, most mainstream economists hold views ranging from [[laissez-faire]] to [[modern liberalism]]. There are also differing views on certain empirical claims within macroeconomics, such as the effectiveness of expansionary [[fiscal policy]] under certain conditions.<ref>{{Cite document|url=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2535453|ssrn = 2535453|title = Political Language in Economics|date = 17 September 2018|last1 = Jelveh|first1 = Zubin|last2 = Kogut|first2 = Bruce|last3 = Naidu|first3 = Suresh}}</ref>
+
+Disputes within mainstream macroeconomics tend to be characterised by disagreement over the convincingness of individual empirical claims (such as the predictive power of a specific model) and in this respect differ from the more fundamental conflicts over methodology that characterised previous periods (like those between [[Monetarism|Monetarists]] and [[Neo-Keynesian economics|Neo-Keynesians]]), in which economists of differing schools would disagree on whether a given work was even a legitimate contribution to the field.<ref>Woodford, Michael. ''Convergence in Macroeconomics: Elements of the New Synthesis''. January 2009. http://www.columbia.edu/~mw2230/Convergence_AEJ.pdf.</ref>
+
+=== Contemporary heterodox economics ===
+{{main|Heterodox economics}}
+{{Unreferenced section|date=October 2020}}
+In the late 19th century, a number of heterodox schools contended with the [[neoclassical economics|neoclassical]] school that arose following the [[marginalism|marginal revolution]]. Most survive to the present day as self-consciously dissident schools, but with greatly diminished size and influence relative to [[mainstream economics]]. The most significant are [[Institutional economics]], [[Marxian economics]] and the [[Austrian School]].
+
+The development of [[Keynesian economics]] was a substantial challenge to the dominant neoclassical school of economics. Keynesian views entered the mainstream as a result of the [[neoclassical synthesis]] developed by [[John Hicks]]. The rise of Keynesianism, and its incorporation into mainstream economics, reduced the appeal of heterodox schools. However, advocates of a more fundamental critique of neoclassical economics formed a school of [[post-Keynesian economics]].
+
+Heterodox approaches often embody criticisms of perceived "mainstream" approaches. For instance:
+* feminist economics criticizes the valuation of labor and argues female labor is systemically undervalued;
+* green economics criticizes instances of externalized and intangible ecosystems and argues for them to be brought into the tangible [[capital asset]] model as [[natural capital]]; and
+* post-keynesian economics disagrees with the notion of the long-term neutrality of demand, arguing that there is no natural tendency for a competitive market economy to reach [[full employment]].
+
+Other viewpoints on economic issues from outside mainstream economics include [[dependency theory]] and [[world systems theory]] in the study of [[international relations]].
+
+== Historical economic thought ==
+Modern macro- and microeconomics are young sciences.{{sfn|Mankiw|2010|p=4}} But many in the past have thought on topics ranging from value to production relations. These forays into economic thought contribute to the modern understanding, ranging from ancient Greek conceptions of the role of the household and its choices<ref>{{Cite journal|last=Leshem|first=Dotan|date=February 2016|title=Retrospectives: What Did the Ancient Greeks Mean by Oikonomia ?|journal=Journal of Economic Perspectives|language=en|volume=30|issue=1|pages=225–238|doi=10.1257/jep.30.1.225|issn=0895-3309|doi-access=free}}</ref> to mercantilism and its emphasis on the hoarding of precious metals.
+<!-- to be cont -->
+
+===Ancient economic thought===
+{{Main|Ancient economic thought}}
+
+{{div col}}
+*[[Chanakya]] (Kautilya)
+*[[Oeconomicus (Xenophon)|Xenophon]]
+*[[Politics (Aristotle)|Aristotle]]
+*[[Qin Shi Huang]]
+*[[Wang Anshi]]
+{{colend}}
+
+===Islamic economics===
+{{Main|Islamic economics}}
+Islamic economics is the practice of economics in accordance with [[Sharia|Islamic law]]. The origins can be traced back to the [[Caliphate]],<ref>''The Cambridge economic history of Europe'', p. 437. [[Cambridge University Press]], {{ISBN|0-521-08709-0}}.</ref> where an early [[market economy]] and some of the earliest forms of [[merchant capitalism]] took root between the 8th–12th centuries, which some refer to as "Islamic capitalism".<ref>Subhi Y. Labib (1969), "Capitalism in Medieval Islam", ''The Journal of Economic History'' '''29''' (1), pp. 79–96 [81, 83, 85, 90, 93, 96].</ref>
+
+Islamic economics seeks to enforce Islamic regulations not only on personal issues, but to implement broader economic goals and policies of an Islamic society, based on uplifting the deprived masses. It was founded on free and unhindered circulation of wealth so as to handsomely reach even the lowest echelons of society. One distinguishing feature is the tax on wealth (in the form of both [[Zakat]] and [[Jizya]]), and bans levying taxes on all kinds of trade and transactions (Income/Sales/Excise/Import/Export duties etc.).
+Another distinguishing feature is prohibition of interest in the form of excess charged while trading in money. Its pronouncement on
+use of paper currency also stands out. Though promissory notes are recognized, they must be fully backed by reserves. [[Fractional-reserve banking]] is disallowed as a form of breach of [[Trust law|trust]].
+
+It saw innovations such as [[Trading company|trading companies]], [[big business]]es, [[contract]]s, [[bills of exchange]], long-distance [[international trade]], the first forms of [[partnership]] (''mufawada'') such as [[limited partnership]]s (''mudaraba''), and the earliest forms of [[Credit (finance)|credit]], [[debt]], [[profit (accounting)|profit]], [[Income statement|loss]], [[Capital (economics)|capital]] (''al-mal''), [[capital accumulation]] (''nama al-mal''),<ref name=Banaji>Jairus Banaji (2007), "Islam, the Mediterranean and the rise of capitalism", ''[[Historical Materialism (journal)|Historical Materialism]]'' '''15''' (1), pp. 47–74, [[Brill Publishers]].</ref> [[circulating capital]], [[capital expenditure]], [[revenue]], [[cheque]]s, [[promissory note]]s,<ref>Robert Sabatino Lopez, Irving Woodworth Raymond, Olivia Remie Constable (2001), ''Medieval Trade in the Mediterranean World: Illustrative Documents'', [[Columbia University Press]], {{ISBN|0-231-12357-4}}.</ref> [[Trust law|trusts]] (see ''[[Waqf]]''), [[startup companies]],<ref>Timur Kuran (2005), "The Absence of the Corporation in Islamic Law: Origins and Persistence", ''American Journal of Comparative Law'' '''53''', pp. 785–834 [798–9].</ref> [[savings account]]s, [[transactional account]]s, [[Pawnbroker|pawning]], [[loan]]ing, [[exchange rate]]s, [[bank]]ers, [[money changer]]s, [[ledger]]s, [[Deposit account|deposits]], [[Assignment (law)|assignments]], the [[double-entry bookkeeping system]],<ref>Subhi Y. Labib (1969), "Capitalism in Medieval Islam", ''The Journal of Economic History'' '''29''' (1): 79–96 [92–3]</ref> [[lawsuit]]s,<ref>Ray Spier (2002), "The history of the peer-review process", ''Trends in Biotechnology'' '''20''' (8), pp. 357–58 [357].</ref> and [[Agency (law)|agency]] institution.<ref>Said Amir Arjomand (1999), "The Law, Agency, and Policy in Medieval Islamic Society: Development of the Institutions of Learning from the Tenth to the Fifteenth Century", ''Comparative Studies in Society and History'' '''41''', pp. 263–93. [[Cambridge University Press]].</ref><ref>Samir Amin (1978), "The Arab Nation: Some Conclusions and Problems", ''MERIP Reports'' '''68''', pp. 3–14 [8, 13].</ref>
+
+This school has seen a revived interest in development and understanding since the later part of the 20th century.
+
+{{div col}}
+*[[Early reforms under Islam#Economic reforms|Muhammad]]
+*[[Abu Hanifa an-Nu‘man]]
+*[[Abu Yusuf]]
+*[[Al-Farabi]] (Alpharabius)
+*[[Shams al-Mo'ali Abol-hasan Ghaboos ibn Wushmgir]] (Qabus)
+*[[Avicenna|Ibn Sina]] (Avicenna)
+*[[Ibn Miskawayh]]
+*[[Al-Ghazali]] (Algazel)
+*[[Ibn Taymiyyah]]
+*[[Al-Mawardi]]
+*[[Nasīr al-Dīn al-Tūsī]] (Tusi)
+*[[Ibn Khaldun]]
+*[[Al-Maqrizi]]
+*[[Muhammad Baqir al-Sadr]]
+{{colend}}
+
+===Scholasticism===
+{{Main|Scholasticism}}
+
+{{div col}}
+*[[Nicole Oresme]]
+*[[Thomas Aquinas]]
+*[[School of Salamanca]]
+*[[Leonardus Lessius]]
+{{colend}}
+
+===Mercantilism===
+{{Main|Mercantilism}}
+Economic policy in Europe during the late Middle Ages and early [[Renaissance]] treated economic activity as a good which was to be [[tax]]ed to raise revenues for the [[nobility]] and the [[Roman Catholic Church|church]]. Economic exchanges were regulated by [[Feudalism|feudal]] rights, such as the right to collect a [[Toll road|toll]] or hold a [[fair]], as well as [[guild]] restrictions and religious restrictions on [[Usury|lending]]. Economic policy, such as it was, was designed to encourage trade through a particular area. Because of the importance of [[social class]], [[sumptuary laws]] were enacted, regulating dress and housing, including allowable styles, materials and frequency of purchase for different classes. [[Niccolò Machiavelli]] in his book ''[[The Prince]]'' was one of the first authors to theorize economic policy in the form of advice. He did so by stating that princes and [[republic]]s should limit their expenditures and prevent either the wealthy or the populace from despoiling the other. In this way a state would be seen as "generous" because it was not a heavy burden on its citizens.
+
+{{div col}}
+*[[Gerard de Malynes]]
+*[[Edward Misselden]]
+*[[Thomas Mun]]
+*[[Jean Bodin]]
+*[[Jean Baptiste Colbert]]
+*[[Josiah Child]]
+*[[William Petty]]
+*[[John Locke]]
+*[[Charles Davenant]]
+*[[Dudley North (economist)|Dudley North]]
+*[[Ferdinando Galiani]]
+*[[James Denham-Steuart]]
+{{colend}}
+
+===Physiocrats===
+{{Main|Physiocrats}}
+The Physiocrats were 18th century French economists who emphasized the importance of productive work, and particularly agriculture, to an economy's wealth. Their early support of free trade and deregulation influenced [[Adam Smith]] and the classical economists.
+{{div col}}
+*[[Anne Robert Jacques Turgot]]
+*[[François Quesnay]]
+*[[Pierre le Pesant de Boisguilbert]]
+*[[Richard Cantillon]]
+{{colend}}
+
+===Classical political economy===
+{{Main|Classical economics}}
+Classical economics, also called classical [[political economy]], was the original form of mainstream economics of the 18th and 19th centuries. Classical economics focuses on the tendency of markets to move to equilibrium and on objective theories of value. Neo-classical economics differs from classical economics primarily in being [[utilitarian]] in its value theory and using marginal theory as the basis of its models and equations. Marxian economics also descends from classical theory. [[Anders Chydenius]] (1729–1803) was the leading [[classical liberalism|classical liberal]] of [[Nordic countries|Nordic]] history.  Chydenius, who was a [[Finland|Finnish]] priest and [[riksdag of the estates|member of parliament]],  published a book called ''[[The National Gain]]'' in 1765, in which he proposes ideas of freedom of trade and industry and explores the relationship between economy and society and lays out the principles of [[liberalism]], all of this eleven years before [[Adam Smith]] published a similar and more comprehensive book, ''The Wealth of Nations''.  According to Chydenius, democracy, equality and a respect for human rights were the only way towards progress and happiness for the whole of society.
+
+{{div col}}
+*[[Adam Smith]]
+*[[Francis Hutcheson (philosopher)|Francis Hutcheson]]
+*[[Bernard de Mandeville]]
+*[[David Hume]]
+*[[Henry George]]
+*[[Thomas Malthus]]
+*[[James Mill]]
+*[[Francis Place]]
+*[[David Ricardo]]
+*[[Henry Thornton (abolitionist)|Henry Thornton]]
+*[[John Ramsay McCulloch]]
+*[[James Maitland, 8th Earl of Lauderdale]]
+*[[Jeremy Bentham]]
+*[[Jean Charles Léonard de Sismondi]]
+*[[Johann Heinrich von Thünen]]
+*[[John Stuart Mill]]
+*[[Karl Marx]]
+*[[Nassau William Senior]]
+*[[Edward Gibbon Wakefield]]
+*[[John Rae (economist)|John Rae]]
+*[[Thomas Tooke (economist)|Thomas Tooke]]
+*[[Robert Torrens (economist)|Robert Torrens]]
+{{colend}}
+
+===American School===
+{{Main|American School (economics)}}
+The American School owes its origin to the writings and economic policies of [[Alexander Hamilton]], the first [[Treasury Secretary of the United States]]. It emphasized high [[tariffs]] on imports to help develop the fledgling American manufacturing base and to finance infrastructure projects, as well as [[Second Report on Public Credit|National Banking]], [[First Report on the Public Credit|Public Credit]], and [[Report on Manufactures|government investment]] into advanced scientific and technological research and development. [[Friedrich List]], one of the most famous proponents of the [[economic system]], named it the National System, and was the main impetus behind the development of the German [[Zollverein]] and the economic policies of Germany under Chancellor [[Otto Von Bismarck]] beginning in 1879.
+
+{{div col}}
+*[[Alexander Hamilton]]
+*[[John Quincy Adams]]
+*[[Henry Clay]]
+*[[Mathew Carey]]
+*[[Henry Charles Carey]]
+*[[Abraham Lincoln]]
+*[[Friedrich List]]
+*[[Otto Von Bismarck]]
+*[[Arthur Griffith]]
+*[[William McKinley]]
+{{colend}}
+
+===French Liberal School===
+{{Main|French Liberal School}}
+The French Liberal School (also called the "Optimist School" or "Orthodox School") is a 19th-century school of economic thought that was centered on the Collège de France and the Institut de France. The Journal des Économistes was instrumental in promulgating the ideas of the School. The School voraciously defended free trade and laissez-faire capitalism. They were primary opponents of collectivist, interventionist and protectionist ideas. This made the French School a forerunner of the modern Austrian School.
+
+{{div col}}
+*[[Frédéric Bastiat]]
+*[[Maurice Block]]
+*[[Pierre Paul Leroy-Beaulieu]]
+*[[Gustave de Molinari]]
+*[[Yves Guyot]]
+*[[Jean-Baptiste Say]]
+*[[Léon Say]]
+{{colend}}
+
+===Historical school===
+{{Main|Historical school of economics}}
+The [[historical school of economics]] was an approach to academic economics and to public administration that emerged in the 19th century in Germany, and held sway there until well into the 20th century. The Historical school held that history was the key source of knowledge about human actions and economic matters, since economics was culture-specific, and hence not generalizable over space and time. The School rejected the universal validity of economic theorems. They saw economics as resulting from careful empirical and historical analysis instead of from logic and mathematics. The School preferred historical, political, and social studies to self-referential mathematical modelling. Most members of the school were also Kathedersozialisten, i.e. concerned with social reform and improved conditions for the common man during a period of heavy industrialization. The Historical School can be divided into three tendencies: the Older, led by [[Wilhelm Roscher]], [[Karl Knies]], and [[Bruno Hildebrand]]; the Younger, led by [[Gustav von Schmoller]], and also including [[Étienne Laspeyres]], [[Karl Bücher]], [[Adolph Wagner]], and to some extent [[Lujo Brentano]]; the Youngest, led by [[Werner Sombart]] and including, to a very large extent, [[Max Weber]].
+
+Predecessors included [[Friedrich List]]. The Historical school largely controlled appointments to Chairs of Economics in German universities, as many of the advisors of Friedrich Althoff, head of the university department in the Prussian Ministry of Education 1882-1907, had studied under members of the School. Moreover, Prussia was the intellectual powerhouse of Germany and so dominated academia, not only in central Europe, but also in the United States until about 1900, because the American economics profession was led by holders of German Ph.Ds. The Historical school was involved in the ''[[Methodenstreit]]'' ("strife over method") with the Austrian School, whose orientation was more theoretical and a prioristic. In English speaking countries, the Historical school is perhaps the least known and least understood approach to the study of economics, because it differs radically from the now-dominant Anglo-American analytical point of view. Yet the Historical school forms the basis—both in theory and in practice—of the [[social market economy]], for many decades the dominant economic paradigm in most countries of continental Europe. The Historical school is also a source of [[Joseph Schumpeter]]'s dynamic, change-oriented, and innovation-based economics. Although his writings could be critical of the School, Schumpeter's work on the role of innovation and entrepreneurship can be seen as a continuation of ideas originated by the Historical School, especially the work of von Schmoller and Sombart.
+
+{{div col}}
+*[[Wilhelm Roscher]]
+*[[Gustav von Schmoller]]
+*[[Werner Sombart]]
+*[[Max Weber]]
+*[[Joseph Schumpeter]]
+*[[Karl Polanyi]]
+{{colend}}
+
+===English historical school===
+{{Main|English historical school of economics}}
+Although not nearly as famous as its German counterpart, there was also an English Historical School, whose figures included [[William Whewell]], [[Richard Jones (economist)|Richard Jones]], [[Thomas Edward Cliffe Leslie]], [[Walter Bagehot]], [[Thorold Rogers]], [[Arnold Toynbee (historian, born 1852)|Arnold Toynbee]], [[William Cunningham (economist)|William Cunningham]], and [[William Ashley (economic historian)|William Ashley]]. It was this school that heavily critiqued the deductive approach of the classical economists, especially the writings of [[David Ricardo]]. This school revered the inductive process and called for the merging of historical fact with those of the present period.
+
+{{div col}}
+*[[Edmund Burke]]
+*[[Richard Jones (economist)|Richard Jones]]
+*[[Thomas Edward Cliffe Leslie]]
+*[[Walter Bagehot]]
+*[[Thorold Rogers]]
+*[[William Ashley (economic historian)|William J. Ashley]]
+*[[William Cunningham (economist)|William Cunningham]]
+{{colend}}
+
+===French historical school===
+{{div col}}
+*[[Clément Juglar]]
+*[[Charles Gide]]
+*[[Albert Aftalion]]
+*[[Émile Levasseur]]
+*[[François Simiand]]
+{{colend}}
+
+===Utopian economics===
+{{div col}}
+*[[William Godwin]]
+*[[Charles Fourier]]
+*[[Robert Owen]]
+*[[Claude Henri de Rouvroy, comte de Saint-Simon|Saint-Simon]]
+*[[Josiah Warren]]
+{{colend}}
+
+===Georgist economics===
+{{main|Georgism}}
+Georgism or geoism is an economic philosophy proposing that both individual and national economic outcomes would be improved by the utilization of [[economic rent]] resulting from control over land and natural resources through levies such as a [[land value tax]].
+{{div col}}
+*[[Harry Gunnison Brown]]
+*[[Raymond Crotty]]
+*[[Ottmar Edenhofer]]
+*[[Fred Foldvary]]
+*[[Mason Gaffney]]
+*[[Henry George]]
+*[[Max Hirsch|Max Hirsch (economist)]]
+*[[Wolf Ladejinsky]]
+*[[Philippe Legrain]]
+*[[Donald Shoup]]
+*[[Nicolaus Tideman]]
+{{colend}}
+
+===Ricardian socialism===
+{{Main|Ricardian socialism}}
+Ricardian socialism is a branch of early 19th century classical economic thought based on the theory that labor is the source of all wealth and exchange value, and rent, profit and interest represent distortions to a free market. The pre-Marxian theories of capitalist exploitation they developed are widely regarded as having been heavily influenced by the works of [[David Ricardo]], and favoured collective ownership of the [[means of production]].
+{{div col}}
+*[[John Francis Bray]]
+*[[John Gray (19th century socialist)|John Gray]]
+*[[Charles Hall (economist)|Charles Hall]]
+*[[Thomas Hodgskin]]
+*[[William Thompson (philosopher)|William Thompson]]
+{{colend}}
+
+===Marxian economics===
+{{Main|Marxian economics}}
+Marxian economics descended from the work of [[Karl Marx]] and [[Friedrich Engels]]. This school focuses on the [[labor theory of value]] and what Marx considered to be the exploitation of labour by capital. Thus, in Marxian economics, the labour theory of value is a method for measuring the exploitation of labour in a capitalist society rather than simply a theory of price.<ref name="Roemer">[[John Roemer|Roemer, J.E.]] (1987). "Marxian Value Analysis". {{Cite book| title=The New Palgrave: A Dictionary of Economics| pages=v. 3, 383| publisher=Macmillan and Stockton| location=London and New York| isbn=978-0-333-37235-7| title-link=The New Palgrave: A Dictionary of Economics| date=9 December 2000}}</ref><ref name="Mandel">[[Ernest Mandel|Mandel, Ernest]] (1987). "Marx, Karl Heinrich". {{Cite book| title=The New Palgrave: A Dictionary of Economics| date=9 December 2000| pages=v. 3, 372, 376| publisher=Macmillan and Stockton| location=London and New York| isbn=978-0-333-37235-7}}</ref>
+{{div col}}
+*[[David Harvey]]
+*[[Eduard Bernstein]]
+*[[Grigory Feldman]]
+*[[Rosa Luxemburg]]
+*[[Richard D. Wolff]]
+*[[Rudolf Hilferding]]
+*[[Karl Kautsky]]
+*[[Karl Marx]]
+*[[Nikolai Bukharin]]
+*[[Nobuo Okishio]]
+*[[Paul Sweezy]]
+*[[Samir Amin]]
+*[[Vladimir Lenin]]
+*[[Yevgeni Preobrazhensky]]
+{{colend}}
+
+===Neo-Marxian economics===
+{{Main|Neo-Marxian economics}}
+{{div col}}
+*[[David Gordon (economist)|David Gordon]]
+*[[Samuel Bowles (economist)|Samuel Bowles]]
+*[[Paul A. Baran]]
+*[[Adam Przeworski]]
+*[[Henryk Grossman]]
+{{colend}}
+
+===State socialism===
+{{Main|Socialist economics|}}
+{{See also|State socialism}}
+
+{{div col}}
+*[[Claude Henri de Rouvroy, comte de Saint-Simon|Henri de Saint-Simon]]
+*[[Ferdinand Lassalle]]
+*[[Johann Karl Rodbertus]]
+*[[Fabian Society]]
+{{colend}}
+
+===Anarchist economics===
+{{Main|Anarchist economics}}
+
+Anarchist economics comprises a set of theories which seek to outline modes of production and exchange not governed by coercive social institutions:
+
+* [[Mutualism (economic theory)|Mutualists]] advocate market socialism.
+* [[Collectivist anarchist]]s advocate [[workers cooperative]]s and salaries based on the amount of time contributed to production.
+* [[Anarcho-communists]] advocate a direct transition from capitalism to [[libertarian communism]] and a [[gift economy]] with [[Direct democracy|direct]] [[Commune|communal]] democracy.
+* [[Anarcho-syndicalist]]s advocate worker's [[direct action]] and the [[general strike]].
+
+Thinkers associated with anarchist economics include:
+
+{{div col}}
+* [[Charles Fourier]]
+* [[Pierre-Joseph Proudhon]]
+* [[Peter Kropotkin]]
+* [[Mikhail Bakunin]]
+{{colend}}
+
+===Distributism===
+{{Main|Distributism}}
+Distributism is an economic philosophy that was originally formulated in the late 19th century and early 20th century by Catholic thinkers to reflect the teachings of Pope Leo XIII's encyclical ''Rerum Novarum'' and Pope Pius's XI encyclical ''Quadragesimo Anno''. It seeks to pursue a third way between capitalism and socialism, desiring to order society according to Christian principles of justice while still preserving private property.
+{{div col}}
+*[[G. K. Chesterton]]
+*[[Hilaire Belloc]]
+{{colend}}
+
+===Institutional economics===
+{{Main|Institutional economics}}
+
+Institutional economics focuses on understanding the role of the evolutionary process and the role of institutions in shaping economic behaviour. Its original focus lay in [[Thorstein Veblen]]'s instinct-oriented dichotomy between technology on the one side and the "ceremonial" sphere of society on the other. Its name and core elements trace back to a 1919 ''[[American Economic Review]]'' article by [[Walton H. Hamilton]].<ref>Walton H. Hamilton (1919). "The Institutional Approach to Economic Theory," ''American Economic Review'', 9(1), Supplement, p [https://www.jstor.org/pss/1814009 p. 309]-318. Reprinted in R. Albelda, C. Gunn, and W. Waller  (1987), ''Alternatives to Economic Orthodoxy: A Reader in Political Economy'', pp. [https://books.google.com/books?hl=en&lr=&id=a58FF3ohIOQC&oi=fnd&pg=PA204&ots=sGRVVeq-BG&sig=rNVghPRuLeXoqCxGllOJIVyZRAo#v=onepage&q&f=false 204-] 12.</ref><ref>D.R. Scott, Veblen not an Institutional Economist. The American Economic Review. Vol.23. No.2. June 1933. pp. 274-277.</ref>
+
+{{div col}}
+* [[Gunnar Myrdal]]
+* [[Thorstein Veblen]]
+* [[John R. Commons|John Rogers Commons]]
+* [[Wesley Clair Mitchell]]
+* [[John Maurice Clark]]
+* [[Robert A. Brady (economist)|Robert A. Brady]]
+* [[Clarence Edwin Ayres]]
+* [[Romesh Dutt]]
+* [[John Kenneth Galbraith]]
+* [[Geoffrey Hodgson]]
+* [[Ha-Joon Chang]]
+{{colend}}
+
+===Neoclassical economics===
+{{Main|Neoclassical economics}}
+Neoclassical economics is the dominant form of economics used today and has the highest amount of adherents among economists. It is often referred to by its critics as '''Orthodox Economics'''. The more specific definition this approach implies was captured by [[Lionel Robbins]] in a [[An Essay on the Nature and Significance of Economic Science|1932 essay]]: "the science which studies human behavior as a relation between scarce means having alternative uses." The definition of scarcity is that available resources are insufficient to satisfy all wants and needs; if there is no scarcity and no alternative uses of available resources, then there is no [[economic problem]].
+
+{{div col}}
+*[[William Stanley Jevons]]
+*[[Francis Ysidro Edgeworth]]
+*[[Alfred Marshall]]
+*[[John Bates Clark]]
+*[[Irving Fisher]]
+*[[Knut Wicksell]]
+{{colend}}
+
+===Lausanne School===
+{{Main|Lausanne School}}The Lausanne School of economics is an extension of the [[Neoclassical school of economics|neoclassical school]] of economic thought, named after the [[University of Lausanne]] in [[Switzerland]]. The school is primarily associated with [[Léon Walras]] and [[Vilfredo Pareto]], both of whom held successive professorships in political economy at the university, in the latter half of the 19th century.<ref>{{Cite book|last=Marchionatti|first=Roberto|date=2020|title=Economic Theory in the Twentieth Century, An Intellectual History - Volume I|url=https://link.springer.com/book/10.1007/978-3-030-40297-6|language=en-gb|doi=10.1007/978-3-030-40297-6|isbn=978-3-030-40296-9|s2cid=219521928}}</ref> Beginning with Walras, the school is credited with playing a central role in the development of [[mathematical economics]]. For this reason, the school has also been referred to as the Mathematical School.<ref>{{Cite journal|last=Price|first=L. L.|date=1909-09-01|title=Charles Gide. Cours d'Economie Politique; Charles Gide, Charles Rist. Histoire des Doctrines Economiques Depuis les Physiocrates jusqu'à Nos Jours|url=https://doi.org/10.2307/2221106|journal=The Economic Journal|volume=19|issue=75|pages=416–422|doi=10.2307/2221106|jstor=2221106|issn=0013-0133}}</ref> A notable work of the Lausanne School is Walras’ development of the [[general equilibrium theory]]<ref>{{Cite book|last=Walras|first=Léon|url=https://books.google.com/books?id=hwjRD3z0Qy4C|title=Elements of Pure Economics: Or the Theory of Social Wealth|date=2003|publisher=Psychology Press|isbn=978-0-415-31340-7|language=en}}</ref> as a holistic means of analysing the economy, in contrast to [[Partial equilibrium|partial equilibrium theory]], which only analyses single markets in isolation.<ref>{{Cite web|title=Producers, Consumers, and Partial Equilibrium {{!}} ScienceDirect|url=https://www.sciencedirect.com/book/9780128110232/producers-consumers-and-partial-equilibrium|access-date=2021-04-25|website=www.sciencedirect.com}}</ref> The theory shows how a general equilibrium is reached through the interaction between demand and supply in an economy consisting of multiple markets operating simultaneously.
+
+The Lausanne School is also largely credited with the foundation of [[welfare economics]], through which Pareto sought to measure the welfare of an economy.<ref>{{Cite book|url=https://www.springer.com/gp/book/9780387337562|title=From Walras to Pareto|date=2006|publisher=Springer US|isbn=978-0-387-33756-2|editor-last=Backhaus|editor-first=Jürgen Georg|series=The European Heritage in Economics and the Social Sciences|doi=10.1007/978-0-387-33757-9|language=en|editor-last2=Maks|editor-first2=Hans J. A.}}</ref> Contrary to [[utilitarianism]], Pareto found that the welfare of an economy cannot be measured by aggregating the individual utilities of its inhabitants. Since individual utilities are subjective, their measurements may not be directly comparable. This led Pareto to conclude that if at least one person’s utility increased, while nobody else was any worse off, then the welfare of the economy would increase. Conversely, if a majority of people experienced an increase in utility while at least one person was worse off, there could be no definitive conclusion about the welfare of the economy.<ref>{{Cite book|last=Suntum|first=Ulrich van|url=https://books.google.com/books?id=mJ4TfKL4wcAC|title=The Invisible Hand: Economic Thought Yesterday and Today|date=2005-03-08|publisher=Springer Science & Business Media|isbn=978-3-540-20497-8|language=en}}</ref> These observations formed the basis of [[Pareto efficiency]], which describes a situation or outcome in which nobody can be made better off without also making someone else worse off.<ref>{{Cite book|url=https://www.palgrave.com/gp/book/9781349951888|title=The New Palgrave Dictionary of Economics|date=2018|publisher=Palgrave Macmillan UK|isbn=978-1-349-95188-8|editor-last=Ltd|editor-first=Macmillan Publishers|edition=3|language=en}}</ref> Pareto efficiency is still widely used in contemporary welfare economics as well as [[game theory]].<ref>{{Cite web|title=Cost-Benefit Analysis {{!}} Public economics and public policy|url=https://www.cambridge.org/au/academic/subjects/economics/public-economics-and-public-policy/cost-benefit-analysis-concepts-and-practice-5th-edition,%20https://www.cambridge.org/au/academic/subjects/economics/public-economics-and-public-policy|access-date=2021-04-25|website=Cambridge University Press|language=en}}</ref> 
+{{div col}}
+
+*[[Léon Walras]]
+*[[Vilfredo Pareto]]
+{{colend}}
+
+===Austrian School===
+{{Main|Austrian School}}
+Austrian economists advocate [[methodological individualism]] in interpreting economic developments, the [[subjective theory of value]], that money is [[neutrality of money|non-neutral]], and emphasize the [[spontaneous order|organizing power]] of the [[price mechanism]] (see ''[[Economic calculation debate]]'') and a ''[[laissez faire]]'' approach to the economy.<ref name=raico>{{cite web |url= https://mises.org/etexts/austrianliberalism.asp |title=Austrian Economics and Classical Liberalism |first=Ralph |last=Raico |work=mises.org |publisher=Mises Institute |year=2011 |quote=despite the particular policy views of its founders ..., Austrianism was perceived as the economics of the free market. |access-date=27 July 2011}}</ref>
+
+{{div col}}
+*[[Carl Menger]]
+*[[Eugen von Böhm-Bawerk]]
+*[[Ludwig von Mises]]
+*[[Friedrich Hayek]]
+*[[Friedrich von Wieser]]
+*[[Henry Hazlitt]]
+*[[Frank Fetter]]
+*[[Israel Kirzner]]
+*[[Murray Rothbard]]
+*[[Robert P. Murphy]]
+*[[Lew Rockwell]]
+*[[Peter Schiff]]
+*[[Marc Faber]]
+*[[Walter Block]]
+*[[Hans-Hermann Hoppe]]
+*[[Jesús Huerta de Soto]]
+*[[Fritz Machlup]]
+{{colend}}
+
+===Stockholm School===
+{{Main|Stockholm School}}
+The Stockholm School is a school of economic thought. It refers to a loosely organized group of Swedish economists that worked together, in Stockholm, Sweden primarily in the 1930s.
+
+The Stockholm School had—like John Maynard Keynes—come to the same conclusions in macroeconomics and the theories of demand and supply. Like Keynes, they were inspired by the works of Knut Wicksell, a Swedish economist active in the early years of the twentieth century.
+
+{{div col}}
+*[[Gunnar Myrdal]]
+*[[Bertil Ohlin]]
+{{colend}}
+
+===Keynesian economics===
+{{Main|Keynesian economics|Post-Keynesian economics|Neo-Keynesian economics|New Keynesian economics}}
+Keynesian economics has developed from the work of [[John Maynard Keynes]] and focused on macroeconomics in the short-run, particularly the rigidities caused when prices are fixed. It has two successors. [[Post-Keynesian economics]] is an alternative school—one of the successors to the Keynesian tradition with a focus on [[macroeconomics]]. They concentrate on macroeconomic rigidities and adjustment processes, and research micro foundations for their models based on real-life practices rather than simple optimizing models. Generally associated with [[Cambridge, England]] and the work of [[Joan Robinson]] (see [[Post-Keynesian economics]]). [[New-Keynesian economics]] is the other school associated with developments in the Keynesian fashion. These researchers tend to share with other [[Neoclassical economics|Neoclassical]] economists the emphasis on models based on micro foundations and optimizing behavior, but focus more narrowly on standard Keynesian themes such as price and wage rigidity. These are usually made to be endogenous features of these models, rather than simply assumed as in older style Keynesian ones (see [[New-Keynesian economics]]).
+
+{{div col}}
+*[[John Maynard Keynes]]
+*[[Joan Robinson]]
+*[[Paul Krugman]]
+*[[Paul Samuelson]]
+*[[Peter Bofinger]]
+*[[Joseph Stiglitz]]
+*[[Nouriel Roubini]]
+*[[Stanley Fischer]]
+*[[Gregory Mankiw]]
+*[[Jason Furman]]
+*[[Huw Dixon]]
+
+{{colend}}
+
+===Chicago school===
+{{Main|Chicago school of economics}}
+The Chicago School is a neoclassical school of economic thought associated with the work of the faculty at the University of Chicago, notable particularly in macroeconomics for developing [[monetarism]] as an alternative to Keynesianism and its influence on the use of [[rational expectations]] in macroeconomic modelling.
+{{div col}}
+*[[Frank Knight|Frank H. Knight]]
+*[[Jacob Viner]]
+*[[Milton Friedman]]
+*[[Thomas Sowell]]
+*[[George Stigler]]
+*[[Harry Markowitz]]
+*[[Merton Miller]]
+*[[Robert Lucas, Jr.]]
+*[[Eugene Fama]]
+*[[Myron Scholes]]
+*[[Gary Becker]]
+*[[Edward C. Prescott]]
+*[[James Heckman]]
+*[[Robert Z. Aliber]]
+{{colend}}
+
+===Carnegie School===
+{{Main|Carnegie School}}
+
+{{div col}}
+*[[Herbert A. Simon]]
+*[[Richard Cyert]]
+*[[James March]]
+*[[Victor Vroom]]
+*[[Oliver E. Williamson]]
+*[[John Muth]]
+{{colend}}
+
+===Neo-Ricardianism===
+{{Main|Neo-Ricardianism}}
+
+{{div col}}
+*[[Piero Sraffa]]
+*[[Luigi L. Pasinetti]]
+*[[Vladimir Karpovich Dmitriev]]
+{{colend}}
+
+===New institutional economics===
+{{Main|New institutional economics}}
+New institutional economics is a perspective that attempts to extend economics by focusing on the [[sociology|social]] and [[legal]] [[Norm (sociology)|norms]] and rules (which are [[institution]]s) that underlie economic activity and with analysis beyond earlier [[institutional economics]] and [[neoclassical economics]].<ref>Malcolm Rutherford (2001). "Institutional Economics: Then and Now," ''Journal of Economic Perspectives'', 15(3), pp.  185-90 ([http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.15.3.173 173-194]).<br />L. J. Alston,  (2008). "new institutional economics," ''[[The New Palgrave Dictionary of Economics]]'', 2nd Edition. [http://www.dictionaryofeconomics.com/article?id=pde2008_N000170&q=institutional&topicid=&result_number=2 Abstract.]</ref> It can be seen as a broadening step to include aspects excluded in neoclassical economics. It rediscovers aspects of classical [[political economy]].
+{{div col}}
+* [[Douglass North]]
+* [[Oliver E. Williamson]]
+* [[Ronald Coase]]
+* [[Daron Acemoglu]]
+* [[Steven N. S. Cheung]]
+{{colend}}
+
+==20th century schools==
+{{Unreferenced section|date=March 2015}}
+{{Duplication|section=yes|othersections=y|dupe=#Historical economic thought|date=September 2020}}
+Notable schools or trends of thought in economics in the 20th century were as follows. These were advocated by well-defined groups of academics that became widely known:
+{{Div col|colwidth=20em}}
+*[[Austrian School]]
+*[[Biological economics]]
+*[[Chicago school (economics)|Chicago School]]
+*[[Constitutional economics]]
+*[[Ecological economics]]
+*[[Evolutionary economics]]
+*[[Free-market anarchism]]
+*[[Freiburg School]]
+*[[Freiwirtschaft]]
+*[[Georgism]]
+*[[Institutional economics]]
+*[[Keynesian economics]]
+*[[Marxian economics|Marxian (Marxist)]] and [[neo-Marxian economics]]
+*[[Neo-Ricardianism]]
+*[[New classical macroeconomics]]
+*[[New Keynesian economics]]
+*[[Post-Keynesian economics]]
+*[[Public Choice Theory|Public Choice school]]
+*[[School of Lausanne]]
+*[[Stockholm school (economics)|Stockholm school]]
+{{Div col end}}
+
+In the late 20th century, areas of study that produced change in economic thinking were: risk-based (rather than price-based models), imperfect economic actors, and treating economics as a [[biology|biological science]] (based on [[evolution]]ary norms rather than abstract exchange).
+
+The study of [[risk]] was influential, in viewing variations in price over time as more important than actual price. This applied particularly to financial economics, where risk/return tradeoffs were the crucial decisions to be made.
+
+An important area of growth was the study of information and decision. Examples of this school included the work of [[Joseph Stiglitz]]. Problems of asymmetric information and [[moral hazard]], both based around information economics, profoundly affected modern economic dilemmas like executive [[stock option]]s, [[insurance]] markets, and [[Third World|Third-World]] [[debt relief]].
+
+Finally, there were a series of economic ideas rooted in the conception of economics as a branch of biology, including the idea that energy relationships, rather than price relationships, determine economic structure. The use of [[fractal]] [[geometry]] to create economic models (see [[Energy Economics]]). In its infancy the application of [[non-linear dynamics]] to economic theory, as well as the application of [[evolutionary psychology]] explored the processes of valuation and the persistence of non-equilibrium conditions.  The most visible work was in the area of applying fractals to market analysis, particularly [[arbitrage]] (see [[Complexity economics]]). Another infant branch of economics was [[neuroeconomics]]. The latter combines [[neuroscience]], economics, and [[psychology]] to study how we make choices.
+
+==See also==
+{{div col|colwidth=20em}}
+* [[Birmingham School (economics)|Birmingham School]]
+* [[Buddhist economics]]
+* [[Economic ideology]]
+* [[History of economic thought]]
+* [[JEL classification codes#History of economic thought, methodology, and heterodox approaches JEL: B Subcategories|Economic thought (category B)]] ([[JEL classification codes|JEL code]])
+* [[Kameralism]]
+* [[Manchester capitalism|Manchester School]]
+* [[Structuralist economics]]
+{{div col end}}
+
+== Notes ==
+{{notelist|30em}}
+
+==References==
+{{Reflist|30em}}
+
+==Sources==
+* {{cite book |last=Galbács |first=Peter |title=The Theory of New Classical Macroeconomics. A Positive Critique |location=Heidelberg/New York/Dordrecht/London |publisher=Springer |year=2015 |isbn= 978-3-319-17578-2|doi=10.1007/978-3-319-17578-2 |series=Contributions to Economics }}
+* Spiegel, Henry William. 1991. ''The Growth of Economic Thought.'' Durham & London: [[Duke University Press]]. {{ISBN|0-8223-0973-4}}
+* John Eatwell, Murray Milgate, and Peter Newman, ed. (1987). ''[[The New Palgrave: A Dictionary of Economics]]'', v. 4, Appendix IV, History of Economic Thought and Doctrine, "Schools of Thought," p.&nbsp;980 (list of 23 schools)
+
+==External links==
+* [https://web.archive.org/web/20110629230810/http://www.newschool.edu/nssr/het/ History of Economic Thought and Critical Perspectives (NSSR)]
+
+{{Schools of economic thought}}
+{{Economics}}
+{{Authority control}}
+
+[[Category:Schools of economic thought| ]]
+[[Category:History of economic thought| ]]

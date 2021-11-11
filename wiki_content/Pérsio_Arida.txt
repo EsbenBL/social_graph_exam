@@ -1,0 +1,67 @@
+{{short description|Brazilian economist}}
+{{Infobox officeholder
+| name          = Pérsio Arida
+| image         = Persio Arida.jpg
+| imagesize     = 
+| caption       = Arida at the Brazil's China Connection by Financial Times, in New York, October 2011
+| office1       = 20th [[Central Bank of Brazil|President of the Central Bank]]
+| term_start1   = 11 January 1995
+| term_end1     = 13 June 1995
+| president1    = [[Fernando Henrique Cardoso]]
+| predecessor1  = [[Gustavo Franco]] (acting)
+| successor1    = Gustavo Loyola
+| office2       = 22nd [[Brazilian Development Bank|President of the Brazilian Development Bank]]
+| term_start2   = September 1993
+| term_end2     = January 1995
+| president2    = [[Itamar Franco]]
+| predecessor2  = Luis Carlos Delben Leite
+| successor2    = Edmar Bacha
+| birth_date    = {{birth date and age|1952|03|1|df=y}}
+| birth_place   = [[São Paulo]], [[Brazil]]
+| alma_mater    = [[University of São Paulo]] <br> [[Massachusetts Institute of Technology]]
+}}
+
+'''Pérsio Arida''' (born March 1, 1952 in [[São Paulo (city)|São Paulo]]) is a [[Brazil]]ian [[economist]] and a former president of the [[Central Bank of Brazil]].
+
+He has a bachelor's degree in economics from [[University of São Paulo]] and a [[Ph.D]] in Economics from [[Massachusetts Institute of Technology]].
+
+He has served the Brazilian government by taking part in the crafting of the [[Plano Real]]; more specifically, he was one of the creators of the [[Unidade Real de Valor]], a non-monetary currency and the most sophisticated and theoretical piece of the Plano Real. In 1995, he served as the president of the [[Central Bank of Brazil]] and Special Secretary of Social-Economic Coordination, Ministry of Planning. In the private sector, he was a board member of Banco Itaú Holding Financeira S.A. and Banco Itaú S.A., board member of Sul-América S.A, director of Opportunity Asset Management Ltda., board member of Unibanco S.A. and special adviser for the presidency and director of Brasil Warrant Ltd. Since the 1970s, he has also worked as an economic and financial consultant.<ref>{{cite web|url=https://www.nytimes.com/1995/04/24/business/a-day-in-the-decline-of-the-dollar-rio-de-janeiro-the-central-banker.html |title=A DAY IN THE DECLINE OF THE DOLLAR: RIO DE JANEIRO; The Central Banker - New York Times |work=Nytimes.com |date=1995-04-24 |accessdate=2011-01-12}}</ref>
+
+{{As of|2008}}, he is working as a member of the executive council of the [[Instituto Moreira Salles]].<ref>{{cite web|url=http://www.economistadoano.org.br/2008/galeria/2003-econ.html |title=Economista do Ano 2008 |publisher=Economistadoano.org.br |date= |accessdate=2011-01-12|archiveurl=https://web.archive.org/web/20110706160953/http://www.economistadoano.org.br/2008/galeria/2003-econ.html|archivedate=2011-07-06}}</ref>
+
+He is also a member of the International Advisory Board at the [[Blavatnik School of Government]] (University of Oxford)<ref>{{Cite web|title = Persio Arida {{!}} Blavatnik School of Government|url = http://www.bsg.ox.ac.uk/people/persio-arida|website = www.bsg.ox.ac.uk|accessdate = 2015-12-22}}</ref> and a member of the Academic Board of [https://www.eusoulivres.org/noticias/conselho-academico-e-marco-para-nova-fase-do-livres/ Livres].
+
+Personally, he is also a fan of classical music.
+
+==Selected publications==
+*{{citation |last=Arida |first=Pérsio |year=1983 |title=Social differentiation and economic theory |publisher=Pontifícia Universidade Católica do Rio de Janeiro, Departamento de Economia |series=Texto para discussão (Pontifícia Universidade Católica do Rio de Janeiro. Departamento de Economia), no. 58. |oclc=13360329}}
+*{{citation |last=Arida |first=Pérsio |year=1984 |title=Economic stabilization in Brazil |publisher=Latin American Program, the Wilson Center |series=Working papers (Woodrow Wilson International Center for Scholars., no. 149. |oclc=13144128}}
+*{{citation |last=Arida |first=Pérsio |orig-year=1992|year=2005 |title=Essays of Brazilian stabilization programs |publisher= Massachusetts Institute of Technology |hdl=1721.1/13161 |oclc=283913814 }}
+*{{citation |last1=Gala |first1=Paulo |year=2003 |title=A história do pensamento econômico como teoria e retórica : ensaios sobre metodologia em economia |last2=Rego |first2=José Márcio |last3=Arida |first3=Pérsio |publisher=Editora 34 |isbn=978-85-7326-267-4}}
+
+== References ==
+{{reflist}}
+
+{{s-start}}
+{{s-gov}}
+{{s-bef|before=Luis Carlos Delben Leite}}
+{{s-ttl|title=[[Brazilian Development Bank|President of the Brazilian Development Bank]]|years=1993–1995}}
+{{s-aft|after=Edmar Bacha}}
+|-
+{{s-bef|before=[[Gustavo Franco]]<br>{{small|Acting}}}}
+{{s-ttl|title=[[Central Bank of Brazil|President of the Central Bank of Brazil]]|years=1995}}
+{{s-aft|after=Gustavo Loyola}}
+{{s-end}}
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Arida, Persio}}
+[[Category:1952 births]]
+[[Category:Living people]]
+[[Category:20th-century economists]]
+[[Category:Presidents of the Central Bank of Brazil]]
+[[Category:Brazilian classical liberals]]
+
+
+{{UK-economist-stub}}

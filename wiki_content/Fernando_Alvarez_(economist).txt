@@ -1,0 +1,84 @@
+{{Short description|Argentine macroeconomist}}
+{{BLP primary sources|date=March 2013}}
+{{Infobox economist
+| name                      = 
+| image                     = 
+| image_size                = 
+| alt                       = 
+| caption                   = 
+| native_name               = 
+| native_name_lang          = 
+| birth_date                = 1964
+| birth_place               = 
+| death_date                = 
+| death_place               = 
+| resting_place             = 
+| resting_place_coordinates =  <!-- (use {{coord ...}}) -->
+| nationality               = 
+| institution               = 
+| field                     = 
+| school_tradition          = 
+| alma_mater                = 
+| doctoral_advisor          = [[Edward C. Prescott]]<ref>[http://users.econ.umn.edu/~tkehoe/workshop.html Timothy J. Kehoe Workshop], [[University of Minnesota]]</ref>
+| academic_advisors         =
+| doctoral_students         = [[Iván Werning]]<ref>[http://home.uchicago.edu/~falvare/Alvarez_Vita_2016.pdf Alvarez's Curriculum Vitae]</ref>
+| notable_students          =
+| influences                = 
+| influenced                = 
+| contributions             = 
+| awards                    = 
+| memorials                 = 
+| spouse                    = 
+| signature                 = 
+| url                       = 
+| module                    = 
+| repec_prefix              = 
+| repec_id                  = 
+| notes                     = 
+}}
+
+'''Fernando Enrique Alvarez''' (born 1964)<ref>{{cite web |title=Alvarez, Fernando, 1964- |url=https://id.loc.gov/authorities/names/no98085265.html |website=id.loc.gov |access-date=January 7, 2021}} It is not clear if he was born in September or December; there is conflicting information in the authority record.</ref> is an [[Argentina|Argentine]] [[macroeconomist]]. He is professor of [[economics]] at the [[University of Chicago]]. He received his B.A. in Economics at [[Universidad Nacional de La Plata]] in 1989 and his Ph.D. from the [[University of Minnesota]] in 1994. He was elected a Fellow of the [[Econometric Society]] in 2008. He was named a Fellow of the [[American Academy of Arts and Sciences]] in 2018.<ref name="AAAS">{{cite web |title=Newly Elected Fellows |url=https://members.amacad.org/content/members/newfellows.aspx?s=a |website=members.amacad.org |accessdate=January 13, 2019}}</ref>
+
+Fernando Alvarez's most influential contribution seems to be his work with [[Urban Jermann]] (Wharton) on endogenously incomplete markets. They show how the limited commitment model of [[Timothy Kehoe]] and [[David K. Levine|David Levine]] and also of [[Narayana Kocherlakota]] can be decentralized with certain borrowing constraints. They also showed how this model could explain some feature of asset prices, such as the equity premium. Several papers have used their model later on to explain other macroeconomic phenomena.
+
+Fernando Alvarez has also presented a new estimate of the [[welfare cost of business cycles]], which is based on observed asset prices (with Urban Jermann). His other work includes models of monetary economies with segmented markets and search models with incomplete markets.
+
+==Published works==
+* {{cite journal | last1 = Alvarez | first1 = Fernando | last2 = Marcelo | year = 2012| title = Fixed-Term Employment Contracts in an Equilibrium Search Model | doi = 10.1016/j.jet.2012.05.015 | journal = Journal of Economic Theory | volume = 147 | issue = 5| pages = 1725–53 | url = http://www.chicagofed.org/digital_assets/publications/working_papers/2005/wp2005_14.pdf }}
+*{{cite journal | last1 = Alvarez | first1 = Fernando | last2 = Guiso | first2 = Luigi | last3 = Lippi | first3 = Francesco | year = 2012 | title = Durable Consumption and Asset Management with Transaction and Observation Costs | doi = 10.1257/aer.102.5.2272 | journal = American Economic Review | volume = 102 | issue = 5| pages = 2272–300 | url = http://cadmus.eui.eu//bitstream/1814/13224/1/ECO_2010_04.pdf | hdl = 1814/13224 | s2cid = 15832515 | hdl-access = free }}
+*{{cite journal | last1 = Alvarez | first1 = Fernando E. | last2 = Lippi | first2 = Francesco | last3 = Paciello | first3 = Luigi | year = 2011 | title = Optimal Price Setting with Observation and Menu Costs | doi = 10.1093/qje/qjr043 | journal = The Quarterly Journal of Economics | volume = 126 | issue = 4| pages = 1909–60 | s2cid = 2700404 | url = http://www.nber.org/papers/w15852.pdf }}
+*{{cite journal | last1 = Alvarez | first1 = Fernando | last2 = Atkeson | first2 = Andrew | last3 = Edmond | first3 = Chris | year = 2009 | title = Sluggish Responses of Prices and Inflation to Monetary Shocks in an Inventory Model of Money Demand*. | doi = 10.1162/qjec.2009.124.3.911 | journal = Quarterly Journal of Economics | volume = 124 | issue = 3| pages = 911–67 | citeseerx = 10.1.1.188.8630 }}
+*{{cite journal | last1 = Alvarez | first1 = Fernando | last2 = Lippi | first2 = Francesco | year = 2009 | title = Financial Innovation and the Transactions Demand for Cash | doi = 10.3982/ECTA7451 | journal = Econometrica | volume = 77 | issue = 2| pages = 363–402 | s2cid = 17298975 | url = http://www.eief.it/files/2012/09/wp-07-financial-innovation-and-the-transactions-demand-for-cash.pdf }}
+*{{cite journal | last1 = Alvarez | first1 = Fernando | last2 = Lucas | first2 = Robert E. | last3 = Jr | year = 2007 | title = General Equilibrium Analysis of the Eaton-Kortum Model of International Trade | doi = 10.1016/j.jmoneco.2006.07.006 | journal = Journal of Monetary Economics | volume = 54 | issue = 6| pages = 1726–68 | s2cid = 1465112 | url = http://www.nber.org/papers/w11764.pdf }}
+*{{cite journal | last1 = Alvarez | first1 = Fernando | last2 = Atkeson | first2 = Andrew | last3 = Kehoe | first3 = Patrick J. | year = 2007 | title = If Exchange Rates Are Random Walks, Then Almost Everything We Say About Monetary Policy Is Wrong | doi = 10.1257/aer.97.2.339 | journal = American Economic Review | volume = 97 | issue = 2| pages = 339–45 }}
+*{{cite journal | last1 = Alvarez | first1 = Fernando | last2 = Jermann | first2 = Urban J. | year = 2005 | title = Using Asset Prices to Measure the Persistence of the Marginal Utility of Wealth | doi = 10.1111/j.1468-0262.2005.00643.x | journal = Econometrica | volume = 73 | issue = 6| pages = 1977–2016 | citeseerx = 10.1.1.522.25 }}
+*{{cite journal | last1 = Alvarez | first1 = Fernando | year = 2005 | title = Commentary on 'Organizational Dynamics over the Business Cycle: A View on Jobless Recoveries.' | url = http://research.stlouisfed.org/publications/review/05/07/Alvarez.pdf | journal = Federal Reserve Bank of St. Louis Review | volume = 87 | issue = 4| page = 581 }}
+*{{cite journal | last1 = Alvarez | first1 = Fernando | last2 = Jermann | first2 = Urban J. | year = 2004 | title = Using Asset Prices to Measure the Cost of Business Cycles | doi = 10.1086/424738 | journal = Journal of Political Economy | volume = 112 | issue = 6| pages = 1223–56 | url = https://repository.upenn.edu/cgi/viewcontent.cgi?article=1173&context=fnce_papers }}
+* {{cite journal | last1 = Alvarez | first1 = Fernando | last2 = Kehoe | first2 = Patrick J. | last3 = Andrés Neumeyer | first3 = Pablo | year = 2004 | title = The Time Consistency of Optimal Monetary and Fiscal Policies | journal = Econometrica | volume = 72 | issue = 2| pages = 541–67 | jstor=3598912 | doi=10.1111/j.1468-0262.2004.00500.x| citeseerx = 10.1.1.57.8510 }}
+*{{cite journal | last1 = Alvarez | first1 = Fernando | last2 = Atkeson | first2 = Andrew | last3 = Kehoe | first3 = Patrick J | year = 2002 | title = Money, Interest Rates, and Exchange Rates with Endogenously Segmented Markets | doi = 10.1086/324389 | journal = Journal of Political Economy | volume = 110 | issue = 1| pages = 73–112 | s2cid = 15445591 | url = https://discovery.ucl.ac.uk/id/eprint/10054416/ }}
+* {{cite journal | last1 = Alvarez | first1 = Fernando | last2 = Lucas | first2 = Robert E. | last3 = Jr | last4 = Weber | first4 = Warren E. | year = 2001 | title = Interest Rates and Inflation | journal = American Economic Review | volume = 91 | issue = 2| pages = 219–25 | jstor=2677763 | doi=10.1257/aer.91.2.219| url = http://www.minneapolisfed.org/research/wp/wp609.pdf }}
+*{{cite journal | last1 = Alvarez | first1 = Fernando | last2 = Jermann | first2 = Urban J. | year = 2001 | title = Quantitative Asset Pricing Implications of Endogenous Solvency Constraints | journal = Review of Financial Studies | volume = 14 | issue = 4| pages = 1117–51 | jstor=2696737 | doi=10.1093/rfs/14.4.1117| s2cid = 154872673 | url = http://www.nber.org/papers/w6953.pdf }}
+*{{cite journal | last1 = Alvarez | first1 = Fernando | last2 = Veracierto | first2 = Marcelo | year = 2001 | title = Severance Payments in an Economy with Frictions | doi = 10.1016/S0304-3932(01)00058-7 | journal = Journal of Monetary Economics | volume = 47 | issue = 3| pages = 477–98 }}
+*{{cite journal | last1 = Alvarez | first1 = Fernando | year = 2001 | title = Comment on 'the Benefits of Dollarization When Stabilization Policy Lacks Credibility and Financial Markets Are Imperfect' | journal = Journal of Money, Credit and Banking | volume = 33 | issue = 2| pages = 475–81 | jstor=2673911| doi = 10.2307/2673911 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://home.uchicago.edu/%7Efalvare Profile page] on [[University of Chicago]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Alvarez, Fernando}}
+[[Category:Argentine economists]]
+[[Category:Macroeconomists]]
+[[Category:University of Minnesota alumni]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:University of Chicago faculty]]
+[[Category:National University of La Plata alumni]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]
+[[Category:Living people]]
+
+[[Category:1964 births]]

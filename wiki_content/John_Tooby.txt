@@ -1,0 +1,63 @@
+{{short description|American anthropologist (born 1952)}}
+{{Infobox person
+| name = John Tooby
+| birth_date = {{Birth date and age|1952|07|26}}
+| known_for = [[Evolutionary psychology]]
+}}<!-- Deleted image removed: [[Image:John Tooby.jpg|right|frame|John Tooby]] -->
+
+'''John Tooby''' (born 1952) is an American [[anthropologist]], who, together with [[psychologist]] wife [[Leda Cosmides]], helped pioneer the field of [[evolutionary psychology]].<ref>[[David Buss]], in the textbook ''Evolutionary Psychology'' (Allyn & Bacon, 1999), pp. xxi-xxii: "In the writing of this book I owe the greatest intellectual debt to Leda Cosmides, John Tooby, Don Symons, Martin Daly, and Margo Wilson, pioneers and founders of the emerging field of evolutionary psychology."</ref><ref>See also Geoffrey Miller, "How to Keep Our Meta-Theories Adaptive: Beyond Cosmides, Tooby, and Lakatos" ''Psychological Inquiry'' 11:1 (2000), p. 42: "For a young science barely a decade old, evolutionary psychology has achieved a remarkably strong metatheoretical consensus. [...] [E]volutionary psychology's metatheory was also shaped very strongly by a series of ambitious, persuasive, and visionary articles by Cosmides and Tooby in the late 1980s and early 1990s that showed how adaptationism could be applied to the human mind.  The Cosmides-Tooby vision of evolutionary psychology profoundly influenced the thinking of other leading researchers, such as [[David Buss|Buss]], [[Gerd Gigerenzer|Gigerenzer]], [[Steven Pinker|Pinker]], and [[Randy Thornhill|Thornhill]]. It was also adopted as the conceptual framework in the most influential popular accounts of evolutionary psychology."</ref> 
+
+==Biography==
+Tooby received his PhD in [[Biological anthropology|Biological Anthropology]] from [[Harvard University]] in 1989 and is currently Professor of Anthropology at the [[University of California, Santa Barbara]].
+
+In 1992, together with Cosmides and [[Jerome Barkow]], Tooby edited ''[[The Adapted Mind|The Adapted Mind: Evolutionary Psychology and the Generation of Culture]]''. Tooby and Cosmides also co-founded and co-direct the UCSB [[Center for Evolutionary Psychology]]. Cosmides and Tooby are the joint recipient of the 2020 [[Jean Nicod Prize]].<ref>{{Cite web|title=Jean-Nicod Lectures and Prize 2020|url=http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/conferences-et-prix-jean-nicod-2020/article/jean-nicod-lectures-and-prize-2020?lang=en|url-status=live|access-date=2021-08-16|website=Institut Jean Nicod}}</ref> 
+
+==Selected publications==
+
+===Books===
+* Barkow, J., Cosmides, L. & Tooby, J., (Eds.) (1992). ''The adapted mind: Evolutionary psychology and the generation of culture''. New York: Oxford University Press.
+* Tooby, J. & Cosmides, L. (in press). ''Evolutionary psychology: Foundational papers''. Cambridge, MA: MIT Press.
+* Cosmides, L. & Tooby, J. (in press). ''Universal Minds: Explaining the new science of evolutionary psychology''(Darwinism Today Series). London: Weidenfeld & Nicolson.
+
+===Papers===
+* Cosmides, L. & Tooby, J. (1981). Cytoplasmic inheritance and intragenomic conflict. ''Journal of Theoretical Biology'', 89, 83-129.
+* Cosmides, L. & Tooby, J. (1987). From evolution to behavior: Evolutionary psychology as the missing link. In J. Dupre (Ed.), ''The latest on the best: Essays on evolution and optimality''. Cambridge, MA: The MIT Press.
+* Tooby, J. & Cosmides, L. (1990). The past explains the present: Emotional adaptations and the structure of ancestral environments. ''Ethology and Sociobiology'', 11, 375-424.
+* Cosmides, L. & Tooby, J. (1992) Cognitive adaptations for social exchange. In J. Barkow, L. Cosmides, & J. Tooby (Eds.), ''The adapted mind: Evolutionary psychology and the generation of culture.'' New York: Oxford University Press.
+* Cosmides, L. & Tooby, J. (1994). Beyond intuition and instinct blindness: Toward an evolutionarily rigorous cognitive science. ''Cognition, 50''(1-3), 41-77.
+* Cosmides, L. & Tooby, J. (2003). Evolutionary psychology: Theoretical Foundations. In ''Encyclopedia of Cognitive Science''. London: Macmillan.
+* Tooby, J. & Cosmides, L. (2005). Evolutionary psychology: Conceptual foundations. In D. M. Buss (Ed.), ''Evolutionary Psychology Handbook''. New York: Wiley.
+* {{cite encyclopedia |last1=Cosmides |first1=Leda |authorlink1=Leda Cosmides |last2=Tooby |first2=John |editor-first=Ronald |editor-last=Hamowy |editor-link=Ronald Hamowy |encyclopedia=The Encyclopedia of Libertarianism |title=Evolution Psychology |year=2008 |publisher=[[SAGE Publications|SAGE]]; [[Cato Institute]] |location=Thousand Oaks, CA |isbn=978-1412965804 |oclc=750831024| lccn=2008009151 |pages=158–61|quote=|ref=|doi=10.4135/9781412965811.n99 |chapter=Evolutionary Psychology }}
+
+==See also==
+* [[Behavioural genetics]]
+* [[Human behavioral ecology]]
+* [[Standard social science model]]
+
+==References==
+{{reflist}}
+
+==External links==
+;Websites
+* [https://www.anth.ucsb.edu/people/john-tooby John Tooby's Website]
+* [https://www.psych.ucsb.edu/research/cep/ Center for Evolutionary Psychology]
+
+;Articles and media
+* [https://www.economist.com/displaystory.cfm?story_id=904534&logout=Y "Them"] - article on Cosmides, Tooby and Kurzban's research into the origin of racism, ''[[The Economist]]'', December 13, 2001. 
+* [https://online.kitp.ucsb.edu/online/colloq/cosmides1/ "Has Natural Selection Shaped How Humans Reason?"] audio of a lecture at the [[Kavli Institute for Theoretical Physics]], May 20, 1998 (with Cosmides).
+* [https://online.kitp.ucsb.edu/online/colloq/cosmides2/ "Coalitional Psychology and Social Categorization"] audio or video of a lecture at the [[Kavli Institute for Theoretical Physics]], October 29, 2003 (with Cosmides).
+
+{{Evolutionary psychology}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tooby, John}}
+[[Category:Evolutionary psychologists]]
+[[Category:American anthropologists]]
+[[Category:Harvard University alumni]]
+[[Category:Human Behavior and Evolution Society]]
+[[Category:University of California, Santa Barbara faculty]]
+[[Category:Living people]]
+[[Category:Center for Advanced Study in the Behavioral Sciences fellows]]
+[[Category:1952 births]]
+[[Category:Jean Nicod Prize laureates]]

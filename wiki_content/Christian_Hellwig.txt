@@ -1,0 +1,59 @@
+{{Short description|German economist}}
+{{BLP sources|date=November 2013}}
+{{Infobox economist
+| name             = Christian Hellwig
+| school_tradition = Neoclassical economics
+
+| image       =
+| image_size       =
+| caption    =
+| birth_date       =
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = [[Germany|German]]
+| institution      = [[Toulouse School of Economics]]
+| field            = [[Economic theory]], [[Macroeconomics]]
+| alma_mater       = [[London School of Economics]]
+| influences       =
+| influenced       =
+| contributions    = public information in [[global games]]
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = e  | repec_id =phe110
+}}
+
+'''Christian Hellwig''' is a German [[Economic theory|economic theorist]] and [[macroeconomist]] who did research in the field of [[global games]]. He is the editor of the ''[[Journal of Economic Theory]]''.
+
+==Biography==
+Hellwig obtained a [[Bachelor of Arts|B.A.]] in Economics at the [[University of Lausanne]] in 1998, a [[M.Sc.]] in [[Econometrics]] and [[mathematical economics]] by the [[London School of Economics]] (LSE) in 1999, and a [[Ph.D.]] in Economics at LSE in 2003 with his thesis entitled "Money, Intermediation and Coordination in Decentralised Markets".<ref>{{Cite thesis|title=Money, intermediation and coordination in decentralised markets.|url=http://etheses.lse.ac.uk/1723/|publisher=London School of Economics and Political Science (United Kingdom)|date=2003|degree=phd|language=en|first=Christian|last=Hellwig}}</ref> He spent the last two years of his doctorate as a visiting scholar at [[MIT]]. He became an [[Assistant Professor]] at [[UCLA]] in 2002 and became a tenured [[associate professor]] in 2007. Hellwig took up the position of Associate Professor at [[Toulouse School of Economics]] in 2010 where he is currently employed.
+In addition to his academic position, Hellwig is a Research Affiliate at the [[Centre for Economic Policy Research]] since 2007 and became the editor of the ''Journal of Economic Theory'' in June 2008. He is a member of the Board of Editors of the ''[[American Economic Review]]'' since April 2007.
+
+As an undergraduate he spent time studying abroad at Oberlin College, where he played on the men's basketball team.
+
+He is the son of the economist [[Martin Hellwig]]. He is a fellow of the [[European Economic Association]].<ref>{{Cite web|title=Fellows {{!}} EEA|url=https://www.eeassoc.org/fellows|access-date=2021-03-23|website=www.eeassoc.org}}</ref>
+
+== Research contribution ==
+Hellwig studied the effects of [[exogenous and endogenous variables|exogenous and endogenous]] public information in global [[coordination game]]s and showed that multiplicity of equilibria is restored under fairly general conditions.
+
+Global coordination games belong to a subfield of [[game theory]] which started with the article by Morris and Shin (1998).<ref>{{cite journal |first=Stephen |last=Morris |first2=Hyun Song |last2=Shin |year=1998 |title=Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks |journal=American Economic Review |volume=88 |issue=3 |pages=587–97 |jstor=116850 }}</ref> [[Stephen Morris (game theorist)|Steven Morris]] and [[Hyun Song Shin]] considered a stylized currency crises model, in which traders observe the relevant fundamentals with small noise, and show that this leads to the selection of a unique equilibrium. This result is in stark contrast with models of [[complete information]], which feature multiple equilibria. However, there are potential problems with this result due to the lack of a theory of prices in global coordination games (Atkeson, 2001).<ref>{{cite book |first=Andrew G. |last=Atkeson |year=2001 |chapter=Rethinking Multiple Equilibria in Macroeconomic Modeling: Comment |title=NBER Macroeconomics Annual 2000 |editor-first=Ben S. |editor-last=Bernanke |editor-link=Ben Bernanke |editor2-first=Kenneth |editor2-last=Rogoff |editor2-link=Kenneth Rogoff |pages=162–71 |location=Cambridge, MA |publisher=[[MIT Press]] }}</ref>
+
+Hellwig studied the effects of exogenous public information in global coordination games and showed that this may restore multiplicity under fairly general conditions (Hellwig, 2002).<ref>{{cite journal |first=Christian |last=Hellwig |year=2002 |title=Public Information, Private Information, and the Multiplicity of Equilibria in Coordination Games |journal=Journal of Economic Theory |volume=107 |issue=2 |pages=191–222 |doi=10.1006/jeth.2002.2947 }}</ref> Hellwig and co-authors (2006) address the concern by Atkeson (2001) by considering a more explicit market structure and model the public information endogenously as an interest rate signal.<ref>{{cite journal |first=Christian |last=Hellwig |first2=Arijit |last2=Mukherji |first3=Aleh |last3=Tsyvinski |year=2006 |title=Self-Fulfilling Currency Crises: The Role of Interest Rates |journal=American Economic Review |volume=96 |issue=5 |pages=1769–1787 |doi=10.1257/aer.96.5.1769 }}</ref> They show that equilibrium multiplicity may be restored by the endogenous public signal, provided that private information is sufficiently precise, which coincides with the findings by Angeletos and Werning (2006).<ref>{{cite journal |first=George-Marios |last=Angeletos |first2=Ivan |last2=Werning |year=2006 |title=Crises and Prices: Information Aggregation, Multiplicity, and Volatility |journal=American Economic Review |volume=96 |issue=5 |pages=1720–36 |doi=10.1257/aer.96.5.1720 |hdl=1721.1/63311 |hdl-access=free }}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://idei.fr/member.php?i=659&site=TSE&data=TSE&lang=en Webpage at TSE]
+* [http://idei.fr/doc/cv/ch_cv_10262010.pdf Curriculum Vitae]
+
+{{Authority control}}
+{{DEFAULTSORT:Hellwig, Christian}}
+[[Category:German economists]]
+[[Category:Macroeconomists]]
+[[Category:New classical economists]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:University of California, Los Angeles faculty]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Fellows of the European Economic Association]]

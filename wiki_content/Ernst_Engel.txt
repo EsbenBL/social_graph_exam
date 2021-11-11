@@ -1,0 +1,54 @@
+{{Infobox scientist
+|name = Ernst Engel
+|image = Ernst Engel.jpg
+|image_size = 150px
+|caption = Ernst Engel
+|birth_date = {{birth date|1821|3|26}}
+|birth_place = [[Dresden]]
+|death_date = {{death date and age|1896|12|8|1821|3|26}}
+|death_place = [[Serkowitz]] (now part of [[Radebeul]])
+|residence =
+|citizenship =
+|nationality = [[Germany|German]]
+|ethnicity =
+|field = [[Statistician]] and [[economist]]
+|work_institutions =
+|alma_mater =
+|doctoral_advisor =
+|doctoral_students =
+|known_for = [[Engel curve]] and the [[Engel's law]]
+|influences =
+|influenced =
+}}
+
+'''Ernst Engel''' ({{IPAc-en|ˈ|ɛ|ŋ|g|əl}}; {{IPA-de|ˈɛŋəl|lang}}; March 26, 1821{{snd}}December 8, 1896) was a [[Germany|German]] [[statistician]] and [[economist]], famous for the [[Engel curve]] and [[Engel's law]].
+
+==Biography==
+Ernst was born in [[Dresden]] in 1821. He studied at the [[Freiberg University of Mining and Technology]] in [[Kingdom of Saxony|Saxony]], and on completing his curriculum traveled in Germany and France.<ref name=eb>{{EB1911|inline=y|wstitle=Engel, Ernst|volume=9|page=405}}</ref>
+
+Immediately after the [[Revolutions of 1848 in the German states|revolution of 1848]], Engel was attached to the royal commission in Saxony appointed to determine the relations between trade and labor. In 1850, he was directed by the government to assist in the organization of the German Industrial Exhibition of [[Leipzig]] (the first of its kind). His efforts were so successful that, in 1854, he was induced to enter the government service, as chief of the newly instituted statistical department. He retired, however, from the office in 1858. He founded at Dresden the first Mortgage Insurance Society (Hypotheken-Versicherungsgesellschaft), and as a result of the success of his work, was summoned in 1860 to [[Berlin]] as director of the statistical department, in succession to [[Karl Friedrich Wilhelm Dieterici]]. In his new office, he made himself a name of worldwide reputation. Raised to the rank of ''Geheimer Regierungsrat'', he retired in 1882 and lived henceforward in Serkowitz, today part of [[Radebeul]] near Dresden, where he died in 1896.<ref name=eb/> His investigations into the social condition of the working classes were much noted.<ref name=ea>{{Cite Americana|wstitle=Engel, Ernst}}</ref>
+
+==Works==
+Engel was a voluminous writer on the subjects with which his name is connected, but his statistical papers are mostly published in the periodicals which he himself established, namely, ''Preuss. Statistik'' (in 1861); ''Zeitschrift des Königlichen Preußischen Statistischen Bureaus'', and ''Zeitschrift des Statistischen Bureaus des Königreichs Sachsen''.<ref name=eb/>
+Among his works were ''Die Methoden der Volkszählung'' ("Census methods," 1861), ''Die Volkszählungen, ihre Stellung zur Wissenschaft und ihre Aufgabe in der Geschichte'' ("Censuses, their place in science and role in history," 1862), ''Land und Leute des Preussischen Staates'' ("The Prussian land and people," 1863), and ''Das Zeitalter des Dampfes'' ("The era of steam," 1881).<ref name=ea/>
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Heinrich Strecker, Rolf Wiegert (1997) "Engel, (Christian Lorenz) Ernst," pp.&nbsp;280–3 in ''Leading Personalities in Statistical Sciences from the Seventeenth Century to the Present'' (ed. N. L. Johnson and S. Kotz) New York: Wiley. Originally published in ''Encyclopedia of Statistical Science''.
+
+==External links==
+*[http://www.york.ac.uk/depts/maths/histstat/people/engel.gif Photograph of Engel] on [http://www.york.ac.uk/depts/maths/histstat/people/welcome.htm Portraits of Statisticians]
+* {{Cite NIE|wstitle=Engel, Ernst |short=x}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Engel, Ernst}}
+[[Category:1821 births]]
+[[Category:1896 deaths]]
+[[Category:German economists]]
+[[Category:German statisticians]]
+[[Category:Members of the Prussian House of Representatives]]
+[[Category:Scientists from Dresden]]
+[[Category:People from the Kingdom of Saxony]]

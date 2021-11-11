@@ -1,0 +1,1398 @@
+{{short description|Southern region of Asia}}
+{{pp-pc1}}
+{{use Indian English|date=May 2014}}
+{{Use dmy dates|date=July 2019}}
+{{Infobox continent
+|title               = South Asia
+|image               = South Asia (orthographic projection).svg
+|area                = {{convert|5134641|km2|sqmi|abbr=on}}
+|population          = 1.94 billion (2020)<ref name = "UN WPP 2019 2"/>
+|density             = {{convert|362.3|/km2|abbr=on}}
+|GDP_nominal         = $3.326&nbsp;trillion (2020)<ref name="IMFWEOCN">{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=512,513,514,534,556,558,564,524,&s=NGDPD,&sy=2019&ey=2025&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1
+|title=World Economic Outlook Database |date=October 2020 |website=International Monetary Fund |access-date=10 November 2020}}</ref>
+|GDP_PPP             = $12.752&nbsp;trillion (2018)<ref name="IMF" />
+|GDP_per_capita      = $1,707 (nominal)<ref name="IMFWEOCN" />
+|HDI                 = {{Increase}}0.642 (''<span style="color:orange">medium</span>'')<ref name="UNDP2019">{{cite web|url=http://hdr.undp.org/sites/default/files/hdr_2019_overview_-_english.pdf |title= Human Development Report 2019 – "Human Development Indices and Indicators"|publisher=[[Human Development Report|HDRO (Human Development Report Office)]] [[United Nations Development Programme]]|pages=22–25 |access-date=10 December 2019}}</ref>
+|ethnic_groups       = [[Indo-Aryan peoples|Indo-Aryan]], [[Iranian peoples|Iranian]], [[Dravidian people|Dravidian]], [[Sino-Tibetan languages|Sino-Tibetan]], [[Austro-Asiatic people of South Asia|Austroasiatic]], [[Turkic languages|Turkic]] etc.
+|religions           = [[Hinduism]], [[Islam]], [[Christianity]], [[Buddhism]], [[Sikhism]], [[Jainism]], [[Zoroastrianism]], [[Irreligion]]
+|demonym             = South Asian
+|countries           = {{collapsible list
+| title = [[List of sovereign states and dependent territories in Asia|8 states]]
+| <!--The article explains why Afghanistan is listed here-->
+| {{flag|Afghanistan}}
+| {{flag|Bangladesh}}
+| {{flag|Bhutan}}
+| {{flag|India}}
+| {{flag|Maldives}}
+| {{flag|Nepal}}
+| {{flag|Pakistan}}
+| {{flag|Sri Lanka}}
+     }}
+|list_countries      =
+|dependencies        =
+{{flag|British Indian Ocean Territory}}
+|unrecognized        =
+|languages           = {{collapsible list
+  | title = Official languages
+  | [[Bengali language|Bengali]]
+  | [[Pashto]]
+  | [[Dari]] ([[Persian language|Persian]])
+  | [[Dzongkha]]
+  | [[Dhivehi language|Dhivehi]]
+  | [[English language|English]]
+  | [[Hindi]]
+  | [[Nepali language|Nepali]]
+  | [[Sinhala language|Sinhala]]
+  | [[Tamil language|Tamil]]
+  | [[Urdu]]
+ }}
+ {{collapsible list
+  | title       = Other&nbsp;languages
+  | titlestyle  = text-align:left;padding-right:4em;font-weight:normal;background-color:white;
+  | bullets     = true
+  | '''[[Afro-Asiatic languages|Afro-Asiatic]]''':
+   {{hlist
+    | [[Arabic]]
+   }}
+  | '''[[Austroasiatic languages|Austroasiatic]]''':
+   {{hlist
+    | [[Khasi language|Khasi]]
+    | [[Santali language|Santali]]
+   }}
+  | '''[[Austronesian languages|Austronesian]]''':
+   {{hlist
+    | [[Sri Lankan Creole Malay|Sri Lanka Malay]]
+   }}
+  | '''[[Dravidian languages|Dravidian]]''':
+   {{hlist
+    | [[Beary language|Beary]]
+    | [[Brahui language|Brahui]]
+    | [[Gondi language|Gondi]]
+    | [[Kodava language|Kodava]]
+    | [[Malayalam]]
+    | [[Kannada]]
+    | [[Telugu language|Telugu]]
+    | [[Tulu language|Tulu]]
+   }}
+  | '''[[Indo-European languages|Indo-European]]''':
+   {{hlist
+    | [[Assamese language|Asamiya]]
+    | [[Balochi language|Balochi]]
+    | [[Bhili language|Bhili]]
+    | [[Dogri language|Dogri]]
+    | [[Garhwali language|Garhwali]]
+    | [[Gujarati language|Gujarati]]
+    | [[Hindi Belt#Hindi as a dialect continuum|Hindustani dialects]]
+    | [[Hindko]]
+    | [[Kashmiri language|Kashmiri]]
+    | [[Konkani language|Konkani]]
+    | [[Kumaoni language|Kumaoni]]
+    | [[Kutchi language|Kutchi]]
+    | [[Lahnda]]
+    | [[Maithili language|Maithili]]
+    | [[Marathi language|Marathi]]
+    | [[Marwari language|Marwari]]
+    | [[Odia language|Odia]]
+    | [[Punjabi language|Punjabi]]
+    | [[Rangpuri language|Rangpuri]]
+    | [[Rohingya language|Rohingya]]
+    | [[Sanskrit]]
+    | [[Saraiki language|Saraiki]]
+    | [[Chittagonian language|Satgaiya]]
+    | [[Sindhi language|Sindhi]]
+    | [[Sylheti language|Sylheti]]
+   }}
+  | '''[[Sino-Tibetan languages|Sino-Tibetan]]''':
+   {{hlist
+    | [[Balti language|Balti]]
+    | [[Boro–Garo languages|Boro-Garo]]
+    | [[Gurung language|Gurung]]
+    | [[Ladakhi language|Ladakhi]]
+    | [[Limbu language |Limbu]] 
+    | [[Mizo language|Mizo]]
+    | [[Manang language|Manang]]
+    | [[Meitei language|Meitei]]
+    | [[Sikkimese language|Sikkimese]]
+    | [[Tamang language|Tamang]]
+    | [[Thakali language|Thakali]]
+    | [[Standard Tibetan|Tibetan]]
+    }}
+  | '''[[Turkic languages|Turkic]]''':
+   {{hlist
+    | [[Turkmen language|Turkmen]]
+    | [[Uzbek language|Uzbek]]
+   }}
+ }}
+|time                ={{collapsible list
+  | title       = 5 time zones
+  | titlestyle  = text-align:left;padding-right:4em;font-weight:normal;background-color:white;
+  | bullets     = true
+  | '''[[UTC+04:30]]''':
+   {{hlist
+    | [[Time in Afghanistan|Afghanistan]]
+   }}
+  | '''[[UTC+05:00]]''':
+   {{hlist
+    | [[Time in the Maldives|Maldives]]
+    | [[Time in Pakistan|Pakistan]]
+   }}
+  | '''[[UTC+05:30]]''':
+   {{hlist
+    | [[Time in India|India]]
+    | [[Time in Sri Lanka|Sri Lanka]]
+   }}
+  | '''[[UTC+05:45]]''':
+   {{hlist
+    | [[Time in Nepal|Nepal]]
+   }}
+  | '''[[UTC+06:00]]''':
+   {{hlist
+    | [[Bangladesh Standard Time|Bangladesh]]
+    | [[Bhutan Time|Bhutan]]
+   }}
+ }}
+|internet            = [[.af]], [[.bd]], [[.bt]], [[.in]], [[.io]], [[.lk]], [[.mv]], [[.np]], [[.pk]]
+|calling_code        = [[List of country calling codes|Zone 8 & 9]]
+|cities              = <!-- PLEASE LIMIT THE CITIES LISTED HERE TO CITIES LISTED IN [[List of urban areas by population]], AND LIST IN ALPHABETICAL ORDER. THANKS! -->
+{{collapsible list
+ | title = List
+ | titlestyle = text-align:left;padding-right:4em;font-weight:normal;background-color:white;
+ | bullets = true
+  | {{flagicon|India}} [[Ahmedabad]]
+  | {{flagicon|India}} [[Bangalore]]
+  | {{flagicon|India}} [[Chennai]]
+  | {{flagicon|Bangladesh}} [[Chittagong]]
+  | {{flagicon|Sri Lanka}} [[Colombo]]
+  | {{flagicon|Bangladesh}} [[Dhaka]]
+  | {{flagicon|India}} [[Hyderabad]]
+  | {{flagicon|Pakistan}} [[Karachi]]
+  | {{flagicon|India}} [[Kolkata]]
+  | {{flagicon|Pakistan}} [[Lahore]]
+  | {{flagicon|India}} [[Mumbai]]
+  | {{flagicon|India}} [[New Delhi]]
+  | {{flagicon|India}} [[Pune]]
+  | {{flagicon|India}} [[Surat]]
+}}{{refn|group=note|Among the top 100 [[List of urban areas by population|urban areas of the world by population]].}}
+<!-- Colombo metropolitan area has a population of 5.6 million, AND LIST IN ALPHABETICAL ORDER. THANKS! -->
+|m49                 = <code>034</code> – Southern Asia<br /><code>142</code> – [[Asia]]<br /><code>001</code> – [[World]]
+|footnotes           =
+}}
+'''South Asia''' is the southern region of [[Asia]], which is defined in both [[geography|geographical]] and [[culture|ethno-cultural]] terms. The region consists of the countries of [[Afghanistan]],{{refn|group=note|Afghanistan is sometimes considered to be part of Central Asia. The [[Islamic Republic of Afghanistan|Islamic Republic]] regarded Afghanistan as a link between Central Asia and South Asia.{{sfn|Saez|2012|p=35}}}} [[Bangladesh]], [[Bhutan]], [[India]], [[Nepal]], [[Pakistan]], [[Sri Lanka]] and the [[Maldives]].<ref name="unreports.studycenters">{{cite web|title=Afghanistan|url=http://www.eldis.org/go/country-profiles&country=1000&theme=0|website=Regional and Country Profiles South Asia|publisher=Institute of Development Studies|access-date=28 February 2019|archive-url=https://web.archive.org/web/20170520055339/http://www.eldis.org/go/country-profiles%26country%3D1000%26theme%3D0|archive-date=20 May 2017|url-status=live}};<br />{{cite web|title=Composition of macro geographical (continental) regions, geographical sub-regions, and selected economic and other groupings: Southern Asia|url=http://unstats.un.org/unsd/methods/m49/m49regin.htm#asia|website=United Nations Statistics Division|access-date=31 January 2016|archive-url=https://web.archive.org/web/20100417070721/http://unstats.un.org/unsd/methods/m49/m49regin.htm#asia|archive-date=17 April 2010|url-status=live}};<br />{{cite journal |last=Arnall |first=A |date=24 September 2010 |title=Adaptive Social Protection: Mapping the Evidence and Policy Context in the Agriculture Sector in South Asia|url=http://www.ids.ac.uk/publication/adaptive-social-protection-mapping-the-evidence-and-policy-context-in-the-agriculture-sector-in-south-asia |journal=Institute of Development Studies |issue=345 |access-date=31 January 2016 |archive-url=https://web.archive.org/web/20160615130148/http://www.ids.ac.uk/publication/adaptive-social-protection-mapping-the-evidence-and-policy-context-in-the-agriculture-sector-in-south-asia |archive-date=15 June 2016 |url-status=live  }};<br />{{cite web|title=The World Bank|url=http://data.worldbank.org/region/SAS|access-date=5 November 2015|archive-url=https://web.archive.org/web/20151110061347/http://data.worldbank.org/region/SAS|archive-date=10 November 2015|url-status=live}};<br />{{cite web|title=Institute of Development Studies: Afghanistan|url=http://www.eldis.org/go/home&id=16238&type=Document|access-date=28 February 2019|archive-url=https://web.archive.org/web/20170601015811/http://www.eldis.org/go/home%26id%3D16238%26type%3DDocument|archive-date=1 June 2017|url-status=live}};<br />{{cite web|title=Harvard South Asia Institute: "Afghanistan"|url=http://southasiainstitute.harvard.edu/events/region/afghanistan/|access-date=5 November 2015|archive-url=https://web.archive.org/web/20151117014631/http://southasiainstitute.harvard.edu/events/region/afghanistan/|archive-date=17 November 2015|url-status=live}};<br />{{cite news|title=Afghanistan|url=https://www.bbc.com/news/world-south-asia-12011352|work=BBC News|date=2018-01-31|access-date=21 July 2018|archive-url=https://web.archive.org/web/20180729053750/https://www.bbc.com/news/world-south-asia-12011352|archive-date=29 July 2018|url-status=live}};<br />{{cite web|title=The Brookings Institution |url=http://www.brookings.edu/research/topics/south-asia|date=2001-11-30|access-date=5 November 2015|archive-url=https://web.archive.org/web/20150905164547/http://www.brookings.edu/research/topics/south-asia|archive-date=5 September 2015|url-status=live}};<br />{{cite web |title=South Asia |work=The World Factbook |url=https://www.cia.gov/library/publications/the-world-factbook/wfbExt/region_sas.html |publisher=Central Intelligence Agency |access-date=4 March 2015 |archive-url=https://web.archive.org/web/20150402090633/https://www.cia.gov/library/publications/the-world-factbook/wfbExt/region_sas.html |archive-date=2 April 2015 |url-status=live}}</ref> Topographically, it is dominated by the [[Indian Plate]] and defined largely by the [[Indian Ocean]] on the south, and the [[Himalayas]], [[Karakoram]], and [[Pamir Mountains|Pamir]] mountains on the north. The [[Amu Darya]], which rises north of the [[Hindu Kush]], forms part of the northwestern border. On land (clockwise), South Asia is bounded by [[Western Asia]], [[Central Asia]], [[East Asia]], and [[Southeast Asia]].
+
+The [[South Asian Association for Regional Cooperation]] (SAARC) is an economic cooperation organisation in the region which was established in 1985 and includes all eight nations comprising South Asia.<ref name="SAARC Summit">{{cite web| last=SAARC Summit| title=SAARC|url=http://www.saarc-sec.org/|publisher=SAARC Summit| access-date=17 December 2013|archive-url = https://web.archive.org/web/20131216014912/http://saarc-sec.org/| archive-date=16 December 2013|url-status=live}}</ref> South Asia covers about {{convert|5.2|e6km2|abbr=unit}}, which is 11.71% of the Asian continent or 3.5% of the world's land surface area.<ref name="unreports.studycenters"/> The population of South Asia is about 1.891 billion or about one-fourth of the world's population, making it both the [[List of continents by population#Regional and continental (sub)totals in 2016|most populous]] and the [[Population density|most densely populated]] geographical region in the world.<ref name="South Asia Regional Overview">{{cite web |url=http://www.sardeg.org/marketana.asp |title=South Asia Regional Overview |website=South Asian Regional Development Gateway |archive-url=https://web.archive.org/web/20081121043924/http://www.sardeg.org/marketana.asp |archive-date=21 November 2008}}</ref> Overall, it accounts for about 39.49% of Asia's population, over 24% of the world's population, and is home to a vast array of people.<ref name=JJCO>{{cite journal |last=Desai |first=Praful B. |year=2002 |title=Cancer control efforts in the Indian subcontinent |url=http://jjco.oxfordjournals.org/cgi/reprint/32/suppl_1/S13.pdf |journal=Japanese Journal of Clinical Oncology |volume=32 (Supplement 1) |pages=S13–S16 |doi=10.1093/jjco/hye139 |pmid=11959872 |archive-url=https://web.archive.org/web/20210224090124/https://academic.oup.com/jjco/article/32/suppl_1/S13/881653 |archive-date=23 February 2021 |quote="The Indian subcontinent in South Asia occupies 2.4% of the world landmass and is home to 16.5% of the world population...."|doi-access=free }}</ref><ref name=Britannica>
+[http://www.britannica.com/EBchecked/topic/38479/Asia "Asia" > Overview] {{Webarchive|url=https://web.archive.org/web/20110501014535/http://www.britannica.com/EBchecked/topic/38479/Asia |date=1 May 2011 }}.  ''Encyclopædia Britannica''. Encyclopædia Britannica Online, 2009: "The Indian subcontinent is home to a vast diversity of peoples, most of whom speak languages from the Indo-Aryan subgroup of the Indo-European family."
+</ref><ref name=EoMA>"[http://www.bookrags.com/research/indian-subcontinent-ema-03/ Indian Subcontinent] {{Webarchive|url=https://web.archive.org/web/20120121100141/http://www.bookrags.com/research/indian-subcontinent-ema-03/ |date=21 January 2012 }}". ''Encyclopedia of Modern Asia''. Macmillan Reference USA (Gale Group), 2006: "The area is divided between five major nation-states, Bangladesh, India, Nepal, Pakistan, and Sri Lanka, and includes as well the two small nations of Bhutan and the Maldives Republic... The total area can be estimated at 4.4 million square kilometres or exactly 10 percent of the land surface of Asia... In 2000, the total population was about 22 percent of the world's population and 34 percent of the population of Asia."</ref>
+
+In [[2010]], South Asia had the world's largest populations of [[Hindus]], [[Muslims]], [[Sikhs]], [[Jainism|Jains]] and [[Zoroastrianism|Zoroastrians]].<ref>{{Cite news|url=https://thediplomat.com/2016/01/how-south-asia-will-save-global-islam/|title=How South Asia Will Save Global Islam|last=Diplomat|first=Akhilesh Pillalamarri, The|newspaper=The Diplomat|access-date=2017-02-07|language=en-US}}</ref> South Asia alone accounts for 98.47% of Hindus, 90.5% of Sikhs, and 31% of Muslims worldwide, as well as 35 million [[Christians]] and 25 million [[Buddhists]].<ref name="Pew Research 2012">{{cite web |url=http://www.pewforum.org/2012/12/18/table-religious-composition-by-country-in-numbers/ |title=Religion population totals in 2010 by Country |year=2012 |website=Pew Research Center |archive-url=https://web.archive.org/web/20161209223553/http://www.pewforum.org/2012/12/18/table-religious-composition-by-country-in-numbers/ |archive-date=9 December 2016}}</ref><ref>{{Cite book|url={{google books|plainurl=y|id=kaubzRxh-U0C}}|page=[https://books.google.com/books?id=kaubzRxh-U0C&pg=PA193 193] |title=South Asian Religions: Tradition and Today|last1=Pechilis|first1=Karen|last2=Raj|first2=Selva J.|date=2013|publisher=Routledge|isbn=978-0-415-44851-2 |language=en}}</ref><ref name="pewforum.org">{{cite web |url=http://www.pewforum.org/2011/01/27/future-of-the-global-muslim-population-regional-asia/ |url-status=live  |title=Region: Asia-Pacific |date=27 January 2011 |website=Pew Research Center |archive-url=https://web.archive.org/web/20171010061404/http://www.pewforum.org/2011/01/27/future-of-the-global-muslim-population-regional-asia/ |archive-date=10 October 2017 |access-date=13 March 2016}}</ref><ref>{{Cite web |url=http://www.pewforum.org/2015/04/02/muslims/pf_15-04-02_projectionstables74/ |title=10 Countries With the Largest Muslim Populations, 2010 and 2050 |date=2015-04-02 |publisher=Pew Research Center's Religion & Public Life Project |access-date=2017-02-07 |archive-url=https://web.archive.org/web/20170504075835/http://www.pewforum.org/2015/04/02/muslims/pf_15-04-02_projectionstables74/ |archive-date=4 May 2017 |url-status=live }}</ref>
+
+==Definition==
+{{See also|Indology}}
+[[File:South Asia (ed)update.PNG|thumb|340px|Various definitions of South Asia, including the definition by [[UNSD]] which was created for "statistical convenience and does not imply any assumption regarding political or other affiliation of countries or territories."<ref name="Millenniumindicators.un.org">{{cite web |url=http://unstats.un.org/unsd/methods/m49/m49.htm |title=Standard Country or Area Codes for Statistical Use |publisher=Millenniumindicators.un.org |access-date=2012-08-25 |archive-url=https://web.archive.org/web/20170711220015/https://unstats.un.org/unsd/methods/m49/m49.htm |archive-date=11 July 2017 |url-status=live}} Quote: "The assignment of countries or areas to specific groupings is for statistical convenience and does not imply any assumption regarding political or other affiliation of countries or territories by the United Nations."</ref>]]
+
+Modern definitions of South Asia are consistent in including Afghanistan, India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan and Maldives as the constituent countries.<ref name="The BBC. Afghanistan">{{cite news |title=Afghanistan Country Profile |url=https://www.bbc.com/news/world-south-asia-12011352 |work=BBC News |access-date=21 July 2018 |archive-url=https://web.archive.org/web/20180729053750/https://www.bbc.com/news/world-south-asia-12011352 |archive-date=29 July 2018 |url-status=live}}</ref><ref name="The Brookings Institution">{{cite web|title=The Brookings Institution|url=http://www.brookings.edu/research/topics/south-asia|date=2001-11-30|access-date=5 November 2015|archive-url=https://web.archive.org/web/20150905164547/http://www.brookings.edu/research/topics/south-asia|archive-date=5 September 2015|url-status=live}}</ref><ref name="CIA The World Factbook">{{cite web |title=CIA "The World Factbook" |url=https://www.cia.gov/library/publications/the-world-factbook/wfbExt/region_sas.html |access-date=4 March 2015 |archive-url= https://web.archive.org/web/20150402090633/https://www.cia.gov/library/publications/the-world-factbook/wfbExt/region_sas.html |archive-date=2 April 2015 |url-status=live}}</ref> Afghanistan is, however, considered by some to be a part of Central Asia, Western Asia, or the Middle East.<ref name=Ghosh1989/><ref name=Razzaque3/><ref>{{cite book|first=Keith|last=Robbins|title=Transforming the World: Global Political History since World War II|url=https://books.google.com/books?id=dxknBQAAQBAJ&pg=PT386 |year=2012|publisher=Palgrave Macmillan|isbn=978-1-137-29656-6|page=386}}, Quote: "Some thought that Afghanistan was part of the Middle East and not South Asian at all".</ref>{{sfn|Saez|2012|p=58|ps=: "Afghanistan is considered to be part of Central Asia. It regards itself as a link between Central Asia and South Asia."}}<ref>{{cite book|first=Phillip|last=Margulies|title=Nuclear Nonproliferation|url=https://books.google.com/books?id=hk4RCDQuESUC&pg=PA63|year=2008|publisher=Infobase Publishing|isbn=978-1-4381-0902-2|page=63}}, Quote: "Afghanistan, which lies to the northwest, is not technically a part of South Asia but is an important neighbor with close links and historical ties to Pakistan."</ref> After the [[Second Anglo-Afghan War]], it was a British protectorate until [[1919]].<ref name="southasiainstitute.harvard.edu">{{cite web |title=Harvard South Asia Institute: "Afghanistan" |url=http://southasiainstitute.harvard.edu/events/region/afghanistan/ |access-date=5 November 2015 |archive-url=https://web.archive.org/web/20151117014631/http://southasiainstitute.harvard.edu/events/region/afghanistan/ |archive-date=17 November 2015 |url-status=live}}</ref><ref name="The BBC. Afghanistan"/><ref name="CIA The World Factbook"/> On the other hand, [[Myanmar]] (formerly Burma), administered as part of the [[British Raj]] between [[1886]] and 1937<ref>{{cite book|author=Baten, Jörg |title=A History of the Global Economy. From 1500 to the Present.|date=2016|publisher=Cambridge University Press|page=287|isbn=978-1-107-50718-0}}</ref> and now largely considered a part of Southeast Asia as a member state of [[ASEAN]], is also sometimes included.<ref name=Ghosh1989/><ref name=Razzaque3/><ref name=mittal/> But the [[Aden Colony]], [[British Somaliland]] and [[Singapore]], though administered at various times under the British Raj, have never been proposed as any part of South Asia.<ref>United Nations, ''Yearbook of the United Nations'', pages 297, Office of Public Information, 1947, United Nations</ref> The region may also include the disputed territory of [[Aksai Chin]], which was part of the British Indian princely state of [[Jammu and Kashmir (princely state)|Jammu and Kashmir]], now administered as part of the [[China|Chinese]] autonomous region of [[Xinjiang]] but also claimed by India.<ref>Dale Hoiberg and Indu Ramchandani, ''Students' Britannica India'' (vol. 1), page 45, Popular Prakashan, 2000, {{ISBN|978-0-85229-760-5}}</ref>
+
+However, the total area of South Asia and its geographical extent is not clear cut as systemic and foreign policy orientations of its constituents are quite asymmetrical.<ref name="Ghosh1989">{{cite book |last=Ghosh |first=Partha Sarathy |date=1989 |title=Cooperation and Conflict in South Asia |url=https://books.google.com/books?id=O0TBqJCE4k8C&pg=PA5 |publisher=Technical Publications |pages=4–5 |isbn=978-81-85054-68-1 |access-date=12 August 2015 |archive-url=https://web.archive.org/web/20160516185842/https://books.google.com/books?id=O0TBqJCE4k8C&pg=PA5 |archive-date=16 May 2016 |url-status=live }}</ref> Beyond the core territories of the British Raj or the British Indian Empire, there is a high degree of variation as to which other countries are included in South Asia.<ref>Bertram Hughes Farmer, ''An Introduction to South Asia'', pages 1, Routledge, 1993, {{ISBN|0-415-05695-0}}</ref><ref name=Razzaque3>{{cite book|first=Jona|last=Razzaque|title=Public Interest Environmental Litigation in India, Pakistan, and Bangladesh|url=https://books.google.com/books?id=7E7al37aYBEC&pg=PA3|year=2004|publisher=Kluwer Law International|isbn=978-90-411-2214-8|pages=3 with footnotes 1 and 2|access-date=11 December 2016|archive-url=https://web.archive.org/web/20171007120534/https://books.google.com/books?id=7E7al37aYBEC&pg=PA3|archive-date=7 October 2017|url-status=live}}</ref><ref name=mmann>{{cite book|first=Michael|last=Mann|title=South Asia's Modern History: Thematic Perspectives|url=https://books.google.com/books?id=Uh0cBQAAQBAJ&pg=PT13|year=2014|publisher=Taylor & Francis|isbn=978-1-317-62445-5|pages=13–15}}</ref><ref name=anderson5>{{cite book|first1=Ewan W.|last1=Anderson|first2=Liam D.|last2=Anderson|title=An Atlas of Middle Eastern Affairs|url=https://books.google.com/books?id=n-VJAgAAQBAJ&pg=PA5 |year=2013|publisher=Routledge|isbn=978-1-136-64862-5|page=5}}, Quote: "To the east, Iran, as a Gulf state, offers a generally accepted limit to the Middle East. However, Afghanistan, also a Muslim state, is then left in isolation. It is not accepted as a part of Central Asia and it is clearly not part of the Indian subcontinent".</ref> The confusion existed also because of the lack of a clear boundary – geographically, geopolitical, socio-culturally, economically or historically – between South Asia and other parts of Asia, especially the Middle East and Southeast Asia.<ref>Dallen J. Timothy and Gyan P. Nyaupane, ''Cultural Heritage and Tourism in the Developing World: A Regional Perspective'', page 127, Routledge, 2009, {{ISBN|978-1-134-00228-3}}</ref>
+
+The common definition of South Asia is largely inherited from the administrative boundaries of the British Raj,<ref>Navnita Chadha Behera, ''International Relations in South Asia: Search for an Alternative Paradigm'', page 129, SAGE Publications India, 2008, {{ISBN|978-81-7829-870-2}}</ref> with several exceptions. The current territories of Bangladesh, India, and Pakistan which were the core territories of the [[British Empire]] from 1857 to 1947 also form the core territories of South Asia.<ref name="The World Bank">{{cite web|title=The World Bank|url=http://data.worldbank.org/region/SAS|access-date=5 November 2015|archive-url=https://web.archive.org/web/20151110061347/http://data.worldbank.org/region/SAS|archive-date=10 November 2015|url-status=live}}</ref><ref name="eldis.org">{{cite web |title=Institute of Development Studies: Afghanistan |url=http://www.eldis.org/go/home&id=16238&type=Document |access-date=28 February 2019 |archive-url=https://web.archive.org/web/20170601015811/http://www.eldis.org/go/home%26id%3D16238%26type%3DDocument |archive-date=1 June 2017 |url-status=live}}</ref><ref name="The Brookings Institution"/><ref name="CIA The World Factbook"/> The mountain countries of Nepal and Bhutan, two independent countries that were not part of the British Raj,<ref>{{cite book|author=Saul Bernard Cohen |title=Geopolitics: The Geography of International Relations|date=2008|publisher=Rowman & Littlefield Publishers| edition=2| page=329| isbn=978-0-7425-8154-8}}</ref> and the island countries of Sri Lanka and Maldives are generally included. By various definitions based on substantially different reasons, the [[British Indian Ocean Territory]] and the [[Tibet Autonomous Region]] are included as well.<ref name="McLeod2002">{{cite book |last=McLeod |first=John |date=2002 |title=The History of India |url=https://books.google.com/books?id=Y8Y3MH3dj6MC&pg=PA1 |publisher=Greenwood Publishing Group |page=1 |isbn=978-0-313-31459-9 |access-date=19 July 2015 |archive-url=https://web.archive.org/web/20160517211530/https://books.google.com/books?id=Y8Y3MH3dj6MC&pg=PA1 |archive-date=17 May 2016 |url-status=live }}</ref><ref>[[Arthur Berriedale Keith]], ''A Constitutional History of India: 1600–1935'', pages 440–444, Methuen & Co, 1936</ref><ref>N.D. Arora, ''Political Science for Civil Services Main Examination'', page 42:1, Tata McGraw-Hill Education, 2010, 9780070090941</ref><ref>Stephen Adolphe Wurm, Peter Mühlhäusler & Darrell T. Tryon, ''Atlas of languages of intercultural communication in the Pacific, Asia, and the Americas'', pages 787, International Council for Philosophy and Humanistic Studies, Published by Walter de Gruyter, 1996, {{ISBN|3-11-013417-9}}</ref><ref>[http://www.answers.com/topic/south-asia#Columbia_Encyclopedia_d_ans "Indian subcontinent" > Geology and Geography] {{Webarchive|url=https://web.archive.org/web/20120220121713/http://www.answers.com/topic/south-asia#Columbia_Encyclopedia_d_ans |date=20 February 2012 }}.</ref><ref>{{Cite book |last=Haggett |first=Peter |title=Encyclopedia of World Geography (Vol. 1) |publisher=Marshall Cavendish |year=2001 |page=2710 |isbn=978-0-7614-7289-6}}</ref><ref>[http://www.janes.com/articles/Janes-Sentinel-Security-Assessment-South-Asia/Territories-British-Indian-Ocean-Territory.html Territories (British Indian Ocean Territory)], Jane's Information Group</ref> The 562 [[princely state]]s that were protected by but not directly ruled by the British Raj became administrative parts of South Asia upon joining [[Dominion of India|India]] or [[Dominion of Pakistan|Pakistan]].<ref>''Encyclopædia Britannica: A New Survey of Universal Knowledge'' (volume 4), pages 177, Encyclopædia Britannica Inc., 1947</ref><ref>Ian Copland, ''The Princes of pre-India in the Endgame of the British Empire: 1917–1947'', pages 263, Cambridge University Press, 2002, {{ISBN|0-521-89436-0}}</ref>
+
+[[File:South Asia UN.png|thumb|left|[[United Nations]] [[Cartography|cartographic]] map of South Asia.<ref name=unmapsworld>
+[https://www.un.org/Depts/Cartographic/english/htmain.htm United Nations Cartographic Centre] {{Webarchive|url=https://web.archive.org/web/20170630232206/http://www.un.org/Depts/Cartographic/english/htmain.htm |date=30 June 2017 }} Retrieved 18 June 2015</ref> However, the United Nations does not endorse any definitions or area boundaries.{{refn|group=note|According to the UN cartographic section website disclaimers, "DESIGNATIONS USED: The depiction and use of boundaries, geographic names and related data shown on maps and included in lists, tables, documents, and databases on this web site are not warranted to be error free nor do they necessarily imply official endorsement or acceptance by the United Nations."<ref name=unmapsworld />}}]]
+
+The [[South Asian Association for Regional Cooperation]] (SAARC), a contiguous block of countries, started in 1985 with seven countries{{snd}}Bangladesh, Bhutan, India, the Maldives, Nepal, Pakistan and Sri Lanka{{snd}}and admitted [[Afghanistan]] as an eighth member in 2007.<ref>{{cite web |url=http://www.isn.ethz.ch/isn/Current-Affairs/Security-Watch/Detail/?ots591=4888CAA0-B3DB-1461-98B9-E20E7B9C13D4&lng=en&id=53216 |title=SAARC: Afghanistan comes in from the cold |author=Sarkar, Sudeshna |date=16 May 2007 |website=Current Affairs – Security Watch |publisher=Swiss Federal Institute of Technology, Zürich |access-date=6 April 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110614091639/http://www.isn.ethz.ch/isn/Current-Affairs/Security-Watch/Detail/?ots591=4888CAA0-B3DB-1461-98B9-E20E7B9C13D4&lng=en&id=53216 |archive-date=14 June 2011 }}</ref><ref>{{cite web |url=http://www.saarc-sec.org/ |title=South Asian Organisation for Regional Cooperation (official website) |publisher=SAARC Secretariat, Kathmandu, Nepal. |access-date=6 April 2011 |archive-url=https://web.archive.org/web/20131216014912/http://saarc-sec.org/ |archive-date=16 December 2013 |url-status=live }}</ref> [[China]] and Myanmar have also applied for the status of full members of SAARC.<ref>Chatterjee Aneek, ''International Relations Today: Concepts and Applications'', page 166, Pearson Education India, {{ISBN|978-81-317-3375-2}}</ref><ref>{{cite news |date=2 December 2014 |title=SAARC Membership: India blocks China's entry for the time being |url=https://economictimes.indiatimes.com/news/politics-and-nation/saarc-membership-india-blocks-chinas-entry-for-the-time-being/articleshow/45342607.cms |newspaper=The Economic Times| access-date=17 March 2015| archive-url= https://web.archive.org/web/20181218222754/https://economictimes.indiatimes.com/news/politics-and-nation/saarc-membership-india-blocks-chinas-entry-for-the-time-being/articleshow/45342607.cms |archive-date=18 December 2018 |url-status=live}}</ref> The [[South Asia Free Trade Agreement]] admitted Afghanistan in 2011.<ref>[http://globalsummitryproject.com.s197331.gridserver.com/archive/saarc/saarc-sec.org/areaofcooperation/detailfeb2.html?activity_id=36 Global Summitry Project], SAARC</ref>
+
+The [[World Bank]] and [[United Nations Children's Fund]] (UNICEF) recognizes the eight SAARC countries as South Asia,<ref>[http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/0,,pagePK:158889~piPK:146815~theSitePK:223547,00.html South Asia: Data, Projects and Research] {{Webarchive|url=https://archive.today/20120716183002/web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/0,,pagePK:158889~piPK:146815~theSitePK:223547,00.html |date=16 July 2012 }}, The World Bank</ref><ref>{{cite web|url=http://saarc-sec.org/areaofcooperation/detail.php?activity_id=36|title=SAFTA Protocol|access-date=20 March 2015|archive-url=https://web.archive.org/web/20150315005650/http://saarc-sec.org/areaofcooperation/detail.php?activity_id=36|archive-date=15 March 2015|url-status=live}}</ref><ref>{{cite web|title=South Asia|url=https://www.unicef.org/infobycountry/southasia.html|website=Unicef.org|access-date=16 December 2016|archive-url=https://web.archive.org/web/20161220203433/https://www.unicef.org/infobycountry/southasia.html|archive-date=20 December 2016|url-status=live}}</ref><ref>{{cite web|title=UNICEF ROSA|url=https://www.unicef.org/rosa/where.html|website=Unicef.org|access-date=16 December 2016|archive-url=https://web.archive.org/web/20161220203418/https://www.unicef.org/rosa/where.html|archive-date=20 December 2016|url-status=live}}</ref> The [[Herfindahl index|Hirschman–Herfindahl index]] of the [[United Nations Economic and Social Commission for Asia and the Pacific]] for the region excludes Afghanistan from South Asia.<ref>[http://www.unescap.org/tid/projects/agrnego_sama.pdf Mapping and Analysis of Agricultural Trade Liberalization in South Asia] {{Webarchive|url=https://web.archive.org/web/20090319013359/http://www.unescap.org/tid/projects/agrnego_sama.pdf |date=19 March 2009 }}, Trade and Investment Division (TID), United Nations Economic and Social Commission for Asia and the Pacific</ref> Population Information Network (POPIN) excludes Maldives which is included as a member Pacific POPIN subregional network.<ref>[https://www.un.org/Depts/escap/pop/bulletin/v07n2ft1.htm Asia-Pacific POPIN Consultative Workshop Report] {{Webarchive|url=https://web.archive.org/web/20121025033612/http://www.un.org/Depts/escap/pop/bulletin/v07n2ft1.htm |date=25 October 2012 }}, Asia-Pacific POPIN Bulletin, Vol. 7, No. 2 (1995), pages 7–11</ref> The United Nations Statistics Division's [[United Nations geoscheme|scheme of sub-regions]], for statistical purpose,<ref name="Millenniumindicators.un.org"/> includes [[Iran]] along with all eight members of the SAARC as part of Southern Asia.<ref>[http://millenniumindicators.un.org/unsd/methods/m49/m49regin.htm#asia Geographical region and composition] {{Webarchive| url=https://web.archive.org/web/20110713041240/http://millenniumindicators.un.org/unsd/methods/m49/m49regin.htm#asia|date=13 July 2011}}, Composition of macro geographical (continental) regions, geographical sub-regions, and selected economic and other groupings, United Nations</ref>
+
+The boundaries of South Asia vary based on how the region is defined. South Asia's northern, eastern, and western boundaries vary based on definitions used, while the [[Indian Ocean]] is the southern periphery. Most of this region rests on the [[Indian Plate]] and is isolated from the rest of Asia by mountain barriers.<ref>
+[http://www.answers.com/topic/Asia#Columbia_Encyclopedia_d_ans "Asia" > Geology and Geography] {{Webarchive|url=https://web.archive.org/web/20120223002115/http://www.answers.com/topic/asia#Columbia_Encyclopedia_d_ans |date=23 February 2012 }}. ''The Columbia Electronic Encyclopedia'', 6th ed. Columbia University Press, 2003: "Asia can be divided into six regions, each possessing distinctive physical, cultural, economic, and political characteristics... South Asia (Afghanistan and the nations of the Indian Peninsula) is isolated from the rest of Asia by great mountain barriers."
+</ref><ref>[http://www.britannica.com/EBchecked/topic/38479/Asia "Asia" > Geologic history – Tectonic framework] {{Webarchive|url=https://web.archive.org/web/20110501014535/http://www.britannica.com/EBchecked/topic/38479/Asia |date=1 May 2011 }}. ''Encyclopædia Britannica''. Encyclopædia Britannica Online, 2009: "The paleotectonic evolution of Asia terminated some 50 million years ago as a result of the collision of the Indian Plate with Eurasia. Asia's subsequent neotectonic development has largely disrupted the continent's preexisting fabric. The first-order neotectonic units of Asia are Stable Asia, the Arabian and Indian cratons, the Alpide plate boundary zone (along which the Arabian and Indian platforms have collided with the Eurasian continental plate), and the island arcs and marginal basins."</ref> Much of the region consists of a [[peninsula]] in south-central Asia, rather resembling a diamond which is delineated by the Himalayas on the north, the [[Hindu Kush]] in the west, and the [[Chin Hills|Arakanese]] in the east,<ref>Chapman, Graham P. & Baker, Kathleen M., eds. ''The changing geography of Asia''. ({{ISBN|0-203-03862-2}}) New York: Taylor & Francis e-Library, 2002; p. 10: "This greater India is well defined in terms of topography; it is the Indian peninsula, hemmed in by the Himalayas on the north, the Hindu Khush in the west and the Arakanese in the east."</ref> and which extends southward into the Indian Ocean with the [[Arabian Sea]] to the southwest and the [[Bay of Bengal]] to the southeast.<ref name=McLeod2002/><ref name=Oxford/>
+
+[[File:Indian subcontinent.JPG|thumb|While South Asia had never been a coherent [[Geopolitics|geopolitical]] region, it has a distinct geographical identity<ref name=mittal/><ref name="Kathleen M page 10"/>]]
+
+The terms "[[Indian subcontinent]]" and "South Asia" are sometimes used interchangeably.<ref name=McLeod2002/><ref name=mcleodplus/><ref name=Oxford>"Indian subcontinent". ''[[Oxford Dictionary of English|New Oxford Dictionary of English]]'' ({{ISBN|0-19-860441-6}})  New York: Oxford University Press, 2001; p. 929: "the part of Asia south of the Himalayas which forms a peninsula extending into the Indian Ocean, between the Arabian Sea and the Bay of Bengal. Historically forming the whole territory of greater India, the region is now divided between India, Pakistan, and Bangladesh."</ref><ref>''The Columbia Electronic Encyclopedia'', 6th ed. Columbia University Press, 2003: "region, S central Asia, comprising the countries of Pakistan, India, and Bangladesh and the Himalayan states of Nepal, and Bhutan. Sri Lanka, an island off the southeastern tip of the Indian peninsula, is often considered a part of the subcontinent."</ref> The Indian subcontinent is largely a geological term referring to the land mass that drifted northeastwards from ancient [[Gondwana]], colliding with the Eurasian plate nearly 55 million years ago, towards the end of Palaeocene. This geological region largely includes Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka.<ref name="Jones2011p267">{{cite book|author=Robert Wynn Jones|title=Applications of Palaeontology: Techniques and Case Studies|url=https://books.google.com/books?id=mrPiq_8pkAwC&pg=PA267 |year=2011|publisher=Cambridge University Press|isbn=978-1-139-49920-0|pages=267–271}}</ref> Historians Catherine Asher and Cynthia Talbot state that the term "Indian subcontinent" describes a natural physical landmass in South Asia that has been relatively isolated from the rest of Eurasia.<ref name="AsherTalbot2006">{{citation|last1=Asher|first1=Catherine B.|last2=Talbot|first2=Cynthia|title=India Before Europe|url=https://books.google.com/books?id=ZvaGuaJIJgoC|date=2006-03-16|publisher=Cambridge University Press|isbn=978-0-521-80904-7|pages=5–8, 12–14, 51, 78–80|access-date=9 December 2016|archive-url=https://web.archive.org/web/20160424074737/https://books.google.com/books?id=ZvaGuaJIJgoC|archive-date=24 April 2016|url-status=live}}</ref>
+
+The use of the term Indian subcontinent began in the British Empire, and has been a term particularly common in its successors.<ref name=mcleodplus>John McLeod, ''[https://books.google.com/books?id=Y8Y3MH3dj6MC&pg=PA1 The history of India] {{Webarchive|url=https://web.archive.org/web/20160517211530/https://books.google.com/books?id=Y8Y3MH3dj6MC&pg=PA1 |date=17 May 2016 }}'', page 1, Greenwood Publishing Group, 2002, {{ISBN|0-313-31459-4}}<br />Milton Walter Meyer, ''South Asia: A Short History of the Subcontinent'', pages 1, Adams Littlefield, 1976, {{ISBN|0-8226-0034-X}}<br />Jim Norwine & Alfonso González, ''The Third World: states of mind and being'', pages 209, Taylor & Francis, 1988, {{ISBN|0-04-910121-8}}<br />{{Cite book |last1=Boniface |first1=Brian G. |first2=Christopher P. |last2=Cooper |title=Worldwide Destinations: The Geography of Travel and Tourism |publisher=Butterworth-Heinemann |date=2005 |url=https://books.google.com/books?id=c46i9jr9mhgC&pg=PA344 |isbn=978-0-7506-5997-0 |access-date=19 July 2015 |archive-url=https://web.archive.org/web/20150919153240/https://books.google.com/books?id=c46i9jr9mhgC&pg=PA344 |archive-date=19 September 2015 |url-status=live }}<br />Judith Schott & Alix Henley, ''Culture, Religion, and Childbearing in a Multiracial Society'', pages 274, Elsevier Health Sciences, 1996, {{ISBN|0-7506-2050-1}}<br />Raj S. Bhopal, ''Ethnicity, race, and health in multicultural societies'', pages 33, Oxford University Press, 2007, {{ISBN|0-19-856817-7}}<br />Lucian W. Pye & Mary W. Pye, ''Asian Power and Politics'', pages 133, Harvard University Press, 1985, {{ISBN|0-674-04979-9}}<br />Mark Juergensmeyer, ''The Oxford handbook of global religions'', pages 465, Oxford University Press US, 2006, {{ISBN|0-19-513798-1}}<br />Sugata Bose & Ayesha Jalal, ''Modern South Asia'', pages 3, Routledge, 2004, {{ISBN|0-415-30787-2}}</ref> South Asia as the preferred term is particularly common when scholars or officials seek to differentiate this region from East Asia.<ref name=inden>Ronald B. Inden, ''Imagining India'', page 51, C. Hurst & Co. Publishers, 2000, {{ISBN|1-85065-520-0}}, Quote:"It is very common today in academic and official circles to speak of the Indian subcontinent as 'South Asia', thereby distinguishing it from an 'East Asia'."</ref> According to historians [[Sugata Bose]] and [[Ayesha Jalal]], the Indian subcontinent has come to be known as South Asia "in more recent and neutral parlance."<ref name=sugata>Sugata Bose & Ayesha Jalal, ''Modern South Asia'', pages 3, Routledge, 2004, {{ISBN|0-415-30787-2}}, Quote:"Indian subcontinent{{snd}}or South Asia{{snd}}as it has come to be known in more recent and neutral parlance"</ref> This "neutral" notion refers to the concerns of Pakistan and Bangladesh, particularly given the recurring conflicts between India and Pakistan, wherein the dominant placement of "India" as a prefix before the subcontinent might offend some political sentiments.<ref name=mittal/> However, in Pakistan, the term "South Asia" is considered too India-centric and was banned until 1989 after the death of [[Zia ul Haq]].<ref>{{Cite book|url=https://www.google.com/books/edition/International_Relations_Theory_and_South/boM8DwAAQBAJ?hl=en&gbpv=1&dq=%22South+Asia%22+term+academic+banned+as+too+India+centric+Pakistan&pg=PT305&printsec=frontcover|isbn = 978-0-19-908940-6|title = International Relations Theory and South Asia (OIP): Volume II: Security, Political Economy, Domestic Politics, Identities, and Images|date = 13 November 2014|publisher = Oxford University Press}}</ref> This region has also been labelled as "India" (in its classical and [[Middle kingdoms of India|pre-modern]] sense) and "Greater India".<ref name=mittal>Sushil Mittal and Gene Thursby, ''Religions of South Asia: An Introduction'', page 3, Routledge, 2006, {{ISBN|978-1-134-59322-4}}</ref><ref name="Kathleen M page 10">Kathleen M. Baker and Graham P. Chapman, ''The Changing Geography of Asia'', page 10, Routledge, 2002, {{ISBN|978-1-134-93384-6}}</ref>
+
+According to Robert M. Cutler – a scholar of Political Science at [[Carleton University]],<ref name="Amineh2007p112"/> the terms South Asia, Southwest Asia, and Central Asia are distinct, but the confusion and disagreements have arisen due to the geopolitical movement to enlarge these regions into Greater South Asia, Greater Southwest Asia, and Greater Central Asia. The frontier of Greater South Asia, states Cutler, between 2001 and 2006 has been geopolitically extended to eastern Iran and western Afghanistan in the west, and in the north to northeastern Iran, northern Afghanistan, and southern [[Uzbekistan]].<ref name="Amineh2007p112">{{cite book|first=Robert M.|last=Cutler|editor-first=Mehdi|editor-last=Amineh|title=The Greater Middle East in Global Politics: Social Science Perspectives on the Changing Geography of the World Politics|url=https://books.google.com/books?id=4PevCQAAQBAJ|year=2007|publisher=BRILL|isbn=978-90-474-2209-9|pages=xv, 112}}</ref>
+
+The definitions are also varied across South Asian Study programmes. The [[Centre for South Asian Studies]] at the [[University of Cambridge]] was established, in 1964, it promoted the study of India, Pakistan, Sri Lanka, [[Bangladesh]], [[Afghanistan]],<ref>
+{{cite web|title=Cambridge University: Centre of South Asian Studies|url=http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0013 |access-date=5 November 2015|archive-url=https://web.archive.org/web/20151101160751/http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0013 |archive-date=1 November 2015|url-status=live|df=dmy-all}}</ref><ref>{{cite web|title=Cambridge Centre of South Asian Studies: Links to South And Southeast Asian resources |url=http://www.s-asian.cam.ac.uk/library/eresource/links.html |access-date=5 November 2015|archive-url=https://web.archive.org/web/20151112152300/http://www.s-asian.cam.ac.uk/library/eresource/links.html |archive-date=12 November 2015|url-status=dead}}</ref><ref>{{cite web|title=Cambridge South Asian Archive: Afghanistan|url=http://promoread.eu/cambridge-south-asian-archive-records-of.pdf}}</ref><ref>{{cite web|title=Cambridge Centre of South Asian Studies: Library |url=http://www.s-asian.cam.ac.uk/library/Special_colls/Spec_intro.html |access-date=5 November 2015|archive-url=https://web.archive.org/web/20151113011252/http://www.s-asian.cam.ac.uk/library/Special_colls/Spec_intro.html|archive-date=13 November 2015|url-status=dead}}</ref> the Himalayan Kingdoms ([[Nepal]], [[Bhutan]], and Sikkim<ref>Grolier Incorporated, ''The Encyclopedia Americana'' (volume 14), pages 201, Grolier, 1988, {{ISBN|0-7172-0119-8}}</ref>), and Burma (now Myanmar). It has since included [[Thailand]], [[Malaysia]], [[Singapore]], [[Vietnam]], [[Cambodia]], [[Laos]], [[Indonesia]], the [[Philippines]] and [[Hong Kong]].<ref>[http://www.s-asian.cam.ac.uk/about.html About Us] {{Webarchive|url=https://web.archive.org/web/20090226095732/http://www.s-asian.cam.ac.uk/about.html |date=26 February 2009 }}, Centre for South Asian Studies, University of Cambridge</ref> The Centres for South Asian Studies at both the [[University of Michigan]] and the [[University of Virginia]] include Tibet along with the eight members of SAARC in their research programs, but exclude the Maldives.<ref>[http://www.ii.umich.edu/csas CSAS] {{Webarchive|url=https://web.archive.org/web/20071211204817/http://www.ii.umich.edu/csas/ |date=11 December 2007 }}, Centre for South Asian Studies, University of Michigan</ref><ref>[http://artsandsciences.virginia.edu/soasia/about/index.html About Us] {{Webarchive|url=https://web.archive.org/web/20110718064009/http://artsandsciences.virginia.edu/soasia/about/index.html |date=18 July 2011 }}, Centre for South Asian Studies, University of Virginia</ref> The South Asian Studies Program of [[Rutgers University]] and the [[University of California, Berkeley]] Centre for South Asia Studies also include the Maldives.<ref>[http://southasia.rutgers.edu/ South Asian Studies Program] {{Webarchive|url=https://web.archive.org/web/20071212112714/http://southasia.rutgers.edu/ |date=12 December 2007 }}, Rutgers University</ref><ref name=Berkeley>{{cite web |url=http://southasia.berkeley.edu/research-initiatives |title=Center for South Asia Studies: University of California, Berkeley |publisher=Southasia.berkeley.edu |access-date=2012-08-19 |archive-url=https://web.archive.org/web/20120713090013/http://southasia.berkeley.edu/research-initiatives |archive-date=13 July 2012 |url-status=dead }}</ref>
+
+The South Asian Studies Program of [[Brandeis University]] defines the region as comprising "India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, and in certain contexts Afghanistan, Burma, Maldives and Tibet".<ref>[http://www.brandeis.edu/registrar/catalog/one-subject.php?subject_id=6550 South Asian Studies] {{Webarchive|url=https://web.archive.org/web/20070503151717/http://www.brandeis.edu/registrar/catalog/one-subject.php?subject_id=6550 |date=3 May 2007 }}, Brandeis University</ref> The similar program of [[Columbia University]] includes Afghanistan, Bangladesh, India, the Maldives, Nepal, Pakistan, and Sri Lanka in their study and excludes Burma.<ref>[http://www.sai.columbia.edu/ South Asia Institute] {{Webarchive|url=https://web.archive.org/web/20120911090805/http://sai.columbia.edu/ |date=11 September 2012 }}, Columbia University</ref> In the past, a lack of a coherent definition for South Asia resulted in a lack of academic studies, along with a lack of interest for such studies.<ref>Vernon Marston Hewitt, ''The international politics of South Asia'', page xi, Manchester University Press, 1992, {{ISBN|0-7190-3392-6}}</ref> Identification with a South Asian identity was also found to be significantly low among respondents in an older two-year survey across Bangladesh, India, Nepal, Pakistan, and Sri Lanka.<ref>Kishore C. Dash, ''Regionalism in South Asia'', pages 172–175, Routledge, 2008, {{ISBN|0-415-43117-4}}</ref>
+
+==History==
+{{See also|Outline of South Asian history|History of Afghanistan|History of Bangladesh|History of Bhutan|History of India|History of Nepal|History of the Maldives|History of Pakistan|History of Sri Lanka}}
+
+===Pre-history===
+The history of core South Asia begins with evidence of human activity of ''[[Anatomically modern humans|Homo sapiens]],'' as long as 75,000 years ago, or with earlier hominids including ''[[Homo erectus]]'' from about 500,000 years ago.<ref>G. Bongard-Levin, ''A History of India'' (Progress Publishers: Moscow, 1979) p. 11.</ref> The earliest prehistoric culture have roots in the mesolithic sites as evidenced by the rock paintings of [[Bhimbetka rock shelters]] dating to a period of 30,000 BCE or older,{{refn|group=note|{{harvnb|Doniger|2010|p=66}}: "Much of what we now call Hinduism may have had roots in cultures that thrived in South Asia long before the creation of textual evidence that we can decipher with any confidence. Remarkable cave paintings have been preserved from Mesolithic sites dating from c. 30,000 BCE in [[Bhimbetka rock shelters|Bhimbetka]], near present-day Bhopal, in the Vindhya Mountains in the province of Madhya Pradesh."}} as well as neolithic times.{{refn|group=note|{{harvnb|Jones|Ryan|2006|p=xvii}}: "Some practices of Hinduism must have originated in Neolithic times (c. 4000 BCE). The worship of certain plants and animals as sacred, for instance, could very likely have very great antiquity. The worship of goddesses, too, a part of Hinduism today, maybe a feature that originated in the Neolithic."}}
+
+===Ancient era===
+{{Location map+
+|South Asia
+|float      = right
+|width      = 320
+|caption    = [[Edicts of Ashoka]]<br>[[File:Orange ff8040 pog.svg|8px]] Location of the [[Minor Rock Edicts]] (Edicts 1, 2 & 3)<br>[[File:Purple pog.svg|8px]] Other inscriptions often classified as Minor Rock Edicts.<br>[[File:Brown pog.svg|12px]] Location of the [[Major Rock Edicts]].<br>[[File:Orange F79A18.svg|4px]] Location of the [[Minor Pillar Edicts]].<br>[[File:Brown 5C3317.svg|4px]] Original location of the [[Major Pillar Edicts]].<br>[[File:Red pog.svg|7px]] ''Capital cities''
+|nodiv      = 1
+|mini       = 1
+|relief=
+|places     =
+{{location map~ |South Asia |lat=28.55856|N |long=77.25662|E |label=[[Ashokan Edicts in Delhi|'''Bahapur''']]|position=right |mark=Orange ff8040 pog.svg|label_size=50}}
+{{location map~ |South Asia |lat=25.57699|N |long=78.54594|E |label=[[:Commons:Category:Ashoka Minor Rock Edict, Gujarra|'''Gujarra''']]|position=bottom |mark=Orange ff8040 pog.svg|label_size=50}}
+{{location map~ |South Asia |lat=22.729949|N |long=77.519910|E |label='''[[Saru Maru]]'''|position=bottom |mark=Orange ff8040 pog.svg|label_size=50}}
+{{location map~ |South Asia |lat=15.52000|N |long=76.83361|E |label='''Udegolam'''|position=right |mark=Orange ff8040 pog.svg|label_size=0}}
+{{location map~ |South Asia |lat=15.54717|N |long=76.83270|E |label='''Nittur'''|position=left |mark=Orange ff8040 pog.svg|label_size=0}}
+{{location map~ |South Asia |lat=15.95723|N |long=76.64122|E |label='''[[Maski]]'''|position=left |mark=Orange ff8040 pog.svg|label_size=00}}
+{{location map~ |South Asia |lat=14.81361|N |long=76.79944|E |label=[[:Commons:Category:Ashoka Minor Rock Edict, Siddapur|Siddapur]]|position=bottom |mark=Orange ff8040 pog.svg|label_size=00}}
+{{location map~ |South Asia |lat=14.81361|N |long=76.80611|E |label='''Brahmagiri'''|position=right|mark=Orange ff8040 pog.svg |label_size=0}}
+{{location map~ |South Asia |lat=14.84972|N |long=76.79083|E |label='''Jatinga'''|position=left |mark=Orange ff8040 pog.svg|label_size=0}}
+{{location map~ |South Asia |lat=15.34416|N |long=76.13694|E |label=[[:Commons:Category:Ashoka Minor Rock Edict, Palkigundu|'''Pakilgundu''']]|position=left |mark=Orange ff8040 pog.svg|label_size=00}}
+{{location map~ |South Asia |lat=15.43500|N |long=77.47166|E |label='''Rajula Mandagiri'''|position=right |mark=Orange ff8040 pog.svg|label_size=00}}
+{{location map~ |South Asia |lat=15.20995|N |long=77.57688|E |label='''[[Yerragudi]]'''|position=right |mark=Orange ff8040 pog.svg|label_size=00}}
+{{location map~ |South Asia |lat=24.94138|N |long=84.03833|E |label='''Sasaram'''|position=top |mark=Orange ff8040 pog.svg|label_size=00}}
+{{location map~ |South Asia |lat=23.64083|N |long=80.03194|E |label=[[:Commons:Category:Ashoka Minor Rock Edict, Rupnath|'''Rupnath''']]|position=bottom |mark=Orange ff8040 pog.svg|label_size=50}}
+{{location map~ |South Asia |lat=27.45188|N |long=76.18499|E |label='''[[Bairat]]'''|position=left |mark=Orange ff8040 pog.svg|label_size=50}}
+{{location map~ |South Asia |lat=27.41712|N |long=76.16256|E |label=[[Bairat Temple|'''Bhabru''']]|mark=Orange ff8040 pog.svg|position=bottom |label_size=50}}
+{{location map~ |South Asia |lat=25.02000|N |long=83.02000|E |label='''[[Ahraura]]'''|position=left |mark=Orange ff8040 pog.svg|label_size=00}}
+{{location map~ |South Asia |lat=25.005|N |long=85.063|E |label='''[[Barabar caves|Barabar]]'''|mark=Purple pog.svg|position=right |label_size=50}}
+{{location map~ |South Asia |lat=33.7561|N |long=72.8292|E |label=[[Aramaic Inscription of Taxila|'''Taxila''']]<br>'''([[Aramaic]])'''|mark=Purple pog.svg|position=bottom |label_size=50}}
+{{location map~ |South Asia |lat=34.5846|N |long=70.1834|E |label=[[Aramaic Inscription of Laghman|'''Laghman''']]<br>'''([[Aramaic]])'''|mark=Purple pog.svg|position=bottom |label_size=50}}
+
+{{location map~ |South Asia |lat=17|N |long=76.3|E |label='''[[Maski]]'''<br>[[:Commons:Category:Ashoka Minor Rock Edict, Palkigundu|'''Palkigundu''']]<br>[[:Commons:Category:Ashoka Minor Rock Edict, Gavimath|'''Gavimath''']]<br>[[Commons: Category: Ashoka Minor Rock Edict, Jatinga Rameshwara|'''Jatinga/Rameshwara''']]|position=left|mark=7 Local Superclusters (blank 2).png |label_size=50}}
+{{location map~ |South Asia |lat=13.8|N |long=75.5|E |label=[[:Commons:Category:Ashoka Minor Rock Edicts, Rajula Mandagiri|'''Rajula/Mandagiri''']]<br>[[Commons:Category:Ashoka Minor Rock Edict, Brahmagiri|'''Brahmagiri''']]<br>[[:Commons:Category: Ashoka Minor Rock Edict, Udegolam|'''Udegolam''']]<br>[[:Commons:Category:Ashoka Minor Rock Edict, Siddapur|'''Siddapur''']]<br>[[:Commons:Category: Ashoka Minor Rock Edict, Nittur|'''Nittur''']]|position=right|mark=7 Local Superclusters (blank 2).png |label_size=50}}
+{{location map~ |South Asia |lat=23|N |long=82|E |label='''[[Ahraura]]'''<br>[[:Commons:Category:Ashoka Minor Rock Edict, Sasaram|'''Sasaram''']]|position=right|mark=7 Local Superclusters (blank 2).png |label_size=50}}
+
+{{location map~ |South Asia |lat=31.602447|N |long=65.658843|E |label=[[Kandahar Greek Edict of Ashoka|Kandahar]]<br><small>([[Greek language|Greek]] and [[Aramaic language|Aramaic]])</small>|position=bottom |mark=Brown pog.svg|marksize=12|label_size=70}}
+{{location map~ |South Asia |lat=31.9|N |long=65.8|E |label=[[Kandahar Greek Edict of Ashoka|Kandahar]]|mark=Purple pog.svg|position=bottom |label_size=00}}
+{{location map~ |South Asia |lat=15.209722|N |long=77.576944|E |label=[[:Commons:Category:Ashoka Major Rock Edict, Yerragudi|Yerragudi]]|position=right |mark=Brown pog.svg|marksize=12|label_size=70}}
+{{location map~ |South Asia |lat=21.525075|N |long=70.479543|E |label=[[Girnar]]|position=left |mark=Brown pog.svg|marksize=12|label_size=70}}
+{{location map~ |South Asia |lat=20.1891573|N |long=85.8425935|E |label=[[Dhauli]]|position=right |mark=Brown pog.svg|marksize=12|label_size=70}}
+{{location map~ |South Asia |lat=30.5180|N |long=77.8482|E |label=[[Khalsi inscription|Khalsi]]|position=top |mark=Brown pog.svg|marksize=12|label_size=70}}
+{{location map~ |South Asia |lat=19.4141529|N |long=72.7950626|E |label=[[Nala Sopara|Sopara]]|position=left |mark=Brown pog.svg|marksize=12|label_size=70}}
+{{location map~ |South Asia |lat=19.522602|N |long=84.830885|E |label=[[Jaugada]]|position=bottom |mark=Brown pog.svg|marksize=12|label_size=70}}
+{{location map~ |South Asia |lat=34.223676|N |long=72.165541|E |label=[[Shahbazgarhi]]|position=top |mark=Brown pog.svg|marksize=12|label_size=70}}
+{{location map~ |South Asia |lat=34.337804|N |long=73.193420|E |label=[[Mansehra Rock Edicts|Mansehra]]|position=right |mark=Brown pog.svg|marksize=12|label_size=70}}
+{{location map~ |South Asia |lat=16.835024|N |long=76.9328908|E |label=[[Sannati]]|position=top |mark=Brown pog.svg|marksize=12|label_size=70}}
+
+{{location map~ |South Asia |lat=25.38|N |long=83.02|E |label=[[Sarnath]]|position=bottom |mark=Orange F79A18.svg|marksize=16|label_size=70}}
+{{location map~ |South Asia |lat=23.48|N |long=77.73|E |label=[[Sanchi]] |position=left |mark=Orange F79A18.svg|marksize=16|label_size=70 }}
+{{location map~ |South Asia |lat=27.48|N |long=83.28|E |label=[[Lumbini pillar inscription|Lumbini]]<br>[[Nigali Sagar]]|position=top |mark=Orange F79A18.svg|marksize=16|label_size=70}}
+{{location map~ |South Asia |lat=27.62|N |long=83.11|E |label=[[Nigali Sagar]]|mark=Orange F79A18.svg|marksize=16|position=bottom |label_size=00}}
+
+{{location map~ |South Asia |lat=26.998479|N |long=84.408476|E |label=[[Lauria Nandangarh|Nandangarh]]|position=right |mark=Brown 5C3317.svg|marksize=16|label_size=70}}
+{{location map~ |South Asia |lat=25.350588|N |long=81.389549|E |label=[[Kosambi]]|position=top |mark=Brown 5C3317.svg|marksize=16|label_size=70}}
+{{location map~ |South Asia |lat=30.1252|N |long=77.1623|E |label=[[Topra]]|position=left |mark=Brown 5C3317.svg|marksize=16|label_size=70}}
+{{location map~ |South Asia |lat=28.99|N |long=77.70|E |label=[[Meerut]] [[File:7 Local Superclusters (blank 2).png|5px]]|position=left |mark=Brown 5C3317.svg|marksize=16|label_size=70}}
+{{location map~ |South Asia |lat=26.550227|N |long=84.647581|E |label=[[Lauriya Araraj|Araraj]]|mark=Brown 5C3317.svg|marksize=16|position=right |label_size=00}}
+{{location map~ |South Asia |lat=28|N |long=84.5|E |label=[[Lauriya Araraj|Araraj]], [[Rampurva]]|mark=7 Local Superclusters (blank 2).png|marksize=1|position=right |label_size=70}}
+{{location map~ |South Asia |lat=27.2699|N |long=84.4995|E |label=[[Rampurva]]|position=right |mark=Brown 5C3317.svg|marksize=16|label_size=00}}
+
+{{location map~ |South Asia |lat=37.169444|N |long=69.391667|E |label=''[[Ai Khanoum]]''<br><small>(Greek city)</small>|position=top |label_size=70}}
+{{location map~ |South Asia |lat=25.6125|N |long=85.128333|E |label=''[[Pataliputra]]''|position=right |label_size=70}}
+{{location map~ |South Asia |lat=22.7|N |long=75.79|E |label=''[[Ujjain]]''|position=left |label_size=70}}
+}}
+
+[[File:Indus Valley Civilization, Mature Phase (2600-1900 BCE).png|thumb|left|[[Indus Valley Civilisation]] during 2600-1900 BCE, the mature phase]]
+
+The [[Indus Valley Civilization]], which spread and flourished in the northwestern part of South Asia from c. 3300 to 1300 BCE in present-day [[Northern India]], Pakistan and [[Afghanistan]], was the first major civilization in South Asia.<ref>[[Romila Thapar]], ''A History of India'' (Penguin Books: New York, 1966) p. 23.</ref> A sophisticated and technologically advanced urban culture developed in the [[Mature Harappan]] period, from 2600 to 1900 BCE.<ref>Romila Thapar, ''A History of India'', p. 24.</ref> According to anthropologist [[Gregory Possehl|Possehl]], the [[Indus Valley Civilization]] provides a logical, if somewhat arbitrary, starting point for South Asian religions, but these links from the Indus religion to later-day South Asian traditions are subject to scholarly dispute.{{sfn|Possehl|2002|p=141–156}}
+
+[[File:Shiva, Vishnu, and Brahma Adoring Kali LACMA M.80.101 (2 of 7).jpg|thumb|left|The [[Trimurti]] is the [[Triple deity|trinity]] of [[Para Brahman|supreme divinity]] in [[Hinduism]], typically [[Brahma]] the creator, [[Vishnu]] the preserver, and [[Shiva]] the destroyer]]
+
+The Vedic period, named after the Vedic religion of the [[Indo-Aryan peoples|Indo-Aryans]],{{refn|group=note|Michaels: "They called themselves ''arya'' ("Aryans," literally "the hospitable," from the Vedic ''arya'', "homey, the hospitable") but even in the Rgveda, ''arya'' denotes a cultural and linguistic boundary and not only a racial one."{{sfn|Michaels|2004|p=33}}}} lasted from c. 1900 to 500 BCE.{{sfn|Michaels|2004|p=32}}{{sfn|Witzel|1995|p=3-4}} The Indo-Aryans were pastoralists{{sfn|Witzel|1995}} who migrated into north-western India after the collapse of the Indus Valley Civilization,{{sfn|Michaels|2004|p=33}}{{sfn|Flood|1996|p=30-35}} Linguistic and archaeological data show a cultural change after 1500 BCE,{{sfn|Michaels|2004|p=33}} with the linguistic and religious data clearly showing links with Indo-European languages and religion.{{sfn|Flood|1996|p=33}} By about 1200 BCE, the Vedic culture and agrarian lifestyle was established in the northwest and northern Gangetic plain of South Asia.{{sfn|Witzel|1995}}{{sfn|Samuel|2010|p=41-48}}{{sfn|Stein|2010|p=48-49}} Rudimentary state-forms appeared, of which the [[Kuru Kingdom|Kuru]]-Pañcāla union was the most influential.{{sfn|Witzel|1995|p=6}}{{sfn|Samuel|2010|p=51-53}} The first recorded [[State (polity)|state-level society]] in South Asia existed around 1000 BCE.{{sfn|Witzel|1995}} In this period, states Samuel, emerged the Brahmana and Aranyaka layers of Vedic texts, which merged into the earliest Upanishads.{{sfn|Samuel|2010|p=25}} These texts began to ask the meaning of a ritual, adding increasing levels of philosophical and metaphysical speculation,{{sfn|Samuel|2010|p=25}} or [[Hinduism#Roots of Hinduism|"Hindu synthesis"]].{{sfn|Hiltebeitel|2007|p=12}}
+
+Increasing urbanisation of India between 800 and 400 BCE, and possibly the spread of urban diseases, contributed to the rise of ascetic movements and of new ideas which challenged the orthodox [[Brahmanism]].{{Sfn|Flood|1996|pp=81–82}}{{Failed verification|date=June 2020}} These ideas led to [[Sramana]] movements, of which Mahavira (c. 549–477 BCE), proponent of [[Jainism]], and [[Buddha]] (c. 563–483), founder of [[Buddhism]], were the most prominent icons.<ref name="World Religions">{{cite book |first=Jacob |last=Neusner |year=2009 |title=World Religions in America: An Introduction |url=https://books.google.com/books?id=34vGv_HDGG8C&pg=PA183 |publisher=Westminster John Knox Press |isbn=978-0-664-23320-4 |access-date=26 December 2016 |archive-url=https://web.archive.org/web/20170418085646/https://books.google.com/books?id=34vGv_HDGG8C&pg=PA183 |archive-date=18 April 2017 |url-status=live }}</ref>
+
+The Greek army led by [[Alexander the Great]] stayed in the [[Hindu Kush]] region of South Asia for several years and then later moved into the Indus valley region. Later, the [[Maurya Empire]] extended over much of South Asia in the 3rd century BCE. Buddhism spread beyond south Asia, through northwest into Central Asia. The [[Bamiyan Buddhas]] of Afghanistan and the [[Edicts of Ashoka|edicts of Aśoka]] suggest that the Buddhist monks spread Buddhism (Dharma) in eastern provinces of the [[Seleucid Empire]], and possibly even farther into Western Asia.{{Sfn| Gombrich|2006|p=135}}{{Sfn|Trainor|2004|pp=103, 119}}<ref>{{cite book |first=Jason |last=Neelis |title=Early Buddhist Transmission and Trade Networks: Mobility and Exchange Within and Beyond the Northwestern Borderlands of South Asia |url=https://books.google.com/books?id=GB-JV2eOr2UC |year=2010 |publisher=BRILL Academic |isbn=978-90-04-18159-5 |pages=102–106 |access-date=26 December 2016 |archive-url=https://web.archive.org/web/20161126160511/https://books.google.com/books?id=GB-JV2eOr2UC |archive-date=26 November 2016 |url-status=live }}</ref> The Theravada school spread south from India in the 3rd century BCE, to Sri Lanka, later to Southeast Asia.<ref>{{cite book |first=John |last=Guy |title=Lost Kingdoms: Hindu-Buddhist Sculpture of Early Southeast Asia |url=https://books.google.com/books?id=vO_-AgAAQBAJ |year=2014 |publisher=Metropolitan Museum of Art |isbn=978-1-58839-524-5 |pages=9–11, 14–15, 19–20 |access-date=26 December 2016 |archive-url=https://web.archive.org/web/20161223141140/https://books.google.com/books?id=vO_-AgAAQBAJ |archive-date=23 December 2016 |url-status=live }}</ref> Buddhism, by the last centuries of the 1st millennium BCE, was prominent in the Himalayan region, Gandhara, Hindu Kush region and Bactria.<ref name="Neelis2010p249">{{cite book|first=Jason|last=Neelis|title=Early Buddhist Transmission and Trade Networks: Mobility and Exchange Within and Beyond the Northwestern Borderlands of South Asia|url=https://books.google.com/books?id=GB-JV2eOr2UC|year=2010|publisher=BRILL Academic|isbn=978-90-04-18159-5|pages=114–115, 144, 160–163, 170–176, 249–250|access-date=26 December 2016|archive-url=https://web.archive.org/web/20161126160511/https://books.google.com/books?id=GB-JV2eOr2UC|archive-date=26 November 2016|url-status=live}}</ref><ref name=deborahkh>Deborah Klimburg-Salter (1989), The Kingdom of Bamiyan: Buddhist art and culture of the Hindu Kush, Naples – Rome: Istituto Universitario Orientale & Istituto Italiano per il Medio ed Estremo Oriente, {{ISBN|978-0-87773-765-0}} (Reprinted by Shambala)</ref><ref>{{cite book|first=Barbara|last=Crossette|title=So Close to Heaven: The Vanishing Buddhist Kingdoms of the Himalayas |url=https://books.google.com/books?id=4iCQAAAAMAAJ |year=1996|publisher=Vintage|isbn=978-0-679-74363-7|pages=84–85}}</ref>
+
+From about 500 BCE through about 300 CE, the Vedic-Brahmanic synthesis or "Hindu synthesis" continued.{{sfn|Hiltebeitel|2007|p=12}} Classical Hindu and Sramanic (particularly Buddhist) ideas spread within South Asia, as well outside South Asia.<ref>{{cite book |first1=HJ |last1=Klimkeit |first2=R |last2=Meserve |first3=EE |last3=Karimov |first4=C |last4=Shackle |chapter=Religions and religious movements |date=2000 |editor-first1=CE |editor-last1=Boxworth |editor-first2=MS |editor-last2=Asimov |title=History of Civilizations of Central Asia |chapter-url=https://books.google.com/books?id=9yTFnuWQKvkC |publisher=UNESCO |pages=79–80 |isbn=978-92-3-103654-5}}</ref>{{sfn|Samuel|2010|pp=193–228, 339–353, specifically pp.&nbsp;76–79 and 194–199}}<ref>{{cite book |first1=John |last1=Guy |first2=Pierre |last2=Baptiste |first3=Lawrence |last3=Becker |first4=Bérénice |last4=Bellina |first5=Robert L. |last5=Brown |first6=Federico |last6=Carò |title=Lost Kingdoms: Hindu-Buddhist Sculpture of Early Southeast Asia |url=https://books.google.com/books?id=gCw_AwAAQBAJ |date=2014 |publisher=Yale University Press |pages=10–11 |isbn=978-0-300-20437-7 |access-date=26 December 2016 |archive-url=https://web.archive.org/web/20170418074753/https://books.google.com/books?id=gCw_AwAAQBAJ |archive-date=18 April 2017 |url-status=live }}</ref> The [[Gupta Empire]] ruled over a large part of the region between 4th and 7th centuries, a period that saw the construction of major temples, monasteries and universities such as the [[Nalanda]].{{sfn|Michell|1977|p=18, 40}}<ref name=scharfe2002p144>{{cite book|first=Hartmut|last=Scharfe|title=Handbook of Oriental Studies|url=https://books.google.com/books?id=7s19sZFRxCUC|year=2002|publisher=BRILL Academic|isbn=978-90-04-12556-8|pages=144–153|access-date=26 December 2016|archive-url=https://web.archive.org/web/20161126123255/https://books.google.com/books?id=7s19sZFRxCUC|archive-date=26 November 2016|url-status=live}}</ref><ref>{{cite book|first=Craig|last=Lockard|title=Societies, Networks, and Transitions: Volume I: A Global History|url=https://books.google.com/books?id=yJPlCpzOY_QC|year=2007|publisher=Houghton Mifflin|isbn=978-0-618-38612-3|page=188|access-date=26 December 2016|archive-url=https://web.archive.org/web/20161126122832/https://books.google.com/books?id=yJPlCpzOY_QC|archive-date=26 November 2016|url-status=live}}</ref> During this era, and through the 10th century, numerous cave monasteries and temples such as the [[Ajanta Caves]], [[Badami cave temples]] and [[Ellora Caves]] were built in South Asia.<ref>{{cite book|first=Walter M.|last=Spink|title=Ajanta: History and Development, Volume 5: Cave by Cave|url=https://books.google.com/books?id=UPqUHXlwXdcC|year=2005|publisher=BRILL Academic|isbn=978-90-04-15644-9|pages=1–9, 15–16|access-date=26 December 2016|archive-url=https://web.archive.org/web/20160629134751/https://books.google.com/books?id=UPqUHXlwXdcC|archive-date=29 June 2016|url-status=live}}</ref><ref>{{cite web |url=https://whc.unesco.org/en/list/243 |title=Ellora Caves – UNESCO World Heritage Centre |publisher=Whc.unesco.org |access-date=26 December 2016 |archive-url=https://web.archive.org/web/20161209142802/https://whc.unesco.org/en/list/243 |archive-date=9 December 2016 |url-status=live }}, Quote:"Ellora, with its uninterrupted sequence of monuments dating from A.D. 600 to 1000, brings the civilization of ancient India to life. Not only is the Ellora complex a unique artistic creation and a technological exploit but, with its sanctuaries devoted to Buddhism, Hinduism and Jainism, it illustrates the spirit of tolerance that was characteristic of ancient India."</ref><ref>{{cite book|first=Lisa|last=Owen|title=Carving Devotion in the Jain Caves at Ellora|url=https://books.google.com/books?id=vHK2WE8xAzYC|year=2012|publisher=BRILL Academic|isbn=978-90-04-20629-8|pages=1–10|access-date=26 December 2016|archive-url=https://web.archive.org/web/20170205083836/https://books.google.com/books?id=vHK2WE8xAzYC|archive-date=5 February 2017|url-status=live}}</ref>
+
+===Medieval era===
+[[File:Rajendra map new.svg|thumb|Outreach of influence of early medieval [[Chola dynasty]]]]
+
+Islam came as a political power in the fringe of South Asia in 8th century CE when the Arab general [[Muhammad bin Qasim]] conquered [[Sindh]], and [[Multan]] in Southern Punjab, in modern-day Pakistan.<ref name="infopak">{{cite web|url=http://www.infopak.gov.pk/History.aspx |title=History in Chronological Order |publisher=Government of Pakistan |access-date=2008-01-09 |url-status=dead |archive-url=https://web.archive.org/web/20100723113602/http://www.infopak.gov.pk/History.aspx |archive-date=23 July 2010 }}</ref> By 962 CE, Hindu and Buddhist kingdoms in South Asia were under a wave of raids from Muslim armies from Central Asia.<ref name=mrpislam>See:
+* M. Reza Pirbha, Reconsidering Islam in a South Asian Context, {{ISBN|978-90-04-17758-1}}, Brill
+* The Islamic frontier in the east: Expansion into South Asia, Journal of South Asian Studies, 4(1), pp. 91–109
+* Sookoohy M., Bhadreswar – Oldest Islamic Monuments in India, {{ISBN|978-90-04-08341-7}}, Brill Academic; see discussion of earliest raids in Gujarat</ref> Among them was [[Mahmud of Ghazni]], who raided and plundered kingdoms in north India from east of the Indus river to west of Yamuna river seventeen times between 997 and 1030.<ref name=pj03/> Mahmud of Ghazni raided the treasuries but retracted each time, only extending Islamic rule into western Punjab.<ref>T. A. Heathcote, The Military in British India: The Development of British Forces in South Asia:1600–1947, (Manchester University Press, 1995), pp 5–7</ref><ref>Lionel Barnett (1999), {{Google books|LnoREHdzxt8C|Antiquities of India: An Account of the History and Culture of Ancient Hindustan|page=1}}, Atlantic pp. 73–79</ref>
+
+[[File:Timur defeats the sultan of Delhi.jpg|thumb|left|[[Timur]] defeats the [[Sultan of Delhi]], Nasir-u Din Mehmud, in the winter of 1397–1398]]
+
+The wave of raids on north Indian and western Indian kingdoms by Muslim warlords continued after Mahmud of Ghazni, plundering and looting these kingdoms.<ref>Richard Davis (1994), Three styles in looting India, History and Anthropology, 6(4), pp 293–317, {{doi|10.1080/02757206.1994.9960832}}</ref> The raids did not establish or extend permanent boundaries of their Islamic kingdoms. The Ghurid Sultan [[Mu'izz al-Din Muhammad]] began a systematic war of expansion into North India in 1173.<ref>Muhammad B. Sam Mu'izz Al-Din, T. W. Haig, Encyclopaedia of Islam, Vol. VII, ed. C. E. Bosworth, E. van Donzel, W. P. Heinrichs and C. Pellat, (Brill, 1993)</ref> He sought to carve out a principality for himself by expanding the Islamic world.<ref name=pj03/><ref>C.E. Bosworth, The Cambridge History of Iran, Vol. 5, ed. J. A. Boyle, John Andrew Boyle, (Cambridge University Press, 1968), pp 161–170</ref> Mu'izz sought a [[Sunni Islam]]ic kingdom of his own extending east of the Indus river, and he thus laid the foundation for the Muslim kingdom that became the [[Delhi Sultanate]].<ref name=pj03>Peter Jackson (2003), The Delhi Sultanate: A Political and Military History, Cambridge University Press, {{ISBN|978-0-521-54329-3}}, pp 3–30</ref> Some historians chronicle the Delhi Sultanate from 1192 due to the presence and geographical claims of Mu'izz al-Din in South Asia by that time.<ref>[http://afe.easia.columbia.edu/timelines/southasia_timeline.htm History of South Asia: A Chronological Outline] {{Webarchive|url=https://web.archive.org/web/20131211053208/http://afe.easia.columbia.edu/timelines/southasia_timeline.htm |date=11 December 2013 }} Columbia University (2010)</ref>
+
+The Delhi Sultanate covered varying parts of South Asia and was ruled by a series of dynasties, called Mamluk, Khalji, Tughlaq, Sayyid and Lodi dynasties. [[Muhammad bin Tughlaq]] came to power in 1325, launched a war of expansion and the Delhi Sultanate reached it largest geographical reach over the South Asian region during his 26-year rule.<ref name=ebmit>[http://www.britannica.com/EBchecked/topic/396460/Muhammad-ibn-Tughluq Muḥammad ibn Tughluq] {{Webarchive|url=https://web.archive.org/web/20150427052630/http://www.britannica.com/EBchecked/topic/396460/Muhammad-ibn-Tughluq |date=27 April 2015 }} Encyclopædia Britannica</ref> A Sunni Sultan, Muhammad bin Tughlaq persecuted non-Muslims such as Hindus, as well as non-Sunni Muslims such as Shia and Mahdi sects.<ref>Firoz Shah Tughlak, [https://archive.org/stream/cu31924073036737#page/n393/mode/2up Futuhat-i Firoz Shahi – Autobiographical memoirs] {{Webarchive|url=https://web.archive.org/web/20161019003453/http://www.archive.org/stream/cu31924073036737#page/n393/mode/2up |date=19 October 2016 }}, Translated in 1871 by Elliot and Dawson, Volume 3 – The History of India, Cornell University Archives, pp 377–381</ref><ref name=vsoxfordmbt>Vincent A Smith, {{Google books|p2gxAQAAMAAJ|The Oxford History of India: From the Earliest Times to the End of 1911|page=217}}, Chapter 2, pp. 249–251, Oxford University Press</ref><ref>[[Annemarie Schimmel]], Islam in the South Asian region, {{ISBN|978-90-04-06117-0}}, Brill Academic, pp 20–23</ref>
+
+Revolts against the Delhi Sultanate sprang up in many parts of South Asia during the 14th century. After the death of Muhammad bin Tughlaq, the Bengal Sultanate came to power in 1352 CE, as the Delhi Sultanate began disintegrating. The Bengal Sultanate remained in power through the early 16th century. It was reconquered by the armies of the Mughal Empire. The state religion of the Bengal Sultanate was Islam, and the region under its rule, a region that ultimately emerged as the modern nation of Bangladesh, saw a growth of a syncretic form of Islam.<ref name="Lewis2011">{{cite book |first=David |last=Lewis |author-link=David Lewis (academic) |title=Bangladesh: Politics, Economy and Civil Society |url=https://books.google.com/books?id=5lH40gT7xvYC&pg=PA44 |date=31 October 2011 |publisher=Cambridge University Press |page=44 |isbn=978-1-139-50257-3 |quote=In 1346 ... what became known as the Bengal Sultanate began and continued for almost two centuries.}}</ref><ref name="Hussain2003">{{cite book |author=Syed Ejaz Hussain |date=2003 |title=The Bengal Sultanate: Politics, Economy and Coins, A.D. 1205–1576 |url=https://books.google.com/books?id=qFyd95ECLwkC |publisher=Manohar |isbn=978-81-7304-482-3}}</ref> In the Deccan region, the Hindu kingdom [[Vijayanagara Empire]] came to power in 1336 and remained in power through the 16th century, after which it too was reconquered and absorbed into the Mughal Empire.<ref>{{cite book |last= Kulke and Rothermund|first=Hermann and Dietmar |title= A History of India|url= https://archive.org/details/historyindia00kulk|url-access= limited|orig-year=2004|year= 2004|publisher= Routledge (4th edition)|isbn= 978-0-415-32919-4 |pages=[https://archive.org/details/historyindia00kulk/page/n199 187]–188}}</ref><ref>{{cite book |last= Nilakanta Sastri|first= K. A.|title= A history of South India from prehistoric times to the fall of Vijayanagar|year=1955|orig-year=reissued 2002|publisher= Indian Branch, Oxford University Press|location= New Delhi|isbn= 978-0-19-560686-7|author-link=K. A. Nilakanta Sastri |pages=216, 239–250}}</ref>
+
+About 1526, the Punjab governor Dawlat Khan Lodī reached out to the Mughal [[Babur]] and invited him to attack Delhi Sultanate. [[Babur]] defeated and killed Ibrahim Lodi in the [[Battle of Panipat (1526)|Battle of Panipat]] in 1526. The death of Ibrahim Lodi ended the Delhi Sultanate, and the [[Mughal Empire]] replaced it.<ref name=eblodi>
+[http://www.britannica.com/EBchecked/topic/345985/Lodi-dynasty#ref222519 Lodi Dynasty] {{Webarchive|url=https://web.archive.org/web/20150427010347/http://www.britannica.com/EBchecked/topic/345985/Lodi-dynasty#ref222519 |date=27 April 2015 }} ''Encyclopædia Britannica'' (2009)</ref>
+
+===Modern era===
+[[File:Emperor Shah Jahan and Prince Alamgir (Aurangzeb) in Mughal Court, 1650.jpg|thumb|Emperor [[Shah Jahan]] and his son Prince [[Aurangzeb]] in Mughal Court, 1650]]
+
+The [[modern history]] period of South Asia, that is 16th-century onwards, witnessed the start of the Central Asian dynasty named the Mughals, with Turkish-Mongol roots and Sunni Islam theology. The first ruler was Babur, whose empire extended the northwest and [[Indo-Gangetic Plain]] regions of South Asia. The Deccan and northeastern region of South Asia was largely under Hindu kings such as those of Vijayanagara Empire and [[Ahom kingdom]],<ref>{{cite book|first=Guptajit|last=Pathak|title=Assam's history and its graphics|url=https://books.google.com/books?id=MdjO3XVk0MAC&pg=PA124|year=2008|publisher=Mittal|isbn=978-81-8324-251-6|page=124}}</ref> with some regions such as parts of modern [[Telangana]] and [[Andhra Pradesh]] under local Sultanates such as the Shia Islamic rulers of [[Qutb Shahi dynasty|Golconda Sultanate]].<ref>{{cite book |author=C. E. Bosworth |author-link=C. E. Bosworth |title=New Islamic Dynasties|url=https://books.google.com/books?id=SaMkDQAAQBAJ|year=2014|publisher=Edinburgh University Press|isbn=978-0-7486-9648-2|pages=179–180}}</ref>
+
+The Mughal Empire continued its wars of expansion after Babur's death. With the fall of the Rajput kingdoms and Vijayanagara, its boundaries encompassed almost the entirety of the Indian subcontinent.<ref name="borocz">{{cite book|first=József|last=Böröcz|author-link=József Böröcz|title=The European Union and Global Social Change|page=21|publisher=[[Routledge]]|url=https://books.google.com/books?id=d0SPAgAAQBAJ&pg=PA21|access-date=26 June 2017|isbn=978-1-135-25580-0|date=2009-09-10}}</ref> The Mughal Empire was marked by a period of artistic exchanges and a Central Asian and South Asian architecture synthesis, with remarkable buildings such as the [[Taj Mahal]].<ref>{{cite book|author=Catherine Blanshard Asher|title=Architecture of Mughal India|url=https://books.google.com/books?id=3ctLNvx68hIC|year=1992|publisher=Cambridge University Press|isbn=978-0-521-26728-1|pages=1–2|access-date=27 December 2016|archive-url=https://web.archive.org/web/20160518184418/https://books.google.com/books?id=3ctLNvx68hIC|archive-date=18 May 2016|url-status=live}}</ref> At its height, the empire was the world's largest economy, worth almost 25% of global GDP, more than the entirety of [[Western Europe]].<ref name="books.google.com">[[Angus Maddison|Maddison, Angus]] (2003): ''[https://books.google.com/books?id=rHJGz3HiJbcC&pg=PA259 Development Centre Studies The World Economy Historical Statistics: Historical Statistics]'', [[OECD Publishing]], {{ISBN|92-64-10414-3}}, pages 259–261</ref><ref name="harrison">{{cite book|title=Developing cultures: case studies|author=[[Lawrence Harrison (academic)|Lawrence E. Harrison]], [[Peter L. Berger]]|publisher=[[Routledge]]|year=2006|page=158|url=https://books.google.com/books?id=RB0oAQAAIAAJ|isbn=978-0-415-95279-8|access-date=28 March 2019|archive-url=https://web.archive.org/web/20190328092359/https://books.google.co.uk/books?id=RB0oAQAAIAAJ|archive-date=28 March 2019|url-status=live}}</ref>
+
+However, this time also marked an extended period of [[Religious violence in India#Mughal Empire|religious persecution]].<ref>{{cite book|first=John F.|last=Richards|author-link=John F. Richards|title=The Mughal Empire|url=https://books.google.com/books?id=HHyVh29gy4QC|year=1995|publisher=Cambridge University Press|isbn=978-0-521-56603-2|pages=97–101|access-date=27 December 2016|archive-url=https://web.archive.org/web/20160529043831/https://books.google.com/books?id=HHyVh29gy4QC|archive-date=29 May 2016|url-status=live}}</ref> Two of the religious leaders of [[Sikhism]], [[Guru Arjan]] and [[Guru Tegh Bahadur]] were arrested under orders of the Mughal emperors and were asked to convert to Islam, and were executed when they refused.<ref>Pashaura Singh (2005), [http://www.global.ucsb.edu/punjab/journal_12_1/3_singh.pdf Understanding the Martyrdom of Guru Arjan] {{Webarchive|url=https://web.archive.org/web/20160303175032/http://www.global.ucsb.edu/punjab/journal_12_1/3_singh.pdf |date=3 March 2016 }}, Journal of Punjab Studies, 12(1), pages 29–62; Quote (p. 29): "most of the Sikh scholars have vehemently presented this event as the first of the long series of religious persecutions that Sikhs suffered at the hands of Mughal authorities.";<br />{{cite book| first=Pashaura| last=Singh| title=Life and Work of Guru Arjan: History, Memory, and Biography in the Sikh Tradition| url=https://books.google.com/books?id=FbPXAAAAMAAJ| year=2006| publisher=Oxford University Press| isbn=978-0-19-567921-2| pages=23, 217–218| access-date=27 December 2016| archive-url=https://web.archive.org/web/20170330183644/https://books.google.com/books?id=fBPXAAAAMAAJ| archive-date=30 March 2017| url-status=live}}</ref><ref>{{cite book |first=Chris |last=Seiple |title=The Routledge handbook of religion and security|publisher=Routledge|location=New York|year=2013|isbn=978-0-415-66744-9|page=96}}</ref><ref>{{cite book|first1=Pashaura|last1=Singh|first2=Louis|last2=Fenech|title=The Oxford handbook of Sikh studies|publisher=Oxford University Press|location=Oxford, UK|year=2014|isbn=978-0-19-969930-8|pages=236–238, 442–445}}</ref> Religious taxes on non-Muslims called ''jizya'' were imposed. Buddhist, Hindu and Sikh temples were desecrated. However, not all Muslim rulers persecuted non-Muslims. [[Akbar]], a Mughal ruler for example, sought religious tolerance and abolished jizya.<ref>{{cite book|first1=Annemarie|last1=Schimmel|author-link1=Annemarie Schimmel|first2=Burzine K.|last2=Waghmar|title=The Empire of the Great Mughals: History, Art and Culture|url=https://archive.org/details/empireofgreatmug00anne|url-access=registration|year=2004|publisher=Reaktion|isbn=978-1-86189-185-3|pages=[https://archive.org/details/empireofgreatmug00anne/page/35 35], 115–121|access-date=27 December 2016}}</ref><ref>{{cite book |first=Matthew |last=White |author-link=Matthew White (historian) |date=2011 |title=The Great Big Book of Horrible Things |publisher=W. W. Norton |page=234 |isbn=978-0-393-08192-3 |quote=The Mughals traditionally had been tolerant of Hinduism ... Aurangzeb, however ... prohibited Hindus from riding horses or litters. He reintroduced the head tax non-Muslims had to pay. Aurangzeb relentlessly destroyed Hindu temples all across India.|title-link=The Great Big Book of Horrible Things }}</ref><ref>[https://archive.org/stream/oxfordhistoryofi00smituoft#page/436/mode/2up/search/aurangzeb The Oxford History of India] {{Webarchive|url=https://web.archive.org/web/20160326090422/https://archive.org/stream/oxfordhistoryofi00smituoft#page/436/mode/2up/search/aurangzeb |date=26 March 2016 }}, Oxford University Press, page 437</ref><ref>{{cite book|first=John|last=Bowman|title=Columbia Chronologies of Asian History and Culture|url=https://books.google.com/books?id=cYoHOqC7Yx4C |year=2005|publisher=Columbia University Press|isbn=978-0-231-50004-3|pages=282–284}}</ref>
+
+[[File:British Indian Empire 1909 Imperial Gazetteer of India.jpg|thumb|left|British Indian Empire in 1909. [[British India]] is shaded pink, the [[princely state]]s yellow.]]
+
+In Aurangzeb's time, almost all of South Asia was claimed by the Mughal Empire. Under [[Aurangzeb]]'s rule, South Asia reached its zenith, becoming the world's largest economy and biggest manufacturing power, estimated over 25% of world GDP, a value higher than China's and entire Western Europe's one.<ref name="books.google.com"/><ref name="harrison"/> The economic developments on South Asia waved the period of [[proto-industrialization]].<ref name="voss">{{cite book|title=The Ashgate Companion to the History of Textile Workers, 1650–2000|author1=Lex Heerma van Voss |first2=Els |last2=Hiemstra-Kuperus |author3=Elise van Nederveen Meerkerk |chapter=The Long Globalization and Textile Producers in India|publisher=[[Ashgate Publishing]]|year=2010|page=255|isbn=978-0-7546-6428-4 |chapter-url=https://books.google.com/books?id=f95ljbhfjxIC&pg=PA255}}</ref>
+
+After the death of Aurangzeb and the collapse of the Mughal Empire, which marks the beginning of modern India, in the early 18th century, it provided opportunities for the [[Maratha Empire|Marathas]], [[Sikh Empire|Sikhs]], [[Mysore Kingdom|Mysoreans]] and [[Nawabs of Bengal]] to exercise control over large regions of the Indian subcontinent.<ref>{{cite book|title=A History of State and Religion in India|first1=Ian|last1=Copland|first2=Ian|last2=Mabbett|first3= Asim|last3= Roy|first4=Kate|last4=Brittlebank|first5=Adam|last5=Bowles|page=161|display-authors=3|publisher=Routledge|year=2012}}</ref><ref>''History of Mysore Under Hyder Ali and Tippoo Sultan'' by Joseph Michaud p. 143</ref>
+
+Maritime trading between South Asia and European merchants began after the Portuguese explorer Vasco de Gama returned to Europe. British, French, Portuguese colonial interests struck treaties with these rulers and established their trading ports. In northwest South Asia, a large region was consolidated into the Sikh Empire by [[Ranjit Singh]].<ref>{{cite book |author=J. S. Grewal |author-link=J. S. Grewal |year=1990 |title=The Sikhs of the Punjab |publisher=Cambridge University Press |series=The New Cambridge History of India |volume=II.3 |pages=99,103 |isbn=978-0-521-26884-4 |quote=In 1799, a process of unification was started by Ranjit Singh virtually to establish an empire ... Before his death in 1839 Rajit Singh's authority over all the conquered and subordinated territories between the river Satlej and the mountain ranges of Ladakh, Karakoram, Hindukush and Sulaiman was recognized.}}</ref><ref>{{cite book|first=Patwant|last=Singh|title=Empire of the Sikhs: The Life and Times of Maharaja Ranjit Singh|url=https://books.google.com/books?id=Vr4VAQAAIAAJ |year=2008|publisher=Peter Owen|isbn=978-0-7206-1323-0|pages=113–124}}</ref> After the defeat of the [[Nawab of Bengal]] and [[Tipu Sultan]] and his French allies, the [[British Empire]] expanded their interests till the Hindu Kush region.
+
+===Contemporary era===
+In 1905, the [[British Raj|Government of India]] initiated the [[Partition of Bengal (1905)|partition]] of [[Bengal Presidency|Bengal]], a decision which was eventually reversed after Indian opposition. However, during the [[partition of India]], Bengal was partitioned into [[East Bengal]] (Pakistan) and [[West Bengal]] (India). East Bengal became the [[Bangladesh|People's Republic of Bangladesh]] after the [[Bangladesh Liberation War]] in 1971.<ref>{{cite book|first=Debjani|last=Sengupta|title=The Partition of Bengal: Fragile Borders and New Identities|url=https://books.google.com/books?id=RAO-DAAAQBAJ |year=2015|publisher=Cambridge University Press|isbn=978-1-316-67387-4|pages=16–19}}</ref><ref>{{cite book|first=Bashabi|last=Fraser|title=Bengal Partition Stories: An Unclosed Chapter|url=https://books.google.com/books?id=zW30rV_UAskC |year=2008 |publisher=Anthem Press |pages=7–10 |isbn=978-1-84331-299-4}}</ref>
+
+{{further|War in Afghanistan (2001–present)|Indo-Pakistani wars and conflicts}}
+
+== Geography ==
+{{further|Geography of India|Geography of Pakistan|Geography of Afghanistan|Geography of Bangladesh|Geography of Bhutan|Geography of Sri Lanka|Geography of Nepal|Geography of the Maldives}}
+
+According to Saul Cohen, early colonial era strategists treated South Asia with East Asia, but in reality, the South Asia region excluding Afghanistan is a distinct [[Geopolitics|geopolitical]] region separated from other nearby geostrategic realms, one that is geographically diverse.<ref>Saul Bernard Cohen, ''Geopolitics of the world system'', pages 304–305, Rowman & Littlefield, 2003, {{ISBN|0-8476-9907-2}}</ref> The region is home to a variety of geographical features, such as [[glacier]]s, [[rainforest]]s, [[valley]]s, [[desert]]s, and [[grassland]]s that are typical of much larger continents. It is surrounded by three water bodies{{snd}}the [[Bay of Bengal]], the [[Indian Ocean]] and the [[Arabian Sea]]{{snd}}and has acutely varied climate zones. The tip of the Indian Peninsula had the highest quality pearls.<ref>Xinru, Liu, ''"The Silk Road in World History"'' (New York: Oxford University Press, 2010), 40.</ref>
+
+===Indian plate===
+{{main|Indian plate}}
+
+Most of this region is resting on the [[Indian Plate]], the northerly portion of the [[Indo-Australian Plate]], separated from the rest of the [[Eurasian Plate]]. The Indian Plate includes most of South Asia, forming a land mass which extends from the [[Himalayas]] into a portion of the basin under the [[Indian Ocean]], including parts of [[Southwest China|South China]] and Eastern [[Indonesia]], as well as [[Kunlun Mountains|Kunlun]] and [[Karakoram]] ranges,<ref>Sinvhal, ''Understanding Earthquake Disasters'', page 52, Tata McGraw-Hill Education, 2010, {{ISBN|978-0-07-014456-9}}</ref><ref>Harsh K. Gupta, ''Disaster management'', page 85, Universities Press, 2003, {{ISBN|978-81-7371-456-6}}</ref> and extending up to but not including [[Ladakh]], [[Kohistan District, Khyber-Pakhtunkhwa|Kohistan]], the [[Hindu Kush]] range and [[Balochistan]].<ref>M. Asif Khan, ''Tectonics of the Nanga Parbat syntaxis and the Western Himalaya'', page 375, Geological Society of London, 2000, {{ISBN|978-1-86239-061-4}}</ref><ref>Srikrishna Prapnnachari, ''Concepts in Frame Design'', page 152, Srikrishna Prapnnachari, {{ISBN|978-99929-52-21-4}}</ref><ref>A. M. Celâl Şengör, ''Tectonic evolution of the Tethyan Region'', Springer, 1989, {{ISBN|978-0-7923-0067-0}}</ref> It may be noted that [[Geophysics|geophysically]] the [[Yarlung Tsangpo River]] in Tibet is situated at the outside of the border of the regional structure, while the [[Pamir Mountains]] in [[Tajikistan]] are situated inside that border.<ref>Valentin Semenovich Burtman & Peter Hale Molnar, ''Geological and Geophysical Evidence for Deep Subduction of Continental Crust Beneath the Pamir'', page 10, Geological Society of America, 1993, {{ISBN|0-8137-2281-0}}</ref>
+
+The [[Indian subcontinent]] formerly formed part of the [[supercontinent]] [[Gondwana]], before rifting away during the [[Cretaceous]] period and colliding with the [[Eurasian Plate]] about 50–55 million years ago and giving birth to the [[Himalayan range]] and the [[Tibetan plateau]]. It is the [[peninsula]]r region south of the [[Himalaya]]s and [[Kuen Lun]] mountain ranges and east of the [[Indus River]] and the [[Iranian Plateau]], extending southward into the Indian Ocean between the [[Arabian Sea]] (to the southwest) and the [[Bay of Bengal]] (to the southeast).
+
+===Climate===
+[[File:South Asia map of Köppen climate classification.svg|thumb|upright=1.75|right|South Asia's [[Köppen climate classification]] map<ref name="Peel">
+{{cite journal |author1=Peel, M. C. |author2=Finlayson, B. L. |author3=McMahon, T. A. |year=2007 |title=Updated world map of the Köppen–Geiger climate classification |journal=Hydrol. Earth Syst. Sci. |volume=11 |issue=5 |pages=1633–1644 |doi=10.5194/hess-11-1633-2007 |bibcode=2007HESS...11.1633P |url=http://www.hydrol-earth-syst-sci.net/11/1633/2007/hess-11-1633-2007.html |issn=1027-5606 |access-date=18 November 2015 |archive-url=https://web.archive.org/web/20170210144308/http://www.hydrol-earth-syst-sci.net/11/1633/2007/hess-11-1633-2007.html |archive-date=10 February 2017 |url-status=live |doi-access=free }} ''(direct: [http://www.hydrol-earth-syst-sci.net/11/1633/2007/hess-11-1633-2007.pdf Final Revised Paper] {{Webarchive|url=https://web.archive.org/web/20120203170339/http://www.hydrol-earth-syst-sci.net/11/1633/2007/hess-11-1633-2007.pdf |date=3 February 2012 }})''
+</ref> is based on native vegetation, temperature, precipitation and their seasonality.
+{{columns-list|colwidth=12em|
+{{legend|#0000FE|<small>[[tropical rainforest climate|(Af) '''Tropical rainforest''']]</small>}}
+{{legend|#0077FF|<small>[[tropical monsoon climate|(Am) '''Tropical monsoon''']]</small>}}
+{{legend|#46A9FA|<small>[[tropical savanna climate|(Aw) '''Tropical savanna''', wet & dry]]</small>}}
+{{legend|#FE0000|<small>[[hot desert climate|(BWh) '''Hot desert''']]</small>}}
+{{legend|#FE9695|<small>[[cold desert climate|(BWk) '''Cold desert''']]</small>}}
+{{legend|#F5A301|<small>[[hot semi-arid climate|(BSh) '''Hot semi arid''']]</small>}}
+{{legend|#FFDB63|<small>[[cold semi-arid climate|(BSk) '''Cold semi arid''']]</small>}}
+{{legend|#FFFF00|<small>[[hot-summer Mediterranean climate|(Csa) '''Mediterranean''', dry, hot summer]]</small>}}
+{{legend|#C6FF4E|<small>[[humid subtropical climate|(Cfa) '''Subtropical''', humid]]</small>}}
+{{legend|#96FF96|<small>[[humid subtropical climate|(Cwa) '''Subtropical''', humid summer, dry winter]]</small>}}
+{{legend|#63C764|<small>[[subtropical highland climate|(Cwb) '''Subtropical highland''', dry winter]]</small>}}
+{{legend|#FF00FE|<small>[[humid continental climate|(Dsa) '''Continental''', hot summer]]</small>}}
+{{legend|#C600C7|<small>[[humid continental climate|(Dsb) '''Continental''', warm summer]]</small>}}
+{{legend|#5A77DB|<small>[[humid continental climate|(Dwb) '''Continental''', dry winter]]</small>}}
+{{legend|#4C51B5|<small>[[subarctic climate|(Dwc) '''Continental Subarctic''', dry winter]]</small>}}
+}}]]
+
+The climate of this vast region varies considerably from area to area from tropical monsoon in the south to temperate in the north. The variety is influenced by not only the altitude but also by factors such as proximity to the seacoast and the seasonal impact of the [[monsoon]]s. Southern parts are mostly hot in summers and receive rain during monsoon periods. The northern belt of [[Indo-Gangetic plain]]s also is hot in summer, but cooler in winter. The mountainous north is colder and receives snowfall at higher altitudes of Himalayan ranges.
+
+As the [[Himalayas]] block the north-Asian bitter cold winds, the temperatures are considerably moderate in the plains down below. For the most part, the climate of the region is called the [[Monsoon]] climate, which keeps the region humid during summer and dry during winter, and favours the cultivation of [[jute]], [[tea]], [[rice]], and various vegetables in this region.
+
+South Asia is largely divided into four broad climate zones:<ref name=olive1>John E. Olive, ''The Encyclopedia of World Climatology'', page 115-117, Springer, 2005, {{ISBN|978-1-4020-3264-6}}</ref>
+* The northern Indian edge and northern Pakistani uplands have a dry subtropical [[continental climate]]
+* The far south of India and southwest Sri Lanka have an [[equatorial climate]]
+* Most of the peninsula has a tropical climate with variations:
+** Hot [[Subtropics|subtropical]] climate in northwest India
+** Cool winter hot [[tropical climate]] in Bangladesh
+** Tropical [[semi-arid climate]] in the center
+* The Himalayas and most of the [[Hindu Kush]] have an [[Alpine climate]]
+
+Maximum relative humidity of over 80% has been recorded in [[Khasi and Jaintia Hills]] and Sri Lanka, while the area adjustment to Pakistan and western India records lower than 20%–30%.<ref name=olive1/> Climate of South Asia is largely characterized by [[monsoon]]s. South Asia depends critically on monsoon rainfall.<ref>Peter D. Tyson, ''Global-Regional Linkages in the Earth System'', page 83, Springer, 2002, {{ISBN|978-3-540-42403-1}}</ref> Two monsoon systems exist in the region:<ref>Peter D. Tyson, ''Global-Regional Linkages in the Earth System'', page 76, Springer, 2002, {{ISBN|978-3-540-42403-1}}</ref>
+* The summer monsoon: Wind blows from the southwest to most parts of the region. It accounts for 70%–90% of the annual precipitation.
+* The winter monsoon: Wind blows from the northeast. Dominant in Sri Lanka and Maldives.
+
+The warmest period of the year precedes the monsoon season (March to mid June). In the summer the low pressures are centered over the [[Indus-Gangetic Plain]] and high wind from the Indian Ocean blows towards the center. The monsoons are the second coolest season of the year because of high humidity and cloud covering. But, at the beginning of June, the jetstreams vanish above the [[Tibetan Plateau]], low pressure over the [[Indus Valley]] deepens and the [[Intertropical Convergence Zone]] (ITCZ) moves in. The change is violent. Moderately vigorous monsoon depressions form in the Bay of Bengal and make landfall from June to September.<ref name=olive1/>
+
+[[Climate change in South Asia]] is causing a range of challenges including [[sea level rise]], cyclonic activity, and changes in [[ambient temperature]] and precipitation patterns.<ref>{{cite book|last1=Kreft|first1=Sönke|url=https://germanwatch.org/en/download/16411.pdf|title=Global Climate Risk Index 2017|last2=David Eckstein|first2=David|last3=Melchior|first3=Inga|date=November 2016|publisher=Germanwatch e.V.|isbn=978-3-943704-49-5|location=Bonn|access-date=10 July 2017|archive-url=https://web.archive.org/web/20170925181000/https://germanwatch.org/en/download/16411.pdf|archive-date=25 September 2017|url-status=dead}}</ref>
+
+=== Land and water area ===
+{{See also|Exclusive economic zone|Indian Ocean}}
+This list includes [[dependent territories]] within their [[List of sovereign states|sovereign states]] (including uninhabited territories), but does not include claims on [[Antarctica]].  EEZ+TIA is exclusive economic zone (EEZ) plus [[List of countries and outlying territories by total area|total internal area]] (TIA) which includes land and internal waters.
+{| class="sortable wikitable" style="text-align: center"
+!Country!!Area!!EEZ!!Shelf!!EEZ+TIA
+|-
+| align="left" |{{AFG}}||652,864||0||0||652,864
+|-
+| align="left" |{{BAN}}||148,460||86,392||66,438||230,390
+|-
+| align="left" |{{BHU}}||38,394||0||0||38,394
+|-
+| align="left" |{{IND}}||3,287,263||2,305,143||402,996||5,592,406
+|-
+| align="left" |{{NEP}}||147,181||0||0||147,181
+|-
+| align="left" |{{MDV}}||298||923,322||34,538||923,622
+|-
+| align="left" |{{PAK}}||881,913||290,000||51,383||1,117,911
+|-
+| align="left" |{{SRI}}||65,610||532,619||32,453||598,229
+|-
+!'''Total'''||'''5,221,093'''||'''4,137,476'''||'''587,808'''||'''9,300,997'''
+|}
+
+==Society==
+{{See also|South Asian ethnic groups}}
+
+===Population===
+The population of South Asia is about 1.749 billion which makes it the [[List of continents by population#Regional and continental (sub)totals in 2013|most populated region]] in the world.<ref>
+United Nations, Department of Economic and Social Affairs, Population Division (2014). World Urbanization Prospects: The 2014 Revision, custom data acquired via website. http://esa.un.org/unpd/wpp/Excel-Data/population.htm {{Webarchive|url=https://web.archive.org/web/20130404064129/http://esa.un.org/unpd/wpp/Excel-Data/population.htm |date=4 April 2013 }}
+</ref> It is socially very mixed, consisting of many language groups and religions, and social practices in one region that are vastly different from those in another.<ref>{{cite book|author=Baten, Jörg |title=A History of the Global Economy. From 1500 to the Present.|date=2016|publisher=Cambridge University Press|page=249|isbn=978-1-107-50718-0}}</ref>
+
+{| class="sortable wikitable" style="text-align: center"
+! rowspan="2" |Country
+! rowspan="2" |[[List of countries by population|Population]] in thousands
+(2019) (%Share)<ref name="UN WPP 2019">{{Cite web|title=World Population prospects – Population division|url=https://population.un.org/wpp/|url-status=live|archive-url=https://web.archive.org/web/20190205234912/https://population.un.org/wpp/|archive-date=5 February 2019|access-date=16 July 2019|publisher=[[United Nations]]}}</ref><ref name="UN WPP 2019 2">{{Cite web|title=Overall total population|url=https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx|access-date=16 July 2019|publisher=[[United Nations]]|format=xlsx}}</ref>
+! rowspan="2" |[[List of countries by population density|Density]] (per km<sup>2</sup>)
+! rowspan="2" |% of world<ref>{{cite web|title=World Population Prospects 2017 Key Findings|url=https://esa.un.org/unpd/wpp/Publications/Files/WPP2017_KeyFindings.pdf|url-status=dead|archive-url=https://web.archive.org/web/20171216180720/https://esa.un.org/unpd/wpp/Publications/Files/WPP2017_KeyFindings.pdf|archive-date=16 December 2017|access-date=29 October 2019|website=esa.un.org}}</ref>
+! colspan="3" |Population growth rate<ref name=":02">{{Cite web|title=United Nations Population Div, World Population Prospects 2017, File: Population Growth Rate, retrieved 5/20/18|url=https://esa.un.org/unpd/wpp/Download/Standard/Population/|url-status=dead|archive-url=https://web.archive.org/web/20160927210437/https://esa.un.org/unpd/wpp/Download/Standard/Population/|archive-date=2016-09-27}}</ref>
+! colspan="7" |Population projection (in thousands)<ref name="UN WPP 2019" /><ref name="UN WPP 2019 2" />
+|-
+!2005-10
+!2010-15
+!2015-20
+!1950
+!1975
+!2000
+!2025
+!2050
+!2075
+!2100
+|-
+| align="left" |{{flagicon|Islamic Emirate of Afghanistan}} [[Afghanistan]]
+|38,042 (2.07%)
+|46
+|0.420%
+|2.78
+|3.16
+|2.41
+|7,752
+|12,689
+|20,779
+|43,531
+|64,682
+|76,199
+|75,974
+|-
+| align="left" |{{BAN}}
+|163,046 (8.88%)
+|1106.8
+|2.17%
+|1.18
+|1.16
+|1.04
+|37,895
+|70,066
+|127,658
+|170,937
+|192,568
+|181,282
+|151,393
+|-
+| align="left" |{{BHU}}
+|763 (0.04%)
+|165.8
+|0.00957%
+|2.05
+|1.58
+|1.18
+|177
+|348
+|591
+|811
+|905
+|845
+|686
+|-
+| align="left" |{{IND}}
+|1,366,418 (74.45%)
+|138.3
+|17.5%
+|1.46
+|1.23
+|1.10
+|376,325
+|623,103
+|1,056,576
+|1,445,012
+|1,639,176
+|1,609,041
+|1,450,421
+|-
+| align="left" |{{MDV}}
+|531 (0.03%)
+|225
+|0.00490%
+|2.68
+|2.76
+|1.85
+|74
+|136
+|279
+|522
+|586
+|564
+|490
+|-
+| align="left" |{{NEP}}
+|28,609 (1.56%)
+|781.8
+|0.383%
+|1.05
+|1.17
+|1.09
+|8,483
+|13,420
+|23,941
+|31,757
+|35,324
+|31,818
+|23,708
+|-
+| align="left" |{{PAK}}
+|216,565 (11.8%)
+|1,104.8
+|2.82%
+|2.05
+|2.09
+|1.91
+|37,542
+|66,817
+|142,344
+|242,234
+|338,013
+|394,265
+|403,103
+|-
+| align="left" |{{SRI}}
+|21,324 (1.62%)
+|194.4
+|0.279%
+|0.68
+|0.50
+|0.35
+|7,971
+|13,755
+|18,778
+|21,780
+|21,814
+|19,194
+|15,275
+|-
+!South Asia
+!'''1,835,297 (100%)'''
+!'''357.4'''
+!23.586%
+!-
+!-
+!-
+!476,220
+!800,335
+!1,390,946
+!1,958,046
+!2,293,069
+!2,313,208
+!2,120,014
+|-
+| colspan="14" |<small>Population of South Asian countries in 1950, 1975, 2000, 2025, 2050, 2075 and 2100 projection from the United Nations has been displayed in table. The given population projections are based on medium fertility index. With India and Bangladesh approaching [[Sub-replacement fertility|replacement rates]] fast, population growth in South Asia is facing steep decline and may turn negative in mid 21st century.<ref name="UN WPP 2019" /><ref name="UN WPP 2019 2" /></small>
+|}
+
+===Languages===
+{{main|Languages of South Asia}}
+[[File:South Asian Language Families.png|thumb|right|Ethno-linguistic distribution map of South Asia]]
+There are numerous languages in South Asia. The spoken languages of the region are largely based on geography and shared across religious boundaries, but the written script is sharply divided by religious boundaries. In particular, Muslims of South Asia such as in Afghanistan and Pakistan use the Arabic alphabet and Persian [[Nastaʿlīq script|Nastaliq]]. Till 1952, Muslim-majority Bangladesh (then known as East Pakistan) also mandated only the Nastaliq script, but after that adopted regional scripts and particularly Bengali, after the [[Bengali language movement|Language Movement]] for the adoption of Bengali as the official language of the then East Pakistan. Non-Muslims of South Asia, and some Muslims in India, on the other hand, use their traditional ancient heritage scripts such as those derived from [[Brahmi script]] for Indo-European languages and non-Brahmi scripts for [[Dravidian languages]] and others.<ref name=kachru122>{{cite book|first1=Braj B.|last1=Kachru|first2=Yamuna|last2=Kachru|author3=S. N. Sridhar|title=Language in South Asia|url=https://books.google.com/books?id=O2n4sFGDEMYC|year=2008|publisher=Cambridge University Press|isbn=978-1-139-46550-2|pages=122–127, 419–423|access-date=27 December 2016|archive-url=https://web.archive.org/web/20170118043902/https://books.google.com/books?id=O2n4sFGDEMYC|archive-date=18 January 2017|url-status=live}}</ref>
+
+The [[Nagari script]] has been the ''[[primus inter pares]]'' of the traditional South Asian scripts.<ref name=george>{{cite book |first1=George |last1=Cardona |first2=Dhanesh |last2=Jain |date=2003 |title=The Indo-Aryan Languages |publisher=Routledge |pages=75–77 |isbn=978-0-415-77294-5}}</ref> The Devanagari script is used for over 120 South Asian languages,<ref name=devasilusa>
+[http://scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Deva Devanagari (Nagari)] {{Webarchive|url=https://web.archive.org/web/20170702003440/http://scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Deva |date=2 July 2017 }}, Script Features and Description, [[SIL International]] (2013), United States
+</ref> including [[Hindi]],<ref>
+[http://www.omniglot.com/writing/hindi.htm Hindi] {{Webarchive|url=https://web.archive.org/web/20120528075558/http://www.omniglot.com/writing/hindi.htm |date=28 May 2012 }}, Omniglot Encyclopedia of Writing Systems and Languages
+</ref> [[Marathi language|Marathi]], [[Nepali language|Nepali]], [[Pali]], [[Konkani language|Konkani]], [[Bodo language|Bodo]], [[Sindhi language|Sindhi]] and [[Maithili language|Maithili]] among other languages and dialects, making it one of the most used and [[List of writing systems by adoption|adopted writing systems]] in the world.<ref>{{cite web|url=http://www.omniglot.com/language/articles/devanagari.htm|title=Devanagari script|publisher=Omniglot|first=David|last=Templin|access-date=5 April 2015|archive-url=https://web.archive.org/web/20150401062015/http://www.omniglot.com/language/articles/devanagari.htm|archive-date=1 April 2015|url-status=live}}</ref> The Devanagari script is also used for classical Sanskrit texts.<ref name=devasilusa/>
+
+The largest spoken language in this region is [[Hindustani language]], followed by Bengali, Telugu, Tamil, Marathi, Gujarati, Kannada, and Punjabi.<ref name=kachru122/> In the modern era, new syncretic languages developed in the region such as [[Urdu]] that are used by the Muslim community of northern South Asia (particularly Pakistan and northern states of India).<ref>
+Shamsur Rahman Faruqi (2008), [http://www.columbia.edu/itc/mealac/pritchett/00fwp/srf/srf_symcretism_2008.pdf Urdu Literary Culture: The Syncretic Tradition] {{Webarchive|url=https://web.archive.org/web/20121026133552/http://www.columbia.edu/itc/mealac/pritchett/00fwp/srf/srf_symcretism_2008.pdf |date=26 October 2012 }}, Shibli Academy, Azamgarh
+</ref> The Punjabi language spans three religions: Islam, Hinduism, and Sikhism. The spoken language is similar, but it is written in three scripts. The [[Sikhs|Sikh]] use [[Gurmukhi alphabet]], [[Muslim Punjabi]]s in [[Pakistan]] use the Nastaliq script, while [[Hindu Punjabi]]s in India use the Gurmukhi or [[Nāgarī script]]. The Gurmukhi and Nagari scripts are distinct but close in their structure, but the Persian Nastaliq script is very different.<ref name="Bright1996p395">{{cite book|first1=Peter T.|last1=Daniels|first2=William|last2=Bright|title=The World's Writing Systems |url=https://books.google.com/books?id=ospMAgAAQBAJ&pg=PA395 |year=1996|publisher=Oxford University Press|isbn=978-0-19-507993-7|page=395}}</ref>
+
+English, with British spelling, is commonly used in urban areas and is a major economic [[lingua franca]] of South Asia.<ref>{{cite book|first1=Braj B.|last1=Kachru|first2=Yamuna|last2=Kachru|author3=S. N. Sridhar|title=Language in South Asia|url=https://books.google.com/books?id=O2n4sFGDEMYC|year=2008|publisher=Cambridge University Press|isbn=978-1-139-46550-2|pages=391–394|access-date=27 December 2016|archive-url=https://web.archive.org/web/20170118043902/https://books.google.com/books?id=O2n4sFGDEMYC|archive-date=18 January 2017|url-status=live}}</ref>
+
+=== Religions ===
+{{Further|Religion in Bangladesh|Religion in Bhutan|Religion in India|Religion in Nepal|Religion in Pakistan|Religion in Sri Lanka}}
+{{multiple image
+ | align = right
+ | direction = vertical
+ | width = 300
+ | image1 = Prevailing world religions map.png
+ | caption1 = A map of [[List of religious populations|major denominations and religions of the world]]
+ | image2 = Worldwide Importance of Religion, 2015.svg
+ | caption2 = Worldwide Importance of Religion, 2015<ref>[https://www.pewresearch.org/fact-tank/2015/12/23/americans-are-in-the-middle-of-the-pack-globally-when-it-comes-to-importance-of-religion/ Pew Research Center]</ref>
+}}
+
+In 2010, South Asia had the world's largest population of [[Hindus]], [[Jainism|Jains]] and [[Sikhs]],<ref name="pewforum.org" /> about 510 million [[Muslims]],<ref name="pewforum.org" /> as well as over 25 million [[Buddhists]] and 35 million [[Christians]].<ref name="Pew Research 2012" /> Hindus make up about 68 percent or about 900 million and Muslims at 31 percent or 510 million of the overall South Asia population,<ref>{{cite web|url=http://www.pewforum.org/2011/01/27/future-of-the-global-muslim-population-regional-asia|title=Region: South Asia|access-date=1 January 2017|date=2011-01-27|archive-url=https://web.archive.org/web/20161229210603/http://www.pewforum.org/2011/01/27/future-of-the-global-muslim-population-regional-asia/|archive-date=29 December 2016|url-status=live}}</ref> while Buddhists, Jains, Christians and Sikhs constitute most of the rest. The Hindus, Buddhists, Jains, Sikhs and Christians are concentrated in India, Nepal, Sri Lanka and Bhutan, while the Muslims are concentrated in Afghanistan (99%), Bangladesh (90%), Pakistan (96%) and Maldives (100%).<ref name="pewforum.org" />
+
+[[Indian religions]] are the religions that originated in the Indian subcontinent; namely [[Hinduism]], [[Jainism]], [[Buddhism]] and [[Sikhism]].<ref name = EB>
+Adams, C. J., [http://www.britannica.com/eb/article-38030/classification-of-religions Classification of religions: Geographical] {{Webarchive|url=https://web.archive.org/web/20071214003036/http://www.britannica.com/eb/article-38030/classification-of-religions |date=14 December 2007 }}, [[Encyclopædia Britannica]], 2007. Accessed: 15 July 2010; Quote: "Indian religions, including early Buddhism, Hinduism, Jainism, and Sikhism, and sometimes also Theravāda Buddhism and the Hindu- and Buddhist-inspired religions of South and Southeast Asia".</ref> The Indian religions are distinct yet share terminology, concepts, goals and ideas, and from South Asia spread into East Asia and southeast Asia.<ref name="EB"/> Early Christianity and Islam were introduced into coastal regions of South Asia by merchants who settled among the local populations. Later [[Sindh]], [[Balochistan (Pakistan)|Balochistan]], and parts of the [[Punjab region]] saw conquest by the [[Ummayad|Arab caliphates]] along with an influx of Muslims from Persia and Central Asia, which resulted in spread of both Shia and Sunni Islam in parts of northwestern region of South Asia. Subsequently, under the influence of Muslim rulers of the Islamic sultanates and the Mughal Empire, Islam spread in South Asia.<ref>Alberts, Irving, T., . D. R. M. (2013). Intercultural Exchange in Southeast Asia: History and Society in the Early Modern World (International Library of Historical Studies). I.B. Tauris.</ref><ref>{{cite book|first=Lisa|last=Balabanlilar|title=Imperial Identity in Mughal Empire: Memory and Dynastic Politics in Early Modern Central Asia|url=https://books.google.com/books?id=7PS6PrH3rtkC|year=2012|publisher=I.B. Tauris|isbn=978-1-84885-726-1|pages=1–2, 7–10|access-date=27 December 2016|archive-url=https://web.archive.org/web/20160610154458/https://books.google.com/books?id=7PS6PrH3rtkC|archive-date=10 June 2016|url-status=live}}</ref> About one-third of the world's Muslims are from South Asia.<ref>{{Cite book|url=https://books.google.com/books?id=kaubzRxh-U0C&q=what+percent+of+muslims+live+in+south+asia&pg=PA193|title=South Asian Religions: Tradition and Today|last1=Pechilis|first1=Karen|last2=Raj|first2=Selva J.|date=1 January 2013|publisher=Routledge|isbn=978-0-415-44851-2|language=en}}</ref><ref>{{Cite web|url=http://www.pewforum.org/2015/04/02/muslims/pf_15-04-02_projectionstables74/|title=10 Countries With the Largest Muslim Populations, 2010 and 2050|date=2 April 2015|website=Pew Research Center's Religion & Public Life Project|access-date=7 February 2017|archive-url=https://web.archive.org/web/20170207115222/http://www.pewforum.org/2015/04/02/muslims/pf_15-04-02_projectionstables74/|archive-date=7 February 2017|url-status=live}}</ref><ref>{{Cite news|url=https://thediplomat.com/2016/01/how-south-asia-will-save-global-islam/|title=How South Asia Will Save Global Islam|last=Diplomat|first=Akhilesh Pillalamarri, The|newspaper=The Diplomat|access-date=7 February 2017|language=en-US|archive-url=https://web.archive.org/web/20170208040252/https://thediplomat.com/2016/01/how-south-asia-will-save-global-islam/|archive-date=8 February 2017|url-status=live}}</ref>
+
+{{Pie chart
+|thumb = right
+|caption = Religion in British India in the 1871-1872 Census (data includes modern-day India, Bangladesh, most of Pakistan (including Sindh, Punjab, and Balochistan), Kashmir, and coastal Myanmar))<ref>{{Cite journal| url = https://www.jstor.org/stable/2339124 | title = The Census of British India of 1871-72 | journal = Journal of the Statistical Society of London | publisher = Journal of the Statistical Society of London Vol. 39, No. 2 | pages = 413 | date = June 1876| volume = 39 | issue = 2 | jstor = 2339124 }}</ref>
+|label1 = [[Hinduism]]
+|value1 = 73.07
+|color1 = darkorange
+|label2 = [[Islam]]
+|value2 = 21.45
+|color2= green
+|label3 = [[Buddhism and Jainism]]
+|value3 = 1.49
+|color3= gold
+|label4 = [[Sikhism]]
+|value4 = 0.62
+|color4= chartreuse
+|label5 = [[Christianity]]
+|value5  = 0.47
+|colour5= blue
+|label6 = Others
+|value6  = 2.68
+|colour6= Magenta
+|label7 = Religion not known
+|value7  = 0.22
+|colour7= black
+}}
+
+{| class="wikitable sortable"
+|-
+! rowspan = "2" | Country
+! rowspan = "2" | State religion
+! colspan="8" |Religious population as a percentage of total population
+|-
+! [[Buddhism]]
+! [[Christianity]]
+! [[Hinduism]]
+! [[Islam]]
+! [[Kiratism]]
+! [[Sikhism]]
+! Others
+! Year reported
+|-
+| {{flagicon|Islamic Emirate of Afghanistan}} [[Religion in Afghanistan|Afghanistan]]
+| Islam
+| -
+| -
+| -
+| [[Islam in Afghanistan|99.7%]]
+| -
+| -
+| 0.3%
+| 2019<ref name="AfgCIA">{{cite web |url=https://www.cia.gov/the-world-factbook/countries/afghanistan/ |title=CIA – The World Factbook – Afghanistan |publisher=CIA |access-date=2012-03-27 }}</ref>
+|-
+| {{flagicon|BGD}} [[Religion in Bangladesh|Bangladesh]]
+| Islam
+| [[Buddhism in Bangladesh|0.6%]]
+| [[Christianity in Bangladesh|0.4%]]
+| [[Hinduism in Bangladesh|9.5%]]
+| [[Islam in Bangladesh|89.5%]]
+| -
+| -
+| -
+| 2011<ref name="বাংলাদেশ">{{cite web |url=https://2009-2017.state.gov/documents/organization/256513.pdf |script-title=bn:জানুন |language=bn |trans-title=Bangladesh |publisher=US department of States |title=Archived copy |access-date=16 October 2019  }}</ref>
+|-
+| {{flagicon|BHU}} [[Religion in Bhutan|Bhutan]]
+| [[Vajrayana|Vajrayana Buddhism]]
+| [[Buddhism in Bhutan|74.8%]]
+| [[Christianity in Bhutan|0.5%]]
+| [[Hinduism in Bhutan|22.6%]]
+| [[Islam in Bhutan|0.1%]]
+| -
+| -
+| 2%
+| 2010<ref name="IndCIA">{{cite web |url=https://www.cia.gov/the-world-factbook/countries/bhutan/ |title=CIA – The World Factbook |publisher=CIA |access-date=2012-03-27 }}</ref><ref name="pew2010">[http://www.pewforum.org/files/2012/12/globalReligion-tables.pdf Pew Research Center – Global Religious Landscape 2010 – religious composition by country] {{Webarchive|url=https://web.archive.org/web/20161213072625/http://www.pewforum.org/files/2012/12/globalReligion-tables.pdf |date=13 December 2016 }}.</ref>
+|-
+| {{flagicon|IND}} [[Religion in India|India]]
+| ''None''
+| [[Buddhism in India|0.7%]]
+| [[Christianity in India|2.3%]]
+| [[Hinduism in India|79.8%]]
+| [[Islam in India|14.2%]]
+| -
+| [[Sikhism in India|1.7%]]
+| 1.3%
+| 2011<ref name="Census2011religion">{{cite web|url=http://www.censusindia.gov.in/2011census/C-01/DDW00C-01%20MDDS.XLS |title=C −1 Population by religious community – 2011 |publisher=[[Office of the Registrar General & Census Commissioner]] |access-date=25 August 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150825155850/http://www.censusindia.gov.in/2011census/C-01/DDW00C-01%20MDDS.XLS |archive-date=25 August 2015}}</ref><ref>Ahmadiyyas are considered a sect of Islam in India. Other minorities are 0.4 [[Jainism|Jains]] and 0.23% irreligious population.</ref>
+|-
+| {{flagicon|Maldives}} [[Religion in the Maldives|Maldives]]
+| Sunni Islam
+| -
+| -
+| -
+| [[Islam in Maldives|100%]]
+| -
+| -
+| -
+| <ref name="MdvCIA">{{cite web |url=http://www.themaldives.com/Maldives/Maldives_Religion.htm |title=religion |publisher=Maldives |access-date=2010-08-23 |archive-url=https://web.archive.org/web/20070928220750/http://www.themaldives.com/Maldives/Maldives_Religion.htm |archive-date=28 September 2007 |url-status=live }}</ref><ref name=EmoryLaw>{{cite web |url=http://www.law.emory.edu/ifl/legal/maldives.htm |title=Maldives |publisher=Law.emory.edu |date=1920-02-21 |access-date=2010-08-23 |archive-url=https://web.archive.org/web/20130211221153/http://www.law.emory.edu/ifl/legal/maldives.htm |archive-date=11 February 2013 |url-status=live }}</ref><ref>
+[http://countrystudies.us/maldives/7.htm Maldives – Religion] {{Webarchive|url=https://web.archive.org/web/20101207024431/http://countrystudies.us/maldives/7.htm |date=7 December 2010 }}, ''countrystudies.us''
+</ref>
+|-
+| {{flagicon|NEP}} [[Religion in Nepal|Nepal]]
+| ''None''
+| [[Buddhism in Nepal|9%]]
+| [[Christianity in Nepal|1.3%]]
+| [[Hinduism in Nepal|81.3%]]
+| [[Islam in Nepal|4.4%]]
+| 3%
+| -
+| 0.8%
+| 2013<ref>{{cite book|title=Statistical Yearbook of Nepal - 2013|date=2013|publisher=Central Bureau of Statistics|location=Kathmandu|page=23|url=http://cbs.gov.np/publications/statisticalyearbook_2013|access-date=16 October 2019}}</ref>
+|-
+| {{flagicon|PAK}} [[Religion in Pakistan|Pakistan]]
+| Islam
+| -
+| [[Christianity in Pakistan|1.59%]]
+| [[Hinduism in Pakistan|1.85%]]
+| [[Islam in Pakistan|96.28%]]
+| -
+| -
+| 0.07%
+| 2010<ref>{{Cite journal|title=POPULATION BY RELIGION|url=http://www.pbs.gov.pk/sites/default/files//tables/POPULATION%20BY%20RELIGION.pdf|journal=Pakistan Burau of Statistics, Government of Pakistan|pages=1}}</ref>
+|-
+| {{flagicon|Sri Lanka}} [[Religion in Sri Lanka|Sri Lanka]]
+| [[Theravada Buddhism]]
+| [[Buddhism in Sri Lanka|70.2%]]
+| [[Christianity in Sri Lanka|6.2%]]
+| [[Hinduism in Sri Lanka|12.6%]]
+| [[Islam in Sri Lanka|9.7%]]
+| -
+| -
+| 1.4%
+| 2011<ref name="2011census">{{cite web |title=Census of Population and Housing 2011 |url=http://www.statistics.gov.lk/PopHouSat/CPH2011/index.php?fileName=SriLanka&gp=Activities&tpl=3 |publisher=Department of Census and Statistic |access-date=16 October 2019}}</ref>
+|}
+
+===Largest urban areas===
+South Asia is home to some of the most populated urban areas in the world. According to the 2020 edition of ''Demographia World Urban Areas'', the region contains 8 of the world's 35 megacities (urban areas over 10 million population):<ref name="demographia1">{{cite web |url=http://www.demographia.com/db-worldua.pdf |title=Demographia World Urban Areas |last=Cox |first=Wendell |author-link=Wendell Cox |date=June 2020 |publisher=[[Demographia]] |access-date=28 March 2021}}</ref>
+{|class="wikitable sortable" style="text-align:left"
+!Rank
+!Urban Area
+!State/Province
+!Country
+!Population<ref name="demographia1" />
+!Area (km<sup>2</sup>)<ref name="demographia1"/>
+!Density (/km<sup>2</sup>)<ref name="demographia1"/>
+|-
+||1||[[Delhi]]
+|[[National Capital Region (India)|National Capital Region]]||{{Country|India}}||29,617,000||2,232||13,266
+|-
+||2||[[Mumbai]]
+|[[Maharashtra]]||{{Country|India}}||23,355,000||944||24,773
+|-
+||3||[[Kolkata]]
+|[[West Bengal]]|||{{Country|India}}||17,560,000||1,351||12,988
+|-
+||4||[[Dhaka]]
+|[[Dhaka Division]]||{{Country|Bangladesh}}||21,741,000||2161.17||10,060
+|-
+||5||[[Karachi]]
+|[[Sindh]]||{{Country|Pakistan}}||14,835,000||1,044||14,213
+|-
+||6||[[Bangalore]]
+|[[Karnataka]]||{{Country|India}}||13,707,000||1,205||11,381
+|-
+||7||[[Chennai]]
+|[[Tamil Nadu]]||{{Country|India}}||11,324,000||1,049||10,795
+|-
+||8||[[Lahore]]
+|[[Punjab, Pakistan|Punjab]]||{{Country|Pakistan}}||11,021,000||853||12,934
+|}
+
+===Sports===
+{{Main cat|Sport in South Asia}}
+[[Cricket]] is the most popular sport in South Asia,<ref>{{Cite news|date=2006-12-21|title=South Asia's cricket obsession|language=en-GB|url=http://news.bbc.co.uk/2/hi/south_asia/6171549.stm|access-date=2020-12-01}}</ref> with 90% of the sport's fans in the [[Indian subcontinent]].<ref>{{Cite news|title=India constitutes 90 percent of one billion cricket fans: ICC research|work=The Economic Times|url=https://economictimes.indiatimes.com/news/sports/india-constitutes-90-percent-of-one-billion-cricket-fans-icc-research/articleshow/64760726.cms|access-date=2020-12-01}}</ref>
+
+==Economy==
+{{Further|Economy of Afghanistan|Economy of Bangladesh|Economy of India|Economy of Nepal|Economy of Pakistan|Economy of Sri Lanka}}
+[[File:SAARC.PNG|thumb|right|upright=1.25|Countries under the [[South Asian Free Trade Area]]]]
+
+India is the largest economy in the region (US$2.957 trillion) and makes up almost 80% of the South Asian economy; it is the [[List of countries by GDP (nominal)|world's 5th largest]] in nominal terms and [[List of countries by GDP (PPP)|3rd largest]] by purchasing power adjusted exchange rates (US$10.385 trillion).<ref name="IMF">{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?pr.x=82&pr.y=15&sy=2017&ey=2018&scsm=1&ssd=1&sort=subject&ds=.&br=1&c=512%2C556%2C513%2C514%2C558%2C564%2C524%2C534&s=NGDPD%2CPPPGDP&grp=0&a=|title=Report for Selected Countries and Subjects|publisher=IMF|website=imf.org}} Outlook Database, October 2018</ref> India is the only member of powerful [[G-20 major economies]] and [[BRICS]] from the region. It is the fastest-growing major economy in the world and one of the world's fastest registering a growth of 7.3% in FY 2014–15.
+
+India is followed by Bangladesh, which has a GDP of ($378.656 billion) and a GDP per capita of $2214, which is 3rd in the region. It has the fastest GDP growth rate in Asia. It is one of the [[emerging and growth-leading economies]] of the world, and is also listed among the [[Jim O'Neill, Baron O'Neill of Gatley#Next Eleven|Next Eleven]] countries. It is also one of the fastest-growing middle-income countries. It has the [[List of countries by GDP (nominal)|world's 33rd largest]] GDP in nominal terms and is the [[List of countries by GDP (PPP)|27th largest]] by purchasing power adjusted exchange rates ($1.015 trillion). Bangladesh's economic growth crossed 7% in fiscal 2015–2016 after almost a decade in holding a growth rate of 6%, and is expected to grow by 8.13% in 2019–2020. Pakistan has an economy of ($314 billion) and ranks 5th in GDP per capita in the region.<ref>{{cite web |url=http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/0,,pagePK:158889~piPK:146815~theSitePK:223547,00.html |title=Welcome to WorldBank Group |website=World Bank |access-date=2010-08-23 |archive-url=https://archive.today/20120716183002/web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/0,,pagePK:158889~piPK:146815~theSitePK:223547,00.html |archive-date=16 July 2012 |url-status=live }}</ref> Next is [[Sri Lanka]], which has the 2nd highest GDP per capita and the 4th largest economy in the region. According to a [[World Bank]] report in 2015, driven by a strong expansion in India, coupled with favorable oil prices, from the last quarter of 2014 South Asia became the fastest-growing region in the world<ref>{{cite web|url=http://www.worldbank.org/en/news/press-release/2015/04/13/south-asia-cheap-oil-reform-energy-pricing|title=South Asia, now the fastest-growing region in the world, could take greater advantage of cheap oil to reform energy pricing|access-date=16 April 2015|archive-url=https://web.archive.org/web/20150417182523/http://www.worldbank.org/en/news/press-release/2015/04/13/south-asia-cheap-oil-reform-energy-pricing|archive-date=17 April 2015|url-status=live}}</ref>
+
+{| class="wikitable sortable"
+|- style="background:#ececec;"
+! rowspan="2" |[[Country]]<br /><ref name="CIA Names" /><ref name="UN_Names" /><ref name="Europa" />
+! colspan="5" |GDP
+! rowspan="2" |[[Inflation]]
+(2017)<ref>{{Cite web |url=http://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD |title=World Economic Outlook (April 2017) – Inflation rate, average consumer prices |website=IMF |access-date=2017-08-26 |archive-url=https://web.archive.org/web/20170826193838/http://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD |archive-date=26 August 2017 |url-status=live }}</ref>
+! colspan="2" |HDI
+|-
+![[List of countries by GDP (nominal)|Nominal GDP]]<br /> (in millions) (2019) (%Share)<ref name="IMF Oct 2019">{{Cite web|date=October 2019|title=World Economic Outlook - GDP current prices, in billions of dollars|url=https://www.imf.org/external/datamapper/NGDPD@WEO/OEMDC/ADVEC/WEOWORLD|access-date=2020-01-09|work=International Monetary Fund}}</ref>
+![[List of countries by GDP (nominal) per capita|GDP per capita]]
+(2019)<ref name="IMF Oct 2019 - 2">{{Cite web|date=October 2019|title=World Economic Outlook - GDP current prices, per capita|url=https://www.imf.org/external/datamapper/NGDPDPC@WEO/OEMDC/ADVEC/WEOWORLD/|access-date=2020-01-09|work=International Monetary Fund}}</ref>
+![[List of countries by GDP (PPP)|GDP (PPP)]]<br /> (in millions) (2019) (%Share)
+![[List of countries by GDP (PPP) per capita|GDP (PPP) per capita]] (2019)
+![[Economic growth|GDP growth]]
+(2017)<ref>{{Cite web|title=World Economic Outlook (April 2017) – Real GDP growth|url=http://www.imf.org/external/datamapper/NGDP_RPCH@WEO/OEMDC/ADVEC/WEOWORLD|url-status=live|archive-url=https://web.archive.org/web/20170826193836/http://www.imf.org/external/datamapper/NGDP_RPCH@WEO/OEMDC/ADVEC/WEOWORLD|archive-date=26 August 2017|access-date=2017-08-26|website=IMF}}</ref>
+![[Human Development Index|HDI]]
+(2018)<ref name="UNDP2019" />
+![[List of countries by inequality-adjusted HDI|Inequality-adjusted HDI]] (2019)<ref>{{cite web|title=Inequality-adjusted HDI (IHDI)|url=http://hdr.undp.org/en/indicators/138806|access-date=23 September 2020|website=hdr.undp.org|publisher=[[United Nations Development Programme|UNDP]]}}</ref>
+|-
+|{{Country|Afghanistan }}
+| align="right" |$18,734 (0.51%)
+| align="right" |$513
+| align="right" |$76,714 (0.55%)
+| align="right" |$2,101
+| align="right" |3%
+| align="right" |6%
+| align="right" |{{Increase}}0.511 (''<span style="color:red">low</span>'')
+| align="right" |No data
+|-
+|{{Country|Bangladesh}}
+| align="right" |$318,465 (8.93%)
+| align="right" |$2,104
+| align="right" |$1,029,270 (9.00%)
+| align="right" |$4,992
+| align="right" |4.5%
+| align="right" |5.44%
+| align="right" |{{Increase}}0.632 (''<span style="color:orange">medium</span>'')
+| align="right" |{{Increase}}0.465 (''<span style="color:red">low</span>'')
+|-
+|{{Country|Bhutan}}
+| align="right" |$2,842 (0.08%)
+| align="right" |$3,423
+| align="right" |$9,310 (0.066%)
+| align="right" |$10,193
+| align="right" |5.9%
+| align="right" |4.1%
+| align="right" |{{Increase}}0.654 (''<span style="color:orange">medium</span>'')
+| align="right" |{{Increase}}0.450 (''<span style="color:red">low</span>'')
+|-
+|{{Country|India}}
+| align="right" |$2,835,570 (77.16%)
+| align="right" |$2,172
+| align="right" |$9,092,697 (76.68%)
+| align="right" |$7,584
+| align="right" |7.0%
+| align="right" |4.8%
+| align="right" |{{Increase}}0.645 (''<span style="color:orange">medium</span>'')
+| align="right" |{{Increase}}0.538 (''<span style="color:red">low</span>'')
+|-
+|{{Country|Maldives}}
+| align="right" |$5,786 (0.16%)
+| align="right" |$15,563
+| align="right" |$6,708 (0.048%)
+| align="right" |$21,320
+| align="right" |4.1%
+| align="right" |2.5%
+| align="right" |{{Increase}}0.740 (''<span style="color:lightgreen">high</span>'')
+| align="right" |{{Increase}}0.568 (''<span style="color:orange">medium</span>'')
+|-
+|{{Country|Nepal}}
+| align="right" |$29,813 (0.81%)
+| align="right" |$1,048
+| align="right" |$87,472 (0.62%)
+| align="right" |$2,984
+| align="right" |7.7%
+| align="right" |6.2%
+| align="right" |{{Increase}}0.602 (''<span style="color:orange">medium</span>'')
+| align="right" |{{Increase}}0.430 (''<span style="color:red">low</span>'')
+|-
+|{{Country|Pakistan}}
+| align="right" |$314,214 (8.76%)
+| align="right" |$1,568
+| align="right" |$1,125,663 (11.82%)
+| align="right" |$5,839
+| align="right" |2.1%
+| align="right" |4.3%
+| align="right" |{{Increase}}0.557 (''<span style="color:orange">medium</span>'')
+| align="right" |{{Increase}}0.386 (''<span style="color:red">low</span>'')
+|-
+|{{Country|Sri Lanka}}
+| align="right" |$86,566 (2.36%)
+| align="right" |$3,947
+| align="right" |$319,791 (2.28%)
+| align="right" |$14,680
+| align="right" |3.0%
+| align="right" |5.8%
+| align="right" |{{Increase}}0.782 (''<span style="color:lightgreen">high</span>'')
+| align="right" |{{Increase}}0.686 (''<span style="color:orange">medium</span>'')
+|-
+!'''South Asia'''
+! '''$3,562,255 (100%)'''
+! '''$2,064'''
+! '''$14,001, 625 (100%)'''
+! '''$7,629'''
+!-
+!-
+! {{Increase}}0.640 (''<span style="color:orange">medium</span>'')
+!-
+|}
+
+According to the World Bank's 2011 report, based on 2005 ICP PPP, about 24.6% of the South Asian population falls below the international poverty line of $1.25/day.<ref>{{cite web|url=http://povertydata.worldbank.org/poverty/region/SAS|title=Poverty & Equity Data Portal|website=povertydata.worldbank.org|access-date=6 June 2015|archive-url=https://web.archive.org/web/20150215193607/http://povertydata.worldbank.org/poverty/region/SAS|archive-date=15 February 2015|url-status=live}}</ref> Afghanistan and Bangladesh rank the highest, with 30.6% and 43.3% of their respective populations below the poverty line. Bhutan, Maldives and Sri Lanka have the lowest number of people below the poverty line, with 2.4%, 1.5% and 4.1% respectively. India has lifted the most people in the region above the poverty line between 2008 and 2011, with around 140 million being raised from the poverty line. As of 2011, 21.9% of India's population lives below the poverty line, compared to 41.6% in 2005.<ref>{{cite news|url=http://www.livemint.com/Opinion/xrATLLP8ojKEVEQgJV0UxJ/The-World-Bank-on-Indias-poverty.html|title=The World Bank on India's poverty|first=Manas|last=Chakravarty|newspaper=Live Mint|date=13 October 2014|access-date=6 June 2015|archive-url=https://web.archive.org/web/20150623075308/http://www.livemint.com/Opinion/xrATLLP8ojKEVEQgJV0UxJ/The-World-Bank-on-Indias-poverty.html|archive-date=23 June 2015|url-status=live}}</ref><ref>{{cite web|url=http://data.worldbank.org/country/india|title=India – Data|website=data.worldbank.org|access-date=6 June 2015|archive-url=https://web.archive.org/web/20150619201931/http://data.worldbank.org/country/india|archive-date=19 June 2015|url-status=live}}</ref>
+
+{| class="wikitable sortable"
+! rowspan="2" |[[Country]]<br /><ref name="CIA Names">{{Cite web |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2142.html |title=Field Listing :: Names |publisher=CIA |access-date=28 July 2011 |archive-url=https://web.archive.org/web/20170701201536/https://www.cia.gov/library/publications/the-world-factbook/fields/2142.html |archive-date=1 July 2017 |url-status=live }}</ref><ref name="UN_Names">{{cite web |url=http://unstats.un.org/unsd/geoinfo/UNGEGN/docs/9th-uncsgn-docs/UNGEGN%20WG%20Country%20Names%20Document%20-%20August%202009.pdf |title=UNGEGN List of Country Names |publisher=United Nations Group of Experts on Geographical Names |year=2007 |access-date=28 July 2011 |archive-url=https://web.archive.org/web/20110728144159/http://unstats.un.org/unsd/geoinfo/UNGEGN/docs/9th-uncsgn-docs/UNGEGN%20WG%20Country%20Names%20Document%20-%20August%202009.pdf |archive-date=28 July 2011 |url-status=live }}</ref><ref name="Europa">{{cite web |url=http://publications.europa.eu/code/en/en-5000500.htm#fn-tw1 |title=List of countries, territories and currencies |publisher=Europa |date=9 August 2011 |access-date=10 August 2011 |archive-url=https://web.archive.org/web/20110807122658/http://publications.europa.eu/code/en/en-5000500.htm#fn-tw1 |archive-date=7 August 2011 |url-status=live }}</ref>
+! colspan="4" |[[List of countries by percentage of population living in poverty|Population below poverty line]] (at $1.9/day)
+! rowspan="2" |Population under-nourished (2015)<ref name="fao.org">{{cite web|title=UN|url=http://www.fao.org/3/a-i4624e.pdf|url-status=live|archive-url=https://web.archive.org/web/20150924011158/http://www.fao.org/3/a-i4624e.pdf|archive-date=24 September 2015|access-date=3 June 2015}}</ref>
+! rowspan="2" |[[Life expectancy]] (2018)<ref name="MLT">{{cite web|title=Human Development Report 2019|url=http://hdr.undp.org/sites/all/themes/hdr_theme/country-notes/MLT.pdf|publisher=[[United Nations Development Programme]]|language=en}}</ref> (global rank)
+! colspan="3" |Global wealth report (2019)<ref name="CS 2019-1">{{Cite web|title=Global wealth report|url=https://www.credit-suisse.com/about-us/en/reports-research/global-wealth-report.html|access-date=October 25, 2019|website=www.credit-suisse.com|publisher=[[Credit Suisse]]}}</ref><ref name="CS 2019-2">{{Cite web|title=Global wealth report 2019|url=https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2019-en.pdf|access-date=October 25, 2019|publisher=[[Credit Suisse]]}}</ref><ref name="CS 2019-3">{{Cite web|title=Global wealth databook 2019|url=https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-databook-2019.pdf|url-status=dead|archive-url=https://web.archive.org/web/20191023104250/https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-databook-2019.pdf|archive-date=23 October 2019|access-date=25 October 2019|publisher=[[Credit Suisse]]}}</ref>
+|- style="background:#ececec;"
+![[World Bank]]<ref name=":0">{{Cite web|title=Poverty headcount ratio at national poverty lines (% of population) {{!}} Data|url=http://data.worldbank.org/indicator/SI.POV.NAHC?locations=CO&view=map&year_high_desc=true|access-date=2017-08-26|website=data.worldbank.org}}</ref> (year)
+![[Multidimensional Poverty Index]] (2017)<ref name=":1">{{Cite web|title=Multidimensional Poverty Index 2019: Illuminating Inequalities|url=http://hdr.undp.org/sites/default/files/mpi_2019_publication.pdf|access-date=2020-09-25|work=Human Development Reports}}</ref>
+!Population in [[Extreme poverty]] (2017)
+
+![[The World Factbook|CIA Factbook]] (2015)<ref name="CIA Factbook">{{cite web|title=The World Factbook — Central Intelligence Agency|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2046.html|url-status=live|archive-url=https://web.archive.org/web/20151109070125/https://www.cia.gov/Library/publications/the-world-factbook/fields/2046.html|archive-date=9 November 2015|access-date=23 August 2016|website=www.cia.gov}}</ref>
+![[List of countries by total wealth|Total national wealth]] in billion USD (global rank)
+![[List of countries by wealth per adult|Wealth per adult]] in USD
+![[List of countries by wealth per adult|Median wealth per adult]] in USD (golabl rank)
+|-
+|'''{{Country|Afghanistan}}'''
+| align="right" |54.5% (2016)
+| align="right" |55.9%
+| align="right" |24.9%
+| align="right" |35.8%
+| align="right" |26.8%
+| align="right" |64.5 (151st)
+| align="right" |25 (116th)
+| align="right" |1,463
+| align="right" |640 (156th)
+|-
+|'''{{Country|Bangladesh}}'''
+| align="right" |24.3% (2016)
+| align="right" |41.7%
+| align="right" |16.7%
+| align="right" |7.5%
+| align="right" |16.4%
+| align="right" |72.3 (108th)
+| align="right" |697 (44th)
+| align="right" |6,643
+| align="right" |2,787 (117th)
+|-
+|'''{{Country|Bhutan}}'''
+| align="right" |8.2% (2017)
+| align="right" |37.3%
+| align="right" |14.7%
+| align="right" |12%
+| align="right" |No data
+| align="right" |71.5 (115th)
+| align="right" |No Data
+| align="right" |No Data
+| align="right" |No Data
+|-
+|'''{{Country|India}}'''
+| align="right" |21.9% (2011)
+| align="right" |27.9%
+| align="right" |8.8%
+| align="right" |21.2%
+| align="right" |15.2%
+| align="right" |69.4 (130th)
+| align="right" |12,614 (7th)
+| align="right" |14,569
+| align="right" |3,042 (115th)
+|-
+|'''{{Country|Maldives}}'''
+| align="right" |8.2% (2016)
+| align="right" |0.8%
+| align="right" |0.0%
+| align="right" |16%
+| align="right" |5.2%
+| align="right" |No data
+| align="right" |7 (142nd)
+| align="right" |23,297
+| align="right" |8,555 (74th)
+|-
+|'''{{Country|Nepal}}'''
+| align="right" |25.2% (2010)
+| align="right" |34%
+| align="right" |11.6%
+| align="right" |25.2%
+| align="right" |7.8%
+| align="right" |70.5 (124th)
+| align="right" |68 (94th)
+| align="right" |3,870
+| align="right" |1,510 (136th)
+|-
+|'''{{Country|Pakistan}}'''
+| align="right" |24.3% (2015)
+| align="right" |38.3%
+| align="right" |21.5%
+| align="right" |24.3%
+| align="right" |22%
+| align="right" |67.1 (140th)
+| align="right" |465 (49th)
+| align="right" |4,096
+| align="right" |1,766 (128th)
+|-
+|'''{{Country|Sri Lanka}}'''
+| align="right" |4.1% (2016)
+| align="right" |No data
+| align="right" |No data
+| align="right" |8.9%
+| align="right" |22%
+| align="right" |76.8 (56th)
+| align="right" |297 (60th)
+| align="right" |20,628
+| align="right" |8,283 (77th)
+|}
+
+The major stock exchanges in the region are [[Bombay Stock Exchange]] (BSE) with market Capitalization of $2.298 trillion ([[List of stock exchanges|11th largest in the world]]), [[National Stock Exchange of India]] (NSE) with market capitalization of $2.273 trillion ([[List of stock exchanges|12th largest in the world]]), [[Dhaka Stock Exchange]] (DSE), [[Colombo Stock Exchange]] (CSE), and [[Pakistan Stock Exchange]] (PSX) with market capitalization of $72 billion.<ref>{{cite web |url=https://www.psx.com.pk/ |title=Company Profile |website=Pakistan Stock Exchange |access-date=30 June 2018 |archive-url=https://web.archive.org/web/20180630185944/https://www.psx.com.pk/ |archive-date=30 June 2018 |url-status=live }}</ref>
+Economic data is sourced from the [[International Monetary Fund]], current as of April 2017, and is given in [[US dollars]].<ref name="auto">{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2015/01/weodata/weorept.aspx?pr.x=83&pr.y=16&sy=2015&ey=2015&scsm=1&ssd=1&sort=country&ds=.&br=1&c=193,273,223,156,924,922,132,184,134,534,536,136,158,112,111,542&s=NGDPD,PPPGDP&grp=0&a=|title=Report for Selected Countries and Subjects|website=www.imf.org|access-date=7 November 2017|archive-url=https://web.archive.org/web/20171010173821/http://www.imf.org/external/pubs/ft/weo/2015/01/weodata/weorept.aspx?pr.x=83&pr.y=16&sy=2015&ey=2015&scsm=1&ssd=1&sort=country&ds=.&br=1&c=193%2C273%2C223%2C156%2C924%2C922%2C132%2C184%2C134%2C534%2C536%2C136%2C158%2C112%2C111%2C542&s=NGDPD%2CPPPGDP&grp=0&a=|archive-date=10 October 2017|url-status=live}}</ref>
+
+==Education==
+[[File:Durbar High School 6.jpg|thumb|[[Durbar High School]], oldest secondary school of [[Nepal]], established in 1854 CE]]
+[[File:Sri Lanka Photo159.jpg|thumb|Lower class school in Sri Lanka]]
+[[File:College of Natural Resources, Royal University of Bhutan-min.jpg|thumb|College of Natural Resources, Royal University of Bhutan]]
+
+One of the key challenges in assessing the quality of education in South Asia is the vast range of contextual difference across the region, complicating any attempt to compare between countries.<ref name=SZ13>Suzana Brinkmann, [https://www.unicef.org/rosa/media/6991/file/Improving%20Education%20Quality%20in%20South%20Asia%20(I)_30Aug_019_Web.pdf.pdf Improving Education Quality in South Asia] (I), page 13, United Nations Children's Fund, Regional Office for South Asia, Nepal, 2018</ref> In 2018, 11.3 million children at the primary level and 20.6 million children at the lower secondary level were out-of-school in South Asia, while millions of children completed primary education without mastering the foundational skills of basic numeracy and literacy.<ref name=ESAFS>[https://www.unicef.org/rosa/what-we-do/education#:~:text=Education%20is%20a%20basic%20human,are%20out%2Dof%2Dschool. Education: South Asia], UNICEF</ref>
+
+According to UNESCO, 241 million children between six and fourteen years or 81 percent of the total were not learning in Southern and Central Asia in 2017. Only sub-Saharan Africa had a higher rate of children not learning. Two-thirds of these children were in school, sitting in classrooms. Only 19 percent of children attending primary and lower secondary schools attaining a minimum proficiency level in reading and mathematics.<ref name=MoreT>[http://uis.unesco.org/sites/default/files/documents/fs46-more-than-half-children-not-learning-en-2017.pdf ''More than One-Half of Children and Adolescents are not learning worldwide''], Fact Sheet No.46, UNESCO Institute for Statistics September 2017</ref><ref name=SZ3>Suzana Brinkmann, [https://www.unicef.org/rosa/media/6991/file/Improving%20Education%20Quality%20in%20South%20Asia%20(I)_30Aug_019_Web.pdf.pdf Improving Education Quality in South Asia] (I), page 3, United Nations Children's Fund, Regional Office for South Asia, Nepal, 2018</ref> According to a citizen-led assessment, only 48% in Indian public schools and 46% of children in Pakistan public schools could read a class two level text by the time they reached class five.<ref>[http://aserpakistan.org/report ASER Pakistan] (2015). Annual Status of Education Report (Facilitated by SAFED). ASER Centre<br>[http://www.asercentre.org//p/289.html ASER India] (2016). Annual Status of Education Report (Facilitated by Pratham). ASER Centre</ref><ref name=SZ3/> This poor quality of education in turn has contributed to the some of the highest drop-out rates in the world. While over half of the students complete secondary school with acquiring requisite skills.<ref name=SZ3/>
+
+In South Asia, classrooms are teacher-centred and rote-based, while children are often subjected to corporal punishment and discrimination.<ref name=ESAFS/> Different South Asian countries have different education structures. While by 2018 India and Pakistan has two of the most developed and increasingly decentralised education systems, Bangladesh still had a highly centralised system, and Nepal is in a state of transition from a centralized to a decentralized system.<ref name=SZ13/> In most South Asian countries children's education is theoretically free; the exceptions being the Maldives, where there is no constitutionally guaranteed free education, as well as Bhutan and Nepal where fees are charged by primary schools. But parents are still faced with unmanageable secondary financial demands, including private tuition to make up for the inadequacies of the education system.<ref name=Oxfam4>[https://oxfamilibrary.openrepository.com/bitstream/handle/10546/120598/pi-girls%27-education-south-asia-192305-en.pdf?sequence=1&isAllowed=y Girls’ Education in South Asia], page 4, Education and Gender Equality Series, Programme Insights, Oxfam GB. February 2006</ref>
+
+The larger and poorer countries in the region, like India and Bangladesh, struggle financially to get sufficient resources to sustain an education system required for their vast populations, with an added challenge of getting large numbers of out-of-school children enrolled into schools.<ref name=SZ13/> Their capacity to deliver inclusive and equitable quality education is limited by low levels of public finance for education,<ref name=ESAFS/> while the smaller emerging middle-income countries like Sri Lanka, Maldives and Bhutan have been able to achieve universal primary school completion, and are in a better position to focus on quality of education.<ref name=SZ13/>
+
+Children's education in the region is also adversely affected by natural and human-made crises including natural hazards, political instability, rising extremism and civil strife that makes it difficult to deliver educational services.<ref name=ESAFS/> Afghanistan and India are among the top ten countries with the highest number of reported disasters due to natural hazards and conflict. The precarious security situation in Afghanistan is a big barrier in rolling out education programmes on a national scale.<ref name=SZ13/>
+
+According to UNICEF, girls face incredible hurdles to pursue their education in the region,<ref name=ESAFS/> while UNESCO estimated in 2005 that 24 million girls of primary-school age in the region were not receiving any formal education.<ref>[https://en.unesco.org/gem-report/report/2006/literacy-life Global Monitoring Report 2006: Literacy for Life], UNESCO, Paris</ref><ref>[https://oxfamilibrary.openrepository.com/bitstream/handle/10546/120598/pi-girls%27-education-south-asia-192305-en.pdf?sequence=1&isAllowed=y Girls’ Education in South Asia], page 1, Education and Gender Equality Series, Programme Insights, Oxfam GB. February 2006</ref> Between 1900 and 2005, most of the countries in the region had shown progress in girls' education with Sri Lanka and the Maldives significantly ahead of the others, while the gender gap in education has widened in Pakistan and Afghanistan. Bangladesh made the greatest progress in the region in the period increasing girls’ secondary school enrolment from 13 percent to 56 percent in ten years.<ref name=ERC>E. Unterhalter, R. Rajagopalan, and C. Challender, [http://k1.ioe.ac.uk/schools/efps/GenderEducDev/Asia%20Scorecard%20final.pdf A scorecard on girls’ education in Asia]: 1990 –2000. UNESCO, Bangkok. 2004.</ref><ref name=Oxfam2>[https://oxfamilibrary.openrepository.com/bitstream/handle/10546/120598/pi-girls%27-education-south-asia-192305-en.pdf?sequence=1&isAllowed=y Girls’ Education in South Asia], page 2, Education and Gender Equality Series, Programme Insights, Oxfam GB. February 2006</ref>
+
+With about 21 million students in 700 universities and 40 thousand colleges India had the one of the largest higher education systems in the world in 2011, accounting for 86 percent of all higher-level students in South Asia. Bangladesh (two million) and Pakistan (1.8 million) stood at distant second and third positions in the region. In Nepal (390 thousand) and Sri Lanka (230 thousand) the numbers were much smaller. Bhutan with only one university and Maldives with none hardly had between them about 7000 students in higher education in 2011. The gross enrolment ratio in 2011 ranged from about 10 percent in Pakistan and Afghanistan to above 20 percent in India, much below the global average of 31 percent.<ref name=Tilak>Jandhyala B.G. Tilak, [https://www.jstor.org/stable/24372963?read-now=1&seq=1#page_scan_tab_contents Higher Education in South Asia: Crisis and Challenges], page 5, Social Scientist, Vol. 43, No. 1/2 (January–February 2015)</ref>
+[[File:IOE,Central Campus.jpg|thumb|244x244px|I[[Institute of Engineering]], [[Pulchowk Campus]], [[Nepal]]]]
+{| class="wikitable"
+! colspan="2"| Parameters
+!Afghanistan|| Bangladesh|| Bhutan || India || Maldives || Nepal || Pakistan || Sri Lanka
+|-
+| colspan="2" |Primary School Enrollment<ref>{{Cite web|url=http://data.worldbank.org/indicator/SE.PRM.NENR|title=School enrollment, primary (% net) {{!}} Data|website=data.worldbank.org|access-date=2017-08-26|archive-url=https://web.archive.org/web/20150701185547/http://data.worldbank.org/indicator/SE.PRM.NENR|archive-date=1 July 2015|url-status=live}}</ref>
+|29%||90%||85%||92%||94%||96%||73%||98%
+|-
+| colspan="2" |Secondary School Enrollment<ref>{{cite web|url=http://data.worldbank.org/indicator/SE.SEC.ENRR/countries|title=Gross enrolment ratio, secondary, both sexes (%) – Data|website=data.worldbank.org|access-date=3 June 2015|archive-url=https://web.archive.org/web/20150516152545/http://data.worldbank.org/indicator/SE.SEC.ENRR/countries|archive-date=16 May 2015|url-status=live}}</ref>
+|49%||54%||78%||68%||N/A||72%||38%||96%
+|}
+
+==Health and nutrition==
+[[File:Babyimmunization.jpg|thumb|upright|Child getting vaccine in Bangladesh under the [[Expanded Programme on Immunization]] (EPI)]]
+
+According to [[World Health Organization]] (WHO), South Asia is home to two out of the three countries in the world still affected by polio, Pakistan and Afghanistan, with 306 & 28 polio cases registered in 2014 respectively.<ref>{{cite web|url=http://www.polioeradication.org/Infectedcountries/Afghanistan.aspx|title=GPEI|url-status=dead|archive-url=https://web.archive.org/web/20150706045955/http://www.polioeradication.org/Infectedcountries/Afghanistan.aspx|archive-date=6 July 2015}}</ref> Attempts to eradicate polio have been badly hit by opposition from militants in both countries, who say the program is cover to spy on their operations. Their attacks on immunization teams have claimed 78 lives since December 2012.<ref>{{cite news |url=http://www.dawn.com/news/1151027 |title=Lost — The battle against polio |last1=Haider |first1=Sajjad |last2=Khan |first2=Shameen |newspaper=Dawn |date=31 December 2014 |access-date=4 June 2015 |archive-url=https://web.archive.org/web/20150605081706/http://www.dawn.com/news/1151027 |archive-date=5 June 2015 |url-status=live }}</ref>
+
+The [[World Bank]] estimates that [[India]] is one of the highest ranking countries in the world for the number of children suffering from [[malnutrition]]. The prevalence of underweight children in India is among the highest in the world and is nearly double that of [[Sub Saharan Africa]] with dire consequences for mobility, mortality, productivity, and economic growth.<ref>{{cite web|url= http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/0,,contentMDK:20916955~pagePK:146736~piPK:146830~theSitePK:223547,00.html|title= World Bank Report|access-date= 2009-03-13|publisher= The World Bank|year= 2009|quote= World Bank Report on Malnutrition in India|archive-url= https://web.archive.org/web/20081218015506/http://www.worldbank.org.in/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/INDIAEXTN/0,,contentMDK:20195738~menuPK:295591~pagePK:141137~piPK:141127~theSitePK:295584,00.html|archive-date= 18 December 2008|url-status= live}}</ref>
+
+[[File:PRT Farah visits Children's Supplemental Feeding Center in Farah City 130119-N-LR347-327.jpg|thumb|left|A weekly child examination performed at a hospital in [[Farah, Afghanistan]]]]
+
+According to the World Bank, 70% of the South Asian population and about 75% of South Asia's poor live in rural areas and most rely on agriculture for their livelihood<ref>{{cite web|url=http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/EXTSAREGTOPAGRI/0,,contentMDK:20750711~menuPK:452772~pagePK:34004173~piPK:34003707~theSitePK:452766,00.html|title=Agriculture in South Asia|publisher=World Bank|access-date=21 February 2009|archive-url=https://web.archive.org/web/20080706154611/http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/EXTSAREGTOPAGRI/0,,contentMDK:20750711~menuPK:452772~pagePK:34004173~piPK:34003707~theSitePK:452766,00.html|archive-date=6 July 2008|url-status=live}}</ref> according to the UN's Food and Agricultural Organisation. In 2015, approximately 281 million people in the region were malnourished. The report says that Nepal reached both the WFS target as well as MDG and is moving towards bringing down the number of undernourished people to less than 5% of the population.<ref name="fao.org"/> Bangladesh reached the MDG target with the National Food Policy framework{{snd}}with only 16.5% of the population undernourished. In India, the malnourished comprise just over 15 percent of the population. While the number of malnourished people in the neighborhood has shown a decline over the last 25 years, the number of under-nourished in Pakistan displays an upward trend. There were 28.7 million hungry in Pakistan in the 1990s{{snd}}a number that has steadily increased to 41.3 million in 2015 with 22% of the population malnourished. Approximately 194.6 million people are undernourished in India, which accounts for the highest number of people suffering from hunger in any single country.<ref name="fao.org"/><ref>{{cite news|url=http://www.dawn.com/news/1184959|title=India home to world's largest number of hungry people: report|newspaper=Dawn|date=29 May 2015|access-date=4 June 2015|archive-url=https://web.archive.org/web/20150604142045/http://www.dawn.com/news/1184959|archive-date=4 June 2015|url-status=live}}</ref>
+
+The 2006 report stated, "the low status of women in South Asian countries and their lack of nutritional knowledge are important determinants of high prevalence of underweight children in the region". Corruption and the lack of initiative on the part of the government has been one of the major problems associated with nutrition in India. Illiteracy in villages has been found to be one of the major issues that need more government attention. The report mentioned that although there has been a reduction in malnutrition due to the [[Green Revolution]] in South Asia, there is concern that South Asia has "inadequate feeding and caring practices for young children".<ref name="southasiahunger">{{cite news|url=http://news.bbc.co.uk/2/hi/south_asia/6046718.stm|title='Hunger critical' in South Asia|work=BBC News|date=2006-10-13|access-date=2010-01-04|first=Geeta|last=Pandey|archive-url=https://web.archive.org/web/20090112084920/http://news.bbc.co.uk/2/hi/south_asia/6046718.stm|archive-date=12 January 2009|url-status=live}}</ref>
+
+== Governance and politics ==
+=== Systems of government ===
+{{See also|List of legislatures in South Asia|List of countries by system of government}}
+{| class="wikitable sortable"
+!Country
+!Capital
+!Forms of government
+!Head of state
+!Head of government
+!Legislature
+!Official language
+![[Currency]]
+! width="90px" |Coat of arms / National Emblems
+|-
+| style="white-space:nowrap;" |{{flagicon|Islamic Emirate of Afghanistan}} [[Afghanistan]]
+|[[Kabul]]
+|[[Unitary state|Unitary]] [[Deobandi]] [[Islamic]] [[emirate]]
+| colspan="2" |<center>[[Head of the Islamic Emirate of Afghanistan|Head]]</center>
+|[[House of Elders (Afghanistan)|House of Elders]],
+[[House of the People (Afghanistan)|House of the People]]
+|[[Pashto]], [[Dari]]
+|'''؋''' [[Afghan afghani|Afghani]]
+| style="text-align:center;" |[[File:Arms of the Islamic Emirate of Afghanistan.svg|51x51px|Emblem of Afghanistan]]
+|-
+| style="white-space:nowrap;" |{{Country|Bangladesh}}
+|[[Dhaka]]
+|[[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[Republic|constitutional republic]]
+|[[President of Bangladesh|President]]
+|[[Prime Minister of Bangladesh|Prime Minister]]
+|[[Jatiya Sangsad]]
+|[[Bengali language|Bengali]], English
+|'''৳''' [[Bangladeshi taka|Taka]]
+| style="text-align:center;" |[[File:Coat of arms of Bangladesh.svg|50x50px|Coat of arms of Bangladesh]]
+|-
+|{{Country|Bhutan}}
+|[[Thimphu]]
+|[[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+|[[Druk Gyalpo|King]]
+|[[List of Prime Ministers of Bhutan|Prime Minister]]
+|[[National Council (Bhutan)|National Council]],
+[[National Assembly (Bhutan)|National Assembly]]
+|[[Dzongkha]]
+|'''Nu.''' [[Bhutanese ngultrum|Ngultrum]]
+| style="text-align:center;" |[[File:Emblem of Bhutan.svg|50x50px|Emblem of Bhutan]]
+|-
+|{{Country|India}}
+|[[New Delhi]]
+|[[Federal republic|Federal]] [[Parliamentary system|parliamentary]] constitutional republic
+|[[President of India|President]]
+|[[Prime Minister of India|Prime Minister]]
+|[[Rajya Sabha]],
+[[Lok Sabha]]
+|[[Hindi]], English
+|'''₹''' [[Indian rupee]]
+| style="text-align:center;" |[[File:Emblem of India.svg|85x85px|Emblem of India]]
+|-
+|{{Country|Maldives}}
+|[[Malé]]
+|[[Unitary state|Unitary]] [[Presidential system|presidential]] constitutional republic
+| colspan="2" |<center>[[President of the Maldives|President]]</center>
+|[[People's Majlis]]
+|[[Maldivian language|Maldivian]]
+|'''ރ''' [[Maldivian rufiyaa|Rufiyaa]]
+| style="text-align:center;" |[[File:Emblem of Maldives.svg|56x56px|Emblem of Maldives]]
+|-
+|{{Country|Nepal}}
+|[[Kathmandu]]
+|[[Federal republic|Federal]] [[Parliamentary system|parliamentary]] constitutional republic
+|[[President of Nepal|President]]
+|[[List of Prime Ministers of Nepal|Prime Minister]]
+|[[National Assembly (Nepal)|National Assembly]],
+[[House of Representatives (Nepal)|House of Representatives]]
+|[[Nepali language|Nepali]]
+|'''रु''' [[Nepalese rupee]]
+| style="text-align:center;" |[[File:Emblem of Nepal (2020).svg|50x50px|Emblem of Nepal]]
+|-
+|{{Country|Pakistan}}
+|[[Islamabad]]
+|[[Federal republic|Federal]] [[Parliamentary system|parliamentary]] [[Islamic republic]]
+|[[President of Pakistan|President]]
+|[[Prime Minister of Pakistan|Prime Minister]]
+|[[Senate of Pakistan|Senate]],
+[[National Assembly of Pakistan|National Assembly]]
+|[[Urdu]], English
+|'''₨''' [[Pakistani rupee]]
+| style="text-align:center;" |[[File:State emblem of Pakistan.svg|57x57px|State emblem of Pakistan]]
+|-
+|{{Country|Sri Lanka}}
+|[[Sri Jayawardenepura Kotte]]
+|[[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]] constitutional republic
+|[[President of Sri Lanka|President]]
+|[[Prime Minister of Sri Lanka|Prime Minister]]
+|[[Parliament of Sri Lanka|Parliament]]
+|[[Sinhala language|Sinhala]], [[Tamil language|Tamil]], English
+|'''රු/ரூ''' [[Sri Lankan rupee]]
+| style="text-align:center;" |[[File:Emblem of Sri Lanka.svg|71x71px|Emblem of Sri Lanka]]
+|}
+
+{{multiple image
+ | align = right
+ | direction = vertical
+ | width = 220
+ | image1 = New Delhi government block 03-2016 img3.jpg
+ | caption1 = [[Sansad Bhavan]], [[New Delhi]], India
+ | image2 = Parliament House, Islamabad by Usman Ghani.jpg
+ | caption2 = Parliament House, [[Islamabad]], Pakistan
+ | image3 = National Assembly (25967498804).jpg
+ | caption3 = [[Jatiya Sangsad Bhaban]], [[Dhaka]], Bangladesh
+ | image4 = The Parliament of Sri Lanka.jpg
+ | caption4 = [[Sri Lankan Parliament Building]], [[Sri Jayawardenapura Kotte]], Sri Lanka
+}}
+
+[[India]] is a [[Secular state|secular]] [[Federation|federative]] [[Parliamentary system|parliamentary republic]] with [[Prime Minister of India|premier]] as head of government. With most populous functional democracy in world<ref>{{cite web |url=https://www.bbc.co.uk/learningzone/clips/india-worlds-largest-democracy/10104.html |title=India: world's largest democracy |website=BBC Learning Zone Class Clips |archive-url=https://web.archive.org/web/20110114055717/http://www.bbc.co.uk/learningzone/clips/india-worlds-largest-democracy/10104.html |archive-date=2011-01-14}}</ref> and world's longest written constitution,<ref>{{Cite news|url=https://www.thehindu.com/features/kids/Celebrate-the-supreme-law/article14011992.ece|title=Celebrate the supreme law|last=Krithika|first=R.|date=21 January 2016|work=[[The Hindu]]|access-date=24 July 2018|publisher=[[N. Ram]]|issn=0971-751X|oclc=13119119}}</ref><ref>{{Cite book|title=India's Constitution|last=Pylee|first=Moolamattom Varkey|publisher=R. Chand & Company|year=1994|isbn=978-81-219-0403-2|edition=5th rev. and enl.|location=[[New Delhi]]|pages=3|oclc=35022507}}</ref><ref>{{Cite news|url=https://www.history.com/news/which-country-has-the-worlds-shortest-written-constitution|title=Which country has the world's shortest written constitution?|last=Nix|first=Elizabeth|date=9 August 2016|work=[[History (U.S. TV network)|History]]|access-date=24 July 2018|publisher=[[A&E Networks]]}}</ref> India has been stably sustaining the political system it adopted in 1950 with no regime change except that by a democratic election. India's sustained democratic freedoms are unique among the world's newer establishments. Since the [[Republic Day (India)|formation of its republic]] abolishing [[Government of India Act 1935|British law]], it has remained a democracy with civil liberties, an active Supreme Court, and a largely independent press.{{sfn|Metcalf|Metcalf|2006|p = 304}} India leads region in [[Democracy Index|democracy index]]. It has a [[multi-party system]] in its internal regional politics{{sfn|Burnell|Calvert|1999|p = 125}} whereas alternative transfer of powers to alliances of Indian [[United Progressive Alliance|left-wing]] and [[National Democratic Alliance|right-wing]] political parties in national government provide it with characteristics of a [[Two-party system|two-party state]].<ref name="Political Parties in India">{{cite web|title = Political Parties in India|url = http://electionaffairs.com/parties/parties.html|publisher = electionaffairs.com|access-date = 7 August 2012|archive-url = https://web.archive.org/web/20150707215933/http://electionaffairs.com/parties/parties.html|archive-date = 7 July 2015}}</ref> India has been facing notable internal religious conflicts and separatism however [[List of countries by Fragile States Index|consistently becoming more and more stable with time]].
+
+Foundation of Pakistan lies in [[Pakistan movement]] started in [[British Raj|colonial India]] based on [[Muslim nationalism in South Asia|Islamic nationalism]]. Pakistan is a [[Federal republic|federal]] [[Parliamentary system|parliamentary]] [[Islamic republic]] and was the world's first country to adopt [[Islamic republic]] system to modify its republican status under its otherwise secular constitution in 1956. Pakistan's governance is one of the most conflicted in the world. The [[Military coups in Pakistan|military rule and the unstable government in Pakistan]] has become a concern for the South Asian region. Out of 22 appointed [[List of Prime Ministers of Pakistan|Pakistani Prime ministers]], none has been able to complete a full term in office.<ref>{{Cite web|title = No One Has Ever Completed a Term as Pakistan's PM|url = https://foreignpolicy.com/2018/07/25/no-one-has-ever-completed-a-term-as-pakistans-pm/|date = July 25, 2018|access-date = October 18, 2019|publisher = [[Foreign Policy]]|website = foreignpolicy.com}}</ref> The nature of [[Politics of Pakistan|Pakistani politics]] can be characterized as a [[multi-party system]]. Pakistan's governance is one of the most conflicted in the region. The military rule and the unstable government in Pakistan have become a concern for the South Asian region. In [[Nepal]], the government has struggled to come in the side of democracy, and it only showed signs in the recent past, basically in the 21st century, to support the democratic system.
+
+[[Bangladesh]] is a [[Unitary state|unitary]] [[Parliamentary system|parliamentary republic]]. Law of Bangladesh defines it as both Islamic<ref>{{cite web|url=http://bdlaws.minlaw.gov.bd/sections_detail.php?id=367&sections_id=24549%7CSection|title=2A. The state religion|access-date=18 March 2015}}</ref> as well as secular.<ref>{{cite web|url=http://bdlaws.minlaw.gov.bd/sections_detail.php?id=367&sections_id=24560%7CSection|title=12.}}</ref> The nature of [[Politics of Bangladesh|Bangladeshi politics]] can be characterized as a [[multi-party system]]. Bangladesh is a [[unitary state]] and [[parliamentary democracy]].<ref>{{cite web|title=The world factbook-Bangladesh|url=https://www.cia.gov/the-world-factbook/countries/bangladesh/ |publisher=CIA|access-date=6 June 2014}}</ref> Bangladesh also stands out as one of the few Muslim-majority democracies. "It is a moderate and generally secular and tolerant — though sometimes this is getting stretched at the moment — alternative to [[violent extremism]] in a very troubled part of the world", said [[Dan Mozena]], the U.S. ambassador to [[Bangladesh]]. Although Bangladesh's legal code is [[secular]], more citizens are embracing a conservative version of [[Islam]], with some pushing for [[sharia law]], analysts say. Experts say that the rise in conservatism reflects the influence of foreign-financed Islamic charities and the more austere version of Islam brought home by migrant workers in [[Persian Gulf]] countries.<ref>{{cite news|last1=Gowen|first1=Annie|title=Bangladesh's political unrest threatens economic gains, democracy| url=https://www.washingtonpost.com/world/bangladeshs-political-unrest-threatens-economic-gains-democracy/2014/03/22/baf1807c-a369-11e3-84d4-e59b1709222c_story.html|newspaper=The Washington Post|access-date=6 June 2014| archive-url= https://web.archive.org/web/20140702060029/http://www.washingtonpost.com/world/bangladeshs-political-unrest-threatens-economic-gains-democracy/2014/03/22/baf1807c-a369-11e3-84d4-e59b1709222c_story.html|archive-date=2 July 2014|url-status=live}}</ref>
+
+[[Afghanistan]] has been a [[Unitary state|unitary]] [[Presidential system|presidential]] [[Islamic republic]] since 2004. Afghanistan has been suffering from one of the most unstable regimes on earth as a result of [[War in Afghanistan|multiple foreign invasions, civil wars, revolutions and terrorist groups]]. Persisting instability for decades have left country's economy stagnated and torn and Afghanistan remains one of most poor and [[Least developed country|least developed countries]] on the planet, leading to the influx of Afghan refugees to neighboring countries like [[Iran]].<ref name="AfgCIA"/>
+
+The [[Unitary state|unitary]] [[semi-presidential system|semi-presidential]] constitutional republic of [[Sri Lanka]] is oldest sustained democracy in Asia. Tensions between [[Sinhalese people|Sinhalese]] and [[Tamil people|Tamils]] led to [[Sri Lankan civil war]] that undermined the country's stability for more than two and a half decades.<ref name="mod-defeat">{{cite news |title=LTTE defeated; Sri Lanka liberated from terror |date=18 May 2009 |url=http://www.defence.lk/new.asp?fname=20090518_10 |work=Ministry of Defence |access-date=19 October 2019|url-status=dead |archive-url=https://web.archive.org/web/20090521113622/http://www.defence.lk/new.asp?fname=20090518_10 |archive-date=21 May 2009 |df=dmy }}</ref> Sri Lanka however, has been leading region in [[Human Development Index|HDI]] with per capita GDP well ahead of India, Pakistan and Bangladesh. The political situation in [[Sri Lanka]] has been dominated by an increasingly assertive [[Sinhalese people|Sinhalese]] nationalism, and the emergence of a [[Sri Lankan Tamil people|Tamil]] separatist movement under [[LTTE]], which was suppressed in May 2009.
+
+[[Nepal]] was the last Hindu state in world before [[Republic Day (Nepal)|becoming a secular democratic republic]] in 2008. The country has been ranked among world's poorest in terms of GDP per capita but has made considerable progress in development indicators outpacing many other South Asian states.
+
+[[Bhutan]] is a Buddhist state with a [[constitutional monarchy]]. The country has been ranked as the least corrupt and peaceful with most economic freedom in the region in 2016. [[Myanmar]]'s politics is dominated by a military [[Military junta|Junta]], which has sidelined the democratic forces led by [[Aung San Suu Kyi]]. [[Maldives]] is a unitary presidential republic with [[Sunni Islam]] strictly as the state religion.
+
+{| class="wikitable"
+|+ Governance and stability
+! colspan="2"| Parameters
+!Afghanistan|| Bangladesh|| Bhutan || India || Maldives || Nepal || Pakistan || Sri Lanka
+|-
+| colspan="2" | [[Fragile States Index]]<ref name = "FSI 2020">{{cite web|title = Fragile States Index 2020|url = https://fundforpeace.org/2020/05/11/fragile-states-index-2020/ |publisher=[[Fund for Peace|The Fund for Peace]]|date = 11 May 2020|access-date = 2020-09-25}}</ref>
+| 102.9
+| 85.7
+| 69.5
+| 75.3
+| 66.2
+| 82.6
+| 92.1
+| 81.8
+|-
+| colspan="2" | [[Corruption Perceptions Index]] (2019)<ref>{{Cite web|url=https://www.transparency.org/cpi2019?/news/feature/cpi-2019|title=Corruption Perceptions Index 2019|website=Transparency International|access-date=2020-03-04}}</ref>  (Global rank out of 179 countries)
+| 16 (173rd) || 26 (146th) || 68 (25th) || 41 (80th) || 29 (130th) || 34 (113th) || 32 (120th) || 38 (93rd)
+|-
+| rowspan="4" | The Worldwide Governance<br />Indicators (2015)<ref>{{Cite web|url=http://info.worldbank.org/governance/wgi/#reports|title=Worldwide Governance Indicators|date=2015|website=World Bank|access-date=2017-08-25|archive-url=https://web.archive.org/web/20140705084108/http://info.worldbank.org/governance/wgi/#reports|archive-date=5 July 2014|url-status=live}}</ref>
+| Government Effectiveness
+|8%|| 24% || 68% || 56% || 41% || 13% || 27% || 53%
+|-
+| Political stability and absence<br />of violence/terrorism
+|1%|| 11% || 89% || 17% || 61% || 16% || 1% || 47%
+|-
+| Rule of law
+|2%|| 27% || 70% || 56% || 35% || 27% || 24% || 60%
+|-
+| Voice and accountability
+| 16%|| 31% || 46% || 61% || 30% || 33% || 27% || 36%
+|}
+
+=== Regional politics ===
+{{See also|War in Afghanistan (2001-present)|Indo-Pakistani wars and conflicts|SAARC}}
+{{multiple image
+ | align = right
+ | direction = vertical
+ | width = 220
+ | image2 =
+ | caption2 = Indian soldiers in [[Batalik]] during the [[Kargil War]] (1999) between India and Pakistan
+ | caption4 = [[Sheikh Hasina]], Prime Minister of Bangladesh, with [[Narendra Modi]], Prime Minister of India, in New York (2019)
+}}
+
+India has been [[Regional power|dominant geopolitical power in the region]]<ref name="The United States and the Great Powers">{{cite book | last =Buzan | first =Barry | title=The United States and the Great Powers | publisher=Polity Press | year=2004 | location=Cambridge, United Kingdom | pages =71 | isbn =978-0-7456-3375-6 }}</ref><ref>{{cite journal|url=http://www.twq.com/04winter/docs/04winter_perkovich.pdf |title=Is India a Major Power? |last=Perkovich |first=George |journal=The Washington Quarterly |issue=27.1 Winter 2003–04 |access-date=12 August 2020|url-status=dead |archive-url=https://web.archive.org/web/20080227014858/http://www.twq.com/04winter/docs/04winter_perkovich.pdf |archive-date=27 February 2008 }}</ref><ref name="Regions and powers">{{harvnb|Buzan|Wæver|2003|p=55}}</ref> and alone accounts for most part of the landmass, population, economy and military expenditure in the region.{{sfn|Ali|Aitchison|2005}} India is a [[G20|major economy]], member of [[G4 nations|G4]], has world's [[List of countries by military expenditures|third highest military budget]]<ref>{{Cite news|author=Shaurya Karanbir Gurung|title=India third largest military spender in world, after US and China|url=https://m.economictimes.com/news/defence/global-military-spending-saw-largest-increase-in-decade-in-2019-china-india-in-top-3-study/articleshow/75404166.cms|newspaper=The Economic Times|date=2020-04-27|access-date=2020-08-12}}</ref> and exerts strong [[Greater India|cultural]] and [[Regional hegemony|political influence]] over the region.<ref name="college">{{cite journal |last=Fussman |first=Gérard | title= History of India and Greater India |journal=La Lettre du Collège de France |issue=4 |pages=24–25 |year=2008–2009 |url=https://lettre-cdf.revues.org/756 |access-date=12 August 2020|doi=10.4000/lettre-cdf.756|doi-access=free }}</ref><ref name="ASAN">{{Cite journal|author=[http://www.theasanforum.org/author/?user_id=105 Deepa M. Ollapally]|title=India's Evolving National Identity Contestation: What Reactions to the "Pivot" Tell Us|url=http://www.theasanforum.org/indias-evolving-national-identity-contestation-what-reactions-to-the-pivot-tell-us/|access-date=2020-08-12|language=en|journal=[[Asan Institute for Policy Studies#The Asan Forum|The Asan Forum]]|volume=8|issue=4|issn=2288-5757|date=July–August 2020|orig-year=2014}}</ref> Sometimes referred as a [[great power]] or [[emerging superpower]] primarily attributed to its large and expanding economic and military abilities, India acts as fulcrum of South Asia.<ref>{{Cite web|first=Immanuel|last=Wallerstein|author-link=Immanuel Wallerstein|title=India: The In-Between Great Power|url=https://iwallerstein.com/india-the-in-between-great-power/|date=2017-06-01|access-date=2020-08-12}}</ref><ref>{{Cite web|first=Madhavi|last=Bhasin|title=India's Role in South Asia Perceived Hegemony or Reluctant Leadership?|url=https://silo.tips/downloadFile/india-s-role-in-south-asia-perceived-hegemony-or-reluctant-leadership|format=PDF|access-date=2020-08-12}}</ref>
+
+[[Bangladesh]], [[Pakistan]] and [[Sri Lanka]] are [[middle power]]s with sizeable populations and economies with significant impact on regional politics.<ref name="balancing">{{cite web|url=https://www.clingendael.org/pub/2018/strategic-monitor-2018-2019/a-balancing-act/|title=A Balancing Act: The Role of Middle Powers in Contemporary Diplomacy |first1=Willem |last1=Oosterveld |first2=Bianca |last2=Torossian |work=Strategic Monitor 2018-2019 |publisher=[[Netherlands Institute of International Relations Clingendael|Clingendael Institute]] |access-date=18 May 2019}}</ref><ref name="Buzan2004">{{cite book|first=Barry|last=Buzan|title=The United States and the great powers: world politics in the twenty-first century|url=https://books.google.com/books?id=XvtS5hKg9jYC&pg=PR8|access-date=27 December 2011|year=2004|publisher=Polity|isbn=978-0-7456-3374-9|pages=71, 99}}</ref>
+
+[[Partition of India]] in 1947, subsequent violence and territorial disputes left relations between India and Pakistan sour and very hostile<ref>{{cite book |first=Stephen P. |last=Cohen |author-link=Stephen P. Cohen |year=2004 |title=The Idea of Pakistan|url=https://archive.org/details/ideaofpakistan00cohe |url-access=registration |publisher=Brookings Institution Press |page=[https://archive.org/details/ideaofpakistan00cohe/page/59 59] |isbn=978-0-8157-9761-6 |quote=American scholar Allen Mcgrath}}</ref> and [[Indo-Pakistani wars and conflicts|various confrontations and wars]] which largely shaped the politics of the region and led to the [[Bangladesh liberation war|creation of Bangladesh]].<ref>{{cite book|title=Crossing the Frontiers of Conflict in the North East and Jammu and Kashmir: From Real Politik to Ideal Politik|author=V.K. Nayar|year=2005|page=198|publisher=Shipra Publications |isbn=978-81-7541-218-7|quote=Though Indian victory in the India- Pakistan War 1971 and the liberation of Bangladesh refurbished India's image}}</ref> With [[Yugoslavia]], India found [[Non-Aligned Movement]] but later entered an [[Indo-Soviet Treaty of Friendship and Cooperation|agreement]] with former [[Soviet Union]] following western support for Pakistan.<ref>{{Harvnb|Hanhimaki|2004|p=165}}</ref> Amid the [[Indo-Pakistani war of 1971]], US sent its [[USS Enterprise (CVN-65)|USS ''Enterprise'']] to the Indian Ocean what was perceived as a [[nuclear threat]] by India.<ref name=Santosh>{{cite book
+|last = Burne
+|first = Lester H.
+|title = Chronological History of U.S. Foreign Relations: 1932–1988
+|publisher = Routledge
+|year= 2003
+|isbn = 0-415-93916-X }}</ref> India's [[Smiling Buddha|nuclear test in 1974]] pushed Pakistan's nuclear program<ref>{{Citation | publisher = Associated Press of Pakistan (APP) and Pakistan Television (PTV) | title = Prime minister Secretariat Press Release | quote = India's so-called Peaceful Nuclear Explosion (PNE) is tested and designed to intimidate and establish "Indian hegemony in the subcontinent", most particularly Pakistan... | first = Zulfikar Ali | last = Bhutto | date = 18 May 1974 | url = http://www.nti.org/e_research/profiles/Pakistan/Nuclear/chronology_1974.html | url-status = dead | archive-url = https://web.archive.org/web/20110918040826/http://www.nti.org/e_research/profiles/Pakistan/Nuclear/chronology_1974.html | archive-date = 18 September 2011 | df = dmy-all }}</ref> who conducted nuclear tests in [[Chagai-I]] in 1998, just 18 days after India's [[Pokhran-II|series of nuclear tests]] for [[thermonuclear weapon]]s.<ref name="Ministry of External Affairs, 1998">{{cite web|title=Official press release by India|url=http://nuclearweaponarchive.org/India/Indianofficial.txt|website=meadev.gov.in/|publisher=Ministry of External Affairs, 1998|access-date=12 August 2020}}</ref>
+
+[[Soviet invasion of Afghanistan]] in 1979 accelerated efforts to form a union to restrengthen deteriorating regional security.<ref name="NIHCR in Islamabad">{{cite web|last=Muhammad|first=Jamshed Iqbal|title=SAARC: Origin, Growth, Potential and Achievements |url=http://www.nihcr.edu.pk/Latest_English_Journal/SAARC_Jamshed_Iqbal.pdf|work=National Institute of Historical and Cultural Research in Islamabad|access-date=11 November 2013|archive-url= https://web.archive.org/web/20131111092347/http://www.nihcr.edu.pk/Latest_English_Journal/SAARC_Jamshed_Iqbal.pdf |archive-date=11 November 2013|url-status=live|df=dmy-all}}</ref> After agreements, the union was finally established in Dhaka in December 1985.<ref name="About SAARC">{{cite web |url=http://www.mohe.gov.af/saarc.afg/about%20us.html |title=About SAARC |website=SAARC Secretariat |access-date=11 November 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131111090614/http://www.mohe.gov.af/saarc.afg/about%20us.html |archive-date=11 November 2013 |df=dmy-all }}</ref> However, deterioration of [[India-Pakistan relations|India-Pakistan ties]] have led India to emphasize more on sub-regional groups [[South Asia Subregional Economic Cooperation|SASEC]] and [[BBIN]].
+
+South Asia continues to remain least integrated region in the world. Meanwhile, in [[East Asia]], regional trade accounts for 50% of total trade, it accounts for only a little more than 5% in South Asia.<ref>{{Cite web|title = Realizing the Promise of Regional Trade in South Asia|url = https://www.worldbank.org/en/news/feature/2018/10/09/realizing-the-promise-of-regional-trade-in-south-asia|date = October 9, 2018|access-date = October 23, 2019|publisher = [[World Bank]]}}</ref>
+
+[[Populism]] is a general characteristic of internal politics of India.<ref>{{Cite web|title = The Global Populist Surge Is More than Just a Western Story—Just Look at Asia|url = https://thediplomat.com/2016/12/the-global-populist-surge-is-more-than-just-a-western-story-just-look-at-asia/|date = December 10, 2016|access-date = October 23, 2019|publisher = [[The Diplomat]]}}</ref>
+
+==== Regional groups of countries ====
+{| class="wikitable sortable"
+|- style="background:#ececec;"
+! Name of [[country]]/[[region]], with [[flag]]
+! [[List of countries by area|Area]]<br />(km<sup>2</sup>)
+! [[List of countries by population|Population]]
+! [[List of countries by population density|Population density]]<br />(per km<sup>2</sup>)
+! [[Capital (political)|Capital]] or Secretariat
+! [[Currency]]
+! Countries included
+! [[Official languages]]
+! [[Coat of Arms]]
+|-
+| Core Definition (above) of South Asia
+| style="text-align:right;"| 5,220,460
+| style="text-align:right;"| 1,726,907,000
+
+| style="text-align:right;"| 330.79
+| {{n/a}}
+| {{n/a}}
+| [[Afghanistan]], [[Bangladesh]], [[Bhutan]], [[India]], [[Maldives]], [[Nepal]], [[Pakistan]], [[Sri Lanka]]
+| {{n/a}}
+| {{n/a}}
+|-
+| [[UN subregion|UNSD]] of South Asia
+| style="text-align:right;"| 6,778,083
+| style="text-align:right;"| 1,702,000,000
+| style="text-align:right;"| 270.77
+| {{n/a}}
+| {{n/a}}
+| [[Afghanistan]], [[Bangladesh]], [[Bhutan]], [[India]], [[Iran]], [[Maldives]], [[Nepal]], [[Pakistan]], [[Sri Lanka]]
+| {{n/a}}
+| {{n/a}}
+|-
+| [[South Asian Association for Regional Cooperation|SAARC]]
+| style="text-align:right;"| 4,637,469
+| style="text-align:right;"| 1,626,000,000
+| style="text-align:right;"| 350.6
+| [[Kathmandu]]
+| {{n/a}}
+| [[Afghanistan]], [[Bangladesh]], [[Bhutan]], [[India]], [[Maldives]], [[Nepal]], [[Pakistan]], [[Sri Lanka]]
+| English
+| {{n/a}}
+|-
+| [[BBIN]]
+| style="text-align:right;"| 3,499,559
+| style="text-align:right;"| 1,465,236,000
+| style="text-align:right;"| 418.69
+| {{n/a}}
+| {{n/a}}
+| [[Bangladesh]], [[Bhutan]], [[India]], [[Nepal]]
+| {{n/a}}
+| {{n/a}}
+|-
+| [[SASEC]]
+| style="text-align:right;"| 3,565,467
+| style="text-align:right;"| 1,485,909,931
+| style="text-align:right;"| 416.75
+| {{n/a}}
+| {{n/a}}
+| [[Bangladesh]], [[Bhutan]], [[India]], [[Myanmar]], [[Nepal]], [[Sri Lanka]], [[Maldives]]
+| {{n/a}}
+| {{n/a}}
+|}
+
+==See also==
+{{Portal|Asia}}
+<!-- {{Wikipedia-Books}} -->
+<!-- {{main|Outline of South Asia|Index of South Asia-related articles}} -->
+<!-- *[[Bibliography of South Asia]] -->
+* [[Genetics and archaeogenetics of South Asia]]
+* [[South Asian cuisine]]
+* [[South Asian Games]]
+* [[South Asia Olympic Council]]
+* [[South Asian Football Federation]]
+* [[List of tallest buildings and structures in South Asia]]
+* [[Indian subcontinent]]
+
+==Notes==
+{{reflist|group=note}}
+
+== References ==
+=== Citations ===
+{{Reflist|30em}}
+
+=== Sources ===
+{{refbegin|40em}}
+* {{citation |last1=Ali |first1=J. R. |last2=Aitchison |first2=J. C. |year=2005 |title=Greater India |journal=[[Earth-Science Reviews]] |volume=72 |issue=3–4 |pages=170–173 |doi=10.1016/j.earscirev.2005.07.005 |bibcode=2005ESRv...72..169A}}
+* {{citation|last1=Burnell|first1=P. J.|last2=Calvert|first2=P.|date=1 May 1999|title=The Resilience of Democracy: Persistent Practice, Durable Idea|edition=1st|publisher=[[Taylor & Francis]]|isbn=978-0-7146-8026-2|url=https://books.google.com/books?id=hv6TkML5_HAC&pg=PA271|access-date=2 November 2019}}
+* {{citation |last1=Buzan |first1=Barry |author-link1=Barry Buzan |last2=Wæver |first2=Ole |year=2003 |title=Regions and Powers: The Structure of International Security |title-link=Regions and Powers: The Structure of International Security |publisher=Cambridge University Press |isbn=978-0-521-89111-0}}
+* {{Cite book |last=Doniger |first=Wendy |year=2010 |title=The Hindus: An Alternative History |publisher=Oxford University Press |url=https://books.google.com/books?id=nNsXZkdHvXUC&q=history+of+hinduism |isbn=978-0-19-959334-7 }}
+* {{Cite book|last=Flood |first=Gavin D. |author-link=Gavin Flood |year=1996 |title=An Introduction to Hinduism |publisher=Cambridge University Press}}
+* {{Citation |last=Gombrich |first=Richard F. |title=in Williams, Paul, ed., Buddhism: Critical Concepts in Religious Studies, 8 volumes |publisher=Routledge |location=London|year=2006}}
+* {{Citation |last=Hanhimaki |first=Jussi M. |year=2004 |title=The Flawed Architect: Henry Kissinger and American Foreign Policy |url=https://archive.org/details/flawedarchitecth00hanh |publisher=Oxford University Press |isbn=0-19-517221-3 |url-access=registration}}
+* {{Citation |last=Hiltebeitel |first=Alf |year=2007 |chapter=Hinduism |editor-first=Joseph |editor-last=Kitagawa |title=The Religious Traditions of Asia: Religion, History, and Culture |chapter-format=Digital printing |publisher=Routledge |chapter-url=https://books.google.com/books?id=9fyzAAAAQBAJ |isbn=978-1-136-87590-8 }}
+* {{Citation |last1=Jones |first1=Constance |last2=Ryan |first2=James D. |year=2006 |title=Encyclopedia of Hinduism |publisher=Infobase Publishing |url=https://books.google.com/books?id=OgMmceadQ3gC |isbn=978-0-8160-7564-5 }}
+* {{citation|last1=Metcalf|first1=B.|last2=Metcalf|first2=T. R.|author1-link=Barbara Metcalf|author2-link=Thomas R. Metcalf|date=9 October 2006|title=A Concise History of Modern India|edition=2nd|publisher=[[Cambridge University Press]]|isbn=978-0-521-68225-1|url=https://books.google.com/books?id=iuESgYNYPl0C}}
+* {{Citation |last=Michaels |first=Axel |author-link=Axel Michaels |year=2004 |title=Hinduism. Past and present |place=Princeton, New Jersey |publisher=Princeton University Press}}
+* {{Cite book |last=Michell |first=George |year=1977 |title=The Hindu Temple: An Introduction to Its Meaning and Forms |publisher=University of Chicago Press |url=https://books.google.com/books?id=ajgImLs62gwC&q=hindu+temples+in+india |isbn=978-0-226-53230-1 }}
+* {{Citation |last=Possehl |first=Gregory L. |author-link=Gregory Possehl |title=The Indus Civilization: A Contemporary Perspective |chapter-url=https://books.google.com/books?id=XVgeAAAAQBAJ&pg=PA154 |date=11 November 2002 |publisher=Rowman Altamira |isbn=978-0-7591-1642-9 |pages=141–156 |chapter=Indus religion}}
+* {{cite book |last=Ramstedt |first=Martin |year=2004|title=Hinduism in Modern Indonesia: A Minority Religion Between Local, National, and Global Interests |place=New York |publisher=Routledge |isbn=978-0-7007-1533-6 }}
+* {{citation |last=Saez |first=Lawrence |title=The South Asian Association for Regional Cooperation (SAARC): An emerging collaboration architecture |url=https://books.google.com/books?id=yTzKWI42uR4C&pg=PT58 |year=2012 |publisher=Routledge |isbn=978-1-136-67108-1}}
+* {{Citation |last=Samuel |first=Geoffrey |year=2010 |title=The Origins of Yoga and Tantra. Indic Religions to the Thirteenth Century |publisher=Cambridge University Press}}
+* {{Citation |last=Stein |first=Burton |author-link=Burton Stein |year=2010 |title=A History of India, Second Edition |publisher=Wiley-Blackwell |url=http://www.investigacioneshistoricaseuroasiaticas-ihea.com/files/HISTORYINDIA-BurtonStein.pdf |url-status=dead |archive-url=https://web.archive.org/web/20140114070555/http://www.investigacioneshistoricaseuroasiaticas-ihea.com/files/HISTORYINDIA-BurtonStein.pdf |archive-date=14 January 2014 |df=dmy-all }}
+* {{Citation |last=Trainor |first=Kevin |year=2004 |title=Buddhism: The Illustrated Guide |publisher=Oxford University Press |isbn=978-0-19-517398-7 |url=https://books.google.com/books?id=_PrloTKuAjwC}}
+* {{Citation |last=Witzel |first=Michael |author-link=Michael Witzel |year=1995 |title=Early Sanskritization: Origin and Development of the Kuru state |journal=Electronic Journal of Vedic Studies |volume=1 |number=4 |pages=1–26 |url=http://www.ejvs.laurasianacademy.com/ejvs0104/ejvs0104article.pdf |url-status=dead |archive-url=https://web.archive.org/web/20070611142934/http://www.ejvs.laurasianacademy.com/ejvs0104/ejvs0104article.pdf |archive-date=11 June 2007 }}
+{{refend}}
+
+== Further reading ==
+* {{Citation |last=Anthony |first= David W. |year= 2007 |title=The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World |publisher= Princeton University Press |ref=none}}
+* {{Citation |last=Beckwith |first=Christopher I. |year=2009 |title=Empires of the Silk Road |publisher= Princeton University Press |ref=none}}
+
+== External links ==
+{{Commons}}
+* [http://www.worldbank.org/en/region/sar South Asia], The World Bank
+* [https://dsal.uchicago.edu/ Digital South Asia Library], University of Chicago
+* [http://www.asia.si.edu/collections/edan/southAsian.cfm South Asian and Himalayan Arts], Freer and Sackler Galleries, Smithsonian
+* [https://www.brookings.edu/topic/south-asia/ South Asia], Brookings Institution
+* [https://www.adb.org/countries/subregional-programs/sasec South Asia Subregional Economic Cooperation], Asia Development Bank
+
+{{-}}
+{{Geographic location
+|Centre    = South Asia
+|North     = [[Central Asia]], [[East Asia]]
+|Northeast = [[East Asia]]
+|East      = [[South East Asia]]
+|Southeast = [[Bay of Bengal]]<br />[[Indian Ocean]]
+|South     = [[Indian Ocean]]
+|Southwest = [[Arabian Sea]]
+|West      = [[Middle East]]
+|Northwest = [[Central Asia]]<br />[[Middle East]]
+}}
+
+{{Regions of Asia}}
+{{GeoSouthAsia}}
+{{Languages of South Asia}}
+
+{{Authority control}}
+
+[[Category:South Asia| ]]
+[[Category:Regions of Asia]]

@@ -1,0 +1,104 @@
+{{Short description|American economist}}
+{{Infobox economist
+| name             = Martin Weitzman
+| school_tradition = Environmental economics
+
+| image       =
+| image_size       =
+| caption    =
+| birth_name=Meyer Levinger
+| birth_date       = {{Birth date|1942|04|01}}
+| birth_place      = [[New York City]], U.S.
+| death_date       = {{Death date and age|2019|08|27|1942|04|01}}
+| death_place      = [[Boston, Massachusetts]], U.S.
+| nationality      = American
+| institution      = [[Harvard University]]
+| field            = [[Environmental economics]]
+| alma_mater       = [[Massachusetts Institute of Technology]]<br>[[Stanford University]]<br>[[Swarthmore College]]
+| doctoral_advisor  = [[Robert Solow]]
+| academic_advisors = 
+| doctoral_students = [[Nat Keohane]], [[Andrew Metrick]], [[Gernot Wagner]]
+| notable_students  = 
+| influences       =
+| influenced       =
+| contributions    =
+| spouse           = Jennifer Bäverstam Weitzman
+| awards           = Top 15 [[Financial Times]]-[[McKinsey & Company|McKinsey]] Business Book of the Year 2015 for ''Climate Shock''<ref name="climateshockref" />
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pwe175
+}}
+'''Martin Lawrence Weitzman''' (April 1, 1942 – August 27, 2019) was an [[economist]] and a professor of economics at [[Harvard University]]. He was among the most influential economists in the world according to [[Research Papers in Economics]] (RePEc). His latest research was largely focused on [[environmental economics]], specifically [[climate change]] and the economics of catastrophes.
+
+==Personal==
+A ''New York Times'' obituary details how Weitzman "was born Meyer Levinger on April 1, 1942, on the Lower East Side of Manhattan to Joseph and Helen (Tobias) Levenger. His mother died before he was 1; his father, after returning from military service in World War II, was apparently unable to care for the child, and he was placed in an orphanage. His adoptive parents, Samuel and Fannie (Katzelnick) Weitzman, who were elementary-school teachers, gave him the name Martin Lawrence Weitzman."<ref name=":0">{{Cite news|url=https://www.nytimes.com/2019/09/04/business/energy-environment/martin-weitzman-dead.html|title=Martin Weitzman, Virtuoso Climate Change Economist, Dies at 77|last=Roberts|first=Sam|date=2019-09-04|work=The New York Times|access-date=2019-09-04|language=en-US|issn=0362-4331}}</ref>
+
+Weitzman received a B.A. in [[Mathematics]] and [[Physics]] from [[Swarthmore College]] in 1963. He went on to receive an M.S. in [[Statistics]] and Operations Research from [[Stanford University]] in 1964, and then attended [[Massachusetts Institute of Technology]] where he received a [[Ph.D.]] in Economics in 1967. Weitzman first joined the [[Yale University]] faculty, in 1967, moved to the Massachusetts Institute of Technology, before joining the economics department at [[Harvard University]] in 1989, where he taught until his death in 2019.<ref name=":0" /> Weitzman died by suicide on August 27, 2019 at the age of 77."<ref name=":0" /><ref>{{Cite web |url=https://www.gwagner.com/Marty-Weitzman-in-Memoriam |title=Marty Weitzman, In Memoriam |date=2019-08-29 |website=Gernot Wagner|access-date=2019-08-29}}</ref><ref>{{Cite news|last=Roston|first=Eric|url=https://www.bnnbloomberg.ca/the-man-who-got-economists-to-take-climate-nightmares-seriously-1.1308840 |title=The Man Who Got Economists to Take Climate Nightmares Seriously|date=2019-08-29 |work=BNN Bloomberg |access-date=2019-08-29}}</ref><ref>{{Cite news|url=https://www.nytimes.com/2019/09/04/business/energy-environment/martin-weitzman-dead.html|title=Martin Weitzman, Virtuoso Climate Change Economist, Dies at 77|last=Roberts|first=Sam|date=2019-09-04|work=The New York Times|access-date=2019-09-20|language=en-US|issn=0362-4331}}</ref>
+
+==Research==
+Weitzman's research covered a wide range of topics including environmental and natural resource economics, green accounting, economics of biodiversity, economics of environmental regulation, [[economics of climate change]], discounting, comparative economic systems, economics of profit sharing, economic planning, and microfoundations of macro theory.
+
+Much of Weitzman's research was focused on climate change. Traditional cost-benefit analysis of climate change looks at the costs of reducing [[global warming]] (the cost of reducing greenhouse gas emissions) versus the benefits (potentially stopping or slowing climate change). However, in most analyses, the damages that would stem from dramatic climate change are not taken into consideration. Weitzman added dramatic [[climate change]] to the [[cost-benefit analysis]] to show that immediate measures must be taken in climate change regulation.<ref>{{Cite web|url=http://www.economics.harvard.edu/faculty/weitzman/files/REStatModeling.pdf|title=On Modeling and Interpreting the Economics of Catastrophic Climate Change|author=Martin Weitzman|date=2008-06-05|accessdate=2008-06-30|url-status=dead|archiveurl=https://web.archive.org/web/20081013224417/http://www.economics.harvard.edu/faculty/weitzman/files/REStatModeling.pdf|archivedate=2008-10-13}}</ref>
+
+Weitzman's past research was focused on fixed versus profit sharing wages and their effect on unemployment. He proposed that, when firms use profit sharing wages, meaning employees receive higher wages when a company is doing well, firms have lower rates of unemployment and do better during recessions.
+
+Weitzman is known for was his study of price versus quantity controls. Weitzman proposed that when faced with uncertainty the relative slopes of the marginal benefits versus the marginal costs must be examined in order to determine which type of control will be most effective. For example, in the case of pollution, the relative slopes of marginal costs and marginal damages must be examined (the marginal benefits are the avoidance of the marginal damages). His research showed that if the slope of marginal costs is steeper, price controls are more effective and if the relative slope of marginal damages is steeper, then quantity controls are more effective.
+
+Weitzman also derived the [[Gittins index]] – a celebrated result in the applied probability literature – independently from (and in parallel to) [[John C. Gittins]].<ref>{{cite journal |last1=Weitzman |first1=Martin L. |title=Optimal Search for the Best Alternative |journal=Econometrica |date=May 1979 |volume=47 |issue=3 |pages=641–654 |doi=10.2307/1910412 |jstor=1910412 |url=https://www.jstor.org/stable/1910412 |access-date=27 February 2021|hdl=1721.1/31303 |hdl-access=free }}</ref>
+
+==Teaching==
+Weitzman began his teaching career in 1967 as an assistant professor of economics at [[Yale University]]. Three years later Weitzman was promoted to associate professor, and he remained in this position until 1972 when he joined the faculty at the [[Massachusetts Institute of Technology]] as an associate professor. In 1974, Weitzman became a professor at [[MIT]], where he taught until 1989. From 1986 to 1989, Weitzman was recognized as a Mitsui professor at MIT. In 1989, Weitzman became an Ernest E. Monrad Professor of Economics at Harvard University and has remained in this position for the last 18 years. He taught two graduate courses: Ec2680 Environmental and Natural Resource Economics and Ec2690, Environmental Economics and Policy Seminar.
+
+==Other positions==
+Weitzman served as a consultant to [[The World Bank]], [[Stanford Research Institute]], [[International Monetary Fund]], [[Agency for International Development]], Arthur D. Little Co., the Canadian Parliamentary Committee on Employment, Icelandic Committee on Natural Resources, and the National Academy Panel on Integrated Environmental and Economic Accounting.
+
+He also served as associate editor of the following publications: ''Journal of Comparative Economics'', ''Economics Letters'', ''Journal of Japanese and International Economies'', ''Journal of Environmental Economics and Management''.
+
+==Recognition==
+* National Science Foundation Fellow, 1963–1965
+* Woodrow Wilson Fellow, 1963–64
+* Ford Foundation Dissertation Fellow, 1966
+* Guggenheim Fellow, 1970–71
+* Fellow of the Econometric Society, 1976–present
+* Fellow of the American Academy of Arts and Sciences, 1986–present
+* Association of Environmental and Resource Economists: Special Award for "Publication of Enduring Quality".
+* Keynote speaker, 2002 World Congress of Environmental Economists
+* Keynote speaker, 2006 World Congress of Animal Geneticists
+
+==Works==
+===Books===
+Weitzman wrote three books: ''The Share Economy: Conquering Stagflation'';<ref>{{cite book |last1=Weitzman |first1=Martin L. |title=The Share Economy; Conquering Stagflation |date=January 1, 1986 |publisher=Harvard University Press |isbn=9780674805835 |edition=Paper |url=https://www.hup.harvard.edu/catalog.php?isbn=9780674805835 |access-date=27 February 2021}}</ref> ''Income, Wealth, and the Maximum Principle''; and, most recently, ''Climate Shock'',<ref name=climateshockref>{{cite book |last1=Wagner |first1=Gernot |last2=Weitzman |first2=Martin L. |title=Climate Shock: The Economic Consequences of a Hotter Planet |date=February 22, 2015 |publisher=Princeton University Press |isbn=9780691159478 |edition=Hardcover |url=https://press.princeton.edu/books/hardcover/9780691159478/climate-shock |access-date=27 February 2021}}</ref> jointly with [[Gernot Wagner]].<ref>{{cite web |title=Gernot Wagner |url=https://gwagner.com/ |website=Gernot Wagner |access-date=27 February 2021}}</ref>  In ''The Share Economy: Conquering Stagflation'', Weitzman proposed that a main cause of [[stagflation]] is paying workers a fixed wage, regardless of how the company is performing. He introduced an alternate labor payment system as a way of combating stagflation. ''Income, Wealth, and the Maximum Principle'' is a book geared to advanced economic students, particularly those who want to be able to formulate and solve complex allocation problems and who are interested in the relationship between income accounting and wealth or welfare. ''Climate Shock'' details how what we know about global warming is bad and what we don't know is potentially much worse.<ref name="climateshockref" /><ref>{{Cite news|url=http://nymag.com/daily/intelligencer/2017/05/what-if-climate-scientists-are-guessing-wrong.html|title=What If Climate Scientists Are Guessing Wrong?|last=Chait|first=Jonathan|work=Daily Intelligencer|date=May 1, 2017|access-date=2017-12-19|language=en}}</ref><ref>{{cite news|last1=Clark|first1=Pilita|title='Climate Shock: The Economic Consequences of a Hotter Planet', by Gernot Wagner and Martin Weitzman|url=https://www.ft.com/content/bc2016e2-d320-11e4-9b0a-00144feab7de|work=Financial Times|date=29 March 2015}}</ref><ref>{{cite news|title=The economic options for combatting climate change|url=http://www.pbs.org/newshour/bb/economic-options-combatting-climate-change/|date=July 16, 2015|accessdate=27 February 2021|work=PBS NewsHour}}</ref>
+
+===Papers===
+Weitzman published over 90 papers, many of which appeared in economics journals. Several of his papers are listed below.
+
+* {{cite journal |last1=Weitzman |first1=M.L. |title=Prices vs. Quantities |journal=The Review of Economic Studies |date=October 1974 |volume=41 |issue=4 |pages=477–491 |doi=10.2307/2296698 |jstor=2296698 |url=https://scholar.harvard.edu/weitzman/publications/prices-vs-quantities}}
+* {{cite journal |last1=Weitzman |first1=Martin L. |title=A Review of The Stern Review on the Economics of Climate Change |journal=Journal of Economic Literature|date=September 2007 |volume=XLV |issue=3 |pages=703–724 |doi=10.1257/jel.45.3.703 |url=https://scholar.harvard.edu/files/weitzman/files/review_of_stern_review_jel.45.3.pdf}}
+* {{cite web |last1=Weitzman |first1=Martin L. |title=Subjective Expectations and Asset-Return Puzzles |url=https://scholar.harvard.edu/files/weitzman/files/subjective-aer.pdf |website=OpenScholar@Harvard}}
+*{{cite journal |last1=Weitzman |first1=M.L. |title=On Modeling and Interpreting the Economics of Catastrophic Climate Change |journal=Review of Economics and Statistics |date=2009 |volume=91 |issue=1 |pages=1–19 |doi=10.1162/rest.91.1.1 |url=https://scholar.harvard.edu/weitzman/publications/modeling-and-interpreting-economics-catastrophic-climate-change}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Economics|Global warming}}
+* [http://www.economics.harvard.edu/faculty/weitzman Home page]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Weitzman, Martin L.}}
+[[Category:1942 births]]
+[[Category:2019 deaths]]
+[[Category:Writers from Manhattan]]
+[[Category:Environmental economists]]
+[[Category:Climate economists]]
+[[Category:Energy economists]]
+[[Category:Swarthmore College alumni]]
+[[Category:Stanford University alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:20th-century American economists]]
+[[Category:Jewish American academics]]
+[[Category:21st-century American economists]]
+[[Category:People from the Lower East Side]]
+[[Category:21st-century American Jews]]

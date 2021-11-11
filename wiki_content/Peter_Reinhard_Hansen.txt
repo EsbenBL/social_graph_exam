@@ -1,0 +1,57 @@
+{{autobiography|date=January 2011}}
+{{Infobox economist
+| name             = Peter Reinhard Hansen
+| image            = 
+| image_size       =
+| caption          =
+| birth_date       = {{Birth date and age|1968|06|15}}
+| birth_place      = [[Sorø]], [[Denmark]]
+| death_date       = 
+| death_place      =
+| nationality      = [[Denmark|Danish]]
+| institution      = [[University of North Carolina]]
+| field            = [[Econometrics]]
+| alma_mater       = [[University of Copenhagen]] <small>(M.Sc. 1995)</small><br>[[University of California, San Diego|UCSD]] <small>([[Doctor of Philosophy|PhD 2000]])</small>
+| influences       = [[Soren Johansen]]<br>[[James D. Hamilton]]<br>[[Halbert White]]<br>[[Robert Engle]]
+| opposed          = 
+| influenced       = 
+| contributions    = 
+| awards           =
+| signature        = <!-- file name only -->
+| spouse           = Gridt Vig Find 
+| repec_prefix = e | repec_id = pha63
+}}
+
+'''Peter Reinhard Hansen''' (born June 15, 1968) is the Henry A. Latané Distinguished Professor of Economics at the [[University of North Carolina at Chapel Hill]]. He has previously taught at [[Brown University]], [[Stanford Graduate School of Business]], [[Stanford University]], and the [[European University Institute]].
+
+==Biography==
+Hansen was born in [[Sorø]], [[Denmark]], where he went to [[Sorø Akademi]]. He studied mathematics and economics at the University of Copenhagen (M.sc. 1995) under the supervision of [[Søren Johansen]] and from 1996 he studied economics [[University of California, San Diego]] (Ph.D. 2000) supervised by [[James D. Hamilton]].{{Citation needed|date=January 2018}}
+
+Hansen is known {{By whom|date=January 2018}} for his research on [[Volatility (finance)|volatility]], [[forecasting]] and [[cointegration]], including the "test for superior predictive ability", which can be used to test whether a benchmark forecast is significantly outperformed by competing forecasts, the [[Model Confidence Set]].<ref>{{cite journal|doi=10.3982/ECTA5771|last=Hansen|first=Peter Reinhard|last2=Lunde|first2=Asger|last3=Nason|first3=James M|year=2011|title=The Model Confidence Set|journal=Econometrica|volume=79|pages=453–497}}</ref> He has, in collaboration with [[Ole E. Barndorff-Nielsen]], [[Asger Lunde]], and [[Neil Shephard]], developed the [[realized kernel]] estimator that can estimate the [[quadratic variation]] in an environment with noisy high-frequency data, such as financial tick-by-tick data.{{Citation needed|date=January 2018}} He co-authored the book "Workbook on Cointegration" with [[Søren Johansen]].
+
+==Selected writings==
+* Hansen, P.R., (2005), "Test for Superior Predictive Ability", Journal of Business and Economic Statistics.
+* Hansen, P.R., A. Lunde (2006), "Realized Variance and Market Microstructure Noise”, Journal of Business and Economic Statistics. Vol. 24, pp.&nbsp;127–218. (The 2005 Invited Address with Discussions and Rejoinder).
+* Hansen, P.R., A. Lunde (2006), "Consistent Ranking of Volatility Models", Journal of Econometrics, Vol. 131, pp.&nbsp;97–121.
+* Barndorff-Nielsen, O.E., P.R. Hansen, A. Lunde, N. Shephard (2011), "Subsampled realised kernels", Journal of Econometrics, Vol. 160, Issue 1, January 2011, pp.&nbsp;204–219
+* Barndorff-Nielsen, O.E., P.R. Hansen, A. Lunde, N. Shephard (2008), "Designing realised kernels to measure the ex-post variation of equity prices in the presence of noise", Econometrica. Vol. 76, pp.&nbsp;1481–1536.
+
+==References==
+<references/>
+
+==External links==
+*[http://econ.unc.edu/directory/prhansen/ Peter R. Hansen] at The Department of Economics at [[UNC Chapel Hill]]
+*[http://college.unc.edu/foundation/distinguished-professorships/the-henry-a-latane-distinguished-professorship-in-economics/ The Henry A. Latané Distinguished Professorship in Economics]
+*[https://sites.google.com/site/peterreinhardhansen/ Peter Reinhard Hansen] at [[Google Sites]]
+
+{{Authority control}}
+{{DEFAULTSORT:Hansen, Peter Reinhard}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:Danish economists]]
+[[Category:Econometricians]]
+[[Category:People from Sorø Municipality]]
+[[Category:Brown University faculty]]
+[[Category:Stanford University faculty]]
+[[Category:University of California, San Diego alumni]]
+[[Category:University of Copenhagen alumni]]

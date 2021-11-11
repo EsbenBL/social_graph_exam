@@ -1,0 +1,94 @@
+{{short description|American economist}}
+{{Infobox economist
+| name             = Andrei Shleifer
+| image            = Andrei Shleifer.jpg
+| image_size       =
+| caption          =
+| birth_date       = {{Birth date and age|1961|2|20}}
+| birth_place      = [[Moscow]], [[Soviet Union]]
+| death_date       =
+| death_place      =
+| nationality      = [[Russian American]]
+| institution      = [[Harvard University]] <br> [[University of Chicago]]
+| field            = [[Behavioral finance]] <br> [[Law and economics]] <br> [[Development economics]]
+| alma_mater       = [[Massachusetts Institute of Technology|MIT]]<br>Harvard University
+| doctoral_advisor = [[Peter A. Diamond]]<ref name="advisor">{{cite thesis |last= Shleifer |first= Andrei |date= 1986 |title= The business cycle and the stock market |type= Ph.D. |publisher= [[MIT]] |url= https://dspace.mit.edu/bitstream/handle/1721.1/80447/15666311-MIT.pdf?sequence=2 |access-date= 21 May 2017 }}</ref><br>[[Franklin M. Fisher]]<ref name="advisor" />
+| academic_advisors=
+| doctoral_students= [[Sendhil Mullainathan]]<br>[[Matthew Gentzkow]]<br>[[Jesse Shapiro]]<br>[[Emily Oster]]<br>[[Ulrike Malmendier]]<br>[[John Friedman]]
+| notable_students =
+| influences       = [[Lawrence Summers]] <br> [[Milton Friedman]]<ref>{{cite web|url=http://scholar.harvard.edu/shleifer/publications/age-milton-friedman|title = The Age of Milton Friedman | author = Andrei Shleifer | access-date = 2013-10-19}}</ref>
+| influenced       = [[Rafael La Porta]] <br> [[Jesse Shapiro]]
+| contributions    =  [[Legal origins theory]] <br> [[Big push model]]
+| awards           = [[John Bates Clark Medal]] (1999)
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = psh93
+}}
+'''Andrei Shleifer''' ({{IPAc-en|ˈ|ʃ|l|aɪ|f|ər}} {{respell|SHLY|fər}}; born February 20, 1961) is a [[Russian-American]] economist and Professor of Economics at [[Harvard University]], where he has taught since 1991. Shleifer was awarded the biennial [[John Bates Clark Medal]] in 1999 for his seminal works in three fields: corporate finance (corporate governance, law and finance), the economics of financial markets (deviations from efficient markets), and the [[economics of transition]].
+
+[[RePEc|IDEAS/RePEc]] has ranked him as the top economist in the world,<ref>{{cite web|url=https://ideas.repec.org/top/top.person.all.html |title=Economist Rankings at IDEAS |publisher=Ideas.repec.org |access-date=2011-09-13}}</ref> and he is also listed as #1 on the list of "Most-Cited Scientists in Economics & Business".<ref>[http://www.in-cites.com/nobel/2007-eco-top100.html "Most-Cited Scientists in Economics & Business"] {{Webarchive|url=https://web.archive.org/web/20150924034122/http://www.in-cites.com/nobel/2007-eco-top100.html |date=2015-09-24 }} ISI Web of Knowledge</ref>  He served as project director of the [[Harvard Institute for International Development]]'s Russian aid project from its inauguration in 1992 until 1997,<ref name="Shadow Elite">Wedel, Janine. Shadow Elite: How the World's New Power Brokers Undermine Democracy, Government, and the Free Market. New York: Basic, 2009.</ref> where he and his associates made Russian investments, and settled a lawsuit from the U.S. government for such a violation of HIID's contract.<ref>{{Cite web |url=http://www.institutionalinvestor.com/Article/1020662/How-Harvard-lost-Russia.html?ArticleId=1020662&single=true#/.VyuOp-IrJD8 |title=Archived copy |access-date=2016-05-09 |archive-url=https://web.archive.org/web/20160827112235/http://www.institutionalinvestor.com/Article/1020662/How-Harvard-lost-Russia.html?ArticleId=1020662&single=true#/.VyuOp-IrJD8 |archive-date=2016-08-27 |url-status=dead }}</ref>
+
+==Life==
+He was born to a [[Jewish]] family<ref>[http://www.thecrimson.com/article/2005/9/29/was-shleifer-screwed-was-andrei-c/ The Harvard Crimson: "Was Shleifer Screwed? - Sure, he had to pay a $2 million settlement—but he also got mad loot from Harvard" By Zachary M. Seward] September 29, 2005</ref> in the [[Soviet Union]] and emigrated to [[Rochester, New York]], as a teenager in 1976, where he attended an inner-city school and learned English from episodes of ''[[Charlie's Angels]]''.<ref name=bhayani/>  He then studied [[mathematics]], obtaining his B.A. from [[Harvard University]] in 1982.<ref>{{cite web|url=http://scholar.harvard.edu/files/shleifer/files/as_cv_5.pdf |title=Archived copy |access-date=2014-01-08 |url-status=dead |archive-url=https://web.archive.org/web/20140108193740/http://scholar.harvard.edu/files/shleifer/files/as_cv_5.pdf |archive-date=2014-01-08 }}</ref> Following this, he went to graduate school in [[economics]], acquiring his [[Ph.D.]] from [[Massachusetts Institute of Technology|MIT]] in 1986.  As a freshman at Harvard, Shleifer took [[Math 55]] with [[Brad DeLong]]; he has said that the course made him realize he was not destined to be a mathematician, but the experience gave him a future co-author.<ref name=bhayani>{{cite news|url=http://www.thecrimson.com/article/2007/6/4/andrei-shleifer-and-j-bradford-delong/ |title=Andrei Shleifer and J. Bradford DeLong|last=Bhayani|first=Paras D.|date=June 4, 2007|work=[[Harvard Crimson]]|access-date=2009-03-12}}</ref> Shleifer also met his mentor and professor, [[Lawrence Summers]], during his undergraduate education at Harvard. The two went on to be co-authors, joint grant recipients, and faculty colleagues.<ref name="Shadow Elite"/>
+
+He has held a tenured position in the Department of Economics at [[Harvard University]] since 1991 and was, from 2001 through 2006, the [[Whipple V. N. Jones]] Professor of Economics.<ref name="Bombardieri2006">{{cite news |first=Marcella |last=Bombardieri |title=Harvard professor loses honorary title in ethics violation |url=https://www.boston.com/news/local/articles/2006/10/14/harvard_professor_loses_honorary_title_in_ethics_violation/ |work=[[Boston Globe]] |date=2006-10-14 }}</ref> Previously, he taught at the [[Booth School of Business|Graduate School of Business]] at the [[University of Chicago]] and briefly at [[Princeton University]].
+
+==Work==
+Shleifer's earliest work was in [[financial economics]], where he has contributed to the field of [[behavioral finance]]. He has also written influential papers on political economy, the economics of transition, and economic development, collaborating with his former colleagues in Chicago, [[Kevin M. Murphy]] and [[Robert W. Vishny]]. Their paper "Industrialization and the Big Push" was credited by [[Paul Krugman]] as a major breakthrough which ended a "long slump in development theory".<ref>{{cite web |url=http://web.mit.edu/krugman/www/dishpan.html|title=The Fall and Rise of Development Economics|author=Paul Krugman|access-date=2013-10-19}}</ref>
+
+With coauthors [[Rafael La Porta]], [[Simeon Djankov]] and [[Florencio Lopez de Silanes]], Shleifer has also made significant contributions to the study of corporate governance.
+
+In recent years, his research has focused on the [[legal origins theory]] (also sometimes known as ''law and finance'' theory), which claims that the legal tradition a country adheres to (such as [[common law]] or various types of [[civil law (legal system)|civil law]]) is an important determining factor for a country's development, most of all financial development.
+
+The Clark medal citation described him as a "superb economist, working in the old Chicago tradition of building simple models, emphasizing basic economic mechanisms, and carefully looking at the evidence.... A recurring theme of his research is the respective role of markets, institutions, and governments."<ref>{{cite web|url=http://www.aeaweb.org/PDF_files/Bios/Shleifer_bio_1999.pdf |title=Andrei Shleifer, Clark medal citation |publisher=aeaweb.org |access-date=2013-10-19 |url-status=dead |archive-url=https://web.archive.org/web/20130530160752/http://aeaweb.org/PDF_files/Bios/Shleifer_bio_1999.pdf |archive-date=2013-05-30 }}</ref>
+
+==Asset management==
+
+In 1994 Shleifer founded with fellow academics—and behavioral finance specialists—[[Josef Lakonishok]] and [[Robert Vishny]] a Chicago-based money management firm known as LSV Asset Management. As of February 2006, it managed about $50 billion in quantitative value equity portfolios, though, according to the firm's website, Shleifer has sold his ownership stake.<ref>{{cite web|url=http://www.dailyii.com/article.asp?PositionID=&ArticleID=1020662&p=33 |title=How Harvard lost Russia |access-date=2007-05-06 |url-status=dead |archive-url=https://web.archive.org/web/20070927222354/http://www.dailyii.com/article.asp?PositionID=&ArticleID=1020662&p=33 |archive-date=2007-09-27 }}</ref>
+
+==Scandal==
+During the early 1990s, Andrei Shleifer headed a Harvard project under the auspices of the Harvard Institute for International Development (HIID) that invested U.S. government funds in the development of Russia's economy. Schleifer was also a direct advisor to [[Anatoly Chubais]], then vice-premier of [[Russia]], who managed the Rosimushchestvo ({{Lang-ru|росимущество|lit=Russian assets}} or Committee for the Management of State Property) portfolio and was a primary engineer of [[Russian privatization]]. Shleifer was also tasked with establishing a stock market for Russia that would be a world-class capital market.<ref name="McClintick2006">{{cite web|url= http://www.institutionalinvestor.com/Article/1020662/How-Harvard-lost-Russia.html#/.V0mIqpF97nE|title= How Harvard Lost Russia|publisher= Institutional Investor|date= February 27, 2006|access-date= May 28, 2016|archive-url= https://web.archive.org/web/20140705041205/http://www.institutionalinvestor.com/Article/1020662/How-Harvard-lost-Russia.html#/.V0mIqpF97nE|archive-date= July 5, 2014|url-status= dead|df= mdy-all}}</ref> In 1996 complaints about the Harvard project led Congress to launch a [[General Accounting Office]] investigation, which stated that the Harvard Institute for International Development (HIID) was given "substantial control of the U.S. assistance program.”<ref name="Wedel2001">{{cite web|url= http://janinewedel.info/harvard_cronycapitalismWSJ.html|title= Who Taught Crony Capitalism to Russia? |publisher= The Wall Street Journal Europe|date= March 19, 2001|access-date=2011-11-11}}</ref>
+
+In 1997, the U.S. Agency for International Development (USAID) canceled most of its funding for the Harvard project after investigations showed that top HIID officials Andrei Shleifer and Jonathan Hay had used their positions and insider information to profit from investments in the Russian securities markets. Among other things, the Institute for a Law Based Economy (ILBE) was allegedly used to assist Shleifer's wife, [[Nancy Zimmerman]], who operated a hedge fund which speculated in Russian bonds.<ref name="McClintick2006"/>
+
+In August 2005, Harvard University, Shleifer and the Department of Justice reached an agreement under which the university paid $26.5 million to settle the five-year-old lawsuit. Shleifer was also responsible for paying $2 million worth of damages, though he did not admit any wrongdoing.<ref name="Bombardieri2006" /><ref>http://www.prnewswire.com/news-releases/harvard-defendants-pay-over-31-million-to-settle-false-claims-act-allegations-reports-us-attorney-54649792.html</ref>
+
+==Works==
+* {{cite book |title=Privatizing Russia |last=Boycko |first=Maxim |author2=Shleifer, Andrei |author-mask2=2 |author3=Vishny, Robert |year=1995 |publisher=MIT Press |location=Cambridge, MA |isbn=978-0-262-02389-4 |url-access=registration |url=https://archive.org/details/privatizingrussi00boyc }}
+* {{cite book |title=Inefficient Markets: An Introduction to Behavioral Finance |url=https://archive.org/details/inefficientmarke00andr |url-access=registration |last=Shleifer |first=Andrei |author-mask=2 |year=2000 |publisher=Oxford University Press |location=Oxford, UK |isbn=978-0-19-829227-2 }}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://economics.harvard.edu/faculty/shleifer Faculty page at Harvard University]
+* [https://web.archive.org/web/20120724145117/http://www.whoswhoineconomics.com/andrei-shleifer/ Who's Scheifer]
+* [https://ideas.repec.org/top/top.person.all.html Citation rankings]
+* [http://jboy.chaosnet.org/misc/docs/articles/shleifer.pdf Institutional Investor: How Harvard Lost Russia]
+* [http://www.imf.org/external/pubs/ft/fandd/2000/09/books.htm Book review in Finance and Development (An IMF publication) of "Without a Map: Political Tactics and Economic Reform in Russia" by Andrei Shleifer and Daniel Treisman]
+
+{{John Bates Clark Medal recipients}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shleifer, Andrei}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:Scientists from Rochester, New York]]
+[[Category:Economists from New York (state)]]
+[[Category:Education economists]]
+[[Category:Macroeconomists]]
+[[Category:Law and economics scholars]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:Harvard University alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Soviet Jews]]
+[[Category:Soviet emigrants to the United States]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Economics journal editors]]
+[[Category:Harvard Institute for International Development]]
+[[Category:Behavioral economists]]
+[[Category:Fellows of the European Economic Association]]

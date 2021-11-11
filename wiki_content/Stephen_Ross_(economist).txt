@@ -1,0 +1,63 @@
+{{Short description|American economist}}
+{{Other people|Stephen Ross}}
+
+{{Infobox economist
+| school_tradition = [[Neoclassical economics]]
+| image            =
+| caption          =
+| name             = Stephen Ross
+| birth_date       = February 3, 1944
+| birth_place      =Boston, Massachusetts
+| death_date       = {{death date and age|2017|3|3|1944|2|3}} 
+| death_place      =
+| nationality      = [[United States]]
+| field            = [[Financial economics]]
+| influences       =
+| influenced       =
+| awards           = [[Smith Breeden Prize]] (2006)<br> [[Onassis Prize]] (2012)<br>[[Deutsche Bank Prize]] (2015)
+| contributions    = [[Arbitrage pricing theory]]<br>[[Binomial options pricing model]]<br>[[Cox–Ingersoll–Ross model]]<br>[[Agency problem]]
+}}
+
+'''Stephen Alan''' "'''Steve'''" '''Ross''' (February 3, 1944 – March 3, 2017) <ref>{{Cite web|url=http://www.caltech.edu/news/caltech-mourns-passing-trustee-stephen-ross-bs-65-54292|title = Caltech Mourns the Passing of Trustee Stephen A. Ross (BS '65)}}</ref> was the inaugural [[Franco Modigliani]] Professor of [[Financial economics|Financial Economics]] at the [[MIT Sloan School of Management]] after a long career as  the [[Sterling Professor]] of Economics and Finance at the [[Yale School of Management]].<ref>http://mitsloan.mit.edu/alumni/events/past-events/big-data-conference/stephen-ross/</ref> He is known for initiating several important theories and models in [[financial economics]]. He is a widely published author in finance and economics, and is coauthor of one of the best-selling [[Corporate Finance]] texts.<ref>{{cite book|author1=Stephen Ross|author2=Jeffrey Jaffe|author3=Randolph Westerfield|title=Corporate Finance|url=https://books.google.com/books?id=A0opCwAAQBAJ|date=7 October 2015|publisher=McGraw-Hill Education|isbn=978-1-259-29588-1}}</ref>
+
+He received his [[B.S.]] with honors from [[Caltech]] in 1965 where he majored in physics, and his [[Ph.D.]] in economics from [[Harvard]] in 1970, and has taught at the [[University of Pennsylvania]], [[Yale School of Management]], and [[MIT]].
+
+Ross is best known for the development of the [[arbitrage pricing theory]] (mid-1970s) as well as for his role in developing the [[binomial options pricing model]] (1979; also known as the [[Cox–Ross–Rubinstein model]]). He was an initiator of the fundamental financial concept of [[Rational pricing#Risk neutral valuation|risk-neutral pricing]]. In 1985 he contributed to the creation of the [[Cox–Ingersoll–Ross model]] for interest rate dynamics. Such theories have become an important part of the paradigm known as [[neoclassical finance]].
+
+Ross also introduced a rigorous modeling of the [[agency problem]] in 1973, as seen from the principal's standpoint.<ref>Ross, Stephen A. "The economic theory of agency: The principal's problem." The American Economic Review 63.2 (1973): 134-139.</ref>
+
+Ross served as President of the [[American Finance Association]] in 1988. He was named [[International Association of Financial Engineers]]' Financial Engineer of the Year in 1996.
+
+He gave the inaugural lecture of the Princeton Lectures in Finance, sponsored by the Bendheim Center for Finance of [[Princeton University]], in 2001. It became a book in 2004,<ref>Ross, Stephen A. Neoclassical finance. Princeton University Press, 2004.</ref> presenting [[neoclassical finance]] and defending it, including such notions as the [[Financial market efficiency|efficiency]] and [[rationality]] of markets, against its critics, especially those who belong to the [[behavioral finance]] tradition.
+
+Ross was a recipient of a 2006 [[Smith Breeden Prize]], a 2012 [[Onassis Prize]],<ref>https://www.onassis.org/initiatives/onassis-prizes/onassis-prizes-2012-awarding</ref> a 2014 Morgan Stanley - AFA Award for Excellence in Finance,<ref>{{Cite web|url=https://afajof.org/morgan-stanley-american-finance-association-award-for-excellence-in-finance|title = Morgan Stanley - American Finance Association Award for Excellence in Finance}}</ref> as well as a 2015 [[Deutsche Bank Prize]] for developing models used for assessing prices for options and other assets in the previous 30 years.<ref>[https://www.nytimes.com/reuters/2015/03/03/business/03reuters-economics-ross-prize.html?src=busln U.S. Economist Ross Wins Deutsche Prize for Pricing Models], ''The New York Times''. Retrieved March 3, 2015.</ref>
+
+Ross chaired the theses for the following economists: Anat Admati, Jonathan Berk, [[John Y. Campbell]], [[Philip H. Dybvig]], [[William N. Goetzmann]], Mark Grinblatt, Leonid Kogan, Stavros Panageas, Paul Pfleiderer, Chester Spatt.<ref>{{Cite book|title=Neoclassical finance|last=Ross, Stephen A.|date=2005|publisher=Princeton University Press|isbn=0691121389|oclc=423826462}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote|Stephen A. Ross}}
+* [https://web.archive.org/web/20011216061839/http://sloancf.mit.edu/vpf/facstaff.cfm?ID=226&ProfType=F&sortorder=name Sloan Faculty Profile]
+* [https://web.archive.org/web/20070409000521/http://cepa.newschool.edu/het/profiles/ross.htm Bibliography and References @ newschool.edu]
+*{{cite web|title=Stephen A. Ross|url=https://econpapers.repec.org/RAS/pro1047.htm|publisher=[[EconPapers]]}}
+*{{cite web|title=Stephen A. Ross|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Stephen+A.+Ross%22+&acc=off&wc=on&fc=off&group=none|publisher=[[JSTOR]]}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ross, Stephen}}
+[[Category:1944 births]]
+[[Category:2017 deaths]]
+[[Category:Financial economists]]
+[[Category:American economists]]
+[[Category:Harvard University alumni]]
+[[Category:University of Pennsylvania faculty]]
+[[Category:Yale University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:California Institute of Technology alumni]]
+[[Category:MIT Sloan School of Management faculty]]
+[[Category:Corporate finance theorists]]
+[[Category:Yale Sterling Professors]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Presidents of the American Finance Association]]

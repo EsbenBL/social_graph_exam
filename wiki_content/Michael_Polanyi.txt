@@ -1,0 +1,226 @@
+{{Short description|Hungarian-British polymath (1891–1976)}}
+{{Use British English|date=August 2014}}
+{{Hungarian name|Polányi Mihály}}
+{{Use dmy dates|date=August 2014}}
+{{more citations needed|date=April 2011}}
+
+{{Infobox person
+| honorific_prefix          = [[Professor]]
+| name                      = Michael Polanyi
+| honorific_suffix          = {{post-nominals|country=GBR|FRS|size=100%}}
+| image                     = Michael Polanyi.png
+| caption                   = Polanyi in England, 1933
+| birth_name                = Pollacsek Mihály
+| birth_date                = {{birth date|df=yes|1891|3|11}}
+| birth_place               = [[Budapest]], [[Austria-Hungary]]
+| death_date                = {{death date and age|df=yes|1976|2|22|1891|3|11}}
+| death_place               = [[Northampton]], [[England]]
+| education                 = Graduated in medicine, 1913; PhD in physical chemistry, 1919
+| alma_mater                = [[Eötvös Loránd University]], Budapest<br />[[Karlsruhe Institute of Technology|Technische Hochschule]], Karlsruhe<br />[[University of Budapest]]
+| occupation                = Professor of [[physical chemistry]], professor of [[social studies]]
+| employer                  = [[Kaiser Wilhelm Institute]]<br />[[Victoria University of Manchester|University of Manchester]]<br>[[Merton College, Oxford]]
+| organization              =
+| known_for                 = Contributions to the [[theory of knowledge]] and [[philosophy of science]] (identification of the "structure of [[Tacit knowledge|tacit knowing]]"), contributions to physical science ([[Potential theory of Polanyi|potential adsorption theory]])
+| notable_works             =
+| spouse                    = Magda Elizabeth Kemeny
+| partner                   =
+| children                  = [[John Charles Polanyi]], George Polanyi
+| parents                   = Michael and Cecilia Pollacsek
+| relatives                 = [[Karl Polanyi]] (brother) <br> [[Kari Polanyi Levitt]] (niece)
+}}
+'''Michael Polanyi''' {{post-nominals|country=GBR|FRS}}<ref name="frs">{{Cite journal | last1 = Wigner | first1 = E.&nbsp;P. | author-link1 = Eugene Wigner| last2 = Hodgkin | first2 = R.&nbsp;A. | doi = 10.1098/rsbm.1977.0016 | title = Michael Polanyi. 12 March 1891 – 22 February 1976 | journal = [[Biographical Memoirs of Fellows of the Royal Society]] | volume = 23 | page = 413 | year = 1977 | doi-access = free }}</ref> ({{IPAc-en|p|oʊ|ˈ|l|æ|n|j|i}}; {{lang-hu|Polányi Mihály}}; 11 March 1891 – 22 February 1976) was a Hungarian-British<ref>{{cite web |url=http://www.mimicsoda.hu/cikk.php?id=1372 |title=A holográfia és a hologramok |last=Lévay |first=Júlia |date=20 September 2016 |website=mimicsoda.hu |publisher=Mi Micsoda}}</ref> [[polymath]], who made important theoretical contributions to [[physical chemistry]], [[economics]], and [[philosophy]]. He argued that [[positivism]] supplies a false account of [[knowledge|knowing]], which if taken seriously undermines humanity's highest achievements.
+
+His wide-ranging research in [[Outline of physical science|physical science]] included [[chemical kinetics]], [[x-ray diffraction]], and [[adsorption]] of gases. He pioneered the theory of [[Fiber diffraction|fibre diffraction]] analysis in 1921, and the [[dislocation]] theory of plastic deformation of [[Ductility|ductile metals]] and other materials in 1934. He emigrated to [[Germany]], in 1926 becoming a chemistry professor at the [[Kaiser Wilhelm Institute]] in [[Berlin]], and then in 1933 to [[England]], becoming first a chemistry professor, and then a social sciences professor at the [[Victoria University of Manchester|University of Manchester]]. Two of his pupils, and his son [[John Charles Polanyi]] won Nobel Prizes in Chemistry. In 1944 Polanyi was elected to the [[Royal Society]].
+
+The contributions which Polanyi made to the social sciences include an understanding of [[tacit knowledge]], and the concept of a polycentric spontaneous order to intellectual inquiry were developed in the context of his opposition to [[economic planning|central planning]].
+
+==Life==
+===Early life===
+Polanyi, born Mihály Pollacsek in Budapest, was the fifth child of Mihály and Cecília Pollacsek (born as [[Cecília Wohl]]), secular Jews from [[Ungvár]] (then in Hungary but now in Ukraine) and [[Wilno]], then [[Russian Empire]], respectively. His father's family were entrepreneurs, while his mother's father&nbsp;– Osher Leyzerovich Vol (1833&nbsp;– after 1906)&nbsp;– was the senior teacher of Jewish history at the [[Vilnius|Vilna]] rabbinic seminary, from which he had graduated as a rabbi.<ref>Detailed genealogical information on the Vol family is available at JewishGen.org (Lithuania database).</ref><ref>[https://www.rujen.ru/index.php/%D0%92%D0%9E%D0%9B%D0%AC_%D0%90%D1%81%D1%81%D0%B8%D1%80_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%87 Russian Jewish Encyclopedia: Assir Lazarevich (Osher Leyzerovich) Vol]: He also wrote for various publications in the Russian and Hebrew languages, translated Talmudic texts, and in early 1900s worked as a state censor of Yiddish publications in Vilna.</ref><ref>{{cite JEBE|wstitle=Воль, Ассир Лазаревич|access-date=6 April 2018|volume=5|page=746}}</ref> The family moved to Budapest and [[Magyarization|Magyarized]] their surname to Polányi. His father built much of the Hungarian railway system, but lost most of his fortune in 1899 when bad weather caused a railway building project to go over budget. He died in 1905. Cecília Polányi established a salon that was well known among Budapest's intellectuals, and which continued until her death in 1939. His older brother was [[Karl Polanyi]], the political economist and anthropologist, and his niece was [[Eva Zeisel]], a world-renowned ceramist.<ref>{{cite web|url=http://www.government-online.net/eva-zeisel-obituary/|title=Eva Zeisel obituary |publisher=Government Online|date=15 January 2012|website=government-online.net|access-date=6 April 2018}}</ref>
+
+===Education===
+In 1909, after leaving his teacher-training secondary school (Mintagymnasium), Polanyi studied to be a physician, obtaining his medical diploma in 1914. He was an active member of the [[Galileo Circle]]. With the support of {{ill|Ignác Pfeifer|de|Ignácz Pfeifer|hu|Pfeifer_Ignác}}, professor of chemistry at the [[Budapest University of Technology and Economics|Royal Joseph University]] of Budapest, he obtained a scholarship to study chemistry at the [[Technische Hochschule]] in [[Karlsruhe]], Germany. In the [[First World War]], he served in the [[Austria-Hungary|Austro-Hungarian]] army as a medical officer, and was sent to the [[Austria-Hungary#Serbian front|Serbian front]]. While on sick-leave in 1916, he wrote a PhD thesis on [[adsorption]]. His research, which was encouraged by [[Albert Einstein]], was supervised by {{ill|Gusztáv Buchböck|de}}, and in 1919 the [[Royal University of Pest]] awarded him a doctorate.
+
+===Career===
+In October 1918, [[Mihály Károlyi]] established the [[Hungarian Democratic Republic]], and Polanyi became Secretary to the Minister of Health. When the Communists seized power in March 1919, he returned to medicine. When the [[Hungarian Soviet Republic]] was overthrown, Polanyi emigrated to Karlsruhe in Germany, and was invited by [[Fritz Haber]] to join the [[Kaiser Wilhelm Society|Kaiser Wilhelm Institut]] für Faserstoffchemie (fiber chemistry) in Berlin. In 1923 he converted to Christianity, and in a Roman Catholic ceremony married Magda Elizabeth Kemeny.<ref>Torrance, Thomas F. (2002). "Mihály Polányi and the Christian faith: personal report" (pdf). Polanyiana (1–2), pp. 167–176.</ref> In 1926 he became the professorial head of department of the Institut für Physikalische Chemie und Elektrochemie (now the [[Fritz Haber Institute of the Max Planck Society|Fritz Haber Institute]]). In 1929, Magda gave birth to their son [[John Charles Polanyi|John]], who was awarded a Nobel Prize in chemistry in 1986. Their other son, George Polanyi, who predeceased him, became a well-known economist.
+
+His experience of [[Hyperinflation in the Weimar Republic|runaway inflation]] and high unemployment in [[Weimar Germany]] led Polanyi to become interested in economics. With the coming to power in 1933 of the [[Nazism|Nazi]] party, he accepted a chair in physical chemistry at the University of Manchester. Two of his pupils, [[Eugene Wigner]] and [[Melvin Calvin]] went on to win a Nobel Prize. Because of his increasing interest in the social sciences, Manchester University created a new chair in [[Social Science]] (1948–58) for him.
+
+In 1944 Polanyi was elected a member of the [[Royal Society]],<ref name="frs"/> and on his retirement from the University of Manchester in 1958 he was elected a senior research fellow at [[Merton College]], Oxford.<ref name="MCreg">{{cite book|editor1-last=Levens|editor1-first=R.G.C.|title=Merton College Register 1900-1964|date=1964|publisher=Basil Blackwell|location=Oxford|page=499}}</ref> In 1962 he was elected a foreign honorary member of the [[American Academy of Arts and Sciences]].<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter P|url=http://www.amacad.org/publications/BookofMembers/ChapterP.pdf|publisher=American Academy of Arts and Sciences|access-date=19 April 2011}}</ref>
+
+==Work==
+===Physical chemistry===
+Polanyi's scientific interests were extremely diverse, including work in [[chemical kinetics]], [[x-ray diffraction]], and the [[adsorption]] of gases at solid surfaces. He is also well known for [[Potential theory of Polanyi|his potential adsorption theory]], which was disputed for quite some time. In 1921, he laid the mathematical foundation of [[fibre diffraction]] analysis. In 1934, Polanyi, at about the same time as [[Geoffrey Ingram Taylor|G. I. Taylor]] and [[Egon Orowan]], realised that the [[plasticity (physics)|plastic]] [[deformation (mechanics)|deformation]] of [[ductile]] materials could be explained in terms of the theory of [[dislocation]]s developed by [[Vito Volterra]] in 1905. The insight was critical in developing the field of [[solid mechanics]].
+
+===Freedom and community===
+In 1936, as a consequence of an invitation to give lectures for the Ministry of Heavy Industry in the [[USSR]], Polanyi met [[Bukharin]], who told him that in socialist societies all scientific research is directed to accord with the needs of the latest [[Five-year plans for the national economy of the Soviet Union|Five Year Plan]]. Polanyi noted what had happened to the study of [[genetics]] in the Soviet Union once the doctrines of [[Trofim Lysenko]] had gained the backing of the State. Demands in Britain, for example by the Marxist [[John Desmond Bernal]], for centrally planned scientific research led Polanyi to defend the claim that science requires free debate. Together with [[John Baker (biologist)|John Baker]], he founded the influential [[Society for Freedom in Science]].
+
+In a series of articles, re-published in ''The Contempt of Freedom'' (1940) and ''The Logic of Liberty'' (1951), Polanyi claimed that co-operation amongst scientists is analogous to the way [[Agent (economics)|agents]] co-ordinate themselves within a [[free market]]. Just as consumers in a free market determine the value of products, science is a [[spontaneous order]] that arises as a consequence of open debate amongst specialists. Science (contrary to the claims of Bukharin) flourishes when scientists have the liberty to pursue truth as an end in itself:
+
+<blockquote>[S]cientists, freely making their own choice of problems and pursuing them in the light of their own personal judgment, are in fact co-operating as members of a closely knit organization.</blockquote>
+<blockquote>Such self-co-ordination of independent initiatives leads to a joint result which is unpremeditated by any of those who bring it about.</blockquote>
+<blockquote>Any attempt to organize the group ... under a single authority would eliminate their independent initiatives, and thus reduce their joint effectiveness to that of the single person directing them from the centre. It would, in effect, paralyse their co-operation.
+</blockquote>
+
+He derived the phrase [[spontaneous order]] from [[Gestalt psychology]], and it was adopted by the [[classical liberal]] economist [[Friederich Hayek]], although the concept can be traced back to at least [[Adam Smith]]. Polanyi (unlike Hayek) argued that there are higher and lower forms of spontaneous order, and he asserted that defending scientific inquiry on [[utilitarian]] or [[sceptical]] grounds undermined the practice of science. He extends this into a general claim about free societies. Polanyi defends a free society not on the negative grounds that we ought to respect "private liberties", but on the positive grounds that "public liberties" facilitate our pursuit of objective ideals.
+
+According to Polanyi, a free society that strives to be value-neutral undermines its own justification. But it is not enough for the members of a free society to believe that ideals such as truth, justice, and beauty, are objective, they also have to accept that they transcend our ability to wholly capture them. The objectivity of values must be combined with acceptance that all knowing is fallible.
+
+In ''Full Employment and Free Trade'' (1948) Polanyi analyses the way money circulates around an economy, and in a [[monetarist]] analysis that, according to [[Paul Craig Roberts]], was thirty years ahead of its time, he argues that a free market economy should not be left to be wholly self-adjusting. A [[central bank]] should attempt to moderate economic booms/busts via a strict/loose monetary policy.
+
+In 1940, he produced a film,  "Unemployment and money. The principles involved", perhaps the first film about economics.<ref>{{Cite web|last=Beira|first=Eduardo|date=2019|title=pol1b - ebeira|url=https://sites.google.com/site/ebeira/pol1b|access-date=2020-08-31|website=sites.google.com}}</ref> The film presented a special kind of Keynesianism, neutral Keynesianism, that advised to use budget deficit and tax remissions to increase the amount of money in the circulation in times of economic hardship but did not advise to use infrastructural investments and public works.<ref>{{Cite journal|last=Biro|first=Gabor|date=2020|title="Michael Polanyi's Neutral Keynesianism and the First Economics Film, 1933 to 1945," Journal of the History of Economic Thought, 2020.|journal=Journal of the History of Economic Thought|volume=42|issue=3|pages=335–356|doi=10.1017/S1053837219000476|s2cid=225260656|url=https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/michael-polanyis-neutral-keynesianism-and-the-first-economics-film-1933-to-1945/3013E469C730D7A95B9E1715D9860E3A}}</ref>
+
+===All knowing is personal===
+In his book ''Science, Faith and Society'' (1946), Polanyi set out his opposition to a [[positivism (philosophy)|positivist]] account of science, noting that it ignores the role personal commitments play in the practice of science. Polanyi gave the [[Gifford Lectures]] in 1951–52 at Aberdeen, and a revised version of his lectures were later published as ''Personal Knowledge'' (1958). In this book Polanyi claims that all knowledge claims (including those that derive from rules) rely on personal judgements.<ref>''Personal Knowledge'', p. 18</ref> He denies that a [[scientific method]] can yield truth mechanically. All knowing, no matter how formalised, relies upon commitments. Polanyi argued that the assumptions that underlie [[critical philosophy]] are not only false, they undermine the commitments that motivate our highest achievements. He advocates a [[fiduciary]] post-critical approach, in which we recognise that we believe more than we can prove, and know more than we can say. The literary critic [[Rita Felski]] has named Polanyi as an important precursor to the project of [[postcritique]] within literary studies.<ref>{{Cite book|title=The Limits of Critique|last=Felski|first=Rita|publisher=University of Chicago Press|year=2015|isbn=978-0226294032 |location=Chicago|pages=150}}</ref>
+
+A knower does not stand apart from the universe, but participates personally within it. Our intellectual skills are driven by passionate commitments that motivate discovery and validation. According to Polanyi, a great scientist not only identifies patterns, but also chooses significant questions likely to lead to a successful resolution. Innovators risk their [[reputation]] by committing to a [[hypothesis]]. Polanyi cites the example of [[Nicolaus Copernicus|Copernicus]], who declared that the [[Heliocentrism|Earth revolves around the Sun]]. He claims that Copernicus arrived at the Earth's true relation to the Sun not as a consequence of following a method, but via "the greater intellectual satisfaction he derived from the celestial panorama as seen from the Sun instead of the Earth."<ref>Personal Knowledge p. 3</ref> His writings on the practice of science influenced [[Thomas Kuhn]] and [[Paul Feyerabend]].
+
+Polanyi rejected the claim by [[British Empiricists]] that experience can be reduced into [[sense data]], but he also rejects the notion that "indwelling" within (sometimes incompatible) interpretative frameworks traps us within them. Our tacit awareness connects us, albeit fallibly, with [[reality]]. It supplies us with the context within which our articulations have meaning. Contrary to the views of his colleague and friend [[Alan Turing]], whose work at the [[Victoria University of Manchester]] prepared the way for the [[History of computing hardware|first modern computer]], he denied that [[mind]]s are [[Reductionism|reducible]] to collections of rules. His work influenced the critique by [[Hubert Dreyfus]] of "First Generation" [[artificial intelligence]].
+
+It was while writing ''Personal Knowledge'' that he identified the "structure of [[Tacit knowledge|tacit knowing]]". He viewed it as his most important discovery. He claimed that we experience the world by integrating our subsidiary awareness into a focal awareness. In his later work, for example his [[Terry Lectures]], later published as ''The Tacit Dimension'' (1966), he distinguishes between the [[Phenomenology (philosophy)|phenomenological]], [[Instrumentalism|instrumental]], [[semantic]], and [[ontological]] aspects of tacit knowing, as discussed (but not necessarily identified as such) in his previous writing.
+
+===Critique of reductionism===
+In "Life's irreducible structure" (1968),<ref>{{cite journal|title=Life's Irreducible Structure|author=Michael Polanyi|journal=Science|date=June 1968|volume=160|pmid=5651890|issue=3834|pages=1308–12|doi=10.1126/science.160.3834.1308|bibcode=1968Sci...160.1308P}}</ref> Polanyi argues that the information contained in the [[DNA]] [[molecule]] is not reducible to the laws of physics and chemistry. Although a DNA molecule cannot exist without physical properties, these properties are constrained by higher-level [[Implicate order|ordering]] principles. In "Transcendence and Self-transcendence" (1970),<ref>{{cite journal|url=https://www.jstor.org/stable/41177772|title=Transcendence and Self-transcendence|journal=Soundings|volume=53|issue=1|year=1970|pages=88–94|author=Michael Polanyi|jstor=41177772|access-date=25 August 2020}}</ref> Polanyi criticises the [[Mechanism (philosophy)|mechanistic]] [[world view]] that modern science inherited from [[Galileo]].
+
+Polanyi advocates [[emergence]] i.e. the claim that there are several levels of reality and of [[causality]]. He relies on the assumption that [[boundary conditions]] supply [[degrees of freedom (statistics)|degrees of freedom]] that, instead of being random, are determined by higher-level realities, whose properties are dependent on but distinct from the lower level from which they emerge. An example of a higher-level reality functioning as a downward causal force is consciousness – [[intentionality]] – generating meanings – [[intensionality]].
+
+Mind is a higher-level expression of the capacity of living organisms for [[Discrimination learning|discrimination]]. Our pursuit of self-set ideals such as truth and justice transforms our understanding of the world. The [[reductionism|reductionistic]] attempt to reduce higher-level realities into lower-level realities generates what Polanyi calls a moral inversion, in which the higher is rejected with moral passion. Polanyi identifies it as a pathology of the modern mind and traces its origins to a false conception of knowledge; although it is relatively harmless in the formal sciences, that pathology generates [[nihilism]] in the humanities. Polanyi considered [[Marxism]] an example of moral inversion. The State, on the grounds of an appeal to the logic of history, uses its coercive powers in ways that disregard any appeals to [[morality]].<ref>Personal Knowledge, Ch. 7, section 11</ref>
+
+=== Tacit knowledge ===
+[[Tacit knowledge]], as distinct from explicit knowledge, is an influential term developed by Polanyi in ''The Tacit Dimension''<ref>{{Cite book|title=The tacit dimension|last=Polanyi|first=Michael|date=2009 |orig-year=1966|publisher=University of Chicago Press|isbn=978-0-226-67298-4|location=Chicago|oclc=262429494}}</ref> to describe the idea of know how, or the ability to do something, without necessarily being able to articulate it or even be aware of all the dimensions, for example being able to ride a bicycle or play a musical instrument.
+
+==Bibliography==
+{{refbegin}}
+* 1932. ''Atomic Reactions''. Williams and Norgate, London.
+* 1935. ''U.S.S.R. Economics''
+* 1940. ''The Contempt of Freedom. The Russian Experiment and After''. Watts & Co., London.
+* 1944. ''Patent Reform''
+* 1945. ''Full Employment and Free Trade''
+* 1946. [https://archive.org/details/sciencefaithands032129mbp ''Science, Faith, and Society'']. Oxford Univ. Press. {{ISBN|0-226-67290-5}}. Reprinted by the University of Chicago Press, 1964.
+* 1951. ''The Logic of Liberty''. University of Chicago Press. {{ISBN|0-226-67296-4}}
+* 1958. ''[[Personal Knowledge: Towards a Post-Critical Philosophy]]''. University of Chicago Press. {{ISBN|0-226-67288-3}}
+* 1959. ''The Study of Man''. University of Chicago Press.
+* 1960. ''Beyond Nihilism''
+* 1966. ''The Tacit Dimension''. London, Routledge.  (University of Chicago Press. {{ISBN|978-0-226-67298-4}}. 2009 reprint)
+* 1969. ''Knowing and Being''. Edited with an introduction by Marjorie Grene. University of Chicago Press and (UK) Routledge and Kegan Paul.
+* 1975 (with Prosch, Harry). ''Meaning''. Univ. of Chicago Press. {{ISBN|0-226-67294-8}}
+* 1997. ''Society, Economics and Philosophy: Selected Papers of Michael Polanyi''. Edited with an introduction by R.T. Allen. New Brunswick NJ: Transaction Publishers. Includes an annotated bibliography of Polanyi's publications.
+{{refend}}
+
+==See also==
+* [[Bell–Evans–Polanyi principle]]
+* [[Eyring equation|Eyring–Polanyi equation]]
+* [[Credo ut intelligam]]
+* [[Knowledge management]]
+* [[List of Christians in science and technology]]
+* [[Michael Polanyi Center]]
+* [[George Holmes Howison#Philosophy|George Holmes Howison's "Personal Idealism"]]
+* [[Polanyi's paradox]]
+
+==Notes==
+{{Reflist}}
+
+==Further reading==
+{{refbegin}}
+*  Neidhardt, W. Jim: [http://www.asa3.org/ASA/PSCF/1979/JASA3-79Neidhardt.html "Possible Relationships Between Polanyi's Insights and Modern Findings in Psychology, Brain Research, and Theories of Science."] ''JASA'' 31 (March 1979): 61–62.
+* Thorson, Walter R.: [http://www.asa3.org/ASA/PSCF/1981/JASA9-81Thorson.html "The Biblical Insights of Michael Polanyi."] ''JASA'' 33 (September 1981): 129–38.
+* Stines, J. W.: [http://www.asa3.org/ASA/PSCF/1992/PSCF12-92Stines.html "Time, Chaos Theory and the Thought of Michael Polanyi."] ''JASA'' 44 (December 1992): 220–27.
+* Gelwick, Richard, 1987. ''The Way of Discovery: An Introduction to the Thought of Michael Polanyi''. Oxford University Press.
+* Allen, R. T., 1991. ''Polany''. London, Claridge Press.
+* Scott, Drusilla, 1995. ''Everyman Revived: The Common Sense of Michael Polanyi''. Grand Rapids, MI: Eerdmans. {{ISBN|0-8028-4079-5}}.
+* Allen, R. T., 1998. ''Beyond Liberalism: A Study in the Political Thought of F. A. Hayek and Michael Polanyi'', Rutgers, NJ, Transaction Publishers.
+* Poirier, Maben W. 2002. ''A Classified and Partially Annotated Bibliography of Michael Polanyi, the Anglo-Hungarian Philosopher of Science''. Toronto: Canadian Scholars' Press. {{ISBN|1-55130-212-8}}.
+* Scott, William Taussig, and Moleski, Martin X., 2005. ''Michael Polanyi, Scientist and Philosopher''. Oxford University Press. {{ISBN|0-19-517433-X}}.
+* Jacobs, Struan, and Allen, R. T. (eds.), 2005. "Emotion, Reason and Tradition: Essays on the Social, Political and Economic Thought of Michael Polanyi", Guildford, Ashgate. {{ISBN|0-7546-4067-1}}.
+* Mitchell, Mark, 2006. ''Michael Polanyi: The Art of Knowing (Library Modern Thinkers Series)''. Wilmington, Delaware: Intercollegiate Studies Institute. {{ISBN|1-932236-90-2}}, {{ISBN|978-1-932236-90-3}}.
+* Nye, Mary Jo, 2011. ''Michael Polanyi and His Generation: Origins of the Social Construction of Science''. University of Chicago Press. {{ISBN|978-0-226-61063-4}}.
+* Angioni, Giulio, 2011. ''Fare, dire, sentire: l’identico e il diverso nelle culture'', Il Maestrale. [[Giulio Angioni]] {{ISBN|978-88-6429-020-1}}.
+{{refend}}
+
+==External links==
+
+{{refbegin}}
+* [http://www.hyle.org/journal/issues/8-2/bio_nye.html Biography] by Mary Jo Nye
+* [http://www.missouriwestern.edu/orgs/polanyi/ Polanyi Society] home page
+* [http://www.spcps.org.uk The Society for Personalist and Postcritical Studies] The SPCPS and its journal, "Appraisal", takes a special interest in Michael Polanyi.
+* [http://www.erraticimpact.com/~20thcentury/html/polanyi_michael.htm Polanyi resources] at erraticimpact.com
+* ''[http://www.kfki.hu/chemonet/polanyi/9912/contents.html Polanyiana],'' Vol. 8, Number 1–2
+* Smith, M. K., 2003, "[http://www.infed.org/thinkers/polanyi.htm Michael Polanyi and tacit knowledge.]" The encyclopaedia of informal education
+* [https://emergentpublications.com/ECO/ECO_other/Issue_14_4_10_CP.pdf "Life's Irreducible Structure"]. Michael Polanyi. ''Journal of the [[American Scientific Affiliation]]''. Volume 22 (December 1970): 123–31.  Links to Responses by Stanford Materials Science Professor [[Richard H. Bube]] and another member of the ASA [[Cohn Duricz]].
+* {{Internet Archive author |sname= |sopt=w}}
+* [https://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.POLANYI Guide to the Michael Polanyi Papers 1900-1975] at the [https://www.lib.uchicago.edu/scrc/ University of Chicago Special Collections Research Center]
+{{refend}}
+
+{{s-start}}
+{{s-npo|pro}}
+{{s-bef|before= [[H. J. Fleure|Herbert John Fleure]] }}
+{{s-ttl|title=President of the [[Manchester Literary and Philosophical Society]] |years=1944–46}}
+{{s-aft|after= [[T. B. L. Webster|Thomas Bertram Lonsdale Webster]] }}
+{{s-bef|before= Godfrey W. Armitage }}
+{{s-ttl|title=President of the [[Manchester Statistical Society]] |years=1950–51}}
+{{s-aft|after= Dr F. C. Toy }}
+{{s-end}}
+
+{{Philosophy of science}}
+{{Manchester Literary and Philosophical Society|state=collapsed}}
+{{Portal bar |United Kingdom |Biography}}
+{{Authority control}}
+
+{{DEFAULTSORT:Polanyi, Michael}}
+[[Category:1891 births]]
+[[Category:1976 deaths]]
+[[Category:20th-century British male writers]]
+[[Category:20th-century British non-fiction writers]]
+[[Category:20th-century British philosophers]]
+[[Category:20th-century British writers]]
+[[Category:20th-century economists]]
+[[Category:20th-century essayists]]
+[[Category:20th-century Hungarian male writers]]
+[[Category:20th-century Hungarian philosophers]]
+[[Category:20th-century Hungarian writers]]
+[[Category:Academics of the University of Manchester]]
+[[Category:British physical chemists]]
+[[Category:British economists]]
+[[Category:British film producers]]
+[[Category:British Jews]]
+[[Category:British logicians]]
+[[Category:British male essayists]]
+[[Category:British people of Hungarian-Jewish descent]]
+[[Category:British Roman Catholics]]
+[[Category:Catholic philosophers]]
+[[Category:Converts to Roman Catholicism from Judaism]]
+[[Category:Cultural critics]]
+[[Category:Fellows of Merton College, Oxford]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Hungarian chemists]]
+[[Category:Hungarian economists]]
+[[Category:Hungarian emigrants to England]]
+[[Category:Hungarian essayists]]
+[[Category:Hungarian film producers]]
+[[Category:Hungarian Jews]]
+[[Category:Hungarian logicians]]
+[[Category:Hungarian Roman Catholics]]
+[[Category:Hungarian philosophers]]
+[[Category:Jewish philosophers]]
+[[Category:Jewish chemists]]
+[[Category:Jews who immigrated to the United Kingdom to escape Nazism]]
+[[Category:Lecturers]]
+[[Category:Naturalised citizens of the United Kingdom]]
+[[Category:Philosophers of culture]]
+[[Category:Philosophers of economics]]
+[[Category:Philosophers of history]]
+[[Category:Philosophers of logic]]
+[[Category:Philosophers of mind]]
+[[Category:Philosophers of religion]]
+[[Category:Philosophers of science]]
+[[Category:Philosophers of social science]]
+[[Category:Philosophy writers]]
+[[Category:Polányi family|Mihaly]]
+[[Category:Scientists from Budapest]]
+[[Category:British social commentators]]
+[[Category:Hungarian social commentators]]
+[[Category:Social critics]]
+[[Category:Social philosophers]]
+[[Category:Writers about religion and science]]
+[[Category:Manchester Literary and Philosophical Society]]

@@ -1,0 +1,127 @@
+{{Use dmy dates|date=March 2018}}
+{{Infobox economist
+|name             = Jean Tirole
+|school_tradition =
+|color            =
+|image            =
+|image_size       =
+|caption          = Tirole in 2019
+|birth_date       = {{Birth date and age|1953|08|09|df=yes}}
+|birth_place      = [[Troyes]], France
+|death_date       =
+|death_place      =
+|nationality      = French
+|institution      = [[Toulouse 1 University Capitole]]<br />[[Toulouse School of Economics]]<br />[[Ecole des hautes études en sciences sociales]]
+|field            = {{hlist|[[Microeconomics]]|[[Game theory]]|[[Industrial organization]]}}
+|alma_mater       = [[Massachusetts Institute of Technology]]<br />[[Paris Dauphine University]]<br />[[École nationale des ponts et chaussées]]<br />[[École Polytechnique]]
+| doctoral_advisor  = [[Eric Maskin]]
+| academic_advisors =
+| doctoral_students = [[Roland Bénabou]]
+| notable_students  =
+|influenced       =
+|contributions    =
+|awards           =[[John von Neumann Award]] (1998)<br /> [[BBVA Foundation Frontiers of Knowledge Award]] (2008) <br/>[[Nobel Memorial Prize in Economics]] (2014)
+|signature        = <!-- file name only -->
+|repec_prefix = e | repec_id = pti33
+}}
+'''Jean Tirole''' (born 9 August 1953) is a French professor of [[economics]] at [[Toulouse 1 Capitole University]]. He focuses on [[industrial organization]], [[game theory]], banking and finance, and [[psychological economics|economics and psychology]]. In 2014 he was awarded the [[Nobel Memorial Prize in Economic Sciences]] for his analysis of [[market power]] and [[regulation]].<ref>{{citation |title=Sveriges Riksbank's Prize in Economic Sciences in Memory of Alfred Nobel 2014. |url=https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2014/ |publisher=Sveriges Riksbank |date=October 13, 2014 |access-date=October 13, 2014}}</ref><ref>Biography of [http://www.ecgi.org/members_directory/member.php?member_id=80 Jean Tirole] {{Webarchive|url=https://web.archive.org/web/20141018173655/http://www.ecgi.org/members_directory/member.php?member_id=80 |date=18 October 2014 }}</ref>
+
+== Education ==
+Tirole received engineering degrees from the [[École Polytechnique]] in Paris in 1976, and from the [[École nationale des ponts et chaussées]] in 1978. He graduated as a member of the elite [[Corps of Bridges, Waters and Forests (France)|Corps of Bridges, Waters and Forests]].  Tirole pursued graduate studies at the [[Paris Dauphine University]] and was awarded a [[Master of Advanced Studies|DEA]] degree in 1976 and a [[Doctorat#France|Doctorat de troisième cycle]] in [[decision theory|decision mathematics]] in 1978.  In 1981, he received a [[Doctor of Philosophy|Ph.D.]] in economics from the [[Massachusetts Institute of Technology]] for his thesis titled ''Essays in economic theory'', under the supervision of [[Eric Maskin]].<ref>{{cite web | url = http://library.mit.edu/item/000117200 | title = Essays in economic theory / by Jean Tirole | publisher = MIT Library catalog | access-date = 2014-10-13}}</ref>
+
+== Career ==
+{{Expand section|date=October 2014}}
+[[File:(31) - Toulouse School of Economics.jpg|thumb|180px|left|[[Toulouse School of Economics]].]]
+Tirole is chairman of the board of the [[Jean-Jacques Laffont Foundation]] at the [[Toulouse School of Economics]], and scientific director of the [[Industrial Economics Institute]] (IDEI) at [[Toulouse 1 University Capitole]]. After receiving his doctorate from MIT in 1981, he worked as a researcher at the [[École nationale des ponts et chaussées]] until 1984. From 1984–1991, he worked as Professor of Economics at [[MIT]]. His work by 1988 helped to define modern industrial organization theory by organising and synthesising the main results of the game-theory revolution ''vis-à-vis'' understanding of non-competitive markets.<ref name=":0">{{Cite journal|title = Jean Tirole: Market Power and Regulation|date = 13 October 2014|journal = Royal Swedish Academy of Sciences}}</ref>
+
+From 1994 to 1996 he was a professor of economics at the [[École Polytechnique]]. Tirole was involved with [[Jean-Jacques Laffont]] in the project of creating a new [[Toulouse School of Economics|School of Economics in Toulouse]]. He is Engineer General of the Corps of Bridges, Waters and Forest, serving as Chair of the Board of the [[Toulouse School of Economics]], Visiting Professor at MIT and Professor "cumulant" at the [[École des hautes études en sciences sociales]] since 1995.
+
+He was president of the [[Econometric Society]] in 1998 and of the [[European Economic Association]] in 2001. Around this time, he was able to determine a way to calculate the optimal prices for the regulation of natural monopolies and wrote a number of articles about the regulation of capital markets—with a focus on the differential of control between decentralised lenders and the centralised control of bank management.<ref name=":0" /> Tirole has been a member of the [[Académie des Sciences morales et politiques]] since 2011, the Conseil d'analyse économique since 2008 and the Conseil stratégique de la recherché since 2013. In the early 2010s, he showed that banks generally tend to take short-term risks and recommended a change in [[quantitative easing]] towards a more quality-based market stimulation policy.<ref name=":0" />
+
+== Contributions to economics ==
+Tirole's textbook, ''The Theory of Industrial Organization'', synthesised modern models of oligopolistic competition, analysing various cases where industries consist of a small number of firms with significant market power. He and [[Oliver Hart (economist)|Oliver Hart]] published a paper showing the conditions in which a vertical merger can result in foreclosure.<ref>{{Cite book|title=The theory of industrial organization|last=Tirole |first=Jean|date=1988|publisher=The MIT Press|isbn=9780262200714|oclc=464151427|url-access=registration|url=https://archive.org/details/theoryofindustri00jean}}</ref> Rochet and Tirole analysed the implications of 2-sided markets for competition policy.<ref>{{Cite journal|last1=Rochet|first1=Jean-Charles|last2=Tirole|first2=Jean|date=2003-06-01|title=Platform Competition in Two-Sided Markets|journal=Journal of the European Economic Association|volume=1|issue=4|pages=990–1029|doi=10.1162/154247603322493212|issn=1542-4766|doi-access=free}}</ref> [[Drew Fudenberg|Fudenberg]] and Tirole also created a taxonomy of strategic effects in oligopolistic competition models.<ref>{{Cite web|url=http://www.rasmusen.org/GI/reader/15a.aerfud&Tirole.Puppy.pdf|title=The Fat Cat Effect, the Puppy Dog Ploy and the Lean an d Hungry Look}}</ref>
+
+== Awards ==
+Tirole was awarded the [[Nobel Memorial Prize in Economic Sciences]] in 2014 for his analysis of [[market power]] and the regulation of natural monopolies. Tirole received [[doctorate honoris causa|doctorates ''honoris causa'']] from the [[Université libre de Bruxelles]] in 1989, the [[London Business School]] and the [[University of Montreal]] in 2007, the [[University of Mannheim]] in  2011, the [[Athens University of Economics and Business]] and the [[University of Rome Tor Vergata]] in 2012 as well as the [[University of Lausanne]] in 2013.<ref>{{in lang|it}} [http://www.economia.uniroma2.it/nuovo/eventi.asp?id=1078 Laurea magistrale honoris causa Jean Tirole]</ref>
+
+Tirole also received the inaugural [[BBVA Foundation Frontiers of Knowledge Award]] in the Economics, Finance and Management category in 2008, the Public Utility Research Center Distinguished Service Award ([[University of Florida]]) in 1997, and the [[Yrjö Jahnsson Award]] of the [[Yrjö Jahnsson Foundation]] and the [[European Economic Association]] in 1993. He is a foreign honorary member of the [[American Academy of Arts and Sciences]] (1993) and of the [[American Economic Association]] (1993). He has also been a [[Sloan Fellow]] (1985) and a [[Guggenheim Fellow (1988)]]. He was a fellow of the Econometric Society in 1986 and an Economic Theory Fellow (Society for the Advancement of Economic Theory) in 2011. In 2013 Tirole was elected an Honorary Fellow of the [[Royal Society of Edinburgh]].<ref>{{Cite news|url=https://www.rse.org.uk/fellow/jean-tirole/|title=Professor Jean Marcel Tirole HonFRSE - The Royal Society of Edinburgh|work=The Royal Society of Edinburgh|access-date=2018-02-01|language=en-GB}}</ref>
+
+In 2007 he was awarded the highest award (the Gold Medal or médaille d'or) of the French CNRS. In 2008, he received the Prix du Cercle d'Oc; in 2009, he received an  Outstanding Contributions to the Profession Award ([[International Association for Energy Economics]]); in 2010, he was granted the [[Chicago Mercantile Exchange]] – [[Mathematical Sciences Research Institute]] (CME-MSRI) prize in Innovative Quantitative Innovations in Finance,  the Tjalling Koopmans Asset Award ([[Tilburg University]]), and  the "Prix Claude Levi-Strauss". He is among the most influential economists in the world according to [[RePEc|IDEAS/RePEc]].<ref>{{cite web|url=https://ideas.repec.org/top/top.person.all.html|title=Economist Rankings at IDEAS|access-date=15 October 2014}}</ref>  Besides his numerous academic distinctions, he was the recipient of the Gold Medal of the city of Toulouse in 2007, a [[Chevalier de la Légion d'honneur]] since 2007 and an Officer in the [[Ordre national du Mérite]] since 2010.
+
+== Publications ==
+Tirole has published about 200 professional articles in economics and finance, as well as 10 books, including  ''The Theory of Industrial Organization'', ''Game Theory'' (with [[Drew Fudenberg]]), ''A Theory of Incentives in Procurement and Regulation'' (with [[Jean-Jacques Laffont]]), ''The Prudential Regulation of Banks'' (with Mathias Dewatripont), ''Competition in Telecommunications'' (with Jean-Jacques Laffont), ''Financial Crises, Liquidity, and the International Monetary System'', and  ''The Theory of Corporate Finance''. His research covers industrial organization, regulation, game theory, public economics, banking and finance, psychology and economics, international finance and macroeconomics.
+
+=== Books ===
+* ''Dynamic Models of Oligopoly'' (with D. Fudenberg), 1986.<ref>{{cite book|url=https://books.google.com/books?id=ax2F6ozajBkC|title=Dynamic Models of Oligopoly|first1=Drew|last1=Fudenberg|first2=Jean|last2=Tirole|date=11 June 2018|publisher=Routledge|via=Google Books|isbn=9780415269179}}</ref>
+* ''The Theory of Industrial Organization'', [[MIT Press]], 1988. [https://archive.org/details/theoryofindustri00jean Description] and chapter-preview [https://archive.org/details/theoryofindustri00jean links.]
+* '' Dynamic Models of Oligopoly'' (avec Drew Fudenberg, Harwood Academic Publishers GMbH, 1986. 
+* ''Game Theory'' (with D. Fudenberg), MIT Press, 1991.<ref>{{cite web|url=http://mitpress.mit.edu/books/game-theory|title=Game Theory |last=Fudenberg |first=Drew |last2=Tirole |first2=Jean |publisher=The MIT Press|website=The MIT Press}}</ref>
+* ''A Theory of Incentives in Regulation and Procurement'' (with J.-J. Laffont), MIT Press,1993. [https://archive.org/details/theoryofindustri00jean Description] & chapter-preview [https://books.google.com/books?id=4iH4Z2wbNqAC&pg=PR7 links.]
+* ''The Prudential Regulation of Banks'' (with M. Dewatripont), MIT Press,1994.<ref>{{cite web|url=http://mitpress.mit.edu/books/prudential-regulation-banks|title=The Prudential Regulation of Banks |first=Mathias |last=Dewatripont |first2=Jean |last2=Tirole |publisher=The MIT Press}}</ref>
+* ''Competition in Telecommunications'', MIT Press, 1999.<ref>{{cite web|url=http://mitpress.mit.edu/books/competition-telecommunications|title=Competition in Telecommunications|first=Jean-Jacques |last=Laffont |first2=Jean |last2=Tirole |publisher=The MIT Press}}</ref>
+* ''Financial Crises, Liquidity and the International Monetary System'', [[Princeton University Press]], 2002.<ref>{{cite book|url=http://press.princeton.edu/titles/7427.html|title=Financial Crises, Liquidity, and the International Monetary System|date=21 July 2002|website=Princeton University Press|isbn=9780691099859|last1=Tirole|first1=Jean}}</ref>
+* ''The Theory of Corporate Finance'', Princeton University Press, 2005. [http://press.princeton.edu/titles/8123.html Description.]  Association of American Publishers 2006 Award for Excellence.
+* ''Balancing the Banks'' (with Mathias Dewatripont, and Jean-Charles Rochet), Princeton University Press, 2010.<ref>{{Cite book|last=Dewatripont|first=Mathias|url=https://www.worldcat.org/oclc/642206030|title=Balancing the banks: global lessons from the financial crisis|date=2010|publisher=Princeton University Press|first2=Jean-Charles |last2=Rochet |first3=Jean |last3=Tirole |first4=Keith |last4=Tribe |isbn=978-1-4008-3464-8|location=Princeton|oclc=642206030}}</ref>
+* ''Inside and Outside Liquidity'' (with Bengt Holmström), MIT Press, 2011.<ref>{{cite web|url=http://mitpress.mit.edu/books/inside-and-outside-liquidity|title=Inside and Outside Liquidity|publisher=The MIT Press |first=Bengt |last=Holmström |first2=Jean |last2=Tirole}}</ref>
+* ''Théorie de l'organisation industrielle'', Economica, 2015 
+* ''Économie du bien commun'', [[Presses universitaires de France]], 2016
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://idei.fr/member.php?i=3 Personal info and curriculum vitae on the IDEI website]
+* [http://idei.fr/vitae.php?i=3  Bibliography]
+* [https://web.archive.org/web/20141018173655/http://www.ecgi.org/members_directory/member.php?member_id=80 Biography]
+* [http://www.fbbva.es/TLFU/tlfu/ing/home/index.jsp BBVA Foundation Frontiers of Knowledge Awards]
+* [https://www.richmondfed.org/publications/research/econ_focus/2017/q4/interview ''Econ Focus'' interview], Federal Reserve Bank of Richmond, Fourth Quarter 2017
+* {{Nobelprize}}
+
+{{s-start}}
+|-
+{{s-ach|aw}}
+{{s-bef | before = [[Eugene F. Fama]] | before2 =[[Lars Peter Hansen]] | before3 = [[Robert J. Shiller]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 2014 }}
+{{s-aft | after = [[Angus Deaton]] }}
+{{s-end}}
+
+{{Nobel laureates in economics}}
+{{2014 Nobel Prize winners}}
+{{Yrjö Jahnsson Award recipients}}
+{{John von Neumann Award recipients}}
+{{Presidents of the Econometric Society}}
+{{Presidents of the European Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tirole, Jean}}
+[[Category:1953 births]]
+[[Category:Living people]]
+[[Category:People from Troyes]]
+[[Category:French economists]]
+[[Category:Nobel laureates in Economics]]
+[[Category:Corporate finance theorists]]
+[[Category:Financial economists]]
+[[Category:Game theorists]]
+[[Category:Information economists]]
+[[Category:Chevaliers of the Légion d'honneur]]
+[[Category:French Nobel laureates]]
+[[Category:Members of the Académie des sciences morales et politiques]]
+[[Category:Foreign associates of the National Academy of Sciences]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Sloan Fellows]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:École Polytechnique alumni]]
+[[Category:Corps des ponts]]
+[[Category:Paris Dauphine University alumni]]
+[[Category:École Polytechnique faculty]]
+[[Category:Toulouse School of Economics faculty]]
+[[Category:Officers of the National Order of Merit (France)]]
+[[Category:Labor economists]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]
+[[Category:Fellows of the European Economic Association]]

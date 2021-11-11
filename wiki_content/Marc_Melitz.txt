@@ -1,0 +1,61 @@
+{{short description|American economist}}
+{{for|the composer|Marc Mellits}}
+{{Infobox economist
+| name             = Marc Melitz
+| school_tradition = [[New Keynesian economics]]
+
+| image            = 
+| image_size       = 
+| caption          = 
+| birth_date       = {{Birth date and age|1968|01|01}}
+| birth_place      =
+| death_date       = 
+| death_place      =
+| nationality      = [[Americans|American]]
+| institution      = [[Harvard University]]
+| field            = [[International economics]]
+| alma_mater       = [[University of Michigan]]<br>[[University of Maryland, College Park]]<br>[[Haverford College]]
+| doctoral_advisor = [[James A. Levinsohn]]<ref>{{cite thesis |last= Melitz |first= Marc |date= 2000 |title= International trade and industry productivity dynamics with heterogeneous producers |type= Ph.D. |publisher= [[University of Michigan]] |id= {{ProQuest|304607604}} }}</ref>
+| doctoral_students = 
+| influences       = 
+| opposed          = 
+| influenced       = 
+| contributions    = Contributions to the [[New Trade Theory]]
+| awards           = 
+| signature        = <!-- file name only -->
+| repec_prefix = f | repec_id = pme260
+}}
+
+'''Marc J. Melitz''' (born January 1, 1968)<ref>''U.S. Public Records Index'' Vol 1 (Provo, UT: Ancestry.com Operations, Inc.), 2010.</ref> is an American [[economist]]. He is currently a professor of [[economics]] at [[Harvard University]].
+
+Melitz has published a number of highly cited articles in the area of [[international economics]] and [[international trade]],<ref>{{As of|2010|02}}, Melitz is the most highly cited young economists according to the IDEAS repository: [https://ideas.repec.org/top/top.young.html Rankings at IDEAS:Top Young Economists, as of February 2010]</ref> most notably "The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity" in ''[[Econometrica]]'' which explores the effects of international trade on the competition within domestic industries.<ref>{{Citation |first=Marc J. |last=Melitz |author-mask=——— |year=2003 |title=The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity |journal=Econometrica |volume=71 |issue=6 |pages=1695–1725 |doi=10.1111/1468-0262.00467 |citeseerx=10.1.1.563.6294 }}.</ref>
+
+In addition to his Harvard position, Melitz is also a research fellow of the [[Centre for Economic Policy Research]] and a research associate of the [[National Bureau of Economic Research]] since 2000. Before joining Harvard, Melitz was a professor at [[Princeton University]] .<ref name=cv/>
+
+Melitz holds a  BA in Mathematics from [[Haverford College]] (1989), an MSBA in Operations Research from the [[University of Maryland, College Park]] (1992)<ref name=cv>According to his [http://scholar.harvard.edu/files/melitz/files/cv_1.pdf academic CV] {{webarchive|url=https://web.archive.org/web/20140308092639/http://scholar.harvard.edu/files/melitz/files/cv_1.pdf |date=2014-03-08 }}.</ref> a M.A.(1997), and a Ph.D. (2000) in Economics from the [[University of Michigan]].
+
+In 2008, ''[[The Economist]]'' listed Melitz as one of the top 8 young economists in the world.<ref name="TheEconomist">{{Citation |date=December 30, 2008 |title=International bright young things |newspaper=The Economist |url=http://www.economist.com/businessfinance/displayStory.cfm?story_id=12851150 }}</ref>
+
+==Footnotes==
+{{reflist}}
+
+==External links==
+*[http://www.economics.harvard.edu/faculty/melitz Official web site at Harvard]
+*[https://web.archive.org/web/20140308092639/http://scholar.harvard.edu/files/melitz/files/cv_1.pdf Academic CV]
+
+{{Keynesians}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Melitz, Marc}}
+[[Category:1968 births]]
+[[Category:Trade economists]]
+[[Category:Harvard University faculty]]
+[[Category:Princeton University faculty]]
+[[Category:Haverford College alumni]]
+[[Category:University of Maryland, College Park alumni]]
+[[Category:University of Michigan alumni]]
+[[Category:Living people]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]

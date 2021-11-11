@@ -1,0 +1,87 @@
+{{Infobox person
+| honorific_prefix   = 
+| name               = Gershon Ben-Shakhar
+| honorific_suffix   = 
+| image              = Girshon ben shachar.jpg
+| image_upright      = 
+| landscape          = <!-- yes, if wide image, otherwise leave blank -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| native_name        = גרשון בן שחר
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name         = <!-- only use if different from name -->
+| birth_date         ={{Birth date and age|1942|5|25}} 
+| birth_place        = 
+| death_date         = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (enter DEATH date then BIRTH date (e.g., ...|1908|31|8|1967|28|2}} use both this parameter and |birth_date to display the person's date of birth, date of death, and age at death) -->
+| death_place        = 
+| death_cause        = 
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place       = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| nationality        = 
+| other_names        = 
+| siglum             = 
+| citizenship        = 
+| education          = 
+| alma_mater         = 
+*[[The Hebrew University of Jerusalem]] (B.A. in Psychology and Statistics (1966), M.A. in Psychology (1970), Ph.D. in Psychology (1975)
+*[[Northwestern University]] (Post-Doctoral Fellow, 1975-1976)
+| occupation         = 
+| years_active       = 
+| employer           = 
+| organization       = 
+| known_for          = President of the [[Open University of Israel]]
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| style              = 
+| home_town          = 
+| title              = <!-- Formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) -->
+| term               = 
+| predecessor        = 
+| successor          = 
+| boards             = 
+| spouse             = <!-- Use article title or common name -->
+| partner            = <!-- (unmarried long-term partner) -->
+| children           = 
+| parents            = <!-- overrides mother and father parameters -->
+| relatives          = 
+| family             = 
+| awards             = [[EMET Prize]]
+| website            = <!-- {{URL|example.com}} -->
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
+'''Gershon Ben-Shakhar''' ('''גרשון בן שחר'''; born May 25, 1942) is an Israeli [[psychologist]]. He served as President of the [[Open University of Israel]].<ref name="auto">{{Cite web|url=https://www.openu.ac.il/personal_sites/gershon-ben-shakhar/|title=Prof. Gershon Ben-Shakhar|website=www.openu.ac.il}}</ref><ref>{{Cite book|url=https://books.google.com/books?id=vgEoAQAAIAAJ&q=Gershon+Ben-Shakhar&dq=Gershon+Ben-Shakhar&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiQ2qHWmMvnAhVC1VkKHb84DzsQ6AEwGnoECB8QAg|title=Yearbook of Science and the Future|date= 1989|work=Encyclopaedia Britannica|via=Google Books}}</ref><ref>{{Cite web|url=https://reason.com/2018/10/03/lie-detectors-arent/|title='Lie Detectors' Do Not Detect Lies|date=October 3, 2018|work=Reason}}</ref>
+
+==Academic career==
+Gershon Ben-Shakhar earned a B.A. in Psychology and Statistics (1966), an M.A. in Psychology (1970), and a Ph.D. in Psychology (1975) from [[The Hebrew University of Jerusalem]].<ref name="auto"/><ref name="auto1">{{Cite web|url=http://education.academy.ac.il/Index2/Entry.aspx?nodeId=1109&entryId=20878|title=היזמה למחקר יישומי בחינוך - Members|website=education.academy.ac.il}}</ref> He was a Post-Doctoral Fellow at [[Northwestern University]] in [[Evanston, Illinois]], from 1975 to 1976.<ref name="auto"/>
+
+Ben-Shakhar taught in the Department of Psychology at The Hebrew University of Jerusalem from 1981 on, ultimately as a Professor and for a time as the Chair of the Department and the Dean of the Faculty of Social Sciences.<ref name="auto"/><ref>{{Cite book|url=https://books.google.com/books?id=LV4vAQAAIAAJ&q=Gershon+Ben-Shakhar&dq=Gershon+Ben-Shakhar&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiQ2qHWmMvnAhVC1VkKHb84DzsQ6AEwEHoECBQQAg|title=Polygraph|date=February 12, 1997|publisher=American Polygraph Association|via=Google Books}}</ref><ref name="auto1"/>
+
+In 2003 he became President of the [[Open University of Israel]], succeeding [[Eliahu Nissim]].<ref name="auto"/><ref name="auto1"/> 
+==Published works==
+Along with [[John J. Furedy]] he wrote the book ''Theories and Applications in the Detection of Deception: A psychophysiological and international perspective'' (New York: [[Springer-Verlag]], 1990).<ref name="auto"/><ref>{{Cite book|url=https://books.google.com/books?id=GGAcBQAAQBAJ&printsec=frontcover&dq=Gershon+Ben-Shakhar&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiQ2qHWmMvnAhVC1VkKHb84DzsQ6AEwAHoECAEQAg#v=onepage&q=Gershon+Ben-Shakhar&f=false|title=Theories and Applications in the Detection of Deception: A Psychophysiological and International Perspective|first1=Gershon|last1=Ben-Shakhar|first2=John J.|last2=Furedy|date=2012|publisher=Springer Science & Business Media|via=Google Books}}</ref>
+
+==Awards and recognition==
+In 2011 he was an [[EMET Prize]] Laureate.<ref name="auto1"/>
+
+== References ==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Ben-Shakhar, Gershon}}
+[[Category:Living people]]
+[[Category:Hebrew University of Jerusalem alumni]]
+[[Category:Northwestern University alumni]]
+[[Category:Hebrew University of Jerusalem faculty]]
+[[Category:Open University of Israel faculty]]
+[[Category:Presidents of universities in Israel]]
+[[Category:1942 births]]
+[[Category:Israeli psychologists]]
+[[Category:EMET Prize recipients in the Social Sciences]]
+[[Category:Israeli expatriates in the United States]]

@@ -1,0 +1,64 @@
+{{Other people}}
+{{EngvarB|date=October 2013}}
+{{Use dmy dates|date=October 2013}}
+[[Image:WilliamFleetwood.jpg|thumb|right|200px|Bishop Fleetwood.]]
+'''William Fleetwood''' (1 January 1656{{snd}}4 August 1723) was an English preacher, [[Bishop of St Asaph]] and [[Bishop of Ely]], remembered by economists and statisticians for constructing a [[price index]] in his ''Chronicon Preciosum'' of 1707.
+
+==Life==
+[[File:Memorial to Bishop William Fleetwood in Ely Cathedral.jpg|thumb|Memorial to Bishop William Fleetwood in [[Ely Cathedral]]]]
+Fleetwood was descended of an ancient Lancashire family, and was born in the [[Tower of London]] on New Year's Day 1656. He received his education at [[Eton College|Eton]] and at [[King's College, Cambridge]].<ref>{{acad|id=FLTT675W|name=Fleetwood, William}}</ref> About the time of the [[Glorious Revolution|Revolution]] he took orders, and was shortly afterwards made rector of St Austin's, London, and lecturer of St Dunstan's in the West. He became a canon of Windsor in 1702, and in 1708 he was nominated to the see of St Asaph, from which he was translated in 1714 to that of Ely. He died at Tottenham, Middlesex, on 4 August 1723.<ref name="EB1911">{{EB1911|inline=y|wstitle=Fleetwood, William|volume=10|pages=494–494}}</ref>
+
+Fleetwood was regarded as the best preacher of his time. He was accurate in learning, and effective in delivery, and his character stood deservedly high in general estimation. In episcopal administration he far excelled most of his contemporaries. He was a zealous Hanoverian, and a favourite with [[Anne, Queen of Great Britain|Queen Anne]] in spite of his [[Whiggism]]. His opposition to the doctrine of non-resistance brought him into conflict with the Tory ministry of 1712 and with [[Jonathan Swift|Swift]], but he never entered into personal controversy.<ref name="EB1911"/>
+
+His principal writings are ''An Essay on Miracles'' (1701); ''Chronicum preciosum'' (an account of the English coinage, 1707); and ''Free Sermons''  (1712), containing discourses on the death of Queen Mary, the Duke of Gloucester and King William. The preface to this last was condemned to public burning by Parliament, but, as No. 384 of ''The Spectator, '' circulated more widely than ever. A collected edition of his works, with a biographical preface, was published in 1737.<ref name="EB1911"/> His memorial by [[monumental masons]] [[Edward Stanton (sculptor)]] and [[Christopher Horsnaile]] is in the north chancel aisle of [[Ely Cathedral]].<ref>{{cite book |author-link=Nikolaus Pevsner |first=Nikolaus |last=Pevsner |chapter=Cambridgeshire |title=The Buildings of England |edition=Second |location=London |publisher=Penguin Books |year=1970 |page=365 }}</ref>
+
+==''Chronicon Preciosum''==
+In the (anonymously published) ''Chronicon Preciosum'' Fleetwood asked, how much would £5 in 1440 buy ''today''? The question (''the case'') arose because a correspondent would lose the fellowship of an Oxford college if he had outside income in excess of £5; the college statute was composed in 1440. Fleetwood showed how much bread, drink, meat, cloth and books could be purchased at the earlier and later dates. He tabulated the changing prices of many commodities and noted that most of the prices grew at the same rate. He concluded that £5 in the fifteenth century would be worth £28 or £30 today, at the beginning of the eighteenth.
+
+[[Adam Smith]] used some of Fleetwood's data in ''[[The Wealth of Nations]]'' (1776), but did not develop—or even adopt—the idea of comparing purchasing power at different dates. Admiration for Fleetwood's work and efforts to build on it only came in the nineteenth century. For [[Francis Ysidro Edgeworth|Edgeworth]] the ''Chronicon Preciosum'' was "the oldest and one of the best treatises on index-numbers."
+
+Fleetwood's sermons often dealt with subjects of economic interest. For example, his sermon against clipping (of gold coins), delivered before the Lord Mayor of London, explained the function of money and the "mischiefs of corrupting and debasing money." He published his sermon on paying debts during the [[South Sea Company|South Sea panic]].
+
+Fleetwood seems to have been a practical Christian and, from the account of his life, a very political bishop.
+
+==Economic writings==
+* ''A Sermon against Clipping'' (London, 1694)
+* ''Chronicon Preciosum: or An Account of English Money, the Price of Corn and Other Commodities, for the Last 600 Years'' (London, 1707) The work appeared in his collected works of 1737 and was reissued in 1745 with a longer title and under the author's name.
+* ''The Justice of Paying Debts'' (1718)
+
+==References==
+{{More footnotes|date=June 2020}}
+{{reflist}}
+
+==Further reading==
+*{{cite book |first=Richard |last=Stone |title=Some British Empiricists in the Social Sciences 1650–1900 |publisher=Cambridge University Press |year=1996 |isbn=0521571456 }}
+*{{cite journal |first=W. A. |last=Chance |title=A Note on the Origins of Index Numbers |journal=[[Review of Economics and Statistics]] |volume=48 |issue=1 |year=1966 |pages=108–110 |doi=10.2307/1924869 |jstor=1924869 }}
+*{{cite journal |author-link=M. G. Kendall |first=M. G. |last=Kendall |title=The Early History of Index Numbers |journal=Review of the International Statistical Institute |volume=37 |issue=1 |year=1969 |pages=1–12 |doi=10.2307/1402090|jstor=1402090 }}
+
+==Resources and external links==
+*[http://www.taieb.net/auteurs/Fleetwood/ ''Chronicon Preciosum''] from [http://www.taieb.net/ Paulette Taieb's site]
+*{{npg name|id=01609|name=William Fleetwood}}
+*[http://www.google.com/search?q=inauthor:%22William+Fleetwood%22&tbm=bks&source=lnt&tbs=bkv:r&sa=X&ei=t_v8VOJr0ZHIBI7CgtgG&ved=0CA8QpwU Works of William Fleetwood]
+
+{{s-start}}
+{{s-rel|en}}
+{{succession box|title=[[Bishop of St Asaph]]|years=1704–1708|before=[[William Beveridge (bishop)|William Beveridge]]|after=[[John Wynne (bishop)|John Wynne]]}}
+{{succession box|title=[[Bishop of Ely]]|years=1714–1723|before=[[John Moore (Bishop of Ely)|John Moore]]|after=[[Thomas Greene (bishop)|Thomas Greene]]}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fleetwood, William}}
+[[Category:1656 births]]
+[[Category:1723 deaths]]
+[[Category:People educated at Eton College]]
+[[Category:Alumni of King's College, Cambridge]]
+[[Category:Bishops of Ely]]
+[[Category:Bishops of St Asaph]]
+[[Category:English economists]]
+[[Category:English statisticians]]
+[[Category:18th-century Welsh Anglican bishops]]
+[[Category:English sermon writers]]
+[[Category:18th-century economists]]
+[[Category:Canons of Windsor]]
+[[Category:18th-century Church of England bishops]]

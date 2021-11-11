@@ -1,0 +1,185 @@
+{{short description|American economist}}
+{{Use mdy dates|date=July 2020}}
+{{Infobox economist
+|name             = Douglass North
+|school_tradition = [[New institutional economics]]
+|image            = Douglass North.jpg
+|caption          = Douglass North in 1997
+|birth_name=
+|birth_date       = {{Birth date|1920|11|5}}
+|birth_place      = [[Cambridge, Massachusetts]], U.S.
+|death_date       = {{nowrap|{{death date and age|2015|11|23|1920|11|5}}}}
+|death_place      = [[Benzonia, Michigan]], U.S.
+|field            = [[Economic history]]
+|institution      = [[University of Washington]] <br />[[Rice University]]<br />[[Cambridge University]]<br />[[Washington University in St. Louis]]<br />[[Stanford University]]<br />[[Hoover Institution]]<br />[[US Merchant Marine Academy]]
+|alma_mater       = [[University of California, Berkeley]]
+|influences       = Melvin M. Knight
+|influenced       =
+|known_for        =
+|awards           = [[Nobel Memorial Prize in Economic Sciences]] (1993)
+| repec_prefix = e | repec_id = pno11}}
+'''Douglass Cecil North''' (November 5, 1920 – November 23, 2015) was an American economist known for his work in [[economic history]]. He was the co-recipient (with [[Robert William Fogel]]) of the 1993 [[Nobel Memorial Prize in Economic Sciences]].  In the words of the [[Nobel Committee]], North and Fogel "renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change."<ref name=":0">{{Cite web|url = https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1993/north-bio.html|title = Douglass C. North – Biography|date = 2014|access-date = February 14, 2016|website = Nobelprize.org|publisher = Nobel Media}}</ref>
+
+==Biography==
+Douglass North was born in [[Cambridge, Massachusetts]], on November 5, 1920. He moved several times as a child due to his father's work at [[Metropolitan Life Insurance Company|MetLife]]. The family lived in [[Ottawa]], [[Lausanne]], New York City, and [[Wallingford, Connecticut]].<ref name=":0" />
+
+North was educated at [[Ashbury College]] in [[Ottawa]], Ontario and the [[Choate Rosemary Hall|Choate School]] in [[Wallingford, Connecticut]]. He was accepted at [[Harvard University|Harvard]] at the same time that his father became the head of MetLife on the west coast, so North opted to go to [[University of California, Berkeley]]. During his time at Berkeley, North was a member of the [[Chi Phi Fraternity]]. In 1942, he graduated with a [[Bachelor of Arts|B.A.]] degree in General Curriculum-[[Humanities]]. Although his grades amounted to slightly better than a [[Academic grading in North America|"C" average]], he managed to complete a triple major in [[political science]], philosophy and economics.<ref name=":0" /> That same year, he entered the [[US Merchant Marine Academy]], graduated a year later and went to sea for three years as a deck officer.<ref>{{Cite web|title=Dr. Douglass C. North '43|url=https://www.usmmaalumni.com/s/1860/18/interior.aspx?sid=1860&gid=2&pgid=1460|access-date=2020-10-15|website=www.usmmaalumni.com|language=en}}</ref>
+
+A [[conscientious objector]] in [[World War II]], North became a [[navigator]] in the [[United States Merchant Marine|Merchant Marine]], traveling between San Francisco and Australia. During that time, he read economics and picked up his [[hobby]] of photography. He taught navigation at the Maritime Service Officers' School in [[Alameda, California|Alameda]] during the last year of the war, and struggled with the decision of whether to become a photographer or an economist.<ref>Breit, William and Barry T. Hirsch. (2004) ''Lives of the Laureates'', 4th ed. Cambridge, Mass: The MIT Press. {{ISBN|0262025620}}</ref>
+
+North returned to UC Berkeley where he obtained a [[Doctor of Philosophy|Ph.D.]] degree in economics in 1952. He subsequently began to work as an assistant professor at the [[University of Washington]].<ref name=":0" />
+
+North died on November 23, 2015, at his summer home in [[Benzonia, Michigan]] from [[esophageal cancer]] at the age of 95.<ref>{{cite web|last1=Everding|first1=Gerry|title=Obituary: Douglass C. North, Nobel Prize-winning economist, 95|url=https://news.wustl.edu/news/Pages/douglass-north-obituary-11.24.15.aspx|publisher=Washington University in St. Louis|access-date=November 24, 2015|date=November 2, 2015}}</ref><ref>{{cite news|url=https://www.nytimes.com/2015/11/25/business/economy/douglass-c-north-nobel-laureate-economist-dies-at-95.html|title=Douglass C. North, Maverick Economist and Nobel Laureate, Dies at 95|work=[[The New York Times]]|access-date=December 24, 2015|date=November 2, 2015|last1=Hershey|first1=Robert D., Jr}}</ref>
+
+==Academic career==
+[[File:Douglass North 1967.jpg|thumb|left|North in 1967]]
+From 1951 to 1956, North was an assistant professor of economics at the University of Washington, then from 1956 to 1960, an associate professor.  In 1960 North became co-editor of the ''[[Journal of Economic History]]'', popularizing [[Cliometrics]] (New Economic History), and from 1960 to 1983 he was professor of economics at the [[University of Washington]] where he also served as the chair of the economics department from 1967 to 1979.  In 1979 he served as the Peterkin Professor of Political Economy at [[Rice University]], and in 1981–82 as the [[Pitt Professor of American History and Institutions]] at [[Cambridge University]], before joining the faculty of [[Washington University in Saint Louis]] in 1983 as the [[Henry R. Luce]] Professor of Law and Liberty in the Department of Economics (where he also served as director of the center for [[Political Economy]] from 1984 to 1990).  He was the Bartlett Burnap Senior Fellow at the [[Hoover Institution]] at [[Stanford University]].<ref>[http://www.hoover.org/bios/north.html North's Profile], ''Hoover Institution'' {{webarchive|url=https://web.archive.org/web/20080828113254/http://www.hoover.org/bios/north.html|date=August 28, 2008}}</ref>
+
+In 1991, he became the first [[economic historian]] to win the [[John R. Commons]] Award,<ref>[http://www.omicrondeltaepsilon.org/handbook.html#commons John R. Commons Award], ''Omicron Delta Epsilon''</ref> which was established by the [[Omicron Delta Epsilon|International Honors Society for Economics]] in 1965.
+
+A collection of North's papers is housed at the Rubenstein Library at Duke University.<ref>{{cite web |url=http://library.duke.edu/rubenstein/findingaids/northdouglass |title=Douglass Cecil North Papers, 1942–2006 and undated |publisher=Rubenstein Library, Duke University}}</ref>
+
+==Research agenda==
+Along with [[Ronald Coase]] and [[Oliver Williamson]], he helped found the International Society for the [[New Institutional Economics]] (ISNIE)<ref>Ménard, Claude and Shirley, Mary M. (2014): [https://halshs.archives-ouvertes.fr/halshs-00624297/document#page=20 "The Contribution of Douglass North to New Institutional Economics"] in ''Institutions, Property Rights, and Economic Growth''. Sebastian Galiani and Itai Sened (eds.). Cambridge University Press. p. 19. {{DOI|10.1017/CBO9781107300361.003}} {{ISBN|9781107300361}}</ref> which held its first meeting in St. Louis in 1997. His research included [[property rights]], [[transaction cost]]s, the institutional basis of markets, and economic organization in history as well as economic development in [[developing countries]].
+
+North served as an expert for the [[Copenhagen Consensus]] and as an advisor to governments around the world.  He was engaged in research (with John J. Wallis of the [[University of Maryland, College Park|University of Maryland]] and Barry Weingast of [[Stanford University]]) on how countries emerge from what they call "the natural state" and into long-run economic growth.  He was a trustee of the [[Economists for Peace and Security]] and a special adviser to the non-profit organization [[Vipani]].
+
+==Publications==
+[[File:Douglass North 1979.jpg|thumb|North in 1979]]
+
+=== ''Institutions'' ===
+In 1991 Douglas North published a paper, entitled 'Institutions,' in the ''[[Journal of Economic Perspectives]]''.{{sfnp|North|1991}} This paper summarized much of his earlier research relating to economic and institutional change. North defines institutions as "humanly devised constraints that structure political, economic and social interactions". Constraints, as North describes, are devised as formal rules (constitutions, laws, property rights) and informal restraints (sanctions, taboos, customs, traditions, codes of conduct), which usually contribute to the perpetuation of order and safety within a market or society. The degree to which they are effective is subject to varying circumstances, such as a government's limited coercive force, a lack of organized state, or the presence of strong religious precept.
+
+Section 2 of North's 1991 paper describes the economic development of societies as occurring in stages:
+
+North begins with local exchange within the village. In this setting, specialization "is rudimentary and self-sufficiency characterizes most individual households", with small-scale village trade existing within dense social networks of informal constraints that facilitate local exchange, and a relatively low transaction cost. However, this confined market reduces the potential of specialization and increases production costs. In this close-knit network "people have an intimate understanding of each other, and the threat of violence is a continuous force for preserving order ..."{{sfnp|North|1991}}
+
+With growth, the market extends beyond the village into larger, interconnected regions. As the participants of a transaction become more socially distant, the terms of exchange must be made more explicit. This increase in transaction costs necessitates institutions that reduce the risks of being cheated, either by raising "the benefits of cooperative solutions or the costs of defection". With increased specialization, production costs are reduced and can justify higher transaction costs.{{sfnp|North|1991}}
+
+As long-distance trade becomes more feasible, generally through caravans or lengthy ship voyages, individuals and groups experience occupational and geographic specialization. Society also experiences a rise of formal trading centers (temporary gathering places, towns or cities). From the development of long-distance trade arise two transactional cost problems.
+
+The first transactional cost problem is agency: the transfer of one's goods or services outside the control of local rule leaves the rules of exchange undefined, the risk of unfair trade high, and the contracts within society unenforced. For this reason, sedentary merchants often would send their kin with the product to ensure its safe arrival and the fulfillment of agreed terms of exchange by the receiving party.
+
+The second transactional cost problem is the enforcement of contracts. Historically this problem was met with either armed forces protecting ships or caravans, or use of tolls by local coercive groups. However, in modern societies, institutions acting cooperatively in the interest of free market trade provide protection for goods and enforcement of contracts. Negotiation and enforcement in alien parts of the world require the development of a standardized system of weights and measures.
+
+As development continues, the rise of capital markets (and the protection of associated property rights), creates social capital and enables citizens to gain wealth. Technology plays an instrumental role in the continued development of manufacturing sectors, and acts to lower transaction costs in several ways. The most substantial benefits are generally the result of transportation improvements.
+
+Eventually, society becomes overwhelmingly urban. This final stage of development specialization requires increasing percentages of the resources of the society to be active in the market so that the transaction sector becomes a large share of gross national product. Highly specialized forms of transaction organizations emerge at this stage. Globalized specialization and division of labor demand institutions to ensure property rights even when trading in neighboring countries enabling capital markets to develop "with credible commitment on the part of the players."{{sfnp|North|1991}}
+
+North enumerates three primitive types of exchange:
+* Tribal Society "relies on a dense social network".(Colson 1974, p.&nbsp;59)
+* Bazaars "high measurement costs; continuous effort at clientization; intensive bargaining at every margin"{{sfnp|North|1991}}
+* Long-distance caravan trade illustrates the informal constraints that made trade possible in a world where protection was essential and no organized state existed.<ref>{{cite book|url=http://www.getcited.org/pub/101883793 |title=Meaning and order in Moroccan society: Three essays in cultural analysis |access-date=July 2, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120318031951/http://www.getcited.org/pub/101883793|year=1979|isbn=0521221757  |archive-date=March 18, 2012|author1=Geertz, Clifford|author2=Geertz, Hildred|author3=Rosen, Lawrence |publisher=Cambridge University Press  }}</ref>
+All three methods above are found to be much less likely to evolve than large urban societies.
+
+North's paper concludes with a few intriguing questions which his paper aimed to address:
+* What is it about informal constraints that give them such a pervasive  influence upon the long-run character of economies?
+* What is the relationship between formal and informal constraints?
+* How does an economy develop the informal constraints that make  individuals constrain their behavior so that they make political and judicial systems effective forces for third party enforcement?{{sfnp|North|1991}}
+
+=== ''Transaction Costs, Institutions, and Economic Performance'' ===
+In a 1992 paper, North argues that [[Neoclassical economics|neoclassical economic theory]] overlooks the institutions required to create efficient markets with low monitoring and [[transaction cost]]s.<ref name=b1>{{Cite book|title = Transaction costs, institutions, and economic performance|last = North|first = Douglass|publisher = ICS Press|year = 1992|location = San Francisco, CA|pages = 5|url = http://khosachonline.ucoz.com/_ld/1/144_chi_ph_gd-th_ch.pdf=}}</ref> He develops a framework for explaining how institutions change and become more efficient over time.
+
+North theorizes that all transaction costs are rooted in [[information asymmetries]] between the parties to an exchange. Hence, each person must expend resources ascertaining the qualities of the good she is buying and enforcing the terms of the trade. Because these costs pose such a large barrier to economic growth, a central function of political and economic institutions is to control them, often by disincentivizing fraud, theft, and other socially detrimental behaviors. Yet those who command the political system will structure these institutions to maximize their personal benefit, rather than the social benefit, so transaction costs will not always be minimized by existing institutions.<ref name=b1/>
+
+Importantly for North, individuals and organizations make their decisions on the basis of imperfect [[ideologies]], which are "mental models" for how the world functions. Therefore, the politicians who craft institutions will, despite their best efforts, occasionally fail to maximize their personal gain. When this happens, entrepreneurs who believe that institutional changes will significantly benefit them will enter the political realm to effect this change. The result is incremental institutional change, pushed forward by self-seeking individuals.
+
+North argues that this change will usually be slow for two reasons. First, the powerful actors in control of the political systems made the institutions for their benefit and so will be reluctant to change them, resulting in [[path dependence]]. Second, informal institutions—like social customs and cultural practices—are by their nature slow to change, yet play a role in determining transaction costs.
+
+North goes on to apply this framework to analyze a few historical examples, including the [[Green Revolution]], the [[American Revolution]], and [[imperial Spain]], as well as to offer some general policy recommendations.<ref name=b1/>
+
+===''Violence and the Rise of Open-Access Orders''===
+In ''Violence and the Rise of Open-Access Orders'', North, Wallis, and Weingast integrate a theory of politics with a theory of economics to explain the institutions, i.e. the rules governing behavior, that develop in human societies. In their view, the primary task of any set of institutions is to limit violence among individuals. They focus on two sets of institutions—which they call social orders—that accomplish this task, but which also have different effects on economic growth.<ref name=violence>{{cite journal|doi=10.1353/jod.0.0060|author1=North, Douglass| author2=Wallis, John|author3= Weingast, Barry|title=Violence and the Rise of Open Access Orders|journal=Journal of Democracy|year= 2009|volume= 20|issue=1|pages= 55–68|s2cid=153774943|url=https://www.researchgate.net/publication/236715418}}</ref>
+
+The first set of institutions are called "limited access orders," and they are characterized by elite control of the political and economic systems to extract rents. Violence is limited because the most powerful actors maintain law and order to protect their rents. However, their means of maintaining law and order require supporting economic and political monopolies, which stunt economic growth.
+
+The second set of institutions that North et al. propose are called "open access orders," and they limit violence through a politically controlled military. These societies allow anyone who meets some impersonal criteria to form political and economic organizations, resulting in a [[Joseph Schumpeter|Schumpeterian]] process of "[[Creative Destruction]]." The military limits societal violence, and the political actors that control this military are themselves constrained by the constant competition for political and economic power that this process of creative destruction entails. Unlike limited access orders, open access orders stimulate economic growth since solutions to economic and political challenges can come from any individual in society, rather than a select few.
+
+North et al. argue that modern open access orders emerged from limited access orders through a two-step process: first, the application of impersonal laws to elites and the consolidation of military power, and second, the extension of elite privileges to the rest of society. They apply this theory to explain the legitimacy of elections within different societies and to explain why economic growth is more consistent in modern open access orders than it is in limited access orders.<ref name=violence />
+
+==Personal life==
+[[File:Douglass North and Lois Heister 1963b.jpg|thumb|North and Heister in 1963]]
+North was married twice. His first marriage, to [[Lois North|Lois Heister]] in 1944, resulted in three sons: Douglass Jr., Christopher and Malcolm. During the marriage, Heister became a notable activist and politician. The marriage ended in divorce. North remarried in 1972, to Elizabeth Case.<ref>Nielsen, Klaus (January 27, 2016) [https://www.theguardian.com/education/2016/jan/27/douglass-north Douglass North obituary]. ''The Guardian''</ref>
+
+==Legacy==
+As a Nobel prize winner, North's reputation extended both from his own university environment to the international influences made by his research and writing. North's research in New Economic History has included such notable economists and historians as Jonathan Hughes, [[Richard Sutch]], Lloyd Mercer, Jim Sheperd, Donald Gordon, Gary Walton, [[Lance E. Davis]], [[Robert Huttenback]], Roger Ransom, Gaston Rimlinger, [[Terry L. Anderson]], P.J. Hill, Philip Coelho, and David Knowles as recorded in the 60th Anniversary dedication volume in memory of North.<ref>Ransom, Roger L.; Sutch, Richard and Walton, Gary M. (1981) ''Explorations in the New Economic History: Essays in Honor of Douglass C. North''. Academic Press.</ref>
+
+== Publications ==
+North's other major publications include:<ref>[https://ideas.repec.org/e/pno11.html Douglass C. North]. RePEc Personal Details</ref><ref>[https://ideas.repec.org/e/c/pno11.html Douglass C. North]. RePEc citations</ref>
+* {{cite journal |last=North |first=Douglass |author-link=Douglass North 
+|date = 1991
+|title = Institutions
+|journal = [[Journal of Economic Perspectives]] |volume = 5 |issue = 1 |pages=97–112
+| doi=10.1257/jep.5.1.97
+}}
+*{{cite journal|last1=North|first1=Douglass C.|title=Location Theory and Regional Economic Growth|journal=Journal of Political Economy|volume=63|issue=3|year=1955|pages=243–258|doi=10.1086/257668|jstor=1825076|s2cid=154428783}}
+* ''The Economic Growth of the United States, 1790–1860'', Prentice Hall, 1961.
+* {{cite journal|last1=North|first1=Douglass C.|title=The State of Economic History|journal=American Economic Review|volume=55|issue=1–2|pages=86–91|year= 1965|jstor=1816246}}
+* ''Institutional Change and American Economic Growth'', Cambridge University Press, 1971 (with Lance Davis).
+* ''The Rise of the Western World: A New Economic History'', 1973 (with Robert Thomas).
+* ''Growth and Welfare in the American Past'', Prentice-Hall, 1974.
+* ''Structure and Change in Economic History'', Norton, 1981 {{ISBN|039395241X}}.
+* {{cite journal|last1=North|first1=Douglass C.|title=Institutions and economic growth: An historical introduction|journal=World Development|volume=17|issue=9|year=1989|pages=1319–1332|doi=10.1016/0305-750X(89)90075-2}}
+* ''Constitutions and Commitment: The Evolution of Institutions Governing Public Choice in Seventeenth-Century England'', Cambridge University Press, 1989
+* ''Institutions, Institutional Change and Economic Performance'', Cambridge University Press, 1990 {{ISBN|0521397340}}.
+* {{cite journal|last1=North|first1=Douglass C.|title=Economic Performance through Time|jstor=2118057|journal=American Economic Review|year=1994|volume= 84|issue=3|pages=359–68}} Also published as Nobel [http://nobelprize.org/nobel_prizes/economics/laureates/1993/north-lecture.html Prize Lecture.]
+* ''Empirical Studies in Institutional Change'', Cambridge University Press, 1996 (edited with Lee Alston & Thrainn Eggertsson) {{ISBN|0521557437}}.
+* ''Understanding the Process of Economic Change'', Princeton University Press, 2005 {{ISBN|0691145954}}.
+* ''Violence and Social Orders: A Conceptual Framework for Interpreting Recorded Human History'', Cambridge University Press, 2009 (with John Joseph Wallis and Barry R. Weingast) {{ISBN|1107646995}}.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Colson, Elizabeth. ''Tradition and Contract: The Problem of Order''. Chicago: Adeline Publishing, 1974.
+* S. Galiani and I. Sened (eds.), 2014. Institutions, property rights and economic growth: The legacy of Douglass North, Cambridge University Press.  http://econweb.umd.edu/~galiani/b-north.html
+*[https://voxeu.org/article/douglass-north-economist-s-historian Kevin Bryan. 2015. Douglass North, an economist’s historian. Voxeu.]
+*[https://voxeu.org/article/ideas-douglass-north John Wallis. 2015. Structure and change in economic history: The ideas of Douglass North. Voxeu.]
+
+==External links==
+{{Commons category|Douglass North}}
+{{wikiquote}}
+* {{Nobelprize}}
+* [http://www.hoover.org/fellows/10069 Hoover Institution homepage]
+* {{C-SPAN|douglassnorth}}
+* {{cite encyclopedia |title=Douglas C. North (1920–2015) |url=http://www.econlib.org/library/Enc/bios/North.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+* {{Google Scholar id|-LcMZqMAAAAJ}}
+* Douglass North: [https://www2.econ.iastate.edu/tesfatsi/NewInstE.North.pdf The NIE and Development]. Essay (~ 1995), 8 p.
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Gary S. Becker]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 1993 |alongside= [[Robert W. Fogel]] }}
+{{s-aft | after = [[John C. Harsanyi]] | after2 = [[John F. Nash Jr.]] | after3 = [[Reinhard Selten]] }}
+{{s-end}}
+
+{{Instecon}}
+{{Chiconomists}}
+{{Nobel laureates in economics 1976–2000}}
+{{1993 Nobel Prize winners}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:North, Douglass}}
+[[Category:1920 births]]
+[[Category:2015 deaths]]
+[[Category:Academics of the University of Cambridge]]
+[[Category:Economic historians]]
+[[Category:American sailors]]
+[[Category:American Nobel laureates]]
+[[Category:Nobel laureates in Economics]]
+[[Category:Choate Rosemary Hall alumni]]
+[[Category:Fellows of Girton College, Cambridge]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:New institutional economists]]
+[[Category:Washington University in St. Louis faculty]]
+[[Category:People from Cambridge, Massachusetts]]
+[[Category:University of Washington faculty]]
+[[Category:Cato Institute people]]
+[[Category:People from Benzie County, Michigan]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Social Science Research Council]]
+[[Category:Economists from Michigan]]
+[[Category:Economists from Massachusetts]]
+[[Category:Nobel laureates affiliated with Missouri]]
+[[Category:American expatriates in Canada]]

@@ -1,0 +1,52 @@
+{{short description|Data scientist, AI specialist}}
+{{Infobox scientist
+| name              = Rumman Chowdhury
+| image             = Rumman Chowdhury at the AI for Good Global Summit 2018 (42110666692).jpg
+| caption           = Rumman Chowdhury at the [[AI for Good]] Global Summit 2018
+| birth_date        = {{birth year and age|1980}}
+| alma_mater        = [[Massachusetts Institute of Technology]] <br> [[Columbia University]] <br> [[University of California, San Diego]] (PhD)
+| workplaces        = [[Accenture]]
+| awards            = [[100 Women (BBC)|BBC 100 Women]] (2017)
+| thesis_title      = Beating Plowshares into Swords: The Impact of the Metropolitan-Military Complex
+| thesis_year       = 2017
+| thesis_url        = https://escholarship.org/uc/item/7jx0190s
+| doctoral_advisor  = Thaddeus Kousser<br>Steven Erie<ref name=rphd/>
+| fields            = [[Artificial intelligence|Ethical Artificial Intelligence]]
+| website           = {{URL|rummanchowdhury.com}}
+}}
+
+'''Rumman Chowdhury''' (born 1980) is a Bengali American data scientist, a business founder, and former Responsible [[Artificial intelligence|Artificial Intelligence]] Lead at [[Accenture]].
+
+== Education and early career ==
+Chowdhury was born in [[Rockland County, New York]].<ref name=":0">{{Cite news|url=https://www.ozy.com/rising-stars/the-data-scientist-putting-ethics-into-ai/81044|title=The Data Scientist Putting Ethics Into AI|last=Apte|first=Poornima|work=OZY|access-date=2018-11-20}}</ref> Her parents are [[Bangladesh]]i immigrants. She enjoyed watching [[science fiction]] and attributes her curiosity about science to the [[Dana Scully]] effect.<ref name=":1">{{Cite news|url=https://mmlafleur.com/mdash/rumman-chowdhury|title=Rumman Chowdhury is California's Coolest Data Scientist|date=2017-01-13|work=MM.LaFleur|access-date=2018-11-20|language=en-US}}</ref> She completed her undergraduate study in management science and political science at [[Massachusetts Institute of Technology]].<ref name=":0" /> She joined [[Columbia University]] for her postgraduate study in statistics and quantitative methods.<ref name=":1" /> She holds a doctorate in political science from [[University of California, San Diego]].<ref name=":0" /><ref name=rphd>{{cite thesis|degree=PhD|year=2017|url=https://escholarship.org/uc/item/7jx0190s|title=Beating Plowshares into Swords: The Impact of the Metropolitan-Military Complex|publisher=University of California, San Diego|website=escholarship.org|oclc=992172239|first=Rumman|last=Chowdhury}}</ref> She is interested in how data can be used to understand people's bias and ways to evaluate the impact of technology on humanity.<ref name=":0" /> She finished her PhD whilst working in [[Silicon Valley]].<ref name=":2">{{Cite web|url=https://www.bizjournals.com/sanfrancisco/c/san-francisco-business-times-40-under-40-2018/3064/rumman-chowdhury.html|title=Meet the San Francisco Business Times' 40 under 40 Class of 2018 - Rumman Chowdhury|last=|first=|date=2018|website=San Francisco Business Times|access-date=2018-11-23}}</ref>
+
+== Career ==
+Chowdhury taught data science at the boot camp Metis and worked at Quotient before joining Accenture in 2017.<ref name=":0" /> She leads their work on responsible [[artificial intelligence]].<ref name=":0" /> She is concerned about the AI workforce; particularly on retaining researchers.<ref name=":0" /> She is also concerned about [[algorithmic bias]].<ref name=":0" /> She has spoken openly about the need to define what ethical AI actually means.<ref>{{Citation|title=Building Ethical & Responsible AI Technologies (Interview with Rumman Chowdhury of Accenture)|url=https://www.topbots.com/building-ethical-responsible-ai-technologies-interview-rumman-chowdhury-accenture/|language=en-US|access-date=2018-11-21}}</ref> She works with companies on developing ethical governance and algorithms that explain their decisions transparently.<ref>{{Citation|last=TOPBOTS: Applied AI For Business|title=Building Ethical & Responsible AI Technologies (AI For Growth, Rumman Chowdhury, Accenture)|date=2018-06-12|url=https://www.youtube.com/watch?v=NQQHyIf_BwI|access-date=2018-11-20}}</ref> She is determined to use AI to improve diversity in recruitment.<ref>{{Cite news|url=https://www.forbes.com/sites/johnwelsheurope/2018/10/10/9-developments-in-ai-that-you-really-need-to-know/#343d04096ea5|title=9 Developments In AI That You Really Need to Know|last=Welsh|first=John|work=Forbes|access-date=2018-11-21|language=en}}</ref> Chowdhury, alongside a team of early career researchers at the [[Alan Turing Institute]], developed a ''Fairness Tool'' which scrutinises the data that is input to an algorithm and identifies whether certain genders (such as race or gender) may influence the outcome.<ref>{{Cite web|url=https://www.accenture.com/gb-en/blogs/blogs-cogx-tackling-challenge-ethics-ai|title=CogX—Tackling The Challenge Of Ethics In AI {{!}} Accenture|website=www.accenture.com|language=en|access-date=2018-11-20}}</ref> The tool both identifies and tries to fix bias, enabling organisations to make more fair decisions.<ref>{{Cite news|url=https://www.datainnovation.org/2018/08/5-qs-for-rumman-chowdhury-global-lead-for-responsible-ai-at-accenture/|title=5 Q's for Rumman Chowdhury, Global Lead for Responsible AI at Accenture|date=2018-08-17|work=Center for Data Innovation|access-date=2018-11-21|language=en-US}}</ref> She designed All.ai, a language analysis tool that can monitor and improve the gender balance of speakers in meetings.<ref>{{Cite news|url=https://mashable.com/2017/10/18/allai-app-speak-up-in-meetings/?europe=true#dKrFLLN.hOq3|title=This app will help you speak up—or shut up—during meetings|last=Hinchliffe|first=Emma|work=Mashable|access-date=2018-11-21|language=en}}</ref> In 2020 she founded Parity to bridge the translation gap between risk, legal, and data teams. <ref>https://www.getparity.ai/about</ref>
+
+She launched X Institute, a program which teaches refugees about data science and marketing.<ref name=":0" /> She has given a keynote at ''Slush'', talking about augmenting human capabilities.<ref name="Slush">{{Citation|last=Slush|title=Rumman Chowdhury: Augmenting Human Capabilities to New Dimensions|date=2017-12-07|url=https://www.youtube.com/watch?v=ata0_sabEl8|access-date=2018-11-21}}</ref> She delivered a [[Ted Talk|TED talk]] about humanity in the age of [[artificial intelligence]].<ref name="Slush"/>
+
+In 2017 she was included in the [[100 Women (BBC)]].<ref>{{Cite web|url=https://www.bbc.co.uk/news/topics/c779dqxlxv2t/100-women|title=100 Women|website=BBC News|language=en-GB|access-date=2018-11-20}}</ref> She has written for [[Forbes]] and serves on the [[Institute of Electrical and Electronics Engineers]] (IEEE) Wellbeing Metrics Standards for Ethical Artificial Intelligence and Autonomous Systems working group.<ref>{{Cite web|url=https://www.forbes.com/sites/rummanchowdhury/#788e5db98913|title=Rumman Chowdhury|last=Chowdhury|first=Rumman|website=Forbes|language=en|access-date=2018-11-20}}</ref> She was part of [[Biz journals]] 40 Under 40.<ref name=":2" /><ref>{{Cite web|url=https://www.bizjournals.com/sanfrancisco/video/oydjJwZTE6wKdo21rtgLal6Wjum9mpHB?autoplay=1|title=40 Under 40 2018: Rumman Chowdhury, Accenture (Video)|last=|first=|date=2018|website=San Francisco Business Times|access-date=2018-11-23}}</ref> She is a mentor of the Katapult accelerator in Norway. She is part of the [[All-party parliamentary group]] on Artificial Intelligence.<ref>{{Cite news|url=https://www.appg-ai.org/team/rumman-chowdhury/|title=Rumman Chowdhury - APPG|work=APPG|access-date=2018-11-21|language=en-US}}</ref>
+
+== References ==
+{{reflist}}
+{{Authority control}}
+
+{{DEFAULTSORT:Chowdhury, Rumman}}
+[[Category:American people of Bangladeshi descent]]
+[[Category:1980 births]]
+[[Category:Women data scientists]]
+[[Category:Data scientists]]
+[[Category:Women political scientists]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Columbia University alumni]]
+[[Category:University of California, San Diego alumni]]
+[[Category:Living people]]
+[[Category:20th-century American women]]
+[[Category:21st-century American women]]
+[[Category:20th-century American women scientists]]
+[[Category:21st-century American women scientists]]
+[[Category:American political scientists]]
+[[Category:20th-century social scientists]]
+[[Category:21st-century social scientists]]
+[[Category:Artificial intelligence ethicists]]
+[[Category:BBC 100 Women]]

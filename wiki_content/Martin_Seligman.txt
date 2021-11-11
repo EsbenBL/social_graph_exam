@@ -1,0 +1,130 @@
+{{short description|American psychologist and writer}}
+{{Use mdy dates|date=February 2019}}
+{{Infobox scientist
+| name                      = Martin Seligman
+| image                     = Flickr - The U.S. Army - Comprehensive Soldiers Fitness (1)cropped.jpg
+| image_size                =
+| alt                       = 
+| caption                   = 
+| birth_date                = {{Birth date and age|1942|08|12}}
+| birth_place               = [[Albany, New York]]
+| death_date                = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place               = 
+| other_names               = 
+| education                 = 
+| alma_mater                = [[Princeton University]] ([[Bachelor of Arts|A.B.]])<br>[[University of Pennsylvania]] ([[Doctor of Philosophy|Ph.D.]])
+| workplaces                = [[University of Pennsylvania]]
+| fields                    = [[Psychology]]
+| known_for                 = [[Positive psychology]]<br>[[Learned helplessness]]
+| notable_works             = 
+| title                     = 
+| spouse                    = 
+| partner                   = 
+| children                  = 
+| parents                   = 
+| awards                    = 
+| signature                 = 
+| website                   = <!-- {{URL|www.example.com}} -->
+}}
+'''Martin Elias Peter Seligman''' ({{IPAc-en|ˈ|s|ɛ|l|ɪ|g|m|ə|n}}; born August 12, 1942) is an American [[psychologist]], educator, and author of [[Self-help|self-help books]]. Seligman is a strong promoter within the scientific community of his theories of [[positive psychology]]<ref name=":0" /> and of [[well-being]]. His theory of [[learned helplessness]] is popular among scientific and clinical psychologists.<ref>{{cite book |title=The psychology of learning and motivation: advances in research and theory |url=https://books.google.com/books?id=A-Tk-JHDe58C&pg=PA30 |first=Gordon H. | last=Bower |publisher=Academic Press, Harcourt Brace Jovanovich |year=1981|page=30 |isbn=9780125433150}} "The most popular theoretical interpretation of the learned helplessness phenomenon to date is that of Seligman (1975) and Maier and Seligman (1976)."</ref> A ''[[Review of General Psychology]]'' survey, published in 2002, ranked Seligman as the 31st most cited psychologist of the 20th century.<ref>{{cite journal |last1=Haggbloom |first1=Steven J. |last2=Warnick |title=The 100 most eminent psychologists of the 20th century |journal=Review of General Psychology |volume=6 |issue=2 |year=2002 |pages=139–152 |doi=10.1037/1089-2680.6.2.139 |url=http://www.apa.org/monitor/julaug02/eminent.aspx |first2=Renee |last3=Warnick |first3=Jason E. |last4=Jones |first4=Vinessa K. |last5=Yarbrough |first5=Gary L. |last6=Russell |first6=Tenea M. |last7=Borecky |first7=Chris M. |last8=McGahhey |first8=Reagan |last9=Powell |first9=John L., III|s2cid=145668721 | display-authors = 1 }}</ref>
+
+Seligman is the Zellerbach Family Professor of Psychology in the [[University of Pennsylvania]]'s Department of Psychology. He was previously the Director of the Clinical Training Program in the department, and earlier taught at [[Cornell University]].<ref>{{cite web| url=http://psychology.about.com/od/profilesmz/p/martin-seligman.htm| title=A Brief Biography of Psychologist Martin Seligman| website=psychology.about.com}}</ref> He is the director of the university's Positive Psychology Center.<ref name=":0">[http://www.ppc.sas.upenn.edu/aboutus.htm Positive Psychology Center] {{webarchive|url=https://web.archive.org/web/20150703152134/http://www.ppc.sas.upenn.edu/aboutus.htm |date=July 3, 2015 }}, [[University of Pennsylvania]].</ref> Seligman was elected President of the [[American Psychological Association]] for 1998.<ref>{{cite web|url=http://www.apa.org/about/governance/president/past-presidents.aspx|title=Former APA Presidents|publisher=American Psychological Association}}</ref> He is the founding editor-in-chief of ''[[Prevention & Treatment|Prevention and Treatment]]'' (the APA electronic journal) and is on the board of advisers of ''[[Parents (magazine)|Parents]]'' magazine.
+
+Seligman has written about positive psychology topics in books such as ''The Optimistic Child'', ''Child's Play'', ''Learned Optimism'', ''Authentic Happiness'' and ''Flourish''. His most recent book, ''The Hope Circuit: A Psychologist's Journey from Helplessness to Optimism'', was published in 2018.
+
+==Early life and education==
+Seligman was born in [[Albany, New York]] to a Jewish family. He was educated at a public school and at [[The Albany Academy]]. He earned a bachelor's degree in philosophy at [[Princeton University]] in 1964, graduating [[summa cum laude]].{{citation needed|date=August 2018}} He turned down a scholarship to study analytic philosophy at Oxford University, and animal experimental psychology at the University of Pennsylvania, and accepted an offer to attend the University of Pennsylvania to study psychology.<ref>{{cite web | title=Martin Seligman, Ph.D. | url=https://www.authentichappiness.sas.upenn.edu/faculty-profile/profile-dr-martin-seligmanf }}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> He earned a Ph.D. in psychology from University of Pennsylvania in 1967.<ref>{{Cite web|title=The Pennsylvania Gazette: Martin Seligman's Journey|url=https://www.upenn.edu/gazette/0199/hirtz.html|access-date=2021-03-27|website=www.upenn.edu}}</ref> On June 2, 1989, Seligman received an [[Honorary degree|honorary doctorate]] from the Faculty of Social Sciences at [[Uppsala University]], [[Sweden]].<ref>{{cite web|url=http://www.uu.se/en/about-uu/traditions/prizes/honorary-doctorates/| title=Honorary doctorates |publisher=Uppsala University, Sweden}}</ref>
+
+==Learned helplessness==
+{{main article|Learned helplessness}}
+[[File:Shuttle_Box_Dog_Orange.png|thumb|Inescapable shock training in the shuttle box]]
+
+Seligman's foundational experiments and theory of "learned helplessness" began at University of Pennsylvania in 1967, as an extension of his interest in [[clinical depression|depression]]. Quite by accident, Seligman and colleagues discovered that the experimental conditioning protocol they used with dogs led to behaviors which were unexpected, in that under the experimental conditions, the recently conditioned dogs did not respond to opportunities to learn to escape from an unpleasant situation.<ref>{{cite journal |last1=Seligman |first1=M.E.P. |last2=Maier |first2=S.F. |title=Failure to escape traumatic shock |journal=Journal of Experimental Psychology |volume=74 |issue= 1|pages=1–9 |year=1967 |doi= 10.1037/h0024514|pmid=6032570|citeseerx=10.1.1.611.8411 }}; {{cite journal |last1=Overmier |first1=J.B. |last2=Seligman |first2=M.E.P. |title=Effects of inescapable shock upon subsequent escape and avoidance responding |journal=Journal of Comparative and Physiological Psychology |volume=63 |issue= 1|pages=28–33 |year=1967 |doi=10.1037/h0024166 |pmid=6029715 }}</ref> Seligman developed the theory further, finding learned helplessness to be a psychological condition in which a human being or an animal has learned to act or behave helplessly in a particular situation—usually after experiencing some inability to avoid an adverse situation—even when it actually ''has'' the power to change its unpleasant or even harmful circumstance. Seligman saw a similarity with severely depressed patients, and argued that clinical depression and related [[mental illnesses]] result in part from a perceived absence of control over the outcome of a situation.<ref>{{cite book |last=Seligman |first=M.E.P. |title=Helplessness: On Depression, Development, and Death |publisher=W.H. Freeman |location=San Francisco |year=1975 |isbn=978-0-7167-2328-8 }}</ref> In later years, alongside [[Lyn Yvonne Abramson|Abramson]], Seligman reformulated his theory of learned helplessness to include [[Explanatory style|attributional style]].<ref name= Seligman>{{cite journal |last1=Abramson |first1=L.Y. |last2=Seligman |first2=M.E.P. |title=Learned helplessness in humans: Critique and reformulation |journal=Journal of Abnormal Psychology |volume=87 |issue=1 |pages=49–74 |year=1978 |doi= 10.1037/0021-843X.87.1.49 |pmid=649856 |last3=Teasdale |first3=JD}}</ref>
+ 
+==Happiness==
+In his 2002 book ''Authentic Happiness'', Seligman saw [[happiness]] as made up of positive emotion, engagement and meaning.<ref>{{Cite web | url=https://www.authentichappiness.sas.upenn.edu/learn/wellbeing | title=What is Well-Being? &#124; Authentic Happiness}}</ref>
+
+==Positive psychology==
+Seligman worked with [[Christopher Peterson (psychologist)|Christopher Peterson]] to create what they describe as a "positive" counterpart to the ''[[Diagnostic and Statistical Manual of Mental Disorders]]'' (''DSM''). While the ''DSM'' focuses on what can go wrong, ''[[Character Strengths and Virtues (book)|Character Strengths and Virtues]]'' (2004) is designed to look at what can go right. In their research they looked across cultures and across millennia to attempt to distill a manageable list of virtues that have been highly valued from ancient China and India, through Greece and Rome, to contemporary Western cultures. Their list includes six character strengths: ''[[wisdom]]/knowledge'', ''[[courage]]'', ''[[Humanitarianism|humanity]]'', ''[[justice]]'', ''[[temperance (virtue)|temperance]]'', and ''[[transcendence (philosophy)|transcendence]]''. Each of these has three to five sub-entries; for instance, ''temperance'' includes ''forgiveness'', ''humility'', ''prudence'', and ''self-regulation''.<ref>{{cite journal |last1=Linley |first1=P.A. |last2=Maltby |first2=J. |last3=Wood |first3=A.M. |last4=Joseph |first4=S. |last5=Harrington |first5=S. |last6=Peterson |first6=C. |last7=Park |first7=N. |last8=Seligman |first8=M.E.P. |title=Character strengths in the United Kingdom: The VIA Inventory of strengths |journal=Personality and Individual Differences |volume=43 |issue=2 |pages=341–351 |year=2007 |url=http://personalpages.manchester.ac.uk/staff/alex.wood/VIA.pdf |doi=10.1016/j.paid.2006.12.004 |access-date=May 11, 2009 |archive-url=https://web.archive.org/web/20110717135237/http://personalpages.manchester.ac.uk/staff/alex.wood/VIA.pdf |archive-date=July 17, 2011 |url-status=dead |df=mdy-all }}</ref> The authors do not believe that there is a hierarchy for the six virtues; no one is more fundamental than or a precursor to the others.
+
+==Well-being==
+In his book ''Flourish'', 2011, Seligman wrote on "Well-Being Theory",<ref name=":1">{{Cite book|title = Flourish|last = Seligman|first = Martin|publisher = Free Press|year = 2011|isbn = 9781439190760|location = New York|pages = [https://archive.org/details/flourishvisionar0000seli/page/16 16–20]|url = https://archive.org/details/flourishvisionar0000seli/page/16}}</ref> and said, with respect to how he measures [[well-being]]:
+
+<blockquote>Each element of well-being must itself have three properties to count as an element:
+
+# It contributes to well-being.
+# Many people pursue it for its own sake, not merely to get any of the other elements.
+# It is defined and measured independently of the other elements.</blockquote>
+
+He concluded that there are five elements to "well-being", which fall under the [[mnemonic]] PERMA:<ref name=":1" />
+
+* '''P'''ositive emotion—Can only be assessed subjectively
+* '''E'''ngagement—Like positive emotion, can ''only ''be measured through subjective means. It is presence of a [[Flow (psychology)|flow state]]
+* '''R'''elationships—The presence of friends, family, intimacy, or [[Social support|social connection]]
+* '''M'''eaning—Belonging to and serving something bigger than one's self
+* '''A'''chievement—Accomplishment that is pursued even when it brings no positive emotion, no meaning, and nothing in the way of positive relationships.
+
+These theories have not been empirically validated.{{citation needed|date=May 2021}}
+
+In July 2011, Seligman encouraged the [[British Prime Minister]], [[David Cameron]], to look into well-being as well as financial wealth in ways of assessing the prosperity of a nation. On July 6, 2011, Seligman appeared on ''[[Newsnight]]'' and was interviewed by [[Jeremy Paxman]] about his ideas and his interest in the concept of well-being.
+
+=== MAPP program ===
+The Master of Applied Positive Psychology (MAPP) program at the University of Pennsylvania was established under the leadership of Seligman as the first educational initiative of the Positive Psychology Center in 2003.<ref>{{cite web|title=MAPP program|url=http://www.sas.upenn.edu/lps/graduate/mapp|publisher=University of Pennsylvania|access-date=April 10, 2014}}</ref>
+
+==Personal life==
+Seligman plays [[Contract bridge|bridge]] and finished second in the 1998 installment of one of the three major North American pair championships, the [[Blue Ribbon Pairs]], as well as having won over 50 regional championships.<ref>{{OEB|6|732}}</ref>
+
+Seligman has seven children, four grandchildren, and two dogs. He and his second wife, Mandy, live in a house that was once occupied by [[Eugene Ormandy]]. They have home-schooled five of their seven children.<ref>{{cite web|last=Burling|first=Stacey|title=The power of a positive thinker|url=http://articles.philly.com/2010-05-30/news/24964448_1_positive-psychology-positive-thinker-soldiers|work=[[The Philadelphia Inquirer]] |access-date=April 1, 2014|date=May 30, 2010}}</ref>
+
+Seligman was inspired by the work of the psychiatrist [[Aaron T. Beck]] at the University of Pennsylvania in refining his own cognitive techniques and exercises.<ref>{{cite web|last=Hirtz|first=Rob|title=Martin Seligman's Journey: from Learned Helplessness to Learned Happiness|url=http://www.upenn.edu/gazette/0199/hirtz.html|work=The Pennsylvania Gazette|publisher=The University of Pennsylvania|date=January 1999}}</ref>
+
+==Publications==
+* {{cite book |author-mask=1 |last=Seligman |first=Martin E. P. |title=Helplessness: On Depression, Development, and Death |publisher=W.H. Freeman |location=San Francisco |year=1975 |isbn=978-0-7167-0752-3 |url=https://archive.org/details/helplessnessonde00seli }} (Paperback reprint edition, W.H. Freeman, 1992, {{ISBN|0-7167-2328-X}})
+* {{cite book |author-mask=1 |last=Seligman |first=Martin E. P. |title=Learned Optimism: How to Change Your Mind and Your Life |publisher=Knopf |location=New York |year=1991 |isbn=978-0-671-01911-2 |url=https://books.google.com/books?id=qreACUdDAc0C }}  (Paperback reprint edition, Penguin Books, 1998; reissue edition, Free Press, 1998)
+* {{cite book |author-mask=1 |last=Seligman |first=Martin E. P. |title=What You Can Change and What You Can't: The Complete Guide to Successful Self-Improvement |publisher=Knopf |location=New York |year=1993 |isbn=978-0-679-41024-9 |url=https://archive.org/details/whatyoucanchange00seli }} (Paperback reprint edition, Ballantine Books, 1995, {{ISBN|0-449-90971-9}})
+* {{cite book |author-mask=1 |last=Seligman |first=Martin E. P. |title=The Optimistic Child: Proven Program to Safeguard Children from Depression & Build Lifelong Resilience |publisher=Houghton Mifflin |location=New York |year=1996 |isbn=978-0091831196 |url=https://books.google.com/books?id=GoMABgcQzs4C}} (Paperback edition, Harper Paperbacks, 1996, {{ISBN|0-06-097709-4}})
+* {{cite book |author-mask=1 |last=Seligman |first=Martin E. P. |title=Authentic Happiness: Using the New Positive Psychology to Realize Your Potential for Lasting Fulfillment |publisher=Free Press |location=New York |year=2002 |isbn=978-0-7432-2297-6 |url=https://archive.org/details/authentichappine00seli_0|url-access=registration }} (Paperback edition, Free Press, 2004, {{ISBN|0-7432-2298-9}})
+* {{cite journal |author-mask=1 |last=Seligman |first=Martin E. P. |title=Can Happiness be Taught? |journal=[[Daedalus (journal)|Daedalus]] |volume=133 |issue=2 |pages=80–87 |date=Spring 2004 |doi=10.1162/001152604323049424 |s2cid=57570511 }}
+* {{cite book |last1=Peterson |first1=Christopher |author-link1=Christopher Peterson (psychologist) |last2=Seligman |first2=Martin E. P. |title=Character Strengths and Virtues |publisher=Oxford University Press |location=Oxford |year=2004 |isbn=978-0195167016 |title-link=Character Strengths and Virtues }}
+* {{cite book |author-mask=1 |last=Seligman |first=Martin E. P. |title=Flourish: A Visionary New Understanding of Happiness and Well-being |publisher=Free Press |location=New York |year=2011 |isbn=978-1-4391-9075-3 |url=https://archive.org/details/flourishvisionar0000seli|url-access=registration }}
+
+==See also==
+* [[List of Jewish American psychologists]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Scholia}}
+* [http://www.authentichappiness.sas.upenn.edu/ Authentic Happiness], Seligman's homepage at University of Pennsylvania
+* [http://www.edge.org/3rd_culture/seligman04/seligman_index.html "Eudaemonia, the Good Life: A Talk with Martin Seligman"], an article wherein Seligman speaks extensively on the topic of [[eudaemonia]]
+* [http://www.positivepsychology.org/ "The Positive Psychology Center"], a website devoted to positive psychology. Martin Seligman is director of the Positive Psychology Center of the University of Pennsylvania.
+* [http://www.pennpositivepsych.org Program description for Master of Applied Positive Psychology degree] established by Seligman
+* [https://web.archive.org/web/20150304222550/http://www.ppc.sas.upenn.edu/vitae.htm Martin E. P. Seligman's curriculum vitae] at the University of Pennsylvania
+* [http://www.ted.com/index.php/talks/martin_seligman_on_the_state_of_psychology.html TED Talk: Why is psychology good?]
+* University of Pennsylvania's page on [http://www.sas.upenn.edu/lps/graduate/mapp MAPP] program
+* {{cite book |title=Bright-sided: How Positive Thinking is Undermining America |author=Barbara Ehrenreich|authorlink=Barbara Ehrenreich |url=https://archive.org/details/brightsidedhowre00ehre |year=2010|publisher=Picador |access-date=2021-05-11|chapter=Going to the source|pages=150–158|isbn=978-0-312-65885-4|oclc=555654196}}
+
+{{APA Presidents}}
+{{Psychology}}
+{{Authority control}}
+
+{{DEFAULTSORT:Seligman, Martin}}
+[[Category:1942 births]]
+[[Category:20th-century psychologists]]
+[[Category:21st-century psychologists]]
+[[Category:American contract bridge players]]
+[[Category:American self-help writers]]
+[[Category:Animal testing]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Fellows of the Society of Experimental Psychologists]]
+[[Category:Jewish American writers]]
+[[Category:Living people]]
+[[Category:Positive psychologists]]
+[[Category:Presidents of the American Psychological Association]]
+[[Category:Princeton University alumni]]
+[[Category:Social psychologists]]
+[[Category:The Albany Academy alumni]]
+[[Category:University of Pennsylvania alumni]]
+[[Category:University of Pennsylvania faculty]]
+[[Category:21st-century American Jews]]

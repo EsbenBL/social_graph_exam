@@ -1,0 +1,45 @@
+{{short description|Belgian economist}}
+{{BLP sources|date=May 2019}}
+{{Infobox economist
+| name = Gérard Roland
+| image = Gérard Roland 2009.jpg
+| image_size = 
+| alt = 
+| caption = Roland in 2009
+| birth_date = 1954 <!-- {{birth date and age|YYYY|MM|DD}} -->
+| birth_place = [[Jemappes]], [[Wallonia]]
+| death_date = 
+| death_place = 
+| nationality = [[Belgium|Belgian]]
+| institution = [[University of California, Berkeley]] <!-- or: | institutions =  -->
+| field = [[Economics]]<br>[[Political science]]
+| school_tradition = 
+| alma_mater = [[Université Libre de Bruxelles|Free University of Brussels]]
+| influences = 
+| influenced = 
+| contributions = 
+| awards = 
+| repec_prefix = e
+| repec_id = pro20
+| notes = 
+}}
+
+'''Gérard Roland''' (born 1954) is a [[Belgian]] [[economist]], and a professor of [[economics]] and [[political science]] at the [[University of California, Berkeley]]. He graduated from the [[Université Libre de Bruxelles|Free University of Brussels]] in 1988. His early work was on the [[political economy]] of [[communism]]. After 1990, he became one of the world's most renowned and influential scholars in [[transition economics]]. He is a member of [http://www.cerge-ei.cz/people/executive-and-supervisory-committee the Executive and Supervisory Committee (ESC)] of [[CERGE-EI]].
+
+==Selected works==
+* "The Design of Reform Packages under Uncertainty", (with [[Mathias Dewatripont|M. Dewatripont]]), ''[[American Economic Review]]'', 1995, vol 83, pp.&nbsp;107–1223
+* ''Transition and Economics: Politics, Markets and Firms''. MIT Press 2000
+
+==External links==
+* [http://www.econ.berkeley.edu/~groland/ Roland's webpage in Berkeley]
+
+{{Authority control}}
+{{DEFAULTSORT:Roland, Gerard}}
+[[Category:1954 births]]
+[[Category:Living people]]
+[[Category:Belgian economists]]
+[[Category:University of California, Berkeley College of Letters and Science faculty]]
+[[Category:Free University of Brussels alumni]]
+
+
+{{Belgium-economist-stub}}

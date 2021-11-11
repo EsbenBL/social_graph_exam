@@ -1,0 +1,225 @@
+
+{{essay-like|date=October 2021}}
+{{unreliable sources|date=October 2021}}
+{{Short description|Concept in market economics}}
+
+In [[classical economics]], '''Say's law''', or the '''law of markets''', is the claim that the production of a product creates demand for another product by providing something of value which can be exchanged for that other product. So, production is the source of demand. In his principal work, ''A Treatise on Political Economy'' (''Traité d'économie politique'', 1803), [[Jean-Baptiste Say]] wrote: "A product is no sooner created, than it, from that instant, affords a market for other products to the full extent of its own value."<ref>{{harvnb |Say |1834 | p=[https://archive.org/details/atreatiseonpoli00saygoog/page/n150 138]}}</ref> And also, "As each of us can only purchase the productions of others with his own productions – as the value we can buy is equal to the value we can produce, the more men can produce, the more they will purchase."<ref name="books.google.com">{{harvnb|Say|1834|p=[https://archive.org/details/letterstomrmalth00sayjrich/page/3 3]}}</ref>
+
+Some maintain that Say further argued that this law of markets implies that a [[general glut]] (a widespread excess of supply over demand) cannot occur. If there is a surplus of one [[good (economics)|good]], there must be unmet demand for another: "If certain goods remain unsold, it is because other goods are not produced."<ref name="books.google.com"/> However, according to Petur Jonsson, Say does not claim a general glut cannot occur and in fact acknowledges that they can occur.<ref>Jonsson, Petur O., "On the Economics of Say and Keynes's Interpretation of Say's Law." Eastern Economic Journal, Vol. 21, No. 2, pp. 147-155, 1995.</ref> Say's law has been one of the principal doctrines used to support the [[laissez-faire]] belief that a capitalist economy will naturally tend toward full employment and prosperity without government intervention.<ref>{{cite book | last = Foley | first = Duncan | author-link = Duncan K. Foley | title = Adam's Fallacy: A Guide to Economic Theology | date = 2008 | publisher = Harvard University Press | pages = [https://books.google.com/books?id=7TDPbHaSFRcC&pg=PA184 184]}}</ref><ref>Tyler Cowen, "Say's Law and Keynesian Economics", in {{cite book | last1= Wood | first1 = John Cunningham (editor)| last2 = Kates | first2 = Steven (editor) | title = Jean-Baptiste Say: Critical Assessments of Leading Economists | volume = V | date = 2000 | place = London | publisher = Routledge | pages = [https://books.google.com/books?id=EcaDC1q_eaAC&pg=PA305 305]}}</ref>
+
+Over the years, at least two objections to Say's law have been raised:
+* General gluts do occur, particularly during recessions and depressions.
+* Economic agents may collectively choose to increase the amount of money they hold, thereby reducing demand but not supply.
+
+Say's law was generally accepted throughout the 19th century, though modified to incorporate the idea of a "[[boom and bust|boom-and-bust]]" cycle. During the worldwide [[Great Depression]] of the 1930s, the theories of [[Keynesian economics]] disputed Say's conclusions.
+
+Scholars disagree on the question of whether it was Say who first stated the principle,<ref>William O. Thweatt, "Early Formulators of Say's Law", in {{cite book | last1= Wood | first1 = John Cunningham (editor)| last2 = Kates | first2 = Steven (editor) | title = Jean-Baptiste Say: Critical Assessments of Leading Economists | volume = V | date = 2000 | place = London | publisher = Routledge | pages = [https://books.google.com/books?id=EcaDC1q_eaAC&pg=PA78 78–93]}}</ref><ref>Braudel, ''The Wheels of Commerce: Civilisation and Capitalism 15th–18th Century'', 1979:[https://books.google.com/books?id=WPDbSXQsvGIC&pg=PA181 181]</ref> but by convention, ''Say's law'' has been another name for the law of markets ever since [[John Maynard Keynes]] used the term in the 1930s.
+
+== History ==
+
+=== Say's formulation ===
+Say argued that economic agents offer goods and services for sale so that they can spend the money they expect to obtain. Therefore, the fact that a quantity of goods and services is offered for sale is evidence of an equal quantity of demand. Essentially Say's argument was that money is just a medium, people pay for goods and services with other goods and services.<ref>{{Cite web|url=https://mises.org/library/lord-keynes-and-says-law|title = Lord Keynes and Say's Law|date = 20 April 2005}}</ref>{{unreliable source?|date=October 2021}} This claim is often summarized as "[[supply creates its own demand]]", although that phrase does not appear in Say's writings.
+
+Explaining his point at length, he wrote:
+
+<blockquote>It is worthwhile to remark that a product is no sooner created than it, from that instant, affords a market for other products to the full extent of its own value. When the producer has put the finishing hand to his product, he is most anxious to sell it immediately, lest its value should diminish in his hands. Nor is he less anxious to dispose of the money he may get for it; for the value of money is also perishable. But the only way of getting rid of money is in the purchase of some product or other. Thus the mere circumstance of creation of one product immediately opens a vent for other products.<ref>{{harvnb|Say|1834|pp=[https://archive.org/details/atreatiseonpoli00saygoog/page/n150 138–139]}}</ref></blockquote>
+
+Say further argued that because production necessarily creates demand, a "general glut" of unsold goods of all kinds is impossible. If there is an excess supply of one good, there must be a shortage of another: "The superabundance of goods of one description arises from the deficiency of goods of another description."<ref>{{harvnb|Say|1821|p=[https://archive.org/details/letterstomrmalth00sayjrich/page/5 5]}}</ref>
+
+To further clarify, he wrote: "Sales cannot be said to be dull because money is scarce, but because other products are so. ... To use a more hackneyed phrase, people have bought less, because they have made less profit."
+
+Say's law should therefore be formulated as: Supply of X creates demand for Y, subject to people being interested in buying X. The producer of X is able to buy Y, if his products are demanded.
+
+Say rejected the possibility that money obtained from the sale of goods could remain unspent, thereby reducing demand below supply. He viewed money only as a temporary medium of exchange.
+
+<blockquote>Money performs but a momentary function in this double exchange; and when the transaction is finally closed, it will always be found, that one kind of commodity has been exchanged for another.<ref>{{harvnb|Say|1834|p=[https://archive.org/details/atreatiseonpoli00saygoog/page/n150 138]}}</ref></blockquote>
+
+=== Early opinions ===
+Early writers on political economy held a variety of opinions on what we now call Say's law. [[James Mill]] and [[David Ricardo]] both supported the law in full. [[Thomas Malthus]] and [[John Stuart Mill]] questioned the doctrine that general gluts cannot occur.
+
+James Mill and David Ricardo restated and developed Say's law. Mill wrote, "The production of commodities creates, and is the one and universal cause which creates, a market for the commodities produced."<ref>[[James Mill]], ''Commerce Defended'' (1808), Chapter VI: "Consumption", p. [https://books.google.com/books?id=epxVAAAAcAAJ&pg=PA81 81]</ref> Ricardo wrote, "Demand depends only on supply."<ref>{{cite book | last = Ricardo | first = David | author-link = David Ricardo | title = The Works and Correspondence of David Ricardo, Vol. II. Notes on Malthus's Principles of Political Economy | location = Cambridge | date = 1971 | publisher = Cambridge University Press | page = 365}}</ref>
+
+Thomas Malthus, on the other hand, rejected Say's law because he saw evidence of general gluts.
+
+<blockquote>We hear of glutted markets, falling prices, and cotton goods selling at Kamschatka lower than the costs of production. It may be said, perhaps, that the cotton trade happens to be glutted; and it is a tenet of the new doctrine on profits and demand, that if one trade be overstocked with capital, it is a certain sign that some other trade is understocked. But where, I would ask, is there any considerable trade that is confessedly under-stocked, and where high profits have been long pleading in vain for additional capital?<ref>{{cite book | last = Malthus | first = Thomas | author-link = Thomas Malthus | title = Principles of Political Economy Considered With a View to Their Practical Application | location = London | date = 1820 | publisher = John Murray | pages = [https://books.google.com/books?id=b_dBAAAAcAAJ&pg=PA333 333–334]}}</ref></blockquote>
+
+John Stuart Mill also recognized general gluts. He argued that during a general glut, there is insufficient demand for all non-monetary commodities and excess demand for money.
+
+<blockquote>When there is a general anxiety to sell, and a general disinclination to buy, commodities of all kinds remain for a long time unsold, and those which find an immediate market, do so at a very low price... At periods such as we have described... persons in general... liked better to possess money than any other commodity. Money, consequently, was in request, and all other commodities were in comparative disrepute... As there may be a temporary excess of any one article considered separately, so may there of commodities generally, not in consequence of over-production, but of a want of commercial confidence.<ref>{{harvnb|Mill|1844|pp=[https://books.google.com/books?id=AQ4bAAAAYAAJ&pg=PA70 70–74]}}</ref></blockquote>
+
+Mill rescued the claim that there cannot be a simultaneous glut of all commodities by including money as one of the commodities.
+
+<blockquote> In order to render the argument for the impossibility of an excess of all commodities applicable... money must itself be considered as a commodity. It must, undoubtedly, be admitted that there cannot be an excess of all other commodities, and an excess of money at the same time.<ref>{{harvnb|Mill|1844|p=[https://books.google.com/books?id=AQ4bAAAAYAAJ&pg=PA71 71]}}</ref></blockquote>
+
+Contemporary economist [[Brad DeLong]] believes that Mill's argument refutes the assertions that a general glut cannot occur, and that a market economy naturally tends towards an equilibrium in which general gluts do not occur.<ref>{{cite web | last = DeLong | first = Brad | author-link = Brad DeLong | title = Why History of Economic Thought is Important | date = 6 August 2012 | url = http://delong.typepad.com/sdj/2012/08/why-history-of-economic-thought-is-important-whack-a-mole-wall-street-journalarthur-laffer-edition.html | access-date = 31 July 2014}}</ref><ref>{{cite web | last = DeLong | first = Brad | author-link = Brad DeLong | title = Is Macroeconomics Hard? | date = 28 June 2010 | url = http://delong.typepad.com/sdj/2010/06/is-macroeconomics-hard.html | access-date = 31 July 2014}}</ref> What remains of Say's law, after Mill's modification, are a few less controversial assertions:
+* In the long run, the ability to produce does not outstrip the desire to consume.
+* In a [[barter]] economy, a general glut cannot occur.
+* In a monetary economy, a general glut occurs not because sellers produce more commodities of every kind than buyers wish to purchase, but because buyers increase their desire to hold money.<ref>{{harvnb|Mill|1844|pp=[https://books.google.com/books?id=AQ4bAAAAYAAJ&pg=PA69 69–74]}}</ref>
+
+Say himself never used many of the later, short definitions of Say's law, and thus the law actually developed through the work of many of his contemporaries and successors. The work of James Mill, [[David Ricardo]], [[John Stuart Mill]], and others evolved Say's law into what is sometimes called ''law of markets'', which was a key element of the framework of [[macroeconomics]] from the mid-19th century until the 1930s.
+
+=== The Great Depression ===
+The Great Depression posed a challenge to Say's law. In the United States, unemployment rose to 25%.<ref>{{Cite book | first1 = Robert H. | last1 = Frank | first2 = Ben S. | last2 = Bernanke | title = Principles of Macroeconomics | edition = 3rd | year = 2007 | isbn = 978-0-07-319397-7 | page = 98 }}</ref> The quarter of the labor force that was unemployed constituted a supply of labor for which the demand predicted by Say's law did not exist.
+
+John Maynard Keynes argued in 1936 that Say's law is simply not true, and that demand, rather than supply, is the key variable that determines the overall level of economic activity. According to Keynes, demand depends on the propensity of individuals to consume and on the propensity of businesses to invest, both of which vary throughout the business cycle. There is no reason to expect enough aggregate demand to produce full employment.<ref>{{cite web | last = Keynes | first = John Maynard | title = The General Theory of Employment, Interest, and Money | url = http://cas.umkc.edu/economics/people/facultypages/kregel/courses/econ645/winter2011/generaltheory.pdf | pages = 25–26 | access-date = 12 November 2014}}</ref>
+
+=== Today ===
+Steven Kates, although a proponent of Say's Law, writes:
+<blockquote>Before the Keynesian Revolution, [the] denial of the validity of Say's Law placed an economist amongst the crackpots, people with no idea whatsoever about how an economy works. That the vast majority of the economics profession today would have been classified as crackpots in the 1930s and before is just how it is.<ref name="reject">{{cite web | last = Kates | first = Steven | title = Debts, deficits and slow growth | date = 25 April 2013 | url = http://www.iea.org.uk/blog/debts-deficits-and-slow-growth | access-date = 12 November 2014}}</ref>
+</blockquote>
+
+Keynesian economists, such as [[Paul Krugman]], stress the role of [[money]] in negating Say's law: Money that is hoarded (held as cash or analogous financial instruments) is not spent on products.<ref>{{cite web | last = Krugman | first = Paul| title = Still Say's Law After All These Years - Paul Krugman - The New York Times | date = 10 February 2013| url = https://krugman.blogs.nytimes.com/2013/02/10/still-says-law-after-all-these-years/ | access-date = 10 February 2013}}</ref> To increase monetary holdings, someone may sell products or labor without immediately spending the proceeds. This can be a general phenomenon: from time to time, in response to changing economic circumstances, households and businesses in aggregate seek to increase net savings and thus decrease net debt. To increase net savings requires earning more than is spent—contrary to Say's law, which postulates that supply (sales, earning income) equals demand (purchases, requiring spending). Keynesian economists argue that the failure of Say's law, through an increased demand for monetary holdings, can result in a general glut due to falling demand for goods and services.
+
+Many economists today maintain that supply does not create its own demand, but instead, especially during recessions, demand creates its own supply. Krugman writes:
+
+<blockquote>Not only doesn't supply create its own demand; experience since 2008 suggests, if anything, that the reverse is largely true -- specifically, that inadequate demand destroys supply. Economies with persistently weak demand seem to suffer large declines in potential as well as actual output.<ref>{{Cite web | first = Paul | last = Krugman | title = Demand Creates Its Own Supply | date = 3 November 2015 | url = http://krugman.blogs.nytimes.com/2015/11/03/demand-creates-its-own-supply/ | access-date = 3 November 2015}}</ref></blockquote>
+
+Olivier Blanchard and Larry Summers, observing persistently high and increasing unemployment rates in Europe in the 1970s and 1980s, argued that adverse demand shocks can lead to persistently high unemployment, therefore persistently reducing the supply of goods and services.<ref>{{Cite web | first1 = Olivier J. | last1 = Blanchard | first2 = Lawrence H. | last2 = Summers | title = Hysteresis and the European Unemployment Problem| year = 1986 | url = https://www.nber.org/chapters/c4245.pdf | pages = 15–78 | access-date = 3 November 2015}}</ref>
+Antonio Fatás and Larry Summers argued that shortfalls in demand, resulting both from the global economic downturn of 2008 and 2009 and from subsequent attempts by governments to reduce government spending, have had large negative effects on both actual and potential world economic output.<ref>{{Cite web | first1 = Antonio | last1 = Fatas | first2 = Lawrence H. | last2 = Summers | title = The Permanent Effects of Fiscal Consolidations| date = October 2015 | url =  http://faculty.insead.edu/fatas/CEPR_DP10902.pdf | pages = 1–34 | access-date = 3 November 2015}}</ref>
+
+A minority of economists still support Say's Law. Some proponents of the heterodox Austrian school of economics maintain that the economy tends to full-employment equilibrium, and that recessions and depressions are the result of government intervention in the economy.<ref>{{cite web | last = Manier | first = Damien | title = Keynesian v Austrian View of the Business Cycle | date = 11 October 2011| url = http://damienmanier.com/2011-10-15/keynesian-v-austrian-view-of-the-business-cycle/ | access-date = 13 November 2014}}</ref> Some proponents of real business cycle theory maintain that high unemployment is due to a reduced labor supply rather than reduced demand. In other words, people choose to work less when economic conditions are poor, so that involuntary unemployment does not actually exist.<ref>{{citation|last1=Lucas|first1=Robert E.|date=May 1978|title=Unemployment Policy|journal=American Economic Review|volume=68|number=2|pages= 353–357|jstor=1816720}}</ref>
+
+While economists have abandoned Say's law as a true law that must always hold, most still consider Say's Law to be a useful rule of thumb which the economy will tend towards in the long run, so long as it is allowed to adjust to shocks such as financial crises without being exposed to any further such shocks.<ref>{{cite document |title=Keynes' Law and Say's Law in the AD/AS Model |date=12 January 2017 |url=https://opentextbc.ca/principlesofeconomics2eopenstax/chapter/keynes-law-and-says-law-in-the-ad-as-model/ |publisher=BC Open Textbooks |access-date=29 December 2019|last1=Greenlaw |first1=Steven A. |last2=Shapiro |first2=David }}</ref> The applicability of Say's law in theoretical long-run conditions is one motivation behind the study of [[general equilibrium theory]] in economics, which studies economies in the context where Say's law holds true.
+
+== Consequences ==
+A number of laissez-faire consequences have been drawn from interpretations of Say's law. However, Say himself advocated public works to remedy unemployment and criticized Ricardo for neglecting the possibility of hoarding if there was a lack of investment opportunities.<ref>Warren J. Samuels, Jeff Biddle, John Bryan Davis, ''A companion to the history of economic thought'', p. 326.</ref>
+
+=== Recession and unemployment ===
+{{Unreferenced section|date=April 2013}}
+Say argued against claims that businesses suffer because people do not have enough money. He argued that the power to purchase can only be increased through more production.
+
+James Mill used Say's law against those who sought to give the economy a boost via unproductive consumption. In his view, consumption destroys wealth, in contrast to production, which is the source of economic growth. The demand for a product determines the price of the product.
+
+According to [[John Maynard Keynes|Keynes]] (see more below), if Say's law is correct, widespread involuntary [[unemployment]] (caused by inadequate demand) cannot occur. Classical economists in the context of Say's law explain unemployment as arising from insufficient demand for specialized labour—that is, the supply of viable labour exceeds demand in some segments of the economy.
+
+When more goods are produced by firms than are demanded in certain sectors, the suppliers in those sectors lose revenue as result. This loss of revenue, which would in turn have been used to purchase other goods from other firms, lowers demand for the products of firms in other sectors, causing an overall general reduction in output and thus lowering the demand for labour. This results in what contemporary macroeconomics call [[structural unemployment]], the presumed mismatch between the overall demand for labour in jobs offered and the individual job skills and location of labour. This differs from the Keynesian concept of [[Unemployment types#Cyclical unemployment|cyclical unemployment]], which is presumed to arise because of inadequate aggregate demand.
+
+Such economic losses and unemployment were seen by some economists, such as [[Marx]] and [[Keynes]] himself, as an intrinsic property of the capitalist system. The division of labor leads to a situation where one always has to anticipate what others will be willing to buy, and this leads to miscalculations.
+
+== Assumptions and criticisms ==
+{{refimprove section|date=April 2012}}
+Say's law did not posit that (as per the Keynesian formulation) "[[supply creates its own demand]]". Nor was it based on the idea that everything that is saved will be exchanged. Rather, Say sought to refute the idea that production and employment were limited by low consumption.
+
+Thus Say's law, in its original concept, was not intrinsically linked nor logically reliant on the [[neutrality of money]] (as has been alleged by those who wish to disagree with it<ref name=watson>{{cite web|last=Watson|first=Garrett|title=Guest post: Misunderstanding Say's Law of Markets (Garrett Watson)|url=http://marketmonetarist.com/2012/11/01/guest-post-misunderstanding-says-law-of-markets-garrett-watson/|work=The Market Monetarist|date=November 2012|access-date=12 March 2013}}</ref>{{unreliable source?|date=October 2021}}), because the key proposition of the law is that no matter how much people save, production is still a possibility, as it is the prerequisite for the attainment of any additional consumption goods. Say's law states that in a market economy, goods and services are produced for exchange with other goods and services—"employment multipliers" therefore arise from production and not exchange alone—and that in the process a sufficient level of real income is created to purchase the economy's entire output, due to the truism that the means of consumption are limited ''ex vi termini'' by the level of production. That is, with regard to the exchange of products within a division of labour, the total supply of goods and services in a market economy will equal the total demand derived from consumption during any given time period. In modern terms, "[[general glut]]s cannot exist",<ref>{{Cite web |first=Gonçalo L. |last=Fonseca |url=http://homepage.newschool.edu/het//essays/classic/glut.htm |title=The General Glut Controversy |publisher=[[The New School]] |access-date=14 July 2010 |url-status=dead |archive-url=https://web.archive.org/web/20110106050650/http://homepage.newschool.edu/het/profiles/walras.htm |archive-date=6 January 2011 }}</ref>{{unreliable source?|date=October 2021}} although there may be local imbalances, with gluts in some markets balanced out by shortages in others.
+
+Nevertheless, for some neoclassical economists,<ref name=adammartin>{{cite web|last=Martin|first=Adam|title=Keynes and Say's Law of Markets: Analysis and Implications for Austrian Economics|year=2004|publisher=gcc.edu|page=3|url=http://www2.gcc.edu/dept/econ/ASSC/Papers2004/Martin.pdf}}</ref>{{unreliable source?|date=October 2021}} Say's law implies that economy is always at its full employment level. This is not necessarily what Say proposed.
+
+In the Keynesian interpretation,<ref name="adammartin"/>{{unreliable source?|date=October 2021}} the assumptions of Say's law are:
+* a barter model of money ("products are paid for with products");
+* flexible prices—that is, all prices can rapidly adjust upwards or downwards; and
+* no government intervention.
+
+Under these assumptions, Say's law implies that there cannot be a general glut, so that a persistent state cannot exist in which demand is generally less than productive capacity and high unemployment results. Keynesians therefore argued{{Who|date=April 2012}}{{When|date=April 2012}} that the Great Depression demonstrated that Say's law is incorrect. Keynes, in his ''General Theory'', argued that a country could go into a recession because of "lack of aggregate demand".{{Citation needed|date=April 2012}}
+
+Because historically there have been many persistent [[economic crises]], one may reject one or more of the assumptions of Say's law, its reasoning, or its conclusions. Taking the assumptions in turn:
+
+* [[Monetary circuit theory|Circuitist]]s and some [[post-Keynesian]]s dispute the barter model of money, arguing that money is fundamentally different from commodities and that [[credit bubble]]s can and do cause depressions. Notably, the debt owed does not change because the economy has changed.
+* Keynes argued that prices are not flexible; for example, workers may not take pay cuts if the result is starvation.{{Citation needed|date=April 2012}}
+* Laissez-faire economists{{Who|date=April 2012}} argue that government intervention is the cause of economic crises, and that left to its devices, the market will adjust efficiently.
+
+As for the implication that dislocations cannot cause persistent unemployment, some theories of [[economic cycle]]s accept Say's law and seek to explain high unemployment in other ways, considering depressed demand for labour as a form of local dislocation. For example, advocates of [[Real Business Cycle Theory]]{{Citation needed|date=April 2012}} argue that real shocks cause recessions and that the market responds efficiently to these real economic shocks.
+
+Krugman dismisses Say's law as, "at best, a useless tautology when individuals have the option of accumulating money rather than purchasing real goods and services".<ref>{{Cite web |title = Introduction by Paul Krugman to The General Theory of Employment, Interest, and Money, by John Maynard Keynes |url = http://www.pkarchive.org/economy/GeneralTheoryKeynesIntro.html |access-date = 11 April 2014 }}</ref>
+
+=== Role of money ===
+
+It is not easy to say what exactly Say's law says about the role of money apart from the claim that recession is not caused by lack of money. The phrase "products are paid for with products" is taken to mean that Say has a [[barter]] model of money; contrast with [[Monetary circuit theory|circuitist]] and [[post-Keynesian]] monetary theory.
+
+One can read Say as stating simply that [[neutrality of money|money is completely neutral]], although he did not state this explicitly, and in fact did not concern himself with this subject. Say's central notion concerning money was that if one has money, it is ''irrational'' to hoard it.{{Citation needed|date=April 2012}}
+
+The assumption that hoarding is irrational was attacked by [[underconsumptionist]] economists, such as [[J. M. Robertson|John M. Robertson]], in his 1892 book, ''The Fallacy of Saving'':<ref>{{cite book|first=John M. |last=Robertson |author-link=J. M. Robertson |title=The Fallacy of Saving |year=1892 |url=https://archive.org/stream/fallacyofsavings00robe/fallacyofsavings00robe_djvu.txt
+}}</ref><ref name="neglect">{{cite journal|title=A Neglected Early Statement the Paradox of Thrift |first1=Robert T. |last1=Nash |first2=William P. |last2=Gramm |journal=History of Political Economy |year=1969 |volume=1 |issue=2 |pages=395–400 |url=http://hope.dukejournals.org/cgi/pdf_extract/1/2/395 |doi=10.1215/00182702-1-2-395}}</ref> where he called Say's law:
+
+{{quote|[A] tenacious fallacy, consequent on the inveterate evasion of the plain fact that men want for their goods, not merely some other goods to consume, but further, some credit or abstract claim to future wealth, goods, or services. This all want as a surplus or bonus, and this surplus cannot be represented for all in present goods.}}
+
+Here Robertson identifies his critique as based on Say's theory of money: people wish to accumulate a "claim to future wealth", not simply present goods, and thus the hoarding of wealth may be rational.
+
+For Say, as for other classical economists, it is possible for there to be a glut (excess supply, market surplus) for one product alongside a shortage (excess demand) of others. But there is no "[[general glut]]" in Say's view, since the gluts and shortages cancel out for the economy as a whole. But what if the excess demand is for ''money'', because people are hoarding it? This creates an excess supply for all products, a general glut. Say's answer is simple: there is no reason to engage in hoarding money. According to Say, the only reason to have money is to buy products. It would not be a mistake, in his view, to treat the economy ''as if'' it were a [[barter economy]]. To quote Say:
+
+<blockquote>Nor is [an individual] less anxious to dispose of the money he may get ... But the only way of getting rid of money is in the purchase of some product or other.<ref name=cepasay>{{cite web|url=http://www.newschool.edu/nssr/het//profiles/say.htm |title=Information on Jean-Baptiste Say |publisher=Cepa.newschool.edu |access-date=2012-05-26}}</ref></blockquote>
+
+In Keynesian terms, followers of Say's law would argue that on the aggregate level, there is only a [[Money demand#Transaction motive|transactions demand for money]]. That is, there is no [[Money demand#Asset motive|precautionary, finance, or speculative]] demand for money. Money is held for spending, and increases in money supplies lead to increased spending.
+
+Some classical economists did see that a loss of confidence in business or a collapse of credit will increase the demand for money, which will decrease the demand for goods. This view was expressed both by [[Colonel Robert Torrens|Robert Torrens]]{{Citation needed|date=April 2012}} and John Stuart Mill.{{Citation needed|date=April 2012}} This would lead demand and supply to move out of phase and lead to an economic downturn in the same way that miscalculation in productions would, as described by [[William H. Beveridge]] in 1909.
+
+However, in [[classical economics]], there was no reason for such a collapse to persist. In this view, persistent depressions, [[Great Depression|such as that of the 1930s]], are impossible in a free market organized according to laissez-faire principles. The flexibility of markets under [[laissez faire]] allows prices, wages, and interest rates to adjust so as to abolish all excess supplies and demands; however, since all economies are a mixture of regulation and free-market elements, laissez-faire principles (which require a free market environment) cannot adjust effectively to excess supply and demand.
+
+== As a theoretical point of departure ==
+{{refimprove section|date=April 2012}}
+{{Original research|section|date=March 2018}}
+The whole of neoclassical equilibrium analysis implies that Say's law in the first place functioned to bring a market into this state: that is, Say's law is the mechanism through which markets equilibrate uniquely. Equilibrium analysis and its derivatives of optimization and efficiency in exchange live or die with Say's law. This is one of the major, fundamental points of contention between the neoclassical tradition, Keynes, and Marxians. Ultimately, from Say's law they deduced vastly different conclusions regarding the functioning of capitalist production.
+
+The former, not to be confused with "new Keynesian" and the many offsprings and syntheses of the ''General Theory'', take the fact that a commodity–commodity economy is substantially altered once it becomes a commodity–money–commodity economy, or once money becomes not only a facilitator of exchange (its only function in marginalist theory) but also a store of value and a means of payment. What this means is that money can be (and must be) hoarded: it may not re-enter the circulatory process for some time, and thus a general glut is not only possible but, to the extent that money is not rapidly turned over, probable.
+
+A response to this in defense of Say's law (echoing the debates between Ricardo and [[Thomas Robert Malthus|Malthus]], in which the former denied the possibility of a general glut on its grounds) is that consumption that is abstained from through hoarding is simply transferred to a different consumer—overwhelmingly to factor (investment) markets, which, through financial institutions, function through the rate of interest.
+
+Keynes' innovation in this regard was twofold: First, he was to turn the mechanism that regulates savings and investment, the rate of interest, into a shell of its former self (relegating it to the ''price of money'') by showing that supply and investment were not independent of one another and thus could not be related uniquely in terms of the balancing of disutility and utility. Second, after Say's law was dealt with and shown to be theoretically inconsistent, there was a gap to be filled. If Say's law was the logic by which we thought financial markets came to a unique position in the long run, and if Say's law were to be discarded, what were the real "rules of the game" of the financial markets? How did they function and remain stable?
+
+To this Keynes responded with his famous notion of "animal spirits": markets are ruled by speculative behavior, influenced not only by one's own personal equation but also by one's perceptions of the speculative behavior of others. In turn, others' behavior is motivated by their perceptions of others' behavior, and so on. Without Say's law keeping them in balance, financial markets are thus inherently unstable. Through this identification, Keynes deduced the consequences for the macroeconomy of long-run equilibrium being attained not at only one unique position that represented a "Pareto Optima" (a special case), but through a possible range of many equilibria that could significantly under-employ human and natural resources (the general case).
+
+For the [[Marxism|Marxian critique]], which is more fundamental, one must start at Marx's initial distinction between [[use value]] and [[exchange value]]—use value being the use somebody has for a commodity, and exchange value being what an item is traded for on a market. In Marx's theory, there is a gap between the creation of [[surplus value]] in production and the realization of that surplus value via a sale. To realize a sale, a commodity must have a use value for someone, so that they purchase the commodity and complete the cycle ''<nowiki>M–C–M'</nowiki>''. Capitalism, which is interested in value (money as wealth), must create use value. The capitalist has no control over whether or not the value contained in the product is realized through the market mechanism. This gap between production and realization creates the possibility for capitalist crisis, but only if the value of any item is realised through the difference between its cost and final price. As the realization of capital is only possible through a market, Marx criticized other economists, such as [[David Ricardo]], who argued that capital is realized via production. Thus, in Marx's theory, there can be ''general'' [[overproduction|overproductive crises]] within capitalism.<ref>Karl Marx, ''Grundrisse'', http://www.marxists.org/archive/marx/works/1857/grundrisse/ch08.htm#p402</ref>
+
+Given these concepts and their implications, Say's law does not hold in the Marxian framework. Moreover, the theoretical core of the Marxian framework contrasts with that of the neoclassical and Austrian traditions.
+
+Conceptually, the distinction between Keynes and Marx is that for Keynes the theory is but a special case of his general theory, whereas for Marx it never existed at all.
+
+== Modern interpretations ==
+{{Unreferenced section|date=April 2012}}
+{{Original research|section|date=March 2018}}
+A modern way of expressing Say's law is that there can never be a [[general glut]]. Instead of there being an excess supply (glut or surplus) of goods in general, there may be an excess supply of one or more goods, but only when balanced by an excess demand (shortage) of yet other goods. Thus, there may be a glut of labor ([[Unemployment types#Cyclical unemployment|"cyclical" unemployment]]), but this is balanced by an excess demand for produced goods. Modern advocates of Say's law see market forces as working quickly, via price adjustments, to abolish both gluts and shortages. The exception is when governments or other non-market forces prevent price adjustments.
+
+According to Keynes, the implication of Say's law is that a [[free market|free-market]] economy is always at what [[Keynesian]] economists call [[full employment]] (see also [[Walras' law]]). Thus, Say's law is part of the general world view of [[laissez-faire]] economics—that is, that free markets can solve the economy's problems automatically. (These problems are recessions, stagnation, depression, and [[Unemployment#Debate on Unemployment|involuntary unemployment]].)
+
+Some proponents of Say's law argue that such intervention is always counterproductive. Consider [[Keynesian economics#Active fiscal policy|Keynesian-type]] policies aimed at stimulating the economy. Increased government purchases of goods (or lowered taxes) merely "crowd out" the production and purchase of goods by the private sector. Contradicting this view, [[Arthur Cecil Pigou]], a self-proclaimed follower of Say's law, wrote a letter in 1932 signed by five other economists (among them Keynes) calling for more public spending to alleviate high levels of unemployment.
+
+=== Keynes versus Say ===
+
+Keynes summarized Say's law as "[[supply creates its own demand]]", or the assumption "that the whole of the costs of production must necessarily be spent in the aggregate, directly or indirectly, on purchasing the product" (from chapter 2 of his ''General Theory''). See the article on [[The General Theory of Employment, Interest and Money]] for a summary of Keynes's view.
+
+Although hoarding of money was not a direct cause of unemployment in Keynes's theory, his concept of saving was unclear and some readers have filled the gap by assigning to hoarding the role Keynes gave to saving. An early example was [[Jacob Viner]], who in his 1936 review of the ''General Theory'' said of hoarding that Keynes' attaches great importance to it as a barrier to "full" employment' (p152) while denying (pp158f) that it was capable of having that effect.<ref>Jacob Viner, "Mr. Keynes on the causes of unemployment", ''Quarterly Journal of Economics''.{{full citation needed|date=August 2018}}</ref>
+
+The theory that hoarding is a cause of unemployment has been the subject of discussion. Some classical economists{{who|date=January 2012}} suggested that hoarding (increases in money-equivalent holdings) would always be balanced by dis-hoarding. This requires equality of [[saving]] (abstention from purchase of goods) and [[investment]] (the purchase of capital goods). However, Keynes and others argued that hoarding decisions are made by different people and for different reasons than are decisions to dis-hoard, so that hoarding and dis-hoarding are unlikely to be equal at all times, as indeed they are not. Decreasing demand (consumption) does not necessarily stimulate capital spending (investment).
+
+Some{{who|date=January 2012}} have argued that financial markets, and especially [[interest rates]], could adjust to keep hoarding and dis-hoarding equal, so that Say's law could be maintained, or that prices could simply fall, to prevent a decrease in production. But Keynes argued that to play this role, interest rates would have to fall rapidly, and that there are limits on how quickly and how low they can fall (as in the [[liquidity trap]], where interest rates approach zero and cannot fall further). To Keynes, in the short run, interest rates are determined more by the supply and demand for money than by saving and investment. Before interest rates can adjust sufficiently, excessive hoarding causes the vicious circle of falling aggregate production (recession). The recession itself lowers incomes so that hoarding (and saving) and dis-hoarding (and real investment) can reach a state of balance below full employment.
+
+Worse, a recession would hurt private real investment—by hurting profitability and [[business confidence]]—through what is called the [[accelerator effect]]. This means that the balance between hoarding and dis-hoarding would be pushed even further below the full-employment level of production.
+
+Keynes treats a fall in marginal efficiency of capital and an increase in the degree of liquidity preference (demand for money) as sparks leading to an insufficiency of effective demand. A decrease in MEC causes a reduction in investment, which reduces aggregate expenditure and income. A decline in the interest rate would offset the decline in investment, and stimulate propensity to consume. <ref>{Ahiakpor, James C. W. Keynes and the Classics Reconsidered. Kluwer, 1998.} </ref>
+
+== See also ==
+*[[Demand side economics]], the New Keynesian perspective
+*[[Fiscal policy]]
+*[[List of eponymous laws]]
+*[[Parable of the broken window]]
+*[[Treasury view]], a related critical view of fiscal policy
+*[[Walras' law]]
+
+== References ==
+===Notes===
+{{Reflist}}
+
+===Bibliography===
+{{Refbegin}}
+*{{Cite journal | first = Gonçalo L. | last = Fonseca | url = http://homepage.newschool.edu/het//essays/classic/glut.htm | title = The General Glut Controversy | publisher = [[The New School]] | url-status = dead | archive-url = https://web.archive.org/web/20110106050650/http://homepage.newschool.edu/het/profiles/walras.htm | archive-date = 2011-01-06 }}
+*{{Cite book | first = Steven | last = Kates | title = Say's Law and the Keynesian Revolution: How Macroeconomic Theory Lost Its Way | year = 1998 | isbn = 978-1-85898-748-4 }}
+*{{Cite book | title = Two Hundred Years of Say's Law: Essays on Economic Theory's Most Controversial Principle | editor = Steven Kates | isbn = 978-1-84064-866-9 | year = 2003 }}
+*{{cite book | last = Mill | first = John Stuart | author-link = John Stuart Mill | title = Essays on Some Unsettled Questions of Political Economy | publisher = John W. Parker | year = 1844 | location = London | url = https://archive.org/details/essaysonsomeunse00millrich }}
+*{{cite book | last = Say | first = Jean-Baptiste | author-link = Jean-Baptiste Say | title = Letters to Mr. Malthus | publisher = Sherwood, Neely, and Jones | year = 1821 | location = London | url = https://archive.org/details/letterstomrmalt00saygoog }} This is an English translation of Say's ''Lettres à M. Malthus sur l'économie politique et la stagnation du commerce'', published in 1820.
+*{{cite book | last = Say | first = Jean-Baptiste | author-link = Jean-Baptiste Say | title = A Treatise on Political Economy | publisher = Grigg & Elliott | edition = sixth American | year = 1834 | location = Philadelphia | url = https://archive.org/details/atreatiseonpoli00saygoog }} This is an English translation of Say's ''Traité d'economie politique'', first published in 1803.
+{{Refend}}
+
+== Further reading ==
+*{{cite book |last=Ackley |first=Gardner |author-link=Gardner Ackley |chapter=Say's Law and the Quantity Theory of Money |pages=[https://archive.org/details/macroeconomicthe00ackl/page/105 105–123] |title=Macroeconomic Theory |url=https://archive.org/details/macroeconomicthe00ackl |url-access=registration |location=New York |publisher=Macmillan |year=1961 }}
+*[[Axel Leijonhufvud]], 1968. ''On Keynesian Economics & the Economics of Keynes: A Study in Monetary Theory''. Oxford University Press. {{ISBN|0-19-500948-7}}.
+*{{cite book | author=Kates, Steven | title=Say's Law and the Keynesian revolution: how macroeconomic theory lost its way | publisher=Edward Elgard Publishing Limited | year=1998 | isbn=1-85898-748-2}}
+*{{Cite journal| doi = 10.2307/2553717| title = Say's (at Least) Eight Laws, or What Say and James Mill May Really Have Meant| year = 1977| last1 = Baumol | first1 = W. J.| journal = Economica| volume = 44| pages = 145–161| issue = 174| publisher = Blackwell Publishing| jstor = 2553717 }}
+*[[Thomas Sowell]], 1972. ''Say's Law: An Historical Analysis''. Princeton University Press. {{ISBN|0-691-04166-0}}.
+
+== External links ==
+*[https://www.mises.org/books/politicalecon.pdf A Treatise on Political Economy, Book I Chapter XV], Jean-Baptiste Say
+
+{{DEFAULTSORT:Say's Law}}
+[[Category:Classical economics]]
+[[Category:Demand]]
+[[Category:Economics laws]]
+[[Category:1803 in economics]]

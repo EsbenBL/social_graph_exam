@@ -1,0 +1,54 @@
+{{Infobox officeholder
+| name = Michael Mussa
+| office = [[List of IMF Economic Counsellors|Chief Economist of the International Monetary Fund]]
+| president = [[Michel Camdessus]]<br>[[Horst Köhler]]
+| term_start = August 1991
+| term_end = June 29, 2001
+| predecessor = Position established
+| successor = [[Kenneth Rogoff]]
+| birth_date = {{birth date|1944|4|15}}
+| birth_place = [[Los Angeles]], [[California]], U.S.
+| death_date = {{death date and age|2012|1|15|1944|4|15}}
+| death_place = [[Washington, D.C.]], U.S.
+| education = [[UCLA]], BA 1966 [[University of Chicago]] {{small|([[Master of Arts|MA]], [[Doctor of Philosophy|PhD]])}}
+| module = {{Infobox economist
+|child       = yes
+|institution = [[International Monetary Fund]]<br>[[Council of Economic Advisers]]<br>[[Peterson Institute for International Economics]]<br>[[National Bureau of Economic Research]]<br>[[University of Chicago]]<br>[[University of Rochester]]
+|field       = [[International economics]],<br>[[Macroeconomics]],<br>[[Monetary economics]]
+|awards      = [https://web.archive.org/web/20110927225018/http://www.nabe.com/publib/asmith.htm Adam Smith Award] {{small|(2008)}}}}
+}}
+'''Michael Louis Mussa''' (April 15, 1944 – January 15, 2012) was an American [[economist]] and academic. He was [[List of IMF Economic Counsellors|chief economist]] at the [[International Monetary Fund]] from 1991 to 2001 and was a member of the [[Council of Economic Advisers]] from 1986 to 1988. He was also a senior fellow at the [[Peterson Institute for International Economics]] from 2001 until his death in 2012.<ref>[https://www.nytimes.com/2012/01/19/business/michael-mussa-adviser-to-reagan-on-economy-dies-at-67.html Michael Mussa, Adviser to Reagan on Economy, Dies at 67] ''NY Times,'' January 18, 2012</ref><ref>[https://blogs.wsj.com/economics/2012/01/17/remembering-economist-mike-mussa/ Remembering Economist Mike Mussa] ''The Wall Street Journal,'' January 17, 2012</ref><ref>[https://www.washingtonpost.com/local/obituaries/michael-l-mussa-imf-economist-dies-at-67/2012/01/17/gIQAQM9m6P_story.html Michael L. Mussa, IMF economist, dies at 67] ''Washington Post,'' January 18, 2012</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.isria.com/pages/18_January_2012_38.php Statement by IMF Managing Director Christine Lagarde on the Death of Michael Mussa]{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }} ''[[ISRIA]],'' January 16, 2012
+* [http://www.piie.com/publications/newsreleases/newsrelease.cfm?id=187 News Release by the Peterson Institute on the Death of Michael Mussa] ''[[Peterson Institute for International Economics|PIIE]],'' January 17, 2012
+
+{{s-start}}
+{{s-bus}}
+{{succession box
+| before = New Position
+| title = IMF Chief Economist
+| years = 1991–2001
+| after = [[Kenneth Rogoff]] }}
+{{end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mussa, Michael}}
+[[Category:1944 births]]
+[[Category:2012 deaths]]
+[[Category:People from Los Angeles]]
+[[Category:Economists from California]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:University of Chicago alumni]]
+[[Category:University of Rochester faculty]]
+[[Category:University of Chicago faculty]]
+[[Category:United States Council of Economic Advisers]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Peterson Institute for International Economics]]
+
+
+{{US-economist-stub}}

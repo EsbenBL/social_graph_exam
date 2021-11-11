@@ -1,0 +1,56 @@
+{{Infobox economist
+| name             = Matthew Rabin
+| school_tradition =
+| color            =
+| image       = Matthew Rabin 2008.jpg
+| image_size       = 200px
+| caption    = Matthew Rabin in 2008
+| birth_date       = {{Birth date and age|1963|12|27}}
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = United States
+| field            = [[Behavioral economics]], [[Game theory]]
+| doctoral_advisor= [[Drew Fudenberg]]<ref>[http://economics.mit.edu/faculty/drewf/students Drew Fudenberg Students]</ref>
+| academic_advisors=
+| doctoral_students=[[Jeffrey C. Ely]]<ref>{{Cite web |url= http://faculty.wcas.northwestern.edu/~jel292/cv-current.pdf |title= Ely's Curriculum Vitae |access-date=2018-03-31 }}</ref> 
+| notable_students=
+| influences       =
+| alma_mater = [[University of Wisconsin–Madison]]<br>[[MIT]]
+| influenced       =
+| contributions    =
+| awards           = [[John Bates Clark Medal]]<br>[[John von Neumann Award]]
+| repec_prefix = f | repec_id = pra660}}
+'''Matthew Joel Rabin''' (born December 27, 1963) is the Pershing Square Professor of [[Behavioral economics|Behavioral Economics]] in the Harvard Economics Department and [[Harvard Business School]]. Rabin's research focuses primarily on incorporating psychologically more realistic assumptions into empirically applicable formal economic theory. His topics of interest include errors in statistical reasoning and the evolution of beliefs, effects of choice context on exhibited preferences, reference-dependent preferences, and errors people make in inference in market and learning settings.<ref name=harvard>{{cite web|title=Matthew Rabin - Pershing Square Professor of Behavioral Economics|url=http://scholar.harvard.edu/rabin/home|publisher=Harvard University|access-date=October 27, 2014}}</ref><ref>{{cite web|title=The Pershing Square Foundation awards $17M to Harvard|url=http://news.harvard.edu/gazette/story/2014/04/the-pershing-square-foundation-awards-17m-to-harvard/|publisher=Harvard Gazette|date=April 14, 2014|access-date=October 27, 2014}}</ref>
+
+==Background==
+Rabin was the Edward G. and Nancy S. Jordan Professor of Economics at the University of California, Berkeley Economics Department for 25 years before moving to Harvard.<ref name=harvard/><ref>{{cite web|title=Matthew Rabin|url=http://econ.berkeley.edu/faculty/843|publisher=University of California, Berkeley|archive-url=https://web.archive.org/web/20120506074143/http://econ.berkeley.edu/faculty/843|archive-date=May 6, 2012}}</ref> He received a [[Bachelor of Arts]] in [[Economics]] and [[Mathematics]] from [[University of Wisconsin–Madison]] in 1984 and [[Ph.D.]] in [[Economics]] from [[Massachusetts Institute of Technology|MIT]] in 1989.<ref name=rabin>{{cite web|title=Matthew Rabin|url=http://eml.berkeley.edu/~rabin/webcv.html|publisher=University of Berkeley|url-status=dead|archive-url=https://web.archive.org/web/20141028035132/http://eml.berkeley.edu/~rabin/webcv.html|archive-date=2014-10-28}}</ref> Before entering MIT, he was a research student at the [[London School of Economics]].<ref name=harvard/> He is a member of the Russell Sage Foundation Behavioral Economics Roundtable and co-organizer of the Russell Sage Summer Institute in Behavioral Economics.<ref name=rabin/> Rabin has also been a visiting professor at M.I.T., London School of Economics, Northwestern, Harvard, and Caltech, and a visiting scholar at the Center for Advanced Study in Behavioral Sciences at Stanford, and the Russell Sage Foundation.<ref name=harvard/><ref name=rabin/>
+
+His research is  directed, among other economic fields, towards [[behavioral finance]] and [[behavioral economics]]. Rabin works on the economics of individual self-control problems, reference-dependent preferences, fairness motives and mistakes in probabilistic reasoning. He developed [[Rabin fairness]] as a model to account for fairness in social preferences. In 2001 he was awarded the [[John Bates Clark Medal]] by the [[American Economic Association]]<ref>{{cite web|title=Matthew Rabin John Bates Clark Medalist 2001|url=http://www.aeaweb.org/PDF_files/Bios/Rabin_Bio_2001.pdf|publisher=AEA|url-status=dead|archive-url=https://web.archive.org/web/20130512131140/http://www.aeaweb.org/PDF_files/Bios/Rabin_Bio_2001.pdf|archive-date=2013-05-12}}</ref> and also the [[MacArthur Fellows Program|MacArthur "Genius" Fellowship]].<ref name=rabin/> In 2006 he was awarded the [[John von Neumann Award]] by the [[Rajk László College for Advanced Studies]].<ref name=rabin/>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.nyu.edu/econ/user/bisina/rabin_survey.pdf Psychology and Economics] An essay by Matthew Rabin
+*[http://people.hss.caltech.edu/~camerer/rabinjep03.pdf In Honor of Matthew Rabin: Winner of the John Bates Clark Medal]
+*{{cite web|title=Matthew Rabin|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Matthew+Rabin%22+&acc=off&wc=on&fc=off&group=none|publisher=[[JSTOR]]}}
+
+{{Instecon}}
+{{John Bates Clark Medal recipients}}
+{{John von Neumann Award recipients}}
+{{Authority control}}
+
+{{DEFAULTSORT:Rabin, Matthew}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:MacArthur Fellows]]
+[[Category:Behavioral economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:University of Wisconsin–Madison College of Letters and Science alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:Harvard Business School faculty]]
+[[Category:Behavioral economics]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]

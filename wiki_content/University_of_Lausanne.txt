@@ -1,0 +1,494 @@
+{{Short description|University located in Lausanne, Switzerland}}
+{{Use dmy dates|date=October 2020}}
+{{Use British English|date=February 2014}}
+{{Infobox university
+|name            = University of Lausanne
+|native_name     = Université de Lausanne
+|latin_name      = Schola Lausannensis
+|image           = Logo Université de Lausanne.svg
+|motto           = ''Le savoir vivant''
+|mottoeng        = Live knowledge
+|established     = {{Start date and age|1537}}
+|type            = [[Public university]]
+|endowment       = 
+|administrative_staff           = 3,700 (2014)
+|principal       = 
+|rector          = [[Frédéric Herman]] (since August 2021)
+|chancellor      = 
+|vice_chancellor = 
+|students        = 13,500 (2014)
+|undergrad       = 8,066 (2010)
+|postgrad        = 1,370 (2010)
+|doctoral        = 1,583 (2010)
+|city            = [[Lausanne]],<br />[[Chavannes-près-Renens]],<br />[[Écublens, Vaud|Écublens]],<br />[[Saint-Sulpice, Vaud|Saint-Sulpice]] and<br />[[Epalinges|Épalinges]]
+|state          = [[Vaud]]
+|country         = [[Switzerland]]
+|campus          = 
+|free_label      = 
+|free            = 
+|colours         = 
+|mascot          = 
+|nickname        = 
+|affiliations    = [[European University Association|EUA]], [[Agence universitaire de la Francophonie|AUF]], [[Institutional Network of the Universities from the Capitals of Europe|UNICA]]
+|website         = [http://www.unil.ch www.unil.ch]
+|coor            = {{coord|46|31|21|N|6|34|46|E|region:CH-VD_type:edu|display=inline,title}}
+|address         = Université de Lausanne, 1015 Lausanne, Suisse
+}}
+
+The '''University of Lausanne''' ('''UNIL'''; {{lang-fr|links=no|Université de Lausanne}}) in [[Lausanne]], [[Switzerland]] was founded in 1537 as a school of [[theology]], before being made a university in 1890. The university is the second oldest in Switzerland, and one of the oldest universities in the world to be in continuous operation. As of fall 2017, about 15,000 students and 3,300 employees study and work at the university. Approximately 1,500 international students attend the university (120 nationalities), which has a wide curriculum including exchange programs with world-renowned universities.
+
+Since 2005, the university follows the requirements of the [[Bologna process]]. The 2011 [[Times Higher Education World University Rankings]]<ref name="timeshighereducation.co.uk">{{Cite web|url=https://www.timeshighereducation.com/world-university-rankings/2011/world-ranking|title=World University Rankings|date=13 April 2015|website=Times Higher Education (THE)|access-date=19 April 2021}}</ref> ranked the University of Lausanne 116th globally. The [[CWTS Leiden Ranking|CWTS Leiden Ranking 2015]] ranks the University of Lausanne 11th in Europe and 41st globally, out of 750 universities.<ref>{{Cite web|url=http://www.leidenranking.com/|title=CWTS Leiden Ranking|website=CWTS Leiden Ranking|access-date=19 April 2021}}</ref>
+
+Together with the [[École Polytechnique Fédérale de Lausanne|École polytechnique fédérale de Lausanne (EPFL)]] the university forms a vast [[Lausanne campus|campus]] at the shores of [[Lake Geneva]].
+
+== History ==
+[[Image:Palais de Rumine 1.jpg|thumb|The [[Palais de Rumine]], one of the former buildings of the University of Lausanne]]
+[[File:Bibliothèque cantonale et universitaire de Lausanne.jpg|thumb|''Unithèque'' building houses one of the two sites of the [[Cantonal and University Library of Lausanne]] on the main campus of the UNIL]]
+
+The university was founded in 1537 as the ''Schola Lausannensis'', one year after [[Canton of Bern|Bern]] conquered the territory of Vaud from the [[Duchy of Savoy]]. At the time it was a school of [[theology]] with the purpose of training pastors for the church.<ref name=Dictionnaire/> It enjoyed great renown for being the first and, until the establishment of the [[University of Geneva|Academy of Geneva]] in 1559, the only French language Protestant school of theology. In its early years it became a center of [[Renaissance humanism|humanist]] learning, with thinkers such as [[Corderius]] and [[Celio Secondo Curione]] among its professors.<ref name=Dictionnaire>{{cite encyclopedia|encyclopedia=[[Historical Dictionary of Switzerland]]|title=Université de Lausanne|language=fr|author=Nicole Meystre-Schaeren}}</ref> In the 17th century it became known as the '''Academy of Lausanne''' (''Académie de Lausanne'').<ref name=Dictionnaire/> As the centuries passed, the number of faculties increased and diversified until, in 1890, the Academy received the name and status of a university.
+
+In 1909, [[Archibald Reiss|Rudolphe Archibald Reiss]] founded the first school of [[forensic science]] in the world: the {{lang|fr|Institut de police scientifique}}.
+
+From 1970, the university moved progressively from the old centre of Lausanne, around the Cathedral and Château, to its present site at [[Dorigny university campus|Dorigny]].
+
+The end of the 20th century witnessed the beginnings of an ambitious project aiming at greater co-operation and development among the French-speaking universities of Lausanne, Geneva, and Neuchâtel, together with the [[Swiss Federal Institute of Technology in Lausanne|Swiss Federal Institute of Technology in Lausanne (EPFL)]]. Among others, this led to the transfer of the sections of Mathematics, Physics and Chemistry from the university to the EPFL; the funds that were made available following this transfer were invested in the development of the life sciences at the university, including the creation of a Center for Integrative Genomics.
+
+In 2003, two new faculties were founded, concentrating on the life and human sciences: the Faculty of Biology and Medicine and the Faculty of Geosciences and Environment.
+
+On 1 January 2014, the [[Swiss Graduate School of Public Administration]] (IDHEAP) was integrated into the University of Lausanne.<ref>[http://www.unil.ch/webdav/site/central/shared/docs/rapport_12.pdf Rapport annuel 2012 de l'Université de Lausanne], www.unil.ch (page visited on 30 May 2013).</ref>
+
+Since August 2021, the rector of the University of Lausanne is [[Frédéric Herman]]; before then, the university was led by [[Nouria Hernandez]] (2016-2021) and by Dominique Arlettaz (2006-2016).
+
+== Faculties and schools ==
+{{Location map | Switzerland
+| caption = Location: Lausanne, Switzerland
+| width=230
+| label=UNIL
+| label-size=90
+| background = #DDDD44 | position=top
+| lat_deg=46 | lat_min=31 <!--{{Coor...46|31|13 |6|33|56 -->
+| lon_deg= 6 | lon_min=34
+| mark=Green_pog.svg  | marksize=8 
+| float=right 
+}}
+
+The University of Lausanne comprises seven [[Faculty (division)|faculties]]:
+
+* Faculty of Arts
+* Faculty of Biology and Medicine (FBM)
+* [[HEC Lausanne|Faculty of Business and Economics]] (HEC), also called [[HEC Lausanne]]
+* Faculty of Geosciences and Environment (GSE)
+* Faculty of Law, Criminal Justice and Public Administration (FDSC), including the [[Swiss Graduate School of Public Administration]]
+* Faculty of Social and Political Sciences (SSP)
+* Faculty of Theology and Religious Studies (FTSR)
+
+The University of Lausanne also comprises schools and different sections, including but not limited to:
+
+* School of Criminal Justice (ESC)
+* School of French as a Foreign Language (EFLE)
+* French summer and winter courses (''Cours de vacances'')
+* Science-Society Interface
+
+== Campus ==
+
+=== Main campus ===
+{{See also|Lausanne campus}}
+
+The main campus is presently situated outside the city of [[Lausanne]], on the shores of [[Lake Léman]], in [[Dorigny university campus|Dorigny]]. It is adjacent to the [[Swiss Federal Institute of Technology in Lausanne|Swiss Federal Institute of Technology in Lausanne (EPFL)]] and is served by the [[Lausanne Métro Line M1|Lausanne Metro Line 1 (M1)]]. The two schools together welcome about 20,000 students.
+
+The UNIL and the [[Swiss Federal Institute of Technology in Lausanne|EPFL]] share an active sports centre located on the campus, on the shores of [[Lake Geneva]]<ref>[http://sport.unil.ch Service des sports UNIL-EPFL], sport.unil.ch (page visited on 10 May 2013).</ref> and their campus is also equipped with a [[bicycle sharing system]].<ref>[https://www.publibike.ch/en/campus.html Campus roule], www.publibike.ch (page visited on 15 May 2013).</ref>
+
+The university campus is made up of individual buildings with a park and arboretum in between. The [[Cantonal and University Library of Lausanne|university library]] also serves as eating hall and is centrally located. The view from the library across the sports fields to the [[lake of Geneva]] and the French and [[Swiss Alps]]. On a clear day, [[Mont Blanc]] can be seen.
+
+The [[Swiss Institute of Comparative Law]] and the central administration of the [[Swiss Institute of Bioinformatics]] are also located on the main campus.
+
+<gallery class="center" perrow="5">
+Image:UNIL-p1010659.jpg|The main building of the Faculty of Law and Criminal Justice and of the [[HEC Lausanne|Faculty of Business and Economics]].
+Image:University-of-lausanne-extranef.jpg|The Extranef building.
+Image:Bibliothèque Édouard Fleuret au soir 01.jpg|The Édouard Fleuret Library pavilion.
+Image:EPFL-p1010642.jpg|The Génopode building of the University of Lausanne hosts the Center for Integrative Genomics of the University of Lausanne and the central administration of the [[Swiss Institute of Bioinformatics]].
+File:EPFL-p1010628.jpg|The School of Criminal Justice of the UNIL is the world oldest school of forensic science and is one of the only European institution to offer a complete education in forensic sciences.
+Image:Anthropole UNIL.jpg|The Anthropole building.
+Image:UNIL-p1010650.jpg|Unithèque building houses one of the two sites of the [[Cantonal and University Library of Lausanne]] on the main campus of the UNIL
+Image:ISDC exterior south.jpg|The [[Swiss Institute of Comparative Law]], on the campus of the University of Lausanne.
+File:Geopolis unil lausanne switzerland.jpg|The Géopolis building: Faculty of Geosciences and Environment and Faculty of Social and Political Sciences
+File:2020-01-09 Media Tour Youth Olympic Village Lausanne (2020 Winter Youth Olympics) by Martin Rulsch 79.jpg|Vortex building, student residence on the campus
+</gallery>
+
+=== Other sites ===
+
+In addition to its main campus at the lakeside, the University of Lausanne also has other sites. The Faculty of Biology and Medicine is also located in two other sites: around the [[University Hospital of Lausanne|University Hospital of Lausanne (CHUV)]] (site called Bugnon) and in [[Épalinges]] (to the north of [[Lausanne]]).
+
+The Department of Biochemistry, the [[Ludwig Cancer Research]] branch of the University of Lausanne and the [[World Health Organization|WHO]] Immunology Research and Training Centre and some laboratories of the [[University Hospital of Lausanne]] are located in [[Épalinges]]. The [[Biopôle]] was built next to the [[Épalinges]] campus. The Faculty of Biology and Medicine also comprises a fourth site, the [[Psychiatric Hospital of Cery]], in [[Prilly]].
+
+<gallery class="center">
+Image:Hôpital Cantonal Lausanne.jpg|Bugnon 21, headquarters of the [[University Hospital of Lausanne]] and of the deanship of the Faculty of Biology and Medicine.
+Image:ISREC-vue-d'avion-1.jpg|The Center for Immunology and Infection Lausanne (CIIL), UNIL-[[University Hospital of Lausanne|CHUV]], in [[Épalinges]] (2007).
+</gallery>
+
+== Associated institutions ==
+[[File:Vue aérienne EPFL 07-2009.jpg|thumb|The [[École Polytechnique Fédérale de Lausanne|Swiss Federal Institute of Technology in Lausanne (EPFL)]] and the University of Lausanne form a large campus near the [[lake Geneva]].]]
+[[File:Biopôle vue d'ensemble.jpeg|thumb|One of the [[Biopôle]] buildings in [[Épalinges]] (2010). More Biopôle buildings were built there since then.]]
+
+{{Columns-list|colwidth=30em|
+* [[Biopôle]]
+* Kurt Bösch Institute (IUKB)
+* Center for Biomedical Imaging (CIBM)<ref>[http://www.cibm.ch Center for Biomedical Imaging] (page visited on 2 October 2011).</ref>
+* Centre de recherches sur les lettres romandes (CRLR)
+* Centre du droit de l'entreprise (CEDIDAC)
+* Centre for Advanced Modelling Science (CADMOS)<ref>[http://www.cadmos.org CADMOS] (page visited on le 20 February 2012).</ref>
+* École romande de santé publique (ERSP)
+* Fondation Edouard Fleuret (FEF)
+* Institut Benjamin Constant (IBC)
+* Institut romand des sciences bibliques (IRSB)
+* Institut universitaire romand de santé au travail (IST)<ref>[http://www.i-s-t.ch/fr/qui-sommes-nous/qui-sommes-nous.html Institut universitaire romand de santé au travail] {{webarchive|url=https://web.archive.org/web/20120618135158/http://www.i-s-t.ch/fr/qui-sommes-nous/qui-sommes-nous.html |date=18 June 2012 }} (page visited on 1 October 2011).</ref>
+* [[AISTS|International Academy of Sport Science and Technology (AISTS)]]
+* [[International Institute for Management Development|International Institute for Management Development (IMD)]]
+* [[Jean Monnet Foundation for Europe]]
+* Jules Gonin Eye Hospital
+* [[Ludwig Cancer Research]]
+* [[Swiss Cancer Centre]]
+* [[Swiss Centre of Expertise in the Social Sciences]]
+* [[Swiss Institute of Bioinformatics|Swiss Institute of Bioinformatics (SIB)]]
+* [[Swiss Institute of Comparative Law]]
+* [[ISREC|Swiss Institute for Experimental Cancer Research (ISREC)]]
+* [[Swiss School of Archaeology in Greece]]
+* Swiss Vaccine Research Institute<ref>[http://www.swissvaccineresearchinstitute.ch Swiss Vaccine Research Institute] (page visited on 14 April 2012).</ref>
+* University Centre of Legal Medicine (CURML)<ref>[http://www.curml.ch Centre universitaire romand de médecine légale] (page visited on 3 June 2012).</ref>
+** [[Swiss Laboratory for Doping Analyses]]
+* [[World Health Organization|WHO]] Immunology Research and Training Centre
+}}
+
+== Reputation and rankings ==
+{{Infobox university rankings
+| ARWU_W = 100-150 | ARWU_W_year = 2019 | ARWU_W_ref = <ref>{{cite web|url=http://www.shanghairanking.com/ARWU2019.html|title=Academic Ranking of World Universities 2019|access-date=17 October 2019|publisher=Shanghai Ranking Consultancy}}</ref>
+| CWTS_W = 84 | CWTS_W_year = 2018 | CWTS_W_ref = <ref>{{cite web|url=https://www.leidenranking.com/ranking/2018/list|title=CWTS Leiden Ranking 2018 - PP top 10%|access-date=2 December 2019|work=CWTS Leiden Ranking}}</ref>
+| CWUR_W = 146 | CWUR_W_year = 2018-19 | CWUR_W_ref = <ref>{{Cite news|url=https://cwur.org/2018-19.php|title=World University Rankings 2018-19|work=Center for World University Rankings|access-date=20 December 2019|language=en}}</ref>
+| QS_W = 149| QS_W_year = 2019 | QS_W_ref = <ref>{{cite web|url=https://www.topuniversities.com/university-rankings/world-university-rankings/2019|title=QS World University Rankings 2019|access-date=17 October 2019|publisher=Quacquarelli Symonds Ltd.}}</ref>
+| THE_W = 152 | THE_W_year = 2018 | THE_W_ref = <ref>{{Cite news|url=https://www.timeshighereducation.com/world-university-rankings/2018/world-ranking#!/page/0/length/-1/sort_by/rank/sort_order/asc/cols/stats|title=World University Rankings 2018|work=Times Higher Education (THE)|access-date=17 October 2019|language=en}}</ref>
+| USNWR_W = 179 | USNWR_W_year = 2018 | USNWR_W_ref = <ref>{{Cite news|url=https://www.usnews.com/education/best-global-universities/rankings|title=Best Global Universities Rankings (2018)|work=U.S. News Education|access-date=20 December 2018|language=en}}</ref>
+|RUR_W=50|RUR_W_year=2019|RUR_W_ref=<ref>{{cite web|url=https://roundranking.com/ranking/world-university-rankings.html#world-2019|title=Round University Ranking of World Universities 2019|access-date=17 October 2019|publisher=RUR Rankings Agency}}</ref>}}
+
+[[Image:University-of-lausanne-internef.jpg|thumb|The main building of the Faculty of Law and Criminal Justice and of the [[HEC Lausanne|Faculty of Business and Economics]]]]
+
+The [[Leiden Ranking]] of the [[University of Leiden]], when ranking universities by the proportion of publications (all sciences) of a university belonging to the top 10% of their field among universities worldwide, ranked the University of Lausanne as follows:
+
+{| class="wikitable sortable"
+|-
+! Year !! In Switzerland !! In Europe !! In the World
+|-
+!2015-2018
+|5
+|35
+|98
+|-
+!2014-2017
+|6
+|38
+|108
+|-
+!2013-2016
+|6
+|28
+|90
+|-
+!2012-2015
+|6
+|34
+|99
+|-
+!2011-2014
+|4
+|22
+|73
+|-
+!2010-2013
+|4
+|15
+|57
+|-
+!2009-2012
+|7
+|31
+|88
+|-
+!2008-2011
+|5
+|21
+|67
+|-
+! 2007-2010
+| 4 || 16 || 67
+|-
+! 2006-2009
+| 3 || 14 || 67
+|}
+
+The [[Academic Ranking of World Universities]] [ARWU] ranked the University of Lausanne in 2016 as 101-150th in life science and medicine and 151-200th in social science.<ref>{{Cite web|title=Academic Ranking of World Universities in Life and Agriculture Sciences - 2016 &#124; 2016 Top 100 Universities in Natural Sciences and Mathematics &#124; ARWU-FIELD 2016|url=http://www.shanghairanking.com/FieldLIFE2016.html|website=www.shanghairanking.com|access-date=19 April 2021}}</ref> The overall ranking is as follows:
+
+{| class="wikitable sortable"
+|-
+! Year !! In Switzerland !! In Europe !! In the World
+|-
+!2020
+|
+|
+|101 - 150
+|-
+!2019
+|
+|
+|151 - 200
+|-
+!2018
+|
+|
+|101 - 150
+|-
+!2017
+|
+|
+|151 - 200
+|}
+
+The [[University of Texas at Dallas]] Top 100 Business School Research Rankings ranked the [[HEC Lausanne|Faculty of Business & Economics of the University of Lausanne]] ([[HEC Lausanne]]) as follows:
+
+{| class="wikitable sortable"
+|-
+! Period !! In Switzerland !! In Europe !! In the World
+|-
+! 2004-2008
+| 1st || 9th || 112th
+|-
+! 2003-2007
+| 1st || 8th || 103rd
+|-
+! 2002-2006
+| 1st || 8th || 123rd
+|-
+! 2001-2005
+| 1st || 14th || 149th
+|-
+! 2000-2004
+| 1st || 20th || 186th
+|}
+
+According to the [[Times Higher Education World University Rankings]], the University ranked 62nd in life sciences worldwide (4th in Switzerland) in 2017.<ref>{{Cite web|url=https://www.timeshighereducation.com/world-university-rankings/2017/subject-ranking/life-sciences|title=World University Rankings 2016-2017 by subject: life sciences|date=20 September 2016|website=Times Higher Education (THE)|access-date=19 April 2021}}</ref> The overall rankings<ref name="timeshighereducation.co.uk"/> are as follows:
+
+{| class="wikitable sortable"
+|-
+! Year !! In Switzerland !! In Europe !! In the World
+|-
+! 2016-2017
+| 7th || ? || 151nd
+|-
+! 2013-2014
+| 6th || 54th || 132nd
+|-
+! 2012-2013
+| 4th || 51st || 130th
+|-
+! 2011-2012
+| 6th || 41st || 116th
+|-
+! 2010-2011
+| 6th || 44th || 136th
+|}
+
+The [[QS World University Rankings]]<ref>{{Cite web|url=http://www.topuniversities.com/university-rankings/world-university-rankings/2010/results|title=QS World University Rankings 2010 Results|access-date=19 April 2021}}</ref> ranked the University of Lausanne 96th in life science and medicine<ref>{{Cite web|url=https://www.topuniversities.com/university-rankings/faculty-rankings/life-sciences-and-medicine/2015|title=QS World University Rankings by Faculty 2015/16 - Life Sciences and Medicine|website=Top Universities|access-date=19 April 2021}}</ref> with the overall rankings as follows:
+
+{| class="wikitable sortable"
+|-
+! Year !! In Switzerland !! In Europe !! In the World
+|-
+! 2016
+| - || - || 138th
+|-
+! 2015
+| - || - || 143th
+|-
+! 2014
+| - || - || 105th
+|-
+! 2013
+| 6th || - || 111th
+|-
+! 2012
+| 6th || - || 115th
+|}
+
+The [[THE-QS World University Rankings]] (in 2010 [[Times Higher Education World University Rankings]] and [[QS World University Rankings]] parted ways to produce separate rankings) ranked the University of Lausanne as follows:
+
+{| class="wikitable sortable"
+|-
+! Year !! In Switzerland !! In Europe !! In the World
+|-
+! 2009
+| 6th || - || 168th
+|-
+! 2008
+| 6th || 64th || 161st
+|-
+! 2007
+| 7th || 93rd || 217th
+|-
+! 2006
+| 5th ||  - || 89th
+|-
+! 2005
+| 6th ||  - || 133rd
+|}
+
+The [[Leiden Ranking]] of the [[University of Leiden]], when ranking universities by the size-independent, field-normalized average impact of their research publications (CPP/FCSm) among the 250 largest universities worldwide, ranked the University of Lausanne as follows:
+
+{| class="wikitable sortable"
+|-
+! Year !! In Switzerland !! In Europe !! In the World
+|-
+! 2010
+| 3rd || 5th || 45th
+|-
+! 2008
+| 3rd || 6th || 73rd
+|}
+
+The [[Leiden Ranking]] of the [[University of Leiden]], when ranking universities by citations-per-publication (CPP) among the 250 largest universities worldwide, ranked the University of Lausanne as follows:
+
+{| class="wikitable sortable"
+|-
+! Year !! In Switzerland !! In Europe !! In the World
+|-
+! 2010
+| 1st || 1st || 22nd
+|-
+! 2008
+| 1st || 1st || 31st
+|}
+
+[[4 International Colleges & Universities]] [4icu.org] ranked the popularity of the website of the University of Lausanne as follows:
+
+{| class="wikitable sortable"
+|-
+! Year !! In Switzerland !! In Europe !! In the World
+|-
+! 2009
+| 5th || 15th || 45th
+|}
+
+==Press==
+
+The UNIL publish free monthly campus magazine entitled ''L'Uniscope''<ref>{{Cite web|url=https://www.unil.ch/unicom/fr/home/menuinst/publications/uniscope/archives-de-luniscope.html|title=Archives de l'uniscope|website=www.unil.ch|access-date=19 April 2021}}</ref> The UNIL also publish ''Allez savoir !''<!-- Keep the mention of the magazine, some internal links leads here. -->,<ref>[http://www3.unil.ch/wpmu/allezsavoir/liste/ ''Allez savoir !'']</ref> a free magazine aimed at a larger audience (general public), in January, May, and September.
+
+Besides these, ''L'auditoire'' is the students' newspapers from both UNIL and EPFL, with a circulation of 19,000 free copies.
+
+== Alumni ==
+
+=== ALUMNIL network ===
+
+In 2011, an on-line network of the UNIL alumni, called ALUMNIL, was created.<ref>[http://www.unil.ch/alumnil ALUMNIL], www.unil.ch (page visited on 1 November 2013).</ref> Since then, regular events (throughout the year) and an annual party (in autumn) are organised every year for the alumni.
+
+=== Royalty ===
+* [[Ananda Mahidol|King Ananda Mahidol (Rama VIII) of Thailand]] (1925-1946)
+* [[Bhumibol Adulyadej|King Bhumibol Adulyadej (Rama IX) of Thailand]] (1927-2016)
+* [[Galyani Vadhana|Princess Galyani Vadhana of Thailand]]
+* [[Prince Bernhard of the Netherlands]]
+* [[Viera Gedroitz|Princess Vera Ignatievna Giedroyc]], Lithuanian princess and Russian-Ukrainian surgeon
+
+=== Politics ===
+* [[Ignazio Cassis]], member of the [[Swiss Federal Council]]
+* [[İsmail Cem]], Minister of Foreign Affairs of Turkey
+* [[Paul Ceresole]], President of the Swiss Confederation
+* [[Georges-André Chevallaz]], President of the Swiss Confederation
+* [[Pascal Couchepin]], President of the Swiss Confederation
+* [[Ernest Chuard]], President of the Swiss Confederation
+* [[Jean-Pascal Delamuraz]], President of the Swiss Confederation
+* Vedat Dicleli, Minister of Economy & Trade of [[Turkey]]
+* [[Daniel-Henri Druey]], [[President of the Swiss Confederation]]
+*[[Florika Fink-Hooijer]], prominent European civil servant 
+* [[Constant Fornerod]], President of the Swiss Confederation
+* [[Şemsettin Günaltay]], Prime Minister of Turkey
+* [[Max Huber (statesman)|Max Huber]], Swiss international lawyer and diplomat, President of the [[International Committee of the Red Cross]]* [[Antoine Louis John Ruchonnet]], President of the Swiss Confederation
+* [[Fazıl Küçük]], first Vice President of the [[Republic of Cyprus]]
+* [[Pascoal Mocumbi]], Prime Minister of [[Mozambique]]
+* [[Benito Mussolini]], Prime Minister of [[Italy]], [[Duce|Duce of Fascism]]
+* [[Marcel Pilet-Golaz]], President of the Swiss Confederation
+* [[Eugène Ruffy]], President of the Swiss Confederation
+* [[Marc-Emile Ruchet]], President of the Swiss Confederation
+* [[Mohammad Sa'ed]], Prime Minister of [[Iran]]
+* [[Jonas Savimbi]], leader of [[UNITA]], an anti-Communist rebel group in [[Angola]]
+* [[Lutz Graf Schwerin von Krosigk]], [[Cabinet Schwerin von Krosigk|Leading Minister of the German Reich]]
+
+=== Business ===
+* [[Jean-Claude Biver]], CEO of [[Hublot]]
+* [[Louis C. Camilleri]], CEO of [[Philip Morris International]]
+* [[Jean Claude Gandur]], CEO of [[Addax Petroleum]]<ref name=Fg>{{cite web|title=Jean Claude Gandur|url=http://fg-art.org/en/jeanclaudegandur.html|website=Fg-art.org|access-date=6 November 2014}}</ref>
+
+=== Literature ===
+* [[Philippe Jaccottet]], Swiss poet
+* [[Mohammad-Ali Jamalzadeh]], prominent [[Iran]]ian writer
+* [[Edmond Pidoux]], Swiss poet and novelist
+* [[Charles Ferdinand Ramuz]], Swiss writer
+
+=== Scholars ===
+* [[Jacques Dubochet]] (1942-), biophysicist and co-laureate of the [[Nobel Prize in Chemistry]] 2017.
+* [[Pierre Gilliard]] (1879-1962), French professor, [[Legion of Honour]] recipient 
+* [[Leo Aryeh Mayer]] (1895-1959), rector of the [[Hebrew University of Jerusalem]].
+* [[Vilfredo Pareto]] (1848–1923) Economist, engineer, sociologist, philosopher, Professor of Economics at University of Lausanne, co-founder of the [[Lausanne School]] of economics, together with Léon Walras
+* [[Jean Piccard]] (1884-1963), Swiss-born American chemist, engineer, professor and high-altitude balloonist.
+* [[Martine Rebetez]] (1961-), Swiss climatologist
+* [[Georges de Rham]] (1903-1990), Swiss mathematician, known for his contributions to [[differential topology]].
+* [[Pedro Rosselló (Educator)|Pedro Rossello]] (1897-1970), Catalonian educator and Deputy Director of the [[International Bureau of Education]].
+* [[Jean de Serres]] (1540-1598), French humanist, Plato translator, Calvinist.
+* [[Léon Walras]] (1834–1910) Economist, Professor of Economics at University of Lausanne, co-founder of the [[Lausanne School]] of economics, together with: Vilfredo Pareto
+* [[Luc E. Weber]] (1941-), Rector Emeritus of the [[University of Geneva]]
+* [[Alexandre Yersin]] (1863-1943), Swiss-French physician, co-discoverer of the bacillus responsible for the [[bubonic plague]].
+* [[Zaharina Dimitrova]] (1873-1940), Bulgarian doctor, [[Order of Civil Merit (Bulgaria)|Order of Civil Merit]] recipient, philanthropist.
+
+=== Others ===
+* [[Sepp Blatter]], President of [[FIFA]]
+*[[Abraham Davel]], independence hero of the Canton of Vaud
+* [[Akbar Etemad]], president of the [[Atomic Energy Organisation of Iran]]
+* [[Christophe Keckeis]], Head of the Swiss Army
+* [[Claude Nicollier]], Swiss astronaut
+* [[Bertrand Piccard]], Swiss psychiatrist and balloonist
+* [[Nikolaus Senn]] (1926–2014), co-director of ''[[Schweizerische Bankgesellschaft]]''
+
+== School of Lausanne ==
+Neoclassical school of thought in [[economics]] founded at the University of Lausanne by two of its professors: [[Léon Walras]] and [[Vilfredo Pareto]]. The [[School of Lausanne]] is associated with the development of [[general equilibrium theory]] as well as the [[marginalist]] revolution.
+
+== See also ==
+* [[Charles Guillaume Loys de Bochat]]
+* [[List of largest universities by enrollment in Switzerland]]
+* [[List of modern universities in Europe (1801–1945)]]
+* [[List of universities in Switzerland]]
+* [[Cantonal and University Library of Lausanne]]
+* [[International Academy of Sport Science and Technology]] (AISTS)
+* [[Jean Monnet Foundation for Europe]]
+* [[Swiss School of Archaeology in Greece]]
+* [[University Hospital of Lausanne]] (CHUV)
+
+== Notes and references ==
+{{reflist}}
+
+=== Bibliography ===
+* {{in lang|fr}} Jean-Philippe Leresche, Frédéric Joye-Cagnard, Martin Benninghoff and Raphaël Ramuz, ''Gouverner les universités. L'exemple de la coordination Genève-Lausanne (1990-2010)'', [[Presses polytechniques et universitaires romandes]], 2012 ({{ISBN|9782880749316}}).
+* {{in lang|fr}} Nadja Maillard, ''L'Université de Lausanne à Dorigny'', Éditions Infolio, 488 pages, 2013 ({{ISBN|978-2-88474-280-1}}).
+
+== External links ==
+{{Commons category}}
+* {{in lang|en}} {{Official website|http://www.unil.ch/central/en/home.html}}
+* {{in lang|fr}} [http://www.bcu-lausanne.ch Cantonal and University Library of Lausanne]
+
+{{Universities in Switzerland}}
+{{UNICA}}
+{{Portal bar|Switzerland}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lausanne, University of}}
+[[Category:University of Lausanne| ]]
+[[Category:Educational institutions established in the 1530s]]
+[[Category:Education in Lausanne]]
+[[Category:Universities in Switzerland]]
+[[Category:1537 establishments in Europe]]
+[[Category:16th-century establishments in Switzerland]]

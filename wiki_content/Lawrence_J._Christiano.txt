@@ -1,0 +1,51 @@
+{{short description|American economist and researcher|bot=PearBOT 5}}
+{{BLP sources|date=May 2014}}
+{{Infobox economist
+|name             = Lawrence J. Christiano
+|image            =
+|caption          =
+|birth_date       = {{Birth date and age|1952|1|22}}
+|birth_place      =
+|death_date       =
+|death_place      =
+|nationality      = [[United States|American]]
+|institutions     = [[Carnegie Mellon University]]<br>[[University of Chicago]]<br>[[Northwestern University]]
+|field            = [[Macroeconomics]]
+|alma_mater       = [[Columbia University]]<br>[[London School of Economics]]<br>[[University of Minnesota]]
+|doctoral_advisor = [[Thomas J. Sargent]]<br>[[John B. Taylor]]
+|repec_prefix = e | repec_id = pch45
+}}
+
+'''Lawrence Joseph Christiano''' (born January 22, 1952) is an American [[economist]] and researcher. He is the Alfred W. Chase Chair in Business Institutions,<ref>{{cite news|author=Pat Vaughan Tremmel|title=Christiano named Alfred W. Chase Professor in Business Institutions|url=https://www.northwestern.edu/newscenter/stories/2006/02/christiano.html|publisher=Northwestern University|date=February 18, 2006|accessdate=October 5, 2019}}</ref> former chairman of the Department of Economics and professor of economics at [[Northwestern University]]. He has also taught at [[Carnegie Mellon University]] and the [[University of Chicago]].
+
+==Education==
+Christiano received his B.A. in history and economics and M.A. in economics at the [[University of Minnesota]]. He went on to earn his M.Sc. in econometrics and mathematical economics at the [[London School of Economics]] and his Ph.D. at [[Columbia University]].<ref name=fedmn>{{cite web|url=https://www.minneapolisfed.org/authors/lawrence-j-christiano|title=Lawrence J. Christiano|publisher=Federal Reserve Bank of Minneapolis|accessdate=October 5, 2019}}</ref> He wrote his PhD thesis at the [[University of Minnesota]] where he met his future long term coauthor [[Martin Eichenbaum]].
+
+Christiano's research has focused on macroeconomic theory, policy, and [[econometrics]]. Specifically, he has been concerned with how the government's monetary and fiscal instruments ought to respond to shocks over the business cycle. This research has two parts; one involves formulating and estimating an empirically plausible model of the macroeconomy, and the second involves developing economic concepts and computational methods for determining optimal policy in an equilibrium model. He has received numerous grants from the [[National Science Foundation]] and is an Associate Editor of the ''[[Journal of Money, Credit and Banking]]''.
+
+Christiano's work has been published in numerous journals, including the ''[[Journal of Economic Theory]]'', the ''[[American Economic Review]]'', and the ''[[Review of Economics and Statistics]]''. In addition to his work for the [[Federal Reserve Bank of Minneapolis]], he has served as a research consultant for the Fed's Board of Governors and the Federal Reserve Banks of Cleveland, Chicago, and Atlanta. He has served as a visiting scholar at the [[International Monetary Fund]] and [[European Central Bank]].<ref name=fedmn/>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{GoogleScholar|rlpAtE0AAAAJ}}
+*[http://faculty.wcas.northwestern.edu/~lchrist/vita08.pdf CV]
+*[https://www.nber.org/econometrics_minicourse_2011/ Lecture at NBER 7-21-2011]
+*[https://fraser.stlouisfed.org/author/3366#533522 A collection of Lawrence J. Christiano's works]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Christiano, Lawrence J.}}
+[[Category:1952 births]]
+[[Category:Living people]]
+[[Category:Macroeconomists]]
+[[Category:Econometricians]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:Columbia University alumni]]
+[[Category:University of Minnesota College of Liberal Arts alumni]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:University of Chicago Booth School of Business faculty]]
+[[Category:Northwestern University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:21st-century American economists]]

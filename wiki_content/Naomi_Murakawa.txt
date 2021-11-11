@@ -1,0 +1,72 @@
+{{short description|American political scientist}}
+__NOTOC__
+{{Infobox academic
+|name               = Naomi Murakawa
+|image              = 
+|image_size         =
+|alt                = 
+|caption            =
+|birth_name         = <!-- Use only if different from full/othernames -->
+|birth_date         = <!-- {{birth date and age|YYYY|MM|DD}}  -->
+|birth_place        = 
+|death_date         = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) --> 
+|death_place        = 
+|death_cause        = 
+|occupation         = 
+|title              = Associate professor
+|boards             = <!-- Board or similar positions extraneous to main occupation   -->
+|known_for          =
+|signature          = 
+|signature_alt      = 
+|signature_size     = 
+|discipline         = [[Political science]]
+|sub_discipline     = [[African-American studies]]
+|movement           = <!-- Should match the ideological movement or denomination (for religious), "school" of thought etc. (e.g. "Anglican", "Postmodernist", "Socialist" or "Green" etc. -->
+|education          = [[Columbia University]] (BA) <br/> [[London School of Economics]] (MSc) <br/> [[Yale University]] (PhD) 
+|thesis_title       = Electing to Punish: Congress, Race, and the American Criminal Justice State
+|thesis_url         = https://books.google.com/books/about/Electing_to_Punish.html?id=x-ZtHwAACAAJ
+|thesis_year        = 2005
+|doctoral_advisor   = 
+|doctoral_students  = 
+|notable_students   = <!--Only those with WP articles-->
+|main_interests     = 
+|workplaces         = [[Princeton University]]
+|notable_works      = ''[[The First Civil Right]]''
+|notable_ideas      = 
+|influences         = <!--Must be referenced from a third party source-->
+|influenced         = <!--Must be referenced from a third party source-->
+|awards             = <!--Notable national level awards only-->
+|website            =
+|footnotes          =
+}}
+'''Naomi Murakawa''' is an American [[political scientist]] and associate professor of [[African-American studies]] at [[Princeton University]]. Along with [[Kent Eaton]], she is also the co-chair of the 2017 [[American Political Science Association]] (APSA) Section 24 meeting.<ref>{{Cite web |url=http://www.apsanet.org/section24 |title=Politics and History (Section 24) |website=[[American Political Science Association]]}}</ref> Murakawa received her B.A. in women’s studies from [[Columbia University]], her M.Sc. in social policy from the [[London School of Economics]], and her Ph.D. in political science from [[Yale University]].<ref>{{Cite web |url=http://aas.princeton.edu/author/murakawa/ |title=Naomi Murakawa |website=Department of African American Studies |publisher=[[Princeton University]]}}</ref> She is known for her 2014 book, ''[[The First Civil Right]]'', which contends that American liberals are just as responsible for [[mass incarceration]] in the United States as conservatives are.<ref>{{Cite web |url=https://www.themarshallproject.org/2015/01/15/blame-liberals#.UpAGZVnJd |title=‘Blame Liberals’ |last=Goldstein |first=Dana |website=[[The Marshall Project]] |publication-date=2015-01-15}}</ref><ref>{{Cite web |url=https://www.thenation.com/article/how-white-liberals-used-civil-rights-create-more-prisons/ |title=How White Liberals Used Civil Rights to Create More Prisons |last=Osterweil |first=Willie |website=[[The Nation]] |publication-date=2015-01-06}}</ref><ref>{{Cite web|title=Did Liberals Put Black America Behind Bars?|url=https://www.newsweek.com/did-liberals-put-black-america-behind-bars-297096|date=2015-01-06|website=Newsweek|language=en|access-date=2020-05-01}}</ref> In 2015, Murakawa won the [[Michael Harrington]] Book Award from APSA for this book.<ref>{{Cite web |url=http://www.apsanet.org/section-27-Michael-Harrington-Book-Award |title=Michael Harrington Book Award Winners |website=American Political Science Association}}</ref>
+
+== Selected publications ==
+* {{cite book |last = Murakawa |first = Naomi |title = The First Civil Right: How Liberals Built Prison America |publisher = Oxford University Press |date = 2016 |location = New York |isbn = 978-0199892785 }}
+* {{cite journal |last = Beckett |first = Katherine |author2 = N. Murakawa |title = Mapping the shadow carceral state: Toward an institutionally capacious approach to punishment |journal = Theoretical Criminology |volume = 16 |issue = 2 |pages = 221–44 |date = 2012 |doi = 10.1177/1362480612442113 }}
+* {{cite journal |last = Murakawa |first = Naomi |author2 = K. Beckett |title = The Penology of Racial Innocence: The Erasure of Racism in the Study and Practice of Punishment |journal = Law & Society Review |volume = 44 |issue = 3-4 |pages = 695–730 |date = 2010 |doi = 10.1111/j.1540-5893.2010.00420.x }}
+
+== See also ==
+* [[Keeanga-Yamahtta Taylor]]
+
+== References ==
+{{reflist|2}}
+
+==External links==
+* [http://aas.princeton.edu/author/murakawa/ Murakawa's faculty page]
+* [http://www.leftbusinessobserver.com/Radio.html#S150101 ''Behind the News'' interview] with [[Doug Henwood]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Murakawa, Naomi}}
+[[Category:Princeton University faculty]]
+[[Category:African-American studies scholars]]
+[[Category:Yale University alumni]]
+[[Category:American women political scientists]]
+[[Category:American political scientists]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:American women academics]]
+
+
+{{Academic-bio-stub}}

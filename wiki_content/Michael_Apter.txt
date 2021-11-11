@@ -1,0 +1,42 @@
+{{short description|British Psychologist}}
+{{BLP primary sources|date=January 2021}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox scientist
+| image             = Michael J. Apter.jpg
+| caption           = Apter in 2017
+| birth_name        = Michael John Apter
+| birth_date        = {{birth year and age|1939}}
+| birth_place       = [[Stockton-on-Tees]], [[England]]
+| death_date        = 
+| death_place       = 
+| doctoral_advisor  = 
+| field             = [[Psychology]], [[Artificial Intelligence]]
+| work_institution  = {{unbulleted list | [[Cardiff University]], [[Purdue University]], [[University Chicago]], [[Yale University]], [[University of Toulouse]], [[Georgetown University]], [[Northwestern University]]}}
+| alma_mater        = {{ublist |[[Clifton College]] | |[[Bristol University]]}}
+| known_for         = Research in [[motivation]], [[personality]], [[reversal theory]]
+}}
+
+'''Michael J. Apter''' (born 1939) is a British [[psychologist]] who was born in England and grew up in Bristol.<ref>{{cite book|last1=Chapman|first1=A.J.|url=https://books.google.com/books?id=KzA6s7KZo-MC|title=Biographical Dictionary of Psychology|last2=Conroy|first2=W.|last3=Sheehy|first3=N.|date=2002|publisher=Routledge|isbn=9780415285612|location=|pages=18|access-date=2020-12-30}}</ref> He was educated at [[Clifton College]] (1965) and at [[Bristol University]] where he gained both his Bachelor of Science degree and his Doctorate in Psychology in 1965,<ref>{{cite web |last1=Apter |first1=Michael |title=Curriculum Vitae |url=http://michaelapter.net/wp-content/uploads/2016/04/Curriculum-Vitae-2016.pdf}}</ref> having also spent a doctoral year at [[Princeton University]]. He taught for twenty years at [[Cardiff University]] in [[Wales]] and has since held invited positions at [[Purdue University]], the [[University of Chicago]], [[Yale University]], [[University of Toulouse]],<ref>{{cite web |title=Michael J. Apter |url=https://oneworld-publications.com/michael-j-apter.html |website=Oneworld Publications |access-date=December 18, 2020}}</ref> and [[Georgetown University]].<ref>{{cite web|last=|first=|date=|title=Human Resources|url=https://hr.georgetown.edu/apter/|url-status=live|archive-url=|archive-date=|access-date=2020-11-15|website=Georgetown University}}</ref> He also taught at [[Northwestern University]] where he received a teaching award.<ref>{{cite web|last=|first=|date=|title=About|url=http://michaelapter.net/about-mjapter/|url-status=live|archive-url=|archive-date=|access-date=2020-12-03|website=Michael Apter}}</ref> He has held visiting positions at several additional universities and is a chartered psychologist and fellow of the [[British Psychological Society]].<ref>{{cite web|last1=Perks|first1=Julie|date=|title=Oral History Project|url=https://archives.bps.org.uk/Record.aspx?src=CalmView.Catalog&id=AUD%2F002%2FOHP+58|url-status=live|archive-url=|archive-date=|access-date=2021-01-06|website=History of Psychology Centre|publisher=The British Psychological Society}}</ref>
+
+== Selected works ==
+
+* Apter M.J. (1966) Cybernetics and Development. Oxford: Pergamon Press. {{ISBN|978-0-08-011431-6}}   
+* Apter, Michael J. (1970/2018) The Computer Simulation of Behaviour. London. Routledge. {{ISBN|978-1138496743}}
+* Apter, Michael J. (1982) The Experience of Motivation: The Theory of Psychological Reversals, London Academic Press. {{ISBN|0-12058920-6}}
+* Apter, Michael J. (1992) The Dangerous Edge: The Psychology of Excitement. New York. The Free Press. {{ISBN|0-02900765-8}}                                                                                                                                                                                                                                                        
+* Apter Michael J. (2001) (Ed) Motivational Styles in Everyday Life. A Guide to Reversal Theory. Washington D.C.: American Psychology Association. {{ISBN|1-55798-739-4}}
+* Apter M. (2007) Reversal Theory: The Dynamics of Motivation, Emotion and Personality 2nd, Edition. Oxford: Oneworld. {{ISBN|978-1851684809}}
+* Apter, Michael J. (2018) Zigzag: Reversal and Paradox in Human Personality. Leicestershire U.K.: Matador.  {{ISBN|978-1788038867}}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Apter, Michael}}
+
+[[Category:Motivation]]
+[[Category:Psychology]]
+[[Category:Personality]]
+[[Category:Artificial intelligence]]
+[[Category:British psychologists]]
+[[Category:Living people]]
+[[Category:1939 births]]

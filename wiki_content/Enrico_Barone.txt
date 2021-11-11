@@ -1,0 +1,34 @@
+{{Socialism sidebar |People}}
+[[File:Enrico Barone.JPG|thumb| Enrico Barone]]
+'''Enrico Barone''' ({{IPA-it|baˈroːne|lang}}; 22 December 1859, [[Naples]], [[Kingdom of the Two Sicilies]] – 14 May 1924, [[Rome]], Italy) was a [[soldier]], [[military historian]], and an [[economist]].
+
+==Biography==
+Barone studied the [[classics]] and [[mathematics]] before becoming an army officer. He taught military history for eight years from 1894 at the Officers' Training School.{{where?|date=March 2016}} There he wrote a series of influential historical military works. In these he employed a method of successive approximations to which his study in economics had introduced him. In 1902, he became head of the historical office of the General Staff. He resigned his commission in 1906.
+
+From 1894 he collaborated with [[Maffeo Pantaleoni]] and [[Vilfredo Pareto]] in the ''Giornale degli Economisti''.<ref name="Caffé">F. Caffé, [[The New Palgrave: A Dictionary of Economics|[1987]]] 2008. "Barone, Enrico," ''[[The New Palgrave Dictionary of Economics]]'', 2nd Edition. Related [http://www.dictionaryofeconomics.com/article?id=pde2008_B000076&edition=current&q= links].</ref><ref>Michael McLure, 2006. [http://www.uwa.edu.au/__data/assets/pdf_file/0011/99308/06_13_McLure.pdf "The 'Pareto School' and the ''Giornale Degli Economisiti'',"] HETSA Conference, History of Economic Thought Society of Australia, 4–7 July.</ref>
+
+==Impact==
+He was the first to state conditions under which a [[perfect competition|competitive market]] would be [[Pareto efficient]].<ref>[[William D. Nordhaus]], 1992. "The Ecology of Markets," ''Proceedings of the National Academy of Sciences of the United States of America, 89(3), Feb. 1, p.&nbsp;845. [Pp. [http://nordhaus.econ.yale.edu/ecologyofmarkets.pdf 843–850.] {{webarchive|url=https://web.archive.org/web/20070720184057/http://nordhaus.econ.yale.edu/ecologyofmarkets.pdf |date=2007-07-20 }}</ref> He introduced variable factor proportions into [[neoclassical economics]], contributing to the marginal-productivity theory of [[Factor income|factor-income]] [[distribution (economics)#Neoclassical distribution theory|distribution]]. He extended conditions of [[general equilibrium]] in [[Léon Walras|Walrasian theory]], suggesting the feasibility of [[trial and error|trial-and-error]] movement to [[market equilibrium]]. He pioneered the economic theory of [[Index (economics)|index numbers]]. His contributions were made without use of [[utility]] or even [[indifference curve]]s.<ref name="Samuelson">[[Paul A. Samuelson]], 1947, Enlarged ed. 1983, ''[[Foundations of Economic Analysis]]'', pp. 213–18.</ref>
+
+[[File:Barone - Principi di economia finanziaria, 1937 - 5779302.tif |thumb|''Principi di economia finanziaria'', 1937|left]]
+Barone has been described as a "founder of the pure theory of a socialist economy."<ref name="Caffé"/> In 1908, he presented a mathematical model for a socialist economy under which certain relations, later identified with [[shadow price]]s, must be satisfied for "maximum collective welfare."<ref>• Enrico Barone, 1908."Il Ministro della Produzione nello Stato Collettivista", ''Giornale degli Economisti'', Sept./Oct., 2, pp.&nbsp;267–93, 392–414, trans. as "The Ministry of Production in the Collectivist State," in [[F. A. Hayek]], ed. (1935), ''Collectivist Economic Planning'', pp. [https://books.google.com/books?id=-Ww8ffPh-fsC&pg=PA245&lpg=PA245&dq=&source=bl&ots=Od1b1RYrW9&sig=r_zWISO4fp4IDiIYiNkJAgK8dr0&hl=en&ei=hyT8S4eRE8T6lweMwczcDw&sa=X&oi=book_result&ct=result&resnum=3&ved=0CB0Q6 245–90], reprinted in R. Marchionatti, ed. (2004), ''Early Mathematical Economics, 1871–1915: The Establishment of the Mathematical Method in Economics'', v. IV, Taylor & Francis, pp. [https://books.google.com/books?id=3CuOVXK71JQC&pg=PA227&lpg=PA227&dq=%22The+Ministry+of+Production+in+the+Collectivist+State,%22&source=bl&ots=ssYtl5_M7f&sig=O7pVFNgDQ08RsEPn0WtpsuAP9WU&hl=en&ei=p71ETLSEN8TflgeJ-LyADg&sa=X&oi=book_result&ct=result&resnum=5&ved=0CCcQ6AEwBA#v=onepage&q=%22The%20Ministry%20of%20Production%20in%20the%20Collectivist%20State%2C%22&f=false 227–63] (bigger preview).
+<br/>&nbsp;&nbsp; • [http://www.panarchy.org/barone/stato.collettivista.1908.html Enrico Barone, Il ministro della produzione nello stato collettivista (1908)] Passages from the Italian original text.</ref> The latter corresponds to least-cost-price of production from Pareto efficiency reached in competitive equilibrium. He stressed that such a result could not be arrived at ''a priori'' but only by experimentation on a large scale with great demands on data collection, even assuming unchanging productive conditions. In this, he suggested that movement toward economic efficiency in a socialist economy was not inconceivable, outlining two types of socialism: a centralized and decentralized model. For such regimes, whatever the [[distribution (economics)|distribution]] rule for output and income adopted by the Ministry of Production, the same economic categories would reappear for prices, salaries, interest, rent, profits, saving, etc., though perhaps with different names. His analysis and the [[Austrian School]] economists' responses, fueled discussion of the [[economic calculation problem]] and [[market socialism]] in the 1930s.<ref name="Caffé"/> His method also anticipated [[Abram Bergson]]'s seminal formulation of a [[Social welfare function#Bergson–Samuelson social welfare function|social welfare function]] three decades later.<ref name="Samuelson"/>
+
+== Notes ==
+<!-- See the user page User:Dmoss/Wikicite for an excellent citation tool! -->
+{{reflist|1}}
+
+== References ==
+* Richard E. Ericson, "Enrico Barone,", ''Gale Encyclopedia of Russian History''
+* [http://www.hetwebsite.net/het/profiles/barone.htm Enrico Barone, 1859–1924], at [http://www.hetwebsite.net/het/ The History of Economic Thought Website.]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Barone, Enrico}}
+[[Category:1859 births]]
+[[Category:1924 deaths]]
+[[Category:Italian economists]]
+[[Category:19th-century economists]]
+[[Category:20th-century economists]]
+[[Category:Welfare economists]]
+[[Category:General equilibrium theorists]]

@@ -1,0 +1,96 @@
+{{Infobox academic
+| honorific_prefix   =
+| name               = Stewart Myers
+| honorific_suffix   =
+| native_name        = 
+| native_name_lang   = 
+| image              = 
+| image_size         = 
+| alt                = 
+| caption            = 
+| birth_name         = <!-- Use only if different from full/othernames -->
+| birth_date         = {{birth date and age|1940|8|1}}
+| birth_place        = 
+| death_date         = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) --> 
+| death_place        = 
+| death_cause        = 
+| region             =
+| nationality        = American
+| period             = 
+| occupation         = 
+| title              = 
+| boards             = <!-- Board or similar positions extraneous to main occupation   -->
+| known_for          =
+| spouse             = 
+| children           = 
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| era                = 
+| language           = 
+| discipline         = Economics
+| sub_discipline     = Financial Economics
+| religion           = <!-- Religion should be supported with a citation from a reliable source -->
+| denomination       = <!-- Religious denomination should be supported with a citation from a reliable source -->
+| education          = 
+| alma_mater         = Williams College<br/> Stanford University 
+| thesis_title       = 
+| thesis_url         = 
+| thesis_year        = 
+| school_tradition   = 
+| doctoral_advisor   = 
+| doctoral_students  = 
+| notable_students   = <!--Only those with WP articles-->
+| main_interests     = 
+| workplaces         =  MIT Sloan School of Management
+| notable_works      = 
+| notable_ideas      = 
+| influences         = <!--Must be referenced from a third party source-->
+| influenced         = <!--Must be referenced from a third party source-->
+| awards             = <!--Notable national level awards only-->
+| website            =
+| footnotes          =
+}}
+'''Stewart Clay Myers''' (born August 1, 1940) is the [[Robert C. Merton]] (1970) Professor of [[Financial Economics]] at the [[MIT Sloan School of Management]].<ref>{{Cite web|url=http://mitsloan.mit.edu/faculty/detail.php?in_spseqno=95&co_list=F|title=MIT Sloan}}</ref> 
+He is notable for his work on capital structure and innovations in [[capital budgeting]] and valuation, and has had a "remarkable influence" on both the theory and practice of [[corporate finance]].<ref>[https://archive.today/20130105225741/http://www3.interscience.wiley.com/journal/121572753/abstract?CRETRY=1&SRETRY=0 Wiley Interscience]</ref>  Myers, in fact, [[Neologism|coined]] the term "[[real option]]". He is the co-author with [[Richard A. Brealey]] and [[Franklin Allen]] of ''[[Principles of Corporate Finance]]'', a widely used and cited [[business school]] textbook, now in its 11th edition. He is also the author of dozens of research articles.<ref>http://mitsloan.mit.edu/faculty/pdf/publist/myers-pub.pdf</ref>
+
+== Career ==
+He holds a [[Ph.D.]] and [[MBA]] from [[Stanford University]] and an [[A.B.]] from [[Williams College]].<ref>{{Cite web|url=http://investing.businessweek.com/businessweek/research/stocks/people/person.asp?personId=62697795&ticker=ETR:US&previousCapId=1046885&previousTitle=JI%20Ventures%2C%20Inc.|title = Stocks}}</ref> He began teaching at MIT Sloan School of Management in 1966.<ref>{{Cite web|url=http://mitsloan.mit.edu/newsroom/articles/why-stewart-myers-matters/|title=Why Stew Myers matters - MIT Sloan School of Management|website=mitsloan.mit.edu|access-date=2016-08-15}}</ref>
+
+His contributions are seen as falling into three main categories:<ref>[https://archive.today/20130105225741/http://www3.interscience.wiley.com/journal/121572753/abstract?CRETRY=1&SRETRY=0 Wiley Interscience]</ref>
+*Work on [[capital structure]], focusing on "debt overhang" and "[[pecking order theory]]".
+*Contributions to [[capital budgeting]] that complement his research on capital structure. He is notable for the [[adjusted present value]] (or APV) approach as well as for recognizing the "option-like" character of many corporate assets.
+*Work on estimating fair rates of return for [[Public utility|public utilities]].
+Recent projects include the valuation of investments in R&D, risk management, and the allocation of capital in diversified firms, and the theory of corporate governance.
+
+He is currently a principal of economic consulting firm [[The Brattle Group]].<ref>{{cite web |url=http://www.brattle.com/Experts/ExpertDetail.asp?ExpertID=65&page=1 |title=Archived copy |access-date=2010-10-29 |url-status=dead |archive-url=https://web.archive.org/web/20110708091719/http://www.brattle.com/Experts/ExpertDetail.asp?ExpertID=65&page=1 |archive-date=2011-07-08 }}</ref> He is a past president of the [[American Finance Association]],<ref>{{cite web |url=http://www.afajof.org/association/fellows.asp |title=Archived copy |access-date=2010-05-12 |url-status=dead |archive-url=https://web.archive.org/web/20100420084515/http://www.afajof.org/association/fellows.asp |archive-date=2010-04-20 }}</ref> a research associate of the [[National Bureau of Economic Research]],<ref>{{Cite web|url=http://www.nber.org/people/stewart_myers|title = Stewart C. Myers}}</ref> and a director of the Cambridge Endowment for Research in Finance.
+
+== Works ==
+*Stewart C. Myers (ed) ''Modern Developments in Financial Management'', Dryden Press, 1976, {{ISBN|9780275341008}}
+*Alexander A. Robichek, Stewart C. Myers, ''Optimal financing decisions'', Prentice-Hall, 1965
+*{{cite book|author1=Richard Brealey|author2=Stewart Myers|author3=Franklin Allen |author4=Pitabas Mohanty |title=Principles of Corporate Finance, 11e|url=https://books.google.com/books?id=plc1CgAAQBAJ|year=1988|publisher=MacGraw-Hill|isbn=978-93-392-0502-7}}
+*Richard A. Brealey, Stewart C. Myers, ''Capital Investment and Valuation'', McGraw Hill Professional, 2003, {{ISBN|9780071383776}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://sloancf.mit.edu/vpf/facstaff.cfm?ID=95 Stewart Myers - MIT Sloan Biography]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+* [http://investing.businessweek.com/businessweek/research/stocks/people/person.asp?personId=62697795&ticker=ETR:US&previousCapId=1046885&previousTitle=JI%20Ventures%2C%20Inc. Business Week Profile]
+* [http://mitsloan.mit.edu/faculty/pdf/publist/myers-pub.pdf Publication list]
+* [https://archive.today/20130105225741/http://www3.interscience.wiley.com/journal/121572753/abstract?CRETRY=1&SRETRY=0 The Contributions of Stewart Myers to the Theory and Practice of Corporate Finance], ''[[Journal of Applied Corporate Finance]]''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Myers, Stewart}}
+[[Category:Living people]]
+[[Category:1940 births]]
+[[Category:Financial economists]]
+[[Category:American finance and investment writers]]
+[[Category:American textbook writers]]
+[[Category:American male non-fiction writers]]
+[[Category:Williams College alumni]]
+[[Category:Corporate finance theorists]]
+[[Category:Real options]]
+[[Category:MIT Sloan School of Management faculty]]
+[[Category:Presidents of the American Finance Association]]

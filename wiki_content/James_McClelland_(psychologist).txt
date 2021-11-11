@@ -1,0 +1,93 @@
+{{BLP sources|date=February 2013}}
+{{Infobox scientist
+| name              = James Lloyd McClelland
+| image             = James McClelland (14039773375).jpg
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date and age|1948|12|01}}
+| birth_place       = [[Cambridge, Massachusetts]]
+| residence         = 
+| citizenship       = 
+| nationality       = [[United States]]
+| fields            = [[Psychology]]
+| workplaces        = 
+| alma_mater        = [[Columbia University]]<br />[[University of Pennsylvania]]
+| thesis_title      = 
+| thesis_url        = 
+| thesis_year       = 
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Grawemeyer Award]] in Psychology <small>(2002)</small><br>[[Rumelhart Prize]] {{small|(2010)}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{URL|https://stanford.edu/~jlmcc/}}
+| footnotes         = 
+| spouse            = 
+}}
+
+'''James Lloyd''' "'''Jay'''" '''McClelland''', [[Fellow of the British Academy|FBA]] (born December 1, 1948) is the Lucie Stern Professor at [[Stanford University]], where he was formerly the chair of the [[Psychology]] Department.<ref>{{cite web|title=James L. McClelland VITA|url=http://www-psych.stanford.edu/~jlm/McClelland_VITA.pdf|access-date=1 Oct 2014|url-status=dead|archive-url=https://web.archive.org/web/20141006090928/http://www-psych.stanford.edu/~jlm/McClelland_VITA.pdf|archive-date=2014-10-06}}</ref>  He is best known for his work on statistical learning and [[Parallel Distributed Processing]], applying [[connectionist]] models (or [[neural networks]]) to explain cognitive phenomena such as [[spoken word recognition]] and [[visual word recognition]]. McClelland is to a large extent responsible for the large increase in scientific interest in connectionism in the 1980s.
+
+== Early life and education ==
+McClelland was born on December 1, 1948 to Walter Moore and Frances (Shaffer) McClelland. He received a B.A. in Psychology from [[Columbia University]] in 1970, and a Ph.D. in Cognitive Psychology from the [[University of Pennsylvania]] in 1975. He married Heidi Marsha Feldman on May 6, 1978, and has two daughters.<ref name = Marquis>{{cite web | url =http://search.marquiswhoswho.com/profile/100016862073 | title = Profile details: James Lloyd McClelland | access-date = August 7, 2012}}</ref>
+
+== Career ==
+
+In 1986 McClelland published ''Parallel Distributed Processing: Explorations in the Microstructure of Cognition''<ref>{{cite book|author=David E. Rumelhart, James L. McClelland and PDP Research Group|title=Parallel Distributed Processing: Explorations in the Microstructure of Cognition|year=1987|url=https://archive.org/details/paralleldistribu00rume|isbn=9780262680530|url-access=registration}}</ref> with [[David Rumelhart]], which some still regard as a bible for [[cognitive science|cognitive scientists]]. His present work focuses on learning, memory processes, and [[psycholinguistics]], still within the framework of connectionist models.  He is a former chair of the [[Rumelhart Prize]] committee, having collaborated with Rumelhart for many years, and himself received the award in 2010 at the Cognitive Science Society Annual Conference in Portland, Oregon.
+
+McClelland and [[David Rumelhart]] are known for their debate with [[Steven Pinker]] and [[Alan Prince]] regarding the necessity of a language-specific learning module.
+
+In fall 2006 McClelland moved to [[Stanford University]] from [[Carnegie Mellon University]], where he was a professor of psychology and [[Cognitive neuroscience|Cognitive Neuroscience]]. He also holds a part-time appointment as Consulting Professor at the Neuroscience and Aphasia Research Unit (NARU) within the School of Psychological Sciences, [[University of Manchester]].
+
+== Awards ==
+*[[Mind & Brain Prize]]<ref>[http://www.mentecervello.it/home/sites/default/files/allegati/mentecervello/4_Brochure_Didot.pdf ''MIND & BRAIN PRIZE - Center for Cognitive Science'']</ref>
+* [[University of Louisville]] [[Grawemeyer Award]] in psychology, 2002<ref name = Marquis />
+* William W. Cumming prize from Columbia University, 1970<ref name = Marquis />
+* Research Scientist Career Development Award from the [[National Institute of Mental Health]], 1981—86, 1987—97<ref name = Marquis />
+* Fellow, [[National Science Foundation]], 1970—73<ref name = Marquis />
+* [[Rumelhart Prize]], 2010<ref>{{Cite web |url=http://rumelhartprize.org/?page_id=75 |title=Recipients |access-date=2012-12-10 |archive-url=https://web.archive.org/web/20160313150158/http://rumelhartprize.org/?page_id=75 |archive-date=2016-03-13 |url-status=dead }}</ref>
+*[[C.L. de Carvalho-Heineken Prize]], 2014<ref>{{cite web|title=Dr A.H. Heineken Prize for Cognitive Science|url=https://www.knaw.nl/en/awards/laureates/dr-a-h-heinekenprijs-voor-de-cognitiewetenschap/james-mcclelland}}</ref>
+
+In July 2017, McClelland was elected a [[Corresponding Fellow of the British Academy]] (FBA), the United Kingdom's [[national academy]] for the humanities and social sciences.<ref>{{cite web|title=Elections to the British Academy celebrate the diversity of UK research|url=http://www.britac.ac.uk/news/elections-british-academy-celebrate-diversity-uk-research|website=British Academy|access-date=29 July 2017|date=2 July 2017}}</ref>
+
+==See also==
+*[[Artificial neural networks]]
+*[[Cognitive science]]
+*[[Connectionism]]
+*[[Trace (psycholinguistics)|TRACE]] model of speech perception
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [https://stanford.edu/~jlmcc/ Personal website]
+* [https://web.archive.org/web/20160303193744/http://www.psych-sci.manchester.ac.uk/staff/mcclelland Staff website at University of Manchester]
+
+{{Heineken Prizes}}
+{{FBA 2017|state=expanded}}
+{{Authority control}}
+
+{{DEFAULTSORT:McClelland, James}}
+[[Category:Cognitive psychologists]]
+[[Category:Computational psychologists]]
+[[Category:Cognitive neuroscientists]]
+[[Category:Speech perception researchers]]
+[[Category:Rumelhart Prize laureates]]
+[[Category:Stanford University Department of Psychology faculty]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:Fellows of the Society of Experimental Psychologists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:Psycholinguists]]
+[[Category:Winners of the Heineken Prize]]
+[[Category:Fellows of the Cognitive Science Society]]
+[[Category:Corresponding Fellows of the British Academy]]

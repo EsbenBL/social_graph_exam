@@ -1,0 +1,139 @@
+{{short description|Russian mathematician}}
+{{Infobox scientist
+| name         = Leonid Kantorovich
+| image        = Leonid Kantorovich 1975.jpg
+| image_size   = 180px
+| caption      = Leonid Kantorovich in 1975
+| birth_date   = {{Birth date|df=y|1912|1|19}}
+| birth_place  = [[Saint Petersburg, Russia|Saint Petersburg]], [[Russian Empire]]
+| death_date   = {{Death date and age|df=y|1986|4|7|1912|1|19}}
+| death_place  = [[Moscow]], [[Russian SFSR]], [[Soviet Union|USSR]]
+|resting_place   = [[Novodevichy Cemetery]], [[Moscow]]
+| nationality  = [[Soviet Union|Soviet]]
+| ethnicity    = 
+| field        = [[Mathematics]]
+| doctoral_advisor = [[Grigorii Mikhailovich Fichtenholz|Grigorii Fichtenholz]] <br> [[Vladimir Smirnov (mathematician)|Vladimir Smirnov]]
+| doctoral_students = [[Svetlozar Rachev]]
+| workplaces    = [[USSR Academy of Sciences]]<br />[[Leningrad State University]]
+| alma_mater   = [[Leningrad State University]]
+| known_for    = [[Linear programming]]<br />[[Kantorovich theorem]] <br /> [[Riesz space|normed vector lattice (Kantorovich space)]]<br />[[Kantorovich metric]]<br />[[Kantorovich inequality]] <br />[[approximation theory]]<br />[[iterative methods]]<br />[[functional analysis]]<br />[[numerical analysis]]<br />[[scientific computing]]
+| prizes       = [[Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel]] (1975)
+| module = {{Infobox Economist
+| child = yes
+| repec_prefix = e
+| repec_id = pka32}}
+}}
+'''Leonid Vitaliyevich Kantorovich''' ({{lang-rus|Леони́д Вита́льевич Канторо́вич||p=lʲɪɐˈnʲit vʲɪˈtalʲjɪvʲɪtɕ kəntɐˈrovʲɪtɕ|a=Ru-Leonid_Vitaliyevich_Kantorovich.ogg}}; 19 January 1912{{spaced ndash}}7 April 1986) was a [[Soviet Union|Soviet]] [[mathematician]] and [[economist]], known for his theory and development of techniques for the optimal allocation of resources. He is regarded as the founder of [[linear programming]]. He was the winner of the [[State Stalin Prize|Stalin Prize]] in 1949 and the [[Nobel Memorial Prize in Economic Sciences]] in 1975.
+
+== Biography ==
+Kantorovich was born on 19 January 1912, to a [[Russian Jewish]] family.<ref>''The Soviet Union: empire, nation, and system'', By Aron Kat︠s︡enelinboĭgen, page 406, Transaction Publishers, 1990</ref> His father was a doctor practicing in [[Saint Petersburg]].<ref>{{Cite book | last1 = Gass | first1 = Saul I. | last2 = Rosenhead | first2 = J. | chapter = Leonid Vital’evich Kantorovich | doi = 10.1007/978-1-4419-6281-2_10 | title = Profiles in Operations Research | series = International Series in Operations Research & Management Science | volume = 147 | pages = 157 | year = 2011 | isbn = 978-1-4419-6280-5 }}</ref> In 1926, at the age of fourteen, he began his studies at the [[Leningrad University]]. He graduated from the Faculty of Mathematics in 1930, and began his graduate studies. In 1934, at the age of 22 years, he became a full professor.
+
+Later, Kantorovich worked for the [[Soviet government]]. He was given the task of [[Optimization (mathematics)|optimizing]] production in a [[plywood]] industry. He devised the mathematical technique now known as [[linear programming]] in 1939, some years before it was advanced by [[George Dantzig]]. He authored several books including ''The Mathematical Method of Production Planning and Organization'' (Russian original 1939), ''The Best Uses of Economic Resources'' (Russian original 1959), and, with Vladimir Ivanovich Krylov, ''Approximate methods of higher analysis'' (Russian original 1936).<ref>{{cite journal|title=Review of ''Approximate methods of higher analysis'' by L. V. Kantorovich and V. I. Krylov|author=Kaplan, W.|author-link=Wilfred Kaplan|journal=Bull. Amer. Math. Soc.|volume=66|year=1960|pages=146–147|doi=10.1090/S0002-9904-1960-10408-9|issue=3|doi-access=free}}</ref> For his work, Kantorovich was awarded the [[State Stalin Prize|Stalin Prize]] in 1949.
+
+After 1939, he became the professor of [[Military Engineering-Technical University]]. During the [[Siege of Leningrad]], Kantorovich was the professor of [[Military Engineering-Technical University|VITU of Navy]] and in charge of safety on the [[Road of Life]]. He calculated the optimal distance between cars on ice, depending on thickness of ice and temperature of the air. In December 1941 and January 1942, Kantorovich personally walked between cars driving on the ice of Lake Ladoga, on the [[Road of Life]], to ensure the cars did not sink. However, many cars with food for survivors of the siege were destroyed by the [[Germans|German]] airstrikes. In 1948 Kantorovich was assigned to the atomic project of the USSR. For his feat and courage Kantorovich was awarded the [[Order of the Patriotic War]], and was decorated with the medal ''For Defense of Leningrad''. [[Image:Medal Defense of Leningrad.jpg|110px|right|thumb]]
+
+After 1960, Kantorovich lived and worked in [[Novosibirsk]], where he created and took charge of the Department of Computational Mathematics in [[Novosibirsk State University]].<ref>[http://www.nsu.ru/xmlui/bitstream/handle/nsu/2145/01.pdf Kantorovich`s biography in Russian]</ref>
+
+The [[Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel|Nobel Memorial Prize]], which he shared with [[Tjalling Koopmans]], was given "for their contributions to the theory of optimum allocation of resources."
+
+==Mathematics==
+In [[mathematical analysis]], Kantorovich had important results in [[functional analysis]], [[approximation theory]], and [[operator theory]].
+
+In particular, Kantorovich formulated fundamental results in the theory of [[Normed vector space|normed]] [[Riesz space|vector lattices]], which are called "K-spaces" in his honor.
+
+Kantorovich showed that [[functional analysis]] could be used in the analysis of [[iterative method]]s, obtaining the [[Kantorovich inequality|Kantorovich inequalities]] on the [[Rate of convergence|convergence rate]] of the [[gradient method]] and of [[Newton's method]] (see the [[Kantorovich theorem]]).
+
+Kantorovich considered [[infinite-dimensional optimization]] problems, such as the Kantorovich-Monge problem in [[Transportation theory (mathematics)|transportation theory]]. His analysis proposed the [[Kantorovich metric]], which is used in [[probability theory]], in the theory of the [[Weak convergence of measures#Weak convergence of measures|weak convergence]] of [[probability measure]]s.
+
+<gallery>
+Image:Kantorovich (Petrov-Vodkin).jpg|Portrait by [[Petrov-Vodkin]]. 1938.
+Image:Leonid Kantorovich 1976.jpg|1976
+File:Espionage den04 40.png|Original CIA file on Kantorovich, seized from the former US Embassy in Tehran.
+</gallery>
+
+==See also==
+* [[List of Russian mathematicians]]
+* [[List of economists]]
+* [[Shadow price]]
+
+==References==
+* {{cite journal | last1 = Makarov | first1 = V. | year = 1987 | title = Kantorovich, Leonid Vitaliyevich | journal = [[The New Palgrave: A Dictionary of Economics]] | volume = 3 | pages = 14–15 }}
+* {{cite journal | last1 = Kantorovich | first1 = L.V. | year = 1939 | title = Mathematical Methods of Organizing and Planning Production | journal = Management Science | volume = 6 | issue = 4| pages = 366–422 | jstor=2627082| doi = 10.1287/mnsc.6.4.366 }}
+* Kantorovich, L.V. (1959). ''[https://drive.google.com/file/d/1h8VXbMkPRWehB7khZr2lnATdOCPle03I/view "The Best Use of Economic Resources"]''({{link icon|pdf}}). [[Pergamon Press]], 1965.
+* Klaus Hagendorf (2008). [http://eurodos.free.fr/docu/econ/Kantorovich1939.zip Spreadsheet presenting all examples of Kantorovich], 1939 with the [[OpenOffice.org]] Calc Solver as well as the lp_solver.
+
+;Nobel prize lecture
+* Kantorovich, Leonid, [http://nobelprize.org/nobel_prizes/economics/laureates/1975/kantorovich-lecture.html "Mathematics in Economics: Achievements, Difficulties, Perspectives"], Nobel Prize lecture, December 11, 1975
+* [http://nobelprize.org/nobel_prizes/economics/laureates/1975/kantorovich-autobio.html "Autobiography: Leonid Kantorovich"], Nobel Prize website
+
+== Further reading ==
+* [[George Dantzig|Dantzig, George]], ''[https://books.google.com/books?id=2j46uCX5ZAYC&printsec=frontcover Linear programming and extensions]''. Princeton University Press and the RAND Corporation, 1963. Cf. [https://books.google.com/books?id=2j46uCX5ZAYC&printsec=frontcover#v=onepage&q=kantorovich&f=false p.22] for the work of Kantorovich.
+* [[John R. Isbell|Isbell, J.R.]]; Marlow, W.H., [https://www.jstor.org/stable/2627271 "On an Industrial Programming Problem of Kantorovich"], ''Management Science'', Vol. 8, No. 1 (Oct., 1961), pp.&nbsp;13–17
+* {{cite book|first=L.&nbsp;V|last=Kantorovich|author-link=<!-- Leonid V. Kantorovich -->|title="My journey in science (supposed report to the Moscow Mathematical Society)" [expanding ''Russian Math. Surveys''&nbsp;42 (1987), no.&nbsp;2, pp.&nbsp;233–270]|pages=8–45|mr=898626 <!-- editor=Lev&nbsp;J.&nbsp;Leifman|title=Functional analysis, optimization, and mathematical economics: A collection of papers dedicated to the memory of Leonid Vitalʹevich Kantorovich|publisher=The Clarendon Press, Oxford University Press|location=New York|year=1990|isbn=0-19-505729-5 --> }}
+* Koopmans, Tjalling C., [http://nobelprize.org/nobel_prizes/economics/laureates/1975/koopmans-lecture.pdf "Concepts of optimality and their uses"], Nobel Memorial Lecture, December 11, 1975
+* [[S. S. Kutateladze|Kutateladze, S.S.]], [http://www.jams.or.jp/notice/Notices0701.pdf "The World Line of Kantorovich"], ''Notices of the ISMS'', International Society for Mathematical Sciences, Osaka,  Japan, January 2007
+* [[S. S. Kutateladze|Kutateladze, S.S.]], [http://www.math.nsc.ru/LBRT/g2/english/ssk/lvk_phenomenon_e.html "Kantorovich's Phenomenon"], ''Siberian Math. J.'' (Сибирский мат. журн.), 2007, V. 48, No. 1, 3–4, November 29, 2006.
+* [[S. S. Kutateladze|Kutateladze, S.S.]], [http://www.math.nsc.ru/LBRT/g2/english/ssk/lvk100_e.html "Mathematics and Economics of  Kantorovich"]
+* [[S. S. Kutateladze|Kutateladze, S.S.]], [http://www.math.nsc.ru/LBRT/g2/english/ssk/lvk110_e.html "My  Kantorovich"]
+* {{cite book|first=Lev&nbsp;J.,&nbsp;ed.|last=Leifman|title=Functional analysis, optimization, and mathematical economics: A collection of papers dedicated to the memory of Leonid Vitalʹevich Kantorovich|publisher=The Clarendon Press, Oxford University Press|location=New York|year=1990|pages=xvi+341|isbn=0-19-505729-5|mr=1082562}}
+* {{cite book|first1=V.&nbsp;L. [Valery Leonidovich]|last1=Makarov|first2=S.&nbsp;L.|last2=Sobolev|chapter=Academician L.&nbsp;V. Kantorovich (19 January&nbsp;1912 to&nbsp;7 April&nbsp;1986)|title=''In:'' Functional analysis, optimization, and mathematical economics: A collection of papers dedicated to the memory of Leonid Vital'evich Kantorovich <!-- |editor=Lev&nbsp;J.&nbsp;Leifman|title=Functional analysis, optimization, and mathematical economics: A collection of papers dedicated to the memory of Leonid Vitalʹevich Kantorovich|publisher=The Clarendon Press, Oxford University Press|location=New York|year=1990|isbn=0-19-505729-5 -->|pages=1–7|mr=1082564}}
+* {{cite news|last=Polyak|first=B.&nbsp;T.|author-link=Boris T. Polyak |title=History of mathematical programming in the USSR: Analyzing the phenomenon (Chapter&nbsp;3 The pioneer: L.&nbsp;V.&nbsp;Kantorovich, 1912–1986, pp.&nbsp;405–407)|journal=Mathematical Programming |series=Series&nbsp;'''B'''|volume=91|year=2002|number=3|pages=401–416|doi=10.1007/s101070100258|mr=1888984}}
+* Ivan Boldyrev and Till Düppe, [https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/programming-the-ussr-leonid-v-kantorovich-in-context/4BF0F0D89079DD94AF595EA25A991299?fbclid=IwAR0hIojikcTvEj4xTs6RrftOL-71wnz8rb2ZJN9YE_z3_oMsJ0VYkOZmHhk Programming the USSR: Leonid V. Kantorovich in context], The British Journal for the History of Science. 2020. 53(2): 255-278.
+* {{cite book|first=Francis|last=Spufford|title=Red plenty|publisher=Faber|location=London|year=2010}}
+* {{in lang|ru}} [[S. S. Kutateladze|Kutateladze, S.S.]], et al., [http://math.nsc.ru/LBRT/u2/nauka/kant.html "Leonid V. Kantorovich (1912–1986)"], Sobolev Institute of Mathematics of the Siberian Division of the Russian Academy of Sciences. Also published in the ''Siberian Mathematical Journal'', Volume 43 (2002), No. 1, pp.&nbsp;3–8
+* {{in lang|ru}} Vershik, Anatoly, [http://www.mmonline.ru/articles.php?mid=1893 "On Leonid Kantorovich and linear programming"]
+*
+
+==Notes==
+{{reflist}}
+
+==External links==
+{{wikiquote}}
+* {{MathGenealogy | id=58665}}
+* {{MacTutor|id=Kantorovich}} (With additional photos.)
+* [https://ideas.repec.org/e/pka32.html Information about: Leonid Vitaliyevich Kantorovich] –  IDEAS/RePEc
+* {{Cite book |title=Leonid Vitalievich Kantorovich (1912–1986) |url=http://www.econlib.org/library/Enc/bios/Kantarovich.html |work=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+* [https://www.informs.org/About-INFORMS/History-and-Traditions/Biographical-Profiles/Kantorovich-Leonid-V Biography Leonid Kantorovich] from the Institute for Operations Research and the Management Sciences
+*[https://player.vgtrk.com/iframe/video/id/1620875/start_zoom/true/showZoomBtn/false/sid/kultura/?acc_video_id=episode_id/1457551/video_id/1575169/brand_id/21101 Biographical documentary about L.Kantorovich] by ''[[Rossiya K|Rossiya-Culture]]''
+* [https://web.archive.org/web/20040702065550/http://nauka.relis.ru/25/0405/25405078.htm]
+* {{Nobelprize}}
+
+{{S-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Gunnar Myrdal]] | before2 = [[Friedrich August von Hayek]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 1975 |alongside= [[Tjalling C. Koopmans]] }}
+{{s-aft | after = [[Milton Friedman]] }}
+{{S-end}}
+
+{{Nobel laureates in economics 1969–1975}}
+{{1975 Nobel Prize winners}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kantorovich, Leonid}}
+[[Category:1912 births]]
+[[Category:1986 deaths]]
+[[Category:Nobel laureates in Economics]]
+[[Category:Soviet Nobel laureates]]
+[[Category:Jewish Nobel laureates]]
+[[Category:People from Saint Petersburg]]
+[[Category:People from Saint Petersburg Governorate]]
+[[Category:Soviet Jews]]
+[[Category:Soviet economists]]
+[[Category:Soviet mathematicians]]
+[[Category:Functional analysts]]
+[[Category:Approximation theorists]]
+[[Category:Operator theorists]]
+[[Category:Operations researchers]]
+[[Category:Mathematical economists]]
+[[Category:General equilibrium theorists]]
+[[Category:Variational analysts]]
+[[Category:Saint Petersburg State University alumni]]
+[[Category:Military Engineering-Technical University faculty]]
+[[Category:Novosibirsk State University faculty]]
+[[Category:Full Members of the USSR Academy of Sciences]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Recipients of the Order of Lenin]]
+[[Category:Lenin Prize winners]]
+[[Category:Stalin Prize winners]]
+[[Category:Burials at Novodevichy Cemetery]]

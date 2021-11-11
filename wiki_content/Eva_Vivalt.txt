@@ -1,0 +1,52 @@
+{{short description|Canadian economist}}
+{{Infobox economist
+ <!-- Scroll down to edit this page -->
+ <!-- Economist Category -->
+ | school_tradition = 
+ <!-- Image -->
+ | image = 
+ <!-- Information -->
+ | name = Eva L. Vivalt
+ | birth_date = 
+ | birth_place =[[Toronto]], [[Ontario]], Canada
+ | alma_mater = [[Dartmouth College]]<br>[[University of California, Berkeley]]<br>[[University of Oxford]]
+ | institution = [[Australian National University]]
+ | website = https://evavivalt.com/
+ | death_date =
+ | death_place =
+ | nationality = [[Canada|Canadian]]
+ | field = [[Developmental economics]], [[Labor economics]]
+ | doctoral_advisor  = [[Edward Miguel]]
+}}
+
+'''Eva Love Vivalt'''<ref name="New York Times Marriage">{{Cite news|url=https://www.nytimes.com/2019/08/25/fashion/weddings/eva-vivalt-gabriel-carroll.html|title=Eva Vivalt, Gabriel Carroll|newspaper=The New York Times|date=2019-08-25}}</ref> is a [[Canada|Canadian]] [[economics|economist]]. She is currently an Assistant Professor of Economics at the [[University of Toronto]]<ref>{{cite web | title = Eva Vivalt at Department of Economics, University of Toronto| url = https://www.economics.utoronto.ca/index.php/index/person/person/faculty/1958| access-date = 2021-02-15}}</ref> and the founder of AidGrade, a research institute that generates and synthesizes evidence in international development.<ref>{{cite web | title = AidGrade | url = http://www.aidgrade.org/ | access-date = 2019-07-01}}</ref>
+
+Vivalt received a Ph.D. in Economics and an M.A. in Mathematics from the [[University of California, Berkeley]], and an M.Phil. in Development Studies at the [[University of Oxford]]. Before joining the University of Toronto, she held positions at [[Australian National University]], [[Stanford University]], [[New York University]], and the [[World Bank]].<ref>{{cite web | title = CV | url = http://evavivalt.com/wp-content/uploads/CV_Vivalt.pdf | access-date = 2021-02-15}}</ref>
+
+Vivalt's main research interests are the study of obstacles to [[evidence-based policy|evidence-based policy decisions]]. She also has interests in [[developmental economics]], [[behavioral economics]] and [[effective altruism]], and is a principal investigator on [[Y Combinator#YC Research|Y Combinator Research]]’s basic income study.<ref>{{cite web | title = Y Combinator Research| url = https://basicincome.ycr.org/| access-date = 2019-07-01}}</ref>
+
+Vivalt is particularly well known for her work on the [[external validity]] of impact evaluations. She found that most development interventions cannot be distinguished from one another in terms of the impacts that they have on a particular outcome<ref>{{Citation | last = Vivalt | first = Eva | title =  Heterogeneous Treatment Effects in Impact Evaluation| journal = American Economic Review| volume = 105 | issue = 5 | pages = 467–470 | date = 2015 | doi = 10.1257/aer.p20151015 | url = https://www.aeaweb.org/aer/ds/10505/P2015_1015_ds.zip }}</ref> and that effect sizes greatly vary within a particular intervention-outcome combination.<ref>{{Citation | last = Vivalt | first = Eva | title = How Much Can We Generalize from Impact Evaluations? | journal = Journal of the European Economic Association | date = 2019 }}</ref> Her work in this area has been cited by [[Angus Deaton]] and other leading economists<ref>{{Citation | last1 = Deaton | first1 = Angus | last2 = Cartwright | first2 = Nancy | title = Understanding and misunderstanding randomized controlled trials | journal = Social Science & Medicine | volume = 210 | pages = 2–21 | date = August 2018 | doi = 10.1016/j.socscimed.2017.12.005 | pmid = 29331519 | pmc = 6019115 | url = http://dro.dur.ac.uk/23782/2/23782.pdf }}</ref> and has entered the public discourse.<ref>{{cite web | last = Pritchett | first = Lant | title = Is Your Impact Evaluation Asking Questions That Matter? A Four Part Smell Test | url = https://www.cgdev.org/blog/your-impact-evaluation-asking-questions-matter-four-part-smell-test | access-date = 2019-07-05 }}, {{cite book | last = Leigh | first = Andrew | title = Randomistas: How Radical Researchers Are Changing Our World | publisher = Yale University Press | location = New Haven | date = 2018 | isbn = 978-0300236125}}</ref> She is also considered an expert on evidence aggregation and the use of Bayesian hierarchical models<ref>{{cite web | title = Evidence Aggregation and External Validity | url = http://yrise.yale.edu/evidence-aggregation-and-external-validity/ | access-date = 2019-07-05 }}</ref> and is known for her work on [[metascience]].<ref>{{cite web | title =  Metascience 2019 Symposium | url = https://www.metascience2019.org/special-guests/Eva-Vivalt/ | access-date = 2019-07-05}}</ref>
+
+In 2019, together with [[Stefano DellaVigna]] and Devin Pope, Vivalt launched Social Science Prediction Platform, a tool that enables researchers to forecast the results of ongoing studies in the social sciences.<ref>{{Citation | last1 = DellaVigna | first1 = Stefano | last2 = Pope | first2 = Devin | last3 = Vivalt | first3 = Eva | title = Predict science to improve science | journal = Science | volume = 366 | pages = 428–429 | date = 25 Oct 2019 | issue = 6464 | doi = 10.1126/science.aaz1704| pmid = 31649186 | s2cid = 204882061 }}</ref> Her research on impact evaluation has been covered by ''[[The Washington Post]]'',<ref>{{Citation | last = Matthews | first = Dylan | title = The Wonkblog Guide to Holiday Giving | newspaper = The Washington Post | date = 2013-12-26 | url = https://www.washingtonpost.com/news/wonk/wp/2013/12/26/the-wonkblog-guide-to-holiday-giving-2/| access-date = 2019-07-01}}</ref> ''[[Vox (website)|Vox]]'',<ref>{{Citation | last = Matthews | first = Dylan | title = Don't teach a man to fish. Just give him the goddamn fish | newspaper = Vox | date = 2015-08-04 | url = https://www.vox.com/2015/8/4/9096899/cash-teach-fish| access-date = 2019-07-01}}</ref> ''[[The Atlantic]]'',<ref>{{Citation | last = Yong | first = Ed | title = Make Science More Reliable, Win Cash Prizes| newspaper = The Atlantic| date = 2015-12-10| url = https://www.theatlantic.com/science/archive/2015/12/make-science-more-reliable-win-cash-prizes/419781/| access-date = 2019-07-01}}</ref> and other publications.
+
+Vivalt is a member of [[Giving What We Can]], a community of people who have pledged to donate 10% of their income to the world's most effective charitable organisations.<ref>{{cite web | title = Members | url = https://www.givingwhatwecan.org/about-us/members/ | access-date = 14 October 2019}}</ref>
+
+==Personal life==
+Vivalt married American economist [[Gabriel Carroll]] in August 2019.<ref name="New York Times Marriage"/>
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [https://evavivalt.com/ Official website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Vivalt, Eva}}
+[[Category:Living people]]
+[[Category:Alumni of the University of Oxford]]
+[[Category:Australian National University faculty]]
+[[Category:Canadian economists]]
+[[Category:People from Toronto]]
+[[Category:UC Berkeley College of Letters and Science alumni]]
+[[Category:Year of birth missing (living people)]]

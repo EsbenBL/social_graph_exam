@@ -1,0 +1,64 @@
+{{Use mdy dates|date=January 2015}}
+{{Infobox economist
+| name              = 
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| native_name       = 
+| native_name_lang  = 
+| birth_date        = {{birth date and age|1954|10|27}}
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- (use {{coord …}}) -->
+| nationality       = 
+| citizenship       = United States 
+| spouse            = <!-- or: spouses -->
+| website           = <!-- {{URL|example.com}} -->
+| institution       = [[University of California, San Diego]]
+| field             = 
+| school_tradition  = 
+| alma_mater        = [[MIT]]<br>[[Michigan State University]]
+| doctoral_advisor  = [[Franklin M. Fisher]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| influences        = 
+| influenced        = 
+| contributions     = 
+| awards            = 
+| memorials         = 
+| repec_prefix      = 
+| repec_id          = 
+| module            = 
+| signature         = <!-- filename only -->
+| notes             = <!-- or: footnotes -->
+}}
+'''Mark Joseph Machina''' (born October 27, 1954) is an [[United States|American]] [[Economics|economist]] noted for work in non-standard [[Consumer theory|decision theory]]. He is currently a [[distinguished professor]] at the [[University of California, San Diego]]. The [[Marschak–Machina triangle]], a [[probability]] diagram used in [[expected utility theory]], bears his name, along with that of [[Jacob Marschak]].
+
+== Machina Triangle ==
+
+The Machina Triangle is a way of representing a three dimensional probability vector in a two dimensional space. The probability of a given outcome is denoted by a euclidean distance from the point that represents a [[lottery (probability)]].<ref>{{cite web |url=http://www.econport.org/econport/request?page=man_ru_advanced_icurves|title=EconPort - Handbook - Decision-Making Under Uncertainty - Indifference Curves}}</ref>
+
+== References ==
+<references />
+
+== External links ==
+* [http://www.econ.ucsd.edu/~mmachina/ Machina's homepage at the Department of Economics at the University of California]
+*{{cite web|title=Mark J. Machina|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Mark+J+Machina%22+&acc=off&wc=on&fc=off&group=none|publisher=[[JSTOR]]}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Machina, Mark J.}}
+[[Category:1954 births]]
+[[Category:Living people]]
+[[Category:Economists from California]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:University of California, San Diego faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:21st-century American economists]]
+
+
+{{US-economist-stub}}

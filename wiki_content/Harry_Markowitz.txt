@@ -1,0 +1,218 @@
+{{short description|American economist (born 1927)}}
+{{Use mdy dates|date=September 2011}}
+{{Infobox economist
+| name              = Harry Markowitz
+| school_tradition  = [[Chicago School of Economics]]
+| image             = 
+| caption           = 
+| birth_name        = Harry Max Markowitz
+| birth_date        = {{Birth date and age|1927|8|24|mf=y}}
+| birth_place       = [[Chicago, Illinois]], U.S.
+| death_date        = 
+| death_place       = 
+| institution       = Harry Markowitz Company<br />[[Rady School of Management]] at the [[University of California, San Diego]]<br />[[Baruch College]]<br />[[RAND Corporation]]<br />[[Cowles Commission]]
+| field             = [[Financial economics]]
+| alma_mater        = [[University of Chicago]] ([[Bachelor of Philosophy|Ph.B.]], A.M, and Ph.D.)<ref name=cv>{{cite web|title=Curriculum Vitae (Harry M. Markowitz)|url=http://hmarkowitz.com/cv/|website=hmarkowitz.com|access-date=12 December 2017}}</ref>
+| doctoral_advisor  = [[Milton Friedman]]<br/>[[Jacob Marschak]]
+| doctoral_students = 
+| influences        = [[Tjalling Koopmans]]<br/>[[Leonard Savage]]
+| influenced        = 
+| contributions     = [[Modern portfolio theory]]<br/>[[Modern portfolio theory|Efficient frontier]]<br/>Sparse matrix methods<br/>[[SIMSCRIPT]]
+| awards            = [[John von Neumann Theory Prize]] (1989)<br/>[[The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel]] (1990)
+| signature         = <!-- file name only -->
+| repec_prefix      = e
+| repec_id          = pma73
+}}
+'''Harry Max Markowitz''' (born August 24, 1927) is an American economist who received the 1989 [[John von Neumann Theory Prize]] and the 1990 [[Nobel Memorial Prize in Economic Sciences]].
+
+Markowitz is a professor of finance at the [[Rady School of Management]] at the [[University of California, San Diego]] (UCSD).  He is best known for his pioneering work in [[modern portfolio theory]], studying the effects of asset [[risk]], [[Return (finance)|return]], [[correlation]] and [[Diversification (finance)|diversification]] on probable investment portfolio returns.
+
+==Biography==
+Harry Markowitz was born to a [[American Jews|Jewish]] family, the son of Morris and Mildred Markowitz.<ref name="autobiography">Harry M. Markowitz&nbsp;– [http://nobelprize.org/nobel_prizes/economics/laureates/1990/markowitz-autobio.html Autobiography], The Nobel Prizes 1990, Editor Tore Frängsmyr, [Nobel Foundation], Stockholm, 1991</ref> During high school, Markowitz developed an interest in physics and philosophy, in particular the ideas of [[David Hume]], an interest he continued to follow during his undergraduate years at the [[University of Chicago]]. After receiving his [[Bachelor of Philosophy|Ph.B.]] in Liberal Arts,<ref name=cv/> Markowitz decided to continue his studies at the University of Chicago, choosing to specialize in economics. There he had the opportunity to study under important economists, including [[Milton Friedman]], [[Tjalling Koopmans]], [[Jacob Marschak]] and [[Leonard Savage]]. While still a student, he was invited to become a member of the [[Cowles Commission for Research in Economics]], which was in Chicago at the time. He completed his A.M. in Economics from the university in 1950.<ref name=cv/>
+
+Markowitz chose to apply mathematics to the analysis of the [[stock market]] as the topic for his dissertation. Jacob Marschak, who was the thesis advisor, encouraged him to pursue the topic, noting that it had also been a favorite interest of [[Alfred Cowles]], the founder of the Cowles Commission. While researching the then current understanding of stock prices, which at the time consisted in the [[present value]] model of [[John Burr Williams]], Markowitz realized that the theory lacks an analysis of the impact of risk. This insight led to the development of his seminal theory of [[Portfolio (finance)|portfolio]] allocation under uncertainty, published in 1952 by ''the [[Journal of Finance]]''.<ref name="publications1952">{{cite journal |author=Markowitz, H.M. |title=Portfolio Selection |journal=[[The Journal of Finance]] |date=March 1952 |volume=7 |issue=1 |pages=77–91 |doi=10.2307/2975974 |jstor=2975974}}</ref>
+
+In 1952, Harry Markowitz went to work for the [[RAND Corporation]], where he met [[George Dantzig]]. With Dantzig's help, Markowitz continued to research [[Optimization (mathematics)|optimization]] techniques, further developing the [[Critical line method|critical line algorithm]] for the identification of the optimal mean-variance portfolios, relying on what was later named the [[Modern portfolio theory|Markowitz frontier]]. In 1954, he received a PhD in Economics from the University of Chicago<ref name=cv/> with a thesis on the portfolio theory. The topic was so novel that, while Markowitz was defending his dissertation, Milton Friedman argued his contribution was not economics.<ref name="nobellecture">Harry M. Markowitz&nbsp;– [http://nobelprize.org/nobel_prizes/economics/laureates/1990/markowitz-lecture.html Nobel Prize Lecture: Foundations of Portfolio Theory], December 7, 1990 ([https://www.nobelprize.org/uploads/2018/06/markowitz-lecture.pdf PDF format])</ref> During 1955–1956 Markowitz spent a year at the Cowles Foundation,<ref name="autobiography"/> which had moved to [[Yale University]], at the invitation of [[James Tobin]]. He published the critical line algorithm in a 1956 paper and used this time at the foundation to write a book on portfolio allocation which was published in 1959.<ref name="publications1959">{{cite book |author=Markowitz, H.M. |title=Portfolio Selection: Efficient Diversification of Investments |year=1959 |publisher=John Wiley & Sons |location=New York |url=http://cowles.econ.yale.edu/P/cm/m16/index.htm}} (reprinted by Yale University Press, 1970, {{ISBN|978-0-300-01372-6}}; 2nd ed. Basil Blackwell, 1991, {{ISBN|978-1-55786-108-5}})</ref>
+
+Markowitz won the [[Nobel Memorial Prize in Economic Sciences]] in 1990 while a professor of finance at [[Baruch College]] of the [[City University of New York]].  In the preceding year, he received the John von Neumann Theory Prize from the [[Operations Research Society of America]] (now [[Institute for Operations Research and the Management Sciences]], [[INFORMS]]) for his contributions in the theory of three fields: portfolio theory; sparse matrix methods; and simulation language programming ([[SIMSCRIPT]]). Sparse matrix methods are now widely used to solve very large systems of simultaneous equations whose coefficients are mostly zero. SIMSCRIPT has been widely used to program computer simulations of manufacturing, transportation, and computer systems as well as war games. SIMSCRIPT (I) included the [[Buddy memory allocation]] method, which was also developed by Markowitz.
+He was elected to the 2002 class of [[Fellow]]s of the [[Institute for Operations Research and the Management Sciences]].<ref>{{citation|url=https://www.informs.org/Recognizing-Excellence/Fellows/Fellows-Alphabetical-List|title=Fellows: Alphabetical List|publisher=[[Institute for Operations Research and the Management Sciences]]|access-date=2019-10-09|archive-url=https://web.archive.org/web/20190510220119/https://www.informs.org/Recognizing-Excellence/Fellows/Fellows-Alphabetical-List|archive-date=May 10, 2019|url-status=dead}}</ref>
+
+===CACI===
+The company that would become [[CACI International]] was founded by Herb Karr and Harry Markowitz on July 17, 1962 as California Analysis Center, Inc.  They helped develop [[SIMSCRIPT]], the first simulation programming language, at RAND and after it was released to the public domain, CACI was founded to provide support and training for SIMSCRIPT.<ref name=PC1988>{{cite magazine  |magazine=PC Computing   |date=September 1988 |pages=150–157
+|title=Market Value - PCs on Wall Street |author=William G. Shepherd Jr.}}</ref>
+
+In 1968, Markowitz joined Arbitrage Management company founded by [[Michael Goodkin]]. Working with [[Paul Samuelson]] and [[Robert C. Merton|Robert Merton]] he created a hedge fund that represents the first known attempt at computerized arbitrage trading. He took over as chief executive in 1970. After a successful run as a private hedge fund, AMC was sold to Stuart & Co. in 1971. A year later, Markowitz left the company.<ref>Goodkin, Michael. ''The Wrong Answer Faster: The Inside Story of Making the Machine that Trades Trillions''. John Wiley & Sons, 2012</ref>
+
+Years later, he was involved with CACI's [[SIMSCRIPT]] addition of [[Object-oriented]] features.<ref>{{cite book |author=Harry M. Markowitz |title=Selected Works |page=152  |date=2009
+|url=https://books.google.com/books?isbn=981447021X  |isbn=978-9814470216
+|quote=I told Ana Marjanski, who headed the SIMSCRIPT III project, that SIMSCRIPT already has entities, attributes plus sets. She explained that the clients want object ...}}</ref>
+
+===Post-CACI===
+Markowitz divides his time between teaching (he is an adjunct professor at the Rady School of Management at the University of California at San Diego, UCSD); video casting lectures; and consulting (out of his Harry Markowitz Company offices). He currently serves on the Advisory Board of SkyView Investment Advisors, a traditional and alternative investment advisory firm. Markowitz also serves on the Investment Committee of LWI Financial Inc. ("[[Loring Ward]]"), a San Jose, California-based investment advisor; on the advisory panel of [[Robert D. Arnott]]'s [[Newport Beach, California]] based investment management firm, [[Research Affiliates]]; on the Advisory Board of Mark Hebner's Irvine, California and internet based investment advisory firm, Index Fund Advisors; and as an advisor to the Investment Committee of [[1st Global]], a Dallas, Texas-based wealth management and investment advisory firm. Markowitz advises and serves on the board of [[Probability management|ProbabilityManagement.org]], a 501(c)(3) non-profit founded by Dr. Sam L. Savage to reshape the communication and calculation of uncertainty.<ref>{{Cite web | url=http://www.ProbabilityManagement.org | title=Probability Management}}</ref>
+
+Markowitz is co-founder and Chief Architect of [[GuidedChoice]], a 401(k) managed accounts provider and investment advisor.<ref>GuidedChoice, [https://www.guidedchoice.com/video/dr-harry-markowitz-father-of-modern-portfolio-theory/ "Harry Markowitz’s Modern Portfolio Theory: The Efficient Frontier"]</ref> Markowitz's more recent work has included designing the backbone software analytics for the GuidedChoice investment solution and heading the GuidedChoice Investment Committee. He is actively involved in designing the next step in the retirement process: assisting retirees with wealth distribution through GuidedSpending.
+
+==Research==
+A ''Markowitz-efficient portfolio'' is one where [[Diversification (finance)|diversification]] can lower the portfolio's [[risk]] for a given return expectation (alternately, no additional expected return can be gained without increasing the risk of the portfolio). The Markowitz [[Modern portfolio theory|Efficient Frontier]] is the set of all portfolios that will give the highest expected return for each given level of risk.  These concepts of efficiency were essential to the development of the [[capital asset pricing model]].
+
+Markowitz also co-edited the textbook ''The Theory and Practice of Investment Management'' with [[Frank J. Fabozzi]] of [[Yale School of Management]]. In the same line, Markowitz is part of the Editorial Board of AESTIMATIO,<ref>{{Cite web | url=https://www.ieb.es/investigacion/international-journal-of-finance/editorial-board/ |title = Editorial Board of AESTIMATIO - IEB Instituto de Estudios Bursátiles}}</ref> the IEB International Journal of Finance.<ref>{{Cite web | url=https://www.ieb.es/investigacion/international-journal-of-finance/ | title=AESTIMATIO, the IEB International Journal of Finance}}</ref>
+
+<!-- ==Markowitz model==
+
+===Overview===
+Harry Markowitz put forward this model in 1952. It assists in the selection of the most efficient by analyzing various possible portfolios of the given securities. By choosing securities that do not 'move' exactly together, the HM model shows investors how to reduce their risk. The HM model is also called [[mean]]-[[variance]] model due to the fact that it is based on expected returns (mean) and the [[standard deviation]] (variance) of the various portfolios.
+Harry Markowitz made the following assumptions while developing the HM model:<ref name="Fin. Man."/><ref name=corporate>{{cite web|title=Markowitz Model|url=http://corporate.morningstar.com/cf/documents/MethodologyDocuments/IBBAssociates/MarkowitzApproach.pdf}}</ref>
+
+1. Risk of a [[portfolio (finance)|portfolio]] is based on the variability of returns from the said portfolio.
+
+2. An investor is risk averse.
+
+3. An investor prefers to increase [[Consumption (economics)|consumption]].
+
+4. The investor's [[utility function]] is concave and increasing, due to his risk aversion and consumption preference.<ref name=corporate/>
+
+5. Analysis is based on single period model of [[investment]].<ref name=corporate/>
+
+6. An investor either maximizes his portfolio return for a ''given'' level of risk or maximizes his return for the ''minimum'' risk.<ref>{{cite web|title=Markowitz|url=http://dybfin.wustl.edu/teaching/inv/slides/invl3.html}}</ref>
+
+7. An investor is rational in nature.<ref name=corporate/>
+
+To choose the best portfolio from a number of possible portfolios, each with different return and risk, two separate decisions are to be made:
+
+1. Determination of a set of efficient portfolios.
+
+2. Selection of the best portfolio out of the efficient set.
+
+===Determining the efficient set===
+A portfolio that gives maximum return for a given risk, or minimum risk for given return is an efficient portfolio. Thus, portfolios are selected as follows:
+
+(a) From the portfolios that have the same return, the investor will prefer the portfolio with lower risk, and <ref name="Fin. Man.">{{cite book|last=Rustagi|first=R.P.|title=Financial Management|publisher=Taxmann Publications (P.) Ltd.|location=India|isbn=978-81-7194-786-7}}</ref>
+
+(b) From the portfolios that have the same risk level, an investor will prefer the portfolio with  higher rate of return.
+[[File:Risk-Return of Possible Portfolios.jpg|thumb|left|400px|Figure 1: Risk-return of possible portfolios]]
+
+As the investor is rational, they would like to have higher return. And as he is risk averse, he wants to have lower risk.<ref name="Fin. Man."/> In Figure 1, the shaded area PVWP includes all the possible securities an investor can invest in. The efficient portfolios are the ones that lie on the boundary of PQVW. For example, at risk level x<sub>2</sub>, there are three portfolios S, T, U. But portfolio S is called the efficient portfolio as it has the highest return, y<sub>2</sub>, compared to T and U. All the portfolios that lie on the boundary of PQVW are efficient portfolios for a given risk level.
+
+The boundary PQVW is called the '''Efficient Frontier'''. All portfolios that lie below the Efficient Frontier are not good enough because the return would be lower for the given risk. Portfolios that lie to the right of the Efficient Frontier would not be good enough, as there is higher risk for a given rate of return. All portfolios lying on the boundary of PQVW are called Efficient Portfolios. The Efficient Frontier is the same for all investors, as all investors want maximum return with the lowest possible risk and they are risk averse.
+
+===Choosing the best portfolio===
+For selection of the optimal portfolio or the best portfolio, the risk-return preferences are analyzed. An investor who is highly risk averse will hold a portfolio on the lower left hand of the frontier, and an investor who isn’t too risk averse will choose a portfolio on the upper portion of the frontier.
+[[File:Risk-Return Indifference Curves.jpg|thumb|right|400px|Figure 2: Risk-return indifference curves]]
+
+Figure 2 shows the risk-return [[indifference curve]] for the investors. Indifference curves C<sub>1</sub>, C<sub>2</sub> and C<sub>3</sub> are shown. Each of the different points on a particular indifference curve shows a different combination of risk and return, which provide the same satisfaction to the investors. Each curve to the left represents higher [[utility]] or satisfaction. The goal of the investor would be to maximize his satisfaction by moving to a curve that is higher. An investor might have satisfaction represented by C<sub>2</sub>, but if his satisfaction/utility increases, he/she then moves to curve C<sub>3</sub> Thus, at any point of time, an investor will be indifferent between combinations S<sub>1</sub> and S<sub>2</sub>, or S<sub>5</sub> and S<sub>6</sub>.
+[[File:The Efficient Portfolio.jpg|thumb|left|400px|Figure 3: The Efficient Portfolio]]
+
+The investor's optimal portfolio is found at the point of tangency of the efficient frontier with the [[indifference curve]]. This point marks the highest level of satisfaction the investor can obtain. This is shown in Figure 3. R is the point where the efficient frontier is tangent to indifference curve C<sub>3</sub>, and is also an efficient portfolio. With this portfolio, the investor will get highest satisfaction as well as best risk-return combination (a portfolio that provides the highest possible return for a given amount of risk). Any other portfolio, say X, isn't the optimal portfolio even though it lies on the same indifference curve as it is outside the feasible portfolio available in the market. Portfolio Y is also not optimal as it does not lie on the best feasible indifference curve, even though it is a feasible market portfolio. Another investor having other sets of indifference curves might have some different portfolio as his best/optimal portfolio.
+
+All portfolios so far have been evaluated in terms of risky securities only, and it is possible to include risk-free securities in a portfolio as well. A portfolio with risk-free securities will enable an investor to achieve a higher level of satisfaction. This has been explained in Figure 4.
+[[File:The Combination of Risk-Free Securities with the efficient frontier and CML.jpg|thumb|400px|Figure 4: The Combination of Risk-Free Securities with the Efficient Frontier and CML]]
+
+R<sub>1</sub> is the risk-free return, or the return from [[government]] securities, as those securities are considered to have no risk for modeling purposes. R<sub>1</sub>PX is drawn so that it is tangent to the efficient frontier. Any point on the line R<sub>1</sub>PX shows a combination of different proportions of risk-free securities and efficient portfolios. The satisfaction an investor obtains from portfolios on the line R<sub>1</sub>PX is more than the satisfaction obtained from the portfolio P. All portfolio combinations to the left of P show combinations of risky and risk-free assets, and all those to the right of P represent purchases of risky assets made with funds borrowed at the risk-free rate.
+
+In the case that an investor has invested all his funds, additional funds can be borrowed at risk-free rate and a portfolio combination that lies on R<sub>1</sub>PX can be obtained. R<sub>1</sub>PX is known as the '''[[Capital Market Line]]''' (CML). this line represents the risk-return trade off in the [[capital market]]. The CML is an upward sloping line, which means that the investor will take higher risk if the return of the portfolio is also higher. The portfolio P is the most efficient portfolio, as it lies on both the CML and Efficient Frontier, and every investor would prefer to attain this portfolio, P. The P portfolio is known as the '''Market Portfolio''' and is also the most diversified portfolio. It consists of all shares and other securities in the capital market.
+
+In the market for portfolios that consists of risky and risk-free securities, the CML represents the equilibrium condition. The Capital Market Line says that the return from a portfolio is the risk-free rate ''plus'' risk premium. Risk premium is the product of the market price of risk and the quantity of risk, and the risk is the standard deviation of the portfolio.
+
+The CML equation is :
+
+: '''R<sub>P</sub> = I<sub>RF</sub> + (R<sub>M</sub> – I<sub>RF</sub>)σ<sub>P</sub>/σ<sub>M</sub>'''
+
+where,
+
+: R<sub>P</sub> = expected return of portfolio
+
+: R<sub>M</sub> = return on the market portfolio
+
+: I<sub>RF</sub> = risk-free rate of [[interest]]
+
+: σ<sub>M</sub> = [[standard deviation]] of the market portfolio
+
+σ<sub>P</sub> = standard deviation of portfolio
+
+(R<sub>M</sub> – I<sub>RF</sub>)/σ<sub>M</sub> is the slope of CML. (R<sub>M</sub> – I<sub>RF</sub>) is a measure of the risk premium, or the reward for holding risky portfolio instead of risk-free portfolio. σ<sub>M</sub> is the risk of the market portfolio. Therefore, the slope measures the reward per unit of market risk.
+
+The characteristic features of CML are:
+
+1. At the tangent point, i.e. Portfolio ''P'', is the optimum combination of risky investments and the [[Market (economics)|market]] portfolio.
+
+2. Only efficient portfolios that consist of risk free investments and the market portfolio P lie on the CML.
+
+3. CML is always upward sloping as the price of risk has to be positive. A rational investor will not invest unless he knows he will be compensated for that risk.
+[[File:CML and Risk-free lending and borrowing.jpg|thumb|left|400px|Figure 5: CML and Risk-Free Lending and Borrowing]]
+
+Figure 5 shows that an investor will choose a portfolio on the efficient frontier, in the absence of risk-free investments. But when risk-free investments are introduced, the investor can choose the portfolio on the CML (which represents the combination of risky and risk-free investments). This can be done with borrowing or lending at the risk-free rate of interest (I<sub>RF</sub>) and the purchase of efficient portfolio P. The portfolio an investor will choose depends on his preference of risk. The portion from I<sub>RF</sub> to P, is investment in risk-free assets and is called '''Lending Portfolio'''. In this portion, the investor  will lend a portion at risk-free rate. The portion beyond P is called '''Borrowing Portfolio''', where the investor borrows some funds at risk-free rate to buy more of portfolio P.
+
+===Demerits of the HM model===
+1. Unless positivity constraints are assigned, the Markowitz solution can easily find highly leveraged portfolios (large long positions in a subset of investable assets financed by large short positions in another subset of assets), but given their leveraged nature the returns from such a portfolio are extremely sensitive to small changes in the returns of the constituent assets and can therefore be extremely 'dangerous'. Positivity constraints are easy to enforce and fix this problem, but if the user wants to 'believe' in the robustness of the Markowitz approach, it would be nice if better-behaved solutions (at the very least, positive weights) were obtained in an unconstrained manner when the set of investment assets is close to the available investment opportunities (the market portfolio) – but this is often not the case.
+
+2. Practically more vexing, small changes in inputs can give rise to large changes in the portfolio. Mean-variance optimization has been dubbed an 'error maximization' device (Scherer 2002): 'an algorithm that takes point estimates (of returns and covariances) as inputs and treats them as if they were known with certainty will react to tiny return differences that are well within measurement error'. In the real world, this degree of instability will lead, to begin with, to large transaction costs, but it is also likely to shake the confidence of the portfolio manager in the model.
+
+3. The amount of information (the covariance matrix, specifically, or a complete [[joint probability distribution]] among assets in the market portfolio) needed to compute a mean-variance optimal portfolio is often intractable and certainly has no room for subjective measurements ('views' about the returns of portfolios of subsets of investable assets).-->
+==Selected publications==
+* {{cite journal |author=Markowitz, H.M. |title=Portfolio Selection |journal=[[The Journal of Finance]] |date=March 1952 |volume=7 |issue=1 |pages=77–91 |doi=10.2307/2975974 |jstor=2975974}}
+* {{cite journal |author=Markowitz, H.M. |title=The Utility of Wealth |journal=The Journal of Political Economy |date=April 1952 |volume=LX |issue=2 |pages=151–158 |url=http://cowles.econ.yale.edu/P/cp/p00b/p0057.pdf | doi = 10.1086/257177|s2cid=154195524 }}
+* {{cite journal |author=Markowitz, H.M. |title=The Elimination Form of the Inverse and Its Application to Linear Programming |journal=Management Science |date=April 1957 |volume=3 |issue=3 |pages=255–269 |doi=10.1287/mnsc.3.3.255|url=http://www.dtic.mil/get-tr-doc/pdf?AD=AD0604711 }}
+* {{cite book |author=Markowitz, H.M. |title=Portfolio Selection: Efficient Diversification of Investments |year=1959 |publisher=John Wiley & Sons |location=New York |url=http://cowles.econ.yale.edu/P/cm/m16/index.htm}} (reprinted by Yale University Press, 1970, {{ISBN|978-0-300-01372-6}}; 2nd ed. Basil Blackwell, 1991, {{ISBN|978-1-55786-108-5}})
+* {{cite book |author=Markowitz, H.M. |editor1-first=Jack |editor1-last=Belzer |editor2-first=Albert G. |editor2-last=Holzman |editor3-first=Allen |editor3-last=Kent |title="SIMSCRIPT", Encyclopedia of Computer Science and Technology |volume=13 |date=October 1, 1979|publisher=Marcel Dekker |location=New York and Basel |isbn=978-0-8247-2263-0 |pages=516}}
+* {{cite journal |author=Markowitz, H.M. and E. van Dijk |title=Single-Period Mean-Variance Analysis in a Changing World |journal=Financial Analysts Journal |date=March–April 2003 |volume=59 |issue=2 |pages=30–44 |doi=10.2469/faj.v59.n2.2512}}
+* {{cite journal |author=Markowitz, H.M.|title=Market Efficiency: A Theoretical Distinction and So What? |journal=Financial Analysts Journal |date=September–October 2005| volume=61|issue=5|pages=17–30|url=http://www.researchaffiliates.com/ideas/pdf/marketEfficiency.pdf |doi=10.2469/faj.v61.n5.2752|s2cid=33674241 }}
+* {{cite book |author=Markowitz, H.M. |title=Harry Markowitz: Selected Works |series=World Scientific-Nobel Laureate Series: Vol. 1 |year=2009 |publisher=World Scientific |location=Hackensack, New Jersey |url=http://www.worldscibooks.com/economics/6967.html |isbn=978-981-283-364-8 |pages=716 |access-date=March 24, 2009 |archive-url=https://web.archive.org/web/20110223194057/http://www.worldscibooks.com/economics/6967.html |archive-date=February 23, 2011 |url-status=dead }}
+
+==See also==
+* [[List of economists]]
+* [[List of Jewish Nobel laureates]]
+* [[Risk management tools]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+* {{official|https://hmarkowitz.com}}
+* [http://harrymarkowitzinterviews.com Harry Markowitz: Videos of Interviews by Mark Hebner and Weston Wellington and Presentations by Professor Markowitz]
+* [http://nobelprize.org/nobel_prizes/economics/laureates/1990/index.html The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel, 1990]
+** {{Nobelprize|name=Harry M. Markowitz}}
+** [http://nobelprize.org/nobel_prizes/economics/laureates/1990/markowitz-speech.html Banquet Speech], December 10, 1990
+** [http://nobelprize.org/nobel_prizes/economics/laureates/1990/markowitz-lecture.html Nobel Prize Lecture: Foundations of Portfolio Theory], December 7, 1990 ( [http://nobelprize.org/nobel_prizes/economics/laureates/1990/markowitz-lecture.pdf PDF format])
+* [http://purl.umn.edu/107467 Oral history interview with Harry M. Markowitz],  [[Charles Babbage Institute]], University of Minnesota&nbsp;– Markowitz discusses his development of [[portfolio theory]], [[sparse matrix|sparse matrices]], and his work at the [[RAND Corporation]] and elsewhere on simulation software development (including computer language [[SIMSCRIPT]]), modeling, and operations research.
+* [https://web.archive.org/web/20161112043336/http://www.afajof.org/details/videoListing/2866801/Masters-of-Finance-Videos.html History of Finance, interviews], The [[American Finance Association]]
+* [https://www.lib.ncsu.edu/findingaids/mc00408 Guide to the Harry M. Markowitz Papers 1963, 1965, 1967]
+* [http://rady.ucsd.edu/faculty/directory/markowitz/ Adjunct Professor of Finance, bio], Rady School of Management, University of California at San Diego
+* [https://web.archive.org/web/20110707060512/http://www.1stglobal.com/pressReleases/story.asp?intStoryID=976 1st Global Engages Dr. Harry M. Markowitz], 1st Global
+* {{Cite encyclopedia |title=Harry Markowitz (1927– ) |url=http://www.econlib.org/library/Enc/bios/Markowitz.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+* http://people.maths.ox.ac.uk/~zhouxy/download/mvjump_part2.pdf
+* http://home.dacor.net/norton/finance-math/problems_w_Markowitz.pdf
+* [https://www.informs.org/content/view/full/269373 Biography of Harry Markowitz] from the Institute for Operations Research and the Management Sciences
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Trygve Haavelmo]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 1990 |alongside= [[Merton H. Miller]], [[William F. Sharpe]] }}
+{{s-aft | after = [[Ronald H. Coase]]}}
+{{s-end}}
+
+{{Chicago school economists}}
+{{Nobel laureates in economics 1976-2000}}
+{{1990 Nobel Prize winners}}
+{{John von Neumann Theory Prize recipients}}
+{{Authority control}}
+
+{{DEFAULTSORT:Markowitz, Harry}}
+[[Category:1927 births]]
+[[Category:Living people]]
+[[Category:Nobel laureates in Economics]]
+[[Category:American Nobel laureates]]
+[[Category:Jewish Nobel laureates]]
+[[Category:Economists from California]]
+[[Category:Baruch College faculty]]
+[[Category:University of California, San Diego faculty]]
+[[Category:Jewish American scientists]]
+[[Category:University of Chicago alumni]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:John von Neumann Theory Prize winners]]
+[[Category:RAND Corporation people]]
+[[Category:Jewish American economists]]
+[[Category:Financial economists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Institute for Operations Research and the Management Sciences]]
+[[Category:Presidents of the American Finance Association]]

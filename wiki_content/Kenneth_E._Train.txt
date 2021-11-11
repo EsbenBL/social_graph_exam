@@ -1,0 +1,102 @@
+{{short description|American economist}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Kenneth E. Train
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date and age|1951|11|14}}
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| home_town         =
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = 
+| nationality       = 
+| fields            = [[Economics]]
+| workplaces        = University of California, Berkeley
+| patrons           = 
+| education         = 
+| alma_mater        = [[Harvard University]]<br>[[University of California, Berkeley]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+'''Kenneth E. Train''' (born November 14, 1951) is an Adjunct Professor of Economics at [[University of California, Berkeley|the University of California, Berkeley]], United States. He is also Vice President of [http://www.nera.com NERA Economic Consulting, Inc.] in San Francisco, California. He received a Bachelors in Economics at [[Harvard University|Harvard]] and PhD from [[University of California, Berkeley|UC Berkeley]]. He specializes in econometrics and regulation, with applications in energy, environmental studies, telecommunications and transportation.
+
+Kenneth Train has published three books and more than sixty articles. His most recent book, ''Discrete Choice Methods with Simulation'', deals with [[Discrete Choice]], a new area in econometrics. His software for [[Discrete Choice#I. Mixed Logit|mixed logit]] estimation, which is distributed free on his university [http://elsa.berkeley.edu/~train/software.html website], has been used by researchers worldwide, and several commercial statistical packages  have recently added mixed logit routines.{{fact|date=September 2020}}
+
+
+== Books ==
+* [http://elsa.berkeley.edu/books/choice2.html Train, K., Discrete Choice Methods with Simulation, Cambridge University Press, 2003] 2009:{{isbn|978-0-521-76655-5}}
+* [http://elsa.berkeley.edu/~train/or.html Train, K., Optimal Regulation: The Economic Theory of Natural Monopoly, MIT Press, 1991. Japanese language version, translated by Prof. Tetsuzo Yamamoto, Waseda University, and Prof. Tetsuo Kanesawa, Risho University, published by Bunshido of Tokyo, 1998]
+* [http://elsa.berkeley.edu/~train/qca.html Train, K., Qualitative Choice Analysis, MIT Press, 1986]
+
+== Recent Papers ==
+
+* A Control Function Approach to Endogeneity in Consumer Choice Models, with Amil Petrin, Journal of Marketing Research, forthcoming.
+* EM Algorithms for Nonparametric Estimation of Mixing Distributions, Journal of Choice Modeling, Vol. 1, No. 1, pp.&nbsp;40–69, 2008.
+* Estimation on Stated-Preference Experiments Constructed from Revealed-Preference Choices, with Wesley Wilson, Transportation Research, Part B: Methodology, Vol. 42, pp.&nbsp;191–203, 2008.
+* Vehicle Choice Behavior and the Declining Market Share of U.S. Automakers, with Cliff Winston, International Economic Review, Vol. 48, No. 4, pp.&nbsp;1469–1496, 2007
+* Utility in Willingness to Pay Space: A Tool to Address Confounding Random Scale Effects in Destination Choice to the Alps, with Riccardo Scarpa and Mara Thiene, [[American Journal of Agricultural Economics]], Vol. 90, No. 4, pp.&nbsp;994–1010, 2008.
+* Water Supply Security and Willingness to Pay to Avoid Drought Restrictions, with David Hensher and Nina Shore, Economic Record, Vol. 82, pp.&nbsp;56–66, 2006.
+* Households' Willingness to Pay for Water Service Attributes, with David Hensher and Nina Shore, Environmental and Resource Economics, Vol. 32, pp.&nbsp;509–531, 2005.
+* Discrete Choice Models in Preference Space and Willingness-to-Pay Space, with Melvyn Weeks, Ch. 1, pp.&nbsp;1–17, in Applications of Simulation Methods in Environmental Resource Economics, A. Alberini and R. Scarpa, eds., Springer Publisher: Dordrecht, The Netherlands, 2005.
+* Use of a Modified Latin Hypercube Sampling (MLHS) Method in the Estimation of a Mixed Logit Model for Vehicle Choice, with Stephane Hess and John Polak, Transportation Research Part B, Vol. 40, No. 2, pp.&nbsp;147–167, 2006.
+* Mixed Logit with Bounded Distributions of Correlated Partworths, with Garrett Sonnier, Ch. 7, pp.&nbsp;117–134, in Applications of Simulation Methods in Environmental Resource Economics, A. Alberini and R. Scarpa, eds., Springer Publisher: Dordrecht, The Netherlands, 2005.
+* Standard Error Correction in Two-Stage Estimation with Nested Samples, with P. Karaca-Mandic, Econometrics Journal, Vol. 6, No. 2, pp.&nbsp;401–7, 2003.
+* Quasi-Random Simulation of Discrete Choice Models, with Zsolt Sandor, Transportation Research Part B, Vol. 38, pp.&nbsp;313–327, 2004.
+* A Comparison of Hierarchical Bayes and Maximum Simulated Likelihood for Mixed Logit Customer-Specific Taste Parameters and Mixed Logit, with David Revelt On the Similarity of Classical and Bayesian Estimates of Individual Mean Partworths, with Joel Huber, Marketing Letters, Vol. 12, No. 3, pp.&nbsp;259–269, August 2001.
+* Customer Choice Among Retail Energy Suppliers: The Willingness-to-Pay for Service Attributes, with Andrew Goett and Kathleen Hudson, Energy Journal, Vol. 21, No. 4, pp.&nbsp;1–28, 2000. Winner of Award for Best Energy Journal Paper, International Association of Energy Economists, 2002.
+* Halton Sequences for Mixed Logit
+* Forecasting New Product Penetration with Flexible Substitution Patterns, with David Brownstone, Journal of Econometrics, Vol. 89, No. 1, pp.&nbsp;109–129, 1998.
+* Mixed Logit with Repeated Choices: Households' Choices of Appliance Efficiency Level, with David Revelt, Review of Economics and Statistics, Vol. LXXX, No. 4, pp.&nbsp;647–657, 1998.
+* Recreation Demand Models with Taste Variation over People, Land Economics, Vol. 74, No. 2, pp.&nbsp;230–239, 1998.
+*Mixed MNL Models for Discrete Response, with Daniel McFadden, Journal of Applied Econometrics, Vol. 15, No. 5, pp.&nbsp;447–470, 2000.
+
+== See also ==
+* [[List of economists]]
+
+== External links ==
+* [http://elsa.berkeley.edu/~train/index.html Personal homepage on Berkeley website]
+*{{Google Scholar id|2bj9dJcAAAAJ}}
+*{{cite web|title=Kenneth Train|url=https://econpapers.repec.org/RAS/ptr1.htm|publisher=[[EconPapers]]}}
+*{{cite web|title=Kenneth Train|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Kenneth+Train%22|publisher=[[JSTOR]]}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Train, Kenneth E}}
+[[Category:University of California, Berkeley alumni]]
+[[Category:Harvard University alumni]]
+[[Category:21st-century American economists]]
+[[Category:1951 births]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:Living people]]

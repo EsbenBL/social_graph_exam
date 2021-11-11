@@ -1,0 +1,67 @@
+{{Infobox scientist
+|name              = R. Preston McAfee
+|image             = Preston McAfee circa 2010.jpeg
+|image_size        =
+|birth_date        = {{Birth date and age|1956|7|7|mf=yes}}
+|birth_place       =
+|nationality       =
+|field             = Economics
+|work_institutions = [[Microsoft]]<br>[[Google]]<br>[[Yahoo! Research]]<br>[[California Institute of Technology]]<br>[[University of Texas at Austin]]<br>[[University of Western Ontario]]
+|alma_mater        = [[Purdue University]]<br>[[University of Florida]]
+|doctoral_advisor  = [[Andrew B. Whinston]]
+|doctoral_students =
+|known_for         = 
+|prizes            =[[Golden Goose Award]] (2014)
+}}
+
+'''Randolph Preston McAfee''' (born July 7, 1956) is an American economist and distinguished scientist at [[Google]].<ref>https://www.linkedin.com/in/prestonmcafee/</ref>  Previously, he served as chief economist at [[Microsoft]].<ref>{{Cite web|url=https://www.linkedin.com/pulse/new-adventure-r-preston-mcafee|title = On to a New Adventure}}</ref> He has also served as an economist at [[Google]], vice president and research fellow at ''[[Yahoo! Research]]'', where he led the Microeconomics and Social Systems group, and was the J. Stanley Johnson Professor of [[Business]], [[Economics]], and [[Management]] at the [[California Institute of Technology]], where he was the executive officer for the [[social science]]s. He has taught [[business strategy]], [[managerial economics]], and introductory [[microeconomics]].
+
+==Education and employment==
+McAfee earned a BA in economics from the [[University of Florida]] in 1976. He earned MS degrees in both economics and mathematics (1978), and a PhD in economics (1980), from [[Purdue University]].  He was a professor of economics at the [[University of Western Ontario]] from 1981 to 1990, at the [[University of Texas]] from 1990 to 2003, and at [[Caltech]] from 2003 to 2009.  He has also been a visiting professor at the Department of Economics at [[MIT]] and the business school at the [[University of Chicago]].
+
+In 2007, McAfee became vice president and research fellow at Yahoo! Research, where he founded a new social-science research group to work on problems with both scientific importance and business relevance.  He also served as chief economist of Yahoo!  In 2012, he moved to [[Google]], where he led a group of microeconomists and other scholars straddling the borders between business strategy and social science as well as computer science.  In 2014, he became chief economist at [[Microsoft]],<ref>{{Cite web|url=https://blogs.microsoft.com/blog/2014/06/02/microsoft-hires-preston-mcafee-as-chief-economist|title=Microsoft hires Preston McAfee as chief economist|website=blogs.microsoft.com|date=2 June 2014|access-date=2017-10-27}}</ref> and left the company in February 2018.<ref>{{Cite web|url=https://www.linkedin.com/pulse/new-adventure-r-preston-mcafee|title = On to a New Adventure}}</ref>
+
+==Research==
+McAfee has published over one hundred scholarly articles that have collectively been cited thousands of times. His research has concentrated on [[microeconomics]] and [[industrial organization]], on topics including auctions, bundling, price discrimination, antitrust, contracting, and mechanism design.  More recently, he has been publishing research at the interface between [[microeconomics]] and [[computer science]]. In 2014, McAfee won a [[Golden Goose Award]] for his work involving auction design.<ref>{{cite web | title=Auction Design | url=http://www.goldengooseaward.org/awardees/2014/12/4/2014-auction-design | publisher=The Golden Goose Award | accessdate=2015-05-27}}</ref>
+
+==Professional activities==
+McAfee is an advocate for [[open access]] to scholarly writing and educational materials. Together with Ted Bergstrom, he maintains an online database<ref>{{Cite web|url=http://www.journalprices.com/|title=Journal Cost-Effectiveness Search|website=www.journalprices.com|access-date=2017-03-24}}</ref> on the costs of academic journals to university libraries. He has published an open access online economics textbook, ''[[Introduction to Economic Analysis]]''.  He was recognized as a [[Scholarly Publishing and Academic Resources Coalition|SPARC]] Innovator by the [[Association of Research Libraries]].
+
+McAfee is founding co-editor of the ACM journal ''Transactions of Economics and Computation'', emphasizing research at the boundary between computer science and economics.<ref>[http://teac.acm.org/editors.shtml Editorial Board, ACM Transactions on Economics and Computation] {{webarchive|url=https://web.archive.org/web/20130215061654/http://teac.acm.org/editors.shtml |date=2013-02-15 }}</ref>
+
+As editor of ''[[Economic Inquiry]]'' from 2007 to 2012, McAfee introduced an innovative "no revisions" submission policy designed to short-circuit long cycles of requested editorial revisions and speed up the publication process.  He also served as co-editor of the [[American Economic Review]] from 1993 to 2002, and he is a Fellow of the [[Econometric Society]].
+
+McAfee prides himself on being humorous for an economist, which he likens to being considered "tall for a dwarf."<ref>[http://advertising.yahoo.com/blogs/advertising/5-questions-yahoo-r-preston-mcafee-1174.html 5 Questions for Yahoo!'s Preston McAfee], Yahoo! Advertising Solutions blog, 15 Dec 2010.</ref>  He published the classic article [http://vita.mcafee.cc/PDF/VoyageofColumbus.pdf "American Economic Growth and the Voyage of Columbus"] in the ''[[American Economic Review]]'' (1983), poking fun at the counterfactual analyses of economic historian (and future Nobel Laureate) [[Robert Fogel]], as well as various other elements of academic economics.  He also started a humor section (called "Miscellany") in ''[[Economic Inquiry]]'' during his tenure as editor.
+
+McAfee is also the author of a textbook on business strategy, ''Competitive Solutions: The Strategist's Toolkit'', with insights for managers based on microeconomic foundations.
+
+==Consulting==
+McAfee has served  as a consultant to the [[U.S. Department of Justice]] Antitrust Division and the U.S. [[Federal Trade Commission]] (FTC). McAfee has advised on matters concerning [[mergers]], [[collusion]], [[price-fixing]], [[electricity]] pricing, bidding, procurement, sales of government property. In 1994–1995, McAfee extensively advised the USA [[Federal Communications Commission]] (FCC) on the design of auctions for spectrum to be used for personal communications services. McAfee advised the FTC on the mergers of [[Exxon]] and [[Mobil]], and of [[British Petroleum]] and [[ARCO]]. He was an expert witness in FTC v. [[Rambus]], and on the competitive effects of the proposed [[PeopleSoft]]-Oracle merger in USA v. [[Oracle Corporation]]. 
+
+==References==
+{{reflist}}
+* [http://news.cnet.com/2100-1030_3-6182707.html Yahoo Hires Economics, Sociology Researchers], CNet, 10 May 2007.
+* [https://www.billhartzer.com/pages/yahoo-research-expands-team-into-social-sciences/ Yahoo! Research Expands Team into Social Sciences], BillHartzer.com, 10 May 2007.
+* [https://web.archive.org/web/20110805053433/http://www.arl.org/sparc/innovator/mcafee~print.shtml SPARC Innovator: R. Preston McAfee], Association of Research Libraries, January 2009.
+* [https://www.theregister.co.uk/2010/11/30/yahoo_chief_economist_on_google_antitrust_question/ Google antitrust? Ask the one man who can (almost) answer], Cade Metz, The Register, 30 November 2010.
+
+==External links==
+* [http://mcafee.cc/ Preston McAfee's web site]
+* [http://vita.mcafee.cc/ R. Preston McAfee's Curriculum Vitae]
+* [https://scholar.google.com/scholar?hl=en&q=preston+mcafee Preston McAfee's publications and citations as listed on Google Scholar]
+* [https://web.archive.org/web/20100921091946/http://www.introecon.com/ "Introduction to Economic Analysis"], by R. Preston McAfee
+* [http://vita.mcafee.cc/PDF/VoyageofColumbus.pdf Economic Growth and the Voyage of Columbus], by R. Preston McAfee, American Economic Review, September 1983.
+* [http://vita.mcafee.cc/PDF/EditorExperiences.pdf Edifying Editing], by R. Preston McAfee, ''The American Economist'', Spring 2010.
+
+{{Authority control}}
+
+{{DEFAULTSORT:McAfee, Preston}}
+[[Category:1956 births]]
+[[Category:21st-century American economists]]
+[[Category:California Institute of Technology faculty]]
+[[Category:Living people]]
+[[Category:Purdue University alumni]]
+[[Category:University of Florida College of Liberal Arts and Sciences alumni]]
+[[Category:Yahoo! employees]]
+[[Category:Google employees]]
+[[Category:Fellows of the Econometric Society]]

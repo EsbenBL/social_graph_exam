@@ -1,0 +1,63 @@
+{{Use dmy dates|date=November 2020}}
+{{Use British English|date=December 2012}}
+{{Infobox scientist
+| image             = Paul cockshott new book.jpg
+| caption           = 
+| birth_date        = {{birth date and age|1952|3|16|df=y}}
+| birth_place       = [[Edinburgh]], [[Scotland]], [[United Kingdom]]
+| name              = William Paul Cockshott
+| nationality       = [[Scottish people|Scottish]], [[British people|British]]
+| fields            = [[Computer science]]<br>[[Marxian economics]]
+| work_institution  = [[University of Glasgow]]
+| alma_mater        = [[Manchester University]] <small>([[Bachelor of Arts|BaEcon]])</small><br>[[Heriot Watt University]] <small>([[Master of Science|MSc]])</small><br>[[Edinburgh University]] <small>([[Doctor of Philosophy|PhD]])</small>
+| website           = {{URL|paulcockshott.wordpress.com}}
+}}
+'''William Paul Cockshott''' (born 16 March 1952) is a Scottish [[computer scientist]], [[Marxian economics|Marxian economist]] and a reader at the [[University of Glasgow]].
+
+==Scientific career==
+Cockshott earned a [[Bachelor of Arts|BA]] in Economics (1974) from [[Manchester University]], an [[Master of Science|MSc]] (1976) in Computer Science from [[Heriot Watt University]] and a [[PhD]] in Computer Science from [[Edinburgh University]] (1982).<ref name=cv>[http://www.dcs.gla.ac.uk/~wpc/reports/cv.html Curriculum Vitae]</ref>
+
+He has made contributions in the fields of [[image compression]], [[3D television]], parallel [[compilers]] and [[medical imaging]], but became known to a wider audience for his proposals in the multi-disciplinary area of [[Economic calculation problem|economic computability]], most notably as co-author, along the [[economist]] {{interlanguage link|Allin Cottrell|lt=Allin F. Cottrell|de}}, of the book ''[[Towards a New Socialism]]'', in which they strongly advocate the use of [[cybernetics]] for efficient and democratic planning of a complex socialist economy.<ref name=":0">Allin Cottrell & W.Paul Cockshott, [http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/index.html ''Towards a new socialism''] (Nottingham, England: Spokesman, 1993). Retrieved: 17 March 2012.</ref>
+
+He proposes a moneyless socialist economy, akin to [[Karl Marx|Karl Marx's]] description of a socialist society in [[Critique of the Gotha Programme]], realized by today's computer technology: 
+{{cquote|In our proposal people would be paid not in money but with nontransferable electronic work accounts. Purchases would be made with smart cards as they are today, but with the difference that the only way people could accumulate work credits would be by actually working. The more hours you work the more credits you get. Goods in the shops would then be priced in hours, and the exchange principle is basically one for one. For one hour of work you get goods that took one hour to make.|author=Paul Cockshott, ''How the World Works''<ref name="Cockshott 2020">Paul Cockshott: ''How the World Works: The Story of Human Labor from Prehistory to the Modern Day.'' Monthly Review Press, 2020, {{ISBN|978-1-58367-777-3}}. p. 316</ref>}}
+
+==Political views==
+In the 1970s, Cockshott was a member of the [[British and Irish Communist Organisation]], but he and several other members became unhappy with B&ICO's position on [[workers' control]].<ref name="mia">[http://www.marxists.org/history/erol/uk.hightide/whatiscobi.htm What is the Communist Organisation in the British Isles?] in ''Proletarian'', No. 1, c. 1974.</ref> Cockshott and several other B&ICO members resigned and formed a new party, the [[Communist Organisation in the British Isles]].<ref name="mia"/>
+
+Cockshott advocates for a system of a [[Non-monetary_economy|moneyless economy]] based on computerized [[central planning]] and [[direct democracy]] called [[neosocialism]].<ref name=":0" /> He has criticized the [[economic calculation problem]] on the grounds that central planning can be made feasible via computerized planning and allocation based on [[Socially_necessary_labour_time|labor time]].<ref name=":0" /><ref>{{Cite book|last=Cockshott|first=Paul|title=Calculation, Complexity And Planning: The Socialist Calculation Debate Once Again}}</ref><ref>{{Cite web|title=Download Limit Exceeded|url=https://citeseerx.ist.psu.edu/messages/downloadsexceeded.html|access-date=2021-09-26|website=citeseerx.ist.psu.edu}}</ref> 
+
+==Published works==
+*Cockshott, P. (1990). ''Ps-Algol Implementations: Applications in Persistent Object Oriented Programming'', Ellis Horwood Ltd. {{ISBN|978-0745808277}}
+*Cockshott, P. (1990). ''A Compiler Writer's Toolbox: Interactive Compilers for PCs With Turbo Pascal'', Ellis Horwood Ltd. {{ISBN|978-0131737907}}
+*Cockshott, P., Cottrell, A. (1993). ''[[Towards a New Socialism]]'', Spokesman. {{ISBN|978-0851245454}}
+*Cockshott, P., Renfrew K. (2004). ''SIMD Programming Manual for Linux and Windows'', Springer. {{ISBN|978-1852337940}}
+*Cockshott, P. (2010). ''Transition to 21st Century Socialism in the European Union'', Lulu. {{ISBN|978-1445715070}}
+*Cockshott, P. (2011). ''Glasgow Pascal Compiler with vector extensions'', Lulu. {{ISBN|978-1447761563}}
+*Cockshott, P., Zachariah, D. (2012). ''Arguments for Socialism'', Lulu. {{ISBN|978-1471658945}}
+*Cockshott, P., Cottrell, A., Michaelson, G., Wright, I., Yakovenko, V. (2012). ''Classical Econophysics'', Routledge. {{ISBN|978-0415696463}}
+*Cockshott, P., Mackenzie, L., Michaelson, G. (2015). ''Computation and its Limits'', Oxford University Press. {{ISBN|978-0198729129}}
+*Cockshott, P. (2019). ''How the World Works: The Story of Human Labor from Prehistory to the Modern Day'', [[Monthly Review#Monthly Review Press|Monthly Review Press]]. {{ISBN|978-1-58367-777-3}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [https://www.youtube.com/channel/UCVBfIU1_zO-P_R9keEGdDHQ Paul Cockshott's YouTube channel]
+* [https://paulcockshott.wordpress.com/ Paul Cockshott's blog]
+* [https://www.youtube.com/watch?v=5U4e6ALxOhk "Paul Cockshott - Towards a new Socialism (1/3)"]. Video produced by Oliver Ressler on Paul Cockshott and his planned economy-model. [http://www.ressler.at/towardsa_new_socialism/ Transcription] {{Webarchive|url=https://web.archive.org/web/20180226132600/http://www.ressler.at/towardsa_new_socialism/ |date=26 February 2018 }} of a video by O. Ressler, recorded in Glasgow, GB, 25 min., 2006
+* [http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/new_socialism.pdf ''Towards a new socialism''], complete book download.
+* [https://web.archive.org/web/20150104031024/https://mises.org/sites/default/files/qjae7_1_6.pdf Len Brewster on "Towards a new Socialism? by W. Paul Cockshott and Allin F. Cottrell. (Nottingham, U.K.: Spokesman Books, 1993)", Review Essay], ''The Quarterly Journal of Austrian Economics'', Vol.7, No.1 (Spring 2004): 65–77.; Paul Cockshott, [https://web.archive.org/web/20171118112245/http://reality.gn.apc.org/econ/replytobrewster.pdf "Notes for a critique of Brewster"] (20 June 2009).
+
+{{authority control}}
+
+{{DEFAULTSORT:Cockshott, Paul}}
+[[Category:Living people]]
+[[Category:Scottish computer scientists]]
+[[Category:1952 births]]
+[[Category:Marxist theorists]]
+[[Category:Scientists from Edinburgh]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Academics of the University of Glasgow]]
+[[Category:Marxian economists]]
+[[Category:Scottish communists]]

@@ -1,0 +1,916 @@
+{{short description|American economist and econometrician (born 1955)}}
+{{Infobox scientist
+| name        = John P. Rust
+| native_name = 
+| native_name_lang = 
+| image       = jrust.JPG
+| image_size  = 
+| alt         = jrust.jpg
+| caption     = John Rust at his house in 2011
+| birth_date  = {{Birth date and age|1955|5|23|mf=y}}
+| birth_place = 
+| death_date  = 
+| death_place = 
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates =
+| other_names = 
+| residence   = 
+| citizenship = 
+| nationality = [[United States]]
+| fields      = [[Microeconomics]], [[Econometrics]]
+| workplaces  = [[Georgetown University]], <br>[[University of Maryland]], <br>[[Yale University]], <br>[[University of Wisconsin]]
+| patrons     = 
+| education   = 
+| alma_mater  = [[Massachusetts Institute of Technology]], PhD (1983)
+| thesis_title = Stationary Equilibrium in a Market for Durable Assets
+| thesis_url  = https://www.jstor.org/stable/1912654
+| thesis_year =
+| doctoral_advisor = [[Daniel McFadden]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for   = [[Structural estimation]] of [[dynamic discrete choice]] models
+| influences  = 
+| influenced  = 
+| awards      = [[Frisch Medal]] (1992)
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse      = 
+| partner     = 
+| children    =
+| signature   = 
+| signature_alt = 
+| website     = {{URL|https://editorialexpress.com/jrust/|Personal webpage}}
+| footnotes   = 
+}}
+'''John Philip Rust''' (born May 23, 1955) is an American [[economics|economist]] and [[econometrics|econometrician]].
+John Rust received his PhD from  [[Massachusetts Institute of Technology|MIT]] in 1983 and taught at the [[University of Wisconsin]], [[Yale University]] and [[University of Maryland]] before joining [[Georgetown University]] in 2012.
+John Rust was awarded [[Frisch Medal]] in 1992 
+and became the fellow of [[Econometric Society]] in 1993.<ref>
+{{cite web 
+| url= https://www.econometricsociety.org/society/organization-and-governance/fellows
+| title= Fellows of Econometric Society
+| author=
+| date= 
+| website= 
+| publisher= 
+| access-date= 22 May 2015
+| quote=
+}}
+</ref><ref>
+{{cite web 
+| url= https://www.econometricsociety.org/society/awards
+| title= Awards of Econometric Society
+| author=
+| date= 
+| website= 
+| publisher= 
+| access-date= 22 May 2015
+| quote=
+}}
+</ref>
+
+John Rust is best known as one of the founding fathers of the 
+[[structural estimation]] of [[dynamic discrete choice]]
+models<ref name="AguirregabiriaMira2010">
+{{cite journal
+| quote      = Seminal papers include ... Rust(1987) on machine replacement.
+| last1       = Aguirregabiria
+| first1      = Victor
+| last2      = Mira
+| first2     = Pedro
+| date       = 2010
+| title      = Dynamic discrete choice structural models: A survey 
+| journal    = Journal of Econometrics
+| volume     = 156
+| issue      = 1
+| pages      = 38–67
+| bibcode    = 
+| doi        = 10.1016/j.jeconom.2009.09.007
+| url = https://www.economics.utoronto.ca/public/workingPapers/tecipa-297.pdf
+}}</ref>
+and the developer of the nested fixed point (NFXP) [[maximum likelihood]] estimator which is widely used
+in structural econometrics.<ref>
+{{cite web 
+| url= https://scholar.google.com/scholar?cites=1837791910978999626&as_sdt=2005&sciodt=1,5&hl=en
+| title= Citations of Rust(1994) on NFXP
+| author=
+| date= 
+| website= 
+| publisher= 
+| access-date= 22 May 2015
+| quote=
+}}
+</ref>
+However, he had published papers on broad range of topics including
+equilibrium in the markets of durable goods,
+social security, retirement, disability insurance,
+nuclear power industry, 
+real estate economics, 
+rental car industry,
+transportation research,
+auction markets,
+computational economics, 
+dynamic games.<ref>
+{{cite web 
+| url= https://editorialexpress.com/jrust/papers.html
+| title= Online research papers by John Rust
+| author=
+| date= 
+| website= 
+| publisher= 
+| access-date= 22 May 2015
+| quote= 
+}}
+</ref>
+
+==Education and career==
+
+John Rust was born in [[Wisconsin]] on May 23, 1955. He graduated from
+Waukesha High School in 1973, completed B.A. in Mathematics in 1977 at the 
+[[University of Pennsylvania]], and received his Ph.D. in Economics from
+[[Massachusetts Institute of Technology]] in 1983.
+His dissertation titled “Stationary Equilibrium in a Market for Durable Assets” 
+under the supervision of [[Daniel McFadden]] was published as ''[[Econometrica]]'' article in 1985.<ref>
+{{cite journal
+| quote      = 
+| last       = Rust
+| first      = John
+| date       = 1985
+| title      = Stationary equilibrium in a market for durable assets
+| jstor        = 1912654
+| journal    = Econometrica
+| volume     = 53
+| issue      = 4
+| pages      = 783–805
+| bibcode    = 
+| doi        = 10.2307/1912654
+| url = http://ageconsearch.umn.edu/record/292594/files/uwmad-0014.PDF
+}}</ref>
+
+After graduating from University of Pennsylvania in 1977, John 
+Rust worked as research analyst for [[Morgan Stanley]] in New York City for two years.
+His first academic job was at the [[University of Wisconsin]] (assistant professor, 1983-1987, 
+associate professor, 1987-1989, and full professor, 1990-1996), after which he had professorial
+positions at [[Yale University]] (1996-2001) and [[University of Maryland]] (2001-2011) before 
+starting his current affiliation with [[Georgetown University]].<ref>
+{{cite web|url= https://editorialexpress.com/jrust/vita.pdf |title=Curriculum vitae }}
+</ref>
+
+John Rust had been affiliated with a number of governmental bodies, including
+[[Board of Governors]], [[Federal Reserve System]] (research consultant, 1995),
+Panel of Expert Reviewers of [[Social Security Administration]]’s MINT Model (member, 1998-1999),
+Technical Panel of [[Social Security Advisory Board]] (member, 1998-1999),
+Long Term Modeling Advisory Group U.S. [[Congressional Budget Office]] (member, 2001-2004),
+[[Social Security Administration]] (advisor for demonstration project resulting 
+from the 1999 [[List of Social Security legislation (United States)|Work Incentives Improvement Act]], 2000-2003).
+He has also been a member of Steering Committee of the [[Health and Retirement Study]] at 
+[[University of Michigan]] (2000-2002),
+senior advisor at [[Brattle Group|The Brattle Group]] (since 2004) and
+fellow of [https://www.tiaa-crefinstitute.org/public/institute  TIAA-CREF Institute, New York] (since 2005).<ref>
+{{cite web|url= https://editorialexpress.com/jrust/vita.pdf |title=Curriculum vitae }}
+</ref>
+
+==Research and contributions==
+===Dynamic discrete choice models===
+{{further|Dynamic discrete choice}}
+
+Rust is best known for developing methods for analyzing [[dynamic discrete choice]]. In his best-known paper, he modeled the decision of Harold Zurcher, superintendent of the [[Madison, Wisconsin]] Metropolitan Bus Company, whether and when to replace the [[engine]]s of [[bus]]es in his fleet, and developed the nested fixed point algorithm to [[statistical estimation|estimate]] the model using data on when the buses were replaced.{{sfn|Rust|1987}} This paper is one of the first dynamic stochastic models of discrete choice estimated using real data, and continues to serve as classical example of the problems of this type. The methods Rust developed have been used to study dynamic economic decisions in other contexts, including [[retirement]] and [[job|occupational choice]].<ref name="AguirregabiriaMira2010"/>
+
+===Methodological debate===
+
+Although John Rust is a prominent [[structural estimation|structural econometrician]],
+in the ongoing debate<ref>
+{{cite web 
+| url= http://www.econjobrumors.com/topic/whats-reduced-form-and-whats-structural-form-estimation
+| title= Discussion of structural vs. reduced form approach at EconJobRumers.com anonymous professional forum
+| author=
+| date= 
+| website= 
+| publisher= 
+| access-date= 22 May 2015
+| quote= 
+}}
+</ref>
+between adepts of the [[Structural estimation|structural]] and 
+[[Methodology of econometrics|non-structural econometric approaches]],
+he has expressed a balanced position.<ref>
+{{cite journal
+| last       = Rust
+| first      = John
+| title      = Comments on: "Structural vs. atheoretic approaches to econometrics" by Michael Keane
+| journal    = Journal of Econometrics 
+| volume     = 156
+| issue      = 1
+| pages      = 21–24
+| date       = 2010
+|issn				 = 0304-4076
+| doi 			 = 10.1016/j.jeconom.2009.09.004
+}}
+</ref>
+<blockquote>
+I really do not understand the widespread antipathy towards structural econometrics. I do not see any basis for the belief that the reduced form approaches adopted by statistical modelers is more justified or legitimate (or is less subjective) than the structural econometric approach adopted by economic modelers. Both types of modelers have to impose strong assumptions, and it seems all that we can say is that these models and the underlying identifying assumptions are just different.
+</blockquote>
+<blockquote>
+It really isn’t productive to criticize the status quo in economics these days, nor is it productive to try to promote the virtues of structural estimation. Criticism only encourages the practitioners to rally around the flag. I think it is equally a waste of time to try to engage in salesmanship.
+</blockquote>
+Instead, in his review of "The Limits of Inference without Theory" by Kenneth Wolpin<ref>
+{{cite book
+|year=2013
+|last=Wolpin
+|first=Kenneth I.
+|title=The Limits of Inference without Theory
+|series = Tjalling C. Koopmans Memorial Lectures
+|jstor = j.ctt5vjpxr
+|publisher = The MIT Press
+|isbn=9780262019088
+}}
+</ref>
+titled "The Limits of Inference with Theory"<ref>
+{{cite journal
+| last       = Rust
+| first      = John
+| s2cid = 13175008
+| title      = The Limits of Inference with Theory: A Review of Wolpin (2013)
+| journal    = Journal of Economic Literature
+| volume     = 52
+| issue      = 3
+| date       = 2014
+| pages      = 820–50
+| doi 			 = 10.1257/jel.52.3.820
+}}
+</ref>
+John Rust brings attention to the limits of inference inherent to any econometric approach, 
+and argues that collection of better data and closer cooperation between structural and the 
+[[experimental economics]] will lead to more useful empirical knowledge.
+<blockquote>
+My main message is though there is ample room for getting far more knowledge from limited data (and even more when we have access to “big data” ) by optimally combining inductive and deductive approaches to inference and learning, it is important to recognize that there are a number of inherent limits to inference that may be insuperable. These limits were not adequately addressed in Wolpin’s book, and motivated the title of this review.
+</blockquote>
+
+John Rust holds a stronger position on the issue of disconnect between theoretical economics and econometrics
+from the real world (empirical) problems.
+At the "Causality in the Social Sciences Conference" held at [[Stanford University]] on December 5–6, 2014
+he gave a talk titled 
+"{{cite web |url= http://www.gsb.stanford.edu/sites/default/files/documents/Rust%20Presentation.pdf |title= Mostly Useless Econometrics: Measuring the Causal Effect of Econometric Theory }}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}"<ref>{{cite web |url= http://www.gsb.stanford.edu/sites/default/files/documents/Rust%20Presentation.pdf |title= Presentation slides }}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+where he pointed out that development of complicated econometric theories is rewarded disproportionally
+to their practical usefulness.
+
+==Professional service==
+
+In 2004 John Rust co-founded the software development company [https://www.technoluddites.com/  Technoluddities, Inc.]<ref>
+{{cite web 
+| url= http://www.marylandcorporates.com/corp/350376.html
+| title= Maryland Corporates record of Technoluddities, Inc.
+| author=
+| date= 
+| website= 
+| publisher= 
+| access-date= 22 May 2015
+| quote= TECHNOLUDDITES, INC. is a company incorporated in Maryland and its company number is d10129625. TECHNOLUDDITES, INC. was registered on 07/30/2004
+}}
+</ref>
+which operates several web-based software products widely used by the economic profession.
+Technoluddities, Inc. owns trademarks to three of these services, namely ''Editorial Express'', 
+''Conference Maker'' and ''Head Hunter''.<ref>
+{{cite web 
+| url= https://inventively.com/search/trademarks/owner/Technoluddites,%20Inc.
+| title= Trademarks owned by Technoluddites, Inc.
+| author=
+| date= 
+| website= 
+| publisher= 
+| access-date= 22 May 2015
+| quote= 
+}}
+</ref>
+
+===Editorial Express===
+
+[http://editorialexpress.com/e-editor/ Editorial Express] 
+is web-based editorial tracking software that can enable 
+"paper-free" operation of the key editorial functions of a journal.
+Some of the features of this system include guaranteed low pricing, secure operations and data 
+encryption, electronic submission of papers and referee reports, easy assignment of editors and referees, built-in email
+notification and automatic reminders, statistical functions and reporting.<ref>
+{{cite web 
+| url= http://editorialexpress.com/e-editor/editorial-express.html
+| title= About Editorial Express
+| author=
+| date= 
+| website= 
+| publisher= 
+| access-date= 22 May 2015
+| quote= 
+}}
+</ref>
+Editorial express is regarded by many as one of the best journal management systems.<ref>
+{{cite web 
+| url= http://www.mcafee.cc/Bin/MC.html
+| title= Manuscript Central Software Review
+| author= Preston McAfee
+| date= May 2009
+| website= 
+| publisher= 
+| access-date= 22 May 2015
+| quote= An editor asked me for my thoughts on Blackwell-Wiley's Manuscript Central, so I decided to put my thoughts out for everyone to see. I've used three programs to edit journals: Editorial Assistant, Editorial Express and Manuscript Central. I like Editorial Express the best, by a good margin. 
+}}
+</ref>
+
+Editorial Express used by many leading journals in economics including
+[[Econometrica]], 
+[[Quarterly Journal of Economics]],
+[[RAND Journal of Economics]],
+[[Review of Economic Studies]]
+[[Journal of Applied Econometrics]],
+[[International Economic Review]],
+[[Review of Economics and Statistics]],
+[[Journal of Finance]] and other.<ref>
+{{cite web 
+| url= http://editorialexpress.com/e-editor/
+| title= Journals using Editorial Express
+| author=
+| date=
+| website= 
+| publisher= 
+| access-date= 22 May 2015
+| quote=
+}}
+</ref>
+
+===Conference Maker===
+
+[https://editorialexpress.com/cgi-bin/conference/listconfs.cgi Conference Maker]
+is web-based software for organizing international conferences.
+Conference Maker allows a program chair (or several co-chairs) and their selected program committee 
+to handle the submission process in a decentralized fashion. All members of the program committee can 
+log in at any time via secure password protected accounts and can view all submissions online. 
+Program committee members are assigned certain subsets of submissions (usually designated by the person making the submission, unless overwritten by program committee members) and can make accept/reject decisions by clicking a button.
+There is also a simple interface for forming sessions, searching for discussants and session chairs, 
+posting/updating the conference program to an automatically generated web page, 
+and sending mass emails to arbitrarily selected subgroups of users.
+
+Over 625 international conferences have used Conference Maker since it was introduced in 2001, 
+more than 150,000 submissions have been made to Conference Maker for these various 
+conferences and over 290,000 people worldwide have used it.<ref>
+{{cite web 
+| url= http://editorialexpress.com/conference/confmaker.html
+| title= About Conference Maker
+| author=
+| date= 
+| website= 
+| publisher= 
+| access-date= 22 May 2015
+| quote= 
+}}
+</ref>
+
+===Head Hunter===
+
+[https://editorialexpress.com/cgi-bin/conference/listconfs.cgi Head Hunter]
+is web-based academic recruiting software specially designed as a "back end interface" to the 
+[https://econjobmarket.org EconJobMarket.org].
+Some of the features of this system include paperless operation, built-in scheduling module,
+easy setup, high security, electronic applications and reference letters.<ref>
+{{cite web 
+| url= https://editorialexpress.com/hh/hh_info.html
+| title= About Head Hunter
+| author=
+| date= 
+| website= 
+| publisher= 
+| access-date= 22 May 2015
+| quote= 
+}}
+</ref>
+Head Hunter is one of the internal interfaces (or "back ends") which facilitate for the 
+departments the work with the applications and reference letters collected by
+EconJobMarket.org centralized application collection system.
+
+===EconJobMarket.org===
+
+[https://econjobmarket.org/ EconJobMarket.org] (EJM)
+is a nonprofit organization that facilitates the flow of information in the economics 
+job market by providing a secure central repository for the files of job-market candidates 
+(including papers, reference letters, and other materials) accessed on line.
+EJM was founded in 2007 by Martin Osborne, John Rust, and Joel Watson, and is 
+run by a group of academic economists who volunteer their time and effort.<ref>
+{{cite web 
+| url= https://econjobmarket.org/organization.php
+| title= EconJobMarket organizational structure
+| author=
+| date= 
+| website= 
+| publisher= 
+| access-date= 22 May 2015
+| quote= 
+}}
+</ref> 
+EconJobMarket.org is endorsed by
+[[Econometric Society|The Econometric Society]],
+[[Canadian Economics Association]],
+[[European Economic Association]],
+[http://www.ebesweb.org/ Eurasia Business and Economics Society],
+[[Review of Economic Dynamics|Society for Economic Dynamics]],
+[http://www.socialpolitik.de/En Verein für Socialpolitik],
+[https://web.archive.org/web/20090921170932/http://www.voxeu.org/ VOX] and
+[http://www.walras.org/ walras.org]
+
+The theoretical foundation for the creation of EconJobMarket.org
+is described in Chapter 7 of The Handbook of Market Design.<ref>
+{{cite book
+|year=2013
+|editor1-last=Vulkan
+|editor1-first=Nir
+|editor2-last=Roth
+|editor2-first=Alvin E
+|editor3-last=Neeman
+|editor3-first=Zvika
+|title=The handbook of market design
+|url=https://books.google.com/books?id=PTppAgAAQBAJ
+|publisher=OUP Oxford
+|isbn=9780191668432
+}}
+</ref>
+<blockquote>
+EJM does not attempt to fundamentally alter the decentralized “endogenous search and matching” process by which the economics job market currently operates. Since there is unrestricted entry of intermediaries similar to EJM and a number of for-profit and non-profit organizations are currently competing in this market, we discuss the problem of market fragmentation that can occur when too many organizations attempt to intermediate trade in the market. Contrary to conventional wisdom in industrial organization theory, we show that unrestricted entry and competition of intermediaries can result in suboptimal outcomes. We discuss conditions under which the market might be improved if there is sufficient coordination to promote information sharing, such as establishing a dominant information clearinghouse that operates as a non-profit public service — a role EJM is trying to fulfill.<ref>
+{{cite book
+|last1=Bandyopadhyay
+|first1=Sarbartha
+|last2=Iskhakov
+|first2=Fedor
+|last3=Johnson
+|first3=Terence
+|last4=Lee
+|first4=Soohyung
+|last5=McArthur
+|first5=David
+|last6=Rust
+|first6=John
+|last7=Watson
+|first7=Joel
+|last8=Watson
+|first8=John
+|year=2013
+|editor1-last=Vulkan
+|editor1-first=Nir
+|editor2-last=Roth
+|editor2-first=Alvin E
+|editor3-last=Neeman
+|editor3-first=Zvika
+|chapter=Can the Job Market for Economists Be Imptoved?
+|title=The handbook of market design
+|chapter-url=https://books.google.com/books?id=PTppAgAAQBAJ
+|publisher=OUP Oxford
+|isbn=9780191668432
+}}
+</ref>
+</blockquote>
+
+EconJobMarket.org grew in various significant characteristics 
+(number of job adds posted, number of recruiters' accounts, number of applicants' accounts,
+number of applications transmitted, number of recommenders' accounts, number of recommendations transmitted)
+between its inception and 2011 at an average annual rate between 79% and 194%.<ref>
+{{cite book
+|last1=Bandyopadhyay
+|first1=Sarbartha
+|last2=Iskhakov
+|first2=Fedor
+|last3=Johnson
+|first3=Terence
+|last4=Lee
+|first4=Soohyung
+|last5=McArthur
+|first5=David
+|last6=Rust
+|first6=John
+|last7=Watson
+|first7=Joel
+|last8=Watson
+|first8=John
+|year=2013
+|editor1-last=Vulkan
+|editor1-first=Nir
+|editor2-last=Roth
+|editor2-first=Alvin E
+|editor3-last=Neeman
+|editor3-first=Zvika
+|chapter=Can the Job Market for Economists Be Imptoved?
+|title=The handbook of market design
+|chapter-url=https://books.google.com/books?id=PTppAgAAQBAJ
+|publisher=OUP Oxford
+|isbn=9780191668432
+}}
+</ref>
+
+==Selected publications==
+
+===Solution and estimation of structural dynamic models===
+
+*{{cite journal
+| last       = Rust
+| first      = John
+| s2cid = 154722645
+| title      = Optimal Replacement of GMC Bus Engines: An Empirical Model of Harold Zurcher
+| journal    = Econometrica
+| volume     = 55
+| issue      = 5
+| pages      = 999–1033
+|issn				 = 0012-9682
+| date       = 1987
+|jstor			 = 1911259
+| doi=10.2307/1911259
+}}
+
+*{{cite journal
+| last       = Rust
+| first      = John
+| title      = Maximum likelihood estimation of discrete control processes
+| journal    = SIAM Journal on Control and Optimization
+| volume     = 26
+| issue      = 5
+| pages      = 1006–1024
+| date       = 1988
+| doi        = 10.1137/0326056
+| url = http://ageconsearch.umn.edu/record/292600/files/uwmad-0020.PDF
+}}
+
+*{{cite book
+| last       = Rust
+| first      = John
+| chapter    = Structural estimation of Markov decision processes
+| title      = Handbook of Econometrics, Vol. 4
+| journal      = Econometric Theory
+| editor1-last=Engle
+| editor1-first=R.F.
+| editor2-last=McFadden
+| editor2-first=D.L.
+| pages      = 3081–3143
+| publisher  = Elsevier Science B.V.
+| volume     = chap. 51
+| date       = 1994
+| doi        = 10.1017/S0266466600005661
+}}
+
+*{{cite journal
+| last1      = Kapteyn
+| first1     = Arie
+| last2      = Kieffer
+| first2     = Nicholas
+| last3      = Rust
+| first3     = John
+| title      = The microeconometrics of dynamic decision making
+| journal    = Journal of Applied Econometrics
+| volume     = 10
+| issue      = S1
+| pages      = S1–S7
+| date       = 1995
+| doi        = 10.1002/jae.3950100502
+}}
+
+*{{cite journal
+| last       = Rust
+| first      = John
+| title      = Using Randomization to Break the Curse of Dimensionality
+| journal    = Econometrica
+| volume     = 65
+| issue      = 3
+| pages      = 487–516
+|issn        = 0012-9682
+| date       = 1997
+| jstor      = 2171751
+| doi        = 10.2307/2171751
+| citeseerx= 10.1.1.198.7218
+}}
+
+*{{cite journal
+| last1      = Rust
+| first1     = John
+| last2      = Traub
+| first2     = J. F.
+| last3      = Wozniakowski
+| first3     = H.
+| title      = Is There a Curse of Dimensionality for Contraction Fixed Points in the Worst Case?
+| journal    = Econometrica
+| volume     = 70
+| issue      = 1
+| issn       = 1468-0262
+| pages      = 285–329
+| date       = 2002
+| jstor      = 2692170
+| doi        = 10.1111/1468-0262.00276
+| citeseerx     = 10.1.1.20.7714
+}}
+
+*{{cite journal
+| last1      = Santos
+| first1     = Manuel S
+| last2      = Rust
+| first2     = John
+| s2cid = 6989026
+| title      = Convergence properties of policy iteration
+| journal    = SIAM Journal on Control and Optimization
+| volume     = 42
+| issue      = 6
+| pages      = 2094–2115
+| date       = 2004
+| doi        = 10.1137/S0363012902399824
+}}
+
+*{{cite journal
+| last1      = Paarsch
+| first1     = Harry J.
+| last2      = Rust
+| first2     = John
+| title      = Valuing programs with deterministic and stochastic cycles 
+| journal    = Journal of Economic Dynamics and Control 
+| volume     = 33
+| issue      = 3
+| pages      = 614–623
+| date       = 2009
+| issn       = 0165-1889
+| doi        = 10.1016/j.jedc.2008.08.007
+}}
+
+===Market equilibrium, durable goods===
+
+*{{cite journal
+| last       = Rust
+| first      = John
+| date       = 1985
+| title      = Stationary equilibrium in a market for durable assets
+| journal    = Econometrica
+| volume     = 53
+| issue      = 4
+| pages      = 783–805
+| doi        = 10.2307/1912654
+| jstor      = 1912654
+| url = http://ageconsearch.umn.edu/record/292594/files/uwmad-0014.PDF
+}}
+
+*{{cite journal
+| last       = Rust
+| first      = John
+| title      = When is it optimal to kill off the market for used durable goods?
+| journal    = Econometrica
+| volume     = 54
+| issue      = 1
+| pages      = 65–86
+| date       = 1986
+| jstor      = 1914157
+| doi        = 10.2307/1914157
+}}
+
+*{{cite journal
+| last1      = Rust
+| first1     = John
+| last2      = Hall
+| first2     = George
+| title      = Middlemen versus Market Makers: A Theory of Competitive Exchange
+| journal    = Journal of Political Economy
+| volume     = 111
+| issue      = 2
+| pages      = 353–403
+| date       = 2003
+| jstor      = 10.1086/367684
+| doi        = 10.1086/367684
+| s2cid = 1266044
+| url = http://www.nber.org/papers/w8883.pdf
+}}
+
+===Retirement and disability===
+
+*{{cite book
+| last       = Rust
+| first      = John
+| chapter    = A dynamic programming model of retirement behavior
+| title      = The economics of aging
+| editor-last=Wise
+| editor-first=David
+| pages      = 359–404
+| date       = 1989
+| isbn       = 9780226903224
+| chapter-url        = https://books.google.com/books?id=XI_VRVyhN_kC
+| publisher  = University of Chicago Press
+}}
+
+*{{cite journal
+| last1       = Rust
+| first1      = John
+| last2      = Phelan
+| first2     = Christopher
+| title      = How Social Security and Medicare Affect Retirement Behavior In a World of Incomplete Markets
+| journal    = Econometrica
+| volume     = 65
+| issue      = 4
+| pages      = 781–831
+| issn       = 0012-9682
+| date       = 1997
+| jstor      = 2171940
+| doi        = 10.2307/2171940
+| citeseerx      = 10.1.1.369.9071
+}}
+
+*{{cite journal
+| last1      = Benítez-Silva
+| first1     = Hugo
+| last2      = Buchinsky
+| first2     = Moshe
+| last3      = Chan
+| first3     = Hiu Man
+| last4      = Rust
+| first4     = John
+| last5      = Sheidvasser
+| first5     = Sofia
+| title      = An empirical analysis of the social security disability application, appeal, and award process
+| journal    = Labour Economics
+| volume     = 6
+| issue      = 2
+| pages      = 147–178
+| date       = 1999
+| doi        = 10.1016/s0927-5371(99)00014-7
+}}
+
+*{{cite journal
+| last1      = Benítez-Silva
+| first1     = Hugo
+| last2      = Buchinsky
+| first2     = Moshe
+| last3      = Chan
+| first3     = Hiu Man
+| last4      = Sheidvasser
+| first4     = Sofia
+| last5      = Rust
+| first5     = John
+| title      = How Large Is the Bias in Self-Reported Disability?
+| journal    = Journal of Applied Econometrics
+| volume     = 19
+| issue      = 6
+| pages      = 649–670
+| date       = 2004
+| jstor      = 25146315
+| doi     = 10.1002/jae.797
+| s2cid = 145237824
+}}
+
+===Rental cars===
+
+*{{cite journal
+| last1      = Cho
+| first1     = Sungjin
+| last2      = Rust
+| first2     = John
+| title      = Is econometrics useful for private policy making? A case study of replacement policy at an auto rental company
+| journal    = Journal of Econometrics
+| date       = 2008
+| volume     = 145
+| issue      = 1–2
+| pages      = 243–257
+| url        = https://ideas.repec.org/a/eee/econom/v145y2008i1-2p243-257.html
+| doi        = 10.1016/j.jeconom.2008.05.015
+| citeseerx     = 10.1.1.134.390
+}}
+
+*{{cite journal
+| last1      = Cho
+| first1     = Sungjin
+| last2      = Rust
+| first2     = John
+| s2cid = 53127266
+| title      = The Flat Rental Puzzle
+| journal    = The Review of Economic Studies
+| volume     = 77
+| issue      = 2
+| pages      = 560–594
+| issn       = 0034-6527
+| date       = 2010
+| jstor      = 40587639
+| doi        = 10.1111/j.1467-937x.2009.00556.x
+| doi-access= free
+}}
+
+===Nuclear power plants===
+
+*{{cite journal
+| last1      = Rust
+| first1     = John
+| last2      = Rothwell
+| first2     = Geoffrey
+| title      = Optimal Response to a Shift in Regulatory Regime: The Case of the US Nuclear Power Industry
+| journal    = Journal of Applied Econometrics
+| volume     = 10
+| issue      = Special Issue: The Microeconometrics of Dynamic Decision Making
+| pages      = S75–S118
+| date       = 1995
+| jstor      = 2285015
+| doi     = 10.1002/jae.3950100506
+| citeseerx     = 10.1.1.203.2601
+}}
+
+*{{cite journal
+| last1      = Rothwell
+| first1     = Geoffrey
+| last2      = Rust
+| first2     = John
+| s2cid = 14334833
+| title      = On the Optimal Lifetime of Nuclear Power Plants
+| journal    = Journal of Business & Economic Statistics
+| volume     = 15
+| issue      = 2
+| pages      = 195–208
+| date       = 1997
+| jstor      = 1392305
+| doi        = 10.1080/07350015.1997.10524700
+}}
+
+===Philosophy of science===
+
+*{{cite journal
+| last       = Rust
+| first      = John
+| title      = Comments on: "Structural vs. atheoretic approaches to econometrics" by Michael Keane
+| journal    = Journal of Econometrics 
+| volume     = 156
+| issue      = 1
+| pages      = 21–24
+| date       = 2010
+| issn       = 0304-4076
+| doi        = 10.1016/j.jeconom.2009.09.004
+}}
+
+*{{cite journal
+| last       = Rust
+| first      = John
+| s2cid = 13175008
+| title      = The Limits of Inference with Theory: A Review of Wolpin (2013)
+| journal    = Journal of Economic Literature
+| volume     = 52
+| issue      = 3
+| date       = 2014
+| pages      = 820–50
+| doi        = 10.1257/jel.52.3.820
+}}
+
+===Books===
+
+*{{cite book
+|last1=Friedman
+|first1=Daniel
+|last2=Rust
+|first2=John
+|year=1993
+|volume=14
+|title=The double auction market: institutions, theories, and evidence
+|publisher=Westview Press
+}}
+
+*{{cite book
+|last1=Amman
+|first1=Hans M
+|last2=Tesfatsion
+|first2=Leigh
+|last3=Judd
+|first3=Kenneth L
+|last4=Kendrick
+|first4=David A
+|last5=Rust
+|first5=John
+|year=2006
+|title=Handbook of computational economics
+|publisher=Elsevier
+|url=https://books.google.com/books?id=4-gvPEwxR-AC
+|isbn=9780444512536
+}}
+
+==See also==
+* [[List of economists]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+* [https://editorialexpress.com/jrust/ John Rust personal webpage]
+* [https://ideas.repec.org/e/pru5.html John Rust at IDEAS.RePeC.org]
+* [https://editorialexpress.com/jrust/nfxp.html NFXP software and manual]
+* [https://www.technoluddites.com/ Technoluddities, Inc.]
+* [http://editorialexpress.com/e-editor/ Editorial Express]
+* [https://editorialexpress.com/cgi-bin/conference/listconfs.cgi Conference Maker]
+* [https://editorialexpress.com/cgi-bin/conference/listconfs.cgi Head Hunter]
+* [https://econjobmarket.org/ EconJobMarket.org]
+
+{{Frisch Medal recipients}}
+{{Authority control}}
+
+{{DEFAULTSORT:Rust, John Philip}}
+[[Category:Living people]]
+[[Category:1955 births]]
+[[Category:Econometricians]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:University of Wisconsin–Madison faculty]]
+[[Category:Yale University faculty]]
+[[Category:University of Maryland, College Park faculty]]
+[[Category:Georgetown University faculty]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:University of Michigan people]]

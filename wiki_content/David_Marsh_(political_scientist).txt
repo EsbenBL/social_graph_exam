@@ -1,0 +1,51 @@
+{{Use dmy dates|date=September 2014}}
+{{Infobox philosopher
+| region           = 
+| era              = 
+| image            =
+| caption          =
+| name             = David Marsh
+| birth_date       = {{Birth date and age|df=yes|1946|06|27}}
+| birth_place      =
+| nationality      = [[United Kingdom|British]]
+| school_tradition = 
+| main_interests   = [[Political science]]
+| alma_mater       = 
+| institutions     = [[Australian National University|the Australian National University's]] (ANU) College of Arts and Social Sciences
+Professor of Political Sociology and Head of the Department of Sociology, University of Birmingham
+| influences       = 
+| influenced       =
+| notable_ideas    = 
+}}
+'''David Marsh''' (born 27 June 1946),<ref name=Congress>{{cite web |title= Marsh, David, 1946- |url= http://id.loc.gov/authorities/names/n91071408.html |publisher= Library of Congress |accessdate= 22 September 2014 |quote= (David Marsh) data sheet (b. 6/27/46) }}</ref> is a [[United Kingdom|British]] [[political scientist]]. He is currently Professor of Political Sociology and the Head of the Department of Sociology at the [[University of Birmingham]]<ref name="Profile">{{cite web|title=Professor David Marsh|url=http://sociology.cass.anu.edu.au/people/professor-david-marsh |publisher=Australian National University|accessdate=20 March 2012}}</ref> and Fellow at the [[Institute of Governance and Policy Analysis]] (IGPA).<ref name="Profile2">{{cite web|title=Professor David Marsh|url=http://www.governanceinstitute.edu.au/people/fellows/person-1962/david-marsh |publisher=Institute of Governance and Policy Analysis (IGPA)|accessdate=30 April 2015}}</ref>
+
+== Early career ==
+He was previously Director of the Research School of Social Sciences at ANU.<ref name="Profile3">{{cite web |url=http://cass.anu.edu.au/about-college/college-executive/david-marsh |title=College Executive - Professor David Marsh |publisher=Australian National University |accessdate=1 August 2009 |url-status=dead |archiveurl=https://web.archive.org/web/20090714004350/http://cass.anu.edu.au/about-college/college-executive/david-marsh |archivedate=14 July 2009 |df=dmy }}</ref> Prior to this he was Professor of [[Political sociology|Political Sociology]] at the [[University of Birmingham]], and also worked at the [[University of Strathclyde]] and the [[University of Essex]].
+
+== Research interests ==
+Marsh's research focuses on issues of political participation, [[governance]] and [[policy transfer]].<ref name="Profile" />
+
+== Publications ==
+His publications include ''Theory and Methods in Political Science'' (co-edited with [[Gerry Stoker]], Palgrave Macmillan, 1995/2002/2010), ''Demystifying Globalization'' (co-edited with [[Colin Hay (political scientist)|Colin Hay]], Macmillan/St Martin's Press, 2000) and ''The New Politics of British Trade Unionism: Union Power and the Thatcher Legacy'' (Macmillan, 1992). He is co-editor of the journal ''British Politics'' and has published over 90 articles and book chapters during his career.<ref name="Profile"/>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [https://web.archive.org/web/20110416061127/https://researchers.anu.edu.au/researchers/marsh-d Homepage at Australian National University]
+*{{worldcat id|lccn-n91-71408}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Marsh, David}}
+[[Category:1946 births]]
+[[Category:Academics of the University of Birmingham]]
+[[Category:Academics of the University of Essex]]
+[[Category:Academics of the University of Strathclyde]]
+[[Category:Australian National University faculty]]
+[[Category:British political scientists]]
+[[Category:Living people]]
+
+
+{{UK-academic-stub}}
+{{polisci-bio-stub}}

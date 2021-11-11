@@ -1,0 +1,124 @@
+{{short description|Czech American economist (born 1942)}}
+{{multiple issues|
+{{External links|date=December 2013}}
+{{BLP sources|date=December 2013}}
+}}
+{{Infobox economist
+| name             = Milan Zeleny
+| school_tradition =
+| image            = Professor Milan Zeleny.jpg
+| image_size       = 
+| caption          =
+| birth_date       = {{birth date and age|1942|1|22}}
+| birth_place      = [[Kutná Hora District|Klucké Chvalovice]], [[Protectorate of Bohemia and Moravia|Bohemia and Moravia]]<br>{{small|(now [[Czech Republic]])}}
+| death_date       =
+| death_place      =
+| nationality      = Czech-American
+| institution      = Professor of Management Systems at [[Fordham University]]
+| field            =
+| alma_mater       = [[University of Rochester]]
+| influences       =
+| influenced       =
+| contributions    =
+| awards           =
+| website = [http://www.milanzeleny.com/ milanzeleny.com]
+| spouse           =
+| signature        = Milan Zelený (signature).png
+| repec_prefix =   | repec_id =
+}}
+
+'''Milan Zeleny '''(born January 22, 1942) is a [[Czech American]] economist, currently a Professor of Management Systems at [[Fordham University]],<ref>{{cite web | url=http://www.bnet.fordham.edu/zeleny/body_index.html | title=Profile on Fordham Business | url-status=dead | archiveurl=https://web.archive.org/web/20131021205742/http://www.bnet.fordham.edu/zeleny/body_index.html | archivedate=2013-10-21 }}</ref> [[New York City]]. He has done research in the field of [[decision-making]], productivity, [[knowledge management]], and business economics.<ref>{{cite book|editor1=Yong Shi |editor2=David L. Olson |editor3=Antonie Stam |title=Advances in Multiple Criteria Decision Making and Human Systems Management: Knowledge and Wisdom|year=2007|publisher=IOS Press|isbn=978-1-58603-748-2}}</ref>
+Zeleny is also a visiting professor at the [[Tomas Bata University in Zlín]], Czech Republic, and has been Academic Vice Dean and Professor at Xidian University in Xi’an, China. He is a Distinguished Visiting Professor at [[Fu Jen Catholic University]] in Taipei in 2006, at the Indian Institute of Technology in Kanpur in 2007, and  at IBMEC in Rio de Janeiro in 2009–10. For many years he has lectured at the Faculty of Architecture, University of Naples.<ref>{{cite web|title=Faculty of Architecture, Naples|url=http://www.rcservizi3.it/fornovecchio36/?p=21#more-21|access-date=2013-11-20|archive-url=https://web.archive.org/web/20131021055145/http://www.rcservizi3.it/fornovecchio36/?p=21#more-21#more-21|archive-date=2013-10-21|url-status=dead}}</ref>
+
+== Academic focus ==
+Zeleny's research focus is multidisciplinary and systems oriented, exploring the interfaces of a number of disciplines, especially economics, business, systems science and socio-biological [[autopoiesis]]. Among his contributions are the concepts of [[Multiple-criteria decision analysis|Multiple Criteria Decision Making]] (MCDM),<ref>{{cite journal | url=http://iospress.metapress.com/content/mh9uvjtkpn8kqtgl/ | archive-url=https://archive.is/20131126234133/http://iospress.metapress.com/content/mh9uvjtkpn8kqtgl/ | url-status=dead | archive-date=2013-11-26 | title=Multiple criteria decision making: eight concepts of optimality | last=Zeleny | first=Milan | journal=Human Systems Management | date=January 1998 | volume=17 | issue=2/1998 | pages=97–107 }}</ref> [[Knowledge management]],<ref>{{cite book | url=http://www.milanzeleny.com/documents/publications/kn_infor_cir.pdf | title=Knowledge-Information Circulation Through the Enterprise: Forward to the Roots of Knowledge Management | last=Zeleny | first=Milan | journal=Data Mining and Knowledge Management | year=2005 | volume=3327 | pages=22–23 | doi=10.1007/978-3-540-30537-8_3 | url-status=dead | archiveurl=https://web.archive.org/web/20131202233650/http://www.milanzeleny.com/documents/publications/kn_infor_cir.pdf | archivedate=2013-12-02 | series=Lecture Notes in Computer Science | isbn=978-3-540-23987-1 }}</ref> De Novo Programming,<ref>{{cite book|last=Zeleny|first=Milan|title=The Evolution of Optimality: De Novo Programming|journal=Evolutionary Multi-Criterion Optimization|year=2005|volume=3410|pages=1–13|url=http://www.milanzeleny.com/documents/literary_works/Optimality.pdf|doi=10.1007/978-3-540-31880-4_1|url-status=dead|archiveurl=https://web.archive.org/web/20131021054531/http://www.milanzeleny.com/documents/literary_works/Optimality.pdf|archivedate=2013-10-21|series=Lecture Notes in Computer Science|isbn=978-3-540-24983-2|citeseerx=10.1.1.553.5093}}</ref><ref>{{cite book|last=Zeleny|first=Milan|title=Multiobjective Optimization, Systems Design and De Novo Programming|journal=Handbook of Multicriteria Analysis|year=2010|volume=103|pages=243–262|doi=10.1007/978-3-540-92828-7_8|series=Applied Optimization|isbn=978-3-540-92827-0}}</ref> Tradeoffs-free Economics,<ref>{{cite journal|last=Zeleny|first=Milan|title=Machine/organism dichotomy and free-market economics: Crisis or transformation?|journal= Human Systems Management|date=November 2010|volume=29|issue=4|pages=191–204|doi=10.3233/HSM-2010-0725|url=http://iospress.metapress.com/content/d54282m4176x844n/fulltext.pdf}}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Social Autopoiesis, Economic Transformation,<ref>{{cite journal | url=http://iospress.metapress.com/content/x01x15477v1x83h1/fulltext.pdf | title=Crisis and transformation: On the corso and ricorso of human systems | last=Zeleny | first=Milan | journal=Human Systems Management | date=March 2012 | volume=31 | issue=1/2012 | pages=49–63 | doi=10.3233/HSM-2011-0758 }}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Technology Support Network, Reintegration of Labor, Systems Self-sustainability and Economic Relocalization.
+
+In Zeleny's book, ''Human Systems Management: Integrating Knowledge, Management and Systems,'' World Scientific, 2005 (reprint 2008), he summarizes knowledge as purposeful coordination of action and its implications for the global economics and management. Zeleny also indicates how the sector evolution from agriculture, industry, services and government leads to self-service and disintermediation, the first manifestations of the [[transformation in economics]], which refers to the long-term movement from globalization to the relocalization of economic activities and mass customization of global market.
+
+According to [[h-index|Hirsch Citation and Publication Index]], Zeleny was the most cited Czech economist as of 2005.{{citation needed|date = October 2016}}<ref name="Hirsch">{{cite journal | url=http://www.vse.cz/polek/download.php?jnl=polek&pdf=638.pdf | title=Hirsch index and rankings of czech economists | last=Macháček | first=Martin | journal=Politická Ekonomie | year=2008| volume=56 | issue=2 | pages=229–241 | doi=10.18267/j.polek.638 | doi-access=free }}</ref> Since 1992, Zeleny constantly appears in the listings of ''Who's Who in Science and Engineering'',<ref>{{cite web|title=Who is Who|url=https://cgi.marquiswhoswho.com/OnDemand/Default.aspx?last_name=Zeleny&first_name=Milan}}</ref> ''Who's Who in America'' (also ''in the East'', ''in the World'' and ''of Professionals'').
+
+== Personal life ==
+Zeleny was born on January 22, 1942, in a small village of Klucké Chvalovice<ref>{{cite web|title=geoview.info|url=http://cz.geoview.info/klucke_chvalovice,3073560}}</ref>  in eastern Bohemia. He came from the literary family of Vácslav and Vladivoj Zelený. His father, Josef Zelený, founded one of the first organizational consulting firms in the 1930s and 1940s in Prague ("ZET-organizace"). After the communist takeover in 1948, his father became a coal miner (in Kladno) and his uncle worked in the uranium mines of Jáchymov. After studies at the [[University of Economics, Prague]] (1959–1964), military service in Prague, and a few years at the Czech Academy of Sciences, he left the communist Czechoslovakia in 1967 to expand his education for Ph.D. in Operations Research and Business Economics at the [[University of Rochester]], where he also received his M.S. in Systems Management in 1970.
+
+In 2012, he declared his intention to run for presidency of the [[Czech Republic]], but then withdrew from the presidential election race.<ref>{{Cite news | url=http://www.denik.cz/z_domova/o-prezidentsky-urad-se-bude-uchazet-nejmene-devet-kandidatu-20121104.html | title=O prezidentský úřad se bude ucházet nejméně devět kandidátů| newspaper=Deník.cz| date=2012-11-04}}</ref> He has been a resident of [[Tenafly, New Jersey]].<ref>Staff. [https://www.newspapers.com/newspage/11531651/ "Cuba Visitor Comes Up With Names of Three Czech Newspapers Once Published"], ''[[Belleville Telescope]]'', July 26, 1984. Accessed May 11, 2017. "Sometime back, Milan Zeleny, 50 Ridge Road, Tenafly, N.J., paid a visit to Cuba, Kan. A native Czech, Mr. Zeleny had heard of Cuba, and was interested in Czech history."</ref>
+
+[[File:Milan Zeleny in class at Fu Jen University 2006.jpg|thumb|Zeleny in class at [[Fu Jen Catholic University]], [[Taipei]], [[Taiwan]], 2006.|238x238px]]
+
+== Public life ==
+
+{{Empty section|date=November 2015}}
+
+== Academic career ==
+Prior to 1967, Zeleny's research involved [[Critical Path Analysis]]. In 1972 he initiated research on [[Multiple-criteria decision analysis|Multiple Criteria Decision Making (MCDM)]]. Later he devoted himself to the field of [[Knowledge Management]], and released the first publication in this field in 1987.<ref name="KM">{{cite journal | url=http://www.milanzeleny.com/documents/publications/mss.pdf | title=Management support systems: Towards integrated knowledge management | last=Zeleny | first=Milan | journal=Human Systems Management | date=June 14, 1987 | volume=7 | issue=1/ 1987 | pages=59–70 | doi=10.3233/HSM-1987-7108 | url-status=dead | archiveurl=https://web.archive.org/web/20131203022556/http://www.milanzeleny.com/documents/publications/mss.pdf | archivedate=December 3, 2013 }}</ref> Other areas of research include Games with multiple payoffs,<ref>{{cite journal | title=Multiple Criteria Decision Making (MCDM): From Paradigm Lost to Paradigm Regained? | last=Zeleny | first=Milan | journal=Journal of Multi-Criteria Decision Analysis |date=October 2011 | volume=18 |issue = 1–2| pages= 77–89 | doi=10.1002/mcda.473}}</ref> Integrated Process Management (IPM), Knowledge-based theory of fuzzy sets, Baťa System of Management,<ref>{{cite journal | url=http://iospress.metapress.com/content/2447381k4542n574/fulltext.pdf | title=Effective strategic action: Exploring synergy sources of European and Asian management systems | last=Zelemy | first=Milan | journal=Human Systems Management | date=November 2013 | volume=32 | issue=3 | pages=150–170 | doi=10.3233/HSM-130792 }}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> High-technology management, Mass customization, Portfolio selection, Risk analysis, Measurement of consumer attitudes, Human intuition, Creativity and judgment, Simulation models of biological organization, Autopoiesis, Artificial life (AL), Osmotic growths and synthetic biology, Spontaneous social organizations and early computer modeling (via GPSS, APL, FORTRAN and BASIC).
+
+In recent years, his research mainly focuses on corporation as a living organism (''The BioCycle of Business'').<ref>{{cite web|title=PRODUCTION OF VALUE-ADDED QUALITY AND INNOVATION|url=http://www.milanzeleny.com/documents/publications/e+m.pdf|access-date=2013-11-26|archive-url=https://web.archive.org/web/20131203021919/http://www.milanzeleny.com/documents/publications/e+m.pdf|archive-date=2013-12-03|url-status=dead}}</ref> He also became active in consulting and later on in CEO coaching, while pursuing practical projects of Entrepreneurial University, Electro-mobility, Recycling and remanufacturing, and Integration of data, information, knowledge and wisdom into a coherent [[DIKW Pyramid|DIKW Management support]].
+
+During the years between 1971 and 1982, Zeleny worked as a lecturer at several universities: Assistant Professor of Statistics and Management Science at  [[University of South Carolina]], Columbia, S.C.  (1971–1972), Associate Professor of Business Administration at [[Columbia University]], New York,  (1972–1979), Professor of Economics at [[Copenhagen Business School|Copenhagen School of Economics]], Copenhagen, Denmark, (1979–1980) and  Professor of Management Science at [[European Institute for Advanced Studies in Management]] (EIASM),<ref>{{cite web|title=European Institute for Advanced Studies in Management|url=http://www.eiasm.org/r/about-eiasm}}</ref> Brussels, Belgium, (1980–1981).
+
+Since 1982, Zeleny has served as Professor of Management Systems at Fordham University at Lincoln Center,<ref>{{Cite web | url=http://www.fordham.edu/academics/colleges__graduate_s/undergraduate_colleg/fordham_college_at_l/ | title=Fordham online information &#124; Academics &#124; Colleges and Schools &#124; Undergraduate Schools &#124; Fordham College at Lincoln Center}}</ref> New York City. He also accepted his permanent tenured appointment from Fordham University .
+
+== Awards ==
+* 1992, [[John Angus Erskine|Erskine]] Fellowship<ref>{{cite web|title=Visiting Erskine Fellows|url=http://www.canterbury.ac.nz/erskine/viserskinefellows.shtml}}</ref> [[University of Canterbury]], New Zealand
+* 1992, The Edgeworth-Pareto Award awarded by [[International Society on Multi-criteria Decision Making]]<ref>{{cite web |url=http://www.mcdmsociety.org/intro.html |title=Archived copy |accessdate=2012-08-09 |url-status=dead |archiveurl=https://web.archive.org/web/20120910235333/http://www.mcdmsociety.org/intro.html |archivedate=2012-09-10 }}</ref>
+* 1990, [https://web.archive.org/web/20150911144716/http://www.iie.org/fulbright USIA Fulbright] Professor in Prague, Czechoslovakia{{citation needed|date=March 2014}}
+* 1990, Bernstein Memorial Lecturer, Tel-Aviv, Israel{{citation needed|date=March 2014}}
+* 1980, [http://www.humboldt-foundation.de/web/humboldt-award.html Alexander von Humboldt Award], Bonn, Germany{{citation needed|date=March 2014}}
+* 1979, [http://www.isecoeco.org/rockefeller-foundations-bellagio-center/ Rockefeller Foundation Resident Scholar], Bellagio Study Center <ref>{{Cite web | url=http://www.rockefellerfoundation.org/bellagio-center | title=The Bellagio Center}}</ref>{{failed verification|date=March 2014}}
+* 1977, [http://www.siam.org/prizes/sponsored/wiener.php Norbert Wiener Award] of ''[[Norbert Wiener Award for Social and Professional Responsibility|Kybernetes]]''{{citation needed|date=March 2014}}
+
+== Member ==
+Among his other adjunct and visiting positions was a visiting professorship of environmental economics at Architettonici ed Ambientali,  Dipartimento di Conservazione dei beni, [[Università degli Studi di Napoli Federico II]], Naples, Italy, 1993.<ref>{{cite web|title=University of Naples Federico II|url=http://www.international.unina.it/}}</ref>
+
+== Author ==
+Zeleny is the author of over 600 scientific publications, studies and books including ones on economics, management, cybernetics, operations research, general systems, history of science, total quality management, and simulation of autopoiesis and artificial life (AL). Zeleny has served as the Editor-in-Chief of ''Human Systems Management''<ref>{{Cite web | url=http://www.iospress.nl/journal/human-systems-management/ | title=IOS Press}}</ref> over the last thirty three years.<ref>{{cite book | title=Human Systems Management – About the author(s) | publisher=World Scientific| doi=10.1142/4929 |year = 2005|last1 = Zeleny|first1 = Milan| isbn=978-981-02-4913-7}}</ref> He was also a member of editorial boards of other professional economic journals.
+
+As of December 2013 he has served on editorial or advisory boards of
+* ''International Journal of Information Technology and Decision Making''<ref>{{Cite web | url=http://www.worldscientific.com/page/ijitdm/editorial-board | title=IJITDM Editorial Board}}</ref>
+* ''International Journal of Mobile Learning and Organization, Economics and Management''<ref>{{Cite web | url=http://www.inderscience.com/jhome.php?jcode=ijmlo | title=International Journal of Mobile Learning and Organisation (IJMLO) Inderscience Publishers - linking academia, business and industry through research}}</ref>
+* ''Journal of Competitiveness, Information and Operations Management Education''<ref>{{Cite web | url=http://www.cjournal.cz/index.php?hid=about | title=Journal of Competitiveness}}</ref>
+* ''International Journal of Information and Operations Management Education''<ref>{{Cite web | url=http://www.inderscience.com/jhome.php?jcode=ijiome | title=International Journal of Information and Operations Management Education (IJIOME) Inderscience Publishers - linking academia, business and industry through research}}</ref>
+* ''International Journal of Multicriteria Decision Making (IJMCDM)''<ref>{{Cite web | url=http://www.inderscience.com/jhome.php?jcode=ijmcdm | title=International Journal of Multicriteria Decision Making (IJMCDM) Inderscience Publishers - linking academia, business and industry through research}}</ref>
+
+=== Books ===
+Zeleny's books include:
+* ''Human Systems Management: Integrating Knowledge, Management and Systems,'' World Scientific, 2005
+* ''Information Technology in Business'' (Thomson International)
+* ''Multiple Criteria Decision Making'' (McGraw-Hill)
+* ''Linear Multiobjective Programming'' (Springer-Verlag)
+* ''Autopoiesis, Dissipative Structures and Spontaneous Social Orders'' (Westview Press)
+* ''MCDM-Past Decades and Future Trends'' (JAI Press)
+* ''Autopoiesis: A Theory of the Living Organization'' (Elsevier North Holland)
+* ''Uncertain Prospects Ranking and Portfolio Analysis'' (Verlag Anton Hain)
+* ''Multiple Criteria Decision Making'' (University of South Carolina Press)
+* ''Multiple Criteria Decision Making: Kyoto 1975'' (Springer-Verlag)
+
+His books in Czech include:
+* ''Cesty k úspěchu'' (Roads to Success),
+* ''Neučte se z vlastních chyb'' (Do not Learn from your Own Mistakes),
+* ''Hledání vlastní cesty'' (Searching for your Own Way),
+* ''Všechno bude jinak'' (Everything will be Different),
+* ''To vám byl divný svět'' (What a Strange World it was) and some others.
+
+=== Other publications ===
+{{main|Milan Zeleny bibliography}}
+
+== References ==
+{{reflist|30em}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zeleny, Milan}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:Czechoslovak emigrants to the United States]]
+[[Category:Fordham University faculty]]
+[[Category:Binghamton University faculty]]
+[[Category:People from Tenafly, New Jersey]]
+[[Category:University of Economics, Prague alumni]]
+[[Category:University of Rochester alumni]]
+[[Category:Recipients of Medal of Merit (Czech Republic)]]
+[[Category:People from Kutná Hora District]]
+[[Category:Economists from New Jersey]]
+[[Category:21st-century American economists]]
+[[Category:Fu Jen Catholic University faculty]]
+[[Category:Czech economists]]

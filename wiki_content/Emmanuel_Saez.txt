@@ -1,0 +1,87 @@
+{{Infobox economist
+| name             = Emmanuel Saez
+| school_tradition = [[Neo-Keynesian economics]]
+| image            = Emmanuel Saez 2019 (cropped).jpg
+| image_size       = 
+| caption          = Saez in 2019
+| birth_date       = {{Birth date and age|1972|11|26}}
+| birth_place      = Spain
+| death_date       =
+| death_place      =
+| nationality      = French<br />American
+| institution      = [[University of California, Berkeley]]
+| field            = [[Public economics]] [[Economic history]]
+| alma_mater       = [[École Normale Supérieure]]<br />[[Massachusetts Institute of Technology]]<br />[[Paris School of Economics]]
+| doctoral_advisor = [[James M. Poterba]]<ref name="Thesis Supervisor">{{cite thesis |last= Saez |first= Emmanuel |date= 1999 |title= Essays on the economics of income taxation |type= Ph.D. |publisher= [[MIT]] |hdl= 1721.1/38434 }}</ref><br>[[Peter Diamond]]<ref name="Thesis Supervisor" />
+| influences       = [[Anthony Barnes Atkinson]]
+| influenced       =[[Thomas Piketty]]
+| contributions    = Research on [[Economic inequality|inequality]]
+| awards           = [[John Bates Clark Medal]] (2009)<br>[[MacArthur Fellowship]] (2010)
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = psa117
+}}
+
+'''Emmanuel Saez''' (born November 26, 1972) is a French, naturalized American [[Economics|economist]] who is Professor of Economics at the [[University of California, Berkeley]].<ref name="Berkeley">{{cite web|url=http://www.econ.berkeley.edu/econ/faculty/saez_e.shtml|title=University of California, Berkeley|website=Econ.berkeley.edu|access-date=2009-05-24}}</ref> His work, done with [[Thomas Piketty]] and [[Gabriel Zucman]], includes tracking the incomes of the poor, middle class and rich around the world. Their work shows that top earners in the United States have taken an increasingly larger share of overall income over the last three decades, with almost as much inequality as before the Great Depression. He recommends much higher (marginal) taxes on the rich, up to 70% or 90%.<ref>{{cite news|url=https://www.nytimes.com/2012/04/17/business/for-economists-saez-and-piketty-the-buffett-rule-is-just-a-start.html |title=For Two Economists, the Buffett Rule Is Just a Start|author=Annie Lowrey|newspaper=[[The New York Times]]|date=April 16, 2012|access-date=2016-09-10}}</ref> He received the [[John Bates Clark Medal]] in 2009, a MacArthur "Genius" Fellowship in 2010, and an honorary degree from Harvard University in 2019.
+
+==Research==
+Emmanuel Saez graduated from the [[École Normale Supérieure]] in 1996 where he studied mathematics and economics. He then received his [[Doctor of Philosophy|Ph.D]]. in economics from the [[Massachusetts Institute of Technology|Massachusetts Institute of Technology (MIT)]] in 1999.<ref>{{Cite web|url=http://eml.berkeley.edu/~saez/|title=Emmanuel Saez|website=eml.berkeley.edu|access-date=2016-12-27}}</ref>
+
+Saez has written extensively on the theory of optimal taxation and transfer, addressing topics such as wealth and income inequality, capital income taxation, and retirement. In addition to his theoretical work, he has authored a number of empirical papers, many of them applying the results from his theoretical work to US household data. His focus on the top 0.1% of the income and wealth distribution has led to his political theories about the "great compression" and the "great divergence"<ref>{{cite web|url=http://img.slate.com/media/3/100914_NoahT_GreatDivergence.pdf |title=Part One: Introducing the Great Divergence |website=Img.slate.com |access-date=2016-09-10}}</ref><ref>{{cite web|url=http://elsa.berkeley.edu/~saez/piketty-saezAEAPP06.pdf |title=The Evolution of Top Incomes: A Historical and International Perspective |author=Thomas Piketty |author2=Emmanuel Saez |website=Elsa.berkeley.edu |access-date=2016-09-10}}</ref> and led to significant research on the consensus about the ideal wealth distribution.
+
+Saez's research on wealth and [[Economic inequality|income inequality]] has largely focused on households at the top of the wealth and income distributions, which make up a significant portion of the US tax base.
+
+Conservative critics, such as James Pethokoukis of the [[American Enterprise Institute]], say that Saez and Piketty measure "market income," the total income before tax excluding income from government. Saez describes it as gross income reported on tax returns before any deductions. This excludes unemployment insurance, welfare payments, food stamps, [[Medicare (United States)|Medicare]], [[Medicaid]], Social Security and employer-provided health insurance. Saez says that these are the best data available, as measured consistently since 1913. Critics say that they exaggerate inequality.<ref>{{cite news|url=http://campaignstops.blogs.nytimes.com/2012/04/22/the-fight-over-inequality |title=The Fight Over Inequality|author=Thomas B. Edsall|newspaper=[[The New York Times]]|date=April 22, 2012|access-date=2016-09-10}}</ref>
+
+In 2011, Saez and [[Peter Diamond]] argued in public media a widely discussed paper<ref>{{cite news|url=https://krugman.blogs.nytimes.com/2011/11/22/taxing-job-creators/|title=Taxing Job Creators|newspaper=[[The New York Times]]|access-date=2016-09-10}}</ref><ref>{{cite web|url=http://www.project-syndicate.org/commentary/delong120/English |title=The 70% Solution by J. Bradford DeLong |publisher=Project Syndicate |date=2011-11-30 |access-date=2016-09-10}}</ref> that the proper marginal tax rate for North Atlantic societies and especially the United States to impose is 73% (substantially higher than the current 42.5% top US marginal tax rate).<ref>{{Cite journal | doi = 10.1257/jep.25.4.165| title = The Case for a Progressive Tax: From Basic Research to Policy Recommendation| year = 2011| last1 = Diamond | first1 = P. | author-link1 = Peter Diamond| last2 = Saez | first2 = E. | author-link2 = Emmanuel Saez| journal = [[Journal of Economic Perspectives]]| volume = 25| issue = 4| page = 165| s2cid = 14121517| url = http://elsa.berkeley.edu/~saez/diamond-saezJEP11full.pdf| doi-access = free}}</ref>
+
+Together with [[Raj Chetty]] and others he researched [[social mobility]] in the US. They found substantial geographic differences across the country that were correlated with five factors: segregation, [[Economic inequality|income inequality]], local school quality, social capital, and family structure.<ref>{{cite web|url=http://voxeu.org/article/where-land-opportunity-intergenerational-mobility-us|title=Where is the land of opportunity? Intergenerational mobility in the US|website=VoxEU.org|date=4 February 2014|access-date=2016-05-04}}</ref>
+
+==Awards==
+===John Bates Clark Medal===
+He was the recipient of the 2009 [[John Bates Clark Medal]], awarded to "that American economist under the age of forty who is judged to have made the most significant contribution to economic thought and knowledge."<ref>{{cite web |url=http://www.vanderbilt.edu/AEA/clark_medal.htm |title=Archived copy |access-date=2008-07-14 |url-status=dead |archive-url=https://web.archive.org/web/20080521122026/http://www.vanderbilt.edu/AEA/clark_medal.htm |archive-date=2008-05-21 }}</ref>
+Saez's research contributions have been mainly in the field of Public Economics. The 2009 John Bates Clark citation reads:<ref>{{cite web|url=http://www.vanderbilt.edu/AEA/PDF_files/Saez_Bio_2009.pdf |title=Emmanuel Saez |website=Vanderbilt.edu |access-date=2016-09-10}}</ref>
+<blockquote>
+"[Saez's] work attacks policy questions from both theoretical and empirical perspectives, on the one hand refining
+the theory in ways that link the characteristics of optimal policy to measurable aspects of the economy and of
+behavior, while on the other hand undertaking careful and creative empirical studies designed to fill the gaps
+in measurement identified by the theory.  Through a collection of interrelated papers, he has brought the
+theory of taxation closer to practical policy making, and has helped to lead a resurgence of academic interest
+in taxation."
+</blockquote>
+
+===MacArthur Fellow===
+In 2010, the [[MacArthur Foundation]] named Saez a MacArthur Fellow for his research into the connection between income and tax policy.<ref name="macarthur">{{cite web|title=Meet the 2010 Fellows |url=http://www.macfound.org/site/c.lkLXJ8MQKrH/b.6239749/k.1427/Meet_the_2010_Fellows.htm |archive-url=https://web.archive.org/web/20100930032319/http://www.macfound.org/site/c.lkLXJ8MQKrH/b.6239749/k.1427/Meet_the_2010_Fellows.htm |url-status=dead |archive-date=30 September 2010 |publisher=MacArthur Foundation |access-date=28 September 2010 }}</ref>
+
+==See also==
+*[[Income inequality in the United States|Inequality in the United States]]
+*[[Tax policy and economic inequality in the United States]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.econ.berkeley.edu/~saez/ Emmanuel Saez's homepage]
+* [http://elsa.berkeley.edu/~saez/saez-UStopincomes-2012.pdf "Striking it Richer: The Evolution of Top Incomes in the United States" (September 3, 2013)]
+* [http://dspace.mit.edu/handle/1721.1/38434 Essays on the economics of income taxation], PhD thesis (1999)
+
+{{Keynesians}}
+{{John Bates Clark Medal recipients}}
+{{John von Neumann Award recipients}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Saez, Emmanuel}}
+[[Category:1972 births]]
+[[Category:Living people]]
+[[Category:French economists]]
+[[Category:21st-century economists]]
+[[Category:Neo-Keynesian economists]]
+[[Category:Public economists]]
+[[Category:Labor economists]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:Harvard University faculty]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:MacArthur Fellows]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]

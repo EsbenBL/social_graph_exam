@@ -1,0 +1,119 @@
+{{about|the UK national institute for the data sciences|the institute based in Glasgow 1983–1994|Turing Institute}}
+{{EngvarB|date=June 2017}}
+{{Use dmy dates|date=June 2017}}
+{{Infobox organization
+| name = The Alan Turing Institute
+| logo = File:Alan Turing Institute logo.svg
+| type = [[Research institute]]
+| founded_date = {{Start date|2015}}
+| tax_id = 
+| registration_id = England and Wales: 09512457
+| founder = [[UK Government]]
+| leader_title = CEO
+| leader_name = [[Adrian Smith (statistician)|Adrian Smith]]
+| location = [[British Library]]
+| coordinates = 
+| origins = 
+| key_people = 
+| area_served = 
+| mission = 
+| focus = [[Data science]]s
+| method = 
+| revenue = 
+| endowment = 
+| num_volunteers = 
+| num_employees = 
+| num_members = 
+| subsid = 
+| non-profit_slogan = 
+| former name = 
+| homepage = {{Official URL}}
+| dissolved = 
+| footnotes = 
+| membership = {{Plainlist|
+* [[University of Birmingham]]
+* [[University of Bristol]]
+* [[University of Cambridge]]
+* [[University of Edinburgh]]
+* [[University of Exeter]]
+* [[University of Southampton]]
+* [[University of Oxford]]
+* [[University College London]]
+* [[University of Warwick]]
+* [[Queen Mary University of London]]
+* [[University of Manchester]]
+* [[University of Leeds]]
+* [[Newcastle University|University of Newcastle]]
+* [[Engineering and Physical Sciences Research Council]]}}
+}}
+
+'''The Alan Turing Institute''' is the United Kingdom's national institute for [[data science]] and [[artificial intelligence]], founded in 2015. It is named after [[Alan Turing]],<ref name=alan>{{Cite journal
+| last1 = Newman | first1 = M. H. A.
+| author-link = Max Newman
+| doi = 10.1098/rsbm.1955.0019
+| title = Alan Mathison Turing. 1912–1954
+| journal = [[Biographical Memoirs of Fellows of the Royal Society]]
+| volume = 1
+| pages = 253–226
+| year = 1955
+| jstor = 769256
+| doi-access = free
+}}</ref> the British mathematician and computing pioneer.
+
+==Governance==
+The Alan Turing Institute is an independent private-sector legal entity, operating [[not-for-profit]] and as a charity.<ref>{{EW charity|1162533|The Alan Turing Institute}}</ref> It is a joint venture among the [[University of Cambridge]], the [[University of Edinburgh]], the [[University of Oxford]], [[University College London|University College London (UCL)]] and the [[University of Warwick]], selected on the basis of international [[peer review]].<ref>{{cite web|url=http://www.epsrc.ac.uk/newsevents/news/alanturinginstitute/|title=Business Secretary Cable announces partners in the Alan Turing Institute|access-date=13 May 2016|archive-date=9 April 2016|archive-url=https://web.archive.org/web/20160409142902/https://www.epsrc.ac.uk/newsevents/news/alanturinginstitute/|url-status=dead}}</ref> In 2018, the institute was joined by eight additional university partners: [[Queen Mary University of London]], [[University of Leeds]], [[University of Manchester]],  [[Newcastle University|University of Newcastle]], [[University of Southampton]], [[University of Birmingham]], [[University of Exeter]] and [[University of Bristol]]. The [[Engineering and Physical Sciences Research Council|Engineering and Physical Sciences Research Council (EPSRC)]], the primary funder of the institute, is also a member of the joint venture. The primary responsibility for establishing the Alan Turing Institute has been assigned to the EPSRC, with continuing engagement in the shaping of the Institute from the [[Department for Business, Energy and Industrial Strategy|Department for Business, Energy and Industrial Strategy (BEIS)]] and the [[Government Office for Science]]. The Chair of the Alan Turing Institute, appointed in June 2015, is [[Howard Covington]]; the Institute Director and Chief Executive, appointed in 2018, is [[Adrian Smith (statistician)|Sir Adrian Smith]].
+
+==Location==
+[[File:Alan Turing Aged 16.jpg|thumb|The Institute is named in honour of [[Alan Turing]],<ref name=alan/> often considered the father of [[Computer Science]]|alt=]]
+Concurrently with the selection of founder universities, the EPSRC initiated a process to find a 'location partner'. The selected location is the [[British Library]] in London. This was announced by the [[George Osborne|Chancellor of the Exchequer]] on 4 December 2014 as a key part of the [[Knowledge Quarter, London|Knowledge Quarter]].<ref>{{cite web|url=https://www.gov.uk/government/news/new-turing-institute-at-londons-knowledge-quarter-announced-by-chancellor|title=New Turing Institute at London's Knowledge Quarter announced by Chancellor|access-date=13 May 2016}}</ref> The Alan Turing Institute is housed within the current British Library building and it is anticipated it will occupy new premises in a development planned on land between the [[Francis Crick Institute]] and the British Library.
+
+==Background, history and origin==
+The Alan Turing Institute is the indirect product of a letter from the [[Council for Science and Technology]] (CST) to the [[UK Prime Minister]] (7 June 2013), describing the "Age of Algorithms". The letter presents a case that "The Government, working with the universities and industry, should create a National Centre to promote advanced research and translational work in algorithms and the application of data science".
+
+Funding for the creation of the Institute came from a £600m investment for the '8 Great Technologies',<ref>{{cite web|url=https://www.gov.uk/government/publications/eight-great-technologies-infographics|title=Eight great technologies: infographics|access-date=13 May 2016}}</ref> and specifically so-called '[[big data]]', signalled by the UK Government in 2013<ref>{{cite news| url=https://www.theguardian.com/science/2013/jan/25/government-technology-science-funding | title='Eight great technologies' benefit from £600m in government funding | newspaper=[[The Guardian]] | location=UK | date=25 January 2013 | access-date=13 May 2016 }}</ref> and announced by [[George Osborne]], [[Chancellor of the Exchequer]], in the [[2014 United Kingdom budget|2014 Budget]].<ref name="Alan Turing Institute to be set up">{{Cite news | url=https://www.bbc.co.uk/news/technology-26651179 | title=Alan Turing Institute to be set up| work=BBC News| date=2014-03-19}}</ref> The bulk of the investment in 'big data' has been directed to computational infrastructure. Of the remainder, £42m has been allocated to the Institute to cover the initial five-year period of its operation.<ref name="Alan Turing Institute to be set up"/> The five founder universities have each contributed £5m to the Institute. Additional funding from industry, foundations and government bodies has already been indicated.{{Citation needed|date=November 2019}}
+
+The Alan Turing Institute fits into a complex organisational landscape that includes the [[Open Data Institute]], the [[Digital Catapult]] and infrastructure investments. The specific role of the Institute will be to provide the expertise and fundamental research into data science and artificial intelligence needed to solve real-world problems.<ref>{{cite web
+ | url = https://www.turing.ac.uk/about-us
+ | title = About Us
+ | last =
+ | first =
+ | date = 2021
+ | website = The Alan Turing Institute 
+ | publisher =
+ | access-date = 25 October 2021
+ | quote = }}</ref>
+
+==Notable people==
+* [[Howard Covington]], chair since 2015
+* [[Sir Adrian Smith]], Director and Chief Executive since 2018 
+
+===Fellows===
+* [[Melissa Terras]] (2018–20)
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website}}
+* [https://turing-seminar.github.io Theory and Algorithms in Data Science Seminar] – a series of talks at the Alan Turing Institute
+
+{{coord|51|31|46|N|0|07|37|W|region:GB_type:landmark|display=title}}
+{{Authority control}}
+
+[[Category:2015 establishments in the United Kingdom]]
+[[Category:Educational institutions established in 2015]]
+[[Category:Organisations based in London]]
+[[Category:Computer science institutes in the United Kingdom]]
+[[Category:Mathematical institutes]]
+[[Category:Statistical organisations in the United Kingdom]]
+[[Category:Information science]]
+[[Category:Systems engineering]]
+[[Category:Proposed buildings and structures in the United Kingdom]]
+[[Category:Information technology research institutes]]
+[[Category:British Library]]
+[[Category:Organisations associated with the University of Cambridge]]
+[[Category:Organisations associated with the University of Oxford]]
+[[Category:University of Edinburgh]]
+[[Category:University College London]]
+[[Category:University of Warwick]]
+[[Category:Alan Turing]]

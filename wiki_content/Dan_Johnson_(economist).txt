@@ -1,0 +1,74 @@
+{{Infobox economist
+| name             = Daniel K. N. Johnson
+| school_tradition =
+| color            =
+| image            = 
+| image_size       =
+| caption          = Johnson teaching at [[Colorado College]]
+| birth_name       = Daniel Kent Neil Johnson
+| birth_date       = c. {{birth year and age|1969}}
+| birth_place      = [[Canada]]
+| death_date       =
+| death_place      =
+| nationality      = [[Canadian-American]]
+| institution      = [[Colorado College]]<br>[[Wellesley College]]<br>[[Harvard University]]<br>[[Yale University]]
+| field            = [[Economics]]
+| alma_mater       = [[Yale University]]<br> <small>(Ph.D. 1998)</small><br />[[London School of Economics]]<br> <small>(M.Sc. 1992)</small> <br />[[University of Ottawa]] <br><small>(B.Soc.Sc. 1991)</small>
+| influences       =
+| influenced       =
+| contributions    =
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix =   | repec_id =
+}}
+
+'''Daniel Kent Neil Johnson''' (born c. 1969) is a [[Canadian-American]] [[microeconomist]] and [[entrepreneur]]. He is currently an [[Professor#Canada and the United States|associate professor]] in the [[economics]] department at [[Colorado College]]. His most notable research has been in predicting [[Olympic Games|Olympic]] medals.<ref>{{Cite web|url=https://www.forbes.com/2010/01/19/olympic-medal-predictions-business-sports-medals.html|title=The Man Who Predicts the Medals}}</ref>
+
+== Research ==
+Johnson's Olympic Medals Model uses five variables: country's [[per-capita income]], [[population]], [[political structure]], [[climate]], and host-nation advantage.<ref>{{Cite web|url=http://www.slate.com/articles/business/moneybox/2010/03/americas_joy_austrias_sorrow.html|title = Why the economic model predicting Olympic medal counts drastically underestimated the U.S. Haul.|date = 2 March 2010}}</ref> The model does not take into account athletic abilities of any star Olympians.<ref>{{Cite web|url=http://www.coloradocollege.edu/newsevents/newsroom/dan-johnson-the-man-who-predicts-medals|title=Dan Johnson: "The Man Who Predicts Medals" - Colorado College}}</ref> It has demonstrated 94% accuracy for predicting national medal counts and 87% accuracy for gold medal counts.<ref>{{Cite news|url=https://www.wsj.com/articles/SB10000872396390444184704577585541737428800|title=Our Medal Projections Stick the Landing|newspaper=Wall Street Journal|date=13 August 2012|last1=Futterman|first1=Matthew}}</ref> Since 2000, Johnson's model has become increasingly more accurate at predicting the number of gold medals a country will win, while becoming marginally less accurate at predicting the total number of medals.<ref>{{Cite news|url=https://www.economist.com/node/21559674|title=The dismal dash|newspaper=The Economist|date=28 July 2012}}</ref>
+
+Johnson's other work is in [[microeconomics|microeconomic]] [[analysis]], with emphasis on [[business development]]. He has worked in the areas of [[commodity]] [[analysis]], [[technology]] growth, and [[innovation]], among others.
+
+== Entrepreneurship ==
+In 2012, Johnson formed ''BookCheetah'', an online textbook trading service.
+<ref>http://www.coloradoconnection.com/news/story.aspx?id=797492#.ULqWK9PjlN0</ref>
+
+== Selected publications ==
+* [https://ssrn.com/abstract=127810 'Learning-by-Licensing': R & D and Technology Licensing in Brazilian Invention]
+* [https://ssrn.com/abstract=297544 A Tale of Two Seasons: Participation and Medal Counts at the Summer and Winter Olympic Games]
+* [https://ssrn.com/abstract=384242 Time in Purgatory: Determinants of the Grant Lag for U.S. Patent Applications]
+* [https://ssrn.com/abstract=926629 Are Many Heads Better than Two? Recent Changes in International Technological Collaboration]
+* [https://ssrn.com/abstract=997869 Selling Ideas: The Determinants of Patent Value in an Auction Environment]
+* [https://ssrn.com/abstract=991411 Fueling the Innovative Process: Oil Prices and Induced Innovation in Automotive Energy-Efficient Technology]
+* [https://ssrn.com/abstract=1224522 Semester, Trimester or Block Plan? Retention of Economics Principles by Undergraduates on Alternative Curricular Structures]
+* [https://ssrn.com/abstract=1521607 Lending a Hand: A Quantile Regression Analysis of Micro-Lending's Poverty Impact]
+* [https://ssrn.com/abstract=1456098 Financing Environmental Improvements: A Literature Review of the Constraints on Financing Environmental Innovation]
+* [https://ssrn.com/abstract=1416462 Thought for Food: A New Dataset on Innovation for Agricultural Use]
+
+=== Selected Awards and Honors ===
+* Ontario Scholar, 1987
+* University of Ottawa Academic Scholar, 1987–91
+* University of Ottawa Gold Medal, top standing in Honors Social Sciences, 1991
+* Yale Academic Scholar, 1992–96
+* International Honor Society in Economics Merit Certificate, 1995
+* John F. Enders Research Fellow, 1996
+* National Science Foundation Awards for Integration of Research & Education, 1999-2003
+* Banco do Brasil / University of Brasilia Economics Prize, 2003
+
+== References ==
+{{Reflist|45em}}
+
+== External links ==
+* [http://faculty1.coloradocollege.edu/~djohnson/Olympics/Olympics2012TablesOnly.pdf Olympic Medal Predictions]{{Dead link|date=July 2019 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Johnson, Dan}}
+[[Category:21st-century American economists]]
+[[Category:Canadian economists]]
+[[Category:Colorado College faculty]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:Yale University alumni]]
+[[Category:University of Ottawa alumni]]
+[[Category:1969 births]]
+[[Category:Living people]]

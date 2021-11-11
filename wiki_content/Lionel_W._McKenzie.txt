@@ -1,0 +1,77 @@
+{{refimprove|date=February 2013}}
+{{Infobox economist
+| school_tradition =
+| image       =
+| caption     =
+| name             = Lionel W. McKenzie
+| birth_date       = {{Birth date|mf=yes|1919|1|26}}
+| birth_place      = [[Montezuma, Georgia]]
+| death_date       = {{Death date and age|mf=yes|2010|10|12|1919|1|26}}
+| death_place      =
+| nationality      = American
+| field            = [[Economics]]
+| doctoral_advisor = [[Oskar Morgenstern]]<br>[[William Baumol]]
+| academic_advisors= 
+| doctoral_students= [[Michele Boldrin]]<br>[[Jerry Green (economist)|Jerry Green]]<br>[[Tapan Mitra]]<br>{{ill|Kazuo Nishimura|ja|西村和雄}}<br>[[José Scheinkman]]<br>[[Nicholas C. Yannelis]]<br>[[Makoto Yano]]
+| notable_students = 
+| influences       =
+| influenced       = 
+| contributions    =
+| repec_prefix = e | repec_id = pmc178
+}}
+
+'''Lionel Wilfred McKenzie''' (January 26, 1919 – October 12, 2010<ref name="obit">{{cite news|title=Pioneering Economist Lionel McKenzie, 91|url=http://www.rochester.edu/news/show.php?id=3700|access-date=15 October 2010|newspaper=University of Rochester|date=13 October 2010}}</ref>) was an American economist. He was the Wilson Professor Emeritus of Economics at the [[University of Rochester]].<ref>{{cite web|title=Economics Department Faculty |url=http://www.econ.rochester.edu/Faculty/Mckenzie.html |work=rochester.edu |publisher=University of Rochester |access-date=15 October 2010 |url-status=dead |archive-url=https://web.archive.org/web/20101003184236/http://www.econ.rochester.edu/Faculty/Mckenzie.html |archive-date= 3 October 2010 }}</ref> He was born in [[Montezuma, Georgia]]. He completed undergraduate studies at [[Duke University]] in 1939 and subsequently moved to [[Oxford]] that year as a [[Rhodes Scholar]]. McKenzie worked with the [[Cowles Commission]] while it was in Chicago and served as an assistant professor at Duke from 1948–1957. Having received his Ph.D. at [[Princeton University]] in 1956, McKenzie moved to Rochester where he was responsible for the establishment of the graduate program in economics.
+
+McKenzie has been the recipient of numerous professional awards, including the [[Guggenheim Fellowship]] in 1973, election to the United States [[National Academy of Sciences]] in 1978, the [[Order of the Rising Sun]] in 1995 and honorary doctorates from [[Keio University]] in 1998 and [[Kyoto University]] in 2004. The latter three reflect the success of his many Japanese students. McKenzie has been referred to as "the father of the mathematical economists in Japan".
+
+==Work==
+His research focused on [[general equilibrium theory|general equilibrium]] and capital theory. Although most widely known as a co-creator of the [[Arrow–Debreu–McKenzie model]], he also published a book and numerous research papers, including:
+
+* "On Equilibrium in Graham's Model of World Trade and Other Competitive Systems", ''Econometrica'', 1954.
+* "Demand Theory Without a Utility Index", ''The Review of Economic Studies'', 1957.
+* "On the Existence of General Equilibrium for a Competitive Economy", ''Econometrica'', 1959.
+* {{cite journal|title=Turnpike Theory|journal=Econometrica|volume=44|issue=5|jstor=1911532|pages=841–865|issn=00129682|doi=10.2307/1911532|year=1976|last1=McKenzie|first1=Lionel W.}}, 1976
+* "The Classical Theorem on Existence of Competitive Equilibrium", ''Econometrica'', 1981.
+* "Turnpike Theory, Discounted Utility, and the von Neumann Facet" ''Journal of Economic Theory'', 1983.{{doi|10.1016/0022-0531(83)90111-4}}
+* "General Equilibrium", ''The [[New Palgrave: A Dictionary of Economics]]'', 1987, v. 2, pp.&nbsp;498–512.
+* "[[Turnpike theory|Turnpike Theory]]", ''The New Palgrave: A Dictionary of Economics'', 1987, v. 4, pp.&nbsp;712–20.
+* ''Classical General Equilibrium Theory'', The MIT Press, 2002.
+
+The 1954 paper provided the first proof of the existence of a [[general equilibrium]], using [[Kakutani's fixed point theorem]]. Another proof, by [[Kenneth Arrow]] and [[Gérard Debreu]], was published in the next issue of the same journal.
+
+The 1957 paper appears to include the first derivation of [[Shephard's lemma]] in the context of consumer theory.
+
+In 2014, Till Düppe and [[E. Roy Weintraub]] published a book arguing that McKenzie was unfairly excluded from the Nobel Prizes which both Arrow and Debreu won for work on general equilibrium theory.<ref>{{cite book |first1=Till |last1=Düppe |first2=E. Roy |last2=Weintraub |title=Finding Equilibrium: Arrow, Debreu, McKenzie and the Problem of Scientific Credit |publisher=Princeton University Press |year=2014 |isbn=978-0-691-15664-4 }}</ref><ref>{{Cite journal | doi = 10.1257/jep.25.2.199| title = Retrospectives: Lionel W. Mc ''Kenzie'' and the Proof of the Existence of a Competitive Equilibrium| journal = Journal of Economic Perspectives| volume = 25| issue = 2| pages = 199–215| year = 2011| last1 = Weintraub | first1 = E. R. | url = http://www.aeaweb.org/articles.php?doi=10.1257/jep.25.2.199}}</ref>
+
+==Major publications==
+* {{citation | last = McKenzie | first = Lionel  | contribution = Matrices with dominant diagonals and economic theory | editor-last1 = Arrow | editor-first1 = Kenneth J. | editor-last2 = Karlin | editor-first2 = Samuel | editor-last3 = Suppes | editor-first3 = Patrick | editor-link1 = Kenneth Arrow | editor-link2 = Samuel Karlin | editor-link3 = Patrick Suppes | title = Mathematical models in the social sciences, 1959: Proceedings of the first Stanford symposium | pages = 47–62 | publisher = Stanford University Press | location = Stanford, California | series = Stanford mathematical studies in the social sciences, IV | year = 1960 | isbn = 9780804700214 }}
+* {{cite book|first=Lionel W. |last=McKenzie|title=Equilibrium, Trade, and Growth: Selected Papers of Lionel W. McKenzie|url=https://books.google.com/books?id=0_6Xwk6X-HQC|year=2009|publisher=MIT Press|isbn=978-0-262-13501-6}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{webarchive |url=https://web.archive.org/web/20081223225018/http://www.econ.rochester.edu/Faculty/Mckenzie.html |date=December 23, 2008 |title=Lionel W. McKenzie's biography at the University of Rochester }}
+* [http://www.kier.kyoto-u.ac.jp/eng/070226_ArticleYomiuri.html Valuable Materials to Trace the Professor's Line of Thought]
+* [http://www.rochester.edu/news/show.php?id=1678 Economist Lionel McKenzie to be Honored by Kyoto University]
+* [http://library.duke.edu/rubenstein/findingaids/mckenzielionel/ Inventory of the Lionel W. McKenzie Papers, 1942–2004 and undated], Rubenstein Rare Book and Manuscript Library, Duke University
+
+{{Presidents of the Econometric Society}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:McKenzie, Lionel W.}}
+[[Category:1919 births]]
+[[Category:2010 deaths]]
+[[Category:University of Rochester faculty]]
+[[Category:American economists]]
+[[Category:General equilibrium theorists]]
+[[Category:American Rhodes Scholars]]
+[[Category:People from Montezuma, Georgia]]
+[[Category:Princeton University alumni]]
+[[Category:Duke University alumni]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Recipients of the Order of the Rising Sun]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Distinguished Fellows of the American Economic Association]]

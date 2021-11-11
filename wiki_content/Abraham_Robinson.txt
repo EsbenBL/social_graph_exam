@@ -1,0 +1,80 @@
+{{short description|American mathematician}}
+{{more citations needed|date=February 2013}}
+{{Infobox scientist
+| name              = Abraham Robinson
+| image             =Robinson abraham 1970.jpg
+| caption= Robinson in 1970
+| alt               = Robinson wearing a suit, photographed from the side
+| birth_date        = {{Birth date|1918|10|6}}
+| birth_place       = [[Wałbrzych|Waldenburg]], [[German Empire]]
+| death_date        = {{Death date and age|1974|4|11|1918|10|6}}
+| death_place       = [[New Haven, Connecticut]], [[United States]]
+| fields            = [[Mathematics]]
+| workplaces        = [[University of California, Los Angeles]], [[Yale University]], [[University of Toronto]]
+| alma_mater        = [[Hebrew University]], [[University of London]]
+| doctoral_advisor  = [[Paul Dienes]]
+| doctoral_students = {{ubl|[[E. Mark Gold]]|[[Azriel Lévy]]|[[A. H. Lightstone]]|[[Peter Winkler]]|[[Carol S. Wood]]}}
+| known_for         = [[Non-standard analysis]]
+| influences        = {{ubl|[[Gottfried Leibniz]]|[[Abraham Fraenkel]]}}
+| influenced        = 
+| awards            = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| footnotes         = 
+}}
+'''Abraham Robinson''' (born '''Robinsohn''';<ref>{{MacTutor Biography|id=Robinson}}</ref> October 6, 1918 – April 11, 1974) was a [[mathematician]] who is most widely known for development of [[non-standard analysis]], a mathematically rigorous system whereby [[infinitesimal]] and [[Infinity#Nonstandard analysis|infinite]] numbers were reincorporated into modern mathematics. Nearly half of Robinson's papers were in [[applied mathematics]] rather than in [[pure mathematics]].<ref>{{Cite web|url=http://www-history.mcs.st-and.ac.uk/history/Biographies/Robinson.html|title=Robinson biography|website=www-history.mcs.st-and.ac.uk|access-date=2016-07-10}}</ref>
+
+==Biography==
+He was born to a [[Jewish]] family with strong [[Zionist]] beliefs, in [[Wałbrzych|Waldenburg]], [[German Empire|Germany]], which is now [[Wałbrzych]], in [[Poland]]. In 1933, he [[emigrate]]d to [[Mandatory Palestine|British Mandate of Palestine]], where he earned a first degree from the [[Hebrew University]]. Robinson was in [[France]] when the [[Nazi Germany|Nazis]] invaded during [[World War II]], and escaped by train and on foot, being alternately questioned by French soldiers suspicious of his German passport and asked by them to share his map, which was more detailed than theirs. While in [[London]], he joined the [[Free French Air Force]] and contributed to the war effort by teaching himself [[aerodynamics]] and becoming an expert on the [[airfoil]]s used in the wings of fighter planes.
+
+After the war, Robinson worked in [[London]], [[Toronto]], and [[Jerusalem]], but ended up at the [[University of California, Los Angeles]] in 1962.
+
+==Work in model theory==
+He became known for his approach of using the methods of [[mathematical logic]] to attack problems in [[mathematical analysis|analysis]] and [[abstract algebra]]. He "introduced many of the fundamental notions of [[model theory]]".<ref>Hodges, W: "A Shorter Model Theory", page 182. CUP, 1997</ref> Using these methods, he found a way of using [[formal logic]] to show that there are self-consistent nonstandard models of the [[real number system]] that include infinite and infinitesimal numbers. Others, such as [[Wilhelmus Luxemburg]], showed that the same results could be achieved using [[ultrafilter]]s, which made Robinson's work more accessible to mathematicians who lacked training in formal logic. Robinson's book ''Non-standard Analysis'' was published in 1966. Robinson was strongly interested in the history and philosophy of mathematics, and often remarked that he wanted to get inside the head of [[Gottfried Leibniz|Leibniz]], the first mathematician to attempt to articulate clearly the concept of [[infinitesimal|infinitesimal numbers]].
+
+While at UCLA his colleagues remember him as working hard to accommodate [[Doctor of Philosophy|PhD]] students of all levels of ability by finding them projects of the appropriate difficulty. He was courted by [[Yale University|Yale]], and after some initial reluctance, he moved there in 1967. In the Spring of 1973 he was a member of the [[Institute for Advanced Study]].<ref>{{Cite web|url=https://www.ias.edu/scholars/abraham-robinson|title=Abraham Robinson, Institute for Advanced Study|access-date=2017-11-25}}</ref> He died of [[pancreatic cancer]] in 1974.
+
+==Notes==
+{{Reflist}}
+
+==Publications==
+* {{Citation | last1=Robinson | first1=Abraham | author1-link=Abraham Robinson | title=Introduction to model theory and to the metamathematics of algebra | url=https://books.google.com/books?id=epztnQAACAAJ | publisher=North-Holland | location=Amsterdam | isbn=978-0-7204-2222-1 | mr=0153570 | year=1963}}
+* {{Citation | last1=Lightstone |first1 = A. H.| last2=Robinson | first2=Abraham | title=Nonarchimedean Fields and Asymptotic Expansions | year=1975 | publisher=North-Holland | isbn=978-0-7204-2450-8}}
+* {{Citation | last1=Robinson | first1=Abraham | author1-link=Abraham Robinson | editor1-last=Keisler | editor1-first=H. Jerome | editor1-link=Howard Jerome Keisler | title=Complete theories | orig-year=1956 | publisher=North-Holland | location=Amsterdam | edition=2nd | series=Studies in Logic and the Foundations of Mathematics | isbn=978-0-7204-0690-0 | mr=0472504 | year=1977}}
+* {{Citation | last1=Robinson | first1=Abraham | author1-link=Abraham Robinson | editor1-last=Keisler | editor1-first=H. Jerome | editor1-link=Howard Jerome Keisler | title=Selected papers of Abraham Robinson. Vol. I Model theory and algebra | url=https://books.google.com/books?id=Od4SQgAACAAJ&q=Selected+papers+of+Abraham+Robinson.+Vol.+I+Model+theory+and+algebra | publisher=[[Yale University Press]] | isbn=978-0-300-02071-7 | mr=533887 | year=1979}}
+* {{Citation | last1=Robinson | first1=Abraham | author1-link=Abraham Robinson | editor1-last=Luxemburg | editor1-first=W. A. J. | editor2-last=Körner | editor2-first=S. | title=Selected papers of Abraham Robinson. Vol. II Nonstandard analysis and philosophy | url=https://books.google.com/books?id=YFqRZwEACAAJ | publisher=Yale University Press | isbn=978-0-300-02072-4 | mr=533888 | year=1979}}
+* {{Citation | last1=Robinson | first1=Abraham | author1-link=Abraham Robinson | editor1-last=Young | editor1-first=A. D. | title=Selected papers of Abraham Robinson. Vol. III Aeronautics | url=https://books.google.com/books?id=Y6KwcAAACAAJ&q=bibliogroup:%22Selected+Papers+of+Abraham+Robinson%22 | publisher=Yale University Press | isbn=978-0-300-02073-1 | mr=533889 | year=1979}}
+* {{Citation | last1=Robinson | first1=Abraham | author1-link=Abraham Robinson | title=Non-standard analysis | orig-year=1966 | url=https://books.google.com/books?id=OkONWa4ToH4C | publisher=[[Princeton University Press]] | edition=2nd | series=Princeton Landmarks in Mathematics | isbn=978-0-691-04490-3 | mr=0205854 | year=1996}}
+
+==See also==
+* [[Influence of non-standard analysis]]
+
+==References==
+* [[Joseph Dauben|J. W. Dauben]] (1998) ''Abraham Robinson: The Creation of Nonstandard Analysis, A Personal and Mathematical Odyssey'', [[Princeton University Press]] {{ISBN|0-691-03745-0}}
+* [[G. D. Mostow]] (1976) Abraham Robinson 1918 — 1974, [[Israel Journal of Mathematics]] 25(1/2): 5–14 {{doi|10.1007/BF02756558}}
+* [[A. D. Young]], S. Cochen, [[Stephan Körner]] & [[Peter Roquette]] (1976) "Abraham Robinson", [[Bulletin of the London Mathematical Society]] 8(3): 307–23 {{mr|id=0409084}}
+
+==External links==
+*{{Commons category inline}}
+* {{Biographical Memoirs|robinson-abraham}}
+* [[Semen Samsonovich Kutateladze|Kutateladze S.S.]], [http://www.math.nsc.ru/LBRT/g2/english/ssk/abby_e.html ''Abraham Robinson, the creator of nonstandard analysis'']
+{{Infinitesimals}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Robinson, Abraham}}
+[[Category:1918 births]]
+[[Category:1974 deaths]]
+[[Category:20th-century American mathematicians]]
+[[Category:Alumni of the University of London]]
+[[Category:20th-century German mathematicians]]
+[[Category:Jewish emigrants from Nazi Germany to Mandatory Palestine]]
+[[Category:German emigrants to the United States]]
+[[Category:People from Wałbrzych]]
+[[Category:University of California, Los Angeles faculty]]
+[[Category:Yale University faculty]]
+[[Category:Brouwer Medalists]]
+[[Category:Mathematical logicians]]
+[[Category:Model theorists]]
+[[Category:Institute for Advanced Study visiting scholars]]
+[[Category:Yale Sterling Professors]]

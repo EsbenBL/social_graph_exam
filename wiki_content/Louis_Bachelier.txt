@@ -1,0 +1,405 @@
+{{redirect|Bachelier|the artist|Jean-Jacques Bachelier}}
+{{short description|French pioneer in mathematical economics}}
+{{Infobox scientist
+| name              = Louis Bachelier
+| image             = LouisBachelier.jpg
+| image_size        = 200px
+| caption           = Louis Bachelier, aged 20
+| birth_date        = {{birth date|1870|03|11|df=y}}
+| birth_place       = [[Le Havre]], [[France]] 
+| death_date        = {{death date and age|1946|04|28|1870|03|11|df=y}}
+| death_place       = [[Saint-Malo|Saint-Servan-sur-Mer]], [[France]]
+| nationality       = [[France|French]]
+| fields            = [[Mathematics]]
+| workplaces        = [[University of Paris]]<br/>[[Université de Franche-Comté]] (Besançon)<br/>[[University of Burgundy|Université de Dijon]]<br/>[[University of Rennes 1|University of Rennes]]
+| alma_mater        = University of Paris
+| doctoral_advisor  = [[Henri Poincaré]]
+| influenced = [[Benoit Mandelbrot]], [[Paul Samuelson]], [[Fischer Black]], [[Myron Scholes]]
+| known_for         = Pioneer in [[mathematical finance]]
+| awards            = 
+}}
+'''Louis Jean-Baptiste Alphonse Bachelier''' ({{IPA-fr|baʃəlje|lang}}; 11 March 1870 – 28 April 1946)<ref>{{harvnb|Felix|1970|pp=366–367}}</ref> was a [[French people|French]] [[mathematician]] at the turn of the 20th century. He is credited with being the first person to model the [[stochastic process]] now called [[Brownian motion]], as part of  his PhD thesis ''The Theory of Speculation'' (''Théorie de la spéculation'', published 1900).
+
+Bachelier's doctoral thesis, which introduced the first mathematical model of Brownian motion and its use for valuing [[stock options]], was the first paper to use advanced mathematics in the study of [[finance]]. Thus, Bachelier is considered as the forefather of [[mathematical finance]] and a pioneer in the study of stochastic processes.
+
+== Early years ==
+
+Bachelier was born in [[Le Havre]]. His father was a [[wine]] merchant and [[amateur]] [[scientist]], and the vice-consul of [[Venezuela]] at Le Havre. His mother was the daughter of an important banker (who was also a writer of [[poetry]] books). Both of Louis's parents died just after he completed his high school diploma ("baccalauréat" in French), forcing him to take care of his sister and three-year-old brother and to assume the family business, which effectively put his graduate studies on hold. During this time Bachelier gained a practical acquaintance with the financial markets. His studies were further delayed by [[military]] service. Bachelier arrived in Paris in 1892 to study at the [[University of Paris|Sorbonne]], where his grades were less than ideal.
+
+== The thesis ==
+
+Defended on 29 March 1900 at the University of Paris,<ref>{{cite web |url=https://www.encyclopediaofmath.org/images/f/f1/LouisBACHELIER.pdf |title=Louis BACHELIER, b. 11 March 1870 - d. 28 April 1946 |website=www.encyclopediaofmath.org}}</ref> Bachelier's thesis was not well received because it attempted to apply mathematics to an area mathematicians found unfamiliar.<ref>{{cite book |last=Weatherall |first=James Owen |date=January 2, 2013 |title= The Physics of Wall Street: A Brief History of Predicting the Unpredictable |url=https://archive.org/details/physicswallstree00weat|url-access=limited |publisher=Houghton Mifflin Harcourt |pages=[https://archive.org/details/physicswallstree00weat/page/n31 10]–11 |isbn=978-0547317274 }}</ref> However, his instructor, [[Henri Poincaré]], is recorded as having given some positive feedback (though insufficient to secure Bachelier an immediate teaching position in France at that time). For example, Poincaré called his approach to deriving [[Carl Friedrich Gauss|Gauss]]' law of errors
+ 
+{{cquote|very original, and all the more interesting in that [[Joseph Fourier|Fourier's]] reasoning can be extended with a few changes to the theory of errors. ... It is regrettable that M. Bachelier did not develop this part of his thesis further.}}
+
+The thesis received a grade of ''honorable,'' and was accepted for publication in the prestigious ''Annales Scientifiques de l’École Normale Supérieure''. While it did not receive a mark of ''très honorable'', despite its ultimate importance, the grade assigned is still interpreted as an appreciation for his contribution. [[Jean-Michel Courtault]] et al. point out in [http://www.ifa.com/Media/Images/PDF%20files/Bachelier100years.pdf "On the Centenary of ''Théorie de la spéculation''"] that ''honorable'' was "the highest note which could be awarded for a thesis that was essentially outside mathematics and that had a number of arguments far from being rigorous."
+
+== Academic career ==
+
+For several years following the successful defense of his thesis, Bachelier further developed the theory of [[diffusion processes]], and was published in prestigious journals. In 1909 he became a "free professor" at the [[University of Paris|Sorbonne]]. In 1914, he published a book, ''Le Jeu, la Chance, et le Hasard'' (Games, Chance, and Randomness), that sold over six thousand copies. With the support of the Council of the [[University of Paris]], Bachelier was given a permanent professorship at the Sorbonne, but [[World War I]] intervened and he was drafted into the French army as a private. His army service ended on December 31, 1918.<ref name=mf>{{cite journal|author=Jean-Michel Courtault|author2=Yuri Kabanov |author3=Bernard Bru |author4=Pierre Crépel |author5=Isabelle Lebon |author6=Arnaud Le Marchand |title=Louis Bachelier on the Centenary of Théorie de la Spéculation|journal=Mathematical Finance|year=2000|volume=10|issue=3|pages=339–353|doi=10.1111/1467-9965.00098|url=https://halshs.archives-ouvertes.fr/halshs-00447592/file/BACHEL2.PDF }}</ref> In 1919, he found a position as an assistant professor in [[Besançon]], replacing a regular professor on leave.<ref name=mf/> He married Augustine Jeanne Maillot in September 1920 but was soon widowed.<ref name=mf/> When the professor returned in 1922, Bachelier replaced another professor at [[Dijon]].<ref name=mf/> He moved to [[Rennes]] in 1925, but was finally awarded a permanent professorship in 1927 at the [[Université de Franche-Comté|University of Besançon]], where he worked for 10 years until his retirement.<ref name=mf/>
+
+Besides the setback that the war had caused him, Bachelier was blackballed in 1926 when he attempted to receive a permanent position at Dijon. This was due to a "misinterpretation" of one of Bachelier's papers by Professor [[Paul Lévy (mathematician)|Paul Lévy]], who—to Bachelier's understandable fury—knew nothing of Bachelier's work, nor of the candidate that Lévy recommended above him. Lévy later learned of his error, and reconciled himself with Bachelier.<ref>{{citation|title=The Misbehavior of Markets: A Fractal View of Financial Turbulence|first1=Benoit|last1=Mandelbrot|author1-link=Benoit Mandelbrot|first2=Richard L.|last2=Hudson|publisher=Basic Books|year=2014|isbn=9780465004683|url=https://books.google.com/books?id=oY8fAQAAQBAJ&pg=PA48|pages=48–49}}.</ref>
+
+Although Bachelier's work on [[random walk]]s predated [[Albert Einstein|Einstein]]'s celebrated study of [[Brownian motion]] by five years, the pioneering nature of his work was recognized only after several decades, first by [[Andrey Kolmogorov]] who pointed out his work to [[Paul Lévy (mathematician)|Paul Lévy]], then by [[Leonard Jimmie Savage]] who translated Bachelier's thesis into English and brought the work of Bachelier to the attention of [[Paul Samuelson]]. The arguments Bachelier used in his thesis also predate [[Eugene Fama]]'s [[efficient-market hypothesis]], which is very closely related, as the idea of a random walk is suited to predict the random future in a stock market where everyone has all the available information. His work in finance is recognized as one of the foundations for the [[Black–Scholes model]].
+
+==Works==
+*{{Harvnb|Bachelier|1900a}}, ''Théorie de la spéculation''
+:Also published as a book, {{Harvnb|Bachelier|1900b}}
+:Republished in a book of combined works, {{Harvnb|Bachelier|1995}}
+:Translated into English, {{Harvnb|Cootner|1964|pp=17–78}}
+:Translated into English with additional commentary and background, {{Harvnb|Bachelier|Samuelson|Davis|Etheridge|2006}}
+:Translated into English, {{Harvnb|May|2011}}
+*{{Harvnb|Bachelier|1901}}, ''Théorie mathématique du jeu''
+:Republished in a book of combined works, {{Harvnb|Bachelier|1995}}
+*{{Harvnb|Bachelier|1906}}, ''Théorie des probabilités continues''
+*{{Harvnb|Bachelier|1908a}}, ''Étude sur les probabilités des causes''
+*{{Harvnb|Bachelier|1908b}}, ''Le problème général des probabilités dans les épreuves répétées''
+*{{Harvnb|Bachelier|1910a}}, ''Les probabilités à plusieurs variables''
+*{{Harvnb|Bachelier|1910b}}, ''Mouvement d’un point ou d’un système matériel soumis à l’action de forces dépendant du hasard''
+*{{Harvnb|Bachelier|1912}}, (Book) ''Calcul des probabilités''<ref>{{cite journal|author=Rietz H. L.|title=Review: ''Calcul des Probabilités'' by Louis Bachelier. Tome I|journal=Bull. Amer. Math. Soc.|year=1914|volume=20|issue=5|pages=268–273|url=https://www.ams.org/journals/bull/1914-20-05/S0002-9904-1914-02484-X/S0002-9904-1914-02484-X.pdf|doi=10.1090/s0002-9904-1914-02484-x|doi-access=free}}</ref>
+:Republished, {{Harvnb|Bachelier|1992}}
+*{{Harvnb|Bachelier|1913a}}, ''Les probabilités cinématiques et dynamiques''
+*{{Harvnb|Bachelier|1913b}}, ''Les probabilités semi-uniformes''
+*{{Harvnb|Bachelier|1914}}, (Book) ''Le Jeu, la Chance et le Hasard''
+:Republished, {{Harvnb|Bachelier|1993}}
+:Translated into English, [http://kismet.press/portfolio/sketches-quantitative-finance/ Harding 2017]
+*{{Harvnb|Bachelier|1915}}, ''La périodicité du hasard''
+*{{Harvnb|Bachelier|1920a}}, ''Sur la théorie des corrélations''
+*{{Harvnb|Bachelier|1920b}}, ''Sur les décimales du nombre <math>{\pi}</math>''
+*{{Harvnb|Bachelier|1923}}, ''Le problème général de la statistique discontinue''
+*{{Harvnb|Bachelier|1925}}, ''Quelques curiosités paradoxales du calcul des probabilités''
+*{{Harvnb|Bachelier|1937}}, (Book) ''Les lois des grands nombres du Calcul des Probabilités'' (Book)
+*{{Harvnb|Bachelier|1938}}, (Book) ''La spéculation et le Calcul des Probabilités''
+*{{Harvnb|Bachelier|1939}}, (Book) ''Les nouvelles méthodes du Calcul des Probabilités''
+*{{Harvnb|Bachelier|1941a}}, ''Probabilités des oscillations maxima''
+:Erratum, {{Harvnb|Bachelier|1941b}}
+
+==See also==
+* [[Black–Scholes equation]]
+* [[Martingale (probability theory)|Martingale]]
+* [[Random walk]]
+* [[Brownian motion|Brownian Motion]]
+*[[Louis Bachelier Prize]]
+* [[Henri Poincaré]]
+* [[Vinzenz Bronzin]]
+* [[Jules Regnault]]
+
+==Citations==
+{{reflist}}
+
+==References==
+*[[Philip Ball]], ''Critical Mass'' Random House, 2004 {{ISBN|0-09-945786-5}}, pp238–242.
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1900a
+ | title       =Théorie de la spéculation
+ | periodical  =Annales Scientifiques de l'École Normale Supérieure
+ | volume      =3
+ | issue       =17
+ | pages       =21–86
+ | url         =http://archive.numdam.org/article/ASENS_1900_3_17__21_0.pdf
+}}
+
+*{{Citation
+ | last         =Bachelier | first =L.
+ | date         =1900b
+ | title        =Théorie de la spéculation
+ | publisher    =Gauthier-Villars
+}}
+
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1901
+ | title       =Théorie mathématique du jeu
+ | periodical  =Annales Scientifiques de l'École Normale Supérieure
+ | volume      =3
+ | issue       =18
+ | pages       =143–210
+ | url         =http://archive.numdam.org/article/ASENS_1901_3_18__143_0.pdf
+}}
+
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1906
+ | title       =Théorie des probabilités continues
+ | periodical  =Journal de Mathématiques Pures et Appliquées
+ | volume      =6
+ | issue       =2
+ | pages       =259–327
+ | url         =http://gallica.bnf.fr/ark:/12148/bpt6k1074714.image.r=Journal+de+Math%C3%A9matiques+Pures+et+Appliqu%C3%A9es.f262.langFR
+}}
+
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1908a
+ | title       =Étude sur les probabilités des causes
+ | periodical  =Journal de Mathématiques Pures et Appliquées
+ | volume      =6
+ | issue       =4
+ | pages       =395–425
+ | url         =http://gallica.bnf.fr/ark:/12148/bpt6k107473w.image.r=Journal+de+Math%C3%A9matiques+Pures+et+Appliqu%C3%A9es.f398.langFR
+}}
+
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1908b
+ | title       =Le problème général des probabilités dans les épreuves répétées
+ | periodical  =Comptes-rendus des Séances de l'Académie des Sciences
+ | volume      =Séance du 25 Mai 1908
+ | issue       =146
+ | pages       =1085–1088
+ | url         = http://gallica.bnf.fr/ark:/12148/bpt6k3100t.image.f1087.langFR
+}}
+
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1910a
+ | title       =Les probabilités à plusieurs variables
+ | periodical  =Annales Scientifiques de l'École Normale Supérieure
+ | volume      =3
+ | issue       =27
+ | pages       =339–360
+ | url         =http://archive.numdam.org/article/ASENS_1910_3_27__339_0.pdf
+}}
+
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1910b
+ | title       =Mouvement d'un point ou d'un système matériel soumis à l'action de forces dépendant du hasard
+ | periodical  =Comptes-rendus des Séances de l'Académie des Sciences
+ | volume      =Séance du 14 Novembre 1910, présentée par M. H. Poincaré
+ | issue       =151
+ | pages       =852–855
+ | url         =http://gallica.bnf.fr/ark:/12148/bpt6k31042.image.f852.langFR
+}}
+
+*{{Citation
+ | last         =Bachelier | first =L.
+ | year         =1912
+ | title        =Calcul des probabilités
+ | publisher    =Gauthier-Villars
+ | volume       =1
+ | url          =http://historical.library.cornell.edu/cgi-bin/cul.math/docviewer?did=02250001&seq=7
+}}
+
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1913a
+ | title       =Les probabilités cinématiques et dynamiques
+ | periodical  =Annales Scientifiques de l'École Normale Supérieure
+ | volume      =30
+ | pages       =77–119
+ | url         =http://archive.numdam.org/ARCHIVE/ASENS/ASENS_1913_3_30_/ASENS_1913_3_30__77_0/ASENS_1913_3_30__77_0.pdf
+}}
+
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1913b
+ | title       =Les probabilités semi-uniformes
+ | periodical  =Comptes-rendus des Séances de l'Académie des Sciences
+ | volume      =Séance du 20 Janvier 1913, présentée par M. Appell
+ | issue       =156
+ | pages       =203–205
+ | url         =http://gallica.bnf.fr/ark:/12148/bpt6k3109m.image.f203.langFR
+}}
+
+*{{Citation
+ | last         =Bachelier | first =L.
+ | year         =1914
+ | title        =Le Jeu, la Chance et le Hasard
+ | publisher    =Bibliothèque de Philosophie scientifique, E. Flammarion
+}}
+
+*{{Citation
+ |last        = Bachelier
+ |first       = L.
+ |year        = 1915
+ |title       = La périodicité du hasard
+ |periodical  = L'Enseignement Mathématique
+ |volume      = 17
+ |pages       = 5–11
+ |url         = http://retro.seals.ch/cntmng?type=pdf&rid=ensmat-001:1915:17::6&subp=hires
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20110716122920/http://retro.seals.ch/cntmng?type=pdf&rid=ensmat-001:1915:17::6&subp=hires
+ |archive-date = 2011-07-16
+}}
+
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1920a
+ | title       =Sur la théorie des corrélations
+ | periodical  = Bulletin de la Société Mathématique de France. Vie de la Société. Comptes Rendus des Séances
+ | volume      =Séance du 7 Juillet 1920
+ | issue       =48
+ | pages       =42–44
+ | url         = http://www.numdam.org/item?id=BSMF_1920__48__v1_0
+}}
+
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1920b
+ | title       =Sur les décimales du nombre <math>{\pi}</math>
+ | periodical  = Bulletin de la Société Mathématique de France. Vie de la Société. Comptes Rendus des Séances
+ | volume      =Séance du 7 Juillet 1920
+ | issue       =48
+ | pages       =44–46
+ | url         = http://www.numdam.org/item?id=BSMF_1920__48__v1_0
+}}
+
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1923
+ | title       =Le problème général de la statistique discontinue
+ | periodical  =Comptes-rendus des Séances de l'Académie des Sciences
+ | volume      =Séance du 11 Juin 1923, présentée par M. d’Ocagne
+ | issue       =176
+ | pages       =1693–1695
+ | url         =http://gallica.bnf.fr/ark:/12148/bpt6k31295.image.f1693.langFR
+}}
+
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1925
+ | title       =Quelques curiosités paradoxales du calcul des probabilités
+ | periodical  =[[Revue de Métaphysique et de Morale]]
+ | volume      =32
+ | pages       =311–320
+}}
+
+*{{Citation
+ | last         =Bachelier | first =L.
+ | year         =1937
+ | title        =Les lois des grands nombres du Calcul des Probabilités
+ | publisher    =Gauthier-Villars
+}}
+
+*{{Citation
+ | last         =Bachelier | first =L.
+ | year         =1938
+ | title        =La spéculation et le Calcul des Probabilités
+ | publisher    =Gauthier-Villars
+}}
+
+*{{Citation
+ | last         =Bachelier | first =L.
+ | year         =1939
+ | title        =Les nouvelles méthodes du Calcul des Probabilités
+ | publisher    =Gauthier-Villars
+}}
+
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1941a
+ | title       =Probabilités des oscillations maxima
+ | periodical  =Comptes-rendus des Séances de l'Académie des Sciences
+ | volume      =Séance du 19 Mai 1941
+ | issue       =212
+ | pages       =836–838
+ | url         =http://gallica.bnf.fr/ark:/12148/bpt6k3164q.image.f836.langFR
+}}
+
+*{{Citation 
+ | last        =Bachelier | first =L.
+ | year        =1941b
+ | title       =Probabilités des oscillations maxima (Erratum)
+ | periodical  =Comptes-rendus des Séances de l'Académie des Sciences
+ | issue       =213
+ | pages       =220
+ | url         =http://gallica.bnf.fr/ark:/12148/bpt6k445259w.image.f219.langFR
+}}
+
+*{{Citation
+ | last         =Bachelier | first =L.
+ | year         =1992
+ | title        =Reprint of Calcul des probabilités (1912)
+ | publisher    =Editions Jacques Gabay
+ | volume       =1
+ | isbn         =978-2-87647-090-3
+}}
+
+*{{Citation
+ | last         =Bachelier | first =L.
+ | year         =1993
+ | title        =Reprint of Le Jeu, la Chance et le Hasard (1914)
+ | publisher    =Editions Jacques Gabay
+ | isbn         =978-2-87647-147-4
+}}
+
+*{{Citation
+ | last         =Bachelier | first =L.
+ | year         =1995
+ | title        =Combined volume prints of Théorie de la spéculation (1900b) and Théorie mathématique du jeu (1901)
+ | publisher    =Editions Jacques Gabay
+ | isbn         =978-2-87647-129-0
+}}
+
+*{{Citation
+ | last1         =Bachelier | first1  =L.
+ | last2        =Samuelson | first2 =P. A. | author2-link =Paul_Samuelson
+ | last3        =Davis     | first3 =M.    | author3-link =Mark_H._A._Davis
+ | last4        =Etheridge | first4 =A.    
+ | year         =2006
+ | title        =Louis Bachelier's Theory of Speculation: the Origins of Modern Finance
+ | place        =Princeton NJ
+ | publisher    =Princeton University Press
+ | isbn         =978-0-691-11752-2
+}}
+
+*{{Citation
+ | last         =Cootner | first =P.H. (ed.) 
+ | year         =1964
+ | title        =The Random Character of Stock Market Prices
+ | place        =Cambridge, MA
+ | publisher    =MIT Press
+}}
+
+*{{Citation
+ | last1         =Bachelier | first1  =L.
+ | last2        =May | first2 =D. 
+ | year         =2011
+ | title        =Theory of Speculation
+ | place        =Google Documents
+ | url          =https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B5LLDy7-d3SKNGI0M2E0NGItYzFlMS00NGU2LWE2ZDAtODc3MDY3MzdiNmY0&hl=en_GB
+}}
+
+*{{Citation   | last1 =Courtault   | first1 =J-M.   | last2 =Kabanov   | first2 =Y.   | last3 =Bru   | first3 =B.   | last4 =Crépel   | first4 =P.   | last5 =Lebon   | first5 =I.   | last6 =Le Marchand   | first6 =A.   | year =2000   | title =On the Centenary of Théorie de la Spéculation   | periodical =Mathematical Finance   | volume =10   | issue =3, July 2000   | pages =341–353   | url =http://www.stochastik.uni-freiburg.de/bfsweb/LBachelier/mafi092XX.pdf   | doi =10.1111/1467-9965.00098   | url-status =dead   | archive-url =https://web.archive.org/web/20070622023955/http://www.stochastik.uni-freiburg.de/bfsweb/LBachelier/mafi092XX.pdf   | archive-date =2007-06-22   }}
+*{{Citation
+ | last         =Felix | first =L. 
+ | year         =1970
+ | title        =Dictionary of Scientific Biography
+ | place        =New York
+ | publisher    =Charles Scribner's Sons 
+ | volume       =1
+ | isbn         =978-0-684-10114-9
+| title-link =Dictionary of Scientific Biography }}
+
+*{{Citation
+ |last        = Taqqu
+ |first       = M.S.
+ |year        = 2001
+ |title       = Bachlier and his Times: A Conversation with Bernard Bru
+ |place       = Boston University
+ |url         = http://www.stochastik.uni-freiburg.de/bfsweb/LBachelier/bachelier_kap1.pdf
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20070627144338/http://www.stochastik.uni-freiburg.de/bfsweb/LBachelier/bachelier_kap1.pdf
+ |archive-date = 2007-06-27
+}}
+
+==External links==
+*[https://web.archive.org/web/20051013115908/http://sjepg.univ-fcomte.fr/sjepgbis/libre/bachelier/page01/page01.htm "Louis Bachelier, fondateur de la finance mathématique"] Louis Bachelier webpage at the Université de Franche-Comté, Besançon / France. Text in French.
+*{{MathGenealogy|id=87766}}
+*{{MacTutor Biography|id=Bachelier}}
+*[http://images.math.cnrs.fr/pdf2006/Crepel.pdf Louis Bachelier par Laurent Carraro et Pierre Crepel]
+*{{YouTube|AUSKTk9ENzg|Bachelier's theory of speculation is demonstrated by this 8&nbsp;ft tall Probability Machine comparing stock market returns to the randomness of the beans dropping through the quincunx pattern}}. also from Index Funds Advisors, this discussion of [http://www.ifa.com/12steps/step2/step2page2.asp#1900 Bachelier's and other academic's contribution to financial science.]
+{{Authority control}}
+
+{{DEFAULTSORT:Bachelier, Louis}}
+[[Category:19th-century French mathematicians]]
+[[Category:20th-century French mathematicians]]
+[[Category:Probability theorists]]
+[[Category:University of Paris alumni]]
+[[Category:1870 births]]
+[[Category:1946 deaths]]
+[[Category:People from Le Havre]]
+[[Category:University of Burgundy alumni]]
+[[Category:Chevaliers of the Légion d'honneur]]

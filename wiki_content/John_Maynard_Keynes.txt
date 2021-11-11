@@ -1,0 +1,1199 @@
+{{Short description|English economist (1883–1946)}}
+{{redirect|Keynes|his father|John Neville Keynes||Keynes (disambiguation)}}
+{{Use British English |date= August 2011}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox person
+| honorific_prefix   = [[The Right Honourable]]
+| name               = The Lord Keynes
+| honorific_suffix   = {{postnominals|country=GBR|size=100%|CB|FBA}}
+| image              = Keynes_1933.jpg
+| caption            = John Maynard Keynes in 1933
+| birth_date         = {{birth date|1883|6|5|df=yes}}
+| birth_place        = [[Cambridge]], [[Cambridgeshire]], England
+| death_date         = {{death date and age|1946|4|21|1883|6|5|df=yes}}
+| death_place        = Tilton, near [[Firle]], [[Sussex]], England
+| spouse             = {{marriage|[[Lydia Lopokova]]|1925}}
+| nationality        = British
+| alma_mater         = [[Eton College]]<br />[[King’s College, Cambridge]]
+| party              = [[Liberal Party (UK)|Liberal]]
+| module             = {{Infobox economist
+| embed              = yes
+| school_tradition   = [[Keynesian economics]]
+| alma_mater         = <!--use alma mater only for higher education-->{{unbulleted list |[[King's College, Cambridge]]}}
+| institution        = [[King's College, Cambridge]]
+| field              = {{hlist |[[Political economy]] |[[Probability]]}}
+| influences         = [[Jeremy Bentham]], [[Thomas Malthus]], [[Alfred Marshall]], [[Nicholas Johannsen]], [[Knut Wicksell]], [[Piero Sraffa]], [[John Neville Keynes]], [[Bertrand Russell]]<ref>{{cite book|title=The Return to Keynes|year=2010|publisher=Harvard University Press|isbn=978-0-674-05354-0|page=146|editor1=Bradley W. Bateman |editor2=Toshiaki Hirai |editor3=Maria Cristina Marcuzzo |url=https://books.google.com/books?id=8ggUJJqiDa4C&pg=PA146}}</ref>
+| influenced         = [[John Kenneth Galbraith]], [[Paul Samuelson]], [[John Hicks]], [[Nicholas Kaldor]], [[Joan Robinson]], [[Hyman Minsky]], [[Amartya Sen]], [[Abba Lerner]], [[Franco Modigliani]], [[James Tobin]] [[Robert Solow]], [[Ha Joon Chang]], [[Joseph Stiglitz]], [[Steve Keen]], [[Paul Krugman]], [[Robert Shiller]], [[George Akerlof]], [[Brad DeLong]], [[Thomas Piketty]], [[Yanis Varoufakis]], [[Robert Reich]], [[Zhou Xiaochuan]], [[Wolfgang Stützel]], [[Mariana Mazzucato]], [[Robin Hahnel]], [[Axel Leijonhufvud]], [[Manmohan Singh]], [[New Keynesian economics]], [[Post-Keynesian economics]]
+| contributions      = {{unbulleted list |[[Macroeconomics]] |[[Keynesian economics]] |[[Liquidity preference]] |[[Spending multiplier]] |[[AD–AS model]]|[[Demand-side economics]]}}
+| awards             = 
+| signature          = <!--file name only-->
+}}
+}}
+{{Macroeconomics sidebar}}
+'''John Maynard Keynes, 1st Baron Keynes''',<ref>{{cite ODNB |last= Cairncross |first= Alec |title= Keynes, John Maynard, Baron Keynes (1883–1946) |id= 34310}}</ref> {{post-nominals |country= GBR|size=100%|sep=,|CB|FBA}} ({{IPAc-en |k|eɪ|n|z}} {{respell |KAYNZ}}; 5 June 1883 – 21 April 1946) was an English [[economist]], whose ideas fundamentally changed the theory and practice of [[macroeconomics]] and the [[economic policies]] of governments. Originally trained in mathematics, he built on and greatly refined earlier work on the causes of [[business cycle]]s.{{sfn |Yergin|Stanislaw|2002 |pp= 39–42}} One of the most influential economists of the 20th century,<ref name="JMK">
+* {{cite news |first= John |last=Sloman |url= http://news.bbc.co.uk/1/hi/magazine/7682887.stm |title= How to kick-start a faltering economy the Keynes way |publisher= [[BBC]] | date= 22 October 2008}}
+* {{cite book|last= Cohn |first=Steven Mark|title= Reintroducing Macroeconomics: A Critical Approach |url= https://books.google.com/books?id=bZ5sBgAAQBAJ&pg=PP1 |year= 2015|publisher=Taylor & Francis |isbn= 978-1-317-46120-3 |page= 111}}
+* {{cite journal |last1= Davis |first1= William L. |first2= Bob |last2=Figgins |first3= David |last3=Hedengren |first4= Daniel B. |last4= Klein |title= Economic Professors' Favorite Economic Thinkers, Journals, and Blogs |journal= [[Econ Journal Watch]] |volume= 8 |issue=2 |pages= 126–46 |date=May 2011 |url= https://econjwatch.org/file_download/487/DavisMay2011.pdf?mimetype=pdf}}</ref> his ideas are the basis for the [[schools of economic thought|school of thought]] known as [[Keynesian economics]], and its various offshoots.<ref>{{cite book |last1=Skidelsky |first1=Robert |title=Keynes: The Return of the Master |date=26 October 2010 |publisher=Public affairs |location=Cambridge |isbn=978-1-58648-897-0 }}</ref>
+
+During the [[Great Depression]] of the 1930s, Keynes spearheaded [[Keynesian Revolution|a revolution in economic thinking]], challenging the ideas of [[neoclassical economics]] that held that [[free market]]s would, in the short to medium term, automatically provide full employment, as long as workers were flexible in their wage demands. He argued that [[aggregate demand]] (total spending in the economy) determined the overall level of economic activity, and that inadequate aggregate demand could lead to prolonged periods of high [[unemployment]], and that labour costs and wages were [[Nominal rigidity|rigid downwards]], which means the economy will not automatically rebound to full employment.<ref name=":0" /> Keynes advocated the use of [[fiscal policy|fiscal]] and [[monetary policies]] to mitigate the adverse effects of economic [[recession]]s and [[depression (economics)|depressions]]. He detailed these ideas in his magnum opus, ''[[The General Theory of Employment, Interest and Money]]'', published in late 1936. By the late 1930s, leading Western economies had begun adopting Keynes's policy recommendations. Almost all [[capitalist]] governments had done so by the end of the two decades following Keynes's death in 1946. As a leader of the British delegation, Keynes participated in the design of the international economic institutions established after the end of [[World War II]] but was overruled by the American delegation on several aspects.
+
+Keynes's influence started to wane in the 1970s, partly as a result of the [[stagflation]] that plagued the [[Economy of the United Kingdom|Anglo]]-[[Economy of the United States|American economies]] during that decade, and partly because of criticism of Keynesian policies by [[Milton Friedman]] and other [[monetarists]],<ref>{{cite book|last=Krugman|first=Paul |author-link=Paul Krugman|title=Peddling Prosperity: Economic Sense and Nonsense in the Age of Diminished Expectations|url=https://books.google.com/books?id=GcmvijkDrEcC&pg=PA43|year=1995|publisher=W.W. Norton|isbn=978-0-393-31292-8|page=43|quote=In 1968 in one of the decisive intellectual achievements of postwar economics, Friedman not only showed why the apparent tradeoff embodied in the idea of the Phillips curve was wrong; he also predicted the emergence of combined inflation and high unemployment&nbsp;... dubbed 'stagflation.}}</ref> who disputed the ability of government to favourably regulate the business cycle with [[fiscal policy]].<ref>{{cite news |title=To Set the Economy Right |date=27 August 1979 |access-date=13 November 2008 |url=http://www.time.com/time/magazine/article/0,9171,920558,00.html |archive-url=https://web.archive.org/web/20090404035920/http://www.time.com/time/magazine/article/0,9171,920558,00.html |url-status=dead |archive-date=4 April 2009 |work=[[Time (magazine)|Time]]}}</ref> However, the advent of the global [[financial crisis of 2007–2008]] sparked a [[2008–09 Keynesian resurgence|resurgence in Keynesian thought]]. Keynesian economics provided the theoretical underpinning for economic policies undertaken in response to the financial crisis of 2007–2008 by [[President of the United States|President]] [[Barack Obama]] of the United States, Prime Minister [[Gordon Brown]] of the United Kingdom, and other heads of governments.<ref>{{cite news|url=https://www.ft.com/content/8a3d8122-d5da-11dd-a9cc-000077b07658|title=The undeniable shift to Keynes|author1=Chris Giles|author2=Ralph Atkins|author3=Krishna Guha|work=Financial Times|access-date=23 January 2009}}</ref>
+
+When ''[[Time (magazine)|Time]]'' magazine included Keynes among its [[Time 100: The Most Important People of the Century|Most Important People of the Century]] in 1999, it stated that "his radical idea that governments should spend money they don't have may have saved capitalism."<ref>{{cite news |url= http://content.time.com/time/magazine/article/0,9171,990614,00.html |title= The Time 100: John Maynard Keynes |work=[[Time (magazine)|Time]] |first=Robert |last=Reich |date=29 March 1999 |access-date=18 June 2009 |author-link= Robert Reich}}</ref> ''[[The Economist]]'' has described Keynes as "Britain's most famous 20th-century economist."<ref>{{cite news |url= https://www.economist.com/news/britain/21577382-chancellor-likely-ignore-imfs-advice-toothless-truth-tellers |title=The IMF in Britain: Toothless truth tellers |work=[[The Economist]] |date= 11 May 2013 |access-date=2 October 2013}}</ref> In addition to being an economist, Keynes was also a [[Civil Service (United Kingdom)|civil servant]], a director of the [[Bank of England]], and a part of the [[Bloomsbury Group]] of intellectuals.<ref name="The Bloomsbury Group">{{cite web |url= http://therem.net/bloom-maynard.htm |title= Maynard Keynes  |publisher= The Bloomsbury Group |date= 22 August 2007 |access-date=26 May 2012}}</ref>
+
+==Early life and education==
+[[Image:KingsCollegeChapelWest.jpg|thumb| [[King's College, Cambridge]]. Keynes's grandmother wrote to him saying that, since he was born in Cambridge, people will expect him to be clever.]]
+
+John Maynard Keynes was born in [[Cambridge]], [[Cambridgeshire]], [[England]], to an upper-middle-class family. His father, [[John Neville Keynes]], was an economist and a lecturer in [[moral science]]s at the University of Cambridge and his mother, [[Florence Ada Keynes]], a local social reformer. Keynes was the first born, and was followed by two more children – [[Margaret Hill (social reformer)|Margaret Neville Keynes]] in 1885 and [[Geoffrey Keynes]] in 1887. Geoffrey became a surgeon and Margaret married the Nobel Prize–winning physiologist [[Archibald Hill]], although she had many affairs with women, notably [[Eglantyne Jebb]].<ref>{{Cite book|last=Mulley|first=Claire|title=The Woman Who Saved the Children: A Biography of Eglantyne Jebb: Founder of Save the Children.|publisher=One World Publications|year=2009|location=Oxford}}</ref>
+
+According to the [[economic historian]] and biographer [[Robert Skidelsky, Baron Skidelsky|Robert Skidelsky]], Keynes's parents were loving and attentive. They remained in the same house throughout their lives, where the children were always welcome to return. Keynes would receive considerable support from his father, including expert coaching to help him pass his scholarship exams and financial help both as a young man and when his assets were nearly wiped out at the onset of [[Great Depression]] in 1929. Keynes's mother made her children's interests her own, and according to Skidelsky, "because she could grow up with her children, they never outgrew home".<ref name="SkidelP1" >
+{{cite book |last=Skidelsky |first=Robert |title=John Maynard Keynes: 1883–1946: Economist, Philosopher, Statesman |year=2003 |isbn=0-330-48867-8 |pages= 14, 43–46, 456, 263, 834|publisher=Pan MacMillan Ltd.}}</ref>
+
+In January 1889 at the age of five and a half, Keynes started at the kindergarten of the [[Perse School for Girls]] for five mornings a week. He quickly showed a talent for arithmetic, but his health was poor leading to several long absences. He was tutored at home by a governess, Beatrice Mackintosh, and his mother. In January 1892, at eight and a half, he started as a day pupil at [[St Faith's School|St Faith's]] preparatory school. By 1894, Keynes was top of his class and excelling at mathematics. In 1896, St Faith's headmaster, Ralph Goodchild, wrote that Keynes was "head and shoulders above all the other boys in the school" and was confident that Keynes could get a scholarship to Eton.<ref>*</ref><ref>'''Sources''':
+* {{cite book|last=Hession|first=Charles Henry|title=John Maynard Keynes: A Personal Biography of the Man Who Revolutionized Capitalism|url=https://books.google.com/books?id=l8JdAAAAIAAJ|year=1984|pages=12–|isbn=0025513109|publisher=MacMillan Ltd.}}
+* {{cite book|last=Dostaler|first=Gilles|title=Keynes and His Battles|url=https://books.google.com/books?id=fGIamxBxQgsC&pg=PA262|year=2007|publisher=Edward Elgar Publishing|isbn=978-1-78100-837-9|pages=262–}}
+* {{cite web|url=http://www-history.mcs.st-andrews.ac.uk/Biographies/Keynes.html |title=John Maynard Keynes|first1=J.J.|last1=O'Connor|first2=E.F.|last2=Robertson|date=October 2003|publisher=MacTutor History of Mathematics|place=School of Mathematics and Statistics, University of St Andrews, Scotland|access-date= 25 January 2014}}
+* {{cite web|url=http://www.maynardkeynes.org/keynes-career-timeline.html |title=John Maynard Keynes – Timeline|access-date=26 May 2012}}
+* {{cite journal |last=Gümüş|first=Erdal|title=J. M. Keynes; Liberalism and Keynes; Keynes's Personal Life; Keynes's School Years|journal=Dumlupinar University Journal of Social Sciences|volume=5|issue=9|year=2003|pages=81–100|place=Eskisehir Osmangazi University|id=MPRA Paper No. 42373|url=http://mpra.ub.uni-muenchen.de/id/eprint/42373|access-date= 25 January 2014}} (cites Skidelsky)
+* {{citation|title=130 years of Perse Girls – Stephen Perse Foundation|url=http://www.stephenperse.com/resource.aspx?id=1666|year=2011|page=8|access-date=25 January 2014|url-status=dead|archive-url=https://web.archive.org/web/20150822072052/http://www.stephenperse.com/resource.aspx?id=1666|archive-date=22 August 2015}} includes a photograph that is said to show Keynes as a child at the Perse School Kindergarten</ref>
+
+In 1897, Keynes won a King's Scholarship to [[Eton College]], where he displayed talent in a wide range of subjects, particularly mathematics, [[classics]] and history: in 1901, he was awarded the [[George Tomline (politician)#Tomline Prize|Tomline Prize]] for mathematics. At Eton, Keynes experienced the first "love of his life" in Dan Macmillan, older brother of the future Prime Minister [[Harold Macmillan]].<ref name=Supermac>
+{{Cite book |title= Supermac: The Life of Harold Macmillan |last= Thorpe|first= D.R.|page= 27 |publisher=[[Chatto & Windus]] |year= 2010}}</ref> Despite his middle-class background, Keynes mixed easily with upper-class pupils.
+
+In 1902 Keynes left Eton for [[King's College, Cambridge]], after receiving a scholarship for this also to read mathematics. [[Alfred Marshall]] begged Keynes to become an economist,<ref>
+{{Cite book
+|last=McGee
+|first=Matt
+|title=Economics – In terms of The Good, The Bad and The Economist
+|year=2005
+ |page=354
+|isbn=1-876659-10-6|publisher=IBID Press
+|location=S.l.
+|oclc= 163584293 }}
+</ref>
+although Keynes's own inclinations drew him towards philosophy – especially the ethical system of [[G. E. Moore]]. Keynes was elected to the [[University Pitt Club]]<ref>{{cite book|last=Moggridge|first=Donald Edward|title=Maynard Keynes: An Economist's Biography|url=https://archive.org/details/maynardkeyneseco0047mogg|url-access=registration|year=1992|publisher=Routledge|location=Oxford|isbn=9781134798667|pages=[https://archive.org/details/maynardkeyneseco0047mogg/page/52 52–81]}}</ref> and was an active member of the semi-secretive [[Cambridge Apostles]] society, a debating club largely reserved for the brightest students. Like many members, Keynes retained a bond to the club after graduating and continued to attend occasional meetings throughout his life. Before leaving Cambridge, Keynes became the President of the [[Cambridge Union Society]] and [[Cambridge University Liberal Club]]. He was said to be an atheist.<ref>{{Cite book|url=https://books.google.com/books?id=s3qqM3B_920C&q=John+Maynard+Keynes+atheist&pg=PA11|title=Essays on John Maynard Keynes|last=Keynes|first=Milo|date=29 November 1979|publisher=Cambridge University Press|isbn=978-0-521-29696-0|language=en}}</ref><ref>{{Cite book|url=https://books.google.com/books?id=sgpb7PBClmUC&q=John+Maynard+Keynes+atheist&pg=PT24|title=Humanism: A Beginner's Guide|last=Cave|first=Peter|date=1 March 2009|publisher=Oneworld Publications|isbn=978-1-78074-029-4|language=en}}</ref>
+
+In May 1904, he received a first-class BA in mathematics. Aside from a few months spent on holidays with family and friends, Keynes continued to involve himself with the university over the next two years. He took part in debates, further studied philosophy and attended economics lectures informally as a graduate student for one term, which constituted his only formal education in the subject. He took civil service exams in 1906.
+
+The economist [[Harry Gordon Johnson|Harry Johnson]] wrote that the optimism imparted by Keynes's early life is a key to understanding his later thinking.<ref>
+{{cite web
+ |url         = http://www.liberalhistory.org.uk/item_single.php?item_id=31&item=biography
+ |title       = Biography of Baron John Maynard Keynes
+ |publisher   = LiberalHistory.org
+ |author      = David Gowland
+ |access-date  = 29 May 2009
+|url-status     = dead
+ |archive-url  = https://web.archive.org/web/20110616040146/http://www.liberalhistory.org.uk/item_single.php?item_id=31&item=biography
+ |archive-date = 16 June 2011
+|df          = dmy-all
+}}
+</ref>
+Keynes was always confident he could find a solution to whatever problem he turned his attention to and retained a lasting faith in the ability of government officials to do good.<ref name = "Cunningham" >
+{{cite book
+| last1 = Aschheim | first1 = J.
+| last2 = Tavlas | first2 = G. S.
+| last3 = Heinsohn | first3 = G.
+| last4 = Steiger | first4= O.
+| last5 = Wood (editor) | first5 = John Cunningham
+|chapter-url=https://books.google.com/books?id=EYbno7vSEbQC&pg=PA103
+|title= ''John Maynard Keynes: Critical Assessments'', pp. 101–120, 135
+|series=Second
+|chapter = The Monetary Thought-Ideology Nexus: Simons verses Keynes; Marx and Keynes – Private Property and Money
+|isbn=978-0-415-11415-8
+|year=1994}}
+</ref>
+Keynes's optimism was also cultural, in two senses: he was of the last generation raised by [[British Empire|an empire]] still at the height of its power and was also of the last generation who felt entitled to govern by culture, rather than by expertise. According to [[Robert Skidelsky, Baron Skidelsky|Skidelsky]], the sense of cultural unity current in Britain from the 19th century to the end of [[World War I]] provided a framework with which the well-educated could set various spheres of knowledge in relation to each other and life, enabling them to confidently draw from different fields when addressing practical problems.<ref name = "SkidelP1" />
+
+==Career==
+In October 1906 Keynes's [[Civil Service (United Kingdom)|Civil Service]] career began as a clerk in the [[India Office]].<ref>{{London Gazette|issue=11879|date=6 November 1906 |page=1124}}</ref> He enjoyed his work at first, but by 1908 had become bored and resigned his position to return to Cambridge and work on [[probability theory]], through a lectureship in economics at first funded personally by economists [[Alfred Marshall]] and [[Arthur Cecil Pigou|Arthur Pigou]]; he became a fellow of [[King's College, Cambridge|King's College]] in 1909.<ref>{{Cite book|last=Skidelsky|first=Robert|title=John Maynard Keynes vol 1: Hopes Betrayed|publisher=Macmillan|year=1983|isbn=0-333-11599-6|pages=205}}</ref>
+
+By 1909 Keynes had also published his first professional economics article in ''[[The Economic Journal]]'', about the effect of a recent global economic downturn on India.{{r|"Minksky"}} He founded the [[Political Economy Club (1909)|Political Economy Club]], a weekly discussion group.  Keynes's earnings rose further as he began to take on pupils for private tuition.
+
+In 1911 Keynes was made the editor of ''The Economic Journal''. By 1913 he had published his first book, ''Indian Currency and Finance''.<ref>See {{Cite book|last=Keynes|first=John Maynard|year=1913 |title=Indian Currency and Finance|publisher=Macmillan & Co.|place=London|url= https://archive.org/stream/indiancurrencyan014875mbp#page/n3/mode/2up }}</ref> He was then appointed to the [[Royal Commission]] on Indian Currency and Finance<ref>{{London Gazette|issue=28711|page=2809|date=18 April 1913}}</ref> – the same topic as his book – where Keynes showed considerable talent at applying economic theory to practical problems. His written work was published under the name "J M Keynes", though to his family and friends he was known as Maynard. (His father, John Neville Keynes, was also always known by his middle name).<ref name = "clarke" />
+
+===First World War===
+
+The British Government called on Keynes's expertise during the [[First World War]]. While he did not formally re-join the civil service in 1914, Keynes travelled to London at the government's request a few days before hostilities started. Bankers had been pushing for the suspension of [[Hard money (policy)|specie]] payments – the [[convertibility]] of [[banknotes]] into gold – but with Keynes's help the [[Chancellor of the Exchequer]] (then [[David Lloyd George|Lloyd George]]) was persuaded that this would be a bad idea, as it would hurt the future reputation of the city if payments were suspended before it was necessary.
+
+In January 1915 Keynes took up an official government position at the [[HM Treasury|Treasury]]. Among his responsibilities were the design of terms of credit between Britain and its continental allies during the war and the acquisition of scarce currencies. According to economist [[Robert Lekachman]], Keynes's "nerve and mastery became legendary" because of his performance of these duties, as in the case where he managed to assemble – with difficulty – a small supply of [[Spanish peseta]]s.
+
+The secretary of the Treasury was delighted to hear Keynes had amassed enough to provide a temporary solution for the British Government. But Keynes did not hand the pesetas over, choosing instead to sell them all to break the market: his boldness paid off, as pesetas then became much less scarce and expensive.<ref>
+{{cite book
+| last= Spiegel
+| first= Henry William
+| title= The Growth of Economic Thought
+| year= 1991
+| page= 602
+| isbn= 0-8223-0973-4
+| publisher=Duke University Press
+| location= Durham, UK
+}}
+</ref>
+
+On the introduction of [[military conscription]] in 1916, he applied for exemption as a [[conscientious objector]], which was effectively granted conditional upon continuing his government work.
+
+In the 1917 King's [[Birthday Honours]], Keynes was appointed [[Companion of the Order of the Bath]] for his wartime work,<ref>{{London Gazette|issue=30111 |supp=y|page=5456|date=1 June 1917}}</ref> and his success led to the appointment that had a huge effect on Keynes's life and career; Keynes was appointed financial representative for the Treasury to the 1919 [[Treaty of Versailles|Versailles peace conference]]. He was also appointed Officer of the Belgian [[Order of Leopold (Belgium)|Order of Leopold]].<ref>{{London Gazette|issue=31928 |supp=y|page=6175|date=1 June 1920}}</ref>
+
+===Versailles peace conference===
+{{Main|Heavenly Twins (Sumner and Cunliffe)}}
+
+[[Image:David Lloyd George 1902.jpg|thumb|Keynes's colleague, [[David Lloyd George]]. Keynes was initially wary of the "Welsh Wizard," preferring his rival [[H. H. Asquith|Asquith]], but was impressed with Lloyd George at Versailles; this did not prevent Keynes from painting a scathing picture of the then-prime minister in ''[[The Economic Consequences of the Peace]]''.]]
+
+Keynes's experience at [[Treaty of Versailles|Versailles]] was influential in shaping his future outlook, yet it was not a successful one. Keynes's main interest had been in trying to prevent [[World War I reparations|Germany's compensation payments]] being set so high it would traumatize innocent German people, damage the nation's ability to pay and sharply limit its ability to buy exports from other countries – thus hurting not just Germany's economy but that of the wider world.
+
+Unfortunately for Keynes, conservative powers in the coalition that emerged from the [[1918 United Kingdom general election|1918 coupon election]] were able to ensure that both Keynes himself and the Treasury were largely excluded from formal high-level talks concerning reparations. Their place was taken by the [[Heavenly Twins (Sumner and Cunliffe)|Heavenly Twins]] – the judge [[John Hamilton, 1st Viscount Sumner|Lord Sumner]] and the banker [[Walter Cunliffe, 1st Baron Cunliffe|Lord Cunliffe]] whose nickname derived from the "astronomically" high war compensation they wanted to demand from Germany. Keynes was forced to try to exert influence mostly from behind the scenes.
+
+The three principal players at Versailles were Britain's Lloyd George, France's [[Georges Clemenceau|Clemenceau]] and America's [[Woodrow Wilson|President Wilson]].<ref name = "origins">
+{{cite book
+|first = Frank
+|last= McDonough
+|pages = 43–46
+|title = The Origins of the First and Second World Wars
+|year=1997
+|publisher=Cambridge University Press
+|isbn=1-4051-0664-6}}
+</ref>
+It was only Lloyd George to whom Keynes had much direct access; until the 1918 election he had some sympathy with Keynes's view but while campaigning had found his speeches were only well received by the public if he promised to harshly punish Germany, and had therefore committed his delegation to extracting high payments.
+
+Lloyd George did, however, win some loyalty from Keynes with his actions at the Paris conference by intervening against the French to ensure the dispatch of much-needed food supplies to German civilians. Clemenceau also pushed for substantial reparations, though not as high as those proposed by the British, while on security grounds, France argued for an even more severe settlement than Britain.
+
+Wilson initially favoured relatively lenient treatment of Germany – he feared too harsh conditions could foment the rise of extremism and wanted Germany to be left sufficient capital to pay for imports. To Keynes's dismay, Lloyd George and Clemenceau were able to pressure Wilson to agree to include pensions in the reparations bill.
+
+Towards the end of the conference, Keynes came up with a plan that he argued would not only help Germany and other impoverished central European powers but also be good for the world economy as a whole. It involved the radical writing down of war debts, which would have had the possible effect of increasing international trade all round, but at the same time thrown over two thirds of the cost of European reconstruction on the United States.<ref>In 'Essays in Persuasion', Keynes estimates that cancellation of all inter-ally debts after the First World War would have resulted in a net cost to the US of £2.0 billion and of £0.9 billion to the UK (figures not adjusted for subsequent cumulative inflation). See section 'Paris (1919)' within chapter 'The treaty of peace'.</ref>
+
+Lloyd George agreed it might be acceptable to the British electorate. However, America was against the plan; the US was then the largest creditor, and by this time Wilson had started to believe in the merits of a harsh peace and thought that his country had already made excessive sacrifices. Hence despite his best efforts, the result of the conference was a treaty which disgusted Keynes both on moral and economic grounds and led to his resignation from the Treasury.<ref name="Skidel20s" >
+{{cite book
+|last=Skidelsky
+|first=Robert
+|title=John Maynard Keynes: 1883–1946: Economist, Philosopher, Statesman
+|year=2003
+|isbn=0-330-48867-8
+|pages= 217–220, 245, 260–265, 283, 342–355
+|publisher=Pan MacMillan Ltd.
+}}
+</ref>
+
+In June 1919 he turned down an offer to become chairman of the [[British Bank of Northern Commerce]], a job that promised a salary of £2000 in return for a morning per week of work.
+
+Keynes's analysis on the predicted damaging effects of the treaty appeared in the highly influential book, ''[[The Economic Consequences of the Peace]]'', published in 1919.<ref>{{cite web|url=http://www.policonomics.com/keynes/ |title=John Maynard Keynes |publisher=Policonomics |access-date=26 May 2012}}</ref> This work has been described as Keynes's best book, where he was able to bring all his gifts to bear – his passion as well as his skill as an economist. In addition to economic analysis, the book contained appeals to the reader's sense of [[compassion]]:
+
+{{blockquote|I cannot leave this subject as though its just treatment wholly depended either on our pledges or on economic facts. The policy of reducing Germany to servitude for a generation, of degrading the lives of millions of human beings, and of depriving a whole nation of happiness should be abhorrent and detestable, – abhorrent and detestable, even if it was possible, even if it enriched ourselves, even if it did not sow the decay of the whole civilized life of Europe.|sign=|source=}}
+
+Also present was striking imagery such as "year by year Germany must be kept impoverished and her children starved and crippled" along with bold predictions which were later justified by events:
+
+{{blockquote|text=If we aim deliberately at the impoverishment of Central Europe, vengeance, I dare predict, will not limp. Nothing can then delay for very long that final war between the forces of Reaction and the despairing convulsions of Revolution, before which the horrors of the late German war will fade into nothing.}}
+
+Keynes's followers assert that his predictions of disaster were borne out when the German economy suffered the [[Inflation in the Weimar republic|hyperinflation of 1923]], and again by the collapse of the [[Weimar Republic]] and the outbreak of the Second World War. However, historian [[Ruth Henig]] claims that "most historians of the Paris peace conference now take the view that, in economic terms, the treaty was not unduly harsh on Germany and that, while obligations and damages were inevitably much stressed in the debates at Paris to satisfy electors reading the daily newspapers, the intention was quietly to give Germany substantial help towards paying her bills, and to meet many of the German objections by amendments to the way the reparations schedule was in practice carried out".<ref>{{cite book|last=Henig|first=Ruth|title=Versailles and After, 1919–1933|url=https://books.google.com/books?id=lqInX6qQPyUC&pg=PA65|edition=second|year=1995|publisher=Routledge|isbn=978-1-134-79873-5|page=65}}</ref><ref>{{cite journal |first=Sally |last=Marks |title=Mistakes and Myths: The Allies, Germany, and the Versailles Treaty, 1918–1921 |journal=[[The Journal of Modern History]] |date=September 2013 |volume=85 |issue=3 |pages=632–659 |jstor=10.1086/670825 |doi=10.1086/670825 |s2cid=154166326 |quote=For nearly forty years, historians of twentieth-century diplomacy have argued that the Versailles treaty was more reasonable than its reputation suggests and that it did not of itself cause the Depression, the rise of Hitler, or World War II" (p. 632). Marks also claims that the book is a "brilliant but warped polemic" (p. 636) that is "long-discredited by scholars" and which Keynes regretted writing (p. 656).}}</ref>
+
+Only a small fraction of reparations was ever paid. In fact, historian [[Stephen A. Schuker]] demonstrates in ''American 'Reparations' to Germany, 1919–33'', that the capital inflow from American loans substantially exceeded German out payments so that, on a net basis, Germany received support equal to four times the amount of the post-Second World War [[Marshall Plan]].
+
+Schuker also shows that, in the years after Versailles, Keynes became an informal reparations adviser to the German government, wrote one of the major German reparation notes, and supported the hyperinflation on political grounds.  Nevertheless, ''The Economic Consequences of the Peace'' gained Keynes international fame, even though it also caused him to be regarded as anti-establishment – it was not until after the outbreak of the Second World War that Keynes was offered a directorship of a major British Bank, or an acceptable offer to return to government with a formal job. However, Keynes was still able to influence government policy making through his network of contacts, his published works and by serving on government committees; this included attending high-level policy meetings as a consultant.<ref name="Skidel20s" />
+
+===In the 1920s===
+
+Keynes had completed his ''[[A Treatise on Probability]]'' before the war but published it in 1921.<ref name="Skidel20s" /> The work was a notable contribution to the philosophical and mathematical underpinnings of [[probability theory]], championing the important view that ''probabilities'' were no more or less than [[truth value]]s intermediate between simple truth and falsity. Keynes developed the first upper-lower probabilistic [[interval (mathematics)|interval]] approach to probability in chapters 15 and 17 of this book, as well as having developed the first decision weight approach with his conventional coefficient of risk and weight, ''c'', in chapter 26. In addition to his academic work, the 1920s saw Keynes active as a journalist selling his work internationally and working in London as a financial consultant. In 1924 Keynes wrote an obituary for his former tutor
+[[Alfred Marshall]] which [[Joseph Schumpeter]] called "the most brilliant life of a man of science I have ever read."<ref>
+{{cite book
+|last=Schumpeter
+|first=Joseph
+|title= Ten Great Economists
+|year=2003
+|page= 271
+|isbn=1-932512-09-8
+|publisher=Simon Publications
+}}
+</ref>
+Marshall's widow was "entranced" by the memorial, while [[Lytton Strachey]] rated it as one of Keynes's "best works".<ref name="Skidel20s" />
+
+In 1922 Keynes continued to advocate reduction of German reparations with ''A Revision of the Treaty''.<ref name="Skidel20s" /> He attacked the post-World War I deflation policies with ''A Tract on Monetary Reform'' in 1923<ref name="Skidel20s" /> – a trenchant argument that countries should target stability of domestic prices, avoiding deflation even at the cost of allowing their currency to depreciate. Britain suffered from high unemployment through most of the 1920s, leading Keynes to recommend the depreciation of [[Pound sterling|sterling]] to boost jobs by making British exports more affordable. From 1924 he was also advocating a fiscal response, where the government could create jobs by spending on public works.<ref name="Skidel20s" /> During the 1920s Keynes's pro stimulus views had only limited effect on policy makers and mainstream academic opinion – according to [[Hyman Minsky]] one reason was that at this time his theoretical justification was "muddled".<ref name = "Minksky" /> The ''Tract'' had also called for an end to the gold standard. Keynes advised it was no longer a net benefit for countries such as Britain to participate in the [[gold standard]], as it ran counter to the need for domestic policy autonomy. It could force countries to pursue deflationary policies at exactly the time when expansionary measures were called for to address rising unemployment. The Treasury and Bank of England were still in favour of the gold standard and in 1925 they were able to convince the then Chancellor [[Winston Churchill]] to re-establish it, which had a depressing effect on British industry. Keynes responded by writing ''The Economic Consequences of Mr. Churchill'' and continued to argue against the gold standard until Britain finally abandoned it in 1931.<ref name="Skidel20s" />
+
+===During the Great Depression===
+[[Image:Lange-MigrantMother02.jpg|thumb|The [[Great Depression]] and its periods of worldwide economic hardship formed the backdrop against which the [[Keynesian Revolution]] took place. This image is ''[[Florence Owens Thompson|Migrant Mother]]'', taken by photographer [[Dorothea Lange]] in March 1936.]]
+{{wikiquote|The General Theory of Employment, Interest and Money}}
+
+Keynes had begun a theoretical work to examine the relationship between unemployment, money, and prices back in the 1920s.<ref name="50 greats" /> The work, ''[[A Treatise on Money|Treatise on Money]]'', was published in 1930 in two volumes. A central idea of the work was that if the amount of money being saved exceeds the amount being invested – which can happen if interest rates are too high – then unemployment will rise. This is in part a result of people not wanting to spend too high a proportion of what employers pay out, making it difficult, in aggregate, for employers to make a profit. Another key theme of the book is the unreliability of financial [[index (economics)|indices]] for representing an accurate – or indeed meaningful – indication of general shifts in purchasing power of currencies over time. In particular, he criticised the justification of Britain's return to the [[gold standard]] in 1925 at pre-war valuation by reference to the [[wholesale price index]]. He argued that the index understated the effects of changes in the costs of services and labour.
+
+Keynes was deeply critical of the British government's austerity measures during the [[Great Depression]]. He believed that budget deficits during [[recession]]s were a good thing and a natural product of an economic slump. He wrote, "For Government borrowing of one kind or another is nature's remedy, so to speak, for preventing business losses from being, in so severe a slump as the present one, so great as to bring production altogether to a standstill."<ref name="Cassidy2011">{{cite news|last=Cassidy|first=John|author-link = John Cassidy (journalist)|title=The Demand Doctor|newspaper=The New Yorker|date=10 October 2011|url = https://www.newyorker.com/magazine/2011/10/10/the-demand-doctor}}</ref>
+
+At the height of the Great Depression, in 1933, Keynes published ''The Means to Prosperity'', which contained specific policy recommendations for tackling unemployment in a global recession, chiefly counter-cyclical public spending. ''The Means to Prosperity'' contains one of the first mentions of the [[Multiplier (economics)|multiplier effect]]. While it was addressed chiefly to the British Government, it also contained advice for other nations affected by the global recession. A copy was sent to the newly elected President [[Franklin D. Roosevelt]] and other world leaders. The work was taken seriously by both the American and British governments, and according to [[Robert Skidelsky, Baron Skidelsky|Robert Skidelsky]], helped pave the way for the later acceptance of Keynesian ideas, though it had little immediate practical influence. In the 1933 [[London Economic Conference]] opinions remained too diverse for a unified course of action to be agreed upon.<ref name = "Skid30s" >
+{{cite book
+|last=Skidelsky
+|first=Robert
+|title=John Maynard Keynes: 1883–1946: Economist, Philosopher, Statesman
+|year=2003
+|isbn=0-330-48867-8|pages= 494–500, 504, 509–510
+|publisher=Pan MacMillan Ltd.
+}}</ref>
+{{external media | width = 210px | float = right | headerimage= | video1 = [https://www.c-span.org/video/?169138-1/john-maynard-keynes-fighting-freedom ''Booknotes'' interview with Robert Skidelsky on ''John Maynard Keynes: Fighting for Freedom, 1937–1946'', 28 April 2002], [[C-SPAN]]}}
+Keynesian-like policies were adopted by Sweden and Germany, but Sweden was seen as too small to command much attention, and Keynes was deliberately silent about the [[Economy of Nazi Germany#Pre-war economy: 1933–1939|successful efforts of Germany]] as he was dismayed by its imperialist ambitions and its treatment of Jews.<ref name = "Skid30s" /> Apart from Great Britain, Keynes's attention was primarily focused on the United States. In 1931, he received considerable support for his views on counter-cyclical public spending in Chicago, then America's foremost center for economic views alternative to the mainstream.<ref name = "Minksky" /><ref name = "Skid30s" /> However, orthodox economic opinion remained generally hostile regarding fiscal intervention to mitigate the [[Depression (economics)|depression]], until just before the [[World War II|outbreak of war]].<ref name = "Minksky"/> In late 1933 Keynes was persuaded by [[Felix Frankfurter]] to address President Roosevelt directly, which he did by letters and face to face in 1934, after which the two men spoke highly of each other.<ref name = "Skid30s"/> However, according to Skidelsky, the consensus is that Keynes's efforts began to have a more than marginal influence on US economic policy only after 1939.<ref name = "Skid30s"/>
+
+Keynes's ''[[Masterpiece|magnum opus]]'', ''[[The General Theory of Employment, Interest and Money]]'' was published in 1936.<ref name=":0">{{Cite web|title=The General Theory of Employment, Interest, and Money|url=http://cas2.umkc.edu/economics/people/facultypages/kregel/courses/econ645/winter2011/generaltheory.pdf|url-status=dead|archive-url=https://web.archive.org/web/20191126172202/http://cas2.umkc.edu/economics/people/facultypages/kregel/courses/econ645/winter2011/generaltheory.pdf|archive-date=26 November 2019|access-date=2021-05-07}}</ref> It was researched and indexed by one of Keynes's favourite students, later the economist [[David Bensusan-Butt]].<ref>{{cite book |first=Keith |last=Tribe |title=Economic Careers: Economics and Economists in Britain, 1930–1970 |location=London |publisher=Routledge |year=1997 |page=61 |isbn=0-415-14708-5 }}</ref> The work served as a theoretical justification for the [[Economic interventionism|interventionist policies]] Keynes favoured for tackling a recession. Although Keynes stated in his preface that his General Theory was only secondarily concerned with the “applications of this theory to practice,” the circumstances of its publication were such that his suggestions shaped the course of the 1930s.<ref>{{cite journal |last1=Sangkuhl |first1=Elfriede |title=How the Macroeconomic Theories of Keynes influenced the Development of Government Economic Finance Policy after the Great Depression of the 1930's: Using Australia as the Εxample |journal=Athens Journal of Law |date=January 2015 |volume=1 |issue=1 |page=34 |doi=10.30958/ajl.1.1.3 |doi-access=free }}</ref> In addition, Keynes introduced the world to a new interpretation of taxation: since the legal tender is now defined by the state, inflation becomes “taxation by currency depreciation”. This hidden tax meant a) that the standard of value should be governed by deliberate decision; and (b) that it was possible to maintain a middle course between deflation and inflation.<ref>{{cite journal |last1=Clarida |first1=Richard |title=The Science of Monetary Policy: a New Keynesian Perspective |journal=Journal of Economic Literature |date=1999 |volume=37 |issue=4 |pages=1661–1707 |doi=10.1257/jel.37.4.1661 |hdl=10230/360 |s2cid=55045787 |hdl-access=free }}</ref> This novel interpretation was inspired by the desperate search for control over the economy which permeated the academic world after the Depression. The ''General Theory'' challenged the earlier [[neoclassical economics|neoclassical economic]] paradigm, which had held that provided it was unfettered by government interference, the market would naturally establish [[full employment]] equilibrium. In doing so Keynes was partly setting himself against his former teachers Marshall and Pigou. Keynes believed the classical theory was a "special case" that applied only to the particular conditions present in the 19th century, his theory being the general one. Classical economists had believed in [[Say's law]], which, simply put, states that "[[supply creates its demand]]", and that in a free market workers would always be willing to lower their wages to a level where employers could profitably offer them jobs. An innovation from Keynes was the concept of [[Nominal rigidity|price stickiness]] – the recognition that in reality workers often refuse to lower their wage demands even in cases where a classical economist might argue that it is rational for them to do so. Due in part to price stickiness, it was established that the interaction of "[[aggregate demand]]" and "[[aggregate supply]]" may lead to stable unemployment equilibria – and in those cases, it is on the state, not the market, that economies must depend for their salvation.
+
+[[File:Keynes caricature Low 1934.jpg|left|thumb|Caricature by [[David Low (cartoonist)|David Low]], 1934]]
+
+The ''General Theory'' argues that demand, not supply, is the key variable governing the overall level of economic activity. Aggregate demand, which equals total un-hoarded income in a society, is defined by the sum of consumption and investment. In a state of unemployment and unused production capacity, one can enhance employment and total income ''only'' by ''first'' increasing expenditures for either consumption or investment. Without government intervention to increase expenditure, an economy can remain trapped in a low-employment equilibrium. The demonstration of this possibility has been described as the revolutionary formal achievement of the work.<ref name = "SkidelP2" >
+{{cite book
+|last=Skidelsky
+|first=Robert
+|title=John Maynard Keynes: 1883–1946: Economist, Philosopher, Statesman
+|year=2003
+|isbn=0-330-48867-8
+|pages= 530, 572, 586, 750, 789, 833|publisher=Pan MacMillan Ltd.
+}}</ref>
+The book advocated activist economic policy by government to stimulate demand in times of high unemployment, for example by spending on [[public works]]. "Let us be up and doing, using our idle resources to increase our wealth," he wrote in 1928. "With men and plants unemployed, it is ridiculous to say that we cannot afford these new developments. It is precisely with these plants and these men that we shall afford them."<ref name="Cassidy2011" />
+
+The ''General Theory'' is often viewed as the foundation of modern [[macroeconomics]]. Few senior American economists agreed with Keynes through most of the 1930s.<ref name = "Hazlit">
+{{cite book
+|last=Hazlitt
+|first=Henry
+|title=The critics of Keynesian Economics
+|year=1995
+|orig-year=1960
+|isbn=978-1-57246-013-3
+|publisher=[[Foundation for Economic Education]]
+|location=Irvington-on-Hudson, N.Y.
+}}</ref>
+Yet his ideas were soon to achieve widespread acceptance, with eminent American professors such as [[Alvin Hansen]] agreeing with the ''General Theory'' before the outbreak of World War II.<ref name="new economics">
+{{cite book
+|first = Seymour E.
+|last=Harris
+|title=The New Economics: Keynes's Influence on Theory and Public Policy
+|year=2005
+|page = xxii, 46
+|isbn=1-4191-4534-7
+|publisher=Kessinger Publishing
+}}
+</ref><ref>
+{{cite journal
+|last=Martin
+|first=Kingsley
+|date=16 March 1940
+|title=Mr Keynes Has A Plan
+|journal=[[Picture Post]]
+}}
+</ref><ref name="K rev. and critics" />
+
+Keynes himself had only limited participation in the theoretical debates that followed the publication of the ''General Theory'' as he suffered a heart attack in 1937, requiring him to take long periods of rest. Among others, [[Hyman Minsky]] and [[Post-Keynesian economics|Post-Keynesian]] economists have argued that as result, Keynes's ideas were diluted by those keen to compromise with classical economists or to render his concepts with mathematical models like the [[IS–LM model]] (which, they argue, distort Keynes's ideas).<ref name="Minksky"/><ref name="K rev. and critics" /> Keynes began to recover in 1939, but for the rest of his life his professional energies were directed largely towards the practical side of economics: the problems of ensuring optimum allocation of resources for the war efforts, post-war negotiations with America, and the new international financial order that was presented at the [[Bretton Woods Conference]].
+
+In the ''General Theory'' and later, Keynes responded to the socialists who argued, especially during the Great Depression of the 1930s, that capitalism caused war. He argued that if capitalism were managed domestically and internationally (with coordinated international Keynesian policies, an international monetary system that did not pit the interests of countries against one another, and a high degree of freedom of trade), then this system of managed capitalism could promote peace rather than conflict between countries. His plans during World War II for post-war international economic institutions and policies (which contributed to the creation at Bretton Woods of the [[International Monetary Fund]] and the [[World Bank]], and later to the creation of the [[General Agreement on Tariffs and Trade]] and eventually the [[World Trade Organization]]) were aimed to give effect to this vision.<ref>See [[Donald Markwell]], ''John Maynard Keynes and International Relations: Economic Paths to War and Peace'', Oxford University Press, 2006.</ref>
+
+Although Keynes has been widely criticised – especially by members of the [[Chicago school of economics]] – for advocating irresponsible government spending financed by borrowing, in fact he was a firm believer in balanced budgets and regarded the proposals for programs of public works during the Great Depression as an exceptional measure to meet the needs of exceptional circumstances.<ref name="ReferenceB">''Universal Man'' Richard Davenport-Hines Collins 2015</ref>
+
+===Second World War===
+[[Image:WhiteandKeynes.jpg|thumb|right| Keynes (right) and the US representative [[Harry Dexter White]] at the inaugural meeting of the [[International Monetary Fund]]'s Board of Governors in [[Savannah, Georgia]] in 1946]]
+During the [[World War II|Second World War]], Keynes argued in ''[[How to Pay for the War]]'', published in 1940, that the war effort should be largely financed by higher taxation and especially by compulsory saving (essentially workers lending money to the government), rather than [[deficit spending]], in order to avoid [[inflation]]. Compulsory saving would act to dampen domestic demand, assist in channelling additional output towards the war efforts, would be fairer than punitive taxation and would have the advantage of helping to avoid a post-war slump by boosting demand once workers were allowed to withdraw their savings. In September 1941 he was proposed to fill a vacancy in the Court of Directors of the [[Bank of England]], and subsequently carried out a full term from the following April.<ref>{{London Gazette|issue=35279|page=5489|date=19 September 1941}}<br />{{London Gazette|issue=35511|page=1540|date=3 April 1942}}</ref> In June 1942, Keynes was rewarded for his service with a [[hereditary peer]]age in the King's Birthday Honours.<ref name="TheLondon">{{London Gazette|issue=35586|page=2475|date=5 June 1942}}</ref> On 7 July his title was [[The London Gazette|gazetted]] as "'''Baron Keynes''', of Tilton, in the County of [[Sussex]]" and he took his seat in the [[House of Lords]] on the [[Liberal Party (UK)|Liberal Party]] benches.<ref>{{London Gazette|issue=35623|page=2987|date=7 July 1942}}</ref>
+
+As the [[Allies of World War II|Allied]] victory began to look certain, Keynes was heavily involved, as leader of the British delegation and chairman of the [[World Bank]] commission, in the mid-1944 negotiations that established the [[Bretton Woods system]]. The Keynes plan, concerning an international clearing-union, argued for a radical system for the management of currencies. He proposed the creation of a common world unit of currency, the [[bancor]], and new global institutions – a world [[central bank]] and the [[International Clearing Union]]. Keynes envisaged these institutions managing an international trade and payments system with strong incentives for countries to avoid substantial trade deficits or surpluses.<ref>{{Cite journal|last=Duggan|first=M. C.|title=Taking Back Globalization: A China-United States Counterfactual Using Keynes's 1941 International Clearing Union|url=https://www.academia.edu/21885358|journal=Review of Radical Political Economics|language=en|volume=45|issue=4|pages=508–516|doi=10.1177/0486613412475191|s2cid=154224790|issn=0486-6134}}</ref> The USA's greater negotiating strength, however, meant that the outcomes accorded more closely to the more conservative plans of [[Harry Dexter White]]. According to US economist [[J. Bradford DeLong]], on almost every point where he was overruled by the Americans, Keynes was later proven correct by events.<ref>
+{{cite web
+|url= http://econ161.berkeley.edu/Econ_Articles/reviews/skidelsky3.html
+|title= Review of Robert Skidelsky, John Maynard Keynes: Fighting for Britain 1937–1946
+|publisher=Brad Delong, Berkeley university
+|access-date=14 June 2009
+}}
+</ref>
+
+The two new institutions, later known as the World Bank and the [[International Monetary Fund]] (IMF), were founded as a compromise that primarily reflected the American vision. There would be no incentives for states to avoid a large [[Balance of trade|trade surplus]]; instead, the burden for correcting a trade imbalance would continue to fall only on the [[Deficit spending|deficit]] countries, which Keynes had argued were least able to address the problem without inflicting economic hardship on their populations. Yet, Keynes was still pleased when accepting the final agreement, saying that if the institutions stayed true to their founding principles, "the brotherhood of man will have become more than a phrase."<ref>
+{{cite book
+|last=Keynes
+|first=J.M.
+|editor=Donald Moggridge
+|title=The Collected Writings of John Maynard Keynes
+|year=1980
+|volume=26
+|quote=Speech by Lord Keynes in Moving to Accept the Final Act at the Closing Plenary Session, Bretton Woods, 22 July 1944,
+|page=103
+|publisher=London: Macmillan
+|isbn=0-333-10736-5
+}}
+</ref><ref>
+{{cite book
+|first = G. Edward
+|last=Griffin
+|title=The Creature from Jekyll Island: A Second Look at the Federal Reserve
+|year=2004
+|pages= 85–106
+|publisher=American Media
+|isbn = 0-912986-40-9
+}}
+</ref>
+
+===Postwar===
+After the war, Keynes continued to represent the United Kingdom in international negotiations despite his deteriorating health. He succeeded in obtaining preferential terms from the United States [[Anglo-American loan|for new and outstanding debts]] to facilitate the rebuilding of the British economy.<ref>{{cite web|url=http://www.maynardkeynes.org/keynes-career-timeline.html |title=John Maynard Keynes: Career Timeline |publisher=Maynardkeynes.org |access-date=2 October 2013}}</ref>
+
+Just before his death in 1946, Keynes told Henry Clay, a professor of social economics and advisor to the [[Bank of England]],<ref>
+{{cite book
+|first=Richard
+|last=Sayers
+|title=The Bank of England, 1891–1944, Volume 1
+|url=https://books.google.com/books?id=8hY9AAAAIAAJ&pg=PA325
+|isbn=978-0-521-21067-6
+|year=1976
+}}
+</ref> of his hopes that [[Adam Smith]]'s "[[invisible hand]]" could help Britain out of the economic hole it was in: "I find myself more and more relying for a solution of our problems on the invisible hand which I tried to eject from economic thinking twenty years ago."<ref>
+{{cite news
+|title=After the War, The World Bank, the IMF, and the End, 1945 to 1946 |url=http://www.maynardkeynes.org/john-maynard-keynes-world-bank-imf.html
+}}
+</ref>
+
+==Legacy==
+[[Image:Attlee with GeorgeVI HU 59486.jpg|thumb|left|Prime Minister [[Clement Attlee]] with King [[George VI]] after Attlee won the [[1945 United Kingdom general election|1945 election]]]]
+
+===Keynesian ascendancy 1939–79===
+{{Main|Keynesian Revolution}}
+
+From the end of the Great Depression to the mid-1970s, Keynes provided the main inspiration for economic policymakers in Europe, America and much of the rest of the world.<ref name="K rev. and critics">{{cite book|last=Fletcher|first=Gordon A.|title=Keynesian Revolution and Its Critics: Issues of Theory and Policy for the Monetary Production Economy|url=https://books.google.com/books?id=ZKawCwAAQBAJ&pg=PA88|edition=second|year=1989|publisher=Palgrave Macmillan UK|isbn=978-1-349-20108-2|pages=xix–xxi, 88, 189–191, 234–238, 256–261}}</ref> While economists and policymakers had become increasingly won over to Keynes's way of thinking in the mid and late 1930s, it was only after the outbreak of World War II that governments started to borrow money for spending on a scale sufficient to eliminate unemployment. According to the economist [[John Kenneth Galbraith]] (then a US government official charged with controlling inflation), in the rebound of the economy from wartime spending, "one could not have had a better demonstration of the Keynesian ideas."<ref name = "Heights1">
+{{cite video
+| people = [[Daniel Yergin]], William Cran (writers / producer)
+| title = Commanding Heights, see chapter 6 video or transcript
+| url = http://www.pbs.org/wgbh/commandingheights/lo/story/ch_menu.html
+| medium = TV documentary
+| publisher=[[Public Broadcasting Service|PBS]]
+| location = US
+| year = 2002
+}}
+</ref>
+
+The [[Keynesian Revolution]] was associated with the rise of [[social liberalism|modern liberalism]] in the West during the post-war period.<ref>{{cite book|last=Clark|first=Barry Stewart|title=Political Economy: A Comparative Approach|url=https://books.google.com/books?id=3wpiDzS45PsC&pg=pa101|year=1998|publisher=Greenwood Publishing Group|isbn=978-0-275-95869-5|page=101|quote=Modern liberalism was the dominant ideology in Western nations from the end of World War II until the early 1970s. Its appeal stemmed from not only the success of Keynesian economics in maintaining prosperity during that period, but also from the postwar revulsion towards any pure form of ideology.}}</ref> Keynesian ideas became so popular that some scholars point to Keynes as representing the ideals of modern liberalism, as Adam Smith represented the ideals of [[classical liberalism]].<ref>{{cite book|last=Wolfe|first=Alan|author-link=Alan Wolfe|title=The Future of Liberalism|url=https://books.google.com/books?id=ZhqiXF0PsA8C&pg=PP1|year=2009|publisher=Alfred A. Knopf|isbn=978-0-307-26677-4|quote=If Adam Smith is the quintessential classical liberal, the twentieth-century British economist John Maynard Keynes, whose ideas paved the way for massive public works projects and countercyclical economic policies meant to soften the ups and downs of the business cycle, best represents the modern version.}}</ref> After the war, [[Winston Churchill]] attempted to check the rise of Keynesian policy-making in the United Kingdom and used rhetoric critical of the [[mixed economy]] in his [[1945 United Kingdom general election|1945 election]] campaign. Despite his popularity as a war hero, Churchill suffered a landslide defeat to [[Clement Attlee]], whose government's economic policy continued to be influenced by Keynes's ideas.<ref name = "Heights1"/>
+
+====Neo-Keynesian economics====
+{{Main|Neo-Keynesian economics}}
+[[Image:Islm.svg|thumb|right|[[Neo-Keynesian economics|Neo-Keynesian]] [[IS–LM model]] is used to analyse the effect of [[demand shock]]s on the economy]]
+
+In the late 1930s and 1940s, economists (notably [[John Hicks]], [[Franco Modigliani]], and [[Paul Samuelson]]) attempted to interpret and formalise Keynes's writings in terms of formal [[mathematical model]]s. In what had become known as the [[neoclassical synthesis]], they combined Keynesian analysis with [[neoclassical economics]] to produce [[neo-Keynesian economics]], which came to dominate [[Mainstream economics|mainstream macroeconomic thought]] for the next 40 years.
+
+By the 1950s, Keynesian policies were adopted by almost the entire developed world and similar measures for a [[mixed economy]] were used by many developing nations. By then, Keynes's views on the economy had become mainstream in the world's universities. Throughout the 1950s and 1960s, the developed and emerging free capitalist economies enjoyed exceptionally high growth and low unemployment.<ref>
+{{cite web
+|url=http://www.paecon.net/CRASH-1.pdf
+|title= Crash: Reforming the world's international money
+|access-date=5 April 2010
+|author=Paul Davidson
+|publisher=[[The New School]]
+|author-link= Paul Davidson (economist)
+}}
+</ref><ref name = "solution">{{cite book|last=Davidson|first=Paul|author-link=Paul Davidson (economist)|title=The Keynes Solution: The Path to Global Economic Prosperity|url=https://books.google.com/books?id=E_abJgpEwJYC&pg=PP1|year=2009|publisher=St. Martin's Press|isbn=978-0-230-10101-2}}</ref> Professor Gordon Fletcher has written that the 1950s and 1960s, when Keynes's influence was at its peak, appear in retrospect as a [[Post–World War II economic expansion|golden age of capitalism]].<ref name="K rev. and critics" />
+
+In late 1965 ''[[Time (magazine)|Time]]'' magazine ran a cover article with a title comment from [[Milton Friedman]] (later echoed by U.S. President [[Richard Nixon]]), "[[We are all Keynesians now]]". The article described the exceptionally favourable economic conditions then prevailing, and reported that "Washington's economic managers scaled these heights by their adherence to Keynes's central theme: the modern capitalist economy does not automatically work at top efficiency, but can be raised to that level by the intervention and influence of the government." The article also states that Keynes was one of the three most important economists who ever lived, and that his ''[[The General Theory of Employment, Interest and Money|General Theory]]'' was more influential than the ''magna opera'' of other famous economists, like [[Adam Smith]]'s ''[[The Wealth of Nations]]''.<ref>
+{{cite news
+| title= We Are All Keynesians Now
+| access-date=13 November 2008
+| url= http://www.time.com/time/magazine/article/0,9171,842353-5,00.htm
+| archive-url= https://web.archive.org/web/20090325215049/http://www.time.com/time/magazine/article/0,9171,842353-5,00.htm
+| url-status= dead
+| archive-date= 25 March 2009
+|work=Time magazine
+| date= 31 December 1965
+|url-access=subscription
+}}
+</ref>
+
+===Multiplier ===
+The concept of multiplier was first developed by R. F. Kahn<ref>{{Cite journal|title=The Genesis of the Multiplier Theory|url=https://www.jstor.org/stable/2661731|journal=Oxford Economic Papers|date=1956|issn=0030-7653|pages=181–193|volume=8|issue=2|first=A. Ll.|last=Wright|doi=10.1093/oxfordjournals.oep.a042261|jstor=2661731}}</ref> in his article "The relation of home investment to unemployment"<ref>{{Cite journal|title=The Relation of Home Investment to Unemployment|url=https://www.jstor.org/stable/2223697|journal=The Economic Journal|date=1931|issn=0013-0133|pages=173–198|volume=41|issue=162|doi=10.2307/2223697|first=R. F.|last=Kahn|jstor=2223697}}</ref> In the economic journal of June 1931. Kahn multiplier was the employment multiplier while as Keynes took the idea from Kahn and formulated the investment multiplier.<ref>{{Cite web
+| url = https://www.investopedia.com/terms/i/investment-multiplier.asp
+| title = What Does "Investment Multiplier" Mean?
+| website = Investopedia
+| language = en
+| access-date = 2021-09-06
+| last1 = Fern
+| first1 = Full Bio Follow Linkedin Jason
+| last2 = Investor
+| first2 = O. Is a Professional
+| last3 = Tackling
+| first3 = Writer Who Enjoys
+| last4 = Business
+| first4 = Communicating Complex
+| last5 = Fern
+| first5 = financial problems Learn about our editorial policies Jason
+| last6 = o
+}}</ref>
+
+===Keynesian economics out of favour 1979–2007===
+{{Main|Post-war displacement of Keynesianism}}
+Keynesian economics were officially discarded by the British Government in 1979, but forces had begun to gather against Keynes's ideas over 30 years earlier. [[Friedrich Hayek]] had formed the [[Mont Pelerin Society]] in 1947, with the explicit intention of nurturing intellectual currents to one day displace Keynesianism and other similar influences. Its members included the [[Austrian School]] economist [[Ludwig von Mises]] along with the then young Milton Friedman. Initially the society had little impact on the wider world – according to Hayek it was as if Keynes had been raised to sainthood after his death and that people refused to allow his work to be questioned.<ref>
+{{cite web
+|url=http://www.pbs.org/wgbh/commandingheights/shared/minitextlo/tr_show01.html#6
+|title= transcript of Commanding Heights documentary, episode 1
+|publisher=[[Public Broadcasting Service|PBS]]
+|author=Daniel Yergin |author2=Joseph Stanislaw
+|access-date=3 July 2009
+|author2-link= Joseph Stanislaw
+|author-link= Daniel Yergin
+}}
+</ref><ref>
+{{cite web
+|url=http://hayekcenter.org/?p=849
+|access-date=3 July 2009
+|title=interview: Friedrich Hayek on John Maynard Keynes – Part II
+|publisher=hayekcenter
+|author=Friedrich Hayek
+|author-link= Friedrich Hayek
+}}
+</ref>
+Friedman however began to emerge as a formidable critic of Keynesian economics from the mid-1950s, and especially after his 1963 publication of ''[[A Monetary History of the United States]]''.
+
+On the practical side of economic life, "[[big government]]" had appeared to be firmly entrenched in the 1950s, but the balance began to shift towards the power of private interests in the 1960s. Keynes had written against the folly of allowing "decadent and selfish" speculators and financiers the kind of influence they had enjoyed after World War I. For two decades after World War II the public opinion was strongly against private speculators, the disparaging label "[[Gnomes of Zürich]]" being typical of how they were described during this period. International speculation was severely restricted by the capital controls in place after Bretton Woods. According to the journalists [[Larry Elliott]] and [[Dan Atkinson]], 1968 was the pivotal year when power shifted in favour of private agents such as currency speculators. As the key 1968 event Elliott and Atkinson picked out America's suspension of the conversion of the dollar into gold except on request of foreign governments, which they identified as the beginning of the breakdown of the Bretton Woods system.<ref name="failedgods" >
+{{cite book
+|author1=Larry Elliott
+|author2=Dan Atkinson
+|title=The Gods That Failed: How Blind Faith in Markets Has Cost Us Our Future
+|year=2008
+|isbn=978-1-84792-030-0
+|page=[https://archive.org/details/godsthatfailedho0000elli_s7v0/page/78 78]
+|publisher=The Bodley Head Ltd.
+|url=https://archive.org/details/godsthatfailedho0000elli_s7v0/page/78
+}}
+</ref>
+
+Criticisms of Keynes's ideas had begun to gain significant acceptance by the early 1970s, as they were then able to make a credible case that Keynesian models no longer reflected economic reality. Keynes himself included few formulas and no explicit mathematical models in his ''General Theory''. For economists such as [[Hyman Minsky]], Keynes's limited use of mathematics was partly the result of his scepticism about whether phenomena as inherently uncertain as economic activity could ever be adequately captured by mathematical models. Nevertheless, many models were developed by Keynesian economists, with a famous example being the [[Phillips curve]] which predicted an inverse relationship between unemployment and inflation. It implied that unemployment could be reduced by government stimulus with a calculable cost to inflation. In 1968, Milton Friedman published a paper arguing that the fixed relationship implied by the Philips curve did not exist.<ref>
+{{cite journal
+|last=Friedman
+|first=Milton
+|date=March 1968
+|title=The Role of Monetary Policy
+|journal=[[American Economic Review]]
+}}
+</ref>
+Friedman suggested that sustained Keynesian policies could lead to both unemployment and inflation rising at once – a phenomenon that soon became known as [[stagflation]]. In the early 1970s stagflation appeared in both the US and Britain just as Friedman had predicted, with economic conditions deteriorating further after the [[1973 oil crisis]]. Aided by the prestige gained from his successful forecast, Friedman led increasingly successful criticisms against the Keynesian consensus, convincing not only academics and politicians but also much of the general public with his radio and television broadcasts. The academic credibility of Keynesian economics was further undermined by additional criticism from other [[Monetarism|monetarists]] trained in the [[Chicago school of economics]], by the [[Lucas critique]] and by criticisms from Hayek's Austrian School.<ref name="K rev. and critics" /> So successful were these criticisms that by 1980 [[Robert Lucas, Jr.|Robert Lucas]] claimed economists would often take offence if described as Keynesians.<ref name = "Blinder" >
+{{cite web
+|url=http://www.princeton.edu/~blinder/papers/01WE.pdf
+|title= Keeping the Keynesian Faith
+|publisher=Princeton University
+|author=Alan Blinder
+|date = June 2001
+|access-date=27 June 2009
+|author-link= Alan Blinder
+}}
+</ref>
+
+Keynesian principles fared increasingly poorly on the practical side of economics – by 1979 they had been displaced by monetarism as the primary influence on Anglo-American economic policy.<ref name="K rev. and critics"/> However, many officials on both sides of the Atlantic retained a preference for Keynes, and in 1984 the [[Federal Reserve System|Federal Reserve]] officially discarded monetarism, after which Keynesian principles made a partial comeback as an influence on policy making.<ref>
+{{cite news
+|title=The End of the Age of Milton Friedman
+|access-date=13 November 2008
+|url=https://www.huffingtonpost.com/jeff-madrick/the-end-of-the-age-of-mil_b_94228.html
+|work=The Huffington Post
+|first=Jeff
+|last=Madrick
+|date=8 April 2008
+}}
+</ref>
+Not all academics accepted the criticism against Keynes – Minsky has argued that Keynesian economics had been debased by excessive mixing with neoclassical ideas from the 1950s, and that it was unfortunate that this branch of economics had even continued to be called "Keynesian".<ref name = "Minksky" /> Writing in ''[[The American Prospect]]'', [[Robert Kuttner]] argued it was not so much excessive Keynesian activism that caused the economic problems of the 1970s but the breakdown of the Bretton Woods system of [[capital control]]s, which allowed [[capital flight]] from regulated economies into unregulated economies in a fashion similar to [[Gresham's law]] phenomenon (where weak currencies undermine strong currencies).<ref>
+{{cite journal
+|url=http://prospect.org/article/capital-rues
+|title= Capital Rues
+|journal=The American Prospect
+|author=Robert Kuttner
+|author-link=Robert Kuttner
+|date = 23 October 2008
+|access-date=23 November 2011
+}} Reviewing ''Capital Rules: The Construction of Global Finance'', by [[Rawi Abdelal]], Harvard University Press, and ''The Bridge at the Edge of the World: Capitalism, the Environment, and Crossing From Crisis to Sustainability'', by [[James Gustave Speth]], Yale University Press</ref>
+Historian [[Peter Pugh]] has stated that a key cause of the economic problems afflicting America in the 1970s was the refusal to raise taxes to finance the [[Vietnam War]], which was against Keynesian advice.<ref name = "forBeginners">
+{{cite book
+|author1=Peter Pugh  |author2=Chris Garratt
+ |name-list-style=amp |title= Keynes for Beginners
+|year=1993
+|page= 155
+|isbn=1-874166-13-7
+|publisher=Icon
+}}
+</ref>
+
+A more typical response was to accept some elements of the criticisms while refining Keynesian economic theories to defend them against arguments that would invalidate the whole Keynesian framework – the resulting body of work largely composing [[New Keynesian economics]]. In 1992 [[Alan Blinder]] wrote about a "Keynesian Restoration", as work based on Keynes's ideas had to some extent become fashionable once again in academia, though in the mainstream it was highly synthesised with monetarism and other neoclassical thinking. In the world of policy making, [[free market]] influences broadly sympathetic to monetarism have remained very strong at government level – in powerful normative institutions like the [[World Bank]], the [[International Monetary Fund|IMF]] and [[United States Department of the Treasury|US Treasury]], and in prominent opinion-forming media such as the ''[[Financial Times]]'' and ''[[The Economist]]''.<ref>
+{{cite book
+| last = Hunter-Wade
+| first = Robert
+| editor = John Ravenhill
+| title = Global Political Economy
+| year = 2005
+| chapter= 11
+| page = 293|publisher=[[Oxford University Press]]
+}}
+</ref>
+
+===Keynesian resurgence 2008–09===
+{{Main|2008–09 Keynesian resurgence}}
+[[Image:Manmohansingh04052007.jpg|thumb|upright|The economist [[Manmohan Singh]], the then prime minister of India, spoke strongly in favour of Keynesian [[Stimulus (economics)|fiscal stimulus]] at the [[2008 G-20 Washington summit]].<ref>{{cite news|last1=Ram|first1=N|title=Keynesian warning is one of seven 'big messages': Manmohan|url=http://www.thehindu.com/todays-paper/keynesian-warning-is-one-of-seven-big-messages-manmohan/article1378087.ece|access-date=8 October 2015|work=The Hindu|date=17 November 2008}}</ref>]]
+
+The global [[financial crisis of 2007–08]] led to public skepticism about the free market consensus even from some on the economic right. In March 2008, [[Martin Wolf]], chief economics commentator at the ''Financial Times'', announced the death of the dream of global free-market capitalism.<ref>{{cite news
+|title=The Rescue of Bear Stearns Marks Liberalization's Limit
+|access-date=13 November 2008
+|url=http://www.ft.com/cms/s/0/8ced5202-fa94-11dc-aa46-000077b07658.html?nclick_check=1 |work=Financial Times
+|date=25 March 2008
+|last1=Wolf
+|first1=Martin
+}} {{registration required}}
+</ref> In the same month macroeconomist [[James K. Galbraith]] used the 25th Annual Milton Friedman Distinguished Lecture to launch a sweeping attack against the consensus for monetarist economics and argued that Keynesian economics were far more relevant for tackling the emerging crises.<ref>{{cite web
+|url=http://utip.gov.utexas.edu/papers/CollapseofMonetarismdelivered.pdf
+|title=The Collapse of Monetarism and the Irrelevance of the New Monetary Consensus
+|publisher=The University of Texas
+|author=James K. Galbraith
+|access-date=28 February 2009
+|archive-date=4 March 2009
+|archive-url=https://web.archive.org/web/20090304235939/http://utip.gov.utexas.edu/papers/CollapseofMonetarismdelivered.pdf
+|url-status=dead
+}}</ref>
+Economist [[Robert J. Shiller]] had begun advocating robust government intervention to tackle the financial crises, specifically citing Keynes.<ref>{{cite video |title=Robert Shiller: The sub prime solution |access-date=13 November 2008 |url=https://books.google.com/books/about/The_Subprime_Solution.html?id=aj0kmAEACAAJ&redir_esc=y |publisher=Google Video}}</ref><ref>
+{{cite web |title=The Subprime Solution: How Today's Global Financial Crisis Happened, and What to Do about It |access-date=13 November 2008 |url=http://press.princeton.edu/releases/m8714.html |publisher=Princeton University Press |url-status=dead |archive-url=https://web.archive.org/web/20081013045308/http://press.princeton.edu/releases/m8714.html |archive-date=13 October 2008 }}
+</ref><ref>{{cite web|url=http://www.taipeitimes.com/News/editorials/archives/2008/11/17/2003428821 |title=Reviving 'animal spirits' to raise confidence|first= Robert|last= Shiller |publisher=Taipeitimes.com |date=19 May 2012 |access-date=26 May 2012}}</ref>
+[[Nobel Memorial Prize in Economic Sciences|Nobel laureate]] [[Paul Krugman]] also actively argued the case for vigorous Keynesian intervention in the economy in his columns for ''[[The New York Times]]''.<ref>
+{{cite news |url=https://www.nytimes.com/2009/01/05/opinion/05krugman.html |title=Fighting Off Depression |work=The New York Times |access-date=15 August 2009 |last=Krugman |first=Paul | date=5 January 2009}}
+</ref><ref>
+{{cite news |url=https://www.nytimes.com/2009/01/23/opinion/23krugman.html |title=Stuck in the Muddle |work=The New York Times |access-date=15 August 2009 |last=Krugman |first=Paul | date=23 January 2009}}
+</ref><ref>
+{{cite news |url=https://www.nytimes.com/2009/06/15/opinion/15krugman.html |title=Stay the Course |work=The New York Times |access-date=15 August 2009 |last=Krugman |first=Paul | date=15 June 2009}}
+</ref>
+Other prominent economic commentators who have argued for Keynesian government intervention to mitigate the financial crisis include [[George Akerlof]],<ref name="independent.co.uk.2009">{{cite news |date= 22 March 2009|url = https://www.independent.co.uk/news/business/analysis-and-features/kill-or-cure-us-stimulus-kicks-up-a-storm-1651056.html|title = Kill or cure? US stimulus kicks up a storm|work=The Independent |location=UK | access-date =8 June 2010 | last=Coy| first= Peter }}</ref> [[J. Bradford DeLong]],<ref>{{cite news
+| url = https://www.latimes.com/news/opinion/opinionla/la-oew-leamer-delong19-2009aug19,0,5376420.story
+| title = Is Obama's stimulus working?
+| work=Los Angeles Times
+| date=19 August 2009
+}}</ref>
+[[Robert Reich]],<ref>{{cite web |url=http://www.rgemonitor.com/us-monitor/254320/the_mini_depression_and_the_maximum-strength_remedy |title=EconoMonitor " The Mini Depression and the Maximum-Strength Remedy |publisher=Rgemonitor.com |date=9 November 2008 |access-date=26 May 2012 |url-status=dead |archive-url=https://web.archive.org/web/20091004054515/http://www.rgemonitor.com/us-monitor/254320/the_mini_depression_and_the_maximum-strength_remedy |archive-date=4 October 2009 }}</ref>
+and [[Joseph Stiglitz]].<ref>{{cite news|url=http://mag.newsweek.com/2008/12/04/chasing-stiglitz.html |title=Chasing Stiglitz: Obama's economic team is missing the one guy who's been right all along |publisher=Mag.newsweek.com |date=3 December 2008 |access-date=5 December 2013}}</ref>
+Newspapers and other media have also cited work relating to Keynes by [[Hyman Minsky]],<ref name = "Minksky" /> [[Robert Skidelsky, Baron Skidelsky|Robert Skidelsky]],<ref name="SkidelP1" /> [[Donald Markwell]]<ref name = "MarkwellRelations">
+{{cite web
+|url=http://www.trinity.unimelb.edu.au/Media/docs/TrinityPaper33-61f67cdc-82f0-4363-a011-7beded1c37ba-0.pdf
+|access-date=3 July 2009
+|title= Keynes and International Economic and Political Relations
+|publisher=Trinity College, University of Melbourne
+|author=Donald Markwell
+|author-link= Donald Markwell
+}}
+</ref>
+and [[Axel Leijonhufvud]].<ref>
+{{cite book |last=Leijonhufvud |first=Axel |title=''On Keynesian Economics and the Economics of Keynes'' |url=https://archive.org/details/onkeynesianecono0000leij |url-access=registration |year=1969 |isbn=0-19-500948-7 |publisher=Oxford University Press}}
+</ref>
+
+A series of major [[bailout]]s were pursued during the financial crisis, starting on 7 September with the announcement that the U.S. Government was to nationalise the two [[government-sponsored enterprise]]s which oversaw most of the U.S. subprime mortgage market – [[Fannie Mae]] and [[Freddie Mac]]. In October, [[Alistair Darling]], the British [[Chancellor of the Exchequer]], referred to Keynes as he announced plans for substantial [[Stimulus (economics)|fiscal stimulus]] to head off the worst effects of recession, in accordance with Keynesian economic thought.<ref>
+{{cite news
+|title=Darling invokes Keynes as he eases spending rules to fight recession
+|access-date=13 November 2008
+|url=https://www.theguardian.com/politics/2008/oct/20/economy-recession-treasury-energy-housing
+|work=The Guardian
+| location=London
+| first=Allegra
+| last=Stratton
+| date=20 October 2008
+}}
+</ref><ref name = "Times Darling">
+{{cite news
+|url= http://www.timesonline.co.uk/tol/news/politics/article4974689.ece
+|title= Spend, spend, spend: Alistair Darling adopts John Maynard Keynes doctrine
+|work=The Times
+|author=Sam Coates
+|access-date=14 June 2009
+| location=London
+| date=20 October 2008
+}} {{subscription required}}
+</ref> Similar policies have been adopted by other governments worldwide.<ref>
+{{cite news
+|url=https://www.forbes.com/business/2008/11/09/china-stimulus-economy-biz-cx_pm_1109notes.html
+|title=China Announces Massive Stimulus Package
+|work=Forbes
+|author=Paul Maidment
+|access-date=11 November 2008
+|date=9 November 2008
+|archive-url=https://web.archive.org/web/20081112053515/http://www.forbes.com/business/2008/11/09/china-stimulus-economy-biz-cx_pm_1109notes.html|archive-date=12 November 2008}}
+</ref><ref>
+{{cite web
+|url= http://www.voxeu.org/index.php?q=node/3156
+|title= A global survey of stimulus plans
+|publisher=Vox EU
+|access-date=14 June 2009
+}}
+</ref>
+This is in stark contrast to the action imposed on [[Indonesia]] during the [[1997 Asian financial crisis|Asian financial crisis]] of 1997, when it was forced by the IMF to close 16 banks at the same time, prompting a [[bank run]].<ref>
+{{cite news
+|url=https://www.theguardian.com/commentisfree/cifamerica/2008/oct/20/economic-policy-us-bailout
+|title=The economics of hypocrisy
+|access-date=27 November 2008
+|work=The Guardian
+| location=London
+| date=20 October 2008
+| first=Ha-Joon
+| last=Chang
+}}
+</ref>
+Much of the post-crisis discussion reflected Keynes's advocacy of international coordination of fiscal or monetary stimulus, and of international economic institutions such as the IMF and the World Bank, which many had argued should be reformed as a "new Bretton Woods", and should have been even before the crises broke out.<ref name = "MarkwellPeace">
+{{cite book
+|last=Markwell
+|first=Donald
+|title=''John Maynard Keynes and International Relations: Economic Paths to War and Peace''
+|year=2006
+|isbn=0-19-829236-8
+|publisher=Oxford University Press
+}}
+</ref>
+The IMF and United Nations economists advocated a coordinated international approach to fiscal stimulus.<ref name="autogenerated1">
+{{cite web
+|access-date=3 July 2009
+|url=http://www.imf.org/external/pubs/ft/spn/2008/spn0801.pdf
+|title= Fiscal Policy for the Crisis
+|publisher=[[International Monetary Fund]]
+|author=Antonio Spilimbergo | author2 = Steve Symansky | author3 = Olivier Blanchard | author4 = Carlo Cottarelli
+}}
+</ref>
+[[Donald Markwell]] argued that in the absence of such an international approach, there would be a risk of worsening international relations and possibly even world war arising from economic factors similar to those present during the depression of the 1930s.<ref name = "MarkwellRelations"/>
+
+By the end of December 2008, the ''Financial Times'' reported that "the sudden resurgence of Keynesian policy is a stunning reversal of the orthodoxy of the past several decades."<ref>
+{{cite web
+|url= http://www.ft.com/cms/s/0/c4cf37f4-d611-11dd-a9cc-000077b07658.html
+|title= The undeniable shift to Keynes
+|work=Financial Times
+|author=Chris Giles |author2=Ralph Atkins |author3=Krishna Guha
+|access-date=23 January 2009
+}} {{registration required}}
+</ref>
+In December 2008, Paul Krugman released his book ''[[The Return of Depression Economics and the Crisis of 2008]]'', arguing that economic conditions similar to those that existed during the earlier part of the 20th century had returned, making Keynesian policy prescriptions more relevant than ever. In February 2009 [[Robert J. Shiller]] and [[George Akerlof]] published ''[[Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism|Animal Spirits]]'', a book where they argue the current US stimulus package is too small as it does not take into account Keynes's insight on the importance of confidence and expectations in determining the future behaviour of [[Businessperson|businesspeople]] and other economic agents.
+
+In the March 2009 speech entitled ''Reform the International Monetary System'', [[Zhou Xiaochuan]], the governor of the [[People's Bank of China]], came out in favour of Keynes's idea of a centrally managed global reserve currency. Zhou argued that it was unfortunate that part of the reason for the Bretton Woods system breaking down was the failure to adopt Keynes's [[bancor]]. Zhou proposed a gradual move towards increased use of IMF [[special drawing rights]] (SDRs).<ref>
+{{cite news
+|url=http://www.ft.com/cms/s/0/7851925a-17a2-11de-8c9d-0000779fd2ac.html
+|title=China calls for new reserve currency
+ |author=Jamil Anderlini
+|work=Financial Times
+|date=23 March 2009
+|access-date=13 April 2009
+}} {{registration required}}
+</ref><ref>
+{{cite web
+ |url=http://www.pbc.gov.cn/english/detail.asp?col=6500&id=178
+ |title=Reform the International Monetary System
+ |author=Zhou Xiaochuan
+ |publisher=[[People's Bank of China]]
+ |date=23 March 2009 |access-date=13 April 2009 |author-link=Zhou Xiaochuan
+ |archive-url=https://web.archive.org/web/20150924065557/http://www.pbc.gov.cn/english/detail.asp?col=6500&amp;ID=178
+ |archive-date= 24 September 2015
+|url-status=dead
+}}
+</ref>
+Although Zhou's ideas had not been broadly accepted, leaders meeting in April at the [[2009 G-20 London summit]] agreed to allow $250 billion of special drawing rights to be created by the IMF, to be distributed globally. Stimulus plans were credited for contributing to a better than expected economic outlook by both the [[Organisation for Economic Co-operation and Development|OECD]]<ref>
+{{cite news
+|url= http://www.ft.com/cms/s/0/115a3408-602c-11de-a09b-00144feabdc0.html
+|title= OECD foresees end to global slide
+|work=Financial Times
+|author=Norma Cohen
+|date = 24 June 2009
+|access-date=26 June 2009
+}} {{registration required}}
+</ref>
+and the IMF,<ref>{{cite news
+|url= http://www.ft.com/cms/s/0/4e8677f0-6bc2-11de-9320-00144feabdc0.html
+|title= IMF says world is pulling out of recession
+|work=Financial Times
+|author=Krishna Guha |author2=Sarah O'Connor |author3=Michael Mackenzie
+|date=8 July 2009
+|access-date=9 July 2009
+}} {{registration required}}
+</ref><ref>{{cite web
+|url= http://www.imf.org/external/pubs/ft/survey/so/2009/RES070809A.htm
+|title= Recession Loosens Grip But Weak Recovery Ahead
+|publisher=[[International Monetary Fund]]
+|date=8 July 2009
+|access-date=9 July 2009
+}}
+</ref> in reports published in June and July 2009. Both organisations warned global leaders that recovery was likely to be slow, so counter recessionary measures ought not be rolled back too early.
+
+While the need for stimulus measures was broadly accepted among policy makers, there had been much debate over how to fund the spending. Some leaders and institutions, such as [[Angela Merkel]]<ref>{{cite news
+|url= http://www.ft.com/cms/s/0/ce8aa61c-1b39-11de-8aa3-0000779fd2ac.html
+|title= Merkel warns on stimulus
+|work=Financial Times
+|author1=Bertrand Benoit |author2=Quentin Peel |author3=Chris Bryant
+ |name-list-style=amp |date = 28 March 2009
+|access-date=20 July 2009
+}} {{registration required}}
+</ref>
+and the [[European Central Bank]],<ref>
+{{cite news
+|url=https://www.bloomberg.com/apps/news?pid=20601039&sid=aJ0m8YLAGiBY
+|title= Keynes Arouses Fed as ECB Looks for Monetary Exit
+|author=Mark Gilbert
+|access-date=22 July 2009
+|date = 17 July 2009
+|publisher=Bloomberg
+}}
+</ref>
+expressed concern over the potential impact on inflation, national debt and the risk that a too large stimulus will create an unsustainable recovery.
+
+Among professional economists the revival of Keynesian economics has been even more divisive. Although many economists, such as George Akerlof, Paul Krugman, Robert Shiller, and Joseph Stiglitz, supported Keynesian stimulus, others did not believe higher government spending would help the United States economy recover from the [[Great Recession]]. Some economists, such as [[Robert Lucas, Jr.|Robert Lucas]], questioned the theoretical basis for stimulus packages.<ref>{{cite news |url=https://www.economist.com/printedition/displaystory.cfm?story_id=14030288 |title= The other-worldly philosophers |access-date=20 July 2009 |date = 16 July 2009 |work=The Economist}}</ref> Others, like [[Robert Barro]] and [[Gary Becker]], say that [[empirical evidence]] for beneficial effects from Keynesian stimulus does not exist.<ref>Robert J. Barro, Gary Becker, Wall Street Journal editorials, 24 August 2011, and 2 September 2011</ref> However, there is a growing academic literature that shows that fiscal expansion helps an economy grow in the near term, and that certain types of fiscal stimulus are particularly effective.<ref>{{cite web |last=Romer |first=Christina D. |title=What do we know about the effects of fiscal policy? Separating evidence from ideology |work=Lecture at Hamilton College |date=7 November 2011 |url=https://www.hamilton.edu/documents/Romer%20lecture%20notes.pdf }}</ref><ref name="GLP_2011">{{cite journal |url=https://www.imf.org/external/pubs/ft/wp/2011/wp11158.pdf |title=Expansionary Austerity: New International Evidence |last1=Guajardo |first1=Jaime |last2=Leigh |first2=Daniel |last3=Pescatori |first3=Andrea |date=July 2011 |journal=IMF Working Paper, WP/11/158 |publisher=International Monetary Fund |access-date=18 January 2012 |ssrn=1886910 |quote=Using this new dataset, our estimates suggest fiscal consolidation has contractionary effects on private domestic demand and GDP.}}</ref>
+
+==Overall views==
+{{Liberalism in the United Kingdom|People}}
+John Maynard Keynes had a drastically different upbringing and motives for his philosophical and economic contributions. Rather than writing with the mindset of being upset at the current system, Keynes instead produced his most famous work, ''The General Theory of Employment, Interest and Money'', with the intention of solving the then current issue which was plaguing the whole world, The Great Depression. When he wrote this, one theme that occurs numerous times is his view on how individuals should save during a time of economic downturn or recession. His answer was that people tend to save more in these times, which he thought could be very harmful if there is no government intervention because individuals and businesses are too scared or have the inability to invest in new ideas and jobs due to the state of the economy. This issue was especially prevalent during The Great Depression because individuals were saving their money and businesses were not investing which was keeping that particular recession around as long as it did and made the unemployment rate go from around 4 percent all the way to around twenty five percent. The individuals were saving with the hopes that the recession would not be very long, which then caused it to get worse due to lack of stimulation in the economy. In order to get out of this cycle, Keynes argued that it was the government alone that would be able to solve this problem and break the United States particularly and the whole world out of The Great Depression. Keynes, normally an endorser of free market capitalism realised that this recession was a special case in that it had potential to be inescapable. The government did eventually do this with president Franklin Roosevelt introducing The New Deal, which was a relief program set up where the federal budget was increased with the purpose of getting the economy out of the recession by injecting money manually from these government aid programs.“The difficulty lies, not in the new ideas, but in escaping from the old ones, which ramify, for those brought up as most of us have been, into every corner of our minds”(Keynes). Keynes is highlighting the fact that people are used to making certain decisions during different times of the business cycle, and also that individuals and businesses needed to change the way they were viewing saving money so that the country could get out of the recession.  It is clear that Keynes had a different approach to economic thought from Marx because he was writing with the intention of solving the current world problem, The Great Depression, rather than critiquing the unfairness in the current system.
+
+===Praise===
+
+On a personal level, Keynes's charm was such that he was generally well received wherever he went – even those who found themselves on the wrong side of his occasionally sharp tongue rarely bore a grudge.<ref>{{cite book | last = McCann | first = Charles Robert | title = John Maynard Keynes – critical responses | year = 1998 | volume = 4 | page = 21 | publisher = Taylor & Francis | isbn = 0-415-15193-7 }}</ref> Keynes's speech at the closing of the Bretton Woods negotiations was received with a lasting standing ovation, rare in international relations, as the delegates acknowledged the scale of his achievements made despite poor health.<ref name="Cunningham"/>
+
+Austrian School economist [[Friedrich Hayek]] was Keynes's most prominent contemporary critic, with sharply opposing views on the economy.<ref name = "SkidelP2" /> Yet after Keynes's death, he wrote: "He was the one really great man I ever knew, and for whom I had unbounded admiration. The world will be a very much poorer place without him."<ref name="Wapshott2011">{{cite book|last=Wapshott|first=Nicholas|author-link=Nicholas Wapshott|title=Keynes Hayek: The Clash that Defined Modern Economics|url=https://books.google.com/books?id=su1OvQrGVAAC&pg=PA206|year=2011|publisher=W. W. Norton|isbn=978-0-393-08311-8|page=206}}</ref>
+
+[[Lionel Robbins]], former head of the economics department at the [[London School of Economics]], who engaged in many heated debates with Keynes in the 1930s, had this to say after observing Keynes in early negotiations with the Americans while drawing up plans for Bretton Woods:<ref name = "SkidelP2" />
+
+{{blockquote|This went very well indeed. Keynes was in his most lucid and persuasive mood: and the effect was irresistible. At such moments, I often find myself thinking that Keynes must be one of the most remarkable men that have ever lived – the quick logic, the birdlike swoop of intuition, the vivid fancy, the wide vision, above all the incomparable sense of the fitness of words, all combine to make something several degrees beyond the limit of ordinary human achievement. }}
+
+[[Douglas LePan]],<ref name = "SkidelP2" /> an official from the [[High Commission of Canada to the United Kingdom|Canadian High Commission]], wrote:
+
+{{blockquote|I am spellbound. This is the most beautiful creature I have ever listened to. Does he belong to our species? Or is he from some other order? There is something mythic and fabulous about him. I sense in him something massive and sphinx like, and yet also a hint of wings. }}
+
+[[Bertrand Russell]]<ref name="ES">{{cite news |last1=Hoggard |first1=Liz |title=Ten things you didn't know about Mr Keynes |url=http://www.thisislondon.co.uk/standard/article-23575559-ten-things-you-didnt-know-about-mr-keynes.do |access-date=8 September 2019 |work=[[Evening Standard]] |date=21 October 2008 |archive-url=https://web.archive.org/web/20100122235305/http://www.thisislondon.co.uk/standard/article-23575559-ten-things-you-didnt-know-about-mr-keynes.do |archive-date=22 January 2010}}</ref> named Keynes one of the most intelligent people he had ever known, commenting:<ref>{{cite book |last=Russell |first=Bertrand |title=The Autobiography of Bertrand Russell: 1872–1914 |page=97 |publisher=Unwin Paperbacks |year=1967}}</ref>
+
+{{blockquote|Keynes's intellect was the sharpest and clearest that I have ever known. When I argued with him, I felt that I took my life in my hands, and I seldom emerged without feeling something of a fool.}}
+
+Keynes's obituary in ''[[The Times]]'' included the comment: "There is the man himself – radiant, brilliant, effervescent, gay, full of impish jokes ... He was a humane man genuinely devoted to the cause of the common good."<ref name="new economics"/>
+
+===Critiques===
+
+As a man of the centre described by some as having the greatest impact of any 20th-century economist,<ref name="50 greats" /> Keynes attracted considerable criticism from both sides of the political spectrum. In the 1920s, Keynes was seen as anti-establishment and was mainly attacked from the right. In the "red 1930s", many young economists favoured [[Marxism|Marxist]] views, even in Cambridge,<ref name = "Minksky"/> and while Keynes was engaging principally with the right to try to persuade them of the merits of more progressive policy, the most vociferous criticism against him came from the left, who saw him as a supporter of capitalism. From the 1950s and onwards, most of the attacks against Keynes have again been from the right.
+
+[[File:Friedrich Hayek portrait.jpg|thumb|upright|[[Friedrich Hayek]], one of Keynes's most prominent critics]]
+
+In 1931 [[Friedrich Hayek]] extensively critiqued Keynes's 1930 ''Treatise on Money''.<ref>{{cite journal | url = https://www.mises.org/etexts/reflections.pdf | access-date = 20 May 2008 | title = Reflections on the Pure Theory of Money of Mr. J.M. Keynes |journal=[[Economica]] |author=Hayek, Friedrick August von | volume = 11 | date = August 1931 }}</ref> After reading Hayek's ''[[The Road to Serfdom]]'', Keynes wrote to Hayek<ref>{{cite book | last = Hoover | first = Kenneth R. | title = Economics as Ideology | publisher = [[Rowman & Littlefield]] | year = 2008 | location = [[Lanham, Maryland]] | page = 152 | isbn = 978-0-7425-3113-0 }}</ref> "Morally and philosophically I find myself in agreement with virtually the whole of it", but concluded the letter with the recommendation: {{blockquote|What we need therefore, in my opinion, is not a change in our economic programmes, which would only lead in practice to disillusion with the results of your philosophy; but perhaps even the contrary, namely, an enlargement of them. Your greatest danger is the probable practical failure of the application of your philosophy in the United States.}} On the pressing issue of the time, whether deficit spending could lift a country from depression, Keynes replied to Hayek's criticism<ref>{{cite book | author = Heilbroner, Robert | title = The Worldly Philosophers | year = 2000 | pages = 278–8 | isbn = 0-671-63482-8 | author-link = Robert Heilbroner | title-link = The Worldly Philosophers }}</ref> in the following way:
+
+{{blockquote|I should... conclude rather differently. I should say that what we want is not no planning, or even less planning, indeed I should say we almost certainly want more. But the planning should take place in a community in which as many people as possible, both leaders and followers wholly share your moral position. Moderate planning will be safe enough if those carrying it out are rightly oriented in their minds and hearts to the moral issue.}}
+
+Asked why Keynes expressed "moral and philosophical" agreement with Hayek's ''Road to Serfdom'', Hayek stated:<ref>{{cite web | access-date = 20 May 2008 | url = http://reason.com/hayekint.shtml | title = The Road from Serfdom | work = [[Reason (magazine)|Reason]] | date = July 1992 | last1 = Hazlett |first1 = Thomas W. | archive-url = https://web.archive.org/web/20081013182404/http://reason.com/hayekint.shtml|archive-date=13 October 2008 }}</ref>
+
+{{blockquote|Because he believed that he was fundamentally still a classical English liberal and wasn't quite aware of how far he had moved away from it. His basic ideas were still those of individual freedom. He did not think systematically enough to see the conflicts. He was, in a sense, corrupted by political necessity.}}
+
+According to some observers,{{who|date=November 2016}} Hayek felt that the post-World War II "Keynesian orthodoxy" gave too much power to the state, and that such policies would lead toward socialism.<ref>{{cite book | last1 = Dransfield |first1 = Robert | last2 = Dransfield | first2 = Don | title = Key Ideas in Economics | publisher = Nelson Thornes | year = 2003 | isbn = 0-7487-7081-X | page = 81 }}</ref>
+
+While [[Milton Friedman]] described ''The General Theory'' as "a great book", he argues that its implicit separation of [[Real versus nominal value (economics)|nominal from real magnitudes]] is neither possible nor desirable. Macroeconomic policy, Friedman argues, can reliably influence only the nominal.<ref name="Friedman">{{cite journal | url=https://www.richmondfed.org/publications/research/economic_quarterly/1997/spring/friedman | title=John Maynard Keynes | publisher=[[Federal Reserve Bank of Richmond]] | date=Spring 1997 | author=Friedman, Milton | journal=Economic Quarterly | volume=83/2}}</ref> He and other monetarists have consequently argued that [[Keynesian economics]] can result in [[stagflation]], the combination of low growth and high inflation that developed economies suffered in the early 1970s. More to Friedman's taste was the ''Tract on Monetary Reform'' (1923), which he regarded as Keynes's best work because of its focus on maintaining domestic price stability.<ref name="Friedman" />
+
+[[Joseph Schumpeter]] was an economist of the same age as Keynes and one of his main rivals. He was among the first reviewers to argue that Keynes's ''General Theory'' was not a general theory, but a special case.<ref name = "HarvardPeter">{{cite web | url = http://hbswk.hbs.edu/item/5626.html | title =  Dividends from Schumpeter's Noble Failure | publisher = Harvard Business School | author = Thomas K. McCraw | date = 7 February 2009 | access-date = 21 June 2009 }}</ref> He said the work expressed "the attitude of a decaying civilisation". After Keynes's death Schumpeter wrote a brief biographical piece ''Keynes the Economist'' – on a personal level he was very positive about Keynes as a man, praising his pleasant nature, courtesy and kindness. He assessed some of Keynes's biographical and editorial work as among the best he'd ever seen. Yet Schumpeter remained critical about Keynes's economics, linking Keynes's childlessness to what Schumpeter saw as an essentially short-term view. He considered Keynes to have a kind of unconscious patriotism that caused him to fail to understand the problems of other nations. For Schumpeter "Practical Keynesianism is a seedling which cannot be transplanted into foreign soil: it dies there and becomes poisonous as it dies."<ref name="Schumpeter" >{{cite book | url = https://books.google.com/books?id=jTDo58DZi1cC&q=The+New+Economics:+Keynes'+Influence+on+Theory+and+Public+Policy | title =  The New Economics: Keynes's Influence on Theory and Public Policy | publisher =  and Kessinger Publishing | author = Symour E Harris | author2 = Joseph Schumpter |trans-title=Keynes the Economist by Schumpter | pages = 73–101 | isbn = 978-1-4191-4534-6 | date = 1 March 2005 }}</ref>
+"Schumpeter admired and envied Keynes, but when Keynes died in 1946, Schumpeter's obituary gave Keynes the same off-key, perfunctory treatment he would later give [[Adam Smith]] in the ''History of Economic Analysis'', the "discredit of not adding a single innovation to the techniques of economic analysis".<ref>Prophet of innovation: Joseph Schumpeter and creative destruction.</ref>
+
+President [[Harry S. Truman]] was sceptical of Keynesian theorizing: "Nobody can ever convince me that government can spend a dollar that it's not got," he told [[Leon Keyserling]], a Keynesian economist who chaired Truman's [[Council of Economic Advisers]].<ref name="Cassidy2011" />
+
+===Views on race===
+
+Keynes sometimes explained the mass murder that took place during the first years of [[Communism|communist]] Russia on a racial basis, as part of the "Russian and Jewish nature", rather than as a result of the communist rule. After a trip to Russia, he wrote in his ''Short View of Russia'' that there is "beastliness on the Russian and Jewish natures when, as now, they are allied together". He also wrote that "out of the cruelty and stupidity of the Old Russia nothing could ever emerge, but (...) beneath the cruelty and stupidity of the New Russia a speck of the ideal may lie hid."<ref>''A Short View of Russia'', Essays in Persuasion, (London 1932) John Maynard Keynes, 297–312</ref>
+
+Some critics have sought to show that Keynes had sympathies towards [[Nazism]], and a number of writers have described him as [[antisemitic]]. Keynes's private letters contain portraits and descriptions, some of which can be characterized as antisemitic, while others as [[Philo-Semitism|philosemitic]].<ref>{{cite journal |last=Reder |first=Melvin W. |title=The Anti-Semitism of Some Eminent Economists |journal=History of Political Economy |volume=32 |issue=4 |year=2000 |pages=833–856 |doi=10.1215/00182702-32-4-833 |s2cid=153960185 }}</ref><ref>{{cite journal|title=Was Keynes Anti-Semitic?|journal=[[Economic and Political Weekly]]|volume=35|issue=6 May 2000|jstor=4409262|pages=1619–1624|last1=Chandavarkar|first1=A.|year=2000}}</ref>
+
+Scholars have suggested that these reflect clichés current at the time that he accepted uncritically, rather than any racism.<ref name="Nina Paulovicova">{{cite web | url = https://ejournals.library.ualberta.ca/index.php/pi/article/viewFile/1591/1117 | title = The Immoral Moral Scientist. John Maynard Keynes | publisher = University of Alberta | author = Nina Paulovicova | access-date = 14 June 2009 }}</ref> On several occasions Keynes used his influence to help his Jewish friends, most notably when he successfully lobbied for [[Ludwig Wittgenstein]] to be allowed residency in the United Kingdom, explicitly in order to rescue him from being deported to [[Anschluss|Nazi-occupied Austria]]. Keynes was a supporter of [[Zionism]], serving on committees supporting the cause.<ref name="Nina Paulovicova"/>
+
+Allegations that he was racist or had totalitarian beliefs have been rejected by [[Robert Skidelsky, Baron Skidelsky|Robert Skidelsky]] and other biographers.<ref name = "Cunningham" /> Professor Gordon Fletcher wrote that "the suggestion of a link between Keynes and any support of totalitarianism cannot be sustained".<ref name="K rev. and critics"/> Once the aggressive tendencies of the Nazis towards Jews and other minorities had become apparent, Keynes made clear his loathing of Nazism. As a lifelong pacifist he had initially favoured peaceful containment of [[Nazi Germany]], yet he began to advocate a forceful resolution while many conservatives were still arguing for appeasement. After the war started he roundly criticised the Left for losing their nerve to confront [[Adolf Hitler|Hitler]]:
+
+{{blockquote|The intelligentsia of the Left were the loudest in demanding that the Nazi aggression should be resisted at all costs. When it comes to a showdown, scarce four weeks have passed before they remember that they are pacifists and write defeatist letters to your columns, leaving the defence of freedom and civilisation to [[Colonel Blimp]] and the Old School Tie, for whom Three Cheers.<ref name = "SkidelP2" />}}
+
+===Views on inflation===
+
+Keynes has been characterised as being indifferent or even positive about mild [[inflation]].<ref name=PBS>{{cite web|url=http://www.pbs.org/wgbh/commandingheights/shared/minitext/ess_inflation.html|title= Keynes on Inflation|publisher=[[Public Broadcasting Service|PBS]]|author=Daniel Yergin | author2 = Joseph Stanislaw|access-date=30 June 2009|author-link= Daniel Yergin|author-link2= Joseph Stanislaw}}</ref> He had indeed expressed a preference for inflation over [[deflation]], saying that if one has to choose between the two evils, it is "better to disappoint the rentier" than to inflict pain on [[working class]] families.<ref>{{cite book|last=Tabb|first=William K.|title=Reconstructing Political Economy: The Great Divide in Economic Thought|year=2002|publisher=Routledge|page=151|url=https://books.google.com/books?id=Vj3ovRJfufQC&pg=PA151|isbn=9780203049310}}</ref> He also supported the German hyperinflation as a way to get free from reparations obligations.  However, Keynes was also aware of the dangers of inflation.<ref name="K rev. and critics"/> In ''[[The Economic Consequences of the Peace]]'', he wrote: {{blockquote|[[Vladimir Lenin|Lenin]] is said to have declared that the best way to destroy the Capitalist System was to debauch the currency. By a continuing process of inflation, governments can confiscate, secretly and unobserved, an important part of the wealth of their citizens. There is no subtler, no surer means of overturning the existing basis of society than to debauch the currency. The process engages all the hidden forces of economic law on the side of destruction, and does it in a manner which not one man in a million is able to diagnose.<ref name=PBS/>}}
+
+===Views on free trade and protectionism===
+====The turning point of the Great Depression====
+At the beginning of his career, Keynes was an economist close to [[Alfred Marshall]], deeply convinced of the benefits of free trade. From the crisis of 1929 onwards, noting the commitment of the British authorities to defend the gold parity of the pound sterling and the rigidity of nominal wages, he gradually adhered to protectionist measures.<ref name="J.M. Keynes, free trade and protectionism">{{Cite journal|url=https://www.erudit.org/fr/revues/ae/2010-v86-n1-ae3990/045556ar/|doi = 10.7202/045556ar|title = J.M. Keynes, le libre-échange et le protectionnisme|year = 2011|last1 = Maurin|first1 = Max|journal = L'Actualité Économique|volume = 86|pages = 109–129|doi-access = free}}</ref>
+
+On 5 November 1929, when heard by the [[Macmillan Committee]] to bring the British economy out of the crisis, Keynes indicated that the introduction of tariffs on imports would help to rebalance the trade balance. The committee's report states in a section entitled "import control and export aid", that in an economy where there is not full employment, the introduction of tariffs can improve production and employment. Thus the reduction of the trade deficit favours the country's growth.<ref name="J.M. Keynes, free trade and protectionism" />
+
+In January 1930, in the Economic Advisory Council, Keynes proposed the introduction of a system of protection to reduce imports. In the autumn of 1930, he proposed a uniform tariff of 10% on all imports and subsidies of the same rate for all exports.<ref name="J.M. Keynes, free trade and protectionism" /> In the ''Treatise on Money'', published in the autumn of 1930, he took up the idea of tariffs or other trade restrictions with the aim of reducing the volume of imports and rebalancing the balance of trade.<ref name="J.M. Keynes, free trade and protectionism" />
+
+On 7 March 1931, in the ''[[New Statesman and Nation]]'', he wrote an article entitled ''Proposal for a Tariff Revenue''. He pointed out that the reduction of wages led to a reduction in national demand which constrained markets. Instead, he proposes the idea of an expansionary policy combined with a tariff system to neutralise the effects on the balance of trade. The application of customs tariffs seemed to him "unavoidable, whoever the Chancellor of the Exchequer might be".Thus, for Keynes, an economic recovery policy is only fully effective if the trade deficit is eliminated. He proposed a 15% tax on manufactured and semi-manufactured goods and 5% on certain foodstuffs and raw materials, with others needed for exports exempted (wool, cotton).<ref name="J.M. Keynes, free trade and protectionism" />
+
+In 1932, in an article entitled ''The Pro- and Anti-Tariffs'', published in ''[[The Listener (magazine)|The Listener]]'', he envisaged the protection of farmers and certain sectors such as the automobile and iron and steel industries, considering them indispensable to Britain.<ref name="J.M. Keynes, free trade and protectionism" />
+
+====The critique of the theory of comparative advantage====
+In the post-crisis situation of 1929, Keynes judged the assumptions of the free trade model unrealistic. He criticised, for example, the neoclassical assumption of wage adjustment.<ref name="J.M. Keynes, free trade and protectionism"/><ref name="The non-neoclassical foundations of protectionism">{{Cite thesis|url=http://www.sudoc.abes.fr/cbs/xslt/DB=2.1//SRCH?IKT=12&TRM=170778401|title = Les fondements non neoclassiques du protectionnisme|year = 2013|publisher = Université Bordeaux-IV|last1 = Maurin|first1 = Max}}</ref>
+
+As early as 1930, in a note to the Economic Advisory Council, he doubted the intensity of the gain from specialisation in the case of manufactured goods. While participating in the MacMillan Committee, he admitted that he no longer "believed in a very high degree of national specialisation" and refused to "abandon any industry which is unable, for the moment, to survive". He also criticised the static dimension of the theory of comparative advantage, which, in his view, by fixing comparative advantages definitively, led in practice to a waste of national resources.<ref name="J.M. Keynes, free trade and protectionism" /><ref name="The non-neoclassical foundations of protectionism" />
+
+In the Daily Mail of 13 March 1931, he called the assumption of perfect sectoral labour mobility "nonsense" since it states that a person made unemployed contributes to a reduction in the wage rate until he finds a job. But for Keynes, this change of job may involve costs (job search, training) and is not always possible. Generally speaking, for Keynes, the assumptions of full employment and automatic return to equilibrium discredit the theory of comparative advantage.<ref name="J.M. Keynes, free trade and protectionism" /><ref name="The non-neoclassical foundations of protectionism" />
+
+In July 1933, he published an article in the ''New Statesman and Nation'' entitled ''National Self-Sufficiency'', in which he criticised the argument of the specialisation of economies, which is the basis of free trade. He thus proposed the search for a certain degree of self-sufficiency. Instead of the specialisation of economies advocated by the Ricardian theory of comparative advantage, he prefers the maintenance of a diversity of activities for nations.<ref name="The non-neoclassical foundations of protectionism" /> In it he refutes the principle of peacemaking trade. His vision of trade became that of a system where foreign capitalists compete for new markets. He defends the idea of producing on national soil when possible and reasonable and expresses sympathy for the advocates of [[protectionism]].<ref name="National Self-Sufficiency">{{Cite web|url=http://www.mtholyoke.edu/acad/intrel/interwar/keynes.htm|title=John Maynard Keynes, "National Self-Sufficiency," the Yale Review, Vol. 22, no. 4 (June 1933), pp. 755-769.}}</ref> 
+He notes in ''National Self-Sufficiency'':<ref name="National Self-Sufficiency" /><ref name="J.M. Keynes, free trade and protectionism" />
+{{cquote|A considerable degree of international specialization is necessary in a rational world in all cases where it is dictated by wide differences of climate, natural resources, native aptitudes, level of culture and density of population. But over an increasingly wide range of industrial products, and perhaps of agricultural products also, I have become doubtful whether the economic loss of national self-sufficiency is great enough to outweigh the other advantages of gradually bringing the product and the consumer within the ambit of the same national, economic, and financial organization. Experience accumulates to prove that most modern processes of mass production can be performed in most countries and climates with almost equal efficiency.}}
+
+He also writes in ''National Self-Sufficiency'':<ref name="J.M. Keynes, free trade and protectionism" />{{cquote|I sympathize, therefore, with those who would minimize, rather than with those who would maximize, economic entanglement among nations. Ideas, knowledge, science, hospitality, travel--these are the things which should of their nature be international. But let goods be homespun whenever it is reasonably and conveniently possible, and, above all, let finance be primarily national.}}
+
+Later, Keynes had a written correspondence with [[James Meade]] centred on the issue of import restrictions. Keynes and Meade discussed the best choice between quota and tariff. In March 1944 Keynes began a discussion with [[Marcus Fleming]] after the latter had written an article entitled ''Quotas versus depreciation''. On this occasion, we see that he has definitely taken a protectionist stance after the [[Great Depression]]. He considered that quotas could be more effective than currency depreciation in dealing with external imbalances. Thus, for Keynes, currency depreciation was no longer sufficient and protectionist measures became necessary to avoid trade deficits. To avoid the return of crises due to a self-regulating economic system, it seemed essential to him to regulate trade and stop free trade (deregulation of foreign trade).<ref name="J.M. Keynes, free trade and protectionism" />
+
+He points out that countries that import more than they export weaken their economies. When the trade deficit increases, unemployment rises and GDP slows down. And surplus countries exert a "negative externality" on their trading partners. They get richer at the expense of others and destroy the output of their trading partners. John Maynard Keynes believed that the products of surplus countries should be taxed to avoid trade imbalances.<ref>{{Cite web|title=Reform the euro or bin it|date=2010-05-05|author=Joseph Stiglitz|website=[[TheGuardian.com]]|url=https://www.theguardian.com/commentisfree/2010/may/05/reform-euro-or-bin-it-greece-germany}}</ref> Thus he no longer believes in the theory of [[comparative advantage]] (on which free trade is based) which states that the trade deficit does not matter, since trade is mutually beneficial.
+This also explains his desire to replace the liberalisation of international trade ([[Free Trade]]) with a regulatory system aimed at eliminating trade imbalances in his proposals for the [[Bretton Woods Agreement]].
+
+===Views on trade imbalances===
+Keynes was the principal author of a proposal – the so-called Keynes Plan – for an [[International Clearing Union]]. The two governing principles of the plan were that the problem of settling outstanding balances should be solved by "creating" additional "international money", and that debtor and creditor should be treated almost alike as disturbers of equilibrium. In the event, though, the plans were rejected, in part because "American opinion was naturally reluctant to accept the principle of equality of treatment so novel in debtor-creditor relationships".<ref>{{cite book|author=Crowther, Geoffrey|title=An Outline of Money|version=Second Edition|publisher= Thomas Nelson and Sons|year=1948|pages=326–29}}</ref>
+
+The new system is not founded on free-trade (liberalisation<ref name="inve_Dere">{{Cite web |title=What Is Deregulation? |work=[[Investopedia]] |date=25 June 2019 |access-date=5 September 2019 |url= https://www.investopedia.com/terms/d/deregulate.asp |quote=Deregulation is the reduction or elimination of government power in a particular industry, usually enacted to create more competition within the industry. }}</ref> of foreign trade<ref name="inve_Trad">{{Cite web |title=What Is Trade Liberalization |work=[[Investopedia]] |date=18 April 2019 |access-date=5 September 2019 |url= https://www.investopedia.com/terms/t/trade-liberalization.asp |quote=Trade liberalization is the removal or reduction of restrictions or barriers on the free exchange of goods between nations. }}</ref>) but rather on the regulation of international trade, in order to eliminate trade imbalances: the nations with a surplus would have an incentive to reduce it, and in doing so they would automatically clear other nations deficits.<ref name="scho_">{{Cite web |title=Current Global Imbalances and the Keynes Plan (PDF) |author=Costabile, Lilia |work=[[Political Economy Research Institute]] |date=December 2007 |access-date=5 September 2019 |url=https://scholarworks.umass.edu/cgi/viewcontent.cgi |archive-url=https://web.archive.org/web/20190228191918/https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1101&context=peri_workingpapers |archive-date=28 February 2019 |url-status=dead }}</ref> He proposed a global bank that would issue its currency – the bancor – which was exchangeable with national currencies at fixed rates of exchange and would become the unit of account between nations, which means it would be used to measure a country's trade deficit or trade surplus. Every country would have an overdraft facility in its bancor account at the International Clearing Union. He pointed out that surpluses lead to weak global aggregate demand – countries running surpluses exert a "negative externality" on trading partners, and posed, far more than those in deficit, a threat to global prosperity.<ref>{{Cite news |url=https://www.theguardian.com/commentisfree/2010/may/05/reform-euro-or-bin-it-greece-germany |title=Reform the euro or bin it &#124; Joseph Stiglitz| newspaper=[[The Guardian]]| date=5 May 2010| last1=Stiglitz| first1=Joseph}}</ref>
+
+In his 1933 ''[[The Yale Review|Yale Review]]'' article "National Self-Sufficiency,"<ref>{{Cite web |url=https://www.mtholyoke.edu/acad/intrel/interwar/keynes.htm |title=National Self-Sufficiency |last=Keynes |first=John Maynard |date=June 1933 |website=Mount Holyoke College  |publisher=The Yale Review Vol. 22, no. 4 | access-date=5 September 2019 }}</ref><ref>{{Cite web |url=https://www.india-seminar.com/2009/601/601_david_singh_grewali.htm |title=What Keynes warned about globalization |last=Grewal |first=David Singh |date=September 2009 |website=Seminar Magazine |location=New Delhi, India |issn=0971-6742 |access-date=5 September 2019 }}</ref> he already highlighted the problems created by free trade. His view, supported by many economists and commentators at the time, was that creditor nations may be just as responsible as debtor nations for disequilibrium in exchanges and that both should be under an obligation to bring trade back into a state of balance. Failure for them to do so could have serious consequences. In the words of [[Geoffrey Crowther, Baron Crowther|Geoffrey Crowther]], then editor of ''[[The Economist]]'', "If the economic relationships between nations are not, by one means or another, brought fairly close to balance, then there is no set of financial arrangements that can rescue the world from the impoverishing results of chaos."<ref>{{cite book |author=Crowther, Geoffrey| title=An Outline of Money |version=Second Edition |publisher=Thomas Nelson and Sons |year=1948 |page=336 }}</ref>
+
+These ideas were informed by events prior to the [[Great Depression]] when – in the opinion of Keynes and others – international lending, primarily by the U.S., exceeded the capacity of sound investment and so got diverted into non-productive and speculative uses, which in turn invited default and a sudden stop to the process of lending.<ref>{{cite book|author=Crowther, Geoffrey| title=An Outline of Money|version=Second Edition|publisher=Thomas Nelson and Sons|year=1948|pages= 368–72}}</ref>
+
+Influenced by Keynes, economics texts in the immediate post-war period put a significant emphasis on balance in trade. For example, the second edition of the popular introductory textbook, ''An Outline of Money'',<ref>{{cite book |author=Crowther, Geoffrey |title=An Outline of Money |version= Second Edition| publisher=Thomas Nelson and Sons |year=1948 }}</ref> devoted the last three of its ten chapters to questions of foreign exchange management and in particular the "problem of balance". However, in more recent years, since the end of the [[Bretton Woods system]] in 1971, with the increasing influence of [[Monetarist]] schools of thought in the 1980s, and particularly in the face of large sustained trade imbalances, these concerns – and particularly concerns about the destabilising effects of large trade surpluses – have largely disappeared from [[mainstream economics]] discourse<ref>{{cite book |author=Krugman, P  |author2=Wells, R |year=2006 |title=Economics |publisher=Worth Publishers }}</ref> and Keynes's insights have slipped from view.<ref>{{cite book |author=Duncan, R |title=The Dollar Crisis: Causes, Consequences, Cures |url=https://archive.org/details/dollarcrisiscaus00dunc_0 |url-access=registration |year=2005 |publisher=Wiley |isbn=9780470821701 }}</ref> They are receiving some attention again in the wake of the [[financial crisis of 2007–08]].<ref name="monb_Clea">{{Cite web |title=Clearing Up This Mess |author=Monbiot, George |work=George Monbiot Website |date=18 November 2008 |access-date=5 September 2019 |url=https://www.monbiot.com/2008/11/18/clearing-up-this-mess |url-status=live |archive-url=https://web.archive.org/web/20090123161345/http://www.monbiot.com/archives/2008/11/18/clearing-up-this-mess/ |archive-date=23 January 2009 }}</ref>
+
+==Personal life==
+[[File:Duncan Grant with John Maynard Keynes.jpg|thumb|Painter [[Duncan Grant]] (left) with Keynes in 1912]]
+
+===Relationships===
+Keynes's early romantic and sexual relationships were exclusively with men.<ref name="New York Times">
+{{cite news
+|access-date=20 May 2008
+|url=https://www.nytimes.com/books/98/12/06/specials/skidelsky-keynes.html
+|title=The man who made us all Keynesians
+|work=The New York Times
+|date=11 May 1986
+|author=Robert L. Heilbroner
+}}
+</ref> Keynes had been in relationships while at Eton and Cambridge; significant among these early partners were [[Dilly Knox]] and Daniel Macmillan.<ref name=Supermac/>{{sfn|Strachey|1994|pp=123, 127, 715}} Keynes was open about his affairs, and from 1901 to 1915 kept separate diaries in which he tabulated his many sexual encounters.<ref name="moreintelligentlife.com">[http://www.moreintelligentlife.com/node/824 The Sex Diaries of John Maynard Keynes] The Economist, 28 January 2008, Evan Zimroth (Clare Hall, Cambridge)  {{webarchive |url=https://web.archive.org/web/20091124021328/http://www.moreintelligentlife.com/node/824 |date=24 November 2009 }}</ref><ref>O'Grady, Sean. "[https://www.independent.co.uk/news/business/analysis-and-features/john-maynard-keynes-new-biography-reveals-shocking-details-about-the-economists-sex-life-10101971.html John Maynard Keynes: New biography reveals shocking details about the economist's sex life]", ''The Independent''. 12 March 2015; accessed 19 November 2015.</ref> Keynes's relationship and later close friendship with Macmillan was to be fortunate, as [[Macmillan Publishers|Macmillan's company]] first published his tract ''Economic Consequences of the Peace''.<ref>Thorpe, p.18</ref>
+
+Attitudes in the [[Bloomsbury Group]], in which Keynes was avidly involved, were relaxed about homosexuality. Keynes, together with writer [[Lytton Strachey]], had reshaped the [[Victorian morality|Victorian]] attitudes of the [[Cambridge Apostles]]: "since [their] time, homosexual relations among the members were for a time common", wrote [[Bertrand Russell]].{{sfn|Strachey|1994|p=103}}  The artist [[Duncan Grant]], whom he met in 1908, was one of Keynes's great loves. Keynes was also involved with Lytton Strachey,<ref name="New York Times" /> though they were for the most part love rivals, not lovers. Keynes had won the affections of [[Arthur Hobhouse]],{{sfn|Strachey|1994|pp=108–110}} and as with Grant, fell out with a jealous Strachey for it.{{sfn|Strachey|1994|pp=181–183}} Strachey had previously found himself put off by Keynes, not least because of his manner of "treat[ing] his love affairs statistically".{{sfn|Strachey|1994|p=128}}
+
+Political opponents have used Keynes's sexuality to attack his academic work.<ref name=Bartlett>{{cite news|last=Bartlett|first=Bruce|title=Keynes's Biggest Mistake|url=https://economix.blogs.nytimes.com/2013/05/07/keyness-biggest-mistake/|newspaper=The New York Times|date=7 May 2013}}</ref> One line of attack held that he was uninterested in the long-term ramifications of his theories because he had no children.<ref name=Bartlett/>
+
+Keynes's friends in the Bloomsbury Group were initially surprised when, in his later years, he began pursuing affairs with women,<ref>Adam Trimingham, [http://www.theargus.co.uk/news/nostalgia/past_present/10030998.print/ "A man of numbers"], ''[[The Argus (Brighton)|The Argus]]'', 12 November 2012.</ref> demonstrating himself to be [[bisexuality|bisexual]].<ref>Sources describing Keynes as bisexual include:
+* John Maynard Keynes, ''The Economic Consequences of the Peace,'' Indo-European Publishing, 2011, [https://books.google.com/books?id=WoPURzI_6eMC&pg=PA139 see back book cover notes], {{ISBN|160444116X}}, 9781604441161
+* Paul Levy, "The Bloomsbury Group", ''Essays on John Maynard Keynes'', ed. Milo Keynes, Cambridge University Press, 1979, [https://books.google.com/books?id=s3qqM3B_920C&pg=PA65 p. 65], {{ISBN|0-521-29696-X}}, 9780521296960
+* David Warsh, ''Economic Principles: The Masters and Mavericks of Modern Economics,'' [[Simon & Schuster]], 2010, [https://books.google.com/books?id=a2X71cAvnYoC&pg=PA3 p. 3], {{ISBN|9781451602562}}</ref> [[Ray Strachey|Ray Costelloe]] (who later married [[Oliver Strachey]]) was an early heterosexual interest of Keynes.{{sfn|Strachey|1994|p=129}} In 1906, Keynes had written of this infatuation that, "I seem to have fallen in love with Ray a little bit, but as she isn't male I haven't [been] able to think of any suitable steps to take."<ref>{{cite book|last=Moggridge|first=Donald Edward|title=Maynard Keynes: an economist's biography|page=104|publisher=Routledge|year=1995}}</ref>
+
+===Marriage===
+[[File:Lopokova and Keynes 1920s (cropped).jpg|thumb|[[Lydia Lopokova]] and Keynes in the 1920s]]
+In 1921, Keynes wrote that he had fallen "very much in love" with [[Lydia Lopokova]], a well-known Russian [[Ballet dancer|ballerina]] and one of the stars of [[Sergei Diaghilev]]'s ''[[Ballets Russes]]''.<ref>{{cite book|title=Maynard Keynes: an economist's biography|url=https://archive.org/details/maynardkeyneseco0047mogg|url-access=registration|year=1992|publisher=Routledge|page=[https://archive.org/details/maynardkeyneseco0047mogg/page/395 395]|author=D. E. Moggridge|isbn=9780415051415|quote=I again fell very much in love with her. She seemed to me perfect in every way.}}</ref> In the early years of his courtship, he maintained an affair with a younger man, [[W. J. H. Sprott|Sebastian Sprott]], in tandem with Lopokova, but eventually chose Lopokova exclusively.<ref>[https://www.telegraph.co.uk/culture/books/non_fictionreviews/3672942/The-unlikely-Lydia-Lopokova.html The unlikely Lydia Lopokova]''The Telegraph'', 25 April 2008, Rupert Christiansen</ref><ref>[https://www.theguardian.com/books/2008/apr/19/featuresreviews.guardianreview3 "The firebird of Gordon Square"] Kathryn Hughes, ''The Guardian'', 19 April 2008</ref> They were married in 1925, with Keynes's former lover [[Duncan Grant]] as best man.<ref name="ES" /><ref name="New York Times" /> "What a marriage of beauty and brains, the fair Lopokova and John Maynard Keynes" was said at the time. Keynes later commented to Strachey that beauty and intelligence were rarely found in the same person, and that only in Duncan Grant had he found the combination.<ref>{{cite book|author=Justin Wintle|title=Makers of Modern Culture|chapter-url=https://books.google.com/books?id=991tT3wSot0C&pg=PA270|volume=1|year=2002|publisher=Psychology Press|isbn=978-0-415-26583-6|page=270|chapter=Keynes, John Maynard}}</ref> The union was happy, with biographer Peter Clarke writing that the marriage gave Keynes "a new focus, a new emotional stability and a sheer delight of which he never wearied".<ref name="clarke">
+{{Cite news|last=Mackrell|first=Judith|date=6 May 2013|title=Niall Ferguson is wrong: writing on Lopokova, Keynes' wife, I found evidence of a warm and loving relationship in which both wanted children|work=The Guardian|url=https://www.theguardian.com/stage/2013/may/06/niall-ferguson-keynes-marriage-sex|access-date=28 April 2021}}
+</ref><ref>
+{{cite web
+ |access-date  = 21 November 2008
+|url         = http://www.glbtq.com/social-sciences/keynes_jm,2.html
+ |title       = Keynes, John Maynard (1883–1946)
+ |publisher   = glbtq
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20121002144221/http://www.glbtq.com/social-sciences/keynes_jm,2.html
+ |archive-date = 2 October 2012
+|df          = dmy-all
+}}
+</ref>
+The couple hoped to have children but this did not happen.<ref name = "clarke"/>
+
+Among Keynes's Bloomsbury friends, Lopokova was, at least initially, subjected to criticism for her manners, mode of conversation, and supposedly humble social origins – the last of the ostensible causes being particularly noted in the letters of [[Vanessa Bell|Vanessa]] and [[Clive Bell]], and [[Virginia Woolf]].<ref name="ReferenceA">''Lady Talky'', Alison Light, London Review of Books, Vol. 30 No. 24, 18 December 2008</ref><ref>"Review: Keynes and the Celestial Dancer", by Anand Chandavarkar, Reviewed work(s): Lydia and Maynard: Letters between Lydia Lopokova and Maynard Keynes by Polly Hill; Richard Keynes, Economic and Political Weekly, Vol. 25, No. 34 (25 August 1990), p. 1896</ref> In her novel ''[[Mrs Dalloway]]'' (1925), Woolf bases the character of Rezia Warren Smith on Lopokova.<ref>{{cite book|title=Lydia and Maynard: letters between Lydia Lopokova and John Maynard Keynes|url=https://archive.org/details/lydiamaynard00lydi|url-access=registration|page=[https://archive.org/details/lydiamaynard00lydi/page/97 97]|publisher=André Deutsch|editor1=Polly Hill |editor2=Richard Keynes |year=1989|isbn=978-0-233-98283-0}}</ref> [[E. M. Forster]] later wrote in contrition about "Lydia Keynes, every whose word should be recorded":<ref>{{cite book|title=Commonplace Book|quote=Lydia Keynes, every whose word should be recorded, said to me as I was leaving her flat the other night: "You know I once tumbled from the stairs and believe me I paid the price." I took the sentence down before I forgot it.|page=195|author=E.M. Forster|year=1987}}</ref> "How we all used to underestimate her".<ref name="ReferenceA"/>
+
+[[File:46 Gordon Square London.jpg|thumb|46 [[Gordon Square]], where Keynes often stayed while in London. Following his marriage, Keynes took out an extended lease on ''Tilton House'', a farm in the countryside near [[Brighton]], which became the couple's main home when not in the capital.<ref>{{cite web|url=http://www.tiltonhouse.co.uk/ |title=Tilton House homepage |publisher=Tiltonhouse.co.uk |access-date=2 October 2013}}</ref>]]
+
+[[File:John Maynard Keynes 46 Gordon Square blue plaque.jpg|thumb|Blue plaque, 46 Gordon Square]]
+
+===Support for the arts===
+Keynes thought that the pursuit of money for its own sake was a pathological condition, and that the proper aim of work is to provide leisure. He wanted shorter working hours and longer holidays for all.<ref name="ReferenceB"/>
+
+Keynes was interested in literature in general and drama in particular and supported the [[Cambridge Arts Theatre]] financially, which allowed the institution to become one of the major British stages outside London.<ref name="ES" />
+
+Keynes's interest in classical opera and dance led him to support the [[Royal Opera House]] at [[Covent Garden]] and the Ballet Company at [[Sadler's Wells Theatre|Sadler's Wells]]. During [[World War II|the war]], as a member of CEMA (Council for the Encouragement of Music and the Arts), Keynes helped secure government funds to maintain both companies while their venues were shut. Following the war, Keynes was instrumental in establishing the [[Arts Council of Great Britain]] and was its founding chairman in 1946. From the start, the two organisations that received the largest grants from the new body were the Royal Opera House and Sadler's Wells.
+
+Keynes built up a substantial collection of fine art, including works by [[Paul Cézanne]], [[Edgar Degas]], [[Amedeo Modigliani]], [[Georges Braque]], [[Pablo Picasso]], and [[Georges Seurat]] (some of which can now be seen at the [[Fitzwilliam Museum]]).<ref name="ES" /> He enjoyed collecting books; he collected and protected many of [[Isaac Newton]]'s papers. In part on the basis of these papers, Keynes wrote of Newton as "the last of the magicians."<ref>
+{{cite book
+| last = Keynes
+| first = John Maynard
+|title=The World of Mathematics
+|year=1956
+|publisher=Dover
+|isbn=0-486-41153-2
+|edition=2000
+|editor=James R. Newman
+|page=277
+}}</ref>
+
+===Philosophical views===
+Keynes, like other members of the [[Bloomsbury Group]], was greatly influenced by the philosophy of [[George Edward Moore|G.E. Moore]], which in 1938 he described as "still my religion under the surface".<ref>{{Cite book|last=Robert.|first=Skidelsky|url=http://worldcat.org/oclc/796052814|title=John Maynard Keynes : the economist as saviour 1920-1937 : a biography.|date=1992|publisher=Macmillan|isbn=0-333-37138-0|pages=408|oclc=796052814}}</ref> According to Moore, states of mind were the only valuable things in themselves, the most important being "the pleasures of human intercourse and the enjoyment of beautiful objects".<ref>{{Cite book|last=Edward.|first=Moore, George|url=http://worldcat.org/oclc/1147825165|title=Principia Ethica|date=2019|publisher=Forgotten Books|isbn=978-0-243-65975-3|oclc=1147825165}}</ref><ref>{{Cite book|last=skidelsky|first=robert|title=John Maynard Keynes: Hopes Betrayed|publisher=Macmillan|year=1983|isbn=0-333-57379-X|location=London|pages=139}}</ref> [[Virginia Woolf]]'s biographer tells an anecdote of how Virginia Woolf, Keynes, and [[T. S. Eliot]] discussed religion at a dinner party, in the context of their struggle against [[Victorian era]] morality.<ref name="bell177">
+{{cite book
+|author=Quentin Bell
+|title=''Virginia Woolf, A Biography''.
+|volume= 2
+|publisher=The Hogarth Press. 1972
+|edition= revised 1996
+|page= 177
+|author-link= Quentin Bell
+}}
+</ref>
+Keynes may have been [[Confirmation|confirmed]],<ref name="skidv1">{{cite book |title=John Maynard Keynes: Volume 1: Hopes Betrayed 1883–1920 |last=Skidelsky |first=Robert |author-link=Robert Skidelsky |page=86 |date=1 January 1994 |publisher=[[Penguin Books]] |isbn=014023554X}}</ref> but according to Cambridge University he was clearly an agnostic, which he remained until his death.<ref>
+{{cite book
+|last=Lubenow
+|first=William C
+|author-link = W. C. Lubenow
+|title=The Cambridge Apostles, 1820–1914
+|year=1998
+|isbn=0-521-57213-4
+|publisher=Cambridge University Press
+}}
+</ref> According to one biographer, "he was never able to take religion seriously, regarding it as a strange aberration of the human mind"<ref name="skidv1" /> but also added that he came to "value it for social and moral reasons" later in life.<ref>{{Cite book|last=Skidelsky|first=Robert|title=John Maynard Keynes: Volume 3: Fighting for Freedom 1937-46|publisher=Macmillan|year=2000|isbn=0-14-200167-8|pages=475}}</ref> Another biographer writes that he "broke the family faith and became a 'ferocious agnostic{{'"}} during his time at Eton.<ref>{{cite book|title=John Maynard Keynes: A Personal Biography of the Man who Revolutionized Capitalism and the Way We Live|page=33|last=Hession|first=Charles Henry|year=1984|publisher=Macmillan|isbn=978-0-02-551310-5}}</ref> One Cambridge acquaintance remembered him as "an atheist with a devotion to King's chapel".<ref>{{cite book|page=11|publisher=Cambridge University Press|title=Essays on John Maynard Keynes|chapter=A Personal View|editor=Milo Keynes}}</ref> At Cambridge, he was strongly associated with the Cambridge Heretics Society, an avowed atheist group which promoted [[secularism]] and [[secular humanism|humanism]].<ref>{{cite web|url=https://heritage.humanists.uk/the-cambridge-heretics/|title=The Cambridge Heretics|work=Humanist Heritage|publisher=[[Humanists UK]]|access-date=30 April 2021}}</ref>
+
+===Investments===
+Keynes was ultimately a successful investor, building up a private fortune. His assets were nearly wiped out following the [[Wall Street Crash of 1929]], which he did not foresee, but he soon recouped. At Keynes's death, in 1946, his net worth stood just short of £500,000 – equivalent to about £20.5 million ($27.1 million) in 2018. The sum had been amassed despite lavish support for various charities and philanthropies, and his ethic which made him reluctant to sell on a falling market, in cases where he saw such behaviour as likely to deepen a slump.<ref>See ''John Maynard Keynes'' by Skidelsky (2003), pp. 520–21, p. 563 and especially p. 565 where Keynes is quoted as "It is the duty of a serious investor to accept the depreciation of his holding with equanimity ... any other policy is anti-social, destructive of confidence and incompatible with the working of the economic system."</ref>
+
+Keynes managed the endowment of [[King's College, Cambridge]] starting in the 1920s, initially with an unsuccessful strategy based on [[market timing]] but later shifting to focus in the publicly traded stock of small and medium size companies that paid large [[dividend]]s.<ref name=Tillinghast2017>Joel Tillinghast (2017). Big Money Thinks Small: Biases, Blind Spots and Smarter Investing. Columbia University Press, {{ISBN|978-0-231-54469-6}}</ref> This was a controversial decision at the time, as stocks were considered high-risk and the centuries-old endowment had traditionally been invested in agricultural land and [[fixed income]] assets like bonds.<ref name="Chambers2013">{{Cite journal |last1=Chambers |first1=David |last2=Dimson |first2=Elroy |date=30 June 2013 |title=John Maynard Keynes, Investment Innovator |journal=Journal of Economic Perspectives |volume=27 |issue=30 |pages=1–18 |publisher=University of Cambridge |language=en |location=Rochester, NY |doi=10.1257/jep.27.3.213 |ssrn=2287262|doi-access=free }}</ref> Keynes was granted permission to invest a small minority of assets in stocks, and his adroit management resulted this portion of the endowment growing to become the majority of the endowment's assets.<ref name=Chambers2013/> The active component of his portfolio outperformed a British equity index by an average of 6%<ref name=Tillinghast2017/> to 8% a year over a quarter century, earning him favourable mention by later investors such as [[Warren Buffett]] and [[George Soros]].<ref>
+{{cite journal
+| last1 = Chambers
+| first1 = David
+| last2 = Dimson
+| first2 = Elroy
+| date =Summer 2013
+| title      = Retrospectives: John Maynard Keynes, Investment Innovator
+| journal    = Journal of Economic Perspectives
+| publisher  = American Economic Association
+| volume     = 27
+| issue      = 3
+| pages      = 213–228
+| doi        = 10.1257/jep.27.3.213
+| doi-access= free
+}}
+</ref> Joel Tillinghast of [[Fidelity Investments]] describes Keynes as an early practitioner of [[value investing]], a school of thought formalized in the U.S. by [[Benjamin Graham]] and [[David Dodd]] at [[Columbia Business School]] during the 1920s and '30s.<ref name=Tillinghast2017/> However, Keynes is believed to have developed his ideas independently.<ref name=Chambers2013/> Keynes also regarded as a pioneer of [[diversification (finance)|financial diversification]] as he recognized the importance of holding assets with "opposed risks" as he wrote  "since they are likely to move in opposite directions when there are general fluctuations";<ref name=Fisher2007/> and also as an early international investor who avoided [[Equity home bias puzzle|home country bias]] by investing substantially in stocks outside the United Kingdom.<ref>David Chambers, Elroy Dimson, Justin Foo (2015). [https://www.nber.org/chapters/c12860 Keynes, King's, and Endowment Asset Management], in ''How the Financial Crisis and Great Recession Affected Higher Education'' (2015), Jeffrey R. Brown and Caroline M. Hoxby, editors (p. 127 - 150). Conference held September 27–28, 2012.</ref> [[Ken Fisher]] characterized Keynes as an exception to the rule that economists usually make horrible investors.<ref name=Fisher2007>[[Kenneth L. Fisher]] (2007). 100 Minds That Made the Market. Wiley, ISBN 9780470139516</ref>
+
+===Political life===
+Keynes was a lifelong member of the [[Liberal Party (UK)|Liberal Party]], which until the 1920s had been one of the two main political parties in the United Kingdom, and as late as 1916 had often been the dominant power in government. Keynes had helped campaign for the Liberals at elections from about 1906, yet he always refused to run for office himself, despite being asked to do so on three separate occasions in 1920. From 1926, when Lloyd George became leader of the Liberals, Keynes took a major role in defining the party's economic policy, but by then the Liberals had been displaced into third-party status by the growing workers-oriented [[Labour Party (UK)|Labour Party]].<ref name = "SkidelP1" />
+
+In 1939 Keynes had the option to enter Parliament as an independent MP with the [[Cambridge University (UK Parliament constituency)|University of Cambridge seat]]. A by-election for the seat was to be held due to the illness of an elderly [[Conservative Party (UK)|Tory]], and the master of [[Magdalene College, Cambridge|Magdalene College]] had obtained agreement that none of the major parties would field a candidate if Keynes chose to stand. Keynes declined the invitation as he felt he would wield greater influence on events if he remained a free agent.<ref name = "clarke"/>
+
+Keynes was a proponent of [[eugenics]].<ref>{{Cite news|last=Freedland|first=Jonathan|date=17 February 2012|title=Eugenics: the skeleton that rattles loudest in the left's closet {{!}} Jonathan Freedland|language=en-GB|work=The Guardian|url=https://www.theguardian.com/commentisfree/2012/feb/17/eugenics-skeleton-rattles-loudest-closet-left|access-date=15 June 2020|issn=0261-3077}}</ref> He served as director of the [[Galton Institute|British Eugenics Society]] from 1937 to 1944. As late as 1946, shortly before his death, Keynes declared eugenics to be "the most important, significant and, I would add, genuine branch of sociology which exists."<ref>{{cite journal|author=Keynes, John Maynard|year=1946|title=The Galton lecture, 1946: Presentation of the society's gold medal|journal=Eugenics Review|volume=38|issue=1|pages=39–40|pmc=2986310|pmid=21260495|quote=On February I4th, I946, before a large gathering of Fellows, Members and guests at Manson house, London, Lord Keynes, On behalf of the Eugenics Society, presented the first Galton Medal... Opening the proceedings, Lord Keynes said: It is a satisfaction to take part in the presentation of the first Galton Gold Medal, both in piety to the memory of the great Galton and in recognition of a worthy and appropriate recipient of a medal established in his name.}}</ref>
+
+Keynes once remarked that "the youth had no religion save [[communism]] and this was worse than nothing."<ref name="bell177"/> [[Marxism]] "was founded upon nothing better than a misunderstanding of [[David Ricardo|Ricardo]]", and, given time, he (Keynes) "would deal thoroughly with the Marxists" and other economists to solve the economic problems their theories "threaten to cause".<ref name="bell177"/>
+
+In 1931 Keynes had the following to say on Leninism:<ref>
+{{cite book
+|author=Keynes, John Maynard
+|title=Essays in Persuasion
+|year=1931
+|isbn=0-393-00190-3
+|url=https://archive.org/details/essaysinpersuasi00john_1
+|publisher=New York, W.W. Norton & Co.
+}}
+</ref>
+{{blockquote|How can I accept a doctrine, which sets up as its bible, above and beyond criticism, an [[Das Kapital|obsolete textbook]] which I know not only to be scientifically erroneous but without interest or application to the modern world? How can I adopt a creed which, preferring the mud to the fish, exalts the boorish [[proletariat]] above the [[bourgeoisie]] and the [[intelligentsia]], who with all their faults, are the quality of life and surely carry the seeds of all human achievement? Even if we need a religion, how can we find it in the turbid rubbish of the red bookshop? It is hard for an educated, decent, intelligent son of Western Europe to find his ideals here, unless he has first suffered some strange and horrid process of conversion which has changed all his values.}}
+
+Keynes was a firm supporter of [[women's rights]] and in 1932 became vice-chairman of the [[Marie Stopes International|Marie Stopes Society]] which provided [[birth control]] education. He also campaigned against job discrimination against women and unequal pay. He was an outspoken campaigner for reform of the [[LGBT social movements|laws against homosexuality]].<ref name="ReferenceB"/>
+
+===Heraldic arms===
+{{Infobox COA wide
+|image = [[File:Coronet of a British Baron.svg|centre|150px]] [[File:Keynes Escutcheon.png|centre|200px]]
+|motto = Me Tutore Tutus Eris
+|notes = Granted 16 May 1944<ref>{{cite web|url=https://www.theheraldrysociety.com/wp-content/uploads/2019/10/CoA-226-ODonoghue-paper.pdf |title=The Coat of Arms No. 226 |publisher=The Heraldry Society |access-date=11 October 2019}}</ref>}}
+
+===Death===
+[[File:Tilton House.jpg|thumb|Tilton House, 2021]]
+
+Throughout his life, Keynes worked energetically for the benefit both of the public and his friends; even when his health was poor, he laboured to sort out the finances of his old college.<ref name="JMK Ind08Nov08">
+{{cite news |url=https://www.independent.co.uk/news/business/analysis-and-features/john-maynard-keynes-can-the-great-economist-save-the-world-994416.html |title=John Maynard Keynes: Can the great economist save the world? |access-date=20 November 2008 |work=The Independent |location=United Kingdom |first=Nick |last=Fraser |date=8 November 2008}}
+</ref> Helping to set up the [[Bretton Woods system]], he worked to institute an [[International monetary systems|international monetary system]] that would be beneficial for the [[world economy]]. In 1946, Keynes suffered a series of [[heart attack]]s, which ultimately proved fatal. They began during negotiations for the [[Anglo-American loan]] in [[Savannah, Georgia]], where he was trying to secure favourable terms for the United Kingdom from the United States, a process he described as "absolute hell".<ref name="50 greats">
+{{cite book |last=Pressman |first=Steven|author-link=Steven Pressman (economist) |title=Fifty Major Economists |url=https://books.google.com/books?id=8_mEAgAAQBAJ&pg=PA99 |year=1999 |publisher=Routledge |isbn=978-1-134-78082-2 |pages=99–104}}
+</ref><ref>
+{{cite book |last=Marr |first=Andrew |author-link=Andrew Marr |title=A history of modern Britain |url=https://books.google.com/books?id=CF9nAAAAMAAJ&pg=PP1 |year=2007 |publisher=Macmillan |location=London |isbn=978-1-4050-0538-8 |page=12}}
+</ref> A few weeks after returning from the United States, Keynes died of a heart attack at Tilton, his farmhouse home near [[Firle]], [[East Sussex]], England, on 21 April 1946, at the age of 62.<ref name = "SkidelP1" /><ref>{{cite news |title=Lord Keynes Dies of Heart Attack. Noted Economist Exhausted by Strain of Recent Savannah Monetary Conference |url=https://www.nytimes.com/1946/04/22/archives/lord-keynes-dies-of-heart-attack-noted-economist-exhausted-by.html |quote=John Maynard Lord Keynes, distinguished economist, whose work for restoring the economic structure of a world twice shattered by war brought him world-wide influence, died of a heart attack today at his home in Firle, Sussex. His age was 63. |work=The New York Times |date=22 April 1946 |access-date=10 February 2010}}</ref> Against his wishes (he wanted his ashes to be deposited in the crypt at King's), his ashes were scattered on the Downs above Tilton.<ref>Wilson, Scott. ''Resting Places: The Burial Sites of More Than 14,000 Famous Persons'', 3d ed.: 2 (Kindle Location 25430). McFarland & Company, Inc., Publishers. Kindle Edition.</ref>
+
+Both of Keynes's parents outlived him: his father [[John Neville Keynes]] (1852–1949) by three years, and his mother [[Florence Ada Keynes]] (1861–1958) by twelve. Keynes's brother Sir [[Geoffrey Keynes]] (1887–1982) was a distinguished surgeon, scholar, and bibliophile. His nephews include [[Richard Keynes]] (1919–2010), a physiologist, and [[Quentin Keynes]] (1921–2003), an adventurer and bibliophile. Keynes had no children; his widow, [[Lydia Lopokova]], died in 1981.
+
+== Cultural Representations ==
+In [[John Buchan]]'s novel [[The Island of Sheep|''Island of Sheep'']] (1936) the character of the financier Barralty is based on Keynes.<ref>{{Cite book|last=1939-|first=Skidelsky, Robert|url=http://worldcat.org/oclc/49730825|title=Fighting for freedom, 1937-1946|date=2001|publisher=Viking|isbn=0-670-03022-8|pages=19|oclc=49730825}}</ref>
+
+In the film [[Wittgenstein (film)|''Wittgenstein'']] (1993), directed by [[Derek Jarman]], Keynes was played by John Quentin.<ref>{{Cite web|last1=Elley|first1=Derek|date=1993-02-24|title=Wittgenstein|url=https://variety.com/1993/film/reviews/wittgenstein-1200431414/|access-date=2021-10-11|website=Variety|language=en-US}}</ref>
+
+The docudrama ''Paris 1919'', based around [[Peacemakers (book)|Margaret MacMillan’s book]], featured Paul Bandey as Keynes.<ref>{{Cite news|last=Dixon|first=Guy|date=2009-01-05|title=Paris 1919: Years in the making, 10 days to film|language=en-CA|work=The Globe and Mail|url=https://www.theglobeandmail.com/arts/paris-1919-years-in-the-making-10-days-to-film/article20439644/|access-date=2021-10-11}}</ref>
+
+In the BBC series about the Bloomsbury Group, [[Life in Squares|''Life In Squares'']], Keynes was portrayed by Edmund Kingsley.<ref>{{Cite web|date=2015-07-28|title=Life in Squares review: 'absurd, beautiful characters in a ridiculously golden world'|url=http://www.theguardian.com/tv-and-radio/2015/jul/28/life-in-squares-review-absurd-beautiful-characters-in-golden-world|access-date=2021-10-11|website=the Guardian|language=en}}</ref>
+
+The novel ''Mr Keynes' Revolution'' (2020) by E. J. Barnes is about Keynes' life in the 1920s.<ref>{{Cite web|date=2021-07-05|title=Mr Keynes' Revolution|url=https://www.primeeconomics.org/articles/mr-keynes-revolution/|access-date=2021-10-12|website=Prime|language=en-GB}}</ref>
+
+''Love Letters'', based on the correspondence of Keynes and Lydia Lopokova, was performed by [[Tobias Menzies]] and [[Helena Bonham Carter|Helena Bonham-Carter]] at [[Charleston Farmhouse|Charleston]] in 2021.<ref>{{Cite news|date=2021-07-17|title=The love song of J. Maynard Keynes|work=The Economist|url=https://www.economist.com/books-and-arts/2021/07/17/the-love-song-of-j-maynard-keynes|access-date=2021-10-11|issn=0013-0613}}</ref>
+
+==Publications==
+===Books===
+{{Div col|colwidth=30em}}
+* 1913 ''[https://www.gutenberg.org/ebooks/49166 Indian Currency and Finance]''
+* 1919 ''[[The Economic Consequences of the Peace]]''
+* 1921 ''[[A Treatise on Probability]]''
+* 1922 ''[https://www.gutenberg.org/ebooks/46037 Revision of the Treaty]''
+* 1923 ''A Tract on Monetary Reform''
+* 1926 ''The End of Laissez-Faire''
+* 1930 ''[[A Treatise on Money]]''
+* 1931 ''[https://www.fadedpage.com/showbook.php?pid=20110804 Essays in Persuasion]''
+* 1936 ''[[The General Theory of Employment, Interest and Money]]''
+* 1940 ''[[How to Pay for the War|How to Pay for the War: A radical plan for the Chancellor of the Exchequer]]''
+* 1949 ''Two Memoirs''. Ed. by David Garnett (On [[Carl Melchior]] and [[G. E. Moore]].)
+{{div col end}}
+
+===Articles and pamphlets===
+(A partial list.)
+{{Div col|colwidth=30em}}
+* 1915 ''The Economics of War in Germany''
+* 1922 ''The Inflation of Currency as a Method of Taxation''
+* 1925 ''Am I a Liberal?''
+* 1926 ''Laissez-Faire and Communism''
+* 1929 ''[http://fau.digital.flvc.org/islandora/object/fau%3A4331/datastream/OBJ/view/Can_Lloyd_George_do_it____an_examination_of_the_Liberal_pledge.pdf Can Lloyd George Do It?]''
+* 1930 ''Economic Possibilities for our Grandchildren''
+* 1931 ''The End of the Gold Standard'' (Sunday Express)
+* 1931 ''[https://www.fadedpage.com/showbook.php?pid=20141077 The Great Slump of 1930]''
+* 1933 ''[https://www.fadedpage.com/showbook.php?pid=20080102 The Means to Prosperity]''
+* 1933 ''An Open Letter to President Roosevelt'' (New York Times)
+* 1933 ''Essays in Biography''
+* 1937 ''[https://www.jstor.org/stable/1882087?seq=1#page_scan_tab_contents The General Theory of Employment]''
+{{div col end}}
+
+== See also ==
+{{div col}}
+* {{Annotated link |Animal spirits (Keynes)}}
+* {{Annotated link |Effective demand}}
+* {{Annotated link |Embedded liberalism}}
+* {{Annotated link |Global financial system}}
+* {{Annotated link |Liberalism in the United Kingdom}}
+* {{Annotated link |Keynes family}}
+* {{Annotated link |Post-war consensus}}
+* {{Annotated link |Stockholm School (economics)}}
+{{div col end}}
+
+==References==
+===Notes and citations===
+{{Reflist|30em|refs=
+
+<ref name = "Minksky" >
+{{cite book
+| url= https://books.google.com/books?id=9eSu2F4CKNkC&q=john+maynard+keynes+minsky
+| title= ''John Maynard Keynes'' , chapter 1
+| publisher= and McGraw-Hill Professional
+| author=Hyman Minsky
+| isbn= 978-0-07-159301-4
+| date= 16 April 2008}}
+</ref>
+
+}}
+
+===Sources===
+
+{{Refbegin}}
+* [[Roger Backhouse (economist)|Backhouse, Roger E.]] and Bateman, Bradley W.. ''Capitalist Revolutionary: John Maynard Keynes''. 2011
+* Barnett, Vincent. ''John Maynard Keynes''. London: Routledge, 2013. {{ISBN|978-0-415-56769-5}}.
+* Beaudreau, Bernard C.. ''The Economic Consequences of Mr. Keynes: How the Second Industrial Revolution Passed Great Britain By''. iUniverse, 2006, {{ISBN|0-595-41661-6}}
+* Clarke, Peter. ''Keynes: The Twentieth Century's Most Influential Economist''. Bloomsbury, 2009, {{ISBN|978-1-4088-0385-1}}
+* Clarke, Peter. ''Keynes: The Rise, Fall and Return of the 20th Century's Most Influential Economist'', Bloomsbury Press, 2009
+* {{cite book|url = http://www.library.fa.ru/files/Davidson.pdf|title = John Maynard Keynes|last = Davidson|first = Paul|publisher = Palgrave Macmillan|year = 2007|isbn = 9780230229204|series = Great Thinkers in Economics Series|location = Basingstoke, England|author-link = Paul Davidson (economist)|url-status = dead|archive-url = https://web.archive.org/web/20160819092531/http://library.fa.ru/files/Davidson.pdf|archive-date = 19 August 2016|df = dmy-all}}
+* [[Donald Markwell|Markwell, Donald]]. ''John Maynard Keynes and International Relations: Economic Paths to War and Peace''. [[Oxford University Press]], 2006. {{ISBN|0-19-829236-8}}. {{ISBN|978-0-19-829236-4}}.
+* [[Donald Markwell|Markwell, Donald]]. [http://www.rba.gov.au/publications/rdp/2000/pdf/rdp2000-04.pdf ''Keynes and Australia'']. [[Reserve Bank of Australia]], 2000.
+* [[Milo Keynes|Keynes, Milo]] (ed). ''Essays on John Maynard Keynes''. [[Cambridge University Press]], 1975. {{ISBN|0521205344}}.
+* Moggridge, Donald Edward. ''Keynes''. Macmillan, 1980. {{ISBN|0-333-29524-2}}.
+* [[Don Patinkin|Patinkin, Don]]. "Keynes, John Maynard." In: ''[[New Palgrave: A Dictionary of Economics|The New Palgrave: A Dictionary of Economics, Vol. 2.]]'' Macmillan, 1987, pp.&nbsp;19–41. {{ISBN|0333372352}}. {{ISBN|0935859101}}.
+* Schuker, Stephen A. "American 'Reparations' to Germany, 1919–33." ''Princeton Studies in International Finance'', No. 61, 1988.
+* Schuker, Stephen A. "J.M. Keynes and the Personal Politics of Reparations." ''Diplomacy & Statecraft'', Vol. 25, Nos. 3/4, 2014. {{doi|10.1080/09592296.2014.936197}}.
+* {{cite book|url=https://books.google.com/books?id=CnXWAAAAMAAJ&pg=PP1|title=John Maynard Keynes: Hopes Betrayed, 1883–1920|last=Skidelsky|first=Robert Jacob Alexander|publisher=[[Penguin Books|Penguin]]|year=1994|isbn=978-0140235548|author-link=Robert Skidelsky, Baron Skidelsky}}
+* {{cite book|url=https://books.google.com/books?id=O8UUAQAAMAAJ&pg=PP1|title=John Maynard Keynes: the Economist as Saviour 1920-1937|last=Skidelsky|first=Robert Jacob Alexander|publisher=[[Penguin Books|Penguin]]|year=1995|isbn=978-0-14-023806-8}}
+* {{cite book|url=https://books.google.com/books?id=J9qXmQEACAAJ&pg=PP1|title=John Maynard Keynes: Fighting for Britain, 1937-1946|last=Skidelsky|first=Robert|publisher=[[Penguin Books|Penguin]]|year=2002|isbn=978-0-14-200167-7}}
+* {{cite book|url=https://books.google.com/books?id=AoL3mdHGXz4C&pg=PP1|title=Keynes: The Return of the Master|last=Skidelsky|first=Robert|publisher=[[PublicAffairs]]|year=2010|isbn=978-1-61039-003-3}}
+* {{cite book|url=https://books.google.com/books?id=ngwwvgAACAAJ&pg=PP1|title=Lytton Strachey by Himself: A Self-portrait|last=Strachey|first=Lytton|publisher=Vintage|year=1994|isbn=978-0-09-945941-5|editor=Michael Holroyd}}
+* {{cite book|url=https://books.google.com/books?id=uNYzPUhXhJYC&pg=PP1|title=The Commanding Heights: The Battle for the World Economy|last2=Stanislaw|first2=Joseph|publisher=[[Simon and Schuster]]|year=2002|isbn=978-0-7432-2963-0|last1=Yergin|first1=Daniel|author-link1=Daniel Yergin|author-link2=Joseph Stanislaw}}
+{{Refend}}
+
+{{Library resources box|by=yes|about=yes}}
+* {{cite book | author= Bateman, Bradley| year=2010 | title= The Return to Keynes | publisher=[[Harvard University Press]] | isbn=978-0674035386}}
+* Blaug, Mark. [https://www.jstor.org/stable/2728608 "Recent Biographies of Keynes."] ''[[Journal of Economic Literature]]'', vol. 32, no. 3, September 1994, pp.&nbsp;1204-1215. {{JSTOR|2728608}}.
+* [[James M. Buchanan|Buchanan, James M.]] and [[Richard E. Wagner]]. [https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1097/0102.08_LFeBk.pdf ''Democracy in Deficit: The Political Legacy of Lord Keynes.'' The Collected Works of James M. Buchanan, Vol. 8.] Indianapolis: [[Liberty Fund]], 2008.
+* Clarke, Peter. ''Keynes: The Rise, Fall and Return of the 20th Century's Most Influential Economist''. [[Bloomsbury Press]], 2009.
+* [[Paul Davidson (economist)|Davidson, Paul]]. ''John Maynard Keynes'' (Great Thinkers in Economics). New York: [[Palgrave Macmillan]], 2007. {{ISBN|1-4039-9623-7}}.
+* {{cite book |title=The Economics of John Maynard Keynes: The Theory of Monetary Economy |last=Dillard |first=Dudley |year=1948 |publisher=[[Prentice-Hall]] |isbn=978-1-4191-2894-3 |page=384|title-link=The Economics of John Maynard Keynes: The Theory of Monetary Economy }}
+* Dimand, Robert W. and Harald Hagemann, eds. ''The Elgar Companion to John Maynard Keynes'' (Edward Elgar, 20190 + 670 pp. [http://eh.net/?s=dimand online review]
+* Harrod, R. F.. ''[[The Life of John Maynard Keynes]]''. Macmillan, 1951. {{ISBN|1-125-39598-2}}.
+* {{cite book |author1=Pecchi, Lorenzo  |author2=Gustavo Piga |name-list-style=amp | year=2010 | title= Revisiting Keynes | publisher=[[MIT Press]] | isbn=978-0-262-51511-5 }}
+* {{cite book | last=Skidelsky | first=Robert| title=Keynes: A Very Short Introduction | year=2010 | publisher=[[Oxford University Press]] | location=[[Oxford]] | isbn=978-0-19-959164-0}}
+* [[Robert Skidelsky|Skidelsky, Robert]]. ''John Maynard Keynes: 1883-1946: Economist, Philosopher, Statesman.'' (2005)
+** [[Robert Skidelsky|Skidelsky, Robert]]. ''John Maynard Keynes, Vol. 1: Hopes Betrayed, 1883-1920.'' (1986)
+** [[Robert Skidelsky|Skidelsky, Robert]]. ''John Maynard Keynes: Volume 2: The Economist as Savior, 1920–1937'' (1994)
+** [[Robert Skidelsky|Skidelsky, Robert]]. ''John Maynard Keynes, Vol. 3: Fighting for Freedom, 1937–1946''.
+* {{cite book |title=John Maynard Keynes |author=Syll, Lars Pålsson | publisher=SNS Förlag | year=2007 | isbn= 9789185695270 | page=95}}
+* [[Peter Temin|Temin, Peter]], and [[David Vines]]. ''Keynes: Useful Economics for the World Economy''. [[MIT Press]], 2014.
+* [[Nicholas Wapshott|Wapshott, Nicholas]]. ''Keynes Hayek: The Clash That Defined Modern Economics'' (2011)
+
+===Primary sources===
+* {{cite book|last=Keynes|first=John Maynard|year=1998|title=The Collected Writings of John Maynard Keynes|edition=30 Volume Hardback|publisher=[[Cambridge University Press]]|location=[[Cambridge]] |isbn=978-0-521-30766-6}}
+
+==External links==
+{{Sister project links|John Maynard Keynes|wikt=no|author=yes|v=no|n=no|b=no}}
+* [https://www.youtube.com/watch?v=q1YA-RG5qG0 Professor Robert Skidelsky explains Keynes theories video]
+* [https://www.youtube.com/watch?v=DEBiziiVrNo Professor Robert Skidelsky on economist Keynes video]
+* [https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/yourcountry/collections/churchillexhibition/churchill-the-orator/gold-standard/ Churchill, Keynes & The Gold Standard – UK Parliament Living Heritage]
+* [http://searcharchives.bl.uk/IAMS_VU2:IAMS037-001960873 Correspondence with John Maynard, Baron Keynes, four volumes held at The British Library]
+* [https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/yourcountry/collections/paris-1919-vers/tre-of-vers/ Treaty of Versailles & Keynes – UK Parliament Living Heritage]
+* {{Gutenberg author |id=Keynes,+John+Maynard | name=John Maynard Keynes}}
+* {{FadedPage|id=Keynes, John Maynard|name=John Maynard Keynes|author=yes}}
+* {{Internet Archive author |sname=John Maynard Keynes}}
+* {{Librivox author |id=9726}}
+* {{UK National Archives ID}}
+* [https://scholar.google.com/citations?user=viLe5BEAAAAJ John Maynard Keynes] on [[Google Scholar]]
+* [https://web.archive.org/web/20060207173710/http://socserv2.socsci.mcmaster.ca/~econ/ugcm/3ll3/keynes/peace.htm Keynes, ''The Economic Consequences of the Peace''] (1919)
+* [http://www.panarchy.org/keynes/laissezfaire.1926.html Keynes, ''The end of laissez-faire''] (1926)
+* [http://www.panarchy.org/keynes/possibilities.html Keynes, ''Economic Possibilities for our Grandchildren''] (1930)
+* [http://www.panarchy.org/keynes/depression.html Keynes, ''The raising of prices''] (1933)
+* [http://www.panarchy.org/keynes/national.1933.html Keynes, ''National Self-Sufficiency''] (1933)
+* [http://newdeal.feri.org/misc/keynes2.htm Keynes, ''An Open Letter to President Roosevelt''] (1933)
+* [http://www.marxists.org/reference/subject/economics/keynes/general-theory/ Keynes, ''The General Theory of Employment, Interest and Money''] (1936)
+* {{Cite encyclopedia |title=John Maynard Keynes (1883–1946) |url=http://www.econlib.org/library/Enc/bios/Keynes.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+* [http://jmaynardkeynes.ucc.ie/ ''Interactive E-Book John Maynard Keynes: The Lives of a Mind''] (2016). [http://keynes.ucc.ie/ The Keynes Centre at University College Cork]
+
+{{S-start}}
+{{S-reg|uk}}
+{{S-new
+|creation}}
+{{S-ttl
+| title = Baron Keynes
+| years=1942–1946
+}}
+{{s-non
+| reason = Extinct
+}}
+{{S-end}}
+{{John Maynard Keynes}}
+{{Navboxes
+|list1 =
+{{Keynesians}}
+{{macroeconomics-footer}}
+{{History of economic thought}}
+{{Economics}}
+{{Presidents of the Econometric Society}}
+}}
+{{Good article}}
+{{Authority control}}
+
+{{DEFAULTSORT:Keynes, John Maynard}}
+[[Category:John Maynard Keynes| ]]
+[[Category:1883 births]]
+[[Category:1946 deaths]]
+[[Category:20th-century British writers]]
+[[Category:20th-century economists]]
+[[Category:Academics of the University of Cambridge]]
+[[Category:Alumni of King's College, Cambridge]]
+[[Category:LGBT peers]]
+[[Category:Barons in the Peerage of the United Kingdom]]
+[[Category:British bibliophiles]]
+[[Category:Bisexual men]]
+[[Category:Bisexual writers]]
+[[Category:Bloomsbury Group]]
+[[Category:Bretton Woods Conference delegates]]
+[[Category:British Empire in World War II]]
+[[Category:British Zionists]]
+[[Category:Cambridge University Moral Sciences Club]]
+[[Category:Companions of the Order of the Bath]]
+[[Category:Chatham House people]]
+[[Category:English atheists]]
+[[Category:English agnostics]]
+[[Category:English art collectors]]
+[[Category:English economists]]
+[[Category:English eugenicists]]
+[[Category:English farmers]]
+[[Category:English investors]]
+[[Category:English philanthropists]]
+[[Category:British conscientious objectors]]
+[[Category:British social liberals]]
+[[Category:Economics journal editors]]
+[[Category:English stock traders]]
+[[Category:Fellows of the British Academy]]
+[[Category:Fellows of King's College, Cambridge]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Historians of economic thought]]
+[[Category:Keynes family|John Maynard]]
+[[Category:Keynesian economics]]
+[[Category:Keynesians| ]]
+[[Category:LGBT politicians from England]]
+[[Category:LGBT scientists from the United Kingdom]]
+[[Category:LGBT writers from England]]
+[[Category:Liberal Party (UK) hereditary peers]]
+[[Category:People educated at Eton College]]
+[[Category:People educated at St Faith's School]]
+[[Category:People from Cambridge]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Presidents of the Cambridge Union]]
+[[Category:Probability theorists]]
+[[Category:Bisexual academics]]
+[[Category:20th-century English philosophers]]
+[[Category:Members of the Inner Temple]]
+[[Category:People from Firle]]
+[[Category:Peers created by George VI]]
+[[Category:20th-century English businesspeople]]
+[[Category:LGBT philosophers]]

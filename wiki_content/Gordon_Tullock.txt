@@ -1,0 +1,86 @@
+{{short description|American economist}}
+{{Infobox economist
+ | school_tradition = [[Public choice theory|Public Choice school]]
+ | image            = Gordon tullock.jpg
+ | caption          = Tullock in 2007
+ | name             = Gordon Tullock
+ | birth_date       = {{Birth date|1922|2|13}}
+ | birth_place      = [[Rockford, Illinois]]
+ | alma_mater       = [[University of Chicago]]
+ | institution      = [[George Mason University]]
+ | death_date       = {{nowrap|{{death date and age|2014|11|3|1922|2|13}}}}
+ | death_place      = [[Des Moines, Iowa]]
+ | nationality      = [[United States]]
+ | field            = [[Law and economics]]<br />[[Public choice theory]]
+ | influences       = [[Henry Calvert Simons]]<br />[[Duncan Black]]<br />[[Ludwig von Mises]]
+ | influenced       =
+ | contributions    = [[Rent-seeking]]
+ |repec_prefix=e
+ |repec_id= ptu166
+}}
+'''Gordon Tullock''' ({{IPAc-en|ˈ|t|ʌ|l|ə|k}}; February 13, 1922 – November 3, 2014) was an [[economics|economist]] and professor of law and Economics at the [[George Mason University School of Law]]. He is best known for his work on [[public choice theory]], the application of economic thinking to political issues. He was one of the founding figures in his field.<ref>{{cite journal|author1=Gordon L. Brady|author2-link=Robert D. Tollison|author2=Robert D. Tollison|title=Gordon Tullock: Creative Maverick of Public Choice|journal=Public Choice |volume= 71| issue =  3|year=1991|pages=141–48|jstor=30025503|doi=10.1007/BF00155733|author1-link=Gordon L. Brady}}</ref>
+
+==Early life and education==
+A native of [[Rockford, Illinois]] and graduate of [[Rockford Central High School]], Tullock attended the [[University of Chicago]] and, after a break for military service during [[World War II]], received a [[Juris Doctor|J.D.]] in 1947.  Following a brief period in private practice, he joined the [[United States Foreign Service|Foreign Service]] that fall.  After completing training, he was posted to [[Tianjin]], [[China]], later receiving [[Chinese language]] instruction at [[Yale University|Yale]] and [[Cornell University|Cornell]] and follow-on postings to [[Hong Kong]] and [[Korea]].  He resigned from the Foreign Service in 1956.<ref>Tullock, Gordon, [http://www.law.gmu.edu/assets/files/faculty/cv/tullock.pdf Curriculum Vitae] {{webarchive|url=https://web.archive.org/web/20100607052516/http://www.law.gmu.edu/assets/files/faculty/cv/tullock.pdf |date=2010-06-07 }}, October 2000. Retrieved on 2010-07-25.</ref> While he originally intended to pursue a career as a foreign trader in the Far East, his work on ''The Politics of Bureaucracy'' eventually led him to begin collaboration with [[James M. Buchanan]] at the [[University of Virginia]] while Tullock worked at the [[University of South Carolina]] teaching international studies.<ref>{{Cite web |url=http://archive.lewrockwell.com/orig4/tullock1.html |title=Archived copy |access-date=2016-02-02 |archive-url=https://web.archive.org/web/20131217062253/http://archive.lewrockwell.com/orig4/tullock1.html |archive-date=2013-12-17 |url-status=dead }}</ref>
+
+==Academic career==
+Tullock's collaboration with Buchanan produced ''[[The Calculus of Consent]]: Logical Foundations of Constitutional Democracy'' (1962), which quickly became a seminal work in the new field of public choice. He later joined Buchanan as a faculty colleague at Virginia. For four years Buchanan and Tullock continued their research program, even founding a new journal for their field (1966), first called ''Papers in Non-Market Economics'' and eventually titled ''Public Choice'', where they invited articles applying economic theory to all sorts of non-market phenomena, especially in the realm of government and politics. Despite the success of the book and the journal, disagreements with the UVA administration eventually led Tullock to leave.
+
+In 1967, Tullock identified many of the concepts of what came to be known as [[rent-seeking]] in a seminal paper.<ref>{{cite journal |last=Tullock |first=Gordon  |s2cid=154361951 |year=1967 |title=The Welfare Costs of Tariffs, Monopolies, and Theft |journal=Western Economic Journal |volume=5 |issue=3 |pages=224–232 |doi=10.1111/j.1465-7295.1967.tb01923.x }}</ref>
+
+Tullock moved to [[Virginia Tech|Virginia Polytechnical Institute]] (VPI, now called Virginia Tech) in 1968 and was joined by Buchanan a year later. There they continued the Public Choice Society and the journal, of which Tullock remained editor until 1990. At VPI, Tullock wrote a number of influential articles and books, including ''Private Wants, Public Means'' (1970), ''The Logic of the Law'' (1971), ''[[The Social Dilemma]]'' (1974), and ''The Vote Motive'' (1976).
+
+In 1983, Tullock and the Center for Study of Public Choice moved to [[George Mason University]], at the time a relatively unknown school in [[Fairfax, Virginia]]. Tullock taught at GMU from 1983–1987 and at the [[University of Arizona]] from 1987–1999. He continued to publish widely (more than 150 papers and 23 books in all), including "The Economics of Wealth and Poverty" (1986), ''[[Autocracy (book)|Autocracy]]'' (1987), ''Rent Seeking'' (1993), ''The Economics of Non-Human Societies'' (1994) and ''On Voting: A Public Choice Approach'' (1998). In 1999 he returned to George Mason as a professor of law and economics, where he retired in 2008.
+
+==Rent seeking==
+Tullock developed a theory referred to as [[rent-seeking]].  Rent seeking, according to public choice theory, is securing profits through the political process rather than the market process of exchange. An example of rent seeking is when a firm, union, or special-interest group lobbies political actors (e.g. politicians or bureaucrats) to influence legislation in a beneficial manner.  This can lead to [[moral hazard]] when politicians make policy decisions based on the lobby instead of the efficiency of the policy.
+
+Tullock also formulated and considered the [[Tullock paradox]], namely, the paradox of why rent-seeking is so cheap.
+
+==Tullock's spike==
+The name "Tullock's spike" refers to a [[thought experiment]] in which Tullock suggested that if governments were serious about reducing road casualties, they should mandate that a sharp spike be installed in the center of each car's steering wheel, to increase the probability that an accident would be fatal to the driver. Tullock's idea was that the normal process of [[risk compensation]] would then lead to safer driving by the affected drivers, thereby actually reducing driving fatalities.<ref>{{Cite news|url=http://jalopnik.com/theres-actually-a-name-for-a-steering-wheel-with-a-big-1791445206 |title=There's Actually a Name for a Steering Wheel with a Big Spike in the Middle |last=Torchinsky |first=Jason |newspaper=Jalopnik |language=en-US |access-date=2017-01-23}}</ref><ref>{{Cite news|url=http://io9.gizmodo.com/5751216/would-putting-a-spike-in-the-middle-of-your-steering-wheel-make-you-safer |title=Would putting a spike in the middle of your steering wheel make you safer? |last=Inglis-Arkell |first=Esther |website=io9 |language=en-US |access-date=2017-01-23}}</ref>
+
+==Awards and recognition==
+In 1994 Tullock was awarded an [[honorary degree|honorary Ph.D.]] from the University of Chicago and in 1998 became a distinguished fellow of the [[American Economic Association]]. He served as President of the Southern Economic Association, the International Atlantic Economic Society (1998–1999), the Western Economic Association and the Public Choice Society. In 1996 he was elected to the ''American Political Science Review'' Hall of Fame. He was sometimes considered a longshot candidate for the [[Nobel Memorial Prize in Economic Sciences]].<ref>{{cite web |url=http://economics.about.com/cs/nobelwinners/p/tullock.htm |title=Archived copy |access-date=2011-09-09 |url-status=dead |archive-url=https://web.archive.org/web/20111017080814/http://economics.about.com/cs/nobelwinners/p/tullock.htm |archive-date=2011-10-17 }}</ref>
+
+==Criticism==
+His book, ''The Politics of Bureaucracy'', has been criticized for overlooking a substantial body of literature.<ref>{{cite journal|last1=Kaufman|first1=H|journal=Administrative Science Quarterly|date=December 1966|volume=11|issue=3|jstor=2391168|doi=10.2307/2391168|title=The Politics of Bureaucracy|first2=Gordon|pages=488|last2=Tullock}}</ref> A number of authors have criticized Tullock and the public choice tradition as being too simplistic in its explanation of political behavior.<ref>{{cite book|last=Friedman|first=Jeffrey|year=1996|title=The Rational Choice Controversy: Economic Models of Politics}}</ref>
+
+==Death==
+On November 3, 2014, Tullock died at the age of 92 in [[Des Moines]].<ref>[http://cafehayek.com/2014/11/gordon-tullock-1922-2014.html Gordon Tullock]</ref><ref>{{Cite web | url=http://www.ilesfuneralhomes.com/obituary/Gordon-Tullock/Des-Moines-IA/1447651 | title=Gordon Tullock Obituary, des Moines, IA}}</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite encyclopedia |last=Aligica |first= Paul Dragos |editor-first=Ronald |editor-last=Hamowy |editor-link=Ronald Hamowy |encyclopedia=The Encyclopedia of Libertarianism |title=  Tullock, Gordon (1922– ) |chapter-url= https://books.google.com/books?id=yxNgXs3TkJYC  |year=2008 |publisher= [[SAGE Publications|SAGE]]; [[Cato Institute]] |location= Thousand Oaks, CA |doi=10.4135/9781412965811.n314 |isbn= 978-1412965804 |oclc=750831024| lccn = 2008009151 |page= 514 |chapter= Tullock, Gordon (1922-) }}
+
+==External links==
+{{Wikiquote}}
+* [https://web.archive.org/web/20040502093829/http://www.law.gmu.edu/faculty/bio.php?fac=45 Faculty Biography from George Mason University]
+* [http://mercatus.org/gordon-tullock Tullock's bio] at the [[Mercatus Center]]
+* {{C-SPAN|gordontullock}}
+* [http://www.heymiller.com/?p=568 Profile of Tullock in National Review]
+* {{Google Scholar id|KDE1a9QAAAAJ}}
+*{{cite web|title=Gordon Tullock|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Gordon+Tullock%22|publisher=[[JSTOR]]}}
+
+{{Chicago school economists}}
+{{Authority control}}
+
+{{DEFAULTSORT:Tullock, Gordon}}
+[[Category:1922 births]]
+[[Category:2014 deaths]]
+[[Category:People from Rockford, Illinois]]
+[[Category:Economists from Illinois]]
+[[Category:University of Chicago alumni]]
+[[Category:George Mason University School of Law faculty]]
+[[Category:Public choice theory]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:University of South Carolina faculty]]
+[[Category:Virginia Tech faculty]]
+[[Category:University of Arizona faculty]]
+[[Category:American military personnel of World War II]]
+[[Category:American expatriates in China]]
+[[Category:American expatriates in South Korea]]

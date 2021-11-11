@@ -1,0 +1,74 @@
+{{short description|American cognitive scientist}}
+{{Infobox scientist
+| name        = Elizabeth Spelke
+| image       = Elizabeth Spelke - 26931829525.jpg
+| alt         = Spelke
+| birth_date  = {{birth date and age|1949|05|28|mf=y}}
+| residence   = [[Cambridge, Massachusetts]], USA
+| fields      = [[developmental psychology]], [[cognitive development]]
+| workplaces  = [[Harvard University]]
+| education   = [[Cornell University]], [[Yale University]], [[Radcliffe College]]
+| website     = http://harvardlds.org/our-labs/spelke-labspelke-lab-members/elizabeth-spelke/
+}}
+
+'''Elizabeth Shilin Spelke''' [[Fellow of the British Academy|FBA]] (born May 28, 1949) is an American [[cognitive psychology|cognitive psychologist]] at the Department of Psychology of [[Harvard University]] and director of the Laboratory for Developmental Studies.
+
+Starting in the 1980s, she carried out experiments on infants and young children to test their cognitive faculties. She has suggested that human beings have a large array of innate mental abilities.<ref name=core>{{cite journal|last1=Spelke|first1=Elizabeth|title=Core Knowledge|journal=American Psychologist|date=2000|volume=55|issue=11|pages=1233–1243|doi=10.1037/0003-066X.55.11.1233|pmid=11280937}}</ref> In recent years, she has made important contributions to the debate on [[Sex and intelligence|cognitive differences]] between men and women.<ref name=sexdeb>The Science of Gender and Science: Pinker vs. Spelke: A debate. May 16, 2005. http://edge.org/3rd_culture/debate05/debate05_index.html</ref> She defends the position that there is no scientific evidence of any significant disparity in the intellectual faculties of males and females.<ref name=sexdiff>{{cite journal|last1=Spelke|first1=Elizabeth|title=Differences in Intrinsic Aptitude for Mathematics and Science?|journal=American Psychologist|date=2005|volume=60|issue=9|pages=950–958|doi=10.1037/0003-066X.60.9.950|pmid=16366817|citeseerx=10.1.1.69.5544}}</ref>
+
+==Education and career==
+Spelke did her undergraduate studies at [[Radcliffe College]] with the [[child psychology|child psychologist]] [[Jerome Kagan]]. Her thesis studied attachment and emotional reactions in babies. She realized that she needed to have an idea of what babies really understood, and so began her lifelong interest in the cognitive aspect of child psychology.
+
+She did her [[Doctor of Philosophy|Ph.D.]] at [[Cornell University|Cornell]] with [[developmental psychology|developmental psychologist]] [[Eleanor Gibson]], from whom she learned how to design experiments on young children.
+
+Her first academic post was at the [[University of Pennsylvania]], where she worked for nine years. Thereafter she moved first to Cornell, and then to [[Massachusetts Institute of Technology|MIT]]'s Department of Brain and Cognitive Sciences. She has been a professor at Harvard since 2001.<ref name=cv>Spelke, Elizabeth. Curriculum Vita [pdf]. http://www.wjh.harvard.edu/~lds/pdfs/spelkecv_mar07.pdf {{Webarchive|url=https://web.archive.org/web/20141129020326/http://www.wjh.harvard.edu/~lds/pdfs/spelkecv_mar07.pdf |date=2014-11-29 }}</ref>
+
+Spelke was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1997.<ref name=AAAS>{{cite web|title=Book of Members, 1780-2010: Chapter S|url=http://www.amacad.org/publications/BookofMembers/ChapterS.pdf|publisher=American Academy of Arts and Sciences|access-date=7 April 2011}}</ref> She was the recipient of the 2009 [[Jean Nicod Prize]] and delivered a series of lectures in Paris hosted by the [[French National Centre for Scientific Research]]. She was elected as a [[Corresponding Fellow of the British Academy|Corresponding Fellow]] of the [[British Academy]] in 2015.<ref>{{Cite web|url=https://www.britac.ac.uk/news/british-academy-fellowship-reaches-1000-42-new-uk-fellows-are-welcomed|title=British Academy Fellowship reaches 1,000 as 42 new UK Fellows are welcomed|date=16 Jul 2015}}</ref> In 2016 Spelke won the [[Heineken Prizes|C.L. de Carvalho-Heineken Prize for Cognitive Sciences]].<ref>{{cite web|url=https://www.knaw.nl/en/awards/heineken-prizes/elizabeth-spelke |title=Heineken Prizes - Elizabeth Spelke |publisher=Royal Netherlands Academy of Arts and Sciences |access-date=10 May 2016}}</ref>
+
+==Experiments==
+The kind of experiments carried out at the Laboratory of Developmental Studies try to infer the cognitive abilities of babies by using the method of ''[[preferential looking]]'', developed by [[Robert Fantz]]. This consists of presenting babies with different images and deducing which one is more appealing to them by the length of time their attention fixes on them.
+
+For example, researchers may repeatedly show a baby an image with a certain number of objects. Once the baby is habituated, they present a second image with more or fewer objects. If the baby looks at the new image for a longer time, the researchers may infer that the baby can distinguish different quantities.
+
+Through an array of similar experiments, Spelke interpreted her evidence to suggest that babies have a set of highly sophisticated, innate mental skills. This provides an alternative to the hypothesis originated by [[William James]] that babies are born with no distinctive cognitive abilities but acquire them all through education and experience (see Principles of Psychology, 1890).
+
+==The debate on sex and intelligence==
+
+In 2005, [[Lawrence Summers]], then Harvard president, speculated over the preponderance of men over women in high-end science and engineering positions. He surmised that a statistical difference in the variance of innate abilities among male and female populations (male variance tends to be higher, resulting in more extremes) could play a role. His words immediately sparked a heated debate. Spelke was among the strongest critics of Summers, and in April 2005, she faced [[Steven Pinker]] in an open debate over the issue.<ref name=sexdeb /> She declared that her own experiments revealed no difference between the mental capacities of male and female children ranging in age from 5 months to 7 years old.<ref>''The New York Times'', Jan 24, 2005 https://www.nytimes.com/2005/01/24/science/24women.html?pagewanted=print&position=</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20090104004408/http://www.wjh.harvard.edu/~lds/spelke.html Harvard faculty profile of Spelke]
+*[https://software.rc.fas.harvard.edu/lds/research/spelke/elizabeth-spelke/ Spelke lab website]
+*[https://www.nytimes.com/2012/05/01/science/insights-in-human-knowledge-from-the-minds-of-babes.html New York Times profile of Spelke]
+*[https://web.archive.org/web/20090416140252/http://edge.org/3rd_culture/bios/spelke.html Edge.org profile of Spelke]
+*[http://bloggingheads.tv/diavlogs/16722 Video (and audio) of conversation discussing some of her research with Spelke] and [[Joshua Knobe]] on [[Bloggingheads.tv]]
+*Margaret Talbot, ''The baby lab'', ''[[The New Yorker]], Sep. 4, 2006. https://web.archive.org/web/20090122052520/http://www.newamerica.net/publications/articles/2006/the_baby_lab
+
+{{Heineken Prizes}}
+{{Psychology}}
+{{FBA 2015}}
+{{Authority control}}
+
+{{DEFAULTSORT:Spelke, Elizabeth}}
+[[Category:American psychologists]]
+[[Category:American women psychologists]]
+[[Category:Cognitive scientists]]
+[[Category:Women cognitive scientists]]
+[[Category:Developmental psychologists]]
+[[Category:Cognitive development researchers]]
+[[Category:Fellows of the Society of Experimental Psychologists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Jean Nicod Prize laureates]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Winners of the Heineken Prize]]
+[[Category:Cornell University alumni]]
+[[Category:Radcliffe College alumni]]
+[[Category:Harvard University faculty]]
+[[Category:1949 births]]
+[[Category:Living people]]
+[[Category:Fellows of the Cognitive Science Society]]
+[[Category:Corresponding Fellows of the British Academy]]
+[[Category:American women academics]]

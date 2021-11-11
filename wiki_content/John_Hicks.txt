@@ -1,0 +1,168 @@
+{{Short description|British economist}}
+{{Other people|John Hicks}}
+{{Use dmy dates|date=July 2018}}
+{{Use British English|date=May 2012}}
+{{Infobox economist
+| name             = Sir John Hicks
+| school_tradition = [[Neo-Keynesian economics]]
+| image       =John Hicks 1972.jpg     
+| image_size       =
+| caption    =      Hicks in 1972
+|birth_name=John Richard Hicks
+| birth_date       = {{Birth date|1904|04|08|df=y}}
+| birth_place      = [[Warwick]], [[England]], [[United Kingdom|UK]]
+| death_date       = {{Death date and age|1989|5|20|1904|4|8|df=y}}
+| death_place      = [[Blockley]], England, UK
+| nationality      = British
+| institution      = [[Gonville & Caius College, Cambridge]]<br>[[London School of Economics]]<br>[[University of Manchester]]<br>[[Nuffield College, Oxford]]
+| alma_mater       = [[Balliol College, Oxford]]
+| influences       = [[Léon Walras]], [[Friedrich Hayek]], [[Lionel Robbins]], [[Erik Lindahl]], [[John Maynard Keynes]]
+| influenced       =
+| contributions    = [[IS–LM model]]<br>[[Capital (economics)|Capital]] theory, [[consumer theory]], [[general equilibrium theory]], [[welfare theory]], [[induced innovation]]
+| awards           = [[Nobel Memorial Prize in Economic Sciences]] (1972)
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = phi7
+}}
+'''Sir John Hicks''' (8 April 1904 – 20 May 1989) was a British [[economist]]. He is considered one of the most important and influential economists of the twentieth century. The most familiar of his many contributions in the field of economics were his statement of [[consumer theory|consumer demand theory]] in [[microeconomics]], and the [[IS–LM model]] (1937), which summarised a [[Keynesian]] view of [[macroeconomics]].  His book ''[[Value and Capital]]'' (1939) significantly extended [[general equilibrium theory|general-equilibrium]] and value theory.  The [[compensated demand function]] is named the Hicksian demand function in memory of him.
+
+In 1972 he received the [[Nobel Memorial Prize in Economic Sciences]] (jointly)  for his pioneering contributions to [[general equilibrium theory]] and [[welfare economics|welfare theory]].<ref>[http://nobelprize.org/nobel_prizes/economics/laureates/1972/index.html The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 1972]. Nobelprize.org. Retrieved on 28 July 2013.</ref>
+
+==Early life==
+Hicks was born in 1904 in [[Warwick]], England, and was the son of Dorothy Catherine (Stephens) and Edward Hicks, a journalist at a local newspaper.<ref>{{cite book|url=http://fbe.unimelb.edu.au/__data/assets/pdf_file/0006/784266/1123.pdf |title=John and Ursula Hicks |author=Creedy, John |publisher=Department of Economics, The University of Melbourne |year=2011 |isbn=9780734044761}}</ref>
+
+He was educated at [[Clifton College]] (1917–1922)<ref>"Clifton College Register" Muirhead, J.A.O. p357: Bristol; J.W Arrowsmith for Old Cliftonian Society; April, 1948 </ref> and at [[Balliol College, Oxford]] (1922–1926), and was financed by mathematical scholarships. During his school days and in his first year at Oxford, he specialised in mathematics  but also had interests in literature and history. In 1923, he moved to [[Philosophy, Politics and Economics]], the "new school" that was just being started at Oxford. He graduated with [[British undergraduate degree classification|second-class honors]] and, as he stated, "no adequate qualification in any of the subjects" that he had studied.<ref>[http://nobelprize.org/nobel_prizes/economics/laureates/1972/hicks-autobio.html John R. Hicks – Biographical]. Nobelprize.org (20 May 1989). Retrieved on 2013-07-28.</ref>
+
+==Career==
+From 1926 to 1935, Hicks lectured at the [[London School of Economics|London School of Economics and Political Science]].<ref name='lse'>{{cite web
+|title=Sir John Hicks
+|url= http://www2.lse.ac.uk/aboutLSE/keyFacts/nobelPrizeWinners/hicks.aspx
+|publisher= London School of Economics |date=13 March 2009 |access-date=8 July 2012
+}}</ref> He started as a labour economist and did descriptive work on industrial relations but gradually, he moved over to the analytical side, where his mathematics background returned to the fore. Hicks's influences included [[Lionel Robbins]] and such associates as [[Friedrich von Hayek]], [[R.G.D. Allen]], [[Nicholas Kaldor]], [[Abba Lerner]] and [[Lady Ursula Hicks|Ursula Webb]], the last of whom, in 1935, became his wife.
+
+From 1935 to 1938, he lectured at [[Cambridge University|Cambridge]] where he was also a fellow of [[Gonville and Caius College, Cambridge|Gonville & Caius College]]. He was occupied mainly in writing ''Value and Capital'', which was based on his earlier work in London. From 1938 to 1946, he was Professor at the [[University of Manchester]]. There, he did his main work on welfare economics, with its application to social accounting.
+
+In 1946, he returned to [[Oxford University|Oxford]], first as a research fellow of [[Nuffield College, Oxford|Nuffield College]] (1946–1952) then as [[Drummond Professor of Political Economy]] (1952–1965) and finally as a research fellow of [[All Souls College]] (1965–1971), where he continued writing after his retirement.
+
+==Later life==
+Hicks was knighted in 1964 and became an honorary fellow of [[Linacre College]]. He was co-recipient of the Nobel Prize in Economic Sciences (with [[Kenneth J. Arrow]]) in 1972. He donated the Nobel Prize to the [[London School of Economics|London School of Economics and Political Science]]'s Library Appeal in 1973.<ref name='lse'/> He died on 20 May 1989 at his home in the [[Cotswold]] village of [[Blockley]].<ref>[https://www.britac.ac.uk/sites/default/files/08%20Hicks.pdf john hicks – British Academy] Retrieved 15 January 2018.</ref>
+
+==Contributions to economic analysis==
+{{Macroeconomics sidebar}}
+Hicks's early work as a [[labour economics|labour economist]] culminated in ''[[The Theory of Wages]]'' (1932, 2nd ed. 1963), still considered standard in the field.  He collaborated with R.G.D. Allen in two seminal papers on [[value theory]] published in 1934.
+
+His [[Masterpiece|magnum opus]] is ''[[Value and Capital]]'' published in 1939.  The book ''built'' on [[ordinal utility]]  and mainstreamed the now-standard distinction between the [[substitution effect]] and the [[income effect]] for an individual in [[Consumer theory|demand theory]] for the 2-good case. It generalised the analysis to the case of one good and a [[composite good]], that is, all other goods. It aggregated individuals and businesses through demand and supply across the economy. It anticipated the [[aggregation problem]], most acutely for the stock of capital goods. It introduced [[general equilibrium theory]] to an English-speaking audience, refined the theory for dynamic analysis, and for the first time attempted a rigorous statement of stability conditions for general equilibrium.  In the course of analysis Hicks formalised [[comparative statics]].  In the same year, he also developed the famous "compensation" criterion called [[Kaldor–Hicks efficiency]] for welfare comparisons of alternative public policies or economic states.
+
+Hicks's most familiar contribution in [[macroeconomics]] was the [[IS–LM model|Hicks–Hansen IS–LM model]],<ref>{{cite journal |first=J. R. |last=Hicks |year=1937 |title=Mr. Keynes and the 'Classics', A Suggested Interpretation |journal=[[Econometrica]] |volume=5 |issue=2 |jstor=1907242 |pages=147–159 |doi=10.2307/1907242 }}</ref> published in his paper “[[Mr Keynes and the Classics|Mr. Keynes and the "Classics"; a suggested interpretation]]”. This model formalised an interpretation of the theory of [[John Maynard Keynes]] (see [[Keynesian economics]]), and describes the economy as a balance between three commodities: money, consumption and investment. Hicks himself wavered in his acceptance of his IS–LM formulation; in a paper published in 1980 he dismissed it as a ‘classroom gadget’.<ref>{{cite journal |first=J. R. |last=Hicks |year=1980 |title='IS-LM': An Explanation |journal=Journal of Post Keynesian Economics |volume=3 |issue=2 |jstor=4537583 |pages=139–154 |doi=10.1080/01603477.1980.11489209 }}</ref>
+
+==Contributions to interpretation of income for accounting purposes ==
+Hicks's influential discourse on [[Profit (accounting)|income]] sets the basis for its subjectivity but relevancy for accounting purposes. He aptly summarized it as follows. “The purpose of income calculations in practical affairs is to give  people an indication of the amount they can consume without impoverishing themselves”.<ref>{{cite journal|title=The Hicks' Concept of Income and Its Relevancy for Accounting Purposes|journal=European Financial and Accounting Journal|volume=2009|issue=1|pages=37–60|last1=Procházka|first1=David|doi=10.18267/j.efaj.62|year=2009|doi-access=free}}</ref>
+
+Formally, he defined income precisely in three measures:
+
+'''Hicks's number 1 measure of income''': “the maximum amount, which can be spent during a period if there is to be an expectation of maintaining intact the capital value of prospective receipts (in money terms)” (Hicks, 1946, p.&nbsp;173)<ref name="academia.edu">{{cite journal|title=The Hicks' Concept of Income and Its Relevancy for Accounting Purposes|journal=European Financial and Accounting Journal|volume=2009|issue=1|pages=37–60|last1=Procházka|first1=David|doi=10.18267/j.efaj.62|year=2009|doi-access=free}}</ref>
+
+'''Hicks's number 2 measure of income''' (market price-neutral): "the maximum amount the individual can spend during a week, and still expect to be able to spend the same amount in each ensuing week” (Hicks, 1946, p.&nbsp;174).<ref name="academia.edu"/>
+
+'''Hicks's number 3 measure of income''' (takes into account market prices): “the maximum amount of money which an individual can spend this week, and still expect to be able to spend the same amount in real terms in each ensuing week” (Hicks, 1946, p.&nbsp;174)<ref name="academia.edu"/>
+
+==See also==
+{{colbegin}}
+* [[Hicksian demand function]]
+* [[Hicks optimality]]
+* [[Hicks-neutral technical change]]
+* [[List of economists]]
+* [[Nobel Prize in Economics]]
+{{colend}}
+
+==Selected publications==
+* 1932, 2nd ed., 1963. ''[[The Theory of Wages]]''. London, Macmillan.
+* 1934. "A Reconsideration of the Theory of Value," with [[R. G. D. Allen]], ''Economica''.
+* 1937. [[Mr. Keynes and the "Classics"|"Mr. Keynes and the Classics: A Suggested Interpretation,"]] ''Econometrica''.
+* 1939. "The Foundations of Welfare Economics", ''Economic Journal''.
+* 1939, 2nd ed. 1946. ''[[Value and Capital]]''. Oxford: Clarendon Press.
+* 1940. "The Valuation of Social Income," ''Economica'', 7:105–24.
+* 1941. "The Rehabilitation of Consumers' Surplus," ''Review of Economic Studies''.
+* 1942. ''The Social Framework: An Introduction to Economics''.
+* 1950. ''A Contribution to the Theory of the Trade Cycle''. Oxford: Clarendon Press.
+* 1956. ''A Revision of Demand Theory''. Oxford: Clarendon Press.
+* 1958. "The Measurement of Real Income,"  ''Oxford Economic Papers''.
+* 1959. ''Essays in World Economics''. Oxford: Clarendon Press.
+* 1961. "Measurement of Capital in Relation to the Measurement of Other Economic Aggregates",  in Lutz and Hague, editors, Theory of Capital.
+* 1965. ''Capital and Growth''. Oxford: Clarendon Press.
+* 1969. ''A Theory of Economic History''. Oxford: Clarendon Press. Scroll to chapter-preview [https://books.google.com/books?id=ll1ju5ZFjZcC&printsec=frontcover&dq=%22john+hicks%22+%22A+Theory+of+Economic+History%22.&source=bl&ots=Y_s7sHj-Qn&sig=CJmlPV2uSr8qRHzeY6_8KdIj4kM&hl=en&ei=DUeqS_zSKoX7lwfsoOTlBA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CAgQ6AEwAA#v=onepage&q=&f=false links.]
+* 1970. "Review of Friedman",  ''Economic Journal''.
+* 1973. [https://www.nobelprize.org/prizes/economic-sciences/1972/hicks/lecture/ "The Mainspring of Economic Growth"], ''Nobel Lectures, Economics 1969–1980'', Editor Assar Lindbeck, World Scientific Publishing Co., Singapore, 1992.
+* 1973. [http://nobelprize.org/nobel_prizes/economics/laureates/1972/hicks-autobio.html Autobiography] for Nobel Prize
+* 1973. ''Capital and Time: A Neo-Austrian Theory''. Oxford, Clarendon Press.
+* 1974. "Capital Controversies: Ancient and Modern",  ''American Economic Review''.
+* 1974. ''The Crisis in Keynesian Economics''. New York, Basic Books.
+* 1975. "What Is Wrong with Monetarism", ''Lloyds Bank Review''.
+* 1976. ''Economic Perspectives''. Oxford: Clarendon Press.
+* 1979, "The Formation of an Economist." Banca Nazionale del Lavoro Quarterly Review, no. 130 (September 1979): 195–204.
+* 1980.  "IS-LM: An Explanation," ''Journal of Post Keynesian Economics''.
+* 1981. ''Wealth and Welfare: Vol I. of Collected Essays in Economic Theory''. Oxford: Basil Blackwell.
+* 1982. ''Money, Interest and Wages: Vol. II of Collected Essays in Economic Theory''. Oxford: Basil Blackwell.
+* 1983. ''Classics and Moderns: Vol. III of Collected Essays in Economic Theory''. Oxford: Basil Blackwell.
+* 1989. ''A Market Theory of Money''. Oxford University Press.
+
+==References==
+<!-- See the user page User:Dmoss/Wikicite for an excellent citation tool! -->
+{{Reflist}}
+
+==Further reading==
+* Christopher Bliss, [1987] 2008. "Hicks, John Richard (1904–1989)", ''[[The New Palgrave: A Dictionary of Economics]]''. [http://www.dictionaryofeconomics.com/article?id=pde2008_H000052&q=hicks&topicid=&result_number=1  Abstract.]
+* {{cite book | last1 = Sen | first1 = Amartya | last2 = Zamagni | first2 = Stefano | last3 = Scazzieri | first3 = Roberto | author-link1 = Amartya Sen | author-link2 = Stefano Zamagni | title = Markets, money and capital: Hicksian economics for the twenty-first century | publisher = Cambridge University Press | location = Cambridge, UK New York | year = 2008 | isbn = 9780521873215 }}
+
+==External links==
+{{Commons category|John Hicks}}
+* {{Nobelprize|name=John R. Hicks}}
+{{wikiquote}}
+<!-- Less informative and not neutral in tone
+* {{Cite book |title=John R. Hicks (1904–1989) |url=http://www.econlib.org/library/Enc/bios/Hicks.html |work=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+-->
+* [http://www.hetwebsite.net/het/profiles/hicks.htm John Hicks] page on the [http://www.hetwebsite.net/het/home.htm History of Economic Thought website].
+
+{{S-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Simon Kuznets]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 1972 |alongside= [[Kenneth J. Arrow]] }}
+{{s-aft | after = [[Wassily Leontief]] }}
+{{s-npo|pro}}
+{{s-bef|before= [[Leonard Behrens|L .F. Behrens]] }}
+{{s-ttl|title=President of the [[Manchester Statistical Society]] |years=1944–46}}
+{{s-aft|after= Sir [[Lee baronets|Kenneth Lee]], Bt }}
+{{s-end}}
+
+{{Keynesians}}
+{{Economics}}
+{{Nobel laureates in economics 1969–1975}}
+{{1972 Nobel Prize winners}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hicks, John}}
+[[Category:1904 births]]
+[[Category:1989 deaths]]
+[[Category:People from Warwick]]
+[[Category:British economists]]
+[[Category:Keynesians]]
+[[Category:General equilibrium theorists]]
+[[Category:Fellows of All Souls College, Oxford]]
+[[Category:Fellows of Nuffield College, Oxford]]
+[[Category:Fellows of Gonville and Caius College, Cambridge]]
+[[Category:Alumni of Balliol College, Oxford]]
+[[Category:Nobel laureates in Economics]]
+[[Category:British Nobel laureates]]
+[[Category:Academics of the London School of Economics]]
+[[Category:Academics of the Victoria University of Manchester]]
+[[Category:People educated at Clifton College]]
+[[Category:Knights Bachelor]]
+[[Category:Neo-Keynesian economists]]
+[[Category:English Nobel laureates]]
+[[Category:20th-century British writers]]
+[[Category:20th-century economists]]
+[[Category:Drummond Professors of Political Economy]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:People from Blockley]]
+[[Category:Neoclassical economists]]
+[[Category:Foreign associates of the National Academy of Sciences]]

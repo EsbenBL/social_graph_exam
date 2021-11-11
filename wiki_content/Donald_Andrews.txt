@@ -1,0 +1,77 @@
+{{short description|Canadian economist (born 1955)}}
+{{about|the economist|the criminologist and psychologist|Donald A. Andrews}}
+{{Infobox economist
+| name = Donald W. K. Andrews
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| birth_date = 1955 <!-- {{birth date and age|YYYY|MM|DD}} -->
+| birth_place = [[Vancouver]], [[British Columbia]]
+| death_date = 
+| death_place = 
+| nationality = [[Canadians|Canadian]]
+| institution = [[Yale University]] <!-- or: | institutions =  -->
+| field = [[Econometrics]]
+| school_tradition = 
+| alma_mater = [[University of California, Berkeley]]<br>[[University of British Columbia]]
+|doctoral_advisor  = [[Thomas J. Rothenberg]]<ref name=" Thesis Supervisors">[http://economics.yale.edu/sites/default/files/cv_andrews_sept_2016.pdf Andrews's CV]</ref><br>[[Peter J. Bickel]]<ref name=" Thesis Supervisors" />
+|doctoral_students = 
+| influences = 
+| influenced = [[Eric Zivot]]
+| contributions = 
+| awards = 
+| repec_prefix = e
+| repec_id = pan30
+}}
+
+'''Donald Wilfrid Kao Andrews''' (born 1955) is a [[Canadians|Canadian]] economist. He is the [[Tjalling Koopmans]] Professor of [[Economics]] at the [[Cowles Foundation]], [[Yale University]]. Born in [[Vancouver]], he received his B.A. in 1977 at the [[University of British Columbia]], his M.A. in 1980 in statistics at the [[University of California, Berkeley]], and his Ph.D. in economics in 1982 also from the University of California, Berkeley.
+
+His specialty is in [[econometrics]] and has published a large part of his work in the journal ''[[Econometrica]]''. He is also affiliated with the Yale Department of [[Statistics]].
+
+==Honors==
+* Fellow of the [[American Academy of Arts and Sciences]], 2006.<ref name=AAAS>{{cite web|title=Book of Members, 1780-2010: Chapter A|url=http://www.amacad.org/publications/BookofMembers/ChapterA.pdf|publisher=American Academy of Arts and Sciences|accessdate=18 April 2011}}</ref>
+* Fellow of the Econometric Society, 1989.
+* 1992 Paper, Joint with E. Zivot, Published in the Commemorative Issue of the Most Influential Papers Published in the Journal of Business and Economic Statistics, 2001.
+*Best Teacher of the Year, Department of Economics, Yale University, 1996, 2000, and 2006.
+*Best Advisor of the Year, Department of Economics, Yale University, 2007.
+
+He is Associate Editor, ''[[Econometrica]]'', 1988–present, and Foreign Editor, ''[[Review of Economic Studies]]'', 2005–present. He was co-editor, ''[[Econometric Theory]]'', 1991–2003.
+
+He has served on the Economics Advisory Panel, [[National Science Foundation]], 1992–1994, and been the recipient on 10 successive multi-year grants from that organisation from 1985 to the present.
+
+He is a member of the [[American Economic Association]], [[American Statistical Association]], [[Econometric Society]], and [[Institute of Mathematical Statistics]].
+
+==Publications==
+He has published over 70 peer-reviewed papers in Economics and econometric journals. Among his major works are:
+*Andrews, Donald W. K. & Lee, Inpyo & Ploberger, Werner,  "Optimal Changepoint Tests for Normal Linear Regression" [[Journal of Econometrics]], 70:1 (1996), pages 9–38, Available from [https://ideas.repec.org/p/cwl/cwldpp/1016.html RePEc ] (cited 28 times in RePEc)
+*Andrews, Donald W. K. & [[Werner Ploberger|Ploberger, Werner]], "Optimal Tests When a Nuisance Parameter Is Present Only Under the Alternative". [[Econometrica]], 62(6), 1994.
+
+He is also co-editor of the book,
+*''Identification and Inference for Econometric Models: A Festschrift in Honor of [[Thomas J. Rothenberg]]'' co-edited with James H. Stock. Cambridge, UK: Cambridge University Press, 2005. 
+
+=== His most recent publications ===
+* Andrews, Donald W. K. & Guggenberger, Patrik, " A Conditional-Heteroskedasticity-Robust Confidence Interval for the Autoregressive Parameter", Review of Economics and Statistics,  96(2): 376-381, May 2014. 
+* Andrews, Donald W. K. & Cheng, Xu, "GMM Estimation and Uniform Subvector Inference with Possible Identification Failure", Econometric Theory, 20(2): 287-333, April 2014. 
+* Andrews, Donald W. K., "Nonparametric Inference Based on Conditional Moment Inequalities", Journal of Econometrics, 179(1): 31-45, March 2014. 
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://economics.yale.edu/people/donald-andrews Official Homepage] at Yale University.
+*[https://economics.yale.edu/sites/default/files/cv_andrews_sept_2016.pdf Vita]
+* {{MathGenealogy |id=113480 }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Andrews, Donald}}
+[[Category:1955 births]]
+[[Category:Living people]]
+[[Category:Canadian economists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:People from Vancouver]]
+[[Category:University of British Columbia alumni]]
+[[Category:UC Berkeley College of Letters and Science alumni]]
+[[Category:Yale University faculty]]
+[[Category:Fellows of the Econometric Society]]

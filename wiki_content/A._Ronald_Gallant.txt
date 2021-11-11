@@ -1,0 +1,56 @@
+{{BLP sources|date=March 2019}}
+{{Infobox scientist
+| name              = A. Ronald Gallant
+| image             = <!--(as myimage.jpg, no 'File:')-->
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{Birth year and age|1942}}
+| birth_place       = 
+| death_date        = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}}
+                           (death date then birth date) -->
+| death_place       = 
+| nationality       = [[United States|American]]
+| fields            = [[Statistics]], [[econometrics]]
+| workplaces        = [[Pennsylvania State University]]
+| alma_mater        = [[Iowa State University]]<br>[[University of California, Los Angeles]]<br>[[San Diego State University]]
+| doctoral_advisor  = [[Wayne Fuller]]
+| doctoral_students = [[Víctor Aguirre-Torres]]
+| known_for         = 
+| awards            = 
+}}
+
+'''A. Ronald "Ron" Gallant''' is a leading [[United States|American]] [[econometrics|econometrician]]. Gallant is a Professor of Economics and a Liberal Arts Research Professor at the [[Pennsylvania State University]].
+
+Prior to joining the Penn State faculty he was the Hanes Corporation Foundation Professor of Business Administration, [[Fuqua School of Business]], [[Duke University]], with a secondary appointment in the Department of [[Economics]], [[Duke University]], as well as a Distinguished Scientist in Residence, Department of Economics, [[New York University]], both in the [[United States]].
+
+He is also Adjunct Professor, Department of [[Statistics]], [[University of North Carolina at Chapel Hill]]. Before joining the Duke faculty, he was Henry A. Latane Distinguished Professor of [[Economics]] at the [[University of North Carolina at Chapel Hill]]. He retains emeritus status at UNC. Previously he was, successively, Assistant, Associate, Full, and Drexel Professor of [[Statistics]] and [[Economics]] at [[North Carolina State University]].
+
+He received his A.B. in [[mathematics]] from [[San Diego State University]], his M.B.A. in marketing from [[UCLA]], and his Ph.D. in [[statistics]] from [[Iowa State University]].
+
+He is a Fellow of both the Econometrics Society and the [[American Statistical Association]]. He serves on the Board of Directors of the [[National Bureau of Economic Research]] and has served on the Board of Directors of the [[American Statistical Association]] and on the Board of Trustees of the National Institute of Statistical Sciences. He is co-editor of the ''Journal of Econometrics'' and past editor of ''The Journal of Business and Economic Statistics''.
+
+In collaboration with [[George Tauchen]] of [[Duke University]],<ref>Erdmann, Georg. ''Securing Energy in Insecure Times: Executive Summaries of the 29th Annual IAEE International Conference, 7–9 June 2006 in Potsdam, Germany''. International Association for Energy Economics, 2006. P. 176.</ref> Gallant developed the Efficient Method of Moments (EMM). He is one of the leaders in [[nonlinear]] [[time series]] analysis, nonlinear [[econometrics]], nonlinear [[dynamic systems]], and in [[econometrics]] theory.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{MathGenealogy |id=48103 }}
+*[http://aronaldg.org/ Personal website] at Pennsylvania State University.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gallant, A. Ronald}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:Economists from California]]
+[[Category:Pennsylvania State University faculty]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:San Diego State University alumni]]
+[[Category:UCLA Anderson School of Management alumni]]
+[[Category:Iowa State University alumni]]
+[[Category:University of North Carolina at Chapel Hill faculty]]
+[[Category:Econometricians]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:21st-century American economists]]

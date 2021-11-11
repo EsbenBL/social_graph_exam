@@ -1,0 +1,63 @@
+{{short description|British econometrician (born 1948)}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox economist
+|name              = Peter C. B. Phillips
+|image             = 
+|image_size        = 
+|caption           = 
+|birth_date        = {{Birth date and age|df=yes|1948|3|23}}
+|birth_place       = [[Weymouth, Dorset|Weymouth]], England, UK
+|death_date        = 
+|death_place       = 
+|nationality       = [[New Zealand]]
+|institution       = [[Yale University]]<br>[[University of Auckland]]<br>[[Singapore Management University]]<br>[[University of Southampton]]
+|field             = [[Econometrics]]
+|alma_mater        = [[London School of Economics]]<br>[[University of Auckland]]
+|doctoral_advisor  = [[Denis Sargan]]<br>[[Albert Rex Bergstrom]]
+|influences        = 
+|influenced        = {{Interlanguage link multi|Torben M. Andersen|da|vertical-align=sup}}<br>[[Laurent-Emmanuel Calvet]]<br>[[Steven Durlauf]]<br>[[Pierre Perron]]<br>[[Mototsugu Shintani]]<br>[[Eric Zivot]]
+|contributions     = 
+|awards            = 
+|signature         = <!-- file name only -->
+|repec_prefix      = e
+|repec_id          = pph8
+|doctoral_students = [[Steve Durlauf]]
+}}
+'''Peter Charles Bonest Phillips''' (born 23 March 1948) is an [[econometrician]]. Since 1979 he has been Professor of Economics and Statistics at [[Yale University]]. He also holds positions at the [[University of Auckland]], [[Singapore Management University]] and the [[University of Southampton]]. He is currently the co-director of Center for Financial Econometrics of Sim Kee Boon Institute for Financial Economics at [[Singapore Management University]] and is an adjunct professor of econometrics at the [[University of Southampton]].
+
+He is a founding [[editing|editor]] of the journal ''[[Econometric Theory]]''. Peter Phillips has published many theoretical articles and advanced many research areas in [[econometrics]]. He has published important articles on continuous time econometrics, finite-sample theory, [[asymptotic expansions]], [[unit root]] and [[cointegration]], long-range dependent [[time series]], and [[panel data]] econometrics. He also introduced the use of the [[functional central limit theorem]] to derive asymptotic distributions of unit roots tests. Phillips mainly used [[frequentist]] statistical methods.  Phillips has also supervised numerous Ph.D. students, including [[Steven Durlauf|Steve Durlauf]]. In 1993 he was elected as a [[Fellow of the American Statistical Association]].<ref>[http://www.amstat.org/awards/fellowslist.cfm View/Search Fellows of the ASA], accessed 18 December 2016.</ref>
+According to the November 2015 ranking of economists by [[Research Papers in Economics]], he is the 5th most influential economist.
+
+During his schooling, Phillips was the dux of [[Mount Albert Grammar School]] in New Zealand. He received a B.A. and M.A. from the University of Auckland and won prizes in both mathematics and economics.<ref>{{cite web |url= http://www.nzae.org.nz/nzae-news/distinguished-fellow/peter-phillips-awarded-distinguished-fellow-of-nzae/ |title=Peter Phillips awarded Distinguished Fellow of NZAE |first=John |last=Yeabsley |date=1 July 2014 |publisher=New Zealand Association of Economists |accessdate=5 September 2016}}</ref> He received his [[PhD]] from [[London School of Economics]] under the supervision of [[John Denis Sargan]] in 1974.
+
+==Festschrift==
+In 2012, The [[Journal of Econometrics]] dedicated two [[Festschrift]]s<ref>[http://www.sciencedirect.com/science/journal/03044076/169/2 Volume 169, Issues 1 and 2]</ref> to Phillips under the title ''Recent Advances in Nonstationary Time Series: A Festschrift in honor of Peter C.B. Phillips''.
+
+==Selected publications==
+* {{cite book |title=Econometric Theory and Practice; Frontiers of Analysis and Applied Research |editor-first=Dean |editor-last=Corbae |editor2-first=Steven N. |editor2-last=Durlauf |editor3-first=Bruce E. |editor3-last=Hansen }}
+* {{cite journal |title=Time Series Regression with a Unit Root |first=Peter C. B. |last=Phillips |author-mask=3 |journal=[[Econometrica]] |volume=55 |issue=2 |year=1987 |pages=277–301 |doi=10.2307/1913237|citeseerx=10.1.1.453.7174 |jstor=1913237 }}
+* {{cite journal |title=Testing for a Unit Root in Time Series Regression |first1=Peter C. B. |last1=Phillips |author-mask=3 |first2=Pierre |last2=Perron |journal=[[Biometrika]] |year=1988 |volume=75 |issue=2 |pages=335–346 |doi=10.1093/biomet/75.2.335 |url=http://cowles.yale.edu/sites/default/files/files/pub/d07/d0795-r.pdf }}
+* {{cite journal |title=Structural Nonparametric Cointegrating Regression |first1=Peter C. B. |last1=Phillips |author-mask=3 |first2=Qiying |last2=Wang |year=2009 |journal=[[Econometrica]] |volume=77 |issue=6 |pages=1901–1948 |doi=10.3982/ECTA7732 |citeseerx=10.1.1.193.8082 |s2cid=438765 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{MathGenealogy |id=61476}}
+* [http://korora.econ.yale.edu/phillips/ Homepage]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Phillips, Peter C. B.}}
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:New Zealand economists]]
+[[Category:Time series econometricians]]
+[[Category:Yale University faculty]]
+[[Category:University of Auckland faculty]]
+[[Category:Yale Sterling Professors]]
+[[Category:People educated at Mount Albert Grammar School]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Corresponding Fellows of the British Academy]]

@@ -1,0 +1,77 @@
+{{short description|American political scientist}}
+{{Infobox scientist
+| honorific_prefix  =
+| name              = Shanto Iyengar
+| honorific_suffix  =
+| native_name       =
+| native_name_lang  =
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        =
+| image_upright     =
+| alt               =
+| caption           =
+| birth_date        = <!--{{birth date |YYYY|MM|DD}}-->
+| birth_place       =
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       =
+| death_cause       =
+| resting_place     =
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       =
+| pronounce         =
+| residence         =
+| citizenship       =
+| nationality       = American
+| fields            = [[Political science]]
+| workplaces        = [[Stanford University]]
+| patrons           =
+| education         = [[Linfield College]] (B.A., 1968)<br>[[University of Iowa]] (Ph.D., 1972)
+| thesis_title      = The correlates and consequences of response stability: a methodological analysis
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1972
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors =
+| doctoral_students =
+| notable_students  =
+| known_for         = Work on [[political communication]]
+| influences        =
+| influenced        =
+| awards            = 1996 [[Goldsmith Book Prize]] (with [[Stephen Ansolabehere]])<br>1998 [[Murray Edelman]] Distinguished Career Award from the [[American Political Science Association]]
+| author_abbrev_bot =
+| author_abbrev_zoo =
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          =
+| signature         = <!--(filename only)-->
+| signature_alt     =
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         =
+}}
+'''Shanto Iyengar''' is an American political scientist and professor of political science at [[Stanford University]]. He is also the [[Harry Chandler|Harry]] & [[Norman Chandler]] Professor of Communication at Stanford, the director of Stanford's Political Communication Lab, and a senior fellow at the [[Hoover Institution]].<ref name=pcl>{{Cite web |url=https://pcl.stanford.edu/people/siyengar/ |title=Shanto Iyengar |website=Stanford Political Communication Lab |access-date=2017-10-08}}</ref>
+
+==Biography==
+Iyengar received his bachelor's degree from [[Linfield College]] in 1968 and his Ph.D. from the [[University of Iowa]] in 1972. In 1973, he joined the faculty of [[Kansas State University]] as an assistant professor, where he remained until 1979. He taught at [[Yale University]] as an assistant professor from 1983 to 1985, and then taught at [[Stony Brook University]] and the [[University of California, Los Angeles]] before joining Stanford's faculty in 1998.<ref>{{Cite web |url=https://files-politicalscience-stanford-edu.s3-us-west-2.amazonaws.com/s3fs-public/iyengar_2017-02-14_cv.pdf |title=Shanto Iyengar CV}}</ref>
+
+==Research==
+Iyengar is known for his work on the role of the [[news media]] in contemporary politics.<ref name=pcl/> This includes work he conducted with [[Dartmouth College]] political scientist Sean J. Westwood, in which they analyze partisan divisions in American politics.<ref>{{Cite news |url=https://www.nytimes.com/2017/06/15/upshot/how-we-became-bitter-political-enemies.html |title=How We Became Bitter Political Enemies |last=Badger |first=Emily |date=2017-06-15 |work=The New York Times |access-date=2017-10-08 |last2=Chokshi |first2=Niraj |language=en-US |issn=0362-4331}}</ref><ref>{{Cite news |url=https://www.npr.org/sections/theprotojournalist/2014/10/15/356101335/what-is-really-tearing-america-apart |title=What Is Really Tearing America Apart |last=Weeks |first=Linton |date=2014-10-15 |work=NPR |access-date=2017-10-08 |language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+==heko==
+*{{Google Scholar id|5d7KbbAAAAAJ}}
+{{Authority control}}
+
+{{DEFAULTSORT:Iyengar, Shanto}}
+[[Category:Living people]]
+[[Category:American political scientists]]
+[[Category:Stanford University faculty]]
+[[Category:Linfield University alumni]]
+[[Category:University of Iowa alumni]]
+[[Category:Kansas State University faculty]]
+[[Category:Yale University faculty]]
+[[Category:University of California, Los Angeles faculty]]
+[[Category:Stony Brook University faculty]]
+[[Category:Hoover Institution people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Political psychologists]]

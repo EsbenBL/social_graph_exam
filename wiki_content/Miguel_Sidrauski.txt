@@ -1,0 +1,53 @@
+{{Infobox economist
+| name        = Miguel Sidrauski
+| school_tradition = 
+| image       = 
+| image_size  = 
+| caption     = 
+| birth_date  = {{birth date|1939|10|12|mf=y}}
+| birth_place = [[Buenos Aires]], [[Argentina]]
+| death_date  = {{death date and age|1968|9|1|1939|10|12|mf=y}}
+| death_place = 
+| nationality = [[Argentina|Argentine]]
+| institution = [[Massachusetts Institute of Technology]]
+| field       = [[Monetary economics]]
+| alma_mater  = [[University of Chicago]]
+| doctoral_advisor          = [[Hirofumi Uzawa]]<br>[[Milton Friedman]]
+| academic_advisors         = 
+| doctoral_students         = 
+| notable_students          = 
+| influences  = [[Arnold Harberger]]
+| influenced  = 
+| contributions = 
+| awards      =
+}}
+
+'''Miguel Sidrauski''' (October 12, 1939 – September 1, 1968) was an [[Argentina|Argentine]] [[economist]] who made important contributions to the theory of [[economic growth]] by developing a modified version of the [[Ramsey–Cass–Koopmans model]] to describe the effects of [[money supply|money]] on long-run growth.  He also published an article on [[exchange rate]] determination.  Sidrauski taught [[economics]] at [[Massachusetts Institute of Technology]].
+
+Sidrauski was born and educated in [[Buenos Aires]].  He entered graduate studies at the [[University of Chicago]] in 1963 and completed his PhD in 1966 under the supervision of [[Hirofumi Uzawa]] and [[Milton Friedman]]. After completing his PhD, he was appointed as an assistant professor at MIT. Sidrauski, who was [[Judaism|Jewish]], was described by his colleague [[Duncan K. Foley]] as “a committed [[Zionism|Zionist]].”<ref>{{cite book |author-link=David Colander |last=Colander |first=David C. |first2=Richard P. F. |last2=Holt |first3=J. Barkley |last3=Rosser |author3-link=J. Barkley Rosser, Jr. |title=The Changing Face of Economics: Conversations with Cutting Edge Economists |location=Ann Arbor |publisher=University of Michigan Press |year=2004 |isbn=0-472-09877-2 |page=190 |url={{Google books |plainurl=yes |id=-I8uq5n-c2sC |page=190 }} }}</ref> He died of cancer at the age of 28, and was surrounded by his wife and two-month-old daughter.<ref name="Fischer">{{Cite book |last=Fischer |first=Stanley |author-link=Stanley Fischer |contribution=Sidrauski, Miguel |title=The New Palgrave: A Dictionary of Economics |editor-last=Eatwell |editor-first=John |editor-link=John Eatwell, Baron Eatwell |editor2-last=Milgate |editor2-first=Murray |editor3-last=Newman |editor3-first=Peter |year=1988 |publisher=Palgrave |volume=4 |pages=329–330 |isbn=0-333-37235-2 |title-link=The New Palgrave: A Dictionary of Economics }}</ref>
+
+Sidrauski is best known for his 1967 article, "Rational Choice and Patterns of Growth in a Monetary Economy," which was based on his PhD [[dissertation]].  The article analyses a model of a [[representative agent|representative household]] that intertemporally maximises [[utility]], which in turn depends on both the [[consumption (economics)|consumption]] of goods and the holding of [[Pigou effect|real balances]] of money.<ref>{{cite book |first=Olivier Jean |last=Blanchard |author-link=Olivier Blanchard |first2=Stanley |last2=Fischer |author-link2=Stanley Fischer |chapter=Money in the Utility Function |title=Lectures on Macroeconomics |location=Cambridge |publisher=MIT Press |year=1989 |isbn=0-262-02283-4 |chapter-url={{Google books |plainurl=yes |id=j_zs7htz9moC |page=188 }} |pages=188–193 }}</ref> The model implies that in steady state, [[capital intensity]] is invariant to the rate of monetary expansion or contraction, a result that is described as [[neutrality of money|superneutrality of money]].<ref name="Fischer" /><ref>{{cite book |author-link=Apostolos Serletis |first=Apostolos |last=Serletis |title=The Demand for Money: Theoretical and Empirical Approaches |location=New York |publisher=Springer |edition=Second |year=2007 |isbn=978-0-387-71726-5 |pages=68–70 |url={{Google books |plainurl=yes |id=JoSwG0ZZn5YC |page=68 }} }}</ref>
+
+== Selected publications ==
+* {{cite journal |first=Duncan K. |last=Foley |first2=Miguel |last2=Sidrauski |title=Portfolio Choice, Investment, and Growth |journal=[[American Economic Review]] |volume=60 |issue=1 |pages=44–63 |year=1970 |jstor=1807854 }}
+* {{cite journal |first=K. |last=Shell |author-link=Karl Shell |first2=M. |last2=Sidrauski |first3=J. E. |last3=Stiglitz |author3-link=Joseph Stiglitz |title=Capital Gains, Income, and Saving |journal=[[Review of Economic Studies]] |volume=36 |issue=1 |year=1969 |pages=15–26 |jstor=2296339 |doi=10.2307/2296339 |hdl=1721.1/63391 |hdl-access=free }}
+* {{cite journal |first=Miguel |last=Sidrauski |title=Inflation and Economic Growth |journal=[[Journal of Political Economy]] |volume=75 |issue=6 |year=1967 |pages=796–810 |jstor=1829572 |doi=10.1086/259360|citeseerx=10.1.1.330.9556 }}
+* {{cite journal |last=Sidrauski |first=Miguel |title=Rational Choice and Patterns of Growth in a Monetary Economy |journal=[[American Economic Review]] |volume=57 |issue=2 |year=1967 |pages=534–544 }}
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+* {{cite book |last=Overtveldt |first=Johan van |author-link=Johan Van Overtveldt |chapter=The Monetary Side of Chicago: Quantity Country |title=The Chicago School |location=Chicago |year=2007 |isbn=978-1-932841-14-5 |pages=[https://archive.org/details/chicagoschoolhow0000over/page/155 155–196] |chapter-url={{Google books |plainurl=yes |id=GKcrdEN_3WUC}} |url=https://archive.org/details/chicagoschoolhow0000over/page/155 }}
+
+{{Authority control}}
+{{DEFAULTSORT:Sidrauski, Miguel}}
+[[Category:Argentine economists]]
+[[Category:Growth economists]]
+[[Category:Monetary economists]]
+[[Category:1939 births]]
+[[Category:1968 deaths]]
+[[Category:20th-century economists]]
+
+
+{{Argentina-economist-stub}}

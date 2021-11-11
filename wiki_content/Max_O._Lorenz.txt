@@ -1,0 +1,58 @@
+{{more footnotes|date=April 2014}}
+{{Infobox economist
+| name = Max O. Lorenz
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+|birth_name = Max Otto Lorenz
+| birth_date = {{birth date |1876|9|19|mf=y}}
+| birth_place = [[Burlington, Iowa]]
+| death_date = {{death date and age |1959|7|1 |1876|9|19|mf=y}}
+| death_place = [[Sunnyvale, California]]
+| nationality = [[United States|American]]
+| institution =       <!-- or: | institutions =  -->
+| field = 
+| school_tradition = 
+| alma_mater = [[University of Wisconsin–Madison]]<br>[[University of Iowa]]
+| doctoral_advisor = [[Balthasar H. Meyer]]
+| doctoral_students =
+| contributions = [[Lorenz curve]]
+}}
+
+'''Max Otto Lorenz ''' ({{IPAc-en|ˈ|l|ɒr|ən|t|s}}; September 19, 1876 – July 1, 1959) was an [[United States|American]] [[economist]] who developed the [[Lorenz curve]] in an undergraduate essay.<ref>Gerber, L. (2007). A quintile rule for the Gini coefficient. ''Mathematics Magazine'', 80(2), 133-135.</ref> He published a paper on this when he was a doctoral student at the [[University of Wisconsin–Madison]].<ref>{{cite book |editor-first=Robert J. |editor-last=Lampman |title=Economics at Wisconsin 1892–1992 |location=Madison |year=1993 |page=28 |url=https://books.google.com/books?id=YKtXAAAAYAAJ&pg=PA28 }}</ref> His doctorate (1906) was on 'The Economic Theory of Railroad Rates' and made no reference to perhaps his most famous paper. The term "Lorenz curve" for the measure Lorenz invented was coined by [[Willford I. King]] in 1912.
+
+He was [[German American|of German ancestry]], his father having been born in [[Essen]] in the [[Rhine Province]] of the [[Kingdom of Prussia]] in 1841.<ref>{{Cite book | url=https://books.google.com/books?id=7wLGjyB128IC&pg=PA263 | title=Statistical Size Distributions in Economics and Actuarial Sciences| isbn=9780471457169| last1=Kleiber| first1=Christian| last2=Kotz| first2=Samuel| date=2003-10-24}}</ref>
+
+He was active in both publishing and teaching and was at various times employed by the U.S. [[Census Bureau]], the U.S. [[Bureau of Railway Economics]], the U.S. [[Bureau of Statistics]] and the U.S. [[Interstate Commerce Commission]]. In 1917 he was elected as a [[Fellow]] of the [[American Statistical Association]].<ref>[http://www.amstat.org/awards/fellowslist.cfm List of ASA Fellows], retrieved 2016-07-16.</ref>
+
+He was married to his wife Nellie, and he fathered 3 sons.
+
+==External links==
+* Lorenz, M. O. (1905). ''Methods of measuring the concentration of wealth'' Publications of the [[American Statistical Association]]. Vol. 9 (New Series, No. 70) 209–219.{{DOI|10.2307/2276207}}
+* Richard T. Ely, Adams, Thomas A. Adams, Max O. Lorenz, and Allyn Young (1908). ''Outlines of Economics''. New York: Macmillan.
+* King, W.I. (1912). ''The Elements of Statistical Method''. New York: Macmillan.
+* A discussion of generalised Lorenz curves: [https://web.archive.org/web/20060111021542/http://www.sfb475.uni-dortmund.de/berichte/tr30-05.pdf]
+* Some history of economists from the [[University of Wisconsin–Madison]] school around [[John R. Commons]]: [https://web.archive.org/web/20060206222100/http://web.uvic.ca/~rutherfo/CommonsandhisstudentsShort.pdf]
+* {{cite book|title=Statistical Size Distributions in Economics and Actuarial Sciences|author=Christian Kleiber and Samuel Kotz|pages=263|publisher=Wiley|year=2003|doi=10.1002/0471457175|isbn=978-0-471-15064-0|series=Wiley Series in Probability and Statistics|s2cid=152385446|url=https://semanticscholar.org/paper/ef9c46ba9e869a4748da8443665d342754473b54}}
+*{{cite web|url=https://www.jstor.org/action/doBasicSearch?si=1&Query=au%3A%22M.+O.+Lorenz%22&fc=off&wc=on&acc=off&group=none|title=Max O. Lorenz|publisher=[[JSTOR]]}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lorenz, Max O.}}
+[[Category:1876 births]]
+[[Category:1959 deaths]]
+[[Category:University of Wisconsin–Madison alumni]]
+[[Category:University of Iowa alumni]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:People from Sunnyvale, California]]
+[[Category:American people of German descent]]
+[[Category:Economists from California]]
+[[Category:People from Burlington, Iowa]]
+[[Category:Economists from Iowa]]
+
+
+{{US-economist-stub}}

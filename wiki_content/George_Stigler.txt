@@ -1,0 +1,142 @@
+{{short description|American economist (1911-1991)}}
+{{Infobox economist
+| name              = George Stigler
+| school_tradition  = [[Chicago School of Economics]]
+| image             = George Stigler.jpg
+| birth_date        = {{Birth date|1911|1|17}}
+| birth_place       = [[Seattle, Washington]], U.S.
+| death_date        = {{Death date and age|1991|12|1|1911|1|17|mf=yes}}
+| death_place       = [[Chicago, Illinois]], U.S.
+| institution       = [[Columbia University]]<br />[[Brown University]]<br />[[University of Chicago]]<br />[[Iowa State University]]
+| field             = [[Economics]]
+| alma_mater        = [[University of Washington]] (BA)<br /> [[Northwestern University]] (MBA)<br /> [[University of Chicago]] (PhD)
+| doctoral_advisor  = [[Frank Knight]]
+| academic_advisors = 
+| doctoral_students = [[Jacob Mincer]]<br />[[Thomas Sowell]]
+| notable_students  = 
+| influences        = [[Jacob Viner]], [[Henry Calvert Simons|Henry Simons]], [[Milton Friedman]]
+| influenced        = [[Jacques Drèze]]<br />[[Mark Blaug]]<br />[[Gary Becker]]
+| contributions     = [[Regulatory capture|Regulatory capture theory]], [[Industrial organization]], [[Search and information]], [[History of economic analyais]]
+| awards            = [[Nobel Memorial Prize in Economic Sciences]] (1982)<br />[[National Medal of Science]] (1987)
+| repec_prefix      = e
+| repec_id          = pst24
+}}
+{{Chicago school (economics)}}
+'''George Joseph Stigler''' ({{IPAc-en|ˈ|s|t|ɪ|g|l|ər}}; January 17, 1911 – December 1, 1991) was an American [[economist]], the 1982 laureate in [[Nobel Memorial Prize in Economic Sciences]] and a key leader of the [[Chicago School of Economics]].
+
+== Early life and education ==
+Stigler was born in [[Seattle, Washington]], the son of Elsie Elizabeth (Hungler) and Joseph Stigler.<ref>{{cite book |author1=National Academy of Sciences |author2=Office of the Home Secretary |title=Biographical Memoirs |url=https://books.google.com/books?id=4D-OIyTLoO0C&pg=PA342 |date=1 May 1999 |publisher=National Academies Press |isbn=978-0-309-06434-7 |pages=342–}}</ref> He was of German descent and spoke [[German language|German]] in his childhood.<ref>{{citation |last=Sowell |first=Thomas |author-link=Thomas Sowell |title=Migrations and Cultures: A World View |publisher=[[Basic Books]] |place=[[New York City|New York]] |year=1996 |page=82 |isbn=978-0465045891 |quote=...it may be indicative of how long German cultural ties endured [in the United States] that the German language was spoken in childhood by such disparate twentieth-century American figures as famed writer [[H. L. Mencken]], baseball stars [[Babe Ruth]] and [[Lou Gehrig]], and by the Nobel Prize-winning economist George Stigler.}}</ref> He graduated from the [[University of Washington]] in 1931 with a BA and then spent a year at [[Northwestern University]] from which he obtained his MBA in 1932. It was during his studies at Northwestern that Stigler developed an interest in economics and decided on an academic career.<ref name="Friedman" />
+
+== Career ==
+After he received a tuition scholarship from the [[University of Chicago]], Stigler enrolled there in 1933 to study economics and went on to earn his [[Ph.D.]] in economics there in 1938. He taught at [[Iowa State University|Iowa State College]] from 1936 to 1938. He spent much of [[World War II]] at [[Columbia University]], performing mathematical and statistical research for the [[Manhattan Project]]. He then spent one year at [[Brown University]]. He served on the Columbia faculty from 1947 to 1958.
+
+At Chicago, he was greatly influenced by [[Frank Knight]], his dissertation supervisor. [[Milton Friedman]], a friend for over 60 years, commented that it was remarkable for Stigler to have passed his dissertation under Knight, as only three or four students had ever managed to do so in Knight's 28 years at Chicago. Stigler's influences included [[Jacob Viner]] and [[Henry Calvert Simons|Henry Simons]] as well as students [[W. Allen Wallis]] and Friedman.
+
+Stigler is best known for developing the ''Economic Theory of Regulation'', also known as [[regulatory capture|capture]], which says that interest groups and other political participants will use the regulatory and coercive powers of government to shape laws and regulations in a way that is beneficial to them. This theory is a component of the [[public choice]] field of economics but is also deeply opposed by public choice scholars belonging to the "Virginia School," such as Charles Rowley.<ref>[[Filip Palda|Palda, Filip]]. A Better Kind of Violence: The Chicago School of Political Economy, Public Choice, and the Quest for and Ultimate Theory of Power. Cooper-Wolfling Press. 2016.</ref> He also carried out extensive research in the [[history of economic thought]].
+
+Stigler's most important contribution to economics was published in his landmark article, "The Economics of Information."<ref>George J. Stigler (1961). "The Economics of Information," ''Journal of Political Economy'', 69(3), pp. [http://bpp.wharton.upenn.edu/waldfogj/987/readings/stigler.pdf 213–25] {{webarchive|url=https://web.archive.org/web/20100621165108/http://bpp.wharton.upenn.edu/waldfogj/987/readings/stigler.pdf |date=2010-06-21 }}.</ref> According to Friedman, Stigler "essentially created a new area of study for economists." Stigler stressed the importance of information: "One should hardly have to tell academicians that information is a valuable resource: knowledge is power. And yet it occupies a slum dwelling in the town of economics."<ref name="Friedman">Milton Friedman (1992). [http://www.nap.edu/html/biomems/gstigler.html "George Joseph Stigler January 17, 1911 – December 1, 1991,"] ''Biographical Memoirs''. National Academy of Sciences.</ref>
+
+His 1962 article "Information in the Labor Market" developed the theory of [[frictional unemployment|search unemployment]].<ref>George J. Stigler (1962a). "Information in the Labor Market." ''Journal of Political Economy'', 70(5), Part 2,  Oct., pp. [https://www.jstor.org/pss/1829106 94]–105.</ref> In 1963 he was elected as a [[Fellow of the American Statistical Association]].<ref>[http://www.amstat.org/awards/fellowslist.cfm View/Search Fellows of the ASA], accessed 2016-07-23.</ref>
+
+He was known for his sharp sense of humor, and he wrote a number of spoof essays. In his book ''The Intellectual and the Marketplace'', for instance, he proposed ''Stigler's Law of Demand and Supply Elasticities'': "all demand curves are [[elasticity (economics)|inelastic]] and all supply curves are inelastic too." The essay referenced studies that found many goods and services to be [[inelastic]] over the long run and offered a supposed theoretical proof; he ended by announcing that his next essay would demonstrate that the price system does not exist.
+
+Another essay, "A Sketch on the Truth in Teaching," described the consequences of a (fictional) set of court decisions that held universities legally responsible for the consequences of teaching errors.<ref>George J. Stigler, 1973. "A Sketch of the History of Truth in Teaching," ''Journal of Political Economy'', 81(2, Part 1), [https://www.jstor.org/pss/1830533 pp. 491]–95.</ref> The [[Stigler diet]] is also named after him.
+
+Stigler wrote numerous articles on the history of economics, published in the leading journals and republished 14 of them in 1965. The ''American Economic Review'' said, "many of these essays have become such well-known landmarks that no scholar in this field should be unfamiliar with them... The lucid prose, penetrating logic, and wry humor... have become the author's trademarks."<ref>Thomas Sowell, review in ''American Economic Review'' (June, 1965)  p. 552</ref><ref>George J. Stigler, ''Essays in the history of economics'' (U. of Chicago Press, 1965)</ref>
+
+Stigler was a founding member of the [[Mont Pelerin Society]] and was its president from 1976 to 1978. He was a [[Libertarianism|libertarian]]/[[Classical liberalism|classical liberal]].<ref>{{Cite web|title=The Rise, Decline, and Reemergence of Classical Liberalism {{!}} Belmont University {{!}} Nashville, TN|url=https://www.belmont.edu/lockesmith/liberalism_essay/the_decline.html|access-date=2021-05-26|website=www.belmont.edu}}</ref><ref>{{Cite web|title=STIGLER, GEORGE J. (1911–1991)|url=https://www.libertarianism.org/topics/stigler-george-j-1911-1991|url-status=live|access-date=2021-06-27|website=www.libertarianism.org}}</ref>
+
+He received [[National Medal of Science]] in 1987.
+
+== Bibliography ==
+* ([1941] 1994). ''Production and Distribution Theories: The Formative Period''. New York: Macmillan. [https://books.google.com/books?id=c4z5t4GTlxwC&printsec=frontcover#v=onepage&q&f=false Preview.]
+* (1961). "The Economics of Information," ''Journal of Political Economy'', 69(3), pp. [https://web.archive.org/web/20100621165108/http://bpp.wharton.upenn.edu/waldfogj/987/readings/stigler.pdf 213–25]
+* (1962a). "Information in the Labor Market." ''Journal of Political Economy'', 70(5), Part 2, [https://www.jstor.org/pss/1829106 pp. 94]–105
+* (1962b). ''The Intellectual and the Marketplace''. Selected Papers, no. 3. Chicago: University of Chicago Graduate School of Business. Reprinted in Sigler (1986), pp. [https://books.google.com/books?id=lHyH67vsDmgC&pg=PA79&lpg=PA79&dq=false#v=onepage&q=false&f=false 79–88]
+* (1963). (With Paul Samuelson) "A Dialogue on the Proper Economic Role of the State." Selected Papers, no. 7. pp. [https://web.archive.org/web/20100527140041/http://www.chicagobooth.edu/faculty/selectedpapers/sp7.pdf 3–20.] Chicago: University of Chicago Graduate School of Business
+* (1963). ''Capital and Rates of Return in Manufacturing Industries''. National Bureau of Economic Research, Princeton, N.J.: Princeton University Press
+* (1965). {{cite book |title=Essays in the History of Economics |url=https://archive.org/details/essaysinhistoryo0000stig |url-access=registration |publisher=University of Chicago Press |year=1965}}
+* (1968). '' The Organization of Industry''. Homewood, IL: Richard D. Irwin
+* (1970). (With J.K. Kindahl) ''The Behavior of Industrial Prices''. National Bureau of Economic Research, New York: Columbia University Press
+* (1971). "The Theory of Economic Regulation." ''Bell Journal of Economics and Management Science'', no. 3, pp.&nbsp;3–18
+* (1975). ''Citizen and the State: Essays on Regulation''
+* (1982).  [http://nobelprize.org/nobel_prizes/economics/laureates/1982/stigler-lecture.pdf "The Process and Progress of Economics,"] Nobel Memorial Lecture, 8 December (with bibliography)
+* (1982). ''The Economist as Preacher, and Other Essays''. Chicago: University of Chicago Press
+* (1983). '' The Organization of Industry''
+* (1985). {{cite book |title=Memoirs of an Unregulated Economist |url=https://books.google.com/books?id=NCO67S40dM0C |date=2003 |publisher=University of Chicago Press |isbn=978-0-226-77440-4}}  autobiography
+* (1986). ''The Essence of Stigler'', K.R. Leube and T.G. Moore, ed. Scroll or page-arrow to respective [https://books.google.com/books?id=lHyH67vsDmgC&pg=PA79&lpg=PA79&dq=false#v=onepage&q=false&f=false essays.] {{ISBN|0-8179-8462-3}}
+* (1987). ''The Theory of Price'', Fourth Edition. New York: Macmillan
+* (1988). ed. ''Chicago Studies in Political Economy''
+
+== See also ==
+{{Portal|Biography}}
+* [[Stephen Stigler]], his son
+* [[Regulatory capture]]
+
+== Notes ==
+{{Reflist}}
+
+== References ==
+* Diamond, Arthur M., Jr.  (2005). "Measurement, Incentives, and Constraints in Stigler's Economics of Science." ''The European Journal of the History of Economic Thought'' 12, no. 4637–63.
+* Freedman, Craig (2003). "Do Great Economists Make Great Teachers? George Stigler as a Dissertation Supervisor," ''Journal of Economic Education'', 34(3), pp. [http://www.indiana.edu/~econed/pdffiles/summer03/freedman.pdf 282–90].
+* Friedman, Milton (1993). "George Stigler: A Personal Reminiscence," ''Journal of Political Economy'' 101(5) [https://www.jstor.org/pss/2138591 pp. 768]–73.
+* _____ (1998). "George J. Stigler, 1911–1991. [http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/stigler-george.pdf A Biographical Memoir].
+* Hammond, J. Daniel, and Claire H. Hammond, ed.  (2006). ''Making Chicago Price Theory: Friedman–Stigler Correspondence, 1945–1957''. Routledge. 165 pp.&nbsp;{{ISBN|0-415-70078-7}}.
+* Levy, David M.,  and Sandra J. Peart. (2008). "Stigler, George Joseph (1911–1991)." ''[[The New Palgrave Dictionary of Economics]]'',  2nd Edition. [https://web.archive.org/web/20150923231418/http://www.dictionaryofeconomics.com/article?id=pde2008_S000262&q=stigler&topicid=&result_number=1 Abstract.]
+* Palda, Filip (2016). A Better Kind of Violence: Chicago Political Economy, Public Choice, and the Quest for an Ultimate Theory of Power. Cooper-Wolfling Publishers. {{ISBN|978-0-9877880-7-8}}.
+* {{cite encyclopedia |last=Steelman |first=Aaron |editor-first=Ronald |editor-last=Hamowy |editor-link=Ronald Hamowy |encyclopedia=The Encyclopedia of Libertarianism |chapter-url=https://books.google.com/books?id=yxNgXs3TkJYC |year=2008 |publisher=[[SAGE Publications|SAGE]]; [[Cato Institute]] |location=Thousand Oaks, CA |doi=10.4135/9781412965811.n299 |isbn=978-1-4129-6580-4 |oclc=750831024 |lccn=2008009151 |pages=492–93 |chapter=Stigler, George J. (1911–1991) }}
+* ''[[The New Palgrave: A Dictionary of Economics]]'' (1987):
+* "Stigler, George Joseph" by [[Peter Kenneth Newman|Peter Newman]], v. 4, p.&nbsp;498.
+* "Stigler as an historian of economic thought" by [[Thomas Sowell]],   v. 4, pp.&nbsp;498–99.
+* "Stigler's contribution to microeconomics and industrial organization," by [[Richard Schmalensee]], v. 4, pp.&nbsp;499–500
+
+== External links ==
+{{Wikiquote}}
+* {{Cite encyclopedia |title=George J. Stigler (1911–1991) |url=http://www.econlib.org/library/Enc/bios/Stigler.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008}}
+* [https://web.archive.org/web/20091027101029/http://geocities.com/gfh_axds_as/zax/stigler-press.html George Stigler's seminal studies of industrial structures, functioning of markets and causes and effects of public regulation.]
+*{{cite web|title= George Stigler|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22George+Stigler%22+&acc=off&wc=on&fc=off&group=none|publisher=[[JSTOR]]}}
+* {{Nobelprize}}
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[James Tobin]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 1982 }}
+{{s-aft | after = [[Gérard Debreu]] }}
+{{s-end}}
+
+{{Nobel laureates in economics 1976–2000}}
+{{1982 Nobel Prize winners}}
+{{Chiconomists}}
+{{Winners of the National Medal of Science|behav-social}}
+{{Presidents of the American Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stigler, George}}
+[[Category:1911 births]]
+[[Category:1991 deaths]]
+[[Category:American Nobel laureates]]
+[[Category:American people of German descent]]
+[[Category:Historians of economic thought]]
+[[Category:20th-century American economists]]
+[[Category:Nobel laureates in Economics]]
+[[Category:National Medal of Science laureates]]
+[[Category:University of Chicago alumni]]
+[[Category:Kellogg School of Management alumni]]
+[[Category:University of Chicago faculty]]
+[[Category:Columbia University faculty]]
+[[Category:University of Washington alumni]]
+[[Category:Scientists from Seattle]]
+[[Category:Earhart Foundation Fellows]]
+[[Category:Critics of Marxism]]
+[[Category:20th-century American historians]]
+[[Category:American male non-fiction writers]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Presidents of the American Economic Association]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:National Bureau of Economic Research]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Economists from Washington (state)]]
+[[Category:Historians from Washington (state)]]
+[[Category:20th-century American male writers]]

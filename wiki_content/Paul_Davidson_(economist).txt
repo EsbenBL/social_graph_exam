@@ -1,0 +1,169 @@
+{{short description|American macroeconomist|bot=PearBOT 5}}
+{{About|the American economist|similarly-named people|Paul Davidson (disambiguation){{!}}Paul Davidson}}
+
+{{BLP sources|date=May 2012}}
+{{Infobox economist
+| name             = Paul Davidson
+| school_tradition = [[Post-Keynesian economics]]
+| image       =
+| image_size       =
+| caption    =
+| birth_date       = {{Birth date and age|1930|10|23}}
+| birth_place      = [[Brooklyn, New York]]
+| death_date       =
+| death_place      =
+| nationality      = [[United States]]
+| institution      =
+| field            = [[Macroeconomics]]
+| alma_mater       = [[Brooklyn College]] <small>(BS, 1950)</small><br>[[University of Pennsylvania]] <small>(PhD, 1959)</small><br>[[City University of New York]] <small>(MBA, 1955)</small>
+| influences       = [[John Maynard Keynes]], [[Sidney Weintraub (economist born 1914 died 1983)|Sidney Weintraub]]
+| contributions    = Co-founding editor of the ''Journal of Post Keynesian Economics''
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix =  e | repec_id = pda67
+}}
+
+'''Paul Davidson''' (born October 23, 1930) is an American [[macroeconomist]] who has been one of the leading spokesmen of the American branch of the [[Post-Keynesian economics|post-Keynesian]] school in [[economics]]. He is a prolific writer and has actively intervened in important debates on economic policy ([[natural resources]], [[international monetary systems|international monetary system]], [[developing country|developing countries]]' debt) from a position that is very critical of [[mainstream economics]].
+
+==Life and work==
+Davidson did not originally choose economics as a profession. His primary training was in both [[chemistry]] and [[biology]], for which he received [[Bachelor of Science|B.Sc.]] degrees from [[Brooklyn College]] in 1950.<ref name="cfeps">{{cite web |url=http://www.cfeps.org/people/davidsonp/ |title=Paul Davidson |publisher=Center for Full Employment and Price Stability |access-date=2011-04-03 |archive-date=2018-07-27 |archive-url=https://web.archive.org/web/20180727221220/http://www.cfeps.org/people/davidsonp/ |url-status=dead }}</ref> He was a graduate student in [[biochemistry]] at the [[University of Pennsylvania]], but switched to economics, receiving his [[Master of Business Administration|MBA]] from the [[City University of New York]] in 1955, and completing his [[PhD]] at the University of Pennsylvania in 1959.
+
+Davidson is Holly Professor of Excellence, [[Emeritus]] at the [[University of Tennessee]] in [[Knoxville]]. He is a [[Visiting Scholar]] at the Schwartz Center For Economic Policy Analysis at the [[New School]]. Besides the University of Pennsylvania, the University of Tennessee, and the New School, Davidson has taught economics at [[Rutgers University]], [[Bristol University]], and the [[University of Cambridge]]. In the early 1960s he worked at [[Continental Oil Company]].<ref name="cfeps"/>
+
+Davidson and [[Sidney Weintraub (economist born 1914 died 1983)|Sidney Weintraub]] founded the ''Journal of Post Keynesian Economics'' in 1978. Davidson continues as editor of that journal. He is also a contributor to the Center for Full Employment and Stability. The [http://www.cfeps.org/ CFEPS website] (see [http://www.cfeps.org/people/davidsonp/ Other Contributors: Paul Davidson] {{Webarchive|url=https://web.archive.org/web/20180727221220/http://www.cfeps.org/people/davidsonp/ |date=2018-07-27 }}) contains more biographical information about him, as well as a list of his publications, with links to a few.
+
+==References==
+{{reflist}}
+
+==Major publications==
+{{biblio|date=June 2015}}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = A Clarification of the Ricardian Rent Share | journal = The Canadian Journal of Economics and Political Science | volume = 25 | issue = 2 | pages = 190–195 | doi = 10.2307/139062 | year = 1959 | jstor = 139062 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Increasing Employment, Diminishing Returns, Relative Shares, and Ricardo | journal = The Canadian Journal of Economics and Political Science | volume = 26 | issue = 1 | pages = 147–149 | doi = 10.2307/138826 | year = 1960 | jstor = 138826 }}
+* ''Theories of Aggregate Income Distribution'', 1960
+* {{Cite journal | last1 = Davidson | first1 = P. | title = More on the Aggregate Supply Function | journal = The Economic Journal | volume = 72 | issue = 286 | pages = 452–457 | doi = 10.2307/2228715 | year = 1962 | jstor = 2228715 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Income and Employment Multipliers, and the Price Level | journal = The American Economic Review | volume = 52 | issue = 4 | pages = 738–752 |jstor=1808986| year = 1962 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Public Policy Problems of the Domestic Crude Oil Industry | journal = The American Economic Review | volume = 53 | issue = 1 | pages = 85–108 |jstor=1817130| year = 1963 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | last2 = Smolensky | first2 = E. | title = Modigliani on the Interaction of Monetary and Real Phenomena | journal = The Review of Economics and Statistics | volume = 46 | issue = 4 | pages = 429–431 | doi = 10.2307/1924053|jstor=1924053 | year = 1964 }}
+* ''Aggregate Supply and Demand Analysis'', with E. Smolensky, 1964
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Keynes's Finance Motive | journal = Oxford Economic Papers | volume = 17 | issue = 1 | pages = 47–65 |jstor=2662469| year = 1965 | doi = 10.1093/oxfordjournals.oep.a040978 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = The Importance of the Demand for Finance | journal = Oxford Economic Papers | volume = 19 | issue = 2 | pages = 245–253 |jstor=2662215| year = 1967 | doi = 10.1093/oxfordjournals.oep.a041049 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = A Keynesian View of Patinkin's Theory of Employment | journal = The Economic Journal | volume = 77 | issue = 307 | pages = 559–578 | doi = 10.2307/2228991 | year = 1967 | jstor = 2228991 }}
+* "The Valuation of Public Goods," 1968, in Garnsey and Hibbs (eds.), ''Social Sciences and the Environment''
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Money, Portfolio Balance, Capital Accumulation, and Economic Growth | journal = Econometrica | volume = 36 | issue = 2 | pages = 291–321 | doi = 10.2307/1907491 | year = 1968 | jstor = 1907491 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = The Demand and Supply of Securities and Economic Growth and Its Implications for the Kaldor-Pasinetti Versus Samuelson-Modigliani Controversy | journal = The American Economic Review | volume = 58 | issue = 2 | pages = 252–269 |jstor=1831814| year = 1968 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = A Keynesian View of the Relationship Between Accumulation, Money and the Money Wage-Rate | journal = The Economic Journal | volume = 79 | issue = 314 | pages = 300–323 | doi = 10.2307/2230170 | year = 1969 | jstor = 2230170 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Money and the Real World | journal = The Economic Journal | volume = 82 | issue = 325 | pages = 101–115 | doi = 10.2307/2230209 | year = 1972 | jstor = 2230209 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = A Keynesian View of Friedman's Theoretical Framework for Monetary Analysis | journal = The Journal of Political Economy | volume = 80 | issue = 5 | pages = 864–882 | doi = 10.1086/259942 | year = 1972 }}
+* ''Money and the Real World'', 1972
+* {{Cite journal | last1 = Davidson | first1 = P. | last2 = Weintraub | first2 = S. | title = Money as Cause and Effect | journal = The Economic Journal | volume = 83 | issue = 332 | pages = 1117–1132 | doi = 10.2307/2230844|jstor=2230844 | year = 1973 }}
+* "Market Disequilibrium Adjustments: Marshall Revisited," 1974, ''Econ Inquiry''
+* {{Cite journal | last1 = Davidson | first1 = P. | last2 = Falk | first2 = L. H. | last3 = Lee | first3 = H. | title = Oil: Its Time Allocation and Project Independence | journal = Brookings Papers on Economic Activity | volume = 1974 | issue = 2 | pages = 411–448 | doi = 10.2307/2534193|jstor=2534193 | year = 1974 | url = https://www.brookings.edu/wp-content/uploads/1974/06/1974b_bpea_davidson_falk_lee.pdf }}
+* "Post-Keynesian Monetary Theory and Inflation", 1977, in S. Weintraub (ed.), ''Modern Economic Thought''
+* "A Discussion of Leijonhufvud's Social Consequences of Inflation", 1977, in Harcourt (ed.), ''Microfoundations of Macroeconomics''
+* "The Carter Energy Proposal", 1977, ''Challenge''
+* "Money and General Equilibrium," 1977, ''Economie Appliquee''
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Why Money Matters: Lessons from a Half-Century of Monetary Theory | journal = Journal of Post Keynesian Economics | volume = 1 | issue = 1 | pages = 46–70 |jstor=4537459| year = 1978 | doi = 10.1080/01603477.1978.11489093 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = The United States Internal Revenue Service: Fourteenth Member of OPEC? | journal = Journal of Post Keynesian Economics | volume = 1 | issue = 2 | pages = 47–58 |jstor=4537469| year = 1978 | doi = 10.1080/01603477.1978.11489101 }}
+* "Post Keynesian Approach to the Theory of Natural Resources", 1979, ''Challenge''
+* "Monetary Policy, Regulation and International Adjustments," with M.A. Miles, 1979, ''Economies et Societies''
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Oil Conservation: Theory vs. Policy | journal = Journal of Post Keynesian Economics | volume = 2 | issue = 1 | pages = 145–149 |jstor=4537519| year = 1979 | doi = 10.1080/01603477.1979.11489145 }}
+* "What Is the Energy Crisis?", 1979, ''Challenge''
+* "Keynes's Paradigm: A Theoretical Framework for Monetary Analysis", with J.A. Kregel, 1980, in Nell (ed.), ''Growth, Property and Profits''
+* {{Cite journal | last1 = Davidson | first1 = P. | title = The Dual-Faceted Nature of the Keynesian Revolution: Money and Money Wages in Unemployment and Production Flow Prices | journal = Journal of Post Keynesian Economics | volume = 2 | issue = 3 | pages = 291–307 |jstor=4537535| year = 1980 | doi = 10.1080/01603477.1980.11489160 }}
+* "Keynes's Theory of Employment, Expectations and Indexing", 1980, ''Revista de Economia Latinoamericana''
+* "Post Keynesian Economics: Solving the Crisis in Economic Theory", 1981, in Bell and Kristol (eds.), ''The Crisis in Economic Theory''
+* {{Cite journal | last1 = Davidson | first1 = P. | last2 = Lindholm | first2 = R. W. | title = Can VAT Resolve the Shortage of Savings (SOS) Distress? [with Rejoinder] | journal = Journal of Post Keynesian Economics | volume = 4 | issue = 1 | pages = 51–62 |jstor=4537635| year = 1981 | doi = 10.1080/01603477.1981.11489259 }}
+* "Alfred Marshall is Alive and Well in Post Keynesian Economics", 1981, ''IHS Journal''
+* "A Critical Analysis of the Monetarist-Rational Expectations Supply Side (Incentive) Economics Approach to Accumulation During a Period of Inflationary Expectations," 1981, ''Kredit und Kapital''
+* ''International Money and the Real World'', 1982
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Rational Expectations: A Fallacious Foundation for Studying Crucial Decision-Making Processes | journal = Journal of Post Keynesian Economics | volume = 5 | issue = 2 | pages = 182–198 |jstor=4537730| year = 1982 | doi = 10.1080/01603477.1982.11489355 }}
+* "Monetarism and Reagonomics", 1983, in S. Weintraub and Goodstein (eds.), ''Reagonomics in the Stagflation Economy''
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Keynes's General Theory: A Different Perspective | journal = Journal of Economic Literature | volume = 21 | issue = 1 | pages = 52–56 |jstor=2724747| year = 1983 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = The Marginal Product Curve is Not the Demand Curve for Labor and Lucas's Labor Supply Function is Not the Supply Curve for Labor in the Real World | journal = Journal of Post Keynesian Economics | volume = 6 | issue = 1 | pages = 105–117 |jstor=4537796| year = 1983 | doi = 10.1080/01603477.1983.11489420 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = An Appraisal of Weintraub's Work | journal = Eastern Economic Journal | volume = 9 | issue = 4 | pages = 291–294 |jstor=40325122| year = 1983 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Reviving Keynes's Revolution | journal = Journal of Post Keynesian Economics | volume = 6 | issue = 4 | pages = 561–575 |jstor=4537848| year = 1984 | doi = 10.1080/01603477.1984.11489467 }}
+* "The Conventional Wisdom on Deficits Is Wrong", 1984, ''Challenge''
+* "Incomes Policy as a Social Institution", 1985, in Maital and Lipnowski (eds.), ''Macroeconomic Conflict and Social Institutions''
+* "Policies For Prices And Incomes", 1985, in Barrere (ed.), ''Keynes Today''
+* "Financial Markets and Williamson's Theory of Governance: Efficiency vs. Concentration vs. Power", with G.S. Davidson, 1984, ''Quarterly Review of Economics and Business''
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Liquidity and Not Increasing Returns is the Ultimate Source of Unemployment Equilibrium | journal = Journal of Post Keynesian Economics | volume = 7 | issue = 3 | pages = 373–384 |jstor=4537895| year = 1985 | doi = 10.1080/01603477.1985.11489512 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Can Effective Demand and the Movement toward Further Income Equality Be Maintained in the Face of Robotics? An Introduction | journal = Journal of Post Keynesian Economics | volume = 7 | issue = 3 | pages = 422–425 |jstor=4537900| year = 1985 | doi = 10.1080/01603477.1985.11489517 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Sidney Weintraub: An Economist of the Real World | journal = Journal of Post Keynesian Economics | volume = 7 | issue = 4 | pages = 533–539 |jstor=4537915| year = 1985 | doi = 10.1080/01603477.1985.11489529 }}
+* "A Post Keynesian View of Theories and Causes of High Real Interest Rates", 1986, ''Thames Papers in Political Economy''
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Finance, Funding, Saving, and Investment | journal = Journal of Post Keynesian Economics | volume = 9 | issue = 1 | pages = 101–110 |jstor=4537993| year = 1986 | doi = 10.1080/01603477.1986.11489603 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = The Simple Macroeconomics of a Nonergodic Monetary Economy versus a Share Economy: Is Weitzman's Macroeconomics too Simple? | journal = Journal of Post Keynesian Economics | volume = 9 | issue = 2 | pages = 212–225 |jstor=4538004| year = 1986 | doi = 10.1080/01603477.1986.11489614 }}
+* "Financial Markets, Investment, and Employment", 1988, in Matzner et al. (eds.), ''Barriers to Full Employment''
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Sensible Expectations and the Long-Run Non-Neutrality of Money | journal = Journal of Post Keynesian Economics | volume = 10 | issue = 1 | pages = 146–153 |jstor=4538058| year = 1987 | doi = 10.1080/01603477.1987.11489666 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = A Modest Set of Proposals for Resolving the International Debt Problem | journal = Journal of Post Keynesian Economics | volume = 10 | issue = 2 | pages = 323–338 |jstor=4538074| year = 1987 | doi = 10.1080/01603477.1987.11489682 }}
+* "Weitzman's Share Economy And The Aggregate Supply Function", 1988, in Hamouda and Smithin (eds.), ''Keynes and Public Policy After Fifty Years''
+* "Endogenous Money, The Production Process, And Inflation Analysis", 1988, ''Economie Appliquee''
+* "A Technical Definition of Uncertainty and the Long Run Non- Neutrality of Money", 1988, ''Cambridge JE''
+* ''Economics for a Civilized Society'', with G. Davidson, 1988
+* "Keynes and Money" 1989, in Hill (ed.), ''Keynes, Money, and Monetarism''
+* "Prices and Income Policy: An Essay in Honor of Sidney Weintraub", 1989, in Barrere (ed.), ''Money, Credit, and Prices in Keynesian Perspective''
+* "Patinkin's Interpretation of Keynes and the Keynesian Cross", 1989, ''HOPE''
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Only in America: Neither the Homeless nor the Yachtless Are Economic Problems | journal = Journal of Post Keynesian Economics | volume = 12 | issue = 1 | pages = 164–166 |jstor=4538179| year = 1989 | doi = 10.1080/01603477.1989.11489788 }}
+* "The Economics of Ignorance Or Ignorance of Economics?", 1989, ''Critical Review''
+* "Shackle and Keynes vs. Rational Expectations Theory on the Role of Time, Liquidity, and Financial Markets" 1990, in S. Frowen (ed.), ''Unknowledge and Choice in Economics''
+* "Liquidity Proposals for a New Bretton Woods Plan", 1990, in Barrere, ''Keynesian Economic Policies''
+* "On Thirlwall's Law", 1990, ''Revista de Economia Politica''
+* ''Collected Writings of Paul Davidson'' (2 vols.), 1990–1.
+* ''Controversies in Post Keynesian Economics'', 1991
+* {{Cite journal | last1 = Davidson | first1 = P. | title = A Post Keynesian Positive Contribution to "Theory" | journal = Journal of Post Keynesian Economics | volume = 13 | issue = 2 | pages = 298–303 |jstor=4538242| year = 1990 | doi = 10.1080/01603477.1990.11489849 }}
+* "Is Probability Theory Relevant For Choice Under Uncertainty?: A Post Keynesian Perspective", 1991, ''JEP''
+* "What Kind of International Payments System Would Keynes Have Recommended for the Twenty-First Century?" 1991, in Davidson and Kregel (eds.), ''Economic Problems of the 1990s''
+* "Money: Cause or Effect? Exogenous or Endogenous?", 1992, in Nell and Semmler (eds.), ''Nicholas Kaldor and Mainstream Economics''
+* "Eichner's Approach to Money and Macroeconomics", 1992, in Milberg (ed.), ''The Megacorp and Macrodynamics''
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Reforming the World's Money | journal = Journal of Post Keynesian Economics | volume = 15 | issue = 2 | pages = 153–179 |jstor=4538333| year = 1992 | doi = 10.1080/01603477.1992.11489932 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = The Elephant and the Butterfly: Or Hysteresis and Post Keynesian Economics | journal = Journal of Post Keynesian Economics | volume = 15 | issue = 3 | pages = 309–322 |jstor=4538348| year = 1993 | doi = 10.1080/01603477.1993.11489946 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Would Keynes Be a new Keynesian? | journal = Eastern Economic Journal | volume = 18 | issue = 4 | pages = 449–463 |jstor=40325476| year = 1992 }}
+* "Asset Deflation and Financial Fragility" 1993, in Arestis (ed.), ''Contemporary Issues in Money and Banking''
+* ''Can the Free Market Pick Winners?'' (editor), 1993
+* ''Growth, Employment and Finance: Economic Reality and Economic Theory'', (co-edited with J.A. Kregel), 1994
+* "The Asimakopulos View of Keynes's General Theory", 1994, in Harcourt and Roncaglia (eds.), ''Investment and Employment in Theory and Practice''
+* "Monetary Theory and Policy In A Global Context With A Large International Debt" 1994, in Frowen (ed.), ''Monetary Theory and Monetary Policy''
+* ''Post Keynesian Macroeconomic Theory: a foundation for successful economic policies for the Twenty-first Century'', 1994
+* ''Economics For A Civilized Society'', with Greg Davidson, 1996.
+* "What Are The Essential Characteristics of Post Keynesian Monetary Theory?", 1996, in G. Deleplace and E. J. Nell (eds.), ''Money in Motion''
+* "The General Theory in An Open Economy," 1996, in Harcourt and Riach (eds.), ''A Second Edition of the General Theory''
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Reality and Economic Theory | journal = Journal of Post Keynesian Economics | volume = 18 | issue = 4 | pages = 479–508 |jstor=4538504| year = 1996 | doi = 10.1080/01603477.1996.11490083 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Are Grains of Sand in the Wheels of International Finance Sufficient to do the Job when Boulders are Often Required? | journal = The Economic Journal | volume = 107 | issue = 442 | pages = 671–686 | doi = 10.1111/1468-0297.00183 | year = 1997 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Post Keynesian Employment Analysis and the Macroeconomics of OECD Unemployment | journal = The Economic Journal | volume = 108 | issue = 448 | pages = 817–831 | doi = 10.1111/1468-0297.00317 | year = 1998 | doi-access = free }}
+* "Is a Plumber Or A Financial Architect Needed to End Global International Liquidity Problems?", 2000, ''World Development''
+* ''Financial Markets, Money and the Real World'', 2002
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Are Fixed Exchange Rates the Problem and Flexible Exchange Rates the Cure? | journal = Eastern Economic Journal | volume = 29 | issue = 2 | pages = 259–268 |jstor=40325413| year = 2003 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Is "Mathematical Science" an Oxymoron when Used to Describe Economics? | journal = Journal of Post Keynesian Economics | volume = 25 | issue = 4 | pages = 527–545 |jstor=4538847| year = 2003 }}
+* {{Cite journal | last1 = Davidson | first1 = P. | title = Setting the Record Straight on "A History of Post Keynesian Economics" | journal = Journal of Post Keynesian Economics | volume = 26 | issue = 2 | pages = 245–272 |jstor=4538872| year = 2003 }}
+* "The Post Keynesian School", Snowden and Vane (eds.) ''Modern Macroeconomics'', 2005
+* {{cite journal| last1        = Davidson| first1       = P.| year         = 2005| title        = Responses to Lavoie, King, and Dow on what Post Keynesianism is and who is a Post Keynesian| journal      = Journal of Post Keynesian Economics| volume       = 27| issue        = 3| pages        = 393–408|jstor=4538934}}
+* {{cite journal| last1        = Davidson| first1       = P.| year         = 2005| title        = Galbraith and the Post Keynesians| journal      = Journal of Post Keynesian Economics| volume       = 28| issue        = 1| pages        = 103–113|jstor=4538962}}
+* "Can, Or Should, A Central Bank Inflation Target?" 2006, ''JPKE''
+* "Keynes and Money" in Arestis and Sawyer (eds.) ''Handbook of Alternative Monetary Economics'', 2006
+* "Keynes, Post Keynesian Analysis, and the Open Economies of the Twenty-first Century" Arestis, McCombie and Vickerman (eds.) ''Growth and Economic Development'', 2006
+* "Are We Making Progress Towards A Civilized Society?", 2007, ''JPKE''
+* ''John Maynard Keynes'', 2007
+* "How To Solve The U.S. Housing Problem and Avoid A Recession: A Revived HOLC and FTC", ''Schwartz Center For Economic Policy Analysis: Policy Note'', 2008.
+* "Securitization, Liquidity, and Market Failure", 2008, ''Challenge''
+* "Is The Current Financial Distress Caused By The Sub Prime Mortgage Crisis A Minsky moment? Or Is It The Result of Attempting To Securitize Illiquid Non Commercial Mortgage Loans?", 2008, ''JPKE''
+* ''The Keynes Solution: The Path to Global Economic Prosperity'', 2009
+* {{cite book | last = Davidson | first = Paul | author-link = Paul Davidson (economist) | title = John Maynard Keynes | url = http://www.library.fa.ru/files/Davidson.pdf | publisher = Palgrave Macmillan | location = Basingstoke, England | series = Great Thinkers in Economics Series | year = 2007 | isbn = 9780230229204 | url-status = dead | archive-url = https://web.archive.org/web/20160819092531/http://library.fa.ru/files/Davidson.pdf | archive-date = 2016-08-19 }}
+:: {{Cite journal | last = Girón | first = Alicia | author-link = Alicia Girón | title = Review of John Maynard Keynes by Davidson, Paul (2007) in Great Thinkers in Economics Series, Palgrave, Macmillan, England | journal = Ola Financiera | volume = 2 | pages = 134–136 | date = January 2009 | url = http://www.olafinanciera.unam.mx/new_web/02/index.html | language = es }} [http://www.olafinanciera.unam.mx/new_web/02/pdfs/Giron-resen%7Ea-OlaFin-2.pdf Pdf.]
+
+==External links==
+{{Wikiquote}}
+* [http://econ.bus.utk.edu/department/emeritus/davidson.asp Paul Davidson's homepage at the Univ. of Tennessee]
+* [https://www.youtube.com/watch?v=HEPuqAM7Ha4 SmartTalk interview on YouTube] 
+* [http://chicagotonight.wttw.com/2011/08/09/latest-markets-economy VIdeo interview on WTTW Aug 9, 2011 on the S&P downgrade]
+
+{{Keynesians}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Davidson, Paul}}
+[[Category:1930 births]]
+[[Category:Living people]]
+[[Category:People from Brooklyn]]
+[[Category:Post-Keynesian economists]]
+[[Category:Economic historians]]
+[[Category:Institute for New Economic Thinking]]
+[[Category:Brooklyn College alumni]]

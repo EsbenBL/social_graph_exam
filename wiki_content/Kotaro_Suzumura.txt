@@ -1,0 +1,86 @@
+{{short description|Japanese economist}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox economist
+| name        = Kotaro Suzumura
+| native_name = 
+| native_name_lang = 
+| school_tradition = 
+| image       = Kotaro Suzumura cropped 2 Kotaro Suzumura 201711.jpg
+| image_size  = 250px
+| caption     = Kotaro Suzumura
+| birth_date  = {{Birth date|df=yes|1944|01|07}}
+| birth_place = [[Tokoname, Aichi]], [[Japan]]
+| death_date  ={{Death date and age|df=yes|2020|01|15|1944|01|07}} 
+| death_place = 
+| resting_place = 
+| resting_place_coordinates = 
+| nationality = [[Japan]]ese
+| institution = [[Hitotsubashi University]]
+| field       = 
+| alma_mater  = [[Hitotsubashi University]]
+| influences  = 
+| influenced  = 
+| contributions = 
+| awards      =
+| memorials   = 
+| spouse      =
+| signature   = <!--(filename only)-->
+| module      = 
+| repec_prefix = 
+| repec_id = 
+}}
+{{nihongo|'''Kotaro Suzumura'''|鈴村 興太郎|Suzumura Kōtarō|7 January 1944<ref name=Congress>{{cite web |title= Suzumura, Kōtarō, 1944- |url= http://id.loc.gov/authorities/names/n82153204.html |publisher= Library of Congress |access-date= 17 July 2014 |quote= CIP t.p. (Kotaro Suzumura) data sheet (b. 1/7/44) }}</ref> – 15 January 2020}} was a [[Japanese people|Japanese]] [[economist]] and [[professor emeritus]] of [[Hitotsubashi University]] and [[Waseda University]].<ref>[https://scholar.google.com.au/citations?user=gJmqgEUAAAAJ&hl=en Kotaro Suzumura-Google Scholar]</ref> He graduated from [[Hitotsubashi University]] in 1966.<ref>{{Cite web |url=http://www.ier.hit-u.ac.jp/library/Japanese/SUZUMURA_Kotaro/Suzumura02.pdf |title=Curriculum Vitae of Kotaro Suzumura. |access-date=2009-03-22 |archive-url=https://web.archive.org/web/20070121015441/http://www.ier.hit-u.ac.jp/library/Japanese/SUZUMURA_Kotaro/Suzumura02.pdf |archive-date=2007-01-21 |url-status=dead }}</ref>  His research interests were in [[social choice theory]] and [[welfare economics]].<ref>{{Cite web |url=http://www.ier.hit-u.ac.jp/English/faculty/suzumura.html |title=Institute of Economic Research, Members: Kotaro Suzumura |access-date=2009-03-22 |archive-url=https://web.archive.org/web/20070909094004/http://www.ier.hit-u.ac.jp/English/faculty/suzumura.html |archive-date=2007-09-09 |url-status=dead }}</ref> He was also a Fellow of the [[Econometric Society]].<ref>[https://www.econometricsociety.org/society/organization-and-governance/fellows Fellows of the Econometric Society]</ref>　He was named a [[Person of Cultural Merit]] in 2017.<ref>[https://www.waseda.jp/fpse/pse/news/2017/10/30/8099/ News October 30, 2017｜School of Political Science and Economics Waseda University]</ref>
+
+== Selected publications ==
+=== Books ===
+* {{cite book | last = Suzumura | first = Kōtarō | title = Rational choice, collective decisions, and social welfare | publisher = Cambridge University Press | location = Cambridge Cambridgeshire New York | year = 1983 | isbn = 9780521122559 }}
+* {{cite book | last = Suzumura | first = Kōtarō | title = Competition, commitment, and welfare | publisher = Clarendon Press | location = Oxford New York | year = 1995 | isbn = 9780198289142 }}
+* {{cite book | last1 = Suzumura | first1 = Kōtarō | last2 = Basu | first2 = Kaushik | last3 = Pattanaik  | first3 = Prasanta | author-link2= Kaushik Basu | author-link3= Prasanta Pattanaik | title = Choice, welfare, and development: a festschrift in honour of Amartya K. Sen | publisher = Clarendon Press Oxford University Press | location = Oxford New York | year = 1995 | isbn = 9780198287896 }}
+* {{cite book | last1 = Suzumura | first1 = Kōtarō | last2 = Sen | first2 = Amartya | last3 = Arrow | first3 = Kenneth J. | author-link2 = Amartya Sen | author-link3 = Kenneth Arrow | title = Social choice re-examined: proceedings of the IEA conference held at Schloss Hernstein, Berndorf, near Vienna, Austria | volume = 2 | edition = 1st | publisher = St. Martin's Press | location = New York, N.Y | year = 1996 | isbn = 9780312127398 }}
+* {{cite book | last1 = Suzumura | first1 = Kōtarō | last2 = Sen | first2 = Amartya | last3 = Arrow | first3 = Kenneth J. | author-link2 = Amartya Sen | author-link3 = Kenneth Arrow | title = Handbook of social choice and welfare | publisher = Elsevier | location = Amsterdam Boston | year = 2002 | isbn = 9780444829146 }}
+
+=== Chapters in books ===
+* {{Citation | last1 = Suzumura | first1 = Kōtarō | last2 = Bossert | first2 = Walter | contribution = Rational choice on general domains | editor-last1 = Kanbur | editor-first1 = Ravi | editor-last2 = Basu | editor-first2 = Kaushik | editor-link1= Ravi Kanbur | editor-link2 = Kaushik Basu | title = Arguments for a better world: essays in honor of Amartya Sen &#124; Volume I: Ethics, welfare, and measurement | pages = 103–135 | publisher = Oxford University Press | location = Oxford New York | year = 2009 | isbn = 9780199239115 | postscript = .}}
+
+=== Journal articles ===
+* {{Cite journal | last1 = Suzumura | first1 = Kōtarō | last2 = Pattanaik | first2 = Prasanta K. | author-link2= Prasanta Pattanaik | title = Individual rights and social evaluation: a conceptual framework | journal = Oxford Economic Papers | volume = 48 | issue = 2 | pages = 194–212 | publisher = Oxford University Press | date = April 1996 | doi = 10.1093/oxfordjournals.oep.a028565 }}
+
+== See also ==
+* [[Extended sympathy]]
+* [[Social welfare function]]
+
+== Notes ==
+<!-- See the user page User:Dmoss/Wikicite for an excellent citation tool! -->
+{{Reflist}}
+
+== References ==
+* [[Mark Blaug]] and  Howard R. Vane, 2003.  ''Who's Who in Economics', pp.&nbsp;813-[https://books.google.com/books?id=29U9GeQQnSUC&pg=PA814 814].
+
+== External links ==
+* [https://web.archive.org/web/20070909094004/http://www.ier.hit-u.ac.jp/English/faculty/suzumura.html   Institute of Economic Research,  Members: Kotaro Suzumura] Picture,  brief listing of education and positions, and a personal statement of previous research interests and current research projects.
+* [http://ideas.repec.org/e/psu126.html Kotaro Suzumura at IDEAS] Personal details, affiliation, and works (working papers, articles, edited volumes, and citations).
+* [https://web.archive.org/web/20070121015441/http://www.ier.hit-u.ac.jp/library/Japanese/SUZUMURA_Kotaro/Suzumura02.pdf Curriculum Vitae] 9 pp., April, 2006.
+
+{{Presidents of the Japanese Economic Association}}
+{{Authority control}}
+
+{{DEFAULTSORT:Suzumura, Kotaro}}
+[[Category:1944 births]]
+[[Category:2020 deaths]]
+[[Category:People from Tokoname]]
+[[Category:Japanese economists]]
+[[Category:21st-century economists]]
+[[Category:20th-century economists]]
+[[Category:Hitotsubashi University alumni]]
+[[Category:Hitotsubashi University faculty]]
+[[Category:Waseda University faculty]]
+[[Category:People from Aichi Prefecture]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Presidents of the Japanese Economic Association]]
+[[Category:Members of the Japan Academy]]
+[[Category:Persons of Cultural Merit]]
+[[Category:Recipients of the Medal with Purple Ribbon]]
+[[Category:Recipients of the Order of the Sacred Treasure]]
+
+
+{{Japan-economist-stub}}

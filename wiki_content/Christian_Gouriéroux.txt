@@ -1,0 +1,72 @@
+{{Multiple issues|
+{{Notability|1=Academics|date=May 2021}}
+{{Primary sources|date=May 2021}}
+}}
+{{Infobox scientist
+| name        = Christian Gouriéroux
+| image       =         <!--(filename only, i.e. without "File:" prefix)-->
+| image_size  = 
+| alt         = 
+| caption     = 
+| birth_date  = {{birth year and age|1949}} <!--{{birth date |YYYY|MM|DD}}-->
+| birth_place = 
+| death_date  =         <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| nationality = [[France|French]]
+| fields      = [[Statistics]]<br>[[Econometrics]]
+| workplaces  = [[University of Toronto]]<br>[[Center for Research in Economics and Statistics]]
+| alma_mater  = [[University of Rouen]]
+| doctoral_advisor = [[Jean-Pierre Raoult]] <!--(or  | doctoral_advisors = )-->
+| doctoral_students = 
+| known_for   = 
+| influences  = 
+| influenced  = 
+| awards      = 
+}}
+
+'''Christian Gouriéroux''' (born 1949) is an [[econometrics|econometrician]] who holds a [[Doctor of Philosophy]] in mathematics from the [[University of Rouen]]. He has the Professor exceptional level title from France.  Gouriéroux spends six months from every year teaching at the [[University of Toronto]], and the other half of his year teaching at the [[Center for Research in Economics and Statistics]] (CREST) in [[France]], at the [[University of Paris]] and the "Paris Graduate School of Economics, Statistics and Finance" ([[École Nationale de la Statistique et de l'Administration Économique|ENSAE]] Paris Tech).
+
+Gouriéroux has published in journals worldwide, and was a recipient of the [[Koopmans Prize]] (with two fellow partners) for their project, "General Approach to Serial Correlation" in 1985–1987.  He was also awarded the Silver Medal of the [[Conseil National de Recherche Scientifique]] by the French Ministry of Research. He is a fellow of the Econometric Society.
+
+==Biography==
+Gouriéroux completed his undergraduate studies in economics and statistics at ENSAE.<ref name="et_interview_cambridge_u_press">{{Cite journal|url=https://www.cambridge.org/core/journals/econometric-theory/article/et-interview-christian-gourieroux-and-alain-monfort/6F1D0F28C2B3D0710E9F0678EC66CCC7|title=The ET interview: Christian Gouriéroux and Alain Monfort|year=2012|doi=10.1017/S0266466611000818|last1=Ghysels|first1=Eric|last2=Renault|first2=Eric|journal=Econometric Theory|volume=28|issue=4|pages=889–914|s2cid=120107194}}</ref> He has received Doctorat honoris causa from Université de Mons-Hainaut, Université de Neuchâtel, as well as HEC Montréal.
+
+==Works==
+Gouriéroux has written 17 books and over 160 articles, including 12 Econometrica. He his known for his work on the [[Quasi-maximum likelihood estimate]]<ref>{{Cite journal|title=Pseudo Maximum Likelihood Methods: Theory|jstor = 1913471|last1 = Gourieroux|first1 = C.|last2 = Monfort|first2 = A.|last3 = Trognon|first3 = A.|journal = Econometrica|year = 1984|volume = 52|issue = 3|pages = 681–700|doi = 10.2307/1913471|url = http://www.cepremap.fr/depot/couv_orange/co8129.pdf}}</ref>  and [[Indirect inference]]<ref>{{Cite journal|title=Indirect inference|year=1993|doi=10.1002/jae.3950080507|last1=Gourieroux|first1=C.|last2=Monfort|first2=A.|last3=Renault|first3=E.|journal=Journal of Applied Econometrics|volume=8|pages=S85–S118}}</ref> 
+;Books
+*{{cite book |title=Financial Econometrics: Problems, Models, and Methods }}
+*{{cite book |title=Simulation-Based Econometric Methods |series=Oup/Core Lecture Series }}
+*{{cite book |title=Statistics and Econometric Models |series=Themes in Modern Econometrics }}
+*{{cite book |title=Time Series and Dynamic Models |series=Themes in Modern Econometrics }}
+*{{cite book |title=Statistique de l'assurance |series=Collection "Economie et statistiques avancées" }}
+*{{cite book |title=ARCH Models and Financial Applications |series=Springer Series in Statistics }}
+
+;Articles/Essays/Papers
+*{{cite journal |title=Nonlinear Autocorrelograms: An Application to Inter-Trade Durations |journal=Journal of Time Series Analysis |volume=23 |issue=2 |pages=127–154 |year=2002 |doi=10.1111/1467-9892.00259 |last1=Gourieroux |first1=Christian |last2=Jasiak |first2=Joann |citeseerx=10.1.1.27.7647 |s2cid=5882434 }}
+*{{cite journal |title=Infrequent Extreme Risks |journal=The Geneva Papers on Risk and Insurance Theory |volume=29 |issue=1 |pages=5–22 |year=2004 |doi=10.1023/B:GEPA.0000032563.83435.50 |last1=Gourieroux |first1=C. |last2=Monfort |first2=A. |s2cid=55416745 }}
+*{{cite journal |title=Kernel-based nonlinear canonical analysis and time reversibility |journal=Journal of Econometrics |volume=119 |issue=2 |pages=323–353 |year=2004 |doi=10.1016/S0304-4076(03)00199-4 |last1=Darolles |first1=Serge |last2=Florens |first2=Jean-Pierre |last3=Gouriéroux |first3=Christian |url=https://basepub.dauphine.fr//bitstream/123456789/9144/1/kernel_estimation.pdf }}
+*{{cite journal |title=Heterogeneous INAR(1) model with application to car insurance |journal=Insurance: Mathematics and Economics |volume=34 |issue=2 |pages=177–192 |year=2004 |doi=10.1016/j.insmatheco.2003.11.005 |last1=Gourieroux |first1=C. |last2=Jasiak |first2=J. }}
+*{{cite journal |title=Stochastic volatility duration models |journal=Journal of Econometrics |volume=119 |issue=2 |pages=413–433 |year=2004 |doi=10.1016/S0304-4076(03)00202-1 |last1=Ghysels |first1=Eric |last2=Gouriéroux |first2=Christian |last3=Jasiak |first3=Joann |citeseerx=10.1.1.27.636 }}
+*{{cite journal |title=Memory and infrequent breaks |journal=Economics Letters |volume=70 |issue=1 |pages=29–41 |year=2001 |doi=10.1016/S0165-1765(00)00346-3 |last1=Gourieroux |first1=Christian |last2=Jasiak |first2=Joann |citeseerx=10.1.1.26.7340 }}
+*{{cite journal |title=Testing for Evidence of Adverse Selection in the Automobile Insurance Market: A Comment |journal=Journal of Political Economy |volume=109 |issue=2 |pages=444–453 |year= 2001|doi=10.1086/319557 |last1=Dionne |first1=Georges |last2=Gouriéroux |first2=Christian |last3=Vanasse |first3=Charles |s2cid=154681165 }}
+*{{cite journal |title=Instrumental Models and Indirect Encompassing |journal=Econometrica |volume=66 |issue=3 |pages=673–688 |year=1998 |doi=10.2307/2998579 |url=https://archive-ouverte.unige.ch/unige:41801/ATTACHMENT01 |jstor=2998579 |last1=Dhaene |first1=Geert |last2=Gourieroux |first2=Christian |last3=Scaillet |first3=Oliver }}
+*{{cite journal |title=Pseudo Maximum Likelihood Methods: Theory |journal=Econometrica |volume=52|issue=3 |pages=681–700 |year=1984 |doi=10.2307/1913471 |jstor=1913471 |last1=Gourieroux |first1=C. |last2=Monfort |first2=A. |last3=Trognon |first3=A. |url=http://www.cepremap.fr/depot/couv_orange/co8129.pdf }}
+*{{cite journal |title=Pseudo Maximum Likelihood Methods: Applications to Poisson Models |journal=Econometrica |volume=52|issue=3 |pages=701–720 |year=1984 |doi=10.2307/1913472 |jstor=1913472 |last1=Gourieroux |first1=C. |last2=Monfort |first2=A. |last3=Trognon |first3=A. }}
+
+==References==
+{{Reflist}}
+*[https://ideas.repec.org/e/pgo144.html Christian S. Gouriéroux: IDEAS File]
+*[https://web.archive.org/web/20070312045041/http://books.global-investor.com/pages/gurus.htm?PerIndex=4382&ginPtrCode=00000&identifier= Global Investor Profile]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gourieroux, Christian}}
+[[Category:French economists]]
+[[Category:Living people]]
+[[Category:Econometricians]]
+[[Category:1949 births]]
+[[Category:University of Rouen alumni]]
+[[Category:Fellows of the Econometric Society]]
+
+
+{{France-economist-stub}}

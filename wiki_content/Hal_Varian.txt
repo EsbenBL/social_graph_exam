@@ -1,0 +1,81 @@
+{{Infobox economist
+ <!-- Scroll down to edit this page -->
+ <!-- Economist Category -->
+ | school_tradition = [[Neoclassical economics]]
+
+ <!-- Image -->
+ | image       = Hal Varian.jpg
+ | caption    =
+ <!-- Information -->
+ | name             = Hal Varian
+ | birth_date       = {{Birth date and age|1947|3|18}}
+ | birth_place      = [[Wooster, Ohio]]
+ | death_date       =
+ | death_place      =
+ | nationality      = [[United States]]
+ | institution      = [[University of California, Berkeley]]<br>[[MIT]]
+ | field            = [[Microeconomics]], [[information technology]]
+ | alma_mater       = [[University of California, Berkeley]]<br>[[MIT]]
+ |doctoral_advisor  = [[Daniel McFadden]]<br>[[David Gale]]
+ |doctoral_students = [[Earl Grinols]]<br>[[James Andreoni]] <br> ASG LORD.
+ | influences       =
+ | influenced       = [[Carl Shapiro]]
+ | contributions    =
+| repec_prefix = e | repec_id = pva5
+}}
+'''Hal Ronald Varian''' (born March 18, 1947 in [[Wooster, Ohio]]) is Chief Economist at [[Google]] and holds the title of emeritus professor at the [[University of California, Berkeley]] where he was founding dean of the [[UC Berkeley School of Information|School of Information]]. Varian is an economist specializing in [[microeconomics]] and [[information economics]]. 
+
+==Early life==
+Hal Varian was born on March 18, 1947 in [[Wooster, Ohio]]. He received his [[B.S.]] from [[MIT]] in economics in 1969 and both his [[Master of Arts|M.A.]] in mathematics and [[Ph.D.]] in economics from the University of California, Berkeley in 1973.
+
+==Career==
+Varian taught at [[MIT]], [[Stanford University]], the [[University of Oxford]], the [[University of Michigan]], the [[University of Siena]] and other universities around the world. He has two honorary doctorates, from the University of Oulu, [[Finland]] in 2002, and a Dr. h. c. from the [[Karlsruhe Institute of Technology]] (KIT), Germany, awarded in 2006. He is emeritus professor at the [[University of California, Berkeley]], where he was founding dean of the [[UC Berkeley School of Information|School of Information]].<ref>{{cite web|url=http://people.ischool.berkeley.edu/~hal/|title=Hal R. Varian|publisher=U.C. Berkeley|access-date=2010-10-22}}</ref>
+
+Varian joined Google in 2002 as chief economist, and has worked on the design of advertising auctions, econometrics, finance, corporate strategy, and public policy.
+
+Varian is the author of two bestselling textbooks: ''Intermediate Microeconomics'',<ref>{{cite book|author=Varian, Hal R|title=Intermediate Microeconomics: A Modern Approach: Ninth International Student Edition|url=https://books.google.com/books?id=A0feCgAAQBAJ|year=2014|publisher=W. W. Norton & Company|isbn=978-0-393-92077-2}}</ref> an undergraduate microeconomics text, and  ''Microeconomic Analysis'', an advanced text aimed primarily at first-year graduate students in economics. Together with [[Carl Shapiro]], he co-authored [[Information Rules|''Information Rules: A Strategic Guide to the Network Economy'']] and ''The Economics of Information Technology: An Introduction''.<ref>{{cite book|author1=Hal R. Varian|author2=Joseph Farrell|author3=Carl Shapiro|title=The Economics of Information Technology: An Introduction|url=https://books.google.com/books?id=LpgoKtzhzVEC|date=23 December 2004|publisher=Cambridge University Press|isbn=978-0-521-60521-2}}</ref> According to the Open Syllabus Project, Varian is the fourth most frequently cited author on college syllabi for economics courses.<ref>{{Cite web | url=https://opensyllabus.org/results-list/authors?size=50&fields=Economics |title = Open Syllabus Project}}</ref>
+
+==Personal life==
+Varian is married and has one child, Christopher Max Varian.<ref name="CV">[http://people.ischool.berkeley.edu/~hal/people/hal/vitae.pdf Curriculum vitae] (PDF; 122&nbsp;kB), on [http://www.berkeley.edu berkeley.edu].</ref>
+
+==See also==
+* [[Varian Rule]]
+* [[Varian's theorems]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://sims.berkeley.edu/~hal/ Hal Varian's Website]
+* [http://people.ischool.berkeley.edu/~hal/Papers/2006/position.pdf Position Auctions]
+* {{cite web |last=Roberts |first=Russ |title=Varian on Technology |url=http://www.econtalk.org/archives/_featuring/hal_varian/ |work=[[EconTalk]] |publisher=[[Library of Economics and Liberty]] |author-link=Russ Roberts |date=July 28, 2008}}
+*{{Google Scholar id|WbYQGjcAAAAJ}}
+*{{cite web|title=Hal Varian|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Hal+Varian%22|publisher=[[JSTOR]]}}
+*{{C-SPAN|Hal Varian}}
+
+{{Google Inc.}}
+{{Neoclassical economists}}
+{{John von Neumann Award recipients}}
+{{Authority control}}
+
+{{DEFAULTSORT:Varian, Hal}}
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:People from Wooster, Ohio]]
+[[Category:Haas School of Business faculty]]
+[[Category:Google employees]]
+[[Category:Microeconomists]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Massachusetts Institute of Technology faculty]]
+[[Category:University of Michigan faculty]]
+[[Category:Stanford University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:UC Berkeley College of Letters and Science alumni]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Economists from Ohio]]
+[[Category:University of California, Berkeley School of Information faculty]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]
+[[Category:Fair division researchers]]

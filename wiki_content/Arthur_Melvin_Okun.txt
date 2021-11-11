@@ -1,0 +1,69 @@
+{{Infobox officeholder
+|name             = Art Okun
+|image            = Arthur Melvin Okun.jpg
+|office           = 7th Chair of the [[Council of Economic Advisers]]
+|president        = [[Lyndon B. Johnson|Lyndon Johnson]]
+|term_start       = February 15, 1968
+|term_end         = January 20, 1969
+|predecessor      = [[Gardner Ackley]]
+|successor        = [[Paul McCracken (economist)|Paul McCracken]]
+|birth_date       = {{birth date|1928|11|28}}
+|birth_place      = {{nowrap|[[Jersey City, New Jersey|Jersey City]], [[New Jersey]], [[United States|U.S.]]}}
+|death_date       = {{death date and age|1980|3|23|1928|11|28}}
+|death_place      = [[Washington, D.C.]], [[United States|U.S.]]
+|party            = [[Democratic Party (United States)|Democratic]]
+|education        = [[Columbia University]] {{small|([[Bachelor of Arts|BA]], [[Master of Arts|MA]], [[Doctor of Philosophy|PhD]])}}
+|module           = {{Infobox Economist
+|child            = yes
+|institution      = [[Yale University]]
+|field            = [[Macroeconomics]]
+|school_tradition = [[Neo-Keynesian economics]]
+|doctoral_advisor = [[Arthur F. Burns]]
+|influences       = [[John Maynard Keynes]]
+|influenced       = [[Bill Mitchell (economist)|Bill Mitchell]]
+|contributions    = [[Okun's law]]<br>[[Misery index (economics)|Misery index]]}}
+}}
+'''Arthur Melvin''' "'''Art'''" '''Okun''' (November 28, 1928 – March 23, 1980) was an American economist. He served as the chairman of the [[Council of Economic Advisers]] between 1968 and 1969.  Before serving on the C.E.A., he was a professor at [[Yale University]] and, afterwards, was a fellow at the [[Brookings Institution]] in Washington, D.C.
+In 1968 he was elected as a [[Fellow of the American Statistical Association]].<ref>[http://www.amstat.org/awards/fellowslist.cfm View/Search Fellows of the ASA], accessed 2016-08-20.</ref>
+
+Okun is known in particular for promulgating [[Okun's law]], an observed relationship that states that for every 1% increase in the [[unemployment rate]], a country's [[Gross Domestic Product|GDP]] will be roughly an additional 2% lower than its [[potential GDP]]. He is also known as the creator of the [[misery index (economics)|misery index]] and the analogy of the [[deadweight loss]] of taxation with a leaky bucket.<ref>Okun, Arthur M. (1975), ''Equality and Efficiency: The Big Tradeoff''. Washington, D.C.: Brookings Institution, 1975, pp. 91–92.</ref> He died on March 23, 1980 of a heart attack. <ref> [https://www.washingtonpost.com/archive/local/1980/03/24/arthur-okun-dies-economic-adviser-to-johnson/9157cfb8-6eac-46ac-a8ea-50cc54176aa9 Arthur Okun Dies, Economic Adviser to Johnson], accessed 2020-08-14.</ref>
+
+==Works==
+* ''Equality and Efficiency: The Big Tradeoff'' (Washington, D.C.: Brookings Institution, 1975)
+* ''Prices and Quantities: A Macroeconomic Analysis'', [https://books.google.com/books?id=5wDclSFDjQ8C&printsec=frontcover&dq=Prices+and+Quantities:+A+MacRoeconomic+Analysis&source=bl&ots=hRzG-km49q&sig=RY7DwCMfHZB49D79L3ZH1Smv5xU&hl=nl&ei=UuHwTLvAN8mdOtbJ9YsK&sa=X&oi=book_result&ct=result&resnum=2&ved=0CCYQ6AEwAQ#v=onepage&q&f=false see here] (1981) {{ISBN|0-8157-6480-4}}
+
+==See also==
+* [[Okun's law]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.brookings.edu/wp-content/uploads/1980/01/1980a_bpea_gordon_hall.pdf Brookings Inst Bio and Obit]
+* {{Cite book |title=Arthur M. Okun (1928–1980) |url=http://www.econlib.org/library/Enc/bios/Okun.html |work=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008}}
+* {{cite web|url=http://economics.yale.edu/sites/default/files/files/Okun-Lectures/Okun-Publications.pdf|title= Arthur Okun Publication List|access-date=2015-09-18}}
+
+{{s-start}}
+{{s-off}}
+{{s-bef|before=[[Gardner Ackley]]}}
+{{s-ttl|title=Chair of the [[Council of Economic Advisers]]|years=1968–1969}}
+{{s-aft|after=[[Paul McCracken (economist)|Paul McCracken]]}}
+{{s-end}}
+
+{{CEA Chairs}}
+{{Keynesians}}
+{{Authority control}}
+
+{{DEFAULTSORT:Okun, Arthur Melvin}}
+[[Category:1928 births]]
+[[Category:1980 deaths]]
+[[Category:20th-century American economists]]
+[[Category:Columbia College (New York) alumni]]
+[[Category:Columbia University alumni]]
+[[Category:Economists from New Jersey]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:People from Jersey City, New Jersey]]
+[[Category:Neo-Keynesian economists]]
+[[Category:Yale University faculty]]
+[[Category:Chairs of the United States Council of Economic Advisers]]

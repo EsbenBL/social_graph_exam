@@ -1,0 +1,82 @@
+{{short description|American economist and is the Myron S (born c. 1959)}}
+{{Infobox economist
+| name              = Robert W. Vishny
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| native_name       = 
+| native_name_lang  = 
+| birth_date        = <!-- {{birth date and age|YYYY|MM|DD}} -->
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- (use {{coord …}}) -->
+| nationality       = [[United States|American]]
+| citizenship       = 
+| spouse            = <!-- or: spouses -->
+| website           = <!-- {{URL|example.com}} -->
+| institution       = [[University of Chicago]]
+| field             = [[Behavioral finance]]
+| school_tradition  = 
+| alma_mater        = [[University of Michigan]] (BA) <br/> [[Massachusetts Institute of Technology]] (Ph.D.)
+| doctoral_advisor  = [[Franklin M. Fisher]]<ref name="Thesis Supervisor">{{cite thesis |last= Vishny |first= Robert W. |date= 1985 |title= Informational aspects of securities markets |type= Ph.D. |publisher= [[MIT]] |url= http://library.mit.edu/item/000242323 |access-date= April 5, 2018 }}</ref><br>[[Eric Maskin]]<ref name="Thesis Supervisor" />
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| influences        = 
+| contributions     = 
+| awards            = 
+| memorials         = 
+| repec_prefix      = 
+| repec_id          = 
+| module            = 
+| signature         = <!-- filename only -->
+| notes             = <!-- or: footnotes -->
+}}
+'''Robert Ward Vishny''' (born c. 1959) is an American economist and is the Myron S. Scholes Distinguished Service Professor of Finance at the [[University of Chicago Booth School of Business]]. He was the [[Eric J. Gleacher]] Distinguished Service Professor of Finance at the [[University of Chicago Booth School of Business]].
+
+==Education==
+He received his [[Bachelor of Arts|A.B.]] with highest distinction (economics, mathematics, and philosophy) from the [[University of Michigan]] in 1981 and [[Ph.D.]] ([[Economics]]) from [[Massachusetts Institute of Technology]] in 1985.
+
+==Academic career==
+He is one of the prominent representatives of the school of [[behavioral finance]]. His research activities include: [[market for corporate control]]; [[corporate governance]] around the world; privatization and the role of government in the economy; behavior of institutional investors; behavior of stock prices; the economics of corruption and [[rent-seeking]] behavior. His research papers (many of them written jointly with [[Andrei Shleifer]], [[Rafael La Porta]] and [[Josef Lakonishok]]) are among the most often cited research works in the field of economic sciences in recent years.
+
+He heads the [[National Bureau of Economic Research|NBER]] Program in Corporate Finance. In 1994, he founded (along with Josef Lakonishok and [[Andrei Shleifer]]) LSV Asset Management (LSV), a quantitative value equity manager providing active management for institutional investors through the application of proprietary investment models based on the principles of behavioural finance.
+
+==Selected publications==
+===Journal articles===
+Vishny has authored and co-authored dozens of peer-reviewed articles including:
+
+*Vishny, Robert W, & LaPorta, R. & Lopez-de-Silanes, F. & Shleifer, A. ''Law and Finance'', Journal of Political Economy, 1998, 106(6), pp.&nbsp;1113.
+*Vishny, Robert W. & Shleifer, A. ''A Survey of Corporate Governance'', Journal of Finance, 1997, 52(2), pp.&nbsp;737–83.
+*Vishny, Robert W. & Shleifer, A. ''The Limits of Arbitrage'', Journal of Finance, 1997, 52(1), pp.&nbsp;35–55.
+*Vishny, Robert W. & Lakonishok, J. & Shleifer, A. ''Contrarian Investment, Extrapolation and Risk'', Journal of Finance 1994, 49(5), pp.&nbsp;1541–78.
+*Vishny, Robert W. & Shleifer, A. ''Large Shareholders and Corporate Control'', Journal of Political Economy, 1986, 94(3, Part 1), pp.&nbsp;461–88.
+
+==References==
+<references />
+
+== External links ==
+*[https://web.archive.org/web/20070921132845/http://www.nber.org/robert_vishny/ Robert W. Vishny] - Robert W. Vishny's Site at NBER with a collection of his papers
+*[http://archive.today/T4Sxk BusinessWeek] - A Businessweek article profiling Robert W. Vishny
+*[http://www.lsvasset.com LSV Asset Management Website]
+*[http://boothportal.chicagobooth.edu/portal/server.pt/gateway/PTARGS_0_0_314_215_0_43/Facultycourse08/FacultyDetail2.aspx?pci_id=12825899008 University of Chicago Booth School of Business Faculty webpage]
+*{{cite web|title=Robert W. Vishny|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Robert+W.+Vishny%22|publisher=[[JSTOR]]}}
+*{{cite web|title=Robert W. Vishny|url=https://econpapers.repec.org/RAS/pvi218.htm|publisher=[[EconPapers]]}}
+
+{{Instecon}}
+{{Financial economics awards}}
+
+{{Authority control}}
+{{DEFAULTSORT:Vishny, Robert W.}}
+[[Category:1950s births]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:American economists]]
+[[Category:Behavioral economists]]
+[[Category:University of Michigan College of Literature, Science, and the Arts alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:University of Chicago faculty]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]

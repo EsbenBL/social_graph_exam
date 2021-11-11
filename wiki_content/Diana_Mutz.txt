@@ -1,0 +1,83 @@
+{{Short description|American political scientist}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Diana Mutz
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth year and age|1962}}
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| pronounce         =
+| residence         = 
+| citizenship       = American
+| nationality       = 
+| fields            = [[Political science]]
+| workplaces        = [[University of Pennsylvania]]
+| patrons           = 
+| education         = [[Northwestern University]] (B.S., 1984)<br>[[Stanford University]] (A.M., 1985; Ph.D., 1988)
+| alma_mater        = 
+| thesis_title      = Yours, mine and ours: Information sources, perceptions of unemployment and their political consequences
+| thesis_url        = http://www.worldcat.org/title/yours-mine-and-ours-information-sources-perceptions-of-unemployment-and-their-political-consequences/oclc/24305181
+| thesis_year       = 1988
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Political communication]]
+| influences        = 
+| influenced        = 
+| awards            = Lifetime Career Achievement Award in Political Communication from the [[American Political Science Association]] (2011)
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+'''Diana Carole Mutz''' (born 1962)<ref name=ca>{{Cite web |url=https://www.encyclopedia.com/arts/educational-magazines/mutz-diana-c-1962 |title=Mutz, Diana C. 1962-  |date=2009 |website=Contemporary Authors |language=en |access-date=2018-08-20}}</ref> is the [[Samuel A. Stouffer]] Professor of Political Science and Communication at the [[University of Pennsylvania]], where she is also the director of the Institute for the Study of Citizens and Politics. She is known for her research in the field of [[political communication]].<ref>{{Cite web |url=https://www.sas.upenn.edu/polisci/people/standing-faculty/diana-mutz |title=Diana Mutz  |website=University of Pennsylvania |language=en |access-date=2018-08-20}}</ref> She formerly served as [[editor-in-chief]] of the [[peer-review]]ed journal ''[[Political Behavior]]''.<ref name=ca/>
+
+In 2007, Mutz received the [[Goldsmith Book Prize]] from [[Harvard University]] for her 2006 book ''Hearing the Other Side: Deliberative Versus Participatory Democracy''. She was named a fellow of the [[American Academy of Arts and Sciences]] in 2008, and was awarded a [[Guggenheim Fellowship]] in 2016.<ref>{{Cite web |url=https://www.gf.org/fellows/all-fellows/diana-c-mutz/ |title=Diana C. Mutz |website=Guggenheim Foundation |access-date=2018-08-20}}</ref>
+
+In 2021, she was elected member of the U. S. [[National Academy of Sciences]].<ref>{{Cite web|url=http://www.nasonline.org/news-and-multimedia/news/2021-nas-election.html|title=News from the National Academy of Sciences|date=April 26, 2021|access-date=July 5, 2021|quote=Newly elected members and their affiliations at the time of election are: … Mutz, Diana C.; director, Institute for the Study of Citizens and Politics, and Samuel A. Stouffer Professor of Political Science and Communication, University of Pennsylvania, Philadelphia}}, entry in member directory:{{Cite web|url=http://www.nasonline.org/member-directory/members/20047228.html|title=Member Directory|access-date=July 5, 2021|publisher=National Academy of Sciences}}</ref>
+
+== Research ==
+According to a study published in the Proceedings of the National Academy of Sciences (PNAS), Mutz explained that "evidence of voters politicizing personal economic hardship has been exceedingly rare," over many decades of studying the issue. She argued that contrary to the commonly held belief that economic hardship drive many people to vote for Donald Trump in 2016, Trump won the election because of the fear that "traditionally high-status Americans" such as whites, Christians and men, feel threatened that they will lose their privileged status to minorities if they are given a chance to succeed in American society.<ref>{{Cite web|last=Waldow|first=Julia|date=2018-04-27|title=What journalists got wrong about voters in the 2016 election|url=https://money.cnn.com/2018/04/27/media/status-threat-diana-mutz-reliable-sources/index.html|access-date=2021-07-06|website=CNNMoney}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.sas.upenn.edu/polisci/people/standing-faculty/diana-mutz Faculty page]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mutz, Diana Carole}}
+[[Category:Living people]]
+[[Category:1962 births]]
+[[Category:American women political scientists]]
+[[Category:American political scientists]]
+[[Category:Northwestern University alumni]]
+[[Category:Stanford University alumni]]
+[[Category:University of Pennsylvania faculty]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Political science journal editors]]
+[[Category:American women academics]]
+[[Category:Political psychologists]]
+
+{{US-polisci-bio-stub}}

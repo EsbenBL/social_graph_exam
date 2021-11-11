@@ -1,0 +1,76 @@
+{{short description|French economist}}
+{{Infobox economist
+| name             = Emmanuel Farhi
+| image            =
+| birth_date       = {{Birth date|df=yes|1978|9|8}}
+| birth_place      = [[Paris]], [[France]]
+| nationality      = French
+| institution      = [[Harvard University]] (2006–2020)<br />[[Toulouse School of Economics]]
+| field            = [[Macroeconomics]], [[Finance]], [[Mathematical economics]]
+| alma_mater       = [[École Normale Supérieure]]<br /> [[École nationale supérieure des mines de Paris (Mines ParisTech)|Corps des Mines]]<br /> [[Massachusetts Institute of Technology]]
+| doctoral_advisor = [[Ricardo J. Caballero]]<ref name="Doctoral advisor">{{cite thesis |last= Farhi |first= Emmanuel |date= 2006 |title= Three essays in macroeconomics |type= Ph.D. |publisher= [[MIT]] |url= https://dspace.mit.edu/bitstream/handle/1721.1/37412/123029488-MIT.pdf?sequence=2 |access-date= 20 Jun 2017 }}</ref><br>[[Iván Werning]]<ref name="Doctoral advisor" />
+| academic_advisors= 
+| doctoral_students= 
+| notable_students = 
+| repec_prefix = f | repec_id = pfa207
+|death_date={{death date and age |2020|7|23 |1978|9|8 |df=yes}}}}
+
+'''Emmanuel Farhi''' (8 September 1978 – 23 July 2020) was a French [[economist]] and [[professor]] of economics at [[Harvard University]].<ref name="CV">{{Cite web|url=https://scholar.harvard.edu/farhi/biocv|title=A Brief Biography|website=scholar.harvard.edu}}</ref><ref>{{cite web |url=https://news.harvard.edu/gazette/story/2020/07/leading-harvard-economist-emmanuel-farhi-dies-at-41/ |title=Leading Harvard economist Emmanuel Farhi dies at 41|website=Harvard.edu}}</ref>
+His research focused on [[macroeconomics]], taxation and finance.<ref>{{Cite journal|last=Tirole|first=Jean|date=2021|title=Emmanuel Farhi, Economist Par Excellence|journal=Annual Review of Economics|language=en|volume=13|issue=1|pages=1–17|doi=10.1146/annurev-economics-032621-030422|issn=1941-1383|doi-access=free}}</ref> He was a member of the French Economic Analysis Council to the French Prime Minister from 2010 to 2012.<ref name="CAE">{{Cite web|url=http://www.cae-eco.fr/Anciens-membres.html|title=Anciens membres - Accueil &#124; Conseil d'Analyse Economique &#124; CAE|website=www.cae-eco.fr}}</ref>
+
+== Education ==
+The son of an economist of Egyptian Jewish descent, Farhi grew up in Paris where he attended the [[Lycée Louis-le-Grand]]. At age 16 he won the [[Concours général]] in Physics and continued on to study Mathematics in [[Classe préparatoire aux grandes écoles|preparatory class]]. Ranking 1st on the national entry exam to the elite engineering school [[École Polytechnique]] in 1997,<ref name="X">{{Cite web|url=https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000387136&dateTexte=|title=Arrêté du 25 septembre 1997 portant nomination des élèves admis en 1997 à l'Ecole polytechnique &#124; Legifrance}}</ref> he eventually chose to attend another prestigious French graduate school, [[École Normale Supérieure]].<ref>[https://news.harvard.edu/gazette/story/2020/07/leading-harvard-economist-emmanuel-farhi-dies-at-41/], ''Former adviser to French prime minister known for his brilliance and kindness.'' The Harvard Gazette.</ref> He specialized in Mathematics obtaining 2nd place on the Agrégation de Mathematiques (French degree). He was then admitted to the [[Corps des mines|Corps des Mines]] in 2001.
+
+He finished his studies at the [[Massachusetts Institute of Technology]] (MIT) and was awarded a Ph.D. in 2006.<ref name="CV" /> That same year he began working at Harvard as assistant professor in the Faculty of Arts and Sciences. He received tenure four years later when he was named a full professor.<ref>[https://news.harvard.edu/gazette/story/2020/07/leading-harvard-economist-emmanuel-farhi-dies-at-41/], ''Former adviser to French prime minister known for his brilliance and kindness.'' The Harvard Gazette.</ref>
+
+== Career ==
+Farhi started his career in the Economics department of Harvard in 2006<ref name="CV" /> and was tenured in 2010.<ref name="Tenure">{{Cite web|url=https://www.thecrimson.com/article/2010/5/12/tenure-gopinath-department-professors/|title=Economics Professor Emmanuel Farhi Awarded Tenure &#124; News &#124; The Harvard Crimson|website=www.thecrimson.com}}</ref> One of the leading economists of his generation both in the U.S. and in France, Farhi’s research focused on macroeconomics and finance, specifically on financial stability and reforming the international monetary system. A former economic adviser to French Prime Minister François Fillon, the International Monetary Fund named Farhi one of the 25 best economists under 45 in 2014. 
+
+Though highly quantitative, his work shed light on practical issues such as [[macroprudential regulation]], mitigating the impacts of economic crises or understanding the implications of fiscal policies. For example, he assessed the controversial [[Social VAT]],<ref name="TVA">{{Cite web|url=http://www.lemonde.fr/idees/article/2012/10/24/pour-une-devaluation-fiscale_1780211_3232.html|title=Pour une dévaluation fiscale}}</ref> a measure introduced by French President [[Nicolas Sarkozy]] and repealed by his successor [[Francois Hollande]] only to reemerge under a different form: the "Competitiveness Pact". Farhi’s work cast a spotlight on a range of issues, including monetary economics, public finance, international economics, global imbalances, fiscal policy, and taxation. He also focused on issues like mitigating the impacts of economic crises and macroprudential regulation, a system used to describe the laws, rules, and conditions for banks and financial organizations that are meant to protect the whole financial system from risk.<ref>[https://news.harvard.edu/gazette/story/2020/07/leading-harvard-economist-emmanuel-farhi-dies-at-41/ ''Former adviser to French prime minister known for his brilliance and kindness.'']</ref>
+
+Farhi was granted several awards for his work, including
+* 2009 [[Germán Bernácer Prize|Bernácer Prize]] for the best European economist under the age of 40<ref name="Bernacer">{{Cite web|url=http://bernacerprize.org/|archive-url=https://web.archive.org/web/20130606170341/http://www.bernacerprize.org/2009_Farhi|url-status=dead|title=Bernacerprize|archive-date=June 6, 2013|website=Bernacerprize}}</ref>
+* 2011 Malinvaud Prize<ref name="Malinvaud">{{Cite web|url=https://www.afse.fr/gene/main.php?base=500012|title=Association Française de Science Economique|website=www.afse.fr}}</ref>
+* 2013 Best Young Economist prize awarded by the [[Cercle des économistes]]<ref name="CdE award">{{Cite web|url=https://economics.harvard.edu/news/le-cercle-des-%C3%A9conomistes-france-names-professor-emmanuel-farhi-recipient-best-young|title=Le Cercle des économistes in France Names Professor Emmanuel Farhi as Recipient of 'The Best Young Economist' Award 2013|website=economics.harvard.edu}}</ref>
+* 2013 [[Banque de France]] and [[Toulouse School of Economics]] (BDF-TSE) Award in Monetary Economics and Finance<ref name="2013 BDFTSE award">{{Cite web|url=https://www.tse-fr.eu/fr|title=TSE|website=TSE}}</ref>
+
+In September 2014, the [[IMF]] published a list of the 25 “economists under 45 [who] will have the most influence in the coming decades on our understanding of the global economy”.
+Farhi was one of the 7 French economists listed for his work on "monetary economics, international economics, finance and public finance, including research on global imbalances, monetary and fiscal policy, and taxation."<ref name="IMF">{{Cite web|url=https://www.imf.org/external/pubs/ft/fandd/2014/09/25under45.htm|title=Generation Next -- Finance & Development, September 2014|website=www.imf.org}}</ref>
+
+Farhi frequently co-authored academic papers with [[Ivan Werning]],<ref name="The Economist">{{Cite web|url=https://www.economist.com/briefing/2008/12/30/international-bright-young-things|title=International bright young things|via=The Economist}}</ref> David Baqaee, [[Xavier Gabaix]] and [[Jean Tirole]] among many others.
+
+== Personal life ==
+Farhi died on July 23, 2020. He was 41.<ref>{{Cite news|date=July 30, 2020|title=Emmanuel Farhi has died at the age of 41|volume=436|page=59|work=[[The Economist]]|issue=9205|url=https://www.economist.com/finance-and-economics/2020/07/30/emmanuel-farhi-has-died-at-the-age-of-41|access-date=2020-08-01|issn=0013-0613}}</ref> He was survived by his partner Micol.<ref>https://news.harvard.edu/gazette/story/2020/07/leading-harvard-economist-emmanuel-farhi-dies-at-41/</ref><ref>https://www.tse-fr.eu/memoriam-emmanuel-farhi</ref>
+
+== Selected publications ==
+Farhi authored and published many academic articles and a book.
+* ''Reforming the International Monetary System''<ref name="Book">{{Cite web|url=https://voxeu.org/epubs/cepr-reports/reforming-international-monetary-system|title=Reforming the International Monetary System &#124; VOX, CEPR Policy Portal|website=voxeu.org}}</ref>
+* « Speculative Growth: Hints from the US Economy » (en coll.), American Economic Review, vol. 96, n° 4, September 2006.
+* « Saving and Investing for Early Retirement: A Theoretical Analysis » (en coll.), Journal of Financial Economics, vol. 83, n° 1, 2007.
+* « An Equilibrium Model of Global Imbalances and Low Interest Rates » (en coll.), American Economic Review, 2008.
+* « A Theory of Liquidity and Regulation of Financial Intermediation » (en coll.), Review of Economic Studies, 2009.
+* « Progressive Estate Taxation » (en coll.), Quarterly Journal of Economics, 2010.
+* « Nonlinear Capital Taxation without Commitment » (with Christopher Sleet, Iván Werning, and Sevin Yeltekin) Review of Economic Studies, October 2012, 79, no. 4: 1469–1493.
+
+== References ==
+<references />
+
+== External links ==
+* [http://scholar.harvard.edu/farhi Harvard Bio page]
+* [http://www.thecrimson.com/article/2010/5/12/tenure-gopinath-department-professors/# Harvard Crimson Tenure Article in 2010]
+* [http://gregmankiw.blogspot.com/2007/07/question-from-france.html Farhi's comments on Social VAT] posted on [[Greg Mankiw]]'s blog in July 2007.
+* [https://www.richmondfed.org/publications/research/econ_focus/2019/q2-3/interview ''Econ Focus'' interview], Federal Reserve Bank of Richmond, Second/Third Quarter 2019
+
+{{Fellows of the Econometric Society elected in 2015}}
+{{Authority control}}
+{{DEFAULTSORT:Farhi, Emmanuel}}
+[[Category:1978 births]]
+[[Category:2020 deaths]]
+[[Category:French economists]]
+[[Category:French people of Egyptian-Jewish descent]]
+[[Category:Place of death missing]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:21st-century economists]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:Harvard University faculty]]

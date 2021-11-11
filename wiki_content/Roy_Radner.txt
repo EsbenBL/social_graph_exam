@@ -1,0 +1,62 @@
+{{Use mdy dates|date=May 2021}}
+{{Infobox scientist
+| name        = Roy Radner
+| image       =         <!--(filename only, i.e. without "File:" prefix)-->
+| image_size  = 
+| alt         = 
+| caption     = 
+| birth_date  = {{birth date and age |1927|6|29}}
+| birth_place = [[Chicago, Illinois]]
+| death_date  = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| nationality = [[United States|American]]
+| fields      = [[Mathematical economics]]
+| workplaces  = [[University of California, Berkeley]]
+| alma_mater  = [[University of Chicago]]
+| doctoral_advisor = [[Leonard Jimmie Savage]] <!--(or  | doctoral_advisors = )-->
+| doctoral_students = 
+| known_for   = 
+| awards      = 
+}}
+
+'''Roy Radner''' (born June 29, 1927)<ref><!--pages.stern.nyu.edu/~rradner/radnercv.htm-->Roy Radner's Curriculum Vitae - NYU Stern School of Business</ref> is Leonard N. Stern School Professor of Business at [[New York University]].<ref>{{Cite web|url=http://pages.stern.nyu.edu/~rradner/|title=Prof. Roy Radner}}</ref> He is a [[microeconomics|micro-economic]] theorist. Radner's research interests include strategic analysis of climate change, bounded rationality, game-theoretic models of corruption, pricing of information goods, statistical theory of data mining.<ref>{{Cite web|url=https://www.stern.nyu.edu/faculty/bio/roy-radner|title=NYU Stern - Roy Radner - Leonard N. Stern Professor of Business, Emeritus}}</ref> Previously he was a faculty member at the [[University of California, Berkeley]], and a Distinguished Member of Technical Staff at [[AT&T Bell Laboratories]].
+
+== Radner equilibrium ==
+Among Radner's various contributions, the one that bears his name, [[Radner equilibrium]] (1968), is a model of [[financial markets]].<ref>Radner (Jan. 1968) "Competitive Equilibrium under Uncertainty", Econometrica, pp. 31-58. [http://pages.stern.nyu.edu/~rradner/publishedpapers/20CompetitiveEquilibrium.pdf]</ref><ref>Chiaki Hara (2006) "General Equilibrium Theory: Lecture Note,"  Kyoto University. {{cite web |url=http://www.kier.kyoto-u.ac.jp/~hara/GET_01.pdf |title=Archived copy |access-date=October 14, 2006 |url-status=dead |archive-url=https://web.archive.org/web/20061014175233/http://www.kier.kyoto-u.ac.jp/~hara/GET_01.pdf |archive-date=October 14, 2006 }}</ref><ref>Magill and [[Martine Quinzii|Quinzii]] (2002) "Theory of incomplete markets. 1," MIT Press.</ref> In the traditional approach if the value of an asset or a contingent claim is affordable then it can be achieved. Not so with incomplete market as the payoff has to be replicable by trading of available assets that are now part of the definition of the economy. The first consequence of such a requirement is that budget sets do not fill the available space and are typically smaller than hyperplanes. Because the dimension of vectors orthogonal to the budget set is larger than one there is no reason for the  price systems supporting an equilibrium to be unique up to scaling, likewise the first order conditions no longer implies that  gradient of agents are collinear at equilibrium. Both happen to fail to hold generically: the [[first theorem of welfare economics]] is hence the first victim of incompleteness. [[Pareto-optimality]] of [[General equilibrium theory|equilibria]] generally does not hold.<ref>Geanakoplos and Polemarchakis (1985) "Existence, Regularity, and Constrained Suboptimality of Competitive Allocations When the Asset Market Is Incomplete." [https://ideas.repec.org/p/cwl/cwldpp/764.html]</ref> In traditional complete markets any policy would be undone through trading of rational expectation agents. This is no longer the case with incomplete markets as such policy-neutralising trading is no longer necessarily possible. Various policies (tax-related,<ref>John Geanakoplos and H. M. Polemarchakis (2008) "Pareto improving taxes," [http://cowles.econ.yale.edu/P/cd/d16b/d1662.pdf]</ref> monetary,<ref>Drèze, J.H. and Polemarchakis, H. (2001). "Monetary equilibria", ch. 5 in Debreu, G., Neuefeind, W. and Trockel, W. (eds.), Economics Essays. A Festschrift for Werner Hildenbrand, Berlin: Springer.</ref><ref>{{cite journal |last1=Magill |first1=M. |last2=Quinzii |first2=M.|author2-link= Martine Quinzii |year=1992 |title=Real effects of money in general equilibrium |journal=Journal of Mathematical Economics |volume=21 |issue=4 |pages=301–342 |doi=10.1016/0304-4068(92)90012-v|citeseerx=10.1.1.218.7622 }}</ref> etc. ) have an effect when introduced when markets are incomplete. Additionally incompleteness opens the door for a theory of financial innovation with real impact.<ref>{{cite journal |first=Ronel |last=Elul |year=1995 |journal=[[Journal of Economic Theory]] |volume=65 |issue=1 |pages=43–78 |title=Welfare Effects of Financial Innovation in Incomplete Markets Economies with Several Consumption Goods |doi=10.1006/jeth.1995.1002 }}</ref> This was not possible in the traditional complete market general equilibrium model as any contingent claim could be replicated by trading and financial innovation would have no real effect.
+
+== Awards and recognition ==
+*Member of the U.S. National Academy of Sciences and the American Academy of Arts and Sciences
+*Distinguished Fellow of the American Economics Association and the American Association for the Advancement of Science
+*Fellow of the Society for the Advancement of Economic Theory
+*Fellow and Past-President of the Econometric Society
+
+== Selected bibliography ==
+;Books
+* {{cite book | editor-last1 = Radner | editor-first1 = Roy | editor-last2 = McGuire | editor-first2 = C.B. | title = Decision and organization: a volume in honor of Jacob Marschak | publisher = North-Holland Pub. Co | location = Amsterdam | year = 1972 | series = Studies in Mathematical and Managerial Economics Series (volume 12) | isbn = 9780720433135 | url-access = registration | url = https://archive.org/details/decisionorganiza0000unse }}
+
+;Journal articles
+* {{Cite journal | last1 = Radner | first1 = Roy | last2 = Hurwicz | first2 = Leonid | last3 = Reiter | first3 = Stanley | author-link2 = Leonid Hurwicz | author-link3 = Stanley Reiter | title = A stochastic decentralized resource allocation process: Part I | journal = [[Econometrica]] | volume = 43 | issue = 2 | pages = 187–221 | doi = 10.2307/1913581 | jstor = 1913581 | date = March 1975 }} Cowles Commission Discussion Paper: Economics No. 2112, [http://cowles.econ.yale.edu/P/ccdp/ec/e-2112.pdf ''(pdf)''.]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{MathGenealogy |id=32907 }}
+
+{{Presidents of the Econometric Society}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Radner, Roy}}
+[[Category:1927 births]]
+[[Category:Possibly living people]]
+[[Category:Financial economists]]
+[[Category:American economists]]
+[[Category:New York University faculty]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Mathematical economists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]

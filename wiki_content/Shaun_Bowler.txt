@@ -1,0 +1,72 @@
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Shaun Bowler
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date and age|1958|06|21}}
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| home_town         =
+| other_names       = 
+| pronounce         =
+| residence         = 
+| citizenship       = 
+| nationality       = United Kingdom
+| fields            = [[Political science]]
+| workplaces        = [[University of California, Riverside]]
+| patrons           = 
+| education         = [[Washington University in St. Louis]]
+| alma_mater        = 
+| thesis_title      = Voter perceptions and party strategies: An empirical approach
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1988
+| doctoral_advisor  = [[Robert H. Salisbury]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+'''Shaun Bowler''' (born June 21, 1958)<ref>{{Cite web |url=http://id.loc.gov/authorities/names/n92020614.html |title=Bowler, Shaun, 1958- |website=Library of Congress Name Authority File |access-date=2019-04-01}}</ref> is Distinguished Professor & Dean of the Graduate Division in the Department of Political Science at the [[University of California, Riverside]].<ref>{{Cite web |url=https://politicalscience.ucr.edu/people/faculty/bowler/ |title=Shaun Bowler |website=Political Science at UC Riverside |language=en-US |access-date=2019-04-01}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://politicalscience.ucr.edu/people/faculty/bowler/ Faculty profile]
+*{{Google Scholar id|S3-MV4YAAAAJ}}
+
+{{Authority control|VIAF=112994349|LCCN=n92020614}}
+{{DEFAULTSORT:Bowler, Shaun}}
+
+
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:American political scientists]]
+[[Category:University of California, Riverside faculty]]
+[[Category:Washington University in St. Louis alumni]]
+[[Category:Political science journal editors]]
+{{US-polisci-bio-stub}}

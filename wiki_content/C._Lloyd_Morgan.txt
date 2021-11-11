@@ -1,0 +1,78 @@
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+[[File:C. Lloyd Morgan. Photogravure by Synnberg Photo-gravure Co., Wellcome L0023072 (cropped).jpg|thumb|right|Conwy Lloyd Morgan]]
+'''Conwy Lloyd Morgan''', [[Fellow of the Royal Society|FRS]]<ref name=frs>{{Cite journal | last1 = Parsons | first1 = J. H. | title = Conwy Lloyd Morgan. 1852-1936 | doi = 10.1098/rsbm.1936.0003 | journal = [[Obituary Notices of Fellows of the Royal Society]] | volume = 2 | issue = 5 | pages = 25–27 | year = 1936 }}</ref> (6 February 1852 – 6 March 1936) was a British [[ethologist]] and [[psychology|psychologist]]. He is remembered for his theory of [[emergent evolution]], and for the experimental approach to animal psychology now known as [[Morgan's Canon]], a principle that played a major role in [[behaviourism]], insisting that higher mental faculties should only be considered as explanations if lower faculties could not explain a behaviour.
+
+== Life ==
+Conwy Lloyd Morgan was born in London and studied at the [[Royal School of Mines]] and subsequently under [[T. H. Huxley]]. He taught in [[Cape Town]], but in 1884 joined the staff of the then [[University of Bristol|University College, Bristol]] as Professor of Geology and [[Zoology]], and carried out some research of local interest in those fields. However, he quickly became interested in the field he called "mental evolution", the borderland between [[intelligence (trait)|intelligence]] and [[instinct]], and in 1901 moved to become the college's first Professor of Psychology and Education. He was elected a [[Fellow of the Royal Society]] in 1899, and gave the [[Croonian Lecture]] in 1901, titled ''Studies in visual sensation''.<ref>{{cite web|title=Fellow details: Morgan; Conwy Lloyd (1852-1936)|publisher=Royal Society Collections|url=https://collections.royalsociety.org/DServe.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqDb=Persons&dsqPos=0&dsqSearch=%28%28text%29%3D%27morgan,%20conwy%20lloyd%27%29|access-date=14 March 2018}}</ref>
+
+In addition to his scientific work, Lloyd Morgan was active in academic administration. He became Principal of the University College, Bristol, in 1891 and played a central role in the campaign to secure it full university status. In 1909, when, with the award of a [[Royal Charter]], the college became the University of Bristol, he was appointed as its first [[Vice-Chancellor]],<ref>{{cite web | title = Bristol University – Former Officers | publisher = University of Bristol | access-date = 22 June 2007 | url = http://www.bristol.ac.uk/cms/go/statutes/records/formerofficers.html}}</ref> an office he held for a year before deciding to become Professor of Psychology and Ethics until his retirement in 1919.<ref>{{cite web | title =Conwy Lloyd Morgan Papers| publisher = [[Archives Hub]] | access-date = 2018-01-28 | url = https://archiveshub.jisc.ac.uk/data/gb3-dm128}}</ref> He was president of the [[Aristotelian Society]] from 1926 to 1927.
+
+Following his retirement, Morgan delivered a series of [[Gifford Lectures]] at [[University of St Andrews|St. Andrews]] in 1921 and 1922 in which he discussed the concept of [[emergent evolution]]. He died in [[Hastings]].
+
+== Ethology ==
+
+=== Morgan's Canon ===
+{{details|Morgan's Canon}}
+Morgan's Canon played a critical role in the growth of behaviourism in twentieth century academic psychology. The canon states: ''In no case may we interpret an action as the outcome of the exercise of a higher mental faculty, if it can be interpreted as the exercise of one which stands lower in the psychological scale.'' For example, Morgan considered that an entity should only be considered [[conscious]] if there is no other explanation for its behaviour.
+
+[[W.H. Thorpe]] commented as follows:<ref>Thorpe W.H. 1979. ''The origins and rise of ethology: the science of the natural behaviour of animals''. Heinneman, London. p28/9 {{ISBN|0-435-62441-5}}</ref><ref>Griffin D.R. 1976. ''The question of animal awareness''. Rockefeller University Press, New York.</ref><ref>A similar comment was made by [[Edwin G. Boring]] in his ''A history of experimental psychology'', 2nd ed 1950: chapter 10 British psychology, p474.</ref>
+
+{{Quote|The importance of this was enormous... [but] to the modern ethologist dealing with higher animals and faced as he is with ever-increasing evidence for the complexity of perceptual organisation... the very reverse of Morgan's canon often proves to be the best strategy.}}
+
+The development of Morgan's Canon derived partly from his observations of behaviour. This provided cases where behaviour that seemed to imply higher mental processes could be explained by simple [[trial and error]] learning (what we would now call [[operant conditioning]]). An example is the skilful way in which his [[terrier]] Tony opened the garden gate, easily imagined as an [[insight]]ful act by someone seeing the final behaviour. Lloyd Morgan, however, had watched and recorded the series of approximations by which the dog had gradually learned the response, and could demonstrate that no insight was required to explain it.
+
+=== Instinct versus learning ===
+Morgan carried out extensive research to separate, as far as possible, inherited behaviour from learnt behaviour. Eggs of chicks, ducklings and [[moorhen]]s were raised in an [[Incubator (egg)|incubator]], and the hatchlings kept from adult birds.<ref name=frs/> Their behaviour after hatching was recorded in detail. Lastly, the behaviour was interpreted as simply as possible. Morgan was not the first to work on these questions. [[Douglas Spalding]] in the 1870s had done some remarkable work on inherited behaviour in birds.<ref>Spalding D.A. 1873. Instinct. With original observations on young animals. ''Macmillan's Magazine''. '''27''', 282–293.</ref> His early death in 1877 led to his work being largely forgotten until the 1950s, but Morgan cited Spalding's observations in his own work.<ref>Morgan, C.L. (1894). An Introduction to Comparative Psychology. Walter Scott, Ltd: London
+</ref>
+
+==Quotations==
+*Given two different minds and the same facts, how different are the products! {{ndash}} [https://archive.org/stream/animallifeintel00morgiala ''Animal Life and Intelligence''] (1891), page 335
+
+==Books==
+[[File:Creation by evolution; a consensus of present-day knowledge as set forth by leading authorities in non-technical language that all may understand (1928) (20701631372).jpg|thumbnail|''Creation by evolution''.]]
+*''The springs of conduct: an essay in evolution''. (1885). Kegan Paul, London.
+*''Animal biology''. (1887). Rivington, London.
+*[http://catalog.hathitrust.org/Record/009260625 ''Animal sketches'']. [1891]. Arnold, London.
+*''Animal life and intelligence''. (1891). Arnold, London.<ref name=QuarterlyRev1897>{{cite journal|title=Review of ''Animal Life and Intelligence'' by C. Lloyd Morgan; ''An Introduction to Comparative Psychology'' by C. Lloyd Morgan; ''Habit and Instinct'' by C. Lloyd Morgan|journal=The Quarterly Review|volume=185|date=April 1897|pages=477–502|url=https://babel.hathitrust.org/cgi/pt?id=coo.31924065563672;view=1up;seq=489}}</ref>
+*''Introduction to comparative psychology''. (1894). Routledgethoemmes, London.<ref name=QuarterlyRev1897/>
+*''Psychology for teachers''. (1894). Arnold, London.
+*''Habit and instinct''. (1896). Arnold, London.<ref name=QuarterlyRev1897/>
+*''Animal behaviour''. (1900). Arnold, London.
+*''The interpretation of nature''. (1906).
+*''Instinct and experience''. (1912). Methuen, London.
+*[https://www.gutenberg.org/ebooks/37513 ''Spencer's Philosophy of Science'']. (1919). Oxford University Press.
+*''[http://www.giffordlectures.org/lectures/emergent-evolution Emergent evolution]''. (1923). Henry Holt.
+*''Life, mind, and spirit''. (1925). Henry Holt.
+*''Creation by evolution''. (1928). The Macmillan Company, New York.
+*''Mind at the crossways''. (1929).
+*''Animal Mind''. (1930). Arnold,  London
+*''The emergence of novelty''. (1933).
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikisource author}}
+* {{Gutenberg author |id=Morgan,+C.+Lloyd+(Conwy+Lloyd) | name=Conwy Lloyd Morgan}}
+* {{Internet Archive author |sname=Conwy Lloyd Morgan}}
+*[http://psychclassics.yorku.ca/Morgan/murchison.htm Biography of Lloyd Morgan]
+*[http://www.consciousentities.com/tactics.htm Discussion Lloyd Morgan's canon as applied to consciousness]
+
+{{s-start}}
+{{succession box|title=Vice-Chancellor of the [[University of Bristol]]|before= (None) |after=[[Sir Isambard Owen]]|years=1909}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Morgan, Conwy Lloyd}}
+[[Category:People educated at Royal Grammar School, Guildford]]
+[[Category:1852 births]]
+[[Category:1936 deaths]]
+[[Category:English psychologists]]
+[[Category:Ethologists]]
+[[Category:English zoologists]]
+[[Category:Academics of the University of Bristol]]
+[[Category:Vice-Chancellors of the University of Bristol]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Presidents of the Aristotelian Society]]

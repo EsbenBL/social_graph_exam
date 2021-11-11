@@ -1,0 +1,88 @@
+{{short description|Brazilian economist (born 1948)}}
+{{Infobox economist
+| name = José Scheinkman
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| birth_date = {{birth date and age|1948|1|11|mf=y}}
+| birth_place = Rio de Janeiro, Brazil
+| death_date = 
+| death_place = 
+| nationality = [[Brazil]]ian
+| institution = [[Princeton University]]<br>[[University of Chicago]] <!-- or: | institutions =  -->
+| field = [[Economics]]
+| school_tradition = 
+| alma_mater = [[University of Rochester]]
+| doctoral_advisor = [[Lionel McKenzie]]
+| academic_advisors = 
+| doctoral_students = {{hlist | [[Edward Glaeser]] | [[Paul Romer]] | [[Glen Weyl]]}}
+| notable_students = 
+| influences = {{hlist | [[William A. Brock]] | [[Lionel McKenzie]]}}
+| influenced = 
+| contributions = 
+| awards = 
+| memorials = 
+| repec_prefix = e
+| repec_id = psc26
+| notes = 
+}}
+
+'''José Alexandre Scheinkman''' (born January 11, 1948) is a Brazilian economist, currently the Charles and Lynn Zhang Professor of Economics at [[Columbia University]] and the Theodore A. Wells '29 Professor of Economics Emeritus at [[Princeton University]]. He spent much of his career at the [[University of Chicago]], where he served as department chair immediately prior to his departure for Princeton.<ref name="princeton">{{Cite web | url=https://www.princeton.edu/~joses/vitae.pdf | title=José A. Scheinkman – Charles and Lynn Zhang Professor of Economics &#124; Columbia University}}</ref>  He is best known for his work in mathematical economics (particularly dynamic optimization) and finance, oligopoly theory and the social economics of cities and crime; he also helped spur the development of work at the intersection of economics, finance and physics.<ref name="nasonline">{{cite web|url=http://www.nasonline.org/site/Dir/1318300801?pg=vprof&mbr=1012134|title=National Academy of Sciences|publisher=nasonline.org|accessdate=2014-02-11}}</ref> Scheinkman also famously pioneered the now-ubiquitous application of academic financial theory to practical risk management of fixed incomes during a leave he took as Vice President in the Financial Strategies Group at [[Goldman Sachs|Goldman, Sachs & Co.]] during the late 1980s.
+
+== Early life ==
+Scheinkman's parents, Samuel and Sara, were members of [[Rio de Janeiro]]'s small Jewish community. As leftists, his parents were dissidents during the military government in Brazil from 1964 to 1985. Prior to immigrating to the United States to study for his PhD in Economics at the University of Rochester, he grew up and was educated in Rio de Janeiro, Brazil. Scheinkman studied for his BA in economics (1969) and MA in Mathematics (1970) at the [[Universidade Federal do Rio de Janeiro]] and the [[Instituto de Matemática Pura e Aplicada]], also in Rio. During his studies he met his future wife, Michele Zitrin, at an annual summer retreat taken by many Jews in Rio. Together and married at the age of 22, they moved to [[New York (state)|New York]] so that he could study for his PhD under [[Lionel McKenzie]] at the University of Rochester. Two and a half years into his PhD, eventually granted in 1974, Scheinkman was hired as an assistant professor in the Department of Economics at the University of Chicago, where he spent the next 26&nbsp;years, with the support of Brock who had moved there.
+
+== Career at Chicago ==
+After only four years, Scheinkman was promoted to tenure as an associate professor in 1978 and eventually as a full professor in 1981. While at Chicago, Scheinkman helped build the foundation of mathematical economics at a department often better known for economic intuition than rigorous theory. Scheinkman also participated actively in the interface between economics and physics organized by the [[Santa Fe Institute]] and often traveled to visiting positions in France, a country for which he has had a lifetime affection. He served as chair of the Department of Economics from 1995 to 1998.<ref name="princeton" />  Following his chairmanship, Scheinkman moved to [[New York City]], and Princeton University, in 1999.
+
+== Research ==
+Scheinkman is perhaps most closely associated with his classic six page paper from 1979 with L. M. Benveniste "On the Differentiability of the Value Function in Dynamic Models of Economics", which provides conditions on model primitives allowing for the standard differentiable treatment of infinite-horizon dynamic models.<ref>{{cite journal|last1=Benveniste|first1=L. M.|last2=Scheinkman|first2=J. A.|title=On the Differentiability of the Value Function in Dynamic Models of Economics|journal=Econometrica|volume=47|issue=3|year=1979|pages=727|issn=0012-9682|doi=10.2307/1910417|jstor=1910417}}</ref>  At least as influential, however, is his very different work with David Kreps in 1983 showing that "Quantity precommitment and Bertrand competition yield Cournot outcomes" and thus providing the canonical modern foundation of Cournot equilibrium as the result of capacity pre-commitments.<ref>{{cite journal|last1=Kreps|first1=David M.|last2=Scheinkman|first2=Jose A.|title=Quantity Precommitment and Bertrand Competition Yield Cournot Outcomes|journal=The Bell Journal of Economics|volume=14|issue=2|year=1983|pages=326|issn=0361-915X|doi=10.2307/3003636|jstor=3003636 }}</ref>  Building on his interest in the intersection between economics and physics, he helped draw out and test some of the most salient implication of the theory of social interactions, in a series of papers with his star student [[Edward Glaeser]] (among others), for "Growth in Cities" (1992), crime (1996) and "Measuring Trust" (2000). Perhaps one of the best loved of Scheinkman's papers is his work with Kevin Murphy and Sherwin Rosen on "Cattle Cycles" (1994), which provides one of the sharpest applications of natural economic theory to explain cyclical variations.<ref>{{Cite journal | jstor=2138619|title = Cattle Cycles| journal=Journal of Political Economy| volume=102| issue=3| pages=468–492|last1 = Rosen|first1 = Sherwin| last2=Murphy| first2=Kevin M.| last3=Scheinkman| first3=José A.| year=1994| doi=10.1086/261942|s2cid = 222450923}}</ref>
+
+Since joining the faculty at Princeton, Scheinkman's research has increasingly turned to finance, pursuing two distinct but related trajectories. In a series of joint papers with Lars Hansen and other co-authors he has developed new tools for solving and testing continuous time models of financial time series. Simultaneously, he has studied the causes of behavioral and agency frictions in financial markets and, especially, their consequence for financial bubbles. His most prominent paper in the second category is his joint work with Wei Xiong, "Overconfidence and Speculative Bubbles" (2003) making more realistic and quantitative the insight of Harrison and Kreps (1978) that when short selling is costly the most optimistic individuals price the market and thus a bubble can be created by disagreements between market participant generating an option value to sell to a greater fool.<ref>{{cite journal|last1=Scheinkman|first1=José A.|last2=Xiong|first2=Wei|title=Overconfidence and Speculative Bubbles|journal=Journal of Political Economy|volume=111|issue=6|year=2003|pages=1183–1220|issn=0022-3808|doi=10.1086/378531|jstor=3555237|s2cid=221276081}}</ref>
+
+Scheinkman's recent research has focused increasingly on finance (both applied, in his work on bubbles, and mathematical, in his work with [[Lars Peter Hansen|Lars Hansen]]).<ref>{{cite news|last=Lahart|first=Justin|date=May 16, 2008|title=Bernanke's Bubble Laboratory|work=The Wall Street Journal|url=https://www.wsj.com/articles/SB121089412378097011}}</ref>
+
+== Students ==
+Scheinkman has advised more than 30 graduate students at the University of Chicago and several more at Princeton.{{citation needed|date=April 2016}}  He was thesis adviser to prominent economists including [[Paul Romer]], Albert (Pete) Kyle, [[Edward Glaeser]], Alberto Bisin, Adriano Rampini, and [[Glen Weyl]].<ref name="princeton2">{{cite web|url=https://www.princeton.edu/main/news/archive/S18/00/36A09/?section=featured|title=Princeton University - Valedictorian capitalizes on time at Princeton|publisher=princeton.edu|accessdate=2014-02-11}}</ref>
+
+== Activities outside academia ==
+Outside of his academic work, Scheinkman has collaborated with various financial institutions and hedge funds; he spent a year at Goldman Sachs. He has also been influential in Brazilian economic policy, helping to lead the ''Agenda Perdida'' review of Brazilian social policy<ref>{{Cite web |url=http://www.econ.puc-rio.br/gfranco/Agenda%20Perdida.pdf |title=Archived copy |access-date=2011-03-18 |archive-url=https://web.archive.org/web/20110723023424/http://www.econ.puc-rio.br/gfranco/Agenda%20Perdida.pdf |archive-date=2011-07-23 |url-status=dead }}</ref> and writing several columns for the top Brazilian newspaper ''[[Folha de S.Paulo]]''.<ref name="princeton3">{{cite web|url=https://www.princeton.edu/~joses/Folha.htm|title=Jose A. Scheinkman's Folha|publisher=princeton.edu|accessdate=2014-02-11}}</ref> Scheinkman was also the top economic adviser to the (failed) presidential campaign of [[Ciro Gomes]].
+
+He was as a founder and partner of the hedge fund Axiom Investments and was involved in the public affairs of Brazil through writing and consulting.<ref>{{Cite web|title=José A. Scheinkman – Charles and Lynn Zhang Professor of Economics &#124; Columbia University|url=https://www.princeton.edu/~joses/bio.pdf}}</ref> He is a member of the [[United States National Academy of Sciences]] and a Fellow of the [[Econometric Society]], the [[American Academy of Arts and Sciences]], and the American Finance Association.<ref>{{Cite web|last=|first=|date=|title=American Finance Association Fellows|url=http://www.afajof.org/details/page/3720801/Fellows.html|url-status=dead|archive-url=https://web.archive.org/web/20171201030231/http://www.afajof.org/details/page/3720801/Fellows.html|archive-date=2017-12-01|access-date=2017-01-10|website=www.afajof.org|publisher=}}</ref>
+
+== Honors and awards ==
+He was a recipient of a [[Guggenheim Fellowship]] and is a Docteur honoris causa from the [[Université Paris-Dauphine]]
+
+== Family ==
+He is married to the New York psychotherapist Michele Scheinkman and is the father of Andrei Scheinkman.
+
+==Bibliography==
+* {{cite book|author=José A. Scheinkman|title=Speculation, Trading, and Bubbles|url=https://books.google.com/books?id=jHbeAwAAQBAJ|date=8 July 2014|publisher=Columbia University Press|isbn=978-0-231-53763-6}}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+*[https://www.princeton.edu/~joses/ Scheinkman's homepage at Princeton University]
+*{{Google Scholar id|CK6FeiUAAAAJ}}
+
+{{Portal bar|Biography|Business and economics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Scheinkman, Jose}}
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:21st-century American economists]]
+[[Category:20th-century American Jews]]
+[[Category:American people of Brazilian-Jewish descent]]
+[[Category:Brazilian economists]]
+[[Category:Brazilian Jews]]
+[[Category:Princeton University faculty]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Brazilian expatriate academics in the United States]]
+[[Category:Instituto Nacional de Matemática Pura e Aplicada alumni]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Social Science Research Council]]
+[[Category:21st-century American Jews]]

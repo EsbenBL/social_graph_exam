@@ -1,0 +1,97 @@
+{{short description|Canadian political scientist (born 1955)}}
+{{more citations needed|date=May 2019}}
+{{Infobox person
+| name               = Guy Laforest
+| honorific_suffix   = {{post-nominals|country=CAN|FRSC|size=100%}}
+| image              = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| landscape          = <!-- yes, if wide image, otherwise leave blank -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| birth_name         = <!-- only use if different from name -->
+| birth_date         = {{birth date and age|1955|03|16|df=yes}}
+| birth_place        = [[Quebec City]], [[Quebec]], Canada
+| death_date         = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (enter DEATH date then BIRTH date (e.g., ...|1908|31|8|1967|28|2}} use both this parameter and |birth_date to display the person's date of birth, date of death, and age at death) -->
+| death_place        = 
+| residence          = 
+| home_town          = 
+| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->
+| party              = [[Action démocratique du Québec]]
+| spouse             = <!-- Use article title or common name -->
+| partner            = <!-- (unmarried long-term partner) -->
+| website            = <!-- {{URL|example.com}} -->
+| module             = {{Infobox academic |child=yes
+| alma_mater         = {{ubl | [[Université Laval]] | [[McGill University]]}}
+| thesis_title       = Les sciences humaines modernes
+| thesis_year        = 1986
+| school_tradition   = 
+| doctoral_advisor   = 
+| academic_advisors  = {{flatlist|
+* [[Charles Taylor (philosopher)|Charles Taylor]]
+* [[James Tully (philosopher)|James Tully]]
+}}
+| influences         = {{flatlist|
+* {{ill|Daniel Latouche|fr}}
+* [[James Mallory (jurist)|James Mallory]]
+}}
+| era                = 
+| discipline         = [[Political science]]
+| sub_discipline     = [[Political theory]]
+| workplaces         = {{ubl | [[University of Calgary]] | [[Université Laval]]}}
+| doctoral_students  = <!--only those with WP articles-->
+| notable_students   = <!--only those with WP articles-->
+| main_interests     = 
+| notable_works      = 
+| notable_ideas      = 
+| influenced         = <!--must be referenced from a third-party source-->
+}}
+| signature          = 
+| signature_alt      = 
+}}
+'''Guy Laforest''' {{post-nominals|country=CAN|FRSC}} (born 1955) is a Canadian [[political scientist]], currently serving as the director of the department of political science at the [[Université Laval]]. He was educated at Université Laval and [[McGill University]]. A former member of the University of Calgary's political science department, Laforest is the author of numerous publications on Canadian public policy. He has previously served as president of the [[Canadian Federation for the Humanities and Social Sciences]].
+
+Laforest was born in [[Quebec City]], [[Quebec]].<ref>{{Cite web|url=https://www.journaldequebec.com/2019/05/19/guy-laforest-homme-de-convictions|title = Guy Laforest: Homme de convictions}}</ref>
+
+He supported the Quebec sovereignty option in the [[1995 Quebec referendum|1995 referendum]] and was featured on a nightly ''[[Le Téléjournal|Téléjournal]]'' panel, debating then–University of Montreal political science professor [[Stéphane Dion]]. From 2002 to 2004, he served as President of the [[Action démocratique du Québec]] and ran as the party candidate in [[2003 Quebec general election|2003]] for the district of [[Louis-Hébert]], finishing third with 24 per cent of the vote.  [[Liberal Party of Quebec|Liberal]] candidate [[Sam Hamad]] won the election with 45 per cent of the vote.
+
+==Publications==
+
+Laforest's publications include:
+
+*De la prudence, 1993
+*Reconciling the Solitudes, 1993
+*{{lang|fr|[[Pierre Trudeau|Trudeau]] et la fin du rêve canadien}}, 1995
+*{{lang|fr|Sortir de l'impasse: Vers la réconciliation}}, 1998
+*{{lang|fr|Charles Taylor et l'interprétation de l'identité moderne}}, 1998
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20170107065612/https://guylaforest.com/curriculum-vitae/ ''Curriculum vitae'']
+* [https://web.archive.org/web/20070219111115/http://www.vigile.net/auteurs/l/laforestg.html Texts written by Guy Laforest] at www.vigile.net {{in lang|fr}}
+
+{{s-start}}
+{{s-ppo}}
+{{succession box | title=President of [[Action démocratique du Québec]]| before=[[Isabelle Marquis]]| after=[[Yvon Picotte]] | years=2002&ndash;2004}}
+{{s-end}}
+
+{{Authority control}}
+
+{{Use dmy dates|date=May 2019}}
+
+{{DEFAULTSORT:Laforest, Guy}}
+[[Category:1955 births]]
+[[Category:Living people]]
+[[Category:Canadian political scientists]]
+[[Category:Canadian political philosophers]]
+[[Category:People from Quebec City]]
+[[Category:Université Laval faculty]]
+[[Category:Action démocratique du Québec politicians]]
+[[Category:Canadian political party presidents]]
+[[Category:Université Laval alumni]]
+[[Category:McGill University alumni]]
+[[Category:French Quebecers]]
+[[Category:Fellows of the Royal Society of Canada]]
+
+
+{{Quebec-politician-stub}}

@@ -1,0 +1,84 @@
+{{Short description|American psychologist and academic}}
+{{Multiple issues|
+{{Missing information|about= Early life, Personal life, Achievements and honours|date=September 2021}}
+{{BLP sources|date=September 2021}}
+}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Joseph P. Allen
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = 1958 <!--{{birth date |YYYY|MM|DD}}-->
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| nationality       = <!-- use only when necessary per [[WP:INFONAT]] -->
+| fields            = 
+| workplaces        = [[University of Virginia]]
+| patrons           = 
+| education         = 
+| alma_mater        = 
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 3
+| parents           =
+| father            =
+| mother            =
+| relatives         =
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = {{URL|https://psychology.as.virginia.edu/people/profile/jpa8r}}
+| footnotes         = 
+}}
+'''Joseph P. Allen''' is an American psychologist and academic. He is the Hugh Kelly Professor of Psychology at the [[University of Virginia]].{{When|date=September 2021}}
+
+==Education==
+He received a B.A. in Psychology from the University of Virginia in May 1980, and then a Ph.D. in Clinical/Community Psychology from [[Yale University]] in May 1986. He subsequently worked as a post-doctoral fellow in research at Harvard Medical School from 1986 until 1988.
+
+==Research==
+He studies adolescence.<ref>{{Cite web|url=https://slate.com/business/2014/06/child-development-university-of-virginia-study-professor-of-psychology-joseph-p-allen-s-paper-concludes-that-popular-kids-show-pseudo-mature-behavior-as-teens-suffer-later-in-life.html|title=Being Cool in High School Is Bad For You|first=Dina|last=Spector|date=Jun 12, 2014|website=Slate Magazine|accessdate=Sep 28, 2021}}</ref><ref>{{Cite web|url=https://www.sciencedaily.com/releases/2014/06/140612085341.htm|title=What happens to 'cool' kids? New study sheds light|website=ScienceDaily|accessdate=Sep 28, 2021}}</ref><ref>{{Cite journal|last1=Allen|first1=Joseph P.|last2=Uchino|first2=Bert N.|last3=Hafen|first3=Christopher A.|date=October 2015|title=Running With the Pack: Teen Peer-Relationship Qualities as Predictors of Adult Physical Health|journal=Psychological Science|language=en|volume=26|issue=10|pages=1574–1583|doi=10.1177/0956797615594118|issn=0956-7976|pmc=4698963|pmid=26290522}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+*{{Official website|https://psychology.as.virginia.edu/people/profile/jpa8r}}
+{{Portal bar|Biography|United States|Psychology|Science|Society}}
+{{Authority control}}
+{{DEFAULTSORT:Allen, Joseph P.}}
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:University of Virginia faculty]]
+[[Category:American psychologists]]
+[[Category:Yale University alumni]]
+
+
+{{US-psychologist-stub}}
+{{US-academic-bio-stub}}

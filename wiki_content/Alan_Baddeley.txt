@@ -1,0 +1,78 @@
+{{Use dmy dates|date=March 2020}}
+{{Infobox scientist
+|name          = Alan Baddeley
+|honorific_suffix  = {{post-nominals|size=100%|FRS}}
+|image         = Alan Baddeley.jpg
+|image_size    = 150px
+|caption       = Alan Baddeley
+|birth_name    = Alan David Baddeley
+|birth_date    = {{birth date and age|1934|3|23|df=y}}
+|birth_place   =[[Leeds, Yorkshire]], England
+|death_date =
+|death_place   =
+|death_cause   =
+|resting_place =
+|resting_place_coordinates =
+|residence     =
+|nationality   = British
+|other_names   =
+|known_for     = Neuropsychological tests, [[Baddeley's model of working memory]]
+|education     = [[University College London]]<br>[[Princeton University]]<br>[[University of Cambridge]] (PhD)
+|workplaces      = University of York
+| awards = [[Fellow of the Royal Society|FRS]] (1993)
+| thesis_title = Measures and measurements in stochastic geometry
+| thesis_year = 1981
+| thesis_url = http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.237649
+|website       = {{URL|http://www.york.ac.uk/psychology/staff/academicstaff/ab50/}}
+|footnotes     =
+}}
+'''Alan David Baddeley''', is a British [[Psychology|psychologist]]. He is known for his research on memory and for developing the three-component model of [[working memory]]. He is a professor of psychology at the [[University of York]]. 
+
+== Biography ==
+Baddeley was born in [[Leeds]], Yorkshire on 23 March 1934.<ref>https://books.google.ca/books?id=uJFGAQAAIAAJ&q=Alan+Baddeley+1934+leeds&dq=Alan+Baddeley+1934+leeds&hl=en&sa=X&ved=0ahUKEwjq2rDnt7DPAhVMzoMKHYRjAQcQ6AEIOTAF {{ISBN missing}}</ref> He lived there with his parents, Donald and Nellie Baddeley, until leaving for university.<ref name=":0">{{Cite book|last=Baddeley|first=Alan|url=https://books.google.com/books?id=TiBtDwAAQBAJ&q=alan+baddeley+family&pg=PT19|title=Working Memories: Postmen, Divers and the Cognitive Revolution|date=2018-09-13|publisher=Routledge|isbn=978-1-317-23852-2|language=en}}</ref> He decided to study psychology and was originally interested in [[psychoanalysis]]. Later he changed his focus to evidence-based psychology.<ref>{{Cite web|title=Interview with Alan Baddeley {{!}} The Psychologist|url=https://thepsychologist.bps.org.uk/volume-24/edition-5/interview-alan-baddeley|access-date=2020-07-02|website=thepsychologist.bps.org.uk}}</ref> In 1956, Baddeley went to the United States of America to continue his studies. After spending a year in America, he returned home. He then went to Cambridge, where he met and married Hilary Ann White. Baddeley and his wife have three sons.<ref name=":0" />
+
+Baddeley has taught and conducted research at [[University of Sussex]], [[University of Stirling]], MRC Applied Psychology Unit, [[Churchill College, Cambridge|Churchill College]], [[University of Cambridge]], and [[University of Bristol]]. He is currently a professor of psychology at the [[University of York]].<ref>{{Cite web|title=Baddeley, Alan - Psychology, The University of York|url=https://www.york.ac.uk/psychology/staff/academicstaff/ab50/#profile-content|access-date=2020-07-02|website=www.york.ac.uk|language=en|archive-date=14 November 2017|archive-url=https://web.archive.org/web/20171114093621/https://www.york.ac.uk/psychology/staff/academicstaff/ab50/#profile-content|url-status=dead}}</ref>
+
+==Education==
+Baddeley attended the [[University College London]] from 1953 to 1956. He then obtained an MA from [[Princeton University]]'s [[Princeton University Department of Psychology|Department of Psychology]] in 1957.  He earned a PhD from [[University of Cambridge]] in 1962.<ref>{{cite thesis|degree=PhD|publisher=University of Cambridge|title=Measures and measurements in stochastic geometry|first= Alan David|last=Baddeley|date=1981|url=http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.237649|oclc=556713452}}</ref> He has been awarded Honorary Doctorates by [[University of Essex]] in 1999,<ref>University of Essex, "Honorary Graduates" http://www.essex.ac.uk/honorary_graduates/hg/default.aspx#1999 {{webarchive|url=https://web.archive.org/web/20131019214719/http://www.essex.ac.uk/honorary_graduates/hg/default.aspx |date=19 October 2013 }} retrieved March 2013</ref> [[Plymouth University]] in 2000,<ref>{{Cite web|title=University of Plymouth honorary doctorates|url=https://www.plymouth.ac.uk/about-us/about-us/honorary-doctorates|date=2000|website=University of Plymouth honorary doctorates|access-date=May 13, 2020}}</ref> and [[University of Bristol]] in 2019.<ref>{{Cite web|last=Bristol|first=University of|title=Alan Baddley is unknown {{!}} Graduation {{!}} University of Bristol|url=http://www.bris.ac.uk/graduation/honorary-degrees/honorary-graduates-2019/alan-baddeley/|access-date=2020-07-02|website=www.bris.ac.uk|language=en-GB}}</ref>
+
+==Career and research==
+In 1974, working with [[Graham Hitch]], Baddeley developed an influential model of [[working memory]] called [[Baddeley's model of working memory]],<ref name=":1">{{Citation|last1=Baddeley|first1=Alan D.|title=Working Memory|date=1974-01-01|url=http://www.sciencedirect.com/science/article/pii/S0079742108604521|work=Psychology of Learning and Motivation|volume=8|pages=47–89|editor-last=Bower|editor-first=Gordon H.|publisher=Academic Press|language=en|access-date=2020-07-03|last2=Hitch|first2=Graham}}</ref> which argues for the existence of multiple short-term memory stores and a separate interacting system for manipulating the content of these stores. There are three components of this model: the phonological loop, the central executive, and the visuospatial sketch pad.<ref name=":1" /> In 2000, Baddeley suggested adding a fourth component to his memory model called the episodic buffer.<ref>{{Cite journal|last=Baddeley|first=Alan|date=2000-11-01|title=The episodic buffer: a new component of working memory?|url=https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(00)01538-2|journal=Trends in Cognitive Sciences|language=en|volume=4|issue=11|pages=417–423|doi=10.1016/S1364-6613(00)01538-2|issn=1364-6613|pmid=11058819|s2cid=14333234}}</ref>The model accounts for much of the empirical data on short-term retention and manipulation of information.
+
+His landmark study in 1975 on the capacity of short term memory<ref name=":2">{{Cite journal|last1=Baddeley|first1=Alan D.|last2=Thomson|first2=Neil|last3=Buchanan|first3=Mary|date=1975-12-01|title=Word length and the structure of short-term memory|url=http://www.sciencedirect.com/science/article/pii/S0022537175800454|journal=Journal of Verbal Learning and Verbal Behavior|language=en|volume=14|issue=6|pages=575–589|doi=10.1016/S0022-5371(75)80045-4|issn=0022-5371}}</ref> showed that people remembered more short words than long words in a recall test. This was called the word length effect and it demonstrated that pronunciation time rather than number of items determines the capacity of verbal short-term memory.This study also found that when participants repeated an irrelevant sound while reading the words, the world length effect does not happen.<ref name=":2" />
+
+Working with [[Barbara Wilson (psychologist)|Barbara Wilson]], Baddeley also did several important studies on amnesia and memory.<ref>{{Cite journal|last1=Baddeley|first1=Alan|last2=Wilson|first2=Barbara|date=1988-04-01|title=Frontal amnesia and the dysexecutive syndrome|journal=Brain and Cognition|language=en|volume=7|issue=2|pages=212–230|doi=10.1016/0278-2626(88)90031-0|pmid=3377900|s2cid=26954876|issn=0278-2626}}</ref><ref>{{Cite journal|last1=Baddeley|first1=Alan|last2=Wilson|first2=Barbara A.|date=2002-01-01|title=Prose recall and amnesia: implications for the structure of working memory|url=http://www.sciencedirect.com/science/article/pii/S0028393201001464|journal=Neuropsychologia|language=en|volume=40|issue=10|pages=1737–1743|doi=10.1016/S0028-3932(01)00146-4|pmid=11992661|s2cid=22404837|issn=0028-3932}}</ref> They studied patients with temporal lobe damage that caused memory problems. Results of such studies provide evidence that short-term and long-term memory are not one system. The amnesia patients had normal short-term memory but impaired long-term memory.<ref>{{Cite book|last=Baddeley|first=Alan|url=https://books.google.com/books?id=6LA0DwAAQBAJ&q=alan+baddeley&pg=PT12|title=Exploring Working Memory: Selected works of Alan Baddeley|date=2017-09-08|publisher=Routledge|isbn=978-1-351-61852-6|language=en}}</ref>
+
+Baddeley has also done research studies using divers and various underwater conditions. He studied the effects of depth and pressure on dexterity,<ref>{{Cite journal|last=Baddeley|first=A. D.|date=1966|title=Influence of depth on the manual dexterity of free divers: A comparison between open sea and pressure chamber testing.|journal=Journal of Applied Psychology|language=en|volume=50|issue=1|pages=81–85|doi=10.1037/h0022822|pmid=5905114|issn=1939-1854}}</ref> the impact of temperature on response time,<ref>{{Cite journal|last=Baddeley|first=A. D.|date=1966|title=Time-Estimation at Reduced Body-Temperature|journal=The American Journal of Psychology|volume=79|issue=3|pages=475–479|doi=10.2307/1420890|jstor=1420890|pmid=5968486|issn=0002-9556}}</ref> and context-dependent memory on land and underwater.<ref>{{Cite journal|last1=Godden|first1=D. R.|last2=Baddeley|first2=A. D.|date=1975|title=Context-Dependent Memory in Two Natural Environments: On Land and Underwater|journal=British Journal of Psychology|language=en|volume=66|issue=3|pages=325–331|doi=10.1111/j.2044-8295.1975.tb01468.x|issn=2044-8295}}</ref>
+
+Baddeley was the director of the [[Cognition and Brain Sciences Unit]], a branch of the [[United Kingdom|UK]] [[Medical Research Council (UK)|Medical Research Council]], based in [[Cambridge]], from 1974 - 1997.<ref>{{Cite web|title=Historic overview|url=https://www.mrc-cbu.cam.ac.uk/history/overview/|access-date=2020-07-03|website=www.mrc-cbu.cam.ac.uk}}</ref> He was elected a [[Fellow of the Royal Society]] in 1993<ref>{{cite web|title=Fellows|url=http://royalsociety.org/about-us/fellowship/fellows/|url-status=live|archive-url=https://web.archive.org/web/20101130205758/http://royalsociety.org/about-us/fellowship/fellows/|archive-date=30 November 2010|access-date=5 January 2011|publisher=Royal Society}}</ref> and in 1996, was elected a Foreign Honorary Member of the [[American Academy of Arts and Sciences]].<ref>{{Cite web|title=Alan David Baddeley|url=https://www.amacad.org/person/alan-david-baddeley|access-date=2020-07-03|website=American Academy of Arts & Sciences|language=en}}</ref> In 2001, Baddeley received the [[American Psychological Association]] (APA) Award for Distinguished Scientific Contributions.<ref>{{Cite news|title=APA Award for Distinguished Scientific Contributions|language=en|work=American Psychological Association|url=https://www.apa.org/about/awards/scientific-contributions?tab=3|access-date=2020-07-03}}</ref> Baddeley was given the Lifetime Achievement Award by the [[British Psychological Society]] in 2012.<ref>{{Cite web|title=Lifetime Achievement {{!}} BPS|url=https://www.bps.org.uk/about-us/awards-and-grants/research-board-awards/lifetime-achievement|access-date=2020-07-03|website=www.bps.org.uk}}</ref> He also received the Major Advancement in Psychological Science Prize from the [[International Union of Psychological Science]] in 2016.<ref>{{Cite web|last1=York|first1=Department of Psychology University of|last2=Heslington|last3=York|last4=Yo10 5dd|title=Professor Alan Baddeley to receive prestigious international award.|url=https://www.york.ac.uk/psychology/news-and-events/news-and-events/2016/professoralanbaddeleytoreceiveprestigiousinternationalaward/|access-date=2020-07-03|website=University of York|language=en}}</ref>
+
+===Other notable works===
+Baddeley has also part authored a number of [[Neuropsychological test|neuropsychological tests]] including the [[Doors and People]],<ref>{{Cite journal|last1=MacPherson|first1=Sarah E.|last2=Turner|first2=Martha S.|last3=Bozzali|first3=Marco|last4=Cipolotti|first4=Lisa|last5=Shallice|first5=Tim|date=Mar 2016|title=The Doors and People Test: The Effect of Frontal Lobe Lesions on Recall and Recognition Memory Performance|journal=Neuropsychology|volume=30|issue=3|pages=332–337|doi=10.1037/neu0000240|issn=0894-4105|pmc=4768598|pmid=26752123}}</ref> Children's Test of [[Nonword Repetition]] (CN REP),<ref>{{Cite journal|last1=Gathercole|first1=Susan E.|last2=Willis|first2=Catherine S.|last3=Baddeley|first3=Alan D.|last4=Emslie|first4=Hazel|date=1994-06-01|title=The children's test of nonword repetition: A test of phonological working memory|journal=Memory|volume=2|issue=2|pages=103–127|doi=10.1080/09658219408258940|issn=0965-8211|pmid=7584287}}</ref> the Rivermead Behavioural Memory Test (RBMT),<ref>{{Cite journal|last1=Wall|first1=Claudia de|last2=Wilson|first2=Barbara A.|last3=Baddeley|first3=Alan D.|date=1994-06-01|title=The Extended Rivermead Behavioural Memory Test: A Measure of Everyday Memory Performance in Normal Adults|journal=Memory|volume=2|issue=2|pages=149–166|doi=10.1080/09658219408258942|issn=0965-8211|pmid=7584289}}</ref> Autobiographical Memory Interview (AMI),<ref>{{Cite journal|last1=Kopelman|first1=M. D.|last2=Wilson|first2=B. A.|last3=Baddeley|first3=A. D.|date=1989-10-01|title=The autobiographical memory interview: A new assessment of autobiographical and personal semantic memory in amnesic patients|journal=Journal of Clinical and Experimental Neuropsychology|volume=11|issue=5|pages=724–744|doi=10.1080/01688638908400928|issn=0168-8634|pmid=2808661}}</ref> Visual Patterns Test (VPT)<ref>{{Cite book|title=Visual patterns test : a test of short-term visual recall|date=1997|publisher=Thames Valley Test Company|others=Della Sala, Sergio., Thames Valley Test Company.|isbn=1-874261-16-4|location=Bury St Edmunds|oclc=42405532}}</ref> and the Speed and Capacity of Language Processing Test (SCOLP).<ref>{{Cite journal|last1=Saxton|first1=Judith A.|last2=Ratcliff|first2=Graham|last3=Dodge|first3=Hiroko|last4=Pandav|first4=Rajesh|last5=Baddeley|first5=Alan|last6=Ganguli|first6=Mary|date=2001-12-01|title=Speed and Capacity of Language Processing Test: Normative Data From an Older American Community-Dwelling Sample|journal=Applied Neuropsychology|volume=8|issue=4|pages=193–203|doi=10.1207/S15324826AN0804_1|issn=0908-4282|pmid=11989722|s2cid=46291957}}</ref>
+
+Baddeley was involved in the design of [[Postcodes in the United Kingdom|United Kingdom postcodes]],<ref>{{cite web|title=Interview with Alan Baddeley|url=http://gocognitive.net/interviews/postal-codes|access-date=4 August 2014|website=GoCognitive}}</ref> and was one of the [https://www.youtube.com/watch?v=0EHlo6nCvjs founders] of the [[European Society for Cognitive Psychology]].<ref>{{Cite web|title=ESCOP - Founding ESCoP|url=https://www.escop.eu/history/founding-escop|access-date=2020-07-03|website=ESCOP|language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{History of Modern Biomedicine Research Group ID}}
+
+{{FRS 1993}}
+{{Authority control}}
+
+{{DEFAULTSORT:Baddeley, Alan David}}
+[[Category:1934 births]]
+[[Category:Alumni of University College London]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:British psychologists]]
+[[Category:Cognitive scientists]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Fellows of the Academy of Medical Sciences (United Kingdom)]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Living people]]
+[[Category:Memory researchers]]
+[[Category:Princeton University alumni]]
+[[Category:Academics of the University of York]]
+[[Category:British expatriates in the United States]]

@@ -1,0 +1,169 @@
+{{Short description|Japanese economist}}
+{{more footnotes|date=February 2013}}
+{{Infobox economist
+| name                      = Hirofumi Uzawa
+| image                     = 
+| image_size                = 
+| alt                       = 
+| caption                   = 
+| native_name               = 宇沢 弘文
+| native_name_lang          = 
+| birth_date                = {{birth date|1928|07|21}}
+| birth_place               = [[Yonago]], [[Tottori Prefecture|Tottori]], [[Japan]]
+| death_date                = {{death date and age|2014|09|18|1928|07|21}}
+| death_place               = [[Tokyo]], [[Japan]]
+| resting_place             = 
+| resting_place_coordinates =  <!-- (use {{coord ...}}) -->
+| nationality               = [[Japan]]ese
+| institution               = [[Stanford University]]<br>[[University of California at Berkeley]]<br>[[University of Chicago]]<br>[[University of Tokyo]]<br>[[Chuo University]]<br>[[Doshisha University]]
+| field                     = [[Mathematical economics]]
+| school_tradition          = 
+| alma_mater                = [[University of Tokyo]] <small>([[B.Math]], 1951)</small><br>[[Stanford University]]<br>[[Tohoku University]] <small>([[Ph.D.]], 1962)</small>
+| doctoral_advisor          = 
+| academic_advisors         = 
+| doctoral_students         = [[David Cass]]<br>[[Karl Shell]]<br>[[Miguel Sidrauski]]
+| notable_students          = 
+| influences                = [[Shokichi Iyanaga]]<br>[[Joichi Suetsuna]]<br>[[Kenneth Arrow]]<br>[[Hajime Kawakami]]
+| influenced                = [[George A. Akerlof]]<br>[[Joseph Stiglitz]]<br>[[David Cass]]<br>[[Katsuhito Iwai]]<br>[[Hiroshi Yoshikawa]]<br>[[Nobuhiro Kiyotaki]]<br>[[Hitoshi Matsushima (economist)|Hitoshi Matsushima]]
+| contributions             = [[Uzawa–Lucas model|Uzawa two-sector growth model]]<br>[[Uzawa iteration]]<br>[[Uzawa condition]]
+| awards                    = [[Person of Cultural Merit]] <small>(1983)</small><br>[[Order of Culture]] <small>(1997)</small><br>[[Blue Planet Prize]] <small>(2009)</small>
+| memorials                 = 
+| spouse                    = 
+| signature                 = 
+| url                       = 
+| module                    = 
+| repec_prefix              = e  
+| repec_id                  = puz6
+| notes                     = 
+}}
+
+{{nihongo|'''Hirofumi Uzawa'''|宇沢 弘文|Uzawa Hirofumi|extra= July 21, 1928 – September 18, 2014}} was a [[Japanese people|Japanese]] [[economist]].
+
+==Biography==
+Uzawa was born on July 21, 1928 in [[Yonago, Tottori]] to a farming family.
+
+He attended the Tokyo First Middle School (currently the [[Hibiya High School]] ) and the First Higher School, Japan (now the University of Tokyo's College of Arts and Sciences faculty).{{citation needed|date=March 2018}}
+ 
+He graduated from the Mathematics Department of the [[University of Tokyo]] in 1951; he was a special research student from 1951 to 1953. At that time, he discovered the true nature of economics in the words of [[John Ruskin]], “There is no wealth, but life.” which was quoted in the foreword to {{Nihongo|''Tale of Poverty''|貧乏物語|binbō monogatari}} by [[Hajime Kawakami]], and decided to study economics.<ref name="2009lect-uzawa" />
+
+A paper on [[Decentralized planning (economics)|decentralized economic planning]] written by him caught the eye of [[Kenneth Arrow]] at the [[Stanford University]], he went to study Economics at Stanford University in 1956 with [[Fulbright Program|Fulbright fellowship]], and became a [[research assistant]], then [[assistant professor]]  in 1956, then [[assistant professor]] at the [[University of California, Berkeley]] in 1960, and then [[associate professor]] at Stanford in 1961.<ref name="2009lect-uzawa" />  Meanwhile, in 1962, he received a [[Ph.D.]] from [[Tohoku University]].<ref>{{Cite thesis|url=http://ci.nii.ac.jp/naid/500000318269?l=en |publisher=[[CiNii]]|title=CiNii Dissertations - レオン・ワルラスの一般均衡理論に関する諸研究 |access-date= 22 May 2016|year=1962|type=PhD Thesis|last1=宇沢|first1=弘文}}</ref> He afterwards was [[professor]] at the [[University of Chicago]] in 1964, and later assumed the position of professor of the Department of Economics at the University of Tokyo in 1969. He also taught at [[Niigata University]], [[Chuo University]], and [[United Nations University]].<ref name="AS-obit">{{cite news|url=http://ajw.asahi.com/article/behind_news/social_affairs/AJ201409260062|title=Leading Japanese economist Hirofumi Uzawa dies at 86|date=26 September 2014|publisher=[[Asahi Shimbun]]|access-date=27 September 2014|url-status=dead|archive-url=https://web.archive.org/web/20141014072808/http://ajw.asahi.com/article/behind_news/social_affairs/AJ201409260062|archive-date=14 October 2014}}</ref> [[Joseph E. Stiglitz]] and [[George A. Akerlof]] did research under Uzawa at the [[University of Chicago]] and David Cass studied under Uzawa at Stanford University.<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/economics/laureates/2001/stiglitz-autobio.html |title=Joseph E. Stiglitz: The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2001 |publisher=Nobelprize.org |access-date=May 12, 2016}}</ref><ref name="2009lect-uzawa" />
+
+Uzawa was a [[senior fellow]] at the social, commonness, and capital research center of [[Doshisha University]]. He held the position of the president of the [[Econometric Society]] from 1976 to 1977. He also held the position of Counsel for the [[Development Bank of Japan]]'s Research Institute of Capital Formation (RICF) from 1968 until his passing.<ref>{{Cite web | url=http://www.dbj.jp/ricf/information/distinguished.html | title=下村治博士・宇沢弘文先生について &#124; 研究所案内 &#124; 設備投資研究所 &#124; 日本政策投資銀行（Dbj）}}</ref>
+
+== Contributions ==
+Uzawa initiated the field of [[mathematical economics]] in postwar days and formulated the [[growth theory]] of [[neoclassical economics]]. This is reflected in the [[Uzawa–Lucas model]], the [[Uzawa iteration]], the [[Uzawa condition]], and [[Uzawa's Theorem]], among others.
+
+In his 1962 paper,<ref>{{Cite book|title=The new Palgrave dictionary of economics|date=2008|publisher=Palgrave Macmillan|others=Durlauf, Steven N., Blume, Lawrence.|isbn=9780333786765|edition= 2nd|location=Basingstoke, Hampshire|pages=608|oclc=181424188}}</ref> Uzawa proved that the two of [[Competitive equilibrium|Walrasian equilibrium]] and [[Brouwer fixed-point theorem|Brouwer's fixed-point theorem]] are equivalent.
+
+==Bibliography==
+===Books===
+* {{Cite book |first1=Kenneth J. |last1=Arrow | author-link1 = Kenneth Arrow |first2=Leonid |last2=Hurwicz | author-link2 = Leonid Hurwicz |first3=Hirofumi |last3=Uzawa |year=1958 |title=Studies in linear and non-linear programming |series= Stanford mathematical studies in the social sciences |volume=2 |publisher=[[Stanford University Press]] |location  = [[Redwood City]], [[California]] }}
+* {{cite book | last1 =Stiglitz | first1 =Joseph E. | author-link1 = Joseph Stiglitz | last2 = Uzawa | first2 = Hirofumi | title = Readings in the modern theory of economic growth | publisher = [[MIT Press]] | location = [[Cambridge, Massachusetts]] | year = 1969 | isbn = 9780262190558 }}
+* {{Cite book |first=Hirofumi |last=Uzawa |year=1989 |title=Preference, Production and Capital: Selected Papers of Hirofumi Uzawa |publisher=[[Cambridge University Press]] |location=[[Cambridge, England]] |isbn=978-0521361743 |url=https://archive.org/details/preferenceproduc0000uzaw }}
+* {{Cite book |first=Hirofumi |last=Uzawa |year=1989 |title=Optimality, Equilibrium, and Growth: Selected Papers of Hirofumi Uzawa |publisher=[[University of Tokyo Press]] |location  = [[Hongō]], [[Bunkyō]], [[Tokyo]], [[Japan]] |isbn=978-4130470414 }}
+* {{Cite book |first=Hirofumi |last=Uzawa |year=2003 |title=Economic Theory and Global Warming |publisher=Cambridge University Press |location  = Cambridge, England |isbn=978-0521823869 }}
+* {{Cite book |first=Hirofumi |last=Uzawa |year=2005 |title=Economic Analysis of Social Common Capital |publisher=Cambridge University Press |location  =Cambridge, England |isbn=978-0521847889 }}
+
+===Chapters in books===
+* {{citation | last1 = Uzawa | first1 = Hirofumi | contribution = Iterative methods for concave programming | editor-last1 = Arrow | editor-first1 = Kenneth J. | editor-last2 = Hurwicz | editor-first2 = Leonid | editor-last3 = Uzawa | editor-first3 = Hirofumi | editor-link1 = Kenneth Arrow | editor-link2 = Leonid Hurwicz | title = Studies in linear and non-linear programming | pages = 154–165 | publisher = Stanford University Press | location = Stanford, California | year = 1958 | postscript = .}}
+* {{citation | last1 = Uzawa | first1 = Hirofumi | contribution = Preference and rational choice in the theory of consumption | editor-last1 = Arrow | editor-first1 = Kenneth J. | editor-last2 = Karlin | editor-first2 = Samuel | editor-last3 = Suppes | editor-first3 = Patrick | editor-link1 = Kenneth Arrow | editor-link2 = Samuel Karlin | editor-link3 = Patrick Suppes | title = Mathematical models in the social sciences, 1959: Proceedings of the first Stanford symposium | pages = 129–149 | publisher = Stanford University Press | location = Stanford, California | series = Stanford mathematical studies in the social sciences, IV | year = 1960 | isbn = 9780804700214 | postscript = .}}
+* {{citation | last1 = Uzawa | first1 = Hirofumi | contribution = Time preference, the consumption function, and optimum asset holdings | editor-last1 = Wolfe | editor-first1 = J.N. | editor-link1 = J.N. Wolfe | title = Value, Capital and Growth | pages = [https://archive.org/details/valuecapitalgrow0000unse/page/485 485–504] | publisher = [[Edinburgh University Press]] | location = Edinburgh, Scotland, UK | year = 1968 | isbn = 978-0852240205 | postscript = . | url = https://archive.org/details/valuecapitalgrow0000unse/page/485 }}
+* {{citation | first1 = Leonid | last1 = Hurwicz | last2 = Uzawa | first2 = Hirofumi | contribution = On the integrability of demand functions | editor-last1 = Chipman | editor-first1 = John Somerset | editor-link1 = John Somerset Chipman | title = Preferences, Utility and Demand | pages = [https://archive.org/details/preferencesutili0000unse/page/114 114–148] | publisher = [[Harcourt Brace Jovanovich]] | location = [[New York City|New York]] | year = 1971 | isbn = 978-0155710771 | postscript = . | url = https://archive.org/details/preferencesutili0000unse/page/114 }}
+* {{citation | last1 = Uzawa | first1 = Hirofumi | contribution = Optimum Investment in Social Overhead Capital | editor-last1 = Mills | editor-first1 = Edwin S. | editor-link1 = Edwin Mills (economist) | title = Economic Analysis of Environmental Problems | pages = [https://archive.org/details/economicanalysis00mill/page/9 9–26] | contribution-url = https://www.nber.org/chapters/c2831.pdf | publisher = [[NBER]] | year = 1975 | isbn = 978-0-87014-267-3 | postscript = . | url = https://archive.org/details/economicanalysis00mill/page/9 }}
+* {{citation | last1 = Uzawa | first1 = Hirofumi | contribution = Global warming initiatives: the Pacific Rim | editor-last1 = Dornbusch | editor-first1 = Rudiger | editor-last2 = Poterba | editor-first2 = James M. | editor-link1 = Rudiger Dornbusch | editor-link2 = James M. Poterba | title = Global Warming: Economic Policy Responses | pages = [https://archive.org/details/isbn_9780262041263/page/275 275–321] | publisher = [[MIT Press]] | location = Cambridge, Massachusetts | year = 1991 | isbn = 978-0262041263 | postscript = . | url = https://archive.org/details/isbn_9780262041263/page/275 }}
+
+===Selected journal articles===
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Note on preference and axioms of choice |volume=8 |issue=1 |year=1956 |journal=[[Annals of the Institute of Statistical Mathematics]] |pages=35–40 |doi= 10.1007/BF02863564 |s2cid=121301191 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Note on the Rational Selection of Decision Functions |volume=25 |issue=1 |year=1957 |journal=[[Econometrica]] |pages=166–174 |doi=10.2307/1907749 |jstor=1907749 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=A note on the Menger-Wieser theory of imputation |volume=18 |issue=3 |year=1958 |journal=[[Zeitschrift für Nationalökonomie]] |pages=318–334 |doi=10.1007/BF01317023 |s2cid=154846224 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Prices of the Factors of Production in International Trade |volume=27 |issue=3 |year=1959 |journal=Econometrica |pages=448–468 |doi=10.2307/1909471 |jstor=1909471 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Locally Most Powerful Rank Tests for Two-Sample Problems |volume=31 |issue=3 |year=1960 |journal=[[Annals of Mathematical Statistics]] |pages=685–702 |doi=10.1214/aoms/1177705795 |jstor=2237578 |doi-access=free }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Walras' Tâtonnement in the Theory of Exchange |volume=27 |issue=3 |year=1960 |journal=[[Review of Economic Studies]] |pages=182–194 |url=http://www.umass.edu/preferen/Class%20Material/Readings%20in%20Market%20Dynamics/Uzawa%20REStud%201960.pdf |doi=10.2307/2296080 |jstor=2296080 |access-date=2016-05-29 |archive-url=https://web.archive.org/web/20150528192212/http://www.umass.edu/preferen/Class%20Material/Readings%20in%20Market%20Dynamics/Uzawa%20REStud%201960.pdf |archive-date=2015-05-28 |url-status=dead }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Market Mechanisms and Mathematical Programming |volume=28 |issue=4 |year=1960 |journal=Econometrica |pages=872–881 |doi=10.2307/1907569 |jstor=1907569 }}
+* {{Cite journal |first1=Hukukane |last1=Nikaidô | author-link1 = Hukukane Nikaido |first2=Hirofumi |last2=Uzawa |title=Stability and Non-Negativity in a Walrasian Tâtonnement Process |volume=1 |issue=1 |year=1960 |journal=[[International Economic Review]] |pages=50–59 |doi=10.2307/2525408 |jstor= 2525408}}
+* {{Cite journal |first1=Kenneth J. |last1=Arrow | author-link1 = Kenneth Arrow |first2=Leonid |last2=Hurwicz | author-link2 = Leonid Hurwicz |first3=Hirofumi |last3=Uzawa |title=Constraint qualifications in maximization problems |volume=8 |issue=2 |year=1961 |journal=[[Naval Research Logistics]] |pages=175–191 |doi=10.1002/nav.3800080206 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title= A Comment on Newman's "Complete Ordering and Revealed Preference" |volume=28 |issue=2 |year=1961 |journal=Review of Economic Studies |pages=140–141 |doi= 10.2307/2295712 |jstor=2295712 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Neutral Inventions and the Stability of Growth Equilibrium |volume=28 |issue=2 |year=1961 |journal=Review of Economic Studies |pages=117–124 |doi=10.2307/2295709 |jstor=2295709 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=On a Two-Sector Model of Economic Growth |volume=29 |issue=1 |year=1961 |journal=Review of Economic Studies |pages=40–47 |doi= 10.2307/2296180|jstor=2296180 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=The Stability of Dynamic Processes |volume=29 |issue=4 |year=1961 |journal=Econometrica |pages=617–631 |url =http://www.umass.edu/preferen/Class%20Material/Readings%20in%20Market%20Dynamics/Uzawa%20Econ%201961.pdf |doi=10.2307/1911808 |jstor=1911808 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=On the Stability of Edgeworth's Barter Process |volume=3 |issue=2 |year=1962 |journal=International Economic Review |pages=218–232 |url =http://www.umass.edu/preferen/Class%20Material/Readings%20in%20Market%20Dynamics/Uzawa%20IER%201962.pdf |doi=10.2307/2525426 |jstor=2525426 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Walras's Existence Theorem and Brouwer's Fixed Point Theorem |volume=13 |issue=1 |year=1962 |journal=[[Economic Studies Quarterly]] |pages=59–62 |url =https://www.jstage.jst.go.jp/article/economics1950/13/1/13_1_59/_pdf }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Aggregative Convexity and the Existence of Competitive Equilibrium |volume=12 |issue=2 |year=1962 |journal=Economic Studies Quarterly |pages=52–60 |url =https://www.jstage.jst.go.jp/article/economics1950/12/2/12_2_52/_pdf }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Production Functions with Constant Elasticities of Substitution |journal=Review of Economic Studies |volume=29 |issue=4 |year=1962 |pages=291–299 |doi=10.2307/2296305 |jstor=2296305 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=On a Two-Sector Model of Economic Growth II |volume=30 |issue=2 |year=1963 |journal=Review of Economic Studies |pages=105–118 |doi=10.2307/2295808 |jstor=2295808 }}
+* {{Cite journal |first1=S. M. |last1=Goldman | author-link1 = Steven M. Goldman|first2=Hirofumi |last2=Uzawa |title=A Note on Separability in Demand Analysis |volume=32 |issue=3 |year=1964 |journal=Econometrica |pages=387–398 |doi=10.2307/1913043 |jstor=1913043 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=A Note on Professor Solow's Model of Technical Progress |volume=14 |issue=3 |year=1964 |journal=Economic Studies Quarterly |pages=63–68 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Optimal Growth in a Two-Sector Model of Capital Accumulation |volume=31 |issue=1 |year=1964 |journal=Review of Economic Studies |pages=1–24 |doi=10.2307/2295932 |jstor=2295932 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Duality Principles in the Theory of Cost and Production |volume=5 |issue=2 |year=1964 |journal=International Economic Review |pages=216–220 |doi=10.2307/2525564 |jstor=2525564 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Optimum Technical Change in an Aggregative Model of Economic Growth |journal=International Economic Review |volume=6 |issue=1 |year=1965 |pages=18–31 |url =http://kisi.deu.edu.tr/yesim.kustepeli/uzawa1965.pdf |doi=10.2307/2525621 |jstor=2525621}}
+* {{Cite journal |first1=Hajime |last1=Oniki | author-link1 = Hajime Oniki |first2=Hirofumi |last2=Uzawa |title=Patterns of Trade and Investment in a Dynamic Model of International Trade |volume=32 |issue=1 |year=1965 |journal=Review of Economic Studies |pages=15–38 |doi=10.2307/2296328 |jstor=2296328 }}
+* {{Cite journal |first1=Hirofumi |last1=Uzawa |title=Time Preference and the Penrose Effect in a Two-Class Model of Economic Growth |volume=77 |issue=4 |year=1969 |journal=[[Journal of Political Economy]] |pages=628–652 |url =http://pages.stern.nyu.edu/~dbackus/GE_asset_pricing/adjustment%20costs/Uzawa%20JPE%2069.pdf |doi=10.1086/259554 |jstor=1829323 |s2cid=154688691 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Diffusion of Inflationary Processes in a Dynamic Model of International Trade |volume=22 |issue=1 |year=1971 |journal=Economic Studies Quarterly |pages=14–37 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Sur la théorie économique du capital collectif social |issue=15 |year=1974 |journal=[[Cahiers du Séminaire d'Économétrie]] |pages=101–122 |doi= 10.2307/20075467|jstor=20075467 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Imputed prices of greenhouse gases and land forests |volume=3 |issue=4–5 |year=1993 |journal=[[Renewable Energy]] |pages=499–511 |doi=10.1016/0960-1481(93)90116-X }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Environment and Development Economics |volume=1 |issue=1 |year=1996 |journal=[[Environmental Economics and Policy Studies]] |pages=1–2 |doi=10.1017/S1355770X00000322 }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=An endogenous rate of time preference, the Penrose effect, and dynamic optimality of environmental quality |volume=93 |issue=12 |year=1996 |journal=[[PNAS]] |pages=5770–5776 |doi= 10.1073/pnas.93.12.5770|pmid=11607685 |pmc=39136|bibcode=1996PNAS...93.5770U |doi-access=free }}
+* {{Cite journal |first=Hirofumi |last=Uzawa |title=Global warming as a cooperative game |volume=2 |issue=1 |year=1999 |journal=Environmental Economics and Policy Studies |pages=1–37 |doi=10.1007/BF03353901 |s2cid=154994852 }}
+
+=== Working Papers ===
+* [[Tjalling Koopmans|Koopmans, Tjalling C.]]; Uzawa, Hirofumi (1982). "Constancy and Constant Differences of Price Elasticities of Demand," [[Cowles Foundation]] Discussion Papers 654, Cowles Foundation for Research in Economics, [[Yale University]].
+
+== References ==
+{{reflist|refs=
+<ref name="2009lect-uzawa">{{Cite web |url=http://www.af-info.or.jp/en/blueplanet/doc/list/2009lect-uzawa.pdf |title=2009 Blue Planet Prize Commemorative Lectures |publisher=The Asahi Glass Foundation |access-date=2016-05-22}}</ref>
+}}
+
+== Further reading ==
+* {{cite book |last=Ikeo |first=Aiko |title=A History of Economic Science in Japan: The Internationalization of Economics in the Twentieth Century |publisher=Routledge |year=2014 |url={{Google books |plainurl=yes |id=4rJEAwAAQBAJ |page= }} |isbn=978-1-317-74753-6 }}
+
+== External links ==
+* {{Cite journal
+|author=Masahiro Okuno-Fujiwara and Karl Shell
+|year=2009
+|url=https://www.researchgate.net/publication/46545122
+|title=An Interview with Hirofumi Uzawa
+|journal=Macroeconomic Dynamics
+|volume=13
+|issue=3
+|pages=390–420
+|doi=10.1017/S1365100509080213
+|s2cid=154942138
+}}
+* {{Cite web
+|url=http://kovanda.blog.tyden.cz/clanky/2961/papezuv-buddhista-usa-nas-kolonizuji-hirofumi-uzawa.html
+|title=An Interview with Hirofumi Uzawa, 2009 (in Czech)
+|date=2009-04-25
+|publisher=Kovanda, Lukas
+|access-date=2010-04-25
+}}
+* {{MathGenealogy|id=47735}}
+
+{{Presidents of the Econometric Society}}
+{{Presidents of the Japanese Economic Association}}
+{{Authority control}}
+
+{{DEFAULTSORT:Uzawa, Hirofumi}}
+[[Category:1928 births]]
+[[Category:2014 deaths]]
+[[Category:People from Yonago, Tottori]]
+[[Category:Japanese economists]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Growth economists]]
+[[Category:Stanford University Department of Economics faculty]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:University of Chicago faculty]]
+[[Category:University of Tokyo faculty]]
+[[Category:Niigata University faculty]]
+[[Category:Chuo University faculty]]
+[[Category:Doshisha University faculty]]
+[[Category:United Nations University faculty]]
+[[Category:University of Tokyo alumni]]
+[[Category:Tohoku University alumni]]
+[[Category:Foreign associates of the National Academy of Sciences]]
+[[Category:Members of the Japan Academy]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Presidents of the Japanese Economic Association]]
+[[Category:Persons of Cultural Merit]]
+[[Category:Recipients of the Order of Culture]]

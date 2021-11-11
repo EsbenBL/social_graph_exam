@@ -1,0 +1,82 @@
+{{Short description|American economist and academic}}
+{{BLP sources|date=January 2013}}
+{{Infobox economist
+| name             = Mark Watson
+| school_tradition =
+| color            = <!-- lightsteelblue -->
+| image       =
+| image_size       =
+| caption    =
+| birth_date       = {{birth year and age|1952}}
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = [[United States]]
+| institution      = [[Princeton University]]
+| field            = [[Econometrics]]
+| alma_mater       = [[Pierce College]]<br>[[California State University, Northridge]]<br>[[University of California, San Diego]]
+| doctoral_advisor  = [[Robert F. Engle]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| influences       = [[Clive Granger]]
+| influenced       = [[Ricardo Reis]]
+| contributions    =
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = f | repec_id = pwa582
+}}
+
+'''Mark W. Watson''' (born 1952) is the Howard Harrison and Gabrielle Snyder Beck Professor of Economics and Public Affairs at the [[Woodrow Wilson School of Public and International Affairs]] at [[Princeton University]]. Prior to coming to Princeton in 1995, Watson served on the economics faculty at [[Harvard University]] and [[Northwestern University]]. His research focuses on time-series econometrics, empirical macroeconomics, and macroeconomic forecasting.<ref name=bio>{{cite web |url= https://bfi.uchicago.edu/scholar/mark-w-watson/ |title=Mark W. Watson |author=<!--Not stated--> |date= |website=Becker Friedman Institute |publisher=Becker Friedman Institute |access-date= 2019-05-06}}</ref>
+
+Watson has published widely cited articles in these areas, and is the co-author of ''Introduction to Econometrics'', a leading undergraduate textbook.<ref name=bio/>
+
+He received a B.A. in economics at [[California State University, Northridge]] and a Ph.D. in economics at the [[University of California, San Diego]].<ref name=personalpage>{{cite web |url=http://www.princeton.edu/~mwatson/ |title=Mark W. Watson |author=<!--Not stated--> |date= |website=Princeton.edu |publisher=Princeton |access-date= 2019-05-06}}</ref><ref>{{Cite web|url=https://wws.princeton.edu/faculty-research/faculty/mwatson|title=Mark Watson|date=2013-09-19|website=Woodrow Wilson School of Public and International Affairs|language=en|access-date=2019-05-11}}</ref>
+
+He and [[Tim Bollerslev]] are widely regarded as carrying forward the work of the Nobel Prize-winning economist [[Robert F. Engle]], as acknowledged by Engle himself.<ref name=engleauto>[http://nobelprize.org/nobel_prizes/economics/laureates/2003/engle-autobio.html Engle's Autobiography on the Nobel Prize Website].</ref>
+
+==Works==
+Trend, Seasonal and Sectorial Inflation in the Euro Area (with James Stock), Jan. 2019.<ref name=sector>{{cite web |url=http://www.princeton.edu/~mwatson/papers/EA_Sectoral_Inflation_Stock_Watson_20190127.pdf |website=Mark W. Watson|title=Princeton|access-date= 2020-12-10}}.</ref>
+
+Aggregate Implications of Changing Sectoral Trends (with Andrew Foerster, Andreas Hornstein, and Pierre-Daniel Sarte), Revised Jul. 2020
+
+Low-Frequency Analysis of Economic Time Series (with Ulrich Müller ), September 2020, Draft Chapter for the Handbook of Econometrics, Vol. 7, edited by S. Durlauf, L.P. Hansen, J.J. Heckman, and R. Matzkin.
+
+Business Cycle Properties of Selected U.S. Economic Time Series, 1959-1988 (with James H. Stock), NBER WP 3376 1990.
+
+Confidence Sets in Regressions with Highly Serially Correlated Regressors (with James H. Stock), Revised December 1996.
+
+Empirical Bayes Regression With Many Regressors (with Thomas Knox and James H. Stock), Revised January 2004.
+
+Optimal Tests for Reduced Rank Time Variation in Regression Coefficients and Level Variation in the Multivariate Local Level Model (with Piotr Eliasz and James H. Stock), Revised October 2004.
+
+Implications of Dynamic Factor Models for VAR Analysis (with James H. Stock), Revised June 2005.
+
+Measuring Changes in the Value of the Numeraire (with Ricardo Reis), May 2007 <ref name=changes>
+{{cite web |url=http://www.princeton.edu/~mwatson/wp.html|website=Mark Watson|title=Princeton.edu}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.princeton.edu/~mwatson/ Website at Princeton]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Watson, Mark}}
+[[Category:1952 births]]
+[[Category:Living people]]
+[[Category:Economists from California]]
+[[Category:Time series econometricians]]
+[[Category:California State University, Northridge alumni]]
+[[Category:University of California, San Diego alumni]]
+[[Category:Princeton University faculty]]
+[[Category:Harvard University faculty]]
+[[Category:Northwestern University faculty]]
+[[Category:Pierce College people]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:21st-century American economists]]
+
+
+{{US-economist-stub}}

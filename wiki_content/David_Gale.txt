@@ -1,0 +1,115 @@
+{{short description|American mathematician}}
+{{About|the academic|the actor|David Gale (actor)|the film|The Life of David Gale}}
+{{more citations needed|date=February 2013}}
+{{Infobox scientist
+| name              = David Gale
+| image             = David Gale 2003 (re-scanned) (cropped).jpg
+| birth_date        = {{birth date|1921|12|13|mf=y}}
+| birth_place       = [[New York City]], [[New York (state)|New York]]
+| death_date        = {{death date and age|2008|3|7|1921|12|13|mf=y}}
+| death_place       = [[Berkeley, California|Berkeley]], [[California]]
+| residence         = United States
+| nationality       = American
+| field             = [[Mathematics]], [[economics]]
+| work_institution  = [[University of California, Berkeley]], 1966–2008 <br />[[Brown University]], 1950–65 <br /> [[Rand Corporation]], 1957–58 <br />[[Princeton University]] 1949–50
+| alma_mater        = Princeton University<br />[[University of Michigan]] <br />[[Swarthmore College]]
+| doctoral_advisor  = [[Albert W. Tucker]]
+| doctoral_students = [[William A. Brock]]<br />[[Hal Varian]]
+| known_for         = [[Gale transform]]<br />[[linear programming]]<br />[[convex analysis]] <br />[[Chomp]]<br /> [[Bridg-It]] <br /> [[Gale–Shapley algorithm]]<br />[[Ramsey problem]]
+| prizes            = [[John von Neumann Theory Prize]] <small>(1980)</small><br>[[Golden Goose Award]] <small>(2013)</small><br>[[Pirelli Internetional Award]]
+| footnotes         = 
+}}
+
+'''David Gale''' (December 13, 1921&nbsp;– March 7, 2008) was an American [[mathematician]] and [[economist]].  He was a professor emeritus at the [[University of California, Berkeley]], affiliated with the departments of mathematics, economics, and industrial engineering and operations research. He has contributed to the fields of [[mathematical economics]], [[game theory]], and [[convex analysis]].
+
+Gale earned his B.A. from [[Swarthmore College]], obtained an M.A. from the [[University of Michigan]] in 1947, and earned his [[Doctor of Philosophy|Ph.D.]] in Mathematics at [[Princeton University]] in 1949.  He taught at [[Brown University]] from 1950 to 1965 and then joined the faculty at the [[University of California, Berkeley]].
+
+Gale lived in [[Berkeley, California]], and [[Paris]], [[France]] with his partner [[Sandra Gilbert]], feminist literary scholar and poet.  He has three daughters and two grandsons.
+
+==Contribution==
+Gale's contributions to [[mathematical economics]] include an early proof of the existence of competitive [[General equilibrium theory|equilibrium]], his solution of the ''n''-dimensional [[Ramsey problem]], in the theory of optimal economic growth.
+
+Gale and F. M. Stewart initiated the study of infinite games with [[perfect information]]. This work led to fundamental contributions to [[mathematical logic]].
+
+Gale is the inventor of the game of [[Bridg-It]] (also known as "Game of Gale") and [[Chomp]].
+
+Gale played a fundamental role in the development of the theory of [[linear programming]] and linear inequalities. His classic 1960 book ''The Theory of Linear Economic Models'' continues to be a standard reference for this area.
+
+The [[Gale transform]] is an [[involution (mathematics)|involution]] on sets of points in [[projective space]].  The concept is important in [[optimization]], [[coding theory]], and [[algebraic geometry]].
+
+Gale's 1962 paper with [[Lloyd Shapley]] on the [[stable marriage problem]] provides the first formal statement and proof of a problem that has far-reaching implications in many matching markets. The resulting [[Gale–Shapley algorithm]] is currently being applied in New York and Boston public school systems in assigning students to schools. In 2012 The Nobel Prize in Economics was awarded to Shapley for this work.<ref>[[Alvin E. Roth|Roth, Alvin E.]] (March, 2008), "[http://kuznets.fas.harvard.edu/~aroth/papers/Gale%20and%20Shapley.revised.IJGT.pdf Deferred Acceptance Algorithms: History, Theory, Practice, and Open Questions] {{webarchive|url=https://web.archive.org/web/20080512055558/http://kuznets.fas.harvard.edu/~aroth/papers/Gale%20and%20Shapley.revised.IJGT.pdf |date=2008-05-12 }}", ''International Journal of Game Theory'', Special Issue in Honor of David Gale on his 85th birthday, 36: 537-569; {{doi|10.1007/s00182-008-0117-6}}.</ref>
+
+Gale wrote a Mathematical Entertainments column for ''[[The Mathematical Intelligencer]]'' from 1991 through 1997.  The book ''Tracking the Automatic Ant'' collects these columns.
+
+In 2004 Gale developed MathSite, a pedagogic website that uses interactive exhibits to illustrate important mathematical ideas.  MathSite won the 2007 [[Pirelli Internetional Award]] for Science Communication in Mathematics.
+
+==Awards and honors==
+
+* Procter Fellow, [[Princeton University]], 1948
+* Fulbright Research Fellowship, 1953–54
+* [[Guggenheim Fellow]], 1962–63, 1981
+* Fellow, Econometric Society, 1965
+* Miller Professor, 1971–72
+* Fellow, Center for Advanced Study in Behavioral Sciences, 1975–76
+* Fellow, [[American Academy of Arts and Sciences]], 1978
+* Lester Ford Prize, 1979–80
+* [[John von Neumann Theory Prize]], 1980
+* Member, [[United States National Academy of Sciences|National Academy of Sciences]], 1983
+* 2002 class of [[Fellow]]s of the [[Institute for Operations Research and the Management Sciences]]<ref>{{citation|url=https://www.informs.org/Recognizing-Excellence/Fellows/Fellows-Alphabetical-List|title=Fellows: Alphabetical List|publisher=[[Institute for Operations Research and the Management Sciences]]|access-date=2019-10-09}}</ref>
+* [[Pirelli Internetional Award]] Science Communication of Mathematics, 2007
+* [[Golden Goose Award]], 2013<ref>{{cite web | title=Market Design | url=http://www.goldengooseaward.org/awardees/zfh0utmzft7uewzc3lscuvdp21ogw2 | publisher=The Golden Goose Award | access-date=2015-05-27}}</ref>
+
+==Selected publications==
+
+* Infinite games with perfect information (with F.M. Stewart). ''Annals of Mathematics'' 28 (1953), pp.&nbsp;245–266.
+* The law of supply and demand. ''Mathematica Scandinavica'' 3 (1955), pp.&nbsp;33–44.
+* Neighboring vertices on a convex polyhedron, in “''Linear Inequalities and Related Systems''” (H.W. Kuhn and A.W. Tucker, eds.), ''Annals of Mathematical Studies'' 38, 255–263, Princeton Univ. Press, 1956.
+* ''The theory of linear economic models''. McGraw-Hill, New York, 1960.
+* College admissions and the stability of marriage (with L.S. Shapley). ''American Mathematical Monthly'' 69 (1962), pp.&nbsp;9–15.
+* A note on global instability of competitive equilibrium.'' Naval Research Logistics Quarterly'' 10 (1963), pp.&nbsp;81–87.
+* The Jacobian matrix and global univalence of mappings (with H. Nikaido). ''Mathematische Annalen'' 2 (1965), pp.&nbsp;81–93.
+* On optimal development in a multi-sector economy. ''The Review of Economic Studies'' 34 (1967), pp.&nbsp;1–18.
+* Pure exchange equilibrium of dynamic economic models. ''Journal of Economic Theory'' 6 (1973), pp.&nbsp;12–26.
+* A curious nim-type game. ''American Mathematical Monthly'' 81(1974), pp.&nbsp;876–879.
+* [http://www.maa.org/programs/maa-awards/writing-awards/the-game-of-hex-and-the-brouwer-fixed-point-theorem The game of Hex and the Brouwer fixed-point theorem]. ''American Mathematical Monthly'' 86(1979), pp.&nbsp;818–827.
+* The strategy structure of two-sided matching markets (with G. Demange). ''Econometrica'' 53, no. 4 (1985), pp.&nbsp;873–888.
+* ''Tracking the automatic ant. And other mathematical explorations. A collection of Mathematical Entertainments columns from [[The Mathematical Intelligencer]].'' Springer-Verlag, New York, 1998, pp. xii + 241.
+
+==See also==
+* [[Gale diagram]]
+* [[Gale evenness condition]]
+
+==Notes==
+{{Reflist}}
+* [https://web.archive.org/web/20060924004404/http://www.informs.org/article.php?id=1013 Citation of von Neumann Theory Prize on David Gale’s work]
+* {{cite web |url=http://www.berkeley.edu/news/media/releases/2008/03/18_galeobit.shtml |title=Mathematician, puzzle lover David Gale has died }}
+* {{cite news |url=https://www.nytimes.com/2008/03/31/us/31gale.html |title=David Gale, Who Created Marriage Algorithm, Is Dead at 86 |first=Jeremy |last=Pearce |newspaper=The New York Times |date=March 31, 2008 }}
+
+==External links==
+* [http://mathsite.math.berkeley.edu/main.html MathSite]
+* {{MathGenealogy|id=10282 }}
+* [https://www.informs.org/content/view/full/272912 Biography of David Gale] from the Institute for Operations Research and the Management Sciences
+
+{{John von Neumann Theory Prize recipients}}
+{{Authority control}}
+
+{{DEFAULTSORT:Gale, David}}
+[[Category:20th-century American economists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Brown University faculty]]
+[[Category:UC Berkeley College of Engineering faculty]]
+[[Category:University of Michigan alumni]]
+[[Category:Princeton University alumni]]
+[[Category:Swarthmore College alumni]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:John von Neumann Theory Prize winners]]
+[[Category:1921 births]]
+[[Category:2008 deaths]]
+[[Category:Game theorists]]
+[[Category:General equilibrium theorists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the Institute for Operations Research and the Management Sciences]]
+[[Category:Combinatorial game theorists]]
+[[Category:University of California, Berkeley College of Letters and Science faculty]]
+[[Category:American expatriates in France]]

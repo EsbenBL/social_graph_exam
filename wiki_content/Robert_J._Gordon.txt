@@ -1,0 +1,79 @@
+{{Short description|American economist}}
+{{Other people|Robert Gordon|Robert Gordon (disambiguation)}}
+{{BLP sources|date=November 2019}}
+{{Infobox economist
+| name             = Robert J. Gordon
+| image            =
+| image_size       =
+| caption          =
+| birth_date       = {{nowrap|{{Birth date and age|1940|09|03}}}}
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = [[United States|American]]
+| institution      = [[Northwestern University]]
+| field            = [[Macroeconomics]]<br />[[Social economics]]
+| school_tradition = [[New Keynesian economics]]
+| alma_mater       = [[Harvard University]] (1962)<br />[[Oxford University]] (1964)<br />[[Massachusetts Institute of Technology|MIT]] (1967)
+| doctoral_advisor = [[Robert Solow]]<ref>{{cite thesis |last= Gordon |first= Robert J. |date= 1967 |title= Problems in the measurement of real investment in the U.S. private economy |type= Ph.D. |publisher= [[MIT]] |hdl= 1721.1/105586 }}</ref>
+| academic_advisors =
+| doctoral_students = 
+| notable_students =
+| influences       =
+| influenced       =
+| contributions    = [[Core inflation]]<br />[[Productivity]]<br />[[Growth theory]]
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pgo50
+}}
+
+'''Robert James''' '''Gordon''' is an [[United States|American]] [[economist]]. He is the Stanley G. Harris Professor of the Social Sciences at [[Northwestern University]]. Gordon is one of the world’s leading experts on inflation, unemployment, and long-term economic growth. His recent work asking whether U. S. economic growth is “almost over” has been widely cited,{{Citation needed|date=November 2020}} and in 2016 he was named as one of Bloomberg’s top 50 most influential people in the world. <ref>{{Cite news|url=https://www.bloomberg.com/features/2016-most-influential/|title=These Are the 50 Most Influential People in the World of Finance|newspaper=Bloomberg.com}}</ref>
+
+==Education==
+Gordon graduated [[magna cum laude]] with a [[Bachelor of Arts|B.A.]] from [[Harvard University]] in 1962.  He then attended [[Oxford University]] as a [[Marshall Scholar]] and received his B.A. in 1964.  He received his [[Ph.D.]] from [[MIT]] in 1967 with a dissertation titled ''Problems in the Measurement of Real Investment in the U.S. Private Economy.''
+
+==Career and contributions==
+From 1995 to 1997, he served on the [[Boskin Commission]] to assess the accuracy of the [[United States Consumer Price Index]] (CPI), having written the definitive criticism{{whom|date=January 2021}} of CPI [[inflation]] overstatement in 1990.  He was also a member of the Business Cycle Dating Committee of the [[National Bureau of Economic Research|NBER]], which determines when recessions start and end, for more than three decades.<ref>DEPARTMENT OF ECONOMICS. (n.d.). Retrieved December 07, 2020, from https://economics.northwestern.edu/people/directory/robert-gordon.html</ref>
+
+Robert J. Gordon's popular text ''Macroeconomics'' was the first to incorporate the [[rational expectations]] hypothesis into the analysis of the [[Phillips curve]].  Soon all subsequent macro textbooks were expounding the "Expectations Augmented Phillips Curve."  In addition, Gordon has written for economic journals, outlining the relation of the productivity growth of modern-day inventions to the great inventions of the late 19th century. He focuses on the [[Dot-com bubble|impact of computers in the post-1995 economy]] on the durable manufacturing sector. Furthermore, he emphasises the marginal productivity of computing technology affects standard of living in a much more contained fashion than the earlier great American inventions.<ref>{{Cite journal |doi=10.1257/jep.14.4.49 |last=Gordon |first=Robert J. |year=2000 |title=Does the 'New Economy' measure up to the great Inventions of the Past? |journal=Journal of Economic Perspectives |volume=14 |issue=4 |pages=49–74 |jstor=2647075 |doi-access=free }}</ref><ref>{{Cite journal |last1=Gordon |first1=Robert J. |title=Interpreting the 'One Big Wave' in U.S. Long Term Productivity Growth |journal=NBER Working Paper No. 7752 |date=June 2000 |doi=10.3386/w7752 |doi-access=free }}</ref> Contrary to conventional wisdom, he downplays the role of computer technology in the economic growth of the latter 20th century in accounting for business cycle and trends. This concept may help explain the [[productivity paradox]] – why economic productivity since 1970 has been significantly lower than in the preceding century, when a different set of technological and medical advancements drove a much higher rate of economic productivity.
+
+His 2016 book ''The Rise and Fall of American Growth'' was published by the Princeton University Press. The book discusses the immense economic growth that occurred in the century following the [[American Civil War]] as well as why such growth cannot be repeated.<ref>Paperback. (n.d.). Retrieved December 07, 2020, from https://press.princeton.edu/books/paperback/9780691175805/the-rise-and-fall-of-american-growth</ref>
+
+==Family==
+{{unreferenced section|date=January 2021}}
+Gordon is a member of a family of economists.  Both his parents [[R. Aaron Gordon|Robert Aaron]] and [[Margaret S. Gordon|Margaret]] earned distinction independently, each  contributing to economic knowledge with a view to real practical benefit for society, as did his brother [[David Gordon (economist)|David]], himself more of a radical. For example, his father is the namesake of the "Gordon Report" which proposed reforms for the computation of the unemployment rate by the [[US Department of Labor]] Bureau of Labor Statistics. He currently resides in [[Evanston, Illinois]] with his wife Julie.
+
+==Selected works==
+*''The Rise and Fall of American Growth: The U.S. Standard of Living Since the Civil War.'' Princeton University Press. 2016. {{ISBN|978-0691147727}}.
+* {{cite book |title=Macroeconomics |publisher=Addison Wesley |year=2002 |isbn=978-0-201-77036-0 |url-access=registration |url=https://archive.org/details/macroeconomics9t00robe }}
+* {{cite book |title=The Measurement of Durable Goods Prices |publisher=University of Chicago Press |year=1990 |isbn=978-0-226-30455-7}}
+* {{cite journal |title=The Demand for and Supply of Inflation |journal=[[Journal of Law and Economics]] |volume=18 |year=1975 |issue=3 |pages=807–836 |jstor=725066 |doi=10.1086/466845|last1=Gordon |first1=Robert J. |s2cid=153671471 |url=http://www.kellogg.northwestern.edu/research/math/papers/201.pdf }}
+* {{cite journal |title=Recent Developments in the Theory of Inflation and Unemployment |journal=[[Journal of Monetary Economics]] |volume=2 |issue=2 |year=1976 |pages=195–219 |doi=10.1016/0304-3932(76)90033-7|last1=Gordon |first1=Robert J. |hdl=10419/220558 |url=http://www.kellogg.northwestern.edu/research/math/papers/199.pdf }}
+* {{cite book |title=Milton Friedman's Monetary Framework: A Debate With His Critics |location=Chicago |publisher=University of Chicago Press |year=1977}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+* [http://economics.weinberg.northwestern.edu/robert-gordon/indexmsie.html  Northwestern University: Robert J. Gordon]
+* [https://ideas.repec.org/e/pgo50.html#details Robert J. Gordon's economics papers] at [[RePEc]]
+* {{TED speaker}}
+* {{C-SPAN|Robert Gordon 02}}
+
+{{Keynesians}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gordon, Robert J.}}
+[[Category:1940 births]]
+[[Category:Living people]]
+[[Category:21st-century American economists]]
+[[Category:20th-century American economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Harvard University alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:New Keynesian economists]]
+[[Category:Northwestern University faculty]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Distinguished Fellows of the American Economic Association]]

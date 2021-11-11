@@ -1,0 +1,76 @@
+{{short description|American economist}}
+{{For|the Australian-British economist|Robert Hall, Baron Roberthall}}
+{{BLP sources|date=November 2013}}
+
+{{Infobox economist
+| name             = Robert E. Hall 
+| image            = 
+| image_size       = 
+| caption          = 
+| birth_date       = {{birth date and age|1943|8|13|mf=y}}
+| birth_place      = [[Palo Alto, California]], U.S.
+| death_date       = 
+| death_place      =  
+| nationality      = [[Americans|American]]
+| institution      = [[Stanford University]]
+| field            = [[Macroeconomics]]
+| alma_mater       = [[Massachusetts Institute of Technology]]<br>[[University of California, Berkeley]]
+| doctoral_advisor          = [[Robert Solow]]
+| academic_advisors         =
+| doctoral_students         = 
+| notable_students          =
+| influences       = 
+| influenced       = 
+| contributions    = 
+| awards           =
+| spouse           = Susan E. Woodward
+| repec_prefix = e | repec_id = pha128
+}}
+
+'''Robert Ernest "Bob" Hall''' (born August 13, 1943) is an American [[economist]] and a Robert and Carole McNeil Senior Fellow at [[Stanford University]]'s [[Hoover Institution]]. He is generally considered a [[macroeconomics|macroeconomist]], but he describes himself as an "applied economist".<ref>[http://www.stanford.edu/~rehall/ Webpage] Robert Hall at Stanford.</ref>
+
+Hall received a [[Bachelor of Arts|BA]] in economics at the [[University of California, Berkeley]], and a [[Doctor of Philosophy|PhD]] in economics from [[Massachusetts Institute of Technology|MIT]] for a thesis titled ''Essays on the Theory of Wealth''<ref>[http://www.stanford.edu/~rehall/Essays%20Theory%20of%20Wealth%201967.pdf ''Essays on the Theory of Wealth'']</ref> under the supervision of [[Robert Solow]].
+
+Hall is a member of the [[Hoover Institution]], the [[United States National Academy of Sciences|National Academy of Sciences]], a fellow at both [[American Academy of Arts and Sciences]] and the [[Econometric Society]], and a member of the [[NBER]]. He is the chairman of the Business Cycle Dating Committee, the body responsible for setting the start and end dates of U.S. economic recessions.<ref>[http://www.nber.org/cycles/members.html Business Cycle Dating Committee Members]</ref><ref>[http://www.nber.org/cycles/recessions.html?PHPSESSID=2e305e51bb35ce13ff3c6ec090708abb The NBER's Business Cycle Dating Committee]</ref> Hall served as president of the [[American Economic Association]] in 2010,<ref>[https://www.aeaweb.org/about-aea/leadership/officers/past-officers/presidents American Economic Association: Past Presidents]</ref> and is a long-time member of the [[Brookings Papers on Economic Activity|Brookings Panel on Economic Activity]].<ref>[https://www.brookings.edu/project/brookings-papers-on-economic-activity/ Brookings Papers on Economic Activity]</ref>
+
+==Ideas==
+Hall has a broad range of interests, including technology, competition, employment, and policy.
+
+* Hall is perhaps most famous for co-originating the [[flat tax]] with [[Alvin Rabushka]]. They co-authored a book with the same name. The two often act as advisors to countries in Eastern Europe that wish to adopt the flat tax.
+* In 1978, Hall changed the direction of research on [[Consumption (economics)|consumption]] by showing that under [[rational expectations]], consumption should be a [[martingale (probability theory)|martingale]].<ref>Robert E. Hall (1978), [http://www.stanford.edu/~rehall/Stochastic-JPE-Dec-1978.pdf 'Stochastic implications of the life cycle-permanent income hypothesis']. ''Journal of Political Economy'' 86 (6), pp. 971-87.</ref> Prior to this, influenced by [[Milton Friedman]]'s [[permanent income hypothesis]] under [[adaptive expectations]], economists had expected past income to affect current consumption by altering individuals' expectations about their permanent income.<ref>Angus Deaton (1992), ''Understanding Consumption''. Oxford University Press, {{ISBN|0-19-828824-7}}.</ref> Instead, Hall's theory pointed to a relation between current consumption and expected future income, which implied that consumption should only change when there is surprising news about income. This, in turn, implies that changes in consumption should be unpredictable (which is called the '[[martingale (probability theory)|martingale]]' property in [[statistics]]). Hall surprised the macroeconomic profession by providing evidence that consumption was, in fact, unpredictable. Subsequent evidence has shown that consumption is more predictable than he claimed,<ref>Marjorie A. Flavin (1981), 'The adjustment of consumption to changing expectations about future income'. ''Journal of Political Economy'' 89 (5), pp. 974-1009.</ref> but ever since Hall's paper most empirical research on consumption has taken the martingale case as the baseline and focused on what mechanisms could cause deviations from martingale consumption.<ref>Angus Deaton (1991), 'Saving and liquidity constraints'. ''Econometrica'' 59 (5), pp. 1221-48.</ref>
+* In 1982 Hall proposed the commodity based, alternative currency [[ANCAP (commodity standard)|ANCAP]].
+* In describing if [[marginal cost]] is [[procyclical]], Hall argued that the key is knowing the [[productivity shock]]s in [[real business cycle theory]] are actually the result of [[monopoly power]]. Because monopolies can sell where their [[price]] exceeds marginal cost, they tend to have [[excess capacity]]. Thus, as demand increases, the excess capacity shrinks and marginal cost approaches price and in that way it is procyclical. This idea captures the distinction between [[real productivity]] and [[productivity growth]]; while there is greater productivity (less is being wasted), workers aren't becoming more productive.
+* To explain [[sticky (economics)|sticky wages]], Hall emphasizes the importance of costs borne by the [[employer]]. [[:wikt:firm|Firm]]s benefit when times are good but are penalized when times are slim (because wages are usually fixed) and they pay for searching for a good employee/employer match. Thus, employers are more risk averse in hiring and have less [[incentive]] to engage in search. Hence employers simply do not hire in down times. Since workers cannot collectively signal that they would work for less in down times, wages have a tendency to stick upwards.
+* He also supported the Reagan tax cuts: "If we don't have a tax cut, there will be that much more room for pouring money down rat holes."<ref>Hall, Robert, 1981. “The Reagan Economic Plan – Discussion,” Supplement to San Francisco Federal Reserve Bank’s Economic Review, May, pp. 5-15. https://fraser.stlouisfed.org/files/docs/publications/frbsfreview/rev_frbsf_19810501_seminar.pdf</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.stanford.edu/~rehall/ Stanford home page]
+
+{{s-start}}
+{{s-aca}}
+{{s-bef | before = [[Angus Deaton]] }}
+{{s-ttl | title = [[American Economic Association#Association presidents|President]] of the [[American Economic Association]] | years = 2010– 2011 }}
+{{s-aft | after = [[Orley Ashenfelter]] }}
+{{s-end}}
+
+{{Presidents of the American Economic Association}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hall, Robert}}
+[[Category:1943 births]]
+[[Category:Labor economists]]
+[[Category:Living people]]
+[[Category:21st-century American economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Macroeconomists]]
+[[Category:Time series econometricians]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:New classical economists]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:Stanford University Department of Economics faculty]]
+[[Category:Presidents of the American Economic Association]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]

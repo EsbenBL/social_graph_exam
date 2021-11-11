@@ -1,0 +1,56 @@
+{{Use mdy dates|date=October 2011}}
+{{Infobox economist
+| name        = Menzie David Chinn
+| school_tradition = 
+| image       = 
+| image_size  = 
+| caption     = 
+| birth_date  = {{birth year and age|1961}}
+| birth_place = [[Washington (state)|Washington]]
+| death_date  = 
+| spouse      = [[Laura Schwendinger]]
+| death_place =  
+| nationality = [[United States|American]]
+| institution = [[University of Wisconsin–Madison]]
+| field       = [[Economics]]
+| alma_mater  = [[Harvard College]]<br>[[University of California at Berkeley]]
+| contributions = 
+| awards      =
+| website     = https://www.ssc.wisc.edu/~mchinn/
+| repec_prefix = e | repec_id = pch129
+}}
+
+'''Menzie David Chinn''' (born 1961) is a professor of [[Public administration|public affairs]] and economics at the [[University of Wisconsin–Madison]],<ref>{{cite web|url=http://www.econ.wisc.edu/faculty.html |title=Department of Economics&nbsp;— Faculty Directory |publisher=Econ.wisc.edu |date=October 10, 2011 |accessdate=October 15, 2011}}</ref> co-editor of the [[Journal of International Money and Finance]], and a Research Associate of the [[National Bureau of Economic Research]] International Finance and Macroeconomics Program.<ref name=NBER>{{Cite web|url=https://www.nber.org/reporter/spring03/profiles.html|title=NBER Profile: Menzie Chinn|website=www.nber.org|access-date=2019-05-28}}</ref>
+
+==Education and career==
+Chinn received a BA from [[Harvard College]] in 1984, a PhD in economics from the [[University of California at Berkeley]] in 1991, and was a senior economist with the [[Council of Economic Advisers|White House Council of Economic Advisers]] from 2000 to 2001.{{r|NBER}} He contributes to an economics blog at ''econbrowser.com'' which has been highly ranked by traffic amongst economics blogs,<ref>{{cite web|url=http://www.gongol.com/lists/bizeconsites/ |title=EconDirectory |publisher=Gongol.com |accessdate=October 15, 2011}}</ref><ref>{{cite web|url=http://bayesianheresy.blogspot.com/2008/01/bh-economics-blog-awards-2008.html |title=The Bayesian Heresy: BH Economics Blog Awards 2008 |publisher=Bayesianheresy.blogspot.com |date=January 4, 2008 |accessdate=October 15, 2011}}</ref><ref>{{cite web |url=http://www.econolog.net/stats.php?area=blogs |title=The Palgrave Econolog&nbsp;— Zeitgeist |publisher=Econolog.net |accessdate=October 15, 2011 |url-status=dead |archiveurl=https://archive.is/20120729143849/http://www.econolog.net/stats.php?area=blogs |archivedate=July 29, 2012 |df=mdy-all }}</ref> and is frequently interviewed by economics journalists.<ref>{{Cite web|url=https://www.ssc.wisc.edu/~mchinn/cv.html|title=Menzie Chinn's cv page|website=www.ssc.wisc.edu|access-date=2019-05-28}}</ref>
+
+==Works==
+By citation, Chinn is ranked among the top 500 authors of economic journals<ref>{{cite web|url=https://ideas.repec.org/top/top.person.all.html |title=Economist Rankings at IDEAS |publisher=Ideas.repec.org |accessdate=October 15, 2011}}</ref> and ranked 521 in terms of downloads on the Social Science Research Network.<ref>{{cite web|url=https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=15131 |title=SSRN Author Page for Menzie David Chinn |publisher=Papers.ssrn.com |accessdate=October 15, 2011}}</ref> He has written extensively on international economics, trade and exchange rates.<ref>{{cite web|url=https://ideas.repec.org/e/pch129.html |title=Menzie Chinn at IDEAS |publisher=Ideas.repec.org |accessdate=October 15, 2011}}</ref>
+
+He describes his teaching material as "the (old) [[neoclassical synthesis]], i.e., [[Keynesian economics|Keynesian]] short run plus [[Classical economics|Classical]] long run — and some [[New Keynesian economics|New Keynesian]]"<ref>{{Cite web|url=http://econbrowser.com/archives/2014/12/keynesian-cassandras-the-sequester-re-assessed|title=Keynesian Cassandras? The Sequester Re-Assessed {{!}} Econbrowser|language=en-US|access-date=2019-05-28}}</ref>
+
+*''Lost Decades'' (with Jeffrey Frieden), W. W. Norton & Company, 2011
+
+===Most Cited Works===
+* Chinn, Menzie D., and Hiro Ito. "A new measure of financial openness." Journal of comparative policy analysis 10, no. 3 (2008): 309-322.
+* Chinn, Menzie D., and Hiro Ito. "What matters for financial development? Capital controls, institutions, and interactions." Journal of development economics 81, no. 1 (2006): 163-192.
+* Cheung, Yin-Wong, Menzie D. Chinn, and Antonio Garcia Pascual. "Empirical exchange rate models of the nineties: Are any fit to survive?." Journal of international money and finance 24, no. 7 (2005): 1150-1175.
+* Chinn, Menzie D., and Eswar S. Prasad. "Medium-term determinants of current accounts in industrial and developing countries: an empirical exploration." Journal of International Economics 59, no. 1 (2003): 47-76.
+* Chinn, Menzie D., and Robert W. Fairlie. "The determinants of the global digital divide: a cross-country analysis of computer and internet penetration." Oxford Economic Papers 59, no. 1 (2007): 16-44.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.econbrowser.com econbrowser.com]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chinn, Menzie}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:21st-century American economists]]
+[[Category:Harvard College alumni]]
+[[Category:UC Berkeley College of Letters and Science alumni]]
+[[Category:University of Wisconsin–Madison faculty]]

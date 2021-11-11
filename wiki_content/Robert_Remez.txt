@@ -1,0 +1,40 @@
+'''Robert Remez''',  an American experimental [[psychology|psychologist]] and   [[cognitive science|cognitive scientist]],  is Professor of Psychology at [[Barnard College]], [[Columbia University]] and Chair of the Columbia University Seminar on Language & Cognition (founded in 2000).<ref name=bio>{{Cite web|url=http://www.columbia.edu/~remez/index/BiographicalSketch.html|title=Robert E. Remez Biographical Sketch|website=Columbia University|archive-url=https://web.archive.org/web/20180709142040/http://www.columbia.edu/~remez/index/BiographicalSketch.html|archive-date=July 9, 2018|access-date=July 9, 2018}}</ref><ref>{{Cite web|url=http://www.columbia.edu/~remez/LC/langcog/LanguageCognition.html|title=Language & Cognition|website=Columbia University|archive-url=https://web.archive.org/web/20180709142312/http://www.columbia.edu/~remez/LC/langcog/LanguageCognition.html|archive-date=July 9, 2018|access-date=July 9, 2018}}</ref> His teaching focuses on the relationships between cognition, perception and language.<ref name=bio/> He is best known for his theoretical and experimental work on [[perception|perceptual organization]].<ref>{{Cite web|url=http://www.blackwellreference.com/public/tocnode?id=g9780631229278_chunk_g97806312292785|title=2. Perceptual Organization of Speech|website=Blackwell Reference Online|archive-url=https://web.archive.org/web/20180709142601/http://www.blackwellreference.com/public/tocnode?id=g9780631229278_chunk_g97806312292785|archive-date=July 9, 2018|access-date=July 9, 2018}}</ref><ref>{{Cite web|url=http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V1C-3VCVPNH-5&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=005c143db745cdcfdc646c5513bdcff9|title=Multimodal perceptual organization of speech: Evidence from tone analogs of spoken utterances|website=Science Direct|archive-url=https://archive.today/20130201222355/http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V1C-3VCVPNH-5&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=005c143db745cdcfdc646c5513bdcff9|archive-date=2013-02-01|url-status=dead|access-date=July 8, 2018}}</ref> and [[speech perception]].<ref>{{Cite book|title=The Handbook of Speech Perception|last1=Remez|first1=Robert E.|last2=Pisoni|first2=David B.|publisher=Blackwell Publishing|year=2004|isbn=9780631229278}}</ref>
+
+With [[Carol Fowler]], [[Philip Rubin]], and [[Michael Turvey]], he introduced the consideration of speech in terms of a dynamical systems/action theory perspective.<ref>{{Cite web|url=http://www.haskins.yale.edu/Reprints/HL0295.pdf|title=Implications for Speech Production of a General Theory of Action|website=Yale University|access-date=July 9, 2018}}</ref> With Rubin and various other colleagues, he has used the technique of [[sinewave synthesis]] as a unique tool for exploring perceptual organization.<ref>{{Cite web|url=http://www.haskins.yale.edu/MISC/SWS/SWS.html|title=Implications for Speech Production of a General Theory of Action|website=Yale University|access-date=July 9, 2018}}</ref><ref>{{Cite web|url=http://www.haskins.yale.edu/Reprints/HL0889.pdf|title=On the Perceptual Organization of Speech|website=Yale University|access-date=July 9, 2018}}</ref> He is the co-editor, with David Pisoni, of the ''Handbook of Speech Perception''.<ref>{{Cite web|url=http://www.blackwellreference.com/public/book?id=g9780631229278_9780631229278|title=The Handbook of Speech Perception|website=Blackwell Publishing|archive-url=https://web.archive.org/web/20180709142850/http://www.blackwellreference.com/public/book?id=g9780631229278_9780631229278|archive-date=July 9, 2018|access-date=July 9, 2018}}</ref> He was the Ann Olin Whitney Professor and former Chair of the Department of Psychology at [[Barnard College]] and is a member of the Board of Directors of [[Haskins Laboratories]].
+
+Remez is a graduate of [[Brandeis University]] and the [[University of Connecticut]].<ref name=bio/>
+
+==Awards and honors==
+* Fellow, [[Acoustical Society of America]]<ref name=bio/>
+* Fellow, [[American Association for the Advancement of Science]]<ref name=bio/>
+* Fellow, [[American Psychological Association]]<ref name=bio/>
+* Fellow, [[Association for Psychological Science]]<ref name=bio/>
+
+==Selected publications==
+
+* Fowler, C. A., Rubin, P. E., Remez, R. E., & Turvey, M. T. (1980). Implications for speech production of a general theory of action. In B. Butterworth (Ed.), ''Language Production, Vol. I: Speech and Talk'' (pp.&nbsp;373–420). New York: Academic Press.
+* {{Cite journal | doi = 10.1126/science.7233191 | last1 = Remez | first1 = R. E. | last2 = Rubin | first2 = P. E. | last3 = Pisoni | first3 = D. B. | last4 = Carrell | first4 = T. D. | s2cid = 13039853 | year = 1981 | title = Speech perception without traditional speech cues | journal = Science | volume = 212 | issue = 4497| pages = 947–950 | pmid=7233191| bibcode = 1981Sci...212..947R }}
+* {{Cite journal | doi = 10.1037/0033-295X.101.1.129 | last1 = Remez | first1 = R.E. | last2 = Rubin | first2 = P.E. | last3 = Berns | first3 = S.M. | last4 = Pardo | first4 = J.S. | last5 = Lang | first5 = J.M. | year = 1994 | title = On the perceptual organization of speech | journal = Psychological Review | volume = 101 | issue = 1| pages = 129–156 | pmid = 8121955 }}
+* Remez, R. E. (1994). A guide to research on the perception of speech. In M. A. Gernsbacher (Ed.), ''Handbook of Psycholinguistics'' (pp.&nbsp;145–172). New York: Academic Press.
+* {{Cite journal | doi = 10.1037/0096-1523.23.3.651 | last1 = Remez | first1 = R. E. | last2 = Fellowes | first2 = J. M. | last3 = Rubin | first3 = P. E. | year = 1997 | title = Talker identification based on phonetic information | journal = Journal of Experimental Psychology: Human Perception and Performance | volume = 23 | issue = 3| pages = 651–666 | pmid = 9180039 }}
+* {{Cite journal | doi = 10.1111/1467-9280.00305 | last1 = Remez | first1 = R. E. | last2 = Pardo | first2 = J. S. | last3 = Piorkowski | first3 = R. L. | last4 = Rubin | first4 = P. E. | s2cid = 22521260 | year = 2001 | title = On the bistability of sinewave analogs of speech | journal = Psychological Science | volume = 12 | issue = 1| pages = 24–29 | pmid = 11294224 }}
+* Remez, R. E. (2005). The perceptual organization of speech. In D. B. Pisoni and R. E. Remez (Eds.), ''The Handbook of Speech Perception'', (pp.&nbsp;28–50). Oxford: Blackwell
+
+==References==
+{{reflist|30em}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Remez, Robert}}
+[[Category:American psychologists]]
+[[Category:Brandeis University alumni]]
+[[Category:Haskins Laboratories scientists]]
+[[Category:Speech perception researchers]]
+[[Category:University of Connecticut alumni]]
+[[Category:Columbia University faculty]]
+[[Category:Living people]]
+[[Category:Fellows of the Acoustical Society of America]]
+[[Category:Fellows of the American Association for the Advancement of Science]]
+[[Category:Fellows of the American Psychological Association]]
+[[Category:Fellows of the Association for Psychological Science]]
+[[Category:Year of birth missing (living people)]]

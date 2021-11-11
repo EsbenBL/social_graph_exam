@@ -1,0 +1,82 @@
+{{Infobox economist
+| name             = David H. Romer
+| school_tradition = [[New Keynesian economics]]
+
+| image       =
+| image_size       =
+| caption    =
+| birth_date       = {{Birth date and age|1958|3|13}}
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = [[United States]]
+| institution      = [[University of California, Berkeley]]
+| field            = [[Macroeconomics]]
+| alma_mater       = [[Princeton University]]<br>[[Massachusetts Institute of Technology]]
+| influences       = [[John Maynard Keynes]], [[Robert Solow]], [[Kenneth Arrow]]
+| spouse           = [[Christina Romer]]
+| doctoral_advisor          = [[Stanley Fischer]]<ref>[http://library.mit.edu/F/JA5KSJ22C34NAKCHB7T549S1MTF1VDVVHHUQNM6F4QDM4A3YM4-03018?func=find-acc&acc_sequence=000767443 General equilibrium analysis of government financial policies]</ref>
+| academic_advisors         =
+| doctoral_students         = 
+| notable_students          =
+| influenced       =
+| contributions    =
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = f | repec_id = pro406
+}}
+
+'''David Hibbard Romer''' (born March 13, 1958) is an American economist, the Herman Royer Professor of Political Economy at the [[University of California, Berkeley]], and the author of a standard textbook in graduate [[macroeconomics]] as well as many influential economic papers, particularly in the area of [[New Keynesian economics]].  He is also the husband and close collaborator of [[Council of Economic Advisers]] former Chairwoman [[Christina Romer]].
+
+==Education and early career==
+After graduating from Amherst Regional High School in Amherst, Massachusetts in 1976, he obtained his [[bachelor's degree]] in economics from [[Princeton University]] in 1980 and graduated as the [[valedictorian]] of his class. Romer completed a 138-page long senior thesis "A Study of the Effects of Population on Development, with Applications to Japan."<ref>{{Cite journal|last=Romer|first=David Hibbard|editor-last=Princeton University. Department of Economics|title=A Study of the Effects of Population on Development, with Applications to Japan|url=https://catalog.princeton.edu/catalog/dsp015t34sk49q|language=en}}</ref> Romer worked as a Junior Staff Economist at the [[Council of Economic Advisers]] from 1980 to 1981 before beginning his [[Ph.D.]] at the [[Massachusetts Institute of Technology]], which he completed in 1985. A reduced version of his undergraduate thesis research was published in the ''[[Review of Economics and Statistics]]''.<ref>{{cite journal |title=Rosen and Quandt's Disequilibrium Model of the Labor Market: A Revision |first=David |last=Romer |journal=Review of Economics and Statistics |volume=63 |issue=1 |year=1981 |pages=145–146 |jstor=1924231 |doi=10.2307/1924231}}</ref>  Upon completion of his doctorate, he started working as an [[assistant professor]] at [[Princeton University]]. In 1988 he moved to [[University of California, Berkeley]] and was promoted to full professor in 1993.
+
+==Research==
+Romer's early research made him one of the leaders of the [[New Keynesian economics]]. Specifically, an influential paper with [[Laurence M. Ball]], published in 1989, established that real rigidities (that is, stickiness in relative prices) can exacerbate nominal rigidities (that is, stickiness in nominal prices).<ref>http://faculty.wcas.northwestern.edu/~lchrist/papers/restud.pdf</ref>
+
+Romer's most widely cited paper is "A Contribution to the Empirics of Economic Growth," coauthored with [[Gregory Mankiw]] and David Weil and published in the ''[[Quarterly Journal of Economics]]'' in 1992. The paper argues that the [[Solow-Swan model|Solow growth model]], once augmented to include a role for human capital, does a reasonably good job of explaining international differences in standards of living. According to [[Google Scholar]], it has been cited more than 15,000 times, making it one of the most cited articles in the field of economics.
+
+In more recent work, Romer has worked with Christina Romer on fiscal and [[monetary policy]] from the 1950s to the present, using notes from the meetings of the [[Federal Open Market Committee]] (FOMC) and the materials prepared by Fed staff to study how the [[Federal Reserve]] makes its decisions.  His work suggests that some of the credit for the relatively stable economic growth in the 1950s should lie with good policy made by the Federal Reserve,<ref>http://emlab.berkeley.edu/~dromer/papers/aer_v92.pdf</ref> and that the members of the FOMC could at times have made better decisions by relying more closely on forecasts made by the Fed professional staff.<ref>http://www.econ.berkeley.edu/~dromer/papers/aer_98_2.pdf</ref>
+
+Most recently, the Romers have focused on the impact of tax policy on government and general economic growth.  This work looks at the historical record of US tax changes from 1945–2007, excluding "endogenous" tax changes made to fight recessions or offset the cost of new government spending.  It finds that such "exogenous" tax increases, made for example to reduce inherited budget deficits, reduce economic growth (though by smaller amounts after 1980 than before).<ref>{{cite web |url=http://emlab.berkeley.edu/users/cromer/draft1108.pdf |title=Archived copy |access-date=2008-11-27 |url-status=dead |archive-url=https://web.archive.org/web/20081202234611/http://emlab.berkeley.edu/users/cromer/draft1108.pdf |archive-date=2008-12-02 }}</ref>  Romer and Romer also find "no support for the hypothesis that tax cuts restrain government spending; indeed ... tax cuts may increase spending. The results also indicate that the main effect of tax cuts on the government budget is to induce subsequent legislated tax increases."<ref>{{cite web |url=http://emlab.berkeley.edu/users/cromer/draft708.pdf |title=Archived copy |access-date=2011-09-20 |url-status=dead |archive-url=https://web.archive.org/web/20110927044900/http://emlab.berkeley.edu/users/cromer/draft708.pdf |archive-date=2011-09-27 }}</ref>
+
+He has also written papers on some unusual subjects for a macroeconomist, such as “Do Students Go to Class? Should They?”,<ref>http://www.econ.berkeley.edu/~dromer/cv.pdf</ref> and “Do Firms Maximize? Evidence from Professional Football.”<ref>http://static.espn.go.com/nfl/columns/garber_greg/1453717.html</ref>
+
+==Career==
+He is a member of the [[American Economic Association]] Executive Committee, the recipient of an [[Alfred P. Sloan]] Foundation Research Fellowship, a fellow of the [[American Academy of Arts and Sciences]], and a three-time recipient of Berkeley's Graduate Economic Association's distinguished teaching and advising awards. Professor Romer is co-director of the Program in Monetary Economics at the [[National Bureau of Economic Research]], and is a member of the NBER  Business Cycle Dating Committee.<ref>{{cite web|url=https://www.nber.org/cycles/recessions.html|title=The NBER's Recession Dating Procedure}}</ref>
+
+He is the author of "Advanced Macroeconomics," a standard graduate macroeconomics text,<ref>{{Cite book|isbn=0072318554|title=Advanced Macroeconomics|last1=Romer|first1=David|last2=Romer|first2=David Hibbins|year=2001}}</ref> and he was an editor of the [[Brookings Papers on Economic Activity]] from 2009 to Fall 2015.
+
+==Family==
+He is married to [[Christina Romer]], who was his classmate at MIT and is his colleague in the Economics Department at [[University of California, Berkeley]]. They have adjoining offices in the department,<ref>{{Cite web |url=http://www.dailycal.org/article/7706/faculty_couples_keep_love_alive_at_work  |access-date=2008-11-27 }}{{dead link|date=August 2020|bot=medic}}{{cbignore|bot=medic}}</ref> and collaborate on much of their research.<ref>{{cite web |url=http://ls.berkeley.edu/?q=node/832 |title=Berkeley Couple Tackle Top Fiscal Issues of the Day |url-status=dead |archive-url=https://web.archive.org/web/20090215043622/http://ls.berkeley.edu/?q=node%2F832 |archive-date=2009-02-15 }}</ref> The couple has three children together.
+He has two brothers, Evan and Ted Romer. [[Greg Mankiw]] served as best man at their wedding (Romer served as best man at Mankiw's wedding).<ref>{{cite web|url=http://gregmankiw.blogspot.com/2006/05/is-lm-model.html|title=The IS-LM Model|last=Mankiw|first=Greg|date=2006-05-30|access-date=2008-12-30}}</ref><ref>{{cite web |url=http://dyn.politico.com/printstory.cfm?uuid=DB330E77-18FE-70B2-A82A2598AB517004 |title=Who is Christina Romer? |last=Lerer |first=Lisa |date=2008-11-26 |publisher=Politico.com |access-date=2008-12-30 |url-status=dead |archive-url=https://web.archive.org/web/20081202042533/http://dyn.politico.com/printstory.cfm?uuid=DB330E77-18FE-70B2-A82A2598AB517004 |archive-date=2008-12-02 }}</ref>
+
+== Publications ==
+
+=== Books ===
+
+<li>{{cite book |last1=Romer|first1=David|date=1996|title=Advanced Macroeconomics|location=New York|publisher=[[McGraw-Hill]]}}</li>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikiquote}}
+* http://elsa.berkeley.edu/~dromer/index.shtml
+* https://web.archive.org/web/20121020190430/https://www.minneapolisfed.org/pubs/region/08-09/romers.pdf
+* [http://static.espn.go.com/nfl/columns/garber_greg/1453717.html Fourth-down analysis met with skepticism]
+
+{{Keynesians}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Romer, David}}
+[[Category:Living people]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:New Keynesian economists]]
+[[Category:Princeton University alumni]]
+[[Category:Princeton University faculty]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:1958 births]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Sloan Research Fellows]]

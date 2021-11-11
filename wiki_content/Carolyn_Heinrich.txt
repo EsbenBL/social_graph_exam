@@ -1,0 +1,68 @@
+{{Infobox economist
+| name             = Carolyn J. Heinrich
+| image            =
+| caption          =
+| birth_date       = {{Birth year and age|1967}}
+| birth_place      =
+| death_date       =
+| death_place      =
+| field = [[Social policy]]
+| alma_mater = [[University of Chicago]]<br/>[[Beloit College]]<ref name=":0"/>
+| influences =
+| nationality      =
+| awards           = 
+| signature        = <!-- file name only -->
+| repec_prefix = f
+| repec_id = phe348
+|institution = [[University of Texas at Austin]]<br/>[[Vanderbilt University]]<br/>[[University of Wisconsin-Madison]]<br/>[[University of North Carolina at Chapel Hill]]<br/>[[University of Chicago]]<ref name=":0"/>
+|module = {{Infobox scientist
+|embed = yes
+| doctoral_advisor = [[James Heckman]]<ref name=thesis/>
+| thesis_title= Public policy and methodological issues in the design and evaluation of employment and training programs at the service delivery area level<ref name=thesis/>
+| thesis_year=1995
+|website = {{URL|1=https://www.utexas.edu/lbj/directory/faculty/carolyn-heinrich|2=UT-Austin}} {{URL|1=http://peabody.vanderbilt.edu/bio/carolyn-heinrich|2=Vanderbilt}}
+}}
+}}
+'''Carolyn J. Heinrich''' (born 1967) is the Patricia and Rodes Hart Professor of Public Policy, Education and Economics at [[Vanderbilt University]]. 
+
+
+==Career==
+
+Prior to her appointment at Vanderbilt University, she was the Sid Richardson Professor of Public Affairs, affiliated Professor of Economics, and Director of the Center for Health and Social Policy (CHASP) at the [[Lyndon B. Johnson School of Public Affairs]], [[University of Texas at Austin]].<ref name=":0">{{Cite web|title = Carolyn Heinrich {{!}} LinkedIn|url = https://www.linkedin.com/in/carolyn-heinrich-12a86a15|website = www.linkedin.com|access-date = 2015-11-28}}</ref><ref>{{Cite web|title = Heinrich, Carolyn {{!}} Lyndon B. Johnson School of Public Affairs|url = https://www.utexas.edu/lbj/directory/faculty/carolyn-heinrich|website = www.utexas.edu|access-date = 2015-11-28}}</ref><ref>{{Cite web|title = Carolyn J. Heinrich Joins LBJ School Faculty as Sid Richardson Professor, Director of the Center for Health and Social Policy {{!}} Lyndon B. Johnson School of Public Affairs|url = http://www.utexas.edu/lbj/news/2011/carolyn-j-heinrich-joins-lbj-school-faculty-sid-richardson-p|website = www.utexas.edu|access-date = 2015-11-28|archive-url = https://web.archive.org/web/20151013100832/http://www.utexas.edu/lbj/news/2011/carolyn-j-heinrich-joins-lbj-school-faculty-sid-richardson-p|archive-date = 2015-10-13|url-status = dead}}</ref> She continues as a Research Professor at the University of Texas at Austin.<ref name=":0" /><ref>{{Cite web|title = New faculty: Carolyn Heinrich tackles public policy with an interdisciplinary approach|url = http://news.vanderbilt.edu/2015/10/new-faculty-carolyn-heinrich/|website = Vanderbilt University|access-date = 2015-11-28}}</ref> She has also held professorships at the [[University of Wisconsin–Madison|University of Wisconsin-Madison]], where she served as the Director of the La Follette School of Public Affairs, and the [[University of North Carolina at Chapel Hill]].<ref name=":0" /> She received her Ph.D. under the Nobel Laureate [[James Heckman]] at the [[University of Chicago]]<ref name=thesis>{{Cite book|title = Public policy and methodological issues in the design and evaluation of employment and training programs at the service delivery area level|last = Heinrich|first = Carolyn|publisher = University of Chicago|year = 1995|location = Chicago|oclc = 34522177|type = Ph.D. Thesis}}</ref> [[Harris School of Public Policy Studies|Harris School of Public Policy]] and her undergraduate degree from [[Beloit College]].<ref name=":0" /> She is currently researching a wide breadth of topics, focusing on education, workforce development, social welfare policy, program evaluation, and public management and performance management, allowing her to collaborate with federal, state, and local governments on policy design and program effectiveness.<ref name="Carolyn Heinrich bio">{{cite web |title=Carolyn Heinrich bio |url=https://as.vanderbilt.edu/econ/bio/carolyn-heinrich |publisher=Vanderbilt University |access-date=12 April 2019}}</ref> Heinrich received her Bachelor of Arts in International Relations, Economics, and Management from Beloit College in Wisconsin. She earned her Master of Arts in Public Policy at the University of Chicago, where she also earned her Doctor of Philosophy.<ref name="Carolyn Heinrich bio"/> In 2004, she received the [http://www.appam.org/awards/david-n-kershaw-award/ David N. Kershaw Award] for distinguished contributions to public policy analysis and management for a person under age 40, and in 2011, she was elected to the National Academy of Public Administration.
+
+==Selected publications==
+* {{cite book|isbn=9780878408528|title=Improving governance: A new logic for empirical research|year=2000|publisher=Georgetown University Press|oclc=45052661}}
+* {{cite book|isbn=9780878407989|title=Governance and performance: New perspectives|year=2001|publisher=Georgetown University Press|oclc= 43555035}}
+* {{cite journal|doi=10.1111/1540-6210.00253|title=Outcomes-Based Performance Management in the Public Sector: Implications for Government Accountability and Effectiveness|journal=Public Administration Review|volume=62|issue=6|pages=712–725|year=2002|last1=Heinrich|first1=Carolyn J.}}
+* {{cite journal|title=Studying governance and public management: Challenges and prospects|journal=Journal of Public Administration Research and Theory|volume=10|issue=2|pages=233–262|year=2000|oclc= 4897942407|doi=10.1093/oxfordjournals.jpart.a024269|last1=Lynn|first1=L. E.|last2=Heinrich|first2=C. J.|last3=Hill|first3=C. J.}}
+* {{cite journal|doi=10.3386/w9002|title=The Performance of Performance Standards|year=2002|last1=Heckman|first1=James|last2=Heinrich|first2=Carolyn|last3=Smith|first3=Jeffrey|doi-access=free}}
+
+==See also==
+* [[List of University of Texas at Austin faculty]]
+* [[List of Vanderbilt University people]]
+* [[List of University of Wisconsin–Madison people|List of University of Wisconsin-Madison people]]
+* [[List of University of Chicago alumni]]
+* [[List of economists]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [https://www.utexas.edu/lbj/directory/faculty/carolyn-heinrich Carolyn Heinrich] at University of Texas at Austin
+* [http://peabody.vanderbilt.edu/bio/carolyn-heinrich Carolyn Heinrich] at Vanderbilt University
+* {{Google scholar id|id=NpgCI1sAAAAJ}}
+* [https://ideas.repec.org/f/phe348.html Carolyn Heinrich's publications on IDEAS/RePEc]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Heinrich, Carolyn}}
+[[Category:University of Chicago alumni]]
+[[Category:University of Wisconsin–Madison faculty]]
+[[Category:Living people]]
+[[Category:University of Texas at Austin faculty]]
+[[Category:University of Wisconsin&ndash;Madison faculty]]
+[[Category:University of North Carolina at Chapel Hill faculty]]
+[[Category:Vanderbilt University faculty]]
+[[Category:Beloit College alumni]]
+[[Category:1967 births]]
+[[Category:21st-century American economists]]

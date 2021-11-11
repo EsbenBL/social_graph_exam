@@ -1,0 +1,91 @@
+{{short description|German economist (born 1968)}}
+{{Infobox economist
+| name             = Armin Falk
+| school_tradition =
+| color            =
+| image       =Armin Falk - 2011.jpg
+| image_size       =
+| caption    =
+| birth_date       = {{Birth date and age|1968|01|18|df=y}}
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = German
+| institution      = [[University of Bonn]]
+| field            = [[Microeconomics]]<br>[[Behavioral economics]]
+| alma_mater       = [[University of Cologne]]<br>[[University of Zurich]]
+| influences       =
+| influenced       =
+| contributions    =
+| awards           = [[Yrjö Jahnsson Award]] (2011)<br>[[Gottfried Wilhelm Leibniz Prize|Leibniz Prize]] (2009)<br>[[Gossen Prize]] (2008)
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pfa48
+|doctoral_advisor=[[Ernst Fehr]]}}
+'''Armin Falk''' (born 18 January 1968) is a [[Germany|German]] [[economist]]. He has held a chair at the [[University of Bonn]] since 2003.
+
+==Biography==
+
+===Education and career===
+Falk studied [[economics]] as well as [[philosophy]] and [[history]] at the [[University of Cologne]]. In 1998 he obtained a [[Doctor of Philosophy|Ph.D.]] from the [[University of Zurich]] under the supervision of [[Ernst Fehr]].
+
+Falk is Professor of Economics and Director of the [[Behavior and Inequality Research Institute]] (briq),<ref>{{Cite news|url = http://www.iza.org/files/IZAPress20151215_EN.pdf|title = Strategic Restructuring of the Institute for the Study of Labor (IZA)|date = December 15, 2015|access-date = February 18, 2016}}</ref> as well as the Laboratory of Experimental Economics at the University of Bonn. He is ''external scientific member'' of the [[Max Planck Society]] (and as such a member of the [[Max Planck Institute for Research on Collective Goods]]), program director at the [[Institute for the Study of Labor]] (IZA), fellow of the [[Centre for Economic Policy Research]] (CEPR), fellow of the [[Center for Economic Studies]] (CESifo), Research Professor at the [[German Institute for Economic Research]] (DIW), and member of the scientific council of the [[Federal Ministry of Economics and Technology]]. Furthermore, he is affiliated with the [[Institute for New Economic Thinking]].
+
+===Research===
+Falk's research interests include [[microeconomics]], [[behavioral economics]], and [[neuroeconomics]]. He has published in renowned journals like the ''[[American Economic Review]]'', ''[[Quarterly Journal of Economics]]'', ''[[Econometrica]]'', and ''[[Science (journal)|Science]] ''. In the German [[Handelsblatt]] ranking of 2010, which analyzes current research output of economists in Germany, Austria, and German speaking Switzerland in terms of quality of publications since 2005, Falk reached the 8th place.
+
+In a broad sense, Falk's research is about obtaining a better empirical foundation of economic behavior. While the traditional economic model of individual behavior postulates perfect rationality and egoism ([[homo oeconomicus]]), the work of Falk demonstrates that human behavior is better described by [[bounded rationality]]. In addition, Falk shows that [[social preferences]] such as fairness and [[trust (social sciences)|trust]] are important determinants of [[behavior]].
+
+His research is highly interdisciplinary and builds on insights from [[Experimental economics|experimental research]], [[social psychology]], [[genetics]], and [[neuroscience]]. In terms of methods, Falk mainly uses experiments, both in the lab and in the field, complemented by neuroscientific methods, e.g., [[functional magnetic resonance imaging]]. An additional focus is the analysis of representative [[survey data]].
+
+The research of Falk can broadly be divided into two main areas, the analysis of [[Preference (economics)|economic preferences]] and psychological aspects of the [[labor market]]. A better understanding of preferences and personality is of great importance for economic and social science, as virtually every model in that area needs to make assumptions on individual behavior. A key focus has been the analysis of social preferences, as well risk and [[time preference]]s, but also [[personality]]. Supported by an [[European Research Council|ERC]] Starting Grant, Falk studies the distribution of preferences in the population as well as socioeconomic determinants of preferences.<ref name="ERC Starting Grant">[http://www3.uni-bonn.de/forschung/forschungsprofil/erc-grants/preferences], Understanding Preferences: Measurement, Prevalence, Determinants and Consequence.</ref>
+
+A second important focus of Falk's research has been the analysis of psychological aspects in labor markets (Behavioral Labor Economics). This line of research demonstrates that in particular in labor market contexts, motives such as social preferences, social comparison, trust, social approval, and [[Motivation#Incentive theories: intrinsic and extrinsic motivation|intrinsic motivation]] play an important role. This has implications for work relations, as well as the functioning of organizations and labor markets.
+
+===Awards and Honors===
+* 2021 [[Fellow of the Econometric Society]]<ref>{{cite web|url=https://www.econometricsociety.org/content/congratulations-our-2021-fellows|title=Congratulations to our 2021 Fellows|publisher=The Econometric Society|date=September 22, 2021|access-date=2021-10-29}}</ref>
+* 2013 [[European Research Council]] (ERC) "Advanced Grant". 
+* 2011 Award of the [[Berlin-Brandenburg Academy of Sciences and Humanities]]
+* 2011 [[Yrjö Jahnsson Award]]
+* 2010 [[European Academy of Sciences and Arts]]
+* 2009 [[German Academy of Sciences Leopoldina]]
+* 2009 [[North Rhine-Westphalian Academy of Sciences, Humanities and the Arts]]
+* 2009 [[Gottfried Wilhelm Leibniz Prize]] of the [[Deutschen Forschungsgemeinschaft]]
+* 2008 [[Gossen Prize]] of the [[Verein für Socialpolitik]]
+* 2007 Fellow of the [[European Economic Association]]<ref>{{Cite web|title=Fellows {{!}} EEA|url=https://www.eeassoc.org/fellows|access-date=2021-03-22|website=www.eeassoc.org}}</ref>
+* 2006 ''John T. Dunlop Outstanding Scholar Award'' of the [[Labor and Employment Relations Association]]
+* 2004 “[[Center for Economic Studies|CESifo]] Prize in Public Economics”
+
+==Selected publications==
+* {{cite journal|last=Falk|first=Armin|author2=Szech, Nora|title=Fairness and motivation|journal=[[IZA World of Labor]]|year=2014|volume=9|doi=10.15185/izawol.9|doi-access=free}}
+* {{cite journal|last=Falk|first=Armin|author2=Szech, Nora|title=Morals and Markets|journal=[[Science (journal)|Science]]|year=2013|volume=340|issue=6133|pages=707–711|doi=10.1126/science.1231566|pmid=23661753|bibcode=2013Sci...340..707F|s2cid=12009853}}
+* {{cite journal|last=Falk|first=Armin|author2=Heckman, James|title=Lab Experiments are a Major Source of Knowledge in the Social Sciences|journal=[[Science (journal)|Science]]|year=2009|volume=326|issue=5952|pages=535–538|doi=10.1126/science.1168244|pmid=19900889|citeseerx=10.1.1.321.5777|bibcode=2009Sci...326..535F|s2cid=27276085}}
+* {{cite journal|last1=Falk |first1=Armin |last2=Kosfeld |first2=Michael |year=2006 |title=The Hidden Costs of Control |journal=[[American Economic Review]] |volume=96 |issue=5 |pages=1611–1630 |doi=10.1257/aer.96.5.1611 |url=https://www.zora.uzh.ch/id/eprint/2251/1/Falk_Am_Econ_Rev_2006.pdf }}.
+* {{cite journal|last1=Falk |first1=Armin |last2=Brown |first2=Martin |last3=Fehr |first3=Ernst |year=2004 |title=Relational Contracts and the Nature of Market Interactions |journal=[[Econometrica]] |volume=72 |issue=3 |pages=747–780 |doi=10.1111/j.1468-0262.2004.00511.x |citeseerx=10.1.1.75.2331 |s2cid=15230813 }}.
+* {{cite journal|last1=Falk |first1=Armin |last2=Fehr |first2=Ernst |year=1999 |title=Wage Rigidity in a Competitive Incomplete Contract Market |journal=[[Journal of Political Economy]] |volume=107 |issue=1 |pages=106–134 |doi=10.1086/250052 |s2cid=151224626 }}.
+
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{DNB portal|121101789|TYP=}}
+* [http://www.cens.uni-bonn.de/team/board/armin-falk Armin Falk] on the website of the ''Center for Economics and Neuroscience'' at the University of Bonn (with [http://www.cens.uni-bonn.de/team/board/armin-falk/cv_falk.pdf Curriculum Vitae])
+
+{{Instecon}}
+{{Yrjö Jahnsson Award recipients}}
+{{Authority control}}
+
+{{DEFAULTSORT:Falk, Armin}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:German economists]]
+[[Category:Neuroeconomists]]
+[[Category:University of Cologne alumni]]
+[[Category:University of Bonn faculty]]
+[[Category:Gottfried Wilhelm Leibniz Prize winners]]
+[[Category:University of Zurich alumni]]
+[[Category:Behavioral economists]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]
+[[Category:Fellows of the European Economic Association]]
+[[Category:Fellows of the Econometric Society]]

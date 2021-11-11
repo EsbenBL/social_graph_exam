@@ -1,0 +1,79 @@
+{{Short description|British writer on economics}}
+{{Use dmy dates|date=February 2020}}
+{{EngvarB|date=February 2020}}
+{{Infobox person 
+| name = William Forster Lloyd
+| image = 
+| image_size = 
+| caption = 
+| birth_name = 
+| birth_date = 1794
+| birth_place = [[Bradenham, Buckinghamshire]], England
+| death_date = 2 June 1852
+| death_place = [[Prestwood]], Missenden, Buckinghamshire, England
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates = 
+| residence = 
+| nationality =
+| other_names = 
+| known_for = 
+| education = [[Westminster School]]
+| alma mater = [[Christ Church, Oxford]]
+| employer = 
+| occupation = Economist
+| title =
+| salary = 
+| networth = 
+| term = 
+| predecessor = 
+| successor = 
+| party = 
+| boards = 
+| religion = 
+| spouse = 
+| children = 
+| parents = 
+| relatives = 
+}}
+'''William Forster Lloyd''' [[Fellow of the Royal Society|FRS]] (1794 – 2 June 1852) was a British writer on economics. He is best known today for one of his 1833 lectures on population control which have influenced writers in modern economic theory.
+
+==Life==
+Born in 1794 at [[Bradenham, Buckinghamshire]], he was the fourth son of Thomas Lloyd, rector of [[Aston-sub-Edge]], and his wife, Elizabeth Ryder; [[Charles Lloyd (bishop)|Charles Lloyd]] was his elder brother.<ref>{{cite ODNB|first=A. M.|last=Clerke|title=Lloyd, William Forster (1794–1852)|id=16861}}</ref> He was educated at [[Westminster School]] and [[Christ Church, Oxford]], graduating BA in 1815 and MA in 1818.<ref>[http://www2.royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqDb=Persons&dsqPos=10&dsqSearch=%28Surname%3D%27lloyd%27%29 Royal Society.]{{dead link|date=January 2015}}</ref> He was Greek Reader in 1823, Mathematical lecturer and Drummond Professor of Political Economy (1832–1837) at Christ Church, Oxford (successor to [[Nassau Senior]]). He was elected a [[Fellow of the Royal Society]] in 1834, and died at [[Prestwood]], Missenden, Buckinghamshire in 1852.
+
+==Influential lectures==
+Lloyd published several of his lectures. In his ''Two Lectures on the Checks to Population'' (1833) he introduced the concept of the overuse of a common by its commoners (i.e. those with rights of use and access to it), which was later to be developed by the economist [[H. Scott Gordon]] and later still by the ecologist [[Garrett Hardin]] and termed by Hardin "[[The Tragedy of the Commons]]". However, Hardin's use of Lloyd's example has frequently been misunderstood, leading him to later remark that he should have titled his work "The Tragedy of the ''Unmanaged'' Commons".<ref>Hardin, Garrett (1991). "The Tragedy of the ''Unmanaged'' Commons: population and the disguises of Providence." In: R. V. Andelson, (editor), ''Commons without Tragedy: Protecting the Environment from Overpopulation — a New Approach'', London: Shepheard-Walwyn, pp. 162–185. {{ISBN|0-389-20958-9}}</ref><ref>{{Cite journal |last1=Hardin |first1=Garrett|title=The tragedy of the unmanaged commons |doi=10.1016/0169-5347(94)90097-3 |journal=Trends in Ecology & Evolution |volume=9 |issue=5 |pages=199 |year=1994 |pmid= 21236819}}</ref><ref>{{cite journal|last=Hardin|first=Garrett|title=Extensions of 'The Tragedy of the Commons'|journal=[[Science (journal)|Science]]|year=1998|volume=280|issue=5364|page=682–683|doi=10.1126/science.280.5364.682|s2cid=153844385}}</ref>
+
+The key passage in Lloyd's work is:
+
+<blockquote>"If a person puts more cattle into his own field, the amount of the subsistence which they consume is all deducted from that which was at the command, of his original stock; and if, before, there was no more than a sufficiency of pasture, he reaps no benefit from the additional cattle, what is gained in one way being lost in another.
+But if he puts more cattle on a common, the food which they consume forms a deduction which is shared between all the cattle, as well that of others as his own, in proportion to their number, and only a small part of it is taken from his own cattle. In an inclosed pasture, there is a point of saturation, if I may so call it, (by which, I mean a barrier depending on considerations of interest,) beyond which no prudent man will add to his stock. In a common, also, there is in like manner a point of saturation. But the position of the point in the two cases is obviously different. Were a number of adjoining pastures, already fully stocked, to be at once thrown open, and converted into one vast common, the position of the point of saturation would immediately be changed".<ref>{{cite book|first=W. F.|last=Lloyd|title=Two Lectures on the Checks to Population|url=https://archive.org/details/twolecturesonch00lloygoog|year=1833}}</ref></blockquote>
+
+In his ''Lectures on Population, Value, Poor Laws and Rent'' (1837) he introduced a concise and complete statement of the concept of [[diminishing marginal utility]], and connected demand to value, but he presents neither derivation nor elaboration. Still this contribution places him clearly in the ranks of the Oxford-Dublin school of proto-Marginalists.
+
+==Major works of William F. Lloyd==
+*''Lecture on the Notion of Value, as distinguished not only from utility, but also from value in exchange'', 1833.
+*''Two Lectures on the Checks to Population'', 1833.
+*''Four Lectures on Poor-Laws'', 1835
+*''Two Lectures on the Justice of the Poor-Laws and One Lecture on Rent'', 1837.
+*''Lectures on Population, Value, Poor Laws and Rent'', 1837.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{wikisource author-inline}}
+* [https://web.archive.org/web/20090103231503/http://cepa.newschool.edu/het/profiles/lloyd.htm Profile of William Forster Lloyd] at the [https://web.archive.org/web/20070409070356/http://cepa.newschool.edu/het/home.htm History of Economic Thought website]
+* [https://archive.org/details/twolecturesonch00lloygoog <!-- quote=Two Lectures on the Checks to Population. --> Two Lectures on the Checks to Population]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lloyd, William Forster}}
+[[Category:1794 births]]
+[[Category:1852 deaths]]
+[[Category:People from Buckinghamshire]]
+[[Category:British economists]]
+[[Category:Fellows of the Royal Society]]
+[[Category:People educated at Westminster School, London]]
+[[Category:Alumni of Christ Church, Oxford]]
+[[Category:Drummond Professors of Political Economy]]

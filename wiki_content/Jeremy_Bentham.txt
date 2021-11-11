@@ -1,0 +1,485 @@
+{{short description|British philosopher, jurist, and social reformer}}
+{{Use British English|date=August 2011}}
+{{Use dmy dates|date=June 2018}}
+{{Infobox philosopher
+ | region           = [[Western philosophy]]
+ | era              = [[18th-century philosophy]]<br/>[[19th-century philosophy]]
+ | image            = Jeremy Bentham by Henry William Pickersgill detail.jpg
+ | caption          = Portrait by [[Henry William Pickersgill]]
+ | name             = Jeremy Bentham
+ | birth_date       = {{birth date|df=yes|1748|2|15}}
+ | birth_place      = [[London]], [[England]], [[Kingdom of Great Britain]]
+ | death_date       = {{Death date and age|df=yes|1832|6|6|1748|2|15}}
+ | death_place      = London, England, [[United Kingdom of Great Britain and Ireland|United Kingdom]]
+ | education        = [[The Queen's College, Oxford]] (BA, MA)
+ | school_tradition = [[Utilitarianism]]<br/>[[Legal positivism]]<br/>[[Liberalism]]<br/>[[Epicureanism]]
+ | main_interests   = [[Political philosophy]], [[philosophy of law]], [[ethics]], [[economics]]
+ | influences       = {{hlist|[[Protagoras]]| [[Epicurus]]| [[John Locke]]| [[David Hume]]| [[Baron de Montesquieu|Montesquieu]]| [[Claude Adrien Helvétius|Helvétius]]| [[Thomas Hobbes|Hobbes]]| [[Cesare Beccaria|Beccaria]]|[[Adam Smith]]}}
+ | influenced       = {{hlist|[[John Stuart Mill]]| [[Thomas Hodgskin]]| [[William Thompson (philosopher)|William Thompson]]| [[Henry Sidgwick]]| [[Michel Foucault]]| [[Peter Singer]]| [[John Austin (legal philosophy)|John Austin]]| [[Robert Owen]]| [[H. L. A. Hart]] | [[Francis Y. Edgeworth]]| [[A. V. Dicey]]{{sfn|Follett|2000|p=7}}| [[Pierre Étienne Louis Dumont|Étienne Dumont]]}}
+ | notable_ideas    = [[Greatest happiness principle]]
+ | signature        = Jeremy Bentham signature.svg
+}}
+{{Liberalism in the United Kingdom|People}}
+{{Liberalism sidebar}}
+'''Jeremy Bentham''' ({{IPAc-en|ˈ|b|ɛ|n|θ|ə|m}}; 15 February 1748 [<nowiki/>[[Old Style and New Style dates|O.S.]] 4 February 1747]<ref name="Johnson2012" /> – 6 June 1832) was an English [[philosopher]], [[jurist]], and [[social reformer]] regarded as the founder of modern [[utilitarianism]].<ref name="Sweet" /><ref name="utilitarianphilosophy.com" />
+
+Bentham defined as the "fundamental [[axiom]]" of his philosophy the principle that "it is the greatest happiness of the greatest number that is the measure of right and wrong."<ref>Bentham, Jeremy. ''A Comment on the Commentaries and a Fragment on Government'', edited by [[J. H. Burns]] and [[H. L. A. Hart]]. London: [[The Athlone Press]]. 1977. p. 393.</ref>{{sfn|Burns|2005 |pp=46–61 }} He became a leading theorist in [[Anglo-Americans|Anglo-American]] [[philosophy of law]], and a political radical whose ideas influenced the development of [[welfarism]]. He advocated [[Individualism|individual]] and [[economic freedom]]s, the [[separation of church and state]], [[freedom of expression]], equal rights for women, the right to divorce, and (in an unpublished essay) the decriminalising of homosexual acts.{{sfn|Bentham|2008|pp=389–406}}{{sfn|Campos Boralevi|2012|p=37}} He called for the abolition of [[abolitionism|slavery]], [[capital punishment#Abolition of capital punishment|capital punishment]] and [[physical punishment]], including that of children.{{sfn|Bedau|1983|pp=1033–1065}} He has also become known as an early advocate of [[animal rights]].{{sfn|Sunstein|2004|pp=3–4}}{{sfn|Francione|2004|p=139|ps=: footnote 78}}{{sfn|Gruen|2003|p=}}{{sfn|Benthall|2007|p=1}} Though strongly in favour of the extension of [[Individual and group rights|individual legal rights]], he opposed the idea of [[natural law]] and [[natural rights]] (both of which are considered "divine" or "God-given" in origin), calling them "nonsense upon stilts."<ref name="Sweet" />{{sfn|Harrison|1995|pp=85–88}} Bentham was also a sharp critic of [[legal fiction]]s.
+
+Bentham's students included his secretary and collaborator [[James Mill]], the latter's son, [[John Stuart Mill]], the legal philosopher [[John Austin (legal philosopher)|John Austin]], American writer and activist [[John Neal (writer)|John Neal]]. He "had considerable influence on the reform of prisons, schools, poor laws, law courts, and Parliament itself."{{sfn|Roberts|Roberts|Bisson|2016|p=307}}
+
+On his death in 1832, Bentham left instructions for his body to be first dissected, and then to be permanently preserved as an "auto-icon" (or self-image), which would be his memorial. This was done, and the auto-icon is now on public display in the entrance of the Student Centre at [[University College London]] (UCL). Because of his arguments in favour of the general availability of education, he has been described as the "spiritual founder" of UCL. However, he played only a limited direct part in its foundation.<ref name="UCL Academic Figures" />
+
+== Biography ==
+
+=== Early life ===
+[[File:Jeremy Bentham by Thomas Frye.jpg|thumb|Portrait of Bentham by the studio of [[Thomas Frye]], 1760–1762]]
+
+Bentham was born on 15 February 1748 in [[Houndsditch]], [[London]],<ref name="ODNB"/> to a wealthy family that supported the [[Tory party]]. He was reportedly a child prodigy: he was found as a toddler sitting at his father's desk reading a multi-volume history of England, and he began to study [[Latin]] at the age of three.<ref name="ucl.ac.uk" /> He learnt to play the [[violin]], and at the age of seven Bentham would perform [[sonata]]s by [[Handel]] during dinner parties.{{sfn|Warren|1969|p=}}{{incomplete short citation|date=April 2020}} He had one surviving sibling, [[Samuel Bentham]] (1757–1831), with whom he was close.
+
+He attended [[Westminster School]]; in 1760, at age 12, his father sent him to [[The Queen's College, Oxford]], where he completed his bachelor's degree in 1763 and his master's degree in 1766. He trained as a lawyer and, though he never practised, was called to the [[Bar (law)|bar]] in 1769. He became deeply frustrated with the complexity of English law, which he termed the "Demon of Chicane".{{Sfn | Stephen | 2011 | pages = 174–5}} When the American colonies published their [[United States Declaration of Independence|Declaration of Independence]] in July 1776, the British government did not issue any official response but instead secretly commissioned London lawyer and pamphleteer [[John Lind (barrister)|John Lind]] to publish a rebuttal.{{sfn|Dupont |Onuf|2008|pp=32–33}} His 130-page tract was distributed in the colonies and contained an essay titled "Short Review of the Declaration" written by Bentham, a friend of Lind, which attacked and mocked the Americans' [[political philosophy]].{{sfn|Armitage|2007|p=}}{{sfn|Anonymous|1776|p=3}}
+
+=== Abortive prison project and the Panopticon ===
+In 1786 and 1787, Bentham travelled to [[Krychaw|Krichev]] in White Russia (modern [[Belarus]]) to visit his brother, [[Samuel Bentham|Samuel]], who was engaged in managing various industrial and other projects for [[Grigory Potemkin|Prince Potemkin]]. It was Samuel (as Jeremy later repeatedly acknowledged) who conceived the basic idea of a circular building at the hub of a larger compound as a means of allowing a small number of managers to oversee the activities of a large and unskilled workforce.{{Sfn | Semple | 1993 | pp = 99–100}}<ref>{{citation |title= Prisons and prison systems: a global encyclopedia| first = Mitchel P | last = Roth |year= 2006 |publisher=Greenwood |url=https://books.google.com/books?id=RTH31DgbTzgC&pg=PA33|page= 33| isbn = 9780313328565 }}</ref>
+
+Bentham began to develop this model, particularly as applicable to prisons, and outlined his ideas in a series of letters sent home to his father in England.{{Sfn | Semple | 1993 | pp = 99–101}} He supplemented the supervisory principle with the idea of ''[[contract management]]''; that is, an administration by contract as opposed to trust, where the director would have a [[pecuniary]] interest in lowering the average rate of mortality.{{Sfn | Semple | 1993 | pp = 134–40}}
+
+The [[Panopticon]] was intended to be cheaper than the prisons of his time, as it required fewer staff; "Allow me to construct a prison on this model," Bentham requested to a Committee for the Reform of Criminal Law, "I will be the [[gaoler]]. You will see...that the [[gaoler]] will have no salary—will cost nothing to the nation." As the watchmen cannot be seen, they need not be on duty at all times, effectively leaving the watching to the watched. According to Bentham's design, the prisoners would also be used as menial labour, walking on wheels to spin [[loom]]s or run a [[water wheel]]. This would decrease the cost of the prison and give a possible source of income.<ref>Bentham, Jeremy. [1797] 1995. "[https://books.google.ca/books?id=V478RAAACAAJ&pg=PA29 The Panopticon Letters]." Pp. 29–95 in ''The Panopticon Writings'', edited by [[Miran Božovič|M. Božovič]]. London: [[Verso Books]].</ref>
+
+The ultimately abortive proposal for a panopticon prison to be built in England was one among his many proposals for legal and social reform.{{sfn|Bentham|1787|p=}} But Bentham spent some sixteen years of his life developing and refining his ideas for the building and hoped that the government would adopt the plan for a National Penitentiary appointing him as contractor-governor. Although the prison was never built, the concept had an important influence on later generations of thinkers. Twentieth-century French philosopher [[Michel Foucault]] argued that the panopticon was [[Paradigmatic analysis|paradigmatic]] of several 19th-century "[[Discipline|disciplinary]]" institutions.{{sfn|Foucault|1977|pp=200, 249–256}} Bentham remained bitter throughout his later life about the rejection of the panopticon scheme, convinced that it had been thwarted by the King and an aristocratic elite. It was largely because of his sense of injustice and frustration that he developed his ideas of "sinister interest"—that is, of the vested interests of the powerful conspiring against a wider public interest—which underpinned many of his broader arguments for reform.<ref>{{cite book |first=Philip |last=Schofield |title=Bentham: a guide for the perplexed |year=2009 |place=London |publisher= Continuum |isbn=978-0-8264-9589-1 |pages= 90–93}}</ref>
+
+[[File:Panopticon.jpg|thumb|[[Multiview orthographic projection#Elevation|Elevation]], [[Multiview orthographic projection#Section|section]] and [[Multiview orthographic projection#Plan|plan]] of Bentham's panopticon prison, drawn by [[Willey Reveley]] in 1791.]]
+On his return to England from Russia, Bentham had commissioned drawings from an architect, [[Willey Reveley]].{{Sfn | Semple | 1993 | p = 118}} In 1791, he published the material he had written as a book, although he continued to refine his proposals for many years to come. He had by now decided that he wanted to see the prison built: when finished, it would be managed by himself as contractor-governor, with the assistance of Samuel. After unsuccessful attempts to interest the authorities in Ireland and revolutionary France,<ref>Semple 1993, pp. 102–4, 107–8.</ref> he started trying to persuade the prime minister, [[William Pitt the Younger|William Pitt]], to revive an earlier abandoned scheme for a National Penitentiary in England, this time to be built as a panopticon. He was eventually successful in winning over Pitt and his advisors, and in 1794 was paid £2,000 for preliminary work on the project.<ref>Semple 1993, pp. 108–10, 262.</ref>
+
+The intended site was one that had been authorised (under an [[List of Acts of the Parliament of Great Britain, 1760–1779|act]] of 1779) for the earlier Penitentiary, at [[Battersea]] Rise; but the new proposals ran into technical legal problems and objections from the local landowner, [[George Spencer, 2nd Earl Spencer|Earl Spencer]].<ref>Semple 1993, pp. 169–89.</ref> Other sites were considered, including one at Hanging Wood, near [[Woolwich]], but all proved unsatisfactory.<ref>Semple 1993, pp. 194–7.</ref> Eventually Bentham turned to a site at Tothill Fields, near [[Westminster]]. Although this was common land, with no landowner, there were a number of parties with interests in it, including [[Richard Grosvenor, 1st Earl Grosvenor|Earl Grosvenor]], who owned a house on an adjacent site and objected to the idea of a prison overlooking it. Again, therefore, the scheme ground to a halt.<ref>Semple 1993, pp. 197–217.</ref> At this point, however, it became clear that a nearby site at [[Millbank]], adjoining the [[River Thames|Thames]], was available for sale, and this time things ran more smoothly. Using government money, Bentham bought the land on behalf of the Crown for £12,000 in November 1799.<ref>Semple 1993, pp. 217–22.</ref>
+
+From his point of view, the site was far from ideal, being marshy, unhealthy, and too small. When he asked the government for more land and more money, however, the response was that he should build only a small-scale experimental prison—which he interpreted as meaning that there was little real commitment to the concept of the panopticon as a cornerstone of penal reform.<ref>Semple 1993, pp. 226–31.</ref> Negotiations continued, but in 1801 Pitt resigned from office, and in 1803 the new [[Henry Addington, 1st Viscount Sidmouth|Addington]] administration decided not to proceed with the project.<ref>Semple 1993, pp. 236–9.</ref> Bentham was devastated: "They have murdered my best days."<ref>Semple 1993, p. 244.</ref>
+
+Nevertheless, a few years later the government revived the idea of a National Penitentiary, and in 1811 and 1812 returned specifically to the idea of a panopticon.<ref>Semple 1993, pp. 265–79.</ref> Bentham, now aged 63, was still willing to be governor. However, as it became clear that there was still no real commitment to the proposal, he abandoned hope, and instead turned his attentions to extracting financial compensation for his years of fruitless effort. His initial claim was for the enormous sum of nearly £700,000, but he eventually settled for the more modest (but still considerable) sum of £23,000.<ref>Semple 1993, pp. 279–81.</ref> An Act of Parliament in 1812 transferred his title in the site to the Crown.<ref>Penitentiary House, etc. Act: 52 Geo. III, c. 44 (1812).</ref>
+
+More successful was his cooperation with [[Patrick Colquhoun]] in tackling the corruption in the [[Pool of London]]. This resulted in the [[Thames Police Bill (1798)|Thames Police Bill of 1798]], which was passed in 1800.{{efn|An Act for the More Effectual Prevention of Depredations on the River Thames (39 & 40 Geo 3 c 87)<ref name="French" />}} The bill created the [[Thames River Police]], which was the first preventive police force in the country and was a precedent for [[Robert Peel]]'s reforms 30 years later.<ref name=":0">Everett, Charles Warren. 1969. ''Jeremy Bentham''. London: [[Weidenfeld & Nicolson]]. {{ISBN|0297179845}}. {{OCLC|157781}}.</ref>{{Rp|67–9}}
+
+=== Correspondence and contemporary influences ===
+Bentham was in correspondence with many influential people. In the 1780s, for example, Bentham maintained a correspondence with the aging [[Adam Smith]], in an unsuccessful attempt to convince Smith that interest rates should be allowed to freely float.{{sfn|Persky|2007|p=228}} As a result of his correspondence with [[Honoré Gabriel Riqueti, comte de Mirabeau|Mirabeau]] and other leaders of the [[French Revolution]], Bentham was declared an honorary citizen of France.{{sfn|Bentham|2002|p=291}} He was an outspoken critic of the revolutionary discourse of [[natural rights]] and of the violence that arose after the [[Jacobin]]s took power (1792). Between 1808 and 1810, he held a personal friendship with [[Latin American wars of independence|Latin American]] revolutionary [[Francisco de Miranda]] and paid visits to Miranda's Grafton Way house in London. He also developed links with [[José Cecilio del Valle]].<ref name=RubénDarío-1887>{{cite journal|last1=Darío|first1=Rubén|title=La Literatura en Centro-América|journal=Revista de artes y letras|date=1887|volume=XI|page=591|url=http://www.memoriachilena.gob.cl/602/w3-article-86857.html|access-date=25 March 2019|publisher=Biblioteca Nacional de Chile|language=es|id=MC0060418|quote=In Guatemala there was Valle, a man of vast intellect, friend of Jeremías Bentham, with whom he corresponded frequently.  Bentham sent him shortly before dying a lock of his hair and a golden ring, shiny as José Cecilio's style.}}</ref><ref>{{cite news |last1=Laura Geggel |title=Oddball Philosopher Had His Mummified Body Put on Display … and Now His Rings Are Missing |url=https://www.livescience.com/63551-philosopher-jeremy-bentham-missing-rings.html |access-date=26 March 2019 |work=[[Live Science]] |date=11 September 2018 |quote="We can safely assume that [Guatemalan philosopher and politician] José del Valle received one, as he is featured wearing it in a portrait," Causer said. "Interestingly, on the bookshelf of that portrait is one of Bentham’s works, as well as a Spanish translation of Say’s 'Traité d’économie politique.' It’s a neat, tangible link between Bentham, Say and del Valle."}}</ref>
+
+===South Australian colony proposal===
+
+On 3 August 1831 the Committee of the National Colonization Society approved the printing of its proposal to establish a free colony on the south coast of Australia, funded by the sale of appropriated colonial lands, overseen by a joint-stock company, and which would be granted powers of self-government as soon as was practicable. Contrary to assumptions, Bentham had no hand in the preparation of the 'Proposal to His Majesty's Government for founding a colony on the Southern Coast of Australia, which was prepared under the auspices of [[Robert Gouger]], [[Charles Grey, 2nd Earl Grey]], and [[Anthony Bacon (British Army officer)|Anthony Bacon]]. Bentham did, however, in August 1831, draft an unpublished work entitled 'Colonization Company Proposal', which constitutes his commentary upon the National Colonization Society's 'Proposal'.<ref>{{cite book |last1=Bentham |first1=Jeremy |editor1-last=Causer |editor1-first=Tim |editor2-last=Schofield |editor2-first=Philip |title=Colonization Company Proposal |date=2018 |publisher=Bentham Project, University College London |location=London |url=https://discovery.ucl.ac.uk/id/eprint/10055306/ |access-date=8 November 2021}}</ref>
+
+=== Westminster Review ===
+In 1823, he co-founded ''[[The Westminster Review]]'' with [[James Mill]] as a journal for the "[[Radicalism (historical)#Political reform|Philosophical Radicals]]"—a group of younger disciples through whom Bentham exerted considerable influence in British public life.{{sfn|Hamburger|1965|p=}}{{sfn|Thomas|1979|p=}} One was [[John Bowring]], to whom Bentham became devoted, describing their relationship as "son and father": he appointed Bowring political editor of ''The Westminster Review'' and eventually his [[literary executor]].{{sfn|Bartle|1963|p=}} Another was [[Edwin Chadwick]], who wrote on hygiene, sanitation and policing and was a major contributor to the [[Poor Law Amendment Act]]: Bentham employed Chadwick as a secretary and bequeathed him a large legacy.<ref name=":0" />{{Rp|94}}
+
+===Personal life===
+Bentham had several infatuations with women, and wrote on sex.<ref>{{Cite web|url=https://www.theguardian.com/books/2014/jun/26/sexual-irregularities-morality-jeremy-bentham-review|title = Of Sexual Irregularities by Jeremy Bentham – review|website = [[TheGuardian.com]]|date = 26 June 2014}}</ref> He never married.<ref>{{Cite book|chapter-url=https://plato.stanford.edu/entries/bentham/#LifWri|title = The Stanford Encyclopedia of Philosophy|chapter = Jeremy Bentham|year = 2021|publisher = Metaphysics Research Lab, Stanford University}}</ref>
+
+An insight into his character is given in Michael St. John Packe's ''The Life of John Stuart Mill'':
+
+{{quote|During his youthful visits to [[Bowood House]], the country seat of his patron [[William Petty, 2nd Earl of Shelburne|Lord Lansdowne]], he had passed his time at falling unsuccessfully in love with all the ladies of the house, whom he courted with a clumsy jocularity, while playing [[chess]] with them or giving them lessons on the [[harpsichord]]. Hopeful to the last, at the age of eighty he wrote again to one of them, recalling to her memory the far-off days when she had "presented him, in ceremony, with the flower in the green lane" [citing Bentham's memoirs]. To the end of his life he could not hear of Bowood without tears swimming in his eyes, and he was forced to exclaim, "Take me forward, I entreat you, to the future—do not let me go back to the past."{{sfn|Packe|1954|p=16}}}}
+
+A [[Psychobiography|psychobiographical]] study by Philip Lucas and Anne Sheeran argues that he may have had [[Asperger syndrome|Asperger's syndrome]].{{sfn|Lucas|Sheeran|2006|pp= 26–27}} Bentham was an atheist.{{sfn|Crimmins|1986|p=95}}
+
+Bentham's daily pattern was to rise at 6am, walk for 2 hours or more, and then work until 4pm.<ref>{{Cite web|url=https://www.utilitarianism.com/jeremy-bentham/life.html|title=Jeremy Bentham : Founder of utilitarianism}}</ref>
+
+=== Legacy ===
+The [[UCL Faculty of Laws|Faculty of Laws]] at [[University College London]] occupies Bentham House, next to the main UCL campus.<ref name="UCL8" />
+
+Bentham's name was adopted by the Australian [[Legal financing|litigation funder]] IMF Limited to become Bentham IMF Limited on 28 November 2013, in recognition of Bentham being "among the first to support the utility of litigation funding".<ref name="imf.com.au" />
+
+== Work ==
+
+=== Utilitarianism ===
+{{Utilitarianism}}
+
+Bentham's ambition in life was to create a "Pannomion," a complete [[utilitarianism|utilitarian]] code of law. He not only proposed many legal and social reforms, but also expounded an underlying moral principle on which they should be based. This philosophy of [[utilitarianism]] took for its "fundamental axiom" to be the notion that ''it is the greatest happiness of the greatest number that is the measure of right and wrong''.{{sfn|Bentham|1776|p= |loc=Preface (2nd para.)}} Bentham claimed to have borrowed this concept from the writings of [[Joseph Priestley]],{{sfn|Bentham |1821 |p=24 }} although the closest that Priestley in fact came to expressing it was in the form "the good and happiness of the members, that is the majority of the members of any state, is the great standard by which {{Sic|every thing}} relating to that state must finally be determined."{{sfn|Priestley|1771|p=17}}
+
+Bentham was a rare major figure in the history of philosophy to endorse [[psychological egoism]].<ref name="May" /> He was also a determined opponent of religion, as Crimmins observes: "Between 1809 and 1823 Jeremy Bentham carried out an exhaustive examination of religion with the declared aim of extirpating religious beliefs, even the idea of religion itself, from the minds of men."{{sfn|Crimmins|1986|p=95}}
+
+Bentham also suggested a procedure for estimating the [[moral status]] of any action, which he called the [[Hedonism|hedonistic]] or [[felicific calculus]].
+
+'''Principle of utility'''
+
+The principle of utility, or "[[greatest happiness principle]]," forms the cornerstone of all Bentham's thought. By "happiness," he understood a predominance of "pleasure" over "pain." He wrote in ''[[An Introduction to the Principles of Morals and Legislation]]'':<ref>Bentham, Jeremy. 1780. "[http://www.koeblergerhard.de/Fontes/BenthamJeremyMoralsandLegislation1789.pdf#page=43 Of The Principle of Utility]." Pp. 1–6 in ''[[An Introduction to the Principles of Morals and Legislation]]''. London: T. Payne and Sons. [https://www.utilitarianism.com/jeremy-bentham/#one eText]. p. 1.</ref>
+
+{{quote|Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do. On the one hand the standard of right and wrong, on the other the chain of causes and effects, are fastened to their throne. They govern us in all we do, in all we say, in all we think.…|author=|title=|source=}}
+
+Bentham's ''Principles of Morals and Legislation'' focuses on the principle of utility and how this view of morality ties into legislative practices.<ref name=":1">{{Cite book|last=Bentham, Jeremy, 1748-1832.|title=An introduction to the principles of morals and legislation|date=2005|publisher=Elibron Classics|isbn=1-4212-9048-0|location=[Chestnut Hill, Mass.?]|oclc=64578728}}</ref> His principle of utility regards ''good'' as that which produces the greatest amount of pleasure and the minimum amount of pain and ''evil'' as that which produces the most pain without the pleasure. This concept of '''pleasure and pain''' is defined by Bentham as physical as well as spiritual. Bentham writes about this principle as it manifests itself within the legislation of a society.<ref name=":1" />
+
+In order to measure the extent of pain or pleasure that a certain decision will create, he lays down a set of criteria divided into the categories of '''intensity''', '''duration''', '''certainty''', '''proximity''', '''productiveness''', '''purity''', and '''extent'''.<ref name=":1" /> Using these measurements, he reviews the concept of punishment and when it should be used as far as whether a punishment will create more pleasure or more pain for a society.
+
+He calls for legislators to determine whether punishment creates an even more evil offence. Instead of suppressing the evil acts, Bentham argues that certain unnecessary laws and punishments could ultimately lead to new and more dangerous vices than those being punished to begin with, and calls upon legislators to measure the pleasures and pains associated with any legislation and to form laws in order to create the greatest good for the greatest number. He argues that the concept of the individual pursuing his or her own happiness cannot be necessarily declared "right", because often these individual pursuits can lead to greater pain and less pleasure for a society as a whole. Therefore, the legislation of a society is vital to maintain the maximum pleasure and the minimum degree of pain for the greatest number of people.{{citation needed|date=June 2018}}
+
+==== Hedonistic/felicific calculus ====
+In his exposition of the [[felicific calculus]], Bentham proposed a classification of 12 pains and 14 pleasures, by which we might test the "'''happiness factor'''" of any action.<ref>Bentham, Jeremy. 1780. "[http://www.koeblergerhard.de/Fontes/BenthamJeremyMoralsandLegislation1789.pdf#page=68 Value of a Lot of Pleasure or Pain, How to be Measured]." Pp. 26–29 in ''[[An Introduction to the Principles of Morals and Legislation]]''. London: T. Payne and Sons. [https://www.utilitarianism.com/jeremy-bentham/#four eText].</ref> For Bentham, according to P. J. Kelly, the law "provides the basic framework of social interaction by delimiting spheres of personal inviolability within which individuals can form and pursue their own conceptions of well-being."{{sfn|Kelly|1990|p=81}} It provides security, a precondition for the formation of expectations. As the hedonic calculus shows "expectation utilities" to be much higher than natural ones, it follows that Bentham does not favour the sacrifice of a few to the benefit of the many. Law professor [[Alan Dershowitz]] has quoted Bentham to argue that torture should sometimes be permitted.<ref name="Dershowitz2014" />
+
+==== Criticisms ====
+Utilitarianism was revised and expanded by Bentham's student [[John Stuart Mill]], who sharply criticized Bentham's view of human nature, which failed to recognize conscience as a human motive. Mill considered Bentham's view "to have done and to be doing very serious evil."<ref>[[John Stuart Mill|Mill, John Stuart]]. 1897. ''Early Essays of John Stuart Mill''. London. pp. 401–04.</ref> In Mill's hands, "Benthamism" became a major element in the [[classical liberalism|liberal]] conception of [[state policy]] objectives.
+
+Bentham's critics have claimed that he undermined the foundation of a free society by rejecting [[Natural rights and legal rights|natural rights]].<ref name="Smith2012" /> Historian [[Gertrude Himmelfarb]] wrote "The principle of the greatest happiness of the greatest number was as inimical to the idea of liberty as to the idea of rights."{{sfn|Himmelfarb|1968|p=77}}
+
+Bentham's "hedonistic" theory (a term from [[J. J. C. Smart]]) is often criticised for lacking a principle of fairness embodied in a conception of [[justice]]. In ''Bentham and the Common Law Tradition'', Gerald J. Postema states: "No moral concept suffers more at Bentham's hand than the concept of justice. There is no sustained, mature analysis of the notion."{{sfn|Postema|1986|p=148}} Thus, some critics{{who|date=January 2013}} object, it would be acceptable to [[torture]] one person if this would produce an amount of happiness in other people outweighing the unhappiness of the tortured individual. However, as P. J. Kelly argued in ''Utilitarianism and Distributive Justice: Jeremy Bentham and the Civil Law'', Bentham had a theory of justice that prevented such consequences.{{clarify|date=July 2021}}
+
+=== Economics ===
+[[File:Bentham - Defence of usury, 1788 - 5231094.tif|thumb|''Defence of Usury'', 1788]]
+{{Hedonism}}Bentham's opinions about [[money|monetary economics]] were completely different from those of [[David Ricardo]]; however, they had some similarities to those of [[Henry Thornton (reformer)|Henry Thornton]]. He focused on [[monetary expansion]] as a means of helping to create [[full employment]]. He was also aware of the relevance of forced saving, [[propensity to consume]], the saving-investment relationship, and other matters that form the content of modern income and employment analysis. His monetary view was close to the fundamental concepts employed in his model of utilitarian decision making. His work is considered to be an early precursor of modern [[welfare economics]].{{citation needed|date=June 2018}}<ref>{{Cite journal|last=Collard|first=David|title=Research on well-being: Some advice from Jeremy Bentham|journal=Philosophy of the Social Sciences}}</ref>
+
+Bentham stated that pleasures and pains can be ranked according to their value or "dimension" such as intensity, duration, certainty of a pleasure or a pain. He was concerned with maxima and minima of pleasures and pains; and they set a precedent for the future employment of the maximisation principle in the economics of the consumer, the firm and the search for an optimum in welfare economics.{{sfn|Spiegel|1991|pp=341–343}}
+
+Bentham advocated "Pauper Management" which involved the creation of a chain of large workhouses.<ref name="bev._">{{Cite web |title=Tracts on Poor Laws and Pauper Management |last=Bentham |first=Jeremy |work=bev.berkeley.edu |date=1843 |access-date=27 March 2019 |url= http://bev.berkeley.edu/PE%20100/On%20Pauper%20Laws%20-%20Bentham.pdf  }}</ref>{{sfn|Himmelfarb| 1968| pp= 74–75}}
+
+=== Law reform ===
+Bentham was the first person to be an aggressive advocate for the [[codification (law)|codification]] of ''all'' of the [[common law]] into a coherent set of statutes; he was actually the person who coined the verb "to codify" to refer to the process of drafting a legal code.{{sfn|Morriss|1999|p=}} He lobbied hard for the formation of codification commissions in both England and the United States, and went so far as to write to President [[James Madison]] in 1811 to volunteer to write a complete legal code for the young country. After he learned more about American law and realised that most of it was state-based, he promptly wrote to the governors of every single state with the same offer.{{sfn|Weiss|2000|p=}}
+
+During his lifetime, Bentham's codification efforts were completely unsuccessful. Even today, they have been completely rejected by almost every common law jurisdiction, including England.{{sfn|Weiss|2000|p=}} However, his writings on the subject laid the foundation for the moderately successful codification work of [[David Dudley Field II]] in the United States a generation later.{{sfn|Morriss|1999|p=}}
+
+=== Animal rights ===
+Bentham is widely regarded as one of the earliest proponents of [[animal rights]].{{sfn|Benthall|2007|p=1}} He argued and believed that the ability to suffer, not the ability to reason, should be the benchmark, or what he called the "insuperable line". If reason alone were the criterion by which we judge who ought to have rights, human infants and adults with certain forms of disability might fall short, too.<ref name=":2">Bentham, Jeremy. 1780. "[http://www.koeblergerhard.de/Fontes/BenthamJeremyMoralsandLegislation1789.pdf#page=351 Of the Limits of the Penal Branch of Jurisprudence]." pp. 307–35 in ''[[An Introduction to the Principles of Morals and Legislation]]''. London: T. Payne and Sons.</ref> In 1780, alluding to the limited degree of legal protection afforded to [[slave]]s in the [[French West Indies]] by the [[Code Noir]], he wrote:<ref name=":2" />{{Rp|309n}}<blockquote>The day has been, I am sad to say in many places it is not yet past, in which the greater part of the species, under the denomination of slaves, have been treated by the law exactly upon the same footing, as, in England for example, the inferior races of animals are still. The day ''may'' come when the rest of the animal creation may acquire those rights which never could have been witholden from them but by the hand of tyranny. The French have already discovered that the blackness of the skin is no reason a human being should be abandoned without redress to the caprice of a tormentor. It may one day come to be recognised that the number of the legs, the [[Hair follicle|villosity]] of the skin, or the termination of the ''[[Sacrum|os sacrum]]'' are reasons equally insufficient for abandoning a sensitive being to the same fate. What else is it that should trace the insuperable line? Is it the faculty of reason or perhaps the faculty of [[Speech communication|discourse]]? But a full-grown horse or dog, is beyond comparison a more rational, as well as a more conversable animal, than an infant of a day or a week or even a month, old. But suppose the case were otherwise, what would it avail? The question is not, Can they ''reason''? nor, Can they ''talk''? but, Can they ''suffer''?</blockquote>Earlier in the paragraph, Bentham makes clear that he accepted that animals could be killed for food, or in defence of human life, provided that the animal was not made to suffer unnecessarily. Bentham did not object to [[Animal testing|medical experiments]] on animals, providing that the experiments had in mind a particular goal of benefit to humanity, and had a reasonable chance of achieving that goal. He wrote that otherwise he had a "decided and insuperable objection" to causing pain to animals, in part because of the harmful effects such practices might have on human beings. In a letter to the editor of the ''[[The Morning Chronicle|Morning Chronicle]]'' in March 1825, he wrote:
+
+{{quote|I never have seen, nor ever can see, any objection to the putting of dogs and other inferior animals to pain, in the way of medical experiment, when that experiment has a determinate object, beneficial to mankind, accompanied with a fair prospect of the accomplishment of it. But I have a decided and insuperable objection to the putting of them to pain without any such view. To my apprehension, every act by which, without prospect of preponderant good, pain is knowingly and willingly produced in any being whatsoever, is an act of cruelty; and, like other bad habits, the more the correspondent habit is indulged in, the stronger it grows, and the more frequently productive of its bad fruit. I am unable to comprehend how it should be, that to him to whom it is a matter of amusement to see a dog or a horse suffer, it should not be matter of like amusement to see a man suffer; seeing, as I do, how much more morality as well as intelligence, an adult quadruped of those and many other species has in him, than any biped has for some months after he has been brought into existence; nor does it appear to me how it should be, that a person to whom the production of pain, either in the one or in the other instance, is a source of amusement, would scruple to give himself that amusement when he could do so under an assurance of impunity.<ref name="Bentham1825" />}}
+
+=== Gender and sexuality ===
+Bentham said that it was the placing of women in a legally inferior position that made him choose in 1759, at the age of eleven, the career of a reformist,{{sfn|Williford|1975|p=167}} though American critic [[John Neal (writer)|John Neal]] claimed to have convinced him to take up women's rights issues during their association between 1825 and 1827.{{sfn|Lease|1978|p=192}}{{sfn|Daggett|1920|p=32}} Bentham spoke for a complete equality between the sexes, arguing in favour of [[women's suffrage]], a woman's right to obtain a divorce, and a woman's right to hold political office. Bentham (1780) nevertheless thought women inferior to men regarding such qualities as "strength of intellectual powers" and "firmness of mind."<ref>Bentham, Jeremy. 1780. "[http://www.koeblergerhard.de/Fontes/BenthamJeremyMoralsandLegislation1789.pdf#page=90 Of Circumstances Influencing Sensibility]." Pp. 40–56 in ''[[An Introduction to the Principles of Morals and Legislation]]''. [https://www.utilitarianism.com/jeremy-bentham/#six eText]. London: T. Payne and Sons. p. 48.</ref>
+
+The c. 1785 essay "Paederasty (Offences Against One's Self)"{{sfn|Bentham|2008|pp=389–406}} argued for the [[Liberalization|liberalisation]] of laws prohibiting homosexual sex.{{sfn|Campos Boralevi|2012| p= 40}} The essay remained unpublished during his lifetime for fear of offending public morality. Some of Bentham's writings on "sexual non-conformity" were published for the first time in 1931,{{sfn|Campos Boralevi|2012| p= 37}} but ''Paederasty'' was not published until 1978.<ref>''Journal of Homosexuality'', v.3:4(1978), p.389-405; continued in v.4:1(1978)</ref> Bentham does not believe homosexual acts to be unnatural, describing them merely as "irregularities of the venereal appetite". The essay chastises the society of the time for making a disproportionate response to what Bentham appears to consider a largely private offence—public displays or forced acts being dealt with rightly by other laws. When the essay was published in the ''Journal of Homosexuality'' in 1978, the [[Abstract (summary)|abstract]] stated that Bentham's essay was the "first known argument for homosexual law reform in England."{{sfn|Bentham|2008|pp=389–406}}
+
+=== Privacy ===
+For Bentham, transparency had moral value. For example, journalism puts power-holders under moral scrutiny. However, Bentham wanted such transparency to apply to everyone. This he describes by picturing the world as a gymnasium in which each "gesture, every turn of limb or feature, in those whose motions have a visible impact on the general happiness, will be noticed and marked down."{{sfn|Bentham|1834|p=101}} He considered both surveillance and transparency to be useful ways of generating understanding and improvements for people's lives.<ref name="McStay2013" />
+
+=== Fictional entities ===
+Bentham distinguished among fictional entities what he called "fabulous entities" like [[Prince Hamlet]] or a [[centaur]], from what he termed "fictitious entities", or necessary objects of discourse, similar to [[Kant]]'s categories,{{sfn|Cutrofello|2014|p=115}} such as nature, custom, or the social contract.{{sfn|Murphy|2014|p=61–62}}
+
+== Death and the auto-icon ==
+[[File:"Mortal Remains" of Jeremy Bentham, 1832 Wellcome L0007730.jpg|thumb|left|Bentham's Public dissection]]
+[[File:Jeremy Bentham Auto-Icon 2020.jpg|thumb|upright|Bentham's auto-icon in a new display case at University College London's Student Centre in 2020.]]
+[[File:Jeremy Bentham Auto-Icon.jpg|thumb|upright|Bentham's auto-icon in 2003]]
+[[File:Jeremy Bentham's Severed Head.JPG|thumb|left|Jeremy Bentham's severed head, on temporary display at UCL]]
+
+Bentham died on 6 June 1832 aged 84 at his residence in Queen Square Place in [[Westminster]], [[London]], England. He had continued to write up to a month before his death, and had made careful preparations for the [[dissection]] of his body after death and its preservation as an auto-icon. As early as 1769, when Bentham was 21 years old, he made a will leaving his body for dissection to a family friend, the physician and chemist [[George Fordyce]], whose daughter, Maria Sophia (1765–1858), married Jeremy's brother [[Samuel Bentham]].<ref name="ODNB" /> A paper written in 1830, instructing [[Thomas Southwood Smith]] to create the auto-icon, was attached to his last will, dated 30 May 1832.<ref name="ODNB" /> It stated:
+
+{{quote|My body I give to my dear friend Dr Southwood Smith to be disposed of in a manner hereinafter mentioned, and I direct ... he will take my body under his charge and take the requisite and appropriate measures for the disposal and preservation of the several parts of my bodily frame in the manner in the paper annexed to this my will and at the top of which I have written Auto Icon.{{pb}}The skeleton he will cause to be put together in such a manner that the whole figure may be seated in a chair usually occupied by me when living, in the attitude in which I am sitting while engaged in thought in the course of time occupied in writing.{{pb}}I direct that the body thus prepared shall be transferred to my executor. He will cause the skeleton to be clad in one of the suits of black occasionally worn by me. The body so clothed, together with the chair and the staff in my later years borne by me, he will take charge of, and for containing the whole apparatus he will cause to be prepared an appropriate box or case, and will cause to be engraved in conspicuous characters on a plate to be affixed thereon and also on the labels on the glass case in which the preparations of the soft parts of my body shall be contained, ... my name at length with the letters ob: followed by the day of my decease.{{pb}}If it should so happen that my personal friends and other disciples should be disposed to meet together on some day or days of the year for the purpose of commemorating the founder of the greatest happiness system of morals and legislation, my executor will from time to time cause to be conveyed in the room in which they meet the said box or case with the contents therein, to be stationed in such part of the room as to the assembled company shall seem meet. — ''Queen's Square Place, Westminster, Wednesday 30 May 1832''.<ref>{{cite journal |last1=Raphael |first1=Isabel |title=Southwood Smith: his extraordinary life and family |journal=Camden History Review |date=2009 |volume=33 |page=6}}</ref>}}
+
+Bentham's wish to preserve his dead body was consistent with his philosophy of utilitarianism. In his essay ''Auto-Icon, or the Uses of the Dead to the Living'', Bentham wrote, "If a country gentleman has rows of trees leading to his dwelling, the auto-icons of his family might alternate with the trees; copal varnish would protect the face from the effects of rain."<ref>{{cite book |last1=Forbes |first1=Malcolm |title=They Went That-a-way |date=1988 |publisher=Simon and Schuster |location=New York |isbn=0-671-65709-7 |page=28}}</ref> On 8 June 1832, two days after his death, invitations were distributed to a select group of friends, and on the following day at 3 p.m., Southwood Smith delivered a lengthy oration over Bentham's remains in the Webb Street School of Anatomy & Medicine in [[Southwark]], London. The printed oration contains a frontispiece with an engraving of Bentham's body partly covered by a sheet.<ref name="ODNB" />
+
+Afterward, the skeleton and head were preserved and stored in a wooden cabinet called the "Auto-icon", with the skeleton padded out with hay and dressed in Bentham's clothes. From 1833 it stood in Southwood Smith's [[Finsbury Square]] consulting rooms until he abandoned private practice in the winter of 1849-50 when it was moved to 36 [[Percy Street]], the studio of his unofficial partner, the painter [[Margaret Gillies]], who made studies of it. In March 1850 Southwood Smith offered the auto-icon to [[Henry Brougham, 1st Baron Brougham and Vaux|Henry Brougham]] who readily accepted it for [[University College London|UCL]].<ref>{{cite journal |last1=Hayes |first1=David |title=From Southwood Smith to Octavia Hill: a remarkable family's Camden years |journal=Camden History Review |date=2009 |volume=33 |page=9}}</ref>
+
+It is kept on public display at the main entrance of the UCL Student Centre. It was previously displayed at the end of the South Cloisters in the main building of the college until it was moved in 2020. Upon the retirement of Sir [[Malcolm Grant]] as [[Provost (education)|provost]] of the College in 2013, however, the body was present at Grant's final council meeting. As of 2013, this was the only time that the body of Bentham has been taken to a UCL council meeting.<ref name="Smallman2013" /><ref>{{cite AV media
+ | people =Das, Subhadra (curator)
+ | date =November 19, 2018
+ | title =The Boring Talks
+ | trans-title =#25 Jeremy Bentham's 'Auto-Icon'
+ | medium =podcast
+ | language =en
+ | url =https://www.bbc.co.uk/programmes/p05t3gr2/episodes/downloads
+ | publisher =BBC
+}}</ref> (There is a persistent myth that the body of Bentham is present at all council meetings.)<ref name="Smallman2013" /><ref name="UCL1" />
+
+Bentham had intended the auto-icon to incorporate his actual head, [[Mummy#Modern mummies|mummified]] to resemble its appearance in life. Southwood Smith's experimental efforts at mummification, based on practices of the indigenous people of New Zealand and involving placing the head under an air pump over sulfuric acid and drawing off the fluids, although technically successful, left the head looking distastefully macabre, with dried and darkened skin stretched tautly over the skull.<ref name="ODNB"/>
+
+The auto-icon was therefore given a [[wax]] head, fitted with some of Bentham's own hair. The real head was displayed in the same case as the auto-icon for many years, but became the target of repeated [[student prank]]s. It was later locked away.<ref name="UCL1" /> In 2017, plans were announced to re-exhibit the head and at the same time obtain a DNA sample for sequencing with the goal of identifying genetic evidence of [[autism]].<ref name="Knapton2017" />
+
+In 2020, the auto-icon was put into a new glass display case and moved to the entrance of UCL's new Student Centre on [[Gordon Square]].<ref>{{cite news |title=Jeremy Bentham's Body Gets A Contentious New Box At UCL |url=https://londonist.com/london/jeremy-bentham-s-body-gets-a-new-box |access-date=27 February 2020 |work=Londonist |date=24 February 2020 |language=en}}</ref>
+
+== University College London ==
+[[File:Four founders of UCL.JPG|thumb|right|upright|[[Henry Tonks]]' imaginary scene of Bentham approving the building plans of London University]]
+Bentham is widely associated with the foundation in 1826 of London University (the institution that, in 1836, became [[University College London]]), though he was 78 years old when the University opened and played only an indirect role in its establishment. His direct involvement was limited to his buying a single £100 share in the new University, making him just one of over a thousand shareholders.{{sfn|Harte|1998|pp= 5–8}}
+
+Bentham and his ideas can nonetheless be seen as having inspired several of the actual founders of the University. He strongly believed that education should be more widely available, particularly to those who were not wealthy or who did not belong to the established church; in Bentham's time, membership of the [[Church of England]] and the capacity to bear considerable expenses were required of students entering the Universities of [[University of Oxford|Oxford]] and [[University of Cambridge|Cambridge]]. As the University of London was the first in England to admit all, regardless of [[Race (classification of human beings)|race]], creed or political belief, it was largely consistent with Bentham's vision. There is some evidence that, from the sidelines, he played a "more than passive part" in the planning discussions for the new institution, although it is also apparent that "his interest was greater than his influence".{{sfn|Harte|1998|pp= 5–8}} He failed in his efforts to see his disciple [[John Bowring]] appointed professor of English or History, but he did oversee the appointment of another pupil, [[John Austin (legal philosophy)|John Austin]], as the first professor of [[Jurisprudence]] in 1829.
+
+The more direct associations between Bentham and UCL—the College's custody of his Auto-icon (see above) and of the majority of his surviving papers—postdate his death by some years: the papers were donated in 1849, and the Auto-icon in 1850. A large painting by [[Henry Tonks]] hanging in UCL's [[John Flaxman|Flaxman Gallery]] depicts Bentham approving the plans of the new university, but it was executed in 1922 and the scene is entirely imaginary. Since 1959 (when the Bentham Committee was first established) UCL has hosted the Bentham Project, which is progressively publishing a [[The Collected Works of Jeremy Bentham|definitive edition of Bentham's writings]].
+
+UCL now endeavours to acknowledge Bentham's influence on its foundation, while avoiding any suggestion of direct involvement, by describing him as its "spiritual founder".<ref name="UCL Academic Figures" />
+
+== Bibliography ==
+[[File:19 York Street, Westminster (1848).jpg|thumb|The back of No. 19, York Street (1848). In 1651 [[John Milton]] moved into a "pretty garden-house" in [[Petty France, London|Petty France]]. He lived there until the [[Restoration (England)|Restoration]]. Later it became No. 19 York Street, belonged to Jeremy Bentham (who for a time lived next door), was occupied successively by [[James Mill]] and [[William Hazlitt]], and finally demolished in 1877.{{sfn|Stephen|1894|p=32}}{{sfn|Grayling|2013|loc="19 York Street" }}]]
+
+[[File:Jeremy Bentham House.jpg|thumb|upright|Jeremy Bentham House in [[Bethnal Green]], [[East London]]; a modernist apartment block named after the philosopher]]
+
+Bentham was an obsessive writer and reviser, but was constitutionally incapable, except on rare occasions, of bringing his work to completion and publication.{{sfn|Lucas|Sheeran|2006| pp= 26–27}} Most of what appeared in print in his lifetime<ref name="socialsciences.mcmaster.ca" /> was prepared for publication by others. Several of his works first appeared in French translation, prepared for the press by [[Pierre Étienne Louis Dumont|Étienne Dumont]], for example, ''Theory of Legislation'', Volume 2 (''Principles of the Penal Code'') 1840, Weeks, Jordan, & Company. Boston. Some made their first appearance in English in the 1820s as a result of back-translation from Dumont's 1802 collection (and redaction) of Bentham's writing on civil and penal legislation.
+
+=== Publications ===
+
+* 1776. ''[[wikisource:A fragment on government|A fragment on government]]''. 
+** This was an unsparing criticism of some introductory passages relating to political theory in [[William Blackstone]]'s [[Commentaries on the Laws of England]]. The book, published anonymously, was well received and credited to some of the greatest minds of the time. Bentham disagreed with Blackstone's defence of judge-made law, his defence of legal fictions, his theological formulation of the doctrine of mixed government, his appeal to a [[social contract]] and his use of the vocabulary of natural law. Bentham's "Fragment" was only a small part of a Commentary on the Commentaries, which remained unpublished until the twentieth century.
+* 1776. {{Cite wikisource|title=Short Review of the Declaration}}
+** An attack on the United States Declaration of Independence.
+* 1780. ''[[wikisource:An Introduction to the Principles of Morals and Legislation|An Introduction to the Principles of Morals and Legislation]]''. London: T. Payne and Sons.<ref>Bentham, Jeremy. 1780. ''[http://www.koeblergerhard.de/Fontes/BenthamJeremyMoralsandLegislation1789.pdf An Introduction to the Principles of Morals and Legislation]''. London: T. Payne and Sons. [https://www.utilitarianism.com/jeremy-bentham/#one eText]. [[wikisource:An Introduction to the Principles of Morals and Legislation|Wikisource]].</ref>
+* 1785 (publ. 1978). "Offences Against One's Self," edited by [[Louis Crompton|L. Crompton]]. ''[[Journal of Homosexuality]]'' 3(4)389–405. Continued in vol. 4(1). {{Doi|10.1300/J082v03n04_07}}. {{ISSN|0091-8369}}. {{PMID|353189}}.<ref>Bentham, Jeremy. [1785] 2008. "[http://www.columbia.edu/cu/lweb/eresources/exhibitions/sw25/bentham/index.html Offences Against One's Self]," edited by [[Louis Crompton|L. Crompton]]. ''Stonewall and Beyond: Lesbian and Gay Culture''. {{Doi|10.1300/J082v03n04_07}}. {{ISSN|0091-8369}}. {{PMID|353189}}.</ref>
+* 1787. {{Cite wikisource|title=Panopticon or the Inspection-House}}
+* 1787. ''Defence of Usury''.<ref>Bentham, Jeremy. [1787] 2008. "[https://econjwatch.org/File+download/178/2008-01-bentham-com.pdf?mimetype=pdf Gulphs in Mankind's Career of Prosperity: A Critique of Adam Smith on Interest Rate Restrictions]." ''[[Econ Journal Watch]]'' 5(1):66–77. [https://econjwatch.org/articles/gulphs-in-mankind-s-career-of-prosperity-a-critique-of-adam-smith-on-interest-rate-restrictions Abstract].</ref>
+** A series of thirteen "Letters" addressed to [[Adam Smith]].
+* 1791. "Essay on Political Tactics" (1st ed.). London: T. Payne.<ref>Bentham, Jeremy. 1791. ''[https://books.google.ca/books?id=UclOAAAAcAAJ& Essay on Political Tactics: containing six of the Principal Rules proper to be observed by a Political Assembly In the process of a Forming a Decision: with the Reasons on Which They Are Grounded; and a comparative application of them to British and French Practice: Being a Fragment of a larger Work, a sketch of which is subjoined]'' (1st ed.). London: T. Payne.</ref>
+* 1796. ''Anarchical Fallacies; Being an examination of the Declaration of Rights issued during the French Revolution''.<ref>[[John Bowring|Bowring, John]], ed. 1838–1843. [https://oll.libertyfund.org/titles/1921 ''The Works of Jeremy Bentham'' 2]. Edinburgh: [[William Tait (publisher)|William Tait]]. Retrieved 5 July 2020.</ref> 
+** An attack on the [[Declaration of the Rights of Man and of the Citizen|Declaration of the Rights of Man]] decreed by the [[French Revolution]], and critique of the [[Natural right of resistance|natural rights philosophy underlying it]].<ref>''[https://books.google.ca/books?id=3C1NRsqMt4cC Rights, Representation, and Reform: Nonsense upon Stilts and Other Writings on the French Revolution]'', edited by P. Schofield, C. Pease-Watkin, and C. Blamires, eds. Oxford: University Press. 2002. {{ISBN|978-0-19-924863-6}}.</ref>
+* 1802. ''Traités de législation civile et pénale'', 3 vols, edited by [[Étienne Dumont]].
+* 1811. ''Punishments and Rewards''.
+* 1812. ''Panopticon versus New South Wales: or, the Panopticon Penitentiary System, Compared''. Includes:
+*# Two Letters to Lord Pelham, Secretary of State, Comparing the two Systems on the Ground of Expediency.
+*# "Plea for the Constitution: Representing the Illegalities involved in the Penal Colonization System (1803, first publ. 1812)
+* 1816. ''Defence of Usury; shewing the impolicy of the present legal restraints on the terms of pecuniary bargains in a letters to a friend to which is added a letter to Adam Smith, Esq. LL.D. on the discouragement opposed by the above restraints to the progress of inventive industry'' (3rd ed.). London: Payne & Foss.
+** Bentham wrote a series of thirteen "Letters" addressed to [[Adam Smith]], published in 1787 as ''Defence of Usury''. Bentham's main argument against the restriction is that "projectors" generate positive externalities. [[G. K. Chesterton]] identified Bentham's essay on [[usury]] as the very beginning of the "modern world." Bentham's arguments were very influential. "Writers of eminence" moved to abolish the restriction, and repeal was achieved in stages and fully achieved in England in 1854. There is little evidence as to Smith's reaction. He did not revise the offending passages in ''[[The Wealth of Nations]]'' (1776), but Smith made little or no substantial revisions after the third edition of 1784.
+* 1817. ''[https://books.google.ca/books?id=b0kdAQAAMAAJ A Table of the Springs of Action]''. London: sold by R. Hunter.
+* 1817. "Swear Not At All"
+* 1817. ''[[iarchive:planparliamenta00bentgoog|Plan of Parliamentary Reform, in the form of Catechism with Reasons for Each Article, with An Introduction shewing the Necessity and the Inadequacy of Moderate Reform]]''. London: R. Hunter.
+* 1818. Church-of-Englandism and its Catechism Examined. London: [[Effingham Wilson]].<ref>Bentham, Jeremy. 1818. ''[https://books.google.com/books?id=reVSAAAAcAAJ&pg=PP9 Church-of-Englandism and its Catechism Examined]''. London: [[Effingham Wilson]].</ref>
+* 1821. ''[https://books.google.com/books?id=FM0DAAAAQAAJ&pg=PP5 The Elements of the Art of Packing, as applied to special juries particularly in cases of libel law]''. London: Effingham Wilson.
+* 1821. ''On the Liberty of the Press, and Public Discussion''. London: Hone.
+* 1822. ''The Influence of Natural Religion upon the Temporal Happiness of Mankind'', written with [[George Grote]]
+** Published under the [[pseudonym]] Philip Beauchamp.
+* 1823. Not Paul But Jesus
+** Published under the pseudonym Gamaliel Smith.
+* 1824. ''[[iarchive:bookfallaciesfr00binggoog|The Book of Fallacies from Unfinished Papers of Jeremy Bentham]]'' (1st ed.). London: John and H. L. Hunt.
+* 1825. ''[https://books.google.com/books?id=tMsDAAAAQAAJ&pg=PR3 A Treatise on Judicial Evidence Extracted from the Manuscripts of Jeremy Bentham, Esq]'' (1st ed.), edited by M. Dumont. London: Baldwin, Cradock, & Joy.
+* 1827. ''[https://books.google.com/books?id=3i9x3jfeNgkC&pg=PR3 Rationale of Judicial Evidence, specially applied to English Practice, Extracted from the Manuscripts of Jeremy Bentham, Esq. I]'' (1st ed.). London: Hunt & Clarke.
+* 1830. {{Cite wikisource|title=Emancipate Your Colonies! Addressed to the National Convention of France A° 1793, shewing the uselessness and mischievousness of distant dependencies to an European state|location=London|publisher=Robert Heward}}
+* 1834. [https://archive.org/stream/deontologyorthes01bentuoft/ ''Deontology or, The science of morality'' 1], edited by [[John Bowring|J. Bowring]]. London: [[Longman, Rees, Orme, Brown, Green and Longmans|Longman, Rees, Orme, Brown, Green and Longman]].
+
+=== Posthumous publications ===
+On his death, Bentham left manuscripts amounting to an estimated 30 million words, which are now largely held by [[University College London's Special Collections]] (c. 60,000 [[manuscript]] [[folio]]s) and the [[British Library]] (c. 15,000 folios).
+
+==== Bowring (1838–1843) ====
+[[John Bowring]], the young radical writer who had been Bentham's intimate friend and disciple, was appointed his [[literary executor]] and charged with the task of preparing a collected edition of his works. This appeared in 11 volumes in 1838–1843. Bowring based much of his edition on previously published texts (including those of Dumont) rather than Bentham's own manuscripts, and elected not to publish Bentham's works on religion at all. The edition was described by the ''[[Edinburgh Review]]'' on first publication as "incomplete, incorrect and ill-arranged", and has since been repeatedly criticised both for its omissions and for errors of detail; while Bowring's memoir of Bentham's life included in volumes 10 and 11 was described by Sir [[Leslie Stephen]] as "one of the worst biographies in the language".{{sfn|Bartle|1963|p=27}} Nevertheless, Bowring's remained the standard edition of most of Bentham's writings for over a century, and is still only partially superseded: it includes such interesting writings on international{{efn|a word [http://www.ucl.ac.uk/Bentham-Project/tools/neologisms Bentham himself coined]}} relations as Bentham's [[A Plan for an Universal and Perpetual Peace]] written 1786–89, which forms part IV of the [[Principles of International Law]].
+
+==== Stark (1952–1954) ====
+In 1952–1954, [[Werner Stark]] published a three-volume set, ''Jeremy Bentham's Economic Writings'', in which he attempted to bring together all of Bentham's writings on economic matters, including both published and unpublished material. Although a significant achievement, the work is considered by scholars to be flawed in many points of detail,{{sfn|Schofield|2009a|pp=475–494}} and a new edition of the economic writings (retitled ''Writings on Political Economy'') is currently in course of publication by the Bentham Project.
+
+==== Bentham Project (1968–present) ====
+{{further|The Collected Works of Jeremy Bentham|Transcribe Bentham}}
+In 1959, the Bentham Committee was established under the auspices of University College London with the aim of producing a definitive edition of Bentham's writings. It set up the Bentham Project<ref name="UCL3" /> to undertake the task, and the first volume in ''[[The Collected Works of Jeremy Bentham]]'' was published in 1968. The ''Collected Works'' are providing many unpublished works, as well as much-improved texts of works already published. To date, 38 volumes have appeared; the complete edition is projected to a projected total of 80.<ref>{{cite book |first=Philip |last=Schofield |chapter=General preface to the new editions |title=The Correspondence of Jeremy Bentham, Volume 1: 1752–76 |editor-first=Timothy L. S. |editor-last=Sprigge |editor-link=Timothy Sprigge |publisher=UCL Press |place=London |origyear=1968 |year=2017 |page=vi |isbn=978-1-911576-05-1 |url=https://www.ucl.ac.uk/ucl-press/browse-books/the-correspondence-of-jeremy-bentham-volume-one }}</ref> The volume ''Of Laws in General'' (1970) was found to contain many errors and has been replaced by ''Of the Limits of the Penal Branch of Jurisprudence'' (2010){{sfn|Schofield|2013|pp=51–70}} In 2017, Volumes 1–5 were re-published in open access by UCL Press.{{citation needed|date=June 2018}}
+
+To assist in this task, the Bentham papers at UCL are being digitised by crowdsourcing their transcription. [[Transcribe Bentham]] is a [[crowdsourced]] manuscript transcription project, run by [[University College London]]'s Bentham Project,<ref name="UCL4" /> in partnership with UCL's [[UCL Centre for Digital Humanities]], UCL Library Services, UCL Learning and Media Services, the [[University of London Computer Centre]], and the online community. The project was launched in September 2010 and is making freely available, via a specially designed transcription interface, digital images of UCL's vast Bentham Papers collection—which runs to some 60,000 manuscript folios—to engage the public and recruit volunteers to help transcribe the material. Volunteer-produced transcripts will contribute to the Bentham Project's production of the new edition of ''The Collected Works of Jeremy Bentham'', and will be uploaded to UCL's digital Bentham Papers repository,<ref name="UCL5" /> widening access to the collection for all and ensuring its long-term preservation. Manuscripts can be viewed and transcribed by signing-up for a transcriber account at the Transcription Desk,<ref name="UCL6" /> via the Transcribe Bentham website.<ref name="UCL7" />
+
+Free, flexible textual search of the full collection of Bentham Papers is now possible through an experimental handwritten text image indexing and search system,<ref name="PRHLTsearch" /> developed by the PRHLT research center in the framework of the READ project.
+
+== See also ==
+* [[List of animal rights advocates]]
+* [[List of civil rights leaders]]
+* [[List of liberal theorists]]
+* {{annotated link|Philosophy of happiness}}
+* {{annotated link|Rule according to higher law}}
+* {{annotated link|Rule of law}}
+{{clear}}
+
+== References ==
+
+=== Notes ===
+{{notelist}}
+
+=== Citations ===
+{{Reflist|30em|refs=
+
+<ref name="Johnson2012">{{Cite web | title = Ancestry of Jeremy Bentham | last = Johnson | first = Will | work = countyhistorian | date = 2012 | access-date = 2018-06-11 | url = https://sites.google.com/site/countyhistorian/ancestry-of-jeremy-bentham }}</ref>
+
+<ref name="Sweet">{{Cite encyclopedia | title = Bentham, Jeremy | last = Sweet | first = William | encyclopedia = Internet Encyclopedia of Philosophy | date = n.d. | access-date = 2018-06-11 | url = http://www.iep.utm.edu/bentham/ }}</ref>
+
+<ref name="May">{{Cite encyclopedia | title = Psychological Egoism | last = May | first = Joshua | encyclopedia = Internet Encyclopedia of Philosophy | date = n.d. | access-date = 2018-06-11 | url = http://www.iep.utm.edu/psychego/ }}</ref>
+
+<ref name="utilitarianphilosophy.com">{{Cite web | title = Jeremy Bentham | work = utilitarianphilosophy.com | date = n.d. | access-date = 2018-06-11 | url = http://utilitarianphilosophy.com/jeremybentham.eng.html }}</ref>
+
+<ref name="Smith2012">{{Cite web | title = Jeremy Bentham's Attack on Natural Rights | last = Smith | first = George H. | work = Libertarianism.org | date = 26 June 2012 | access-date = 2018-06-11 | url = https://www.libertarianism.org/publications/essays/excursions/jeremy-benthams-attack-natural-rights }}</ref>
+
+<ref name="McStay2013">{{cite web|url=http://theconversation.com/why-too-much-privacy-is-bad-for-the-economy-19998 |last=McStay |first=Andrew |title=Why too much privacy is bad for the economy |work=The Conversation |date=8 November 2013 |access-date=25 August 2014}}</ref>
+
+<ref name="Bentham1825">{{cite news |last=Bentham |first=Jeremy |title=To the Editor of the Morning Chronicle| page=2 |newspaper=Morning Chronicle |location=London |date=9 March 1825 |url=http://find.galegroup.com/bncn/retrieve.do?sgHitCountType=None&scale=1.00&orientation=&sort=DateAscend&docLevel=FASCIMILE&prodId=BNWS&tabID=T012&subjectParam=Locale%2528en%252C%252C%2529%253ALQE%253D%2528jn%252CNone%252C6%2529%25221ZUA%2522%253AAnd%253ALQE%253D%2528da%252CNone%252C10%252903%252F09%252F1825%2524&searchId=R5&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&currentPosition=4&qrySerId=Locale%28en%2C%2C%29%3ALQE%3D%28jn%2CNone%2C6%29%221ZUA%22%3AAnd%3ALQE%3D%28da%2CNone%2C10%2903%2F09%2F1825%24&retrieveFormat=MULTIPAGE_DOCUMENT&subjectAction=DISPLAY_SUBJECTS&inPS=true&userGroupName=ucl_ttda&sgCurrentPosition=0&docId=BC3207301704&docId=&docLevel=FASCIMILE&workId=&relevancePageBatch=&contentSet=LTO&callistoContentSet=&docPage=article&mcode=&issueNum=&recNum=CT3207301703&newScale=0.33&newOrientation=0BA3207301703}}{{subscription}}</ref>
+
+<ref name="UCL Academic Figures">{{cite web|url=http://www.ucl.ac.uk/about-ucl/inspiring-minds/academic-figures |archive-url=https://web.archive.org/web/20101218055822/http://www.ucl.ac.uk/about-ucl/inspiring-minds/academic-figures |url-status=dead |archive-date=18 December 2010 |title=UCL Academic Figures }}</ref>
+
+<ref name="ucl.ac.uk">{{cite web|url=http://www.ucl.ac.uk/Bentham-Project/info/jb.htm|title=Jeremy Bentham|publisher=University College London|access-date=4 January 2007 |archive-url = https://web.archive.org/web/20070101105009/http://www.ucl.ac.uk/Bentham-Project/info/jb.htm |archive-date = 1 January 2007}}</ref>
+
+<ref name="UCL1">{{cite web|url=http://www.ucl.ac.uk/Bentham-Project/who/autoicon |title=UCL Bentham Project |publisher=University College London |access-date=22 July 2011 |url-status=dead |archive-url=https://web.archive.org/web/20101112065654/http://www.ucl.ac.uk/Bentham-Project/who/autoicon |archive-date=12 November 2010 }}</ref>
+
+<!-- ref name="UCL2">{{cite web|url=http://www.ucl.ac.uk/bentham-project/who/autoicon/Virtual_Auto_Icon|title=Virtual Auto-Icon}}</ref -->
+
+<ref name="UCL3">{{cite web|url=http://www.ucl.ac.uk/Bentham-Project/|title=Bentham Project|access-date=8 June 2002|archive-url=https://web.archive.org/web/20170524175211/http://www.ucl.ac.uk/Bentham-Project/|archive-date=24 May 2017|url-status=dead}}</ref>
+
+<ref name="UCL4">{{cite web |url=http://www.ucl.ac.uk/bentham-project |title=The Bentham Project |publisher=Ucl.ac.uk |access-date=26 April 2012 |archive-url=https://web.archive.org/web/20110610005518/http://www.ucl.ac.uk/Bentham-Project/ |archive-date=10 June 2011 |url-status=dead }}</ref>
+
+<ref name="UCL5">{{cite web|url=http://www.ucl.ac.uk/library/bentham |title=UCL digital Bentham collection |publisher=Ucl.ac.uk |date=20 August 1996 |access-date=26 April 2012}}</ref>
+
+<ref name="UCL6">{{cite web|url=http://www.transcribe-bentham.da.ulcc.ac.uk/td/Transcribe_Bentham |title=Transcribe Bentham: Transcription Desk |publisher=Transcribe-bentham.da.ulcc.ac.uk |access-date=26 April 2012}}</ref>
+
+<ref name="UCL7">{{cite web|url=http://www.ucl.ac.uk/transcribe-bentham |title=Transcribe Bentham |publisher=Ucl.ac.uk |access-date=26 April 2012}}</ref>
+
+<ref name="PRHLTsearch">{{cite web|url=http://prhlt-carabela.prhlt.upv.es/bentham/ |title=PRHLT text indexing and search interface for Bentham Papers|publisher=prhlt.upv.es }}</ref>
+
+<ref name="UCL8">{{cite web |url=http://www.ucl.ac.uk/laws/faculty/index.shtml |title=About UCL Laws |author=<!--Staff writer(s); no by-line.--> |year=2009 |publisher=University College London |access-date=11 April 2014}}</ref>
+
+<ref name="ODNB">{{cite ODNB|id=2153|title=Bentham, Jeremy|orig-year=2004|year=2014|last=Rosen|first=F.}}</ref>
+
+<ref name="Dershowitz2014">{{Cite web | title = A choice of evils: Should democracies use torture to protect against terrorism? | last = Dershowitz | first = Alan M. | work = The Boston Globe | date = 18 September 2014 | access-date = 2018-06-11 | url = https://www.bostonglobe.com/opinion/2014/09/17/torture-tool-fight-against-terrorist-groups-like-isis/1Tfqfk1Amck7Rh9kEra8IN/story.html }}</ref>
+
+<ref name="socialsciences.mcmaster.ca">{{Cite web | title = Published Works of Jeremy Bentham | author = Anon | work = socialsciences.mcmaster.ca | date = n.d. | access-date = 2018-06-12 | url = https://socialsciences.mcmaster.ca/econ/ugcm/3ll3/bentham/benbib.htm }}</ref>
+
+<ref name="Knapton2017">{{cite news|url=https://www.telegraph.co.uk/science/2017/10/02/severed-head-eccentric-jeremy-bentham-go-display-scientists/|title=Severed head of eccentric Jeremy Bentham to go on display as scientists test DNA to see if he was autistic|author =Sarah Knapton|work=Daily Telegraph|date=2 October 2017|access-date=9 October 2017}}</ref>
+
+<ref name="Smallman2013">{{Cite web | title = Bentham's corpse attends UCL board meeting |  first = Etan|last =  Smallman  | work = Metro | date = 12 July 2013 |  access-date = 2018-06-12 | url = https://metro.co.uk/2013/07/12/181-year-old-corpse-of-jeremy-bentham-attends-ucl-board-meeting-3879586/ }}</ref>
+
+<ref name="French">{{Cite web | title = The Early History of Thames Magistrates' Court | last = French | first = Stanley | work = Thames Police Museum | date = n.d. | access-date = 2018-06-14 | url = http://www.thamespolicemuseum.org.uk/h_magistrates_1.html }}</ref>
+
+<ref name="imf.com.au">{{cite web |url=http://www.imf.com.au/about-us |title=About us |author=<!--Staff writer(s); no by-line.--> |year=2013 |publisher=Bentham IMF Limited |access-date=11 April 2014}}</ref>
+
+<!--<ref name="Вазов1942">{{cite book |last=Вазов |first=Иван |year=1942 |title=Събрани съчинения, пълно издание под редакцията на проф. Михаил Арнаудов |volume= I лирика |publisher= Хемус |publication-place=София |pages= 247 }}</ref>-->
+
+}}
+
+=== Sources ===
+{{refbegin|35em|indent=yes}}
+*{{cite book|last=Armitage|first=David |title=The Declaration of Independence: A Global History|url=https://archive.org/details/declarationofind00armi|url-access=registration|year=2007|publisher=Harvard University Press|isbn=978-0-674-02282-9}}
+*{{cite journal |last=Bartle |first=G. F. |title=Jeremy Bentham and John Bowring: a study of the relationship between Bentham and the editor of his ''Collected Works'' |journal=Bulletin of the Institute of Historical Research |volume=36 |issue=93 |year=1963 |pages=27–35 |doi=10.1111/j.1468-2281.1963.tb00620.x}}
+*{{cite journal |last=Bedau |first=Hugo Adam |title=Bentham's Utilitarian Critique of the Death Penalty |journal=The Journal of Criminal Law and Criminology |volume=74 |year=1983 |issue=3 |pages=1033–65 |doi=10.2307/1143143 |url=http://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=6388&context=jclc |jstor=1143143 }}
+*{{cite journal|last1=Benthall|first1=Jonathan|title=Animal liberation and rights|journal=Anthropology Today|volume=23|issue=2|year=2007|pages=1–3|issn=0268-540X|doi=10.1111/j.1467-8322.2007.00494.x}}
+*{{cite journal|last1=Burns|first1=J. H.|s2cid=146209080|author-link=J. H. Burns|title=Happiness and Utility: Jeremy Bentham's Equation|journal=Utilitas|volume=17|issue=1|year=2005|pages=46–61|issn=0953-8208|doi=10.1017/S0953820804001396}}
+*{{cite journal|last=Burns|first=J. H.|title=Bentham and Blackstone: A Lifetime's Dialectic |year=1989|journal=Utilitas |volume=1 |page=22 |doi=10.1017/S0953820800000042}}
+*{{cite book|last=Campos Boralevi|first=Lea  |title=Bentham and the Oppressed|url=https://books.google.com/books?id=BccgAAAAQBAJ&pg=PA37|date=2012|publisher=Walter de Gruyter|isbn=978-3-11-086983-5}}
+*{{cite journal|last=Crimmins|first=James E.|title=Bentham on Religion: Atheism and the Secular Society|year=1986|publisher=University of Pennsylvania Press|jstor=2709597|journal=Journal of the History of Ideas|volume= 47|issue=1|pages=95–110|doi=10.2307/2709597}}
+*{{cite book|last=Crimmins|first=James E.|title=Secular Utilitarianism: Social Science and the Critique of Religion in the Thought of Jeremy Bentham|url=https://books.google.com/books?id=fxzXAAAAMAAJ|year=1990|publisher=Clarendon Press|isbn=978-0-19-827741-5}}
+*{{cite book|last=Cutrofello|first=Andrew |title=All for Nothing: Hamlet's Negativity|url=https://books.google.com/books?id=HIcRBAAAQBAJ&pg=PA115|year=2014|publisher=MIT Press|isbn=978-0-262-52634-0}}
+* {{Cite book|publisher=A.J. Huston|last=Daggett|first=Windsor|title=A Down-East Yankee From the District of Maine|location=Portland, Maine|year=1920|url=https://catalog.hathitrust.org/Record/007921667}}
+*{{cite book |last=Dinwiddy |first=John |year=2004 |title=Bentham: selected writings of John Dinwiddy |publisher=Stanford University Press |place=Stanford, CA |isbn=978-0-8047-4520-8 }}
+*{{cite book|editor1-last=Dupont|editor1-first=Christian Y.|editor2-last=Onuf|editor2-first=Peter S.|title=Declaring Independence: The Origin and Influence of America's Founding Document : Featuring the Albert H. Small Declaration of Independence Collection|url=https://books.google.com/books?id=AtIXNAAACAAJ|year=2008|publisher=University of Virginia Library|location=Charlottesville, VA|isbn=978-0-9799997-0-3}}
+*{{cite book|last=Everett|first=Charles Warren|title=Jeremy Bentham|location=London|publisher=Weidenfeld & Nicolson|date=1969|isbn=0297179845|oclc=157781}}
+*{{cite book|last=Follett|first=R. |title=Evangelicalism, Penal Theory and the Politics of Criminal Law: Reform in England, 1808-30|url=https://books.google.com/books?id=qVWEDAAAQBAJ&pg=PA7|year=2000|publisher=Palgrave Macmillan|isbn=978-1-4039-3276-1}}
+*{{cite book |first=Michel |last=Foucault |title=Discipline and Punish: the Birth of the Prison |translator=Alan Sheridan |publisher=Penguin |place=Harmondsworth |year=1977 |isbn=9780140137224 |author-link=Michel Foucault|url=https://books.google.com/books?id=7lo5Op8Pq-AC}}
+*{{cite book|last=Francione|first=Gary|chapter=Animals: Property or Persons|editor1-last=Sunstein|editor1-first=Cass R. |editor2-first=Martha C.|editor2-last= Nussbaum|title=Animal Rights: Current Debates and New Directions|chapter-url=https://books.google.com/books?id=e7FME0btkH0C&pg=PA139|year=2004|publisher=Oxford University Press, USA|isbn=978-0-19-515217-3}}
+*{{cite book|last=González|first=Ana Marta |title=Contemporary Perspectives on Natural Law: Natural Law as a Limiting Concept|url=https://books.google.com/books?id=uaHm1SIzwg0C|year=2012|publisher=Ashgate Publishing|isbn=978-1-4094-8566-7}}
+*{{cite book|last=Grayling |first=A. C. |author-link=A. C. Grayling |year=2013|chapter=19 York Street |title=The Quarrel of the Age: The Life and Times Of William Hazlitt|isbn=9781780226798 |chapter-url=https://books.google.com/books?id=5bUzAAAAQBAJ&pg=PT89 }}
+*{{cite encyclopedia|last=Gruen|first=Lori|url=http://plato.stanford.edu/entries/moral-animal/ |title=The Moral Status of Animals|encyclopedia=Stanford Encyclopedia of Philosophy|date=1 July 2003}}
+*{{cite book |last=Gunn|first=J. A. W.|year=1989|chapter=Jeremy Bentham and the Public Interest |editor-first=J. |editor-last=Lively |editor2-first=A. |editor2-last=Reeve |title=Modern Political Theory from Hobbes to Marx: Key Debates |chapter-url=https://archive.org/details/modernpoliticalt00hist|chapter-url-access=registration|location=London |pages=[https://archive.org/details/modernpoliticalt00hist/page/199 199–219]|isbn=9780415013512}}
+*{{cite book|last=Hamburger|first=Joseph |title=Intellectuals in Politics: John Stuart Mill and the Philosophic Radicals|url=https://archive.org/details/intellectualsinp0000hamb|url-access=registration|year=1965|publisher=Yale University Press}}
+*{{cite journal|last=Harris |first=Jonathan |year=1998 |title=Bernardino Rivadavia and Benthamite 'discipleship' |journal=Latin American Research Review |volume=33 |pages=129–49 }}
+*{{cite book |last=Harrison |first=Ross |year=1983 |title=Bentham |url=https://archive.org/details/bentham0000harr |url-access=registration |publisher=Routledge & Kegan Paul |place=London | isbn=0-7100-9526-0 }}
+*{{cite book |last=Harrison |first=Ross|chapter-url=http://www.utilitarian.net/bentham/about/1995----.htm |chapter=Jeremy Bentham |editor-last=Honderich |editor-first=Ted |title=The Oxford Companion to Philosophy |publisher=Oxford University Press |year=1995 |pages=85–88 }}
+*{{cite journal|last=Hart|first= Jenifer|title=Nineteenth-Century Social Reform: A Tory Interpretation of History|journal=Past & Present|volume= 31|issue= 31|pages= 39–61|date=July 1965|jstor=650101|doi= 10.1093/past/31.1.39}}
+*{{cite book|last=Harte|first= Negley|chapter=The owner of share no. 633: Jeremy Bentham and University College London|editor-first=Catherine|editor-last=Fuller|title=The Old Radical: representations of Jeremy Bentham|location=London|publisher=[[University College London]] |date=1998}}
+*{{cite book|last=Himmelfarb|first= Gertrude|title=Victorian Minds|url=https://archive.org/details/victorianminds00himm|url-access=registration|location=New York|date=1968 |publisher=Knopf}}
+*{{cite book|last=Kelly|first=Paul J. |title=Utilitarianism and distributive justice: Jeremy Bentham and the civil law|url=https://books.google.com/books?id=_1CPAAAAMAAJ|year=1990|publisher=Oxford University Press|isbn=978-0-19-825418-8}}
+*{{cite book|last=Anonymous|title=An Answer to the Declaration of the American Congress|url=https://books.google.com/books?id=iHNbAAAAQAAJ&pg=PA3|location=London|publisher=T. Cadell|year=1776}}
+* {{Cite book|publisher=University of Chicago Press|isbn=0-226-46969-7|last=Lease|first=Benjamin|title=That Wild Fellow John Neal and the American Literary Revolution|location=Chicago, Illinois|year=1972}}
+*{{cite journal |last1=Lucas |first1=Philip |last2=Sheeran |first2=Anne |title=Asperger's Syndrome and the Eccentricity and Genius of Jeremy Bentham |journal=Journal of Bentham Studies |volume=8 |year=2006 |url=http://discovery.ucl.ac.uk/1322989/1/008_Lucas_and_Sheeran__2006_.pdf}}
+*{{cite journal|first=Andrew P. |last=Morriss|title=Codification and Right Answers|volume=74|journal=Chic.-Kent L. Rev.|page= 355 |date=1999|url=https://scholarship.kentlaw.iit.edu/cgi/viewcontent.cgi?article=3270&context=cklawreview}}
+*{{cite book|last=McStay|first=Andrew |title=Privacy and Philosophy: New Media and Affective Protocol|url=https://books.google.com/books?id=wvG8oAEACAAJ|year=2014|publisher=Peter Lang|isbn=978-1-4331-1898-2}}
+*{{cite book|last=Murphy|first=James Bernard |title=The Philosophy of Customary Law|url=https://books.google.com/books?id=WuokAwAAQBAJ&pg=PA61|year=2014|publisher=Oxford University Press|isbn=978-0-19-937062-7}}
+*{{cite book|last=Packe|first=Michael St. John |title=The Life of John Stuart Mill|url=https://archive.org/details/lifeofjohnstuart0000pack|url-access=registration|location=London|publisher=Secker and Warburg|year=1954}}
+*{{Cite journal|last=Persky|first=Joseph|date=1 January 2007|title=Retrospectives: From Usury to Interest|journal=The Journal of Economic Perspectives|volume=21|issue=1|pages=228|doi=10.1257/jep.21.1.227|jstor=30033709|url=http://www.aeaweb.org/articles.php?doi=10.1257/jep.21.1.227}}
+*{{cite book|last=Postema|first=Gerald J. |title=Bentham and the Common Law Tradition|url=https://books.google.com/books?id=_aKxAAAAIAAJ|year=1986|publisher=Oxford U. P.|isbn=978-0-19-825505-5}}
+*{{cite book|last=Priestley|first=Joseph |author-link=Joseph Priestley|title=An Essay on the First Principles of Government: And on the Nature of Political, Civil, and Religious Liberty|url=https://archive.org/details/bub_gb_HIAFAAAAMAAJ|location=London|publisher=J. Johnson|year=1771}}
+*{{cite book|last1=Roberts|first1=Clayton|last2=Roberts|first2=David F. |last3=Bisson|first3=Douglas|title=A History of England|volume= Volume II: 1688 to the Present|url=https://books.google.com/books?id=UoqTDAAAQBAJ&pg=PA307|year=2016|page=307|publisher=[[Routledge]]|isbn=978-1-315-50960-0|edition=6th|location=London and New York}}
+*{{cite book |last1=Robinson |first1=Dave  |last2=Groves |first2=Judy |year=2003 |title=Introducing Political Philosophy |place=Cambridge |publisher=Icon Books |isbn=1-84046-450-X }}
+*{{cite book |last=Rosen  |first=F. |year=1983 |title=Jeremy Bentham and Representative Democracy: A Study of the "Constitutional Code" |place=Oxford |publisher=Clarendon Press |isbn=0-19-822656-X }}
+*{{cite book |last=Rosen |first=Frederick |year=1990 |chapter=The Origins of Liberal Utilitarianism: Jeremy Bentham and Liberty |editor-first=R. |editor-last=Bellamy |title=Victorian Liberalism: Nineteenth-century Political Thought and Practice |location=London |page=5870}}
+*{{cite book |last=Rosen |first=Frederick |year=1992 |title=Bentham, Byron, and Greece: constitutionalism, nationalism, and early liberal political thought |place=Oxford |publisher=Clarendon Press |isbn=0-19-820078-1 }}
+*{{cite book |editor-last=Rosen |editor-first=Frederick  |year=2007 |title=Jeremy Bentham |place=Aldershot |publisher=Ashgate |isbn=978-0-7546-2566-7 }}
+*{{cite book |last=Schofield |first=Philip |title=Utility and Democracy: The Political Thought of Jeremy Bentham |place=Oxford |publisher=Oxford University Press |year=2006 |isbn=978-0-19-820856-3 }}
+*{{cite book |last=Schofield |first=Philip |title=Bentham: a guide for the perplexed |year=2009 |place=London |publisher=Continuum |isbn=978-0-8264-9589-1 }}
+*{{cite journal|last=Schofield|first=Philip|title=Werner Stark and Jeremy Bentham's Economic Writings |journal=History of European Ideas |volume=35 |issue=4 |year=2009 |pages=475–94 |doi=10.1016/j.histeuroideas.2009.05.003|s2cid=144165469}}
+*{{cite journal|last=Schofield|first=Philip|title=The Legal and Political Legacy of Jeremy Bentham|journal=[[Annual Review of Law and Social Science]]|volume=9|issue=1|year=2013|pages=51–70|doi=10.1146/annurev-lawsocsci-102612-134101}}
+*{{cite book |last=Semple |first=Janet |title=Bentham's Prison: a Study of the Panopticon Penitentiary |place=Oxford |publisher=Clarendon Press |year=1993 |isbn=0-19-827387-8 }}
+*{{cite book|last=Spiegel|first=Henry William |title=The Growth of Economic Thought|url=https://books.google.com/books?id=oXJkjfVCOLoC&pg=PA341|edition=3rd|year=1991|publisher=Duke University Press|isbn=0-8223-0973-4}}
+*{{cite DNB |last=Stephen |first=Leslie |wstitle=Milton, John (1608-1674) |display=Milton, John (1608–1674) |volume=38 |page=32 }}
+*{{cite book |last=Stephen |first=Leslie |title= The English Utilitarians |place=Cambridge |publisher=Cambridge University Press |year=2011 |isbn=9781108041003}}
+*{{cite book|last=Sunstein|first=Cass R.|chapter=Animal Rights|editor1-last=Sunstein|editor1-first=Cass R. |editor2-first=Martha C.|editor2-last=Nussbaum|title=Animal Rights: Current Debates and New Directions|chapter-url=https://books.google.com/books?id=e7FME0btkH0C&pg=PA3|year=2004|publisher=Oxford University Press, USA|isbn=978-0-19-515217-3}}
+*{{cite book|last=Thomas|first=William |title=The Philosophic Radicals: Nine Studies in Theory and Practice, 1817-1841|url=https://books.google.com/books?id=nBaDAAAAMAAJ|year=1979|publisher=Clarendon Press|location=Oxford|isbn=978-0-19-822490-7}}
+*{{cite book |last=Twining |first=William |year=1985 |title=Theories of Evidence: Bentham and Wigmore |publisher=Stanford University Press |place=Stanford, CA |isbn=0-8047-1285-9 |url-access=registration |url=https://archive.org/details/theoriesofeviden00twin }}
+*{{cite journal|last=Vergara|first=Francisco|url=http://fvergara.com/Halevy.pdf |title=A Critique of Elie Halévy; refutation of an important distortion of British moral philosophy |journal=Philosophy |publisher=Royal Institute of Philosophy |location=London |date= 1998 |volume=73 |issue=1 |pages=97–111 |doi=10.1017/s0031819197000144}}
+*{{cite journal|last=Vergara|first=Francisco|url=http://www.fvergara.com/QUALITY.doc|title= Bentham and Mill on the "Quality" of Pleasures|journal=Revue d'études benthamiennes|issue=9|location= Paris|date=2011|issn=1760-7507|doi=10.4000/etudes-benthamiennes.422|doi-access=free}}
+*{{cite journal |last1=Weiss |first1=Gunther A. |title=The Enchantment of Codification in the Common-Law World |journal=The Yale Journal of International Law |date=2000 |volume=25 |issue=2 |pages=435–532 |url=https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1126&context=yjil |access-date=3 September 2021}}
+*{{cite journal|last=Williford|first=Miriam|title=Bentham on the Rights of Women|journal=Journal of the History of Ideas|volume=36|issue=1|year=1975|pages=167–176|issn=0022-5037|doi=10.2307/2709019|jstor=2709019}}
+{{refend}}
+
+==Further reading==
+{{refbegin}}
+* {{CathEncy|id=02482b |title=Benthamism}}
+* {{cite EB1911|wstitle=Bentham, Jeremy|volume=3}}
+* {{cite DNB|last=Macdonell |first=John |author-link= John_Macdonell_(judge)|wstitle=Bentham, Jeremy |display=Bentham, Jeremy |volume=4 }}
+* Jeremy Bentham, [http://www.ditext.com/bentham/bentham.html "Critique of the Doctrine of Inalienable, Natural Rights"], in '' Anarchical Fallacies'', vol. 2 of Bowring (ed.), ''Works'', 1843.
+* Jeremy Bentham, [http://librivox.org/offences-against-ones-self-paederasty-by-jeremy-bentham/ "Offences Against One's Self: Paederasty"], c. 1785, free audiobook from [[LibriVox]].
+{{refend}}
+
+== External links ==
+{{commons}}
+{{wikiquote|Jeremy Bentham}}
+{{wikisource author}}
+*{{NPG name}}
+* {{Gutenberg author | id=Bentham,+Jeremy | name=Jeremy Bentham}}
+* {{Internet Archive author |sname=Jeremy Bentham}}
+* {{Librivox author |id=290}}
+* [http://www.ucl.ac.uk/transcribe-bentham Transcribe Bentham], initiative run by the Bentham Project that has its own website with useful links.
+* [https://random-times.com/2018/07/11/the-curious-case-of-jeremy-bentham/ The curious case of Jeremy Bentham] at [http://Random-times.com Random-Times.com]
+* [https://web.archive.org/web/20071212022700/http://www.epistemelinks.com/Main/Philosophers.aspx?PhilCode=Bent Jeremy Bentham], categorised links
+* [http://www.utm.edu/research/iep/b/bentham.htm The Internet Encyclopedia of Philosophy] has an extensive biographical reference of Bentham.
+* [http://www.livingphilosophy.org.uk/philosophy/Jeremy_Bentham/ "Jeremy Bentham at the Edinburgh Festival Fringe 2007"] A play-reading of the life and legacy of Jeremy Bentham.
+* {{Find a Grave | id=3365 }}
+* [https://www.utilitarianism.net/utilitarian-thinker/jeremy-bentham Jeremy Bentham], biographical profile, including quotes and further resources, at [https://www.utilitarianism.net/ Utilitarianism.net]
+
+{{University College London|university}}
+{{Classical economists}}
+{{Age of Enlightenment}}
+{{Social and political philosophy}}
+{{Ethics}}
+{{jurisprudence}}
+{{liberalism}}
+{{animal rights|state=collapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bentham, Jeremy}}
+[[Category:Jeremy Bentham| ]]
+[[Category:1748 births]]
+[[Category:1832 deaths]]
+[[Category:18th century in LGBT history]]
+[[Category:18th-century atheists]]
+[[Category:18th-century British philosophers]]
+[[Category:18th-century English male writers]]
+[[Category:18th-century English non-fiction writers]]
+[[Category:19th century in LGBT history]]
+[[Category:19th-century atheists]]
+[[Category:19th-century British philosophers]]
+[[Category:19th-century English writers]]
+[[Category:19th-century male writers]]
+[[Category:Alumni of The Queen's College, Oxford]]
+[[Category:Animal rights scholars]]
+[[Category:Atheist philosophers]]
+[[Category:British classical liberals]]
+[[Category:British cultural critics]]
+[[Category:British ethicists]]
+[[Category:British feminists]]
+[[Category:British radicals]]
+[[Category:British secularists]]
+[[Category:British social liberals]]
+[[Category:British social reformers]]
+[[Category:British women's rights activists]]
+[[Category:Child classical musicians]]
+[[Category:Church of England disestablishment]]
+[[Category:Consequentialists]]
+[[Category:English animal rights activists]]
+[[Category:English atheists]]
+[[Category:English feminists]]
+[[Category:English human rights activists]]
+[[Category:English legal professionals]]
+[[Category:English logicians]]
+[[Category:English male non-fiction writers]]
+[[Category:English philosophers]]
+[[Category:English political philosophers]]
+[[Category:English social commentators]]
+[[Category:English suffragists]]
+[[Category:Epicurean philosophers]]
+[[Category:Epistemologists]]
+[[Category:History of University College London]]
+[[Category:LGBT history in the United Kingdom]]
+[[Category:LGBT rights activists from England]]
+[[Category:Male feminists]]
+[[Category:Metaphysicians]]
+[[Category:Moral philosophers]]
+[[Category:Mummies]]
+[[Category:Ontologists]]
+[[Category:People associated with University College London]]
+[[Category:People educated at Westminster School, London]]
+[[Category:People from the City of London]]
+[[Category:Philosophers of culture]]
+[[Category:Philosophers of economics]]
+[[Category:Philosophers of ethics and morality]]
+[[Category:Philosophers of law]]
+[[Category:Philosophers of logic]]
+[[Category:Philosophers of mind]]
+[[Category:Philosophy writers]]
+[[Category:Political philosophers]]
+[[Category:Social critics]]
+[[Category:Social philosophers]]
+[[Category:Utilitarians]]

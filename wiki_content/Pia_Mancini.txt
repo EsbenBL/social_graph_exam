@@ -1,0 +1,40 @@
+{{Infobox person
+| name = Pia Mancini
+| image = Pia Mancini.jpg
+| known_for = online, open-source democracy activist
+}}
+'''Pia Mancini''' is an activist and technical project leader from Argentina.
+She is co-founder of Democracy Earth and Open Collective. The latter is a project that facilitates open source code contributors to receive donations.
+
+== Career ==
+Mancini worked for the [[Unión Celeste y Blanco]], an Argentine political party, from 2010 to 2012, but was dissatisfied with the lack of responsiveness to the public.<ref name=Wired>{{cite web |author=Klint Finley |url=https://www.wired.com/2014/05/democracy-os/ |title=Out in the Open: An Open Source Website That Gives Voters a Platform to Influence Politicians |website=Wired |date=May 5, 2014 }}</ref> She subsequently started the Net Democracy foundation, a non-profit, to support citizen participation in government through the use of technology. In 2012 the foundation released [[DemocracyOS]], an online app that allows citizens to understand, discuss and "vote" on new legislation.<ref name=Wired/><ref name=Guardian>{{cite news |author=Lauren Razavi |url=https://www.theguardian.com/women-in-leadership/2016/feb/23/how-one-womans-app-is-changing-politics-in-the-digital-age |title=How one woman's app is changing politics in the digital age |newspaper=The Guardian |date=February 23, 2016 }}</ref><ref>{{cite web |author=Scott Nesbitt |url=https://opensource.com/government/14/8/democracyos-promotes-civic-engagement-both-sides |title=DemocracyOS promotes civic engagement on both sides |website=OpenSource.com |date=August 18, 2014 }}</ref> As a next step, she and her associates founded the Net Party, an Argentine political party that pledges to act according to people's wishes as expressed online.<ref name=Guardian/>
+
+In 2013 she co-founded the non-profit Democracy Earth, based in [[Palo Alto, California]], which provides an online platform for political groups,<ref>{{cite web |author=Noe Jacomet |url=https://medium.com/open-source-politics/democracy-earth-the-promise-of-a-safe-independant-online-voting-system-37366935db5e |title=Democracy Earth, the promise of a safe and independent online voting system |website=Open Source Politics |publisher=Medium.com |date=January 4, 2017 }}</ref> and in January 2016 she co-founded Open Collective, which provides a platform for open-source project groups to collect and spend money semi-transparently.<ref>{{cite news |author=Esther Paniagua |url=http://www.elmundo.es/economia/2017/12/01/5a212f60268e3e9f398b4606.html |title=Valores para una sociedad en beta |newspaper=El Mundo |date=December 11, 2017 |language=Spanish }}</ref><ref>{{cite web |author=Ken Yeung |url=https://venturebeat.com/2017/04/05/open-collective-is-a-gofundme-like-service-for-open-source-projects/ |title=Open Collective is a GoFundMe-like service for open source projects |website=Venture Beat |date=April 5, 2017 }}</ref>
+
+Her TED talk, ''How to Upgrade Democracy for the Internet Era'', received over a million views.<ref>{{cite web |title=How to Upgrade Democracy for the Internet Era |url=http://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era |work=TEDGlobal 2014 |publisher=TED.com |date=October 2014 |accessdate=2015-04-13}}</ref>
+
+== See also ==
+* [[Direct democracy]]
+* [[Liquid democracy]]
+* [[LiquidFeedback]]
+* [[Open-source governance]]
+
+== References==
+<references />
+
+== External links==
+* {{Official website|http://www.piamancini.com/}}
+* [http://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era "How to upgrade democracy for the Internet era" (TEDGlobal 2014)]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mancini, Pia}}
+[[Category:Direct democracy]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Argentine political scientists]]
+[[Category:Women political scientists]]
+
+
+{{polisci-bio-stub}}

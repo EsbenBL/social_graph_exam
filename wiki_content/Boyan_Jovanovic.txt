@@ -1,0 +1,65 @@
+{{short description|Serbian economist (born 1951)}}
+{{Infobox economist
+| name              = Boyan Jovanovic
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| native_name       = 
+| native_name_lang  = 
+| birth_date        = 
+| birth_place       = [[Belgrade, Serbia]]
+| death_date        = 
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- (use {{coord …}}) -->
+| nationality       = 
+| spouse            = <!-- or: spouses -->
+| website           = <!-- {{URL|example.com}} -->
+| institution       = [[New York University]]
+| field             = [[Macroeconomics]]<br>[[Industrial Organization]]
+| school_tradition  = 
+| alma_mater        = [[University of Chicago]]<br>[[London School of Economics]]
+| doctoral_advisor  = [[Robert Lucas Jr.]]
+| doctoral_students = 
+| notable_students  = 
+| influences        = 
+| influenced        = 
+| contributions     = 
+| awards            = 
+| memorials         = 
+| repec_prefix      = e
+| repec_id          = pjo20
+| module            = 
+| signature         = <!-- filename only -->
+| notes             = <!-- or: footnotes -->
+}}
+
+'''Boyan Jovanovic''' is a [[professor]] of [[economics]] at [[New York University]].
+
+Jovanovic, of [[Serbs|Serbian]] descent, received his Bachelor's and master's degrees from the [[London School of Economics]] and his Ph.D. in Economics from the [[University of Chicago]].
+
+Boyan Jovanovic is a Fellow of the [[American Academy of Arts and Sciences]] and the [[Econometric Society]]. He has won the 2019 Global Award for Entrepreneurship Research.
+
+==See also==
+*[[Mean-field game theory]]
+
+==External links==
+*[https://sites.google.com/a/nyu.edu/boyan-jovanovic-home-page//  Personal homepage ]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jovanovic, Bojan}}
+[[Category:21st-century American economists]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:American people of Serbian descent]]
+[[Category:Serbian economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:20th-century American economists]]
+
+
+{{Serbia-academic-bio-stub}}
+{{US-economist-stub}}

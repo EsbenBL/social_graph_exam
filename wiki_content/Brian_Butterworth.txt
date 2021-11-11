@@ -1,0 +1,379 @@
+{{Short description|British professor of cognitive neuropsychology (born 1944)}}
+{{EngvarB|date=September 2014}}
+{{Use dmy dates|date=September 2014}}
+{{Infobox scientist
+|name              = Brian Butterworth
+|image             = 
+|image_size        = 250px
+|caption           = 
+|birth_name        = Brian Lewis Butterworth
+|birth_date        = {{b-da|3 January 1944}}<ref>[http://www.ukwhoswho.com/view/article/oupww/whoswho/U43430 BUTTERWORTH, Prof. Brian Lewis], Who's Who 2012, A & C Black, 2012; online edn, Oxford University Press, Dec 2011, accessed 30 October 2012</ref>
+|birth_place       = 
+|death_date        = 
+|death_place       = 
+|residence         = 
+|citizenship       = 
+|nationality       = British
+|spouse            = Diana Laurillard
+|fields            = [[Mathematical psychology]], [[Dyslexia]] and [[Speech science]]
+|workplaces        = [[UCL Institute of Cognitive Neuroscience|Institute of Cognitive Neuroscience]] at [[University College London]]
+|alma_mater        = [[Merton College, Oxford]]<ref name="MCreg">{{cite book|editor1-last=Levens|editor1-first=R.G.C.|title=Merton College Register 1900-1964|date=1964|publisher=Basil Blackwell|location=Oxford|page=547}}</ref>
+|doctoral_advisor  = 
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  = 
+|known_for         = 
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = 
+|religion          = 
+|signature         = 
+|footnotes         = Fellow of the [[British Academy]]
+}}
+'''Brian Lewis Butterworth''' [[Fellow of the British Academy|FBA]] (born 3 January 1944) is emeritus professor of [[cognitive neuropsychology]] in the [[UCL Institute of Cognitive Neuroscience|Institute of Cognitive Neuroscience]] at [[University College London]].<ref>[http://www.ucl.ac.uk/psychlangsci/staff/emeritistaff Emeritus Staff] – UCL Division of Psychology and Language Sciences, accessed 30 October 2012</ref> His research has ranged from [[speech error]]s and [[Filled pause|pauses]], [[short-term memory]] deficits, [[dyslexia]], [[Reading (process)|reading]] both in [[alphabet|alphabetic scripts]] and Chinese, and [[Mathematical psychology|mathematics]] and [[dyscalculia]]. His book ''The Mathematical Brain''<ref>Butterworth, B. (1999).  ''The Mathematical Brain''.  London: Macmillan. {{ISBN|978-0-333-76610-1}}</ref> has been translated into four languages. He was Editor-in-Chief of ''[[Linguistics (journal)|Linguistics]]'' (1978–1983) and a founding editor of the journals ''Language and Cognitive Processes'' and ''Mathematical Cognition''. He is a Fellow of the [[British Academy]].
+
+In 1984 he diagnosed President [[Ronald Reagan]] on the basis of speech errors in his [[1984 United States presidential election|presidential re-election]] speeches in an article in the [[Sunday Times]] as having [[Alzheimer's disease]] ten years before this was formally identified.<ref>''The Sunday Times'', 4 November 1984</ref><ref>{{Cite journal
+| last1 = Forbes-Mckay | first1 = K. E.
+| last2 = Venneri | first2 = A.
+| doi = 10.1007/s10072-005-0467-9
+| title = Detecting subtle spontaneous language decline in early Alzheimer's disease with a picture description task
+| journal = Neurological Sciences
+| volume = 26
+| issue = 4
+| pages = 243–254
+| year = 2005
+| pmid = 16193251
+| pmc = 
+| s2cid = 24475485
+}} This reference discusses Butterworth's study on Reagan</ref><ref>
+{{Cite journal
+| last1 = Venneri | first1 = A.
+| last2 = Forbes-Mckay | first2 = K. E.
+| last3 = Shanks | first3 = M. F.
+| doi = 10.1093/brain/awh419
+| title = Impoverishment of spontaneous language and the prediction of Alzheimer's disease
+| journal = Brain
+| volume = 128
+| issue = 4
+| pages = E27
+| year = 2005
+| pmid = 15788549
+| pmc = 
+| doi-access = free
+}} Another mention of Butterworth's study</ref> He was a coauthor in 1971 of a pamphlet, ''Marked for life'', critical of university [[examinations]].<ref>Powell A. Butterworth B. (1971). ''Marked for life'': a criticism of assessment at universities. London, Anarchist Group {{ISBN|978-0-901807-01-4}}</ref>
+
+He designed the world's largest mathematical experiment involving over 18,000 people at [[At-Bristol|Explore-At-Bristol]].<ref>[http://www.youramazingbrain.org.uk/newresearch/bornmaths.htm The world’s largest maths experiment] {{webarchive |url=https://web.archive.org/web/20080703165510/http://www.youramazingbrain.org.uk/newresearch/bornmaths.htm |date=3 July 2008 }}</ref> In the [[serious game]] for elementary school children with [[dyscalculia]], ''[[Meister Cody (Dyscalculia)|Meister Cody]]'', he lends his voice to Quoun, the Guardian of the Trees.<ref>[https://www.youtube.com/watch?v=2KSSBqPbFQQ ''Making of Meister Cody - Talasia'' Youtube. Retrieved 2015-09-21]</ref><ref>̪ [https://www.meistercody.com/en/press/details/96/Two_renowned_cognitive_psychologists_lend_their_voices_to_help_dyscalculic_children/ ''Two renowned cognitive psychologists lend their voices to help dyscalculic children.'' Meister Cody Homepage. Retrieved 2015-12-03]</ref>
+
+==Subitizing experiment==
+[[Subitizing]] concerns the ability to instantly identify the number of items without [[counting]]. Collections of four or below are usually subitised with collections of larger numbers being counted. Brian Butterworth designed an experiment that ran as an interactive exhibit at the [[At-Bristol|Explore-At-Bristol]] [[science museum]] to find whether subitising differed between women and men. Participants were asked to estimate as fast as they could between one and 10 dots and press the answer on a [[touch screen]]. How long they took—their [[reaction time]]—was measured. Over 18,000 people took part—the largest number ever to take part in a [[Cognitive science of mathematics|mathematical cognition]] experiment.<ref name="BBC">[http://news.bbc.co.uk/1/hi/sci/tech/3098340.stm BBC:Women beat men in maths test]</ref> He announced his finding that women were better than men at subitising at the [[British Association for the Advancement of Science]]'s 2003 annual [[science festival]].<ref name="BBC"/> He also found that people were six per cent faster on calculating the number of dots if they were presented on the left side of the screen (and so right sided [[Lateralization of brain function|lateralised]] in the brain) but only if there were five or more and so counted.<ref name="BBC"/><ref>[https://www.newscientist.com/article/dn4154-women-faster-at-instant-counting.html New Scientist 11 September 2003]</ref>
+
+==Publications==
+
+===''The Mathematical Brain''===
+(1999). London: Macmillan. {{ISBN|978-0-333-76610-1}}
+
+Published in the same year in the US as ''What Counts'' New York: Simon & Schuster. {{ISBN|978-0-684-85417-5}}
+:: Italian translation. ''Intelligenza Matematica''. (1999). Milano: Rizzoli. {{ISBN|978-88-7378-013-7}}
+:: Japanese translation (''Naze sugaku ga tokui na hito to nigate na hito ga irunoka?'' (Why are some people good, but others bad at maths?) (2001). Tokyo: Shufunotomosha.
+::Swedish translation ''Den matematiska människan''. (2000). Stockholm: Wahlström & Widstrand. {{ISBN|978-91-46-17406-6}}
+:: Chinese translation (2004). 200X Orient Publishing Company (Chinese)
+
+===Other books===
+Powell A. Butterworth B. (1971). ''Marked for life: a criticism of assessment at universities''. London, Anarchist Group {{ISBN|978-0-901807-01-4}}
+
+Butterworth B. (1980). ''Language Production Volume 1: Speech and talk'' Academic Pr {{ISBN|978-0-12-147501-7}}
+
+Butterworth B. (1983). ''Language Production Volume 2: Development, Writing and Other Language Processes'' Academic Pr {{ISBN|978-0-12-147502-4}}
+
+Butterworth B. Comrie B. Dahl O. (1984). ''Explanations for Language'' Universals Mouton De Gruyter {{ISBN|978-3-11-009797-9}}
+
+Butterworth, B. (2004). ''Dyscalculia Guidance Helping Pupils with Specific Learning Difficulties in Maths''. David Fulton {{ISBN|978-0-7087-1152-1}}
+
+===Speech===
+* Butterworth B. (1975). [http://www.mathematicalbrain.com/pdf/earlier/1975BB.PDF Hesitation and Semantic Planning in speech]. Journal of Psycholinguistic Research 4: 75–87.
+* Butterworth B. (1979). [http://www.mathematicalbrain.com/pdf/earlier/1979BB.PDF Hesitation and the Production of Verbal Paraphasias and Neologisms in Jargon Aphasia]. Brain and Language, 8, 133–161.
+* Butterworth B. (1981). [http://www.mathematicalbrain.com/pdf/earlier/1981BB.PDF Speech errors: old data in search of new theories]. (pp.&nbsp;627–662). In A. Cutler (ed.) Slips of the Tongue and Language Production: Berlin: Mouton.
+* Butterworth B. (1983). [http://www.mathematicalbrain.com/pdf/earlier/1983BB.PDF Introduction: A Brief Review of Methods of Studying Language Production]. (pp.&nbsp;1–17). In B. Butterworth, B. Comrie and Ö Dahl (eds.) Explanations for Language Universals: Berlin: Mouton.
+* {{Cite journal
+| last1 = Butterworth | first1 = B.
+| last2 = Howard | first2 = D.
+| last3 = McLoughlin | first3 = P.
+| title = The semantic deficit in aphasia: The relationship between semantic errors in auditory comprehension and picture naming
+| journal = Neuropsychologia
+| volume = 22
+| issue = 4
+| pages = 409–426
+| year = 1984
+| pmid = 6207456
+| doi=10.1016/0028-3932(84)90036-8
+| s2cid = 8143719
+}}
+* {{Cite journal
+| last1 = Butterworth | first1 = B.
+| last2 = Howard | first2 = D.
+| title = Paragrammatisms
+| journal = Cognition
+| volume = 26
+| issue = 1
+| pages = 1–37
+| year = 1987
+| pmid = 3608394
+| doi=10.1016/0010-0277(87)90012-6
+}}
+* {{Cite journal
+| last1 = Butterworth | first1 = B.
+| title = Disorders of phonological encoding
+| journal = Cognition
+| volume = 42
+| issue = 1–3
+| pages = 261–286
+| year = 1992
+| pmid = 1582159
+| doi=10.1016/0010-0277(92)90045-j
+| citeseerx = 10.1.1.572.1032
+| s2cid = 14838624
+}}
+* {{Cite journal
+| last1 = Butterworth | first1 = B.
+| title = Disorders of Sentence Production
+| doi = 10.1098/rstb.1994.0128
+| journal = Philosophical Transactions of the Royal Society B: Biological Sciences
+| volume = 346
+| issue = 1315
+| pages = 55–61
+| year = 1994
+| pmid = 7886154
+| pmc = 
+| bibcode = 1994RSPTB.346...55B
+| citeseerx = 10.1.1.135.4172
+}}
+
+===Memory===
+* {{Cite journal
+| last1 = Shallice | first1 = T.
+| last2 = Butterworth | first2 = B.
+| title = Short-term memory impairment and spontaneous speech
+| journal = Neuropsychologia
+| volume = 15
+| issue = 6
+| pages = 729–735
+| year = 1977
+| pmid = 600367
+| doi=10.1016/0028-3932(77)90002-1
+| s2cid = 1020321
+}}
+* {{Cite journal
+| last1 = Butterworth | first1 = B.
+| last2 = Campbell | first2 = R.
+| last3 = Howard | first3 = D.
+| title = The uses of short-term memory: A case study
+| journal = The Quarterly Journal of Experimental Psychology. A, Human Experimental Psychology
+| volume = 38
+| issue = 4
+| pages = 705–737
+| year = 1986
+| pmid = 3809577
+| doi = 10.1080/14640748608401622
+| s2cid = 6458322
+}} [http://www.mathematicalbrain.com/pdf/earlier/1986BBRCDH.PDF PDF]
+
+===Reading and dyslexia===
+* {{Cite journal
+| last1 = Campbell | first1 = R.
+| last2 = Butterworth | first2 = B.
+| title = Phonological dyslexia and dysgraphia in a highly literate subject: A developmental case with associated deficits of phonemic processing and awareness
+| journal = The Quarterly Journal of Experimental Psychology. A, Human Experimental Psychology
+| volume = 37
+| issue = 3
+| pages = 435–475
+| year = 1985
+| pmid = 4048548
+| doi = 10.1080/14640748508400944
+| s2cid = 27485671
+}}
+* {{Cite journal|author1=Yin, W. G.  |author2=Butterworth, B.  |name-list-style=amp |year=1998|title= Chinese pure alexia|journal= Aphasiology|volume= 12|pages= 65–76|oclc=198414365 |issue=1|doi=10.1080/02687039808249444}}
+* {{Cite journal
+| last1 = Wydell | first1 = T. N.
+| last2 = Butterworth | first2 = B.
+| title = A case study of an English-Japanese bilingual with monolingual dyslexia
+| journal = Cognition
+| volume = 70
+| issue = 3
+| pages = 273–305
+| year = 1999
+| pmid = 10384738
+| doi=10.1016/S0010-0277(99)00016-5
+| citeseerx = 10.1.1.129.4911
+| s2cid = 205872303
+}}
+* {{Cite journal
+| last1 = Butterworth | first1 = B.
+| last2 = Wengang | first2 = Y.
+| doi = 10.1098/rspb.1991.0129
+| title = The Universality of Two Routines for Reading: Evidence from Chinese Dyslexia
+| journal = Proceedings of the Royal Society B: Biological Sciences
+| volume = 246
+| issue = 1315
+| pages = 91–95
+| year = 1991
+| pmid = 1684672
+| pmc = 
+| bibcode = 1991RSPSB.246...91B
+| s2cid = 27746068
+}}
+* Yin W. Butterworth B. (1992). [http://www.mathematicalbrain.com/pdf/earlier/1992WYBB.PDF Deep and Surface Dyslexia] in Chinese In Chen, H-C. & Tzeng, O. J. L. (eds.) Language Processing in Chinese. Amsterdam: North Holland/Elsevier. (1 MB)
+* {{Cite journal
+| last1 = Shibahara | first1 = N.
+| last2 = Zorzi | first2 = M.
+| last3 = Hill | first3 = M. P.
+| last4 = Wydell | first4 = T.
+| last5 = Butterworth | first5 = B.
+| doi = 10.1080/02724980244000369
+| title = Semantic effects in word naming: Evidence from English and Japanese Kanji
+| journal = The Quarterly Journal of Experimental Psychology Section A
+| volume = 56
+| issue = 2
+| pages = 263–286
+| year = 2003
+| pmid = 12613564
+| pmc = 
+| citeseerx = 10.1.1.564.8430
+| s2cid = 7623123
+}} [http://www.mathematicalbrain.com/pdf/SEMANTIC.PDF PDF]
+
+===Mathematics===
+* {{Cite journal
+| last1 = Cipolotti | first1 = L.
+| last2 = Warrington | first2 = E. K.
+| last3 = Butterworth | first3 = B.
+| title = Selective impairment in manipulating Arabic numerals
+| journal = Cortex
+| volume = 31
+| issue = 1
+| pages = 73–86
+| year = 1995
+| pmid = 7540123
+| doi=10.1016/s0010-9452(13)80106-2
+| s2cid = 4476541
+}} [http://www.mathematicalbrain.com/pdf/earlier/1995LCEWBB.PDF PDF]
+* {{Cite journal
+| last1 = Butterworth | first1 = B.
+| title = What makes a prodigy?
+| journal = Nature Neuroscience
+| volume = 4
+| issue = 1
+| pages = 11–12
+| doi = 10.1038/82841
+| year = 2001
+| pmid = 11135636
+| pmc = 
+| s2cid = 14967746
+}} [http://www.mathematicalbrain.com/pdf/PRODIGY.PDF PDF]
+* {{Cite journal
+| last1 = Butterworth | first1 = B.
+| last2 = Cappelletti | first2 = M.
+| last3 = Kopelman | first3 = M.
+| title = Category specificity in reading and writing: The case of number words
+| journal = Nature Neuroscience
+| volume = 4
+| issue = 8
+| pages = 784–786
+| year = 2001
+| doi = 10.1038/90484
+| pmid = 11477423
+| pmc = 
+| s2cid = 1952687
+}} [http://www.mathematicalbrain.com/pdf/CATEGORY.PDF PDF]
+* {{Cite journal
+| last1 = Piazza | first1 = M.
+| last2 = Mechelli | first2 = A.
+| last3 = Butterworth | first3 = B.
+| last4 = Price | first4 = C. J.
+| title = Are Subitizing and Counting Implemented as Separate or Functionally Overlapping Processes?
+| doi = 10.1006/nimg.2001.0980
+| journal = NeuroImage
+| volume = 15
+| issue = 2
+| pages = 435–446
+| year = 2002
+| pmid = 11798277
+| pmc = 
+| s2cid = 13959500
+}} [http://www.mathematicalbrain.com/pdf/SUBIT.PD PDF]
+*  {{Cite journal
+| last1 = Landerl | first1 = K.
+| last2 = Bevan | first2 = A.
+| last3 = Butterworth | first3 = B.
+| doi = 10.1016/j.cognition.2003.11.004
+| title = Developmental dyscalculia and basic numerical capacities: A study of 8–9-year-old students
+| journal = Cognition
+| volume = 93
+| issue = 2
+| pages = 99–125
+| year = 2004
+| pmid = 15147931
+| pmc = 
+| citeseerx = 10.1.1.123.8504
+| s2cid = 14205159
+}} [http://www.mathematicalbrain.com/pdf/LANDETAL.PDF PDF]
+* {{Cite journal
+| last1 = Gelman | first1 = R.
+| last2 = Butterworth | first2 = B.
+| doi = 10.1016/j.tics.2004.11.004
+| title = Number and language: How are they related?
+| journal = Trends in Cognitive Sciences
+| volume = 9
+| issue = 1
+| pages = 6–10
+| year = 2005
+| pmid = 15639434
+| pmc = 
+| s2cid = 5978945
+}}  [http://www.mathematicalbrain.com/pdf/GELMANTICS05.PDF PDF]
+*  {{Cite journal
+| last1 = Butterworth | first1 = B.
+| title = The development of arithmetical abilities
+| doi = 10.1111/j.1469-7610.2004.00374.x
+| journal = Journal of Child Psychology and Psychiatry
+| volume = 46
+| issue = 1
+| pages = 3–18
+| year = 2005
+| pmid = 15660640
+| pmc = 
+}} [http://www.mathematicalbrain.com/pdf/BUTTJCPP05.PDF PDF]
+
+==References==
+{{reflist}}
+
+== External links ==
+* [https://www.mathematicalbrain.com/author.html Mathematical Brain] Brian Butterworth's website
+::[https://www.mathematicalbrain.com/italy/index.html in Italian]
+:: [https://www.mathematicalbrain.com/jp/index.html in Japanese]
+:: [https://www.mathematicalbrain.com/sweden/index.html in Swedish]
+* [https://web.archive.org/web/20080919192529/http://www.brainconnection.com/topics/?main=conv%2Fbutterworth A Conversation With Brian Butterworth by Ashish Ranpura]
+* [http://www.mathematicalbrain.com/int.html#1 Published interviews including New Scientist]
+* [http://www.mathematicalbrain.com/new.html#au Audio interviews]
+* [http://www.icn.ucl.ac.uk/ UCL Institute of Cognitive Neuroscience]
+* {{cite web|last=Butterworth|first=Brian|title=The Brain & Numbers|url=http://www.numberphile.com/videos/words_brain.html|work=Numberphile|publisher=[[Brady Haran]]|access-date=7 April 2013|archive-url=https://web.archive.org/web/20130328091532/http://www.numberphile.com/videos/words_brain.html|archive-date=28 March 2013|url-status=dead}}
+* {{cite web|last=Butterworth|first=Brian|title=Can Fish Count?|url=http://www.numberphile.com/videos/fish_count.html|work=Numberphile|publisher=[[Brady Haran]]|access-date=3 January 2016|archive-url=https://web.archive.org/web/20160103145812/http://www.numberphile.com/videos/fish_count.html|archive-date=3 January 2016|url-status=dead}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Butterworth, Brian Lewis}}
+[[Category:1944 births]]
+[[Category:People educated at Quintin Kynaston School]]
+[[Category:Academics of University College London]]
+[[Category:Alumni of Merton College, Oxford]]
+[[Category:Mathematical cognition researchers]]
+[[Category:Memory researchers]]
+[[Category:Cognitive scientists]]
+[[Category:Cognitive neuroscientists]]
+[[Category:Psycholinguists]]
+[[Category:English psychologists]]
+[[Category:Fellows of the British Academy]]
+[[Category:Neuropsychologists]]
+[[Category:Dyslexia researchers]]
+[[Category:Living people]]

@@ -1,0 +1,66 @@
+{{short description|American economist}}
+{{Use mdy dates|date=February 2019}}
+{{Infobox economist
+|name              = Jennifer Doleac
+|image             =
+|image_size        =
+|alt               = 
+|caption           = 
+|birth_date        = 
+|birth_place       = 
+|death_date        = 
+|death_place       = 
+|residence         = 
+|citizenship       = United States 
+|nationality       = 
+|ethnicity         = 
+|field             = Economics <br> [[Crime and Discrimination]]
+|institution       = [[Texas A&M University]]
+|alma_mater        = [[Williams College]]<br>[[Stanford University]]
+|doctoral_advisor  = [[Caroline Hoxby]]
+|doctoral_students = Brittany Street, CarlyWill Sloan, Andrea Kelly<ref>{{cite web |last1=Doleac |first1=Jennifer |title=CV: Jennifer L. Doleac |url=https://docs.google.com/viewerng/viewer?url=http://jenniferdoleac.com/wp-content/uploads/2020/08/Doleac_CV_Aug2020.pdf |access-date=24 September 2020}}</ref>
+|known_for         = 
+|prizes            = 
+|website           = http://jenniferdoleac.com
+|repec_prefix = f | repec_id = pdo241
+}}
+
+'''Jennifer Doleac''' is an American [[economist]] and associate professor at [[Texas A&M]] Department of Economics, as well as Director of the [[Justice Tech Lab]], a Nonresident Fellow in economics studies at the [[Brookings Institution]], a research affiliate at the [[University of Chicago]] [[Crime Lab]], and a research fellow at [[IZA Institute of Labor Economics|IZA]]. She specializes primarily in crime and racial discrimination.<ref>{{Cite web|url=http://www.wellesley.edu/events/node/155971|title=Jennifer Doleac|website=Wellesley College|language=en|access-date=2019-02-26}}</ref> She hosts the podcast ''Probable Causation'', which is about law, economics, and crime.<ref>{{Cite web|url=https://www.probablecausation.com/index|title=Home|website=Probable Causation Podcast|language=en|access-date=2019-04-18}}</ref> She also co-organizes the "Online Seminar on Discrimination and Disparities."<ref>{{cite web |last1=Doleac |first1=Jennifer |title=Online Seminar on Discrimination and Disparities |url=http://jenniferdoleac.com/online-seminar-on-discrimination-and-disparities/ |website=Jennifer Doleac |access-date=25 September 2020}}</ref>
+
+== Education and career ==
+Jennifer Doleac received her [[Bachelor of arts|B.A.]] in Economics and Mathematics from [[Williams College]] in 2003. She completed her PhD in economics from [[Stanford University]] in 2012 and worked at the [[University of Virginia]] [[Batten School of Leadership and Public Policy]] from 2012 to 2018.<ref>{{Cite web|url=https://leo.nd.edu/people/jennifer-doleac/|title=Jennifer - Doleac // Wilson Sheehan Lab for Economic Opportunities // University of Notre Dame|last=Dame|first=Marketing Communications: Web // University of Notre|website=Wilson Sheehan Lab for Economic Opportunities|language=en|access-date=2019-02-26}}</ref>  During this time, she also worked with [[The Lab @ DC]] as a crime consultant, and was a nonresident Fellow at the [[Brookings Institution]].<ref>{{Cite web|url=https://www.brookings.edu/experts/jennifer-l-doleac/|title=Jennifer L. Doleac|date=2015-09-08|website=Brookings|language=en-US|access-date=2019-02-26}}</ref><ref>{{Cite web|url=http://www.hamiltonproject.org/people/jennifer_doleac|title=Jennifer Doleac {{!}} The Hamilton Project|website=www.hamiltonproject.org|access-date=2019-02-26}}</ref>  She moved to [[Texas A&M]] Department of Economics as an associate professor with [[tenure]] in 2018.
+
+== Research and academic work ==
+Doleac has published many academic studies and general interest pieces on crime, racial discrimination, and prisoner reentry.<ref>{{Cite web|url=https://www.iza.org/person/26133/jennifer-doleac|title=Jennifer Doleac {{!}} IZA - Institute of Labor Economics|website=www.iza.org|access-date=2019-02-26}}</ref>
+
+=== Racial discrimination ===
+She and [[Luke Stein]] conducted a randomized controlled field experiment testing for racial discrimination in secondary markets.<ref>{{Cite web|url=https://ideas.repec.org/p/sip/dpaper/09-015.html|title=The visible hand: Race and online market outcomes|access-date=2019-04-18}}</ref> The yearlong experiment consisted of approximately 1,200 online classified advertisements placed in over 300 areas throughout the [[United States]], both small towns and large cities, with the intention of testing for racial bias among buyers. The experiment featured photographs of a person's hand holding an iPod. Doleac and Stein randomly varied the skin color of the person's hand: dark-skinned ("Black"), light-skinned ("White"), or light-skinned with a tattoo. In all other respects, the photographs were nearly identical.  Consistent with other studies on racial bias in the marketplace, Doleac and Stein found that black sellers did considerably worse than white sellers along numerous dimensions. For instance, black sellers got 13 percent fewer responses and 18 percent fewer offers of purchase from interested buyers. When they did receive an offer, that offer was around 11 percent lower. These effects were similar to those associated with the white tattooed hand which was the placebo group in the study.
+
+=== DNA databases ===
+Doleac has also written on issues related to contemporary crime control, such as the use of DNA databases to deter and capture criminals, as well as the role of outside lighting.  Her work on lighting with [[Nicholas J. Sanders]] used a 2007 [[natural experiment]] where Congress increased daylight saving time by four weeks.<ref>{{Cite journal|last=Doleac|first=Jennifer L.|last2=Sanders|first2=Nicholas J.|date=2015|title=Under the Cover of Darkness: How Ambient Light Influences Criminal Activity|url=https://ideas.repec.org/a/tpr/restat/v97y2015i5p1093-1103.html|journal=The Review of Economics and Statistics|language=en|volume=97|issue=5|pages=1093–1103|doi=10.1162/rest_a_00547}}</ref> They added three weeks in the spring and one week in the fall.  Doleac and Sanders used this as an opportunity to study the effect that daylight, separate from other seasonal factors, might have on crime, and found that when daylight saving time began in the spring, robbery rates for the entire fell 7 percent with an additional 27 percent drop during the evening hour that gained extra sunlight. This study is relevant for broader consideration in crime control that focuses on expanding lighting to high crime areas with external lighting.
+
+Doleac has also studied the role of DNA databases on reducing crime both through [[deterrence (penology)|deterrence]] and capturing criminals (i.e., [[Incapacitation (penology)|incapacitation]]). Several states have passed laws allowing DNA testing of arrestees. Following famous work by Nobel Laureate [[Gary Becker]], Doleac hypothesizes that the availability of these DNA databased would [[deter]] criminals as well as catch criminals insofar as criminals are sensitive to the risk of arrest.<ref>{{Cite journal|last=Doleac|first=Jennifer L.|date=2017|title=The Effects of DNA Databases on Crime|url=https://www.aeaweb.org/articles/pdf/doi/10.1257/app.20150043?return_path=/doi/pdfplus/10.1257/app.20150043&etoc=1|journal=American Economic Journal: Applied Economics|language=en|volume=9|issue=1|pages=165–201|doi=10.1257/app.20150043|issn=1945-7782}}</ref> Violent offenders who have had their DNA collected and catalogued in digital databases were 23 percent more likely to be convicted of another crime implying that profiled offenders were caught more often than those who hadn't been stored in the database. Given the extraordinarily high costs of [[incarceration]], Doleac suggests that DNA databases are considerably more cost-effective than other ways of reducing crime such as hiring more police or through incarceration.
+
+=== Ban-the-box initiative ===
+Doleac has also written extensively both an academic study and general interest writings on prisoner reentry.  Prisoner reentry is a considerable challenge in the United States due to the ubiquity of background checks and the myriad of obstacles prisoners face reentering the labor force upon release.  An increasingly popular policy at the federal, state and municipality level is the "[[ban the box]]" initiative.  Employers often will ask applicants for jobs if they have any prior arrests or convictions by checking Yes or No on a "box".  The [[ban the box]] initiative are laws, oftentimes at the city level, banning employers' right to ask this information of applicants during the earliest stages of the application process.  In a 2018 article published in the Journal of Labor Economics, Doleac and [[Benjamin Hansen (economist)|Benjamin Hansen]] from the University of Oregon found that the laws had [[unintended consequences]] on the hiring of low skill minorities.<ref>{{Cite journal|last=Doleac|first=Jennifer L|last2=Hansen|first2=Benjamin|date=2016|title=Does "Ban the Box" Help or Hurt Low-Skilled Workers? Statistical Discrimination and Employment Outcomes When Criminal Histories are Hidden|url=http://www.nber.org/papers/w22469|journal=NBER Working Paper}}</ref>  The authors found that ban the box policies lowered the chances of employment by 5 percent for young, low-skilled black men and almost 3 percent for young, low-skilled Hispanic men. The authors argue that this effect was caused by rampant [[statistical discrimination (economics)|statistical discrimination]] in labor markets.  Without information on a candidate's criminal history, employers make extreme racially biased assumptions that the applicant is similar to his or her demographic.  Thus seeing a black applicant, even one without a criminal history, the firm "fills in" the missing information by assuming he or she is like the group average, and thus is more likely to believe the applicant has a criminal history, even when they do not.
+
+=== Harm reduction ===
+In 2018, Doleac, then a [[Brookings Institution|Brookings]] expert, released a study under Brookings along with Anita Mukherjee and Molly Schnell which claimed that [[harm reduction]]  (prescribing heroin for opioid addiction) does not work. Doleac and her co-authors claimed that [[Needle and syringe programmes|syringe exchange programs]] and naloxone distribution would worsen addiction.<ref>{{Cite web|last=Schnell|first=Jennifer L. Doleac, Anita Mukherjee, and Molly|date=2018-12-07|title=Research roundup: What does the evidence say about how to fight the opioid epidemic?|url=https://www.brookings.edu/blog/up-front/2018/12/07/research-roundup-what-does-the-evidence-say-about-how-to-fight-the-opioid-epidemic/|access-date=2021-01-18|website=Brookings|language=en-US}}</ref> However, the claims were disputed by public health officials who argued that the results of Doleac's finding go against previous research on harm reduction. Doleac and her co-authors, it was claimed, only focused on economic literature on harm reduction and ignored public health research. In the original blog post for Brookings which has since been edited, Doleac and her co-authors failed to mention that harm reduction programs are supported by the [[World Health Organization|WHO]]. In response to the criticism, Doleac released a statement through Brookings where she said the public health discipline was filled with researchers who  "collectively have so little understanding of rigorous research methods". In response to Doleac's comments, Brookings released a statement where the institute said that it did not endorse Doleac's response to the criticism she received.<ref>{{Cite web|title=An Influential Think Tank Suggested That Harm Reduction Doesn't Work|url=https://www.vice.com/en/article/gy7ke9/brookings-institution-suggested-that-harm-reduction-doesnt-work|access-date=2021-01-18|website=www.vice.com|language=en}}</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+Economist Jennifer Doleac of Texas A&M University talks with EconTalk host Russ Roberts about her research on crime, police, and the unexpected consequences of the criminal justice system. {{Cite web|url=http://www.econtalk.org/jennifer-doleac-on-crime/|title=Jennifer Doleac on Crime|website=Econlib|language=en-US|access-date=2019-02-26}}
+*[https://www.probablecausation.com/index ''Probable Causation podcast'']
+
+{{authority control}}
+
+{{DEFAULTSORT:Doleac, Jennifer}}
+[[Category:21st-century American economists]]
+[[Category:Williams College alumni]]
+[[Category:Stanford University alumni]]
+[[Category:Texas A&M University faculty]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:American women economists]]

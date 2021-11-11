@@ -1,0 +1,345 @@
+{{short description|ABC affiliate in Salt Lake City}}
+{{distinguish|text=[[WTVX]] or the [[TVX Broadcast Group]], which was not connected to, nor ever held any interest in this station}}
+{{Use mdy dates|date=December 2018}}
+{{Infobox television station
+| callsign               = KTVX
+| city                   =
+| logo                   = [[File:New KTVX Logo.png|175px]]
+----
+[[File:Me-TV KTVX.png|175px]]
+| branding               = ABC 4 Utah ''(general)''<br>''ABC 4 News'' ''(newscasts)''<br>MeTV Utah ''(DT2)''
+| digital                = 30 ([[ultra high frequency|UHF]])
+| virtual                = 4
+| affiliations           = {{ubl|'''4.1:''' [[American Broadcasting Company|ABC]]|'''4.2:''' [[MeTV]]|'''4.3:''' [[Rewind TV]] ('''[[owned-and-operated station|O&O]]''')|'''4.4:''' [[Heroes & Icons]]|'''[[KJZZ-TV|14.3]]:''' [[TBD (TV network)|TBD]]|'''14.4:''' [[Charge! (TV network)|Charge!]]}}
+| translators            = [[#Translators|See below]]
+| owner                  = [[Nexstar Media Group]]
+| licensee               = Nexstar Media Inc.
+| location               = [[Salt Lake City|Salt Lake City, Utah]]
+| country                = United States
+| airdate                = {{start date and age|1948|4|19|p=y}}
+| last_airdate           = 
+| callsign_meaning       = "Television excellence"
+| sister_stations        = [[KUCW]]
+| former_callsigns       = {{ubl|KDYL-TV (1948–1953)|KTVT (1953–1959)|KCPX-TV (1959–1975)}}
+| former_channel_numbers = {{ubl|'''Analog:'''|4 ([[Very high frequency|VHF]], 1948–2009)|'''Digital:'''|40 (UHF, 2001–2018)}}
+| former_affiliations    = {{ubl|'''Analog/DT1:'''|[[NBC]] (1948–1960)|'''DT2:'''|[[TheCoolTV]] (2010–2012)|'''DT3:'''|[[WeatherNation TV|WeatherNation]] (2014–2016)<br>[[Laff (TV network)|Laff]] (2016–2021)|'''DT4:'''|[[The CW]] ([[Standard-definition television|SD]] simulcast of KUCW, until 2018)}}
+| erp                    = 390 [[kilowatt|kW]]
+| haat                   = {{convert|1256|m|ft|0|abbr=on}}
+| facility_id            = 68889
+| coordinates            = {{nowrap|{{coord|40|39|33|N|112|12|10|W|type:landmark_scale:2000|display=inline, title}}}}
+| licensing_authority    = [[Federal Communications Commission|FCC]]
+| website                = {{URL|https://www.abc4.com/}} 
+}}
+
+'''KTVX''', [[virtual channel]] 4 ([[Ultra high frequency|UHF]] [[digital terrestrial television|digital]] channel 30), is an [[American Broadcasting Company|ABC]]-[[network affiliate|affiliated]] [[television station]] [[city of license|licensed]] to [[Salt Lake City|Salt Lake City, Utah]], United States. Owned by [[Nexstar Media Group]], it is part of a [[duopoly (broadcasting)|duopoly]] with [[Ogden, Utah|Ogden]]-licensed [[The CW|CW]] affiliate [[KUCW]] (channel 30). Both stations share studios on West 1700 South in Salt Lake City, while KTVX's transmitter is located atop [[Farnsworth Peak]] in the [[Oquirrh Mountains]].
+
+KTVX has a large [[#Translators|network of broadcast translators]] that extend its over-the-air coverage throughout [[Utah]], as well as portions of [[Idaho]], [[Nevada]] and [[Wyoming]].
+
+==History==
+KTVX traces its history back to the November 1946 sign-on of W6XIS, the first television station in Utah, which operated under an experimental broadcast license. The station began regular broadcasts on April 19, 1948<ref name="KTVX history">{{Cite web |url=http://content.lib.utah.edu/u?%2FUU_EAD%2C2082 |title=KTVX history |access-date=February 12, 2020 |archive-url=https://archive.today/20121215111714/http://content.lib.utah.edu/u?/UU_EAD,2082 |archive-date=December 15, 2012 |url-status=dead }}</ref> as '''KDYL-TV'''; it was originally owned by the Mountain Broadcasting Corporation (operated by Sid Fox), along with KDYL radio (1320 AM, now [[KNIT (AM)|KNIT]], and 98.7 FM, now [[KBEE]]). The floor in the original studio facility was sloped and cameras would easily roll. The station's original transmitter sat atop the Walker Bank Building. Channel 4 originally operated as an [[NBC]] affiliate owing to KDYL-AM's longtime affiliation with the [[NBC Red Network]]; the radio station had been one of the network's original 26 affiliates when it launched in 1926. In addition, the station also shared ABC programming with [[CBS]] affiliate [[KSL-TV]] (channel 5, now an NBC affiliate) until [[KUTV]] (channel 2) signed on in September 1954 as a full-time ABC affiliate. KTVX is the oldest television station located in the [[Mountain Time Zone]] and the third oldest station located west of the [[Mississippi River]]. It was also the first independently owned television station to sign-on in the United States.<ref name="KTVX history"/> The station changed its call letters to '''KTVT''' in 1953 (the [[KTVT]] call letters are now used on the CBS [[owned-and-operated station]] in [[Dallas]]–[[Fort Worth, Texas|Fort Worth]]).
+
+Its call letters later changed to '''KCPX-TV''' in 1959 following its sale to [[Screen Gems]] Broadcasting (a division of Screen Gems, then the television division of [[Columbia Pictures]]). Some notable local programs during channel 4's early years included the children's programs ''[[Hotel Balderdash]]'' (which debuted on September 11, 1972) and ''Fireman Frank'', and [[horror film]] showcase ''Nightmare Theater'', the latter two programs were both hosted by Ron Ross. At this time, the station was using an "Open 4" logo that was later implemented by [[WAPA-TV]] in [[San Juan, Puerto Rico]] (that station used several variations of the logo from the 1970s until implementing a new logo in 1987).<ref>http://www.mcsittel.com/html/tvg-uid.htm</ref><ref>https://www.youtube.com/watch?v=dukG29x7_2U</ref>
+
+The station swapped affiliations with KUTV in 1960 and became an ABC affiliate. KTVX by then had become the first television station in Utah to broadcast in color and was one of the first ABC affiliates to broadcast in color.
+
+The station adopted its present-day '''KTVX''' call letters in October 1975 (which were previously used by fellow ABC affiliate [[KTUL-TV]] in [[Tulsa, Oklahoma]] from 1954 to 1957), when [[BHC Communications#United Television|United Television]]—then the broadcasting division of [[20th Century Fox]]—acquired the station. In 1981, United Television merged with [[Chris-Craft Industries]].
+
+KTVX nearly lost its ABC affiliation in late 1994 when CBS and [[Westinghouse Broadcasting]] announced a complex ownership trade with NBC. KUTV and [[KCNC-TV]] in [[Denver]], which were owned by NBC at the time (the former station had recently been purchased by the network), were traded to Westinghouse in exchange for [[WCAU]] in Philadelphia; this came about after Westinghouse signed an affiliation deal with CBS which would cause [[KYW-TV]] and two other stations to switch to the network.<ref name="CBS, NBC Changing Channels">[http://articles.sun-sentinel.com/1994-11-22/news/9411210600_1_wcix-nbc-programs-stations CBS, NBC Changing Channels] {{Webarchive|url=https://web.archive.org/web/20110703093638/http://articles.sun-sentinel.com/1994-11-22/news/9411210600_1_wcix-nbc-programs-stations |date=July 3, 2011 }}, ''[[South Florida Sun-Sentinel]]'', November 22, 1994.</ref> NBC first approached KTVX for an affiliation deal, but the station would renew its affiliation contract with ABC; as a result, it signed an affiliation deal with KSL-TV, which took effect on September 10, 1995.
+
+Chris-Craft's television stations were sold to [[Fox Television Stations]] (a subsidiary of [[News Corporation (1980–2013)|News Corporation]]) on August 12, 2000,<ref>{{cite news|last=Hofmeister|first=Sallie|title=News Corp. to Buy Chris-Craft Parent for $5.5 Billion, Outbidding Viacom|url=https://articles.latimes.com/2000/aug/12/business/fi-3272 |access-date=March 23, 2011|newspaper=The Los Angeles Times|date=August 12, 2000}}</ref> which was finalized July 31, 2001. KTVX and KMOL (now [[WOAI-TV]]) in [[San Antonio]] were subsequently traded to [[iHeartMedia|Clear Channel Communications]] (now iHeartMedia) in exchange for WFTC (see below).
+
+Since Fox already owned [[KSTU]] (channel 13), it was forced to sell KTVX due to [[Federal Communications Commission]] (FCC) regulations prohibiting one company from owning two of the four highest-rated stations in a single [[media market|market]], as well as the fact that the station was in the middle of a long-term affiliation contract with ABC. Fox also wanted to offer an attractive package to Clear Channel for WFTC. KTVX was the only Chris-Craft owned station to have never been affiliated with UPN during the time that the company owned a partial stake in the network. In August 2005, [[President of the United States|President]] [[George W. Bush]] visited Salt Lake City to speak to the [[Veterans of Foreign Wars]]. [[Cindy Sheehan]] appeared in a [[campaign advertising|paid political message]] protesting the [[Iraq War]] and the ad was submitted to the four major network stations in the [[media market|market]] (KSL-TV, KSTU, KTVX and KUTV). KTVX management declined the offer saying that "the content could very well be offensive to our community in Utah, which has contributed more than its fair share of fighting soldiers and suffered significant loss of life in this Iraq war."<ref>[[Associated Press]]. "[https://www.usatoday.com/news/nation/2005-08-20-bush-ad_x.htm TV station refuses to air anti-war ad days before Bush visit]," ''[[USA Today]]'', August 21, 2005.</ref>
+
+[[File:Ktvx 2010.png|150px|thumb|right|A blue variant of the KTVX logo used from 2007 to 2013, when it was replaced with the current version.]]
+On November 16, 2006, Clear Channel announced plans to sell all of its television stations, including KTVX,<ref name="Enquirer Clear Channel">{{cite news|title=Clear Channel agrees to sale|work=[[The Cincinnati Enquirer]]|publisher=[[Gannett Company]]|url=http://news.cincinnati.com/apps/pbcs.dll/article?AID=/20061116/BIZ01/311160018/-1/CINCI|date=November 16, 2006|access-date=November 17, 2006}}</ref> after being bought by [[private equity firm]]s. On April 20, 2007, Clear Channel sold its television station group to [[Providence Equity Partners]]'s [[Newport Television]].<ref name="Clear Channel Television">{{cite press release|title=Clear Channel Agrees to Sell Television Station Group to Providence Equity Partners |publisher=[[Clear Channel Communications]] |url=http://www.clearchannel.com/Corporate/PressRelease.aspx?PressReleaseID=1943 |date=April 20, 2007 |access-date=April 20, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070425161056/http://www.clearchannel.com/Corporate/PressRelease.aspx?PressReleaseID=1943 |archive-date=April 25, 2007 }}</ref> That company closed on the station group on March 14, 2008. In May, Newport Television agreed to sell KTVX and five other stations to High Plains Broadcasting because of ownership conflicts. Newport would have continued to operate KTVX through a [[local marketing agreement|joint sales agreement]] after the sale was finalized.<ref>{{Cite web |url=http://www.fresnobee.com/business/story/605370.html |title=Fresno's KGPE has new owner |access-date=May 18, 2008 |archive-url=https://web.archive.org/web/20080609044029/http://www.fresnobee.com/business/story/605370.html |archive-date=June 9, 2008 |url-status=dead }}</ref> However, on August 22, KTVX was removed from the sale after [[Univision Communications]], owner of [[KUTH]] (channel 32) and of which Providence Equity Partners holds a 19% stake, canceled its plans to purchase KUTF (channel 12) in [[Logan, Utah|Logan]] thus alleviating the need to sell KTVX (although sister station KUCW was eventually sold to High Plains Broadcasting due to FCC single-market ownership limits but continued to be managed by Newport Television).<ref name="fcc-ktvxnotsold">{{cite web|url=http://fjallfoss.fcc.gov/cgi-bin/ws.exe/prod/cdbs/forms/prod/prefill_and_display.pl?Application_id=1264514&Service=TV&Form_id=314&Facility_id=34459|title=APPLICATION FOR CONSENT TO ASSIGNMENT OF BROADCAST STATION CONSTRUCTION PERMIT OR LICENSE |date=September 4, 2008|work=CDBS Public Access|publisher=[[Federal Communications Commission]]|access-date=September 28, 2008}}</ref> KUTF has since been sold to the [[Daystar (TV network)|Daystar Television Network]].
+
+On July 19, 2012, Newport Television sold 22 of its 27 stations to the [[Nexstar Media Group|Nexstar Broadcasting Group]], [[Sinclair Broadcast Group]] and [[Cox Media Group]]. KTVX and KUCW were among the twelve that would be sold to Nexstar, which acquired both stations outright.<ref>{{Cite web|url=https://www.deadline.com/2012/07/newport-television-to-collect-1b-selling-22-stations-to-nexstar-sinclair-and-cox/|title=Newport Television to Collect $1B Selling 22 Stations to Nexstar, Sinclair, and Cox|date=July 19, 2012}}</ref> The JSA and SSA between KTVX and KUCW was terminated upon the completion of the sale, which occurred on December 3, as both stations officially became co-owned for the first time since Clear Channel sold the pair back in 2008. The purchases of KTVX and KUCW would also mark a re-entry into Utah for Nexstar, which had managed CBS affiliate KUTV and [[MyNetworkTV]]/[[This TV]] affiliate [[KMYU]] (channel 12) under a groupwide agreement with the [[Four Points Media Group]] before that company's stations were sold to Sinclair at the beginning of 2012. WOAI-TV, which has been a sister station to KTVX since United Television acquired both stations in 1975, was one of the Newport stations sold to Sinclair, which resulted in the two stations coming under entirely separate ownership and management for the first time in over 37 years; as a result, WOAI is now sister to rival KUTV.
+
+On December 3, 2018, Nexstar announced it would acquire the assets of [[Chicago]]-based [[Tribune Media]]—which has owned [[Fox Broadcasting Company|Fox]] affiliate [[KSTU]] (channel 13) since December 2013—for $6.4 billion in cash and debt. Nexstar is precluded from acquiring KSTU directly or indirectly, as FCC regulations prohibit common ownership of more than two stations in the same media market, or two or more of the four highest-rated stations in the market. (Furthermore, any attempt by Nexstar to assume the operations of KSTU through [[local marketing agreement|local marketing]] or [[shared services]] agreements may be subject to regulatory hurdles that could delay completion of the FCC and Justice Department's review and approval process for the acquisition.) As such, Nexstar will be required to sell either KSTU or KTVX to a separate, unrelated company to address the ownership conflict. (In the case of KSTU, reports preceding the purchase announcement stated that, as it did during the group's failed purchase by Sinclair, Fox Television Stations would seek to acquire certain Fox-affiliated stations owned by Tribune from the eventual buyer of that group. Also, as KUCW does not rank among the top four in total-day viewership and therefore is not in conflict with existing FCC in-market ownership rules, that station optionally can be retained by Nexstar regardless of whether it chooses to retain ownership of KTVX or sell KTVX in order to acquire KSTU or, should it be divested, be sold to the prospective buyer of KTVX.)<ref>{{cite web|title=Acquisition of Tribune Media Company|url=https://www.nexstar.tv/wp-content/uploads/2018/12/Nexstar-Tribune-Investor-Presentation-FINAL-12-3-18.pdf|website=[[Nexstar Media Group]]|date=December 3, 2018}}</ref><ref>{{cite web|title=Nexstar Buying Tribune Media For $6.4 Billion|url=https://tvnewscheck.com/article/top-news/226264/nexstar-buying-tribune-media-6-4-billion/|author=Mark K. Miller|website=TVNewsCheck|publisher=NewsCheck Media|date=December 3, 2018}}</ref><ref>{{cite web|title=Nexstar Confirms $4.1B Tribune Media Acquisition To Become Leading Local TV Station Owner|url=https://deadline.com/2018/12/nexstar-tribune-media-acquisition-1202512653/|author=Peter White|author2=Dade Hayes|website=Deadline Hollywood|publisher=Penske Media Corporation|date=December 3, 2018}}</ref><ref>{{cite web|title=Nexstar to buy WGN owner Tribune Media for $4.1 billion|url=https://www.chicagotribune.com/business/ct-nexstar-tribune-media-20181202-story.html|author=Gerry Smith|author2=Nabila Ahmed|author3=Eric Newcomer|agency=[[Bloomberg L.P.|Bloomberg News]]|newspaper=[[Chicago Tribune]]|publisher=[[Tribune Publishing]]|date=December 3, 2018}}</ref><ref>{{cite web|title=Nexstar to buy Tribune Media for $4.1 billion|url=https://www.reuters.com/article/us-tribune-media-m-a-nexstar-media/nexstar-to-buy-tribune-media-for-4-1-billion-idUSKBN1O217Z|author=Arjun Panchadar|author2=Sonam Rai|work=[[Reuters]]|date=December 3, 2018}}</ref><ref>{{cite web|title=Nexstar Announces Deal to Buy Tribune for $6.4B|url=https://www.broadcastingcable.com/news/nexstar-announces-deal-to-buy-tribune-for-6-4b|author=Jon Lafayette|periodical=Broadcasting & Cable|publisher=NewBay Media|date=December 3, 2018}}</ref><ref>{{cite web|title=It's Official: Nexstar Takes Tribune In Billion-Dollar Stock Deal|url=https://www.rbr.com/reuters-nexstar-gets-tribune-in-4-1b-deal/|author=Adam Jacobson|website=Radio-Television Business Report|publisher=Streamline-RBR, Inc.|date=December 3, 2018}}</ref><ref>{{cite web|title=Nexstar To Spin Off $1B In Stations|url=https://tvnewscheck.com/article/top-news/226264/nexstar-buying-tribune-media-6-4-billion/|author=Harry A. Jessell|author2=Mark K. Miller|website=TVNewsCheck|publisher=NewsCheck Media|date=December 3, 2018}}</ref><ref name="nxsttrco1">{{cite web|url=https://www.nexstar.tv/nexstar_agrees_to_acquire_tribune/|title=Nexstar Media Group Enters into Definitive Agreement to Acquire Tribune Media Company for $6.4 Billion in Accretive Transaction Creating the Nation's Largest Local Television Broadcaster and Local Media Company|publisher=[[Nexstar Media Group]]|date=December 3, 2018|access-date=December 3, 2018}}</ref><ref name="nxsttrco2">{{cite web|url=http://www.tribunemedia.com/nexstar-media-group-enters-into-definitive-agreement-to-acquire-tribune-media-company/|title=Nexstar Media Group Enters Into Definitive Agreement To Acquire Tribune Media Company|publisher=[[Tribune Media]]|date=December 3, 2018|access-date=December 3, 2018}}</ref> On March 20, 2019, it was announced that Nexstar would keep the KTVX/KUCW duopoly and sell KSTU to the [[Cincinnati]]-based [[E. W. Scripps Company]], marking Scripps' entry into Utah, as part of the company's sale of nineteen Nexstar- and Tribune-operated stations to Scripps and [[Tegna Inc.]] in separate deals worth $1.32 billion.<ref name="tvnc=nexstarspinoffs">{{cite web|title=Nexstar Selling 19 TVs In 15 Markets For $1.32B|url=https://tvnewscheck.com/article/top-news/232391/nexstar-selling-19-tvs-in-15-markets-for-1-32b/|author=Mark K. Miller|website=TVNewsCheck|publisher=NewsCheck Media|date=March 20, 2019}}</ref><ref>{{cite news|title=Nexstar to Sell Stations to Tegna, Scripps for $1.32 Billion|url=https://www.bloomberg.com/news/articles/2019-03-20/nexstar-to-sell-19-stations-to-tegna-scripps-for-1-32-billion|author=Nabila Ahmed|author2=Anousha Sakoui|website=Bloomberg News|publisher=[[Bloomberg, L.P.]]|date=March 20, 2019}}</ref>
+
+===Analog-to-digital conversion===
+KTVX became the first television station in Utah to broadcast a digital signal and the first to broadcast network programming in [[high-definition television|high-definition]] in 2000. The station shut down its analog signal, over [[Very high frequency|VHF]] channel 4, on June 12, 2009, as part of the [[Digital television transition in the United States|federally mandated transition from analog to digital television]].<ref name="Analog to Digital">[http://hraunfoss.fcc.gov/edocs_public/attachmatch/DA-06-1082A2.pdf List of Digital Full-Power Stations] {{webarchive|url=https://web.archive.org/web/20130829004251/http://hraunfoss.fcc.gov/edocs_public/attachmatch/DA-06-1082A2.pdf |date=August 29, 2013 }}</ref> The station's digital signal remained on its pre-transition [[UHF]] channel 40,<ref>{{Cite web |url=http://www.sltrib.com/news/ci_11665656 |title=Archived copy |access-date=February 10, 2009 |archive-url=https://web.archive.org/web/20130729012501/http://www.sltrib.com/news/ci_11665656 |archive-date=July 29, 2013 |url-status=dead }}</ref> using [[Program and System Information Protocol|PSIP]] to display KTVX's [[virtual channel]] as 4 on digital television receivers.
+
+On September 9, 2018, KTVX moved its frequency, from digital channel 40 to digital channel 30.<ref>[https://www.deseretnews.com/article/900030940/over-the-air-tv-viewers-need-to-rescan-sunday-heres-how-and-why.html Over-the-air TV viewers need to rescan Sunday: Here's how and why], [[Deseret News]], September 7, 2018, Retrieved November 25, 2018.</ref>
+
+==News operation==
+KTVX presently broadcasts 32 hours of locally produced newscasts each week (with six hours on weekdays, and two hours each on Saturdays and Sundays). In addition, KTVX produces a local lifestyle and entertainment program called ''Good Things Utah'', which airs weekday mornings at 9 a.m.; and the [[public affairs (broadcasting)|public affairs]] program, ''On the Record'', which airs on Sunday mornings. On April 26, 2010, KTVX became the third television station in the Salt Lake City market to begin broadcasting its local newscasts in [[high-definition television|high definition]]; with the conversion came the introduction of a new HD-compatible news set and graphics package.<ref>http://www.abc4.com/content/news/top%20stories/story/KTVX-TV-launches-high-definition-newscasts/kM9qMVqAYk2o2AUxNpeZyA.cspx</ref>
+
+In September 2010, the station began expanding its local news programming. Its weekday morning newscast, ''Good Morning Utah'', expanded to 2½ hours from 4:30-7 a.m. with a two-hour extension of the program being added to sister station KUCW (the 7-9 a.m. block on channel 30 was canceled in 2012). KTVX added a weekday afternoon newscast at 4 p.m. and began producing a half-hour 9 p.m. newscast for KUCW. In addition, KUCW debuted a KTVX-produced local entertainment program called ''The Daily Dish'' on September 7, 2010 (which has since been moved to KTVX and was converted into an hour-long midday newscast at 11:00&nbsp;a.m.).<ref>http://www.tvnewscheck.com/articles/2010/08/18/daily.4/</ref> KUCW's 9 p.m. newscast ended on December 9, 2011 due to low ratings; the move was concurrent with other changes at KTVX, including the expansion of the 4 p.m. newscast to an hour on January 9, 2012.<ref name=slt-9pmend>{{cite news|last=Pierce|first=Scott D.|title=Struggling KTVX-Ch. 4 shakes up its news team|url=http://www.sltrib.com/sltrib/blogstv/53062945-63/ktvx-news-station-carlson.html.csp|access-date=December 8, 2011|newspaper=[[The Salt Lake Tribune]]|date=December 6, 2011}}</ref>
+
+===Sponsored content controversy===
+In 2021, the station was tricked into promoting a fake sexual wellness product, "invented" by a team working for late-night political commentary show ''[[Last Week Tonight]]'', called the "Venus Veil", which was actually just a blanket; the show's team paid KTVX $2,800 to feature the fake product and an interview with its "creator" as a way to illustrate how stations such as KTVX promote [[sponsored content]] without being upfront about the sponsorship, essentially passing off advertising as news.<ref name="twsSlate0099">Matthew Dessem, May 24, 2021, Slate Magazine, [https://slate.com/culture/2021/05/last-week-tonight-john-oliver-sponsored-content-sexual-wellness-blanket.html John Oliver Tricked Local News Shows Into Promoting a Bogus "Sexual Wellness Blanket" He Invented], Retrieved May 24, 2021, "...Oliver tricked three local TV stations—KVUE in Austin, Texas, KMGH-TV (Denver7) in Denver, Colorado, and KTVX (ABC4), in Salt Lake City, Utah—into airing a promo for a completely worthless "sexual wellness blanket" ... all three stations will apparently ... hawk whatever kind of pseudoscience (if you) pay their extraordinarily low rates for sponsored content..."</ref><ref name="Oliver">{{Cite episode |title=Sponsored Content |episode-link= |url=https://www.youtube.com/watch?v=sIi_QS1tdFM |access-date=2021-05-25 |series=Last Week Tonight with John Oliver |series-link=Last Week Tonight with John Oliver |network=HBO |date=2021-05-23 |season=8 |number=23}}</ref>
+
+===Notable former on-air staff===
+* [[Ross Becker]] – weekday anchor (2007–2010)
+* [[Nadia Crow]] – weekday anchor; also weeknight reporter (2013–2016)
+
+==Technical information==
+
+===Subchannels===
+The station's digital signal is [[Multiplex (TV)|multiplexed]]:
+{| class="wikitable"
+|-
+! [[Digital subchannel#United States|Channel]]
+! [[Display resolution|Video]]
+! [[Aspect ratio (image)|Aspect]]
+! [[Program and System Information Protocol#What PSIP does|PSIP Short Name]]
+! Programming<ref>[http://www.rabbitears.info/market.php?request=station_search&callsign=KTVX#station RabbitEars TV Query for KTVX]</ref>
+|-
+| 4.1 || [[720p]] || rowspan=6 | [[16:9]] || KTVX-HD || Main KTVX programming / [[American Broadcasting Company|ABC]]
+|-
+| 4.2 || rowspan=5 | [[480i]] || Me-TV || [[MeTV]]
+|-
+| 4.3 || Rewind || [[Rewind TV]]
+|-
+| 4.4 || H-I || [[Heroes & Icons]]
+|-
+| [[KJZZ-TV|14.3]] || TBD || ATSC 1.0 simulcast of [[KJZZ-TV|KJZZ-DT3]] / [[TBD (TV network)|TBD]]
+|-
+| [[KJZZ-TV|14.4]] || Charge! || ATSC 1.0 simulcast of [[KJZZ-TV|KJZZ-DT4]] / [[Charge! (TV network)|Charge!]]
+|}
+
+In early 2008, KTVX carried "TheHive TV" on its second [[digital subchannel]], which featured locally produced programs by Salt Lake City area residents and sports.<ref>Allison Romano. (3/9/2008) [http://www.broadcastingcable.com/article/112773-Local_Stations_Multiply.php#d9e6-0-a Local Stations Multiply]. [http://www.broadcastingcable.com/ Broadcasting & Cable].</ref> The schedule resembled a [[public-access television|public access]] cable channel, however because the subchannel had to conform to FCC content guidelines, externally produced programs were approved by the station before they were broadcast. This service shut down in December 2008 and was replaced in January 2009 by Untamed Sports TV, which KTVX-DT2 served as its [[flagship (broadcasting)|flagship]] station.
+
+In April 2011, KTVX began carrying [[TheCoolTV]] music video network on its 4.2 subchannel.<ref>{{Cite web|url=http://www.sltrib.com/sltrib/blogsburger/51665704-53/music-network-digital-tcn.html.csp|title=Local ABC and CW affiliates just launched two new digital music channels in Utah}}</ref> KTVX replaced TheCoolTV with [[MeTV]] on July 30, 2012.<ref>July 31, 2012. [http://www.tvnewscheck.com/article/61147/metv-adds-salt-lake-city-tulsa-syracuse Me-TV Adds Salt Lake City, Tulsa, Syracuse]. [http://www.tvnewscheck.com/ TVNewsCheck].</ref>
+
+On September 1, 2016, KTVX replaced [[WeatherNation TV|WeatherNation]] on digital 4.3 with [[Laff (TV network)|Laff]].
+
+On November 1, 2018, KTVX replaced a [[standard-definition television|standard definition]] simulcast of [[KUCW]] on digital 4.3 with [[Heroes & Icons]] on digital 4.4.
+
+On September 1, 2021, KTVX replaced Laff on digital 4.3 with Rewind TV.
+
+==Translators==
+KTVX extends its coverage throughout the entire state of Utah plus parts of [[Arizona]], [[Colorado]], [[Idaho]], [[Nevada]] and [[Wyoming]] using a network of more than 100 community-owned [[broadcast relay station#Broadcast translators|translators]] listed below. As a result of the June 2009 transition to digital broadcasting, a few of these translators have converted to also digital-only broadcasts. However, only full-powered television stations were required to make the switch.
+
+{| class="sortable wikitable"
+|-
+! City of license
+! Callsign
+! Channel
+! [[effective radiated power|ERP]]
+! [[height above average terrain|HAAT]]
+! [[Facility ID]]
+! Transmitter coordinates
+! Owner
+|-
+|| [[Antimony, Utah|Antimony, etc.]]||'''{{FCC-LMS-Facility|168099|3=K36IG-D}}'''|| 36 || 0.006&nbsp;kW || {{convert|-10|m|ft|0|abbr=on}} || 168099 || {{coord|38|10|56.7|N|112|2|27.2|W|type:landmark_scale:2000|name=K36IG-D}} || [[Piute County, Utah|Piute County]]
+|-
+|| [[Aurora, Utah|Aurora, etc.]]||'''{{FCC-LMS-Facility|68882|3=K12XD-D}}'''|| 12 || 0.13&nbsp;kW || {{convert|580|m|ft|0|abbr=on}} || 68882 || {{coord|39|29|30.8|N|111|49|39.7|W|type:landmark_scale:2000|name=K12XD-D}} || rowspan=2|[[Nexstar Media Group]]
+|-
+|| [[Apple Valley, Utah|Apple Valley]]||'''{{FCC-LMS-Facility|70970|3=K34CX-D}}'''|| 34 || 0.667&nbsp;kW || {{convert|83|m|ft|0|abbr=on}} || 70970 || {{coord|37|6|49.9|N|113|7|42.4|W|type:landmark_scale:2000|name=K34CX-D}}
+|-
+|| [[Blanding, Utah|Blanding]]<br>[[Monticello, Utah|Monticello]]||'''{{FCC-LMS-Facility|58877|3=K33OY-D}}'''|| 33 || 0.105&nbsp;kW || {{convert|1073|m|ft|0|abbr=on}} || 58877 || {{coord|37|50|22.5|N|109|27|44.6|W|type:landmark_scale:2000|name=K33OY-D}} || rowspan=2|[[San Juan County, Utah|San Juan County]]
+|-
+|| [[Bluff, Utah|Bluff, etc.]]||'''{{FCC-LMS-Facility|182809|3=K23KC-D}}'''|| 23 || 0.0025&nbsp;kW || {{convert|16|m|ft|0|abbr=on}} || 182809 || {{coord|37|16|13|N|109|33|16.4|W|type:landmark_scale:2000|name=K23KC-D}}
+|-
+|| [[Boulder, Utah|Boulder]]||'''{{FCC-LMS-Facility|167834|3=K32HQ-D}}'''|| rowspan=3|32 || 0.003&nbsp;kW || {{convert|-29|m|ft|0|abbr=on}} || 167834 || {{coord|37|53|53|N|111|25|10.5|W|type:landmark_scale:2000|name=K32HQ-D}} || [[Garfield County, Utah|Garfield County]]
+|-
+|| [[Caineville, Utah|Caineville]]||'''{{FCC-LMS-Facility|167076|3=K32MP-D}}'''|| 0.054&nbsp;kW || {{convert|-30|m|ft|0|abbr=on}} || 167076 || {{coord|38|21|38.2|N|110|53|39.4|W|type:landmark_scale:2000|name=K32MP-D}} || rowspan=2|[[Wayne County, Utah|Wayne County]]
+|-
+|| [[Capitol Reef National Park]]||'''{{FCC-LMS-Facility|167072|3=K32MO-D}}'''|| 0.06&nbsp;kW || {{convert|-86|m|ft|0|abbr=on}} || 167072 || {{coord|38|17|46.3|N|111|17|32.6|W|type:landmark_scale:2000|name=K32MO-D}}
+|-
+|| [[Cedar City, Utah|Cedar Canyon]]||'''{{FCC-LMS-Facility|9712|3=K06JA-D}}'''|| 6 || 0.015&nbsp;kW || {{convert|475|m|ft|0|abbr=on}} || 9712 || {{coord|37|35|56.8|N|112|51|25.9|W|type:landmark_scale:2000|name=K06JA-D}} || Cedar Canyon TV
+|-
+|| [[Circleville, Utah|Circleville]]||'''{{FCC-LMS-Facility|167870|3=K21IB-D}}'''|| 21 || 0.065&nbsp;kW || {{convert|-237|m|ft|0|abbr=on}} || 167870 || {{coord|38|12|40.8|N|112|14|4.1|W|type:landmark_scale:2000|name=K21IB-D}} || [[Piute County, Utah|Piute County]]
+|-
+|| [[Clear Creek, Utah|Clear Creek]]||'''{{FCC-LMS-Facility|182372|3=K35OD-D}}'''|| 35 || 0.07&nbsp;kW || {{convert|-75|m|ft|0|abbr=on}} || 182372 || {{coord|39|38|45.1|N|111|9|17.5|W|type:landmark_scale:2000|name=K35OD-D}} || [https://www.carbon.utah.gov/freetv Carbon County]
+|-
+|| [[Coalville, Utah|Coalville]]||'''{{FCC-LMS-Facility|167172|3=K34OK-D}}'''|| 34 || 0.107&nbsp;kW || {{convert|-215|m|ft|0|abbr=on}} || 167172 || {{coord|40|55|26.1|N|111|23|53|W|type:landmark_scale:2000|name=K34OK-D}} || [http://www.sprtv.org/summit/ Summit County]
+|-
+|| [[Delta, Utah|Delta, etc.]]||'''{{FCC-LMS-Facility|167905|3=K35NU-D}}'''|| 35 || 0.15&nbsp;kW || {{convert|-9|m|ft|0|abbr=on}} || 167905 || {{coord|39|21|11.9|N|112|21|8.5|W|type:landmark_scale:2000|name=K35NU-D}} || [https://millardcounty.org/your-government/county-departments/television/ Millard County]
+|-
+|| [[Duchesne, Utah|Duchesne]]||'''{{FCC-LMS-Facility|167399|3=K31JC-D}}'''|| 31 || 0.012&nbsp;kW || {{convert|-49|m|ft|0|abbr=on}} || 167339 || {{coord|40|9|17.7|N|110|23|31.6|W|type:landmark_scale:2000|name=K31JC-D}} || [[Duchesne County, Utah|Duchesne County]]
+|-
+|| East [[Price, Utah|Price]]||'''{{FCC-LMS-Facility|167768|3=K08QF-D}}'''|| 8 || 0.07&nbsp;kW || {{convert|-84|m|ft|0|abbr=on}} || 167768 || {{coord|39|36|37.8|N|110|48|49.5|W|type:landmark_scale:2000|name=K08QF-D}} || [https://www.carbon.utah.gov/freetv Carbon County]
+|-
+|| [[Enterprise, Utah|Enterprise]]||'''{{FCC-LMS-Facility|70974|3=K05BU-D}}'''|| 5 || 0.014&nbsp;kW || {{convert|41|m|ft|0|abbr=on}} || 70974 || {{coord|37|35|59.9|N|113|44|2.8|W|type:landmark_scale:2000|name=K05BU-D}} || [[Nexstar Media Group]]
+|-
+|| [[Emery, Utah|Emery]]||'''{{FCC-LMS-Facility|167221|3=K35OA-D}}'''|| 35 || 0.012&nbsp;kW || {{convert|97|m|ft|0|abbr=on}} || 167221 || {{coord|38|55|51.9|N|111|11|27.6|W|type:landmark_scale:2000|name=K30OR-D}} || [http://www.emerycounty.com/communications/index.htm Emery County]
+|-
+|| [[Escalante, Utah|Escalante]]||'''{{FCC-LMS-Facility|167813|3=K30OR-D}}'''|| 30 || 0.09&nbsp;kW || {{convert|-146|m|ft|0|abbr=on}} || 167813 || {{coord|37|47|10.5|N|111|35|39.9|W|type:landmark_scale:2000|name=K30OR-D}} || [[Garfield County, Utah|Garfield County]]
+|-
+|| [[Ferron, Utah|Ferron]]||'''{{FCC-LMS-Facility|182364|3=K35OC-D}}'''|| 35 || 0.02&nbsp;kW || {{convert|-231|m|ft|0|abbr=on}} || 182364 || {{coord|39|5|35.4|N|111|8|42.9|W|type:landmark_scale:2000|name=K35OC-D}} || [http://www.emerycounty.com/communications/index.htm Emery County]
+|-
+|| [[Fillmore, Utah|Fillmore, etc.]]||'''{{FCC-LMS-Facility|167912|3=K28PC-D}}'''|| rowspan=2|28 || 0.15&nbsp;kW || {{convert|115|m|ft|0|abbr=on}} || 167912 || {{coord|39|2|9.8|N|112|19|33.9|W|type:landmark_scale:2000|name=K28PC-D}} || [https://millardcounty.org/your-government/county-departments/television/ Millard County]
+|-
+|| [[Fishlake Resort, Utah|Fishlake Resort]]||'''{{FCC-LMS-Facility|182339|3=K28OQ-D}}'''|| rowspan=2|0.01&nbsp;kW || {{convert|148|m|ft|0|abbr=on}} || 182339 || {{coord|38|31|0|N|111|44|48|W|type:landmark_scale:2000|name=K28OQ-D}} || rowspan=2|[https://www.sevierutah.net/departments/county_departments/tv/index.php Sevier County]
+|-
+|| [[Fountain Green, Utah|Fountain Green]]||'''{{FCC-LMS-Facility|182191|3=K32JB-D}}'''|| rowspan=2|32 || {{convert|-163|m|ft|0|abbr=on}} || 182191 || {{coord|39|32|3.1|N|111|35|12|W|type:landmark_scale:2000|name=K32JB-D}}
+|-
+|| [[Fremont, Utah|Fremont]]||'''{{FCC-LMS-Facility|167084|3=K32MQ-D}}'''|| 0.031&nbsp;kW || {{convert|-45|m|ft|0|abbr=on}} || 167084 || {{coord|38|21|24.4|N|111|41|54.5|W|type:landmark_scale:2000|name=K32MQ-D}} || [[Wayne County, Utah|Wayne County]]
+|-
+|| [[Fruitland, Utah|Fruitland]]||'''{{FCC-LMS-Facility|17660|3=K15LO-D}}'''|| 15 || 0.11&nbsp;kW || {{convert|-55|m|ft|0|abbr=on}} || 17660 || {{coord|40|12|17.8|N|110|53|46.8|W|type:landmark_scale:2000|name=K15LO-D}} || [[Duchesne County, Utah|Duchesne County]]
+|-
+|| [[Garrison, Utah|Garrison, etc.]]||'''{{FCC-LMS-Facility|167940|3=K31OM-D}}'''|| 31 || 0.06&nbsp;kW || {{convert|-61|m|ft|0|abbr=on}} || 167940 || {{coord|39|6|15.4|N|113|57|12.3|W|type:landmark_scale:2000|name=K31OM-D}} || [https://millardcounty.org/your-government/county-departments/television/ Millard County]
+|-
+| rowspan=2|[[Green River, Utah|Green River]]||'''{{FCC-LMS-Facility|167574|3=K16HD-D}}'''|| 16 || rowspan=2|0.02&nbsp;kW || {{convert|-18|m|ft|0|abbr=on}} || 167574 || {{coord|38|58|34.9|N|110|10|58.4|W|type:landmark_scale:2000|name=K16HD-D}} || rowspan=2|[[Green River, Utah|Green River]] City Television
+|-
+|'''{{FCC-LMS-Facility|167577|3=K35OB-D}}'''|| 35 || {{convert|484|m|ft|0|abbr=on}} || 167577 || {{coord|39|10|57.9|N|110|36|27.5|W|type:landmark_scale:2000|name=K35OB-D}}
+|-
+|| [[Hanksville, Utah|Hanksville]]||'''{{FCC-LMS-Facility|167079|3=K29LX-D}}'''|| 29 || 0.01&nbsp;kW || {{convert|-58|m|ft|0|abbr=on}} || 167079 || {{coord|38|22|23.4|N|110|42|1.3|W|type:landmark_scale:2000|name=K29LX-D}} || [[Wayne County, Utah|Wayne County]]
+|-
+|| [[Hanna, Utah|Hanna, etc.]]||'''{{FCC-LMS-Facility|167394|3=K32HP-D}}'''|| 32 || 0.012&nbsp;kW || {{convert|-322|m|ft|0|abbr=on}} || 167394 || {{coord|40|23|7.8|N|110|45|30.5|W|type:landmark_scale:2000|name=K32HP-D}} || [[Duchesne County, Utah|Duchesne County]]
+|-
+|| [[Hatch, Utah|Hatch]]||'''{{FCC-LMS-Facility|167991|3=K17HQ-D}}'''|| 17 || 0.028&nbsp;kW || {{convert|-125|m|ft|0|abbr=on}} || 167991 || {{coord|37|40|35.9|N|112|22|22.4|W|type:landmark_scale:2000|name=K17HQ-D}} || [[Garfield County, Utah|Garfield County]]
+|-
+|| [[Heber, Utah|Heber]]<br>[[Midway, Utah|Midway]]||'''{{FCC-LMS-Facility|70925|3=K31FP-D}}'''|| 31 || 0.356&nbsp;kW || {{convert|331|m|ft|0|abbr=on}} || 70925 || {{coord|40|33|44.8|N|111|28|32.6|W|type:landmark_scale:2000|name=K28OU-D}} || [https://www.wasatch.utah.gov/Departments/Public-Works-Dept#63725-television-reception Wasatch County Commissioners]
+|-
+|| [[Helper, Utah|Helper]]||'''{{FCC-LMS-Facility|167774|3=K26LR-D}}'''|| 26 || 0.006&nbsp;kW || {{convert|-165|m|ft|0|abbr=on}} || 167774 || {{coord|39|41|5.8|N|110|50|31.5|W|type:landmark_scale:2000|name=K26LR-D}} || [https://www.carbon.utah.gov/freetv Carbon County]
+|-
+|| [[Henefer, Utah|Henefer, etc.]]||'''{{FCC-LMS-Facility|167188|3=K28OU-D}}'''|| 28 || 0.11&nbsp;kW || {{convert|-95|m|ft|0|abbr=on}} || 167188 || {{coord|40|58|40.2|N|111|26|10.1|W|type:landmark_scale:2000|name=K28OU-D}} || [http://www.sprtv.org/summit/ Summit County]
+|-
+|| [[Henrieville, Utah|Henrieville]]||'''{{FCC-LMS-Facility|168126|3=K15LC-D}}'''|| 15 || 0.01&nbsp;kW || {{convert|-138|m|ft|0|abbr=on}} || 168126 || {{coord|37|32|58.8|N|111|59|24.2|W|type:landmark_scale:2000|name=K15LC-D}} || [[Garfield County, Utah|Garfield County]]
+|-
+|| [[Huntington, Utah|Huntington]]||'''{{FCC-LMS-Facility|182427|3=K35OE-D}}'''|| 35 || 0.02&nbsp;kW || {{convert|-135|m|ft|0|abbr=on}} || 182427 || {{coord|39|20|7.3|N|110|58|49|W|type:landmark_scale:2000|name=K35OE-D}} || [http://www.emerycounty.com/communications/index.htm Emery County]
+|-
+|| [[Huntsville, Utah|Huntsville, etc.]]||'''{{FCC-LMS-Facility|167807|3=K17IP-D}}'''|| 17 || 0.012&nbsp;kW || {{convert|-100|m|ft|0|abbr=on}} || 167807 || {{coord|41|20|19.9|N|111|48|59|W|type:landmark_scale:2000|name=K17IP-D}} || [http://www.ogdenvalleytv.org/ Ogden Valley TV]
+|-
+|| [[Kanab, Utah|Kanab]]||'''{{FCC-LMS-Facility|71851|3=K32DC-D}}'''|| 32 || 0.063&nbsp;kW || {{convert|102|m|ft|0|abbr=on}} || 71851 || {{coord|37|3|34.6|N|112|31|12.2|W|type:landmark_scale:2000|name=K32DC-D}} || [https://wkcssd.com/ Western Kane County Special Service District #1]
+|-
+|| [[Koosharem, Utah|Koosharem]]||'''{{FCC-LMS-Facility|167341|3=K15KZ-D}}'''|| 15 || 0.055&nbsp;kW || {{convert|179|m|ft|0|abbr=on}} || 167341 || {{coord|38|28|42.8|N|111|49|25|W|type:landmark_scale:2000|name=K15KZ-D}} || [https://www.sevierutah.net/departments/county_departments/tv/index.php Sevier County]
+|-
+|| [[Laketown, Utah|Laketown, etc.]]||'''{{FCC-LMS-Facility|56124|3=K10LM-D}}'''|| 10 || 0.3394&nbsp;kW || {{convert|339|m|ft|0|abbr=on}} || 56124 || {{coord|41|52|54.9|N|111|16|12.6|W|type:landmark_scale:2000|name=K10LM-D}} || [[Rich County, Utah|Rich County]]
+|-
+|| [[Leamington, Utah|Leamington]]||'''{{FCC-LMS-Facility|167939|3=K20NM-D}}'''|| 20 || 0.95&nbsp;kW || {{convert|-90|m|ft|0|abbr=on}} || 167939 || {{coord|39|31|55.5|N|112|18|49.4|W|type:landmark_scale:2000|name=K20NM-D}} || [https://millardcounty.org/your-government/county-departments/television/ Millard County]
+|-
+|| [[Logan, Utah|Logan]]||'''{{FCC-LMS-Facility|8134|3=K30OY-D}}'''|| 30 || 2.82&nbsp;kW || {{convert|524|m|ft|0|abbr=on}} || 8134 || {{coord|41|33|3.3|N|111|56|13.1|W|type:landmark_scale:2000|name=K30OY-D}} || [https://www.cachecounty.org/executive/tv-translator.html Cache County]
+|-
+|| [[Manti, Utah|Manti, etc.]]||'''{{FCC-LMS-Facility|168166|3=K34OE-D}}'''|| 34 || 0.16&nbsp;kW || {{convert|649|m|ft|0|abbr=on}} || 168166 || {{coord|39|19|23.3|N|111|46|28.5|W|type:landmark_scale:2000|name=K34OE-D}} || [[Sanpete County, Utah|Sanpete County]]
+|-
+|| [[Manila, Utah|Manila]]||'''{{FCC-LMS-Facility|167952|3=K31JP-D}}'''|| 31 || 0.0056&nbsp;kW || {{convert|105|m|ft|0|abbr=on}} || 167952 || {{coord|40|57|33.5|N|109|25|1.5|W|type:landmark_scale:2000|name=K31JP-D}} || [[Daggett County, Utah|Daggett County]]
+|-
+|| [[Marysvale, Utah|Marysvale]]||'''{{FCC-LMS-Facility|167867|3=K24MQ-D}}'''|| 24 || 0.115&nbsp;kW || {{convert|187|m|ft|0|abbr=on}} || 167867 || {{coord|38|30|25.4|N|112|11|51.5|W|type:landmark_scale:2000|name=K24MQ-D}} || [[Piute County, Utah|Piute County]]
+|-
+|| [[Mayfield, Utah|Mayfield]]||'''{{FCC-LMS-Facility|182220|3=K17JE-D}}'''|| 17 || 0.01&nbsp;kW || {{convert|-197|m|ft|0|abbr=on}} || 182220 || {{coord|39|6|42.3|N|111|43|5.8|W|type:landmark_scale:2000|name=K17JE-D}} || [[Sanpete County, Utah|Sanpete County]]
+|-
+|| [[Mexican Hat, Utah|Mexican Hat]]||'''{{FCC-LMS-Facility|191142|3=K23MT-D}}'''|| 23 || 0.171&nbsp;kW || {{convert|-149|m|ft|0|abbr=on}} || 191142 || {{coord|37|8|58.6|N|109|51|37.5|W|type:landmark_scale:2000|name=K23MT-D}} || rowspan=2|[[San Juan County, Utah|San Juan County]]
+|-
+|| [[Montezuma Creek, Utah|Montezuma Creek]]<br>[[Aneth, Utah|Aneth]]||'''{{FCC-LMS-Facility|167968|3=K19HU-D}}'''|| 19 || rowspan=2|0.011&nbsp;kW || {{convert|-16|m|ft|0|abbr=on}} || 167968 || {{coord|37|15|36.3|N|109|17|24.9|W|type:landmark_scale:2000|name=K19HU-D}}
+|-
+|| [[Morgan, Utah|Morgan, etc.]]||'''{{FCC-LMS-Facility|168691|3=K31IU-D}}'''|| 31 || {{convert|332|m|ft|0|abbr=on}} || 168691 || {{coord|41|4|7.2|N|111|39|34.1|W|type:landmark_scale:2000|name=K31IU-D}} || [[Morgan County, Utah|Morgan County]]
+|-
+|| [[Mount Pleasant, Utah|Mount Pleasant]]||'''{{FCC-LMS-Facility|168159|3=K19GN-D}}'''|| rowspan=2|19 || 0.01&nbsp;kW || {{convert|-114|m|ft|0|abbr=on}} || 168159 || {{coord|39|32|21.5|N|111|23|19.8|W|type:landmark_scale:2000|name=K19GN-D}} || [[Sanpete County, Utah|Sanpete County]]
+|-
+|| [[Myton, Utah|Myton]]||'''{{FCC-LMS-Facility|17646|3=K19EY-D}}'''|| 0.049&nbsp;kW || {{convert|692|m|ft|0|abbr=on}} || 17646 || {{coord|40|21|40.6|N|110|47|33.5|W|type:landmark_scale:2000|name=K19EY-D}} || [[Duchesne County, Utah|Duchesne County]]
+|-
+|| [[Navajo Mountain, Utah|Navajo Mountain]]||'''{{FCC-LMS-Facility|167988|3=K20JE-D}}'''|| 20 || 0.0056&nbsp;kW || {{convert|104|m|ft|0|abbr=on}} || 167988 || {{coord|37|1|16.9|N|110|46|0.9|W|type:landmark_scale:2000|name=K20JE-D}} || [[San Juan County, Utah|San Juan County]]
+|-
+|| [[Nephi, Utah|Nephi]]||'''{{FCC-LMS-Facility|182136|3=K21JZ-D}}'''|| 21 || 0.063&nbsp;kW || {{convert|179|m|ft|0|abbr=on}} || 182136 || {{coord|39|43|57.8|N|111|56|36.7|W|type:landmark_scale:2000|name=K21JZ-D}} || [[Juab County, Utah|Juab]]
+|-
+|| [[Oljeto, Utah|Oljeto]]||'''{{FCC-LMS-Facility|167981|3=K20JF-D}}'''|| 20 || 0.011&nbsp;kW || {{convert|29|m|ft|0|abbr=on}} || 167981 || {{coord|37|2|27.4|N|110|19|49.9|W|type:landmark_scale:2000|name=K20JF-D}} || [[San Juan County, Utah|San Juan County]]
+|-
+|| [[Orangeville, Utah|Orangeville]]||'''{{FCC-LMS-Facility|167213|3=K16MZ-D}}'''|| 16 || 0.34&nbsp;kW || {{convert|510|m|ft|0|abbr=on}} || 167213 || {{coord|39|12|35.8|N|111|8|32.6|W|type:landmark_scale:2000|name=K16MZ-D}} || [http://www.emerycounty.com/communications/index.htm Emery County]
+|-
+|| [[Orderville, Utah|Orderville, etc.]]||'''{{FCC-LMS-Facility|8134|3=K30OY-D}}'''|| 30 || 2.82&nbsp;kW || {{convert|524|m|ft|0|abbr=on}} || 8134 || {{coord|41|33|3.3|N|111|56|13.1|W|type:landmark_scale:2000|name=K30OY-D}} || [https://www.cachecounty.org/executive/tv-translator.html Cache County]
+|-
+|| [[Panguitch, Utah|Panguitch]]||'''{{FCC-LMS-Facility|167496|3=K15LA-D}}'''|| 15 || 0.035&nbsp;kW || {{convert|-132|m|ft|0|abbr=on}} || 167496 || {{coord|37|49|15.5|N|112|27|29.1|W|type:landmark_scale:2000|name=K15LA-D}} || [[Garfield County, Utah|Garfield County]]
+|-
+|| [[Park City, Utah|Park City]]||'''{{FCC-LMS-Facility|63716|3=K31FQ-D}}'''|| 31 || 0.077&nbsp;kW || {{convert|26|m|ft|0|abbr=on}} || 63716 || {{coord|40|40|58.8|N|111|31|24.7|W|type:landmark_scale:2000|name=K31FQ-D}} || [http://www.sprtv.org/summit/ Summit County]
+|-
+|| [[Parowan, Utah|Parowan]]<br>[[Enoch, Utah|Enoch]]||'''{{FCC-LMS-Facility|29172|3=K34AG-D}}'''|| 34 || 0.25&nbsp;kW || {{convert|233|m|ft|0|abbr=on}} || 29172 || {{coord|37|50|30.1|N|112|58|29.4|W|type:landmark_scale:2000|name=K34AG-D}} || [[Iron County, Utah|Iron County]]
+|-
+|| [[Peoa, Utah|Peoa]]<br>[[Oakley, Utah|Oakley]]||'''{{FCC-LMS-Facility|167161|3=K14PF-D}}'''|| 14 || 0.114&nbsp;kW || {{convert|93|m|ft|0|abbr=on}} || 167161 || {{coord|40|43|20.8|N|111|21|51.6|W|type:landmark_scale:2000|name=K14PF-D}} || [http://www.sprtv.org/summit/ Summit County]
+|-
+|| [[Pine Valley, Washington County, Utah|Pine Valley, etc.]]||'''{{FCC-LMS-Facility|70957|3=K11OO-D}}'''|| 11 || 0.073&nbsp;kW || {{convert|386|m|ft|0|abbr=on}} || 70957 || {{coord|37|30|45.9|N|113|39|16.8|W|type:landmark_scale:2000|name=K11OO-D}} || rowspan=2|[[Nexstar Media Group]]
+|-
+|| [[Price, Utah|Price, etc.]]||'''{{FCC-LMS-Facility|167548|3=K24HP-D}}'''|| 24 || 0.006&nbsp;kW || {{convert|612|m|ft|0|abbr=on}} || 167548 || {{coord|39|45|21.8|N|110|59|28.5|W|type:landmark_scale:2000|name=K24HP-D}}
+|-
+|| [[Randolph, Utah|Randolph]]<br>[[Woodruff, Utah|Woodruff]]||'''{{FCC-LMS-Facility|56113|3=K34FR-D}}'''|| 34 || 0.284&nbsp;kW || {{convert|360|m|ft|0|abbr=on}} || 56113 || {{coord|41|37|30.7|N|111|7|25.6|W|type:landmark_scale:2000|name=K34FR-D}} || [[Rich County, Utah|Rich County]]
+|-
+|| [[Richfield, Utah|Richfield, etc.]]||'''{{FCC-LMS-Facility|167326|3=K15KY-D}}'''|| 15 || 0.165&nbsp;kW || {{convert|470|m|ft|0|abbr=on}} || 167326 || {{coord|38|38|4.9|N|112|3|36.8|W|type:landmark_scale:2000|name=K15FY-D}} || [https://www.sevierutah.net/departments/county_departments/tv/index.php Sevier County]
+|-
+|| [[Roosevelt, Utah|Roosevelt, etc.]]||'''{{FCC-LMS-Facility|167878|3=K08QH-D}}'''|| 8 || 0.047&nbsp;kW || {{convert|147|m|ft|0|abbr=on}} || 167878 || {{coord|40|19|26.8|N|110|9|21.5|W|type:landmark_scale:2000|name=K08QH-D}} || [[Uintah County, Utah|Uintah County]]
+|-
+|| Rural [[Beaver County, Utah|Beaver County]]||'''{{FCC-LMS-Facility|68887|3=K18FU-D}}'''|| 18 || 0.135&nbsp;kW || {{convert|1219|m|ft|0|abbr=on}} || 68887 || {{coord|38|31|13.8|N|113|17|14.8|W|type:landmark_scale:2000|name=K18FU-D}} || [[Nexstar Media Group]]
+|-
+| rowspan=2|Rural [[Garfield County, Utah|Garfield County]]||'''{{FCC-LMS-Facility|36348|3=K16LZ-D}}'''|| 16 || 0.155&nbsp;kW || {{convert|736|m|ft|0|abbr=on}} || 36348 || {{coord|37|45|21.1|N|111|52|29.8|W|type:landmark_scale:2000|name=K16LZ-D}} || rowspan=2|[[Garfield County, Utah|Garfield County]]
+|-
+|'''{{FCC-LMS-Facility|23191|3=K32ML-D}}'''|| 32 || 0.088&nbsp;kW || {{convert|1003|m|ft|0|abbr=on}} || 23191 || {{coord|38|32|30.2|N|112|4|22.9|W|type:landmark_scale:2000|name=K32ML-D}}
+|-
+|| Rural [[Sevier County, Utah|Sevier County]]||'''{{FCC-LMS-Facility|59776|3=K15KT-D}}'''|| 15 || 0.01&nbsp;kW || {{convert|207|m|ft|0|abbr=on}} || 59776 || {{coord|38|30|44.1|N|111|47|3.5|W|type:landmark_scale:2000|name=K15KT-D}} || [https://www.sevierutah.net/departments/county_departments/tv/index.php Sevier County]
+|-
+|| [[Samak, Utah|Samak]]||'''{{FCC-LMS-Facility|167197|3=K32MZ-D}}'''|| 32 || 0.063&nbsp;kW || {{convert|-27|m|ft|0|abbr=on}} || 167197 || {{coord|40|37|56|N|111|15|36.6|W|type:landmark_scale:2000|name=K32MZ-D}} || [http://www.sprtv.org/summit/ Summit County]
+|-
+|| [[Scipio, Utah|Scipio]]<br>[[Holden, Utah|Holden]]||'''{{FCC-LMS-Facility|167924|3=K18MV-D}}'''|| 18 || 0.05&nbsp;kW || {{convert|171|m|ft|0|abbr=on}} || 167924 || {{coord|39|12|9.1|N|112|8|37.5|W|type:landmark_scale:2000|name=K18MV-D}} || [https://millardcounty.org/your-government/county-departments/television/ Millard County]
+|-
+|| [[Scofield, Utah|Scofield]]||'''{{FCC-LMS-Facility|167783|3=K33JI-D}}'''|| 33 || rowspan=2|0.006&nbsp;kW || {{convert|-86|m|ft|0|abbr=on}} || 167783 || {{coord|39|42|39.8|N|111|9|22.6|W|type:landmark_scale:2000|name=K33JI-D}} || rowspan=2|[https://www.carbon.utah.gov/freetv Carbon County]
+|-
+|| [[Spring Glen, Utah|Spring Glen]]||'''{{FCC-LMS-Facility|167787|3=K34PD-D}}'''|| 34 || {{convert|528|m|ft|0|abbr=on}} || 167787 || {{coord|39|31|48.8|N|111|3|5.6|W|type:landmark_scale:2000|name=K34PD-D}}
+|-
+|| [[Sigurd, Utah|Sigurd]]<br>[[Salina, Utah|Salina]]||'''{{FCC-LMS-Facility|167333|3=K08QC-D}}'''|| 8 || 0.115&nbsp;kW || {{convert|826|m|ft|0|abbr=on}} || 167333 || {{coord|38|52|37.2|N|111|52|34.2|W|type:landmark_scale:2000|name=K08QC-D}} || [https://www.sevierutah.net/departments/county_departments/tv/index.php Sevier County]
+|-
+|| [[St. George, Utah|St. George]]||'''{{FCC-LMS-Facility|167465|3=K23NY-D}}'''|| 23 || 0.2&nbsp;kW || {{convert|79|m|ft|0|abbr=on}} || 167465 || {{coord|37|3|48|N|113|34|26|W|type:landmark_scale:2000|name=K23NY-D}} || [[Nexstar Media Group]]
+|-
+|| [[Summit County, Utah|Summit County]]||'''{{FCC-LMS-Facility|63764|3=K24MU-D}}'''|| 24 || 0.309&nbsp;kW || {{convert|830|m|ft|0|abbr=on}} || 63764 || {{coord|40|51|17.8|N|111|28|46.7|W|type:landmark_scale:2000|name=K24MU-D}} || [http://www.sprtv.org/summit/ Summit County]
+|-
+|| [[Teasdale, Utah|Teasdale]]<br>[[Torrey, Utah|Torrey]]||'''{{FCC-LMS-Facility|167062|3=K15KU-D}}'''|| 15 || 0.072&nbsp;kW || {{convert|125|m|ft|0|abbr=on}} || 167062 || {{coord|38|16|59.7|N|111|30|38.8|W|type:landmark_scale:2000|name=K15KU-D}} || [[Wayne County, Utah|Wayne County]]
+|-
+|| [[Toquerville, Utah|Toquerville]]||'''{{FCC-LMS-Facility|70987|3=K31IS-D}}'''|| 31 || 0.22&nbsp;kW || {{convert|136|m|ft|0|abbr=on}} || 70987 || {{coord|37|17|21.9|N|113|16|36.8|W|type:landmark_scale:2000|name=K31IS-D}} || [[Nexstar Media Group]]
+|-
+|| [[Tropic, Utah|Tropic, etc.]]||'''{{FCC-LMS-Facility|168122|3=K32MT-D}}'''|| 32 || 0.09&nbsp;kW || {{convert|236|m|ft|0|abbr=on}} || 168122 || {{coord|37|42|40.9|N|112|4|39.4|W|type:landmark_scale:2000|name=K32MT-D}} || [[Garfield County, Utah|Garfield County]]
+|-
+|| [[Vernal, Utah|Vernal, etc.]]||'''{{FCC-LMS-Facility|182849|3=K30KM-D}}'''|| 30 || 0.17&nbsp;kW || {{convert|639|m|ft|0|abbr=on}} || 182849 || {{coord|40|21|3.1|N|109|9|47.5|W|type:landmark_scale:2000|name=K30KM-D}} || [[Uintah County, Utah|Uintah County]]
+|-
+|| [[Virgin, Utah|Virgin]]||'''{{FCC-LMS-Facility|70949|3=K13QK-D}}'''|| 13 || 0.01&nbsp;kW || {{convert|-1313|m|ft|0|abbr=on}} || 70949 || {{coord|37|13|23.9|N|113|12|42.8|W|type:landmark_scale:2000|name=K13QK-D}} || [[Nexstar Media Group]]
+|-
+|| [[Wanship, Utah|Wanship]]||'''{{FCC-LMS-Facility|167180|3=K36OV-D}}'''|| 36 || 0.114&nbsp;kW || {{convert|-267|m|ft|0|abbr=on}} || 167180 || {{coord|40|48|32.5|N|111|23|43.8|W|type:landmark_scale:2000|name=K36OV-D}} || [http://www.sprtv.org/summit/ Summit County]
+|-
+|| [[Washington, Utah|Washington]]||'''{{FCC-LMS-Facility|70995|3=K28EA-D}}'''|| 28 || 0.25&nbsp;kW || {{convert|1065|m|ft|0|abbr=on}} || 70995 || {{coord|37|9|14.9|N|113|53|2.8|W|type:landmark_scale:2000|name=K28EA-D}} || [[Nexstar Media Group]]
+|-
+|| [[Woodland, Utah|Woodland]]<br>[[Kamas, Utah|Kamas]]||'''{{FCC-LMS-Facility|167166|3=K08QD-D}}'''|| 8 || 0.041&nbsp;kW || {{convert|46|m|ft|0|abbr=on}} || 167166 || {{coord|40|34|0.6|N|111|14|34.7|W|type:landmark_scale:2000|name=K08QD-D}} || [http://www.sprtv.org/summit/ Summit County]
+|-
+|| [[Colorado City, Arizona|Colorado City, AZ]]||'''{{FCC-LMS-Facility|70973|3=K09SU-D}}'''|| 9 || 0.04&nbsp;kW || {{convert|101|m|ft|0|abbr=on}} || 70973 || {{coord|36|54|57.9|N|113|2|0.7|W|type:landmark_scale:2000|name=K09SU-D}} || [[Nexstar Media Group]] 
+|-
+|| [[Cortez, Colorado|Cortez, etc., CO]]||'''{{FCC-LMS-Facility|61471|3=K33QG-D}}'''|| 33 || 0.1&nbsp;kW || {{convert|428|m|ft|0|abbr=on}} || 61471 || {{coord|37|21|54.8|N|108|8|52.7|W|type:landmark_scale:2000|name=K33QG-D}} || [http://www.swcotv.org/ Southwest Colorado TV Translator Association]
+|-
+|| [[Malad, Idaho|Malad, ID]]||'''{{FCC-LMS-Facility|50361|3=K14RY-D}}'''|| 14 || 1.6&nbsp;kW || {{convert|-69|m|ft|0|abbr=on}} || 50361 || {{coord|42|4|49.7|N|112|12|31.8|W|type:landmark_scale:2000|name=K14RY-D}} || [[Oneida County, Idaho|Oneida County]] Translator District
+|-
+|| [[Mink Creek, Idaho|Mink Creek, ID]]||'''{{FCC-LMS-Facility|42893|3=K11WF-D}}'''|| 11 ||  0.1&nbsp;kW || {{convert|-22|m|ft|0|abbr=on}} || 42893 || {{coord|42|15|9.7|N|111|43|47.8|W|type:landmark_scale:2000|name=K11WF-D}} || [[Franklin County, Idaho|Franklin County]] TV District
+|-
+|| [[Montpelier, Idaho|Montpelier, ID]]||'''{{FCC-LMS-Facility|4391|3=K33DR-D}}'''|| 33 ||  0.09&nbsp;kW || {{convert|157|m|ft|0|abbr=on}} || 4391 || {{coord|42|23|21.7|N|111|23|7.7|W|type:landmark_scale:2000|name=K33DR-D}} || [[Bear Lake County, Idaho|Bear Lake County]] T.V. District
+|-
+| rowspan=2|[[Preston, Idaho|Preston, ID]]||'''{{FCC-LMS-Facility|22333|3=K31FR-D}}'''|| 31 || rowspan=2|1&nbsp;kW || {{convert|230|m|ft|0|abbr=on}} || 22333 || {{coord|42|7|29.7|N|111|46|32.8|W|type:landmark_scale:2000|name=K31FR-D}} || rowspan=2|[[Franklin County, Idaho|Franklin County]] TV District
+|-
+|'''{{FCC-LMS-Facility|125004|3=K42GN-D}}'''|| 42 || {{convert|325|m|ft|0|abbr=on}} || 125004 || {{coord|41|52|59.7|N|112|4|44.8|W|type:landmark_scale:2000|name=K42GN-D}}
+|-
+| rowspan=2|[[Elko, Nevada|Elko, NV]]||'''{{FCC-LMS-Facility|19405|3=K26OE-D}}'''|| 26 || 0.5&nbsp;kW || {{convert|572|m|ft|0|abbr=on}} || 19405 || {{coord|40|41|59.7|N|115|54|12.2|W|type:landmark_scale:2000|name=K26OE-D}} || rowspan=2|[https://www.elkocountynv.net/boards/tv_district_-_elko/index.php Elko Television District]
+|-
+|'''{{FCC-LMS-Facility|129068|3=K32GK-D}}'''|| 32 || 1&nbsp;kW || {{convert|308|m|ft|0|abbr=on}} || 129068 || {{coord|40|49|15.7|N|115|42|7.2|W|type:landmark_scale:2000|name=K32GK-D}}
+|-
+| [[Ely, Nevada|Ely, NV]]||'''{{FCC-LMS-Facility|72243|3=K34CM-D}}'''|| 34 || 0.796&nbsp;kW || {{convert|1007|m|ft|0|abbr=on}} || 72243 || {{coord|39|9|44.7|N|114|36|35|W|type:landmark_scale:2000|name=K34CM-D}} || rowspan=2|[http://whitepinetv.com/ White Pine Television District #1]
+|-
+|| [[Ely, Nevada|Ely, NV]]<br>[[McGill, Nevada|McGill, NV]]||'''{{FCC-LMS-Facility|72233|3=K07DU-D}}'''|| 7 || 0.015&nbsp;kW || {{convert|262|m|ft|0|abbr=on}} || 72233 || {{coord|39|15|52.8|N|114|53|38.1|W|type:landmark_scale:2000|name=K07DU-D}}
+|-
+| rowspan=2|[[Eureka, Nevada|Eureka, NV]]||'''{{FCC-LMS-Facility|185329|3=K17NV-D}}'''|| 17 || 0.3&nbsp;kW || {{convert|765|m|ft|0|abbr=on}} || 185329 || {{coord|39|26|58.7|N|115|59|55.2|W|type:landmark_scale:2000|name=K17NV-D}} || rowspan=2|[http://www.co.eureka.nv.us/TV%20District/TV_1.html Eureka County TV District]
+|-
+|'''{{FCC-LMS-Facility|185345|3=K23LF-D}}'''|| 23 || 0.1&nbsp;kW || {{convert|-85|m|ft|0|abbr=on}} || 185345 || {{coord|39|30|40.7|N|115|57|55.2|W|type:landmark_scale:2000|name=K23LF-D}}
+|-
+|| [[Lund, Nevada|Lund, NV]]<br>[[Preston, Nevada|Preston, NV]]||'''{{FCC-LMS-Facility|72235|3=K08CB-D}}'''|| 8 || 0.234&nbsp;kW || {{convert|308|m|ft|0|abbr=on}} || 72235 || {{coord|39|14|58.7|N|115|0|2|W|type:landmark_scale:2000|name=K08CB-D}} || [http://whitepinetv.com/ White Pine Television District #1]
+|-
+|| [[Overton, Nevada|Overton, NV]]||'''{{FCC-LMS-Facility|43317|3=K24NE-D}}'''|| 24 || 1.8&nbsp;kW || {{convert|134|m|ft|0|abbr=on}} || 43317 || {{coord|36|41|8.7|N|114|31|12.7|W|type:landmark_scale:2000|name=K24NE-D}} || [https://www.moapavalleytv.com/ Moapa Valley TV Maintenance District]
+|-
+|| [[Ruth, Nevada|Ruth, NV]]||'''{{FCC-LMS-Facility|72228|3=K07DV-D}}'''|| 7 || 0.008&nbsp;kW || {{convert|-33|m|ft|0|abbr=on}} || 72228 || {{coord|39|16|26.7|N|114|59|15|W|type:landmark_scale:2000|name=K07DV-D}} || [http://whitepinetv.com/ White Pine Television District #1]
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website}}
+*[http://www.metvutah.com/ MeTVUtah.com] - MeTV Utah official website
+*{{BIA|KTVX|TV|TV}}
+
+{{SLC TV}}
+{{NXST TV}}
+
+{{DEFAULTSORT:Ktvx}}
+[[Category:Television stations in Utah|TVX]]
+[[Category:ABC network affiliates]]
+[[Category:MeTV affiliates]]
+[[Category:Rewind TV affiliates]]
+[[Category:Heroes & Icons affiliates]]
+[[Category:Television channels and stations established in 1948]]
+[[Category:1948 establishments in Utah]]
+[[Category:Mass media in Salt Lake City]]
+[[Category:Nexstar Media Group]]

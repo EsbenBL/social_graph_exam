@@ -1,0 +1,113 @@
+{{Short description|American classical macroeconomist}}
+{{Use mdy dates|date=June 2012}}
+{{Infobox economist
+| name             = Robert Barro
+| school_tradition = [[New classical macroeconomics]]
+
+| image       =
+| image_size       =
+| caption    =
+| birth_date       = {{Birth date and age|1944|9|28|mf=y}}
+| birth_place      = [[New York City|New York]]
+| death_date       =
+| death_place      =
+| nationality      = [[United States]]
+| institution      = [[Harvard University]]
+| field            = [[Macroeconomics]]
+| alma_mater       = Harvard University <small>(PhD 1970)</small><br />[[California Institute of Technology]] <small>(B.S. 1965)</small>
+| doctoral_advisor = [[Zvi Griliches]]
+| academic_advisors=
+| doctoral_students= [[Zvi Hercowitz]]<br>[[Xavier Sala-i-Martin]]<ref>[http://www.columbia.edu/~xs23/papers/thesis.htm Sala-i-Martin, Xavier. On Growth and States. Ph.D. Dissertation, Harvard University, 1990]</ref><br>[[Xavier Gabaix]]<ref>[http://pages.stern.nyu.edu/~xgabaix/ Xavier Gabaix's Vita]</ref><br />[[George-Marios Angeletos]]<ref>[http://economics.mit.edu/faculty/angelet/cv1 Angeletos's CV]</ref><br>[[Emi Nakamura]]<ref>[http://www.columbia.edu/~en2198/cvenweb.pdf Nakamura's CV]</ref><br>[[Michael Kremer]]
+| notable_students =
+| influences       = 
+| influenced       = [[Gary Gorton]]<br />[[Alberto Alesina]]
+| contributions    = [[Ricardian equivalence|Ricardian equivalence hypothesis]]<br />[[Economic growth]]<br />[[Dynamic inconsistency|Time consistency]]
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = f | repec_id = pba251
+| spouse          = [[Rachel McCleary]]
+}}
+'''Robert Joseph Barro''' (born September 28, 1944) is an American [[macroeconomist]] and the [[Paul M. Warburg]] Professor of Economics at [[Harvard University]].<ref name="auto">{{Cite web|url=https://www.ineteconomics.org/research/experts/rbarro |title=Robert Barro |website=ineteconomics.org}}</ref> Barro is considered one of the founders of [[new classical macroeconomics]], along with [[Robert Lucas, Jr.]] and [[Thomas J. Sargent]].<ref>{{cite book |title=Productivity growth, inflation, and unemployment: The collected essays of Robert J. Gordon |editor=Solow, Robert |year=2004 |publisher=Cambridge University Press |location=New York |isbn=978-0-521-53142-9 |pages=226–227 }}</ref> He is currently a senior fellow at [[Stanford University]]'s [[Hoover Institution]] and co-editor of the influential ''[[Quarterly Journal of Economics]]''.<ref>{{Cite web|url=https://www.ineteconomics.org/research/experts/rbarro|title = Institute for New Economic Thinking}}</ref>
+
+==Academic career==
+Barro graduated with a B.S. in [[physics]] from the [[California Institute of Technology]] in 1965, where he learned under [[Richard Feynman]], but he realized he "wouldn't be close to the top in those fields."<ref>{{cite web|url=http://www.imf.org/external/pubs/ft/fandd/2007/09/people.htm |title=Topping the Charts: Prakash Loungani profiles Harvard macroeconomist Robert Barro |publisher=Imf.org |date=September 1, 2007 |access-date= June 5, 2012}}</ref> He then turned to economics and earned a PhD from Harvard University in 1970. He first reached wide notice with a 1974 paper, "Are Government Bonds Net Wealth?" It argued that under certain assumptions, present governmental borrowing would be matched by increased bequests to future generations to pay future taxes expected to pay down the government bonds; thus a lowering of current [[taxes]], financed by the issuance of [[government bonds]], would have no effect on the public's [[consumption (economics)|spending on consumer goods]].  The paper was in direct response to [[Alan Blinder]] and [[Robert Solow]]'s results, which had implied that the long term implications of government borrowing would be compensated for by the [[wealth effect]]. The paper is among the most cited in [[macroeconomics]]. Its implications of his [[Ricardian equivalence]] are still being debated.{{Citation needed|date=July 2009}}
+
+Barro collaborated with [[Herschel Grossman]] to produce the influential 1971 article "A General Disequilibrium Model of Income and Employment,"<ref>{{cite journal | last1=Barro | first1=Robert J.| first2= Herschel I. | last2= Grossman | year=1971 |title=A General Disequilibrium Model of Income and Employment| journal=American Economic Review | issue=1 | volume=61| pages=82–93}}</ref> which for many years held the distinction of being the most cited article published in the ''American Economic Review.''<ref>Spolaore (2008).</ref> The article explored the idea that [[Economic equilibrium#Disequilibrium|disequilibrium]] in one market can have spillover effects to another market, creating a distinction between notional demand and [[effective demand]]. Barro and Grossman expanded on their work and produced the classic textbook ''Money, Employment, and Inflation'' in 1976.<ref>Kolmar, 803.</ref>
+
+In 1976, he authored another influential paper, "[[Rational expectations]] and the role of [[monetary policy]]" in which he argued that information asymmetries would cause real effects as rational economic actors in response to uncertainty but not in response to expected monetary policy changes. In it and other essays, he investigated the real effects of monetary changes through which he could significantly contribute to the clarification of the exact circumstances of the validity of the [[policy-ineffectiveness proposition]]. While he has revisited the topic since then and critically appraised the paper, it was important in integrating the role of money into neoclassical economics and into the synthesis of general equilibrium and macroeconomic models.<ref>{{cite book |last=Galbács |first=Peter |title=The Theory of New Classical Macroeconomics. A Positive Critique |location=Heidelberg/New York/Dordrecht/London |publisher=Springer |year=2015 |isbn= 978-3-319-17578-2 |doi=10.1007/978-3-319-17578-2 |series=Contributions to Economics }}</ref>
+
+In 1983, he applied the [[information asymmetry]] argument to the role of central banks and concluded that central banks, to have credibility in inflation fighting, must be locked into inflation targets that they cannot violate to reduce unemployment. In the 1970s, economist [[Arthur Okun]] developed the concept of the [[Misery Index (economic)|Misery Index]], which [[Jimmy Carter]] publicized during his [[1976 United States presidential election|1976 presidential campaign]], and [[Ronald Reagan]] did the same in his [[1980 United States presidential election|1980 presidential campaign]]. Numerous sources incorrectly credit Barro with this because of the similarity of name with his own "Barro Misery Index." Barro's version first appeared in a 1999 ''[[BusinessWeek]]'' article.<ref>{{cite news |first=Robert |last=Barro |title=Reagan vs. Clinton: Who's the Economic Champ?  |url=http://www.businessweek.com/archives/1999/b3617053.arc.htm |work=BusinessWeek |date=February 22, 1999 }}</ref>
+
+His 1984 ''Macroeconomics'' textbook remains a standard for explaining the subject, and his 1995 book, with [[Columbia University]] economist [[Xavier Sala-i-Martin]], on ''Economic Growth'', is a widely cited and read graduate-level textbook on the theory and evidence concerning long-run economic growth. Barro's research in the 1990s was focused mainly on the theoretical and empirical determinants of growth: he gave fundamental contributions to the theory of endogenous growth, with particular attention to the links between innovation and public investment on one side and growth on the other side. He was a pioneer in the econometric analysis of the main factors associated with growth in the modern era.<ref>"[http://www.newmedia.ufm.edu/johnsonbarro Interview with Robert J. Barro]" at Francisco Marroquin University. Guatemala, May 2007</ref> He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1988.<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=American Academy of Arts and Sciences|access-date=May 17, 2011}}</ref>
+
+Another often-cited work is a 1988 paper that he coauthored with [[Gary Becker]], "A Reformulation of the Economic Theory of Fertility" published in the ''[[Quarterly Journal of Economics]]'', which is influential in thinking about "infinite time horizon" modelling.
+
+Subsequently, Barro began investigating the influence of religion and popular culture on political economy by working with his wife, [[Rachel McCleary]].
+
+Barro believes that the [[Keynesian multiplier]] is less than one. He believes that for every dollar the government borrows and spends, spending elsewhere in the economy falls by almost the same amount.<ref>{{cite news|last=Cassidy|first=John|title=The Demand Doctor|newspaper=The New Yorker|date=October 10, 2011}}</ref>
+
+Barro's work has been central to many of the economic and public policy debates of the last 30 years, including business cycle theory, growth theory, the [[neoclassical synthesis]] and public policy. Barro is doctor ''honoris causa'' from [[Universidad Francisco Marroquin]].<ref>{{Cite web | url=http://www.newmedia.ufm.edu/gsm/index.php?title=Doctorado_Honor%C3%ADfico_a_Robert_J._Barro_durante_el_Acto_de_Graduaci%C3%B3n_(2007) | title=Doctorado Honorífico a Robert J. Barro durante el Acto de Graduación (2007)}}</ref> The [[Research Papers in Economics]] project ranked him as the fifth most influential economist in the world, as of March 2016, based on his academic contributions.<ref>{{Cite web | url=https://ideas.repec.org/top/old/1603/top.person.alldetail.html | title=Economist Rankings at IDEAS}}</ref>
+
+Finally, Barro has been an outspoken opponent of stimulus spending, calling Obama's stimulus bill "garbage" and "the worst bill since the 1930s."<ref>{{cite news|last=Barro |first=Robert J. |url=https://www.wsj.com/articles/SB10001424052748704751304575079260144504040 |title="The Stimulus Evidence One Year On" Economist Robert Barro, Harvard University, WSJ |work=The Wall Street Journal |date=February 23, 2010 |access-date= June 5, 2012}}</ref><ref>{{cite news|last=Barro |first=Robert J. |url=https://www.wsj.com/articles/SB10001424052748704471504574440723298786310 |title="Stimulus Spending Doesn't Work" Economist Robert Barro, Harvard University, WSJ |work=The Wall Street Journal |date=October 1, 2009 |access-date= June 5, 2012}}</ref><ref>{{cite news|url=https://www.forbes.com/2009/02/19/milton-friedman-keynes-opinions-columnists_paul_samuelson.html |title=Paul Samuelson Vs. Milton Friedman |work=Forbes |date=February 19, 2009 |access-date= June 5, 2012 |first=Peter |last=Robinson}}</ref>
+
+==Personal life==
+Robert Barro is married to [[Rachel McCleary]]. Together they have made critical contributions to the field of religion and economics. McCleary holds a doctorate from the University of Chicago and teaches at Harvard. Barro has four children: Jennifer, Lisa, Jason, and [[Josh Barro|Josh]], who is a journalist at biweekly magazine ''[[New York (magazine)|New York]]''.<ref>{{cite news|title=Josh Barro|newspaper=KCRW|url=https://www.kcrw.com/people/josh-barro|access-date=13 October 2020}}</ref>
+
+== Selected bibliography ==
+
+=== Books ===
+* {{cite book | last = Barro | first = Robert J. | title = Macroeconomics | publisher = Wiley | location = New York | year = 1984 | isbn = 978-0-471-87407-2 | url-access = registration | url = https://archive.org/details/macroeconomics00barr }}
+* {{cite book | last1 = Barro | first1 = Robert J. | last2 = Sala-i-Martin | first2 = Xavier | author-link2 = Xavier Sala-i-Martin |title=Economic growth |year=2003 |publisher=[[MIT Press]] |location= Massachusetts | edition = 2nd |isbn= 9780262025539}}
+*Barro, Robert J.; Chu, Angus C.; Cozzi, Guido. (2017) ''Intermediate Macroeconomics.'' Cheriton House, North Way, UK: Cengage Learning EMEA. {{ISBN|978-1-4737-2509-6}}.
+
+=== Articles ===
+* {{cite journal | last1 = Barro | first1 = Robert J. | title = Are government bonds net wealth? | journal = [[Journal of Political Economy]] | volume = 82 | issue = 6 | pages = 1095–1117 | date = November 1974 | jstor = 1830663 | doi=10.1086/260266| s2cid = 154705295 | url = https://dash.harvard.edu/bitstream/handle/1/3451399/Barro_AreGovernment.pdf?sequence=4 }}
+* {{cite journal | last1 = Barro | first1 = Robert J. | title = Rational expectations and the role of monetary policy | journal = Journal of Monetary Economics | volume = 2 | issue = 1 | pages = 1–32 | doi = 10.1016/0304-3932(76)90002-7 | date = 1976 }}
+* {{Cite journal | last1 = Barro | first1 = Robert J. | title = The left and democracy: Recent debates in Latin America | journal = [[Telos (journal)|Telos]] | volume = 1986 | issue = 68 | pages = 49–70 | doi = 10.3817/0686068049 | date = 20 June 1986 | s2cid = 147265665 }}
+* {{cite journal | last1 = Barro | first1 = Robert J. | last2 = Becker | first2 = Gary S. | author-link2 = Gary Becker | title = A reformulation of the economic theory of fertility | journal = [[Quarterly Journal of Economics]] | volume = 103 | issue = 1 | pages = 1–25 | doi = 10.2307/1882640  | date = 1988 | jstor = 1882640 | pmid = 11617986 | citeseerx = 10.1.1.334.5711 }}
+* {{Cite journal | last1 = Barro | first1 = Robert J. | title = Economic growth in a cross section of countries | journal = [[Quarterly Journal of Economics]] | volume = 106 | issue = 2 | pages = 407–443 | doi = 10.2307/2937943  | date = May 1991 | jstor = 2937943 | citeseerx = 10.1.1.312.3126 }}
+* {{Cite journal | last1 = Barro | first1 = Robert J. | title = Inequality and growth in a panel of countries | journal = [[Journal of Economic Growth]] | volume = 5 | issue = 1 | pages = 5–32 | doi = 10.1023/A:1009850119329 | date = March 2000 | s2cid = 2089406 }}
+* {{cite journal | last1 = Barro | first1 = Robert J. | last2 = Redlick | first2 = Charles J. | title = Macroeconomic effects from government purchases and taxes | journal = [[Quarterly Journal of Economics]] | volume = 126 | issue = 1 | pages = 51–102 | doi = 10.1093/qje/qjq002 | date = 2011 | citeseerx = 10.1.1.207.1087 | s2cid = 16036052 }}
+* {{cite journal
+| last1      = Barro
+| first1     = Robert J.
+| date       = June 14, 2004
+| title      = The Liberal Media: It's No Myth
+| url        = https://scholar.harvard.edu/barro/files/04_0614_liberalmedia_bw.pdf
+| journal    = Scholar.Harvard.edu
+}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{wikiquote}}
+* [https://scholar.harvard.edu/barro/home Barro's Harvard Professor Webpage]
+* [http://www.econtalk.org/archives/2006/07/an_interview_wi_1.html Podcast featuring Barro] Barro discusses growth on [[EconTalk]]
+* [https://ideas.repec.org/f/pba251.html Profile] and [http://econpapers.repec.org/RAS/pba251.htm Papers] at [[Research Papers in Economics]]/RePEc
+* [http://www.imf.org/external/pubs/ft/fandd/2007/09/people.htm Topping the Charts] Article on Barro from the IMF
+* [https://web.archive.org/web/20110501185429/https://www.ufm.edu/cms/es/honorary-doctoral-degrees Honorary Doctoral Degrees], [[Universidad Francisco Marroquín]]
+* [http://newmedia.ufm.edu/gsm/index.php/Listados:Robert_Barro Audiovisual Media], NewMedia [[Universidad Francisco Marroquín]]
+* {{cite web |last=Roberts |first=Russ |title=Robert Barro Podcasts |url=http://www.econtalk.org/archives/_featuring/robert_barro/ |work=[[EconTalk]] |publisher=[[Library of Economics and Liberty]] |author-link=Russ Roberts}}
+
+{{Neoclassical economists}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Barro, Robert}}
+[[Category:1944 births]]
+[[Category:Living people]]
+[[Category:Scientists from New York City]]
+[[Category:Economists from New York (state)]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Macroeconomists]]
+[[Category:New classical economists]]
+[[Category:California Institute of Technology alumni]]
+[[Category:Harvard Graduate School of Arts and Sciences alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Economics journal editors]]
+[[Category:National Bureau of Economic Research]]

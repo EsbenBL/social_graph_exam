@@ -1,0 +1,106 @@
+{{multiple issues|
+{{primary sources|date=September 2017|reason=apart from general quotes about Muth, the only apparent sources are the primary sources that are being described}}
+{{citation style|date=September 2017|reason='ref' footnotes would be preferable}}
+{{more citations needed|date=September 2017|reason=no specific facts are cited to specific sources}}
+}}
+{{Infobox economist
+| name             = John Muth
+| school_tradition = [[Carnegie School]]
+| image            =
+| image_size       =
+| caption          =
+| birth_date       = {{Birth date|1930|09|27}}
+| birth_place      =
+| death_date       = {{Death date and age|2005|10|23|1930|09|27}}
+| death_place      = [[Key West]], [[Florida]]
+| nationality      = [[United States]]
+| institution      = [[Carnegie Mellon University]], [[Michigan State University]], [[Indiana University]]
+| field            = [[Mathematical economics]]
+| alma_mater       = Carnegie Mellon University
+| influences       = 
+| influenced       = [[Robert Lucas, Jr.]], [[Finn E. Kydland]], [[Edward C. Prescott]], [[Neil Wallace]], [[Thomas J. Sargent]]
+| doctoral_advisor  = [[Herbert A. Simon]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| contributions    =
+| awards           = [[Alexander Henderson Award]] (1954)
+| signature        = <!-- file name only -->
+| repec_prefix = f | repec_id = pmu417
+}}
+
+'''John Fraser Muth''' ({{IPAc-en|m|j|uː|θ}}; September 27, 1930 – October 23, 2005) was an American [[economist]]. He is "the father of the [[rational expectations]] revolution in economics", primarily due to his article "Rational Expectations and the Theory of Price Movements" from 1961.
+
+Muth earned his [[Ph.D.]] in mathematical economics from [[Carnegie Mellon University]], and was in 1954 the first recipient of the [[Alexander Henderson Award]]. He was affiliated with Carnegie Mellon as a research associate from 1956 until 1959, as an assistant professor from 1959 to 1962, and as an associate professor without tenure from 1962 to 1964. He was a full professor at Michigan State University from 1964 to 1969 and a full professor at Indiana University from 1969 until his retirement in 1994.
+
+Muth asserted that expectations "are essentially the same as the predictions of the relevant economic theory." Although he formulated the [[rational expectations]] principle in the context of microeconomics it has subsequently become associated with macroeconomics and the work of [[Robert Lucas, Jr.]], [[Finn E. Kydland]], [[Edward C. Prescott]], [[Neil Wallace]], [[Thomas J. Sargent]], and others.
+
+==Work with Holt, Modigliani, and Simon==
+{{close paraphrasing|section|source=[https://books.google.com/books?vid=ISBN0521479398&pg=PA1 ''Rational Expectations'', 2nd ed. (1996), by Steven M. Sheffrin]|free=no|talk=Un-cited usage?|date=September 2017}}
+Two divergent approaches to economic modeling, which have later become cornerstones of modeling of economic systems, originated at the [[Graduate School of Industrial Administration]] (GSIA) at Carnegie Mellon in the late 1950s and early 1960s. At the same time as John Muth was developing the concept of rational expectations, [[Herbert A. Simon]] had been refining his ideas on [[bounded rationality]], emphasizing people's limited computational abilities.
+
+Together with their two colleagues at GSIA [[Charles C. Holt]] and [[Franco Modigliani]], Muth and Simon collaborated on ''Planning Production, Inventories, and Work Force'' (1960), a book on problems of production scheduling and inventory management for the firm. Their goal was to derive tractable, operational rules that could easily be applied in practice. Rather than a coincidence that the two apparently contradictory approaches to economic modeling were developed at GSIA at the same time, it is more likely{{According to whom|date=June 2010}} that fruitful interaction in the quest to answer a common set of problems led the two researchers to two different solutions.
+
+In an earlier work, Herb Simon had shown that with [[quadratic relation|quadratic]] costs and under a certain set of assumptions about the [[probability distribution]]s, optimal [[decision rule]]s for production and inventories would be [[linear functions]] of the variables describing the state. In his model, firms only needed to take into account the ''[[expected value]]'' and ignore all higher [[Moment (mathematics)|moments of the probability distribution]] of future sales. This result, known as ''[[certainty equivalence]]'', drastically reduces the computational burden on a representative decision maker.
+
+Simon's result that decision makers only focus on ''expected values'' of [[stochastic variable]]s was very sensitive to the assumed structure of the problem, hence indirectly on the formulation of expectations. This lack of a general theory of expectations was an unsatisfactory state of affairs and proved to be key in Muth's approach to solve the problem which has often been termed{{By whom|date=June 2010}} interaction between expectations and reality. In his article from 1961, Muth writes: "To make dynamic economic models complete, various expectational formulas have been used. There is, however, little evidence to suggest that the presumed relations bear a resemblance to the way the economy works."
+
+==Rationalization of Friedman's adaptive expectations model==
+[[Phillip D. Cagan|Phillip Cagan]], [[Milton Friedman]] and others used the ''ad hoc'' updating rule which they labeled [[adaptive expectations]] to forecast the hidden state ''y*'' (e.g., permanent income). In a 1960 paper, Muth answered the question: for what stochastic process for ''y'' will adaptive expectations as postulated by Cagan and Friedman be the optimal forecast of ''y*''. Muth's approach to find recursive optimal linear forecast of a "hidden" state vector, ''x'', given an "observer", ''y'' is very similar to the [[Kalman filter]], presented by [[Rudolf Kálmán]] in his paper from the same year.
+
+In his paper "Optimal Properties of Exponentially Weighted Forecasts", which was published in the ''[[Journal of the American Statistical Association]]'' in 1960, Muth rationalized Friedman's adaptive expectations model for permanent income. He did this by reverse engineering a stochastic process for income for which Cagan's expectation formula equals a mathematical expectation of future values conditioned on the infinite history of past incomes. Among Muth's insights was that the stochastic process being forecast should dictate both the distributed lag and the conditioning variables that people use to forecast the future.
+
+==Hypothesis of rational expectations==
+In "Rational Expectations and the Theory of Price Movements", published in 1961, Muth put forward his hypothesis, in contrast to Simon, that "expectations, since they are informed predictions of future events, are essentially the same as the predictions of the relevant economic theory." Muth continued, "At the risk of confusing this purely descriptive hypothesis with a pronouncement as to what firms ought to do, we call such expectations ''rational''."
+
+{{Quote|Muth's notion was that the professors [of economics], even if correct in their model of man, could do no better in predicting than could the hog farmer or steelmaker or insurance company. The notion is one of intellectual modesty.... The common sense is "rationality": therefore Muth called the argument "rational expectations".| {{cite book
+ | last = McCloskey
+ | first = Deirdre N.
+ | author-link = Deirdre N. McCloskey
+ | title = The Rhetoric of Economics
+ | publisher = Univ of Wisconsin Press
+ | year = 1998
+ | edition = 2
+ | isbn = 978-0-299-15814-9
+ | pages = 53
+}}
+}}
+
+==Legacy==
+Muth's works influenced almost every area of economic research into dynamic problems.
+
+{{Quote|Of course we knew about [rational expectations]. Muth was a colleague of ours [in the early 1960s]. We just didn't think it was important. The hypothesis was more or less buried during the '60s. [[Kenneth Arrow|Arrow]] used it in his paper on learning-by-doing in the '60s. [[Edward C. Prescott|Prescott]] and I used it in that paper of ours on investment. People were aware of it, but I didn't understand then how fundamental a difference it made econometrically. I didn't realize that if you took it seriously you had to rethink the whole question of testing and estimation. I guess no one else did either, except for Muth.|From the interview with [[Robert Lucas, Jr.|Robert E. Lucas]] by Arjo Klamer, published in ''Conversations with economists'', 1983, {{ISBN|0-86598-146-9}}.}}
+
+{{Quote|It must be quite an experience to write papers that radical and have people just pat you on the head and say 'That's interesting,' and nothing happens.|From the interview with [[Robert Lucas, Jr.|Robert E. Lucas]] by Arjo Klamer, published in ''Conversations with economists'', 1983, {{ISBN|0-86598-146-9}}.}}
+
+{{Quote|Muth's role in the history of economics is unusual. Like [[Hermann Heinrich Gossen]], he became famous for one idea, he provided the analytical key to developments that, in the jargon of scientific journalism, were described as revolutionary, and he was virtually ignored by his immediate contemporaries. However, whereas Gossen had no influence on those developments, his key results being independently rediscovered by [[William Stanley Jevons|Jevons]] and [[Léon Walras|Walras]], the rational expectations economics of the 1970s and 1980s was a direct outgrowth of Muth's seminal idea. In fact, Muth's contribution is one of the relatively few instances in which there is no indication that the history of economics would have taken about the same course in its absence. It was a novel and ingenious idea, it was not "in the air," and no multiple discovery has yet come to light.| {{cite book
+ | last = Niehans
+ | first = Jürg
+ | title = A History of Economic Theory
+ | publisher = [[The Johns Hopkins University Press]]
+ | year = 1990
+ |page=509
+ | isbn = 0-8018-3834-7 }}
+}}
+
+==Major works==
+* Charles C. Holt, Franco Modigliani, John F. Muth, and Herbert A. Simon (1960). ''Planning Production, Inventories, and Work Force''.
+* John F. Muth. (1960). "Optimal Properties of Exponentially Weighted Forecasts", ''Journal of the American Statistical Association'', '''55'''(290), pp.&nbsp; 299–306.
+* John F. Muth. (1961). "Rational Expectations and the Theory of Price Movements", ''Econometrica'' '''29''', pp.&nbsp;315–335.
+* {{cite book| title=Industrial scheduling | first1=John F. | last1=Muth <!-- authorlink=John Muth --> | first2=Gerald L. | last2=Thompson | authorlink2=Gerald L. Thompson | first3=Peter R. (Collaborator) |last3=Winters|year=1963|publisher=Prentice-Hall|location=Englewood Cliffs, N.J.|series=Prentice-Hall international series in management }}
+
+==External links==
+* {{MathGenealogy |id=131957 }}
+* {{aut|Ike Brannon}}, [https://www.scribd.com/doc/77459396/Bannon-John-F-Muth-1930-2005 Remembering the Man Behind Rational Expectations], obituary of John F. Muth
+
+{{Authority control}}
+
+{{DEFAULTSORT:Muth, John F.}}
+[[Category:1930 births]]
+[[Category:2005 deaths]]
+[[Category:New classical economists]]
+[[Category:20th-century American economists]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Carnegie Mellon University alumni]]
+[[Category:Probability theorists]]

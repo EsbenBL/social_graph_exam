@@ -1,0 +1,82 @@
+{{BLP sources|date=May 2010}}
+{{Infobox scientist
+| native_name = 
+| native_name_lang = 
+| image = <!--(filename only, i.e. without "File:" prefix)-->
+| imagesize = 
+| alt = 
+| caption = 
+| birth_name = James Martin Daly
+| birth_date = {{birth date |1944|11|15}}
+| birth_place = [[Toronto]], Ontario, Canada
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names = 
+| residence = 
+| citizenship = 
+| nationality = 
+| fields = [[Evolutionary psychology]]
+| workplaces = [[McMaster University]]
+| patrons = 
+| education = 
+| alma_mater = [[McGill University]], [[University of Toronto]]
+| thesis_title = Behavioural development, early experiences, and maternal behaviour in golden hamsters (mesocricetus auratus)
+| thesis_url = http://www.worldcat.org/title/behavioural-development-early-experiences-and-maternal-behaviour-in-golden-hamsters-mesocricetus-auratus/oclc/223325724&referer=brief_results
+| thesis_year = 1971
+| doctoral_advisor = Jerry A. Hogan
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for = 
+| influences = 
+| influenced = 
+| awards = Fellow of the [[Royal Society of Canada]], lifetime achievement award from the [[Human Behavior and Evolution Society]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse = Margo Wilson (deceased)
+| partner = <!--(or | partners = )-->
+| children = 
+| signature = <!--(filename only)-->
+| signature_alt = 
+| website = <!--{{URL|www.example.com}}-->
+| footnotes = 
+}}
+'''Martin Daly''' is an Emeritus Professor of Psychology at [[McMaster University]] in [[Hamilton, Ontario]], Canada, and author of many influential papers on [[evolutionary psychology]]. His current research topics include an evolutionary perspective on risk-taking and interpersonal violence, especially male-male conflict and family violence. He and his wife, the late [[Margo Wilson]], were formerly editors-in-chief of the journal ''[[Evolution and Human Behavior]]'' and presidents of the [[Human Behavior and Evolution Society]].
+
+He was named a Fellow of the [[Royal Society of Canada]] in 1998.<ref>Danelle D'Alvise (April 9, 2013) [https://dailynews.mcmaster.ca/articles/mcmaster-celebrates-its-fellows-of-the-royal-society-of-canada/ McMaster Celebrates Its Fellows of the Royal Society of Canada] </ref>
+
+Daly is one of the main researchers of the [[Cinderella effect]].<ref>Mindelle Jacobs (July 4, 2010) ''[http://www.edmontonsun.com/comment/columnists/2010/07/02/14594536.html The Cinderella effect is not just a fairy tale]'', [[Edmonton Sun]]</ref><ref>{{cite web|url=http://v1.theglobeandmail.com/servlet/story/LAC.20091016.OBWILSONART2127/BDAStory/BDA/deaths|title=Researcher shed light on evolutionary roots of homicide, jealousy and domestic violence|author=Belluz, Julia|author-link=Julia Belluz|date=16 October 2009|work=The Globe and Mail|access-date=2 November 2014}}</ref>
+
+== Books ==
+
+(All books except ''Killing the Competition''  co-authored with [[Margo Wilson]])
+
+* ''Sex, Evolution, and Behaviour'' (1978)
+* ''Homicide'' (1988)
+* ''The truth about Cinderella:  A Darwinian view of parental love.'' (1998)
+* ''Killing the Competition: Economic Inequality and Homicide'' (2016)
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://www.martindaly.ca/ Personal web site]
+* [http://journals.elsevierhealth.com/periodicals/ens Evolution & Human Behavior]
+* [https://web.archive.org/web/20141103043827/http://anthropology.missouri.edu/sites/default/files/cv/daly_cv.pdf Curriculum vitae]
+* {{Google Scholar id|1BUIq-UAAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Daly, Martin}}
+[[Category:1944 births]]
+[[Category:Living people]]
+[[Category:Evolutionary psychologists]]
+[[Category:Human evolution theorists]]
+[[Category:Human Behavior and Evolution Society]]
+[[Category:Canadian psychologists]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:McMaster University faculty]]
+[[Category:Scientists from Toronto]]
+
+
+{{Evolutionary psychology}}
+{{psychologist-stub}}

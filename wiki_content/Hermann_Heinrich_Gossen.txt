@@ -1,0 +1,67 @@
+{{Infobox economist
+| name             = Hermann Heinrich Gossen
+| school_tradition =
+
+| caption    =
+| birth_date       = {{Birth date|1810|09|07|df=y}}
+| birth_place      = [[Düren]]
+| death_date       = {{Death date and age|1858|02|13|1810|09|07}}
+| death_place      = [[Cologne]]
+| nationality      = [[Prussia]]n
+| institution      =
+| field            = [[Microeconomics]]
+| alma_mater       = [[University of Bonn]]
+| influences       =
+| influenced       =
+| contributions    = General theory of [[marginal utility]]<br>[[Gossen's laws]]
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix =  | repec_id =
+}}
+'''Hermann Heinrich Gossen''' (7 September 1810 – 13 February 1858) was a [[Prussia]]n economist who is often regarded as the first to elaborate a general theory of [[marginal utility]].
+
+==Life and work==
+Gossen studied in [[University of Bonn|Bonn]], then worked in the Prussian administration until retiring in 1847, after which he sold insurance until his death.
+
+Prior to Gossen, a number of theorists, including [[Gabriel Cramer]],<ref>Cramer, Garbriel; letter of 21 May 1728 to [[Nicolaus I Bernoulli|Nicolaus Bernoulli]] ([http://www.cs.xu.edu/math/Sources/Montmort/stpetersburg.pdf#search=%22Nicolas%20Bernoulli%22 excerpted in PDF] {{webarchive|url=https://web.archive.org/web/20080909221757/http://www.cs.xu.edu/math/Sources/Montmort/stpetersburg.pdf |date=2008-09-09 }}).</ref> [[Daniel Bernoulli]],<ref>{{cite journal |last1=Bernoulli |first1=Daniel |title=Specimen theoriae novae de mensura sortis |journal=Commentarii Academiae Scientiarum Imperialis Petropolitanae [Memoirs of the Imperial Academy of Science at St. Petersburg] |date=1738 |volume=5 |pages=175–192 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015084468647;view=1up;seq=185 |trans-title=Exposition of a new theory on the measurement of risk |language=Latin, French}}; English translation: {{cite journal |last1=Bernoulli |first1=Daniel |title=Exposition of a new theory on the measurement of risk |journal=Econometrica |date=January 1954 |volume=22 |issue=1 |pages=23–36 |doi=10.2307/1909829|jstor=1909829 }}</ref> [[William Forster Lloyd]],<ref>Lloyd, William Forster; ''Lectures on Population, Value, Poor Laws and Rent'' (1837).</ref> [[Nassau William Senior]],<ref>{{cite book |last1=Senior |first1=Nassau William |title=An Outline of the Science of Political Economy |date=1836 |publisher=W. Clowes and Sons |location=London, England |url=https://books.google.com/books?id=yuwCPVww_j8C&pg=PA125}}</ref> and [[Jules Dupuit]]<ref>Dupuit, Jules; “De la mesure de l’utilité des travaux publics”, ''Annales des ponts et chaussées'', Second series, 8 (1844).</ref> had employed or asserted the significance of some notion of [[marginal utility]].  But Cramer, Bernoulli, and Dupuit had focussed upon specific problems, Lloyd had not presented any application, and if Senior actually employed to the development of more general theory<ref>White, Michael V; “Diamonds Are Forever(?): Nassau Senior and Utility Theory” in ''The Manchester School of Economic &amp; Social Studies'' 60 (1992) #1 (March).</ref> then he did so in language that caused the application to be missed by most readers.
+
+Gossen's book ''Die Entwickelung der Gesetze des menschlichen Verkehrs, und der daraus fließenden Regeln für menschliches Handeln'' (''The Development of the Laws of Human Intercourse and the Consequent Rules of Human Action''), published in [[Braunschweig]] in 1854, very explicitly developed general theoretical implications from a theory of marginal utility, to the extent that [[William Stanley Jevons]] (one of the preceptors of the [[Marginal utility#Marginal Revolution|Marginal Revolution]]) was later to remark that {{Quote|[I]t is quite apparent that Gossen has completely anticipated me as regards the general principles and method of the theory of Economics. So far as I can gather, his treatment of the fundamental theory is even more general and thorough than what I was able to scheme out.<ref>{{cite book |last1=Jevons |first1=William Stanley |title=The Theory of Political Economy |date=1879 |publisher=Macmillan and Co. |location=London, England |page=xxxviii |edition=2nd |url=https://books.google.com/books?id=aYcBAAAAQAAJ&pg=PR38}}</ref>}}
+
+However, ''Die Entwickelung'' was poorly received, as economic thought in Germany was then dominated by the [[Historical school of economics|Historical School]] and as Gossen wrote it in a dense, heavily mathematical style which was quite unpopular at the time. Although Gossen himself declared that his work was comparable in its significance to the innovations of [[Nicolaus Copernicus|Copernicus]], few others agreed; most copies of the book were destroyed and, today, only a few original copies exist.
+
+In the early 1870s, William Stanley Jevons [[William Stanley Jevons]], [[Carl Menger]], and [[Léon Walras]] each reintroduced the theory of marginal utility. During discussions of which of those three had been the first to formulate the theory, a colleague of Jevons discovered a copy of Die Entwicklung. However, the discovery (in 1878) came several years after the three principals in the Marginal Revolution had published their own books, and significant differences with Gossen’s original contributions were overlooked.
+A century later (1983) Gossen’s book was translated into English. In his introduction to the book, [[Nicholas Georgescu-Roegen]], a prominent American economist (Distinguished Fellow of the American Economics Association), strongly supported Gossen’s vision, which stands in opposition to the neoclassical orthodoxy that utility (satisfaction) is properly identified with consumables in basic (utility) theory rather than consumption activity:
+
+{{Quote|Given that the only certain fact is the intensity of pleasure felt at an instant of time, the only epistemologically sound approach is to take intensity as the primary concept. ([1854] 1983, lxxxi [See "Further reading" below.])}}
+
+Georgescu-Roegen also extended Gossen’s behavioral formulation by introducing leisure in addition to production and consumption activities.
+
+Gossen was among the first economists to argue that a centrally planned economy was unworkable:<ref>See:
+*  {{cite book | author = Hermann Heinrich Gossen | title = Entwickelung der Gesetze des menschlichen Verkehrs, und der daraus fließenden Regeln für menschliches Handeln |trans-title=Development of the laws of human intercourse, and the rules following therefrom for human action | location = Braunschweig, (Germany) | publisher = Friedrich Vieweg und Sohn | date = 1854 | page = 231 | url = https://books.google.com/books?id=BzFGAAAAYAAJ&pg=PA231 }}
+*  {{cite book | author = Ludwig von Mises with J. Kahane, trans. | title = Socialism: An Economic and Sociological Analysis | location = Indianapolis, Indiana, USA | publisher = Liberty Fund | date = 1981 | page = 117 }}</ref>
+
+<blockquote>Original:  ''" … nur durch Feststellung des Privateigenthums der Maßstab gefunden wird zur Bestimmung der Quantität, welche den Verhältnissen angemessen am Zweckmäßigsten von jeden Gegenstand zu produciren ist.  Darum würde denn die von Communisten projectirte Centralbehörde zur Vertheilung der verschiedenen Arbeiten und ihrer Belohnung sehr bald die Erfahrung machen, daß sie sich eine Aufgabe gestellt habe, deren Lösung die Kräfte einzelner Menschen weit übersteigt."''</blockquote>
+
+<blockquote>''Translation:''  " … only through the establishment of private property is to be found the measure for determining the quantity of each commodity which it would be best to produce under given conditions.  Therefore, the central authority [that's] proposed by the communists for the distribution of the various tasks and their reward, would very soon find that it had undertaken a task the solution of which far exceeds the abilities of individual men."</blockquote>
+
+==See also==
+* [[Scarcity]]
+* [[Marginalism]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Gossen, Hermann Heinrich; ''Die Entwickelung der Gesetze des menschlichen Verkehrs, und der daraus fließenden Regeln für menschliches Handeln'' (1854).  Translated into English as ''The Laws of Human Relations and the Rules of Human Action Derived Therefrom'' (1983) MIT Press, {{ISBN|0-262-07090-1}}. Reproduced by Google books in German.
+* Klaus Hagendorf: ''[https://ssrn.com/abstract=1615522 A Critique of Gossen's Fundamental Theorem of the Theory of Pleasure]''
+
+==External links==
+* {{Internet Archive author |sname=Hermann Heinrich Gossen}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gossen, Hermann Heinrich}}
+[[Category:1810 births]]
+[[Category:1858 deaths]]
+[[Category:German economists]]
+[[Category:University of Bonn alumni]]

@@ -1,0 +1,46 @@
+{{short description|American economist}}
+{{Infobox economist
+| name             = Philip J. Reny
+| school_tradition =
+| color            =
+| image       =
+| birth_date       =
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = [[Canada]]
+| institution      = [[University of Chicago]]
+| field            = [[Economics]]
+| alma_mater       = [[Princeton University]], [[University of Western Ontario]], [[Carleton University]]
+| influences       =
+| influenced       =
+| contributions    =
+| awards           =
+| repec_prefix = e  | repec_id = pre196
+}}
+
+'''Philip J. Reny''' is the Hugo F. Sonnenschein Distinguished Service Professor in Economics and in the College at the [[University of Chicago]]. Reny is known as an economic theorist and perhaps is best known for the textbook ''Advanced microeconomic theory'' written jointly with [[Geoffrey A. Jehle]]. He is a member of The American Academy of Arts and Sciences (since 2015), and was the Head Editor of [[Journal of Political Economy]].<ref>[https://economics.uchicago.edu/directory/philip-j-reny University of Chicago:Department of Economics: Philip J. Reny]</ref><ref>[http://www.press.uchicago.edu/journals/jpe/board.html?journal=jpe Journal of Political Economy: Editors]</ref>  In 1996, Reny became a fellow of the Econometric Society.  He has also been a charter member of the Game Theory Society since 1999, and a fellow of the Society for the Advancement of Economic Theory starting in 2012.<ref>{{Cite web | url=https://economics.uchicago.edu/directory/philip-j-reny | title=Philip J. Reny &#124; University of Chicago Department of Economics &#124; the University of Chicago}}</ref>
+
+==Selected publications==
+* Jehle, G. A., & Reny, P. J. (2001). ''Advanced microeconomic theory''. Boston: Addison-Wesley. {{isbn|978-0-273-73191-7}}
+* Reny, Philip J. (1992) "Rationality in extensive-form games." ''The Journal of Economic Perspectives''  103–118.
+* Reny, Philip J. (1999) "On the existence of pure and mixed strategy Nash equilibria in discontinuous games." ''Econometrica'' 67.5 1029–1056.
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [https://economics.uchicago.edu/directory/philip-j-reny University of Chicago: Philip J. Reny's homepage]
+*{{cite web|title= Philip J. Reny|url=https://econpapers.repec.org/RAS/pre196.htm|publisher=[[EconPapers]]}}
+*{{Google Scholar id|CmlYxoIAAAAJ}}
+*{{cite web|title= Philip Reny|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Philip+Reny%22+&acc=off&wc=on&fc=off&group=none|publisher=[[JSTOR]]}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Reny, Philip J.}}
+[[Category:21st-century American economists]]
+[[Category:University of Chicago faculty]]
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]

@@ -1,0 +1,104 @@
+{{Short description|American economist}}
+{{Multiple issues|
+{{tone|date=November 2012}}
+{{BLP sources|date=November 2012}}
+}}<br />{{Infobox scientist
+|image = 
+| name = Arnold Harberger
+| birth_date = {{Birth date and age|1924|7|27}}
+| birth_place = [[Newark, New Jersey]], U.S.
+| death_date = 
+| death_place = 
+| residence = U.S.
+| nationality = American
+| field = [[Economics]]
+| work_institution = [[University of California, Los Angeles|UCLA]] 1984–<br/>[[University of Chicago]] 1953–91<br/>[[Johns Hopkins University]] 1949–53
+| alma_mater = [[University of Chicago]] MA 1947, PhD 1950<br/>[[Johns Hopkins University]] BA 1943
+| doctoral_advisor = [[Lloyd Metzler]]
+| doctoral_students = [[Yoram Barzel]]<br/>[[Gregory Chow]]<br/>[[Sebastián Edwards]]<br/>[[Zvi Griliches]]<br/>[[Robert Lucas, Jr.]]<br/>[[Richard Muth]]<ref>[https://genealogy.math.ndsu.nodak.edu/id.php?id=215969 Richard Muth in the Mathematics Genealogy Project]</ref><br/>[[Marc Nerlove]]
+| known_for  = [[Public finance]]
+| prizes = 
+| religion = 
+| footnotes = 
+}}
+
+'''Arnold Carl Harberger''' (born July 27, 1924) is an American [[economist]]. His approach to the teaching and practice of economics is to emphasize the use of analytical tools that are directly applicable to real-world issues. His influence on academic economics is reflected in part by the widespread use of the term "[[Harberger triangle]]" to refer to the standard graphical depiction of the efficiency cost of distortions of [[competitive equilibrium]].<ref>{{Cite journal|last=Harberger|first=Arnold C.|date=September 1971|title=Three Basic Postulates for Applied Welfare Economics: An Interpretive Essay|journal=Journal of Economic Literature|volume=9|issue=3|pages=785–797|jstor=2720975}}</ref> His influence on the practice of economic policy is manifested by the high positions attained in national agencies such as central banks and ministries of finance, and in international agencies such as the World Bank.
+
+== Life ==
+Harberger completed his B.A. in economics at [[Johns Hopkins University]], and his M.A. in international relations in 1947 and his Ph.D. in economics in 1950 at the [[University of Chicago]]. After teaching at Johns Hopkins, Harberger returned to the University of Chicago to teach full-time from 1953 to 1982, and part-time from 1984 to 1991. Since 1984, he has been a professor at the [[University of California, Los Angeles]],<ref name="ucla">[http://www.econ.ucla.edu/harberger/ Harberger's webpage at UCLA]</ref> serving as professor emeritus since 2014.
+
+He married Chilean Anita Valjalo in 1958. The two remained together until her death in 2011.
+
+Harberger speaks fluent [[Spanish language|Spanish]]. He is known for maintaining close ties with his former students, many of whom have held influential government posts throughout [[Latin America]], especially in [[Chile]]. Among his former students are 15 central-bank presidents and about 50 government ministers. He takes pride in the work they have done to advance sound economic policy in many countries over many decades.<ref name="minneapolisfed">[https://www.minneapolisfed.org/publications/the-region/interview-with-arnold-harberger Interview] at the Minneapolis Fed, March 1999</ref> He has been criticized for giving economic advice to some authoritarian governments in Latin America.<ref name="frank">{{cite journal|last1=Frank|first1=Andre Gunder|date=June 12, 1976|title=Economic Genocide in Chile: Open Letter to Milton Friedman and Arnold Harberger|journal=Economic and Political Weekly|volume=11|issue=24|pages=880–888|jstor=4364704}}</ref> In the case of Chile, Harberger's influence on the "free-market" reforms undertaken by the Pinochet regime (after the failure of its initial policies of direct economic control) was solely through former students of his, dubbed the [[Chicago Boys]] by commentators, who had agreed to work in that government to address the ongoing economic crisis. The core of those reforms has been continued by a succession of democratically elected governments in Chile since the end of the Pinochet government in 1990.
+
+==Work==
+Harberger's Ph.D. thesis, written under [[Lloyd Metzler]] as committee chair and [[Kenneth Arrow]] and [[Franco Modigliani]] as advisers,<ref name="minneapolisfed"/> was on international macroeconomic theory,<ref>{{Cite journal|last=Harberger|first=Arnold C.|date=February 1950|title=Currency Depreciation, Income, and the Balance of Trade|journal=Journal of Political Economy|volume=58|issue=1|pages=47–60|jstor=1826198|doi=10.1086/256897|s2cid=154750126}}</ref> but his academic reputation is primarily based on his work on the economics of taxation, welfare economics, and benefit-cost analysis. 
+
+=== ''The Welfare Cost of Monopoly'' ===
+Harberger's first contribution to applied welfare economics estimated that the [[efficiency loss]] from [[monopoly]]--or, more precisely, from prices exceeding marginal cost--in US manufacturing was unlikely to exceed 0.1% of [[GDP]]. In making this estimate, Harberger assumed that the extent of [[market power]] of the firms in an industry is reflected in the degree of above-normal profits in that industry. The efficiency loss from monopoly arises from the fact that high-profit industries produce too little output, and low-profit industries produce too much output. The net welfare cost is the sum of the gains that would be obtained if output were reallocated in such a way as to bring the rate of profit in each industry to the economy-wide average. To do this requires an estimate of the elasticity of demand for the output of each industry in his sample. He argued that a value of -1 for this elasticity was on the high end of plausible values, because each industry consisted of more than one firm. (The elasticity of demand facing a particular ''firm'' is inversely related to its market share. Harberger's assumption clearly implies that individual firms face elasticities far greater than -1, and is thereby fully consistent with the theory of pricing by firms with a degree of market power.) For Harberger's assumed value of demand elasticities, the cost of the resources that would be required to achieve the efficient change in an industry's rate of production is equal to the calculated excess profits in that industry. Using the formula developed by [[Harold Hotelling]],<ref>{{Cite journal|last=Hotelling|first=Harold|date=July 1938|title=The General Welfare in Relation to Problems of Taxation and of Railway and Utility Rates|journal=Econometrica|volume=6|issue=3|pages=242–269|jstor=1907054|doi=10.2307/1907054}}</ref> Harberger measured the efficiency loss from noncompetitive pricing in each industry as the excess of the implied willingness to pay by consumers for each increment to output over the estimated cost of that increment. His conclusion was that monopoly power was not pervasive in the U.S. economy, so that the manufacturing sector could be treated as nearly competitive. 
+
+Over a decade later, [[Gordon Tullock]] argued<ref>{{Cite journal|last=Tullock|first=Gordon|date=June 1967|title=The Welfare Cost of Tariffs, Monopolies, and Theft|journal=Economic Inquiry|volume=5|issue=3|pages=224–232|doi=10.1111/j.1465-7295.1967.tb01923.x}}</ref> that Harberger's estimate of the welfare cost of monopoly was low because some resources would be used to compete for or protect monopoly rents, but his argument applies principally to instances of non-price [[Rent-seeking|competition for protected status]], as in the case of tariffs or restrictions on entry into an industry through government regulation.
+
+=== ''The Incidence of Taxation'' ===
+Harberger's seminal paper on the [[corporate income tax]] pioneered the use of general-equilibrium modeling by recasting the classic [[Heckscher-Ohlin model]] of international trade as a model of one country with two sectors, one comprising incorporated firms subject to a tax on their net incomes and the other made up of unincorporated firms. Harberger's approach laid the groundwork for the later use of [[computable general equilibrium]] analysis of the impact of taxes on an entire economy.
+
+In Harberger's model, the output of both sectors is produced under conditions of [[constant returns to scale]], using homogeneous labor and capital. Labor is perfectly mobile, so wages are equalized between the two sectors. The corporate income tax is a tax on the return to corporate capital. There is no integration of the corporate and personal income taxes so any dividends are taxed twice. In the long run, capital is also fully mobile between sectors.
+
+Harberger's key insight was that the mobility of capital between sectors means that in long-run equilibrium the after-tax rate of return to capital is equalized between the two sectors. In this way, the corporate income tax lowers the after-tax real rate of return to all owners of capital equally. When the income of capital owners in the corporate sector is taxed, the initial after-tax rate of return on corporate capital falls, prompting a shift of capital to the untaxed sector. This shift continues until the rate of return in the untaxed sector falls, and the before-tax rate of return in the corporate sector rises, by amounts sufficient to equalize the after-tax rate of return to capital in all uses. The contraction of the corporate sector leads to a reduction in that sector's demand for labor and a fall in the output of that sector. Some labor is thereby induced to move from the corporate to the non-corporate sector. The flow of labor and capital into the non-corporate sector results in an increase in that sector's output. The change in the relative quantities of output in the two sectors leads to an increase in the price of the taxed sector's output relative to the output of the untaxed sector. The response of wages to the shifts in production depends on several factors: the relative substitutability of labor for capital in both sectors, the relative labor intensity of both sectors, and the relative sizes of the two sectors. If the net effect of the intersectoral shifts is to reduce the total demand for labor, then the wage falls and workers bear a part of the burden of the tax. If the aggregate demand for labor is unchanged, then capital bears the full burden of the tax. If the aggregate demand for labor (and so the wage) rises, then capital's income falls by ''more'' than the revenue raised by the tax. This latter case, which Harberger showed to be not at all unlikely, completely overturned the previous consensus within the profession, which had been that the burden of the corporate tax was distributed among the workers and capital owners in the taxed sector, and the consumers of the goods produced in that sector, in amounts that were individually between zero and 100 percent of the tax revenue.
+
+Some years later, Harberger extended his analysis to the case of an economy that buys and sells goods, and imports or exports capital, in worldwide markets.<ref>Harberger, Arnold C. "The ABCs of Corporate Tax Incidence: Insights into the Open Economy Case," in ''Tax Policy and Economic Growth.''  Washington, DC: American Council for Capital Formation, 1995</ref> The results from this specification differ markedly from those of the closed-economy version. In particular, if externally provided capital is in perfectly elastic supply to a country, then capital cannot bear any part of the tax burden in the long run, and it is quite possible for labor to bear more than 100 percent of the burden of the corporate income tax. He views the open-economy case as relevant for the analysis of a single country's choice of tax rate, with the closed-economy model as applying to the effects of a general movement of worldwide corporate tax rates in the same direction, such as the decline that has been observed over the past several decades. A summary of his views on the practical policy considerations regarding the corporate income tax in particular countries can be found in his 2008 paper.<ref>{{Cite journal|last=Harberger|first=Arnold C.|date=June 2008|title=The Incidence of the Corporation Income Tax Revisited|journal=National Tax Journal|volume=61|issue=2|pages=303–312|jstor=41790446|doi=10.17310/ntj.2008.2.07}}</ref>
+
+== Honors and awards ==
+* Fellow, [[Econometric Society]]
+* Fellow, [[American Academy of Arts and Sciences]]
+* Special Ambassador, U.S. Department of State (1984)
+* [[National Academy of Sciences of the United States]]
+* President, [[Western Economic Association International|Western Economic Association]] (1989-90)
+* Foreign Honorary Member, Chilean Academy of Social Sciences
+* President, [[American Economic Association]] (1997)
+* Distinguished Fellow, American Economic Association
+* Simon Kuznets Memorial Lecturer, Yale University (2000)
+* Daniel Holland Medal, [[National Tax Association]] (2002)
+* President, Society for Benefit-Cost Analysis (2008-09)
+* [[Bradley Foundation]] Prize (2009)
+* Life for Freedom Award, Roads to Freedom Foundation (Mexico)
+
+==Bibliography==
+* {{cite journal|last1=Harberger|first1=Arnold C.|title=Monopoly and Resource Allocation|journal=The American Economic Review|date=May 1954|volume=44|issue=2|pages=77–87|jstor=1818325}}
+* {{cite journal|last1=Harberger|first1=Arnold C.|title=The Incidence of the Corporation Income Tax|journal=Journal of Political Economy|date=June 1962|volume=70|issue=3|pages=215–240|jstor=1828856|doi=10.1086/258636|s2cid=154336077}}
+* {{cite journal|last1=Harberger|first1=Arnold C.|title=Three Basic Postulates for Applied Welfare Economics: An Interpretive Essay|journal=Journal of Economic Literature|date=September 1971|volume=9|issue=3|pages=785–797|jstor=2720975}}
+*{{cite book | last=Harberger | first=Arnold C. | title=Taxation and welfare | publisher=Little, Brown | year=1974 | url=https://archive.org/details/taxationwelfare0000harb | url-access=registration }}
+* {{cite journal | last = Harberger | first = Arnold C. | title = The Incidence of the Corporation Income Tax Revisited | publisher = National Tax Journal |date=June 2008|volume= LXI| issue =  2|pages=303–312 }}
+
+==See also==
+* [[Chicago Boys]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite book | last = Overtveldt | first = Johan | title = The Chicago School : how the University of Chicago assembled the thinkers who revolutionized economics and business | publisher = Agate | location = Chicago | year = 2007 | isbn = 9781932841145 | url-access = registration | url = https://archive.org/details/chicagoschoolhow0000over }}
+
+==External links==
+* [http://newmedia.ufm.edu/gsm/index.php?title=Especial%3AGSMSearchPage&termbuscado=harberger Video Collection] from NewMedia [[Universidad Francisco Marroquín]]
+
+{{Presidents of the American Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Harberger, Arnold}}
+[[Category:1924 births]]
+[[Category:Living people]]
+[[Category:People from Newark, New Jersey]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:21st-century American economists]]
+[[Category:20th-century American economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Presidents of the American Economic Association]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Harvard Institute for International Development]]
+[[Category:Economists from New Jersey]]
+[[Category:University of Chicago alumni]]
+[[Category:Johns Hopkins University alumni]]
+[[Category:University of California, Los Angeles faculty]]

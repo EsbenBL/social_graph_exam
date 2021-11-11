@@ -1,0 +1,30 @@
+{{Short description|American psychologist}}
+'''Clyde Hamilton Coombs''' (July 22, 1912 – February 4, 1988) was an American [[psychologist]] specializing in the field of [[Psychometrics|mathematical psychology]].<ref>[http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/coombs-clyde-h.pdf National Academy of Sciences Biographical Memoir]</ref> He devised a voting system, that was hence named [[Coombs' method]].
+
+Coombs founded the Mathematical Psychology program at the [[University of Michigan]].  His students included [[Amos Tversky]], [[Robyn Dawes]], and [[Baruch Fischhoff]], all important researchers in Decision Sciences. The classic text "An Introduction to Mathematical Psychology," by Coombs, Dawes, and Tversky was a must for Michigan graduate students in Mathematical and Experimental Psychology.
+
+In 1959 he was elected as a [[Fellow of the American Statistical Association]].<ref>[http://www.amstat.org/awards/fellowslist.cfm View/Search Fellows of the ASA], accessed 2016-07-23.</ref>
+
+The development of scaling theory by [[Louis Guttman]] and Clyde Coombs has been recognized by [[Science (journal)|Science]] as one of 62 major advances in the social sciences in the period 1900-1965<ref>Deutsch, K.W., Platt, J. & Sengham, D. (1971). Conditions favoring major advances in social sciences. ''Science '' 05 Feb 1971: Vol. 171, Issue 3970, pp. 450-459. DOI: 10.1126/science.171.3970.450</ref>
+
+==Selected bibliography==
+* {{cite book | editor-last1 = Coombs | editor-first1 = Clyde H. | editor-last2 = Thrall | editor-first2 = Robert M. | editor-last3 = Raiffa | editor-first3 = Howard | editor-link3 = Howard Raiffa | title = Decision processes| url = https://archive.org/details/decisionprocesse033215mbp | publisher = Wiley | location = New York | year = 1954 | oclc = 639321 }}
+* Coombs, Clyde H. (1964). ''Theory of data.'' New York, Wiley. (OCoLC)565269224.
+* Coombs, Clyde H. (1983). ''Psychology and Mathematics: An Essay on Theory.'' Ann Arbor: University of Michigan Press.
+* Coombs, Clyde H., Coombs, Lolagene C. & Lingoes, James C. (1978). Stochastic cumulative scales. In S. Shye (Ed.) ''Theory construction and data analysis in the behavioral sciences''. San Francisco: Jossey-Bass.
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Coombs, Clyde}}
+[[Category:1912 births]]
+[[Category:1988 deaths]]
+[[Category:American psychologists]]
+[[Category:University of Michigan faculty]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:20th-century psychologists]]
+
+
+{{US-psychologist-stub}}

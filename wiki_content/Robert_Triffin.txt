@@ -1,0 +1,105 @@
+{{short description|American/Belgian economist (1911–1993)}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox economist
+| honorific_prefix  = Baron
+| name              = Robert Triffin
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date |1911|10|5|df=y}}
+| birth_place       = [[Flobecq, Belgium]]
+| death_date        = {{death date and age |df=yes|1993|2|23|1911|10|5}}
+| death_place       = [[Ostend, Belgium]]
+| nationality       = Belgian and American
+| institution       = [[Yale University]] <!-- or: | institutions =  -->
+| field             = 
+| school_tradition  = 
+| alma_mater        = [[Harvard University]]<br>[[Catholic University of Leuven (1834–1968)|Catholic University of Leuven]]
+| doctoral_advisor  = [[Edward Chamberlin]]<br>[[Wassily Leontief]]
+| academic_advisors = [[John D. Black]]<br>[[Léon H. Dupriez]]<br>[[Edwin Francis Gay|Edwin F. Gay]]<br>[[Frank Knight]]<br>[[Henry Schultz]]<br>[[Joseph Schumpeter]]<br>[[Paul van Zeeland]]
+| doctoral_students = [[Béla Balassa]]
+| notable_students  = 
+| influences        = 
+| influenced        = 
+| contributions     = [[Triffin's dilemma]]
+| awards            = 
+}}
+
+'''Robert, Baron Triffin''' (5 October 1911 – 23 February 1993) was a [[Belgian American|Belgian-American]] [[economist]] best known for his critique of the [[Bretton Woods system]] of fixed currency [[exchange rate]]s. His critique became known later as [[Triffin's dilemma]].<ref>{{cite web|last1=Nasar|first1=Sylvia|title=Robert Triffin, 81, an Economist Who Backed Monetary Stability |url=https://www.nytimes.com/1993/02/27/nyregion/robert-triffin-81-an-economist-who-backed-monetary-stability.html|work=The New York Times|accessdate=29 April 2016|date=27 February 1993}}</ref>
+
+==Life==
+After completing his undergraduate studies at the [[Catholic University of Leuven (1834–1968)|Catholic University of Leuven]], Triffin, a Francophone Belgian, went to the US and received his [[PhD]] from [[Harvard University]] in 1938 and taught there from 1939 until 1942. He held positions in the US [[Federal Reserve System]] (1942–1946), the [[International Monetary Fund]] (1946–1948), and the [[Organisation for European Economic Co-operation]] (1948–1951), now the [[Organisation for Economic Co-operation and Development|OECD]]. In 1951, he became a professor of economics at [[Yale University]], where he also served as Master of Berkeley College from 1969 until 1977.
+
+Triffin became a [[US citizen]] in 1942. He reclaimed his [[Belgian citizenship]] in 1977 and returned to reside in [[Europe]]. There, he was a staunch supporter of [[European integration]] and helped to develop the [[European Monetary System]] and supported the concept of a central bank, which developed as the [[European Central Bank]].
+
+==Bretton Woods critique==
+In 1959, Triffin testified before the [[United States Congress]] and warned of serious flaws in the Bretton Woods system.<ref>{{cite book |last= Triffin |first=Robert  |chapter=By the Way of Introduction (Statement to the Joint Economic Committee of the 87th Congress (Washington, 28 October 1959)); The International Monetary Position and Policy of the United States |title=Gold and the Dollar Crisis; The Future of Convertibility |publisher=Yale University Press |place=New Haven |pages=3–14 |via= Internet Archive}}</ref> His theory was based on observing the [[dollar glut]], or the accumulation of the [[United States dollar]] outside the US. Under the [[Bretton Woods system]], the US had pledged to convert dollars into [[gold]], but by the early 1960s, the glut had caused more dollars to be available outside the US than gold was in its Treasury.
+
+In the post-war era, the US had to run deficits on the current account of the [[balance of payments]]<ref>Wolf, M. [http://www.business24-7.ae/Articles/2009/12/Pages/26122009/12272009_b60d075ae8834ca981282abc0ee85802.aspx "Do we need a reserve currency?"] Accessed 4 January 2010. {{failed verification|date=October 2018}}</ref> to supply the world with dollar reserves that kept [[liquidity]] for their increased wealth.
+
+However, running continuing deficits on the current account of the balance of payments resulted in an ever-increasing stock of overseas held dollars, eroding confidence in the belief that the dollar would remain convertible into gold at the Bretton Woods parity rate of $35 per ounce.
+
+Triffin predicted that the system would not be able to maintain both liquidity and confidence, a theory later to be known as the [[Triffin dilemma]]. His idea was largely ignored until 1971, when his [[hypothesis]] became reality, forcing US President [[Richard Nixon]] to halt convertibility of the United States dollar into [[gold]], an initiative known colloquially as the [[Nixon Shock]], which effectively ended the [[Bretton Woods system#Late Bretton Woods System|Bretton Woods System]].
+
+{{Quotation|A fundamental reform of the international monetary system has long been overdue. Its necessity and urgency are further highlighted today by the imminent threat to the once mighty U.S. dollar.|Robert Triffin<ref>{{cite web
+|url=http://www.imf.org/external/np/exr/center/mm/eng/mm_sc_03.htm
+|title=System in Crisis (1959–1971)
+|work=Money Matters: An IMF Exhibit – The Importance of Global Cooperation
+|publisher=International Monetary Fund
+|accessdate=6 April 2006
+}}</ref>|}}
+
+==Bibliography==
+*''Monopolistic Competition and General Equilibrium Theory'', 1940.
+*"National central banking and the international economy", 1947, Board of Governors, Federal Reserve System.
+*''Europe and the Money Muddle'', 1957.
+*''Gold and the Dollar Crisis: The future of convertibility'', 1960.
+*''Statistics of Sources and Uses of Finance, 1948–1958'', with Stuvel et al., 1960.
+*"Intégration économique européenne et politique monetaire", 1960, ''Revue Econ Politique''
+*''The Evolution of the International Monetary System: historical appraisal and future perspectives'', 1964.
+*''The World Money Maze: National currencies in international payments'', 1966.
+*''Our International Monetary System: Yesterday, today and tomorrow'', 1968.
+*"The Thrust of History in International Monetary Reform", 1969, ''Foreign Affairs''
+*"The Use of SDR Finance for Collectively Agreed Purposes", ''BNLQR''
+*"The international role and fate of the dollar", 1978, ''Foreign Affairs''
+*"The European Monetary System: Tombstone or cornerstone?", in: ''The international monetary system: forty years after Bretton Woods. Proceedings of a conference held at Bretton Woods, N.H., May 1984'', 1984
+*"The future of the European Monetary System and the ECU", 1984, ''CEPS Papers''
+*" The international accounts of the United States and their impact upon the rest of the world", 1985, ''BNLQR''
+*"Une Banque Monétaire Européenne avec des fonctions de banque centrale", 1986, ''Répères, Bulletin Économique et Financier''
+*"L'avenir du système monétaire et financier international : gestion de crises chroniques ou réformes fondamentales?", 1986, ''Répères, Bulletin Économique et Financier''
+*"The IMS (International Monetary System ... or Scandal?) and the EMS (European Monetary System)", 1987, ''BNLQR''
+*"The European Monetary System in the World Economy", 1989, ''Rivista di politica economica''
+*"L'interdépendance du politique et de l'économique dans le scandale monétaire mondial : diagnostic et prescription", 1989, ''Répères, Bulletin Économique et Financier''
+*"The International Monetary System : 1949–1989", 1990, ''ECU Newsletter Torino''.
+
+==Honors==
+*Honorary degree, [[University of Pavia]], 1991.
+
+==See also==
+*[[Jacques van Ypersele de Strihou]]
+
+==References==
+{{reflist}}
+
+==External links==
+
+* Robert Triffin papers (MS 874). Manuscripts and Archives, Yale University Library. [http://hdl.handle.net/10079/fa/mssa.ms.0874]
+
+* "Triffin, Robert." Britannica Book of the Year, 1994. Encyclopædia Britannica Online. 6 Apr. 2006 <http://search.eb.com/eb/article-9113363>.
+* {{cite web| url=http://www.imf.org/external/np/exr/center/mm/eng/mm_sc_03.htm | title = System in Crisis (1959-1971) | work = Money Matters: An IMF Exhibit – The Importance of Global Cooperation | publisher = International Monetary Fund | accessdate=6 April 2006}}
+* [http://archives.eui.eu/en/fonds/191110?key=RT Robert Triffin's personal papers]  may be consulted at the [http://www.eui.eu/Research/HistoricalArchivesOfEU/Index.aspx Historical Archives of the European Union] in Florence, Italy
+
+{{Authority control}}
+
+{{DEFAULTSORT:Triffin, Robert}}
+[[Category:1911 births]]
+[[Category:1993 deaths]]
+[[Category:Walloon people]]
+[[Category:Belgian emigrants to the United States]]
+[[Category:Belgian economists]]
+[[Category:Yale University faculty]]
+[[Category:Harvard University faculty]]
+[[Category:Harvard University alumni]]
+[[Category:20th-century economists]]
+[[Category:Catholic University of Leuven alumni]]

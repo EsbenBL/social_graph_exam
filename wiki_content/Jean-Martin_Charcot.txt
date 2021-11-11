@@ -1,0 +1,219 @@
+{{short description|French neurologist}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox scientist
+| name = Jean-Martin Charcot
+| image =Jean-Martin Charcot.jpg
+| image_size =
+| caption = wearing [[Legion of Honour]] ''Officier'',<br/> with [[Rosette (decoration)|rosette]]<ref>{{cite web |title=Dossier: Jean-Martin Charcot |url=http://www2.culture.gouv.fr/public/mistral/leonore_fr?ACTION=CHERCHER&FIELD_1=COTE&VALUE_1=LH%2F488%2F10 |website=Léonore (Légion d'honneur) |publisher=culture.gouv.fr |access-date=8 December 2020}}</ref>
+| birth_date = {{birth date|1825|11|29|df=y}}
+| birth_place = [[Paris]], [[Bourbon Restoration in France|France]]
+| death_date = {{death date and age|1893|8|16|1825|11|29|df=y}}
+| death_place = [[Lac des Settons]], [[French Third Republic|France]]
+<!-- | residence = France -->
+| nationality = French
+| field = [[Neurology|Neurologist]] and professor of [[anatomical pathology]]
+| work_institution = [[Pitié-Salpêtrière Hospital]]
+| alma_mater =
+| doctoral_advisor =
+| doctoral_students =
+| known_for  = Studying and discovering neurological diseases
+| prizes =
+| religion =
+| footnotes =
+| awards = [[File:Legion Honneur Commandeur ribbon.svg|50px]] [[Legion of Honour]] – Commander (1892)
+}}
+{{Hypnosis|key}}
+'''Jean-Martin Charcot''' ({{IPA-fr|ʃaʁko|lang}}; 29 November 1825 – 16 August 1893) was a French [[neurology|neurologist]] and professor of [[anatomical pathology]].<ref name=WhoNamedCharcot>{{cite web|url=http://www.whonamedit.com/doctor.cfm/19.html|title=Jean-Martin Charcot|publisher=Who Named It?|author=Enerson, Ole Daniel|access-date=13 October 2008}}</ref> He is best known today for his work on [[hypnosis]] and [[hysteria]], in particular his work with his hysteria patient [[Louise Augustine Gleizes]].<ref name="Louise">{{cite web|author=Entertainment |url=http://www.smh.com.au/entertainment/theatre/medical-historys-mystery-woman-finds-her-voice-20140609-zs1wc.html |title=Medical history's mystery woman finds her voice |publisher=Smh.com.au |date=14 June 2014 |access-date=26 August 2017}}</ref> Charcot is known as "the founder of modern neurology",<ref name=Lamberty5>Lamberty (2007), p. 5</ref> and his name has been associated with at least 15 medical [[eponym]]s, including [[#Eponyms|various conditions sometimes referred to as Charcot diseases]].<ref name=WhoNamedCharcot/>
+
+Charcot has been referred to as "the father of French neurology and one of the world's pioneers of neurology".<ref name= Teive>{{cite journal |vauthors=Teive HA, Chien HF, Munhoz RP, Barbosa ER |title=Charcot's contribution to the study of Tourette's syndrome |journal=Arq Neuropsiquiatr |volume=66 |issue=4 |pages=918–21 |date=December 2008 |pmid=19099145 |doi= 10.1590/S0004-282X2008000600035|doi-access=free }}</ref> His work greatly influenced the developing fields of neurology and [[psychology]]; modern psychiatry owes much to the work of Charcot and his direct followers.<ref name=FollowingCharcotp7>Bogousslavsky (2010), p. 7</ref> He was the "foremost neurologist of late nineteenth-century France"<ref name=Kushner11/> and has been called "the [[Napoleon Bonaparte|Napoleon]] of the [[Neurosis|neuroses]]".<ref name= Odyssey>{{cite web |title= Jean-Martin Charcot |work= A Science Odyssey: People and Discoveries |url= https://www.pbs.org/wgbh/aso/databank/entries/bhchar.html |year=1998 |publisher= Public Broadcasting Service (PBS) |access-date=13 October 2008}}</ref>
+
+== Personal life ==
+Born in Paris, Charcot worked and taught at the famous [[Pitié-Salpêtrière Hospital]] for 33 years. His reputation as an instructor drew students from all over Europe.<ref name=Odyssey/> In 1882, he established a neurology clinic at Salpêtrière, which was the first of its kind in Europe.<ref name=WhoNamedCharcot/> Charcot was a part of the French neurological tradition and studied under, and greatly revered, [[Duchenne de Boulogne]].<ref name=CharcotDuchenne>{{cite journal |doi= 10.1353/pbm.2000.0055 |author= Siegel IM |title= Charcot and Duchenne: Of mentors, pupils, and colleagues |journal= Perspectives in Biology and Medicine |volume= 43 |issue= 4 |date=Summer 2000 |pages= 541–7 |pmid=11058990|s2cid= 28580400 }}</ref><ref name= CharcotCharcot>{{cite journal |author=Haas LF |title=Jean Martin Charcot (1825–93) and Jean Baptiste Charcot (1867–1936) |journal=J. Neurol. Neurosurg. Psychiatry |volume=71 |issue=4 |page=524 |date=October 2001 |pmid=11561039 |pmc=1763526 |doi=10.1136/jnnp.71.4.524}}</ref>
+
+"He married a rich [[widow]], Madame Durvis, in 1862 and had two children, Jeanne and [[Jean-Baptiste Charcot|Jean-Baptiste]], who later became a doctor and a famous polar explorer".<ref name=ShapedNeurology>{{cite journal |vauthors=Tan SY, Shigaki D |title=Jean-Martin Charcot (1825–1893): pathologist who shaped modern neurology |journal=Singapore Med J |volume=48 |issue=5 |pages=383–4 |date=May 2007 |pmid=17453093 }}</ref>
+
+He has been described as an [[atheist]].<ref>Kugelmann, Robert. Psychology and Catholicism: Contested Boundaries. Cambridge: Cambridge UP, 2011. Print.</ref>
+
+== Career ==
+=== Neurology ===
+[[File:Jean-Martin Charcot chronophotography.jpg|thumb|left|Charcot uses [[hypnotism]] to treat hysteria and other abnormal mental conditions. All materials from "Iconographie photographique de la [[Pitié-Salpêtrière Hospital|Salpêtrière]]" (Jean Martin Charcot, 1878)]]
+
+Charcot's primary focus was neurology. He named and was the first to describe [[multiple sclerosis]].<ref name=WhoNamedCharcot/><ref name=Charcot1>{{cite journal |author= Charcot JM |title= Histologie de la sclérose en plaques |journal= Gazette des Hopitaux, Paris |year= 1868 |volume= 41 |pages= 554–55|language=fr}}</ref> Summarizing previous reports and adding his own clinical and pathological observations, Charcot called the disease ''sclérose en plaques''. The three signs of multiple sclerosis now known as [[Charcot's triad 1]] are [[Pathologic nystagmus|nystagmus]], [[intention tremor]], and [[telegraphic speech]], though these are not unique to MS. Charcot also observed cognition changes, describing his patients as having a "marked enfeeblement of the memory" and "conceptions that formed slowly". He was also the first to describe a disorder known as [[Charcot joint]] or Charcot arthropathy, a degeneration of joint surfaces resulting from loss of [[proprioception]]. He researched the functions of different parts of the brain and the role of arteries in [[cerebral hemorrhage]].<ref name=WhoNamedCharcot/>
+
+Charcot was among the first to describe [[Charcot–Marie–Tooth disease]] (CMT). The announcement was made simultaneously with [[Pierre Marie]] of France (his resident) and [[Howard Henry Tooth]] of England. The disease is also sometimes called peroneal muscular atrophy.<ref>{{cite web |author=Enersen, Ole Daniel |title=Charcot–Marie–Tooth disease |url=http://www.whonamedit.com/synd.cfm/30.html |publisher=Whonamedit.com |access-date=16 October 2008 |url-status=dead |archive-url=https://web.archive.org/web/20110514004442/http://www.whonamedit.com/synd.cfm/30.html |archive-date=14 May 2011 }}</ref>
+
+Charcot's studies between 1868 and 1881 were a landmark in the understanding of [[Parkinson's disease]].<ref name="pmid18175393"/> Among other advances he made the distinction between rigidity, weakness and [[bradykinesia]].<ref name="pmid18175393"/> He also led the disease formerly named ''paralysis agitans'' (shaking palsy) to be renamed after [[James Parkinson]].<ref name="pmid18175393">{{cite journal |author=Lees AJ |date=September 2007 |title=Unresolved issues relating to the shaking palsy on the celebration of James Parkinson's 250th birthday |journal=Mov. Disord. |volume=22 |issue= Suppl 17|pages=S327–34 |pmid=18175393 |doi=10.1002/mds.21684|s2cid=9471754 }}</ref> He also noted apparent variations on PD, such as [[progressive supranuclear palsy|Parkinson's disease with hyperextension]].<ref>[http://www.movementdisorders.org/MDS/News/Online-Web-Edition/Archived-Editions/Jean-Martin-Charcot-and-Movement-Disorders-Neurological-Legacies-to-the-21st-Century.htm Jean-Martin Charcot and Movement Disorders: Neurological Legacies to the 21st Century]</ref> Charcot received the first European professional chair of clinical diseases for the nervous system in 1882.<ref name=Jeste2007>Jeste (2007) p. 4</ref>
+
+=== Studies on hypnosis and hysteria ===
+Charcot is best known today for his work on [[hypnosis]] and [[hysteria]]. In particular, he is best remembered for his work with his hysteria patient [[Louise Augustine Gleizes]], who somewhat increased his fame during his lifetime; however, [[Marie "Blanche" Wittmann]], known as the Queen of Hysterics, was his most famous hysteria patient at the time.<ref name="io9">{{cite web|author=Esther Inglis-Arkell |url=http://io9.gizmodo.com/meet-the-queen-of-hysterics-who-was-freuds-early-muse-1604567867 |title=Meet the "Queen of Hysterics" Who Was Freud's Early Muse |publisher= io9 |date=14 August 2014 |access-date=26 August 2017}}</ref><ref name="blanche">{{cite web|url= http://www.ateljegalerija.si/en/artists/image/iva-tratnik/exhibitions/blanche-imaginarna-dzungla-marec/|title= BLANCHE – IMAGINARNA DŽUNGLA|publisher= Atelje Galerija|access-date= 26 August 2017|archive-url= https://web.archive.org/web/20170827085110/http://www.ateljegalerija.si/en/artists/image/iva-tratnik/exhibitions/blanche-imaginarna-dzungla-marec/|archive-date= 27 August 2017|url-status= dead}}</ref><ref name="Louise"/> He initially believed that hysteria was a neurological disorder for which patients were pre-disposed by hereditary features of their nervous system,<ref name=Odyssey/><ref name=Charcot85>Charcot (1889), [https://books.google.com/books?id=DwQJAAAAIAAJ&dq=Charcot+hypnotism p. 85]</ref> but near the end of his life he concluded that hysteria was a psychological disease.<ref name=FollowingCharcotp108>Bogousslavsky (2010), p. 108</ref>
+
+Charcot first began studying hysteria after creating a special ward for non-insane females with "hystero-epilepsy". He discovered two distinct forms of hysteria among these women: minor hysteria and major hysteria.<ref>Shorter (1997), p. 134</ref> His interest in hysteria and hypnotism "developed at a time when the general public was fascinated in 'animal magnetism' and 'mesmerization{{Single double}},<ref name=CrimeHysteria/> which was later revealed to be a method of inducing hypnosis.<ref name=Plotnik2012p170>Plotnik (2012) p. 170.</ref> His study of hysteria "attract[ed] both scientific and social notoriety".<ref name=Goetz211>Goetz (1995), p. 211</ref> Bogousslavsky, Walusinski, and Veyrunes write:<blockquote>Charcot and his school considered the ability to be hypnotized as a clinical feature of hysteria&nbsp;...&nbsp;For the members of the Salpêtrière School, susceptibility to hypnotism was synonymous with disease, i.e. hysteria, although they later recognized&nbsp;...&nbsp;that ''grand hypnotisme'' (in hysterics) should be differentiated ''from petit hypnotisme'', which corresponded to the hypnosis of ordinary people.<ref name="CrimeHysteria">{{cite journal |vauthors=Bogousslavsky J, Walusinski O, Veyrunes D |title=Crime, hysteria and belle époque hypnotism: the path traced by Jean-Martin Charcot and Georges Gilles de la Tourette |journal=Eur. Neurol. |volume=62 |issue=4 |pages=193–9 |year=2009 |pmid=19602893 |doi=10.1159/000228252 |s2cid=18477116 |url=http://content.karger.com/ProdukteDB/produkte.asp?Aktion=ShowPDF&ArtikelNr=000228252&Ausgabe=250341&ProduktNr=223840&filename=000228252.pdf |doi-access=free }}</ref></blockquote>Charcot argued vehemently against the widespread medical and popular prejudice that hysteria was rarely found in men, presenting several cases of traumatic male hysteria.<ref name=FollowingCharcotp203>Bogousslavsky (2010), p. 203</ref> He taught that due to this prejudice these "cases often went unrecognised, even by distinguished doctors"<ref>Goetz (1987), p. 116</ref> and could occur in such models of masculinity as railway engineers or soldiers. Charcot's analysis, in particular his view of hysteria as an organic condition which could be caused by trauma, paved the way for understanding neurological symptoms arising from industrial-accident or war-related traumas.<ref>Goetz (1987), p. 117</ref>
+
+[[The Salpêtrière School of Hypnosis|The Salpêtrière School's position on hypnosis]] was sharply criticized by [[Hippolyte Bernheim]], another leading neurologist of the time.<ref name=CrimeHysteria/> Bernheim argued that the hypnosis and hysteria phenomena that Charcot had famously demonstrated were in fact due to suggestion. However, Charcot himself had had longstanding concerns about the use of hypnosis in treatment and about its effect on patients. He also was concerned that the sensationalism hypnosis attracted had robbed it of its scientific interest,<ref name=Goetz211/> and that the quarrel with Bernheim, amplified by Charcot's pupil [[Georges Gilles de la Tourette]], had "damaged" hypnotism.<ref name=CrimeHysteria/>
+
+=== Arts ===
+[[File:Une leçon clinique à la Salpêtrière.jpg|thumb|400px|The painting "[[A Clinical Lesson at the Salpêtrière]]" by [[André Brouillet|Pierre Aristide André Brouillet]]. This painting shows Charcot demonstrating [[hypnosis]] on a "[[hysteria|hysterical]]" ''[[Salpêtrière]]'' patient, "Blanche" ([[Marie "Blanche" Wittmann]]), who is supported by Dr. [[Joseph Babiński]] ''(rear)''. Note the similarity to the illustration of opisthotonus (tetanus) on the back wall.<ref>The identities of each of the thirty separate individuals that are represented in this composite (1887) presentation painting by Pierre Aristide, [[André Brouillet]] (1857-1914) have been clearly identified at p.471 of Harris, J.C., "A Clinical Lesson at the Salpêtrière", ''Archives of General Psychiatry'', Vol.62, No.5, (May 2005), pp.470-472.</ref>]]
+
+Charcot thought of art as a crucial tool of the clinicoanatomic method. He used photos and drawings, many made by himself or his students, in his classes and conferences. He also drew outside the neurology domain, as a personal hobby. Like Duchenne, he is considered a key figure in the incorporation of photography to the study of neurological cases.<ref name="pmid2012518">{{cite journal |author=Goetz CG |title=Visual art in the neurologic career of Jean-Martin Charcot |journal=Arch. Neurol. |volume=48 |issue=4 |pages=421–5 |date=April 1991 |pmid=2012518 |doi= 10.1001/archneur.1991.00530160091020}}</ref>
+
+===Distorted views of Charcot===
+Distorted views of Charcot as harsh and tyrannical have arisen from some sources that rely on a fanciful autobiographical novel by [[Axel Munthe]], ''[[The Story of San Michele]]'' (1929). Munthe claimed to have been Charcot's assistant, but in fact, Munthe was just a medical student among hundreds of others. Munthe's most direct contact with Charcot was when Munthe helped a young female patient "escape" from a ward of the hospital and took her into his home. Charcot threatened to report this to the police, and ordered that Munthe not be allowed on the wards of the hospital again.<ref>{{cite journal |author=Hierons R |title=Charcot and his visits to Britain |journal=BMJ |volume=307 |issue=6919 |pages=1589–91 |year=1993 |pmid=8292949 |pmc=1697759 |doi=10.1136/bmj.307.6919.1589}}</ref>
+
+In a 1931 letter to ''[[The New York Times Book Review]]'', Charcot's son [[Jean-Baptiste Charcot]], who had, himself, been a formal student of his father at the Salpêtrière, emphatically stated:
+
+<blockquote>I can certify that Dr Munthe never was trained by my father"; and, further, that "[although Munthe] may have [incidentally] followed, like hundreds of others, some courses of Charcot, ...he was not trained by him and certainly never had the intimacy of which he boasts [in his recently reviewed work, ''Memories and Vagaries'']. ...I was, myself, a student at the Salpetriere then, and can certify that he was not one of his students and that my father never knew him. Everything he says about professor Charcot is false....<ref>{{Cite news |last=Charcot |first=J.-B. |department=Letters to the Editor |title=Objection & Reproof |work=[[The New York Times Book Review]] |date=18 January 1931 |at=p. 23, col. A}}</ref></blockquote>
+
+Bengt Jangfeldt, in his 2008 biography, ''Axel Munthe: The Road to San Michele'', states that "Charcot is not mentioned in a single letter of Axel's out of the hundreds that have been preserved from his Paris years" (p.&nbsp;96).<ref>{{Cite book |last=Jangfeldt |first=Bengt |year=2008 |title=Axel Munthe: The Road to San Michele |url=https://books.google.com/books?id=beoBAwAAQBAJ&pg=PA96 |location=London; New York |publisher=I. B. Taurus |isbn=9780857710680 |page=96}}</ref>
+
+== Legacy ==
+One of Charcot's greatest legacies as a clinician is his contribution to the development of systematic neurological examination, correlating a set of clinical signs with specific lesions. This was made possible by his pioneering long-term studies of patients, coupled with microscopic and anatomic analysis derived from eventual autopsies.<ref>Goetz (1995), p. 103</ref> This led to the first clear delineation of various neurological diseases and classic description of them, such as amyotrophic lateral sclerosis.<ref>See:
+*  Charcot, J. M. (1874) "De la sclérose latérale amyotrophique," ''Le Progrès médical'', series 1, '''2''' :  325-327, 341-342, 453-455.
+*  Jean Martin Charcot with Désiré Magloire Bourneville, ed., ''Oeuvres complètes de J.M. Charcot'' (Complete works of J.M. Charcot), (Paris, France:  Fèlix Alcan, 1894), volume 2, "Douzième Leçon:  Amyotrophies spinales deutéropathiques, — Sclérose latérale amyotrophique." (Twelfth lesson:  Deuteropathic spinal amyotrophies — amyotrophic lateral sclerosis), [https://books.google.com/books?id=vjEdtU5ZiDIC&pg=PA234#v=onepage&q&f=false pp. 234-248]; "Treizième Leçon:  De la sclérose latérale amyotrophique.  Symptomatologie." (Thirteenth lesson:  On amyotrophic lateral sclerosis.  Symptomology), pp. 249-266.</ref>
+
+Charcot is just as famous for his influence on those who had studied with him: [[Sigmund Freud]],<ref name=Odyssey/> [[Joseph Babinski]],<ref name=WhoNamedCharcot/> [[Pierre Janet]],<ref name=Odyssey/> [[William James]], [[Pierre Marie]], [[Albert Londe]], [[Charles-Joseph Bouchard]],<ref name=WhoNamedCharcot/> [[Georges Gilles de la Tourette]],<ref name=WhoNamedCharcot/> [[Alfred Binet]],<ref name=Odyssey/> and [[Albert Pitres]]. Among the doctors trained by Charcot at the beginning of the 20th century account the Spanish neuropathologists [[Gonzalo Rodríguez Lafora|Nicolás Achúcarro]] and [[Gonzalo Rodríguez Lafora]], two distinguished disciples of [[Santiago Ramón y Cajal]] and members of the Spanish Neurological School.
+
+Charcot bestowed the [[eponym]] for [[Tourette syndrome]] in honor of his student, Georges Gilles de la Tourette.<ref name="Kushner11">Kushner (2000), p. 11</ref><ref>Black, KJ (22 March 2006). [http://www.emedicine.com/neuro/topic664.htm Tourette Syndrome and Other Tic Disorders.]  eMedicine. Retrieved on 27 June 2006.<br />* Enerson, Ole Daniel.  [https://web.archive.org/web/20050309034853/http://www.whonamedit.com/doctor.cfm/357.html Georges Albert Édouard Brutus Gilles de la Tourette.] Who Named It?  Retrieved on 28 June 2006.</ref>
+
+Although, by the 1870s, Charcot was France's best known physician, his ideas about hysteria were later refuted, and French psychiatry did not recover for decades. An example of the dismissal of Charcot's views can be found in Edward Shorter's ''History of Psychiatry'': Shorter states that Charcot understood "almost nothing" about major psychiatric illness, and that he was "quite lacking in common sense and grandiosely sure of his own judgement". This perspective overlooks the fact that Charcot never claimed to be a psychiatrist or to be practising psychiatry, a field that was separately organized from neurology within France's educational and public health systems.<ref>Goetz (1995), p. 208</ref> After Charcot's death, the phenomenon of "[[hysteria]]" that he had described was no longer recognized as a real neurological condition, but was considered to be an "artifact of suggestion".<ref>Shorter (1997), pp. 84–86</ref> However, Charcot continued to have a "prominent" position in French psychiatry and psychology.<ref name=Gardner145>Gardner (1999), p. 145</ref>
+
+The negative evaluation of Charcot's work on hysteria was influenced by a significant shift in diagnostic criteria and understanding of hysteria which occurred in the decades following his death.<ref>Goetz (1987), p. 115</ref> The historical perspective on Charcot's work on hysteria has also been distorted by viewing him as a precursor of Freud.{{Citation needed|date=May 2016}} After Charcot's death, Freud and Janet wrote articles on his importance.<ref name=FollowingCharcotp120>Bogousslavsky (2010), p. 120</ref> However, Charcot's work on hysteria and hypnotism was at odds with the perspective Freud made famous, since Charcot believed in neurological determinism.
+
+The Charcot-Janet school, which formed from the work of Charcot and his student Janet, contributed greatly to knowledge of [[dissociative identity disorder|multiple personality disorders]].<ref name=GardnerM389>Gardner (1999), p. 389</ref><ref>The Charcot-Janet school was later extended by [[Morton Prince]] in his book on ''Dissociation of a Personality'' (1905),</ref>
+
+===Influence on the development of anti-Semitism===
+
+Charcot claimed to have observed a higher prevalence of diseases with a hereditary component (notably [[arthritis]] and neurological disorders) in Jewish communities, where limited numbers combined with longterm [[endogamy]]. He also used Jewish patients as examples in some of his public lectures.<ref>Charcot, Jean-Martin. Lecons du mardi. Paris: Bureaux du Progrès médical, 1888-89, vol. 2. p. 11.</ref>
+
+When these claims were developed by neurologist [[Henry Meige]], and others, in conjunction with the myth of the [[Wandering Jew]], this was used as support by the apostles of French [[anti-Semitism]], notably the journalist [[Edouard Drumont]].<ref>Jan Goldstein "The Wandering Jew and the Problem of Psychiatric Anti-Semitism in Fin-de-Siecle France" 20 Journal of Contemporary History (Oct. 1985), p. 521</ref> However, historian of science [[Ian Hacking]] cautions that Charcot's interest in Jews and his claims about them must be seen in their nuanced, ambiguous context: "notice how Charcot shared most of the presuppositions of the genetic approach to mental illness that are current today [1998].
+
+He could not fall back on a genome project to support his scientific speculations, but he did have a closed gene pool to study, not just in that Jews were endogenous but because many Jews in his clinic were descended from relatives, even cousins, who married each other. Scientific reasoning could motivate his constant attention to Jewish family lines .... Thus a reputable scientific quest merged with a great willingness to see Jews as aberrant, troublesome, ill."<ref>Hacking, Ian. Mad Travelers: Reflections on the Reality of Transient Mental Illnesses. Charlottesville, Va.: University Press of Virginia, 1998. p. 119</ref>
+
+However, by the very end of the 19th century, anti-Semitism in France had rapidly accentuated, due to the [[Dreyfus affair]]. "Because of this transition, it has become all too easy to read gross and manifest anti-Semitism" retrospectively into the hospital wards of one or two decades previous.<ref>Hacking, Ian. Mad Travelers: Reflections on the Reality of Transient Mental Illnesses. Charlottesville, Va.: University Press of Virginia, 1998. p. 123</ref>
+
+=== Eponyms ===
+{{See also|Charcot disease (disambiguation){{!}}Charcot disease}}
+Charcot's name is associated with many diseases and conditions including:<ref name=WhoNamedCharcot/>
+* Charcot's artery ([[lenticulostriate artery]])
+* [[Neuropathic joint disease|Charcot's joint]] (diabetic [[arthropathy]])
+* Charcot's disease ([[amyotrophic lateral sclerosis]], the most-common subtype of [[motor neurone disease]]—also known as Lou Gehrig's disease.)
+* [[Charcot–Marie–Tooth disease]] (peripheral muscular [[atrophy]]), named with [[Pierre Marie]] and [[Howard Henry Tooth]].
+* [[Charcot–Wilbrand syndrome]] ([[visual agnosia]] and loss of ability to revisualise images), named with [[Hermann Wilbrand]].
+* Charcot's intermittent hepatic fever (intermittent pain, intermittent fever, intermittent jaundice, and loss of weight)
+* [[Charcot–Bouchard aneurysm]]s (tiny [[aneurysms]] of the penetrating branches of middle cerebral artery in hypertensives), named with [[Charles-Joseph Bouchard]].
+* [[Charcot's triad]] of [[acute cholangitis]] (right upper quadrant pain, jaundice, and fever)
+* [[Charcot's neurologic triad]] of [[multiple sclerosis]] (nystagmus, intention tremor, and [[dysarthria]])
+* [[Charcot–Leyden crystals]] due to the lysis of [[eosinophils]] in cases of allergic diseases, named with [[Ernst Viktor von Leyden]].
+* Souques–Charcot geroderma: a variant of [[progeria|Hutchinson–Gilford disease]], named with [[Alexandre-Achille Souques]].<ref>{{cite web |url=http://www.whonamedit.com/synd.cfm/1739.html |publisher=Whonamedit.com |title= Souques-Charcot gerodema }}</ref>
+* Charcot–Gombault necrosis: a biliary infarct, named with [[Albert Gombault]].<ref>{{cite journal  |vauthors=Jurado I, Andreu X, Martin J, etal |title=Biliary infarct (Charcot-Gombault necrosis): CT and pathologic features |journal=J Comput Assist Tomogr |volume=21 |issue=1 |pages=106–7 |year=1997 |pmid=9022779 |doi=10.1097/00004728-199701000-00020}}</ref>
+
+==Charcot in popular culture==
+* Bram Stoker in his novel [[Dracula]] (1897) has written about hypnotism and Charcot, "And of course then you understand how it act [sic], and can follow the mind of the great Charcot."<sup>[</sup><ref>{{Cite book|title=Dracula|last=Stoker, Bram, 1847-1912.|date=2007|publisher=Vintage Books|isbn=9780099511229|location=London|oclc=190966703}}</ref>
+* [[Tolstoy]] in his novel ''[[Resurrection (Tolstoy novel)|Resurrection]]'' (1899) noted a lawyer citing "All the latest catchwords....hypnotism and hypnotic suggestion, Charcot and decadence".<ref>L Tolstoy, ''Resurrection'' (Penguin 1977) p. 104</ref>
+* A song "Let Yourself Go" from [[The Alan Parsons Project]]'s album ''[[Freudiana]]'' is dedicated to Doctor Charcot.
+* Charcot appears, along with [[Maria Skłodowska-Curie|Madame Curie]] and Charcot's patient "Blanche" ([[Marie "Blanche" Wittmann]]), in [[Per Olov Enquist]]'s 2004 novel ''The Book about Blanche and Marie'' (English translation, 2006, {{ISBN|1-58567-668-3}}).
+* He also appears in the 2005 novel by [[Sebastian Faulks]], ''[[Human Traces]]''.
+* A 2012 French historical drama film ''[[Augustine (film)|Augustine]]'', is about a love affair between Charcot and his patient [[Louise Augustine Gleizes]], who was known as Augustine or A.<ref name="Louise"/><ref name="Alice">{{cite web|url=http://h-france.net/fffh/the-buzz/alice-winocours-augustine/ |title=Alice Winocour's Augustine &#124; Fiction and Film for French Historians |publisher=H-france.net |date=1 July 2013 |access-date=26 August 2017}}</ref><ref name=NYTReview>{{cite news| author= Scott, AO |title=Doctor and patient: a gothic love story |url= https://www.nytimes.com/2013/05/17/movies/augustine-by-alice-winocour-featuring-soko.html?_r=0&adxnnl=1&adxnnlx=1387641035-IIPZdojb7kRti2n7EGTRIQ |work=The New York Times |date= 16 May 2013 |access-date= 21 December 2013}}</ref><ref name=LATimesReview>{{cite news| author=Olsen M |title=French actress-singer Soko finds quiet showcase in 'Augustine' |url= http://www.latimes.com/entertainment/movies/moviesnow/la-et-french-actresssinger-soko-finds-quiet-showcase-in-augustine-20130521,0,7773214.story|work= Los Angeles Times |date= 21 May 2013|access-date= 21 December 2013}}</ref> In reality, there was no sexual relationship between her and Charcot.<ref name="Alice"/> The ''New York Times'' film review describes Charcot as "a complicated figure in retrospect, at once a charlatan and a pioneer, a monster and a modernizer".<ref>{{cite news| author= Scott AO |date= 16 May 2013 |title=Doctor and patient: a gothic love story|url=https://www.nytimes.com/2013/05/17/movies/augustine-by-alice-winocour-featuring-soko.html |work=The New York Times |access-date= 21 December 2013}}</ref><ref>{{cite news| author=Olsen M |date= 21 May 2013 |title=French actress-singer Soko finds quiet showcase in 'Augustine' |url= http://www.latimes.com/entertainment/movies/moviesnow/la-et-french-actresssinger-soko-finds-quiet-showcase-in-augustine-20130521,0,7773214.story |work= Los Angeles Times |access-date= 21 December 2013}}</ref>
+* In the 2016 novel, ''The Witches of New York'', by [[Ami McKay]], Charcot is referenced at the beginning of a chapter in a fake news section.<br>The piece refers to a course where Charcot will be providing information on cases of demonic activity and witchcraft.
+* Scottish experimental hip hop group [[Hector Bizerk]] wrote the song "Dr. Charcot" for their 2015 album "The Waltz Of Modern Psychiatry." The album was produced as the soundtrack for the play "Crazy Jane" about [[Jane Avril]], and also included a song entitled "The Salpatriere."<ref>{{Cite web|url=https://hectorbizerk.bandcamp.com/album/the-waltz-of-modern-psychiatry|title = The Waltz of Modern Psychiatry, by Hector Bizerk}}</ref>
+
+==Awards==
+By decree on 22 April 1858, Charcot was made a Knight of France's [[Legion of Honour]].<ref>{{cite web|title=Charcot, Jean Martin - Legion of Honour, Registration Nmber: 25,021|website=National Archives - Léonore Database|location=France|date=22 April 1858|page=15|language=fr|url=https://www.leonore.archives-nationales.culture.gouv.fr/ui/notice/75388|access-date=17 August 2021|url-status=live|archive-url=https://web.archive.org/web/20210817123327/https://www.leonore.archives-nationales.culture.gouv.fr/ui/notice/75388|archive-date=17 August 2021}} [https://archive.org/details/frdafan-83-ol-0488010v-015-l_202108 Alt URL]</ref> He was subsequently promoted in rank to Officer (decree: 4 April 1880),<ref>{{cite web|title=Charcot, Jean Martin - Legion of Honour, Registration Nmber: 25,021|website=National Archives - Léonore Database|location=France|date=4 April 1880|page=9|language=fr|url=https://www.leonore.archives-nationales.culture.gouv.fr/ui/notice/75388|access-date=17 August 2021|url-status=live|archive-url=https://web.archive.org/web/20210817123327/https://www.leonore.archives-nationales.culture.gouv.fr/ui/notice/75388|archive-date=17 August 2021}} [https://archive.org/details/frdafan-83-ol-0488010v-009-l_202108 Alt URL]</ref> and then finally Commander (decree: 12 January 1892)<ref>{{cite web|title=Charcot, Jean Martin - Legion of Honour, Registration Nmber: 25,021 - Certification Decription Number: 488|website=National Archives - Léonore Database|location=France|date=12 January 1892|page=1|language=fr|url=https://www.leonore.archives-nationales.culture.gouv.fr/ui/notice/75388|archive-date=17 August 2021|url-status=live|archive-url=https://web.archive.org/web/20210817123327/https://www.leonore.archives-nationales.culture.gouv.fr/ui/notice/75388|access-date=17 August 2021}} [https://archive.org/details/frdafan-83-ol-0488010v-001-l_202108 Alt URL].</ref>
+
+==Miscellaneous==
+A collection of Charcot's correspondence is held at the United States National Library of Medicine.<ref>{{cite web|url=http://oculus.nlm.nih.gov/charcot023|title=J.M. Charcot correspondence and draft 1870-1892|publisher=US National Library of Medicine |access-date= 1 January 2014}}</ref>
+
+[[Charcot Island]] in Antarctica was discovered by his son, [[Jean-Baptiste Charcot]], who named the Island in honor of his father.<ref name= ExploringFrontiers>Mills (2003), [https://books.google.com/books?id=PYdBH4dOOM4C&pg=PA135&lpg=PA135&dq=Charcot+island+Jean-Martin#v=onepage&q=Charcot%20island%20Jean-Martin&f=false p. 135]</ref>
+
+The ''Charcot Award'' is given every two years by the [[Multiple Sclerosis International Federation]] for a lifetime of outstanding research into the understanding or treatment of multiple sclerosis.<ref>{{cite web|url = http://www.msif.org/about-us/global-research-collaboration/research-awards-grants-and-fellowships/charcot-awards/|title = Charcot Awards|date = 10 March 2015|access-date = 17 March 2015}}</ref>
+
+== Bibliography ==
+
+* ''Neurologie'', [s.l.], [s.n.], [s.d.], manuscrit de 395 feuillets (fonds : manuscrits des leçons de J.M.Charcot).
+* ''Leçons cliniques sur les maladies des vieillards et les maladies chroniques''. Paris: Adrien Delahaye, 1874.
+* ''Exposé des titres scientifiques''. Versailles: Imprimeries Cerf, 1878.
+* ''Sur les divers états nerveux déterminés par l'hypnotisation chez les hystériques''. In ''Comptes Rendues hebdomadaires des séances de l’Académie des Sciences'' 94 (1882): 403-405.
+* ''Leçons sur les maladies du système nerveux''. Paris:  Delahaye et Lecrosnier, 1885-1887.
+* Avec Paul Richer, ''Les Démoniaques dans l'art''. Paris: Delahaye et Lecrosnier, 1887.
+* Avec Paul Richer, ''Les Difformes et les Malades dans l'art'', Lecrosnier et Babé, 1889.
+* ''La foi qui guérit <small>[archive]</small>''. Paris: Felix Alcan, 1897. 38 <abbr>p.</abbr>
+
+== Quotations ==
+* "In the last analysis, we see only what we are ready to see, what we have been taught to see. We eliminate and ignore everything that is not a part of our prejudices."<ref name=Kundu>{{cite journal |author=Kundu AK |title=Charcot in medical eponyms |journal=J Assoc Physicians India |volume=52 |pages=716–8 |date=September 2004 |pmid=15839450}}</ref> 
+* "To learn how to treat a disease, one must learn how to recognize it. The diagnosis is the best trump in the scheme of treatment."<ref name=Kundu/>
+* "Symptoms, then, are in reality nothing but a cry from suffering organs."<ref name=Kundu/>
+* "If you do not have a proven treatment for certain illnesses, bid {{sic}} your time, do what you can, but do not harm your patients."<ref>{{cite web |author=Goetz CG |date=August–September 2009 |title=Jean-Martin Charcot and movement disorders: neurological legacies to the 21st century |url=http://www.movementdisorders.org/monthly_edition/2009/08/charcot.php |publisher=International Parkinson and Movement Disorder Society |access-date=15 July 2013 |archive-url=https://web.archive.org/web/20131215022930/http://www.movementdisorders.org/monthly_edition/2009/08/charcot.php |archive-date=15 December 2013 |url-status=dead }}</ref>
+* "...perfectly legitimate pathological phenomena, in which the will of the patient counts for nothing, absolutely nothing"; in reference to the clinical features of hysteria.<ref name=Jeste2007p8>Jeste (2007) p. 8</ref>
+
+== See also ==
+{{Portal|Psychiatry}}
+* ''[[A Clinical Lesson at the Salpêtrière]]''
+
+== Notes ==
+{{Reflist|30em}}
+
+== References ==
+{{Refbegin|60em}}
+* {{cite book |title= Following Charcot: a Forgotten History of Neurology and Psychiatry |series=Frontiers of Neurology and Neuroscience |editor= Bogousslavsky J |publisher= S Karger Pub |year= 2010 |isbn= 978-3-8055-9556-8}}
+* {{cite book |author= Charcot JM |title= Clinical Lectures on Diseases of the Nervous System |trans-title= Leçons sur les maladies du système nerveux |url= https://books.google.com/books?id=DwQJAAAAIAAJ |access-date= 21 October 2010 |edition= Thomas Savill, translator|volume= 3 |year= 1889| orig-year= 1878| publisher= The New Sydenham Society |location= London}}<!-- NOTE, this should be updated to use the newer Ruth Harris translation -->
+* {{cite book |author= Goetz CG |title= Charcot, the Clinician |location= New York |publisher= Raven Press |year= 1987 |isbn=0-88167-315-3}}
+* {{cite book |vauthors=Goetz CG, Bonduelle M, Gelfand T |title= Charcot: Constructing Neurology |publisher= Oxford University Press |year= 1995| isbn=0-19-507643-5}}
+* Harris, J.C., "A Clinical Lesson at the Salpêtrière", ''Archives of General Psychiatry'', Vol.62, No.5, (May 2005), pp.&nbsp;470–472.
+* {{cite book|vauthors=Jeste DV, Friedman JH |title=Psychiatry for Neurologists|year=2007|publisher=Springer|isbn=978-1592599608 }}
+* {{cite book |author= Kushner HI |title= A Cursing Grain? The Histories of Tourette Syndrome |publisher= Harvard University Press |year= 2000 |isbn= 0-674-00386-1 |url=https://books.google.com/books?id=9dQEB_MbhKEC}}
+* {{cite book|author=Lamberty GJ|title=Understanding Somatization in the Practice of Clinical Neuropsychology |publisher= Minneapolis Oxford University |year=2007 |isbn=9780195328271}}
+* {{cite book|author= Mills WJ |title= Exploring Polar Frontiers: a Historical Encyclopedia |year= 2003 |location= Santa Barbara, Calif |publisher=ABC-CLIO |isbn= 1-57607-422-6}}
+* {{cite book|editor= Moskowitz BG |title= The Princeton Symposium on the Legacy and Future of Social Cognition |year=1998 |publisher=Cengage Learning|isbn=1135664242|page=170}}
+* {{cite book|author=Murphy G  |title=An Historical Introduction to Modern Ssychology |year=1999 |publisher=Routledge |isbn=0415-21034-8}}
+* {{cite book|vauthors=Plotnik R, Kouyoumdjian H |title=Introduction to Psychology|year=2010|publisher=Cengage Learning|isbn=978-0495903444}}
+* {{cite book|author=Shorter E|title=A History of Psychiatry|year=1997|publisher=John Wiley & Sons|isbn=0-471-24531-3}}
+{{Refend}}
+
+== Further reading ==
+{{Refbegin|60em}}
+* [http://www.hypnosisaustralia.org.au/wp-content/uploads/journal/AJCEH_Vol37_No1_MAY09.pdf#page=27 Alvarado, C., "Nineteenth-Century Hysteria and Hypnosis: A Historical Note on Blanche Wittmann", ''Australian Journal of Clinical and Experimental Hypnosis'', Vol.37, No.1, (May 2009), pp.21-36.]
+* {{cite journal |vauthors=Bogousslavsky J, Paciaroni M |title=Did Jean-Martin Charcot contribute to stroke? |journal=Eur. Neurol. |volume=64 |issue=1 |pages=27–32 |year=2010 |pmid=20588046 |doi=10.1159/000317073 |s2cid=8676868 |url=http://content.karger.com/ProdukteDB/produkte.asp?Aktion=ShowPDF&ArtikelNr=000317073&Ausgabe=254328&ProduktNr=223840&filename=000317073.pdf |doi-access=free }}
+* {{cite journal |vauthors=Broussolle E, Poirier J, Clarac F, Barbara JG |title=Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Part III: neurology |journal=Rev. Neurol. (Paris) |volume=168 |issue=4 |pages=301–20 |date=April 2012 |pmid=22387204 |doi=10.1016/j.neurol.2011.10.006 |url=http://www.biusante.parisdescartes.fr/chn/docpdf/revneurol_part3.pdf}}
+* {{cite journal |author=Clanet M |title=Jean-Martin Charcot. 1825 to 1893 |journal=Int MS J |volume=15 |issue=2 |pages=59–61 |date=June 2008 |pmid=18782501 |url=http://www.msforum.net/Site/ViewPDF/ViewPDF.aspx?ArticleID=E80DC748-5048-4BD2-9393-18BCAE0A1514&doctype=Article |format=PDF |access-date=21 October 2010 |archive-url=https://web.archive.org/web/20190330210130/http://www.msforum.net/Site/ViewPDF/ViewPDF.aspx?ArticleID=E80DC748-5048-4BD2-9393-18BCAE0A1514&doctype=Article |archive-date=30 March 2019 |url-status=dead }}
+* {{cite journal |author=Ekbom K |title=The man behind the syndrome: Jean-Martin Charcot |journal=J Hist Neurosci |volume=1 |issue=1 |pages=39–45 |date=January 1992 |pmid=11618414 |doi=10.1080/09647049209525513}}
+* {{cite journal |author=Goetz CG |title=Chapter 15 Jean-Martin Charcot and the anatomo-clinical method of neurology |journal=Handb Clin Neurol |volume=95 |pages=203–12 |year=2009 |pmid=19892118 |doi=10.1016/S0072-9752(08)02115-5 |series=Handbook of Clinical Neurology |isbn=978-0-444-52009-8}}
+* {{cite journal |author=Goetz CG |title=Charcot in contemporary literature |journal=J Hist Neurosci |volume=15 |issue=1 |pages=22–30 |date=March 2006 |pmid=16443570 |doi=10.1080/096470490944707|s2cid=22805641 }}
+* {{cite journal |author=Goetz CG |title=J.-M. Charcot and simulated neurologic disease: attitudes and diagnostic strategies |journal=Neurology |volume=69 |issue=1 |pages=103–9 |date=July 2007 |pmid=17606887 |doi=10.1212/01.wnl.0000265061.46526.77|s2cid=35706091 }}
+* {{cite journal |author=Goetz CG |title=Shaking up the Salpetriere: Jean-Martin Charcot and mercury-induced tremor |journal=Neurology |volume=74 |issue=21 |pages=1739–42 |date=May 2010 |pmid=20498442 |doi=10.1212/WNL.0b013e3181e0439e |pmc=3462583}}
+* {{cite journal |vauthors=Goetz CG, Chmura TA, Lanska DJ |title=Seminal figures in the history of movement disorders: Sydenham, Parkinson, and Charcot: Part 6 of the MDS-sponsored history of Movement Disorders exhibit, Barcelona, June 2000 |journal=Mov. Disord. |volume=16 |issue=3 |pages=537–40 |date=May 2001 |pmid=11391755 | doi = 10.1002/mds.1113 |s2cid=22447206 }}
+* {{cite journal |vauthors=Goetz CG, Harter DH |title=Charcot and Pasteur: intersecting orbits in fin de siècle French medicine |journal=J Hist Neurosci |volume=18 |issue=4 |pages=378–86 |date=October 2009 |pmid=20183219 |doi=10.1080/09647040802536967|s2cid=28384904 }}
+* {{cite book |author= Guillain, Georges |title= J.-M. Charcot 1825–1893: His Life-His Work |publisher= Paul B. Hoeber, Inc. |year= 1959}}
+* {{cite book |title= Medical Muses: Hysteria in Nineteenth-Century Paris |author=Hustvedt, Asti |publisher= Bloomsbury |year= 2011}}
+* {{cite journal |author=Rowland LP |title=How amyotrophic lateral sclerosis got its name: the clinical-pathologic genius of Jean-Martin Charcot |journal=Arch. Neurol. |volume=58 |issue=3 |pages=512–5 |date=March 2001 |pmid=11255459 |doi=10.1001/archneur.58.3.512}}
+* {{cite journal |vauthors=Teive HA, Almeida SM, Arruda WO, Sá DS, Werneck LC |title=Charcot and Brazil |journal=Arq Neuropsiquiatr |volume=59 |issue=2–A |pages=295–9 |date=June 2001 |pmid=11400048 |url= http://www.scielo.br/pdf/anp/v59n2A/a32v592a.pdf |doi=10.1590/S0004-282X2001000200032|doi-access=free }}
+* {{cite journal |vauthors=Teive HA, Arruda WO, Werneck LC |title=Rosalie: the Brazilian female monkey of Charcot |journal=Arq Neuropsiquiatr |volume=63 |issue=3A |pages=707–8 |date=September 2005 |pmid=16172730 |doi= 10.1590/s0004-282x2005000400031|url= http://www.scielo.br/pdf/anp/v63n3a/a31v633a.pdf |doi-access=free }}
+* {{cite journal |vauthors=Teive HA, Munhoz RP, Barbosa ER |title=Little-known scientific contributions of J-M Charcot |journal=Clinics (Sao Paulo) |volume=62 |issue=3 |pages=211–4 |date=June 2007 |pmid=17589659 |url= http://www.scielo.br/pdf/clin/v62n3/a03v62n3.pdf |doi=10.1590/s1807-59322007000300003|doi-access=free }}
+* {{cite journal |vauthors=Teive HA, Zavala JA, Iwamoto FM, Sá D, Carraro H, Werneck LC |title=[Contributions of Charcot and Marsden to the development of movement disorders in the 19th and 20th centuries] |language=pt |journal=Arq Neuropsiquiatr |volume=59 |issue=3–A |pages=633–6 |date=September 2001 |pmid=11588652 |doi=10.1590/S0004-282X2001000400030|doi-access=free }}
+{{Refend}}
+
+== External links ==
+{{Wikisourcelang|fr|Auteur:Jean-Martin Charcot|Jean-Martin Charcot}}
+{{commons|Jean-Martin Charcot|Jean-Martin Charcot}}
+* [http://vlp.mpiwg-berlin.mpg.de/references?id=per167 Biography and bibliography] in the [[Virtual Laboratory]] of the [[Max Planck Institute for the History of Science]]
+* {{Internet Archive author |sname=Jean-Martin Charcot}}
+
+{{Topics related to Tourette syndrome}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Charcot, Jean-Martin}}
+[[Category:1825 births]]
+[[Category:1893 deaths]]
+[[Category:Burials at Montmartre Cemetery]]
+[[Category:Physicians from Paris]]
+[[Category:19th-century French physicians]]
+[[Category:French hypnotists]]
+[[Category:French neurologists]]
+[[Category:French neuroscientists]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:19th-century French people]]
+[[Category:Tourette syndrome]]
+[[Category:History of psychiatry]]
+[[Category:French psychologists]]
+[[Category:Charcot family]]
+[[Category:Commandeurs of the Légion d'honneur]]
+[[Category:Lists of Légion d'honneur recipients]]

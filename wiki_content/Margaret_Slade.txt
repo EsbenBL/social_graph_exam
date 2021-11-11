@@ -1,0 +1,67 @@
+{{Short description|Economist}}
+{{for|the comic character|Margaret Slade (Marvel Comics)}}
+{{Infobox academic
+|name    = Margaret Slade
+|citizenship   = American and Canadian
+| workplaces = University of British Columbia
+| discipline = Economics
+| sub_discipline = Industrial Organization
+| alma_mater = {{ubl|[[Vassar College]]|[[University of California, Berkeley]]|[[George Washington University]]}}
+}}
+'''Margaret E. Slade''' is Professor Emeritus at the [[Vancouver School of Economics]] at the [[University of British Columbia]] and was a council member of the [[Royal Economic Society]] from 2004–2008.<ref>{{Cite web|url=https://econ2017.sites.olt.ubc.ca/files/2018/12/SladeCV_Dec2018.pdf|title=Margaret Slade CV}}</ref> Slade is best known for her work on Industrial Economics, serving as the President of the European Association for Research in Industrial Economics (EARIE) from 2001–2003.<ref>{{Cite web|url=http://www.earie.org/r/default.asp?iId=JLEIH|title=Past Presidents {{!}} EARIE - European Association for Research in Industrial Economics|website=www.earie.org|access-date=2019-04-02}}</ref>
+
+== Education and work ==
+Slade attended [[Vassar College]] where she completed her B.A. in Mathematics. She did her M.A. in Mathematics at [[University of California, Berkeley]] and her Ph.D in Economics at [[George Washington University]]. Her Ph.D thesis focused on the mining industry, in particular Copper-Aluminum Substitution and Recycling.<ref>{{Cite web|url=https://economics.ubc.ca/community/meet-our-faculty/margaret-slade/|title=Meet Margaret Slade|website=economics.ubc.ca|access-date=2019-04-02}}</ref>
+
+Slade has done influential work in the field of Industrial Organization, in particular popularizing many empirical methodologies and techniques to a field that was extensively theoretical. An example of this is her paper, “Vancouver's Gasoline-Price Wars: An Empirical Exercise in Uncovering Supergame Strategies”, where she pioneered method to study [[tacit collusion]] by collecting her own unique data, which is commonplace today but wasn't heard of at the time.<ref name=":0">{{Cite web|url=https://economics.ca/en/fellows_slade.php|title=CEA Fellow: Margaret Slade|website=economics.ca|access-date=2019-04-03}}</ref> Her research interests include manufacturing as well as energy and resource economics, in particular the petroleum and metals industries.
+
+In 2001, Slade received an Honorary Doctorate from the [[Helsinki School of Economics]]. She served as a Council Member for the Royal Economic Society from 2004 to 2008. In 2014, she was selected as a Fellow at the [[Canadian Economics Association]], the association's highest honour.<ref name=":0" />
+
+== Scholarship ==
+
+=== "Vancouver's Gasoline-Price Wars: An Empirical Exercise in Uncovering Supergame Strategies" ===
+Slade compiled a data set to perform an [[Econometrics|econometric]] study to test which dynamic framework best models tacit collusion behavior in the Vancouver retail-gasoline market.  The study treats gas station managers as competing economic agents that strategically price their products based on prices from previous periods. The model also considers exogenous [[demand shock]]s which force firms to navigate the new market demands and appropriately adjust their pricing strategies. In econometric terms, the slopes of the intertemporal best response functions are hidden variables and thus the resulting system of equations is estimated via [[Kalman filter]]s.  Different [[oligopoly]] models can thus be compared relative to each other, with respect to explaining firm behavior in the Vancouver gasoline market.<ref>{{Cite journal|last=Slade|first=Margaret E.|date=1992|title=Vancouver's Gasoline-Price Wars: An Empirical Exercise in Uncovering Supergame Strategies|journal=The Review of Economic Studies|volume=59|issue=2|pages=257–276|doi=10.2307/2297954|issn=0034-6527|jstor=2297954}}</ref>
+
+=== "Multitask Agency and Organizational Form: An Empirical Exploration" ===
+In her 1996 paper, "Multitask Agency and Organizational Form: An Empirical Exploration,” Slade empirically studies the contracts linking private oil companies and gas stations in Vancouver to study the multitask-agency problem. Slade explains that the multitask-agency problem arises when economic agents partake in many activities, where the characteristics of one task affect the payoff from the others.
+
+She utilized econometric methods to study variations in task characteristics to predict corresponding agent-compensation schemes. One of the methods used was [[comparative statics]] which lead to the conclusion that firms have incentives to supply gasoline when secondary activity is not strongly complementary with gasoline retailing. The [[Cross elasticity of demand|cross price demand elasticities]], the covariation in uncertainty and a measure of effort substitutability were some of the parameters that were used to capture complementarity. This empirical analysis remains as one of the few conducted on this particular subject.<ref>{{Cite journal|last=Slade|first=Margaret E.|date=1996|title=Multitask Agency and Contract Choice: An Empirical Exploration|journal=International Economic Review|volume=37|issue=2|pages=465–486|doi=10.2307/2527333|issn=0020-6598|jstor=2527333}}</ref>
+
+=== "Spatial Price Competition: A Semiparametric Approach" ===
+Slade et al. examine how price competition plays out among non-homogenous firms in small markets. They use an econometric regression with [[Instrumental variables estimation|instrumental variables]] to measure cross price elasticity coefficients. They prove that the estimators are [[Consistent estimator|consistent]] and asymptotically distributed. This approach allowed them to compare models of global competition, where all firms compete with one another, and local competition, where firms only compete with their respective neighbours. The data used for this study was obtained for U.S. wholesale gasoline markets which mostly have localized competition.<ref>{{Cite journal|last=Pinkse|first=Joris|last2=Slade|first2=Margaret E.|last3=Brett|first3=Craig|date=2002|title=Spatial Price Competition: A Semiparametric Approach|journal=Econometrica|volume=70|issue=3|pages=1111–1153|issn=0012-9682|jstor=2692309|doi=10.1111/1468-0262.00320}}</ref>
+
+=== "Market Structure, Marketing Method, and Price Instability" ===
+Slade used data for metals listed on [[commodity exchanges]] by price-setting producers to examine how different organizations of markets are linked to behaviour of prices. On the production side, she focused on how the stability of prices varies in concentrated industries. On the sale side, Slade tested how the stability of prices varies when buyers are only consumers rather than consumers and [[Speculation|speculators]]. These components were combined into an econometric regression, which explains how metal price instability may be affected by changing market structures and organization variables. Slade found there was an increasing reliance on commodity exchanges and that the link with declines in concentration was weak.<ref>{{Cite journal|last=Slade|first=Margaret E.|date=1991|title=Market Structure, Marketing Method, and Price Instability|journal=The Quarterly Journal of Economics|volume=106|issue=4|pages=1309–1340|doi=10.2307/2937966|issn=0033-5533|jstor=2937966}}</ref>
+
+== Awards ==
+
+* Honorary Doctorate, Helsinki School of Economics, 2001
+* President of the European Association for Research in Industrial Economics, 2001-2003
+* Holder of the inaugural Leverhulme Professorship in Industrial Economics at the University of Warwick, 2002-2007
+* Killam Research Prize, 1993
+* Fellow, [[Canadian Economics Association]], elected 2014
+*Fellow, [[Econometric Society]], elected 2020<ref>{{Cite web|title=The Econometric Society Announces its 2020 Fellows {{!}} The Econometric Society|url=https://www.econometricsociety.org/content/econometric-society-announces-its-2020-fellows|access-date=2021-04-12|website=www.econometricsociety.org}}</ref>
+
+== Selected works ==
+
+* Pinkse, J., Slade, M., & Brett, C. (2002). ''Spatial Price Competition: A Semiparametric Approach''. Econometrica, 70(3), 1111–1153.
+* Slade, M. (1991). Market Structure, Marketing Method, and Price Instability. The Quarterly Journal of Economics, 106(4), 1309–1340.
+* Slade, Margaret E. ''An Econometric Model of the U.S. Copper and Aluminum Industries How Cost Changes Affect Substitution and Recycling''. Taylor & Francis Inc, 1984, {{ISBN|0815350090}}
+* Slade, Margaret E.  ''Pricing of metals''.  Kingston, Ont :  Centre for Resource Studies, Queen's University, 1988, {{ISBN|0887570925}}.
+* Slade, M. (1992). ''Vancouver's Gasoline-Price Wars: An Empirical Exercise in Uncovering Supergame Strategies''. The Review of Economic Studies, 59(2), 257–276.
+* Slade, M. (1996). ''Multitask Agency and Contract Choice: An Empirical Exploration''. International Economic Review, 37(2), 465–486.
+
+== References ==
+{{reflist}}{{Fellows of the Econometric Society elected in 2020}}{{Authority control}}
+
+{{DEFAULTSORT:Slade, Margaret}}
+[[Category:Living people]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]
+[[Category:American women economists]]
+[[Category:Canadian women economists]]
+[[Category:Columbian College of Arts and Sciences alumni]]
+[[Category:University of British Columbia faculty]]
+[[Category:Vassar College alumni]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Year of birth missing (living people)]]

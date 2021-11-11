@@ -1,0 +1,62 @@
+{{short description|French economist}}
+{{Infobox economist
+| name             = Xavier Gabaix
+| school_tradition =
+| color            =
+| image       = 
+| image_size       =
+| caption    =
+| birth_date       = {{Birth year and age|1971|8}}
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = [[France|French]]
+| institution      = [[Harvard University]]<br>[[New York University]]<br>[[MIT]]
+| field            = [[Macroeconomics]]
+| alma_mater       = [[Harvard University]]<br>[[Ecole Normale Supérieure]]<br>[[Paris School of Economics]]<ref>{{Cite web|title=Paris School of Economics Xavier Gabaix|url=https://www.parisschoolofeconomics.eu/en/news/10th-june-xavier-gabaix-a-sparsity/#0|access-date=2019-06-30}}</ref>
+| doctoral_advisor = [[Robert Barro]]
+| academic_advisors=
+| doctoral_students=
+| notable_students =
+| influenced       =
+| contributions    =
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pga174
+}}
+'''Xavier Gabaix''' (born August 1971) is a [[French people|French]] [[economist]], currently the Pershing Square Professor of Economics and Finance at [[Harvard University]]. He has been listed among the top 8 young economists in the world by ''[[The Economist]]''.<ref name="TheEconomist">{{Citation |date=December 30, 2008 |title=International bright young things |newspaper=The Economist |url=http://www.economist.com/businessfinance/displayStory.cfm?story_id=12851150 }}</ref> He holds a B.A. in Mathematics from the [[Ecole Normale Supérieure]], as well as a [[Doctor of Philosophy|Ph.D.]] in Economics from [[Harvard University]].
+
+Gabaix mostly researches [[asset pricing]], [[behavioral economics]], and [[macroeconomics]]. He has many notable and highly original research contributions on a number of subjects in [[financial economics]], including the level of compensation of corporate executives, and behaviorally influenced decision making and its influence on asset market behaviour. In some of his work, he has made use of axiom-based models of the shapes of the tails of probability distributions. A hallmark of Professor Gabaix's research style is his propensity to take unexpected directions.<ref>{{Cite web|url=https://www.pr.com/press-release/290277|title=2011 Fischer Black Prize|website=PR.com|access-date=2020-04-04}}</ref> He previously held a position as Associate Professor of Economics at the [[Massachusetts Institute of Technology]].
+
+==Bounded Rationality==
+Gabaix continues to work on [[bounded rationality]]. His paper [http://pages.stern.nyu.edu/~xgabaix/papers/brNK.pdf A Behavioral New Keynesian Model] was called "...the most interesting macroeconomic theory paper in years" by Bloomberg View in an article titled  [https://www.bloomberg.com/view/articles/2016-07-28/answering-the-hardest-question-in-economics Answering The Hardest Question In Economics]. The article goes on to suggest that the work "heralds a sea change in the way macroeconomic theory gets done."
+
+== Inelastic Markets Hypothesis ==
+Gabaix, along with Ralph Koijen, the AQR Capital Management Distinguished Service Professor of Finance and Fama Faculty Fellow at the University of Chicago, demonstrates that markets are not “elastic”, as textbooks say they should be.
+
+According to The Economist, "The paper will surprise the typical economist, who, according to the authors’ surveys, believes that flows do not affect prices. It also threatens associated financial theories. One is the [[Modigliani-Miller theorem]], which says that it does not matter whether a company finances itself with equity or with debt. In inelastic markets, by contrast, a firm that issues debt to buy back its stock will find that it drives up both its own share price and the broader market."<ref>{{Cite news|date=2021-08-14|title=A new theory suggests that day-to-day trading has lasting effects on stockmarkets|work=The Economist|url=https://www.economist.com/finance-and-economics/2021/08/14/a-new-theory-suggests-that-day-to-day-trading-has-lasting-effects-on-stockmarkets|access-date=2021-08-13|issn=0013-0613}}</ref>
+
+==Recognition==
+Gabaix  was awarded the American Finance Association [[Fischer Black Prize]], 2011. The award is given to a young researcher whose body of work "best exemplifies the Fischer Black hallmark of developing original research that is relevant to finance."<ref>[http://www.afajof.org/details/page/2866291/Fischer-Black-Prize.html]</ref> He was the winner of the 2010 [[Germán Bernácer Prize|Bernacer Prize]] to the best European economist under 40 working in macro-finance for his original research contributions in financial and behavioral economics, including the consequences of seemingly irrational behavior on asset markets, and his analysis of the level of compensation of corporate executives.<ref>{{Cite web|url=http://bernacerprize.com/xavier-gabaix/|title=Xavier Gabaix {{!}} Bernacer Prize -|last=admin3er38|language=es-ES|access-date=2020-04-04}}</ref> In 2011, he was awarded the ''Prix du meilleur jeune économiste de France'', a prize awarded yearly to a French economist under forty years of age "who has combined recognized expertise with active participation in public debate". In 2012, he was one of the recipients of the [[Lagrange Prize]] for research on complex systems, together with [[Lada Adamic]], a specialist in [[social network]]s analysis.<ref name="Premio Lagrange">{{cite web|url=http://www.fondazionecrt.it/news/2012-premio-lagrange.html |title=Premio Lagrange 2012 a Lada Adamici e Xavier Gabaix |publisher=[[Fondazione CRT]] |date=28 June 2012 |language=it |url-status=dead |archive-url=https://web.archive.org/web/20130402053220/http://www.fondazionecrt.it/news/2012-premio-lagrange.html |archive-date=April 2, 2013 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.nber.org/authors/xavier_gabaix/ NBER Page]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gabaix, Xavier}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:French economists]]
+[[Category:Financial economists]]
+[[Category:Harvard University alumni]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:New York University faculty]]
+[[Category:Harvard University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences faculty]]

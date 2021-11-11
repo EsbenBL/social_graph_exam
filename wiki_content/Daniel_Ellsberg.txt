@@ -1,0 +1,403 @@
+{{short description|American economist and whistleblower known for releasing the Pentagon Papers}}
+{{Use mdy dates|date=May 2011}}
+{{Infobox person
+| name               = Daniel Ellsberg
+| image              = Daniel Ellsberg 2020 06.jpg
+| image_size         = 
+| caption            = Ellsberg in 2020
+| birth_date         = {{birth date and age|1931|04|07}}
+| awards             = [[Right Livelihood Award]]
+| birth_place        = [[Chicago]], [[Illinois]], U.S.
+| known_for          = [[Pentagon Papers]], <br /> [[Ellsberg paradox]]
+| education          = [[Harvard University]] (AB, PhD)<br />[[King's College, Cambridge]]<br />[[Cranbrook Schools]]
+| employer           = [[RAND Corporation]]
+| spouse             = Carol Cummings (divorced)<br />{{marriage|Patricia Marx|1970}}
+| children           = [[Robert Ellsberg|Robert]] and [[Mary Ellsberg]] (1st marriage)<br />[[Michael Ellsberg]] (2nd marriage)
+| website            = [http://www.ellsberg.net www.ellsberg.net]
+| module             = {{Infobox military person
+|embed = yes
+|allegiance       = United States
+|branch           = [[United States Marine Corps]]
+|serviceyears     = 1954–1957
+|serviceyears_label = 
+|rank             = [[First Lieutenant]]
+|rank_label       = 
+|servicenumber    = 
+|unit             = [[2nd Marine Division]]
+|commands         = 
+|battles          = 
+|battles_label    = 
+|awards           = 
+}}
+}}
+
+'''Daniel Ellsberg''' (born April 7, 1931) is an American economist, political activist, and former [[United States military]] analyst. While employed by the [[RAND Corporation]], Ellsberg precipitated a national political controversy in 1971 when he released the ''[[Pentagon Papers]]'', a top-secret [[The Pentagon|Pentagon]] study of the [[Federal government of the United States|U.S. government]] decision-making in relation to the [[Vietnam War]], to ''[[The New York Times]]'', ''[[The Washington Post]]'' and other newspapers.
+
+On January 3, 1973, Ellsberg was charged under the [[Espionage Act of 1917]] along with other charges of theft and conspiracy, carrying a total maximum sentence of 115 years. Because of governmental misconduct and illegal evidence-gathering, and the defense by [[Leonard Boudin]] and Harvard Law School professor [[Charles Nesson]], [[William Matthew Byrne, Jr.|Judge William Matthew Byrne Jr.]] dismissed all charges against Ellsberg on May 11, 1973.
+
+Ellsberg was awarded the [[Right Livelihood Award]] in 2006. He is also known for having formulated an important example in [[decision theory]], the [[Ellsberg paradox]], his extensive studies on [[nuclear weapons]] and [[Nuclear weapons of the United States|nuclear policy]], and for having voiced support for [[WikiLeaks]], [[Chelsea Manning]], and [[Edward Snowden]].
+
+Ellsberg was awarded the 2018 [[Olof Palme Prize]] for his "profound humanism and exceptional moral courage."<ref name=":0">{{Cite web|url=http://www.palmefonden.se/2018-daniel-ellsberg-2/|title=2018 – Daniel Ellsberg {{!}} OLOF PALMES MINNESFOND|language=sv-SE|access-date=2019-01-09}}</ref>
+
+==Early life and career==
+
+Ellsberg was born in [[Chicago, Illinois]], on April 7, 1931, the son of Harry and Adele (Charsky) Ellsberg. His parents were [[Ashkenazi Jews]] who had converted to [[Christian Science]], and he was raised as a Christian Scientist. He grew up in [[Detroit]] and attended the [[Cranbrook Kingswood School|Cranbrook School]] in nearby [[Bloomfield Hills]]. His mother wanted him to be a [[concert pianist]], but he stopped playing in July 1948, two years after both his mother and sister were killed when his father fell asleep at the wheel and crashed the family car into a bridge [[abutment]].<ref>{{cite book|url=https://books.google.com/books?id=ml_ZepYWGdkC&pg=PA36|title=Wild Man: The Life and Times of Daniel Ellsberg|first=Tom|last=Wells|date=June 9, 2001|pages=36, 39, 70–95, 267|publisher=Palgrave Macmillan|via=Google Books|isbn=9780312177195}}</ref>
+
+Ellsberg entered [[Harvard College]] on a scholarship, graduating ''[[summa cum laude]]'' with an [[A.B.]] in [[economics]] in 1952. He studied at the [[University of Cambridge]] for a year on a [[Woodrow Wilson]] [[Woodrow Wilson National Fellowship Foundation|Fellowship]], then returned to Harvard for graduate school. In 1954, he enlisted in the [[U.S. Marine Corps]] and earned a commission.<ref name=bookragsbio/> He served as a platoon leader and company commander in the [[2nd Marine Division]], and was discharged in 1957 as a [[first lieutenant]].<ref name=bookragsbio/> Ellsberg returned to Harvard as a Junior Fellow in the [[Harvard Society of Fellows|Society of Fellows]] for two years.<ref name=bookragsbio/>
+
+==RAND Corporation and PhD==
+Ellsberg began working as a strategic analyst at the [[RAND Corporation]] for the summer of 1958 and then permanently in 1959.<ref>{{cite episode
+ | title = Daniel Ellsberg Explains Why He Leaked The Pentagon Papers
+ | url = https://www.npr.org/2018/01/19/579101965/daniel-ellsberg-explains-why-he-leaked-the-pentagon-papers | series = Fresh Air | series-link = Fresh Air
+ | credits = Host: Dave Davies | network = National Public Radio
+ | station = WHYY-FM | air-date = December 4, 2017 }}</ref> He concentrated on [[nuclear strategy]]<ref name=bookragsbio/> and the command and control of nuclear weapons.
+
+Ellsberg completed a [[Ph.D.]] in economics from Harvard in 1962.<ref name=bookragsbio>Daniel Ellsberg Biography @ Encyclopedia of World Biography, via [http://www.bookrags.com/biography/daniel-ellsberg BookRags.com]</ref> His dissertation on [[decision theory]] was based on a set of thought experiments that showed that decisions under conditions of [[uncertainty]] or [[ambiguity]] generally may not be consistent with well-defined subjective probabilities. Now known as the [[Ellsberg paradox]],<ref name=Ellsberg1961>{{Cite journal |last=Ellsberg|first=Daniel|author-link=Daniel Ellsberg|journal=[[Quarterly Journal of Economics]]|volume=75|title=Risk, Ambiguity, and the Savage Axioms|year=1961|pages=643–669 |doi=10.2307/1884324|issue=4 |jstor=1884324 |url=http://www.dklevine.com/archive/refs47605.pdf}}</ref> this formed the basis of a large literature that has developed since the 1980s, including approaches such as [[Choquet expected utility]] and [[info-gap decision theory]].
+
+Ellsberg worked in the Pentagon from August 1964<ref name=BBC4>[[BBC Four]] ''[[Storyville (television series)|Storyville]] – 2009–2010 – 14. The Most Dangerous Man in America''</ref> under [[United States Secretary of Defense|Secretary of Defense]] [[Robert McNamara]] as special assistant to Assistant Secretary of Defense for International Security Affairs [[John McNaughton (government official)|John McNaughton]]. [At this point of Lyndon Johnson's escalation into the Vietnam War, Ellsberg would later discover the lies and subsequent cover-up of the [[Gulf of Tonkin incident|"non-attacks" upon the USS Maddox, in the Gulf of Tonkin]] ("by North Vietnam"), which led to [[Operation Pierce Arrow|bombing raids into North Vietnam]] on August 2 and 4, 1964, under orders by President Lyndon B. Johnson. This unprovoked attack upon North Vietnam followed Senator [[Barry Goldwater]]'s presidential campaign statement where he stated that Johnson was soft on Communism, "no matter where it is!" Johnson's actions risked bringing Chinese forces into the war.]
+
+He then went to [[South Vietnam]] for two years, working for General [[Edward Lansdale]] as a member of the [[United States Department of State|State Department]].
+
+On his return from South Vietnam, Ellsberg resumed working at RAND. In 1967, he contributed to a top-secret study of [[Classified information|classified]] documents on the conduct of the Vietnam War that had been commissioned by Defense Secretary McNamara.<ref name=upi1971yearinreview>{{cite web|title=The Pentagon Papers|work=1971 Year in Review|publisher=UPI|year=1971|url=http://www.upi.com/Audio/Year_in_Review/Events-of-1971/The-Pentagon-Papers/12295509436546-7|access-date=July 2, 2010}}</ref> These documents, completed in 1968, later became known collectively as the "Pentagon Papers" (named after the "[[Pumpkin papers|Pumpkin Papers]]" of the [[Alger Hiss|Hiss]]-[[Whittaker Chambers|Chambers]] Case).<ref>{{cite web |url=http://www.movieweb.com/movie/FIjiysnlYYSwnm/REqtSvvuifNltz |title=The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers (2010) |publisher=Movieweb.com |access-date=December 2, 2010 |archive-url=https://web.archive.org/web/20100125071147/http://www.movieweb.com/movie/FIjiysnlYYSwnm/REqtSvvuifNltz |archive-date=January 25, 2010 |url-status=dead }}</ref>
+
+Through study of this body of US government records, Ellsberg came to understand about the Vietnam War that:
+<blockquote>It was no more a "[[civil war]]" after 1955 or 1960 than it had been during the U.S.-supported French attempt at colonial reconquest. A war in which one side was ''entirely'' equipped and paid by a foreign power – which dictated the nature of the local regime in its own interest – was not a civil war. To say that we had "interfered" in what is "really a civil war," as most American academic writers and even liberal critics of the war do to this day, simply screened a more painful reality and was as much a myth as the earlier official one of "aggression from the North." In terms of the [[UN Charter]] and of our own avowed ideals, it was a war of foreign aggression, American aggression.<ref>Stone, Oliver and Kuznick, Peter, "The Untold History of the United States" (New York: Gallery Books, 2012) p. 384 ''citing'' Daniel Ellberg, "Secrets: A Memoir of Vietnam and the Pentagon Papers" (New York: Viking, 2002), pp. 258–260</ref>
+</blockquote>
+
+==Disaffection with Vietnam War==
+By 1969, Ellsberg began attending [[anti-war]] events while still remaining in his position at RAND. In April 1968, Ellsberg attended a Princeton conference on "Revolution in a Changing World," where he met [[Mahatma Gandhi|Gandhian]] peace activist [[Janaki Tschannerl]] from India, who had a profound influence on him, and [[Eqbal Ahmed]], a Pakistani fellow at the Adlai Stevenson Institute later to be indicted with Rev. [[Philip Berrigan]] for anti-war activism.  Ellsberg particularly recalls Tschannerl saying "In my world, there are no enemies", and that "she gave me a vision, as a Gandhian, of a different way of living and resistance, of exercising power nonviolently."<ref>{{cite news |last1=Lukas |first1=J. Anthony |title=After the Pentagon Papers |url=https://www.nytimes.com/1971/12/12/archives/a-month-in-the-new-life-of-daniel-ellsberg-the-new-life-of-daniel.html |access-date=5 July 2019 |work=The New York Times |date=12 Dec 1971}}</ref>
+
+He experienced an [[epiphany (feeling)|epiphany]] attending a [[War Resisters League]] conference at [[Haverford College]] in August 1969, listening to a speech given by a [[draft resister]] named [[Randy Kehler]], who said he was "very excited" that he would soon be able to join his friends in prison.<ref name="thomas2002">{{Cite book|last = Thomas|first = Marlo|author-link = Marlo Thomas|title = The Right Words at the Right Time|publisher = Atria Books|year = 2002|location = New York|isbn = 978-0-7862-8889-2|display-authors = etal|url = https://archive.org/details/rightwordsatrigh0000thom}} pp.100–03</ref><ref>{{Cite web|url=https://hyp.is/M4GAugGYEei1At-CibjmnQ/janksreviews.com/post-indepth-review/|title=The Post – In-Depth Review|last=Farrow|first=Chas|access-date=January 24, 2018}}</ref>
+Ellsberg described his reaction:{{quote|And he said this very calmly. I hadn't known that he was about to be sentenced for draft resistance. It hit me as a total surprise and shock, because I heard his words in the midst of actually feeling proud of my country listening to him. And then I heard he was going to prison. It wasn't what he said exactly that changed my worldview. It was the example he was setting with his life. How his words in general showed that he was a stellar American, and that he was going to jail as a very deliberate choice—because he thought it was the right thing to do. There was no question in my mind that my government was involved in an unjust war that was going to continue and get larger. Thousands of young men were dying each year. I left the auditorium and found a deserted men's room. I sat on the floor and cried for over an hour, just sobbing. The only time in my life I've reacted to something like that.}}
+
+Decades later, reflecting on Kehler's decision, Ellsberg said:{{quote|Randy Kehler never thought his going to prison would end the war. If I hadn't met Randy Kehler it wouldn't have occurred to me to copy [the Pentagon Papers]. His actions spoke to me as no mere words would have done. He put the right question in my mind at the right time.}}
+
+After leaving RAND, Ellsberg was employed as a senior research associate at the [[Massachusetts Institute of Technology]]'s Center for International Studies from 1970 to 1972.<ref>{{cite news|url=https://www.nytimes.com/1970/08/09/archives/daniel-ellsberg-of-mit-marries-patricia-marx.html|title=Daniel Ellsberg of M.I.T. Marries Patricia Marx|newspaper=The New York Times|date=1970-08-09}}</ref><ref>{{Cite web|url=http://search.marquiswhoswho.com/profile/100003623445|title = Marquis Biographies Online}}</ref>
+
+==The ''Pentagon Papers''==
+{{Main|Pentagon Papers}}
+In late 1969, with the assistance of his former RAND Corporation colleague [[Anthony Russo (whistleblower)|Anthony Russo]], Ellsberg secretly made several sets of photocopies of the classified documents to which he had access; these later became known as the ''Pentagon Papers''. They revealed that, early on, the government had knowledge that the war as then resourced could most likely not be won. Further, as an editor of ''The New York Times'' was to write much later, these documents "demonstrated, among other things, that the [[Lyndon B. Johnson#Presidency (1963–1969)|Johnson Administration]] had systematically lied, not only to the public but also to Congress, about a subject of transcendent national interest and significance".<ref name="Apple">{{Cite news|last=Apple|first=R.W.|author-link=R. W. Apple, Jr.|title=Pentagon Papers|newspaper=[[The New York Times]]|location=New York|date=June 23, 1996|url=http://topics.nytimes.com/top/reference/timestopics/subjects/p/pentagon_papers/index.html?scp=1-spot&sq=pentagon%20papers&st=cse|quote=Johnson Administration had systematically lied, not only to the public but also to Congress|access-date=July 2, 2010}}</ref>
+
+Shortly after Ellsberg copied the documents, he resolved to meet some of the people who had influenced both his change of heart on the war and his decision to act. One of them was Randy Kehler. Another was the poet [[Gary Snyder]], whom he had met in Kyoto in 1960, and with whom he had argued about U.S. foreign policy; Ellsberg was finally prepared to concede that Gary Snyder had been right, about both the situation and the need for action against it.<ref>{{Cite book|last=Halper|first=Jon|title=Gary Snyder: dimensions of a life|publisher=Sierra Club Books|year=1991|isbn=978-0-87156-636-2|url=https://archive.org/details/garysnyderdimens00halp}}</ref>
+
+===Release and publication===
+Throughout 1970, Ellsberg covertly attempted to persuade a few sympathetic [[United States Senate|U.S. Senators]]—among them [[J. William Fulbright]], chair of the [[United States Senate Committee on Foreign Relations|Senate Foreign Relations Committee]], and [[George McGovern]], a leading opponent of the war—to release the papers on the Senate floor, because a Senator could not be prosecuted for anything he said on the record before the Senate.<ref>Sanford J. Ungar, The Papers & The Papers, An Account of the Legal and Political Battle Over the Pentagon Papers, 1972, E.P. Dutton & Co., Inc., New York; p. 127</ref>
+
+Ellsberg allowed some copies of the documents to circulate privately, including among scholars at the [[Institute for Policy Studies]] (IPS). Ellsberg also shared the documents with ''The New York Times'' correspondent [[Neil Sheehan]], who wrote a story based on what he had received both directly from Ellsberg and from contacts at IPS.<ref name=wildmanreviewinreason>{{Cite news|last=Young |first=Michael |title=The devil and Daniel Ellsberg: From archetype to anachronism (review of ''Wild Man: The Life and Times of Daniel Ellsberg'') |newspaper=[[Reason (magazine)|Reason]] |page=2 |date=June 2002 |url=http://findarticles.com/p/articles/mi_m1568/is_2_34/ai_85701104 |access-date=July 2, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20090830070005/http://findarticles.com/p/articles/mi_m1568/is_2_34/ai_85701104/ |archive-date=August 30, 2009 }}</ref>
+
+On Sunday, June 13, 1971, ''The New York Times'' published the first of nine excerpts from, and commentaries on, the 7,000 page collection. For 15 days, ''The New York Times'' was prevented from publishing its articles by court order requested by the Nixon administration. Meanwhile, while eluding an [[FBI]] manhunt for thirteen days, Ellsberg leaked the documents to ''[[The Washington Post]]''.<ref>{{Cite journal|title=Daniel Ellsberg and the Pentagon Papers|journal=The Nation|author=H. Bruce Franklin|date=July 9, 2001|url=http://andromeda.rutgers.edu/~hbf/ELLSBERG.htm|access-date=July 15, 2008|archive-url=https://web.archive.org/web/20080509054438/http://andromeda.rutgers.edu/~hbf/ELLSBERG.htm|archive-date=May 9, 2008|url-status=dead}}</ref> On June 30, the [[US Supreme Court]] ordered free resumption of publication by ''The New York Times'' (''[[New York Times Co. v. United States]]''). Two days prior to the Supreme Court's decision, Ellsberg publicly admitted his role in releasing the Pentagon Papers to the press.<ref>{{Cite book|last=Ellsberg|first=Daniel|author-link=Daniel Ellsberg|title=Secrets: A Memoir of Vietnam and the Pentagon Papers|publisher=Viking Press|location=New York|year=2002|isbn=978-0-670-03030-9|url=https://archive.org/details/secretsmemoirofv02ells}}</ref>
+
+On June 29, 1971, U.S. Senator [[Mike Gravel]] of Alaska entered 4,100 pages of the Papers into the record of his Subcommittee on Public Buildings and Grounds—pages which he had received from Ellsberg via [[Ben Bagdikian]], then an editor at ''The Washington Post''.
+
+===Fallout===
+The release of these papers was politically embarrassing not only to those involved in the [[John F. Kennedy|Kennedy]] and [[Lyndon Johnson|Johnson]] administrations, but also to the incumbent Nixon administration. Nixon's [[Watergate tapes|Oval Office tape]] from June 14, 1971, shows [[H. R. Haldeman]] describing the situation to Nixon:
+
+[[File:Nixon Oval Office meeting with H.R. Haldeman, Monday, 14 June 1971, 309 p.m.wav|thumb|Nixon Oval Office meeting with H.R. Haldeman, Monday, 14 June 1971, 3:09 p.m. . (Quote begins at about 7:30 into the recording) [http://nsarchive.gwu.edu/NSAEBB/NSAEBB48/oval.pdf Transcript here] ]]
+:[[Donald Rumsfeld|Rumsfeld]] was making this point this morning... To the ordinary guy, all this is a bunch of gobbledygook. But out of the gobbledygook comes a very clear thing.... You can't trust the government; you can't believe what they say; and you can't rely on their judgment; and the – the implicit infallibility of presidents, which has been an accepted thing in America, is badly hurt by this, because It shows that people do things the president wants to do even though it's wrong, and the president can be wrong.<ref>{{Cite news|last = Meadows|first = Eddie|title = Oval office meeting with Bob Haldelman, Nixon Presidential Materials Project, Oval-519-, Cassette 747|newspaper = audio tape|date = June 14, 1971|url = http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB48/nixon.html}}</ref>
+
+[[John N. Mitchell|John Mitchell]], Nixon's [[United States Attorney General|Attorney General]], almost immediately issued a telegram to ''The New York Times'' ordering that it halt publication. ''The New York Times'' refused, and the government brought suit against it.
+
+Although ''The New York Times'' eventually won the case before the [[Supreme Court of the United States|Supreme Court]], prior to that, an [[appellate court]] ordered that ''New York Times'' temporarily halt further publication. This was the first time the federal government was able to restrain the publication of a major newspaper since the presidency of [[Abraham Lincoln]] during the [[U.S. Civil War]]. Ellsberg released the Pentagon Papers to seventeen other newspapers in rapid succession.<ref>''The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers''</ref> The right of the press to publish the papers was upheld in ''The New York Times Co. v. United States''. The Supreme Court ruling has been called one of the "modern pillars" of [[First Amendment to the United States Constitution|First Amendment]] rights with respect to freedom of the press.<ref>[https://web.archive.org/web/20110318192603/http://www.america.gov/st/democracyhr-english/2008/June/20080630215145eaifas0.6333842.html U.S. Department of State (June 23, 2008) Freedom of the Press], retrieved 2019-07-15]</ref>
+
+In response to the leaks, Nixon White House staffers began a campaign against further leaks and against Ellsberg personally.<ref>{{cite web|url=http://www.buzzle.com/editorials/12-9-2002-31884.asp |archive-url=https://web.archive.org/web/20041128031733/http://www.buzzle.com/editorials/12-9-2002-31884.asp |url-status=dead |archive-date=2004-11-28 |title=Portrait: Daniel Ellsberg |publisher=Buzzle.com |date=December 9, 2002 |access-date=2021-07-21 }}</ref> Aides [[Egil Krogh]] and [[David Young (Watergate)|David Young]], under the supervision of [[John Ehrlichman]], created the "[[White House Plumbers]]", which would later lead to the Watergate burglaries. [[Richard Holbrooke]], a friend of Ellsberg, came to see him as "one of those accidental characters of history who show the pattern of a whole era" and thought that he was the "triggering mechanism for events which would link Vietnam and Watergate in one continuous 1961-to-1975 story."<ref>{{Cite book|title=Our Man : Richard Holbrooke and the End of the American Century|last=Packer|first=George|publisher=KNOPF|year=2019|isbn=9780307958037|location=NY|pages=145|oclc=1043051114}}</ref>
+
+==Fielding break-in==
+[[File:Daniel Ellsberg psychiatrist filing cabinet.jpg|thumb|Fielding's filing cabinet, with break-in marks, on display at the [[Smithsonian National Museum of American History]]]]
+In August 1971, Krogh and Young met with [[G. Gordon Liddy]] and [[E. Howard Hunt]] in a basement office in the [[Old Executive Office Building]]. Hunt and Liddy recommended a "covert operation" to get a "mother lode" of information about Ellsberg's mental state in order to discredit him. Krogh and Young sent a memo to Ehrlichman seeking his approval for a "covert operation [to] be undertaken to examine all of the medical files still held by Ellsberg's psychiatrist", Lewis Fielding. Ehrlichman approved under the condition that it be "done under your assurance that it is not traceable."<ref>{{Cite news|url=https://www.nytimes.com/2007/06/30/opinion/30krogh.html|first=Egil|last=Krogh|author-link=Egil Krogh|title=The Break-In That History Forgot|journal=The New York Times|date=June 30, 2007}}</ref>
+
+On September 3, 1971, the burglary of Fielding's office—titled "Hunt/Liddy Special Project No. 1" in Ehrlichman's notes—was carried out by [[White House Plumbers]] Hunt, Liddy, [[Eugenio Martínez]], Felipe de Diego and [[Bernard Barker]] (the latter three were, or had been, recruited CIA agents).<ref>{{cite web |url=https://www.courtlistener.com/opinion/325566/united-states-v-felipe-de-diego/ |title=United States v. Felipe de Diego, 511 F.2d 818 |website=CourtListener.com |publisher=[[Free Law Project]] |year=1975 |access-date=2017-12-05}}</ref> The Plumbers found Ellsberg's file, but it apparently did not contain the potentially embarrassing information they sought, as they left it discarded on the floor of Fielding's office.<ref>{{cite book |author=Hougan, Jim |title=Secret Agenda |publisher=[[Random House]] |year=1984 |isbn=978-0-394-51428-4 |url=https://archive.org/details/secretagendawate00houg |author-link=Jim Hougan }}</ref> Hunt and Liddy subsequently planned to break into Fielding's home, but Ehrlichman did not approve the second burglary. The break-in was not known to Ellsberg or to the public until it came to light during Ellsberg and Russo's trial in April 1973.
+
+==Trial and dismissal==
+On June 28, 1971, two days before a Supreme Court ruling saying that a federal judge had ruled incorrectly about the right of ''The New York Times'' to publish the Pentagon Papers,<ref name=upi1971yearinreview/> Ellsberg publicly surrendered to the [[United States District Court for the District of Massachusetts|United States Attorney's Office for the District of Massachusetts]] in [[Boston]]. In admitting to giving the documents to the press, Ellsberg said:
+:I felt that as an [[Citizenship of the United States|American citizen]], as a responsible citizen, I could no longer cooperate in concealing this information from the American public. I did this clearly at my own jeopardy and I am prepared to answer to all the consequences of this decision.<ref name=upi1971yearinreview/>
+He and Russo faced charges under the [[Espionage Act of 1917]] and other charges including theft and conspiracy, carrying a total maximum sentence of 115 years for Ellsberg, 35 years for Russo. Their trial commenced in Los Angeles on January 3, 1973, presided over by U.S. District Judge [[William Matthew Byrne Jr.]] Ellsberg tried to claim that the documents were ''illegally'' classified to keep them not from an enemy but from the American public.  However, that argument was ruled "irrelevant".  Ellsberg was silenced before he could begin.  Ellsberg said, in 2014, that his "lawyer, exasperated, said he 'had never heard of a case where a defendant was not permitted to tell the jury why he did what he did.' The judge responded: 'Well, you're hearing one now'. And so it has been with every subsequent whistleblower under indictment".<ref>{{Citation | last = Ellsberg | first = Daniel
+| author-link = Daniel Ellsberg | date = 2014-05-30
+| title = Daniel Ellsberg: Snowden would not get a fair trial – and Kerry is wrong
+| newspaper = The Guardian
+| url = https://www.theguardian.com/commentisfree/2014/may/30/daniel-ellsberg-snowden-fair-trial-kerry-espionage-act
+| access-date = 2015-06-23}}</ref>
+
+In spite of being effectively denied a defense, Ellsberg began to see events turn in his favor when the break-in of Fielding's office was revealed to Judge Byrne in a memo on April 26;  Byrne ordered it to be shared with the defense.<ref>{{Cite journal|url=http://content.time.com/time/subscriber/article/0,33009,907160,00.html|journal=Time|date=May 7, 1973|title=Practicing on Ellsberg}}</ref><ref name=byrneobit>{{Cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2006/01/14/AR2006011401165.html|title=Judge William Byrne; Ended Trial Over Pentagon Papers|journal=The Washington Post|date=January 15, 2006|pages=C09}}</ref>
+
+On May 9, further evidence of illegal wiretapping against Ellsberg was revealed in court. The FBI had recorded numerous conversations between [[Morton Halperin]] and Ellsberg without a [[court order]], and furthermore the prosecution had failed to share this evidence with the defense.<ref>[http://www.airforce-magazine.com/MagazineArchive/Pages/2007/February%202007/0207pentagon.aspx "''The Pentagon Papers''"] by John T. Correll, ''Air Force Magazine'', February 2007</ref> During the trial, Byrne also revealed that he personally met twice with John Ehrlichman, who offered him directorship of the FBI. Byrne said he refused to consider the offer while the Ellsberg case was pending, though he was criticized for even agreeing to meet with Ehrlichman during the case.<ref name=byrneobit/>
+
+Because of the gross governmental misconduct and illegal evidence gathering, and the defense by [[Leonard Boudin]] and [[Harvard Law School]] professor [[Charles Nesson]], Judge Byrne dismissed all charges against Ellsberg and Russo on May 11, 1973 after the government claimed it had lost records of wiretapping against Ellsberg. Byrne ruled: "The totality of the circumstances of this case which I have only briefly sketched offend a sense of justice. The bizarre events have incurably infected the prosecution of this case."<ref name=byrneobit/>
+
+As a result of the revelations involving the Watergate scandal, [[John Ehrlichman]], [[H. R. Haldeman]], [[Richard Kleindienst]], and [[John Dean]] were forced out of office on April 30, and all would later be convicted of crimes related to [[Watergate]]. Egil Krogh later pleaded guilty to conspiracy, and White House counsel [[Charles Colson]] pleaded no contest for obstruction of justice in the burglary.
+
+===Halperin case===
+It was also revealed in 1973, during Ellsberg's trial, that the telephone calls of [[Morton Halperin]], a member of the [[U.S. National Security Council]] staff suspected of leaking information about the secret bombing of Cambodia to ''The New York Times'', were being recorded by the FBI at the request of [[Henry Kissinger]] to [[J. Edgar Hoover]].
+
+Halperin and his family sued several federal officials, claiming the wiretap violated their [[Fourth Amendment to the United States Constitution|Fourth Amendment]] rights and Title III of the Omnibus Crime Control and Safe Streets Act of 1968. The court agreed that Richard Nixon, John Mitchell, and H. R. Haldeman had violated the Halperins' Fourth Amendment rights and awarded them $1 in nominal damages.<ref>[http://openjurist.org/606/f2d/1192#fn4_ref Halperin v. Kissinger] 1977</ref>
+
+===Plumbers' Ellsberg neutralization proposal===
+Ellsberg later claimed that after his trial ended, Watergate prosecutor [[William H. Merrill]] informed him of an aborted plot by Liddy and the "[[White House Plumbers|Plumbers]]" to have 12 [[Cuban American]]s who had previously worked for the CIA "totally incapacitate" Ellsberg when he appeared at a public rally. It is unclear whether they were meant to assassinate Ellsberg or merely to hospitalize him.<ref>{{Cite journal|url=http://www.democracynow.org/2006/4/27/exclusive_nixon_white_house_counsel_john|title=Nixon White House Counsel John Dean and Pentagon Papers Leaker Daniel Ellsberg on Watergate and the Abuse of Presidential Power from Nixon to Bush|date=April 27, 2006|journal=Democracy Now!}}</ref><ref>{{Cite journal|url=http://www.cnn.com/SPECIALS/cold.war/guides/debate/chats/ellsberg/ |title=COLD WAR Chat: Daniel Ellsberg, Anti-war activist |date=January 10, 1999 |journal=Cold War |url-status=dead |archive-url=https://web.archive.org/web/20081219071852/http://www.cnn.com/SPECIALS/cold.war/guides/debate/chats/ellsberg/ |archive-date=December 19, 2008 }}</ref> In his autobiography, Liddy describes an "Ellsberg neutralization proposal" originating from Howard Hunt, which involved drugging Ellsberg with [[LSD]], by dissolving it in his soup, at a fund-raising dinner in Washington in order to "have Ellsberg incoherent by the time he was to speak" and thus "make him appear a near burnt-out drug case" and "discredit him." The plot involved waiters from the [[Cuban migration to Miami|Miami Cuban]] community. According to Liddy, when the plan was finally approved, "there was no longer enough lead time to get the Cuban waiters up from their Miami hotels and into place in the Washington Hotel where the dinner was to take place" and the plan was "put into abeyance pending another opportunity."<ref>{{Cite book|title=Will: The Autobiography of G. Gordon Liddy|url=https://archive.org/details/willautobiograp00lidd|url-access=limited|last=Liddy|first=G. Gordon|author-link=G. Gordon Liddy|year=1980|publisher=St. Martin's Press|location=New York|pages=[https://archive.org/details/willautobiograp00lidd/page/170 170]–171|isbn=978-0-312-88014-9}}</ref>
+
+==Later activism and views==
+[[File:Ellsberg.ogv|thumb|Video interview with Daniel Ellsberg at [[Roskilde Universitets Center]], Denmark, 2004-10-26. (Unedited, the first 10 seconds are black.)]]
+Since the end of the Vietnam War, Ellsberg has continued his [[Activism|political activism]], giving lecture tours and speaking out about current events. Reflecting on his time in government, Ellsberg has said the following, based on his extensive access to classified material:
+
+:The public is lied to every day by the President, by his spokespeople, by his officers. If you can't handle the thought that the President lies to the public for all kinds of reasons, you couldn't stay in the government at that level, or you're made aware of it, a week. ... The fact is Presidents rarely say the whole truth—essentially, never say the whole truth—of what they expect and what they're doing and what they believe and why they're doing it and rarely refrain from lying, actually, about these matters.<ref>[https://www.youtube.com/watch?v=0y2wmpxM2VQ "Presidential Decisions and Public Dissent"], ''Conversations with History'', July 29, 1998</ref>
+
+=== Release of classified documents proposing 1958 nuclear attack on China ===
+On May 22, 2021, during the [[Presidency of Joe Biden|Biden administration]], ''The New York Times'' reported Ellsberg had released classified documents revealing the Pentagon in 1958 drew up plans to launch a nuclear attack on China amid tensions over the [[Taiwan Strait]]. According to the documents, US military leaders supported a first-use nuclear strike even though they believed China's ally, the Soviet Union, would retaliate and millions of people would perish. Ellsberg told ''The New York Times'' he copied the classified documents about the [[Taiwan Strait crisis of 1958|Taiwan Strait crisis]] fifty years earlier when he copied the Pentagon Papers, but chose not to release the documents then. Instead, Ellsberg released the documents in the Spring of 2021 because he said he was concerned about mounting tensions between the U.S. and China over the fate of Taiwan. He assumed the Pentagon was involved again in contingency planning for a nuclear strike on China should a military conflict with conventional weapons fail to deliver a decisive victory. “I do not believe the participants were more stupid or thoughtless than those in between or in the current cabinet," said Ellsberg, who urged President Biden, Congress and the public to take notice. 
+
+In releasing the classified documents, Ellsberg offered himself as a defendant in a test case challenging the Justice Department’s use of the [[Espionage Act of 1917]] to punish whistleblowers. Ellsberg noted the Act applies to everyone, not just spies, and prohibits a defendant from explaining the reasons for revealing classified information in the public interest.<ref>{{Cite news|last=Savage|first=Charlie|date=2021-05-22|title=Risk of Nuclear War Over Taiwan in 1958 Said to Be Greater Than Publicly Known|language=en-US|work=The New York Times|url=https://www.nytimes.com/2021/05/22/us/politics/nuclear-war-risk-1958-us-china.html|access-date=2021-06-15|issn=0362-4331}}</ref>
+
+===Anti-war activism===
+In an interview with ''[[Democracy Now]]'' on May 18, 2018, Ellsberg was critical of U.S. intervention overseas especially in the Middle East, stating, "I think, in Iraq, America has never faced up to the number of people who have died because of our invasion, our aggression against Iraq, and Afghanistan over the last 30 years, since we first inspired a CIA-sponsored jihad against the Soviets there, and led to the invasion by the Soviets. What we've done to the Middle East has been hell."<ref>{{cite web|url=https://www.democracynow.org/2018/5/18/whistleblower_daniel_ellsberg_civil_disobedience_against|title=Whistleblower Daniel Ellsberg: Civil Disobedience Against Vietnam War Led Me to Leak Pentagon Papers}}</ref>
+
+====Activism against US-led war against Iraq====
+[[File:DanielEllsberg.THF.WH.WDC.3jul06.jpg|thumb|Protesting with anti-war group [[Code Pink]] in 2006]]
+During the runup to the [[2003 invasion of Iraq]] he warned of a possible "[[Gulf of Tonkin incident|Tonkin Gulf scenario]]" that could be used to justify going to war, and called on government "insiders" to go public with information to counter the [[George W. Bush administration|Bush administration's]] [[Public relations preparations for 2003 invasion of Iraq|pro-war propaganda campaign]], praising [[Scott Ritter]] for his efforts in that regard.<ref>{{cite web|url=http://logosonline.home.igc.org/ellsberg.pdf|title=IGC.org|access-date=December 8, 2008|archive-url=https://web.archive.org/web/20081218011104/http://logosonline.home.igc.org/ellsberg.pdf|archive-date=December 18, 2008|url-status=dead}}</ref> <ref>{{Cite web|last=Jacobsen|first=Kurt|date=Fall 2002|title=Discussing Secrets: An Interview with Daniel Ellsberg|url=www,logosjournal.com|url-status=live}}</ref>He later supported the whistleblowing efforts of British [[Government Communications Headquarters|GCHQ]] translator [[Katharine Gun]] and called on others to leak any papers that reveal government deception about the invasion.<ref name="expertwitnessradio.org">{{cite web|url=http://www.expertwitnessradio.org/archives/ellsberg.html |title=The Expert Witness Radio Show with Michael Levine |publisher=Expertwitnessradio.org |access-date=December 2, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20110724162842/http://www.expertwitnessradio.org/archives/ellsberg.html |archive-date=July 24, 2011 |df=mdy }}</ref> Ellsberg also testified at the 2004 [[conscientious objector]] hearing of [[Camilo Mejia]] at [[Fort Sill|Fort Sill, Oklahoma]].<ref name="expertwitnessradio.org"/>
+
+Ellsberg was arrested, in November 2005, for violating a county ordinance for trespassing while protesting against [[George W. Bush]]'s conduct of the [[Iraq War]].<ref>{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2005/11/23/AR2005112302185.html |title=Antiwar Protesters Arrested Near Bush Ranch |work=The Washington Post |date= November 24, 2005|access-date=December 2, 2010 |first=Rosalind S. |last=Helderman}}</ref>
+
+He is a member of [[Campaign for Peace and Democracy]].
+
+Ellsberg criticized the arrest of WikiLeaks founder [[Julian Assange]], who had exposed [[American war crimes]] in Iraq.<ref>{{cite news |title=Daniel Ellsberg On Assange Arrest: The Beginning of the End For Press Freedom |url=https://therealnews.com/stories/daniel-ellsberg-on-assange-arrest-the-beginning-of-the-end-for-press-freedom |publisher=[[The Real News]] |date=11 April 2019}}</ref>
+
+====Activism against US military action against Iran====
+In September 2006, Ellsberg wrote in ''[[Harper's Magazine]]'' that he hoped someone would leak information about a potential U.S. invasion of [[Iran]] before the invasion happened, to stop the war.<ref>{{Citation | title =The Next War | journal =Harper's Magazine
+ | date =October 2006 | url =http://harpers.org/archive/2006/10/the-next-war/ | access-date=July 9, 2013}}</ref> Ellsberg called for further leaks following the release of information on the acceleration of U.S.-sponsored anti-government activity in Iran that was leaked to journalist [[Seymour Hersh]]. In November 2007, Ellsberg was interviewed by [[Brad Friedman]] on his blog in regard to former FBI translator turned whistle blower [[Sibel Edmonds]]. "I'd say what she has is far more explosive than the Pentagon Papers", Ellsberg told Friedman.<ref>{{cite web|title=Exclusive: Daniel Ellsberg Says Sibel Edmonds Case 'Far More Explosive Than Pentagon Papers'|url=http://www.bradblog.com/?p=5260|website=The Brad Blog|access-date=16 December 2017}}</ref>
+
+In a speech on March 30, 2008 in San Francisco's [[Unitarian Universalism|Unitarian Universalist]] church, Ellsberg observed that [[Speaker of the United States House of Representatives|House Speaker]] [[Nancy Pelosi]] does not have the authority to declare [[Impeachment in the United States|impeachment]] "off the table," as she had done with respect to George W. Bush. The oath of office taken by members of congress requires them to "defend the Constitution of the United States against all enemies, foreign and domestic". He also pointed out that under Article VI of the [[U.S. Constitution]], treaties, including the [[United Nations Charter]] and international labour rights accords that the United States has signed, become the supreme law of the land that neither the states, the president, nor the congress have the power to break. For example, if the Congress votes to authorize an unprovoked attack on a sovereign nation, that authorization wouldn't make the attack legal. A president citing the authorization as just cause could be prosecuted in the [[International Criminal Court]] for [[war crime]]s.<ref>{{cite web|author=Saryl Weinstein |url=http://warandlaw.homestead.com/files/Ellsnews.htm |title=Congress should probe Bush's Iran attack plan, says Ellsberg, warning of supreme war crime |publisher=Warandlaw.homestead.com |access-date=December 2, 2010}}</ref>
+
+[[File:Daniel Ellsberg Speaking (2545923457).jpg|thumb|Ellsberg speaking in 2008]]
+[[File:Daniel Ellsberg, Mike Myatt, & Robert Rosenthal (15180381714).jpg|thumb|Ellsberg with [[Robert Jon Rosenthal|Robert Rosenthal]] in 2008]]
+[[File:Daniel Ellsberg at San Francisco Pride Parade 2013..JPG|thumb|At San Francisco Pride Parade 2013]]
+
+===Support for American whistleblowers===
+On December 9, 2010, Ellsberg appeared on ''[[The Colbert Report]]'' where he commented that the existence of [[WikiLeaks]] helps to build a better government.<ref>{{cite web|url=http://www.colbertnation.com/the-colbert-report-videos/368131/december-09-2010/international-manhunt-for-julian-assange---daniel-ellsberg|title=The Colbert Report|website=Comedy Central}}</ref>
+
+On March 21, 2011, Ellsberg, along with 35 other demonstrators, was arrested during a demonstration outside the [[Marine Corps Base Quantico]], in protest of Manning's current detention at [[Marine Corps Brig, Quantico]].<ref>{{cite web|url=http://news.sky.com/story/843636/arrests-at-wikileaks-marine-base-protest|archive-url=https://archive.today/20120714183731/http://news.sky.com/story/843636/arrests-at-wikileaks-marine-base-protest|url-status=dead|title=Arrests At WikiLeaks Marine Base Protest|date=July 14, 2012|archive-date=July 14, 2012|publisher=Sky News}}</ref>
+
+On June 10, 2013, Ellsberg published an editorial in ''[[The Guardian]]'' newspaper praising the actions of former [[Booz Allen Hamilton|Booz Allen]] worker [[Edward Snowden]] in revealing top-secret surveillance programs of the [[NSA]].<ref>{{cite news|author=Daniel Ellsberg |url=https://www.theguardian.com/commentisfree/2013/jun/10/edward-snowden-united-stasi-america |title=Edward Snowden: saving us from the United Stasi of America |work=The Guardian |access-date=June 10, 2013 |location=London |date=June 10, 2013}}</ref> Ellsberg believes that the United States has fallen into an "abyss" of total tyranny, but said that because of Snowden's revelations, "I see the unexpected possibility of a way up and out of the abyss."
+
+In June 2013, Ellsberg and numerous celebrities appeared in a video showing support for [[Chelsea Manning]].<ref>{{cite web|url=http://www.politico.com/story/2013/06/celebrity-bradley-manning-video-93041.html#ixzz2WgfpNmys|title=Celeb video: 'I am Bradley Manning'}}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=UFFkcCh-pCc|title=I am Bradley Manning (full HD)|last=I am Bradley Manning|date=June 18, 2013|via=YouTube}}</ref>
+
+On June 17, 2010, Ellsberg was interviewed regarding the parallels between his actions in releasing the ''Pentagon Papers'' and those of Private First Class [[Chelsea Manning]], who was arrested by the U.S. military in Iraq after allegedly providing to [[WikiLeaks]] a classified video showing [[July 12, 2007, Baghdad airstrike|U.S. military helicopter gunships strafing and killing Iraqis]] alleged to be civilians, including two [[Reuters]] journalists. Manning claimed to have provided WikiLeaks with secret videos of additional massacres of alleged civilians in Afghanistan, as well as 260,000 classified [[U.S. State Department|State Department]] cables. Ellsberg said that he fears for Manning and for [[Julian Assange]], as he feared for himself after the initial publication of the ''Pentagon Papers''. WikiLeaks initially said it had not received the cables, but did plan to post the video of an [[Garani airstrike|attack that killed 86 to 145 Afghan civilians]] in the village of Garani. Ellsberg expressed hope that either Assange or President Obama would post the video, and expressed his strong support for Assange and Manning, whom he called "two new heroes of mine".<ref>[http://www.democracynow.org/2010/6/17/wikileaks_whistleblowers "With Rumored Manhunt for Wikileaks Founder and Arrest of Alleged Leaker of Video Showing Iraq Killings, Obama Admin Escalates Crackdown on Whistleblowers of Classified Information"] democracynow.org, June 17, 2010</ref><ref>[http://www.thedailybeast.com/blogs-and-stories/2010-06-15/wikileaks-founder-has-garani-massacre-video-according-to-new-email/ "WikiLeaks Founder to Release Massacre Video"] {{Webarchive|url=https://web.archive.org/web/20100619124459/http://www.thedailybeast.com/blogs-and-stories/2010-06-15/wikileaks-founder-has-garani-massacre-video-according-to-new-email/ |date=June 19, 2010 }} http://www.thedailybeast.com, Philip Shenon, June 16, 2010</ref>
+
+''[[Democracy Now!]]'' devoted a substantial portion of its program July 4, 2013, to "How the Pentagon Papers Came to be Published By the Beacon Press Told by Daniel Ellsberg & Others."  Ellsberg said there are hundreds of public officials right now who know that the public is being lied to about Iran. They all took an oath to protect the [[Constitution of the United States]], not the commander-in-chief, not superior officers. If they follow orders, they may become complicit in starting an unnecessary war. If they are faithful to their oath, they could prevent that war. Exposing official lies could however carry a heavy personal cost as they could be imprisoned for unlawful disclosure of classified information.<ref>{{Citation |last=Goodman |first=Amy |author-link=w:Amy Goodman |title=How the Pentagon Papers Came to be Published By the Beacon Press Told by Daniel Ellsberg & Others |publisher=Democracy Now! |date=July 4, 2013 |url=http://www.democracynow.org/2013/7/4/how_the_pentagon_papers_came_to |access-date=July 9, 2013}}</ref>
+
+In 2012, Ellsberg became one of the co-founders of the [[Freedom of the Press Foundation]].
+
+Ellsberg is a founding member of the [[Veteran Intelligence Professionals for Sanity]].<ref name="AndyWorthington2015-09-15"/>{{better source needed|appears to be SPS|date=February 2021}}
+In September 2015 Ellsberg and 27 other members of VIPS steering group wrote a letter to the President challenging a recently published book, that claimed to rebut the report of the [[United States Senate Intelligence Committee]] on the [[Central Intelligence Agency]]'s use of torture.{{citation needed|date=February 2021}}
+
+In December 2015, Ellsberg publicly supported the [[Tor (network)|Tor anonymity network]], referencing its utility for [[whistle blowing]] in general for the maintenance of [[democracy]] via the [[First Amendment to the United States Constitution|First Amendment]].<ref>{{cite web|url=https://blog.torproject.org/blog/what-tor-supporter-looks-daniel-ellsberg|title=This is What a Tor Supporter Looks Like: Daniel Ellsberg – Tor Blog|website=blog.torproject.org}}</ref>
+
+In spring of 2019, WikiLeaks players Assange and Manning resurfaced in the news - with Assange being arrested and carried out from the [[Embassy of Ecuador, London|Ecuadorian embassy in London]] and Manning twice subpoenaed to testify.<ref>{{Cite web|url=https://www.cnn.com/2019/05/12/politics/chelsea-manning-jail-subpoena-wikileaks-cnntv/index.html|title=Chelsea Manning says she doesn't know if she'll be jailed again|last=Cole|first=Devan|date=2019-05-12|website=CNN|access-date=2019-05-24}}</ref><ref>{{Cite web|url=https://www.smh.com.au/world/north-america/wikileaks-founder-julian-assange-charged-in-new-us-indictment-20190524-p51qnt.html|title=WikiLeaks founder Julian Assange charged with espionage|date=2019-05-23|website=The Sydney Morning Herald|language=en|access-date=2019-05-24}}</ref> Weeks later, Assange was indicted on 18 charges under the 1917 wartime [[Espionage Act of 1917|Espionage Act]].<ref>{{Cite web|url=https://www.newsweek.com/julian-assange-no-journalist-wikileaks-founder-indicted-17-counts-espionage-1434739|title="Julian Assange is no journalist" says DOJ prosecutor after indicting WikiLeaks founder on espionage charges|last=Zhao|first=Christina|date=2019-05-23|website=Newsweek|language=en-US|access-date=2019-05-24}}</ref> In 2020, Ellsberg testified in defense of Assange during Assange's extradition hearings.<ref>{{Cite web|date=2020-09-16|title=Pentagon Papers leaker comes to the defense of Assange|url=https://apnews.com/article/julian-assange-daniel-ellsberg-archive-extradition-united-states-2fe79f6b7e3171b3865cdccc3ecce822|access-date=2020-10-07|website=AP NEWS}}</ref>  Ellsberg has spoken out vociferously against the threats to press freedom from such whistleblower prosecution.<ref>{{Cite web|url=https://www.truthdig.com/articles/daniel-ellsberg-assanges-arrest-is-the-beginning-of-the-end/|title=Daniel Ellsberg: Assange's Arrest Is the Beginning of the End|last=Pireres|first=Sharmini|date=2019-04-12|website=Truthdig: Expert Reporting, Current News, Provocative Columnists|access-date=2019-05-24}}</ref><ref>{{Cite web|url=https://therealnews.com/stories/daniel-ellsberg-on-julian-assanges-espionage-charges|title=Daniel Ellsberg on Julian Assange's Espionage Charges|date=2019-05-23|website=The Real News Network|language=en-US|access-date=2019-05-24}}</ref><ref>{{Cite web|last=craig|date=2020-09-17|title=Your Man in the Public Gallery: Assange Hearing Day 11|url=https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-assange-hearing-day-11/|access-date=2020-10-17|website=Craig Murray|language=en-US}}</ref>
+
+===Support for Occupy Movement===
+On November 16, 2011 Ellsberg camped on the [[UC Berkeley]] [[Sproul Plaza]] as part of an effort to support the [[Occupy Cal]] movement.<ref>[http://www.sacbee.com/2011/11/16/4059116/daniel-ellsberg-part-of-uc-berkeley.html Daniel Ellsberg part of UC Berkeley Occupy protest]{{dead link|date=May 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+===''The Doomsday Machine''===
+
+In December 2017, Ellsberg published ''The Doomsday Machine: Confessions of a [[Nuclear War]] Planner''.  He said that his primary job from 1958 until releasing the ''[[Pentagon Papers]]'' in 1971 was as a nuclear war planner for US Presidents [[Dwight D. Eisenhower|Eisenhower]], [[John F. Kennedy|Kennedy]], [[Lyndon Baines Johnson|Johnson]], and [[Richard M. Nixon|Nixon]].  He concluded that US nuclear war policy was completely crazy and he could no longer live with himself without doing what he could to expose it, even if it meant he would spend the rest of his life in prison.  However, he also felt that as long as the US was still involved in the Vietnam War, the US electorate would not likely listen to a discussion of nuclear war policy.  He therefore copied two sets of documents, planning to release first the ''Pentagon Papers'' and later documentation of nuclear war plans.  However, the nuclear planning materials were hidden in a [[landfill]] and then lost during an unexpected [[tropical storm]].<ref>Kevin Canfield, [http://www.sfgate.com/books/article/The-Doomsday-Machine-by-Daniel-Ellsberg-12413956.php 'The Doomsday Machine,' by Daniel Ellsberg] ''San Francisco Chronicle'', retrieved December 21, 2017.</ref>
+
+His overriding concerns are as follows:  
+# As long as the world maintains large nuclear arsenals, it is not a matter of if, but when, a nuclear war will occur.  
+# The vast majority of the population of an initiator state would likely starve to death during a "nuclear autumn" or "[[nuclear winter]]" if they did not die earlier from retaliation or fallout.  If the nuclear war dropped only roughly 100 nuclear weapons on cities, as in a war between India and Pakistan, the effect would be similar to the "[[Year Without a Summer]]" that followed the [[1815 eruption of Mount Tambora]], except that it would last more like a decade, because soot would not settle out of the [[stratosphere]] as quickly as the volcanic debris, and roughly a third of the people worldwide not killed by the nuclear exchange would starve to death, because of the resulting crop failures.  However, if more than roughly 2 percent of the US nuclear arsenal were used, the results would more likely be a [[nuclear winter]], leading to the deaths from starvation of 98 percent of people worldwide not killed by the nuclear exchange.  
+# To preserve the ability of a [[List of states with nuclear weapons|nuclear-weapon state]] to retaliate from a [[Decapitation strike|"decapitation" attack]], every country with nuclear weapons seems to have delegated broadly the authority to respond to an apparent nuclear attack.
+
+As an example of the third concern, Ellsberg discussed an interview he had in 1958 with a major, who commanded a squadron of 12 [[North American F-100 Super Sabre|F-100]] fighter-bombers at [[Kunsan Air Base]], [[South Korea]].  His aircraft were equipped with [[B28 nuclear bomb|Mark 28]] thermonuclear weapons with a yield of 1.1 [[TNT equivalent|megatons]] each, roughly half the explosive power of all the bombs dropped by the US in World War II both in Europe and the Pacific.  The major said his official orders were to wait for orders from his superiors in [[Osan Air Base]], South Korea, or in Japan before ordering his F-100s into the air.  However, the major also said that standard military doctrine required him to protect his forces.  That meant that if he had reason to believe that a war had already begun when his communications with Osan and Japan were broken, he was required to launch his dozen F-100s with their thermonuclear weapons.  They never practiced that launch, because the risk of an accident was too great.  Ellsberg then asked what might happen if he gave such launch orders and the sixth plane succumbed to a thermonuclear accident on the runway.  After some thought, the major agreed that the five planes already in the air would likely conclude that a nuclear war had begun, and they would likely deliver their warheads to their preassigned targets.<ref>{{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 52ff.</ref>
+
+The "[[nuclear football]]" carried by an aide near the US President at all times is primarily a piece of political theater, a hoax, to keep the public ignorant of the real problems of nuclear command and control, he said.<ref>{{cite Q|Q63862699}}<!--Doomsday Machine-->, p. 69.</ref>
+
+In Russia, this included a semi-automatic "[[Dead Hand]]" system, whereby a nuclear explosion in Moscow, whether accidental or by a foreign state or terrorists, would induce low-level officers to launch ICBMs toward targets in the US, presumed to be the origin of such attacks.  The first ICBMs launched in this way "would beep a Go signal to any ICBM sites they passed over", which would launch those other ICBMs without further human intervention.<ref>{{cite Q|Q63862699}}<!--Doomsday Machine-->, p. 303</ref>
+
+==== Nuclear threats by the United States ====
+
+Ellsberg also claimed that every president since Truman, with the possible exception of Ford, threatened the use of nuclear weapons.  Some of these threats were implicit;  many were explicit.  Many governmental officials and authors claimed that those threats made major contributions to achieving important policy objectives. Ellsberg's examples are summarized in the following table:<ref>For more on this, see especially {{cite Q|Q63874626}}<!--Call to Mutiny-->;  {{cite Q|Q63874634}}<!-- Force without War:  U.S. Armed forces as a political instrument -->;  {{cite Q|Q63874641}}<!--Empire and the bomb:  How the U.S. uses nuclear weapons to dominate the world -->;  {{cite Q|Q63874649}}<!-- U.S. Nuclear Threats:  A documentary history -->;  {{cite Q|Q63874665}}<!-- Nuclear Blackmail and Nuclear Balance -->, cited from {{cite Q|Q63862699}}<!--Doomsday Machine-->, especially the second-to-last chapter.</ref>
+
+{| class="wikitable"
+! President !! Target !! Incident
+|- 
+| rowspan="2" | [[Harry S. Truman|Truman (1945-53)]]
+| {{Flag|Soviet Union}}
+| [[Berlin Blockade]] (24 June 1948 – 12 May 1949).<ref>At the outset of this incident, Truman deployed "atomic capable" B-29s, similar to those that dropped atomic bombs on Hiroshima and Nagasaki, to bases in Britain and Germany to deter the Soviet Union from officially transferring to East Germany control of the land corridor to Berlin, an explicit part of the Soviet plan. {{cite Q|Q63873810}}<!-- The Winning Weapon -->, pp. 256-274, cited from {{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 319, 378.</ref>
+|- 
+| {{Flag|People's Republic of China}}
+| [[Korean War#China intervenes (October–December 1950)|Chinese intervention in the Korean War (October 1950)]].<ref>Truman's press conference warning that atomic weapons were under active consideration for Korea, November 30, 1950, after China entered the war.  {{cite Q|Q63874136}}<!-- The Atomic Bomb and the First Korean War --></ref>
+|- 
+| rowspan="4" | [[Dwight D. Eisenhower|Eisenhower (1953-61)]] 
+| {{Flag|People's Republic of China}}
+| Korean War,<ref>For Eisenhower's secret nuclear threats against China to force and maintain a settlement in Korea in 1953, see {{cite Q|Q61945939}}<!-- Mandate for change-->, pp. 178-181, and {{cite Q|Q63874409}}<!-- Deterrence in American Foreign Policy -->, pp. 237-241, cited from {{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 319, 378.</ref> and Taiwan Strait crises of [[First Taiwan Strait Crisis|1954-55]] and [[Second Taiwan Strait Crisis|1958]].<ref name='Halperin1966'>{{cite Q|Q63874609}}<!-- The 1958 Taiwan Straits Crisis:  A documentary history-->, cited from {{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 320, 378.</ref>
+|-
+| {{Flagicon image|Flag of North Vietnam (1945–1955).svg}} [[Viet Minh|Vietnamese communists]]
+| US offers nuclear support to the French at [[Battle of Dien Bien Phu|Dien Bien Phu (1954)]].<ref>[[Hearts and Minds (film)]];  {{cite Q|Q63874430}}, pp. 121-122; see also {{cite Q|Q63874435}}<!--Memoirs of Richard Nixon -->, pp. 150-155;  cited from {{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 319, 378.</ref>
+|- 
+| {{Flag|Soviet Union}}
+| 1956 [[Suez Crisis]] and the [[Berlin Crisis of 1958–1959|1958-59 Berlin crisis]].<ref name='Nixon1985'>{{cite Q|Q63885038}}<!-- Nixon:  A nation coming into its own, July 29, 1985-->, cited from {{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 320, 379.</ref>
+|- 
+| {{Flag|Iraq|1958}}
+| to deter an invasion of [[Sheikhdom of Kuwait|Kuwait]] during the [[1958 Lebanon Crisis]].<ref>{{cite Q|Q63874634}}<!-- Force without War:  U.S. Armed forces as a political instrument -->, pp. 238, 256, cited from {{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 320, 379.</ref>
+|- 
+| [[John F. Kennedy|Kennedy (1961-63)]] 
+| {{Flag|Soviet Union}}
+| [[Berlin Crisis of 1961]]<ref>{{cite Q|Q63862699}}<!--Doomsday Machine-->, ch. 10, "Berlin and the Missile Gap";  also {{cite Q|Q63874634}}<!-- Force without War:  U.S. Armed forces as a political instrument -->, pp. 343-439;  cited from {{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 320, 379.  NOTE:  On p. 176, Ellsberg mentioned "ending the Berlin Crisis in 1961".  Later, on p. 321, he mentioned "the 1961-62 Berlin crisis."  There is a Wikipedia article on "Berlin Crisis of 1961".  I therefore decided to ignore the reference to 1962 in this context, as I have not seen other references to Berlin crisis in 1962 and mentioning it would produce an apparent conflict with the title of the existing Wikipedia article on that.</ref> and 1962 [[Cuban Missile Crisis]].<ref>{{cite Q|Q63862699}}<!--Doomsday Machine-->, ch. 12. "My Cuban Missile Crisis" and ch. 13. "Cuba: The real story".</ref>
+|- 
+| [[Lyndon B. Johnson|Johnson (1963-1969)]] 
+| {{Flag|North Vietnam}}
+| [[Battle of Khe Sanh]], Vietnam, 1968.<ref>{{cite Q|Q63887635}}<!-- The Unmaking of a President -->, pp. 89-91;  also {{cite Q|Q63888313}}<!-- William C. Westmoreland (1976) A Soldier Reports -->, p. 338;  cited from {{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 320, 379.</ref>
+|-
+| rowspan="3" | [[Richard M. Nixon|Nixon (1969-1974)]] 
+| {{Flag|Soviet Union}}
+| to deter an attack on Chinese nuclear capability, 1969–70, or a Soviet response to possible Chinese intervention against India in the [[Indo-Pakistan War of 1971]], or an intervention in the [[Yom Kippur War|1973 Arab-Israeli War]].<ref name='Nixon1985'/><!-- Nixon:  A nation coming into its own, July 29, 1985--> 
+|-
+| {{Flag|North Vietnam}}
+| Secret threats of massive escalation of the [[Vietnam War#Vietnamization, 1969–1972|Vietnam War]], including possible use of nuclear weapons, 1969-1972.<ref>{{cite Q|Q63888819}}<!-- H. R. Haldeman, The Ends of Power-->,  pp. 81-85, 97-98;  {{cite Q|Q63874435}}<!--Memoirs of Richard Nixon -->, pp. 393-414;  {{cite Q|Q42194571}}<!-- Seymour Hersh, The Price of Power:  Kissinger in the Nixon White House-->;  {{cite Q|Q58522397}}<!--Larry Berman, No Peace, No Honor:  Nixon, Kissinger, and betrayal in Vietnam-->;  {{cite Q|Q63889289}}<!-- John A. Farrell, Richard Nixon:  The Life -->;  cited from {{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 320, 379.</ref>
+|- 
+| {{Flag|India}}
+| [[Indo-Pakistan War of 1971]]<ref name='Nixon1985'/><!-- Nixon:  A nation coming into its own, July 29, 1985-->
+|- 
+| [[Gerald Ford|Ford (1974-77)]] 
+| {{Flag|North Korea}}
+| [[Korean axe murder incident]], in which two US army officers were killed while trying to trim a tree blocking open observation of the [[Korean Demilitarized Zone|Demilitarized Zone]].  Two days later, the tree was cut to a stump 6 meters tall in a massive show of force that included a [[B-52]] nuclear-capable bomber flying straight toward [[Pyongyang]] escorted by high performance fighter aircraft, while a US aircraft carrier task force moved into station just offshore.  Ellsberg noted that it might be more accurate to classify this incident ''not'' as  "nuclear threat" but a "show of force".<ref>{{cite Q|Q62111338}}<!-- Norris and Kristensen, U.S. Nuclear Threats-->;  {{cite Q|Q63892384}}<!-- John K. Singlaub, Hazardous Duty:  An American soldier in the twentieth century-->; {{cite Q|Q63893129}}<!-- Richard A. Mobley, Revisiting the Korean Tree-Trimming Incident-->, pp. 110-111, 113-114; consistent with {{cite Q|Q63874634}}<!-- Force without War:  U.S. Armed forces as a political instrument -->;  cited from {{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 321, 379.</ref>
+|- 
+| [[Jimmy Carter|Carter (1977-81)]]
+| rowspan="2" | {{Flag|Soviet Union}}
+| rowspan="2" | The [[Carter Doctrine]] on the Middle East to deter the Soviets, already in [[Afghanistan]], from moving next door into [[Iran]] to try to control the [[Persian Gulf]], through which the majority of the world's oil flowed at that time.<ref>This event was virtually unknown at the time outside secret government circles.  It was discussed six years later by {{cite Q|Q63917293}}<!--Schemmer (Sept. 1986) "Was the US ready to resort to nuclear weapons for the Persian Gulf in 1980?", Armed Forces Journal International --> and picked up by {{cite Q|Q63916660}}<!-- Halloran, "Washington Talk;  How leaders think the unthinkable", NYT, Sept 2, 1986-->.  It was described by Carter's Press Secretary Jody Powell as "the most serious nuclear crisis since the Cuban Missile Crisis."  See also {{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 321, 380.</ref>
+|- 
+| [[Ronald Reagan|Reagan (1981-1989)]] 
+|- 
+| [[George H. W. Bush|GHW Bush (1989-1993)]]
+| {{Flag|Ba'athist Iraq|name=Iraq|1963}}
+| [[Gulf War|Operation Desert Storm]].<ref>{{cite Q|Q62111338}}<!-- Norris and Kristensen, U.S. Nuclear Threats-->, p. 71;   {{cite Q|Q63919049}};  cited from {{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 321, 380.</ref>  
+|-
+| rowspan="2" | [[Bill Clinton|Clinton (1993-2001)]]
+| {{Flag|North Korea}}
+| secret threats in 1995 on its nuclear reactor program.<ref>{{cite Q|Q62111338}}<!-- Norris and Kristensen, U.S. Nuclear Threats-->, p. 70, citing testimony by General [[Eugene E. Habiger]] before the [[United States Senate Committee on Armed Services|U.S. Senate Armed Services Committee]], March 13, 1977; cited from {{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 321, 380.</ref>  
+|- 
+| {{Flagicon image|Flag of Libya (1977–2011).svg}} [[History of Libya under Muammar Gaddafi|Libya]]
+| Public warning of a nuclear option against Libya's underground chemical weapons facility in 1996.<ref>{{cite Q|Q62111338}}<!-- Norris and Kristensen, U.S. Nuclear Threats-->, citing {{cite Q|Q63919240}};  cited from {{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 322, 380.</ref> 
+|- 
+| [[George W. Bush|GW Bush (2001-2009)]] and all presidents and leading candidates since 
+| {{Flag|Iran}}
+| Threats of a nuclear attack against Iran's nuclear program.<ref>{{cite Q|Q63862699}}<!--Doomsday Machine-->, pp. 327-332, 380-381</ref>
+|}
+
+==Awards and honors==
+Ellsberg is the recipient of the Inaugural [[The Ridenhour Prizes|Ron Ridenhour Courage Prize]], a prize established by [[The Nation Institute]] and the Fertel Foundation.<ref>{{cite web|url=http://www.ridenhour.org/recipients_01b.shtml |title=Ron Ridenhour Courage Prize |publisher=Ridenhour.org |access-date=December 2, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20101130193949/http://www.ridenhour.org/recipients_01b.shtml |archive-date=November 30, 2010 |df=mdy}}</ref> In 1978 he accepted the [[Gandhi Peace Award]] from [[Promoting Enduring Peace]]. On September 28, 2006 he was awarded the [[Right Livelihood Award]] for "putting peace and truth first, at considerable personal risk, and dedicating his life to inspiring others to follow his example".<ref>[http://www.rightlivelihood.org/daniel-ellsberg.html Right Livelihood Award] {{webarchive|url=https://web.archive.org/web/20100620102101/http://rightlivelihood.org/daniel-ellsberg.html |date=June 20, 2010}} Daniel Ellsberg 2006</ref> He received the Dresden Peace Prize in 2016.<ref name="Dresden">{{cite web |title=Laureates – Dresden-Preis |url=http://dresdner-friedenspreis.de/laureates/?lang=en |website=dresdner-friedenspreis.de |access-date=16 November 2018 |archive-url=https://web.archive.org/web/20190104164251/http://dresdner-friedenspreis.de/laureates/?lang=en |archive-date=January 4, 2019 |url-status=dead }}</ref> He received the [[Olof Palme Prize]] in 2018.<ref name=":0" />
+
+==Ellsberg Papers==
+
+The [[University of Massachusetts Amherst]] has acquired the papers of Daniel Ellsberg.<ref>{{cite web |last1=Blaguszewski |first1=Ed |title=Historic Collection of Whistleblower Daniel Ellsberg's Life Work Acquired by University of Massachusetts Amherst Materials Include His Prominent Role in the Pentagon Papers, Fight Against Nuclear Weapons |url=https://www.umass.edu/newsoffice/article/historic-collection-whistleblower-daniel |website=University of Massachusetts AMherst |access-date=October 30, 2019}}</ref><ref>{{cite web |last1=Ellsberg |first1=Daniel |title=The Daniel Ellsberg Collection: I. Contents of the Archive |url=https://www.youtube.com/watch?v=mr_eSX79PIE |website=YouTube |access-date=October 30, 2019}}</ref>
+
+==Personal life==
+Ellsberg has been married twice. His first marriage was to Carol Cummings, a graduate of [[Radcliffe College|Radcliffe]] (now [[Harvard College]]) whose father was a Marine Corps brigadier general. It lasted 13 years before ending in divorce (at her request, as he stated in his memoir ''Secrets''). They have two children, [[Robert Ellsberg]] and [[Mary Ellsberg]]. In 1970, he married Patricia Marx, daughter of toy maker [[Louis Marx]]. They lived for some time afterward in [[Mill Valley, California]].<ref>[https://www.marinij.com/2018/01/25/mill-valleys-counter-culture-on-display/ Mill Valley's counter culture on display], ''[[Marin Independent Journal]]'',  Mary Ann Hogan, Mary Ann Maggiore, Mary Anne Ostrom, January 25, 2018. Retrieved December 25, 2018.</ref> They are the parents of a son, [[Michael Ellsberg]], who is an author and journalist.<ref name=motherjones1982>{{Cite news|last=Spake|first=Amanda|title=Ellsberg Rising|newspaper=[[Mother Jones (magazine)|Mother Jones]]|location=San Francisco|pages=40–46|date=Sep–Oct 1982|url=https://books.google.com/books?id=duYDAAAAMBAJ&pg=PA40 |access-date=July 2, 2010}}</ref><ref>[http://www.ellsberg.com/ Who Is Michael Ellsberg?]. Ellsberg.com.</ref>
+
+==Books==
+* Ellsberg, Daniel (2002). [https://web.archive.org/web/20130528101739/http://www.us.penguingroup.com/nf/Book/BookDisplay/0,,9780142003428,00.html?Secrets_Daniel_Ellsberg ''Secrets: A Memoir of Vietnam and the Pentagon Papers.''] New York: Viking Press. {{ISBN|0670030309}}
+* {{cite book |first=Daniel |last=Ellsberg |year=2001 |isbn=978-0815340225 |title=Risk, Ambiguity, and Decision |url=https://books.google.com/books?id=m6fOB0XuZ1cC}}
+* [[Ann Wright]], Susan Dixon (2008). [http://www.koabooks.com/doc/KoaBooksCatalog.pdf ''Dissent: Voices of Conscience''], Foreword by Daniel Ellsberg. Hawaii: [[Koa Books]]. {{ISBN|978-0977333844}}
+* {{cite book |url=https://books.google.com/books?id=Jrppb5Z8ULIC |title=Flirting with Disaster: Why Accidents are Rarely Accidental |first1=Marc S. |last1=Gerstein |first2=Michael |last2=Ellsberg |year=2008 |publisher=Sterling Publishing |isbn=9781402753039}}
+* [https://web.archive.org/web/20090304155439/http://p3books.com/madelovegotwar/ ''Made Love, Got War: Close Encounters with America's Warfare State''] By [[Norman Solomon]], Foreword by Daniel Ellsberg, September 2007 – Publisher: Polipoint Press
+* [[E. P. Thompson]], [[Dan Smith (British author)|Dan Smith]] (ed.) (1981). [https://monthlyreview.org/product/protest_and_survive/ ''Protest and Survive''], Introduction by Daniel Ellsberg. New York: Monthly Review Press. {{ISBN|978-0853455820}}
+* {{cite book |url=https://archive.org/details/mostdangerousdan0000shei |title=Most Dangerous: Daniel Ellsberg and the Secret History of the Vietnam War |publisher=Roaring Brook Press |location=New York |author=Steve Sheinkin |year=2015 |isbn=978-1596439528 |author-link=Steve Sheinkin }}
+* {{cite book |last=Ellsberg |first=Daniel |year=2017 |title=The Doomsday Machine: Confessions of a Nuclear War Planner |publisher=Bloomsbury |isbn=978-1608196708 |url=https://www.bloomsbury.com/us/the-doomsday-machine-9781608196708/ |access-date=2018-02-03 }}{{Dead link|date=July 2021 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+==Films==
+* ''[[Pentagon Papers (Film)|The Pentagon Papers]]'' (2003) is a [[Historical drama film|historical film]] directed by [[Rod Holcomb]] about the Pentagon Papers and Daniel Ellsberg's involvement in their publication. The movie, in which he is portrayed by [[James Spader]], documents Ellsberg's life, starting with his work for RAND Corp and ending with the day on which the judge declared his espionage trial a mistrial.
+* ''[[The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers]]'' (2009) a feature-length documentary by Judith Ehrlich and Rick Goldsmith traced the decision-making processes by which Ellsberg came to leak the Pentagon Papers to the press, ''The New York Times'' decision to publish, the fallout in the media after publication, and the Nixon Administration's legal and extra-legal campaign to discredit and incarcerate Ellsberg. The film was nominated for an Academy Award for Best Documentary Feature and won a Peabody Award after its 2010 POV broadcast on PBS.<ref>{{cite web |url=http://www.mostdangerousman.org/ |title=The Documentary Film about Daniel Ellsberg, from Ehrlich and Goldsmith's ''Most Dangerous Man'' |publisher=Mostdangerousman.org |access-date=December 2, 2010 |archive-url=https://web.archive.org/web/20080612204859/http://www.mostdangerousman.org/ |archive-date=June 12, 2008 |url-status=dead }}</ref>
+* [[Hearts and Minds (film)|''Hearts and Minds'']], a 1974 documentary film about the Vietnam War with extensive interviews with Ellsberg.
+* ''[[The Post (film)|The Post]]'' is a 2017 historical drama film directed and co-produced by [[Steven Spielberg]] from a script written by Liz Hannah and [[Josh Singer]] about a pair of ''[[The Washington Post]]'' employees who battle the federal government over their right to publish the ''Pentagon Papers''. In the movie, Ellsberg is portrayed by [[Matthew Rhys]]. The film also stars [[Tom Hanks]] as [[Ben Bradlee]] and [[Meryl Streep]] as [[Katharine Graham]].
+* [[The Boys Who Said NO! (film)|''The Boys Who Said NO!'']], a 2020 documentary film about the draft resistance movement during the Vietnam War, including interviews with Ellsberg where he talks about the impact resisters had on his decision to risk life in prison for releasing the Pentagon Papers. Directed by Oscar-nominated filmmaker Judith Ehrlich.
+
+== Other External Links ==
+[https://www.archives.gov/research/pentagon-papers The Pentagon Papers]
+
+[https://iowaculture.gov/sites/default/files/history-education-pss-wwi-espionageact-transcription.pdf Espionage Act 1917]
+
+==See also==
+{{Portal|Biography}}
+* [[Jack Anderson (columnist)|Jack Anderson]]
+* [[Thomas Andrews Drake]]
+* [[Edward Snowden]]
+* [[Chelsea Manning]]
+* [[Julian Assange]]
+* [[List of peace activists]]
+* [[Tran Ngoc Chau]]
+* [[Reality Winner]]
+* [[Katharine Gun]]
+
+==References==
+{{Reflist|30em|
+refs=
+<ref name="AndyWorthington2015-09-15">
+{{cite news
+| url         = http://www.andyworthington.co.uk/2015/09/27/28-veterans-of-us-intelligence-fight-back-against-cia-claims-that-the-bush-torture-program-was-useful-and-necessary/
+| title       = 28 Veterans of US Intelligence Fight Back Against CIA Claims That the Bush Torture Program Was Useful and Necessary
+| author      = Andy Worthington
+| date        = 2015-09-15
+| archive-url  = https://web.archive.org/web/20150928060211/http://www.andyworthington.co.uk/2015/09/27/28-veterans-of-us-intelligence-fight-back-against-cia-claims-that-the-bush-torture-program-was-useful-and-necessary/
+| archive-date = 2015-09-28
+| url-status     = live
+| author-link = Andy Worthington
+}}
+</ref>
+}}7a. ^ PBS Bio on LBJ, part 1
+
+==Further reading==
+* Official name of the Pentagon Papers: ''History of United States Decision-Making Process on Vietnam Policy, 1945–1967''
+* ''The New York Times'' version of the ''Pentagon Papers'': June 13, 14, 15 and July 1, 2, 3, 4 and 5, 1971. Late in this year this edited version was published in the book ''The Pentagon Papers as published by N.Y. Times'', Bantam Books, Toronto – New York – London, 1971
+* ''United States-Vietnam Relations 1945–67, Department of Defense Study'', 12 vols., Government Printing Office, Washington, 1971. This is the official and complete edition of the ''Pentagon Papers'', published by the Government after the release by the press
+* UNGAR, Sanford, ''The Papers and the Papers: An Account of the Legal and Political Battle over the Pentagon Papers'', E.P. Dutton & Co, New York, 1972
+
+==External links==
+{{Commons category|Daniel Ellsberg}}
+{{wikiquote|Daniel Ellsberg}}
+* {{Official website|http://www.ellsberg.net}}
+* {{C-SPAN | danielellsberg }}
+* {{IMDb name|id=0255281|name=Daniel Ellsberg}}
+* {{Internet Archive collection|id=danielellsberg|name=Daniel Ellsberg}}
+* [https://web.archive.org/web/20041025003806/http://www.ellsberg.net/truthtellingproject/ The Truth-Telling Project] – Project formed by Ellsberg for [[whistleblower]]s
+* [https://web.archive.org/web/20061007082157/http://www.rightlivelihood.org///recip/2006/daniel-ellsberg.htm 2006 Right Livelihood Award Recipient Daniel Ellsberg ]
+* {{cite web|title=The Doomsday Machine {{!}} Daniel Ellsberg {{!}} Talks at Google|date=February 1, 2018|website=YouTube|url=https://www.youtube.com/watch?v=e7cJG9j0NdY}}
+* {{cite web|title=On Julian Assange: Marianne Williamson in Conversation with Daniel Ellsberg|date=July 26, 2021|website=YouTube|url=https://www.youtube.com/watch?v=M8-eBSkWcnk}}
+
+{{Gandhi Peace Award laureates|state=collapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ellsberg, Daniel}}
+[[Category:1931 births]]
+[[Category:Living people]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:American anti–Iraq War activists]]
+[[Category:American anti–nuclear weapons activists]]
+[[Category:American anti–Vietnam War activists]]
+[[Category:American anti-war activists]]
+[[Category:American Book Award winners]]
+[[Category:American male non-fiction writers]]
+[[Category:American memoirists]]
+[[Category:American people of Jewish descent]]
+[[Category:American people of the Vietnam War]]
+[[Category:American political activists]]
+[[Category:American political writers]]
+[[Category:American whistleblowers]]
+[[Category:Articles containing video clips]]
+[[Category:Ashkenazi Jews]]
+[[Category:Cranbrook Educational Community alumni]]
+[[Category:Economists from California]]
+[[Category:Economists from Illinois]]
+[[Category:Economists from Michigan]]
+[[Category:Former Christian Scientists]]
+[[Category:Harvard Advocate alumni]]
+[[Category:Harvard College alumni]]
+[[Category:Military personnel from Illinois]]
+[[Category:Non-interventionism]]
+[[Category:Pentagon Papers]]
+[[Category:People from Chicago]]
+[[Category:People from Detroit]]
+[[Category:People from Mill Valley, California]]
+[[Category:People acquitted under the Espionage Act of 1917]]
+[[Category:RAND Corporation people]]
+[[Category:United States Marine Corps officers]]
+[[Category:Watergate scandal]]
+[[Category:Writers from Chicago]]
+[[Category:Writers from Detroit]]

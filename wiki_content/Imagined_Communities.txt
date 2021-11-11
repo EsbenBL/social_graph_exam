@@ -1,0 +1,80 @@
+{{About|the book|the concept named after it|imagined community}}
+{{Infobox book
+| italic title   = <!--(see above)-->
+| name           = Imagined Communities: Reflections on the Origin and Spread of Nationalism
+| image          = Imagined Communities.jpg
+| image_size     = 
+| alt            = 
+| caption        = First edition
+| author         = [[Benedict Anderson]]
+| audio_read_by  = 
+| title_orig     = 
+| orig_lang_code = 
+| title_working  = 
+| translator     = 
+| illustrator    = 
+| cover_artist   = 
+| country        = 
+| language       = English
+| series         = 
+| release_number = 
+| subject        = 
+| genre          = 
+| set_in         = 
+| published      = 1983 ([[Verso Books|Verso]])<br /> 2006 (Second Edition)
+| publisher      = 
+| publisher2     = 
+| pub_date       = 
+| english_pub_date = 
+| media_type     = 
+| pages          = 160
+| awards         = 
+| isbn           = 0860910598 
+| isbn_note      = 
+| oclc           = 
+| dewey          = 
+| congress       = 
+| preceded_by    = 
+| followed_by    = 
+| native_wikisource = 
+| wikisource     = 
+| notes          =
+| exclude_cover  = 
+| website        =
+}}
+'''''Imagined Communities: Reflections on the Origin and Spread of Nationalism''''' is a book by [[Benedict Anderson]]. It introduces a popular concept in political sciences and sociology, that of [[imagined communities]] named after it. It was first published in 1983, and reissued with additional chapters in 1991 and a further revised version in 2006.
+
+The book is widely considered influential in the social sciences,<ref>{{Cite journal|last=Mylonas|first=Harris|last2=Tudor|first2=Maya|date=2021-05-11|title=Nationalism: What We Know and What We Still Need to Know|url=https://www.annualreviews.org/doi/10.1146/annurev-polisci-041719-101841|journal=Annual Review of Political Science|language=en|volume=24|issue=1|pages=109–132|doi=10.1146/annurev-polisci-041719-101841|issn=1094-2939|doi-access=free}}</ref> with Eric G.E. Zuelow describing the book as "perhaps the most read book about [[nationalism]]",<ref name=nationalismproject>{{cite web|url=http://www.nationalismproject.org/books/a_b.htm|title=The Nationalism Project: Books by Author A-B|work=nationalismproject.org}}</ref> and is among the top 10 most-cited publications in the social sciences.<ref>{{Cite web|date=2021-07-28|title=The top 100 papers : Nature News & Comment|url=https://web.archive.org/web/20210728193725/https://www.nature.com/news/the-top-100-papers-1.16224|url-status=live|access-date=2021-11-02|website=web.archive.org|at="An alternative ranking"}}</ref> 
+
+==Nationalism and imagined communities==
+According to Anderson's theory of imagined communities, the main causes of nationalism are the increasing importance of mass [[vernacular]] literacy, the movement to abolish the ideas of rule by divine right and hereditary monarchy ("the concept was born in an age in which Enlightenment and Revolution were destroying the legitimacy of the divinely ordained, hierarchical dynastic realm ... nations dream of being free ... The gage and emblem of this freedom is the sovereign state", 1991, 7); and the emergence of printing press capitalism ("the convergence of capitalism and print technology... standardization of national calendars, clocks and language was embodied in books and the publication of daily newspapers")<ref name=nationalismproject/>—all phenomena occurring with the start of the [[Industrial Revolution]].<ref name=nationalismproject/><ref>{{Cite book|url=https://archive.org/details/imaginedcommunit00ande/page/39|title=Imagined communities: reflections on the origin and spread of nationalism|last=1936-2015.|first=Anderson, Benedict R. O'G. (Benedict Richard O'Gorman)|date=1991|publisher=Verso|isbn=0860913295|edition=Rev. and extended|location=London|pages=[https://archive.org/details/imaginedcommunit00ande/page/39 39–40]|oclc=23356022|url-access=registration}}</ref>
+
+==Nation as an imagined community==
+According to Anderson, [[nation]]s are [[Social constructionism|socially constructed]].<ref name=sage>{{cite web|url=http://www.sagepub.com/upm-data/9613_020037ch1and2.pdf|title=Benedict Anderson}}</ref> For Anderson, the idea of the "nation" is relatively new and is a product of various socio-material forces. He defined a nation as "an imagined political community – and imagined as both inherently limited and sovereign".<ref name="ic">{{cite book |title=Imagined communities: reflections on the origin and spread of nationalism |last=Anderson |first=Benedict R. O'G. |year=1991 |publisher=Verso |location=London |isbn=978-0-86091-546-1
+ |pages=6–7 |url=https://books.google.com/books?id=4mmoZFtCpuoC |edition= Revised and extended.|access-date= 5 September 2010}}</ref> As Anderson puts it, a nation "is imagined because the members of even the smallest nation will never know most of their fellow-members, meet them, or even hear of them, yet in the minds of each lives the image of their communion".<ref name="ic"/> While members of the community probably will never know each of the other members face to face, they may have similar interests or identify as part of the same nation. Members hold in their minds a mental image of their affinity: for example, the nationhood felt with other members of your nation when your "imagined community" participates in a larger event such as the [[Olympic Games]].
+
+Nations are "limited" in that they have "finite, if elastic boundaries, beyond which lie other nations".<ref name="ic"/> They are "sovereign" since no dynastic monarchy can claim authority over them, in the modern period:
+{{quote|text=[T]he concept was born in an age in which Enlightenment and Revolution were destroying the legitimacy of the divinely-ordained, hierarchical dynastic realm. Coming to maturity at a stage of human history when even the most devout adherents of any universal religion were inescapably confronted with the living pluralism of such religions, and the allomorphism [incongruence, divide] between each faith's ontological claims and territorial stretch, nations dream of being free, and, if under God, directly so. The gauge and emblem of this freedom is the sovereign state.<ref name="ic"/>}}
+Even though we may never see anyone in our imagined community, we still know they are there through communication.
+
+Finally, a nation is a [[community]] because,
+{{quote|regardless of the actual inequality and exploitation that may prevail in each, the nation is always conceived as a deep, horizontal comradeship. Ultimately it is this fraternity that makes it possible, over the past two centuries, for so many millions of people, not so much to kill, as willingly to die for such limited imaginings.<ref name="ic"/>}}
+
+==Critique==
+The first major critique of Anderson's theory was [[Partha Chatterjee (scholar)|Partha Chatterjee]], who contends that European colonialism de facto imposed limits to nationalism: "Even our imaginations must remain forever colonized." (Chatterjee, 1993: 5).
+
+The second criticism was its masculine vision of nationalism: "the very term horizontal comradeship [...] brings with it connotations of masculine solidarity" ([[Linda McDowell]], 1999: 195)
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.lrb.co.uk/v28/n18/tj-clark/in-a-pomegranate-chandelier A review of the 2006 edition] in the London Review of Books, Vol. 28 No. 18 · 21 September 2006, pages 6–8
+*[https://www.jstor.org/stable/2759245 A review of the 1983 edition] by Anthony Reid published ''Pacific Affairs'', Vol. 58, No. 3 (Autumn, 1985), pp.&nbsp;497–499
+{{authority control}}
+
+[[Category:1983 non-fiction books]]
+[[Category:Sociology books]]
+[[Category:Political science books]]
+[[Category:Books about nationalism]]
+[[Category:Social constructionism]]

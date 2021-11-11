@@ -1,0 +1,105 @@
+{{short description|American economist and Nobel laureate in Economics}}
+{{BLP sources|date=October 2013}}
+{{Infobox economist
+| name             = Eugene Fama
+| school_tradition = [[Chicago School of Economics]]
+| image            = Eugene Fama at Nobel Prize, 2013.jpg
+| image_size       = 200px
+| caption          = Fama in Stockholm, December 2013
+| birth_date       = {{Birth date and age|1939|02|14}}
+| birth_place      = [[Boston, Massachusetts]]
+| nationality      = [[Americans|American]]
+| institution      = [[University of Chicago]]
+| field            = [[Financial economics]], [[Organizational economics]], [[Macroeconomics]]
+| alma_mater       = [[Tufts University]]<br>[[University of Chicago]]
+| doctoral_advisor = [[Merton Miller]]<br>[[Harry V. Roberts]]
+| academic_advisors=
+| doctoral_students= [[Cliff Asness]], [[Myron Scholes]], [[Mark Carhart]]
+| notable_students=
+| contributions    = [[Fama–French three-factor model]]<br>[[Efficient-market hypothesis]]
+| awards           = 2005 [[Deutsche Bank Prize in Financial Economics]]<br>2008 Morgan Stanley-American Finance Association Award<br>[[Nobel Memorial Prize in Economics]] (2013)
+| signature        = <!-- file name only -->
+| repec_prefix     = e | repec_id = pfa110
+}}
+'''Eugene Francis''' "'''Gene'''" '''Fama''' ({{IPAc-en|ˈ|f|ɑː|m|ə}}; born February 14, 1939) is an American economist, best known for his empirical work on [[portfolio theory]], [[asset pricing]], and the [[efficient-market hypothesis]].
+
+He is currently Robert R. McCormick Distinguished Service Professor of Finance at the [[University of Chicago Booth School of Business]]. In 2013, he shared the [[Nobel Memorial Prize in Economic Sciences]] jointly with [[Robert J. Shiller]] and [[Lars Peter Hansen]].<ref name="Nobelprize">{{Nobelprize|name=Eugene F. Fama|accessdate=2020-10-12}}</ref><ref>{{citation |url=https://abcnews.go.com/International/wireStory/americans-win-economics-nobel-20561624 |title=3 US Economists Win Nobel for Work on Asset Prices |work=abc news |date=October 14, 2013 }}</ref>  The [[Research Papers in Economics]] project ranked him as the 9th-most influential economist of all time based on his academic contributions, {{as of|April 2019|lc=y}}.<ref name="IDEAS">{{cite web|url = https://ideas.repec.org/top/top.person.all.html|title = Economist Rankings at IDEAS – Top 10% Authors, as of April 2019|date = April 2019|publisher = [[Research Papers in Economics]]|access-date = May 22, 2019}}</ref> He is regarded as "the father of modern finance", as his works built the foundation of financial economics and have been cited widely. <ref>{{citation |url=https://www.chicagobooth.edu/faculty/directory/f/eugene-f-fama#biography|title=Eugene F. Fama personal website}}</ref>
+
+==Early life==
+Fama was born in Boston, Massachusetts, the son of Angelina (née Sarraceno) and Francis Fama. All of his grandparents were immigrants from [[Italy]].<ref>Colin Read, ''The Efficient Market Hypothesists: Bachelier, Samuelson, Fama, Ross, Tobin and Shiller'', Palgrave Macmillan, 2012, [https://books.google.com/books?id=6EliRIe3uaEC&pg=PA94&dq=%22Francis+Fama+(1910-?)%22&hl=en&sa=X&ei=ymZcUtvdJ9G64APl1IGYDg&ved=0CCMQ6AEwAA p. 94]</ref> Fama is a [[Malden Catholic High School]] Athletic Hall of Fame honoree. He earned his undergraduate degree in Romance Languages [[magna cum laude]] in 1960 from [[Tufts University]], where he was also selected as the school’s outstanding student-athlete.<ref>{{cite web|url=https://www.bostonglobe.com/news/world/2013/10/14/yale-professor-among-winner-economics-nobel/fM4nIM1spIc1NNkLRaGtlL/story.html|title=3 Americans win Nobel prize in economics|access-date=2013-10-14|date=2013-10-14|last1=Ritter |first1=Karl |last2=Rising |first2=Malin|work=[[Boston Globe]]}}</ref>
+
+==Career==
+His [[Master in Business Administration|M.B.A.]] and [[Ph.D.]] came from the [[University of Chicago Booth School of Business|Booth School of Business]] at the [[University of Chicago]] in economics and [[finance]]. His doctoral supervisors were Nobel prize winner [[Merton Miller]] and Harry Roberts, but [[Benoit Mandelbrot]] was also an important influence.<ref>{{cite web|url=http://genealogy.math.ndsu.nodak.edu/id.php?id=81048 |title=Mathematics Genealogy Project |publisher=Genealogy.math.ndsu.nodak.edu |access-date=2013-10-14}}</ref>  He has spent the entirety of his teaching career at the University of Chicago.
+
+His Ph.D. thesis, which concluded that short-term [[stock]] price movements are unpredictable and approximate a [[random walk]], was published in the January 1965 issue of the ''[[Journal of Business]]'', entitled "The Behavior of Stock Market Prices".  That work was subsequently rewritten into a less technical article, "Random Walks In Stock Market Prices",<ref>{{cite journal |last=Fama |first=Eugene F. |date=September–October 1965 |title=Random Walks In Stock Market Prices |journal=Financial Analysts Journal |volume=21 |issue=5 |pages=55–59 |doi=10.2469/faj.v21.n5.55|citeseerx=10.1.1.4.8514 }}</ref> which was published in the ''[[Financial Analysts Journal]]'' in 1965 and ''Institutional Investor'' in 1968. His later work with Kenneth French showed that predictability in expected stock returns can be explained by time-varying discount rates; for example, higher average returns during recessions can be explained by a systematic increase in risk aversion, which lowers prices and increases average returns.<ref>Fama and French (1988)</ref>
+
+His article "The Adjustment of Stock Prices to New Information" in the ''[[International Economic Review]]'', 1969 (with several co-authors) was the first [[event study]] that sought to analyze how stock prices respond to an event, using price data from the newly available [[Center for Research in Security Prices|CRSP]] database.  This was the first of literally hundreds of such published studies.{{Citation needed|date=November 2008}}
+
+In 2013, he was awarded the [[Nobel Memorial Prize in Economic Sciences]].
+
+===Efficient market hypothesis===
+{{Main|Efficient-market hypothesis}}
+Fama is most often thought of as the father of the efficient-market hypothesis, beginning with his Ph.D. thesis. In 1965 he published an analysis of the behavior of stock market prices that showed that they exhibited so-called [[fat tail distribution]] properties, implying extreme movements were more common than predicted on the assumption of [[Normal distribution|normality]].<ref>[https://www.jstor.org/stable/2350752?seq=1#page_scan_tab_contents "The behavior of stock-market prices." Journal of business (1965): 34-105]</ref><ref>{{cite web |url=https://www.dimensional.com/famafrench/questions-answers/qa-confidence-in-the-bell-curve.aspx |title=Q&A: Confidence in the Bell Curve |date=March 18, 2009 |type=an interview with Fama and French |url-status=dead |archive-url=https://web.archive.org/web/20150613013746/https://www.dimensional.com/famafrench/questions-answers/qa-confidence-in-the-bell-curve.aspx |archive-date=June 13, 2015 }}</ref>
+
+In an article in the May 1970 issue of the ''[[Journal of Finance]]'', entitled "Efficient Capital Markets: A Review of Theory and Empirical Work",<ref>{{cite journal|title=Efficient capital markets: a review of theory and empirical work| doi=10.1111/j.1540-6261.1970.tb00518.x |volume=25 | issue=2 |journal=The Journal of Finance |pages=383–417|year = 1970|last1 = Malkiel|first1 = Burton G.| last2=Fama | first2=Eugene F. | url=http://ena.lp.edu.ua:8080/handle/ntb/52508 }}</ref> Fama proposed two concepts that have been used on efficient markets ever since. First, Fama proposed three types of efficiency: (i) strong-form; (ii) semi-strong form; and (iii) weak efficiency. They are explained in the context of what information sets are factored in price trend. In weak form efficiency the information set is just historical prices, which can be predicted from historical price trend; thus, it is impossible to profit from it. Semi-strong form requires that all public information is reflected in prices already, such as companies' announcements or annual earnings figures. Finally, the strong-form concerns all information sets, including private information, are incorporated in price trend; it states no monopolistic information can entail profits, in other words, insider trading cannot make a profit in the strong-form market efficiency world.
+Second, Fama demonstrated that the notion of market efficiency could not be rejected without an accompanying rejection of the model of market equilibrium (e.g. the price setting mechanism). This concept, known as the "[[joint hypothesis problem]]", has ever since vexed researchers.{{citation needed|date=June 2015}} Market efficiency denotes how information is factored in price, Fama (1970) emphasizes that the hypothesis of market efficiency must be tested in the context of expected returns. The joint hypothesis problem states that when a model yields a predicted return significantly different from the actual return, one can never be certain if there exists an imperfection in the model or if the market is inefficient. Researchers can only modify their models by adding different factors to eliminate any anomalies, in hopes of fully explaining the return within the model. The anomaly, also known as alpha in the modeling test, thus functions as a signal to the model maker whether it can perfectly predict returns by the factors in the model. However, as long as there exists an alpha, neither the conclusion of a flawed model nor market inefficiency can be drawn according to the Joint Hypothesis. Fama (1991) also stresses that market efficiency per se is not testable and can only be tested jointly with some model of equilibrium, i.e. an asset-pricing model.
+
+===Fama–French three-factor model===
+{{Main|Fama–French three-factor model}}
+In recent years, Fama has become controversial again, for a series of papers, co-written with [[Kenneth French]], that challenge the validity of the [[Capital asset pricing model|Capital Asset Pricing Model (CAPM)]], which posits that a stock's [[Beta (finance)|beta]] alone should explain its average return. These papers describe two factors in addition to a stock's market beta which can explain differences in stock returns: market capitalization and relative price.  They also offer evidence that a variety of patterns in average returns, often labeled as "anomalies" in past work, can be explained with their [[Fama–French three-factor model]].<ref name="FamaFrench1993">{{Cite journal |last=Fama |first=Eugene F. |author2=French, Kenneth R. |year=1993 |title=Common Risk Factors in the Returns on Stocks and Bonds |journal=Journal of Financial Economics |volume=33 |issue=1 |pages=3–56 |doi=10.1016/0304-405X(93)90023-5 |citeseerx=10.1.1.139.5892 }}</ref>
+
+==Bibliography==
+* ''The Theory of Finance'', Dryden Press, 1972
+* ''Foundations of Finance: Portfolio Decisions and Securities Prices'', Basic Books, 1976
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+* {{commonscatinline}}
+* [http://www.chicagobooth.edu/faculty/bio.aspx?person_id=12824813568 Faculty profile] at the [[University of Chicago]]
+* [https://www.lib.uchicago.edu/e/busecon/busfac/Fama.html List of published works]
+* [https://web.archive.org/web/20100402092442/http://www.dfaus.com/library/bios/eugene_fama/ Biography on Dimensional Fund Advisors website]
+* [http://www.dimensional.com/famafrench/ The Fama/French Forum] – Observations, opinion, research and links from financial economists Eugene Fama and Kenneth French.
+* {{MathGenealogy}}
+* [https://www.ifk-cfs.de/index.php?id=901 Eugene Fama, 2005 winner] of the [[Deutsche Bank Prize in Financial Economics]]
+* {{C-SPAN|eugenefama}}
+* {{IMDb name}}
+* {{Worldcat id|lccn-n87-801775}}
+* {{cite web |last=Roberts |first=Russ |title=Fama on Finance |url=http://www.econtalk.org/archives/_featuring/eugene_fama/ |work=[[EconTalk]] |publisher=[[Library of Economics and Liberty]] |author-link=Russ Roberts |date=January 30, 2012}}
+* Schwert, G. William and Stutz, Rena M. [https://ssrn.com/abstract=2496471 "Gene Fama’s Impact: A Quantitative Analysis."] Sept. 2014, i + 30 pp.
+* {{Nobelprize|name=Eugene F. Fama}}
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Alvin E. Roth]] | before2 = [[Lloyd S. Shapley]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 2013 | alongside = [[Lars Peter Hansen]], [[Robert J. Shiller]] }}
+{{s-aft | after = [[Jean Tirole]] }}
+{{s-end}}
+
+{{Chicago school economists}}
+{{2013 Nobel Prize winners}}
+{{Nobel laureates in economics}}
+
+{{Spoken Wikipedia|Eugene_Fama.ogg|date=2016-01-26}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fama, Eugene}}
+[[Category:1939 births]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Financial economists]]
+[[Category:Living people]]
+[[Category:Malden Catholic High School alumni]]
+[[Category:People from Boston]]
+[[Category:Tufts University alumni]]
+[[Category:University of Chicago faculty]]
+[[Category:University of Chicago Booth School of Business alumni]]
+[[Category:American Nobel laureates]]
+[[Category:Nobel laureates in Economics]]
+[[Category:American people of Italian descent]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Economists from Massachusetts]]

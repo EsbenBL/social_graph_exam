@@ -1,0 +1,84 @@
+{{Short description|Japanese economist}}
+{{Infobox economist
+| name             = Nobuhiro Kiyotaki
+| image            = Nobuhiro Kiyotaki 202011.jpg
+| image_size       = 180px
+| caption          =
+| birth_date       = {{Birth date and age|1955|6|24}}
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = Japanese
+| institution      = [[Princeton University]]
+| field            = [[Macroeconomics]]
+| school_tradition = [[New Keynesian economics]]
+| alma_mater       = [[Harvard University]] <small>([[Ph.D.]], 1985)</small><br>[[University of Tokyo]] <small>([[B.A.]], 1978)</small>
+| doctoral_advisor          = [[Olivier Blanchard]]<ref>{{Cite web |url= http://economics.mit.edu/files/8710 |title= Olivier Blanchard CV |publisher= [[MIT Department of Economics]] |access-date= 28 July 2016 }}</ref>
+| academic_advisors         =
+| doctoral_students         = [[Luis Carranza]]
+| notable_students          =
+| influences       = 
+| influenced       =
+| contributions    = Kiyotaki–Wright model<br/>[[Kiyotaki–Moore model]]
+| awards           = [[Nakahara Prize]] (1997)<br/>[[Yrjö Jahnsson Award]] (1999)<br/>[[Fellow of the British Academy]] (2003)
+| signature        = <!-- file name only -->
+| repec_prefix =  | repec_id =
+}}
+
+{{nihongo|'''Nobuhiro Kiyotaki''' [[Fellow of the British Academy|FBA]]|清滝 信宏|Kiyotaki Nobuhiro}} (born June 24, 1955) is a Japanese [[economist]] and the Harold H. Helms '20 Professor of Economics and Banking at [[Princeton University]]. He is especially known for proposing several models that provide deeper [[microfoundations|microeconomic foundations]] for [[macroeconomics]], some of which play a prominent role in [[New Keynesian]] macroeconomics.
+
+==Career==
+He received a [[B.A.]] from [[University of Tokyo]] in 1978. After receiving his doctorate in economics from [[Harvard University]] in 1985, Kiyotaki held faculty positions at the [[University of Wisconsin–Madison|Univ. of Wisconsin–Madison]], the [[University of Minnesota|Univ. of Minnesota]], and the [[London School of Economics]] before moving to Princeton.
+
+He is a fellow of the [[Econometric Society]],<ref>{{Cite web |url= https://www.econometricsociety.org/society/organization-and-governance/fellows |title= Econometric Society Fellows |publisher= Econometric Society |access-date= 3 August 2016 }}</ref> was awarded the 1997 [[Nakahara Prize]] of the [[Japan Economics Association]] and the 1999 [[Yrjö Jahnsson Award]] of the [[European Economic Association]], the latter together with [[John Hardman Moore|John Moore]].<ref>{{Cite web |url= http://www.jeaweb.org/eng/AwardsNakahara.html |title= Nakahara Prize Winners |publisher= [[Japanese Economic Association]] |access-date= 3 August 2016 }}</ref><ref>{{Cite web |url=http://www.yjs.fi/en/seminars-and-international-contacts/yrjo-jahnsson-award-in-economics/ |title= Recipients of the Yrjö Jahnsson Award in Economics |publisher= [[Yrjö Jahnsson Foundation]] |access-date= 3 August 2016 }}</ref> In 2003, Kiyotaki was elected a [[Fellow of the British Academy]] (FBA), the United Kingdom's [[national academy]] for the humanities and social sciences.<ref>[https://www.britac.ac.uk/users/professor-nobu-kiyotaki "Professor Nobu Kiyotaki"], ''British Academy''. Retrieved 2 May 2018.</ref> He is also a fellow of the [[European Economic Association]].<ref>{{Cite web|title=Fellows {{!}} EEA|url=https://www.eeassoc.org/fellows|access-date=2021-03-23|website=www.eeassoc.org}}</ref> Thomson Reuters lists Kiyotaki among the 'citation laureates' who are likely future winners of the [[Nobel Prize in Economics]].<ref>[http://science.thomsonreuters.com/nobel/laureates/#economics Thomson-Reuters list of 'citation laureates' in economics]</ref>
+
+Kiyotaki also received the Stephen A. Ross Prize in Financial Economics together with John Moore.<ref>{{Cite web |url=http://farfe.org/ross_prize-2010.html |title=Press Release Announcing the Second Ross Prize: Economics Scholars Nobuhiro Kiyotaki and John Moore Recognized |access-date=August 3, 2016 |publisher= Foundation for the Advancement of Research in Financial Economics |date= December 10, 2010 }}</ref> In 2020 he was awarded the [[BBVA Foundation Frontiers of Knowledge Awards|BBVA Foundation Frontiers of Knowledge Award]] in the category "Economics, Finance and Management".<ref>[https://www.frontiersofknowledgeawards-fbbva.es/ BBVA Foundation Frontiers of Knowledge Awards 2020]</ref>
+
+==Contributions==
+In 1987, together with [[Olivier Blanchard]], Kiyotaki demonstrated the importance of [[monopolistic competition]] for the [[Multiplier (economics)|aggregate demand multiplier]].<ref>{{cite journal |first1=Olivier |last1=Blanchard |first2=Nobuhiro |last2=Kiyotaki |year=1987 |title=Monopolistic Competition and the Effects of Aggregate Demand |journal=[[American Economic Review]] |volume=77 |issue=4 |pages=647–66 |jstor=1814537 }}</ref> Most [[New Keynesian economics|New Keynesian]] macroeconomic models now assume monopolistic competition for the reasons outlined by Blanchard and Kiyotaki.
+
+Later, Kiyotaki worked with [[Randall Wright]] to construct a model of the role of money, showing how money increased economic efficiency by permitting trade of many different types of goods which might not be traded under a system of [[barter]].<ref>{{cite journal |first1=Nobuhiro |last1=Kiyotaki |first2=Randall |last2=Wright |year=1989 |title=On Money as a Medium of Exchange |journal=[[Journal of Political Economy]] |volume=97 |issue=4 |pages=927–54 |jstor=1832197 |doi=10.1086/261634|s2cid=154872512 }}</ref><ref>{{cite journal |first1=Nobuhiro |last1=Kiyotaki |first2=Randall |last2=Wright |year=1993 |title=A Search-Theoretic Approach to Monetary Economics |journal=[[American Economic Review]] |volume=83 |issue=1 |pages=63–77 |jstor=2117496 }}</ref> This model, which formalized [[William Stanley Jevons]]' insight about the [[double coincidence of wants]] as a barrier to economic activity under barter, has come to be known as the [[Kiyotaki–Wright model]].
+
+In 1997, with [[John Hardman Moore|John Moore]], Kiyotaki constructed a model to show how small shocks to the economy might be amplified into large output fluctuations through the interaction between real estate prices and restrictions on the availability of credit.<ref>{{cite journal |first1=Nobuhiro |last1=Kiyotaki |first2=John H. |last2=Moore |year=1997 |title=Credit Cycles |journal=[[Journal of Political Economy]] |volume=105 |issue=2 |pages=211–248 |doi=10.1086/262072 |s2cid=222433833 }}</ref> This model of '[[credit cycle]]s' is now known as the [[Kiyotaki–Moore model]].
+
+== Selected publications ==
+
+===Journal articles===
+*{{cite journal |first1= Olivier Jean |last1= Blanchard |first2= Nobuhiro |last2= Kiyotaki |year= 1987 |title= Monopolistic Competition and the Effects of Aggregate Demand |journal= [[American Economic Review]] |volume= 77 |issue= 4 |pages= 647–66 |jstor= 1814537 |url = https://notendur.hi.is/ajonsson/kennsla2003/Blanchard_Kiyotaki.pdf }}
+*{{cite journal |first1= Nobuhiro |last1= Kiyotaki |first2= Randall |last2= Wright |year= 1989 |title= On Money as a Medium of Exchange |journal= [[Journal of Political Economy]] |volume= 97 |issue= 4 |pages= 927–54 |jstor= 1832197 |doi= 10.1086/261634 |s2cid= 154872512 }}
+*{{cite journal |first1= Nobuhiro |last1= Kiyotaki |first2= Randall |last2= Wright |year= 1993 |title= A Search-Theoretic Approach to Monetary Economics |journal= [[American Economic Review]] |volume= 83 |issue= 1 |pages= 63–77 |jstor= 2117496 |url= http://www.econ.hit-u.ac.jp/~makoto/PDF/kiyotaki_wright_AER.pdf |access-date= 2016-05-18 |archive-url= https://web.archive.org/web/20150923233234/http://www.econ.hit-u.ac.jp/~makoto/PDF/kiyotaki_wright_AER.pdf |archive-date= 2015-09-23 |url-status= dead }}
+*{{cite journal |first1= Nobuhiro |last1= Kiyotaki |first2= John |last2= Moore |year= 1997 |title= Credit Cycles |journal= [[Journal of Political Economy]] |volume= 105 |issue= 2 |pages= 211–248 |doi= 10.1086/262072 |url = http://www-users.york.ac.uk/~psm509/ULB2012/KiyotakiMooreJPE1997.pdf |jstor= 10.1086/262072 |s2cid= 222433833 }}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.princeton.edu/~kiyotaki/ Nobuhiro Kiyotaki's webpage at Princeton]
+
+{{Keynesians}}
+{{Nakahara Prize recipients}}
+{{Yrjö Jahnsson Award recipients}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kiyotaki, Nobuhiro}}
+[[Category:1955 births]]
+[[Category:Living people]]
+[[Category:People from Osaka]]
+[[Category:Japanese economists]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]
+[[Category:Macroeconomists]]
+[[Category:Financial economists]]
+[[Category:New Keynesian economists]]
+[[Category:University of Tokyo alumni]]
+[[Category:Harvard University alumni]]
+[[Category:University of Wisconsin–Madison faculty]]
+[[Category:University of Minnesota faculty]]
+[[Category:Academics of the London School of Economics]]
+[[Category:Princeton University faculty]]
+[[Category:Fellows of the British Academy]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Persons of Cultural Merit]]
+[[Category:Japanese expatriates in the United States]]
+[[Category:Fellows of the European Economic Association]]

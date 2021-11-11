@@ -1,0 +1,84 @@
+{{Infobox economist
+
+ <!-- Economist Category -->
+ | school_tradition =
+
+ <!-- Image -->
+ | image       = Ehud Kalai.jpg
+ | caption    =Ehud Kalai (2007)
+
+ <!-- Information -->
+ | name             = Ehud Kalai
+ | birth_date       = {{Birth date and age|1942|12|7}}
+ | birth_place      =
+ | death_date       =
+ | death_place      =
+ | nationality      = [[United States]] and [[Israel]]
+ | field            = [[Game theory]] and [[economics]]
+ | doctoral_students= 
+ | influences       =
+ | influenced       =
+ | contributions    ={{cite web|title=Citations|url=https://scholar.google.com/citations?user=jDLa-CUAAAAJ&hl=en&oi=ao}}
+| repec_prefix = e | repec_id = pka141
+}}
+'''Ehud Kalai''' is a prominent [[Israeli American]] [[game theorist]] and [[mathematical]] [[economist]] known for his contributions to the field of [[game theory]] and its interface with [[economics]], [[social choice]], [[computer science]] and [[operations research]].  He was the James J. O’Connor Distinguished Professor of Decision and Game Sciences at [[Northwestern University]], 1975-2017, and currently is a Professor Emeritus of Managerial Economics and Decision Sciences.
+
+==Biography==
+Born in [[Mandatory Palestine]] on December 7, 1942, Kalai moved to the US in 1963.  He received his AB in mathematics from the [[University of California Berkeley]] (1967) and an MS (1971) and a PhD (1972) in statistics and mathematics from [[Cornell University]].  After serving as an assistant professor of statistics at [[Tel Aviv University]] (1972–75), he was hired by [[Northwestern University]] to establish a research group in game theory.  He is the founding director of the Kellogg Center of Game Theory and Economic Behavior and the executive director of the [[Nancy L. Schwartz Memorial Lecture]] series.
+
+Kalai is the founding Editor of ''[[Games and Economic Behavior]]'', the leading journal in game theory.  With Robert J. Aumann, Kalai founded the [[Game Theory Society]] and served as its president from 2003 to 2006.  He is a Fellow of the [[American Academy of Arts and Sciences]], of the [[Econometric Society]],<ref>''[http://www.econometricsociety.org/fellows.asp Fellows of the Econometric Society] {{webarchive |url=https://web.archive.org/web/20081210090215/http://www.econometricsociety.org/fellows.asp |date=December 10, 2008 }}'' (March 2008).  Econometric Society and of [[Society for the Advancement of Economic Theory]].  Accessed on October 6, 2010.</ref>  was awarded an Honorary Doctorate (Doctorat Honoris Causa) by the University of Paris at Dauphine (2010), the Sherman Fairchild Distinguished Scholar position at the [[California Institute of Technology]] (1993), and was appointed the [[Oskar Morgenstern]] Research Professor at [[New York University]] (1991).<ref name="bio">[http://www.kellogg.northwestern.edu/faculty/kalai/htm/personal_page/curriculum_vitae.htm Ehud Kalai Vitae]</ref>
+
+Since 2008, the [[Game Theory Society]] has awarded the [[Kalai Prize]] for outstanding papers at the interface of [[game theory]] and [[computer science]]. The prize was named after Kalai in recognition of his contributions to bridging these two fields.<ref>{{Cite web|url=http://www.gametheorysociety.org/about/|title=Game Theory Society|website=www.gametheorysociety.org|access-date=2016-12-07}}</ref>
+
+==Selected Contributions==
+In cooperative game theory, the '''Kalai-Smorodinsky solution''' reopened the study of bargaining by showing that the long unchallenged [[Nash solution]] is not unique.  He later axiomatized the '''Egalitarian solution''' to bargaining problems and, with Dov Samet, formulated its extension to general (NTU) cooperative games, unifying it with the Shapley (TU) Value.<br />
+In non cooperative game theory, the Kalai and Lehrer model of '''rational learning''' showed that rational players with truth-compatible beliefs eventually learn to play [[Nash equilibria]] of repeated games.  In particular, in Bayesian equilibria of repeated games all relevant private information eventually becomes common knowledge.   Kalai's work on '''large games''' showed that the equilibria of [[Bayesian game]]s  with many players are structurally robust, thus large games escape major pitfalls in game-theoretic modeling.<br />
+Kalai is also known for seminal collaborative research on  '''flow games''' and totally balanced games; '''strategic complexity''' and its implications in economics and political systems; '''arbitration, strategic delegation and commitments'''; extensions of Arrow’s [[Impossibility Theorem]] in social choice; '''competitive service speed''' in queues; and on rational '''strategic polarization''' in group decision making.
+
+==Selected publications==
+'''Cooperative Game Theory'''<br />
+"Other Solutions to Nash's Bargaining Problems," ''Econometrica'', 1975 (with M. Smorodinsky)<br />
+"Proportional Solutions to Bargaining Situations:  Interpersonal Utility Comparisons," ''Econometrica'', 1977<br />
+"Monotonic Solutions to General Cooperative Games," ''Econometrica'', 1985 (with D. Samet)<br />
+'''Non cooperative Game Theory''' <br />
+"Finite Rationality and Interpersonal Complexity in Repeated Games," ''Econometrica'', 1988 (with W. Stanford)<br />
+"Rational Learning Leads to Nash Equilibrium," ''Econometrica'', 1993 (with E. Lehrer)<br />
+“Large Robust Games,” ''Econometrica'', 2004<br />
+'''Probability and Learning'''<br />
+"Bayesian Representations of Stochastic Processes Under Learning: deFinetti Revisited," ''Econometrica'', 1999 (with M. Jackson and R. Smorodinsky)<br />
+'''Economics'''<br />
+"The Kinked Demand Curve, Facilitating Practices, and Oligopolistic Coordination," 1986 Northwestern DP (with M. Satterthwaite; published by Kluwer, 1996))<br />
+"Observable Contracts:  Strategic Delegation and Cooperation," ''International Economic Review'', 1991 (with C. Fershtman and K. Judd)<br />
+"Complexity Considerations in Market Behavior," ''The RAND Journal of Economics'', 1993 (with C. Fershtman)<br />
+'''Social Choice''' <br />
+"Aggregation Procedure for Cardinal Preferences:  A Formulation and Proof of Samuelson's Impossibility Conjecture," ''Econometrica'', 1977 (with D. Schmeidler)<br />
+"Characterization of Domains Admitting Non-Dictatorial Social Welfare Functions and Non-Manipulable Voting Procedures," ''Journal of Economic Theory'', 1977 (with E. Muller)<br />
+"Path Independent Choices," ''Econometrica'', 1980 (with N. Megiddo)<br />
+'''Operations Research / Computer Science'''<br />
+"Totally Balanced Games and Games of Flow," ''Mathematics of Operations Research'', 1982 (with [[E. Zemel]])<br />
+"Optimal Service Speeds in a Competitive Environment," ''Management Science'', 1992 (with M. Kamien and M. Rubinovitch)<br />
+“{{sic|hide=y|Partially|-}}Specified Large Games,” ''Lecture Notes in Computer Science'', 2005<br />
+'''Mathematical Psychology'''<br />
+"Strategic Polarization," ''Journal of Mathematical Psychology'', 2001 (with A. Kalai)
+
+==References==
+<references />
+
+{{Presidents of the Game Theory Society}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kalai, Ehud}}
+[[Category:1942 births]]
+[[Category:Israeli economists]]
+[[Category:Israeli emigrants to the United States]]
+[[Category:21st-century American economists]]
+[[Category:Game theorists]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Northwestern University faculty]]
+[[Category:Cornell University alumni]]
+[[Category:Living people]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Economics journal editors]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]

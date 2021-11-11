@@ -1,0 +1,70 @@
+{{Use dmy dates|date=September 2016}}
+{{More citations needed|date=December 2020}}
+{{Infobox academic
+| name               = Théodore Simon
+| image              = Theodore Simon ACERVO CDPHA.jpg
+| image_size         = 
+| alt                = 
+| caption            = Simon in Brazil in 1928
+| birth_name         = <!-- Use only if different from full/othernames -->
+| birth_date         = {{birth date|df=yes|1873|07|10}}
+| birth_place        = [[Dijon]], [[Burgundy]], France
+| death_date         = {{death date and age|df=yes|1961|9|4|1872|07|10}} 
+| death_place        = [[Paris]], France
+| death_cause        =
+| nationality        = French
+| occupation         = [[Psychologist]]
+| boards             = <!-- Board or similar positions extraneous to main occupation - e.g. "Editoral board of The Journal of Sociology" -->
+| known_for          =
+| spouse             = 
+| discipline         = <!-- Major academic discipline - e.g. Physicist, Sociologist, New Testament scholar, Ancient Near Eastern Linguist -->
+| sub_discipline     = <!-- Academic discipline specialist area - e.g. Sub-atomic research, 20th Century Danish specialist, Pauline research, Arcadian and Ugaritic specialist -->
+| influences         = [[Alfred Binet]]
+| influenced         = [[Jean Piaget]]
+| footnotes          =
+}}
+
+'''Théodore Simon''' ({{IPA-fr|simɔ̃|lang}}; 10 July 1873 – 4 September 1961) was a French psychologist who worked with [[Alfred Binet]] to develop the Binet-Simon scale, one of the most widely used scales in the world for [[Intelligence quotient|measuring intelligence]]. This scale was revised in 1908 and 1911, and served as a template for the development of newer scales. Simon worked at various hospitals throughout France, including Sainte-Anne{{where|date=January 2017}} and [[Dury, Somme|Dury-les-Amiens]]. He also worked as the head psychiatrist at [[Saint-Yon]]{{where|date=January 2017}} hospital and as a medical director at [[Épinay-sur-Orge|Perray-Vaucluse]].{{where|date=January 2017}} He was also the founder of the first nursing school in psychiatry at the Maison Blanche hospital in [[Neuilly-sur-Marne]], in 1946. The training institute which continues to this day bears his name.
+
+==Biography==
+
+===Education and early career===
+
+Théodore Simon was born on 10 July 1873 in [[Dijon]], France. Simon's father worked as a railroad engineer for [[Chemins de fer de Paris à Lyon et à la Méditerranée|PLM]].<ref name=":1">{{Cite web|title = Théodore Simon|url = http://psychiatrie.histoire.free.fr/pers/bio/simon.htm|website = psychiatrie.histoire.free.fr|access-date = 2015-11-10}}</ref> His early life was filled with great loss of family members. After becoming orphaned, Simon lived with his uncle in Sens. Simon's older brother also died at the young age of 23.<ref name=":1" /> During much of his early life, he was fascinated by [[Alfred Binet]]'s work and constantly read his books. Simon was a medical doctor and was interested in questions of both philosophy and psychology. His interest in psychology continually increased, especially as the need for clinical experience in the field decreased.
+
+In 1899, Simon was appointed as an intern at the asylum at [[Épinay-sur-Orge|Perray-Vaucluse]] where he began his famous work on abnormal children.<ref name=":0">{{Cite journal|title = An individual who made a difference|last = Wolf|first = Theta|date = 1961|journal = American Psychologist|volume = 16|issue = 5|pages = 245–248|doi = 10.1037/h0044555 }}</ref> This drew Binet's attention, who was at the time studying the correlation between physical growth and intellectual development. Binet came to the asylum and continued his work there with Simon. This research led to Simon's medical thesis on the topic in 1900.
+
+From 1901-1905, Simon worked in various hospitals, from Sainte-Anne{{where|date=January 2017}} to [[Dury, Somme|Dury-les-Amiens]]. In March 1903, Simon worked with Binet in the Free Society for the Psychological Study of Children, which was dedicated to the discussion and the creation of a plan to aid in identifying and improving the education of abnormal children.<ref>{{Cite journal|title = Beyond Intelligence Testing: Remembering Alfred Binet After a Century|last = Nicolas|first = Serge|date = 2012|journal = European Psychologist|doi = 10.1027/1016-9040/a000117}}</ref> This sparked Binet and Simon's work on establishing a scale to identify abnormal children. Simon and Binet released the Binet-Simon Intelligence Scale to the public for the first time in 1905. The Binet-Simon Intelligence Scale would become the most widely used device for measuring a person's intelligence. The Binet-Simon Intelligence Scale premiered in ''{{ill|L'Année psychologique|fr}}'' a journal founded by Binet in 1895.
+
+===Late career===
+
+Simon was critical of the immoderate and improper use of the Binet-Simon Intelligence Scale by other psychologists and professionals due to his belief that the scale was being over-used, which may have been an inappropriate use of the Binet-Simon Intelligence Scale, which prevents other psychologists from achieving Binet's ultimate goal of understanding human beings, their nature, and their development.
+
+The Binet-Simon Intelligence Scale was revised in 1908 and again in 1911.<ref>{{Cite web|url=https://www.russellsage.org/sites/default/files/Ayres_BinetSimon%20Test_0.pdf|title=The Binet-Simon Measuring Scale for Intelligence: Some Criticisms and Suggestions|last=Russell Sage Foundation.|first=Leonard P. Ayees|website=www.russellsage.org}}</ref> Simon kept the scale the same after Binet's death as a sign of respect for one of history's greatest psychologists and Simon's true idol.
+
+After 1905 until 1920, Simon worked as the head psychiatrist at [[Saint-Yon]] hospital in Essonne department in Île-de-France (northern France).{{where|date=January 2017}} In 1920, he returned as medical director at Perray-Vaucluse until 1930. From there, he moved to act as medical director until late 1936, when he retired. Starting in 1912, Simon was also a long-time president and editor for ''Bulletin'' of Société Alfred Binet.<ref name=":0" /> In 1946 Simon established the first specialized nursing school. Originally the Ecole des Bleues, and later renamed L'Ecole d'Infirmières de Maison-Blanche, it is now the Institut de Formation Interhospitalier Theodore Simon. He served as the technical director for 11 years (1946–1957).<ref name=":1" />
+
+Simon died in 1961.
+
+==Publications==
+*Binet, A., & Simon, Th. (1905a). New methods for diagnosing the idiot, the imbecile, and the moron. In Sante de Sanctis (Ed.), ''Atti del V congresso internazionale di psicologia tenuto in Roma dal 26 al 30 aprile 1905 sotto la presidenza del Prof Giuseppe Sergi'' (pp.&nbsp;507–510). Rome, Italy: Forzani.
+*{{cite journal | last1 = Binet | first1 = A. | last2 = Simon | first2 = Th. | year = 1905b | title = New methods for the diagnosis of the intellectual level of subnormals | journal = L'Annee Psychologique | volume = 11 | pages = 191–244 | doi = 10.3406/psy.1904.3675 }}
+*{{cite journal | last1 = Binet | first1 = A. | last2 = Simon | first2 = Th. | year = 1908 | title = The development of intelligence in children | journal = L'Annee Psychologique | volume = 14 | pages = 1–94 | doi = 10.3406/psy.1907.3737 }}
+*{{cite journal | last1 = Binet | first1 = A. | last2 = Simon | first2 = Th | year = 1911 | title = The measure of the development of the intelligence in young children | journal = Bulletin de la Société Libre pour l'Étude de l'Enfant | volume = 11 | pages = 187–256 }}
+*{{cite journal | last1 = Binet | first1 = A. | last2 = Simon | first2 = Th. | last3 = Vaney | first3 = V. | year = 1906 | title = The laboratory of Grange-aux-belles street | journal = Bulletin de la Société libre pour l'Étude de l'Enfant | volume = 34 | pages = 10–24 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Gutenberg author | id=Simon,+Théodore | name=Théodore Simon}}
+* {{Internet Archive author |search=( ("Théodore Simon" OR "Theodore Simon" OR "Simon, Théodore" OR "Simon, Theodore") AND -creator:Jouffroy -title:Jouffroy)}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Simon, Theodore}}
+[[Category:French psychologists]]
+[[Category:1872 births]]
+[[Category:1961 deaths]]
+[[Category:Intelligence researchers]]
+[[Category:People from Dijon]]

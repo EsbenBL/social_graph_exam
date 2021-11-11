@@ -1,0 +1,59 @@
+{{Infobox economist
+
+ <!-- Economist Category -->
+ | school_tradition = [[Post Keynesian economics]]
+ 
+ | image       =
+ <!-- Information -->
+ | name             = Victoria Chick
+ | birth_date       = {{birth year and age|1936}}
+ | birth_place      = [[Berkeley, California]], [[United States|U.S.]]
+ | death_date       =
+ | death_place      =
+ | field            = [[Macroeconomics]] and [[monetary economics]]
+ | influences       = [[John Maynard Keynes]], [[Hyman Minsky]]
+ | contributions    = [[Post Keynesian economics]]
+| repec_prefix = f | repec_id = pch1025
+}}
+'''Victoria Chick''' (born 1936) is a [[Post-Keynesian economics|Post Keynesian economist]]. She has made contributions to the understanding of Keynes's [[The General Theory of Employment, Interest and Money|General Theory]].
+
+==Early life==
+Chick was born in 1936 in [[Berkeley, California]]. She graduated from the [[University of California at Berkeley]] with Bachelor's and Master's degrees in economics.<ref>{{cite web |last1=Arestis |first1=Philip |last2=Desai |first2=Meghnad |last3=Dow |first3=Sheila |title=Methodology, Microeconomics and Keynes: Essays in Honour of Victoria Chick |url=http://www.google.com/books/edition/Methodology_Microeconomics_and_Keynes/4aCBAgAAQBAJ?hl=en&gbpv=1 |publisher=Routledge |access-date=15 September 2021 |language=en |date=18 October 2001}}</ref>
+
+==Biography==
+Chick wrote her thesis on Canada's experience in the 1950s with flexible exchange rates. As a research student, she was taught by [[Hyman Minsky]] (among others), although her interest in [[John Maynard Keynes|Keynes]] and his [[The General Theory of Employment, Interest and Money|General Theory]] developed much later. After further study at the [[London School of Economics]], in 1963 she secured a post at [[University College London]] where she remained for the rest of her career, being appointed to a Chair in 1993.
+
+At UCL her interests shifted from international economics to monetary theory and macroeconomics. Her first major book, ''The Theory of Monetary Policy'' (1973), was a critical evaluation of both the Keynesian and monetarist approaches to macroeconomics that were dominant of the time. In 1971 she was present at [[Joan Robinson]]'s Ely Lecture to the American Economic Association, titled The Second Crisis in Economics, and at the  meeting called by [[Joan Robinson]] and [[Paul Davidson (economist)|Paul Davidson]] which gave conscious expression to what became the Post Keynesian school of thought.
+
+Chick then returned to [[The General Theory of Employment, Interest and Money|The General Theory]] and wrote a critique of Clower and Leijonhufvud's reappraisal (Leijonhufvud, 1968) of the Economics of Keynes, leading eventually to her magnum opus ''Macroeconomics After Keynes'' (1983). In this book she portrayed the [[Keynesian Revolution]] as one of method, forced by taking seriously the effects of money, time and uncertainty. Her subsequent work has placed great emphasis on methodology and institutions.
+
+In 1988, with Philip Arestis, Chick founded the Post Keynesian Economics Study Group (PKSG).<ref>{{cite web |title=About PKES |url=http://www.postkeynesian.net/about/ |website=postkeynesian.net |access-date=15 September 2021}}</ref>
+
+== Major works ==
+* ''The Theory of Monetary Policy'' Oxford: Basil Blackwell (1977)
+* ''Macroeconomics After Keynes'' Cambridge, Massachusetts: MIT Press (1983)
+
+==See also==
+* [[List of economists]]
+* [[Macroeconomics]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{Refbegin}}
+* Arestis, P. and Sawyer, M. C. (2001) A Biographical Dictionary Of Dissenting Economists, Edward Elgar
+{{Refend}}
+
+{{Keynesians}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chick, Victoria}}
+[[Category:1936 births]]
+[[Category:Living people]]
+[[Category:Economists from California]]
+[[Category:American women economists]]
+[[Category:People from Berkeley, California]]
+[[Category:Post-Keynesian economists]]
+[[Category:Macroeconomists]]

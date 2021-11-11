@@ -1,0 +1,75 @@
+{{Short description|British economist}}
+{{Use dmy dates|date=August 2016}}
+{{Use British English|date=August 2016}}
+{{Infobox economist
+| honorific_prefix = [[Professor]]
+| name        = Martin Browning
+| native_name = 
+| native_name_lang = 
+| school_tradition = 
+| image       = 
+| image_size  = 
+| caption     = 
+| birth_date  = 1946 <!--{{Birth date and age|df=yes|1946|MM|DD}}-->
+| birth_place = 
+| death_date  = 
+| death_place = 
+| resting_place = 
+| resting_place_coordinates = 
+| nationality = [[United Kingdom|British]]
+| institution = [[University of Oxford]]
+| field       = 
+| alma_mater  = [[Tilburg University]], [[Netherlands]]
+| influences  = 
+| influenced  = 
+| contributions = 
+| awards      =
+| memorials   = 
+| spouse      =
+| signature   = <!--(filename only)-->
+| module      = 
+| repec_prefix = f
+| repec_id = pbr221
+}}
+'''Martin James Browning''' (born 1946) is Professor of Economics at the [[University of Oxford]], [[Oxford]], [[England]], a Fellow of [[Nuffield College]], [[Oxford]], a Fellow of the [[Econometric Society]], and an emeritus Fellow of the [[European Economic Association]].<ref name=Ox_bio>{{cite web |title=Martin Browning, Professor of economics, Head of Department |url=http://www.economics.ox.ac.uk/Academic/martin-browning |publisher=Department of Economics, University of Oxford |access-date=17 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140730035114/http://www.economics.ox.ac.uk/Academic/martin-browning |archive-date=30 July 2014 |df=dmy-all }}</ref><ref>{{Cite web|title=Fellows {{!}} The Econometric Society|url=https://www.econometricsociety.org/society/organization-and-governance/fellows|access-date=2021-01-16|website=www.econometricsociety.org}}</ref><ref>{{Cite web|last=|first=|date=|title=Fellows|url=https://www.eeassoc.org/fellows|url-status=live|archive-url=|archive-date=|access-date=|website=[[European Economic Association]]}}</ref>
+
+== Education ==
+Browning received his undergraduate education at the [[London School of Economics]] and his doctorate from [[Tilburg University]].<ref name=Ox_bio />
+
+== Career ==
+He was previously the Director of the Center for Applied Microeconometrics at the [[University of Copenhagen]], [[Denmark]]. Before the appointment at University of Copenhagen, he was a Professor at [[McMaster University]], [[Canada]].
+
+== Research ==
+His work is in [[microeconomic]] analysis, with emphasis in the [[empirical]] assessments of theoretical propositions. He has worked in the areas of [[Intra-household bargaining|intrahousehold decision making]]; [[demand]] [[analysis]]; consumption and saving, and its interaction with labor supply. An important part of his work concerns the empirical assessment of rationality through the concept of [[revealed preference]], and the modeling of individual [[heterogeneity]] in applied work.
+
+=== Selected journal articles ===
+* {{Cite journal | last1 = Browning | first1 = Martin | last2 = Chiappori | first2 = Pierre-André | title = Efficient intra-household allocations: a general characterization and empirical Tests | journal = Econometrica | volume = 66 | issue = 6 | pages = 1241–1278 | doi = 10.2307/2999616 | date = November 1998 | jstor = 2999616 | url = http://socserv.socsci.mcmaster.ca/econ/rsrch/papers/archive/94-07.pdf }}
+* {{Cite journal | last1 = Browning | first1 = Martin | last2 = Crossley | first2 = Thomas F. | title = Luxuries are easier to postpone: a proof | journal = Journal of Political Economy | volume = 108 | issue = 5 | pages = 1022–1026 | doi = 10.1086/317668 | date = October 2000 | s2cid = 222441057 }}
+* {{Cite journal | last1 = Browning | first1 = Martin | last2 = Lechene | first2 = Valérie | title = Children and demand: direct and non-direct effects | journal = Review of Economics of the Household | volume = 1 | issue = 1 | pages = 9–31 | doi = 10.1023/A:1021895313920 | date = January 2003 | s2cid = 55278469 }}
+* {{Cite journal | last1 = Browning | first1 = Martin | last2 = Blundell | first2 = Richard W. | last3 = Crawford | first3 = Ian A. | author-link2 = Richard Blundell | title = Nonparametric engel curves and revealed preference | journal = Econometrica | volume = 71 | issue = 1 | pages = 205–240 | date = January 2003 | jstor = 3082045 | doi = 10.1111/1468-0262.00394 | url = https://curis.ku.dk/ws/files/23321713/2002-04.pdf }}
+* {{Cite journal | last1 = Browning | first1 = Martin | last2 = Crossley | first2 = Thomas F. | title = Are two cheap, noisy measures better than one expensive, accurate one? | journal = American Economic Review | volume = 99 | issue = 2 | pages = 99–103 | doi = 10.1257/aer.99.2.99 | date = May 2009 | citeseerx = 10.1.1.208.9963 }}
+* {{Cite journal | last1 = Browning | first1 = Martin | last2 = Chiappori | first2 = Pierre-André | last3 = Lechene | first3 = Valérie | title = Distributional effects in household models: separate spheres and income pooling | journal = The Economic Journal | volume = 120 | issue = 545 | pages = 786–799 | doi = 10.1111/j.1468-0297.2009.02311.x | date = June 2010 | s2cid = 10532216 | url = http://discovery.ucl.ac.uk/14924/1/14924.pdf }}
+* {{Cite journal | last1 = Browning | first1 = Martin | last2 = Lewbel | first2 = Arthur | last3 = Chiappori | first3 = Pierre-André | author-link2 = Arthur Lewbel | title = Estimating consumption economies of scale, adult equivalence scales, and household bargaining power | journal = Review of Economic Studies | volume = 80 | issue = 4 | pages = 1267–1303 | doi = 10.1093/restud/rdt019 | date = 2013 | citeseerx = 10.1.1.172.6738 }}
+* {{Cite journal | last1 = Browning | first1 = Martin | last2 = Carro | first2 = Jesus M. | title = Dynamic binary outcome models with maximal heterogeneity | journal = Journal of Econometrics | volume = 178 | issue = 2 | pages = 805–823 | doi = 10.1016/j.jeconom.2013.11.005 | date = February 2014 | url = https://e-archivo.uc3m.es/bitstream/10016/20689/1/dynamic_carro_JE_2014_ps.pdf | hdl = 10016/20689 | hdl-access = free }}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20090329091144/http://www.economics.ox.ac.uk/index.php/staff/browning Personal homepage]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Browning, Martin}}
+[[Category:Alumni of the London School of Economics]]
+[[Category:Microeconomists]]
+[[Category:Tilburg University alumni]]
+[[Category:English economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of Nuffield College, Oxford]]
+[[Category:University of Copenhagen faculty]]
+[[Category:1946 births]]
+[[Category:Living people]]
+
+
+{{UK-economist-stub}}

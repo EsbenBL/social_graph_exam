@@ -1,0 +1,79 @@
+{{short description|Swedish economist (born 1933)}}
+{{Infobox economist
+| name             = Axel Leijonhufvud
+| school_tradition = [[Disequilibrium macroeconomics]]
+
+| image            =
+| image_size       =
+| caption          =
+| birth_date       = 1933
+| birth_place      = [[Stockholm]], [[Sweden]]
+| death_date       =
+| death_place      =
+| nationality      = Swedish
+| institution      = [[University of Trento]]<br />[[UCLA]]<br />[[Brookings Institution]]
+| field            =
+| alma_mater       = [[Lund University]]<br>[[University of Pittsburgh]]<br>[[Northwestern University]]
+| influences       = [[Léon Walras]], [[John Maynard Keynes]]
+| influenced       = [[Yanis Varoufakis]]
+| contributions    =
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix =  | repec_id =
+}}
+
+'''Axel Leijonhufvud''' (born 1933) is a Swedish [[economist]], currently professor [[emeritus]] at the University of California Los Angeles ([[UCLA]]) and professor at the [[University of Trento]], Italy.
+
+==Academic career==
+He obtained his bachelor's degree at the [[University of Lund]], earned an MA in Economics from the [[University of Pittsburgh]] and a Ph.D. in Economics from [[Northwestern University]] in 1967. He accepted a position as Acting Assistant Professor in the Economics Department at UCLA in 1964, was promoted to Associate Professor in 1967, and to Full Professor in 1971. In 1991, he started the Center for Computable Economics at UCLA and remained its Director until 1997.  Leijonhufvud was awarded an [[honoris causa]] doctoral degree by the University of Lund in 1983 and by the University Nice - Sophia Antipolis in 1996. In 1995 Leijonhufvud was appointed Professor of Monetary Theory and Policy at the [[University of Trento]] in Italy, where he is also part of the CEEL (Computable and Experimental Economics Laboratory).
+
+==Economic theory==
+In 1968 he published a famous scholarly book entitled ''On Keynesian Economics and the Economics of Keynes''. Leijonhufvud's monetary economics vitally depended on the earlier work of his friend and mentor, the American economist [[Robert W. Clower]].
+
+In the book, Leijonhufvud argued that [[John Hicks]]' [[IS/LM]] (Investment—Saving / Liquidity preference—Money supply) formulation of Keynes [[General Theory of Employment, Interest and Money|''General Theory'']] was inadequate as an explanation for the "[[involuntary unemployment]]" in John Maynard Keynes's writings.
+Rather, Leijonhufvud's reading of Keynes emphasizes disequilibrium phenomena, which cannot be addressed in the IS/LM framework, as central to Keynes' explanation of unemployment and [[economic depression]]. Leijonhufvud used this observation as a point of departure to advocate a "cybernetic" approach to macroeconomics where the algorithm by which prices and quantities adjust is explicitly specified allowing the dynamic economy to be studied without imposing the standard Walrasian equilibrium concept. In particular, Leijonhufvud advocated formally modelling the process by which information moves through the economy.<ref>Snowdon 2002</ref> While the "cybernetic" approach may have failed to gain traction in [[mainstream economics]],<ref>Howitt 2002</ref> it presaged the [[rational expectations]] revolution that would ultimately supplant the IS/LM model as the dominant paradigm in academic macroeconomics.
+
+Leijonhufvud wrote also the article "The Wicksell Connection: Variation on a Theme",<ref>Leijonhufvud 1979</ref> where he presents the [[Z-Theory]]. In another article called "Effective Demand Failures",<ref>Leijonhufvud 1973</ref> he presents the [[Corridor Hypothesis]].
+
+In 2006 the Economics Department at UCLA organized a conference in honor of Axel Leijonhufvud's contributions to the department and to economics at large. [[Lars Peter Hansen]], [[Peter Howitt (economist)|Peter Howitt]], [[David K. Levine]], [[Edmund S. Phelps]], [[Thomas J. Sargent]], and [[Kenneth L. Sokoloff]] were among the contributors to this conference.<ref>Farmer 2008</ref>
+
+==Life Among the Econ==
+
+Published in the ''[[Western Economic Journal]]'' in 1973, Axel Leijonhufvud's ''Life Among the Econ''<ref>{{cite journal|last1=Leijonhufvud|first1=Alex|title=Life Among the Econ|journal=Western Economic Journal|date=Sep 1973|volume=11|issue=3}}</ref> is a comical article outlining the discipline of economics, and the scholars that practice it, from the perspective of an anthropologist. Professional economists are treated as a tribe known as "the Econ" and ensuing tribal analogues are produced throughout the piece to characterize the group's unusual behavior.
+
+While describing the "caste and status" structure of "the Econ", Leijonhufvud remarks how "status relationships do not seem to form a simple hierarchical '[[pecking order]]'..." and that "in societies with a traditional {{sic|pecking-order}}...an equilibrium develops in which little actual pecking ever takes place". By these comical observations Leijonhufvud's point is that within academic economics, there is little respect given on behalf of young economists toward their experienced colleagues. Alternatively, if there is such a recognized hierarchy, it is so stringent that little mobility is allowed: those at the top of the academic ladder do not easily give in to the desires of their lower-ranking counterparts, a practice that "carries no formal sanctions". At the time of writing, Leijonhufvud had solely worked for UCLA, so perhaps this commentary is uniquely directed toward his fellow bruins (highly unlikely...).
+
+In any case, Leijonhufvud later writes that hierarchy not only emerges generationally, but also between various fields of research: "A comparison of status relationships in the different 'fields' shows a definite common pattern." For "the Econ", the relative respect given to varying fields - the word they usurp for what is commonly understood as a caste - is contingent on their use of "modls", referring to the development of various economic models existing in academia today. Moreover, "modls" produced by different fields are not equally acknowledged by all - Macro and Micro Econs hardly appreciate, or even understand, the "modls" produced by the other. Within this allegorical language it is hard to miss Leijonhufvud's point that there is little interdepartmental understanding and collaboration in economics, at least during the early 1970s. Like common cultural misunderstandings, these gaps allow members of various schools of thought to quickly denigrate members of competing schools without first recognizing the context in which those schools, or "fields" as Leijonhufvud aligns them with, operate.
+
+Returning to his earlier critique of the generational pecking-order, Leijonhufvud further develops his theory of "grads, adults and elders". For "the Econ", the young adult, or "grad", is not accepted into the community until he produces a "modl" of sufficient complication for the master he or she works under. Yet this rite of initiation does not end with one initial acceptance: in order to maintain one's membership one needs to continually produce "modls", lest one be "turned out of the 'dept' to perish in the wilderness". This cultural demonstration is, of course, Leijonhufvud's commentary on the incessant need to publish new economic models within academia to sustain one's faculty position in an economic department. Yet Leijonhufvud later notes that these models rarely apply to the real world, though they are still the basis by which "Econs" look down upon Sociogs and Polscis ([[sociologists]] and [[political scientists]]). In defense of this practice among "the Econ", Leijonhufvud argues that it actually does not matter much whether "modls" work ("the Implementarist issue is no longer seen as productive") so long as they are filled with significant beliefs (this practice is particularly present among the "Math-econ", the priests of "the Econ").
+
+Leijonhufvud ends his comical caricature by recognizing that, because of the aforementioned practices surrounding ineffectiveness of "modls", "The prospect for the Econ is bleak." While they are growing at increasing rates, most of them are quite poor and not self-sustainable. And yet, "the Econ remain as of old a proud and warlike race", which is all to say that economics as a primary discipline among the social sciences is dwindling even though members of its community do not want to recognize it as such. Sure, "the Econ" had inspiring routes, but they have since exhausted their resources and trust with those on the outside and collapse from within has already begun—more and more "Econs" are reduced to vagabonds with no true community to call home.
+
+== Notes ==
+<references />
+
+== References ==
+* Farmer, Roger E.A. (editor), ''Macroeconomics in the Small and the Large. Essays on Microfoundations, Macroeconomic Applications and Economic History in Honor of Axel Leijonhufvud'', Edward Elgar, 2008.
+* Howitt, Peter [https://web.archive.org/web/20060907094948/http://www.econ.brown.edu/fac/Peter_Howitt/publication/Dalloz.pdf A Dictionary Article on Axel Leijonhufvud’s ''On Keynesian Economics and the Economics of Keynes: A Study in Monetary Theory'']. [[Brown University]]. January 29, 2002. Accessed April 28, 2008.
+* Leijonhufvud, Axel ''On Keynesian Economics and the Economics of Keynes:A Study in Monetary Theory'', New York: Oxford University Press, 1968.
+* Leijonhufvud, Axel ''Effective Demand Failures'' The Swedish Journal of Economics, Vol. 75, No. 1, (Mar., 1973), pp.&nbsp;27–48
+* Leijonhufvud, Axel [http://www.econ.ucla.edu/workingpapers/wp165.pdf ''The Wicksell Connection: Variation on a Theme'']. [[UCLA]]. November 1979.
+* Snowdon, Brian "Outside the Mainstream: An Interview with Axel Leijonhufvud", ''[[Macroeconomic Dynamics]]'', 8, 2004, 117–145. Online pre-print version: [http://www-ceel.economia.unitn.it/staff/leijonhufvud/interview.pdf ''Outside the Mainstream: An Interview with Axel Leijonhufvud'']. [[Northumbria University]]. May 17, 2002. Accessed April 28, 2008.
+
+==External links==
+* [https://web.archive.org/web/20150923233136/http://www.econ.ucla.edu/faculty/regular/Leijonhufvud.html Axel Leijonhufvud's Homepage]
+* [http://www-ceel.economia.unitn.it/staff/leijonhufvud/index.html Axel Leijonhufvud's Homepage at University of Trento]
+
+==See also==
+* [[Disequilibrium macroeconomics]]
+
+{{Neoclassical economists}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Leijonhufvud, Axel}}
+[[Category:Macroeconomists]]
+[[Category:1933 births]]
+[[Category:Swedish economists]]
+[[Category:Living people]]
+[[Category:Institute for New Economic Thinking]]

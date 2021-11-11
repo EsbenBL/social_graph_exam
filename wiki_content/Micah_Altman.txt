@@ -1,0 +1,166 @@
+{{Short description|American social scientist}}
+{{Infobox scientist
+| name = Micah Altman
+| image = 0011 kittner 120724 1953.jpg
+| image_size = 
+| alt = 
+| caption = 
+| birth_date = {{Birth date and age|1967|08|31}}
+| birth_place = [[St. Louis]], [[Missouri]], [[United States]]
+| residence = [[Cambridge, Massachusetts|Cambridge]], [[Massachusetts]], United States
+| citizenship = American
+| nationality = American
+| fields = [[Informatics (academic field)|Social Science Informatics]], [[Software Engineering]], [[Social Science]], [[Statistics]], [[Political Philosophy]]
+| workplaces = {{ plainlist |
+* [[Massachusetts Institute of Technology Libraries]]
+* [[Brookings Institution]]
+}}
+| alma_mater = {{ plainlist |
+* [[Harvard University]] (''[[Postdoctoral research|Postdoctoral Fellow]]'')
+* [[California Institute of Technology]] (''[[Doctor of Philosophy|Ph.D.]]'')
+* [[Brown University]] (''[[Bachelor of Arts|B.A.]]'')
+}}
+| thesis_title = Districting Principles and Democratic Representation
+| thesis_url = http://thesis.library.caltech.edu/1871/9/dissertation_full.pdf
+| thesis_year = 1998
+| doctoral_advisor = [[J. Morgan Kousser|Joseph Morgan Kousser]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences = 
+| influenced = 
+| awards = 
+| signature = <!--(filename only)-->
+| signature_alt = 
+| website = {{URL|micahaltman.com}}
+| footnotes = 
+| spouse = 
+}}
+
+'''Micah Altman''' (born August 31, 1967) is an [[United States|American]] [[Social science|social scientist]] who conducts [[research]] in [[Information science|social science informatics]]. Since 2012, he has worked as the head research scientist in the [[Massachusetts Institute of Technology Libraries|MIT Libraries]], first as director of the Program on Information Science (2012-2018) and subsequently as director of  research for the libraries' Center for Research on Equitable and Open Scholarship. Altman previously worked at [[Harvard University]]. He is known for his work on [[redistricting]], [[scholarly communication]], [[privacy]] and [[open science]]. Altman is a co-founder of ''Public Mapping Project'', which develops DistrictBuilder, an [[open-source software]].
+
+==Biography==
+Altman was born on August 31, 1967 in [[St. Louis]], [[Missouri]], United States. He studied [[computer science]] and [[political philosophy]] at [[Brown University]], graduating in 1989.<ref name=orcid>{{cite web|url=https://orcid.org/0000-0001-7382-6960|title=Micah Altman|website=[[ORCID]]|accessdate=2019-08-24}}</ref> He then went to the [[California Institute of Technology]] where he studied [[social science]] under [[Morgan Kousser]] and received a [[Doctor of Philosophy|Ph.D.]] in 1998.<ref>{{cite book|url=https://books.google.com/books?id=b7JxWN24unIC&pg=PT509|title=Handbook of Research on Public Information Technology|editor-first=G. David|editor-last=Garson|year=2008|volume=1|page=2|publisher=IGI Global|isbn=978-1-59904-857-4|via=[[Google Books]]}}</ref><ref>{{cite book|url=https://books.google.com/books?id=rz7qCQAAQBAJ&pg=PA10|title=Colorblind Injustice: Minority Voting Rights and the Undoing of the Second Reconstruction|first=J. Morgan|last=Kousser|page=10|year=1999|publisher=[[University of North Carolina Press]]|isbn=0-8078-2431-3|via=[[Google Books]]}}</ref> He worked as a [[postdoctoral researcher]] in [[Gary King (political scientist)|Gary King]]'s research group at [[Harvard University]].<ref name=denny>{{cite web|url=https://libraries.mit.edu/news/altman-joins-libraries/7451/|title=Altman joins MIT Libraries as Director of Research|last=Denny|first=Heather|publisher=[[Massachusetts Institute of Technology Libraries|MIT Libraries]]|date=2012-01-24|archiveurl=https://web.archive.org/web/20181003070447/https://libraries.mit.edu/news/altman-joins-libraries/7451/|archivedate=2018-10-03|accessdate=2019-09-14}}</ref><ref>{{cite web|url=https://gking.harvard.edu/people/micah-altman|title=Micah Altman: Harvard University|date=2013-08-15|publisher=[[Harvard University]]|archiveurl=https://web.archive.org/web/20130815001216/https://gking.harvard.edu/people/micah-altman|archivedate=2013-08-15|accessdate=2019-09-14}}</ref>
+
+From 1998 to 2012 Altman held a number of research positions at Harvard University, including Senior Research Scientist at the Institute of Quantitative Social Science, Archival Director for the Murray Research Archive and Associate Director of the [[Harvard-MIT Data Center]].<ref>{{cite book|url=https://books.google.com/books?id=gQH-bDbtkAgC&pg=PA103|title= Communicating Science and Engineering Data in the Information Age|page=103|publisher=[[National Academies Press]]|year=2012|isbn=978-0-309-22209-9|via=[[Google Books]]}}</ref> In 1998, Altman was awarded the "Leon Weaver Award" from the [[American Political Science Association]].<ref name=apsa>{{cite web|url=https://www.apsanet.org/section-8-Leon-Weaver-Award|title=Organized Section 8: Leon Weaver Award|publisher=[[American Political Science Association]]|archiveurl=https://web.archive.org/web/20150920083823/https://www.apsanet.org/section-8-Leon-Weaver-Award|archivedate=2015-09-20|accessdate=2019-08-10}}</ref> In 2004, together with [[Jeff Gill]] and [[Michael P. McDonald]], he co-authored ''Numerical Issues in Statistical Computing for the Social Scientist'', a book in the field of [[computational statistics]] that had several re-editions.<ref name=kreuter>{{cite journal|url=https://www.researchgate.net/publication/307658805|title=Numerical Issues in Statistical Computing for the Social Scientist|last=Kreuter|first=Frauke|journal=[[Journal of Statistical Software]]|volume=12|date=April 2005|doi=10.18637/jss.v012.b05}}</ref><ref name=gill2014>{{cite book|url=https://books.google.com/books?id=6fDRBQAAQBAJ&pg=PA321|title=Bayesian Methods: A Social and Behavioral Sciences Approach|edition=3d|last=Gill|first=Jeff|page=321|publisher=[[CRC Press]]|year=2014|isbn=978-1-4398-6249-0|via=[[Google Books]]}}</ref>
+
+In January 2011, Altman and McDonald presented their ''Public Mapping Project'', which developed DistrictBuilder, an [[open-source software]] redistricting application designed to provide online mapping tools.<ref name=politico>{{cite web|url=https://www.politico.com/story/2011/12/best-policy-innovations-of-2011-069812|title=Best policy innovations of 2011|publisher=[[Politico]]|date=2011-06-12|archiveurl=https://web.archive.org/web/20181109193755/https://www.politico.com/story/2011/12/best-policy-innovations-of-2011-069812|archivedate=2018-11-09|accessdate=2019-08-10}}</ref> This was awarded ''Best policy innovations'' from [[Politico]] (2011), the Antonio Pizzigati Prize for Software in the Public Interest from the [[Tides (organization)|Tides]] (2013) and the Brown Democracy Medal from [[Pennsylvania State University]] (2018).<ref name=politico /><ref name=mit2013>{{cite web|url=https://libraries.mit.edu/news/micah-altman-pizzigati/11283/|title=Micah Altman wins Pizzigati Prize|first=Heather|last=Denny|publisher=[[Massachusetts Institute of Technology Libraries]]|date=2013-04-12|archiveurl=https://web.archive.org/web/20190611180313/https://libraries.mit.edu/news/micah-altman-pizzigati/11283/|archivedate=2019-06-11|accessdate=2019-08-10}}</ref><ref name=penn>{{cite web|url=https://news.psu.edu/story/516246/2018/04/16/impact/public-mapping-project-wins-2018-brown-democracy-medal|title=Public Mapping Project wins 2018 Brown Democracy Medal|publisher=[[Pennsylvania State University]]|date=2018-04-16|archiveurl=https://web.archive.org/web/20190804184556/https://news.psu.edu/story/516246/2018/04/16/impact/public-mapping-project-wins-2018-brown-democracy-medal|archivedate=2019-08-04|accessdate=2019-08-10}}</ref>
+
+In March 2012, Altman was appointed as Director of Research at [[Massachusetts Institute of Technology Libraries]] and Head Scientist for the Program for [[Information Science]], and a non-resident senior fellow at the [[Brookings Institution]] in [[Washington, DC]].<ref name=denny /><ref>{{Cite web|url=https://informatics.mit.edu/director|title=Director of research|last=Altman|first=Micah|date=|website=MIT|archive-url=https://web.archive.org/web/20150422000007/http://informatics.mit.edu/director|archive-date=2015-04-22|url-status=dead|access-date=}}</ref> Also in 2012, he received "The Best Research Software Award" from the [[American Political Science Association]].<ref name=2012award>{{cite web|url=https://www.apsanet.org/MEMBERSHIP/Organized-Sections/Organized-Section-Awards/Section-18|title=Information Technology and Politics Section Award Recipients|publisher=[[American Political Science Association]]|archiveurl=https://web.archive.org/web/20181109112049/https://www.apsanet.org/MEMBERSHIP/Organized-Sections/Organized-Section-Awards/Section-18|archivedate=2018-11-09|accessdate=2019-08-10}}</ref>
+
+==Research works==
+===Electoral districting and redistricting===
+Altman's contributions to electoral districting and [[redistricting]] have been both theoretical and implementational. He established that the [[Computational complexity theory|computational complexity]] of the districting [[Computational problem|problem]] is [[NP-hard]] and hence optimal redistricting is likely to be [[Intractability (complexity)#Intractability|intractable]].<ref name="Scholar 1">{{cite journal| title=Is Automation the Answer: The Computational Complexity of Automated Redistricting|journal=[[Rutgers Computer and Technology Law Journal]] | last=Altman|first=Micah| year=1997 | issue=23|pages=81–142}}</ref><ref name="The conversation">{{cite web|url=https://theconversation.com/why-the-democrats-wont-win-the-house-in-2018-68037|title=Why the Democrats won't win the House in 2018|website=[[The Conversation (website)|The Conversation]]|date=2016-11-23|last1=McGann|last2=Keena|first2=Alex|last3=Smith|first3=Charles Anthony|last4=Latner|first4=Michael|archiveurl=https://web.archive.org/web/20191008144305/https://theconversation.com/why-the-democrats-wont-win-the-house-in-2018-68037|archivedate=2019-10-08|accessdate=2019-10-15}}</ref>
+
+The undesirable implications of this result are that redistricting cannot be fully automated in practice and the choice of constraints and manual selection of the winning, "optimal" plan from a group of auto-generated plans, reintroduce value-laden and politically biased decision making back into the redistricting process (something that the use of "objective" computer programs was hoped to avoid), while potentially also legitimizing such undercover [[gerrymandering]] for the less knowledgeable public.<ref name="Scholar 1"/>
+
+Further, computational simulations that he performed showed also that even the constraints that have been traditionally considered politically non-preferential, such as the overall compactness of the district, are not necessarily non-preferential because compactness requirements have different effects on political groups if the groups are distributed in geographically different ways.<ref name="Scholar 2">{{cite web | url=http://thesis.library.caltech.edu/1871/ | title=Districting Principles and Democratic Representation | publisher=[[California Institute of Technology]]| date=March 31, 1998 | accessdate=January 25, 2013|author=Micah Altman}}</ref> This result was referenced by the [[Supreme Court justice]]s  in the [[Vieth v. Jubelirer]] case.<ref name="Cornell">{{cite web | url=http://www.law.cornell.edu/supct/html/02-1580.ZC.html | title=Vieth V. Jubelirer (02-1580) 541 U.S. 267 (2004) 241 F. Supp. 2d 478, affirmed.|publisher=[[Cornell University Law School]]|date=April 28, 2004 | accessdate=January 25, 2013}}</ref>
+
+Altman and his colleagues later created the DistrictBuilder software (a successor to the BARD package), the first open-source system to enable the public to participate in redistricting directly through the creation of legal redistricting plans.<ref name="Scholar 3">{{cite journal|title=BARD: Better Automated Redistricting|last1=Altman|first1=Micah|last2=McDonald|first2=Michael P.|journal=[[Journal of Statistical Software]]|volume=42|issue=4|year=2011|doi=10.18637/jss.v042.i04}}</ref><ref name="US News 1">{{cite web | url=https://www.usnews.com/news/articles/2011/03/09/technology-gives-citizens-a-say-in-redistricting|title=Technology Gives Citizens a Say in Redistricting|last=Kurtzleben|first=Danielle|publisher=[[U.S. News & World Report]]|date=2011-03-09|archiveurl=https://web.archive.org/web/20181109234655/https://www.usnews.com/news/articles/2011/03/09/technology-gives-citizens-a-say-in-redistricting|archivedate=2018-11-09|accessdate=2019-10-15}}</ref><ref name="Washington 1">{{cite web| url=https://www.washingtonpost.com/opinions/the-rigged-redistricting-process/2011/03/18/ABmFxAs_story.html|title=The rigged redistricting process|newspaper=[[The Washington Post]]|last1=Mann|first1=Thomas E.|last2=Ornstein|first2=Norman J.|date=2011-03-19|archiveurl=https://web.archive.org/web/20190128044545/https://www.washingtonpost.com/opinions/the-rigged-redistricting-process/2011/03/18/ABmFxAs_story.html|archivedate=2019-01-28|accessdate=2019-10-15}}</ref><ref name="Tech Pres">{{cite web| url=http://techpresident.com/news/21731/pursuit-tech-answer-gerrymandering-good-government-groups-must-wait-another-ten-years|title=In Pursuit of a Tech Answer to Gerrymandering, Good-Government Groups Must Wait Another Ten Years|last=Judd|first=Nick|website=[[techPresident]]|date=2012-02-06|archiveurl=https://web.archive.org/web/20181109112037/http://techpresident.com/news/21731/pursuit-tech-answer-gerrymandering-good-government-groups-must-wait-another-ten-years|archivedate=2018-11-09|accessdate=2019-10-15}}</ref> This effort was awarded the Brown Democracy medal and Pizzigati award (see awards and recognition), after being used by the public to  create thousands of legal districting plans --  which increased previous levels of public participation in redistricting.<ref name="US News 1" />
+
+===Scientific data curation, preservation and replication===
+Altman's research in data curation and replication began in a collaboration with the Harvard libraries and Harvard-MIT Data Center (which is now a part of the Institute of Quantitative Social Science). This work included development of an open source institutional repository for data, named the Virtual Data Center, co-led with [[Sidney Verba]] and Gary King.<ref>{{cite web|url=https://gking.harvard.edu/files/abs/jcdl01-abs.shtml|title=An Overview of the Virtual Data Center Project and Software|last1=Altman|first1=Micah|last2=Andreev|first2=Leonid|last3=Diggory|first3=Mark|last4=King|first4=Gary|last5=Kiskis|first5=Daniel L.|last6=Kolster|first6=Elizabeth|last7=Krot|first7=Michael|last8=Verba|first8=Sidney|year=2001|publisher=First Joint Conference on Digital Libraries}}</ref> The successor to the Virtual data center, the [[Dataverse|Dataverse Network]], remains in broad use for data preservation and scientific replication.
+
+Altman co-authored ''Numerical Issues in Statistical Computing for the Social Scientist'' with Jefferson Gill, and Michael P. McDonald in 2004, which demonstrated that the [[reproducibility]] of statistical analyses used in social science are threatened by errors and limitations in the statistical computations and software used to estimate them.<ref name=kreuter /><ref name=gill2014 /> Based on this analysis, Altman, McDonald and Gill developed methods to detect issues in social science statistical models and provide more replicable and reliable estimates.<ref name=kreuter />
+
+Altman’s research was focused on preservation, scientific replication, and scholarly communication. It included the development of standards for data citation;<ref name="Scholar 4">{{cite book|title=Recommendations for Replication and Accurate Analysis, Numerical Issues in Statistical Computing for the Social Scientist|author=Micah Altman|display-authors=et al|publisher=[[Wiley (publisher)|John Wiley & Sons]]|date=January 2004|pages=253–266|doi=10.1002/0471475769.ch11|series=Wiley Series in Probability and Statistics|isbn=9780471236337}}</ref> the creation of semantic [[Fingerprint (computing)|fingerprint]] methods to verify data for scientific reuse, and long-term archiving;<ref>{{cite journal|url=https://gking.harvard.edu/files/abs/cite-abs.shtml|title=A Proposed Standard for the Scholarly Citation of Quantitative Data|last1=Altman|first1=Micah|last2=King|first2=Gary|journal=[[D-Lib Magazine]]|date=March–April 2007|volume=13|issue=3–4|ssrn=1081955}}</ref><ref name="Scholar 5">{{cite book|chapter=A Fingerprint Method for Scientific Data Verification|title=Advances in Computer and Information Sciences and Engineering|url=https://archive.org/details/advancescomputer00sobh|url-access=limited|last=Altman|first=Micah|editor-last=Sobh|editor-first=Tarek|year=2008|pages=[https://archive.org/details/advancescomputer00sobh/page/n324 311]–316|doi=10.1007/978-1-4020-8741-7_57|isbn=9781402087417|publisher=Springer}}</ref> the analysis of technical and institutional approach to long-term preservation;<ref name=grand>{{cite journal|url=https://grandchallenges.pubpub.org/pub/final|title=A Grand Challenges-Based Research Agenda for Scholarly Communication and Information Science|journal=Mit Grand Challenge Participation Platform|last1=Altman|first1=M.|last2=Bourg|first2=C.|last3=Cohen|first3=P.|last4=Choudhury|first4=GS|last5=Henry|first5=C.|last6=Kriegsman|first6=S.|last7=Minow|first7=M.|last8=Selematsela|first8=D.|last9=Sengupta|first9=A.|last10=Suber|first10=P.|last11=Turnator|first11=E.|publisher=MIT Grand Challenges Summit|via=PubPub|doi=10.21428/62b3421f|date=2018-12-17|archiveurl=https://web.archive.org/web/20190505194047/https://grandchallenges.pubpub.org/pub/final|archivedate=2019-05-05|accessdate=2019-10-15}}</ref> the creation of taxonomic standards for author attribution (working with [[Amy Brand]] and other);<ref>{{cite journal|title=Publishing: Credit where credit is due|author1=Liz Allen|author2=Jo Scott|author3=Amy Brand|author-link3=Amy Brand|author4=Marjorie Hlava|author5=Micah Altman|journal=[[Nature (journal)|Nature]]|volume=508|date=April 16, 2014|issue=7496|pages=312–313|doi=10.1038/508312a|pmid=24745070}}</ref> and the characterization of grand-challenge problems in scholarly communications.<ref name=grand />
+
+===Information privacy===
+Over the last decade, Altman has been a leader in the Harvard University Privacy Tools project,  which conducts research and develops tools to improve data privacy. Altman has published several research articles with this group characterizing the mathematical underpinnings on information privacy threats, and developing new technical and legal approaches to privacy protection.<ref>{{Cite news|url=https://www.thenational.ae/arts-culture/comment/so-just-how-should-internet-users-store-their-data-1.793191|title=So, just how should internet users store their data?|last=Marsden|first=Rhodri|newspaper=[[The National (Abu Dhabi)|The National]]|date=2018-11-19|archiveurl=https://web.archive.org/web/20190320075412/https://www.thenational.ae/arts-culture/comment/so-just-how-should-internet-users-store-their-data-1.793191|archivedate=2019-03-20|accessdate=2019-10-15}}</ref><ref>{{cite web|url=https://www.brookings.edu/blog/techtank/2018/06/07/controlling-cambridge-analytica-managing-the-new-risks-of-personal-data-collection/|title=Controlling Cambridge Analytica: Managing the new risks of personal data collection|last1=Micah|first1=Altman|last2=Wood|first2=Alexandra|publisher=[[Brookings Institution]]|date=2018-06-07|archiveurl=https://web.archive.org/web/20181128075430/https://www.brookings.edu/blog/techtank/2018/06/07/controlling-cambridge-analytica-managing-the-new-risks-of-personal-data-collection/|archivedate=2018-11-28|accessdate=2019-10-15}}</ref><ref>{{cite web|url=https://www.bostonglobe.com/ideas/2018/06/14/what-facebook-can-learn-from-academia-about-protecting-privacy/KGTNRTq15aFIASBwxfYVNP/story.html|title=What Facebook can learn from academia about protecting privacy|last1=Micah|first1=Altman|last2=Wood|first2=Alexandra|newspaper=[[The Boston Globe]]|date=2018-06-14|accessdate=2019-10-15}}</ref>
+
+==Awards and recognitions==
+{|class="sortable wikitable"
+|-
+! Year
+! Recognition
+! Recognition type
+! Awarding body
+|-
+| 1998
+| Leon Weaver Award<ref name=apsa /> 
+| Award
+| [[American Political Science Association]]
+|-
+| 1999
+| Best Dissertation Award<ref>{{cite web|url=https://www.wpsanet.org/about/agenda_minutes/Min_Bus_3-26-99.pdf|title=Western Political Science Association Business Meeting Minutes|date=1999-03-26|publisher=[[Western Political Science Association]]|archiveurl=https://web.archive.org/web/20190914090041/https://www.wpsanet.org/about/agenda_minutes/Min_Bus_3-26-99.pdf|archivedate=2019-09-14|accessdate=2019-09-14}}</ref>
+| Award
+| [[Western Political Science Association]]
+|-
+| 2011
+| Best policy innovations<ref name=politico />
+| Award
+| [[Politico]]
+|-
+| 2012
+| Best Research Software Award<ref name=2012award />
+| Award
+| American Political Science Association
+|-
+| 2012
+| Data Innovation Award for Social Impact<ref name=denny />
+| Award
+| [[O'Reilly Media|O’Reilly Strata Conference]]
+|-
+| 2013
+| The Antonio Pizzigati Prize for Software in the Public Interest<ref name=mit2013 /><ref name="pizzi">{{cite web|url=https://www.tides.org/tides-news/media/tides-awards-2013-pizzigati-prize-to-fair-elections-pioneer-micah-altman/|title=Tides Awards 2013 Pizzigati Prize to Fair Elections Pioneer Micah Altman|date=2013-03-06|publisher=[[Tides (organization)|Tides]]|archiveurl=https://web.archive.org/web/20190810161356/https://www.tides.org/tides-news/media/tides-awards-2013-pizzigati-prize-to-fair-elections-pioneer-micah-altman/|archivedate=2019-08-10|accessdate=2019-08-10}}</ref>
+| Award
+| [[Tides (organization)|Tides]]
+|-
+| 2010-2016
+| Non-Resident Senior Fellow<ref>{{cite web|url=https://www.brookings.edu/author/micah-altman/|title=Micah Altman|website=[[Brookings Institution]]|year=2019|archiveurl=https://web.archive.org/web/20190811190735/https://www.brookings.edu/author/micah-altman/|archivedate=2019-08-11|accessdate=2019-08-11}}</ref>
+| Fellowship
+| Brookings Institution
+|-
+|-
+| 2018
+| Brown Democracy Medal<ref name=penn />
+| Award
+| [[Pennsylvania State University]]
+|}
+
+== Books ==
+* {{cite book | title=Districting Principles and Democratic Representation | publisher=[[California Institute of Technology]] |last=Altman|first=Micah|year=1998 | location=[[Pasadena, California]], United States | pages=367}}
+* {{cite book | title=Numerical Issues in Statistical Computing for the Social Scientist |last1=Altman|first1=Micah|last2=Gill|first2=Jeff|last3=Mcdonald|first3=Michael|publisher=[[John Wiley & Sons]] | year=2003 | isbn=978-0-471-23633-7}}
+* {{cite book|title= Communicating Science and Engineering Data in the Information Age|publisher=[[National Academies Press]]|year=2012|isbn=978-0-309-22209-9}}
+* {{cite book | title=The Public Mapping Project: How Public Participation Can Revolutionize Redistricting | last1=McDonald | first1=Michael P. | last2=Altman | first2=Micah | publisher=[[Cornell University Press]] | year=2018 | isbn=978-1-5017-3855-5}}
+
+==Selected publications==
+* {{cite journal|title=Is Automation the Answer: The Computational Complexity of Automated Redistricting|journal=[[Rutgers Computer and Technology Law Journal]]|last=Altman|first=Micah|year=1997|issue=23|pages=81–142}}
+* {{cite journal|title=Modeling the Effect of Mandatory District Compactness on Partisan Gerrymanders|author=Micah Altman|journal=[[Political Geography (journal)|Political Geography]]|date=November 1998|volume=17|issue=8|pages=989–1012|doi=10.1016/S0962-6298(98)00015-8}}
+* {{cite journal|url=http://www.dlib.org/dlib/march07/altman/03altman.html|title=A Proposed Standard for the Scholarly Citation of Quantitative Data|author1=Micah Altman|author2=Gary King|author-link2=Gary King (political scientist)|journal=[[D-Lib Magazine]]|date=March 2007|volume=13|issue=3/4|pages=1082–9873|issn=1082-9873}}
+* {{cite journal|title=Publishing: Credit where credit is due|author1=Liz Allen|author2=Jo Scott|author3=Amy Brand|author-link3=Amy Brand|author4=Marjorie Hlava|author5=Micah Altman|journal=[[Nature (journal)|Nature]]|volume=508|date=April 16, 2014|issue=7496|pages=312–313|doi=10.1038/508312a|pmid=24745070}}
+* {{cite web|url=https://ndsa.org/documents/2015NationalAgenda.pdf|title=2015 National agenda for digital stewardship|publisher=[[National Digital Information Infrastructure and Preservation Program|National Digital Stewardship Alliance]]|last1=Altman|first1=M.|last2=Bailey|first2=J.|last3=Cariani|first3=K.|last4=Corridan|first4=J.|last5=Crabtree|first5=J.|last6=Gallinger|first6=M.|last7=Goethals|first7=A.|last8=Grotke|first8=A.|last9=Hartman|first9=C.|last10=Lazorshak|first10=B.|year=2015|archiveurl=https://web.archive.org/web/20191015194659/https://ndsa.org/documents/2015NationalAgenda.pdf|archivedate=2019-10-15|accessdate=2019-10-15}}
+* {{cite journal|title=Towards a Modern Approach to Privacy-Aware Government Data Releases|author1=Micah Altman|author2=Alexandra Wood|author3=David R. O’Brien|author4=Salil Vadhan|author-link4=Salil Vadhan|author5=Urs Gasser|journal=[[Berkeley Technology Law Journal]]|pages=1967–2072|volume=30|issue=3|year=2016|doi=10.15779/Z38FG17}}
+* {{cite journal|url=https://grandchallenges.pubpub.org/pub/final|title=A Grand Challenges-Based Research Agenda for Scholarly Communication and Information Science|journal=Mit Grand Challenge Participation Platform|last1=Altman|first1=M.|last2=Bourg|first2=C.|last3=Cohen|first3=P.|last4=Choudhury|first4=GS|last5=Henry|first5=C.|last6=Kriegsman|first6=S.|last7=Minow|first7=M.|last8=Selematsela|first8=D.|last9=Sengupta|first9=A.|last10=Suber|first10=P.|last11=Turnator|first11=E.|publisher=MIT Grand Challenges Summit|via=PubPub|doi=10.21428/62b3421f|date=2018-12-17|archiveurl=https://web.archive.org/web/20190505194047/https://grandchallenges.pubpub.org/pub/final|archivedate=2019-05-05|accessdate=2019-10-15}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+* {{Official|http://micahaltman.com}}
+* [https://scholar.google.com/citations?user=HV57prsAAAAJ Micah Altman] at [[Google Scholar]]
+* [https://www.worldcat.org/identities/lccn-nr2001039704/ Micah Altman profile at WorldCat]
+
+{{Authority control}}
+{{DEFAULTSORT:Altman, Micah}}
+
+[[Category:Massachusetts Institute of Technology fellows]]
+
+[[Category:American political scientists]]
+
+[[Category:Brown University alumni]]
+
+[[Category:Harvard University alumni]]
+[[Category:Harvard University faculty]]
+
+[[Category:1967 births]]
+[[Category:Scientists from St. Louis]]
+[[Category:Information scientists]]
+[[Category:California Institute of Technology alumni]]
+[[Category:Massachusetts Institute of Technology faculty]]
+[[Category:Brookings Institution]]
+[[Category:Redistricting]]
+[[Category:Living people]]

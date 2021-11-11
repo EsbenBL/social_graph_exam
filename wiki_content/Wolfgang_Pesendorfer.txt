@@ -1,0 +1,48 @@
+{{Short description|American economist}}
+{{Infobox economist
+| name        = Wolfgang Pesendorfer
+| school_tradition = 
+| image       = 
+| image_size  = 
+| caption     = 
+| birth_date  = 1963 <!--{{birth date and age|YYYY|MM|DD}}-->
+| birth_place = 
+| death_date  = 
+| death_place = 
+| nationality = 
+| institution = [[Princeton University]]
+| field       = [[rational choice theory|choice theory]]<br>[[game theory]]
+| alma_mater  = [[University of California, Los Angeles]]
+| doctoral_advisor  = [[Joseph M. Ostroy]]
+| academic_advisors = 
+| doctoral_students = [[Nicola Persico]]
+| notable_students  = 
+| influences  = 
+| influenced  = 
+| contributions = 
+| awards      =
+| repec_prefix = e | repec_id = ppe7
+}}
+
+'''Wolfgang Pesendorfer''' (born 1963) is a professor of [[economics]] at [[Princeton University]]. He specializes in [[rational choice theory|choice theory]], [[game theory]], and [[political economy]].
+
+==Selected works==
+*[[Faruk Gul]] and Wolfgang Pesendorfer, ''Temptation and Self-Control'', [[Econometrica]] 2001.
+*[[Faruk Gul]] and Wolfgang Pesendorfer, ''Self-Control and the Theory of Consumption'', [[Econometrica]] 2004.
+*[[Faruk Gul]] and Wolfgang Pesendorfer, ''Random Expected Utility'', [[Econometrica]] 2006.
+
+==External links==
+*[https://www.princeton.edu/~pesendor/ Homepage]
+*{{cite web|title= Wolfgang Pesendorfer|url=https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Wolfgang+Pesendorfer&btnG=|publisher=[[Google Scholar]]}}
+*{{cite web|title=Wolfgang Pesendorfer|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Wolfgang+Pesendorfer%22+&acc=off&wc=on&fc=off&group=none|publisher=[[JSTOR]]}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pesendorfer, Wolfgang}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:21st-century American economists]]
+[[Category:University of California, Los Angeles alumni]]
+[[Category:Princeton University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]

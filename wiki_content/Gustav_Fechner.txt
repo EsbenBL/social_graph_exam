@@ -1,0 +1,205 @@
+{{short description|German experimental psychologist, 
+physicist, and philosopher}}
+{{Infobox scientist
+|name =Gustav Fechner
+|image =Gustav Fechner.jpg
+|caption=
+|birth_name=Gustav Theodor Fechner
+|birth_date = {{birth date|1801|4|19|df=y}}
+|birth_place = [[Żarki Wielkie|Groß Särchen]] (near [[Bad Muskau|Muskau]]), [[Electorate of Saxony|Saxony]], [[Holy Roman Empire]]
+|death_date = {{death date and age|1887|11|18|1801|4|19|df=y}}
+|death_place = [[Leipzig]], [[Kingdom of Saxony|Saxony]], [[German Empire]]
+|residence =
+|citizenship =
+|nationality = German
+|education = {{Interlanguage link multi|Medizinische Akademie Carl Gustav Carus|de}}<br>[[Leipzig University]] (PhD, 1835)
+|thesis_title = De variis intensitatem vis Galvanicae metiendi methodis
+|thesis_url = http://digital.slub-dresden.de/werkansicht/dlf/20235/1/
+|thesis_year = 1835
+|doctoral_advisor =
+|doctoral_students =
+|notable_students = [[Hermann Lotze]]
+|known_for = [[Weber–Fechner law]]
+|influences = [[Immanuel Kant]]
+|influenced = [[Gerardus Heymans]]<br>[[Wilhelm Wundt]]<br>[[William James]]<br>[[Alfred North Whitehead]]<br>[[Charles Hartshorne]]<br>[[Ernst Heinrich Weber|Ernst Weber]]<br>[[Sigmund Freud]]<br>[[Friedrich Paulsen]]<br>[[Ludwig von Bertalanffy]]
+|field = [[Experimental psychology]]
+|work_institutions = [[Leipzig University]]
+}}
+
+'''Gustav Theodor Fechner''' ({{IPAc-en|ˈ|f|ɛ|x|n|ər}}; {{IPA-de|ˈfɛçnɐ|lang}}; 19 April 1801 – 18 November 1887)<ref>{{cite web|url=https://www.britannica.com/biography/Gustav-Fechner|title=Gustav Fechner - German psychologist and physicist|website=Encyclopedia Britannica|access-date=18 January 2019}}</ref> was a German experimental [[psychologist]],
+[[philosopher]], and [[physicist]]. An early pioneer in [[experimental psychology]] and founder of [[psychophysics]], he inspired many 20th-century scientists and philosophers. He is also credited with demonstrating the non-linear relationship between psychological sensation and the physical intensity of a stimulus via the formula: <math>S = K \ln I</math>, which became known as the [[Weber–Fechner law]].<ref>{{cite book |last=Fancher |first=R. E. |year=1996 |title=Pioneers of Psychology |edition=3rd |location=New York |publisher=W. W. Norton & Company |isbn=0-393-96994-0 }}</ref><ref>{{Citation
+|pmid = 15171801
+|last=Sheynin
+|first=Oscar
+|publication-date=May 2004
+|year=2004
+|title=Fechner as a statistician.
+|volume=57
+|issue=Pt 1
+|periodical=[[British Journal of Mathematical and Statistical Psychology]]
+|pages=53–72
+|doi = 10.1348/000711004849196
+}}</ref>
+
+== Early life and scientific career ==
+Fechner was born at [[Żarki Wielkie|Groß Särchen]], near [[Muskau]], in [[Lower Lusatia]], where his father was a pastor. Despite being raised by his religious father, Fechner became an atheist in later life.<ref>{{cite book|title=Nature from within: Gustav Theodor Fechner and his Psychophysical Worldview|year=2004|publisher=University of Pittsburgh Press|isbn=9780822970774|page=21|author=Michael Heidelberger|chapter=1: Life and Work|quote=The study of medicine also contributed to a loss of religious faith and to becoming atheist.}}</ref> He was educated first at [[Sorau]] (now [[Żary]] in Western [[Poland]]).
+
+In 1817 he studied medicine at the {{Interlanguage link multi|Medizinische Akademie Carl Gustav Carus|de}} in [[Dresden]] and from 1818 at the [[University of Leipzig]], the city in which he spent the rest of his life.<ref>[http://vlp.mpiwg-berlin.mpg.de/people/data?id=per68 Fechner, Gustav Theodor at vlp.mpiwg-berlin.mpg.de].</ref> He earned his PhD from Leipzig in 1835.
+
+In 1834 he was appointed professor of [[physics]] at Leipzig. But in 1839, he injured his eyes in the research on afterimages by gazing at the sun through colored glasses,<ref>Boring, E. G. (1950). ''A history of experimental psychology'' (2nd ed.). (pp. 284-295) Appleton-Century-Crofts.</ref> while studying the phenomena of color and [[Visual perception|vision]], and, after much suffering, resigned. Subsequently, recovering, he turned to the study of the [[mind]] and its relations with the body, giving public lectures on the subjects dealt with in his books. Whilst lying in bed, Fechner had an insight into the relationship between mental sensations and material sensations. This insight proved to be significant in the development of psychology as there was now a quantitative relationship between the mental and physical worlds.<ref>Schultz, P.D., & Schultz, S.E. (2008). ''A History of Modern Psychology.''(pp. 81-82).Thompson Wadsworth.</ref>
+
+== Contributions ==
+
+Fechner published chemical and physical papers, and translated chemical works by [[Jean-Baptiste Biot]] and [[Louis Jacques Thénard]] from [[French language|French]]. He also wrote several [[poetry|poems]] and humorous pieces, such as the ''Vergleichende Anatomie der Engel'' (1825), written under the pseudonym of '''"Dr. Mises."'''
+
+=== Elemente der Psychophysik ===
+
+Fechner's epoch-making work was his ''Elemente der Psychophysik'' (1860). He started from the [[Monism|monistic]] thought that bodily facts and conscious facts, though not reducible one to the other, are different sides of one reality. His originality lies in trying to discover an exact mathematical relation between them. The most famous outcome of his inquiries is the law known as the [[Weber–Fechner law]] which may be expressed as follows:
+
+:"In order that the intensity of a sensation may increase in arithmetical progression, the stimulus must increase in geometrical progression."
+
+The law has been found to be immensely useful, but to fail for very faint and for very strong sensations. Within its useful range, Fechner's law is that sensation is a logarithmic function of physical intensity. [[Stanley Smith Stevens|S. S. Stevens]] pointed out that such a law does not account for the fact that perceived relationships among stimuli (e.g., papers coloured black, dark grey, grey, light grey, and white) are unchanged with changes in overall intensity (i.e., in the level of illumination of the papers). He proposed, in his famous [[Stevens' power law|1961 paper]] entitled "To Honor Fechner and Repeal His Law", that intensity of stimulation is related to perception via a power-law.
+
+Fechner's general formula for getting at the number of units in any sensation is ''S'' =&nbsp;''c''&nbsp;log&nbsp;''R'', where ''S'' stands for the sensation, ''R'' for the stimulus numerically estimated, and ''c'' for a constant that must be separately determined by experiment in each particular order of sensibility. Fechner's reasoning has been criticized on the grounds that although stimuli are composite, sensations are not. "Every sensation," says [[William James]], "presents itself as an indivisible unit; and it is quite impossible to read any clear meaning into the notion that they are masses of units combined."
+
+=== The Fechner color effect ===
+[[Image:Benham's Disc.svg|thumb|right|250px|A sample of a Benham's disk]]
+In 1838, he also studied the still-mysterious perceptual illusion of what is still called the [[Fechner color|Fechner color effect]], whereby colors are seen in a moving pattern of black and white. The English journalist and amateur scientist [[Charles Benham]], in 1894, enabled English-speakers to learn of the effect through the invention of the spinning top that bears his name, Benham's top. Whether Fechner and Benham ever actually met face to face for any reason is not known.
+
+=== The median ===
+In 1878, Fechner published a paper in which he developed the notion of the [[median]]. He later delved into [[experimental aesthetics]] and thought to determine the shapes and dimensions of aesthetically pleasing objects. He mainly used the sizes of paintings as his data base. In his 1876 ''Vorschule der Aesthetik,'' he used the method of extreme ranks for subjective judgements.<ref>{{cite web |url=http://statprob.com/encyclopedia/gustavtheodorfechner.html |title=Gustav Theodor Fechner |author=Michael Heidelberger |publisher=/statprob.com |access-date=5 January 2014 |url-status=dead |archive-url=https://web.archive.org/web/20160304053646/http://statprob.com/encyclopedia/gustavtheodorfechner.html |archive-date=4 March 2016 }}</ref>
+
+Fechner is generally credited with introducing the median into the formal analysis of data.<ref name="keynesProb">Keynes, John Maynard; ''A Treatise on Probability'' (1921), Pt II Ch XVII §5 (p 201).</ref>
+
+=== Synesthesia ===
+In 1871, Fechner reported the first empirical survey of coloured letter photisms among 73 [[synesthesia|synesthetes]].<ref>Fechner, G. (1876) ''Vorschule der Aesthetik''. Leipzig: Breitkopf und Hartel. Website: [https://archive.org/details/vorschulederaest12fechuoft chuoft.pdf]</ref><ref>Campen, Cretien van (1996). De verwarring der zintuigen. Artistieke en psychologische experimenten met synesthesie. ''Psychologie & Maatschappij'', vol. 20, nr. 1, pp. 10–26.</ref> His work was followed in the 1880s by that of [[Francis Galton]].<ref name="galton1880b">{{cite journal |author=Galton F |title=Visualized Numerals |journal=Nature |volume=21 |issue= 543|pages=494–5 |year=1880 |doi= 10.1038/021494e0|url=https://zenodo.org/record/1429243|doi-access=free }}</ref><ref name="galton1880a">{{cite journal |author=Galton F |title=Visualized Numerals |journal=Nature |volume=21 |issue= 533|pages=252–6 |year=1880 |doi= 10.1038/021252a0|doi-access=free }}</ref><ref name="galton1883">{{cite book |author=Galton F. |title=Inquiries into Human Faculty and Its Development |publisher=Macmillan |year=1883 |url=http://galton.org/books/human-faculty/ |access-date=2008-06-17}}</ref>
+
+=== Corpus callosum split ===
+One of Fechner's speculations about consciousness dealt with brain. During his time, it was known that the brain is bilaterally symmetrical and that there is a deep division between the two halves that are linked by a connecting band of fibers called the [[corpus callosum]]. Fechner speculated that if the [[Corpus callosotomy|corpus callosum were split]], two separate streams of consciousness would result - the mind would become two. Yet, Fechner believed that his theory would never be tested; he was incorrect. During the mid-twentieth century, [[Roger Wolcott Sperry|Roger Sperry]] and [[Michael Gazzaniga]] worked on epileptic patients with sectioned corpus callosum and observed that Fechner's idea was correct.<ref>[Gazzinga, M.S (1970). The bisected brain. New York: Appleton-Century-Crofts]</ref>
+
+=== Golden section hypothesis ===
+Fechner constructed ten rectangles with different ratios of width to length and asked numerous observers to choose the "best" and "worst" rectangle shape. He was concerned with the visual appeal of rectangles with different proportions. Participants were explicitly instructed to disregard any associations that they have with the rectangles, e.g. with objects of similar ratios. The rectangles chosen as "best" by the largest number of participants and as "worst" by the fewest participants had a ratio of 0.62 (21:34).<ref>{{Cite book|title=Vorschule der Ästhetik|last=Fechner|first=Gustav|publisher=Breitkopf & Härtel|year=1876|location=Leipzig|pages=190–202}}</ref> This ratio is known as the "golden section" (or [[golden ratio]]) and referred to the ratio of a rectangle's width to length that is most appealing to the eye. [[Carl Stumpf]] was a participant in this study.
+
+However, there has been some ongoing dispute on the experiment itself, as the fact that Fechner deliberately discarded results of the study ill-fitting to his needs became known, with many mathematicians, including [[Mario Livio]], refuting the result of the experiment.{{Citation needed|date=October 2020}}
+
+=== The two-piece normal distribution ===
+In his posthumously published ''Kollektivmasslehre'' (1897), Fechner introduced the Zweiseitige Gauss'sche Gesetz or [[Split normal distribution|two-piece normal distribution]], to accommodate the asymmetries he had observed in empirical frequency distributions in many fields. The distribution has been independently rediscovered by several authors working in different fields.<ref>Wallis, K.F. (2014). "The two-piece normal, binormal, or double Gaussian distribution: its origin and rediscoveries". ''[[Statistical Science]]'', Vol. 29, No. 1, pp.106-112. DOI: 10.1214/13-STS417 {{ArXiv|1405.4995}}</ref>
+
+=== Fechner's paradox<!--'Fechner's paradox' redirects here--> ===
+
+In 1861, Fechner reported that if he looked at a light with a darkened piece of glass over one eye then closed that eye, the light appeared to become brighter, even though less light was coming into his eyes.<ref name=Levelt1965>Levelt, W. J. M. (1965). Binocular brightness averaging and contour information. [[British Journal of Psychology]], 56, 1-13. https://dx.doi.org/10.1111/j.2044-8295.1965.tb00939.x</ref> This phenomenon has come to be called '''Fechner's paradox'''<!--boldface per WP:R#PLA-->.<ref>Robinson, T. R. (1896). Light intensity and depth perception. [[American Journal of Psychology]], 7, 518-532. https://dx.doi.org/10.2307/1411847</ref> It has been the subject of numerous research papers, including in the 2000s.<ref>Ding, J., & Levi, D. M. (2017). Binocular combination of luminance profiles. [[Journal of Vision]], 17(13, 4), 1-32. https://dx.doi.org/10.1167/17.13.4</ref> It occurs because the perceived brightness of the light with both eyes open is similar to the average brightness of each light viewed with one eye.<ref name=Levelt1965 />
+
+== Influence ==
+
+Fechner, along with [[Wilhelm Wundt]] and [[Hermann von Helmholtz]], is recognized as one of the founders of modern experimental [[psychology]]. His clearest contribution was the demonstration that because the mind was susceptible to measurement and mathematical treatment, psychology had the potential to become a quantified science. Theorists such as [[Immanuel Kant]] had long stated that this was impossible, and that therefore, a science of psychology was also impossible.
+
+Though he had a vast influence on [[psychophysics]], the actual disciples of his general philosophy were few. [[Ernst Mach]] was inspired by his work on psychophysics.<ref>[http://plato.stanford.edu/archives/win2011/entries/ernst-mach/ Pojman, Paul, "Ernst Mach", ''The Stanford Encyclopedia of Philosophy'' (Winter 2011 Edition), Edward N. Zalta (ed.)]</ref> [[William James]] also admired his work: in 1904, he wrote an admiring introduction to the English translation of Fechner's ''Büchlein vom Leben nach dem Tode'' (''Little Book of Life After Death''). Furthermore, he influenced [[Sigmund Freud]], who refers to Fechner when introducing the concept of psychic locality in his ''The Interpretation of Dreams'' that he illustrates with the microscope-metaphor.<ref>{{cite book |first1=Angus |last1=Nicholls |first2=Martin |last2=Liebshcher |title=Thinking the Unconscious: Nineteenth-Century German Thought |url=https://books.google.com/books?id=MCJzE-SxDUgC&pg=PA272 |publisher=Cambridge University Press |date=24 June 2010 |isbn=9780521897532 |page=272}}</ref><ref>{{cite book |first=Sigmund |last=Freud |author-link=Sigmund Freud |title=The Interpretation of Dreams |url=https://books.google.com/books?id=MKtzBgAAQBAJ&pg=PA35 |location=Mineola New York |publisher= Courier Dover Publications |translator= [[A. A. Brill]] |date=18 March 2015 |isbn=978-0-486-78942-2 |page=35}}</ref><ref>Sulloway, Frank J. (1979). ''Freud: Biologist of the Mind.''(pp. 66-67). Basic Books.</ref>
+ 
+Fechner's world concept was highly [[Animism|animistic]]. He felt the thrill of life everywhere, in plants, earth, stars, the total universe. Man stands midway between the souls of plants and the souls of stars, who are angels.<ref>{{Citation
+|pmid = 11610088
+|last=Marshall
+|first=M E
+|publication-date=Jan 1969
+|year=1969
+|title=Gustav Fechner, Dr. Mises, and the comparative anatomy of angels.
+|volume=5
+|issue=1
+|periodical=Journal of the History of the Behavioral Sciences
+|pages=39–58
+|doi = 10.1002/1520-6696(196901)5:1<39::AID-JHBS2300050105>3.0.CO;2-C
+}}</ref> God, the soul of the universe, must be conceived as having an existence analogous to men. Natural laws are just the modes of the unfolding of God's perfection. In his last work Fechner, aged but full of hope, contrasts this joyous "daylight view" of the world with the dead, dreary "night view" of [[materialism]]. Fechner's work in [[aesthetics]] is also important. He conducted experiments to show that certain abstract forms and proportions are naturally pleasing to our senses, and gave some new illustrations of the working of aesthetic association. [[Charles Hartshorne]] saw him as a predecessor on his and [[Alfred North Whitehead]]'s philosophy and regretted that Fechner's philosophical work had been neglected for so long.<ref>For Hartshorne's appreciation of Fechner see his [http://www.anthonyflood.com/hartshorneaquinas.htm ''Aquinas to Whitehead – Seven Centuries of Metafysics of Religion'']. Hartshorne also comments that William James failed to do justice to the theological aspects of Fechner's work. Hartshorne saw also resemblances with the work of Fechner's contemporary [[Jules Lequier]]. See also: Hartshorne – Reese (ed.) ''Philosophers speak of God''.</ref>
+
+Fechner's position in reference to predecessors and contemporaries is not very sharply defined. He was remotely a disciple of [[Friedrich Wilhelm Joseph Schelling|Schelling]], learnt much from [[Baruch Spinoza]], [[Gottfried Wilhelm Leibniz|G. W. Leibniz]], [[Johann Friedrich Herbart]], [[Arthur Schopenhauer]], and [[Christian Hermann Weisse]], and decidedly rejected [[Georg Wilhelm Friedrich Hegel|G. W. F. Hegel]] and the [[Monad (philosophy)|monad]]ism of [[Rudolf Hermann Lotze]].
+
+Fechner's work continues to have an influence on modern science, inspiring continued exploration of human perceptual abilities by researchers such as [[Jan Koenderink]], [[Farley Norman]], [[David Heeger]], and others.
+
+== Honours ==
+
+=== Fechner Crater ===
+
+In 1970, the [[International Astronomical Union]] named a [[Fechner (crater)|crater]] on the far side of the moon after Fechner.<ref>[https://planetarynames.wr.usgs.gov/Feature/1925 Fechner], Gazetteer of Planetary Nomenclature, International Astronomical Union (IAU) Working Group for Planetary System Nomenclature (WGPSN)</ref>
+
+=== Fechner Day ===
+In 1985 the International Society for Psychophysics called its annual conference ''Fechner Day''. The conference is now scheduled to include 22 October to allow psychophysicists to celebrate the anniversary of Fechner's waking up on that day in 1850 with a new approach into how to study the mind.<ref>Kreuger, L. E. (1993) Personal Communication. ref History of Psychology 4th edition David Hothersal 2004 {{ISBN|9780072849653}}</ref> Fechner Day runs annually with the 2021 Fechner Day being the 37th.<ref>{{Cite web|url=http://www.ispsychophysics.org/fd2018/|title=Fechner Day 2018 – The International Society for Psychophysics|website=www.ispsychophysics.org}}</ref> It is organized annually, by a different academic host each year.<ref>{{cite web|url=https://www.fechnerday2018.de/|title=FECHNER DAY 2018|website=fechnerdays Webseite!|access-date=18 January 2019}}</ref><ref>{{cite web|url=http://fechnerday.com/fd2017/|title=Fechner Day 2017 — Welcome (index)|website=fechnerday.com|access-date=18 January 2019}}</ref> During the pandemic resulting from COVID-19, Fechner Day was held online in 2020 and 2021.
+
+==Family and later life ==
+Little is known of Fechner's later years, nor of the circumstances, cause, and manner of his death.
+
+Fechner was the brother of painter [[Eduard Clemens Fechner]] and of Clementine Wieck Fechner, who was the stepmother of [[Clara Wieck]] when Clementine became her father [[Friedrich Wieck]]'s second wife.{{citation needed|date=October 2015}}
+
+== Works ==
+
+* ''Praemissae ad theoriam organismi generalem'' ("Advances in the general theory of organisms") (1823).
+* (Dr. Mises) ''Stapelia mixta'' (1824). [https://archive.org/details/stapeliamixta00fechgoog Internet Archive (Harvard)]
+* ''Resultate der bis jetzt unternommenen Pflanzenanalysen'' ("Results of plant analyses undertaken to date")  (1829). [https://archive.org/details/resultatederbis00fechgoog Internet Archive (Stanford)]
+* ''Maassbestimmungen über die galvanische Kette'' (1831).
+* (Dr. Mises) ''Schutzmittel für die Cholera'' ("Protective equipment for cholera") (1832). [https://books.google.com/books?id=YBkQAAAAYAAJ Google (Harvard)] — [https://archive.org/details/schutzmittelfrd00fechgoog Google (UWisc)]
+* ''Repertorium der Experimentalphysik'' (1832). 3 volumes.
+**<small>Volume 1</small>. [https://archive.org/details/repertoriumdere01fechgoog Internet Archive (NYPL)] — [https://archive.org/details/repertoriumdere04fechgoog Internet Archive (Oxford)]
+**<small>Volume 2</small>. [https://archive.org/details/repertoriumdere02fechgoog Internet Archive (NYPL)] — [https://archive.org/details/repertoriumdere03fechgoog Internet Archive (Oxford)]
+**<small>Volume 3</small>. [https://archive.org/details/repertoriumdere05fechgoog Internet Archive (NYPL)] — [https://archive.org/details/repertoriumdere00fechgoog Internet Archive (Oxford)]
+* (ed.) ''Das Hauslexicon. Vollständiges Handbuch praktischer Lebenskenntnisse für alle Stände'' (1834–38). 8 volumes.
+* ''Das Büchlein vom Leben nach dem Tode'' (1836). <small>6th ed.</small>, 1906. [https://archive.org/details/dasbchleinvomle01fechgoog Internet Archive (Harvard)] — [https://archive.org/details/dasbchleinvomle00fechgoog Internet Archive (NYPL)]
+** {{in lang|en}} ''On Life After Death'' (1882). [https://books.google.com/books?id=GjcCAAAAQAAJ Google (Oxford)] — [https://archive.org/details/onlifeafterdeath00fechuoft IA (UToronto)] <small>2nd ed.</small>, 1906. [https://archive.org/details/onlifeafterdeat02fechgoog Internet Archive (UMich)] <small>3rd ed.</small>, 1914. [https://archive.org/details/onlifeafterdeath00fech IA (UIllinois)]
+** {{in lang|en}} ''The Little Book of Life After Death'' (1904). [https://archive.org/details/littlebookoflife00fechuoft IA (UToronto)] 1905, [https://archive.org/details/littlebooklifea00wadsgoog Internet Archive (UCal)] — [https://archive.org/details/littlebookoflife00fechrich IA (Ucal)] — [https://archive.org/details/thelittlebookof00fechuoft IA (UToronto)]
+* (Dr. Mises) ''Gedichte'' (1841). [https://archive.org/details/gedichte00fechgoog Internet Archive (Oxford)]
+* ''Ueber das höchste Gut'' ("Concerning the Highest Good") (1846). [https://archive.org/details/ueberdashchsteg00fechgoog Internet Archive (Stanford)]
+* (Dr. Mises) ''Nanna oder über das Seelenleben der Pflanzen'' (1848). <small>2nd ed.</small>, 1899. <small>3rd ed.</small>, 1903. [https://archive.org/details/nanna00fechgoog Internet Archive (UMich)] <small>4th ed.</small>, 1908. [https://archive.org/details/nannaoderberdas00lassgoog Internet Archive (Harvard)]
+* ''Zend-Avesta oder über die Dinge des Himmels und des Jenseits'' (1851). 3 volumes. <small>3rd ed.</small>, 1906. [https://books.google.com/books?id=-xkRAAAAYAAJ Google (Harvard)]
+* ''Ueber die physikalische und philosophische Atomenlehre'' (1855). <small>2nd ed.</small>, 1864. [https://archive.org/details/ueberdiephysika00fechgoog Internet Archive (Stanford)]
+* ''Professor Schleiden und der Mond'' (1856). [https://books.google.com/books?id=Yus8IQn2i_UC Google (UMich)]
+* ''Elemente der Psychophysik'' (1860). 2 volumes. <small>Volume 1</small>. [https://books.google.com/books?id=C1cOAAAAQAAJ Google (ULausanne)] <small>Volume 2</small>. [https://archive.org/details/elementederpsyc01fechgoog Internet Archive (NYPL)]
+* ''Ueber die Seelenfrage''  ("Concerning the Soul") (1861). [https://archive.org/details/ueberdieseelenf03fechgoog Internet Archive (NYPL)] — [https://archive.org/details/ueberdieseelenf02fechgoog Internet Archive (UCal)] — [https://archive.org/details/ueberdieseelenf00fechgoog Internet Archive (UMich)] <small>2nd ed.</small>, 1907. [https://books.google.com/books?id=Xi0RAAAAYAAJ Google (Harvard)]
+* ''Die drei Motive und Gründe des Glaubens'' ("The three motives and reasons of faith") (1863). [https://books.google.com/books?id=akEOAAAAYAAJ Google (Harvard)] — [https://archive.org/details/diedreimotiveun00fechgoog Internet Archive (NYPL)]
+* ''Einige Ideen zur Schöpfungs- und Entwickelungsgeschichte der Organismen'' (1873). [https://archive.org/details/einigeideenzurs00fechgoog Internet Archive (UMich)]
+* (Dr. Mises) ''[[Kleine Schriften]]'' (1875). [https://archive.org/details/kleineschriften00fechgoog Internet Archive (UMich)]
+* ''Erinnerungen an die letzen Tage der Odlehre und ihres Urhebers'' (1876). [https://books.google.com/books?id=sjsOAAAAYAAJ Google (Harvard)]
+* ''Vorschule der Aesthetik'' (1876). 2 Volumes. [https://archive.org/details/vorschulederaes01fechgoog Internet Archive (Harvard)]
+* ''In Sachen der Psychophysik'' (1877). [https://archive.org/details/insachenderpsyc00fechgoog Internet Archive (Stanford)]
+* ''Die Tagesansicht gegenüber der Nachtansicht'' (1879). [https://books.google.com/books?id=AoINAAAAQAAJ Google (Oxford)] <small>2nd ed.</small>, 1904. [https://archive.org/details/dietagesansicht01fechgoog Internet Archive (Stanford)]
+* ''Revision der Hauptpuncte der Psychophysik'' (1882). [https://archive.org/details/revisionderhaup01fechgoog Internet Archive (Harvard)]
+*''Kollektivmasslehre'' (1897). [https://archive.org/details/kollektivmassle00fechgoog Internet Archive (NYPL)]
+
+== References ==
+
+{{reflist}}
+
+== Further reading ==
+
+* Heidelberger, M. (2001), "Gustav Theodor Fechner" in ''Statisticians of the Centuries'' (ed. C. C. Heyde and E. Seneta) pp.&nbsp;142–147. New York: [[Springer Verlag]], 2001.
+* Heidelberger, M. (2004), ''Nature From Within: Gustav Theodor Fechner and his Psychophysical Worldview'' (trans. Cynthia Klohr),  Pittsburgh, PA: [[University of Pittsburgh Press]], 2004. {{ISBN|0-822-9421-00}}
+* Robinson, David K. (2010), "Gustav Fechner: 150 years of Elemente der Psychophysik", in ''History of Psychology'', Vol 13(4), Nov 2010, pp.&nbsp;409–410. [http://psycnet.apa.org/index.cfm?fa=buy.optionToBuy&id=2010-24691-003 APA PsycNet]
+* Stigler, Stephen M. (1986), ''The History of Statistics: The Measurement of Uncertainty before 1900'', Cambridge, MA: [[Harvard University Press]], pp.&nbsp;242–254.
+
+== External links ==
+* {{Commonscatinline}}
+* {{Gutenberg author | id=Fechner,+Gustav+Theodor | name=Gustav Theodor Fechner}}
+* {{Internet Archive author |sname=Gustav Theodor Fechner}}
+* [http://www.philosopher.eu/others-writings/william-james-on-fechner William James on Fechner]
+* Works of [https://web.archive.org/web/20090211115441/http://gutenberg.spiegel.de/index.php?id=19&autorid=161&autor_vorname=+Gustav+Theodor&autor_nachname=Fechner&cHash=b31bbae2c6 Gustav Theodor Fechner] at Projekt Gutenberg-DE. (German)
+* Excerpt from [http://psychclassics.yorku.ca/Fechner/ ''Elements of Psychophysics''] from the Classics in the History of Psychology website.
+* Robert H. Wozniak's [http://psychclassics.yorku.ca/Fechner/wozniak.htm Introduction to ''Elemente der Psychophysik''.]
+* [http://vlp.mpiwg-berlin.mpg.de/people/data?id=per68 Biography, bibliography and digitized sources] in the [[Virtual Laboratory]] of the [[Max Planck Institute for the History of Science]]
+* Granville Stanley 1912 [https://archive.org/stream/foundersofmodern00halluoft#page/124/mode/2up 'Founders of modern psychology''] p.&nbsp;125ff archive.org
+* Gustav Theodor Fechner 1904 [https://archive.org/details/littlebookoflife00fechuoft ''The Little Book of Life after Death''] Foreword by William James
+* Gustav Theodor Fechner 1908 [https://archive.org/details/livingword00worcrich ''The Living Word'']
+* [https://web.archive.org/web/20160304053646/http://statprob.com/encyclopedia/gustavtheodorfechner.html Gustav Theodor Fechner] at statprob.com
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fechner, Gustav}}
+[[Category:1801 births]]
+[[Category:1887 deaths]]
+[[Category:People from Żary County]]
+[[Category:German atheists]]
+[[Category:German Christians]]
+[[Category:German statisticians]]
+[[Category:German psychologists]]
+[[Category:Experimental psychologists]]
+[[Category:People from the Province of Silesia]]
+[[Category:Leipzig University alumni]]
+[[Category:Leipzig University faculty]]
+[[Category:People educated at the Kreuzschule]]
+[[Category:19th-century German mathematicians]]
+[[Category:Panpsychism]]
+[[Category:Plant cognition]]

@@ -1,0 +1,52 @@
+{{short description|American business academic}}
+{{Infobox scientist
+| name              = John W. Pratt
+| birth_date        = {{birth year and age|1931}}
+| fields            = 
+| workplaces        = [[Harvard University]]
+| alma_mater        = [[Stanford University]]
+| thesis_title      = Some Results in the Decision Theory of One-Parameter Multivariate Polya-Type Distributions
+| thesis_year       = 1956
+| doctoral_advisor  = [[Samuel Karlin]]
+| doctoral_students = [[Michael R. Powers]]
+}}
+'''John Winsor Pratt''' (born 1931) is Emeritus [[William Ziegler (industrialist)|William Ziegler]] professor business administration at [[Harvard University]]. His former education was conducted at [[Princeton University|Princeton]] and [[Stanford University|Stanford]], where he specialized in mathematics and statistics.<ref name=":0">{{Cite web|url=https://www.hbs.edu/faculty/Pages/profile.aspx?facId=12310|title=John W. Pratt – Faculty – Harvard Business School|website=www.hbs.edu|access-date=2019-04-23}}</ref> Pratt spent most of his academic career at [[Harvard University]]. He was an editor of the ''Journal of the American Statistical Association'' from 1965 to 1970.<ref name=":0" /> His researches on risk aversion, risk sharing incentives, and the nature and discovery of stochastic laws, statistical relationships that describe the effects of decisions.<ref name=":0" /> He has made contributions to research in [[risk aversion]] theory, notably with [[Kenneth Arrow]] on measures of risk aversion.<ref>{{Cite journal | last1 = Pratt | first1 = J. W. | author-link1 = John W. Pratt | year = 1964 | title = Risk Aversion in the Small and in the Large | journal = [[Econometrica]] | volume = 32 | issue = 1/2 | pages = 122–136 | publisher = [[The Econometric Society]] | jstor = 1913738| doi = 10.2307/1913738 }}</ref><ref>{{Cite web|url=http://drfd.hbs.edu/fit/public/facultyInfo.do?facInfo=bio&facEmId=jpratt|title=John W. Pratt: William Ziegler Professor of Business Administration, Emeritus|access-date=25 November 2011|archive-url=https://web.archive.org/web/20120512224850/http://drfd.hbs.edu/fit/public/facultyInfo.do?facInfo=bio&facEmId=jpratt|archive-date=12 May 2012|url-status=dead}}</ref>
+
+In 1962 he was elected as a [[Fellow of the American Statistical Association]].<ref>[http://www.amstat.org/awards/fellowslist.cfm View/Search Fellows of the ASA], accessed 2016-07-23.</ref>
+
+'''Publications'''
+
+* Introduction to Statistical Decision Theory<ref>{{Cite journal|last1=Schervish|first1=Mark J.|last2=Pratt|first2=John W.|last3=Raiffa|first3=Howard|last4=Schlaifer|first4=Robert|date=September 1996|title=Introduction to Statistical Decision Theory.|journal=Journal of the American Statistical Association|volume=91|issue=435|pages=1376|doi=10.2307/2291759|issn=0162-1459|jstor=2291759}}</ref> 
+* The Structure of Business<ref>{{Cite book|title=Principals and Agents: The Structure of Business|last=Pratt, John W. and Richard Zeckhauser|publisher=Harvard Business School Press|year=1991}}</ref>
+
+'''Articles'''
+
+* Fair (and not so fair) Division<ref>{{Cite journal|last=Pratt|first=John W.|date=2007-11-20|title=Fair (and not so fair) division|journal=Journal of Risk and Uncertainty|volume=35|issue=3|pages=203–236|doi=10.1007/s11166-007-9025-6|s2cid=154871522|issn=0895-5646}}</ref>
+* How Many Balance Functions Does It Take To Determine A Utility Function?<ref>{{Cite journal|last=Pratt|first=John W.|date=September 2005|title=How Many Balance Functions Does it Take to Determine a Utility Function?|journal=Journal of Risk and Uncertainty|volume=31|issue=2|pages=109–127|doi=10.1007/s11166-005-3551-x|s2cid=121088670|issn=0895-5646}}</ref>
+* Efficient Risk Sharing: The Last Frontier.<ref>{{Cite journal|last=Pratt|first=John W.|date=December 2000|title=Efficient Risk Sharing: The Last Frontier|journal=Management Science|volume=46|issue=12|pages=1545–1553|doi=10.1287/mnsc.46.12.1545.12075|issn=0025-1909}}</ref>
+* A New Interpretation of the F Statistic.<ref>{{Cite journal|last1=Pratt|first1=John W.|last2=Schlaifer|first2=Robert|date=May 1998|title=A New Interpretation of the F Statistic|journal=The American Statistician|volume=52|issue=2|pages=141|doi=10.2307/2685472|issn=0003-1305|jstor=2685472}}</ref>
+* Increasing Risk: Some Direct Constructions.<ref>{{Cite journal|last1=MACHINA|first1=MARK|last2=PRATT|first2=JOHN|date=1997|journal=Journal of Risk and Uncertainty|volume=14|issue=2|pages=103–127|doi=10.1023/a:1007719626543|s2cid=153628899|issn=0895-5646}}</ref>
+* Willingness to Pay and the Distribution of Risk and Wealth.<ref>{{Cite journal|last1=Pratt|first1=John W.|last2=Zeckhauser|first2=Richard J.|date=August 1996|title=Willingness to Pay and the Distribution of Risk and Wealth|journal=Journal of Political Economy|volume=104|issue=4|pages=747–763|doi=10.1086/262041|s2cid=153478355|issn=0022-3808}}</ref>
+* The Contraction Mapping Approach to the Perron-Frobenius Theory: Why Hilbert's Metric?<ref>{{Cite journal|last1=Kohlberg|first1=Elon|last2=Pratt|first2=John W.|date=May 1982|title=The Contraction Mapping Approach to the Perron-Frobenius Theory: Why Hilbert's Metric?|journal=Mathematics of Operations Research|volume=7|issue=2|pages=198–210|doi=10.1287/moor.7.2.198|issn=0364-765X}}</ref>
+* Evaluating and Comparing Projects: Simple Detection of False Alarms.<ref>{{Cite journal|last1=PRATT|first1=JOHN W.|last2=HAMMOND|first2=JOHN S.|date=December 1979|title=Evaluating and Comparing Projects: Simple Detection of False Alarms|journal=The Journal of Finance|volume=34|issue=5|pages=1231–1242|doi=10.1111/j.1540-6261.1979.tb00068.x|issn=0022-1082}}</ref>
+
+'''Working Papers'''
+
+* Some Neglected Axioms in Fair Division.<ref>{{Cite journal|last=Pratt|first=John W.|date=2008|title=Some Neglected Axioms in Fair Division|journal=SSRN Working Paper Series|doi=10.2139/ssrn.1129248|s2cid=23745363|issn=1556-5068}}</ref>
+* Correlated Equilibrium and Nash Equilibrium as an Observer's Assessment of the Game.<ref>{{Citation|last=KOHLBERG|first=ELON|chapter=Refinement of Nash Equilibrium: The Main Ideas|date=1990|pages=3–45|publisher=Elsevier|isbn=9780123701824|doi=10.1016/b978-0-12-370182-4.50006-4|title=Game Theory and Applications}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pratt, John W.}}
+[[Category:1931 births]]
+[[Category:Harvard University faculty]]
+[[Category:Living people]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+
+
+{{Statistician-stub}}

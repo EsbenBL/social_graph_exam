@@ -1,0 +1,60 @@
+{{primary sources|date=December 2011}}
+{{Infobox economist
+| name        = Halbert Lynn White
+| school_tradition = 
+| image       = 
+| image_size  = 
+| caption     = 
+| birth_date  = {{birth date|1950|11|19|mf=y}}
+| birth_place = [[Kansas City, Missouri]]
+| death_date  = {{death date and age|2012|3|31|1950|11|19|mf=y}}
+| death_place = [[San Diego, California]]
+| nationality = [[United States|American]]
+| institution = [[University of California, San Diego]], [[University of Rochester]]
+| field       = [[Econometrics]]
+| alma_mater  = [[Massachusetts Institute of Technology]]
+| doctoral_advisor = [[Jerry A. Hausman]]<ref name="doctoral advisors">{{citation | last1 = Hausman | first1 = Jerry | contribution = Hal White: Time at MIT and Early Life Days of Research | editor-last1 = Chen | editor-first1 = Xiaohong | editor-last2 = Swanson | editor-first2 = Norman R. | title = Recent Advances and Future Directions in Causality, Prediction, and Specification Analysis | pages = 209–218 | publisher = [[Springer Science+Business Media|Springer]] | location = New York | year = 2013 | isbn= 978-1-4614-1652-4 | postscript = .}}
+</ref><br/>[[Robert Solow]]<ref name="doctoral advisors" /><br/>[[Lester Thurow]]<ref name="doctoral advisors" />
+| academic_advisors=
+| doctoral_students= [[Jeffrey Wooldridge]]
+| notable_students =
+| influences  = 
+| influenced  = 
+| contributions = [[White test]]<br/>[[Heteroscedasticity-consistent standard errors]]
+| awards      =
+| repec_prefix =  | repec_id = 
+}}
+
+'''Halbert Lynn White Jr.''' (November 19, 1950 – March 31, 2012)<ref>{{cite web|url=http://www.bateswhite.com/news.php?NewsID=144|title=Halbert L. White, University of California, San Diego, Professor and Founder of Bates White Economic Consulting, dies at age 61| publisher=Bates White|date=April 2, 2012}}</ref><ref>{{cite web|url=http://www.econbrowser.com/archives/2012/04/halbert_l_white.html|title=Halbert L. White Jr., 1950–2012|publisher=[[James D. Hamilton]], UCSD Department of Economics|access-date=April 1, 2012|url-status=dead|archive-url=https://web.archive.org/web/20121014064433/http://www.econbrowser.com/archives/2012/04/halbert_l_white.html|archive-date=October 14, 2012}}</ref> was the Chancellor’s Associates Distinguished Professor of Economics at the [[University of California, San Diego]], and a Fellow of the [[Econometric Society]] and the [[American Academy of Arts and Sciences]].<ref name=stata>{{cite book|author1=StataCorp|title=Stata User's Guide: Release 13|date=2013|publisher=StataCorp LP|location=College Station, TX|page=310|url=https://www.stata.com/manuals13/u.pdf#page=314 |access-date=9 August 2014}}</ref> A native of [[Kansas City, Missouri]], White graduated [[salutatorian]] from [[Southwest High School (Kansas City, Missouri)|Southwest High School]] in 1968.<ref>[http://economics.ucsd.edu/economicsinaction/issue-4/my-journey-to-ucsd.php My Journey to UC San Diego] {{webarchive|url=https://web.archive.org/web/20150515085049/http://economics.ucsd.edu/economicsinaction/issue-4/my-journey-to-ucsd.php |date=2015-05-15 }}</ref> He earned his PhD in Economics at the [[Massachusetts Institute of Technology]] in 1976, and spent his first years as an assistant professor in the [[University of Rochester]] before moving to UCSD in 1979.
+
+He was well known in the field of econometrics for his 1980 paper on [[Heteroscedasticity-consistent standard errors|robust standard errors]] (which is the most-cited paper in economics since 1970), and for the [[Heteroscedasticity-consistent standard errors#White's heteroscedasticity-consistent estimator|heteroscedasticity-consistent estimator]] and the [[White test|test for heteroskedascity]] that are named after him.<ref>{{cite web |url=http://www.bateswhite.com/people/bios/white_halbert.htm |title=Archived copy |access-date=2010-02-15 |url-status=dead |archive-url=https://web.archive.org/web/20090727132259/http://www.bateswhite.com/people/bios/white_halbert.htm |archive-date=2009-07-27 }}</ref><ref>{{cite journal | last = White | first = Halbert | title = A Heteroskedasticity-Consistent Covariance Matrix Estimator and a Direct Test for Heteroskedasticity | journal = Econometrica | volume = 48 | number = 4 | pages = 817–838 | jstor = 1912934 | year = 1980 | doi = 10.2307/1912934| citeseerx = 10.1.1.11.7646 }}</ref> A 1982 paper by White contributed strongly to the development of [[Quasi-maximum likelihood|quasi-maximum likelihood estimation]].<ref name=stata/><ref>{{cite journal|last1=White|first1=Halbert|title=Maximum Likelihood Estimation of Misspecified Models|journal=Econometrica|date=1982|volume=50|issue=1|pages=1–25| jstor = 1912526 |doi=10.2307/1912526|hdl=10338.dmlcz/142956|hdl-access=free}}</ref> He also contributed to numerous other areas such as neural networks and medicine. In 1999, White co-founded an economic consulting firm, [[Bates White]], which has offices in [[Washington, D.C.]] and San Diego, California.<ref>{{Cite web | url=http://www.bateswhite.com/about.php | title=Our Firm}}</ref>
+
+==Selected publications==
+*{{Citation | last = White | first = Halbert | title = A Heteroskedasticity-Consistent Covariance Matrix Estimator and a Direct Test for Heteroskedasticity | journal = Econometrica | volume = 48 | number = 4 | pages = 817–838 | jstor = 1912934 | year = 1980 | doi = 10.2307/1912934| citeseerx = 10.1.1.11.7646 }}
+*{{Citation |last1=White|first1=Halbert|title=Maximum Likelihood Estimation of Misspecified Models|journal=Econometrica|date=1982|volume=50|issue=1|pages=1–25| jstor = 1912526 |doi=10.2307/1912526|hdl=10338.dmlcz/142956|hdl-access=free}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20100326002909/http://weber.ucsd.edu/~hwhite/ Faculty profile] at the University of California, San Diego's website
+*{{MathGenealogy|id=44130|title=Halbert Lynn White Jr.}}
+*{{cite news|url=https://www.sandiegouniontribune.com/news/science/sdut-will-ucsd-economist-win-nobel-prize-monday-2011oct09-htmlstory.html|title=UCSD doesn't get Nobel Prize in economics|first=Gary|last=Robbins|newspaper=[[U-T San Diego]]|date=October 9–10, 2011|access-date=March 5, 2019}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:White, Halbert}}
+[[Category:1950 births]]
+[[Category:2012 deaths]]
+[[Category:Econometricians]]
+[[Category:Economists from California]]
+[[Category:University of California, San Diego faculty]]
+[[Category:Princeton University alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:Place of birth missing]]
+[[Category:Place of death missing]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:University of Rochester faculty]]
+
+
+{{US-economist-stub}}

@@ -1,0 +1,47 @@
+'''Stephen William Van Evera''' (born 10 November 1948) is a professor of [[Political Science]] at the [[Massachusetts Institute of Technology]], specializing in [[International Relations]]. His research includes the U.S. foreign and national security policy and causes and prevention of war. He is a member of the [[Council on Foreign Relations]].<ref>https://www.cfr.org/membership/roster</ref>
+
+==Biography==
+
+Van Evera received his A.B. in government from [[Harvard]] and his Ph.D. in [[political science]] from the [[University of California, Berkeley]]. During the 1980s he was managing editor of the journal ''[[International Security]]''. 
+
+Van Evera is the author of ''Causes of War: Power and the Roots of Conflict'' (Cornell, 1999). He has also co edited ''Nuclear Diplomacy and Crisis Management'' (1990), ''Soviet Military Policy'' (1989), and ''The Star Wars Controversy'' (1986).
+
+==Academic work==
+
+Van Evera is considered a [[defensive realism|defensive realist]], which is a branch of [[Neorealism (international relations)|structural realism]].<ref>Stephen Walt,  "International Relations: One World, Many Theories," ''[[Foreign Policy]]'' 110 (Spring 1998), 29-45.</ref>
+
+===Offense-defense theory===
+
+In ''Causes of War: Power and the Roots of Conflict'', Van Evera proposed Offense-Defense theory, which attempts to discern what factors increase the likelihood of war. Van Evera states three main hypotheses:
+
+# War will be more common in periods when conquest is easy, or is believed to be easy, than in other periods.
+# States that have, or believe they have, large offensive opportunities or defensive vulnerabilities will initiate and fight more wars than other states.
+# Actual examples of true imbalances are rare and explain only a moderate amount of history.
+
+However, false perceptions of these factors are common and thus explain a great deal of history. Van Evera wrote on these factors being causal in the outbreak of the [[World War I|First world war]] in a famous 1984 article.<ref>{{Cite journal|last=Van Evera|first=Stephen|date=1984|title=The Cult of the Offensive and the Origins of the First World War|url=http://dx.doi.org/10.2307/2538636|journal=International Security|volume=9|issue=1|pages=58–107|doi=10.2307/2538636|jstor=2538636|issn=0162-2889}}</ref> Although [[trench warfare]] and the development of the [[machine gun]] meant that defensive strategies should have prevailed, many European nations were under the illusion that conquest was easy or that they were valuable.<ref>{{Cite journal|last=Lieber|first=Keir A.|date=2007-10-01|title=The New History of World War I and What It Means for International Relations Theory|url=https://doi.org/10.1162/isec.2007.32.2.155|journal=International Security|volume=32|issue=2|page=165 et seq|doi=10.1162/isec.2007.32.2.155|s2cid=53553642|issn=0162-2889}}</ref> This misconception resulted in a drawn-out and bloody conflict. Recent discussion in international relations theory questions the idea of explaining outbreak of the first world war in terms of a 'cult of the offensive': with evidence showing that war planners – German ones especially – before 1914 being well aware of the heavy casualties implicit in offensive operations.<ref>{{Cite journal|last1=Snyder|first1=Jack|last2=Lieber|first2=Keir A.|date=2008|title=Defensive Realism and the "New" History of World War I|url=http://dx.doi.org/10.1162/isec.2008.33.1.174|journal=International Security|volume=33|issue=1|page=187|doi=10.1162/isec.2008.33.1.174|s2cid=57558984|issn=0162-2889}}</ref>
+
+=== Process-tracing tests for affirming causal inferences ===
+In his 1997 book ''Guide to Methods for Students of Political Science'', Van Evera authored an influential typology of process-tracing tests which distinguishes tests depending on how they adjudicate between theoretical expectations:<ref>{{Cite web|last=Bennett|first=Andrew|editor1-first=Janet M|editor1-last=Box-Steffensmeier|editor2-first=Henry E|editor2-last=Brady|editor3-first=David|editor3-last=Collier|date=2008-08-21|title=Process Tracing: a Bayesian Perspective|url=https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199286546.001.0001/oxfordhb-9780199286546-e-30|access-date=2021-03-10|website=The Oxford Handbook of Political Methodology|language=en|doi=10.1093/oxfordhb/9780199286546.001.0001|isbn=978-0-19-928654-6}}</ref><ref>{{Cite book|last=Van Evera|first=Stephen|url=https://www.jstor.org/stable/10.7591/j.ctvrf8bm7|title=Guide to Methods for Students of Political Science|date=1997|publisher=Cornell University Press|isbn=978-0-8014-5444-8|jstor=10.7591/j.ctvrf8bm7}}</ref><ref>{{Cite journal|last=Collier|first=David|date=2011|title=Understanding Process Tracing|journal=PS: Political Science & Politics|language=en|volume=44|issue=4|pages=823–830|doi=10.1017/S1049096511001429|issn=1049-0965|doi-access=free}}</ref><ref>{{Cite journal|last=Gerring|first=John|date=2017|title=Qualitative Methods|journal=Annual Review of Political Science|language=en|volume=20|issue=1|pages=15–36|doi=10.1146/annurev-polisci-092415-024158|issn=1094-2939|doi-access=free}}</ref>
+
+* '''Straw-in-the-wind tests''': Failure or passage of this test neither lends strong support for or against the theory
+* '''Hoop tests''': Failure to pass a hoop test can be disqualifying for a theory but passing the hoop test does not necessarily lend strong support for the theory
+* '''Smoking gun tests''': Passing a smoking gun test lends strong support for theory, whereas failure does not necessarily lend strong support against the theory
+* '''Double decisive tests''': Passing a double decisive test lends strong support for the theory while also lending strong support against alternative theories
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Portal|Biography}}
+*https://polisci.mit.edu/people/stephen-van-evera
+
+{{Authority control}}
+{{DEFAULTSORT:Van Evera, Stephen}}
+[[Category:American political scientists]]
+[[Category:International relations scholars]]
+[[Category:Harvard University alumni]]
+[[Category:UC Berkeley College of Letters and Science alumni]]
+[[Category:American military writers]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences faculty]]
+[[Category:1948 births]]
+[[Category:Living people]]

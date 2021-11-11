@@ -1,0 +1,97 @@
+{{short description|Israeli economist (born 1951)}}
+{{Infobox economist
+| name             = Ariel Rubinstein
+| school_tradition =
+| color            =
+| image            = Ariel Rubinstein1.jpg
+| image_size       =
+| caption          = Ariel Rubinstein, 2007
+| birth_date       = {{Birth date and age|1951|4|13}}
+| birth_place      = [[Jerusalem]], [[Israel]]
+| death_date       =
+| death_place      =
+| nationality      = [[Israel]]i
+| institution      = [[Tel Aviv University]]<br/>[[New York University]]
+| field            = [[Game theory]], [[bounded rationality]], [[rational choice theory|choice theory]], [[behavioral economics]]
+| alma_mater       = [[Hebrew University of Jerusalem]]
+| doctoral_advisor = [[Menahem Yaari]]
+| academic_advisors=
+| doctoral_students= 
+| notable_students =
+| influences       =
+| influenced       =
+| contributions    =
+| awards           = [[Israel Prize]] (2002)<br />[[Nemmers Prize in Economics]] (2004)<br />[[EMET Prize]] (2006) <br />Rothschild Prize (2010)
+| signature        = <!-- file name only -->
+| repec_prefix = e  | repec_id = pru8
+}}
+
+'''Ariel Rubinstein''' ([[Hebrew]]: אריאל רובינשטיין; born April 13, 1951) is an Israeli [[economist]] who works in economic theory, [[game theory]] and [[bounded rationality]].
+
+==Biography==
+Ariel Rubinstein is a professor of economics at the School of Economics at [[Tel Aviv University]] and the Department of Economics at [[New York University]].  He studied mathematics and economics at the [[Hebrew University of Jerusalem]], 1972–1979 (B.Sc. Mathematics, Economics and Statistics, 1974;
+M.A. Economics, 1975; M.Sc Mathematics, 1976; Ph.D. Economics, 1979).
+
+In 1982, he published "Perfect equilibrium in a bargaining model",<ref name=Rubinstein1982>{{cite journal
+ | author = Rubinstein, Ariel
+ | year = 1982
+ | title = Perfect Equilibrium in a Bargaining Model
+ | journal = [[Econometrica]]
+ | volume = 50
+ | issue = 1
+ | pages = 97–109
+ | doi = 10.2307/1912531
+ | url = http://arielrubinstein.tau.ac.il/papers/11.pdf
+ | jstor = 1912531
+| citeseerx = 10.1.1.295.1434
+ }}</ref> an important contribution to the theory of [[bargaining]].  The model is known also as a [[Rubinstein bargaining model]]. It describes two-person bargaining as an extensive game with [[perfect information]] in which the players alternate offers.  A key assumption is that the players are impatient. The main result gives conditions under which the game has a unique [[subgame perfect equilibrium]] and characterizes this equilibrium.
+
+==Honours and awards==
+Rubinstein was elected a member of the [[Israel Academy of Sciences and Humanities]] (1995),<ref>{{cite web|url=http://www.academy.ac.il/|title=Prof. Rubinstein Ariel Member Information (Election year 1995)|publisher=Israel Academy of Sciences and Humanities|access-date=27 May 2013}}</ref> a Foreign Honorary Member of the [[American Academy of Arts and Sciences]] in (1994)<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter R|url=http://www.amacad.org/publications/BookofMembers/ChapterR.pdf|publisher=American Academy of Arts and Sciences|access-date=3 June 2011| archive-url= https://web.archive.org/web/20110613085847/http://www.amacad.org/publications/BookofMembers/ChapterR.pdf| archive-date= 13 June 2011 | url-status= live}}</ref> and the [[American Economic Association]] (1995). In 1985 he was elected a fellow of the [[Econometric Society]],<ref>[http://www.econometricsociety.org/fellows.asp Welcome to the website of The Econometric Society An International Society for the Advancement of Economic Theory in its Relation to Statistics and Mathematics<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20081210090215/http://www.econometricsociety.org/fellows.asp |date=December 10, 2008 }}</ref> and served as its president in 2004.<ref>[http://www.econometricsociety.org/pastpres.asp Welcome to the website of The Econometric Society An International Society for the Advancement of Economic Theory in its Relation to Statistics and Mathematics<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20061006135058/http://www.econometricsociety.org/pastpres.asp |date=October 6, 2006 }}</ref>
+
+In 2002, he was awarded an honorary doctorate by the [[Tilburg University]].<ref>{{cite web|url=http://www.tilburguniversity.nl/university/achievements/doctorates/2002/rubinstein/|title=Tilburg University - Search results|work=Tilburg University}}</ref>
+
+He has received the Bruno Prize (2000), the [[Israel Prize]] for economics (2002),<ref>{{cite web| title = Israel Prize Official Site (in Hebrew) – Recipient's C.V. | url = http://cms.education.gov.il/EducationCMS/Units/PrasIsrael/Tashsab/ArielRubinshtein/KorotHaimPropesorArielRobibstayn.htm}}</ref><ref>{{cite web| title = Israel Prize Official Site (in Hebrew) – Judges' Rationale for Grant to Recipient | url = http://cms.education.gov.il/EducationCMS/Units/PrasIsrael/Tashsab/ArielRubinshtein/NimokyHsoftim.htm}}</ref> the [[Nemmers Prize in Economics]] (2004),<ref>[http://www.northwestern.edu/provost/awards/nemmers/ Nemmers Prizes, Awards, Office of the Provost, Northwestern University<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20060912045058/http://www.northwestern.edu/provost/awards/nemmers/ |date=September 12, 2006 }}</ref><ref>{{cite web|url=http://www.northwestern.edu/provost/awards/nemmers/nemprecon.html#rubinstein |title=The Erwin Plein Nemmers Prize in Economics |url-status=dead |archive-url=https://web.archive.org/web/20060222123808/http://www.northwestern.edu/provost/awards/nemmers/nemprecon.html |archive-date=February 22, 2006 }}</ref> the [[EMET Prize]] (2006).<ref>{{cite web|url=http://www.emetprize.org.il/Index.asp?ArticleID=159&CategoryID=123&Page=1|title=סיעוד|url-status=dead|archive-url=https://web.archive.org/web/20070311015646/http://www.emetprize.org.il/Index.asp?ArticleID=159&CategoryID=123&Page=1|archive-date=2007-03-11}}</ref> and the Rothschild Prize (2010).<ref>{{cite web|url=http://www.yadhanadiv.org.il/fellowship-prize/rothschild-prize|title=Rothschild Prize}}</ref>
+
+==Published works==
+* [https://web.archive.org/web/20140329215312/http://gametheory.tau.ac.il/arielDocs/ ''Bargaining and Markets''], with Martin J. Osborne, [[Academic Press]] 1990
+* [https://web.archive.org/web/20140329215312/http://gametheory.tau.ac.il/arielDocs/ ''A Course in Game Theory''], with Martin J. Osborne, [[MIT Press]], 1994.
+* [https://web.archive.org/web/20140329215312/http://gametheory.tau.ac.il/arielDocs/ ''Modeling Bounded Rationality''], [[MIT Press]], 1998.
+* [https://web.archive.org/web/20140329215312/http://gametheory.tau.ac.il/arielDocs/ ''Economics and Language''], [[Cambridge University Press]], 2000.
+* [https://web.archive.org/web/20140329215312/http://gametheory.tau.ac.il/arielDocs/ ''Lecture Notes in Microeconomic Theory: The Economic Agent''], [[Princeton University Press]], 2006.
+* ''[https://www.openbookpublishers.com/htmlreader/EF/main.html Economic Fables]'', [[Open Book Publishers]], 2012.
+* [http://arielrubinstein.tau.ac.il/agadot_hakalkala_ariel_rubinstein.pdf ''AGADOT HAKALKALA (heb.)''], Kineret, Zmora, Bitan, 2009.
+
+==See also==
+* [[List of Israel Prize recipients]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [http://arielrubinstein.tau.ac.il/ Personal Web site]
+* [http://arielrubinstein.tau.ac.il/nash-lecture/nash-lecture.html Nash lecture]
+* {{cite web |last=Roberts |first=Russ |title=Rubinstein on Game Theory and Behavioral Economics |url=http://www.econtalk.org/archives/_featuring/ariel_rubinstei/ |work=[[EconTalk]] |publisher=[[Library of Economics and Liberty]] |author-link=Russ Roberts |date=April 25, 2011}}
+
+{{game theory}}
+{{Presidents of the Econometric Society}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rubinstein, Ariel}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:Israeli economists]]
+[[Category:Game theorists]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]
+[[Category:Israel Prize in economics recipients]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Corresponding Fellows of the British Academy]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Tel Aviv University faculty]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Members of the Israel Academy of Sciences and Humanities]]
+[[Category:Members of the European Academy of Sciences and Arts]]
+[[Category:Behavioral economists]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]

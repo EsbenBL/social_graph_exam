@@ -1,0 +1,325 @@
+{{Short description|American economist}}
+{{About||the British footballer|David Cass (footballer)|the film director and stuntman|David S. Cass Sr.}}
+{{Infobox scientist
+| image             = Davidcass.jpg
+| image_size       =
+| name              = David Cass
+| birth_date        = {{Birth date|1937|1|19}}
+| birth_place       = [[Honolulu, Hawaii|Honolulu]], [[Hawaii]], [[United States|USA]]
+| death_date        = {{Death date and age|2008|4|15|1937|1|19}}
+| death_place       = [[Philadelphia]], [[Pennsylvania]], [[United States|USA]]
+| residence         =
+| nationality       = [[United States|American]]
+| field             = [[Economics]]
+| work_institution  = [[University of Pennsylvania]]<br/>[[Carnegie-Mellon University]]<br/>[[Yale University]]
+| alma_mater        = [[Stanford University]] (Ph.D.)<br/>[[University of Oregon]] (A.B.)
+| doctoral_advisor  = [[Hirofumi Uzawa]]
+| doctoral_students = [[Finn E. Kydland]]
+| influences        =
+| influenced        = 
+| known_for         = [[General equilibrium|General equilibrium theory]]
+| prizes            =
+| religion          =
+| footnotes         =
+}}
+
+'''David Cass''' (January 19, 1937 – April 15, 2008) was a professor of [[economics]] at the [[University of Pennsylvania]], mostly known for his contributions to [[General equilibrium|general equilibrium theory]]. His most famous work was on the [[Ramsey–Cass–Koopmans model]] of [[economic growth]].
+
+==Biography==
+David Cass was born in 1937 in [[Honolulu, Hawaii|Honolulu]], [[Hawaii]]. He earned an A.B. in economics from the [[University of Oregon]] in 1958 and started to study law at the [[Harvard Law School]] as he thought of becoming a lawyer according to family tradition. As he hated studying law he left the program after one year and served in the army from 1959 to 1960.{{citation needed|date=August 2014}} He then entered the economics Ph.D. program at [[Stanford University]]. Here he met [[Karl Shell]], although the two began to work together only after both graduated. Cass's doctoral advisor was [[Hirofumi Uzawa]], who also introduced him to [[Tjalling Koopmans]], who at that time was a professor at [[Yale University]].<ref name=spearwright>{{cite journal
+  | last = Spear
+  | first = Stephen E.
+  |author2=Randall Wright
+  | title = Interview with David Cass
+  | journal = [[Macroeconomic Dynamics]]
+  | volume = 2
+  | issue = 4
+  | pages = 533–558
+  | publisher = [[Cambridge University Press]]
+  | date = December 1998
+  | url = http://econ.tepper.cmu.edu/econ/cass_interview.pdf
+  | doi = 10.1017/S1365100598009080
+  | access-date = 2008-04-17| author2-link = Randall Wright
+ }}</ref> In 1965, Cass graduated with a Ph.D. in economics and statistics with a dissertation on optimal growth, with parts of the dissertation later published in the ''[[Review of Economic Studies]]''.<ref name=res>{{cite journal
+  | last = Cass
+  | first = David
+  | title = Optimum Growth in an Aggregative Model of Capital Accumulation
+  | journal = [[Review of Economic Studies]]
+  | volume = 37
+  | issue = 3
+  | pages = 233–240
+  | publisher = [[Blackwell Publishing]]
+  | date = July 1965
+  | jstor = 2295827
+  | doi =10.2307/2295827| s2cid = 154315564
+ | url = https://pdfs.semanticscholar.org/4673/6b398e21e5b3371947d798278625fde2fc88.pdf
+  | archive-url = https://web.archive.org/web/20200211115627/https://pdfs.semanticscholar.org/4673/6b398e21e5b3371947d798278625fde2fc88.pdf
+  | url-status = dead
+  | archive-date = 2020-02-11
+  }}</ref>
+
+After graduation Cass began to work from 1965 to 1970 as an assistant professor at the economics department of [[Yale University]] and as a research associate at the [[Cowles Foundation|Cowles Commission for Research in Economics]] in [[New Haven, Connecticut|New Haven]]. During his time at Yale University he collaborated with [[Menahem Yaari]] and [[Joseph E. Stiglitz|Joseph Stiglitz]] and worked mostly on [[overlapping generations model]]s. In 1970 he left New Haven for [[Carnegie-Mellon University]] in [[Pittsburgh, Pennsylvania|Pittsburgh]], where he was a professor of economics until 1974. During his time at Carnegie-Mellon he began to collaborate with Karl Shell, who at this time was a professor at the [[University of Pennsylvania]]. One of his doctoral students was [[Finn E. Kydland]], who would later win the [[Nobel Memorial Prize in Economic Sciences|Nobel Prize in Economics]]. In 1974 Cass left for the University of Pennsylvania, where he was a professor of economics until his death.<ref name=spearwright /> David Cass died in 2008 in [[Philadelphia]] after a long illness.<ref name=mailath>{{cite web
+  | last = Mailath
+  | first = George J.
+  | title = In Memory of Dave Cass
+  | publisher = Department of Economics, University of Pennsylvania
+  | date = April 2008
+  | url = http://www.econ.upenn.edu/DaveCass.htm
+  | access-date = 2008-04-17 |archive-url = https://web.archive.org/web/20080507060020/http://www.econ.upenn.edu/DaveCass.htm <!-- Bot retrieved archive --> |archive-date = 2008-05-07}}
+</ref> He was divorced and the father of two children.<ref name=cv>{{cite web
+ |last        = Cass
+ |first       = David
+ |title       = Curriculum Vitae David Cass
+ |url         = http://www.econ.upenn.edu/~dcass/vitarev21June05.pdf
+ |access-date  = 2008-04-17
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20081014120101/http://www.econ.upenn.edu/~dcass/vitarev21June05.pdf
+ |archive-date = 2008-10-14
+}}</ref>
+
+Cass was a [[Guggenheim Fellowship|Guggenheim Fellow]] in 1970, was an elected fellow of the [[Econometric Society]] since 1972, received an honorary doctorate from the [[University of Geneva]] in 1994, was a distinguished fellow of the [[American Economic Association]] in 1999 and was an elected fellow of the [[American Academy of Arts and Sciences]] since 2003.<ref name=cv />
+
+==Research==
+Cass made important contributions to pure economic theory, mostly in the field of [[General equilibrium|general equilibrium theory]]. He made major contributions to the theory of optimal growth, the theory of [[Sunspots (economics)|sunspots]] and the theory of [[incomplete markets]]. He is perhaps best known for his article “Optimum Growth in an Aggregative Model of Capital Accumulation”,<ref name=res /> which was a part of his dissertation. In this paper he proves a necessary and sufficient condition for efficiency in the [[Ramsey growth model|neoclassical growth model]] first introduced by [[Frank P. Ramsey|Frank Ramsey]]. A major difference to the standard Ramsey growth model was that Cass considered the case where consumption in future periods is discounted, thus implicitly assuming that consumers prefer consumption today to consumption tomorrow. This modified version of the Ramsey growth model is also known as the Ramsey-Cass-Koopmans model, named after Frank Ramsey, David Cass and Tjalling Koopmans.<ref name=aer>{{cite journal
+  | last = American Economic Association
+  | title = David Cass: Distinguished Fellow, 1999
+  | journal = [[American Economic Review]]
+  | volume = 90
+  | issue = 3
+  | publisher = [[American Economic Association]]
+  | date = June 2000
+  | jstor = 117330
+  }}</ref>
+
+He was also famous for the "[[Cass criterion]]" for [[overlapping generations model]]s and in the neoclassical growth model, and his work, together with [[Karl Shell]], on the influence of extrinsic uncertainty on economic equilibria, also known as the concept of [[sunspot equilibrium|sunspot equilibria]] or the theory of [[Sunspots (economics)|sunspots]]. Together with [[Joseph Stiglitz]] he proved conditions under which it is possible for an investor to achieve an optimal portfolio under the restriction of being able to buy only two mutual funds. They also showed that generally the [[demand for money]] can not be derived from [[Modern portfolio theory|portfolio theory]]. Cass was also a major contributor to the theory of incomplete markets, the [[turnpike theory]] and theory of economies with markets that repeatedly open over time.<ref name=aer />
+
+===Cass's Scientific Works===
+Dave Cass's first major contribution to economics was the characterization of optimal growth trajectories in his thesis work under Hirofumi Uzawa’s supervision at Stanford University.  The celebrated Cass criterion for optimal time paths in the one good growth model quickly followed.  The essence of this work is the search for price characterizations of efficiency for dynamic time paths, an effort that directly pointed the way to the subsequent full dynamic decentralization of the neoclassical optimal growth model, a fact that permits its use for modeling a wide range of [[business cycle]] and other macroeconomic phenomena.  Accordingly, Cass is rightly honored, together with Tjalling Koopmans and Frank Ramsey, as one of the fathers of dynamic macroeconomic analysis.
+
+The original papers from Cass's thesis were
+
+:•	"Optimum economic growth in an aggregative model of capital accumulation," published in ''The Review of Economic Studies'' in 1965
+:•	"Optimum economic growth in the two-sector model of capital accumulation"
+:•	"Optimum economic growth in an aggregative model of capital accumulation: A turnpike theorem," published in ''Econometrica'' in 1966
+
+The "Optimum growth&nbsp;..." paper was the culmination of a long line of research (beginning with Frank Ramsey's pioneering research in the 1920s) on modeling economic growth.  The literature found expression in the post-war period in the work of Robert Solow at MIT and Hirofumi Uzawa at Stanford, not only as a theory of growth, but also as a tool for understanding the macroeconomy.  Much of the development of the models in the literature was grounded in a set of post-war "stylized facts" that every economics Ph.D. student learns in their first year of graduate study.  One of the weak links in the development of these early models was their specification of saving behavior as being exogenous and given by the empirical regularity of the consumption-income relationship, and the various (partial equilibrium) theories of consumption spending designed to explain this regularity.
+
+Cass's paper was the first to endogenize the consumption-savings decision by deriving an optimal capital accumulation trajectory that maximized the discounted sum of utility payoffs over time.  The tools that Cass used to derive his results were from the then-newly developed field of optimal control in mathematics pioneered by Lev Pontryagin.  The main results in the paper are a demonstration that under now-standard assumptions on preferences and technology, the optimal accumulation sequence exists and is unique.
+
+The other papers in Cass's thesis drew on the major insights of the "Optimum growth&nbsp;..." paper by extending them to show the existence of an optimal growth trajectory in a two-sector model of capital accumulation, and the existence of a so-called turnpike growth path associated with the optimal capital accumulation trajectory in the one-sector model.
+
+These papers were published (possibly even completed) while Cass was a research staff member and then an assistant professor at the Cowles Foundation at Yale University (1964–1967).  Cass was promoted to untenured associate professor at Cowles and remained at Yale until 1970.  He coauthored several more papers during this time with Joseph Stiglitz and Menahem Yaari, who were also at Yale during this period.  These included:
+
+:•	"A re-examination of the pure consumption loans model" (with M.E. Yaari). ''J Pol Econ'' 74, 353–367 (1966).
+:•	"Individual saving, aggregate capital accumulation and efficient growth" (with M.E. Yaari). ''Essays in the Theory of Optimal Economic Growth'' (K. Shell, ed.), MIT, 1967.
+:•	"The implications of alternative saving and expectations hypotheses for the choice of techniques and patterns of growth" (with J.E. Stiglitz). ''J Pol Econ'' 77, 586–627 (1969).
+:•	"The structure of investor preferences and asset returns, and separability in portfolio allocation" (with J.E. Stiglitz). ''J Econ Theory'' 2, 122–160 (1970).
+:•	"Present values playing the role of efficiency prices in the one-good growth model" (with M.E. Yaari). ''Rev Econ Studies'' 38, 331–339 (1971).
+
+In the Spear and Wright Macroeconomic Dynamics interview with Cass,<ref name="spearwright"/> he indicates that his work with Manny Yaari at Yale constituted his introduction to Samuelson's consumption loans (now overlapping generations) model, which would come front and center as a major workhorse model in Cass's subsequent work with Karl Shell on sunspot equilibria.  During this time, Cass also looked more deeply at the question of how individual saving behavior and efficient growth were related.  The paper on present values as efficiency prices that Cass co-authored with Yaari is easily seen to be a precursor of  his subsequent work at Carnegie Mellon on capital [[overaccumulation]] and efficiency which led to the famous Cass criterion for determining inefficiency.  Finally, Cass's work with Stiglitz on modeling investor preferences and asset returns provided a foundation for his later work on financial general equilibrium.
+
+Cass left Yale in 1970, describing himself as part of Yale's "junior through-put."   He was recruited by Dick Cyert, then Dean of the Graduate School of Industrial Administration at Carnegie Mellon University.  During his time at GSIA, Cass completed the work on capital overaccumulation, continued his work with Joe Stiglitz on asset pricing, and began work exploring the general applicability of the mathematical techniques he had used in his thesis (mathematical programming, duality and the Hamiltonian approach to dynamic control).  The papers produced during this period included:
+
+:•	"On capital overaccumulation in the aggregative, neoclassical model of economic growth: A complete characterization," ''J Econ Theory'' 4, 200–203 (1972).
+:•	"Distinguishing inefficient competitive growth paths: A note on capital overaccumulation and rapidly diminishing future value of consumption in a fairly general model of capitalistic production." ''J Econ Theory'' 4, 224–240 (1972).
+:•	"Risk aversion and wealth effects on portfolios with many assets" (with J.E. Stiglitz). ''Rev Econ Studies'' 39, 331–354 (1972).
+:•	"On the Wicksellian point-input, point-output model of capital accumulation: A modern view (or neoclassicism slightly vindicated)." ''J Pol Econ'' 81, 71–97 (1973).
+:•	"Duality: A symmetric approach from the economist's vantage point." ''J Econ Theory'' 7, 272–295 (1974).
+:•	"The Hamiltonian representation of static competitive or efficient allocation." ''Essays in Modern Capital Theory'', (M. Brown, K. Sato, and P. Zaremba, eds.), North-Holland, 1976.
+:•	"The structure and stability of competitive dynamical systems" (with K. Shell). ''J Econ Theory'' 12, 31–70 (1976).
+
+While the last two papers were published after Cass left GSIA, he indicates in the interview that he began this work while he was still at Carnegie Mellon.
+
+Cass’s second seminal contribution—the notion of a so-called sunspot equilibrium in dynamic economies which he developed jointly with Karl Shell—is also the stuff of legend, and grew out of his long and productive collaboration with Karl at Penn.  The early impetus for Cass’s interest in this topic stemmed from work he did with Manny Yaari on overlapping generations models, and from his early acquaintance with Bob Lucas at Carnegie Mellon and Lucas’s seminal work on rational expectations in dynamic economic models.  To quote from the Spear-Wright interview,
+
+::I wasn’t so interested in macro, but what struck me, and this is related to some of my later work, was the assumption that [Lucas] made to solve for equilibrium, that the state variables were obvious&nbsp;...  Bob and I had some long discussions, and I would say, “Well Bob, why is this the actual state space in this model?”  That question came up ... after I came to Penn.  At some point Karl [Shell] and I started talking about that and we developed what we called the idea of sunspots.
+
+The key paper that came out of Cass's and Karl's discussions was the "Do sunspots matter?" paper published in the ''Journal of Political Economy'' in 1983.  Much of the work leading up to this paper focused on the overlapping generations model:
+
+:•	"The role of money in supporting the Pareto optimality of competitive equilibrium in consumption-loan type models" (with M. Okuno and I. Zilcha). ''J Econ Theory'' 20, 41–80 (1979).
+:•	"In defense of a basic approach" (with K. Shell). ''Models of Monetary Economies'' (J.H. Kareken and N. Wallace, eds.), Federal Reserve Bank of Minneapolis, 1980.
+:•	"Existence of competitive equilibrium in a general overlapping-generations model" (with Y. Balasko and K. Shell). ''J Econ Theory'' 23, 307–322 (1980).
+
+The first actual model of sunspot equilibrium was produced by Shell in an OLG framework with linear utility functions, which appeared in his "Monnai et allocation intertemporelle" in 1977, as part of the Malinvaud lecture series in Paris (now published as a vintage paper in Macroeconomic Dynamics).  Cass and Shell's JPE paper presented a simplified, two-period dynamic model in which one of two sets of agents could trade assets contingent on prices in the second period, while the second set of agents could only trade on the second period spot markets.  This captured the friction of restricted participation present in OLG economies, where some agents (the newly entering young) are born into a specific state and cannot insure themselves against outcomes in the birth state.
+
+The paper demonstrated that in static Arrow-Debreu economies with complete markets, extrinsic uncertainty (where no fundamentals of the model are stochastic) cannot matter to equilibrium allocations.  They then showed that when some agents were restricted in their trades, so that market completeness was violated, sunspots could matter, i.e. there could exist rational expectations equilibria in which equilibrium prices depended on the realization of an extrinsic stochastic process.  In passing, they made the observation that since the validity of the first welfare theorem implied that there could be no sunspot equilibria, a necessary condition for the existence of such equilibria was a violation of the conditions under which the first welfare theorem holds.  This observation took on a life of its own as what Shell called the Philadelphia Pholk theorem:  if the first welfare theorem doesn't hold, then you can find an economy where sunspots matter.
+
+In addition to raising troubling questions about what the right state space was for dynamic stochastic economies, the notion of sunspot equilibrium raised a number of deep questions about the overall determinacy of economic equilibria and the role of the welfare theorems in the occurrence or non-occurrence of sunspot equilibria.  These questions spawned a large literature on determinacy in dynamic economies in which the welfare theorems broke down.  These include overlapping generations models, growth models with externalities or taxes, and models in which asset markets were incomplete.  All were shown to allow the existence of sunspot equilibria.  And, in a suitable twist of intellectual fate, macroeconomists have recently begun to explore the question of whether sunspot expectations can provide a more plausible source of fluctuations in dynamic equilibrium models than the conventional aggregate productivity disturbances.
+
+Cass’s third major contribution to economic theory was his work on general equilibrium with incomplete markets, work which grew out of his exploration of the question of existence of sunspot equilibria in models with incomplete asset markets.  Cass’s follow-on work on existence and determinacy of general equilibrium in models with incomplete asset markets spawned another large literature which has come to be known simply as GEI.  As an historical note, Cass never really liked this terminology, preferring instead to think of these models as ones of General Financial Equilibrium (GFE) to emphasize the presence of financial assets and the frictions these introduced.
+
+The earliest work on market incompleteness goes back to Arrow in the 1950s, Diamond in the mid-‘60’s and a number of related papers in the finance literature between the late 1950s and early ‘70’s (Geanakoplos <ref name=geanakoplos>{{cite journal
+  | last = Geanakoplos
+  | first = John
+  | title = An introduction to general equilibrium with incomplete asset markets
+  | journal = [[Journal of Mathematical Economics]]
+  | volume = 19
+  | issue =1–2
+  | pages =1–38
+  | publisher = [[Elsevier]]
+  | year = 1990
+  | url =http://cowles.yale.edu/sites/default/files/files/pub/d09/d0919.pdf
+  | doi =10.1016/0304-4068(90)90034-7}}</ref> provides an excellent survey of this literature).  The canonical GEI model was formulated by Radner<ref name=radner>{{cite journal
+  | last = Radner
+  | first = Roy
+  | s2cid = 15497940
+  | title = Existence of equilibrium of plans, prices and price expectations
+  | journal = [[Econometrica]]
+  | volume = 40
+  | issue = 2
+  | pages = 289–303
+  | publisher = [[Blackwell Publishers]]
+  | year = 1972
+  | jstor = 1909407
+  | doi = 10.2307/1909407}}</ref> in the early 1970s in a paper which also pointed up one of the fundamental puzzles about models with incomplete markets: the possible loss of dimensionality in the span of the asset payoffs as prices vary.
+
+This potential for non-existence of equilibrium (which was formally developed in Hart’s<ref name=hart>{{cite journal
+  | last = Hart
+  | first = Oliver
+  | title = On the optimality of equilibrium when the market structure is incomplete
+  | journal = [[Journal of Economic Theory]]
+  | volume = 11
+  | issue = 3
+  | pages = 418–443
+  | publisher = [[Academic Press]]
+  | year = 1975
+  | doi = 10.1016/0022-0531(75)90028-9}}</ref> counterexamples to existence of equilibrium) left the literature in limbo for almost a decade, until Cass’s work on existence in economies with purely financial assets pointed the way out.  As Geanakoplos notes
+
+::Suddenly in the middle 1980s the pure theory of GEI fell into place.  In two provocative and influential papers, Cass showed that the existence of equilibrium could be guaranteed if all the assets promise delivery in [[fiat money]],<ref name=cass1>{{cite book
+  | last = Cass
+  | first = David
+  | chapter = Sunspots and incomplete financial markets: The leading example
+  | title =The Economics of Imperfect Competition and Employment: Joan Robinson and Beyond |editor-first=G. |editor-last=Feiwel
+  | publisher =MacMillan |location=London
+  | year = 1989
+  | isbn = 0-333-41304-0}}</ref><ref name=cass2>{{cite journal
+  | last = Cass
+  | first = David
+  | title = On the 'number' of equilibrium allocations with incomplete financial markets
+  | location = CARESS Working Paper, University of Pennsylvania
+  | date = May 1985
+  }}</ref> and he gave an example showing that with such financial assets there could be a multiplicity of equilibrium.  Almost simultaneously Werner<ref name=werner>{{cite journal
+  | last = Werner
+  | first = Jan
+  | title = Equilibrium in economies with incomplete financial markets, Journal of Economic Theory
+  | journal = [[Journal of Economic Theory]]
+  | volume = 36
+  | pages = 110–119
+  | publisher = [[Academic Press]]
+  | year = 1985
+  | doi = 10.1016/0022-0531(85)90081-X| hdl = 10068/139474
+  | hdl-access = free
+  }}</ref> also gave a proof of existence of equilibrium with financial assets, and Geanakoplos and Polemarchakis<ref name=GandP>{{cite journal
+  | last = Geanakoplos
+  | first = John
+  |author2=Herakles Polemarchakis
+  | title = Existence, regularity and constrained suboptimality of competitive allocations when markets are incomplete
+  | journal = Essays in Honor of Kenneth Arrow, (W. Heller, R. Starr and D. Starrett, Eds.)
+  | volume = 3
+  | publisher = [[Cambridge University Press]]
+  | year = 1986
+  | url =http://cowles.yale.edu/sites/default/files/files/pub/d07/d0764.pdf
+  | doi =10.1017/cbo9780511983566.007}}</ref> showed the same for economies with real assets that promise delivery in the same consumption good.
+
+The first paper that Geanakoplos references above appeared initially in April 1984 as a CARESS Working Paper.
+
+This work was followed very quickly by results showing that the non-existence problem pointed out by Hart was not generic, and led ultimately to the generic existence results of Duffie and Shafer,<ref name=DandS>{{cite journal
+  | last = Duffie
+  | first = Darryl
+  |author2=Wayne Shaeffer
+  | title = Equilibrium in incomplete markets, I, Journal of Mathematical Economics, 14, 285–300, 1985
+  | journal = [[Journal of Mathematical Economics]]
+  | volume = 14
+  | pages = 285–300
+  | publisher = [[Elsevier]]
+  | year = 1985
+  | doi =10.1016/0304-4068(85)90004-7}}</ref> and again spawned a new literature looking positively at the welfare implication of market incompleteness, and normatively at issues of asset engineering.
+
+In the time after this seminal work in GEI, Cass's various papers dealt with issues of determinacy of equilibrium (and the closely related issue of existence of sunspot equilibria), and with the optimality of allocations in the presence of sunspots and incomplete asset markets.  These papers include:
+
+:•	"The structure of financial equilibrium with exogenous yields: The case of incomplete markets" (with Y. Balasko). ''Econometrica 57, 135–162 (1989).
+:•	"Sunspot equilibrium in an overlapping-generations economy with an idealized contingent claims market" (with K. Shell). ''Economic Complexity: Chaos, Sunspots, Bubbles, and Nonlinearity'' (W.A. Barnett, J. Geweke, and K. Shell, eds.). Cambridge University Press, Cambridge, England, 1989.
+:•	"The structure of financial equilibrium with exogenous yields: The case of restricted participation" (with Y. Balasko and P. Siconolfi). ''J Math Econ'' 19, 195–216 (1990).
+:•	"Convexity and sunspots: A remark" (with H. Polemarchakis). ''J Econ Theory'' 52, 433-439 (1990).
+:•	Perfect equilibrium with incomplete financial markets: An elementary exposition." ''Value and Capital, Fifty Years Later'' (L.W. McKenzie and S. Zamagni, eds.). MacMillan, London, 1991.
+:•	"Regular demand with several, general budget constraints" (with Y. Balasko). ''Equilibrium and Dynamics: Essays in Honor of David Gale'' (M. Majumdar, ed.), Macmillan, London, 1992.
+:•	Incomplete financial markets and indeterminacy of competitive equilibrium." ''Advances in Economic Theory, VI'' (J.-J. Laffont, ed.), Cambridge University Press, Cambridge, England, 1992.
+:•	"Sunspots and incomplete financial markets: The general case," in the Mini-Symposium on "The Structure of Sunspot Equilibria in the Presence of Incomplete Financial Markets". Econ Theory 2, 341–358 (1992).
+:•	"Stationary equilibria with incomplete markets and overlapping generations" (with R.C. Green and S.E. Spear). ''Intl Econ Rev'' 33, 495–512 (1992).
+:•	"Real indeterminacy from imperfect financial markets: Two addenda." ''General Equilibrium, Growth, and Trade II'' (R. Becker, M. Boldrin, R. Jones, and W. Thomson, eds.), Academic Press, San Diego, 1993.
+:•	"Market participation and sunspot equilibrium" (with Y. Balasko and K. Shell). ''Rev Econ Studies'' 62, 491–512 (1995).
+:•	"Notes on Pareto improvement in incomplete financial markets." ''Rivista di Matematica per le Scienze Economiche e Sociale'' 18, 3–14 (1995).
+:•	"Pareto improving financial innovation in incomplete markets" (with A. Citanna). ''Economic Theory'', 11, 467–494 (1998).
+:•	"Generic regularity of competitive equilibrium with restricted participation on financial markets" (with P. Siconolfi and A. Villanacci). ''J Math Econ'' 36, 61–76 (2001).
+:•	"Competitive equilibrium with incomplete financial markets." ''J Math Econ''. 42, 384–405 (2006)
+:•	"Musings on the Cass Trick," ''J Math Econ''. 42, 374–383 (2006)
+•	"Multiplicity in general financial equilibrium with portfolio constraints," (with Suleyman Basak, Juan Manuel Licari, Anna Pavlova), ''J. Econ. Theory'', 142, 100–127 (2008)
+
+To round out this summary of Cass's work, despite the very strong evolution of his ideas from his initial work on optimal growth, to the work on sunspots and finally on market incompleteness, Cass continued to be interested in his older interests when he saw opportunities for contributions.  Thus, his 1979 paper with Mukul Majumdar, "Efficient intertemporal allocation, consumption-value maximization and capital-value transversality: A unified view" and his 1991 paper with Tappan Mitra, "Indefinitely sustained consumption despite exhaustible natural resources" hearken back to his earlier work on capital theory.
+
+Similarly, his 1996 paper with [[Graciela Chichilnisky|Chichilnisky]] and Wu, "Individual risk and mutual insurance: A reformulation" (''Econometrica'' 64, 333–341) and his 2004 paper with his student Anna Pavlova, "On trees and logs" (''J Econ Theory'' 116, 41–83) hearkens back to his original work on asset pricing models with Joe Stiglitz.
+
+Cass's last published paper was "Compatible beliefs and equilibrium" (2008, ''J. Math. Econ.'' 44, 625–640)  Cass describes this paper as a concept paper, in which he goes back to the primitives of economic theory and asks what beliefs economic agents must hold in order to justify the conventional assumption of competitive equilibrium.  Cass's last paper, "Utility-based utility" was under revision at the time of his death.  This paper is also conceptual in nature in showing that sunspot equilibria could exist under weaker specifications of preferences than the standard von Neumann-Morgenstern specification.
+
+==Personal life==
+David Cass was outspoken about academic and personal freedom. In 1994 he became involved in an administrative dispute with the University of Pennsylvania over the implications of a consensual faculty-student relationship. At this time he had a consensual relationship with a then-graduate student. When a university policy on faculty-student relationships was adopted Cass was denied the appointment as Chair of the graduate program of the Department of Economics because of this relationship. As the graduate student in question graduated before the planned appointment of Cass as Chair of the department, the timeline of the administrative action rendered the initial objection moot.<ref>{{cite news
+ |last        = Blond
+ |first       = Kara
+ |title       = Prof denied chair, alleges wrongdoing
+ |newspaper   = [[The Daily Pennsylvanian]]
+ |date        = September 9, 1994
+ |url         = http://media.www.dailypennsylvanian.com/media/storage/paper882/news/1994/09/22/Resources/Prof-Denied.Chair.Alleges.Wrongdoing-2181098.shtml
+ |access-date  = 2008-04-21
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20080511035902/http://media.www.dailypennsylvanian.com/media/storage/paper882/news/1994/09/22/Resources/Prof-Denied.Chair.Alleges.Wrongdoing-2181098.shtml
+ |archive-date = May 11, 2008
+}}</ref><ref>{{cite news
+  | last = Burbank
+  | first = Stephen B. |author2=Jean Crockett |author3=Janet Rothenberg Pack |author4=Holly Pittman |author5=David Cass
+  | title = Senate Committee on the Faculty Report of the Subcommittee on Consensual Sexual Relations & Comment on the Proposed Policy by David Cass
+  | pages = 2–4
+  | publisher = University of Pennsylvania Almanac Supplement
+  | date = April 25, 1995
+  | url = http://www.upenn.edu/almanac/v41pdf/n30/042595-insert.pdf
+  | access-date = 2008-04-21}}</ref>
+
+==Beth Hayes/David Cass Prize==
+In 1994, David Cass was instrumental in establishing the Beth Hayes Prize for Graduate Research Accomplishment at the [[University of Pennsylvania]].  The prize was created in honor and memory of Dr. Hayes, one of his former graduate students whom he describes in his essay "On Women."  In its original form, the prize was awarded biennially to the woman in the economics graduate program who had produced the most significant piece of original research in the preceding two years. The award was later modified with Cass's approval to include eligibility for male students.  Following his death, the University renamed the award as The Beth Hayes/David Cass Prize for Graduate Research Accomplishment in Economics.
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [https://web.archive.org/web/20060721183559/http://www.econ.upenn.edu/~dcass/ Personal webpage] at the [[University of Pennsylvania]]
+* [https://web.archive.org/web/20120227225259/http://economics.sas.upenn.edu/graduate-program/honors-and-awards The Beth Hayes/David Cass Prize] at the [[University of Pennsylvania]]
+* [http://www.philly.com/philly/obituaries/20080421_David_Cass__Penn_prof_for_34_years.html Obituary] in ''[[The Philadelphia Inquirer]]''
+* {{Cite web
+ |url         = http://www.econ.upenn.edu/~dcass/misclinks/OnWomen.pdf
+ |title       = On Women
+ |access-date  = 24 December 2008
+ |author      = Cass, David
+ |date        = 12 September 1994
+ |url-status     = dead
+ |archive-url = https://web.archive.org/web/20060715231934/http://www.econ.upenn.edu/~dcass/misclinks/OnWomen.pdf
+ |archive-date = 15 July 2006
+}}
+* {{MathGenealogy |id=190287 }}
+* {{cite book|author1=David Cass|author2=Stephen Spear|title=The Collected Scientific Work of David Cass|url=https://books.google.com/books?id=ujmIhF6W8tIC|year=2011|publisher=Emerald Group Publishing|isbn=978-0-85724-641-7}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cass, David}}
+[[Category:1937 births]]
+[[Category:2008 deaths]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:University of Oregon alumni]]
+[[Category:Harvard Law School alumni]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:General equilibrium theorists]]
+[[Category:University of Pennsylvania faculty]]
+[[Category:Yale University faculty]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Economists from Hawaii]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]

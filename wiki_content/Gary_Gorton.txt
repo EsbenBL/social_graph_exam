@@ -1,0 +1,57 @@
+{{short description|American economist (born 1951)}}
+{{Infobox economist
+| name             = Gary Gorton
+| school_tradition =
+
+| image       =
+| image_size       =
+| caption    =
+| birth_date       = c. 1951
+| birth_place      = 
+| death_date       =
+| death_place      =
+| nationality      = [[United States]]
+| institution      = [[Yale School of Management]]
+| field            = [[Macroeconomics]]
+| alma_mater       = [[University of Rochester]] <small>(PhD 1983)</small><br />[[Cleveland State University]] <small>(M.A. 1977)</small><br />[[University of Michigan]] <small>(M.A. 1974)</small> <br /> [[Oberlin College]] <small>(B.A. 1973)</small>
+| influences       =[[Robert Barro]]  <br /> [[Robert King (economist)|Robert King]]
+| influenced       = 
+| contributions    = [[Panic of 2007]] <br / > [[Shadow banking system]]
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = f | repec_id = pgo458
+}}
+
+'''Gary Bernard Gorton''' (born c. 1951) is an [[Americans|American]] [[economist]] who currently serves as the Frederick Frank Class of 1954 Professor of Finance at [[Yale School of Management]]. He is known for his theory on the role of repurchase agreements on the 2008 financial crisis.<ref>{{Cite journal|last=Gorton|first=Gary|date=August 2009|title=Securitized Bank and the Run on Repo|url=http://www.nber.org/papers/w15223.pdf}}</ref>
+
+As one of the top economists in the world, Gorton is frequently mentioned as a possible recipient of the Nobel Prize in Economics.<ref>{{Cite web|url=https://ideas.repec.org/top/top.person.all.html|title=Economist Rankings at IDEAS|website=ideas.repec.org|access-date=2016-05-07}}</ref><ref>{{Cite web|url=https://blogs.wsj.com/economics/2013/10/10/handicapping-the-2013-economics-nobel/|title=Handicapping the 2013 Economics Nobel|last=Cronin|first=Brenda|website=WSJ|access-date=2016-05-07}}</ref>
+
+==Early life==
+
+Gorton was born to a psychiatrist in Phoenix. He earned a B.A. in Chinese Language and Literature from [[Oberlin College]] in 1973. After his undergraduate career, he followed a roundabout path to his current position in academia. He first obtained a M.A. in Chinese Studies from [[University of Michigan]] in 1974. He had thought of becoming an actor and even drove a cab in Cleveland. Eventually, he settled in graduate school in economics: he earned a M.A. in Economics from [[Cleveland State University]] in 1977 and a M.A. in Economics from the [[University of Rochester]] in 1980. He earned his Ph.D. in economics from University of Rochester in 1983. His dissertation was titled "Banking Panics" with the economists [[Robert Barro]] and [[Robert King (economist)|Robert King]] on his dissertation committee.<ref>{{Cite web|url=http://faculty.som.yale.edu/garygorton/|title=Gary Gorton {{!}} Yale School of Management|website=faculty.som.yale.edu|access-date=2016-05-07}}</ref>
+
+== Career ==
+After completing his Ph.D. in economics, Gorton joined the faculty at the Wharton School at the University of Pennsylvania. During this time, Gorton served as the director of the research program for the Federal Deposit Insurance Corporation and as a senior economist at the Federal Reserve in Philadelphia, where he focused on the financial markets, banks, and bank regulation.<ref>{{Cite web|url=https://www.mbamission.com/blog/2012/10/17/professor-profiles-gary-gorton-yale-school-of-management/|title=Professor Profiles: Gary Gorton, Yale School of Management - mbaMission - MBA Admissions Consulting|last=www.mbamission.com|first=mbaMission -|date=2012-10-17|website=mbaMission - MBA Admissions Consulting|language=en-US|access-date=2016-05-10}}</ref> He is a former member of the Moody’s Investors Services Academic Advisory Panel. He remained at the University of Pennsylvania for 24 years until he joined the faculty at the Yale School of Management.<ref>[https://www.wsj.com/articles/SB122538449722784635 Behind AIG's Fall, Risk Models Failed to Pass Real-World Test. Wall Street Journal. Retrieved 10 September 2015.]</ref> At the Yale School of Management, Gorton teaches a course titled "Capital Markets." Gorton has also taught at the University of Chicago's Booth School of Business and has worked at the Bank of England as a Houblon-Norman Fellow.<ref>{{Cite web|url=http://faculty.som.yale.edu/garygorton/bio.html|title=Gary Gorton {{!}} Yale School of Management|website=faculty.som.yale.edu|access-date=2016-05-10}}</ref>
+
+In his book titled "Slapped by the Invisible Hand: The Panic of 2007," Gorton wrote in May 2009 that the rise of the unregulated [[shadow banking system]] was a primary cause of the [[subprime mortgage crisis]].<ref>[http://www.frbatlanta.org/news/CONFEREN/09fmc/gorton.pdf Gary Gorton-NBER and Yale-Slapped in the Face by the Invisible Hand: Banking and the Panic of 2007-Updated May 2009]</ref>
+
+As an expert in stock and futures markets, banking, and asset pricing, he is an editor of the ''[[Review of Economic Studies]]'' and the ''[[Review of Financial Studies]]''. He has also served on the editorial boards of Journal of Financial Services Research, the Journal of Financial Intermediation, the Journal of Financial Markets, the Journal of Money, Credit, and Banking, Advances in International Banking and Finance, Finance Letters, and the Economic Policy Review (of the Federal Reserve Bank of New York).
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.som.yale.edu/faculty/gbg24/ Gary Gorton homepage] via Yale University
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gorton, Gary}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:Oberlin College alumni]]
+[[Category:Yale University faculty]]
+[[Category:21st-century American economists]]
+[[Category:1950s births]]
+[[Category:University of Rochester alumni]]
+[[Category:University of Michigan alumni]]
+[[Category:Cleveland State University alumni]]

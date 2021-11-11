@@ -1,0 +1,46 @@
+{{Infobox economist
+| name = Herbert Mohring
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| birth_date = 1928 <!-- {{birth date and age|YYYY|MM|DD}} -->
+| birth_place = [[Buffalo, New York]]
+| death_date = {{death date and age|2012|6|4|1928|7|1|mf=y}}
+| death_place = [[Northfield, Minnesota]]
+| nationality = [[United States|American]]
+| institution = [[University of Minnesota]] <!-- or: | institutions =  -->
+| field = [[Transportation economics]]
+| school_tradition = 
+| alma_mater = [[Massachusetts Institute of Technology]]
+| influences = [[Robert Solow]]
+| influenced = 
+| contributions = [[Mohring effect]]
+| awards = 
+}}
+
+'''Herbert Mohring''' (1928 – June 4, 2012) was a [[transportation]] [[economist]] who taught at the [[University of Minnesota]] from 1961–1994.<ref>http://www.cts.umn.edu/Publications/catalyst/2012/august/mohring</ref><ref>{{cite news |title=Obituary: Deep thinker Herbert Mohring had wide influence |work=Star Tribune |date=June 13, 2012 |url=http://www.startribune.com/obituary-deep-thinker-herbert-mohring-had-wide-influence/158983325/ }}</ref> He received his [[Ph.D.]] from [[Massachusetts Institute of Technology]] in 1959,<ref>{{cite web |title=University of Minnesota, Department of Economics: Herbert Mohring |accessdate=July 10, 2010 |url=http://www.econ.umn.edu/faculty/mohring/ |archivedate=February 8, 2005 |archiveurl=https://web.archive.org/web/20050208235039/http://www.econ.umn.edu/faculty/mohring/ }}</ref> with a thesis on the life insurance industry supervised by [[Robert Solow]].<ref>[http://library.mit.edu/item/000734613 The life insurance industry: a study of price policy and its determinants]</ref>
+
+He is widely known for his identification of what was dubbed the [[Mohring effect]] of [[increasing returns]] in [[public transportation]] (see: Mohring (1972) for details).
+
+Mohring and Harwitz (1962) also showed that the revenues from the first-best [[road pricing|congestion tax]] exactly cover the capacity costs (which include depreciation and capital costs, but not investment costs) of highways when highways possess constant returns to scale.
+
+== Selected works ==
+* Mohring, Herbert, Optimization and Scale Economies in Urban Bus Transportation, ''[[American Economic Review]]'' 62, no. 4 (September 1972): 591-604.
+* Mohring, Herbert, The Peak Load Problem with Increasing Returns and Pricing Constraints, ''American Economic Review'' 60, no. 4 (September 1970): 693-705.
+* Mohring, H. and Harwitz, M.,  ''Highway Benefits: An Analytical Framework'', Ch 2, pp 57–90. (1962)
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{webarchive |url=https://web.archive.org/web/20020828233628/http://www.econ.umn.edu/faculty/mohring/ |date=August 28, 2002 |title=University home page }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mohring, Herbert}}
+[[Category:Economists from New York (state)]]
+[[Category:University of Minnesota faculty]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:1928 births]]
+[[Category:2012 deaths]]

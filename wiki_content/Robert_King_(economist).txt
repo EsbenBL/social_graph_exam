@@ -1,0 +1,131 @@
+{{other people||Robert King (disambiguation)}}
+{{BLP sources|date=November 2019}}
+{{Infobox economist
+| name             = Robert King
+| school_tradition = [[New classical economics]]
+
+| image            =
+| image_size       =
+| caption          =
+| birth_date       = {{Birth date and age|1951|05|24}}
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = [[United States|American]]
+| institution      = [[Boston University]]<br>[[University of Virginia]]<br>[[University of Rochester]]
+| field            = [[Macroeconomics]]<br>[[Monetary economics]]
+| alma_mater       = [[Brown University]]
+| doctoral_advisor = [[Herschel Grossman]]<br>[[William Poole (economist)|William Poole]]<br>[[Harl Ryder]]
+| academic_advisors = 
+| doctoral_students = [[Gary Gorton]]<br>[[Sergio Rebelo]]
+| influences       = 
+| influenced       = [[Gary Gorton]]<br>[[Julia K. Thomas (economist)|Julia K. Thomas]]
+| contributions    =
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix     = e
+| repec_id         = pki21
+}}
+
+'''Robert Graham King''' (born May 24, 1951) is an American [[macroeconomist]]. He is currently Professor at the Department of Economics at [[Boston University]], editor of the ''[[Journal of Monetary Economics]]'', research consultant to the [[Federal Reserve Bank of Richmond]], and a member of the [[National Bureau of Economic Research]].
+
+Before that he was a professor at the University of Rochester and then at the University of Virginia.
+
+King is married to another macroeconomist, [[Marianne Baxter]].{{cn|date=November 2019}}
+
+King's work spans many areas, including business cycle theory and measurement, [[real business cycle theory]], [[monetary policy]], and [[economic growth]].
+
+== Influential works ==
+* {{cite book
+  | chapter=Resuscitating Real Business Cycles
+  |author1=Robert G. King |author2=Sergio T. Rebelo | title=Handbook of Macroeconomics
+  | year=1999
+  | pages=927–1007}}
+* {{cite journal
+  | doi=10.1162/003465399558454
+  | title=Measuring Business Cycles: Approximate Band-Pass Filters for Economic Time Series
+  |author1=Marianne Baxter |author2=Robert G. King | journal=The Review of Economics and Statistics
+  | volume=81
+  | year=1999
+  | pages=575–593
+  | issue=4| s2cid=57567299
+ | url=http://www.nber.org/papers/w5022.pdf
+ }}
+* {{cite journal
+  | doi=10.1162/003355399556106
+  | title=State-Dependent Pricing and the General Equilibrium Dynamics of Money and Output
+  |author1=Michael Dotsey |author2=Robert G. King |author3=Alexander L. Wolman | journal=Quarterly Journal of Economics
+  | volume=114
+  | year=1999
+  | pages=655–690
+  | issue=2}}
+* {{cite journal
+  | title=The New Neoclassical Synthesis and the Role of Monetary Policy
+  |author1=Marvin Goodfriend |author2=Robert G. King | journal=National Bureau of Economic Research Macroeconomics Annual
+  | year=1997
+  | pages=231–283|author1-link=Marvin Goodfriend }}
+* {{cite journal
+  | doi=10.2307/2118406
+  | title=Finance and Growth: Schumpeter Might be Right
+  |author1=Robert G. King |author2=Ross Levine | journal=The Quarterly Journal of Economics
+  | volume=108
+  | year=1993
+  | pages=717–737
+  | issue=3
+  | jstor=2118406| citeseerx=10.1.1.312.1744
+  }}
+* {{cite journal
+  | title=Transitional Dynamics and Economic Growth in Neoclassical Economies
+  |author1=Robert G. King |author2=Sergio Rebelo | journal=American Economic Review
+  | volume=83
+  | year=1993
+  | pages=908–931
+  | issue=4}}
+* {{cite journal
+  | title=Fiscal Policy in General Equilibrium
+  |author1=Marianne Baxter |author2=Robert G. King | journal=American Economic Review
+  | volume=83
+  | year=1993
+  | pages=315–334
+  | issue=3}}
+* {{cite journal
+  | title=Production, Growth and Business Cycles, I: The Basic Neo-classical Model
+  |author1=Robert G. King |author2=Charles I. Plosser |author3=Sergio T. Rebelo | journal=Journal of Monetary Economics
+  | volume=21
+  | year=1988
+  | issue=2–3
+  | pages=195–232
+  | doi=10.1016/0304-3932(88)90030-X}}
+* {{cite journal
+  | doi=10.2307/1883127
+  | title=Time-Separable Preferences and Intertemporal-Substitution Models of Business Cycles
+  |author1=Robert J. Barro |author2=Robert G. King | journal=Quarterly Journal of Economics
+  | volume=99
+  | year=1984
+  | pages=817–839
+  | issue=4
+  | jstor=1883127| s2cid=154292934
+ }}
+
+== See also ==
+* [[Journal of Monetary Economics]]
+
+== External links ==
+* [http://people.bu.edu/rking Robert King's web site at Boston University]
+* [http://www.elsevier.com/locate/jme The Journal of Monetary Economics]
+
+{{Neoclassical economists}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:King, Robert}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:Macroeconomists]]
+[[Category:Brown University alumni]]
+[[Category:Boston University faculty]]
+[[Category:University of Virginia faculty]]
+[[Category:University of Rochester faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]

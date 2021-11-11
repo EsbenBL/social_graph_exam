@@ -1,0 +1,109 @@
+{{Short description|French economist and professor|bot=PearBOT 5}}
+{{Use dmy dates|date=October 2015}}
+{{Infobox economist
+| name             = Olivier Blanchard
+| school_tradition = [[New Keynesian economics]]
+| image            = Oliver_Blanchard,_IMF_98BlanchardWEO1_lg.jpg
+| image_size       =
+| caption          = Blanchard at the restitution of the 2008 [[World Economic Outlook]] survey
+|module={{Infobox officeholder
+| embed            = yes
+| office           = [[Chief Economist of the International Monetary Fund]]
+| term_start       = 1 September 2008
+| term_end         = 8 September 2015
+| predecessor      = [[Simon Johnson (economist)|Simon Johnson]]
+| successor        = [[Maurice Obstfeld]]
+}}
+| birth_date       = {{Birth date and age|1948|12|27}}
+| birth_place      = [[Amiens]], [[France]]<ref name="CV">{{citation |url=http://econ-www.mit.edu/files/2261 |title=Olivier Blanchard's CV | work=Massachusetts Institute of Technology Department of Economics | date=nd | access-date=3 October 2015}}</ref>
+| death_date       =
+| death_place      =
+| nationality      = French
+| institution      = [[Peterson Institute for International Economics]] (since 2015)<br>[[International Monetary Fund]] (2008–2015) <br>[[Harvard University]]<br>[[Massachusetts Institute of Technology]]
+| field            = [[Macroeconomics]]
+| alma_mater       = [[ESCP Europe]]
+[[Massachusetts Institute of Technology|MIT]]<ref name="MIT">{{citation | url=http://economics.mit.edu/faculty/blanchar/ | title=Olivier Blanchard Contact Information | work=Massachusetts Institute of Technology Department of Economics | date=nd | access-date=3 October 2015}}</ref><br> [[Paris Dauphine University]]
+| doctoral_advisor = [[Stanley Fischer]]<ref>{{cite thesis |last= Blanchard |first= Olivier |date= 1977 |title= Two essays on economic fluctuations |type= Ph.D. |publisher= [[Massachusetts Institute of Technology|MIT]] |url= http://library.mit.edu/item/000057369 |access-date= 1 February 2017 }}</ref>
+| academic_advisors=
+| doctoral_students= [[Fumio Hayashi]]<br>[[Nobuhiro Kiyotaki]]<br>[[Roland Bénabou]]<ref>{{cite thesis |last= Benabou |first= Roland Jean-Marc |date= 1986 |title= Optimal price dynamics, speculation and search under inflation |type= Ph.D. |publisher= [[Massachusetts Institute of Technology|MIT]] |url= http://library.mit.edu/item/000266243 |access-date= 1 February 2017 }}</ref><br>[[Michael C. Burda]]<ref>{{cite web |url= https://www.wiwi.hu-berlin.de/en/professuren/vwl/wtm2/mitarbeiter-en/prof-michael-burda-phd/cv_burdajan2016.pdf |title= CV |last= Burda |first= Michael C. |publisher= Humboldt University of Berlinn |access-date= 3 February 2017 |archive-url= https://web.archive.org/web/20170204003304/https://www.wiwi.hu-berlin.de/en/professuren/vwl/wtm2/mitarbeiter-en/prof-michael-burda-phd/cv_burdajan2016.pdf |archive-date= 4 February 2017 |url-status= dead }}</ref><br>[[Ricardo J. Caballero]]<ref>{{cite thesis |last= Caballero |first= Ricardo J. |date= 1988 |title= The Stochastic Behavior of Consumption and Savings |type= Ph.D. |publisher= [[Massachusetts Institute of Technology|MIT]] |url= https://dspace.mit.edu/bitstream/handle/1721.1/99793/20002978-MIT.pdf?sequence=1#page=4 |access-date= 17 October 2016 }}</ref><br>[[Jordi Galí]]<ref>{{cite thesis |last= Galí |first= Jordi |date= 1989 |title= Essays on macroeconomics |type= Ph.D. |publisher= [[Massachusetts Institute of Technology|MIT]] |url= http://library.mit.edu/item/000403285 |access-date= 1 February 2017 }}</ref><br>[[Anil Kashyap]]<ref>{{cite thesis |last= Kashyap |first= A. K. |date= 1989 |title= Price setting and investment : models and evidence |type= Ph.D. |publisher= [[Massachusetts Institute of Technology|MIT]] |url= http://library.mit.edu/item/000386642 |access-date= 1 February 2017 }}</ref><br>[[Gilles Saint-Paul]]<ref>{{cite thesis |last= Saint-Paul |first= Gilles |date= 1990 |title= Essays on labor markets and macro-economic activity |type= Ph.D. |publisher= [[Massachusetts Institute of Technology|MIT]] |url= http://library.mit.edu/item/000510784 |access-date= 1 February 2017 }}</ref><br>[[Janice Eberly]]<ref>{{cite thesis |last= Eberly |first= Janice Caryl |date= 1991 |title= Durable goods and transactions costs : theory and evidence |type= Ph.D. |publisher=[[Massachusetts Institute of Technology|MIT]] |url= http://library.mit.edu/item/000574584 |access-date= 2 February 2017 }}</ref><br>[[Charles I. Jones]]<ref>{{cite thesis |last= Jones |first= Charles I. |date= 1993 |title= Time Series Tests of Endogenous Growth Models |type= Ph.D. |publisher= [[Massachusetts Institute of Technology|MIT]]|hdl= 1721.1/12701 |url= https://dspace.mit.edu/handle/1721.1/12701 |access-date= 2 February 2017 }}</ref><br>[[David Laibson]]<ref>{{cite thesis |last= Laibson |first= David Isaac |date= 1994 |title= Hyperbolic Discounting and Consumption |type= Ph.D. |publisher= [[Massachusetts Institute of Technology|MIT]] |url= https://dspace.mit.edu/bitstream/handle/1721.1/11966/31053607-MIT.pdf?sequence=2 |access-date= 1 February 2017 }}</ref><br>[[Pierre-Olivier Gourinchas]]<ref>{{cite thesis |last= Gourinchas |first= Pierre-Olivier |date= 1996 |title= Essays on exchange rates, and consumption |type= Ph.D. |publisher= [[Massachusetts Institute of Technology|MIT]]|hdl= 1721.1/10830 |url= https://dspace.mit.edu/handle/1721.1/10830 |access-date= 1 February 2017 }}</ref><br>[[Robert Shimer]]<ref>{{cite thesis |last= Shimer |first= Robert |date= 1996 |title= Essays in search theory |type= Ph.D. |publisher= [[Massachusetts Institute of Technology|MIT]] |hdl= 1721.1/10832 |url= https://dspace.mit.edu/handle/1721.1/10832 |access-date= 17 October 2016 }}</ref><br>[[Augustin Landier]]<ref>{{cite thesis |last= Landier |first= Augustin |date= 2001 |title= Essays on entrepreneurship, venture capital and innovation |type= Ph.D. |publisher= [[Massachusetts Institute of Technology|MIT]] |url= https://dspace.mit.edu/bitstream/handle/1721.1/8415/50602122-MIT.pdf?sequence=2 |access-date= 1 February 2017 }}</ref><br>[[Justin Wolfers]]<ref>{{cite web |url= http://users.nber.org/~jwolfers/WolfersCV.pdf |title= CV |last= Wolfers |first= Justin |publisher= NBER |access-date= 3 February 2017}}</ref><ref>{{cite web|url=https://genealogy.repec.org/pages/pwo9.html |title=RePEc Genealogy page for Justin Wolfers |publisher= RePEc Genealogy |access-date= Jun 8, 2017 }}</ref><br>[[Thomas Philippon]]<ref>{{cite thesis |last= Philippon |first= Thomas |date= 2003 |title= Three essays in macroeconomics |type= Ph.D. |publisher= [[Massachusetts Institute of Technology|MIT]] |url= https://dspace.mit.edu/bitstream/handle/1721.1/17573/52873401-MIT.pdf?sequence=2 |access-date= 27 November 2016 }}</ref>
+| notable_students =
+| influences       =
+| influenced       = [[Luigi Zingales]]
+| contributions    =
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pbl2
+}}
+
+'''Olivier Jean Blanchard''' ({{IPA-fr|blɑ̃ʃaʁ|lang}}; born December 27, 1948) is a French economist and professor who is a senior fellow at the [[Peterson Institute for International Economics]]. He was the [[List of IMF Economic Counsellors|chief economist]] at the [[International Monetary Fund]] from September 1, 2008, to September 8, 2015.<ref>{{citation |url=http://www.imf.org/external/pubs/ft/survey/so/2008/int090208a.htm |title=Blanchard Sees Global Economy Weathering Financial Storm |work=International Monetary Fund |date=2 September 2008}}</ref><ref name="washingtonpost_Oct_2015">{{cite web | url=https://www.washingtonpost.com/business/the-smartest-economist-youve-never-heard-of/2015/10/02/8659bcf2-6786-11e5-8325-a42b5a459b1e_story.html?postshare=9761443854396544 | title=The smartest economist you've never heard of | work=Washington Post | date=2 October 2015 | access-date=3 October 2015 | author=Pearlstein, Steven}}</ref><ref>[http://www.imf.org/external/np/sec/pr/2015/pr15219.htm "IMF Economic Counsellor and Director of Research Olivier Blanchard To Retire from the Fund"] (International Monetary Fund; May 14, 2015).</ref> Blanchard was appointed to the position under the tenure of [[Dominique Strauss-Kahn]]; he was succeeded by [[Maurice Obstfeld]].<ref>{{cite web|title=IMF Managing Director Christine Lagarde Appoints Maurice Obstfeld as Economic Counsellor and Director of the IMF's Research Department|url=http://www.imf.org/external/np/sec/pr/2015/pr15343.htm?hootPostID=1ed42320cf16d36193723a545537d1f5|access-date=20 July 2015|date=20 July 2015|author=IMF|author-link=International Monetary Fund}}</ref> He also is a Robert M. Solow Professor of Economics emeritus at the [[Massachusetts Institute of Technology]] (MIT). He is one of the most cited economists in the world, according to [[Research Papers in Economics|IDEAS/RePEc]].<ref>[https://ideas.repec.org/top/top.person.all.html Economist Rankings at IDEAS]</ref>
+
+==Career==
+
+Blanchard graduated from [[ESCP Europe]] in 1970.<ref>{{Cite web|url=https://www.escpeuropealumni.org/gene/main.php?base=63|title=ESCP Europe Alumni - Hall of Fame|last=Alumni|first=ESCP Europe|website=www.escpeuropealumni.org|access-date=2017-11-23}}</ref> From 1970 to 1973, he completed [[Graduate school|graduate]] level courses in [[economics]] and [[applied mathematics]] at [[Paris Dauphine University]] and [[Paris Nanterre University]].<ref>{{Cite news|url=http://www.europusa.com/vie-pratique/portraits-dexpatries-francais-aux-etats-unis/portraits-de-professeurs-et-detudiants-aux-etats-unis/professeurs/olivier-blanchard-professeur-deconomie-au-mit/|title=Olivier Blanchard, professeur d'économie au MIT - EuropUSA|work=EuropUSA|access-date=2017-11-23|archive-date=2002|language=fr-FR}}</ref>  He obtained a PhD in [[economics]] from MIT in 1977 and then taught at [[Harvard University]] between 1977 and 1983, after which time he returned to MIT as a professor.<ref>[http://www.asia21.org/blanchard Asia 21 Bio]</ref> His areas of expertise in macroeconomics are the functions of monetary policy, the role of speculative bubbles, the determinants of unemployment and the role of the labor market as a whole, the effects on countries who have transitioned away from communism, and the factors that have sparked the most recent global financial crises. Between 1998 and 2003 Blanchard served as the chairman of the economics department at MIT.
+
+Blanchard has published numerous research papers in the field of [[macroeconomics]], as well as undergraduate and graduate macroeconomics textbooks. In 1987, together with [[Nobuhiro Kiyotaki]], Blanchard demonstrated the importance of [[monopolistic competition]] for the [[aggregate demand]] multiplier.<ref>{{cite journal |title=Monopolistic Competition and the Effects of Aggregate Demand |first1=Olivier Jean |last1=Blanchard |first2=Nobuhiro |last2=Kiyotaki |journal=[[American Economic Review]] |volume=77 |issue=4 |year=1987 |pages=647–666 |jstor=1814537 }}</ref> Most New Keynesian macroeconomic models now assume monopolistic competition for the reasons outlined by them.
+
+He is a fellow and past Council member of the [[Econometric Society]], and a member of the [[American Academy of Arts and Sciences]].
+
+==International Monetary Fund==
+
+During his tenure as chief economist, Blanchard's reshaped IMF policies. During the [[Great Recession]] Blanchard supported global fiscal stimulus. During its slow recovery he urged a cautious removal of stimulus and advocated [[quantitative easing]].<ref name="globalist_Oct_2015">{{cite web | url=http://www.theglobalist.com/imf-economy-olivier-blanchard/ | title=The Frenchman Who Reshaped the IMF Reflections on the work of Olivier, the IMF's now retired chief economist | work=The Globalist | date=2 October 2015 | access-date=3 October 2015 | author=Loungani, Prakash | location=Washington, DC}}</ref>
+
+===Austerity v. stimulus debate===
+By 2010, following the financial crisis, many countries ran significant budget deficits. There was a global turn to austerity as [[Washington Consensus]] economists encouraged governments to cut spending and raise taxes to avoid a government debt crisis, as occurred in  [[Greek government debt crisis|Greece]].<ref name="theguardian April_2015">{{cite news | url=https://www.theguardian.com/business/ng-interactive/2015/apr/29/the-austerity-delusion | title=The case for cuts was a lie. Why does Britain still believe it? The austerity delusion by Paul Krugman | work=The Guardian | date=29 April 2015 | access-date=3 October 2015 | author=Krugman, Paul | location=UK}}</ref> In June 2010, Blanchard and Carlo Cottarelli, the director of the IMF's fiscal affairs department, co-authored an IMF blog post entitled "Ten Commandments for Fiscal Adjustment in Advanced Economies."<ref name="blog_IMF_Jun_2010">{{cite web | url=http://blog-imfdirect.imf.org/2010/06/24/ten-commandments-for-fiscal-adjustment-in-advanced-economies/ | title=Ten Commandments for Fiscal Adjustment in Advanced Economies | publisher=iMFdirect | date=24 June 2010 | access-date=3 October 2015 | author1=Blanchard, Olivier | author2=Cottarelli, Carlo}}</ref>
+
+By 2011 [[Paul Krugman]] noted that Blanchard was already "suggesting that harsh austerity programs may be literally self-defeating, hurting the economy so much that they worsen fiscal prospects."<ref name="NYT_21_Dec_2011">{{cite web | url=https://krugman.blogs.nytimes.com/2011/12/21/olivier-blanchard-isnt-very-serious/ | title=Olivier Blanchard Isn't Very Serious | work=New York Times | date=21 December 2011 | access-date=3 October 2015 | author=Krugman, Paul | series=The Conscience of a Liberal}}</ref> Krugman thinks that by 2012, every country that had introduced "significant austerity" had suffered economically, and that Blanchard had issued "what amounted to a ''mea culpa''."<ref name="theguardian April_2015" /> According to Krugman, "the IMF now believes that it massively understated the damage that spending cuts inflict on a weak economy."<ref name="theguardian April_2015" /> On the other hand, the IMF under Blanchard in 2014 was forced to admit that it had overestimated the negative effects of austerity – the IMF had warned of low growth because the [[United Kingdom|British]] government did not spend enough, but in the end, the British economy grew much larger than the IMF had predicted. IMF-head [[Christine Lagarde]] apologized to the British government for the mistake.<ref>{{cite web |url=https://www.telegraph.co.uk/finance/economics/10881540/IMF-accepts-it-was-wrong-on-George-Osbornes-austerity.html | title=IMF accepts it was wrong on George Osborne's austerity | publisher=[[The Daily Telegraph]] | date=6 June 2014 | access-date=15 May 2020 |author=Armitstead, Luise}}</ref><ref>{{cite web |url=https://www.bloomberg.com/news/articles/2014-06-08/lagarde-says-imf-got-it-wrong-on-rallying-u-k-economy |title=Lagarde Says IMF 'Got It Wrong' on Rallying U.K. Economy | publisher=[[Bloomberg News]] | date=9 June 2014 | access-date=15 May 2020 |author=Kennedy, Simon}}</ref>
+
+===Inequality===
+
+Under Blanchard's tenure at IMF, [[Jonathan D. Ostry]] and Andy Berg published their findings that "inequality was detrimental to sustained growth."<ref name="IMF_inequality_2011">{{cite web | url=http://www.imf.org/external/pubs/ft/sdn/2011/sdn1108.pdf | title=Inequality and Unsustainable Growth: Two Sides of the Same Coin? | work=International Monetary Fund | date=8 April 2011 | access-date=3 October 2015 | pages=20 | author1=Berg, Andrew G. | author2=Ostry, Jonathan D.}}</ref><ref name="theguardian_inequality_2014" /> By April 2014, in the [[World Economic Outlook]], Blanchard situated inequality as a "central issue" for "macroeconomic developments."<ref name="theguardian_inequality_2014">{{cite news | url=https://www.theguardian.com/business/2014/apr/08/uk-economy-in-spotlight-as-imf-unveils-new-world-economic-outlook-business-live?view=desktop#block-5343f21de4b06c7e09a60205 | title=IMF: rising inequality is an increasingly important issue | work=The Guardian | agency=8 April 2014 | access-date=3 October 2015 | location=UK}}</ref>
+
+{{quote|as the effects of the financial crisis slowly diminish, another trend may come to dominate the scene, namely rising inequality. Though inequality has always been perceived to be a central issue, until recently it was not seen as having major implications for macroeconomic developments. This belief is increasingly called into question. How inequality affects both the macroeconomy, and the design of macroeconomic policy, will likely be increasingly important items on our agenda for a long time to come.|Olivier Blanchard World Economic Outlook April 2014}}
+
+==References==
+{{Reflist|30em}}
+
+== External links ==
+{{Wikiquote}}
+* [https://piie.com/experts/senior-research-staff/olivier-blanchard Olivier Blanchard's webpage at the Peterson Institute for International Economics]
+{{s-start}}
+{{s-bus}}
+{{succession box
+| before = [[Simon Johnson (economist)|Simon Johnson]]
+| title  = IMF Chief Economist
+| years  = 2008 – 2015
+| after  = [[Maurice Obstfeld]] }}
+{{s-aca}}
+{{s-bef | before = [[Alvin E. Roth]]}}
+{{s-ttl | title = [[American Economic Association#Association presidents|President]] of the [[American Economic Association]] | years = 2018 }}
+{{s-aft | after = [[Ben Bernanke]]}}
+{{end}}
+{{Keynesians}}
+{{John von Neumann Award recipients}}
+{{Presidents of the American Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Blanchard, Olivier}}
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:ESCP Europe alumni]]
+[[Category:Paris Dauphine University alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:Harvard University faculty]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences faculty]]
+[[Category:French economists]]
+[[Category:Macroeconomists]]
+[[Category:New Keynesian economists]]
+[[Category:French academics]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:International Monetary Fund people]]
+[[Category:People from Amiens]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]
+[[Category:Expatriate academics in the United States]]
+[[Category:Labor economists]]
+[[Category:French officials of the United Nations]]
+[[Category:Peterson Institute for International Economics]]
+[[Category:Presidents of the American Economic Association]]

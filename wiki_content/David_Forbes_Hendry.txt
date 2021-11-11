@@ -1,0 +1,146 @@
+{{Short description|British econometrician (born 1944)}}
+{{Use dmy dates|date=February 2020}}
+{{EngvarB|date=September 2014}}
+{{Infobox scientist
+|name              = David Forbes Hendry
+|image             = 
+|caption           = 
+|birth_date        = {{birth date and age|df=yes|1944|3|6}}
+|birth_place       = [[Nottingham]], England<ref name = "ET interview">{{Cite journal |last= Ericsson |first= Neil R. |year= 2004 |title= The ''ET'' Interview: Professor&nbsp;David&nbsp;F. Hendry |url= http://dido.econ.yale.edu/korora/et/interview/hendry.pdf |journal= [[Econometric Theory]] |volume= 20 |number= 4 |pages= 743–804 |jstor= 3533545 }}</ref>
+|death_date        = 
+|death_place       = 
+|field             = Econometrics
+|work_institutions = [[University of Oxford]]
+|alma_mater        = [[University of Aberdeen]],
+[[London School of Economics]]
+|doctoral_advisor  = [[John Denis Sargan]]
+|doctoral_students = 
+|known_for         = Dynamic Econometrics, Forecasting, Model Selection, [[Monte Carlo Simulation]], Mis-Specification Testing, Progressive Research Methodology, [[LSE approach to econometrics]], [[Autometrics]], [[PcGive]], [[OxMetrics]], Gets Modeling
+|influences        = [[John Denis Sargan]], [[Trygve Haavelmo]]
+|influenced        = [[Clive Granger]], [[Robert Engle]], [[Søren Johansen]], [[Neil Shephard]], Neil Ericsson, Jennifer Castle, Michael Clements, Hans M. Krolzig
+|prizes            = [[Guy Medal]] (Bronze, 1986)
+|website           = {{url|www.nuff.ox.ac.uk/users/hendry}}
+}}
+
+'''Sir David Forbes Hendry''', [[British Academy|FBA]] [[Royal Statistical Society|CStat]] (born 6 March 1944) is a British [[econometrics|econometrician]], currently a professor of economics and from 2001 to 2007 was head of the Economics Department at the University of Oxford. He is also a professorial fellow at [[Nuffield College, Oxford]].<ref>{{cite web|title=Sir David F. Hendry, Kt|url=http://www.nuff.ox.ac.uk/users/hendry/|publisher=[[Nuffield College, Oxford]]|access-date=18 May 2013|archive-url=https://web.archive.org/web/20130605015408/http://www.nuff.ox.ac.uk/users/hendry/|archive-date=5 June 2013|url-status=dead}}</ref>
+
+He obtained an M.A. in economics with first class honours from the [[University of Aberdeen]] in 1966. He then went to the [[London School of Economics]] and completed an MSc (with distinction) in [[Msc Econometrics and Mathematical Economics|Econometrics and Mathematical Economics]] in 1967.
+He received his PhD from the [[London School of Economics]] under the supervision of [[John Denis Sargan]] in 1970, and until joining the University of Oxford as professor of economics in 1982, was a lecturer, then reader and finally professor of economics at the LSE.<ref name = "ET interview" /> Hendry also served as a research professor at [[Duke University]] from 1987 until 1991.
+
+His work is predominantly on time series econometrics and the econometrics of the [[demand for money]]. In recent years he has worked on the theory of forecasting and also on automated model building. He also studies the econometrics of climate change as co-director of the Climate Econometrics research centre at Nuffield College, Oxford.<ref>{{Cite web|url=http://www.climateeconometrics.org/people/|title=People|date=21 September 2015|website=Climate Econometrics|language=en-GB|access-date=28 March 2019}}</ref>
+
+He was elected a fellow of the [[British Academy]], a fellow of the [[Econometric Society]], honorary member of the [[American Economic Association]] and foreign honorary member of the [[American Academy of Arts and Sciences]].
+
+In 2001 he received an [[Honorary degree|honorary doctorate]] (dr. philos. h.c.) from [[Norwegian University of Science and Technology|The Norwegian University of Science and Technology (NTNU)]].<ref>{{Cite web|url=https://www.ntnu.edu/phd/honorary-doctors|title=Honorary Doctors|website=www.ntnu.edu|language=en|access-date=30 August 2018}}</ref>
+
+He was [[Knight Bachelor|knighted]] in the 2009 Birthday Honours.<ref>{{London Gazette |issue=59090 |date=13 June 2009 |page=1 |supp=y}}</ref>
+
+His most recent book is ''Hendry, D.F. and B. Nielsen (2007), Econometric Modeling: A Likelihood Approach'' (Princeton University Press).
+
+"The Methodology and Practice of Econometrics: A Festschrift in Honour of David F. Hendry", edited by Jennifer L Castle and [[Neil Shephard]], was published by Oxford University Press in 2009.
+
+==Selected publications==
+'''Books'''
+*Hendry, D.F. (1995). Dynamic Econometrics. Oxford: Oxford University Press. ({{ISBN|0-19-828317-2}})
+
+'''Journal Articles'''
+
+*Hendry, D.F. and P.K. Trivedi (1972). "Maximum likelihood estimation of difference equations with moving-average errors: A simulation study". [[Review of Economic Studies]], 32, 117–145.
+*Hendry, D.F. and R.W. Harrison (1974). "Monte Carlo methodology and the small sample behaviour of ordinary and two-stage least squares." [[Journal of Econometrics]], 2, 151–174.
+*Hendry, D. F. (1974). "Stochastic Specification in an Aggregate Demand Model of the United Kingdom." [[Econometrica]] 42(3): 559–578.
+*Hendry, D.F. (1976). "Discussion of 'estimation of linear functional relationships: Approximate distributions and connections with simultaneous equations in econometrics" by T.W. Anderson. [[Journal of the Royal Statistical Society]] B, 38, 24–25.
+*Hendry, D.F. (1976)." The structure of simultaneous equations estimators". [[Journal of Econometrics]], 4, 51–88.
+*Hendry, D. F. and F. Srba (1977). "The Properties of Autoregressive Instrumental Variables Estimators in Dynamic Systems." [[Econometrica]] 45(5): 969–990.
+*Davidson, J.E.H., D.F. Hendry, F. Srba, and J.S. Yeo (1978). "Econometric modelling of the aggregate time-series relationship between consumers' expenditure and income in the United Kingdom." [[Economic Journal]], 88, 661–692.
+*Hendry, D.F. and G.E. Mizon (1978). Serial correlation as a convenient simplification, not a nuisance: A comment on a study of the demand for money by the Bank of England. [[Economic Journal]], 88, 549–563.
+*Hendry, D.F. (1979). The behaviour of inconsistent instrumental variables estimators in dynamic systems with autocorrelated errors. [[Journal of Econometrics]], 9, 295–314.
+*Hendry, D.F. and F. Srba (1980). "AUTOREG: A computer program library for dynamic econometric models with autoregressive errors". [[Journal of Econometrics]],"9 12, 85–102.
+*Mizon, G.E. and D.F. Hendry (1980). "An empirical application and Monte Carlo analysis of tests of dynamic specification." [[Review of Economic Studies]]," 49, 21–45.
+*Engle, R. F., D. F. Hendry and J.-F. Richard (1983). "Exogeneity." [[Econometrica]] 51(2): 277–304.
+*Chong, Y. Y. and D. F. Hendry (1986). "Econometric Evaluation of Linear Macro-Economic Models." [[Review of Economic Studies]] 53(4): 671–690.
+*Hendry, D.F., A.J. Neale, and F. Srba (1988). "Econometric analysis of small linear systems using PC-FIML." [[Journal of Econometrics]], 38, 203–226.
+*Campos, J., N.R. Ericsson, and D.F. Hendry (1990). An analogue model of phase-averaging procedures. [[Journal of Econometrics]], 43, 275–292.
+*Hendry, D. F. and N. R. Ericsson (1991). "An Econometric Analysis of UK Money Demand in Monetary Trends in the United States and the United Kingdom by Milton Friedman and Anna J. Schwartz." [[American Economic Review]]: 8–38.
+*Baba, Y., D.F. Hendry, and R.M. Starr (1992). "The demand for M1 in the U.S.A., 1960–1988." [[Review of Economic Studies]], 59, 25–61.
+*[[Robert F. Engle]] and D.F. Hendry (1993). "Testing super exogeneity and invariance in regression models." [[Journal of Econometrics]], 56, 119–139.
+*Govaerts, B., D.F. Hendry, and J.-F. Richard (1994). "Encompassing in stationary linear dynamic models." [[Journal of Econometrics]], 63, 245–270.
+*Hendry, D.F. (1995). "Econometrics and business cycle empirics." [[Economic Journal]], 105, 1622–1636.
+*Campos, J., N.R. Ericsson, and D.F. Hendry (1996). "Cointegration tests in the presence of structural breaks." [[Journal of Econometrics]], 70, 187–220.
+*Clements, M.P. and D.F. Hendry (1996). "Intercept corrections and structural change." [[Journal of Applied Econometrics]], 11, 475–494.
+*Hendry, D.F. (1997). "The Econometrics of Macro-economic Forecasting." [[Economic Journal]], 107, 1330–1357.
+*Ericsson, N. R., D. F. Hendry and G. E. Mizon (1998). "Exogeneity, Cointegration, and Economic Policy Analysis." [[Journal of Business & Economic Statistics]] 16(4): 370–387.
+*Hendry, D.F. and Krolzig, H-M. (1999). "Improving on 'Data Mining Reconsidered' by K.D. Hoover and S.J. Perez." [[Econometrics Journal]], 2, 41–58.
+
+==Other publications==
+* Campos, J., N. R. Ericsson and D. F. Hendry (2005). General-to-Specific Modeling: An Overview and Selected Bibliography. International Finance Discussion Papers, Board of Governors of the [[Federal Reserve System]].
+* Campos, J., D. F. Hendry and H.-M. Krolzig (2003). "Consistent Model Selection by an Automatic by Automatic Gets Approach." [[Oxford Bulletin of Economics and Statistics]] 65(Supplement): 803–819.
+* Castle, J. L., J. A. Doornik and D. F. Hendry (2012). "Model Selection when there are Multiple Breaks." [Journal of Econometrics] 169(2): 239–246.
+* Castle, J. L., J. A. Doornik and D. F. Hendry (2013). "Evaluating Automatic Model Selection." [[Journal of Time Series Econometrics]] 3(3): 1941–1928.
+* Castle, J. L., J. A. Doornik and D. F. Hendry (2013). "Model Selection in Equations with Many 'Small' Effects*." [[Oxford Bulletin of Economics and Statistics]] 75(1): 6–22.
+* Castle, J. L., J. A. Doornik, D. F. Hendry, et al. (2013). "Mis-Specification Testing: Non-Invariance of Expectations Models of Inflation." [[Econometric Reviews]]: 130809194007000.
+* Castle, J. L. and D. F. Hendry (2013). "Model selection in under-specified equations facing breaks." [[Journal of Econometrics]].
+* Chong, Y. Y. and D. F. Hendry (1986). "Econometric Evaluation of Linear Macro-Economic Models." [[The Review of Economic Studies]] 53(4): 671–690.
+* Clements, M. P. and D. F. Hendry (2005). "Evaluating a Model by Forecast Performance." [[Oxford Bulletin of Economics and Statistics]] 67: 931–956.
+* Davidson, J. E. H., D. F. Hendry, F. Srba, et al. (1978). "Econometric Modelling of the Aggregate Time-Series Relationship Between Consumers' Expenditure and Income in the United Kingdom." The [[Economic Journal]] 88(352): 661–692.
+* Doornik, J. A., D. F. Hendry and F. Pretis (2013). Step Indicator Saturation. DEPARTMENT OF ECONOMICS DISCUSSION PAPER SERIES, University of Oxford.
+* [[Robert F. Engle]], D. F. Hendry and J.-F. Richard (1983). "Exogeneity." Econometrica 51(2): 277–304.
+* Ericsson, N. R., D. F. Hendry and G. E. Mizon (1998). "Exogeneity, Cointegration, and Economic Policy Analysis." [[Journal of Business & Economic Statistics]] 16(4): 370–387.
+* Ermini, L. and D. F. Hendry (2008). "Log Income vs. Linear Income: An Application of the Encompassing Principle*." [[Oxford Bulletin of Economics and Statistics]] 70: 807–827.
+* Florens, J.-P., D. F. Hendry and J.-F. Richard (1996). "Encompassing and Specificity." [[Econometric Theory]] 12(4): 620–656.
+* Granger, C. W. J. and D. F. Hendry (2005). "A Dialogue Concerning a New Instrument for Econometric Modeling." [[Econometric Theory]] 21: 278–297.
+* Hendry, D. (1993). Econometrics: Alchemy of Science?, Oxford.
+* Hendry, D. F. (1974). "Stochastic Specification in an Aggregate Demand Model of the United Kingdom." [[Econometrica]] 42(3): 559–578.
+* Hendry, D. F. (1980). "Econometrics – Alchemy or Science?" [[Economica]] 47(188): 387–406.
+* Hendry, D. F. (1991). "Using PC-NAIVE in Teaching Econometrics." [[Oxford Bulletin of Economics and Statistics]] 53(2): 199–223.
+* Hendry, D. F. (2000). Econometrics: Alchemy or Science?, [[Oxford University Press]].
+* Hendry, D. F. (2001). "Achievements and Challenges in Econometric Methodology." [[Journal of Econometrics]] 100: 7–10.
+* Hendry, D. F. (2003). "J. Denis Sargan and the Origins of LSE Econometric Methodology." [[Econometric Theory]] 19: 457–480.
+* Hendry, D. F. (2011). "Empirical Economic Model Discovery and Theory Evaluation." [[Rationality, Markets and Morals]] 2: 115–145.
+* Hendry, D. F. and M. P. Clements (2003). "Economic forecasting: some lessons from recent research." [[Economic Modelling]] 20(2): 301–329.
+* Hendry, D. F. and N. R. Ericsson (1991). "An Econometric Analysis of UK Money Demand in Monetary Trends in the United States and the United Kingdom by [[Milton Friedman]] and [[Anna J. Schwartz]]." The [[American Economic Review]]: 8–38.
+* Hendry, D. F. and [[Søren Johansen]] (2011). The Properties of Model Selection when Retaining Theory Variables. CREATES Research Papers. [[Aarhus University]].
+* Hendry, D. F. and [[Søren Johansen]] (2013). Model Discovery and [[Trygve Haavelmo]]'s Legacy. Working Paper. University of Oxford.
+* Hendry, D. F., [[Søren Johansen]] and C. Santos (2008). "Automatic Selection of Indicators in a Fully Saturated Regression." [[Computational Statistics]] 33: 317–335.
+* Hendry, D. F. and K. Juselius (2001). "Explaining Cointegration Part II." [[Energy Journal]] 22(1): 75–120.
+* Hendry, D. F. and K. Juselius (2000). "Explaining Cointegration Part I." [[Energy Journal]] 21: 1–42.
+* Hendry, D. F. and H.-M. Krolzig (2001). "Computer Automation of General-to-Specific Model Selection Procedures." [[Journal of Economic Dynamics and Control]] 25: 831–866.
+* Hendry, D. F. and H.-M. Krolzig (2003). New Developments in Automatic General-to-specific Modelling. Econometrics and the Philosophy of Economics. B. P. Stigum, Princeton University Press.
+* Hendry, D. F. and H.-M. Krolzig (2004). "Automatic Model Selection: A New Instrument for Social Science." Electoral Studies 23(3): 525–544.
+* Hendry, D. F. and H.-M. Krolzig (2005). "The Properties of Automatic GETS Modelling*." The [[Economic Journal]] 115(502): C32-C61.
+* Hendry, D. F. and M. Massmann (2007). "Co-Breaking : Recent Advances and a Synopsis of the Literature." [[Journal of Business & Economic Statistics]] 25(1): 33–51.
+* Hendry, D. F. and G. E. Mizon (2013). Unpredictability in Economic Analysis, Econometric Modeling and Forecasting. Working Paper. Department of Economics Working Paper, Oxford University.
+* Hendry, D. F. and J.-F. Richard (1983). "The Econometric Analysis of Economic Time Series." [[International Statistical Review]] 51(2): 111–148.
+* Hendry, D. F. and F. Srba (1977). "The Properties of Autoregressive Instrumental Variables Estimators in Dynamic Systems." [[Econometrica]] 45(5): 969–990.
+* Spanos, A., D. F. Hendry and J. James Reade (2008). "Linear vs. Log-linear Unit-Root Specification: An Application of Mis-specification Encompassing*." [[Oxford Bulletin of Economics and Statistics]] 70: 829–847.
+'''Other Authors'''
+* [[Søren Johansen]] and B. Nielsen (2009). Saturation by Indicators in Regression Models. The Methodology and Practice of Econometrics: Festschrift in Honour of David F. Hendry. J. L. Castle and N. Shephard. Oxford, Oxford University Press.
+* [[Clive Granger]] (2009). In Praise of Pragmatics in Econometrics. The Methodology and Practice of Econometrics: A Festschrift in Honour of David F. Hendry. J. L. Castle and N. Sheppard. Oxford, Oxford University Press.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20151021114025/http://www.economics.ox.ac.uk/Academic/david-hendry University of Oxford: David Hendry]
+* [https://ideas.repec.org/e/phe33.html David Hendry] at [[Research Papers in Economics|IDEAS]]
+* {{MathGenealogy |id=135412 }}
+
+{{Guy Medal}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hendry, David Forbes}}
+[[Category:Living people]]
+[[Category:British economists]]
+[[Category:Econometricians]]
+[[Category:Time series econometricians]]
+[[Category:Neo-Keynesian economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the British Academy]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Fellows of Nuffield College, Oxford]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Academics of the London School of Economics]]
+[[Category:Statutory Professors of the University of Oxford]]
+[[Category:Knights Bachelor]]
+[[Category:1944 births]]
+[[Category:Institute for New Economic Thinking]]

@@ -1,0 +1,61 @@
+{{Short description|American economist}}
+{{Advert|date=February 2017}}
+{{Infobox economist
+| name             = Stephen Cameron
+| school_tradition = [[Chicago School of Economics]]
+
+| image            =
+| image_size       =
+| caption          =
+| birth_date       = 
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = [[United States]]
+| institution      = [[Columbia University]]
+| field            = [[Microeconomics]]
+| alma_mater       = [[University of Chicago]]<br>[[Brigham Young University]]
+| doctoral_advisor = [[James Heckman]]
+| awards           = Hettleman Award for Excellence in Research and Teaching
+| signature        = <!-- file name only -->
+| url = {{URL|https://sipa.columbia.edu/faculty/stephen-v-cameron}}
+| repec_prefix = 
+| repec_id =
+}}
+
+'''Stephen Cameron'''  is an American [[financial analyst]], [[economist]] and [[author]]. He is currently Adjunct Associate Professor and was for many years an Associate Professor of Economics at [[Columbia University]].<ref name=columbia-sipa>{{cite web|title=Columbia University SIPA faculty|url=https://sipa.columbia.edu/faculty/stephen-v-cameron|website=Columbia University SIPA|publisher=Columbia University|accessdate=2015-02-26}}</ref><ref name=cameron-linkedin>{{cite web|title=Stephen Cameron|url=https://www.linkedin.com/pub/stephen-cameron/5/b9b/53a|website=LinkedIn|publisher=LinkedIn|accessdate=2015-02-26}}</ref> He is also currently Head of Research and Development at Continuum Investment Management in [[New York City]].<ref name="cameron-linkedin"/>
+
+He is most noted for his econometric and applied work on educational selection, the dynamics of educational attainment, and the causal value of [[General Educational Development]] test outcomes while a professor at Columbia and a [[:wikt:dissertator|dissertator]] under [[James Heckman]] at the [[University of Chicago]].<ref name=publicradio>{{cite news|last1=Hanford|first1=Emily|last2=Smith|first2=Stephen|last3=Stern|first3=Laurie|title=Second-Chance Diploma: Examining the GED|url=http://americanradioworks.publicradio.org/features/ged/|accessdate=2015-03-03|work=American Radio Works|publisher=publicradio.org|date=2013-09-01}}</ref><ref name="cameron-linkedin"/><ref name=cameron-letter>{{cite news|last1=Cameron|first1=Stephen|last2=Heckman|first2=James|title=Equivalency Diploma Still Has Value; Wide Sampling Used|url=https://www.nytimes.com/1993/06/26/opinion/l-equivalency-diploma-still-has-value-wide-sampling-used-119693.html|accessdate=2015-02-26|work=New York Times|date=1993-06-23}}</ref><ref name="University of Chicago Press">{{cite book|editor1-last=Heckman|editor1-first=James|editor2-last=Humphries|editor2-first=John|editor3-last=Kautz|editor3-first=Tim|title=The Myth of Achievement Tests: The GED and the Role of Character in American Life|date=2014-01-09|publisher=University of Chicago Press|location=Chicago|isbn=978-0226100098|page=XV|url=https://books.google.com/books?id=gJGPAgAAQBAJ&printsec=frontcover&dq=heckman+ged+books&hl=en&sa=X&ei=2o32VK-QB9H8oATQvIII&ved=0CDAQ6AEwAA#v=onepage&q=cameron&f=false|accessdate=2015-03-03|quote=heckman-quote}}</ref>
+
+He has held quantitative financial analyst and management roles at Wall Street firms, including leading quantitative trading house [[Citadel LLC]] and [[Lord Abbett]].<ref name="cameron-linkedin"/> A graduate of the University of Chicago and [[Brigham Young University]],<ref name="cameron-linkedin"/> he has co-authored an academic book studying poverty in New York City.<ref name=cameron-book1>{{cite book|last1=Aaronson|first1=Stephanie|authorlink1=Stephanie Aaronson |last2=Cameron|first2=Stephen|title=Poverty in New York City, 1996: An update and perspectives : a report to the Community Service Society of New York|date=1997|publisher=Community Service Society of New York|isbn=978-0881562040|pages=91}}</ref> He lives in New York City with his children and wife Marianne Cameron, a historian<ref>{{cite web|title=BCC CUNY Faculty|url=https://www.bcc.cuny.edu/OWA/Faculty.htm|website=BCC CUNY|publisher=CUNY|accessdate=2015-02-28}}</ref> and [[Fulbright Program|Fulbright-Hays Recipient]].<ref name=fulbright>{{cite web|title=Fulbright-Hays Recipients, 1991|url=http://www.uchicago.edu/about/accolades/15/|website=University of Chicago|publisher=University of Chicago|accessdate=2015-02-28}}</ref>
+
+==See also==
+* [[List of economists]]
+* [[List of University of Chicago alumni]]
+* [[List of Brigham Young University alumni]]
+* [[List of Columbia University people]]
+* {{ResearchGate | id=Stephen_Cameron3 | name= Stephen V. Cameron}}
+
+==References==
+{{reflist|2}}
+<!--- After listing your sources please cite them using inline citations and place them after the information they cite. Please see http://en.wikipedia.org/wiki/Wikipedia:REFB for instructions on how to add citations. --->
+
+==External links==
+* {{Official website|https://sipa.columbia.edu/faculty/stephen-v-cameron|name=Stephen V. Cameron official website at Columbia U.}}
+* {{Google Scholar id | id=x7kYafkAAAAJ | name= Stephen V. Cameron}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cameron, Stephen V.}}
+[[Category:Living people]]
+[[Category:American financial analysts]]
+[[Category:Econometricians]]
+[[Category:Microeconomists]]
+[[Category:Microeconometricians]]
+[[Category:University of Chicago alumni]]
+[[Category:Brigham Young University alumni]]
+[[Category:Columbia University faculty]]
+[[Category:20th-century American economists]]
+[[Category:American male non-fiction writers]]
+[[Category:21st-century American economists]]
+[[Category:Year of birth missing (living people)]]

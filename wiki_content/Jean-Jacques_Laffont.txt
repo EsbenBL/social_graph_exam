@@ -1,0 +1,95 @@
+{{Short description|French economist}}
+{{Infobox economist
+| name             = Jean-Jacques Laffont
+| school_tradition =
+
+| image       =
+| image_size       =
+| caption    =
+| birth_date       = {{Birth date|1947|04|13}}
+| birth_place      = [[Toulouse]], France
+| death_date       = {{Death date and age|2004|05|01|1947|04|13}}
+| death_place      = [[Colomiers]]
+| nationality      = [[France|French]]
+| institution      = [[University of Southern California]]<br>[[University of Toulouse]]<br>[[École Polytechnique]]
+| field            = [[Microeconomics]]
+| alma_mater       = [[University of Toulouse]], [[Harvard University]] <small>(Ph.D., 1975)</small>
+| doctoral_advisor  = [[Kenneth Arrow]]<br>[[Jerry R. Green]]
+| academic_advisors = 
+| doctoral_students = [[Roger Guesnerie]]<br>[[Gilbert Aké]]<br>[[David Martimort]]
+| notable_students  = 
+| influences       =
+| influenced       = [[Jean Tirole]]
+| contributions    = [[Public economics]]<br>[[Economic equilibrium#Disequilibrium|disequilibrium]] [[econometrics]]<br>[[Information economics|Information]] [[econometrics]], especially [[Information asymmetry|asymmetry]]
+| awards           = [[Yrjö Jahnsson Award]] (1993)
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pla127
+}}
+'''Jean-Jacques Marcel Laffont''' (April 13, 1947 – May 1, 2004) was a [[France|French]] [[economist]] specializing in [[public economics]] and [[information economics]]. Educated at the [[University of Toulouse]] and the Ecole Nationale de la Statistique et de l'Administration Economique ([[École Nationale de la Statistique et de l'Administration Économique|ENSAE]]) in Paris, he was awarded the [[Ph.D.]] in Economics by [[Harvard University]] in 1975.
+
+Laffont taught at the [[École Polytechnique]] (1975–1987), and was Professor of Economics at [[Ecole des hautes études en sciences sociales]] (1980–2004) and at the [[University of Toulouse]] I (1991–2001). In 1991, he founded Toulouse's [[Industrial Economics Institute]] (Institut D'Economie Industrielle, IDEI) which has become one of the most prominent European research centres in economics. From 2001 until his death, he was the inaugural holder of the [[University of Southern California]]'s John Elliott Chair in Economics. Over the course of his career, he wrote 17 books and more than 200 articles.<ref>{{cite news|last1=Martin|first1=Douglas|title=Jean-Jacques Laffont, Economist, Dies at 57|url=https://www.nytimes.com/2004/05/14/business/jean-jacques-laffont-economist-dies-at-57.html|access-date=4 March 2015|work=[[The New York Times]]|date=14 May 2004}}</ref>  Had he lived, he might well have shared the 2014 [[Nobel Prize for Economics]] awarded to his colleague and collaborator [[Jean Tirole]].<ref>{{cite news |last1=Treanor |first1=Jill |title=Jean Tirole wins Nobel prize for economics 2014|url=https://www.theguardian.com/business/2014/oct/13/jean-tirole-nobel-prize-economics |access-date=4 March 2015 |work=[[The Guardian]] |date=13 October 2014}}</ref><ref>{{cite news|title=It's complicated. Jean Tirole has won the Nobel prize in economics for his work on competition |url=https://www.economist.com/news/finance-and-economics/21625824-jean-tirole-has-won-nobel-prize-economics-his-work-competition-its |access-date=4 March 2015 |work=[[The Economist]] |date=18 October 2014}}</ref>
+
+== Contribution to economics ==
+Laffont made pioneering contributions in [[microeconomics]], in particular, [[public economics]], [[development economics]], and the theory of [[imperfect information]], [[incentive]]s, and [[regulation]]. His 1993 book ''A Theory of Incentives in Procurement and Regulation'', written with [[Jean Tirole]], is a fundamental reference in the economics of the public sector and the theory of  regulation. In 2002, he published (with David Martimort) ''The Theory of Incentives: the Principal-Agent Model'', a treatise on the economics of information and incentives. His last book, ''Regulation and Development'', discussed policies for improving the economies of less developed countries.
+
+==Death==
+Jean-Jacques Laffont was diagnosed with cancer in autumn 2002 and died of the disease at his home in Colomiers in the Haute Garonne region of southern France on May 1, 2004. He was survived by his wife, Colette; his daughters Cécile, Bénédicte and Charlotte; and his son, Bertrand.
+
+== Awards and honors ==
+* Wells Prize, awarded biannually by Harvard University to the best Ph.D. thesis in economics (1975);
+* [[CNRS Silver Medal]] (1990);
+* Scientific Prize of the UAP (1991);
+* Honorary Member of the [[American Economic Association]] (1991);
+* Senior member of the Institut Universitaire de France, which honors the best research professors in France in all disciplines (1991–2001);
+* Foreign Honorary Member of the [[American Academy of Arts and Sciences]] (1993);
+* Best economist of the year award from the ''Nouvel Economiste'' magazine (1993);
+* (with [[Jean Tirole]], Scientific Director of IDEI), the [[Yrjö Jahnsson Award]] from the [[Yrjö Jahnsson Foundation]] and the [[European Economic Association]], awarded biennially to the best European economist under the age of 45 (1993);
+* Member of the Economic Advisory Council of the Prime Minister of France (1997);
+* Honorary doctorate from the [[University of Lausanne]] (1998);
+* Officer of the French Legion of Honor.
+
+==Selected publications==
+=== Books ===
+* {{cite book | last = Laffont | first = Jean-Jacques | title = Aggregation and revelation of preferences | publisher = North-Holland Publishing Co. sole distributors for the U.S.A. and Canada, Elsevier North-Holland | location = Amsterdam New York New York | year = 1979 | isbn = 9780444853264 }}
+* {{cite book | last = Laffont | first = Jean-Jacques | title = Fundamentals of Public Economics | publisher = MIT Press | location = Cambridge, Massachusetts | year = 1988 | isbn = 9780262121279 | url-access = registration | url = https://archive.org/details/fundamentalsofpu0000laff }}
+* {{cite book | last1 = Laffont | first1 = Jean-Jacques | last2 = Tirole | first2 = Jean | author-link2 = Jean Tirole | title = A theory of incentives in procurement and regulation | publisher = MIT Press | location = Cambridge, Massachusetts | year = 1993 | isbn = 9780262121743 }}
+* {{cite book | last = Laffont | first = Jean-Jacques | title = Incentives and Political Economy (Clarendon Lectures in Economics) | publisher = Oxford University Press | location = Oxford, UK New York | year = 2000 | isbn = 9780198294245 }}
+* {{cite book | last1 = Laffont | first1 = Jean-Jacques | last2 = Martimort | first2 = David | title = The theory of incentives: the principal-agent model | publisher = Princeton University Press | location = Princeton, New Jersey | year = 2002 | isbn = 9780691091846 }}
+* {{cite book | last = Laffont | first = Jean-Jacques | title = Regulation and development | publisher = Cambridge University Press | location = Cambridge, UK New York | year = 2005 | isbn = 9780521549486 }}
+
+=== Chapters in books ===
+* {{Citation | last = Laffont | first = Jean-Jacques | contribution = "externalities" (definition) | editor-last1 = Durlauf | editor-first1 = Steven N. | editor-last2 = Blume | editor-first2 = Lawrence E. | editor-link1 = Steven N. Durlauf | editor-link2 = Lawrence E. Blume | title = The new Palgrave dictionary of economics | edition = 2nd | publisher = Palgrave Macmillan | location = Basingstoke, Hampshire New York | year = 2008 | isbn = 9780333786765 }} [http://www.dictionaryofeconomics.com/article?id=pde2008_E000200&edition=current&q=Externality&topicid=&result_number=11 Direct link.]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.idei.fr/doc/cv/laffont_04e.pdf Jean-Jacques Laffont's CV]
+* [http://www.fondation-laffont.fr/ Jean-Jacques Laffont Foundation]
+* [http://www.jjlaffont.org Association Jean-Jacques Laffont]
+
+{{Yrjö Jahnsson Award recipients}}
+{{Presidents of the Econometric Society}}
+{{Presidents of the European Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Laffont, Jean-Jacques}}
+[[Category:Public economists]]
+[[Category:Information economists]]
+<!-- [[Category:Mathematical economists]] -->
+[[Category:General equilibrium theorists]]
+[[Category:Microeconomists]]
+[[Category:French economists]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]
+<!-- [[Category:Economists]] -->
+[[Category:Harvard University alumni]]
+[[Category:University of Toulouse faculty]]
+[[Category:University of Southern California faculty]]
+[[Category:1947 births]]
+[[Category:2004 deaths]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:People from Toulouse]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Econometric Society]]

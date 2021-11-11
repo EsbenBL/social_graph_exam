@@ -1,0 +1,674 @@
+{{Short description|Private university in Cambridge, Massachusetts}}
+{{Redirect|Harvard}}
+{{pp-move-indef}}
+{{Use American English|date=February 2019}}
+{{Use mdy dates|date=March 2021}}
+{{pp-semi-vandalism|small=yes}}
+{{Infobox university
+| name = Harvard University
+| image = Harvard shield wreath.svg
+| image_upright = 0.7
+| caption = [[Heraldry of Harvard University#Harvard University coat of arms|Coat of arms]]
+| latin_name = Universitas Harvardiana
+| motto = {{lang|la|[[Veritas#Mottos|Veritas]]}} (Latin)<ref name=veritas>{{cite book|author=Samuel Eliot Morison|title=The Founding of Harvard College|url=https://books.google.com/books?id=zkQWZaZqZfUC&pg=PA329|year=1968|publisher=Harvard University Press|isbn=978-0-674-31450-4|page=329}}</ref>
+| free_label = Newspaper
+| free = ''[[The Harvard Crimson]]''
+| established = {{start date and age|1636}}<ref name=founding>An appropriation of £400 toward a "school or college" was voted on October 28, 1636 (OS), at a meeting which convened on September 8 and was adjourned to October 28. Some sources consider October 28, 1636 (OS) (November 7, 1636 NS) to be the date of founding. Harvard's 1936 tercentenary celebration treated September 18 as the founding date, though 1836 bicentennial was celebrated on September 8, 1836. Sources: meeting dates, {{cite book|first=Josiah|last=Quincy|title=History of Harvard University |url=https://archive.org/details/historyharvardu00quingoog|year=1860 |publisher=Crosby, Nichols, Lee and Co.|location=117 Washington Street, Boston}}, [https://books.google.com/books?vid=OCLC11636583&id=KynqxH_4lGUC&pg=RA1-PA586&lpg=RA1-PA586 p. 586], "At a Court holden September 8th, 1636 and continued by adjournment to the 28th of the 8th month (October, 1636)... the Court agreed to give £400 towards a School or College, whereof £200 to be paid next year...." Tercentenary dates: {{cite news|url=http://www.time.com/time/magazine/printout/0,8816,756722,00.html|date=September 28, 1936|access-date=September 8, 2006|work=Time|title=Cambridge Birthday|url-status=dead|archive-url=https://archive.today/20121205054221/http://www.time.com/time/magazine/printout/0%2C8816%2C756722%2C00.html|archive-date=December 5, 2012}}: "Harvard claims birth on the day the Massachusetts Great and General Court convened to authorize its founding. This was Sept. 8, 1637 under the Julian calendar. Allowing for the ten-day advance of the Gregorian calendar, Tercentenary officials arrived at Sept. 18 as the date for the third and last big Day of the celebration;" "on Oct. 28, 1636 ... £400 for that 'school or college' [was voted by] the Great and General Court of the [[Massachusetts Bay Colony]]." Bicentennial date: {{cite web|url=http://www.news.harvard.edu/gazette/2003/10.02/02-history.html|publisher=Harvard University|title=Harvard Gazette: This Month in Harvard History|date=September 2, 2003|access-date=September 15, 2006|author=Marvin Hightower|url-status=dead|archive-url=https://web.archive.org/web/20060908144409/http://www.news.harvard.edu/gazette/2003/10.02/02-history.html|archive-date=September 8, 2006}}, "Sept. 8, 1836 – Some 1,100 to 1,300 alumni flock to Harvard's Bicentennial, at which a professional choir premieres "Fair Harvard." ... guest speaker Josiah Quincy Jr., Class of 1821, makes a motion, unanimously adopted, 'that this assembly of the Alumni be adjourned to meet at this place on September 8, 1936.'" Tercentary opening of Quincy's sealed package: ''The New York Times'', September 9, 1936, p. 24, "Package Sealed in 1836 Opened at Harvard. It Held Letters Written at Bicentenary": "September 8th, 1936: As the first formal function in the celebration of Harvard's tercentenary, the Harvard Alumni Association witnessed the opening by President Conant of the 'mysterious' package sealed by President Josiah Quincy at the Harvard bicentennial in 1836."</ref>
+| founder = [[Massachusetts General Court]]
+| language = Mostly English
+| former_names = [[Harvard College]]
+| mottoeng = Truth
+| type = [[Private university|Private]] [[research university]]
+| accreditation = [[New England Commission of Higher Education|NECHE]]
+| endowment = $53.2 billion (2021)<ref name="Endowment">{{cite web |last1=Ma |first1=Virginia |title=Harvard’s Endowment Soars to $53.2 Billion, Reports 33.6% Returns |url=https://www.thecrimson.com/article/2021/10/15/endowment-returns-soar-2021/ |website=The Harvard Crimson |access-date=October 14, 2021}}</ref>
+| president = [[Lawrence Bacow]]
+| provost = [[Alan Garber]]
+| students = 19,218 (Fall 2020)<ref name=CDS-B>{{cite web |title=Common Data Set 2020–2021 |url=https://oir.harvard.edu/files/huoir/files/harvard_cds_2020-2021.pdf |website=Office of Institutional Research |publisher=Harvard University |access-date=November 2, 2021}}</ref>
+| undergrad = 5,222 (Fall 2020)<ref name=CDS-B/>
+| postgrad = 13,996 (Fall 2020)<ref name=CDS-B/>
+| academic_staff = ~2,400 faculty members (and >10,400 academic appointments in affiliated teaching hospitals)<ref name = glance/>
+| city = [[Cambridge, Massachusetts|Cambridge]]
+| state = [[Massachusetts]]
+| country = United States
+| coordinates = {{Coord|42|22|28|N|71|07|01|W|region:US_type:edu|display=title,inline}}
+| campus = [[Urban area|Urban]]<br />{{Convert|209|acre|ha}}
+| athletics = [[NCAA Division I]] – [[Ivy League]]
+| nickname = [[Harvard Crimson]]
+| mascot = John Harvard
+| colors = {{color box|#A51C30}} [[Crimson]]<ref name = glance>{{cite web|title=Harvard at a Glance |url=http://www.harvard.edu/about-harvard/harvard-glance |publisher=Harvard University |access-date=December 26, 2019}}</ref>
+| academic_affiliations = [[National Association of Independent Colleges and Universities|NAICU]]<br />[[Association of Independent Colleges and Universities in Massachusetts|AICUM]]<br />[[Association of American Universities|AAU]]<br />[[Universities Research Association|URA]]<br />[[National Space Grant College and Fellowship Program|Space-grant]]
+| website = {{URL|harvard.edu}}
+| logo = File:Harvard University logo.svg
+| logo_alt = Logotype of Harvard University
+}}
+
+'''Harvard University''' is a [[Private university|private]] [[Ivy League]] [[research university]] in [[Cambridge, Massachusetts]]. Founded in 1636 as '''Harvard College''' and named for its first benefactor, the [[History of the Puritans in North America|Puritan]] clergyman [[John Harvard (clergyman)|John Harvard]], it is the oldest institution of higher learning in the United States and among the most prestigious<!-- see [https://en.wikipedia.org/?oldid=591304650#Use_of_the_word_prestigious] and [https://en.wikipedia.org/wiki/Talk:Harvard_University/Archive_3#RfC%3A_Is_%22Prestigious%22_an_acceptable_term_to_use_in_the_Lead] for extensive, prior discussions and RfCs on the mention of prestige --> in the world.<ref>
+*{{cite book|title=Making Harvard Modern: The Rise of America's University|url=https://archive.org/details/makingharvardmod0000kell|url-access=registration|last1=Keller |first1=Morton|last2=Keller|first2=Phyllis|publisher=Oxford University Press|isbn=0-19-514457-0|quote=Harvard's professional schools... won world prestige of a sort rarely seen among social institutions. [...] Harvard's age, wealth, quality, and prestige may well shield it from any conceivable vicissitudes.|year=2001|pages=[https://archive.org/details/makingharvardmod0000kell/page/463 463]–481}}
+*{{Cite book|title=How Harvard Rules: Reason in the Service of Empire|quote=... [Harvard's] tremendous institutional power and prestige [...] Within the nation's (arguably) most prestigious institution of higher learning ...|chapter=Sexual Shakedown|pages=[https://archive.org/details/howharvardrulesr00trum/page/326 326–336]|year=1989|publisher=South End Press|isbn=0-89608-284-9|editor1-first=John|last=Spaulding|first=Christina|editor-last=Trumpbour|chapter-url=https://archive.org/details/howharvardrulesr00trum/page/326}}
+*{{cite web |url=https://www.bloomberg.com/news/2011-03-10/harvard-mit-ranked-most-prestigious-universities-study-reports.html|title=Harvard, MIT Ranked Most Prestigious Universities, Study Reports|author=David Altaner|publisher=Bloomberg|date=March 9, 2011|access-date=March 1, 2012}}
+*{{cite book|title=Collier's Encyclopedia|publisher=Macmillan Educational Co. |year=1986|quote=Harvard University, one of the world's most prestigious institutions of higher learning, was founded in Massachusetts in 1636.}}
+*{{cite web |last=Newport|first=Frank |title=Harvard Number One University in Eyes of Public Stanford and Yale in second place |date=August 26, 2003 |url=http://www.gallup.com/poll/9109/harvard-number-one-university-eyes-public.aspx|publisher=Gallup}}
+*{{Cite news |last=Leonhardt |first=David |url=https://www.nytimes.com/2006/09/17/weekinreview/17leonhardt.html |title=Ending Early Admissions: Guess Who Wins? |date=September 17, 2006 |work=The New York Times |access-date=March 27, 2020 |language=en-US |issn=0362-4331 |quote=The most prestigious college in the world, of course, is Harvard, and the gap between it and every other university is often underestimated.}}
+*{{cite book |last1=Hoerr |first1=John |title=We Can't Eat Prestige: The Women Who Organized Harvard |year=1997 |url=https://archive.org/details/wecanteatprestig00hoer |url-access=registration |publisher=Temple University Press |page=[https://archive.org/details/wecanteatprestig00hoer/page/3 3]|isbn=9781566395359 }}
+*{{cite magazine |url=https://www.theatlantic.com/education/archive/2018/09/america-private-college-tuition/569812/ |title=At Private Colleges, Students Pay for Prestige |magazine=The Atlantic |last=Wong |first=Alia |date=September 11, 2018 |quote=Americans tend to think of colleges as falling somewhere on a vast hierarchy based largely on their status and brand recognition. At the top are the Harvards and the Stanfords, with their celebrated faculty, groundbreaking research, and perfectly manicured quads.}}
+</ref>
+
+The [[Massachusetts General Court|Massachusetts colonial legislature]] authorized Harvard's founding, "dreading to leave an illiterate [[Minister (Christianity)|ministry]] to the churches, when our present ministers shall lie in the dust"; though never formally affiliated with any [[Religious denomination|denomination]], in its early years [[Harvard College]] primarily trained [[Congregationalism in the United States|Congregational]] clergy. Its curriculum and student body were gradually secularized during the 18th century, and by the 19th century, it had emerged as the central cultural establishment among [[Boston Brahmin|the Boston elite]].<ref>{{cite journal|title=Harvard and the Boston Brahmins: A Study in Institutional and Class Development, 1800–1865|last=Story|first=Ronald|journal=Journal of Social History|volume=8|issue=3 |year=1975|pages=94–121|doi=10.1353/jsh/8.3.94}}</ref><ref>{{cite book|last=Farrell|first=Betty G.|title=Elite Families: Class and Power in Nineteenth-Century Boston|year=1993|isbn=0-7914-1593-7|publisher=State University of New York Press}}</ref>
+Following the [[American Civil War]], President [[Charles William Eliot]]'s long tenure (1869–1909) transformed the [[Harvard College|college]] and affiliated professional schools into a modern [[research university]]; Harvard became a founding member of the [[Association of American Universities]] in 1900.<ref name="AAU">{{cite web |url=http://www.aau.edu/about/article.aspx?id=5476|title=Member Institutions and years of Admission|publisher=Association of American Universities|access-date=August 28, 2010}}</ref> [[James B. Conant]] led the university through the [[Great Depression]] and [[World War II]]; he liberalized admissions after the war.
+
+The university is composed of ten academic faculties plus the [[Radcliffe Institute for Advanced Study]]. [[Harvard Faculty of Arts and Sciences|Arts and Sciences]] offers study in a wide range of [[academic discipline]]s for undergraduates and for graduates, while the other faculties offer only graduate degrees, mostly [[professional degree|professional]]. Harvard has three main campuses:<ref>{{cite web|url=http://www.provost.harvard.edu/institutional_research/09_03OrgChtFac.pdf|title=Faculties and Allied Institutions|publisher=Office of the Provost, Harvard University|access-date=August 27, 2010|url-status=dead|archive-url=https://web.archive.org/web/20100611155105/http://www.provost.harvard.edu/institutional_research/09_03OrgChtFac.pdf|archive-date=June 11, 2010}}</ref>
+the {{convert|209|acre|ha|adj=on}} Cambridge campus centered on [[Harvard Yard]]; an adjoining campus immediately across the [[Charles River]] in the [[Allston]] neighborhood of Boston; and the medical campus in Boston's [[Longwood Medical and Academic Area|Longwood Medical Area]].<ref name="Campus">{{cite web|url=http://www.provost.harvard.edu/institutional_research/harvard_fact_book_2012_physical_plant.pdf|title=Faculties and Allied Institutions|year=2012|publisher=Office of the Provost, Harvard University|access-date=June 15, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130523000940/http://www.provost.harvard.edu/institutional_research/harvard_fact_book_2012_physical_plant.pdf|archive-date=May 23, 2013}}</ref> [[Harvard University endowment|Harvard's endowment]] is valued at $53.2&nbsp;billion, making it the [[List of colleges and universities in the United States by endowment|largest of any academic institution]].<ref name="Endowment"/> Endowment income helps enable the undergraduate college to [[need-blind admission|admit students regardless of financial need]] and provide generous financial aid with no loans.<ref>{{cite web |last1=Kurt |first1=Daniel |title=What Harvard Actually Costs |url=https://www.investopedia.com/articles/personal-finance/123014/what-harvard-actually-costs.asp |website=Investopedia |access-date=July 30, 2020}}</ref> The [[Harvard Library]] is the world's largest academic library system, comprising 79 individual libraries holding about 20.4&nbsp;million items.<ref name=hlar>{{cite web|url=http://library.harvard.edu/annual-report-fy-2013|title=Harvard Library Annual Report FY 2013|publisher=Harvard University Library|date=2013|access-date=January 3, 2015|archive-url=https://web.archive.org/web/20160609122009/http://library.harvard.edu/annual-report-fy-2013|archive-date=June 9, 2016|url-status=dead}}</ref><ref name="largestlibs" />{{refn|name=speaking|{{cite news |publisher=The President and Fellows of Harvard College |date=February 26, 1998 |title=Speaking Volumes |work=Harvard Gazette |url=http://www.news.harvard.edu/gazette/1998/02.26/SpeakingVolumes.html |archive-url=https://web.archive.org/web/19990909205056/http://www.news.harvard.edu/gazette/1998/02.26/SpeakingVolumes.html |url-status=dead |archive-date=September 9, 1999 }} }}<ref name="Harvard Media Relations">{{cite web|title=Quick Facts|url=https://www.harvard.edu/media-relations/media-resources/quick-facts|access-date=December 12, 2019|author=Harvard Media Relations}}</ref>
+
+Harvard has more alumni, faculty, and researchers who have won [[List of Nobel laureates by university affiliation|Nobel Prizes]] (161) and [[Fields Medal]]s (18) than any other university in the world and more alumni who have been members of the [[United States Congress|U.S. Congress]], [[MacArthur Fellows]], [[Rhodes Scholarship|Rhodes Scholars]] (375), and [[Marshall Scholarship|Marshall Scholars]] (255) than any other university in the United States.<ref>
+*{{Cite web|author=Rachel Sugar|date=May 29, 2015|title=Where MacArthur 'Geniuses' Went to College|url=https://www.businessinsider.com/where-macarthur-geniuses-went-to-college-2015-5|access-date=November 5, 2020|website=businessinsider.com|language=en}}
+*{{Cite web|url=https://topproducing.fulbrightonline.org/|title=Top Producers|website=us.fulbrightonline.org|access-date=November 4, 2020}}
+*{{Cite web|url=http://www.marshallscholarship.org/about/statistics|title=Statistics|website=www.marshallscholarship.org|access-date=November 2, 2020}}
+*{{Cite web|url=https://www.rhodeshouse.ox.ac.uk/office-of-the-american-secretary/us-winners/colleges-and-universities-of-all-us-rhodes-scholars-over-time/|title=US Rhodes Scholars Over Time|website=www.rhodeshouse.ox.ac.uk|access-date=November 23, 2020}}
+*{{cite web|title=Harvard, Stanford, Yale Graduate Most Members of Congress|url=https://www.usnews.com/news/articles/2010/10/28/harvard-stanford-yale-graduate-most-members-of-congress}}
+*{{cite web|title=The complete list of Fields Medal winners|url=http://stats.areppim.com/listes/list_fieldsxmedal.htm|work=areppim AG|date=2014|access-date=September 10, 2015}}
+</ref> Its alumni include [[List of Presidents of the United States by education|eight U.S. presidents]] and [[List of universities by number of billionaire alumni|188 living billionaires]], the most of any university. Fourteen Turing Award laureates have been Harvard affiliates. Students and alumni have won 10 [[Academy Awards]], 48 [[Pulitzer Prize]]s, and [[List of American universities with Olympic medals|110 Olympic medals]] (46 gold), and they have founded [[List of companies founded by Harvard University alumni|many notable companies]].
+
+== History ==
+{{Main|History of Harvard University}}
+
+=== Colonial ===
+[[File:Harvard College Seal.png|upright=1|thumb|The seal of the [[Harvard Corporation]], found on Harvard diplomas. ''Christo et Ecclesiae'' ("For Christ and Church") is one of Harvard's several early mottoes.<ref name="Morison1968">{{cite book|author=Samuel Eliot Morison|title=The Founding of Harvard College|url=https://books.google.com/books?id=zkQWZaZqZfUC&pg=PA330|year=1968|publisher=Harvard University Press|isbn=978-0-674-31450-4|page=330}}</ref>]]
+[[File:A Westerly View of the Colledges in Cambridge New England by Paul Revere.jpeg|upright=1|thumb|Engraving of [[Harvard College]] by [[Paul Revere]], 1767]]
+Harvard was established in 1636 by vote of the Great and General Court of the [[Massachusetts Bay Colony]].
+In 1638, it acquired [[British North America]]'s first known printing press.<ref name="FirstPrintingPress">{{cite web|title=The instrument behind New England's first literary flowering|date=March 8, 2012|url=http://news.harvard.edu/gazette/story/2012/03/harvard's-first-impressions/|publisher=Harvard University|access-date=January 18, 2014}}</ref><ref name="UHullMHSC">{{cite web |title=Rowley and Ezekiel Rogers, The First North American Printing Press|url=http://www.hull.ac.uk/mhsc/FarHorizons/Documents/EzekielRogers.pdf|publisher=Maritime Historical Studies Centre, University of Hull|access-date=January 18, 2014}}</ref>
+In 1639, it was named [[Harvard College]] after deceased clergyman [[John Harvard (clergyman)|John Harvard]], an alumnus of the [[University of Cambridge]] who had left the school £779 and his library of some 400 volumes.<ref name="JH facts">{{cite web|title=John Harvard Facts, Information. |url=http://www.encyclopedia.com/topic/John_Harvard.aspx|publisher=The Columbia Encyclopedia, Sixth Edition. 2008|access-date=July 17, 2009|quote=He bequeathed £780 (half his estate) and his library of 320 volumes to the new established college at Cambridge, Mass., which was named in his honor.}}</ref>
+The charter creating the [[Harvard Corporation]] was granted in 1650.
+
+A 1643 publication gave the school's purpose as "to advance learning and perpetuate it to posterity, dreading to leave an illiterate ministry to the churches when our present ministers shall lie in the dust."<ref>{{cite book|first=Louis B. |last=Wright|title=The Cultural Life of the American Colonies|year=2002|page=116|isbn=978-0-486-42223-7}}</ref>
+It trained many Puritan ministers in its early years<ref name="GriggMancall2008">{{cite book|last1=Grigg|first1=John A.|last2=Mancall|first2=Peter C.|title=British Colonial America: People and Perspectives|url=https://books.google.com/books?id=6REfahE4TkwC&pg=PA47|year=2008|publisher=ABC-CLIO|isbn=978-1-59884-025-4|page=47}}</ref>
+and offered a classic curriculum based on the English university model{{mdashb}}many leaders in the colony had attended the [[University of Cambridge]]{{mdashb}}but conformed to the tenets of [[Puritanism]]. Harvard has never affiliated with any particular denomination, though many of its earliest graduates went on to become clergymen in Puritan churches.<ref>{{cite web|author=Harvard Office of News and Public Affairs |url=http://www.hno.harvard.edu/guide/intro/index.html|title=Harvard guide intro|publisher=Harvard University|date=July 26, 2007|access-date=August 29, 2010 |archive-url=https://web.archive.org/web/20070726133429/http://www.hno.harvard.edu/guide/intro/index.html|archive-date=July 26, 2007}}</ref>
+
+[[Increase Mather]] served as president from 1681 to 1701. In 1708, [[John Leverett the Younger|John Leverett]] became the first president who was not also a clergyman, marking a turning of the college away from Puritanism and toward intellectual independence.<ref>[http://www.president.harvard.edu/history/07_leverett.php John Leverett – History – Office of the President] {{webarchive | url=https://web.archive.org/web/20100612033858/http://www.president.harvard.edu/history/07_leverett.php | date=June 12, 2010}}</ref>
+
+=== 19th century ===
+
+[[File:John Harvard statue at Harvard University.jpg|thumb|[[John Harvard statue]], [[Harvard Yard]]]] <!-- please resist temptation to mention that it's not really a likeness of JH. Many statues are modeled after someone other than the nominal subject because, as with JH, no one knows what the subject looked like. This is adequately treated at [[Harvard Yard]] and need not be pointed out in the caption for every photo of the statue -->
+
+In the 19th century, [[Age of Enlightenment|Enlightenment]] ideas of reason and free will were widespread among [[Congregationalism in the United States|Congregational]] ministers, putting those ministers and their congregations in tension with more traditionalist, [[Calvinist]] parties.<ref name=Dorrien>Gary J. Dorrien.  [https://books.google.com/books?id=L50mveyi6WoC The Making of American Liberal Theology: Imagining Progressive Religion, 1805–1900, Volume 1]. Westminster John Knox Press, 2001</ref>{{rp|1–4}} When [[Hollis Chair of Divinity|Hollis Professor of Divinity]] David Tappan died in 1803 and [[President of Harvard University|President]] Joseph Willard died a year later, a struggle broke out over their replacements. [[Henry Ware (Unitarian)|Henry Ware]] was elected to the Hollis chair in 1805, and the liberal [[Samuel Webber]] was appointed to the presidency two years later, signaling the shift from the dominance of traditional ideas at Harvard to the dominance of liberal, [[Arminianism|Arminian]] ideas.<ref name=Dorrien />{{rp|4–5}}<ref>Peter S. Field [https://books.google.com/books?id=HXHbEWJacwwC Ralph Waldo Emerson: The Making of a Democratic Intellectual] Rowman & Littlefield, 2003 {{ISBN|978-0-8476-8842-5}}</ref>{{rp|24}}
+
+[[Charles William Eliot]], president 1869–1909, eliminated the favored position of Christianity from the curriculum while opening it to student self-direction. Though Eliot was the crucial figure in the secularization of American higher education, he was motivated not by a desire to secularize education but by [[Transcendentalism|Transcendentalist]] [[Unitarianism|Unitarian]] convictions influenced by [[William Ellery Channing]] and [[Ralph Waldo Emerson]].<ref>{{cite journal|first=Stephen P.|last=Shoemaker|title=The Theological Roots of Charles W. Eliot's Educational Reforms|journal=Journal of Unitarian Universalist History|year=2006–2007|volume=31|pages=30–45}}</ref>
+
+Programs in the study of [[French language|French]] and [[Spanish language|Spanish]] languages began in 1816 with [[George Ticknor]] as its first professor.
+
+=== 20th century ===
+[[File:Rummell, Richard Harvard University.jpg|thumb|right|upright=1.35|Richard Rummell's 1906 watercolor landscape view, facing northeast.<ref name="http://grahamarader.blogspot.com/2011/07/iconic-college-view-harvard-university.html">[http://grahamarader.blogspot.com/2011/07/iconic-college-view-harvard-university.html "Arader Galleries Iconic College Views"], ''Rummell, Richard'', Littig & Co. 1915</ref>]]
+
+In the 20th century, Harvard's reputation grew as a burgeoning endowment and prominent professors expanded the university's scope. Rapid enrollment growth continued as new graduate schools were begun and the [[Harvard College|undergraduate college]] expanded. [[Radcliffe College]], established in 1879 as the female counterpart of Harvard College, became one of the most prominent schools for women in the United States. Harvard became a founding member of the [[Association of American Universities]] in 1900.<ref name="AAU" />
+
+The student body in the early decades of the century was predominantly "old-stock, high-status Protestants, especially Episcopalians, Congregationalists, and Presbyterians." A 1923 proposal by President [[A. Lawrence Lowell]] that Jews be limited to 15% of undergraduates was rejected, but Lowell did ban blacks from freshman dormitories.<ref>{{cite book|author=Jerome Karabel|title=The Chosen: The Hidden History of Admission and Exclusion at Harvard, Yale, and Princeton|url=https://books.google.com/books?id=zwf-Ofc--toC&pg=PA23|year=2006|page=23|isbn=978-0-618-77355-8}}</ref><ref>{{cite journal|last1=Steinberg|first1=Stephen|title=How Jewish Quotas Began|journal=Commentary|date=September 1, 1971|url=https://www.commentarymagazine.com/articles/how-jewish-quotas-began/|access-date=September 10, 2017}}</ref><ref>{{cite news|last1=Johnson|first1=Dirk|title=YALE'S LIMIT ON JEWISH ENROLLMENT LASTED UNTIL EARLY 1960'S, BOOK SAYS|url=https://www.nytimes.com/1986/03/04/nyregion/yale-s-limit-on-jewish-enrollment-lasted-until-early-1960-s-book-says.html|newspaper=The New York Times|date=March 4, 1986}}</ref><ref>{{cite news|title=Lowell Tells Jews Limits at Colleges Might Help Them|url=https://timesmachine.nytimes.com/timesmachine/1922/06/17/109843455.html|newspaper=The New York Times|date=June 17, 1922}}</ref>
+
+President [[James B. Conant]] reinvigorated creative scholarship to guarantee Harvard's preeminence among research institutions. He saw higher education as a vehicle of opportunity for the talented rather than an entitlement for the wealthy, so Conant devised programs to identify, recruit, and support talented youth. In 1943, he asked the faculty to make a definitive statement about what general education ought to be, at the secondary as well as at the college level. The resulting ''Report'', published in 1945, was one of the most influential manifestos in 20th century American education.<ref>Anita Fay Kravitz, "The Harvard Report of 1945: An historical ethnography", Ph.D. dissertation, University of Pennsylvania, 1994, 367 pages; AAT 9427558</ref>
+
+Between 1945 and 1960, admissions were opened up to bring in a more diverse group of students. No longer drawing mostly from select New England [[University-preparatory school|prep schools]], the [[Harvard College|undergraduate college]] became accessible to striving middle class students from public schools; many more Jews and Catholics were admitted, but few blacks, Hispanics, or Asians.<ref>Malka A. Older. (1996). [http://www.thecrimson.com/article.aspx?ref=217911 Preparatory schools and the admissions process]. [[The Harvard Crimson]], January 24, 1996</ref>
+Throughout the rest of the 20th century, Harvard became more diverse.<ref>{{cite news|last1=Powell|first1=Alvin|title=An update on Harvard's diversity, inclusion efforts|url=https://news.harvard.edu/gazette/story/2018/10/an-update-on-harvards-diversity-and-inclusion-efforts/|newspaper=The Harvard Gazette|date=October 1, 2018}}</ref>
+
+Harvard's graduate schools began admitting women in small numbers in the late 19th century. During World War II, students at [[Radcliffe College]] (which since 1879 had been paying Harvard professors to repeat their lectures for women) began attending Harvard classes alongside men.<ref>{{cite book|first=Sally|last=Schwager|chapter=Taking up the Challenge: The Origins of Radcliffe|title=Yards and Gates: Gender in Harvard and Radcliffe History|editor=Laurel Thatcher Ulrich|location=New York|publisher=Palgrave Macmillan|year=2004|isbn=1-4039-6098-4|page=115}}</ref>
+Women were first admitted to the [[Harvard Medical School|medical school]] in 1945.<ref name="First class of women admitted to Harvard Medical School, 1945">{{cite report |title=First class of women admitted to Harvard Medical School, 1945 |publisher=Countway Repository, Harvard University Library |url=http://repository.countway.harvard.edu/xmlui/handle/10473/1782 |access-date=May 2, 2016}}</ref>
+Since 1971, Harvard has controlled essentially all aspects of undergraduate admission, instruction, and housing for Radcliffe women. In 1999, Radcliffe was formally merged into Harvard.<ref>{{cite report |title=Radcliffe Enters Historic Merger With Harvard |url=http://www.thecrimson.com/article/1999/4/21/radcliffe-enters-historic-merger-with-harvard |access-date=May 6, 2016}}</ref>
+
+=== 21st century ===
+[[Drew Gilpin Faust]], previously the dean of the [[Radcliffe Institute for Advanced Study]], became Harvard's first female president on July 1, 2007.<ref>{{cite journal|last1=Associated Press|title=Harvard Board Names First Woman President|date=February 11, 2007 |url=http://www.nbcnews.com/id/17103390/ns/us_news-education/t/harvard-board-names-first-woman-president/|access-date=August 8, 2015|journal=NBC News}}</ref>
+She was succeeded by [[Lawrence Bacow]] on July 1, 2018.<ref>{{Cite news|url=http://www.foxnews.com/us/2018/02/11/harvard-university-names-lawrence-bacow-its-29th-president.html|title=Harvard University names Lawrence Bacow its 29th president|date=February 11, 2018|work=Fox News|access-date=February 15, 2018|language=en-US}}</ref>
+
+== Campuses ==
+
+=== Cambridge ===
+[[File:Sanders theater 2009y.JPG|thumb|left|[[Memorial Hall (Harvard University)|Memorial Hall]]]]
+[[File:harvard memorial church winter 2009.JPG|thumb|upright|[[Memorial Church of Harvard University|Memorial Church]] ]]
+
+Harvard's {{convert|209|acre|ha|adj=on}} main campus is centered on [[Harvard Yard]] ("the Yard") in Cambridge, about {{convert|3|mi|km|0}} west-northwest of downtown [[Boston]], and extends into the surrounding [[Harvard Square]] neighborhood. The Yard contains administrative offices such as [[University Hall (Harvard University)|University Hall]] and [[Massachusetts Hall (Harvard University)|Massachusetts Hall]]; libraries such as [[Widener Library|Widener]], [[Pusey Library|Pusey]], [[Houghton Library|Houghton]], and [[Lamont Library|Lamont]]; and [[Memorial Church of Harvard University|Memorial Church]].
+
+The Yard and adjacent areas include the main academic buildings of the [[Harvard Faculty of Arts and Sciences|Faculty of Arts and Sciences]], including the College, such as [[Sever Hall]] and [[Harvard Hall (Harvard University)|Harvard Hall]].
+
+[[List of Harvard dormitories|Freshman dormitories]] are in the Yard or nearby. Sophomore, junior, and senior undergraduates live in twelve [[Harvard House system|residential houses]], nine of which are south of the Yard along or near the [[Charles River]]. The other three are located half a mile northwest of the Yard at the [[Quadrangle (Harvard)|Quadrangle]] (the "Quad") which formerly housed [[Radcliffe College]] students. Each residential house is a community with undergraduates, faculty deans, and resident tutors, as well as a dining hall, library, and recreational spaces.<ref>{{cite web |url=https://dso.college.harvard.edu/houses |title=The Houses |publisher=Harvard College Dean of Students Office |access-date=December 13, 2019}}</ref>
+
+Also in Cambridge are the [[Harvard Law School|Law]], [[Harvard Divinity School|Divinity]] (theology), [[Harvard John A. Paulson School of Engineering and Applied Sciences|Engineering and Applied Science]], [[Harvard Graduate School of Design|Design]] (architecture), [[Harvard Graduate School of Education|Education]], [[Harvard Kennedy School|Kennedy]] (public policy), and [[Harvard Extension School|Extension]] schools, as well as the [[Radcliffe Institute for Advanced Study]] in [[Radcliffe Yard]].<ref>[https://www.radcliffe.harvard.edu/ Radcliffe Institute for Advanced Study at Harvard]. Radcliffe Institute for Advanced Study at Harvard. President and Fellows of Harvard College. 2016. Retrieved October 10, 2016</ref>
+
+Harvard has commercial real estate holdings in Cambridge.<ref>{{cite web|url=http://www.cambridgema.gov/~/media/Files/CDD/Maps/Institutions/cddmap_institutions_ownership.pdf|title=Institutional Ownership Map – Cambridge Massachusetts}}</ref><ref>{{cite web|url=http://www.thecrimson.com/article/2005/1/7/harvard-purchases-doubletree-hotel-in-the/|title=Harvard Purchases Doubletree Hotel Building – News – The Harvard Crimson|website=www.thecrimson.com}}</ref>
+
+=== Allston ===
+{{See also|Harvard University's expansion in Allston, Massachusetts}}
+[[Harvard Business School]], [[Harvard Innovation Labs]], and many athletics facilities, including [[Harvard Stadium]], are located on a {{convert|358|acre|ha|adj=on}} campus in [[Allston]],<ref>[https://www.bostonglobe.com/business/2016/04/13/harvard-continues-its-march-into-allston-with-science-complex/7EVJQcLlS3XtbzKnGegR9M/story.html Harvard continues its march into Allston, with science complex] Tim Logan. Boston Globe. April 14, 2016. Retrieved September 30, 2016</ref>
+a Boston neighborhood just across the [[Charles River]] from the Cambridge campus. The [[John W. Weeks Bridge]], a pedestrian bridge over the Charles River, connects the two campuses.
+
+The university is actively expanding into Allston, where it now owns more land than in Cambridge.<ref>{{cite web |url=http://evp.harvard.edu/allston-planning-and-development|title=Allston Planning and Development / Office of the Executive Vice President|publisher=Harvard University|access-date=September 7, 2016}}</ref>
+Plans include new construction and renovation for the Business School, a hotel and conference center, graduate student housing, Harvard Stadium, and other athletics facilities.<ref>[https://www.reuters.com/article/us-harvard-expansion-idUSN1110846820070112 Harvard unveils big campus expansion] Svea Herbst-Bayliss. Reuters. January 12, 2007. Retrieved September 30, 2016</ref>
+
+In 2021, the [[Harvard John A. Paulson School of Engineering and Applied Sciences]] will expand into a new, 500,000+ square foot Science and Engineering Complex (SEC) in Allston.<ref>{{cite web |last1=O'Rourke |first1=Brigid |title=SEAS moves opening of Science and Engineering Complex to spring semester '21 |url=https://news.harvard.edu/gazette/story/2020/04/opening-of-new-science-and-engineering-complex-moves-to-spring-21/ |website=The Harvard Gazette |date=April 10, 2020 |access-date=May 14, 2020}}</ref>
+The SEC will be adjacent to the Enterprise Research Campus, the Business School, and the Harvard Innovation Labs to encourage technology- and life science-focused startups as well as collaborations with mature companies.<ref>{{cite web | url=https://www.seas.harvard.edu/about-us/our-campus/allston | title=Our Campus| access-date=December 20, 2019}}</ref>
+
+=== Longwood ===
+{{See also|Longwood Medical and Academic Area}}
+[[File:Harvard Medical School HDR.jpg|thumb|upright=1.5|[[Harvard Medical School]]]]
+The schools of [[Harvard Medical School|Medicine]], [[Harvard School of Dental Medicine|Dental Medicine]], and [[Harvard T.H. Chan School of Public Health|Public Health]] are located on a {{convert|21|acre|ha|adj=on}} campus in the Longwood Medical and Academic Area in Boston, about {{convert|3.3|mi|km}} south of the Cambridge campus.<ref name="Campus" />
+Several Harvard-affiliated hospitals and research institutes are also in Longwood, including [[Beth Israel Deaconess Medical Center]], [[Boston Children's Hospital]], [[Brigham and Women's Hospital]], [[Dana–Farber Cancer Institute]], [[Joslin Diabetes Center]], and the [[Wyss Institute for Biologically Inspired Engineering]]. Additional affiliates, most notably [[Massachusetts General Hospital]], are located throughout the Greater Boston area.
+
+=== Other ===
+Harvard owns the [[Dumbarton Oaks|Dumbarton Oaks Research Library and Collection]] in [[Washington, D.C.]], the [[Harvard Forest]] in [[Petersham, Massachusetts]], the Concord Field Station in [[Estabrook Woods]] in [[Concord, Massachusetts]],<ref>{{cite web|website=mcz.harvard.edu|url=http://cfs.mcz.harvard.edu/|title=Concord Field Station|publisher=Harvard University|access-date=March 4, 2017}}</ref>
+the [[Villa I Tatti]] research center in [[Florence]], Italy,<ref>{{cite web|url=http://www.itatti.it/|title=Villa I Tatti: The Harvard University Center for Italian Renaissance Studies|publisher=Itatti.it|access-date=June 30, 2010}}</ref>
+the Harvard Shanghai Center in [[Shanghai]], China,<ref>{{cite web|website=Harvard.edu|title=Shanghai Center|url=http://shanghaicenter.harvard.edu/}}</ref>
+and the [[Arnold Arboretum]] in the [[Jamaica Plain, Massachusetts|Jamaica Plain]] neighborhood of Boston.
+
+== Organization and administration ==
+[[File:USA-Harvard University.jpg|thumb|upright=0.75|University seal]]
+
+=== Governance ===
+
+{|class="toccolours" style="float:right; margin-left:1em; font-size:90%; line-height:1.4em; width:280px;"
+|- style="text-align:center;"
+| '''School''' || '''Founded'''
+|- style="text-align:center;"
+| [[Harvard College]] || 1636
+|- style="text-align:center;"
+| [[Harvard Medical School|Medicine]] || 1782
+|- style="text-align:center;"
+| [[Harvard Divinity School|Divinity]] || 1816
+|- style="text-align:center;"
+| [[Harvard Law School|Law]] || 1817
+|- style="text-align:center;"
+| [[Harvard School of Dental Medicine|Dental Medicine]] || 1867
+|- style="text-align:center;"
+| [[Harvard Graduate School of Arts and Sciences|Arts and Sciences]] || 1872
+|- style="text-align:center;"
+| [[Harvard Business School|Business]] || 1908
+|- style="text-align:center;"
+| [[Harvard Extension School|Extension]] || 1910
+|- style="text-align:center;"
+| [[Harvard Graduate School of Design|Design]] || 1914
+|- style="text-align:center;"
+| [[Harvard Graduate School of Education|Education]] || 1920
+|- style="text-align:center;"
+| [[Harvard T.H. Chan School of Public Health|Public Health]] || 1922
+|- style="text-align:center;"
+| [[John F. Kennedy School of Government|Government]]|| 1936
+|- style="text-align:center;"
+| [[Harvard John A. Paulson School of Engineering and Applied Sciences|Engineering and Applied Sciences]] || 2007
+|}
+
+Harvard is governed by a combination of its [[Harvard Board of Overseers|Board of Overseers]] and the [[President and Fellows of Harvard College]] (also known as the Harvard Corporation), which in turn appoints the [[President of Harvard University]].<ref name="BethellHunt2009p">{{cite book|last1=Bethell|first1=John T.|last2=Hunt|first2=Richard M.|last3=Shenton|first3=Robert|title=Harvard A to Z|url=https://books.google.com/books?id=WGrBJFRw1GsC&pg=PA166|year=2009|publisher=Harvard University Press|isbn=978-0-674-02089-4|pages=166–}}</ref>
+There are 16,000 staff and faculty,<ref>Burlington Free Press, June 24, 2009, page 11B, ""Harvard to cut 275 jobs" Associated Press</ref>
+including 2,400 professors, lecturers, and instructors.<ref>{{cite book|last=Office of Institutional Research|title=Harvard University Fact Book 2009–2010|year=2009|url=http://www.provost.harvard.edu/institutional_research/Provost_-_Harvard_Fact_Book_2009-10_FINAL_new.pdf|url-status=dead|archive-url=https://web.archive.org/web/20110723162517/http://www.provost.harvard.edu/institutional_research/Provost_-_Harvard_Fact_Book_2009-10_FINAL_new.pdf|archive-date=July 23, 2011}} ("Faculty")</ref>
+
+The [[Harvard Faculty of Arts and Sciences|Faculty of Arts and Sciences]] is the largest Harvard faculty and has primary responsibility for instruction in [[Harvard College]], the [[Harvard Graduate School of Arts and Sciences|Graduate School of Arts and Sciences]], the [[Harvard John A. Paulson School of Engineering and Applied Sciences|John A. Paulson School of Engineering and Applied Sciences (SEAS)]], and the [[Harvard Division of Continuing Education|Division of Continuing Education]], which includes [[Harvard Summer School]] and [[Harvard Extension School]]. There are nine other graduate and professional faculties as well as the [[Radcliffe Institute for Advanced Study]].
+
+Joint programs with the [[Massachusetts Institute of Technology]] include the [[Harvard–MIT Program in Health Sciences and Technology]], the [[Broad Institute]], [[The Observatory of Economic Complexity]], and [[edX]].
+
+=== Endowment ===
+{{Main|Harvard University endowment}}
+
+Harvard has the largest [[List of colleges and universities in the United States by endowment|university endowment]] in the world, valued at about $41.9&nbsp;billion as of 2020.<ref name="Endowment"/>
+During the [[Great Recession|recession of 2007–2009]], it suffered significant losses that forced large budget cuts, in particular temporarily halting construction on the Allston Science Complex.<ref>{{cite news|access-date=February 10, 2011 |url=http://www.thecrimson.com/article/2009/3/5/residents-protest-vacancies-in-allston-span/|date=March 5, 2009|title=Residents Protest Vacancies in Allston|newspaper=Harvard Crimson |author=Vidya B. Viswanathan and Peter F. Zhu}}</ref>
+The endowment has since recovered.<ref>{{cite magazine|title=Harvard Endowment Rises $4.4 Billion to $32 Billion|magazine=Harvard Magazine|year=2011|volume=November–December|url=http://harvardmagazine.com/2011/09/harvard-endowment-rises-to-32-billion|access-date=December 13, 2011}}</ref><ref>{{cite news |url=https://www.boston.com/business/markets/articles/2010/01/28/harvard_endowment_leads_others_down/|title=Harvard endowment leads others down|author=Beth Healy|date=January 28, 2010 |newspaper=The Boston Globe |access-date=September 2, 2010}}</ref><ref>{{cite news|work=[[The Wall Street Journal]]|first=John|last=Hechinger|title=Harvard Hit by Loss as Crisis Spreads to Colleges|page=A1|date=December 4, 2008}}</ref><ref name="vanity">{{cite web |last=Munk|first=Nina|url=https://www.vanityfair.com/politics/features/2009/08/harvard200908?printable=true&currentPage=all|title=Nina Munk on Hard Times at Harvard|work=Vanity Fair|date=August 2009 |access-date=August 29, 2010}}</ref><ref name="ForbesUndEnd">{{cite news|author=Andrew M. Rosenfield |url=https://www.forbes.com/2009/03/03/harvard-university-investment-opinions-contributors_endowment_print.html|title=Understanding Endowments, Part I|work=Forbes|date=March 4, 2009 |access-date=August 29, 2010}}</ref>
+
+About $2&nbsp;billion of investment income is annually distributed to fund operations.<ref name = "about endowment">{{cite web |url=https://www.hmc.harvard.edu/about/|title=A Singular Mission |access-date=December 14, 2019}}</ref>
+Harvard's ability to fund its degree and financial aid programs depends on the performance of its endowment; a poor performance in fiscal year 2016 forced a 4.4% cut in the number of graduate students funded by the [[Harvard Faculty of Arts and Sciences|Faculty of Arts and Sciences]].<ref>{{cite web |url=https://www.thecrimson.com/article/2017/2/16/gsas-admissions-reaction/|title=Admissions Cuts Concern Some Graduate Students |access-date=December 14, 2019}}</ref>
+Endowment income is critical, as only 22% of revenue is from students' tuition, fees, room, and board.<ref>{{cite web |url=https://finance.harvard.edu/files/fad/files/fy19_harvard_financial_report.pdf|title=Financial Report |access-date=December 14, 2019}}</ref>
+
+==== Divestment ====
+{{See also|Financial endowment#Criticism and reforms}}
+
+Since the 1970s, several student-led campaigns have advocated [[divestment|divesting]] Harvard's endowment from controversial holdings, including investments in [[apartheid]] [[South Africa]], [[Sudan]] during the [[Darfur genocide]], and the [[tobacco industry|tobacco]], [[fossil fuel]], and [[private prison]] industries.<ref>{{cite magazine|last1=Alli Welton|title=Harvard Students Vote 72 Percent Support for Fossil Fuel Divestment|magazine=The Nation|date=November 20, 2012|url=http://www.thenation.com/article/harvard-students-vote-72-percent-support-fossil-fuel-divestment/|access-date=July 27, 2015}}</ref><ref>{{cite news|first=Alexandra A.|last=Chaidez|title=Harvard Prison Divestment Campaign Delivers Report to Mass. Hall
+|newspaper=The Harvard Crimson|date=October 22, 2019|url=https://www.thecrimson.com/article/2019/10/22/prison-divestment-petition/|access-date=December 15, 2019}}</ref>
+
+In the late 1980s, during the [[divestment from South Africa]] movement, student activists erected a symbolic "shantytown" on Harvard Yard and blockaded a speech by South African Vice Consul Duke Kent-Brown.<ref name="GeorgeKaufman2012">{{cite news|last1=Michael C. George|last2=David W. Kaufman|title=Students Protest Investment in Apartheid South Africa|newspaper=The Harvard Crimson|date=May 23, 2012|url=http://www.thecrimson.com/article/2012/5/23/Protest-Divestment-Apartheid/?page=single|access-date=July 27, 2015}}</ref><ref>{{cite web|last1=Anjali Cadambi|title=Harvard University community campaigns for divestment from apartheid South Africa, 1977–1989|website=Global Nonviolent Action Database|date=September 19, 2010 |url=http://nvdatabase.swarthmore.edu/content/harvard-university-community-campaigns-divestment-apartheid-south-africa-1977-1989|access-date=July 27, 2015}}</ref>
+The university eventually reduced its South African holdings by $230&nbsp;million (out of $400&nbsp;million) in response to the pressure.<ref name="GeorgeKaufman2012" /><ref name="Waters2009">{{cite book|author=Robert Anthony Waters Jr.|title=Historical Dictionary of United States-Africa Relations|url=https://books.google.com/books?id=LQzZ0hhvGZAC&pg=PA77|date=March 20, 2009|publisher=Scarecrow Press|isbn=978-0-8108-6291-3|page=77}}</ref>
+
+== Academics ==
+
+=== Teaching and learning ===
+[[File:Massachusetts Hall, Harvard University.JPG|thumb|[[Massachusetts Hall, Harvard University|Massachusetts Hall]] (1720), Harvard's oldest building<ref>{{cite web|url=http://www.college.harvard.edu/icb/icb.do?keyword=k61161&tabgroupid=icb.tabgroup85886|title=A Brief History of Harvard College|author=Harvard College|publisher=Harvard College|access-date=July 25, 2011|author-link=Harvard College|archive-url=https://web.archive.org/web/20110424033857/http://college.harvard.edu/icb/icb.do?keyword=k61161&tabgroupid=icb.tabgroup85886|archive-date=April 24, 2011|url-status=dead}}</ref>]]
+[[File:HarvardYard.jpg|thumb|right|[[Harvard Yard]]]]
+
+Harvard is a large, highly residential research university<ref name="Carnegie">{{cite web|url=http://carnegieclassifications.iu.edu/lookup/view_institution.php?unit_id=166027 |title=Carnegie Classifications – Harvard University|publisher=The Carnegie Foundation for the Advancement of Teaching|access-date=August 28, 2010}}</ref>
+offering 50 [[Harvard College|undergraduate]] majors,<ref name = "liberal">{{cite web|url=https://college.harvard.edu/academics/liberal-arts-sciences|title=Liberal Arts & Sciences
+|publisher=Harvard College|access-date=December 12, 2019}}</ref>
+134 graduate degrees,<ref>{{cite web|url=http://www.gsas.harvard.edu/images/stories/pdfs/handbook.pdf|title=Degree Programs|work=Graduate School of Arts and Sciences Handbook|pages=28–30|access-date=August 28, 2010|url-status=dead|archive-url=https://web.archive.org/web/20150909232153/http://www.gsas.harvard.edu/images/stories/pdfs/handbook.pdf|archive-date=September 9, 2015}}</ref>
+and 32 professional degrees.<ref name="Degrees" />
+For the 2018–2019 academic year, Harvard granted 1,665 baccalaureate degrees, 1,013 graduate degrees, and 5,695 professional degrees.<ref name="Degrees">{{cite web|title=Degrees Awarded|url=https://oir.harvard.edu/fact-book/degrees-awarded-summary|publisher=Office of Institutional Research, Harvard University|access-date=December 13, 2019}}</ref>
+
+{{main article|Harvard College}}
+The four-year, full-time undergraduate program has a [[liberal arts education|liberal arts and sciences]] focus.<ref name="Carnegie" /><ref name = "liberal"/>
+To graduate in the usual four years, undergraduates normally take four courses per semester.<ref>{{cite web|url=https://handbook.fas.harvard.edu/book/bachelor-arts-and-bachelor-science-degrees|title=The Bachelor of Arts and Bachelor of Science Degrees|publisher=Harvard College|access-date=December 8, 2019}}</ref>
+In most majors, an honors degree requires advanced coursework and a senior thesis.<ref>{{cite web|url=http://isites.harvard.edu/icb/icb.do?keyword=k69286&pageid=icb.page343095|archive-url=https://wayback.archive-it.org/all/20101205233358/http://isites.harvard.edu/icb/icb.do?keyword=k69286&pageid=icb.page343095|url-status=dead|archive-date=December 5, 2010|title=Academic Information: The Concentration Requirement|work=Handbook for Students|publisher=Harvard College|access-date=August 28, 2010}}</ref>
+Though some introductory courses have large enrollments, the median class size is 12 students.<ref>{{cite web|url=https://college.harvard.edu/resources/faq/how-large-are-classes|title=How large are classes?|publisher=Harvard College |access-date=December 14, 2019}}</ref>
+<!--ESTEEMED FELLOW EDITORS: here let's something on GSAS/FAS and something on each professional school -- possibly a paragraph each, possibly a subsection each -->
+
+=== Research ===
+Harvard is a founding member of the [[Association of American Universities]]<ref>{{cite web |url=http://www.aau.edu/about/default.aspx?id=5476 |title=Member Institutions and Years of Admission |publisher=Association of American Universities |access-date=September 15, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20121028050512/http://www.aau.edu/about/default.aspx?id=5476 |archive-date=October 28, 2012 }}</ref> and a preeminent research university with "very high" research activity (R1) and comprehensive doctoral programs across the arts, sciences, engineering, and medicine according to the Carnegie Classification.<ref name="Carnegie" />
+
+With the [[Harvard Medical School|medical school]] consistently ranking first among medical schools for research,<ref>{{cite magazine |url=https://www.usnews.com/best-graduate-schools/top-medical-schools/research-rankings |title=Best Medical Schools: Research |magazine=U.S. News & World Report |access-date=December 8, 2019}}</ref> biomedical research is an area of particular strength for the university. More than 11,000 faculty and over 1,600 graduate students conduct research at the medical school as well as its 15 affiliated hospitals and research institutes.<ref>{{cite web |url=https://hms.harvard.edu/research |title=Research at Harvard Medical School |publisher=Harvard Medical School |access-date=December 9, 2019}}</ref> The medical school and its affiliates attracted $1.65&nbsp;billion in competitive research grants from the [[National Institutes of Health]] in 2019, more than twice as much as any other university.<ref>{{cite web |title=Which schools get the most research money? |url=https://www.usnews.com/best-graduate-schools/top-medical-schools/most-research-money-rankings |website=U.S. News & World Report |access-date=March 30, 2020}}</ref>
+
+=== Libraries and museums ===
+[[File:Widener Library.jpg|thumb|upright=1.2|[[Widener Library]] anchors the [[Harvard Library]] system.]]
+
+The [[Harvard Library]] system is centered in [[Widener Library]] in [[Harvard Yard]] and comprises nearly 80 individual libraries holding about 20.4&nbsp;million items.<ref name=hlar /><ref name="largestlibs" /><ref name="Harvard Media Relations"/>
+According to the [[American Library Association]], this makes it the largest academic library in the world.<ref name="largestlibs">{{cite web|url=http://www.ala.org/ala/professionalresources/libfactsheets/alalibraryfactsheet22.cfm|title=The Nation's Largest Libraries: A Listing By Volumes Held|date=May 2009|access-date=August 19, 2009|publisher=American Library Association}}</ref><ref name = glance/>
+
+Houghton Library, the Arthur and Elizabeth Schlesinger Library on the History of Women in America, and the Harvard University Archives consist principally of rare and unique materials. America's oldest collection of maps, gazetteers, and atlases both old and new is stored in Pusey Library and open to the public. The largest collection of [[East Asia|East-Asian]] language material outside of East Asia is held in the [[Harvard-Yenching Library]].[[File:Henry Moore sculpture, Harvard University.jpg|thumb|[[Henry Moore]]'s sculpture ''Large Four Piece Reclining Figure'', near Lamont Library|left]]
+
+The [[Harvard Art Museums]] comprise three museums. The [[Arthur M. Sackler Museum]] covers Asian, Mediterranean, and Islamic art, the [[Busch–Reisinger Museum]] (formerly the Germanic Museum) covers central and northern European art, and the [[Fogg Museum]] covers Western art from the Middle Ages to the present emphasizing Italian [[Early Renaissance painting|early Renaissance]], British [[pre-Raphaelite]], and 19th-century French art. The [[Harvard Museum of Natural History]] includes the [[Harvard Mineralogical Museum]], the [[Harvard University Herbaria]] featuring the [[Leopold and Rudolf Blaschka|Blaschka]] [[Glass Flowers]] exhibit, and the [[Museum of Comparative Zoology]]. Other museums include the [[Carpenter Center for the Visual Arts]], designed by [[Le Corbusier]] and housing the film archive, the [[Peabody Museum of Archaeology and Ethnology]], specializing in the cultural history and civilizations of the Western Hemisphere, and the [[Harvard Museum of the Ancient Near East]] featuring artifacts from excavations in the [[Middle East]].
+
+===Reputation and rankings ===
+{{Infobox US university ranking
+| ARWU_NU = 1
+| Forbes = 7
+| USNWR_NU = 2
+| Wamo_NU = 5
+| THE_WSJ = 1
+| ARWU_W = 1
+| QS_W = 5
+| THES_W = 2
+| USNWR_W = 1
+}}
+
+{| class="wikitable sortable collapsible collapsed floatright" "text-align:center"
+|-
+! colspan=4 style="{{CollegePrimaryStyle|Harvard Crimson|color=white}}" |National Graduate Rankings<ref>{{cite web |title=Harvard University's Graduate School Rankings |url=https://www.usnews.com/best-graduate-schools/harvard-university-166027/overall-rankings |website=U.S. News & World Report |access-date=April 27, 2020}}</ref>
+|-
+! Program
+! Ranking
+|-
+| Biological Sciences || 4
+|-
+| Business || 6
+|-
+| Chemistry || 2
+|-
+| Clinical Psychology || 10
+|-
+| Computer Science || 16
+|-
+| Earth Sciences || 8
+|-
+| Economics || 1
+|-
+| Education || 1
+|-
+| Engineering || 22
+|-
+| English || 8
+|-
+| History || 4
+|-
+| Law || 3
+|-
+| Mathematics || 2
+|-
+| Medicine: Primary Care || 10
+|-
+| Medicine: Research || 1
+|-
+| Physics || 3
+|-
+| Political Science || 1
+|-
+| Psychology || 3
+|-
+| Public Affairs || 3
+|-
+| Public Health || 2
+|-
+| Sociology || 1
+|}
+
+{| class="wikitable sortable collapsible collapsed floatright" "text-align:center"
+|-
+! colspan=4 style="{{CollegePrimaryStyle|Harvard Crimson|color=white}}" |Global Subject Rankings<ref name="USNWR Global Univ Rankings">{{cite magazine|title=Harvard University – U.S. News Global University Rankings|magazine=U.S. News & World Report|access-date=April 27, 2020|url=https://www.usnews.com/education/best-global-universities/harvard-university-166027}}</ref>
+|-
+! Program
+! Ranking
+|-
+| Agricultural Sciences || 22
+|-
+| Arts & Humanities || 2
+|-
+| Biology & Biochemistry || 1
+|-
+| Cardiac & Cardiovascular Systems || 1
+|-
+| Chemistry || 15
+|-
+| Clinical Medicine || 1
+|-
+| Computer Science || 47
+|-
+| Economics & Business || 1
+|-
+| Electrical & Electronic Engineering || 136
+|-
+| Engineering || 27
+|-
+| Environment/Ecology || 5
+|-
+| Geosciences || 7
+|-
+| Immunology || 1
+|-
+| Materials Science || 7
+|-
+| Mathematics || 12
+|-
+| Microbiology || 1
+|-
+| Molecular Biology & Genetics || 1
+|-
+| Neuroscience & Behavior || 1
+|-
+| Oncology || 1
+|-
+| Pharmacology & Toxicology || 1
+|-
+| Physics || 4
+|-
+| Plant & Animal Science || 13
+|-
+| Psychiatry/Psychology || 1
+|-
+| Social Sciences & Public Health || 1
+|-
+| Space Science || 2
+|-
+| Surgery || 1
+|}
+Among overall rankings, the ''[[Academic Ranking of World Universities]]'' (''ARWU'') has ranked Harvard as the world's top university every year since it was released.<ref name="ARWU">{{cite web|url=http://www.shanghairanking.com/World-University-Rankings/Harvard-University.html
+|title=Academic Ranking of World Universities——Harvard University Ranking Profile|publisher=Shanghai Ranking Consultancy|access-date=July 29, 2018}}</ref>
+When ''QS'' and ''[[Times Higher Education]]'' collaborated to publish the ''[[Times Higher Education–QS World University Rankings]]'' from 2004 to 2009, Harvard held the top spot every year and continued to hold first place on ''[[World Reputation Rankings|THE World Reputation Rankings]]'' ever since it was released in 2011.<ref>{{cite magazine|url=https://www.timeshighereducation.com/world-university-rankings/2016/reputation-ranking#!/page/0/length/25/sort_by/rank_label/sort_order/asc/cols/rank_only|magazine=[[Times Higher Education]]|title=World Reputation Rankings 2016|year=2016|access-date=September 7, 2016}}</ref>
+In 2019, it was ranked first worldwide by ''[[SCImago Institutions Rankings]]''.<ref>{{cite web|url=https://www.scimagoir.com/rankings.php?sector=Higher%20educ.&country=all|title=SCImago Institutions Rankings – Higher Education – All Regions and Countries – 2019 – Overall Rank|website=www.scimagoir.com}}</ref> It was ranked in the first tier of American research universities, along with Columbia, MIT, and Stanford, in the 2019 report from the [[Center for Measuring University Performance]].<ref>{{Cite web|last=Lombardi|first=John V.|last2=Abbey|first2=Craig W.|last3=Craig|first3=Diane D.|date=2020|title=The Top American Research Universities: 2019 Annual Report|url=https://mup.umass.edu/sites/default/files/annual_report_2019.pdf|access-date=July 17, 2021|website=mup.umass.edu}}</ref> Harvard University is [[Higher education accreditation in the United States|accredited]] by the [[New England Commission of Higher Education]].<ref>{{Citation|title=Massachusetts Institutions – NECHE|publisher=[[New England Commission of Higher Education]]|url=https://www.neche.org/institutions/ma/|access-date=May 26, 2021}}</ref>
+
+Among rankings of specific indicators, Harvard topped both the [[University Ranking by Academic Performance]] (2019–2020) and ''[[Mines ParisTech: Professional Ranking of World Universities]]'' (2011), which measured universities' numbers of alumni holding CEO positions in [[Fortune Global 500|''Fortune'' Global 500]] companies.<ref>{{cite web |title=World Ranking |url=https://www.urapcenter.org/Rankings/2019-2020/world-2019 |website=University Ranking by Academic Performance |access-date=January 22, 2020}}</ref>
+According to annual polls done by ''[[The Princeton Review]]'', Harvard is consistently among the top two most commonly named "dream colleges" in the United States, both for students and parents.<ref>{{cite news|url=http://www.princetonreview.com/press/college-hopes-worries-press-release|title=College Hopes & Worries Press Release|agency=PR Newswire |year=2016|access-date=September 7, 2016}}</ref><ref>{{cite news|url=https://www.prnewswire.com/news-releases/princeton-reviews-2012-college-hopes--worries-survey-reports-on-10650-students--parents-top-10-dream-colleges-and-application-perspectives-144338495.html|title=Princeton Review's 2012 "College Hopes & Worries Survey" Reports on 10,650 Students' & Parents' Top 10 "Dream Colleges" and Application Perspectives|agency=PR Newswire |year=2012|access-date=December 10, 2019}}</ref><ref>{{cite news|url=https://www.princetonreview.com/press/college-hopes-worries-press-release|title=2019 College Hopes & Worries Press Release |year=2019|access-date=December 10, 2019}}</ref>
+Additionally, having made significant investments in its [[Harvard John A. Paulson School of Engineering and Applied Sciences|engineering school]] in recent years, Harvard was ranked third worldwide for Engineering and Technology in 2019 by ''Times Higher Education''.<ref>{{cite news|url=https://www.seas.harvard.edu/news/2019/02/harvard-3-world-university-engineering-rankings|title=Harvard is #3 in World University Engineering Rankings |year=2019|access-date=December 10, 2019}}</ref>
+
+=== School rankings ===
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! School 
+! Founded 
+! Enrollment  
+! [[U.S. News & World Report]]
+|-
+| align="left" |[[Harvard College]]
+|1636
+|6,755
+|2<ref>{{Cite web|date=2021-08-31|title=2021 Best National University Rankings|url=https://www.usnews.com/best-colleges/rankings/national-universities?int=top_nav_National_Universitiess|url-status=live|access-date=2021-08-31|website=US News and World Report}}</ref>
+|-
+| align="left" |[[Harvard Medical School|Medicine]]
+|1782
+|660
+|1<ref>{{Cite web|date=2021-08-31|title=2022 Best Graduate Schools|url=https://www.usnews.com/best-graduate-schools/top-medical-schools/research-rankings|url-status=live|access-date=2021-08-31|website=US News and World Report}}</ref>
+|-
+| align="left" |[[Harvard Divinity School|Divinity]]
+|1816
+|377
+|N/A
+|-
+| align="left" |[[Harvard Law School|Law]]
+|1817
+|1,990
+|3<ref>{{Cite web|date=2021-08-31|title=2022 Best Graduate Schools|url=https://www.usnews.com/best-graduate-schools/top-law-schools/law-rankings|url-status=live|access-date=2021-08-31|website=US News and World Report}}</ref>
+|-
+| align="left" |[[Harvard School of Dental Medicine|Dental Medicine]]
+|1867
+|280
+|N/A
+|-
+| align="left" |[[Harvard Graduate School of Arts and Sciences|Arts and Sciences]]
+|1872
+|4,824
+|N/A
+|-
+| align="left" |[[Harvard Business School|Business]]
+|1908
+|2,011
+|5<ref>{{Cite web|date=2021-08-31|title=2022 Best Graduate Schools|url=https://www.usnews.com/best-graduate-schools/top-education-schools/edu-rankings|url-status=live|access-date=2021-08-31|website=US News and World Report}}</ref>
+|-
+| align="left" |[[Harvard Extension School|Extension]]
+|1910
+|3,428
+|N/A
+|-
+| align="left" |[[Harvard Graduate School of Design|Design]]
+|1914
+|878
+|N/A
+|-
+| align="left" |[[Harvard Graduate School of Education|Education]]
+|1920
+|876
+|1<ref>{{Cite web|date=2021-08-31|title=2022 Best Graduate Schools|url=https://www.usnews.com/best-graduate-schools/top-education-schools/edu-rankings|url-status=live|access-date=2021-08-31|website=US News and World Report}}</ref>
+|-
+| align="left" |[[Harvard T.H. Chan School of Public Health|Public Health]]
+|1922
+|1,412
+|3<ref>{{Cite web|date=2021-08-31|title=2022 Best Graduate Schools|url=https://www.usnews.com/best-graduate-schools/top-education-schools/edu-rankings|url-status=live|access-date=2021-08-31|website=US News and World Report}}</ref>
+|-
+| align="left" |[[Harvard Kennedy School|Government]]
+|1936
+|1,100
+|1<ref>{{Cite web|date=2021-08-31|title=2022 Best Graduate Schools|url=https://www.usnews.com/best-graduate-schools/top-public-affairs-schools/public-policy-analysis-rankings|url-status=live|access-date=2021-09-13|website=US News and World Report}}</ref>
+|-
+| align="left" |[[Harvard John A. Paulson School of Engineering and Applied Sciences|Engineering]]
+|2007
+|1,750
+|21<ref>{{Cite web|date=2021-08-31|title=2022 Best Graduate Schools|url=https://www.usnews.com/best-graduate-schools/top-engineering-schools|url-status=live|access-date=2021-08-31|website=US News and World Report}}</ref>
+|}
+
+== Student life ==
+{|style="text-align:center; float:right; font-size:85%; margin-right:2em;" class="wikitable"
+|+''Student demographics (Fall 2019)''<ref>{{cite web|title=Student Enrollment Data|url=https://oir.harvard.edu/fact-book/enrollment|publisher=Office of Institutional Research|access-date=December 14, 2019}}</ref>
+! !! Undergrad !! Grad/prof
+|-
+! Asian
+| 21% || 13%
+|-
+! Black
+| 9% || 5%
+|-
+! Hispanic or Latino
+| 11% || 7%
+|-
+! White
+| 37% || 38%
+|-
+! Two or more races 
+| 8% || 3%
+|-
+! International
+| 12% || 32%
+|}
+
+=== Student government ===
+
+The [[Harvard Undergraduate Council|Undergraduate Council]] represents College students. The [[Harvard Graduate Council|Graduate Council]] represents students at all twelve graduate and professional schools, most of which also have their own student government.<ref>
+a) Law School Student Government [https://orgs.law.harvard.edu/studentgovernment/]
+<br/>b) School of Education Student Council [https://osa.gse.harvard.edu/student-council]
+<br/>c) Kennedy School Student Government [https://www.hks.harvard.edu/more/student-life/student-government]
+<br/>d) Design School Student Forum [https://www.gsd.harvard.edu/resources/student-forum/]
+<br/>e) Student Council of Harvard Medical School and Harvard School of Dental Medicine [https://www.hmshsdmstuco.com/]
+</ref>
+
+=== Athletics ===
+{{Main|Harvard Crimson}}
+Harvard College fields 42 intercollegiate sports teams in the [[National Collegiate Athletic Association|NCAA]] [[Division I (NCAA)|Division I]] [[Ivy League]], more than any other college in the country.<ref>{{cite web|url=http://www.gocrimson.com/sports/fh/2012-13/releases/2012080853mnlh |title=Harvard : Women's Rugby Becomes 42nd Varsity Sport at Harvard University |publisher=Gocrimson.com |date=August 9, 2012 |access-date=July 5, 2013}}</ref> Every two years, the Harvard and Yale [[track and field]] teams come together to compete against a combined [[Oxford University|Oxford]] and [[Cambridge University|Cambridge]] team in the oldest continuous international amateur competition in the world.<ref>{{cite web|title=Yale and Harvard Defeat Oxford/Cambridge Team|url=http://www.yalebulldogs.com/sports/w-track/recaps/041009aac.html|publisher=Yale University Athletics|access-date=September 13, 2011|archive-url=https://web.archive.org/web/20111013022655/http://www.yalebulldogs.com/sports/w-track/recaps/041009aac.html|archive-date=October 13, 2011|url-status=dead}}</ref> As with other Ivy League universities, Harvard does not offer [[athletic scholarship]]s.<ref>{{cite web |url=http://www.hno.harvard.edu/guide/students/stu6.html|title=The Harvard Guide: Financial Aid at Harvard|publisher=Harvard University|date=September 2, 2006|access-date=August 29, 2010 |archive-url=https://web.archive.org/web/20060902182731/http://www.hno.harvard.edu/guide/students/stu6.html|archive-date=September 2, 2006}}</ref> The school color is [[crimson]].
+
+Harvard's athletic rivalry with [[Yale Bulldogs|Yale]] is intense in every sport in which they meet, coming to a climax each fall in the [[Harvard–Yale football rivalry|annual football meeting]], which dates back to 1875.<ref>{{Cite web|last=Bracken|first=Chris|title=A game unlike any other|url=https://yaledailynews.com/blog/2017/11/17/a-game-unlike-any-other/|access-date=September 9, 2020|website=yaledailynews.com|language=en}}</ref>
+
+Both the undergraduate College and the graduate schools have [[intramural sports]] programs.
+
+== Notable people ==
+=== Alumni ===
+{{Main|List of Harvard University people|List of Harvard University non-graduate alumni|List of Nobel laureates affiliated with Harvard University}}
+Over more than three and a half centuries, Harvard alumni have contributed creatively and significantly to society, the arts and sciences, business, and national and international affairs. Harvard's alumni include [[List of Presidents of the United States by education|eight U.S. presidents]], 188 [[List of universities by number of billionaire alumni|living billionaires]], [[List of Nobel laureates affiliated with Harvard University|79 Nobel laureates]], 7 Fields Medal winners, 9 Turing Award laureates, 369 [[Rhodes Scholarship|Rhodes Scholars]], 252 [[Marshall Scholarship|Marshall Scholars]], and 13 [[Mitchell Scholarship|Mitchell Scholars]].<ref>{{Cite web|title=2020 Rhodes, Mitchell Scholars named|url=https://news.harvard.edu/gazette/story/2020/11/harvard-students-alum-awarded-rhodes-mitchell-scholarships/|access-date=November 25, 2020|website=harvard.edu}}</ref><ref>{{cite web|url=https://news.harvard.edu/gazette/story/2019/11/five-harvard-students-named-american-rhodes-scholars/|title=Five Harvard students named Rhodes Scholars|website=The Harvard Gazette|access-date=November 24, 2019}}</ref><ref>{{cite news|url=https://www.cnbc.com/2018/05/18/the-universities-that-produce-the-most-billionaires.html|title=More billionaires went to Harvard than to Stanford, MIT and Yale combined|author=Kathleen Elkins|date=May 18, 2018|access-date=October 1, 2019|work=[[CNBC]]}}</ref><ref>{{cite web|url=http://www.marshallscholarship.org/about/statistics|title=Statistics|website=www.marshallscholarship.org}}</ref> Harvard students and alumni have won 10 [[Academy Awards]], 48 [[Pulitzer Prize]]s, and [[List of American universities with Olympic medals|108 Olympic medals]] (including 46 gold medals), and they have founded [[List of companies founded by Harvard University alumni|many notable companies worldwide]].<ref>{{cite web|url=https://www.harvard.edu/about-harvard/harvard-glance/honors/pulitzer-prize-winners|title=Pulitzer Prize Winners|website=Harvard University|access-date=February 2, 2018}}</ref><ref>{{Cite web|url=https://entrepreneurship.hbs.edu/founders/Pages/companies.aspx|title=Companies – Entrepreneurship – Harvard Business School|website=entrepreneurship.hbs.edu|access-date=March 28, 2019}}</ref>
+
+<gallery class="center" classes="center" mode="nolines" caption="Notable Harvard alumni include:">
+File:US Navy 031029-N-6236G-001 A painting of President John Adams (1735-1826), 2nd president of the United States, by Asher B. Durand (1767-1845)-crop.jpg|2nd President of the United States [[John Adams]] (AB, 1755; AM, 1758)<ref>{{cite web |last1=Barzilay |first1=Karen N. |title=The Education of John Adams |url=https://www.masshist.org/object-of-the-month/objects/the-education-of-john-adams-2007-06-01 |publisher=Massachusetts Historical Society |access-date=20 September 2020}}</ref>
+File:John Quincy Adams.jpg|6th President of the United States [[John Quincy Adams]] (AB, 1787; AM, 1790)<ref>{{cite web |title=John Quincy Adams |url=https://www.whitehouse.gov/about-the-white-house/presidents/john-quincy-adams/ |publisher=The White House |access-date=21 September 2020}}</ref><ref>{{cite web |last1=Hogan |first1=Margaret A. |title=John Quincy Adams: Life Before the Presidency |date=October 4, 2016 |url=https://millercenter.org/president/jqadams/life-before-the-presidency |publisher=Miller Center |access-date=21 September 2020}}</ref>
+Ralph Waldo Emerson ca1857 retouched.jpg |Essayist, lecturer, philosopher, and poet [[Ralph Waldo Emerson]] (AB, 1821)
+Benjamin D. Maxham - Henry David Thoreau - Restored - greyscale - straightened.jpg |Naturalist, essayist, poet, and philosopher [[Henry David Thoreau]] (AB, 1837)
+File:President Rutherford Hayes 1870 - 1880 Restored.jpg|19th President of the United States [[Rutherford B. Hayes]] (LLB, 1845)<ref>{{cite web |title=HLS's first alumnus elected as President—Rutherford B. Hayes |url=https://today.law.harvard.edu/hlss-first-alumnus-elected-as-president-rutherford-b-hayes/ |publisher=Harvard Law Today |access-date=21 September 2020}}</ref>
+File:Oliver Wendell Holmes Jr circa 1930-edit.jpg |Associate Justice of the Supreme Court of the United States [[Oliver Wendell Holmes Jr.]] (AB, 1861, LLB) 
+Charles Sanders Peirce.jpg |Philosopher, logician, and mathematician [[Charles Sanders Peirce]] (AB, 1862, SB 1863)
+File:President Theodore Roosevelt, 1904.jpg|26th President of the United States and Nobel Peace Prize laureate [[Theodore Roosevelt]] (AB, 1880)<ref>{{cite web |title=Theodore Roosevelt - Biographical |url=https://www.nobelprize.org/prizes/peace/1906/roosevelt/biographical/ |publisher=Nobel Foundation |access-date=21 September 2020}}</ref>
+File:WEB DuBois 1918.jpg|Sociologist and civil rights activist<br>[[W. E. B. Du Bois]] (PhD, 1895)
+File:FRoosevelt.png|32nd President of the United States [[Franklin D. Roosevelt]] (AB, 1903)<ref>{{cite web |last1=Leuchtenburg |first1=William E. |title=Franklin D. Roosevelt: Life Before the Presidency |date=October 4, 2016 |url=https://millercenter.org/president/fdroosevelt/life-before-the-presidency |publisher=Miller Center |access-date=21 September 2020}}</ref>
+File:Helen Keller circa 1920 - restored.jpg|Author, political activist, and lecturer [[Helen Keller]] (AB, 1904, Radcliffe College)
+Thomas Stearns Eliot by Lady Ottoline Morrell (1934).jpg|Poet and Nobel laureate in literature [[T. S. Eliot]] (AB, 1909; AM, 1910)
+JROppenheimer-LosAlamos.jpg|Physicist and leader of [[Manhattan Project]] [[J. Robert Oppenheimer]] (AB, 1925)
+Paul Samuelson.jpg|Economist and Nobel laureate in economics [[Paul Samuelson]] (AM, 1936; PhD, 1941)
+Leonard Bernstein by Jack Mitchell.jpg|Musician and composer [[Leonard Bernstein]] (AB, 1939)
+File:John F. Kennedy, White House color photo portrait.jpg|35th President of the United States [[John F. Kennedy]] (AB, 1940)<ref>{{cite web |last1=Selverstone |first1=Marc J.|title=John F. Kennedy: Life Before the Presidency |date=October 4, 2016 |url=https://millercenter.org/president/kennedy/life-before-the-presidency |publisher=Miller Center |access-date=21 September 2020}}</ref>
+Mary Robinson (2014).jpg|7th President of Ireland and United Nations High Commissioner for Human Rights [[Mary Robinson]] (LLM, 1968)
+File:Al Gore, Vice President of the United States, official portrait 1994.jpg|45th Vice President of the United States and Nobel Peace Prize laureate [[Al Gore]] (AB, 1969)
+File:Ellen Johnson-Sirleaf, April 2010.jpg|24th President of Liberia and Nobel Peace Prize laureate [[Ellen Johnson Sirleaf]] (MPA, 1971)<ref>{{cite web|url=https://www.nobelprize.org/nobel_prizes/peace/laureates/2011/johnson_sirleaf-bio.html|title=Ellen Johnson Sirleaf - Biographical|website=www.nobelprize.org|access-date=October 14, 2020}}</ref>
+File:Chuck Schumer official photo.jpg|Senate Majority Leader [[Chuck Schumer]] (AB, 1971; JD, 1975)
+File:Benazir Bhutto.jpg|11th Prime Minister of Pakistan [[Benazir Bhutto]] (AB, 1973, Radcliffe College)
+File:Ben Bernanke official portrait.jpg|14th Chair of the Federal Reserve [[Ben Bernanke]] (AB, 1975; AM, 1975)
+File:George-W-Bush.jpeg|43rd President of the United States [[George W. Bush]] (MBA, 1975)<ref>{{cite web |last1=L. Gregg II |first1=Gary |title=George W. Bush: Life Before the Presidency |date=October 4, 2016 |url=https://millercenter.org/president/gwbush/life-before-the-presidency |publisher=Miller Center |access-date=21 September 2020}}</ref> 
+File:Official roberts CJ.jpg|17th Chief Justice of the United States [[John Roberts]] (AB, 1976; JD, 1979)
+File:Bill Gates June 2015.jpg|Founder of Microsoft and philanthropist [[Bill Gates]] (College, 1977;<ref group="a" name="nodegree">Nominal Harvard College class year: did not graduate</ref> LLD&nbsp;[[Honorary degree|hc]], 2007)
+File:Ban Ki-Moon Davos 2011 Cropped.jpg|8th Secretary-General of the United Nations [[Ban Ki-moon]] (MPA, 1984)
+File:Elena Kagan SCOTUS portrait.jpg|Associate Justice of the Supreme Court of the United States [[Elena Kagan]] (JD, 1986)
+Michelle Obama 2013 official portrait.jpg|Former First Lady of the United States [[Michelle Obama]] (JD, 1988)
+Professor Jennifer Doudna ForMemRS.jpg| Biochemist and Nobel laureate in chemistry [[Jennifer Doudna]] (PhD, 1989)<ref>{{cite web |title=Press release: The Nobel Prize in Chemistry 2020 |url=https://www.nobelprize.org/prizes/chemistry/2020/press-release/|website=nobelprize.org|publisher=Nobel Foundation |access-date=October 14, 2020}}</ref>
+File:Official portrait of Barack Obama.jpg|44th President of the United States and Nobel Peace Prize laureate [[Barack Obama]] (JD, 1991)<ref>{{cite web |title=Barack Obama: Life Before the Presidency |date=October 4, 2016 |url=https://millercenter.org/president/obama/life-before-the-presidency |publisher=Miller Center |access-date=21 September 2020}}</ref><ref>{{cite web |title=Barack H. Obama - Biographical |url=https://www.nobelprize.org/prizes/peace/2009/obama/biographical/ |publisher=Nobel Foundation |access-date=21 September 2020}}</ref>
+</gallery>
+{{reflist|group=a}}
+
+=== Faculty ===
+<gallery class="center" classes="center" mode="nolines" caption="Notable present and past Harvard faculty include:">
+File:Louis Agassiz H6.jpg|[[Louis Agassiz]]
+File:Danielle Allen 2017.jpg|[[Danielle Allen]]
+File:Alan dershowitz 2009 retouched cropped.jpg|[[Alan Dershowitz]]
+File:PEF-with-mom-and-baby---Quy-Ton-12-2003 1-1-310.jpg|[[Paul Farmer]]
+File:Jason Furman official portrait.jpg|[[Jason Furman]]
+File:John Kenneth Galbraith 1982.jpg|[[John Kenneth Galbraith]]
+File:Henry Louis Gates 2014 (cropped).jpg|[[Henry Louis Gates Jr.]]
+File:Asa Gray 1870s.jpg|[[Asa Gray]]
+File:Seamus Heaney Photograph Edit.jpg|[[Seamus Heaney]]
+File:Oliver Wendell Holmes Sr c1879.jpg|[[Oliver Wendell Holmes Sr.]]
+File:William James b1842c.jpg|[[William James]]
+File:Timothy-Leary-Los-Angeles-1989.jpg|[[Timothy Leary]]
+File:Henry Wadsworth Longfellow, photographed by Julia Margaret Cameron in 1868.jpg|[[Henry Wadsworth Longfellow]]
+File:James Russell Lowell - 1855.jpg|[[James Russell Lowell]]
+File:GregoryMankiw.jpg|[[Greg Mankiw]]
+File:102111 Pinker 344.jpg|[[Steven Pinker]]
+File:Michael Porter 2017.jpg|[[Michael Porter]]
+File:Arthur M. Schlesinger, Jr. 1961.jpg|[[Arthur M. Schlesinger Jr.]]
+File:Amartya Sen.jpg|[[Amartya Sen]]
+File:B.F. Skinner at Harvard circa 1950.jpg|[[B. F. Skinner]]
+File:Lawrence Summers 2012.jpg|[[Lawrence Summers]]
+File:Cass Sunstein (2008).jpg|[[Cass Sunstein]]
+File:Elizabeth Warren 2016.jpg|[[Elizabeth Warren]]
+File:Cornel West by Gage Skidmore.jpg|[[Cornel West]]
+File:Plos wilson.jpg|[[E. O. Wilson]]
+File:Shing-Tung Yau Screenshot (cropped).png|[[Shing-Tung Yau]]
+File:Sec. Robert Reich.jpg|[[Robert Reich]]
+</gallery>
+
+== Literature and popular culture ==
+<!-- This section desperately needs inclusion criteria -->
+[[File:Clock Tower University of Puerto Rico-San Marcos-Harvard.jpg|thumb|upright=1.5|Tower at the [[University of Puerto Rico]], showing ''(right)'' the emblem of Harvard{{mdashb}}the oldest in the United States{{mdashb}}and ''(left)'' that of [[National University of San Marcos]], Lima{{mdashb}}the oldest in the Americas]]
+The perception of Harvard as a center of either elite achievement, or elitist privilege, has made it a frequent literary and cinematic backdrop. "In the grammar of film, Harvard has come to mean both tradition, and a certain amount of stuffiness," film critic Paul Sherman has said.<ref name="thomas">{{cite news |last=Thomas |first=Sarah |title='Social Network' taps other campuses for Harvard role |website=Boston.com |date=September 24, 2010 |url=https://www.boston.com/yourtown/news/cambridge/2010/09/harvard_at_the_movies_schools.html |quote='In the grammar of film, Harvard has come to mean both tradition, and a certain amount of stuffiness.... Someone from Missouri who has never lived in Boston ... can get this idea that it's all trust fund babies and ivy-covered walls.' }}</ref>
+
+=== Literature ===
+* ''[[The Sound and the Fury]]'' (1929) and ''[[Absalom, Absalom!]]'' (1936) by [[William Faulkner]] both depict Harvard student life.{{secondary source needed|date=July 2020}}
+* ''[[Of Time and the River]]'' (1935) by [[Thomas Wolfe]] is a fictionalized autobiography that includes his alter ego's time at Harvard.{{secondary source needed|date=July 2020}}
+* ''[[The Late George Apley]]'' (1937) by [[John P. Marquand]] parodies Harvard men at the opening of the 20th century;{{secondary source needed|date=July 2020}} it won the [[Pulitzer Prize]].
+* ''The Second Happiest Day'' (1953) by John P. Marquand Jr. portrays the Harvard of the World War II generation.{{refn |{{cite book |title=Wrestling with the Angel|last=King|first=Michael|year=2002|page=371|quote=...praised as an iconic chronicle of his generation and his WASP-ish class.}} }}{{refn|{{cite news|title=White Shoe and Weak Will|first=Michael J.|last=Halberstam|date= February 18, 1953 |newspaper=Harvard Crimson |url=http://www.thecrimson.com/article/1953/2/18/white-shoe-and-weak-will-pjohn/ |quote=The book is written slickly, but without distinction.... The book will be quick, enjoyable reading for all Harvard men.}} }}{{refn |{{cite news|last=Yardley | first=Jonathan|author-link=Jonathan Yardley|title=Second Reading|date=December 23, 2009|url=  https://www.washingtonpost.com/wp-dyn/content/article/2009/12/22/AR2009122203456.html |quote=&thinsp;'...a balanced and impressive novel...' [is] a judgment with which I [agree].|work=The Washington Post}} }}{{refn |{{cite news|title=Out of a Jitter-and-Fritter World|last=Du Bois|first=William|work=The New York Times|date=February 1, 1953|page=BR5|quote="exhibits Mr. Phillips' talent at its finest"}} }}{{refn |{{cite news|work=Southwest Review|volume=38|page=267|title=John Phillips, The Second Happiest Day|quote=So when the critics say the author of "The Second Happiest Day" is a new Fitzgerald, we think they may be right. }} }}
+
+=== Film ===
+Harvard's policy since 1970 (after the damage caused by ''Love Story'') has been to permit filming on its property only rarely, so most scenes set at Harvard (especially indoor shots, but excepting aerial footage and shots of public areas such as Harvard Square) are in fact shot elsewhere.<ref name="HFilm">{{cite news|first=Nathaniel L. |last=Schwartz |url=https://www.thecrimson.com/article/1999/9/21/university-hollywood-relationship-not-always-a/ |title=University, Hollywood Relationship Not Always a 'Love Story' |newspaper=Harvard Crimson |date=September 21, 1999 |access-date=September 15, 2013}}</ref><ref>{{cite web |url=https://www.boston.com/yourtown/news/cambridge/2010/09/harvard_at_the_movies_schools.html|title='Social Network' taps other campuses for Harvard role| author=Sarah Thomas|date=  September 24, 2010 |website=boston.com}}</ref>
+* ''[[Love Story (1970 film)|Love Story]]'' (1970) concerns a romance between a wealthy Harvard hockey player ([[Ryan O'Neal]]) and a brilliant Radcliffe student of modest means ([[Ali MacGraw]]): it is screened annually for incoming freshmen.<ref>{{cite news|url=http://www.thecrimson.com/article/1996/6/3/never-having-to-say-youre-sorry/ |title=Never Having To Say You're Sorry for 25 Years... |work=Harvard Crimson |date=June 3, 1996 |access-date=September 15, 2013}}</ref>{{refn|{{cite news|title=The Disease: Fatal. The Treatment: Mockery|first=Thomas | last=Vinciguerra |date=August 20, 2010|work=The New York Times|url=https://www.nytimes.com/2010/08/22/movies/22love.html}} }}{{refn|{{cite news|date=February 8, 1996 |work=Harvard University Gazette |title=A Many-Splendored 'Love Story'. Movie filmed at Harvard 25 years ago helped to define a generation|first=Ken |last=Gewertz}} }}
+* ''[[The Paper Chase (film)|The Paper Chase]]'' (1973){{refn|{{cite news|url=http://news.harvard.edu/gazette/story/2012/10/the-paper-chase-at-40/|title=The Paper Chase at 40|date=October 2, 2012 | first=Colleen|last= Walsh|work=Harvard Gazette}} }}
+* ''[[A Small Circle of Friends]]'' (1980)<ref name="HFilm"/>
+
+== See also ==
+{{Portal|United States}}
+<!-- Please keep entries in alphabetical order & add a short description [[WP:SEEALSO]] -->
+{{div col|colwidth=20em}}
+* [[2012 Harvard cheating scandal]]
+* [[Academic regalia of Harvard University]]
+* [[Gore Hall]]
+* [[Harvard College social clubs]]
+* [[Harvard University Police Department]]
+* [[Harvard University Press]]
+* [[Harvard/MIT Cooperative Society]]
+* [[I, Too, Am Harvard]]
+* [[List of oldest universities in continuous operation]]
+* [[List of Nobel laureates affiliated with Harvard University]]
+* [[Outline of Harvard University]]
+* [[Secret Court of 1920]]
+{{div col end}}
+
+== References ==
+{{reflist}}
+
+== Bibliography ==
+{{Divcol}}
+* Abelmann, Walter H., ed. ''The Harvard-MIT Division of Health Sciences and Technology: The First 25 Years, 1970–1995'' (2004). 346 pp.
+* Beecher, Henry K. and Altschule, Mark D. ''Medicine at Harvard: The First 300 Years'' (1977). 569 pp.
+* Bentinck-Smith, William, ed. ''The Harvard Book: Selections from Three Centuries'' (2d ed.1982). 499 pp.
+* Bethell, John T.; Hunt, Richard M.; and Shenton, Robert. ''Harvard A to Z'' (2004). 396 pp. [https://www.amazon.com/dp/0674012887 excerpt and text search]
+* Bethell, John T. ''Harvard Observed: An Illustrated History of the University in the Twentieth Century'', Harvard University Press, 1998, {{ISBN|0-674-37733-8}}
+* Bunting, Bainbridge. ''Harvard: An Architectural History'' (1985). 350 pp.
+* Carpenter, Kenneth E. ''The First 350 Years of the Harvard University Library: Description of an Exhibition'' (1986). 216 pp.
+* Cuno, James et al. ''Harvard's Art Museums: 100 Years of Collecting'' (1996). 364 pp.
+* Elliott, Clark A. and Rossiter, Margaret W., eds. ''Science at Harvard University: Historical Perspectives'' (1992). 380 pp.
+* Hall, Max. ''Harvard University Press: A History'' (1986). 257 pp.
+* Hay, Ida. ''Science in the Pleasure Ground: A History of the Arnold Arboretum'' (1995). 349 pp.
+* Hoerr, John, ''We Can't Eat Prestige: The Women Who Organized Harvard;'' [[Temple University Press]], 1997, {{ISBN|1-56639-535-6}}
+* Howells, Dorothy Elia. ''A Century to Celebrate: Radcliffe College, 1879–1979'' (1978). 152 pp.
+* Keller, Morton, and Phyllis Keller. ''Making Harvard Modern: The Rise of America's University'' (2001), major history covers 1933 to 2002 [https://www.questia.com/read/106186126?title=Making%20Harvard%20Modern%3a%20%20The%20Rise%20of%20America%27s%20University online edition]
+* [[Harry R. Lewis|Lewis, Harry R.]] ''Excellence Without a Soul: How a Great University Forgot Education'' (2006) {{ISBN|1-58648-393-5}}
+* Morison, Samuel Eliot. ''Three Centuries of Harvard, 1636–1936'' (1986) 512pp; [https://books.google.com/books?id=ZUUf7ssp1u4C excerpt and text search]
+* Powell, Arthur G. ''The Uncertain Profession: Harvard and the Search for Educational Authority'' (1980). 341 pp.
+* Reid, Robert. ''Year One: An Intimate Look inside Harvard Business School'' (1994). 331 pp.
+* [[Henry Rosovsky|Rosovsky, Henry]]. ''The University: An Owner's Manual'' (1991). 312 pp.
+* Rosovsky, Nitza. ''The Jewish Experience at Harvard and Radcliffe'' (1986). 108 pp.
+* Seligman, Joel. ''The High Citadel: The Influence of Harvard Law School'' (1978). 262 pp.
+* Sollors, Werner; Titcomb, Caldwell; and Underwood, Thomas A., eds. ''Blacks at Harvard: A Documentary History of African-American Experience at Harvard and Radcliffe'' (1993). 548 pp.
+* <span id="Trumpbour">Trumpbour, John, ed.</span>, ''How Harvard Rules. Reason in the Service of Empire'', Boston: South End Press, 1989, {{ISBN|0-89608-283-0}}
+* Ulrich, Laurel Thatcher, ed., ''[http://nrs.harvard.edu/urn-3:HUL.InstRepos:4662764 Yards and Gates: Gender in Harvard and Radcliffe History]'', New York: [[Palgrave Macmillan]], 2004. 337 pp.
+* Winsor, Mary P. ''Reading the Shape of Nature: Comparative Zoology at the Agassiz Museum'' (1991). 324 pp.
+* Wright, Conrad Edick. ''Revolutionary Generation: Harvard Men and the Consequences of Independence'' (2005). 298 pp.
+{{Divcol-end}}
+
+== External links ==
+{{Sister project links| wikt=no | commons=Category:Harvard University | b=no | n=no | q=Harvard University | s=Portal:Harvard University | v=no | voy=no | species=no | d=q13371}}
+{{Scholia|organization}}
+* {{Official website}}
+* {{College-navigator|166027}}
+
+{{Harvard|state=collapsed}}
+{{Navboxes
+|titlestyle = {{CollegePrimaryStyle|Harvard Crimson|color=white}}
+|list =
+{{Ivy League navbox}}
+{{Cambridge, Massachusetts}}
+{{Colonial Colleges}}
+{{Colleges and universities in metropolitan Boston}}
+<!-- main campus in -->
+<!-- business and medical campuses in -->
+{{Association of American Universities}}
+{{AICUM}}
+{{HCP Research Network}}
+{{ECAC Hockey League}}
+{{Eastern Association of Rowing Colleges}}
+{{Eastern Intercollegiate Volleyball Association navbox}}
+{{National Intercollegiate Rugby Association}}
+{{Massachusetts Sports}}
+}}
+{{Authority control}}
+
+[[Category:Harvard University| ]]
+[[Category:1636 establishments in Massachusetts]]
+[[Category:Universities and colleges in Middlesex County, Massachusetts]]
+[[Category:Universities and colleges in Cambridge, Massachusetts]]
+[[Category:Colonial colleges]]
+[[Category:Educational institutions established in the 1630s]]
+[[Category:Private universities and colleges in Massachusetts]]

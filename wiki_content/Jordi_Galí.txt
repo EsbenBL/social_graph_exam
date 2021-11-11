@@ -1,0 +1,70 @@
+
+{{Infobox economist
+| name             = Jordi Galí
+| school_tradition = [[New Keynesian economics]]
+| image            = File:Jordi Galí, presenting, European Central Bank (September 2017).png
+| image_size       =
+| caption          = Galí in 2017
+| birth_date       = {{Birth date and age|1961|01|04}}
+| birth_place      = [[Barcelona]], [[Spain]]
+| death_date       =
+| death_place      =
+| nationality      = [[Spain]]
+| institution      = [[Universitat Pompeu Fabra]] (2001–)<br>CREI (1999–)<br>[[Barcelona Graduate School of Economics]] (2006–)<br>[[New York University]] (1994–01)<br>[[Columbia University]] (1989–94)
+| field            = [[Macroeconomics]]
+| alma_mater       = [[Massachusetts Institute of Technology|MIT]] <small>(Ph.D. 1989)</small>
+| doctoral_advisor = [[Olivier Blanchard]]<ref name="doctorate">Galí, Jordi (1994), 'Keeping up with the Joneses: consumption externalities, portfolio choice, and asset prices'. ''Journal of Money, Credit, and Banking'' 26 (1), pp. 1–8.</ref>
+| academic_advisors =
+| doctoral_students =
+| notable_students =
+| influences       = [[Mark Gertler (economist)|Mark Gertler]]
+| influenced       =
+| contributions    =
+| awards           = [[Yrjö Jahnsson Award]] (2005)
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pga43
+}}
+'''Jordi Galí''' (born January 4, 1961) is a Spanish [[macroeconomics|macroeconomist]] who is regarded as one of the main figures in [[New Keynesian economics|New Keynesian macroeconomics]] today. He is currently the director of the Centre de Recerca en Economia Internacional (CREI, the Center for Research in International Economics) at [[Universitat Pompeu Fabra]] and a Research Professor at the [[Barcelona Graduate School of Economics]]. After obtaining his doctorate from MIT in 1989 under the supervision of [[Olivier Blanchard]],<ref name="doctorate" /> he held faculty positions at [[Columbia University]] and [[New York University]] before moving to Barcelona.
+
+== Research contributions ==
+Galí's research centers on the causes of [[business cycle]]s and on optimal [[monetary policy]], especially through the lens of [[time series analysis]].  His studies with [[Richard Clarida]] and [[Mark L. Gertler|Mark Gertler]] suggest that monetary policy in many countries today resembles the [[Taylor rule]], whereas the policy makers of the 1970s failed to follow the Taylor rule.<ref>Clarida, Richard; Mark Gertler; and Jordi Galí (2000), 'Monetary policy rules and macroeconomic stability: theory and some evidence.' ''Quarterly Journal of Economics'' 115. pp. 147–180.</ref><ref>Clarida, Richard; Mark Gertler; and Jordi Galí (1998), 'Monetary policy rules in practice: some international evidence.' ''European Economic Review'' 42 (6), pp. 1033–67.</ref>
+
+Another theme of Galí's research is how central banks should set interest rates. In some of the simplest [[New Keynesian economics|New Keynesian]] macroeconomic models, stabilizing the [[inflation rate]] stabilizes the [[output gap]] too.<ref>Goodfriend, Marvin, and Robert G. King (1997), 'The New Neoclassical Synthesis and the role of monetary policy'. ''NBER Macroeconomics Annual'' 12 (1).</ref> If this property were roughly true in reality, it would permit central bankers to pursue a simplified [[Taylor rule]] focused only on inflation stabilization, with no need to consider output growth.<ref>[http://economistsview.typepad.com/economistsview/2005/09/mankiw_discusse.html Comments by N. Gregory Mankiw on the 'divine coincidence'.]</ref> Jordi Galí and [[Olivier Blanchard]] have called this property the '[[divine coincidence]]', and have argued that in more realistic models which include additional frictions, it no longer holds. Instead, models with additional frictions (such as [[Unemployment types#Frictional unemployment|frictional unemployment]]) imply a tradeoff between stabilizing inflation and stabilizing the output gap.<ref>Blanchard, Olivier, and Jordi Galí (2007), 'Real wage rigidities and the New Keynesian model'. ''Journal of Money, Credit, and Banking'' 39 (supplement 1), pp. 35–65.</ref>
+
+Galí is perhaps best known for providing [[time series analysis|time series]] evidence that improvements in [[labour productivity]] cause employment to decrease.  This finding contradicts the predictions of some well-known [[Real business cycles|real business cycle]] models promoted by the [[New classical economics|New Classical]] macroeconomic school, but is (according to Galí) consistent with many [[New Keynesian macroeconomics|New Keynesian]] models.<ref>Galí, Jordi (1999), 'Technology, employment, and the business cycle: Do technology shocks explain aggregate fluctuations?' ''American Economic Review'' 89 (1), pp. 249–71.</ref> However, the statistical methods ('[[Vector autoregression#Structural vs. reduced form|structural vector autoregressions]]') on which this finding is based remain controversial.<ref>Thomas F. Cooley and Mark Dwyer (1998), 'Business Cycle Analysis Without Much Theory: A Look at Structural VARs'. ''Journal of Econometrics'' 83, pp. 57–88.</ref><ref>Jon Faust and Eric M. Leeper (1997), 'When Do Long-Run Identifying Restrictions Give Reliable Results?' ''Journal of Business and Economic Statistics'' 15 (3), pp. 345–53.</ref><ref>V.V. Chari, Patrick J. Kehoe, and Ellen McGrattan (2007), [http://minneapolisfed.org/research/common/pub_detail.cfm?pb_autonum_id=1035 Are Structural VARs with Long-Run Restrictions Useful in Developing Business Cycle Theory?] Federal Reserve Bank of Minneapolis Staff Report #364.</ref><ref>Lawrence, Christiano, Martin Eichenbaum and Robert Vigfusson,	`Assessing Structural VARs’, NBER Macroeconomics Annual	2006, Volume 21. Daron Acemoglu, Kenneth	Rogoff and Michael Woodford,Editors</ref>
+
+== Books ==
+In 2008, [[Princeton University Press]] published Galí's monograph ''Monetary Policy, Inflation, and the Business Cycle''. The book provides an introduction to New Keynesian [[DSGE]] models, and analyzes the implications of those models for [[monetary policy]]. It is written at a level intended for introductory graduate courses in macroeconomics. A second edition was published in 2015.
+
+== Awards ==
+In 2005, Galí received the [[Yrjö Jahnsson Award]] of the [[European Economic Association]], of which he is also a fellow,<ref>{{Cite web|title=Fellows {{!}} EEA|url=https://www.eeassoc.org/fellows|access-date=2021-03-22|website=www.eeassoc.org}}</ref> in recognition of his work on New Keynesian macroeconomics. He shared the prize with [[Timothy Besley]] of the [[London School of Economics]]. Thomson Reuters lists him among the 'citation laureates' who are likely future winners of the [[Nobel Prize in Economics]].<ref>[http://science.thomsonreuters.com/nobel/laureates/#economics Thomson-Reuters list of 'citation laureates' in economics]</ref>
+
+== See also ==
+* [[Barcelona Graduate School of Economics]]
+
+== References ==
+{{Reflist|colwidth=30em}}
+
+== External links ==
+* [http://www.crei.cat/people/gali/ Galí's website at the {{lang|es|Centre de Recerca en Economia Internacional}}]
+* [http://www.barcelonagse.eu/people/gali-jordi Jordi Galí's Barcelona GSE faculty profile]
+* [http://www.barcelonagse.eu/research/research-professors Barcelona GSE Research Professors]
+
+{{Keynesians}}
+{{Yrjö Jahnsson Award recipients}}
+{{Presidents of the European Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gali, Jordi}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:New Keynesian economists]]
+[[Category:Macroeconomists]]
+[[Category:Economists from Catalonia]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]
+[[Category:Pompeu Fabra University faculty]]
+[[Category:Barcelona Graduate School of Economics faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the European Economic Association]]

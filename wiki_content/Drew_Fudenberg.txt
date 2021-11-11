@@ -1,0 +1,81 @@
+{{BLP sources|date=May 2010}}
+{{Infobox economist
+| name             = Drew Fudenberg
+| school_tradition =
+
+| image       =
+| image_size       = 200px
+| caption    = Drew Fudenberg
+| birth_date       = {{birth date and age|1957|3|2|mf=y}}
+| birth_place      = [[New York City]]
+| death_date       =
+| death_place      =
+| nationality      = USA
+| institution      = [[MIT]]
+| field            = [[Game theory]], [[General equilibrium]] Theory
+| alma_mater       = A.B. [[Harvard College]] 1978, Ph.D. [[MIT]] 1981
+| doctoral_advisor = [[Eric Maskin]]<ref name="Thesis Supervisors">Fudenberg, Drew (1981), ''[http://library.mit.edu/F/BTEFEQ2JUEEYTP6S2F8BXGRG7K4UVMRD9BK36Q6RHQ3MHAERAL-03669?func=find-acc&acc_sequence=005785566 Strategic behavior in economic rivalry]''. Ph.D. dissertation, Massachusetts Institute of Technology.</ref>
+| academic_advisors= 
+| doctoral_students= [[Matthew Rabin]]<br>[[Glenn Ellison]]<br>[[Sendhil Mullainathan]]
+| notable_students =
+
+| influences       =
+| influenced       =
+| contributions    = learning in games, [[Folk theorem (game theory)|Folk theorem]]
+| awards           = [[Guggenheim Fellowship]], 1990; Fellow of the [[American Academy of Arts and Sciences]]
+| signature        = <!-- file name only -->
+| repec_prefix = e  | repec_id=pfu49
+}}
+
+'''Drew Fudenberg''' (born March 2, 1957 in [[New York City]]) is the Paul A. Samuelson Professor of [[Economics]] at [[Massachusetts Institute of Technology|MIT]]. His extensive research spans many aspects of [[game theory]], including equilibrium theory, learning in games, evolutionary game theory, and many applications to other fields. Fudenberg was also one of the first to apply game theoretic analysis in industrial organization, bargaining theory, and contract theory. He has also authored papers on repeated games, reputation effects, and behavioral economics.
+
+==Biography==
+Fudenberg obtained his [[Bachelor of Arts|A.B.]] in [[Applied Mathematics]] from [[Harvard University]] in 1978, when he went on to obtain his [[Ph.D.]] in [[Economics]] at [[MIT]]. After completing his Ph.D. in just three years, he began his assistant professorship at the [[University of California, Berkeley]] in 1981. At Berkeley, Fudenberg was tenured at the age of 28. In 1987, he returned to a faculty position at MIT, where he taught for 6 years. In 1993, Fudenberg accepted a faculty position in the Economics department of his alma mater, [[Harvard University]]. He has returned once more to MIT as the Paul A. Samuelson Professor of Economics as of 2016.<ref>{{Cite web|url=http://economics.mit.edu/faculty/drewf/short|title=MIT Economics : Drew Fudenberg|website=economics.mit.edu|access-date=2016-09-08}}</ref>
+
+Fudenberg was the associate editor of the ''[[Journal of Economic Theory]]'' from 1984 to 1996; the ''[[Quarterly Journal of Economics]]'' from 1984 to 1989; ''[[Econometrica]]'' from 1985 to 1996; ''[[Games and Economic Behavior]]'' from 1988 to 1993, and the foreign editor of the ''[[Review of Economic Studies]]'' from 1993 to 1996. He was also the principal editor of ''Econometrica'' from 1996 until 2000.
+
+Fudenberg has authored many books on game theory, including ''Game Theory'' with [[Jean Tirole]], a primary reference for graduate students in economics; ''Dynamic Models of Oligopoly'', also with Jean Tirole; and ''Theory of Learning in Games'' with [[David K. Levine]].
+
+Fudenberg received the [[Guggenheim Fellowship]] in 1990 and became a fellow of the [[American Academy of Arts and Sciences]] in 1998.
+
+==Publications==
+* [https://web.archive.org/web/20110720003315/http://www-mitpress.mit.edu/book-home.tcl?isbn=0262061414 ''Game Theory''], coauthor with [[Jean Tirole]]
+* ''Dynamic Models of Oligopoly'' coauthor with [[Jean Tirole]]
+* [https://web.archive.org/web/20080724125556/http://www.worldscibooks.com/economics/6880.html ''A Long-Run Collaboration on Long-Run Games''], coauthor with [[David K. Levine]]
+* [https://web.archive.org/web/20110420013527/http://www-mitpress.mit.edu/book-home.tcl?isbn=0262061945 ''Theory of Learning in Games''], coauthor with [[David K. Levine]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://economics.mit.edu/faculty/drewf Drew Fudenberg at MIT Department of Economics]
+* [http://economics.mit.edu/faculty/drewf/short Biography of Drew Fudenberg at MIT Economics Department]
+
+{{s-start}}
+{{s-aca}}
+{{s-bef | before = [[Eddie Dekel]]}}
+{{s-ttl | title = [[List of Presidents of the Econometric Society|President]] of the [[Econometric Society]] | years = 2017– 2018}}
+{{s-aft|after=[[Tim Besley]]}}
+{{s-end}}
+
+{{Game theory}}
+{{Presidents of the Econometric Society}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fudenberg, Drew}}
+[[Category:Living people]]
+[[Category:Game theorists]]
+[[Category:University of California, Berkeley College of Letters and Science faculty]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences faculty]]
+[[Category:Harvard University faculty]]
+[[Category:1957 births]]
+[[Category:Harvard College alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Economics journal editors]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]

@@ -1,0 +1,1029 @@
+{{Short description|15th–16th-century mathematician and astronomer}}
+{{Redirect2|Copernicus|Kopernik}}
+{{pp-move-indef|small=yes}}
+{{pp-protected|small=yes}}
+{{Use dmy dates|date=February 2021}}
+{{Infobox scientist
+| name              = Nicolaus Copernicus
+| image             = Nikolaus Kopernikus.jpg
+| caption           = The "Toruń portrait" (anonymous, c. 1580), kept in [[District Museum in Toruń|Toruń town hall]], [[Poland]]{{efn|The oldest known portrait of Copernicus is that on the [[Strasbourg astronomical clock]], made by [[Tobias Stimmer]] c. 1571–74. According to the inscription next to that portrait, it was made from a self-portrait by Copernicus himself. This has led to speculation that the Toruń portrait, whose provenance is unknown, may be a copy based on the same self-portrait.<ref>André Goddu, ''Copernicus and the Aristotelian Tradition'' (2010), [https://books.google.com/books?id=iEjk13-1xSYC&pg=PA436 p. 436] (note 125), citing Goddu, review of Jerzy Gassowski, "''Poszukiwanie grobu Mikołaja Kopernika''{{-"}} ("Search for Grave of Nicolaus Copernicus"), in ''Journal for the History of Astronomy'', 38.2 (May 2007), p. 255.</ref>}}
+| birth_date        = 19 February 1473
+| birth_place       = {{nowrap|[[Toruń|Thorn]], [[Royal Prussia]], [[Kingdom of Poland (1385–1569)|Poland]]}}
+| death_date        = {{death date and age|df=yes|1543|5|24|1473|2|19}}
+| death_place       = {{nowrap|[[Frombork|Frauenburg]], [[Royal Prussia]], [[Kingdom of Poland (1385–1569)|Poland]]}}
+| field             = {{hlist|Astronomy |[[Canon law of the Catholic Church|Canon law]] |Economics |Mathematics |Medicine |Politics}}
+| education         = {{ublist|class=nowrap |[[Jagiellonian University|University of Kraków]] (1491–95) |[[University of Bologna]] (1496–1500) |[[University of Padua]] (1501–03) |[[University of Ferrara]] ([[DCanL]], 1503)}}
+| known_for         = [[Heliocentrism]]<br />[[Quantity theory of money]]<br />[[Gresham–Copernicus law]]
+| signature         = Nicolaus Copernicus signature (podpis Mikołaja Kopernika).svg
+| academic_advisors = [[Domenico Maria Novara da Ferrara]]
+| influences        = [[Aristarchus of Samos]]<br />[[Martianus Capella]]
+| influenced        = [[Johannes Kepler]]
+}}
+<!-------------------
+   NOTE TO EDITORS:
+   Please read the talk page before editing the two introductory paragraphs. They represent a consensus as to how best to present the essential information about Copernicus in the article's introduction. Other issues are discussed later in the article. Whether nationality should be attributed to Copernicus is a contentious issue: see the talk page and its archives.
+  ------------------->
+'''Nicolaus Copernicus''' ({{IPAc-en|k|oʊ|ˈ|p|ɝː|n|ɪ|k|ə|s|,_|k|ə|-}};{{refn|{{Citation |last=Jones |first=Daniel |author-link=Daniel Jones (phonetician) |editor1-last=Roach |editor1-first=Peter |editor2-last=Hartmann |editor2-first=James |editor3-last=Setter |editor3-first=Jane |year=2003 |orig-year=1917 |title=English Pronouncing Dictionary |publisher=Cambridge University Press |place=Cambridge |isbn=978-3-12-539683-8}}}}{{refn|{{Dictionary.com|Copernicus}}}}{{refn|{{MerriamWebsterDictionary|Copernicus}}}} {{lang-pl|Mikołaj Kopernik}};{{efn|Modern pronunciation of the Polish form of the name: {{IPA-pl|miˈkɔwaj kɔˈpɛrɲik||Pl-Mikołaj Kopernik.ogg}}.}} {{lang-de|link=no|Niclas Koppernigk}}, modern: ''Nikolaus Kopernikus''; 19 February 1473&nbsp;– 24 May 1543) was a [[Renaissance]] [[polymath]], active as a mathematician, astronomer, and [[Catholic Church|Catholic]] [[canon (priest)|canon]], who formulated a [[mathematical model|model]] of [[Celestial spheres#Renaissance|the universe]] that placed [[heliocentrism|the Sun rather than Earth]] at its center. In all likelihood, Copernicus developed his model independently of [[Aristarchus of Samos]], an ancient Greek astronomer who had formulated such a model some eighteen centuries earlier.<ref>[[#Reference-Linton-2004|Linton 2004]], pp.&nbsp;39, 119.</ref>{{efn|name=AristarchusNote01a|The Greek mathematician and astronomer [[Aristarchus of Samos]] proposed such a system during the third century BCE ([[#Reference-Dreyer-1953|Dreyer 1953]], [https://archive.org/stream/historyofplaneta00dreyuoft#page/134/mode/2up pp.&nbsp;135–48]).In an early unpublished manuscript of ''De Revolutionibus'' (which still survives today in the [[Jagiellonian Library]] in [[Kraków]]), Copernicus wrote that "It is credible that ... [[Philolaus]] believed in the mobility of the Earth and some even say that  Aristarchus was of that opinion", a passage that was removed from the published edition, a decision described by [[Owen Gingerich]] as "eminently sensible" "from an editorial viewpoint".<ref name="ReferenceA"/> Philolaus was not a heliocentrist as he thought that both the Earth and the Sun moved around a central fire. Gingerich says that there is no evidence that Copernicus was aware of the few clear references to Aristarchus's heliocentrism in ancient texts  (as distinct from one other unclear and confusing one), especially [[Archimedes]]'s ''[[The Sand-Reckoner]]'' (which was not in print until the year after Copernicus died), and that it would have been in his interest to mention them had he known of them, before concluding that he developed his idea and its justification independently of Aristarchus.<ref name="ReferenceA">[[Owen Gingerich]], [http://adsabs.harvard.edu/full/1985JHA....16...37G#:~:text=There%20is%20no%20question%20but,were%20found%20independently%20by%20Copernicus. "Did Copernicus Owe a Debt to Aristarchus?"], ''[[Journal for the History of Astronomy]]'', vol. 16, no. 1 (February 1985), pp. 37–42. "There is no question but that Aristarchus had the priority of the heliocentric idea. Yet there is no evidence that Copernicus owed him anything.(!9) As far as we can tell both the idea and its justification were found independently by Copernicus."</ref>}}{{efn|[[Dava Sobel]] (2011) writes:  "Copernicus had no idea that Aristarchus of Samos had proposed much the same thing [as Copernicus was contemplating by 1510, when he wrote his ''Brief Sketch'', otherwise also known as the ''Commentariolus''] in the third century B.C.  The only work by Aristarchus known to Copernicus—a treatise called ''On the Sizes and Distances of the Sun and Moon''—made no mention of a heliocentric plan." Sobel (2011) pp. 18–19.  Sobel further writes that in Copernicus' dedication of ''[[On the Revolutions of the Heavenly Spheres|On the Revolutions]]'' to [[Pope Paul III]]—which Copernicus hoped would dampen criticism of his [[heliocentric theory]] by "babblers... completely ignorant of [astronomy]"—the book's author wrote that, in rereading all of philosophy, in the pages of [[Cicero]] and [[Plutarch]] he had found references to those few thinkers who dared to move the Earth "against the traditional opinion of astronomers and almost against common sense."  Sobel comments: "He still knew nothing of the Earth-moving plan of Aristarchus, which had not yet been reported to Latin audiences" (pp. 179–82).}}{{efn|name=Kish1978}}
+
+The publication of Copernicus' model in his book ''[[De revolutionibus orbium coelestium]]'' (''On the Revolutions of the Celestial Spheres''), just before his death in 1543, was a major event in the [[history of science]], triggering the [[Copernican Revolution]] and making a pioneering contribution to the [[Scientific Revolution]].<ref>[[Edward Rosen]], "Copernicus, Nicolaus", ''[[Encyclopedia Americana]]'', International Edition, volume 7, Danbury, Connecticut, Grolier Incorporated, 1986, {{ISBN|0-7172-0117-1}}, pp. 755–56.</ref>
+
+Copernicus was born and died in [[Royal Prussia]], a region that had been part of the [[Kingdom of Poland (1385–1569)|Kingdom of Poland]] since 1466.  A [[Polyglot (person)|polyglot]] and [[polymath]], he obtained a [[doctorate in canon law]] and was a mathematician, astronomer, [[physician]], [[classics scholar]], [[translation|translator]], [[governor]], [[diplomat]], and [[economist]]. In 1517 he derived a [[quantity theory of money]]—a key concept in economics—and in 1519 he formulated an economic principle that later came to be called [[Gresham's law]].{{efn|"Copernicus seems to have drawn up some notes [on the displacement of good coin from circulation by debased coin] while he was at [[Olsztyn]] in 1519. He made them the basis of a report on the matter, written in German, which he presented to the Prussian Diet held in 1522 at [[Grudziądz]]... He later drew up a revised and enlarged version of his little treatise, this time in Latin, and setting forth a general theory of money, for presentation to the Diet of 1528."<ref>Angus Armitage, ''The World of Copernicus'', 1951, p. 91.</ref>}}
+
+==Life==
+[[File:CopernicusHouse.jpg|thumb|upright=1.2|Copernicus' [[Toruń]] birthplace (ul. Kopernika 15, ''left''). Together with no. 17 (''right''), it forms ''[[District Museum in Toruń|Muzeum Mikołaja Kopernika]]''.]]
+Nicolaus Copernicus was born on 19 February 1473 in the city of [[Toruń|Toruń (Thorn)]], in the province of [[Royal Prussia]], in the [[Crown of the Kingdom of Poland]].<ref name="Dzieje nauki polskiej"/><ref name="plato.stanford"/>
+
+His father was a merchant from [[Kraków]] and his mother was the daughter of a wealthy Toruń merchant.<ref name="psb4"/> Nicolaus was the youngest of four children. His brother Andreas (Andrew) became an [[Augustinians|Augustinian]] [[canon (priest)|canon]] at [[Frombork]] (Frauenburg).<ref name="psb4"/> His sister Barbara, named after her mother, became a [[Benedictine]] [[nun]] and, in her final years, [[prioress]] of a [[convent]] in [[Chełmno]] (Kulm); she died after 1517.<ref name="psb4"/> His sister Katharina married the businessman and Toruń city councilor Barthel Gertner and left five children, whom Copernicus looked after to the end of his life.<ref name="psb4"/> Copernicus never married and is not known to have had children, but from at least 1531 until 1539 his relations with Anna Schilling, a live-in housekeeper, were seen as scandalous by two bishops of Warmia who urged him over the years to break off relations with his "mistress".<ref>John Freely, ''Celestial Revolutionary'', [[I.B. Tauris]], 2014 pp. 103–04, 110–13 {{ISBN|978-1780763507}}</ref>
+
+===Father's family===
+Copernicus' father's family can be traced to a village in [[Silesia]] between [[Nysa, Poland|Nysa]] (''Neiße'') and [[Prudnik]] (''Neustadt''). The village's name has been variously spelled Kopernik,{{efn|"The name of the village, not unlike that of the astronomer's family, has been variously spelled. A large German atlas of Silesia, published by Wieland in Nuremberg in 1731, spells it Kopernik."<ref>Mizwa, p. 36.</ref>}} Copernik, Copernic, Kopernic, Coprirnik, and today [[Koperniki]].<ref name="psb3"/>
+In the 14th century, members of the family began moving to various other Silesian cities, to the Polish capital, Kraków (1367), and to Toruń (1400).<ref name="psb3"/> The father, Mikołaj the Elder, likely the son of Jan, came from the Kraków line.<ref name="psb3"/>
+
+Nicolaus was named after his father, who appears in records for the first time as a well-to-do merchant who dealt in copper, selling it mostly in [[Danzig]] (Gdańsk).<ref name="google3"/><ref name="google4"/> He moved from Kraków to Toruń around 1458.<ref name="google5"/> Toruń, situated on the [[Vistula River]], was at that time embroiled in the [[Thirteen Years' War (1454–66)|Thirteen Years' War]], in which the [[Kingdom of Poland (1385–1569)|Kingdom of Poland]] and the [[Prussian Confederation]], an alliance of [[Prussia (region)|Prussian]] cities, gentry and clergy, fought the [[Teutonic Order]] over control of the region. In this war, [[Hanseatic League|Hanseatic]] cities like Danzig and Toruń, Nicolaus Copernicus's hometown, chose to support the [[Monarchs of Poland|Polish King]], [[Casimir IV Jagiellon]], who promised to respect the cities' traditional vast independence, which the Teutonic Order had challenged. Nicolaus' father was actively engaged in the politics of the day and supported Poland and the cities against the Teutonic Order.<ref name="google6"/> In 1454 he mediated negotiations between Poland's Cardinal [[Zbigniew Oleśnicki (cardinal)|Zbigniew Oleśnicki]] and the Prussian cities for repayment of war loans.<ref name="psb3"/> In the [[Second Peace of Thorn (1466)]], the Teutonic Order formally relinquished all claims to its western province, which as Royal Prussia remained a region of the Crown of the Kingdom of Poland until the First (1772) and Second (1793) [[Partitions of Poland]].
+
+Copernicus's father married Barbara Watzenrode, the astronomer's mother, between 1461 and 1464.<ref name="psb3"/> He died about 1483.<ref name="psb4"/>
+
+===Mother's family===
+Nicolaus' mother, Barbara Watzenrode, was the daughter of a wealthy Toruń patrician and city councillor, [[Lucas Watzenrode the Elder]] (deceased 1462), and Katarzyna (widow of Jan Peckau), mentioned in other sources as ''Katarzyna Rüdiger gente Modlibóg'' (deceased 1476).<ref name="psb4"/> The Modlibógs were a prominent Polish family who had been well known in Poland's history since 1271.<ref name="Stephen Mizwa 1943, p. 38"/> The Watzenrode family, like the Kopernik family, had come from Silesia from near [[Świdnica]] (Schweidnitz), and after 1360 had settled in Toruń. They soon became one of the wealthiest and most influential [[Patrician (post-Roman Europe)|patrician]] families.<ref name="psb4"/> Through the Watzenrodes' extensive family relationships by marriage, Copernicus was related to wealthy families of Toruń (Thorn), Gdańsk (Danzig) and [[Elbląg]] (Elbing), and to prominent Polish noble families of Prussia: the [[Czapski]]s, [[Działyński]]s, [[Konopacki]]s and [[Kościelecki]]s.<ref name="psb4"/> Lucas and Katherine had three children: [[Lucas Watzenrode the Younger]] (1447–1512), who would become [[Bishop of Warmia]] and Copernicus's patron; Barbara, the astronomer's mother (deceased after 1495); and Christina (deceased before 1502), who in 1459 married the Toruń merchant and mayor, Tiedeman von Allen.<ref name="psb4"/>
+
+[[File:Łukasz Watzenrode.jpeg|thumb|Copernicus' maternal uncle, [[Lucas Watzenrode the Younger]]]]
+
+Lucas Watzenrode the Elder, a wealthy merchant and in 1439–62 president of the judicial bench, was a decided opponent of the Teutonic Knights.<ref name="psb4"/> In 1453 he was the delegate from Toruń at the [[Grudziądz]] (Graudenz) conference that planned the uprising against them.<ref name="psb4"/> During the ensuing [[Thirteen Years' War (1454–66)|Thirteen Years' War]] (1454–66), he actively supported the Prussian cities' war effort with substantial monetary subsidies (only part of which he later re-claimed), with political activity in Toruń and Danzig, and by personally fighting in battles at [[Łasin]] (Lessen) and [[Malbork]] (Marienburg).<ref name="psb4"/> He died in 1462.<ref name="psb4"/>
+
+[[Lucas Watzenrode the Younger]], the astronomer's maternal uncle and patron, was educated at the University of Kraków (now [[Jagiellonian University]]) and at the universities of [[Cologne]] and [[Bologna]]. He was a bitter opponent of the Teutonic Order,{{efn|"In 1512, Bishop Watzenrode died suddenly after attending King Sigismund's wedding feast in Kraków. Rumors abounded that the bishop had been poisoned by agents of his long-time foe, the Teutonic Knights."<ref>Hirshfeld, p. 38.</ref>}} and its Grand Master once referred to him as "the devil incarnate".{{efn|"[Watzenrode] was also firm, and the Teutonic Knights, who remained a constant menace, did not like him at all; the Grand Master of the order once described him as 'the devil incarnate'. [Watzenrode] was the trusted friend and advisor of three [Polish] kings in succession: John Albert, Alexander (not to be confused with the poisoning pope), and Sigismund; and his influence greatly strengthened the ties between Warmia and Poland proper."<ref>Moore (1994), pp. 52, 62.</ref>}} In 1489 Watzenrode was elected [[Bishop of Warmia]] (Ermeland, Ermland) against the preference of King Casimir IV, who had hoped to install his own son in that seat.<ref name="psb5"/> As a result, Watzenrode quarreled with the king until Casimir IV's death three years later.<ref name="watzenrode"/> Watzenrode was then able to form close relations with three successive Polish monarchs: [[John I Albert of Poland|John I Albert]], [[Alexander Jagiellon]], and [[Sigismund I the Old]]. He was a friend and key advisor to each ruler, and his influence greatly strengthened the ties between Warmia and Poland proper.<ref>Moore (1994), p. 62.</ref> Watzenrode came to be considered the most powerful man in Warmia, and his wealth, connections and influence allowed him to secure Copernicus' education and career as a canon at [[Frombork Cathedral]].<ref name="psb5"/>{{efn|"To obtain for his nephews [Nicolaus and Andreas] the necessary support [for their studies in Italy], the bishop [Lucas Watzenrode the Younger] procured their election as canons by the chapter of Frauenburg (1497–1498)."<ref>"[http://www.newadvent.org/cathen/04352b.htm Nicolaus Copernicus]" , ''[[New Advent]]'' (online version of the 1913 ''[[Catholic Encyclopedia]]''). Retrieved 9 June 2013.</ref>}}
+
+===Languages===
+[[File:Copernicus-an-Herzog-Albrecht.png|thumb|upright|[[:wikisource:de:An den Herzog Albrecht von Preussen|German-language letter from Copernicus]] to [[Duke Albert of Prussia]], giving medical advice for [[George von Kunheim]] (1541)]]
+
+Copernicus is postulated to have spoken [[Latin language|Latin]], German, and Polish with equal fluency; he also spoke [[Greek language|Greek]] and [[Italian language|Italian]], and had some knowledge of [[Hebrew language|Hebrew]].{{efn|"He spoke German, Polish and Latin with equal fluency as well as Italian."<ref>Stone, p. 101.</ref>}}{{efn|"He spoke Polish, Latin, and Greek."<ref>Somerville, p. 10.</ref>}}{{efn|"He was a linguist with a command of Polish, German and Latin, and he possessed also a knowledge of Greek rare at that period in northeastern Europe and probably had some acquaintance with Italian and Hebrew."<ref>Angus Armitage, ''Copernicus, the founder of modern astronomy'', p. 62.</ref>}}{{efn|He used [[Latin]] and German, knew enough [[Ancient Greek|Greek]] to translate the 7th-century [[Byzantine]] poet [[Theophylact Simocatta]]'s verses into Latin prose,<ref name="armitage75–77"/> and "there is ample evidence that he knew the [[Polish language]]."<ref name="Davies26"/> [[Edward Rosen]] mentions that Copernicus recorded Polish farm tenants' names inconsistently, gainsaying that he was fluent in the Polish language.<ref>[[Edward Rosen]],  [http://copernicus.torun.pl/en/archives/administrative/2/ ''Nicolaus Copernicus Thorunensis''].</ref> (But decades after Copernicus, each of [[William Shakespeare]]'s extant [[autograph]] signatures showed a different spelling.<ref>[[Sidney Lee]], ''[https://books.google.com/books?id=B1UUcEzAKXgC&printsec=frontcover Shakespeare's Handwriting: Facsimiles of the Five Authentic Autograph Signatures]'', London, Smith Elder, 1899.</ref>) During his several years' studies in Italy, Copernicus presumably learned some Italian; Professor Stefan Melkowski of [[Nicolaus Copernicus University in Toruń]] asserts that Copernicus also spoke both German and Polish.<ref name="O historii i o współczesności"/>}} The vast majority of Copernicus's extant writings are in [[Latin]], the language of European [[academia]] in his lifetime.
+
+Arguments for German being Copernicus's native tongue are that he was born into a predominantly German-speaking urban patrician class using German, next to Latin, as language of trade and commerce in written documents,<ref>Maria Bogucka, Henryk Samsonowicz, 1986, "Dzieje Miast i Mieszczaństwa w Polsce Przedrozbiorowej", pages 266 – 267, https://bon.edu.pl/media/book/pdf/Dzieje_miast_i_mieszczanstwa-MB.pdf</ref> and that, while studying [[Canon law of the Catholic Church|canon law]] at the [[University of Bologna]] in 1496, he signed into the German ''[[Nation (university)|natio]]'' (''Natio Germanorum'')—a student organization which, according to its 1497 by-laws, was open to students of all kingdoms and states whose mother-tongue was German.<ref name="Rosen1995 p. 127"/> However, according to French philosopher [[Alexandre Koyré]], Copernicus's registration with the ''Natio Germanorum'' does not in itself imply that Copernicus considered himself German, since students from Prussia and Silesia were routinely so categorized, which carried certain privileges that made it a natural choice for German-speaking students, regardless of their ethnicity or self-identification.<ref name="Rosen1995 p. 127"/>{{efn|"Although great importance has frequently been ascribed to this fact, it does not imply that Copernicus considered himself to be a German. The 'nationes' of a medieval university had nothing in common with nations in the modern sense of the word. Students who were natives of Prussia and Silesia were automatically described as belonging to the Natio Germanorum. Furthmore, at Bologna, this was the 'privileged' nation; consequently, Copernicus had very good reason for inscribing himself on its register."<ref>Koyre, p. 21.</ref>}}{{efn|"It is important to recognize, however, that the medieval Latin concept of ''natio'', or "nation", referred to the community of feudal lords both in Germany and elsewhere, not to 'the people' in the nineteenth-century democratic or nationalistic sense of the word."<ref>Johnson, p. 23.</ref>}}<ref name="google21"/>
+
+===Name===
+The surname ''Kopernik'', ''Copernik'', ''Koppernigk'', in various spellings, is recorded in [[Kraków]] from c. 1350, apparently given to people from the village of [[Koperniki]] (prior to 1845 rendered ''Kopernik'', ''Copernik, Copirnik'', and ''Koppirnik'') in the [[Duchy of Nysa]], 10&nbsp;km south of [[Nysa, Poland|Nysa]], and now 10&nbsp;km north of the Polish-Czech border. Nicolaus Copernicus' great-grandfather is recorded as having received citizenship in [[Kraków]] in 1386. The toponym ''Kopernik'' (modern ''Koperniki'') has been variously tied to the Polish word for "[[dill]]" (''koper'') and the German word for "copper" (''Kupfer'').{{efn|These interpretations date to the dispute about Copernicus' (Polish vs. German) ethnicity, which had been open since the 1870s, and the "copper" vs. "dill" interpretations go back to the 19th century (''Magazin für die Literatur des Auslandes'', 1875, 534 f), but the dispute became virulent again in the 1960s, culminating in a controversy between E. Mosko ("copper") and S. Rospond ("dill") in 1963–64, summarized by Zygmunt Brocki, ''"Wsrôd publikacji o etymologii nazwiska Mikotaja Kopernika'' ["Some Publications on the Etymology of the Surname of Nicholaus Copernicus"], ''Komunikaty mazur.-warm.'', 1970.}} The [[suffix]] ''[[-nik]]'' (or [[plural]], ''-niki'') denotes a [[Slavic languages|Slavic]] and [[Polish language|Polish]] [[agent noun]].
+
+As was common in the period, the spellings of both the [[toponym]] and the [[surname]] vary greatly. Copernicus "was rather indifferent about [[orthography]]".<ref name="Gingerich p143"/> During his childhood, about 1480, the name of his father (and thus of the future astronomer) was recorded in Thorn as ''Niclas Koppernigk''.<ref name="google26"/>
+At Kraków he signed himself, in Latin, ''Nicolaus Nicolai de Torunia'' (Nicolaus, son of Nicolaus, of Toruń).{{efn|"In the [enrollment] documents still in existence we find the entry: Nicolaus Nicolai de Torunia."<ref>Moore (1994), p. 50.</ref>}} At Bologna, in 1496, he registered in the ''Matricula Nobilissimi Germanorum Collegii, resp. Annales Clarissimae Nacionis Germanorum'', of the ''Natio Germanica Bononiae'', as ''Dominus Nicolaus Kopperlingk de Thorn – IX [[Groschen|grosseti]]''.<ref name="google27"/><ref name="google28"/> At Padua he signed himself "Nicolaus Copernik", later "Coppernicus".<ref name="Gingerich p143"/> The astronomer thus Latinized his name to ''Coppernicus'', generally with two "p"s (in 23 of 31 documents studied),<ref name="wikisource"/> but later in life he used a single "p". On the title page of ''De revolutionibus'', [[Rheticus]] published the name (in the [[genitive case|genitive]], or [[possessive case|possessive]], case) as "''Nicolai Copernici''".{{efn|See the title page at [[#The book|The book]]}}
+
+===Education===
+
+====In Poland====
+
+Upon his father's death, young Nicolaus' maternal uncle, [[Lucas Watzenrode|Lucas Watzenrode the Younger]] (1447–1512), took the boy under his wing and saw to his education and career.<ref name="psb4"/> Watzenrode maintained contacts with leading intellectual figures in Poland and was a friend of the influential Italian-born [[Renaissance humanism|humanist]] and [[Kraków]] [[courtier]], [[Filippo Buonaccorsi]].<ref name="Polish Literature p. 38"/> There are no surviving primary documents on the early years of Copernicus's childhood and education.<ref name="psb4"/> Copernicus biographers assume that Watzenrode first sent young Copernicus to St. John's School, at Toruń, where he himself had been a master.<ref name="psb4"/> Later, according to Armitage,{{efn|Dobrzycki and Hajdukiewicz (1969) describe Copernicus having attended school at [[Włocławek]] as unlikely.<ref name="psb4"/>}} the boy attended the Cathedral School at [[Włocławek]], up the [[Vistula River]] from Toruń, which prepared pupils for entrance to the [[University of Kraków]], Watzenrode's alma mater in Poland's capital.<ref name="armitage55"/>
+
+[[File:Collegium Maius in Krakow 01.jpg|thumb|upright=1.2|''[[Collegium Maius]]'' at [[Kraków University]], Copernicus' Polish ''alma mater'']]
+
+In the winter semester of 1491–92 Copernicus, as "Nicolaus Nicolai de Thuronia", matriculated together with his brother Andrew at the University of Kraków (now [[Jagiellonian University]]).<ref name="psb4"/> Copernicus began his studies in the Department of Arts (from the fall of 1491, presumably until the summer or fall of 1495) in the heyday of the [[Kraków School of Mathematics and Astrology|Kraków astronomical-mathematical school]], acquiring the foundations for his subsequent mathematical achievements.<ref name="psb4"/> According to a later but credible tradition ([[Jan Brożek]]), Copernicus was a pupil of [[Albert Brudzewski]], who by then (from 1491) was a professor of [[Aristotelian philosophy]] but taught [[astronomy]] privately outside the university; Copernicus became familiar with Brudzewski's widely read commentary to [[Georg von Peuerbach]]'s ''Theoricæ novæ planetarum'' and almost certainly attended the lectures of [[Bernard of Biskupie]] and [[Wojciech Krypa]] of [[Szamotuły]], and probably other astronomical lectures by [[Jan of Głogów]], [[Michał of Wrocław]] (Breslau), [[Wojciech of Pniewy]], and [[Marcin Bylica]] of [[Olkusz]].<ref name="psb4-5"/>
+
+Copernicus' Kraków studies gave him a thorough grounding in the mathematical astronomy taught at the university (arithmetic, geometry, geometric optics, cosmography, theoretical and computational astronomy) and a good knowledge of the philosophical and natural-science writings of [[Aristotle]] (''[[De coelo]]'', ''[[Metaphysics (Aristotle)|Metaphysics]]'') and [[Averroes]] (which in the future would play an important role in the shaping of Copernicus' theory), stimulating his interest in learning and making him conversant with [[humanistic]] culture.<ref name="psb5"/> Copernicus broadened the knowledge that he took from the university lecture halls with independent reading of books that he acquired during his Kraków years ([[Euclid]], [[Haly Abenragel]], the ''[[Alfonsine Tables]]'', [[Johannes Regiomontanus]]' ''Tabulae directionum''); to this period, probably, also date his earliest scientific notes, now preserved partly at [[Uppsala University]].<ref name="psb5"/> At Kraków Copernicus began collecting a large library on astronomy; it would later be carried off as war booty by the Swedes during the [[Deluge (history)|Deluge]] in the 1650s and is now at the [[Uppsala University Library]].<ref>Sobel (2011), pp. 7, 232.</ref>
+
+Copernicus' four years at Kraków played an important role in the development of his critical faculties and initiated his analysis of logical contradictions in the two "official" systems of astronomy—Aristotle's theory of homocentric spheres, and [[Ptolemy]]'s mechanism of [[deferent|eccentrics]] and [[epicycle]]s—the surmounting and discarding of which would be the first step toward the creation of Copernicus' own doctrine of the structure of the universe.<ref name="psb5"/>
+
+Without taking a degree, probably in the fall of 1495, Copernicus left Kraków for the court of his uncle Watzenrode, who in 1489 had been elevated to [[Prince-Bishop of Warmia]] and soon (before November 1495) sought to place his nephew in the Warmia [[canonry]] vacated by the 26 August 1495 death of its previous tenant, Jan Czanow. For unclear reasons—probably due to opposition from part of the chapter, who appealed to Rome—Copernicus' installation was delayed, inclining Watzenrode to send both his nephews to study canon law in Italy, seemingly with a view to furthering their ecclesiastic careers and thereby also strengthening his own influence in the Warmia chapter.<ref name="psb5"/>
+
+[[File:SM Wrocław Kościół Świętego Krzyża ID 598588.jpg|thumb|upright=.9|[[Collegiate Church of the Holy Cross and St. Bartholomew, Wrocław|Collegiate Church of the Holy Cross and St. Bartholomew]] in [[Wrocław]]]]
+
+On 20 October 1497, Copernicus, by proxy, formally succeeded to the Warmia canonry which had been granted to him two years earlier. To this, by a document dated 10 January 1503 at [[Padua]], he would add a [[sinecure]] at the [[Collegiate Church of the Holy Cross and St. Bartholomew, Wrocław|Collegiate Church of the Holy Cross and St. Bartholomew]] in [[Wrocław]] (at the time in the [[Crown of Bohemia]]). Despite having been granted a papal [[indult]] on 29 November 1508 to receive further [[benefice]]s, through his ecclesiastic career Copernicus not only did not acquire further [[prebend]]s and higher stations ([[prelacy|prelacies]]) at the chapter, but in 1538 he relinquished the Wrocław sinecure. It is unclear whether he was ever ordained a priest.<ref>Jerzy Dobrzycki and Leszek Hajdukiewicz, "Kopernik, Mikołaj", ''[[Polski słownik biograficzny]]'' (Polish Biographical Dictionary), vol. XIV, Wrocław, [[Polish Academy of Sciences]], 1969, p.&nbsp;5.</ref> [[Edward Rosen]] asserts that he was not.<ref>{{cite journal |last=Rosen |first=Ed |date=December 1960 |title=Copernicus was not a priest |journal=Proc. Am. Philos. Soc. |volume=104 |issue=6 |url=http://www.philosophy-religion.org/handouts/pdfs/Copernicus-rev.pdf |url-status=dead |archive-url=https://web.archive.org/web/20131029214028/http://www.philosophy-religion.org/handouts/pdfs/Copernicus-rev.pdf |archive-date=29 October 2013 }}
+</ref><ref name="Cop+Succ">{{cite book |last=Rosen |first=Edward |editor1-last=Hilfstein |editor1-first=Erna |year=1995 |title=Copernicus and his successors |publisher=The Hambledon Press <!-- Deny Citation Bot--> |location=UK <!-- Deny Citation Bot--> |chapter=Chapter 6: Copernicus' Alleged Priesthood |isbn=978-1-85285-071-5 |pages=47–56 |chapter-url=https://books.google.com/books?id=C_a1kTvuZ1MC&pg=PA47 |access-date=17 December 2014|bibcode=1995cops.book.....R }}</ref> Copernicus did take [[minor orders]], which sufficed for assuming a chapter canonry.<ref name="psb5"/> ''The Catholic Encyclopedia'' proposes that his ordination was probable, as in 1537 he was one of four candidates for the [[bishop|episcopal seat]] of [[Warmia]], a position which required ordination.<ref name="newadvent.org">Hagen, J. (1908). Nicolaus Copernicus. In ''The Catholic Encyclopedia''. New York: Robert Appleton Company. Retrieved 6 November 2015 from New Advent: http://www.newadvent.org/cathen/04352b.htm</ref>
+
+====In Italy====
+Meanwhile, leaving Warmia in mid-1496—possibly with the retinue of the chapter's chancellor, Jerzy Pranghe, who was going to Italy—in the fall, possibly in October, Copernicus arrived in [[Bologna]] and a few months later (after 6 January 1497) signed himself into the register of the Bologna University of Jurists' "German nation", which included young Poles from [[Silesia]], [[Prussia]] and [[Pomerania]] as well as students of other nationalities.<ref name="psb5"/>
+
+During his three-year stay at Bologna, which occurred between fall 1496 and spring 1501, Copernicus seems to have devoted himself less keenly to studying [[Canon law of the Catholic Church|canon law]] (he received his [[doctorate in canon law]] only after seven years, following a second return to Italy in 1503) than to studying the [[humanities]]—probably attending lectures by [[Filippo Beroaldo]], [[Antonio Urceo]], called Codro, [[Giovanni Garzoni]], and [[Alessandro Achillini]]—and to studying astronomy. He met the famous astronomer [[Domenico Maria Novara da Ferrara]] and became his disciple and assistant.<ref name="psb5"/> Copernicus was developing new ideas inspired by reading the "Epitome of the Almagest" (''Epitome in Almagestum Ptolemei'') by [[George von Peuerbach]] and [[Johannes Regiomontanus]] (Venice, 1496). He verified its observations about certain peculiarities in Ptolemy's theory of the Moon's motion, by conducting on 9 March 1497 at Bologna a memorable observation of the [[occultation]] of [[Aldebaran]], the brightest star in the [[Taurus (constellation)|Taurus]] constellation, by the moon. Copernicus the humanist sought confirmation for his growing doubts through close reading of Greek and Latin authors ([[Pythagoras]], [[Aristarchos of Samos]], [[Cleomedes]], [[Cicero]], [[Pliny the Elder]], [[Plutarch]], [[Philolaus]], [[Heraclides Ponticus|Heraclides]], [[Ecphantos]], [[Plato]]), gathering, especially while at [[Padua]], fragmentary historic information about ancient astronomical, [[cosmological]] and [[calendar]] systems.<ref name="psb5-6"/>
+
+{{multiple image
+ | direction = vertical
+ | width =
+ | header =
+ | image1 = Domenico Maria Novara house location.jpg
+ | alt1 =
+ | caption1 = Via Galliera 65, [[Bologna]], site of house of [[Domenico Maria Novara da Ferrara|Domenico Maria Novara]]
+ | image2 = Copernico commemorative plate.jpg
+ | alt2 =
+ | caption2 = Close-up of plaque{{efn|Translated to English, it reads: "Here, where stood the house of Domenico Maria Novara, professor of the ancient [[Studium of Bologna]], NICOLAUS COPERNICUS, the Polish mathematician and astronomer who would revolutionize concepts of the universe, conducted brilliant celestial observations with his teacher in 1497–1500. Placed on the 5th centenary of [Copernicus's] birth by the [[Bologna|City]], the [[University of Bologna|University]], the Academy of Sciences of the Institute of Bologna, the [[Polish Academy of Sciences]]. 1473 [–] 1973."}}
+ }}
+
+Copernicus spent the [[Jubilee (Christianity)|jubilee year]] 1500 in Rome, where he arrived with his brother Andrew that spring, doubtless to perform an apprenticeship at the [[Papal Curia]]. Here, too, however, he continued his astronomical work begun at Bologna, observing, for example, a [[lunar eclipse]] on the night of 5–6 November 1500. According to a later account by [[Rheticus]], Copernicus also—probably privately, rather than at the Roman ''[[Sapienza]]''—as a "''Professor Mathematum''" (professor of astronomy) delivered, "to numerous... students and... leading masters of the science", public lectures devoted probably to a critique of the mathematical solutions of contemporary astronomy.<ref name="psb6"/>
+
+On his return journey doubtless stopping briefly at Bologna, in mid-1501 Copernicus arrived back in Warmia. After on 28 July receiving from the chapter a two-year extension of leave in order to study medicine (since "he may in future be a useful medical advisor to our Reverend Superior [Bishop [[Lucas Watzenrode]]] and the gentlemen of the chapter"), in late summer or in the fall he returned again to Italy, probably accompanied by his brother Andrew{{efn|Copernicus' brother Andreas would, before the end of 1512, develop [[leprosy]] and be forced to leave Warmia for Italy.  In November 1518 Copernicus would learn that his brother had died.<ref>Sobel (2011), pp. 26, 34, 40.</ref>}} and by Canon Bernhard Sculteti. This time he studied at the [[University of Padua]], famous as a seat of medical learning, and—except for a brief visit to [[Ferrara]] in May–June 1503 to pass examinations for, and receive, his doctorate in canon law—he remained at Padua from fall 1501 to summer 1503.<ref name="psb6"/>
+
+Copernicus studied medicine probably under the direction of leading Padua professors—Bartolomeo da Montagnana, [[Girolamo Fracastoro]], Gabriele Zerbi, Alessandro Benedetti—and read medical treatises that he acquired at this time, by Valescus de Taranta, Jan Mesue, Hugo Senensis, Jan Ketham, Arnold de Villa Nova, and [[Michele Savonarola]], which would form the embryo of his later medical library.<ref name="psb6" />
+
+One of the subjects that Copernicus must have studied was [[astrology]], since it was considered an important part of a medical education.<ref name="reference"/> However, unlike most other prominent Renaissance astronomers, he appears never to have practiced or expressed any interest in astrology.<ref name="countenanced"/>
+
+As at Bologna, Copernicus did not limit himself to his official studies. It was probably the Padua years that saw the beginning of his Hellenistic interests. He familiarized himself with Greek language and culture with the aid of [[Theodorus Gaza]]'s grammar (1495) and Johannes Baptista Chrestonius' dictionary (1499), expanding his studies of antiquity, begun at Bologna, to the writings of [[Bessarion]], [[Lorenzo Valla]], and others. There also seems to be evidence that it was during his Padua stay that the idea finally crystallized, of basing a new system of the world on the movement of the Earth.<ref name="psb6"/>
+As the time approached for Copernicus to return home, in spring 1503 he journeyed to Ferrara where, on 31 May 1503, having passed the obligatory examinations, he was granted the degree of [[Doctor of Canon Law]] (''Nicolaus Copernich de Prusia, Jure Canonico ... et doctoratus''<ref name="NCGes" />). No doubt it was soon after (at latest, in fall 1503) that he left Italy for good to return to [[Warmia]].<ref name="psb6"/>
+
+===Planetary observations===
+Copernicus made three observations of Mercury, with errors of −3, −15 and −1 minutes of arc. He made one of Venus, with an error of −24 minutes. Four were made of Mars, with errors of 2, 20, 77, and 137 minutes. Four observations were made of Jupiter, with errors of 32, 51, −11 and 25 minutes. He made four of Saturn, with errors of 31, 20, 23 and −4 minutes.<ref>Studia Copernicana 16</ref>
+
+===Other observations===
+With Novara, Copernicus observed an occultation of Aldebaran by the moon on 9/3/1497. Copernicus also observed a conjunction of Saturn and the moon on 4/3/1500.
+He saw an eclipse of the moon on 6/11/1500.<ref>
+https://hal.archives-ouvertes.fr/hal-01435500/document</ref><ref>{{Cite web|url=https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/|title = Nicolaus Copernicus - Biography}}</ref>
+
+===Work===
+[[File:Symokatta epistole morales.jpg|thumb|Copernicus's translation of [[Theophylact Simocatta]]'s ''Epistles''. Cover shows [[coat of arms]] of ''(clockwise from top)'' [[Poland]], Lithuania and [[Kraków]].]]
+[[File:Copernicus Tower in Frombork.jpg|thumb|upright|Copernicus' tower at [[Frombork]], where he lived and worked; reconstructed since [[World War&nbsp;II]]]]
+[[File:Zamek, skrzydło zachodnie..jpg|thumb|[[Olsztyn|Olsztyn Castle]], where Copernicus resided from 1516 to 1521]]
+
+Having completed all his studies in Italy, 30-year-old Copernicus returned to Warmia, where he would live out the remaining 40 years of his life, apart from brief journeys to [[Kraków]] and to nearby Prussian cities: [[Toruń]] (Thorn), [[Gdańsk]] (Danzig), [[Elbląg]] (Elbing), [[Grudziądz]] (Graudenz), [[Malbork]] (Marienburg), [[Königsberg]] (Królewiec).<ref name="psb6"/>
+
+The [[Prince-Bishopric of Warmia]] enjoyed substantial [[autonomy]], with its own [[Diet (assembly)|diet]] (parliament) and monetary unit (the same as in the other parts of [[Royal Prussia]]) and treasury.<ref name="sedlar"/>
+
+Copernicus was his uncle's secretary and physician from 1503 to 1510 (or perhaps till his uncle's death on 29 March 1512) and resided in the Bishop's castle at [[Lidzbark Warmiński|Lidzbark]] (Heilsberg), where he began work on his heliocentric theory. In his official capacity, he took part in nearly all his uncle's political, ecclesiastic and administrative-economic duties. From the beginning of 1504, Copernicus accompanied Watzenrode to sessions of the Royal Prussian diet held at Malbork and Elbląg and, write Dobrzycki and Hajdukiewicz, "participated... in all the more important events in the complex diplomatic game that ambitious politician and statesman played in defense of the particular interests of Prussia and Warmia, between hostility to the [Teutonic] Order and loyalty to the Polish Crown."<ref name="psb6"/>
+
+In 1504–12 Copernicus made numerous journeys as part of his uncle's retinue—in 1504, to Toruń and [[Gdańsk]], to a session of the Royal Prussian Council in the presence of Poland's King [[Alexander Jagiellon]]; to sessions of the Prussian diet at Malbork (1506), Elbląg (1507) and [[Sztum]] (Stuhm) (1512); and he may have attended a [[Poznań]] (Posen) session (1510) and the coronation of Poland's King [[Sigismund I the Old]] in Kraków (1507). Watzenrode's itinerary suggests that in spring 1509 Copernicus may have attended the [[Kraków]] [[sejm]].<ref name="psb6"/>
+
+It was probably on the latter occasion, in Kraków, that Copernicus submitted for printing at [[Jan Haller]]'s press his translation, from Greek to Latin, of a collection, by the 7th-century [[Byzantine Empire|Byzantine]] historian [[Theophylact Simocatta]], of 85 brief poems called Epistles, or letters, supposed to have passed between various characters in a Greek story. They are of three kinds—"moral," offering advice on how people should live; "pastoral", giving little pictures of shepherd life; and "amorous", comprising love poems. They are arranged to follow one another in a regular rotation of subjects. Copernicus had translated the Greek verses into Latin prose, and he now published his version as ''Theophilacti scolastici Simocati epistolae morales, rurales et amatoriae interpretatione latina'', which he dedicated to his uncle in gratitude for all the benefits he had received from him. With this translation, Copernicus declared himself on the side of the [[Renaissance humanism|humanists]] in the struggle over the question of whether Greek literature should be revived.<ref name="armitage75–77"/> Copernicus's first poetic work was a Greek [[epigram]], composed probably during a visit to Kraków, for [[Johannes Dantiscus]]' [[epithalamium]] for [[Barbara Zapolya]]'s 1512 wedding to [[Monarchs of Poland|King]] [[Sigismund I the Old|Zygmunt I the Old]].<ref name="psb7"/>
+
+Some time before 1514, Copernicus wrote an initial outline of his heliocentric theory known only from later transcripts, by the title (perhaps given to it by a copyist), ''Nicolai Copernici de hypothesibus motuum coelestium a se constitutis commentariolus''—commonly referred to as the ''[[Commentariolus]]''. It was a succinct theoretical description of the world's heliocentric mechanism, without mathematical apparatus, and differed in some important details of geometric construction from ''De revolutionibus''; but it was already based on the same assumptions regarding Earth's triple motions. The ''Commentariolus'', which Copernicus consciously saw as merely a first sketch for his planned book, was not intended for printed distribution. He made only a very few manuscript copies available to his closest acquaintances, including, it seems, several Kraków astronomers with whom he collaborated in 1515–30 in observing [[eclipse]]s. [[Tycho Brahe]] would include a fragment from the ''[[Commentariolus]]'' in his own treatise, ''Astronomiae instauratae progymnasmata'', published in [[Prague]] in 1602, based on a manuscript that he had received from the [[Bohemia]]n physician and astronomer [[Tadeáš Hájek]], a friend of [[Rheticus]]. The ''Commentariolus'' would appear complete in print for the first time only in 1878.<ref name="psb7"/>
+
+In 1510 or 1512 Copernicus moved to Frombork, a town to the northwest at the [[Vistula Lagoon]] on the [[Baltic Sea]] coast. There, in April 1512, he participated in the election of [[Fabian of Lossainen]] as [[Prince-Bishop of Warmia]]. It was only in early June 1512 that the chapter gave Copernicus an "external curia"—a house outside the defensive walls of the cathedral mount. In 1514 he purchased the northwestern tower within the walls of the Frombork stronghold. He would maintain both these residences to the end of his life, despite the devastation of the chapter's buildings by a raid against Frauenburg carried out by the Teutonic Order in January 1520, during which Copernicus's astronomical instruments were probably destroyed. Copernicus conducted astronomical observations in 1513–16 presumably from his external curia; and in 1522–43, from an unidentified "small tower" (''turricula''), using primitive instruments modeled on ancient ones—the [[Quadrant (instrument)|quadrant]], [[triquetrum (astronomy)|triquetrum]], [[armillary sphere]]. At Frombork Copernicus conducted over half of his more than 60 registered astronomical observations.<ref name="psb7"/>
+
+Having settled permanently at Frombork, where he would reside to the end of his life, with interruptions in 1516–19 and 1520–21, Copernicus found himself at the Warmia chapter's economic and administrative center, which was also one of Warmia's two chief centers of political life. In the difficult, politically complex situation of Warmia, threatened externally by the [[Teutonic Order]]'s aggressions (attacks by Teutonic bands; the [[Polish-Teutonic War (1519-1521)|Polish-Teutonic War of 1519–21]]; Albert's plans to annex Warmia), internally subject to strong separatist pressures (the selection of the [[Prince-Bishop of Warmia|prince-bishops of Warmia]]; [[currency reform]]), he, together with part of the chapter, represented a program of strict cooperation with the [[Polish Crown]] and demonstrated in all his public activities (the defense of his country against the Order's plans of conquest; proposals to unify its [[monetary]] system with the Polish Crown's; support for Poland's interests in the Warmia dominion's ecclesiastic administration) that he was consciously a citizen of the [[Polish-Lithuanian Republic]]. Soon after the death of uncle Bishop Watzenrode, he participated in the signing of the [[Second Treaty of Piotrków Trybunalski]] (7 December 1512), governing the appointment of the [[Bishop of Warmia]], declaring, despite opposition from part of the chapter, for loyal cooperation with the [[Polish Crown]].<ref name="psb7"/>
+
+That same year (before 8 November 1512) Copernicus assumed responsibility, as ''magister pistoriae'', for administering the chapter's economic enterprises (he would hold this office again in 1530), having already since 1511 fulfilled the duties of chancellor and visitor of the chapter's estates.<ref name="psb7"/>
+
+His administrative and economic duties did not distract Copernicus, in 1512–15, from intensive observational activity. The results of his observations of [[Mars]] and [[Saturn]] in this period, and especially a series of four observations of the [[Sun]] made in 1515, led to the discovery of the variability of [[Earth]]'s [[orbital eccentricity|eccentricity]] and of the movement of the solar [[apogee]] in relation to the [[fixed stars]], which in 1515–19 prompted his first revisions of certain assumptions of his system. Some of the observations that he made in this period may have had a connection with a proposed reform of the [[Julian calendar]] made in the first half of 1513 at the request of the [[Bishop of Fossombrone]], [[Paul of Middelburg]]. Their contacts in this matter in the period of the [[Fifth Lateran Council]] were later memorialized in a complimentary mention in Copernicus's dedicatory epistle in ''[[De revolutionibus orbium coelestium|Dē revolutionibus orbium coelestium]]'' and in a treatise by Paul of Middelburg, ''Secundum compendium correctionis Calendarii'' (1516), which mentions Copernicus among the learned men who had sent the Council proposals for the calendar's emendation.<ref name="psb7-8"/>
+
+During 1516–21, Copernicus resided at Olsztyn (Allenstein) Castle as economic administrator of Warmia, including [[Olsztyn]] (Allenstein) and [[Pieniężno]] (Mehlsack). While there, he wrote a manuscript, ''[[Locationes mansorum desertorum]]'' (''Locations of Deserted Fiefs''), with a view to populating those fiefs with industrious farmers and so bolstering the economy of Warmia. When [[Siege of Olsztyn|Olsztyn was besieged]] by the [[Teutonic Knights]] during the [[Polish–Teutonic War (1519–21)|Polish–Teutonic War]], Copernicus directed the defense of Olsztyn and Warmia by Royal Polish forces. He also represented the Polish side in the ensuing peace negotiations.<ref name="repcheck66"/>
+
+[[File:Kopernikus, Nikolaus - Reußner 1578 Portrait1.jpg|thumb|left|Copernicus holding [[lily-of-the-valley]]: portrait in [[Nicolaus Reusner]]'s ''Icones'' (1587).<ref name=lily>Andreas Kühne, Stefan Kirschner, ''Biographia Copernicana: Die Copernicus-Biographien des 16. bis 18. Jahrhunderts'' (2004), [https://books.google.com/books?id=NfbnBQAAQBAJ&pg=PT14 p. 14]</ref>{{efn|This was based on sketch by [[Tobias Stimmer]] (c.&nbsp;1570), and allegedly based on a self-portrait by Copernicus. It inspired most later Copernicus depictions.<ref name=lily/>}}]]
+
+Copernicus for years advised the [[Royal Prussia]]n [[sejmik]] on [[monetary reform]], particularly in the 1520s when that was a major question in regional Prussian politics.<ref name="psb9"/> In 1526 he wrote a study on the value of money, "[[Monetae cudendae ratio]]". In it he formulated an early iteration of the theory, now called [[Gresham's law]], that "bad" ([[debasement|debased]]) [[coin]]age drives "good" (un-debased) coinage out of circulation—several decades before [[Thomas Gresham]]. He also, in 1517, set down a [[quantity theory of money]], a principal concept in economics to the present day. Copernicus's recommendations on monetary reform were widely read by leaders of both Prussia and Poland in their attempts to stabilize currency.<ref name="beginnings"/>
+
+In 1533, [[Johann Albrecht Widmannstetter|Johann Widmanstetter]], secretary to [[Pope Clement VII]], explained Copernicus's heliocentric system to the Pope and two cardinals. The Pope was so pleased that he gave Widmanstetter a valuable gift.<ref name="Repcheck"/> In 1535 [[Bernard Wapowski]] wrote a letter to a gentleman in [[Vienna]], urging him to publish an enclosed [[almanac]], which he claimed had been written by Copernicus. This is the only mention of a Copernicus almanac in the historical records. The "almanac" was likely Copernicus's tables of planetary positions. Wapowski's letter mentions Copernicus's theory about the motions of the earth. Nothing came of Wapowski's request, because he died a couple of weeks later.<ref name="Repcheck"/>
+
+Following the death of Prince-Bishop of Warmia [[Mauritius Ferber]] (1 July 1537), Copernicus participated in the election of his successor, [[Johannes Dantiscus]] (20 September 1537). Copernicus was one of four candidates for the post, written in at the initiative of [[Tiedemann Giese]]; but his candidacy was actually ''[[pro forma]]'', since Dantiscus had earlier been named [[coadjutor bishop]] to Ferber and since Dantiscus had the backing of Poland's King [[Sigismund I the Old|Sigismund I]].<ref name="psb11"/> At first Copernicus maintained friendly relations with the new Prince-Bishop, assisting him medically in spring 1538 and accompanying him that summer on an inspection tour of Chapter holdings. But that autumn, their friendship was strained by suspicions over Copernicus's housekeeper, Anna Schilling, whom Dantiscus banished from Frombork in spring 1539.<ref name="psb11"/>
+
+In his younger days, Copernicus the physician had treated his uncle, brother and other chapter members. In later years he was called upon to attend the elderly bishops who in turn occupied the see of Warmia—Mauritius Ferber and Johannes Dantiscus—and, in 1539, his old friend [[Tiedemann Giese]], Bishop of [[Chełmno]] (Kulm). In treating such important patients, he sometimes sought consultations from other physicians, including the physician to Duke Albert and, by letter, the Polish Royal Physician.<ref name="armitage97–98"/>
+
+In the spring of 1541, [[Albert, Duke of Prussia|Duke Albert]]—former Grand Master of the [[Teutonic Order]] who had converted the [[Monastic State of the Teutonic Knights]] into a [[Lutheran]] and hereditary realm, the [[Duchy of Prussia]], upon doing homage to his uncle, the [[Sigismund I the Old|King of Poland, Sigismund I]]—summoned Copernicus to [[Königsberg]] to attend the Duke's counselor, [[George von Kunheim]], who had fallen seriously ill, and for whom the Prussian doctors seemed unable to do anything. Copernicus went willingly; he had met von Kunheim during negotiations over reform of the coinage. And Copernicus had come to feel that Albert himself was not such a bad person; the two had many intellectual interests in common. The Chapter readily gave Copernicus permission to go, as it wished to remain on good terms with the Duke, despite his [[Lutheran]] faith. In about a month the patient recovered, and Copernicus returned to Frombork. For a time, he continued to receive reports on von Kunheim's condition, and to send him medical advice by letter.<ref name="armitage98"/>
+
+Some of Copernicus's close friends turned Protestant, but Copernicus never showed a tendency in that direction. The first attacks on him came from Protestants. [[Wilhelm Gnapheus]], a Dutch refugee settled in [[Elbląg]], wrote a comedy in [[Latin]], ''Morosophus'' (The Foolish Sage), and staged it at the Latin school that he had established there. In the play, Copernicus was caricatured as the eponymous Morosophus, a haughty, cold, aloof man who dabbled in [[astrology]], considered himself inspired by God, and was rumored to have written a large work that was moldering in a chest.<ref name="Polish Literature p. 38"/>
+
+Elsewhere Protestants were the first to react to news of Copernicus's theory. [[Melanchthon]] wrote:
+
+{{blockquote|Some people believe that it is excellent and correct to work out a thing as absurd as did that [[Sarmatism|Sarmatian]] [i.e., Polish] astronomer who moves the earth and stops the sun. Indeed, wise rulers should have curbed such light-mindedness.<ref name="Polish Literature p. 38"/>}}
+
+Nevertheless, in 1551, eight years after Copernicus's death, astronomer [[Erasmus Reinhold]] published, under the sponsorship of Copernicus's former military adversary, the Protestant Duke Albert, the ''[[Prussian Tables]]'', a set of astronomical tables based on Copernicus's work. Astronomers and astrologers quickly adopted it in place of its predecessors.<ref name="reference36"/>
+
+===Heliocentrism===
+[[File:Copernicus-Boissard.gif|thumb|upright|"''Nicolaus Copernicus [[Toruń|Tornaeus]] [[Prussia (region)|Borussus]] [[Mathematician|Mathemat.]]''", 1597]]
+Some time before 1514 Copernicus made available to friends his "[[Commentariolus]]" ("Little Commentary"), a [[manuscript]] describing his ideas about the heliocentric hypothesis.{{efn|A reference to the "Commentariolus" is contained in a library catalogue, dated 1 May 1514, of a 16th-century historian, Matthew of [[Miechów]], so it must have begun circulating before that date (Koyré, [[#Reference-Koyre-1973|1973, p. 85]]; Gingerich, [[#Reference-Gingerich-2004|2004, p. 32]]). [[#thoren-1990|Thoren]] (1990 p. 99) gives the length of the manuscript as 40 pages.}} It contained seven basic assumptions (detailed below).<ref name="goddu"/> Thereafter he continued gathering data for a more detailed work.
+
+At about 1532 Copernicus had basically completed his work on the manuscript of ''[[De revolutionibus orbium coelestium|Dē revolutionibus orbium coelestium]]''; but despite urging by his closest friends, he resisted openly publishing his views, not wishing—as he confessed—to risk the scorn "to which he would expose himself on account of the novelty and incomprehensibility of his theses."<ref name="psb11"/>
+
+In 1533, [[Johann Albrecht Widmannstetter]] delivered a series of lectures in Rome outlining Copernicus's theory. [[Pope Clement VII]] and several [[Cardinal (Catholicism)|Catholic cardinals]] heard the lectures and were interested in the theory. On 1 November 1536, Cardinal [[Nikolaus von Schönberg]], [[Archbishop of Capua]], wrote to Copernicus from Rome:
+
+{{quote|Some years ago word reached me concerning your proficiency, of which everybody constantly spoke. At that time I began to have a very high regard for you... For I had learned that you had not merely mastered the discoveries of the ancient astronomers uncommonly well but had also formulated a new cosmology. In it you maintain that the earth moves; that the sun occupies the lowest, and thus the central, place in the universe... Therefore with the utmost earnestness I entreat you, most learned sir, unless I inconvenience you, to communicate this discovery of yours to scholars, and at the earliest possible moment to send me your writings on the sphere of the universe together with the tables and whatever else you have that is relevant to this subject ...<ref name="webexhibits"/>}}
+
+By then Copernicus's work was nearing its definitive form, and rumors about his theory had reached educated people all over Europe. Despite urgings from many quarters, Copernicus delayed publication of his book, perhaps from fear of criticism—a fear delicately expressed in the subsequent [[Dedication to Pope Paul III|dedication]] of his masterpiece to [[Pope Paul III]]. Scholars disagree on whether Copernicus's concern was limited to possible astronomical and philosophical objections, or whether he was also concerned about religious objections.{{efn|Koyré [[#Reference-Koyre-1973|(1973, pp. 27, 90)]] and Rosen [[#Reference-Rosen-1995|(1995, pp. 64, 184)]] take the view that Copernicus was indeed concerned about possible objections from theologians, while Lindberg and Numbers [[#Reference-Lindberg&Numbers-1986|(1986)]] argue against it. Koestler [[#Reference-Koestler-1963|(1963)]] also denies it. Indirect evidence that Copernicus was concerned about objections from theologians comes from a letter written to him by [[Andreas Osiander]] in 1541, in which Osiander advises Copernicus to adopt a proposal by which he says "you will be able to appease the Peripatetics and theologians whose opposition you fear". [[#Reference-Koyre-1973|(Koyré, 1973, pp. 35, 90)]]}}
+
+=== ''De revolutionibus orbium coelestium'' ===
+
+Copernicus was still working on ''[[De revolutionibus orbium coelestium]]'' (even if not certain that he wanted to publish it) when in 1539 [[Georg Joachim Rheticus]], a [[Wittenberg]] mathematician, arrived in Frombork. [[Philipp Melanchthon]], a close theological ally of [[Martin Luther]], had arranged for Rheticus to visit several astronomers and study with them. Rheticus became Copernicus's pupil, staying with him for two years and writing a book, ''[[Narratio prima]]'' (First Account), outlining the essence of Copernicus's theory. In 1542 Rheticus published a treatise on [[trigonometry]] by Copernicus (later included as chapters 13 and 14 of Book I of ''De revolutionibus'').<ref>Freely, "Celestial Revolutionary" p. 149</ref>
+Under strong pressure from Rheticus, and having seen the favorable first general reception of his work, Copernicus finally agreed to give ''De revolutionibus'' to his close friend, [[Tiedemann Giese]], bishop of [[Chełmno]] (Kulm), to be delivered to Rheticus for printing by the German printer [[Johannes Petreius]] at [[Nuremberg]] (''Nürnberg''), Germany. While Rheticus initially supervised the printing, he had to leave Nuremberg before it was completed, and he handed over the task of supervising the rest of the printing to a Lutheran theologian, [[Andreas Osiander]].<ref name="archive"/>
+
+Osiander added an unauthorised and unsigned preface, defending Copernicus' work against those who might be offended by its novel hypotheses.  He argued that "different hypotheses are sometimes offered for one and the same motion [and therefore] the astronomer will take as his first choice that hypothesis which is the easiest to grasp."  According to Osiander, "these hypotheses need not be true nor even probable.  [I]f they provide a calculus consistent with the observations, that alone is enough."<ref>Sobel (2011) p. 188.</ref>
+
+===Death===
+[[File:Nicolaus Copernicus epitaph.PNG|thumb|upright|1735 [[epitaph]], [[Frombork Cathedral]]]]
+[[File:Frauenburger Dom 2010.jpg|thumb|Frombork Cathedral]]
+
+Toward the close of 1542, Copernicus was seized with [[apoplexy]] and paralysis, and he died at age 70 on 24 May 1543. Legend has it that he was presented with the final printed pages of his ''[[De revolutionibus orbium coelestium|Dē revolutionibus orbium coelestium]]'' on the very day that he died, allowing him to take farewell of his life's work.{{efn|According to {{harvnb|Bell|1992|p=111}},
+"... Copernicus, on his deathbed, received the printer's proofs of his epoch-breaking ''Dē revolutionibus orbium coelestium''."}} He is reputed to have awoken from a stroke-induced coma, looked at his book, and then died peacefully.{{efn|[[#Reference-Koestler-1963|Koestler 1963]], page 189, says the following about a letter from Canon [[Tiedemann Giese]] to [[Georg Joachim Rheticus]]:  "[…] the end came only after several months, on 24 May. In a letter to Rheticus, written a few weeks later, Giese recorded the event in a single, tragic sentence:  'For many days he had been deprived of his memory and mental vigour; he only saw his completed book at the last moment, on the day he died.'"  Koestler attributes this quotation to [[Leopold Prowe]], ''Nicolaus Copernicus'', Berlin 1883–1884, volume 1, part 2, p. 554.}}
+
+Copernicus was reportedly buried in Frombork Cathedral, where a 1580 epitaph stood until being defaced; it was replaced in 1735. For over two centuries, archaeologists searched the cathedral in vain for Copernicus' remains. Efforts to locate them in 1802, 1909, 1939 had come to nought. In 2004 a team led by Jerzy Gąssowski, head of an [[archaeology]] and [[anthropology]] institute in [[Pułtusk]], began a new search, guided by the research of historian [[Jerzy Sikorski]].<ref name=gass2005>{{cite web |last=Gąssowski |first=Jerzy |date=2005 |title=Poszukiwanie grobu Kopernika |trans-title=Searching for Copernicus' Grave |language=pl |publisher=Grupa Astronomia |website=www.astronomia.pl |url=http://www.astronomia.pl/historia_astronomii/index.php?id=614 |archive-url=https://web.archive.org/web/20140708123031/http://www.astronomia.pl/historia_astronomii/index.php?id=614 |archive-date=8 July 2014 |quote=It results from the research of Dr. Jerzy Sikorski, an Olsztyn historian and an outstanding researcher of the life and work of Nicolaus Copernicus. According to Dr. Sikorski, the canon of the Frombork cathedral was buried in the immediate vicinity of this altar, which was entrusted to their care. This altar was the one who once wore the call of Saint Andrew, and now St. Cross, fourth in the right row. |access-date=7 December 2017}}</ref><ref name="Genetic"/> In August 2005, after scanning beneath the cathedral floor, they discovered what they believed to be Copernicus's remains.<ref name="Polish tests"/>
+
+The discovery was announced only after further research, on 3 November 2008. Gąssowski said he was "almost 100 percent sure it is Copernicus".<ref name="100 Percent"/> [[Forensic]] expert Capt. Dariusz Zajdel of the Polish Police Central Forensic Laboratory used the skull to reconstruct a face that closely resembled the features—including a broken nose and a scar above the left eye—on a Copernicus self-portrait.<ref name="100 Percent" /> The expert also determined that the skull belonged to a man who had died around age 70—Copernicus's age at the time of his death.<ref name="Polish tests" />
+
+The grave was in poor condition, and not all the remains of the skeleton were found; missing, among other things, was the lower jaw.<ref name="guardian"/> The DNA from the bones found in the grave matched hair samples taken from a book owned by Copernicus which was kept at the library of the [[University of Uppsala]] in Sweden.<ref name="Genetic"/><ref name="gravemystery"/>
+
+On 22 May 2010 Copernicus was given a second funeral in a [[Mass (liturgy)|Mass]] led by [[Józef Kowalczyk]], the former [[papal nuncio]] to Poland and newly named [[Primate of Poland]]. Copernicus's remains were reburied in the same spot in [[Frombork Cathedral]] where part of his skull and other bones had been found. A black granite tombstone now identifies him as the founder of the [[heliocentric theory]] and also a church [[Canon (priest)|canon]]. The tombstone bears a representation of Copernicus's model of the Solar System—a golden Sun encircled by six of the planets.<ref name="PD20100525"/>
+
+==Copernican system==
+{{Main|Copernican heliocentrism}}
+
+===Predecessors===
+[[Philolaus]] (c. 480–385 BCE) described an astronomical system in which a [[Central Fire]] (different from the Sun) occupied the centre of the universe, and a counter-Earth, the Earth, Moon, the Sun itself, planets, and stars all revolved around it, in that order outward from the centre.<ref name="archive39"/> [[Heraclides Ponticus]] (387–312 BCE) proposed that the Earth rotates on its axis.<ref name="archive40"/>
+[[Aristarchus of Samos]] (c. 310 BCE – c. 230 BCE) was the first to advance a theory that the earth orbited the sun.<ref name="archive38"/> Further mathematical details of Aristarchus' heliocentric system were worked out around 150 BCE by the [[Hellenistic]] astronomer [[Seleucus of Seleucia]]. Though Aristarchus' original text has been lost, a reference in [[Archimedes]]' book ''[[The Sand Reckoner]]'' (''Archimedis Syracusani Arenarius & Dimensio Circuli'') describes a work by Aristarchus in which he advanced the heliocentric model. [[Thomas Little Heath|Thomas Heath]] gives the following English translation of Archimedes' text:<ref>[[#Reference-Heath-1913|Heath (1913)]], [https://archive.org/stream/aristarchusofsam00heatuoft#page/302/mode/2up p. 302].  The italics and parenthetical comments are as they appear in Heath's original.</ref>
+
+<!--- This is a verbatim quotation of Heath's text. As such, it should preserve the spelling—of such words as "centre", for instance—which he actually used.-->
+
+{{quote|You are now aware ['you' being King Gelon] that the "universe" is the name given by most astronomers to the sphere the centre of which is the centre of the earth, while its radius is equal to the straight line between the centre of the sun and the centre of the earth. This is the common account (τά γραφόμενα) as you have heard from astronomers. But Aristarchus has brought out a ''book consisting of certain hypotheses'', wherein it appears, as a consequence of the assumptions made, that the universe is many times greater than the "universe" just mentioned. His hypotheses are that ''the fixed stars and the sun remain unmoved, that the earth revolves about the sun on the circumference of a circle, the sun lying in the middle of the orbit'', and that the sphere of the fixed stars, situated about the same centre as the sun, is so great that the circle in which he supposes the earth to revolve bears such a proportion to the distance of the fixed stars as the centre of the sphere bears to its surface.|''[[The Sand Reckoner]]''}}
+
+In an early unpublished manuscript of ''De Revolutionibus'' (which still survives), Copernicus mentioned the (non-heliocentric) 'moving Earth' theory of Philolaus and the possibility that Aristarchus also had a 'moving Earth' theory (though it is unlikely that he was aware that it was a heliocentric theory). He removed both references from his final published manuscript.{{efn|name=AristarchusNote01a}}{{efn|name=Kish1978|[[George Kish]] (1978) argues that Copernicus knew about Aristarchus's heliocentric theory, saying: "Copernicus himself admitted that the theory was attributed to Aristarchus, though this does not seem to be generally known. ... it is a curious fact that Copernicus did mention the theory of Aristarchus in a passage which he later suppressed."<ref>{{cite book|author=George Kish|title=A Source Book in Geography|url=https://books.google.com/books?id=_6qF4vjZvhYC&pg=PA51|year=1978|publisher=[[Harvard University Press]]|isbn=978-0-674-82270-2|pages=51–52}}</ref>}}
+
+Copernicus was probably aware that Pythagoras's system involved a moving Earth. The Pythagorean system was mentioned by Aristotle.<ref>Aristotle, De Caelo, Book 2, Part 13</ref>
+
+Copernicus owned a copy of Giorgio Valla's ''De expetendis et fugiendis rebus'', which included a translation of Plutarch's reference to Aristarchus's heliostaticism.<ref>E.Rosen, Nicholaus Copernicus and Giorgio Valla, Physis. Rivista internazionale di Storia della Scienza, 23, 1981, pp. 449–57.</ref>
+
+In Copernicus' dedication of ''[[On the Revolutions of the Heavenly Spheres|On the Revolutions]]'' to [[Pope Paul III]]—which Copernicus hoped would dampen criticism of his [[heliocentric theory]] by "babblers... completely ignorant of [astronomy]"—the book's author wrote that, in rereading all of philosophy, in the pages of [[Cicero]] and [[Plutarch]] he had found references to those few thinkers who dared to move the Earth "against the traditional opinion of astronomers and almost against common sense."
+
+The prevailing theory during Copernicus's lifetime was the one that [[Ptolemy]] published in his ''[[Almagest]]'' {{circa|150 CE}}; the Earth was the stationary center of the universe. Stars were embedded in a large outer sphere that rotated rapidly, approximately daily, while each of the planets, the Sun, and the Moon were embedded in their own, smaller spheres. Ptolemy's system employed devices, including [[Deferent and epicycle|epicycles, deferents]] and [[equant]]s, to account for observations that the paths of these bodies differed from simple, circular orbits centered on the Earth.<ref>{{cite book |last=Gingerich |first=Owen |year=1997 |title=The Eye of Heaven |chapter=Ptolemy, Copernicus, and Kepler |publisher=Springer |pages=3–51}}
+</ref>
+
+Beginning in the 10th century, a tradition criticizing Ptolemy developed within [[Islamic astronomy]], which climaxed with [[Ibn al-Haytham]] of [[Basra]]'s ''Al-Shukūk 'alā Baṭalamiyūs'' ("Doubts Concerning Ptolemy").<ref>{{Cite book| publisher = NYU Press| isbn = 978-0-8147-8023-7| last = Saliba| first = George| title = A History of Arabic Astronomy: Planetary Theories During the Golden Age of Islam| date = 1 July 1995| page=31}}</ref> Several Islamic astronomers questioned the Earth's apparent immobility,<ref name=Ragep>{{Citation |last=Ragep |first=F. Jamil |year=2001a |title=Tusi and Copernicus: The Earth's Motion in Context |journal=Science in Context |volume=14 |issue=1–2 |pages=145–63  |doi=10.1017/s0269889701000060|s2cid=145372613 }}</ref><ref name=Ragep2>{{Citation |last1=Ragep |first1=F. Jamil |year=2001b |title=Freeing Astronomy from Philosophy: An Aspect of Islamic Influence on Science |journal=Osiris |series=2nd Series |volume=16 |issue=Science in Theistic Contexts: Cognitive Dimensions |pages=49–64 & 66–71 |bibcode = 2001Osir...16...49R |doi=10.1086/649338 |last2=Al-Qushji |first2=Ali|s2cid=142586786 |url=http://digitool.Library.McGill.CA:80/R/?func=dbin-jump-full&object_id=156332 }}</ref> and centrality within the universe.<ref name=Setia>{{citation|title=Fakhr Al-Din Al-Razi on Physics and the Nature of the Physical World: A Preliminary Survey|author=Adi Setia|journal=Islam & Science|volume=2|year=2004|url=http://findarticles.com/p/articles/mi_m0QYQ/is_2_2/ai_n9532826/|access-date=2 March 2010}}</ref> Some accepted that the earth rotates around its axis, such as [[Abu Sa'id al-Sijzi]] (d. {{circa|1020}}).<ref>{{Cite journal| volume = 108| issue = 67| pages = 762| last = Alessandro Bausani| title = Cosmology and Religion in Islam| journal = Scientia/Rivista di Scienza| date = 1973}}</ref><ref name=young /> According to [[al-Biruni]], al-Sijzi invented an [[astrolabe]] based on a belief held by some of his contemporaries "that the motion we see is due to the Earth's movement and not to that of the sky."<ref name=young /><ref>{{Cite book| publisher = SUNY Press| isbn = 978-1-4384-1419-5| last = Nasr| first = Seyyed Hossein| title = An Introduction to Islamic Cosmological Doctrines| date = 1 January 1993|page=135}}</ref> That others besides al-Sijzi held this view is further confirmed by a reference from an Arabic work in the 13th century which states: <blockquote>According to the geometers [or engineers] (''muhandisīn''), the earth is in constant circular motion, and what appears to be the motion of the heavens is actually due to the motion of the earth and not the stars.<ref name=young>{{Cite book| publisher = Cambridge University Press| isbn = 978-0-521-02887-5| editor-last1 = Young| editor-first1 = M.J.L.| title = Religion, Learning and Science in the 'Abbasid Period| date = 2 November 2006|page=[https://archive.org/stream/M.J.L.YoungJ.D.LathamR.B.SerjeantEdsReligionLearningAndScienceInTheAbbasidPeriod/M.%20J.%20L.%20Young%2C%20J.%20D.%20Latham%2C%20R.%20B.%20Serjeant%20eds%20Religion%2C%20Learning%20and%20Science%20in%20the%20%60Abbasid%20Period#page/n217/mode/1up 413]}}</ref></blockquote> In the 12th century, [[Nur ad-Din al-Bitruji]] proposed a complete alternative to the Ptolemaic system (although not heliocentric).<ref name="BEA-bitruji">{{cite encyclopedia | editor = Thomas Hockey | last = Samsó | first = Julio | title=Biṭrūjī: Nūr al‐Dīn Abū Isḥāq &#91;Abū Jaʿfar&#93; Ibrāhīm ibn Yūsuf al‐Biṭrūjī | encyclopedia = The Biographical Encyclopedia of Astronomers | publisher = Springer | date = 2007 | location = New York | pages = 133–34 | url=http://islamsci.mcgill.ca/RASI/BEA/Bitruji_BEA.htm | isbn=978-0-387-31022-0|display-editors=etal}} ([http://islamsci.mcgill.ca/RASI/BEA/Bitruji_BEA.pdf PDF version])</ref><ref name=DSB /> He declared the Ptolemaic system as an imaginary model, successful at predicting planetary positions, but not real or physical.<ref name="BEA-bitruji" /><ref name=DSB /> Al-Bitruji's alternative system spread through most of Europe during the 13th century, with debates and refutations of his ideas continued up to the 16th century.<ref name=DSB>{{cite encyclopedia | last = Samsó | first = Julio | title =Al-Bitruji Al-Ishbili, Abu Ishaq| encyclopedia = [[Dictionary of Scientific Biography]] | publisher = Charles Scribner's Sons | location = New York | year=1970–1980 | isbn = 978-0-684-10114-9 | url = http://www.encyclopedia.com/doc/1G2-2830904829.html}}</ref>
+
+[[File:Tusi-couple.gif|right|thumb|[[Tusi couple]]]]
+
+Mathematical techniques developed in the 13th to 14th centuries by [[Mo'ayyeduddin al-Urdi]], [[Nasir al-Din al-Tusi]], and [[Ibn al-Shatir]] for geocentric models of planetary motions closely resemble some of those used later by Copernicus in his heliocentric models.<ref>{{harvnb|Esposito|1999|page=289}}</ref> Copernicus used what is now known as the [[Urdi lemma]] and the [[Tusi couple]] in the same planetary models as found in Arabic sources.<ref name=Saliba95>{{Cite book| publisher = NYU Press| isbn = 978-0-8147-8023-7| last = Saliba| first = George| title = A History of Arabic Astronomy: Planetary Theories During the Golden Age of Islam| date = 1 July 1995}}</ref> Furthermore, the exact replacement of the [[equant]] by two [[epicycles]] used by Copernicus in the ''[[Commentariolus]]'' was found in an earlier work by Ibn al-Shatir (d. c. 1375) of Damascus.<ref name=Swerdlow>{{Cite journal| issn = 0003-049X| volume = 117| issue = 6| pages = 423–512| last = Swerdlow| first = Noel M.| title = The Derivation and First Draft of Copernicus's Planetary Theory: A Translation of the Commentariolus with Commentary| journal = Proceedings of the American Philosophical Society| date = 31 December 1973| jstor = 986461| bibcode = 1973PAPhS.117..423S}}</ref> Ibn al-Shatir's lunar and Mercury models are also identical to those of Copernicus.<ref>{{cite encyclopedia | editor = Thomas Hockey | display-editors = etal | last = King | first = David A. | title=Ibn al‐Shāṭir: ʿAlāʾ al‐Dīn ʿAlī ibn Ibrāhīm | encyclopedia = The Biographical Encyclopedia of Astronomers | publisher = Springer | date = 2007 | location = New York | pages = 569–70 | url=http://islamsci.mcgill.ca/RASI/BEA/Ibn_al-Shatir_BEA.htm | isbn=978-0-387-31022-0}} ([http://islamsci.mcgill.ca/RASI/BEA/Ibn_al-Shatir_BEA.pdf PDF version])</ref> This has led some scholars to argue that Copernicus must have had access to some yet to be identified work on the ideas of those earlier astronomers.<ref name="google42">Linton [[#Reference-Linton-2004|(2004]], pp. [https://books.google.com/books?id=aJuwFLGWKF8C&pg=PA124 124],[https://books.google.com/books?id=aJuwFLGWKF8C&pg=PA137 137–38)], Saliba [[#CITEREFSaliba2009|(2009, pp. 160–65)]], Swerdlow & Neugebauer ([[#CITEREFSwerdlowNeugebauer1984|1984]], pp. [https://books.google.com/books?id=uHPgBwAAQBAJ&pg=PA46 46–48]).</ref> However, no likely candidate for this conjectured work has yet come to light, and other scholars have argued that Copernicus could well have developed these ideas independently of the late Islamic tradition.<ref name="google43">Goddu [[#CITEREFGoddu2010|(2010, pp. 261–69, 476–86)]], Huff [[#CITEREFHuff2010|(2010]], [https://books.google.com/books?id=xNSPo_Xda_0C&pg=PA263 pp. 263–64)], di Bono [[#CITEREFdi Bono1995|(1995)]], Veselovsky [[#CITEREFVeselovsky1973|(1973)]].</ref> Nevertheless, Copernicus cited some of the Islamic astronomers whose theories and observations he used in ''De Revolutionibus'', namely [[al-Battani]], [[Thabit ibn Qurra]], [[al-Zarqali]], [[Averroes]], and [[al-Bitruji]].<ref name=freely>{{Cite book| publisher = I.B.Tauris| isbn = 978-1-78453-138-6| last = Freely| first = John| title = Light from the East: How the Science of Medieval Islam Helped to Shape the Western World| date = 30 March 2015| page=179}}</ref>
+
+===Copernicus===
+{{multiple image
+ | direction = vertical
+ | width =
+ | header = Copernicus's schematic diagram of his heliocentric theory of the Solar System from ''De revolutionibus orbium coelestium<ref>Except for the circle labelled "V. Telluris" in the diagram from the printed edition, representing the orbital path of the Earth, and the first circle in both diagrams, representing the outer boundary of the universe, and of a presumed spherical shell of fixed stars, the numbered circles in the diagrams represent the boundaries of hypothetical spherical shells ("orbes" in Copernicus's Latin) whose motion was assumed to carry the planets and their epicycles around the Sun (Gingerich, [[#CITEREFGingerich2014|2014]], pp. [https://books.google.com/books?id=po69BAAAQBAJ&pg=PA36 36–38]; [[#CITEREFGingerich2016|2016]], pp. [https://books.google.com/books?id=kKVHDAAAQBAJ&pg=PA34 34–35]).</ref>
+ | image1 = De Revolutionibus ms p9v.jpg
+ | alt1 =
+ | caption1 = As it appears in the surviving autograph manuscript
+ | image2 = Copernican heliocentrism theory diagram.svg
+ | alt2 =
+ | caption2 = As it appears in the first printed edition
+ }}
+Copernicus' major work on his [[heliocentric theory]] was ''[[De revolutionibus orbium coelestium|Dē revolutionibus orbium coelestium]]'' (''On the Revolutions of the Celestial Spheres''), published in the year of his death, 1543.  He had formulated his theory by 1510.  "He wrote out a short overview of his new heavenly arrangement [known as the ''[[Commentariolus]]'', or ''Brief Sketch''], also probably in 1510 [but no later than May 1514], and sent it off to at least one correspondent beyond [[Varmia]] [the [[Latin]] for "Warmia"].  That person in turn copied the document for further circulation, and presumably the new recipients did, too..."<ref>Sobel (2011), p. 18.</ref>
+
+Copernicus' ''Commentariolus'' summarized his heliocentric theory. It listed the "assumptions" upon which the theory was based, as follows:<ref name="seven assumptions"/>
+
+<blockquote>
+# There is no one center of all the celestial circles<ref>Latin ''orbium''</ref> or spheres.<ref>Latin ''sphaerarum''</ref>
+# The center of the earth is not the center of the universe, but only the center towards which heavy bodies move and the center of the lunar sphere.
+# All the spheres surround the sun as if it were in the middle of them all, and therefore the center of the universe is near the sun.
+# The ratio of the earth's distance from the sun to the height of the [[firmament]] (outermost celestial sphere containing the stars) is so much smaller than the ratio of the earth's radius to its distance from the sun that the distance from the earth to the sun is imperceptible in comparison with the height of the firmament.
+# Whatever motion appears in the firmament arises not from any motion of the firmament, but from the earth's motion. The earth together with its circumjacent elements performs a complete rotation on its fixed poles in a daily motion, while the firmament and highest heaven abide unchanged.
+# What appear to us as motions of the sun arise not from its motion but from the motion of the earth and our sphere, with which we revolve about the sun like any other planet. The earth has, then, more than one motion.
+# The apparent retrograde and direct motion of the planets arises not from their motion but from the earth's. The motion of the earth alone, therefore, suffices to explain so many apparent inequalities in the heavens.</blockquote>
+
+''De revolutionibus'' itself was divided into six sections or parts, called "books":<ref>
+{{cite book |last=Dreyer |first=John L.E. |year=1906 |title=History of the planetary systems from Thales to Kepler |page=342 |url=https://archive.org/details/historyofplaneta00dreyuoft|publisher=Cambridge University Press }}</ref>
+# General vision of the heliocentric theory, and a summarized exposition of his idea of the World
+# Mainly theoretical, presents the principles of spherical astronomy and a list of stars (as a basis for the arguments developed in the subsequent books)
+# Mainly dedicated to the apparent motions of the Sun and to related phenomena
+# Description of the Moon and its orbital motions
+# Exposition of the motions in longitude of the non-terrestrial planets
+# Exposition of the motions in latitude of the non-terrestrial planets
+
+===Successors===
+{{See also|Copernican Revolution}}
+[[File:KOS sarkofag ze szczątkami Kopernika.jpg|thumb|205px|upright|Casket with Copernicus' remains on exhibition in [[Olsztyn]]]]
+
+[[Georg Joachim Rheticus]] could have been Copernicus's successor, but did not rise to the occasion.<ref name="Repcheck"/> [[Erasmus Reinhold]] could have been his successor, but died prematurely.<ref name="Repcheck"/> The first of the great successors was [[Tycho Brahe]]<ref name="Repcheck"/> (though he did not think the Earth orbited the Sun), followed by [[Johannes Kepler]],<ref name="Repcheck"/> who had collaborated with Tycho in Prague and benefited from Tycho's decades' worth of detailed observational data.<ref>Sobel (2011), pp. 207–10.</ref>
+
+Despite the near universal acceptance later of the heliocentric idea (though not the epicycles or the circular orbits), Copernicus's theory was originally slow to catch on. Scholars hold that sixty years after the publication of ''The Revolutions'' there were only around 15 astronomers espousing Copernicanism in all of Europe: "[[Thomas Digges]] and [[Thomas Harriot]] in England; [[Giordano Bruno]] and [[Galileo Galilei]] in Italy; [[Diego de Zúñiga|Diego Zuniga]] in Spain; [[Simon Stevin]] in the Low Countries; and in Germany, the largest group—[[Georg Joachim Rheticus]], [[Michael Maestlin]], [[Christoph Rothmann]] (who may have later recanted),<ref name="Danielson"/> and [[Johannes Kepler]]."<ref name="Danielson"/> Additional possibilities are Englishman [[William Gilbert (astronomer)|William Gilbert]], along with [[Achilles Gasser]], Georg Vogelin, [[Valentin Otto]], and [[Tiedemann Giese]].<ref name="Danielson"/>
+
+[[Arthur Koestler]], in his popular book ''[[The Sleepwalkers (Koestler book)|The Sleepwalkers]]'', asserted that Copernicus's book had not been widely read on its first publication.<ref name="reference40"/> This claim was trenchantly criticised by [[Edward Rosen]],{{efn|Rosen [[#Reference-Rosen-1995|(1995, pp. 187–92)]], originally published in 1967 in ''Saggi su Galileo Galilei ''. Rosen is particularly scathing about this and other statements in ''The Sleepwalkers'', which he criticizes as inaccurate.}} and has been decisively disproved by [[Owen Gingerich]], who examined nearly every surviving copy of the first two editions and found copious marginal notes by their owners throughout many of them. Gingerich published his conclusions in 2004 in ''The Book Nobody Read''.<ref name="DeMarco"/>
+
+The intellectual climate of the time "remained dominated by Aristotelian philosophy and the corresponding Ptolemaic astronomy. At that time there was no reason to accept the Copernican theory, except for its mathematical simplicity [by avoiding using the [[equant]] in determining planetary positions]."<ref name="Kobe"/> Tycho Brahe's system ("that the earth is stationary, the sun revolves about the earth, and the other planets revolve about the sun")<ref name="Kobe"/> also directly competed with Copernicus's. It was only a half-century later with the work of Kepler and Galileo that any substantial evidence defending Copernicanism appeared, starting "from the time when Galileo formulated the principle of inertia...[which] helped to explain why everything would not fall off the earth if it were in motion."<ref name="Kobe"/>   "[Not until] after [[Isaac Newton]] formulated the universal law of gravitation and the laws of mechanics [in his 1687 ''[[Philosophiæ Naturalis Principia Mathematica|Principia]]''], which unified terrestrial and celestial mechanics, was the heliocentric view generally accepted."<ref name="Kobe"/>
+
+==Controversy==
+{{See also|Catholic Church and science#Copernicus|l1=Catholic Church and science}}
+
+The immediate result of the 1543 publication of Copernicus's book was only mild controversy. At the [[Council of Trent]] (1545–63) neither Copernicus's theory nor calendar reform (which would later use tables deduced from Copernicus's calculations) were discussed.<ref>[[#westman-2011|Westman (2011, p. 194)]]</ref> It has been much debated why it was not until six decades after the publication of ''[[De revolutionibus orbium coelestium|De revolutionibus]]'' that the [[Catholic Church]] took any official action against it, even the efforts of Tolosani going unheeded. Catholic side opposition only commenced seventy-three years later, when it was occasioned by Galileo.<ref>[http://www.newadvent.org/cathen/04352b.htm Hagen, John. "Nicolaus Copernicus." The ''Catholic Encyclopedia''. Vol. 4. New York: Robert Appleton Company, 1908. 19 Feb. 2014]</ref>
+
+===Tolosani===
+The first notable to move against Copernicanism was the Magister of the Holy Palace (i.e., the Catholic Church's chief [[Censor Librorum|censor]]), Dominican [[Bartolomeo Spina]], who "expressed a desire to stamp out the Copernican doctrine".<ref>[[#feldhay-1995|Feldhay (1995, p. 205)]]</ref> But with Spina's death in 1546, his cause fell to his friend, the well-known theologian-astronomer, the Dominican [[Giovanni Maria Tolosani]] of the Convent of St. Mark in Florence. Tolosani had written a treatise on reforming the calendar (in which astronomy would play a large role) and had attended the [[Fifth Lateran Council]] (1512–1517) to discuss the matter. He had obtained a copy of ''[[De revolutionibus orbium coelestium|De Revolutionibus]]'' in 1544. His denunciation of Copernicanism was written a year later, in 1545, in an appendix to his unpublished work, ''On the Truth of Sacred Scripture''.<ref name="Westman 2011, p. 195">[[#westman-2011|Westman (2011, p. 195)]]</ref>
+
+Emulating the rationalistic style of [[Thomas Aquinas]], Tolosani sought to refute Copernicanism by philosophical argument.  Copernicanism was absurd, according to Tolosani, because it was scientifically unproven and unfounded. First, Copernicus had assumed the motion of the Earth but offered no physical theory whereby one would deduce this motion. (No one realized that the investigation into Copernicanism would result in a rethinking of the entire field of [[physics]].) Second, Tolosani charged that Copernicus's thought process was backwards. He held that Copernicus had come up with his idea and then sought phenomena that would support it, rather than observing phenomena and deducing from them the idea of what caused them. In this, Tolosani was linking Copernicus's mathematical equations with the practices of the [[Pythagoreanism|Pythagoreans]] (whom [[Aristotle]] had made arguments against, which were later picked up by Thomas Aquinas). It was argued that mathematical numbers were a mere product of the intellect without any physical reality, and as such could not provide physical causes in the investigation of nature.<ref>[[#feldhay-1995|Feldhay (1995, pp. 205–07)]]</ref>
+
+Some astronomical hypotheses at the time (such as epicycles and eccentrics) were seen as mere mathematical devices to adjust calculations of where the heavenly bodies would appear, rather than an explanation of the cause of those motions. (As Copernicus still maintained the idea of perfectly spherical orbits, he relied on epicycles.) This "saving the phenomena" was seen as proof that astronomy and mathematics could not be taken as serious means to determine physical causes. Tolosani invoked this view in his final critique of Copernicus, saying that his biggest error was that he had started with "inferior" fields of science to make pronouncements about "superior" fields. Copernicus had used mathematics and astronomy to postulate about physics and cosmology, rather than beginning with the accepted principles of physics and cosmology to determine things about astronomy and mathematics.  Thus Copernicus seemed to be undermining the whole system of the philosophy of science at the time. Tolosani held that Copernicus had fallen into philosophical error because he had not been versed in physics and logic; anyone without such knowledge would make a poor astronomer and be unable to distinguish truth from falsehood. Because Copernicanism had not met the criteria for scientific truth set out by Thomas Aquinas, Tolosani held that it could only be viewed as a wild unproven theory.<ref>[[#feldhay-1995|Feldhay (1995, p. 207)]]</ref><ref>[[#westman-2011|Westman (2011, pp. 195–96)]]</ref>
+
+Tolosani recognized that the [[De revolutionibus orbium coelestium#Ad lectorem|''Ad Lectorem'']] preface to Copernicus's book was not actually by him. Its thesis that astronomy as a whole would never be able to make truth claims was rejected by Tolosani (though he still held that Copernicus's attempt to describe physical reality had been faulty); he found it ridiculous that ''Ad Lectorem'' had been included in the book (unaware that Copernicus had not authorized its inclusion). Tolosani wrote:  "By means of these words [of the ''Ad Lectorem''], the foolishness of this book's author is rebuked. For by a foolish effort he [Copernicus] tried to revive the weak Pythagorean opinion [that the element of fire was at the center of the Universe], long ago deservedly destroyed, since it is expressly contrary to human reason and also opposes holy writ. From this situation, there could easily arise disagreements between Catholic expositors of holy scripture and those who might wish to adhere obstinately to this false opinion."<ref name="Westman 2011, p. 196">[[#westman-2011|Westman (2011, p. 196)]]</ref> Tolosani declared:  "Nicolaus Copernicus neither read nor understood the arguments of Aristotle the philosopher and Ptolemy the astronomer."<ref name="Westman 2011, p. 195"/> Tolosani wrote that Copernicus "is expert indeed in the sciences of mathematics and astronomy, but he is very deficient in the sciences of physics and logic. Moreover, it appears that he is unskilled with regard to [the interpretation of] holy scripture, since he contradicts several of its principles, not without danger of infidelity to himself and the readers of his book. ...his arguments have no force and can very easily be taken apart. For it is stupid to contradict an opinion accepted by everyone over a very long time for the strongest reasons, unless the impugner uses more powerful and insoluble demonstrations and completely dissolves the opposed reasons. But he does not do this in the least."<ref name="Westman 2011, p. 196"/>
+
+Tolosani declared that he had written against Copernicus "for the purpose of preserving the truth to the common advantage of the Holy Church."<ref name="Westman 2011, p. 197">[[#westman-2011|Westman (2011, p. 197)]]</ref> Despite this, his work remained unpublished and there is no evidence that it received serious consideration.  Robert Westman describes it as becoming a "dormant" viewpoint with "no audience in the Catholic world" of the late sixteenth century, but also notes that there is some evidence that it did become known to [[Tommaso Caccini]], who would criticize Galileo in a sermon in December 1613.<ref name="Westman 2011, p. 197"/>
+
+===Theology===
+[[File:Nicolas Copernicus Polish cropped.JPG|thumb|left|upright|Photograph of a mid 16th-century portrait{{efn|The original painting was looted, and possibly destroyed, by the Germans in World War&nbsp;II during the occupation of Poland.}}]]
+
+Tolosani may have criticized the Copernican theory as scientifically unproven and unfounded, but the theory also conflicted with the theology of the time, as can be seen in a sample of the works of [[John Calvin]]. In his ''Commentary on Genesis'' he said that "We indeed are not ignorant that the circuit of the heavens is finite, and that the earth, like a little globe, is placed in the centre."<ref>[[#rosen-1960|Rosen (1960, p. 437)]]</ref> In his commentary on Psalms 93:1 he states that "The heavens revolve daily, and, immense as is their fabric and inconceivable the rapidity of their revolutions, we experience no concussion.... How could the earth hang suspended in the air were it not upheld by God's hand? By what means could it maintain itself unmoved, while the heavens above are in constant rapid motion, did not its Divine Maker fix and establish it."<ref>[[#rosen-1960|Rosen (1960, p. 438)]]</ref> One sharp point of conflict between Copernicus's theory and the Bible concerned the story of the Battle of [[Gibeon (ancient city)|Gibeon]] in the Book of Joshua where the Hebrew forces were winning but whose opponents were likely to escape once night fell. This is averted by Joshua's prayers causing the Sun and the Moon to stand still. [[Martin Luther]] once made a remark about Copernicus, although without mentioning his name. According to Anthony Lauterbach, while eating with Martin Luther the topic of Copernicus arose during dinner on 4 June 1539 (in the same year as professor George Joachim Rheticus of the local University had been granted leave to visit him). Luther is said to have remarked "So it goes now. Whoever wants to be clever must agree with nothing others esteem. He must do something of his own. This is what ''that fellow'' does who wishes to turn the whole of astronomy upside down. Even in these things that are thrown into disorder I believe the Holy Scriptures, for Joshua commanded the sun to stand still and not the earth."<ref name="Kobe"/> These remarks were made four years before the publication of ''On the Revolutions of the Heavenly Spheres'' and a year before Rheticus' ''Narratio Prima''. In [[Johannes Aurifaber (Vimariensis)|John Aurifaber's]] account of the conversation Luther calls Copernicus "that fool" rather than "that fellow", this version is viewed by historians as less reliably sourced.<ref name="Kobe"/>
+
+Luther's collaborator [[Philipp Melanchthon]] also took issue with Copernicanism. After receiving the first pages of ''Narratio Prima'' from [[Georg Joachim Rheticus|Rheticus]] himself, Melanchthon wrote to Mithobius (physician and mathematician Burkard Mithob of Feldkirch) on 16 October 1541 condemning the theory and calling for it to be repressed by governmental force, writing "certain people believe it is a marvelous achievement to extol so crazy a thing, like that Polish astronomer who makes the earth move and the sun stand still. Really, wise governments ought to repress impudence of mind."<ref name="Rosen 1995, p. 198">[[#Reference-Rosen-1995|Rosen (1995, p. 198)]]</ref> It had appeared to Rheticus that Melanchton would understand the theory and would be open to it. This was because Melanchton had taught Ptolemaic astronomy and had even recommended his friend Rheticus to an appointment to the Deanship of the Faculty of Arts & Sciences at the University of Wittenberg after he had returned from studying with Copernicus.<ref>[[#repcheck-2007|Repcheck (2007, p. 160)]]</ref>
+
+Rheticus' hopes were dashed when six years after the publication of ''[[De revolutionibus orbium coelestium|De Revolutionibus]]'' Melanchthon published his ''Initia Doctrinae Physicae'' presenting three grounds to reject Copernicanism.  These were "the evidence of the senses, the thousand-year consensus of men of science, and the authority of the Bible".<ref name="Cohen"/> Blasting the new theory Melanchthon wrote, "Out of love for novelty or in order to make a show of their cleverness, some people have argued that the earth moves. They maintain that neither the eighth sphere nor the sun moves, whereas they attribute motion to the other celestial spheres, and also place the earth among the heavenly bodies. Nor were these jokes invented recently. There is still extant Archimedes' book on ''[[The Sand Reckoner]]''; in which he reports that Aristarchus of Samos propounded the paradox that the sun stands still and the earth revolves around the sun. Even though subtle experts institute many investigations for the sake of exercising their ingenuity, nevertheless public proclamation of absurd opinions is indecent and sets a harmful example."<ref name="Rosen 1995, p. 198"/> Melanchthon went on to cite Bible passages and then declare "Encouraged by this divine evidence, let us cherish the truth and let us not permit ourselves to be alienated from it by the tricks of those who deem it an intellectual honor to introduce confusion into the arts."<ref name="Rosen 1995, p. 198"/> In the first edition of ''Initia Doctrinae Physicae'', Melanchthon even questioned Copernicus's character claiming his motivation was "either from love of novelty or from desire to appear clever", these more personal attacks were largely removed by the second edition in 1550.<ref name="Cohen"/>
+
+[[File:Grabmal Nikolaus Kopernikus Frauenburger Dom 2010.jpg|thumb|upright|Copernicus' 2010 gravestone in Frombork Cathedral]]
+Another Protestant theologian who disparaged heliocentrism on scriptural grounds was [[John Owen (theologian)|John Owen]].  In a passing remark in an essay on the origin of the sabbath, he characterised "the late hypothesis, fixing the sun as in the centre of the world" as being "built on fallible phenomena, and advanced by many arbitrary presumptions against evident testimonies of Scripture."<ref>Owen ([[#CITEREFOwen1869|1869]], p. [https://archive.org/details/worksofjohnowen186911owen/page/310?q=%22late+hypothesis%22 310]); Rosen ([[#Reference-Rosen-1995|1995]], p. [https://books.google.com/books?id=Y_fUAwAAQBAJ&pg=PA166 166–67]).  Owen's remark appears in volume XI of his collected works, not the volume (XIX) cited by Rosen.</ref>
+
+In Roman Catholic circles, German Jesuit Nicolaus Serarius was one of the first to write against Copernicus's theory as heretical, citing the Joshua passage, in a work published in 1609–1610, and again in a book in 1612.<ref>[[#finocchiaro-2010|Finocchiaro (2010, p. 71)]]</ref> In his 12 April 1615 letter to a Catholic defender of Copernicus, [[Paolo Antonio Foscarini]], Catholic Cardinal [[Robert Bellarmine]] condemned Copernican theory, writing "...not only the Holy Fathers, but also the modern commentaries on Genesis, the Psalms, Ecclesiastes, and Joshua, you will find all agreeing in the literal interpretation that the sun is in heaven and turns around the earth with great speed, and that the earth is very far from heaven and sits motionless at the center of the world...Nor can one answer that this is not a matter of faith, since if it is not a matter of faith 'as regards the topic,' it is a matter of faith 'as regards the speaker': and so it would be heretical to say that Abraham did not have two children and Jacob twelve, as well as to say that Christ was not born of a virgin, because both are said by the Holy Spirit through the mouth of prophets and apostles."<ref>[[#finocchiaro-2010|Finocchiaro (2010, p. 75)]]</ref>
+
+===Ingoli===
+Perhaps the most influential opponent of the Copernican theory was [[Francesco Ingoli]], a [[Catholic priest]]. Ingoli wrote a January 1616 essay to Galileo presenting more than twenty arguments against the Copernican theory.<ref name="Graney 2015, p. 68-69">[[#graney-2015|Graney (2015, pp. 68–69)]]</ref> Though "it is not certain, it is probable that he [Ingoli] was commissioned by the [[Inquisition]] to write an expert opinion on the controversy",<ref name="Finocchiaro 2010, p. 72">[[#finocchiaro-2010|Finocchiaro (2010, p. 72)]]</ref> (after the Congregation of the Index's decree against Copernicanism on 5 March 1616, Ingoli was officially appointed its consultant).<ref name="Finocchiaro 2010, p. 72"/> Galileo himself was of the opinion that the essay played an important role in the rejection of the theory by church authorities, writing in a later letter to Ingoli that he was concerned that people thought the theory was rejected because Ingoli was right.<ref name="Graney 2015, p. 68-69"/> Ingoli presented five physical arguments against the theory, thirteen mathematical arguments (plus a separate discussion of the sizes of stars), and four theological arguments.  The physical and mathematical arguments were of uneven quality, but many of them came directly from the writings of [[Tycho Brahe]], and Ingoli repeatedly cited Brahe, the leading astronomer of the era.  These included arguments about the effect of a moving Earth on the trajectory of projectiles, and about parallax and Brahe's argument that the Copernican theory required that stars be absurdly large.<ref>[[#graney-2015|Graney (2015, pp. 69–75)]]</ref>
+
+Two of Ingoli's theological issues with the Copernican theory were "common Catholic beliefs not directly traceable to Scripture: the doctrine that hell is located at the center of Earth and is most distant from heaven; and the explicit assertion that Earth is motionless in a hymn sung on Tuesdays as part of the Liturgy of the Hours of the Divine Office prayers regularly recited by priests."<ref name="Finocchiaro 2010, p. 73">[[#finocchiaro-2010|Finocchiaro (2010, p. 73)]]</ref> Ingoli cited Robert Bellarmine in regards to both of these arguments, and may have been trying to convey to Galileo a sense of Bellarmine's opinion.<ref>[[#graney-2015|Graney (2015, p. 74)]]</ref> Ingoli also cited Genesis 1:14 where God places "lights in the firmament of the heavens to divide the day from the night."  Ingoli did not think the central location of the Sun in the Copernican theory was compatible with it being described as one of the lights placed in the firmament.<ref name="Finocchiaro 2010, p. 73"/> Like previous commentators Ingoli also pointed to the passages about the Battle of Gibeon.  He dismissed arguments that they should be taken metaphorically, saying "Replies which assert that Scripture speaks according to our mode of understanding are not satisfactory: both because in explaining the Sacred Writings the rule is always to preserve the literal sense, when it is possible, as it is in this case; and also because all the [Church] Fathers unanimously take this passage to mean that the Sun which was truly moving stopped at Joshua's request. An interpretation that is contrary to the unanimous consent of the Fathers is condemned by the Council of Trent, Session IV, in the decree on the edition and use of the Sacred Books. Furthermore, although the Council speaks about matters of faith and morals, nevertheless it cannot be denied that the Holy Fathers would be displeased with an interpretation of Sacred Scriptures which is contrary to their common agreement."<ref name="Finocchiaro 2010, p. 73"/> However, Ingoli closed the essay by suggesting Galileo respond primarily to the better of his physical and mathematical arguments rather than to his theological arguments, writing "Let it be your choice to respond to this either entirely of in part—clearly at least to the mathematical and physical arguments, and not to all even of these, but to the more weighty ones."<ref name="Graney 2015, p. 70">[[#graney-2015|Graney (2015, p. 70)]]</ref> When Galileo wrote a letter in reply to Ingoli years later, he in fact only addressed the mathematical and physical arguments.<ref name="Graney 2015, p. 70"/>
+
+In March 1616, in connection with the [[Galileo affair]], the Roman Catholic Church's [[Congregation of the Index]] issued a decree suspending ''[[De revolutionibus orbium coelestium|De revolutionibus]]'' until it could be "corrected," on the grounds of ensuring that Copernicanism, which it described as a "false Pythagorean doctrine, altogether contrary to the Holy Scripture," would not "creep any further to the prejudice of Catholic truth."<ref name="archive48"/> The corrections consisted largely of removing or altering wording that spoke of heliocentrism as a fact, rather than a hypothesis.<ref>[[#Reference-Finocchiaro-1989|Finocchiaro (1989, p. 30)]]</ref> The corrections were made based largely on work by Ingoli.<ref name="Finocchiaro 2010, p. 72"/>
+
+===Galileo===
+On the orders of [[Pope Paul V]], Cardinal [[Robert Bellarmine]] gave Galileo prior notice that the decree was about to be issued, and warned him that he could not "hold or defend" the Copernican doctrine.{{efn|Fantoli [[#Reference-Fantoli-2005|(2005, pp. 118–19)]]; Finocchiaro [[#Reference-Finocchiaro-1989|(1989, pp. 148, 153)]]. On-line copies of Finocchiaro's translations of the relevant documents, [https://web.archive.org/web/20070930013053/http://astro.wcupa.edu/mgagne/ess362/resources/finocchiaro.html#inqminutes Inquisition Minutes of 25 February 1616] and [https://web.archive.org/web/20070930013053/http://astro.wcupa.edu/mgagne/ess362/resources/finocchiaro.html#certificate Cardinal Bellarmine's certificate of 26 May 1616], have been made available by Gagné [[#Reference-Gagne-2005|(2005)]]. This notice of the decree would not have prevented Galileo from discussing heliocentrism solely as a mathematical hypothesis, but a stronger [https://web.archive.org/web/20070930013053/http://astro.wcupa.edu/mgagne/ess362/resources/finocchiaro.html#specinj formal injunction] [[#Reference-Finocchiaro-1989|(Finocchiaro, 1989, pp. 147–48)]] not to teach it "in any way whatever, either orally or in writing", allegedly issued to him by the Commissary of the Holy Office, Father Michelangelo Segizzi, would certainly have done so [[#Reference-Fantoli-2005|(Fantoli, 2005, pp. 119–20, 137)]]. There has been much controversy over whether the copy of this injunction in the Vatican archives is authentic; if so, whether it was ever issued; and if so, whether it was legally valid [[#Reference-Fantoli-2005|(Fantoli, 2005, pp. 120–43)]].}} The corrections to ''[[De revolutionibus orbium coelestium|De revolutionibus]]'', which omitted or altered nine sentences, were issued four years later, in 1620.<ref name="newadvent"/>
+
+In 1633 [[Galileo Galilei]] was convicted of grave suspicion of [[heresy]] for "following the position of Copernicus, which is contrary to the true sense and authority of Holy Scripture",<ref name="google50"/> and was placed under [[house arrest]] for the rest of his life.<ref name=Hilliam1>{{cite book |last=Hilliam |first=Rachel |year=2005 |title=Galileo Galilei: Father of Modern Science |publisher=The Rosen Publishing Group |page=96 |url=https://books.google.com/books?id=KBKSyHOLzZAC&pg=PA96|isbn=978-1-4042-0314-3 }}</ref><ref name=History1>{{cite web |title=Galileo is convicted of heresy |publisher=history.com |url=http://www.history.com/this-day-in-history/galileo-is-convicted-of-heresy |access-date=13 December 2013}}</ref>
+
+At the instance of [[Roger Boscovich]], the Catholic Church's 1758 ''[[Index of Prohibited Books]]'' omitted the general prohibition of works defending heliocentrism,<ref name="omission of general ban"/> but retained the specific prohibitions of the original uncensored versions of ''De revolutionibus'' and Galileo's ''[[Dialogue Concerning the Two Chief World Systems]]''. Those prohibitions were finally dropped from the 1835 ''Index''.<ref name="omission of specific ban"/>
+
+==Nationality==
+There has been discussion of Copernicus' nationality and of whether it is meaningful to ascribe to him a nationality in the modern sense.
+
+Nicolaus Copernicus was born and raised in [[Royal Prussia]], a semiautonomous and polyglot region of the [[Crown of the Kingdom of Poland|Kingdom of Poland]].<ref name="Krystyna Poray Goddu 2010, p. 7">Krystyna Poray Goddu, ''Copernicus and the Aristotelian Tradition'', BRILL, 2010, {{ISBN|978-90-04-18107-6}}, part 1, chapter 1, p. 7.</ref><ref>Jack Repcheck, ''Copernicus' Secret: How the Scientific Revolution Began'', Simon & Schuster, 2008, {{ISBN|978-0-7432-8952-8}}, p. 32.</ref> He was the child of German-speaking parents and grew up with German as his mother tongue.<ref>
+Manfred Weissenbacher, ''Sources of Power: How Energy Forges Human History'', Praeger, 2009, {{ISBN|978-0-313-35626-1}}, p. 170.</ref><ref>
+Marvin Bolt, JoAnn Palmeri, Thomas Hockey, ''The Biographical Encyclopedia of Astronomers'', Springer, 2009, {{ISBN|978-0-387-35133-9}}, p. 252.</ref><ref>Charles E. Hummel, ''The Galileo Connection'', InterVarsity Press, 1986, {{ISBN|978-0-87784-500-3}}, p. 40.</ref> His first ''[[alma mater]]'' was the [[University of Kraków]] in Poland. When he later studied in Italy, at the [[University of Bologna]], he joined the ''German Nation'', a student organization for German-speakers of all allegiances ([[Germany]] would not become a nation-state [[German unification|until 1871]]).<ref>Krystyna Poray Goddu, ''Copernicus and the Aristotelian Tradition'', BRILL, 2010, {{ISBN|978-90-04-18107-6}}, chapter 6, p. 173.</ref><ref>John Freely, ''Celestial Revolutionary:  Copernicus, the Man and His Universe'', I.B. Tauris, 2014, {{ISBN|978-0-85773-490-7}}, pp. 56–57.</ref> His family stood against the [[Teutonic Order]] and actively supported the city of [[Toruń]] during the [[Thirteen Years' War (1454–66)]]. Copernicus' father lent money to Poland's King [[Casimir IV Jagiellon]] to finance the war against the Teutonic Knights,<ref>{{cite book|last=Freely|first=John|title=Celestial Revolutionary: Copernicus, the Man and His Universe|url=https://books.google.com/books?id=RU_dAwAAQBAJ&pg=PA6|year=2014|publisher=I.B.Tauris|isbn=978-0-85773-490-7|page=6}}</ref> but the inhabitants of Royal Prussia also resisted the Polish crown's efforts for greater control over the region.<ref name="Krystyna Poray Goddu 2010, p. 7"/>
+
+''[[Encyclopedia Americana]]'',<ref name="encyclopedia"/> ''The Concise Columbia Encyclopedia'',<ref>"Copernicus, Nicholas", ''The Concise Columbia Encyclopedia'', New York, Avon Books, 1983, {{ISBN|0-380-63396-5}}, p. 198: "Polish astronomer".</ref> ''The Oxford World Encyclopedia'',<ref name="encyclopedia43"/> and ''[[World Book Encyclopedia]]''<ref name="copernicus1"/> refer to Copernicus as a "Polish astronomer". Sheila Rabin, writing in the ''[[Stanford Encyclopedia of Philosophy]]'', describes Copernicus as a "child of a German family [who] was a subject of the Polish crown",<ref name="plato.stanford" /> while Manfred Weissenbacher writes that Copernicus's father was a Germanized Pole.<ref name="weissenbacher"/>
+
+No Polish texts by Copernicus survive due to the rarity of Polish language in literature before the writings of the [[Polish Renaissance]] poets [[Mikołaj Rej]] and [[Jan Kochanowski]] (educated Poles had generally written in Latin); but it is known that Copernicus knew Polish on a par with German and Latin.<ref>[[Karol Górski]], ''Mikołaj Kopernik. Środowisko społeczne i samotność'' (Mikołaj Kopernik [Nicolaus Copernicus]:  His Social Setting and Isolation), Toruń, [[The Nicolaus Copernicus University Press|Nicolaus Copernicus University Press]], 2012, {{ISBN|978-83-231-2777-2}}.</ref>
+
+Historian [[Michael Burleigh]] describes the nationality debate as a "totally insignificant battle" between German and Polish scholars during the [[interwar period]].<ref name="Germany"/> Polish astronomer [[Konrad Rudnicki]] calls the discussion a "fierce scholarly quarrel in ... times of nationalism" and describes Copernicus as an inhabitant of a German-speaking territory that belonged to Poland, himself being of mixed Polish-German extraction.<ref name="Rudnicki 2006"/>
+
+[[Czesław Miłosz]] describes the debate as an "absurd" projection of a modern understanding of nationality onto [[Renaissance]] people, who identified with their home territories rather than with a nation.<ref name="Milosz37"/> Similarly, historian [[Norman Davies]] writes that Copernicus, as was common in his era, was "largely indifferent" to nationality, being a local patriot who considered himself "[[Royal Prussia|Prussian]]".<ref name="Davies20">{{cite book |last=Davies |first=Norman |year=2005 |title=God's playground. A History of Poland in Two Volumes |publisher=Oxford University Press |volume=II |isbn=978-0-19-925340-1 |page=20}}</ref> Miłosz and Davies both write that Copernicus had a [[German language|German-language]] cultural background, while his working language was [[Latin]] in accord with the usage of the time.<ref name=Milosz37/><ref name=Davies20/> Additionally, according to Davies, "there is ample evidence that he knew the Polish language".<ref name=Davies20/> Davies concludes that, "Taking everything into consideration, there is good reason to regard him both as a German and as a Pole: and yet, in the sense that modern nationalists understand it, he was neither."<ref name=Davies20/>
+
+==Commemoration==
+{{multiple image
+|align=right
+|width1=140
+|image1=Copernic Montreal 01.jpg
+|caption1=Replica of [[Nicolaus Copernicus Monument, Warsaw|Warsaw's Copernicus Monument]], in [[Montreal]], [[Canada]]
+|width2=140
+|image2=Copernicus Walhalla.jpg
+|caption2=Bust by [[Johann Gottfried Schadow|Schadow]], 1807, in the [[Walhalla memorial]]
+}}
+[[File:Kraków - Pomnik Mikołaja Kopernika 02.JPG|thumb|upright|[[Nicolaus Copernicus Monument in Kraków]]]]
+[[File:Frombork - Wzgórze katedralne.JPG|thumb|Statue of Copernicus outside of Frombork Cathedral]]
+
+=== Copernicia ===
+[[Copernicia]], a genus of palm trees native to South America and the Greater Antilles, was named after Copernicus in 1837. In some of the species, the leaves are coated with a thin layer of [[wax]], known as [[carnauba wax]].
+
+===Copernicium===
+{{main|Copernicium}}
+On 14 July 2009, the discoverers, from the [[Gesellschaft für Schwerionenforschung]] in [[Darmstadt]], Germany, of [[chemical element]] 112 (temporarily named [[ununbium]]) proposed to the [[International Union of Pure and Applied Chemistry]] (IUPAC) that its permanent name be "[[copernicium]]" (symbol Cn). "After we had named elements after our city and our state, we wanted to make a statement with a name that was known to everyone," said Hofmann. "We didn't want to select someone who was a German. We were looking world-wide."<ref name="fox"/> On the 537th anniversary of his birthday the name became official.<ref name="Element112"/>
+
+===55 Cancri A===
+In July 2014 the International Astronomical Union launched [[NameExoWorlds]], a process for giving proper names to certain exoplanets and their host stars.<ref>[http://www.iau.org/news/pressreleases/detail/iau1404/ NameExoWorlds: An IAU Worldwide Contest to Name Exoplanets and their Host Stars]. IAU.org. 9 July 2014</ref> The process involved public nomination and voting for the new names.<ref>{{cite web|url=http://nameexoworlds.iau.org/process|title=NameExoWorlds|website=nameexoworlds.iau.org}}</ref> In December 2015, the IAU announced the winning name for [[55 Cancri|55 Cancri A]] was Copernicus.<ref>[http://www.iau.org/news/pressreleases/detail/iau1514/ Final Results of NameExoWorlds Public Vote Released], International Astronomical Union, 15 December 2015.</ref>
+
+===Veneration===
+Copernicus is honored, together with [[Johannes Kepler]], in the [[Calendar of saints (Episcopal Church in the United States of America)|liturgical calendar of the Episcopal Church (US)]], with a [[feast day]] on 23 May.<ref name="Calendar"/>
+
+===Poland===
+Copernicus is commemorated by the [[Nicolaus Copernicus Monument in Warsaw]], designed by [[Bertel Thorvaldsen]] (1822), completed in 1830; and by [[Jan Matejko]]'s 1873 painting, ''[[Astronomer Copernicus, or Conversations with God]]''. 
+
+Named for Copernicus are [[Nicolaus Copernicus University in Toruń]]; [[Warsaw]]'s [[Copernicus Science Centre]]; Copernicus Hospital, in Poland's third largest city, [[Łódź]]; and [[Wrocław]] International Airport ([[Copernicus Airport Wrocław]]). 
+
+A [[Copernicus Award]] has been established jointly by the [[Foundation for Polish Science]] and the [[German Research Foundation]], to promote Polish-German scientific cooperation.
+
+=== Influence ===
+Contemporary literary and artistic works inspired by Copernicus include:
+* ''[[Mover of the Earth, Stopper of the Sun]]'', overture for symphony orchestra, by composer [[Svitlana Azarova]], commissioned by [[Orchestre national d'Île-de-France|ONDIF]].<ref>World premiere, [http://www.sallepleyel.fr/anglais/concert/12500-orchestre-national-d-ile-de-france-enrique-mazzola-cedric-tiberghien 23 January 2013, Salle Pleyel]</ref><ref name="nedpho">Dutch premiere, 1 March 2014, at [[Amsterdam]]'s [[Concertgebouw]] – [https://web.archive.org/web/20131212153435/http://www.orkest.nl/node/645 Movers of the Earth]</ref>
+* ''[[Doctor Copernicus]]'', 1975 novel by [[John Banville]], sketching the life of Copernicus and the 16th-century world in which he lived.
+
+==See also==
+* [[Copernican principle]]
+* [[Copernicus Science Centre]]
+* [[List of multiple discoveries#14th century|List of multiple discoveries]]
+* [[List of Roman Catholic scientist-clerics]]
+
+==Notes==
+{{reflist|group=n}}
+{{notelist|30em}}
+
+==References==
+{{reflist|30em|refs=
+
+<ref name="O historii i o współczesności">{{cite web |last=Melkowski |first=Stefan |date=May 2003 |title=O historii i o współczesności |language=pl |trans-title=On History and the Present Day |url=http://glos.uni.torun.pl/2003/05/historia/ |access-date=22 April 2007 |archive-url=https://web.archive.org/web/20040124020346/http://glos.uni.torun.pl/2003/05/historia/ |archive-date=24 January 2004 |url-status=dead  }}</ref>
+
+<ref name="100 Percent">{{cite news |date=3 November 2005 |title=Copernicus's grave found in Polish church |work=USA Today |url=https://www.usatoday.com/tech/science/discoveries/2005-11-03-copernicus-grave_x.htm |access-date=26 July 2012}}</ref>
+
+<ref name="archive">[[#Reference-Dreyer-1953|Dreyer]] [https://archive.org/stream/historyofplaneta00dreyuoft#page/319/mode/1up (1953, p. 319)].</ref>
+
+<ref name="archive38">[[#Reference-Dreyer-1953|Dreyer]] (1953, [https://archive.org/stream/historyofplaneta00dreyuoft#page/134/mode/2up pp. 135–48]); [[#Reference-Heath-1913|Heath (1913)]], [https://archive.org/stream/aristarchusofsam00heatuoft#page/301/mode/2up pp. 301–08)]</ref>
+
+<ref name="archive39">[[#Reference-Dreyer-1953|Dreyer (1953)]], [https://archive.org/stream/historyofplaneta00dreyuoft#page/40/mode/2up pp. 40–52]; [[#Reference-Linton-2004|Linton (2004, p. 20)]].</ref>
+
+<ref name="archive40">[[#Reference-Dreyer-1953|Dreyer (1953)]], [https://archive.org/stream/historyofplaneta00dreyuoft#page/122/mode/2up pp. 123–35]; [[#Reference-Linton-2004|Linton (2004, p. 24)]].</ref>
+
+<ref name="archive48">Decree of the General Congregation of the Index, 5 March 1616, translated from the Latin by Finocchiaro [[#Reference-Finocchiaro-1989|(1989, pp. 148–49)]]. An [https://web.archive.org/web/20070930013053/http://astro.wcupa.edu/mgagne/ess362/resources/finocchiaro.html#indexdecree on-line copy] of Finocchiaro's translation has been made available by Gagné [[#Reference-Gagne-2005|(2005)]].</ref>
+
+<ref name="armitage55">Angus Armitage, ''The World of Copernicus'', p. 55.</ref>
+
+<ref name="armitage75–77">Angus Armitage, ''The World of Copernicus'', pp. 75–77.</ref>
+
+<ref name="armitage97–98">Angus Armitage, ''The World of Copernicus'', pp. 97–98.</ref>
+
+<ref name="armitage98">Angus Armitage, ''The World of Copernicus'', p. 98.</ref>
+
+<ref name="beginnings">{{cite journal |last=Volckart |first=Oliver |date=1997 |title=Early Beginnings of the Quantity Theory of Money and Their Context in Polish and Prussian Monetary Policies, c. 1520–1550 |journal=The Economic History Review |series=New Series |doi=10.1111/1468-0289.00063 |volume=50 |issue=3 |pages=430–49}}</ref>
+
+<ref name="Calendar">{{cite web |date=12 June 2010 |title=Calendar of the Church Year according to the Episcopal Church |publisher=Satucket.com |url=http://satucket.com/lectionary/Calendar.htm |access-date=17 August 2012}}</ref>
+
+<ref name="Cohen">{{cite book |last=Cohen |first=I. Bernard |date=1985 |title=Revolution in Science |url=https://archive.org/details/revolutioninscie00cohe |url-access=registration |publisher=Belknap Press of Harvard University Press |location=Cambridge, MA |isbn=978-0-674-76778-2 |page=[https://archive.org/details/revolutioninscie00cohe/page/497 497]}}</ref>
+
+<ref name="copernicus1">{{cite web |last=Findlen |first=Paula |year=2013 |title=Copernicus, Nicolaus |publisher=World Book Advanced |url=http://photo.pds.org:5005/advanced/article?id=ar132860&st=copernicus |archive-url=https://web.archive.org/web/20151018072645/http://photo.pds.org:5005/advanced/article?id=ar132860&st=copernicus |url-status=dead |archive-date=18 October 2015 |access-date=31 May 2013 }}</ref>
+
+<ref name="countenanced">Gingerich [[#Reference-Gingerich-2004|(2004, pp.&nbsp;187–89, 201)]]; Koyré [[#Reference-Koyre-1973|(1973, p.&nbsp;94)]]; Kuhn [[#Reference-Kuhn-1957|(1957, p.&nbsp;93)]]; Rosen [[#Reference-Rosen-2004|(2004, p.&nbsp;123)]]; Rabin [[#Reference-Rabin-2005|(2005)]]. Robbins [[#Reference-Robbins-1964|(1964, p. x)]], however, includes Copernicus among a list of Renaissance astronomers who "either practiced astrology themselves or countenanced its practice".</ref>
+
+<ref name="Danielson">Danielson [[#CITEREFDanielson2006|(2006)]]</ref>
+
+<ref name="Davies20">{{cite book |last=Davies |first=Norman |year=2005 |title=God's playground. A History of Poland in Two Volumes |publisher=Oxford University Press |volume=II |isbn=978-0-19-925340-1 |page=20}}</ref>
+
+<ref name="Davies26">{{cite book |last=Davies |first=Norman |year=2005 |title=God's playground. A History of Poland in Two Volumes |publisher=Oxford University Press |volume=II |isbn=978-0-19-925340-1 |page=26}}</ref>
+
+<ref name="DeMarco">{{cite web |last=DeMarco |first=Peter |date=13 April 2004 |title=Book quest took him around the globe |publisher=The Boston Globe |url=http://www.boston.com/news/education/higher/articles/2004/04/13/book_quest_took_him_around_the_globe |access-date=3 June 2013}}</ref>
+
+<ref name="Dzieje nauki polskiej">{{cite book |last=Iłowiecki |first=Maciej |year=1981 |title=Dzieje nauki polskiej |language=pl |publisher=Wydawnictwo Interpress |location=Warszawa |isbn=978-83-223-1876-8 |page=40}}</ref>
+
+<ref name="Element112">{{cite web |last=Renner |first=Terrence |date=20 February 2010 |title=Element 112 is Named Copernicium |publisher=International Union of Pure and Applied Chemistry |url=http://www.iupac.org/web/nt/2010-02-20_112_Copernicium |access-date=20 February 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100222083725/http://www.iupac.org/web/nt/2010-02-20_112_Copernicium |archive-date=22 February 2010 }}</ref>
+
+<ref name="encyclopedia">"Copernicus, Nicolaus", ''[[Encyclopedia Americana]]'', 1986, vol. 7, pp. 755–56.</ref>
+
+<!--<ref name="encyclopedia42">[http://www.encyclopedia.com/topic/Nicholas_Copernicus.aspx "Nicholas Copernicus"], ''The Columbia Encyclopedia'', sixth edition, 2008. Encyclopedia.com. 18 July 2009.</ref> -->
+
+<ref name="encyclopedia43">"Copernicus, Nicolaus", ''The Oxford World Encyclopedia'', Oxford University Press, 1998.</ref>
+
+<ref name="fox">{{cite web |last=Fox |first=Stuart |date=14 July 2009 |title=Newly Discovered Element 112 Named 'Copernicum' |publisher=popsci.com |url=http://www.popsci.com/scitech/article/2009-07/element-112-named-copernicum |access-date=17 August 2012}}</ref>
+
+<ref name="Genetic">{{Cite journal |last1=Bogdanowicz |first1=W. |last2=Allen |first2=M. |last3=Branicki |first3=W. |last4=Lembring |first4=M. |last5=Gajewska |first5=M. |last6=Kupiec |first6=T. |year=2009 |title=Genetic identification of putative remains of the famous astronomer Nicolaus Copernicus |journal=[[Proceedings of the National Academy of Sciences|PNAS]] |doi=10.1073/pnas.0901848106 |bibcode=2009PNAS..10612279B |pmid=19584252 |volume=106 |issue=30 |pmc=2718376 |pages=12279–82|doi-access=free }}</ref>
+
+<ref name="Germany">{{cite book |last=Burleigh |first=Michael |year=1988 |title=Germany turns eastwards. A study of Ostforschung in the Third Reich |publisher=CUP Archive |isbn=978-0-521-35120-1 |pages=60,133,280}}</ref>
+
+<ref name="Gingerich p143">Gingerich (2004), p.&nbsp;143.</ref>
+
+<ref name="goddu">Goddu (2010: 245–46)</ref>
+
+<ref name="google21">Koestler, 1968, p. 129.</ref>
+
+<ref name="google26">Biskup (1973), p. 32</ref>
+
+<ref name="google27">Biskup (1973), pp. 38, 82</ref>
+
+<ref name="google28">Malagola (1878), p. 562–65</ref>
+
+<ref name="google3">Bieńkowska (1973), p. 15</ref>
+
+<ref name="google4">Rybka (1973), p. 23.</ref>
+
+<ref name="google5">Sakolsky (2005), p. 8.</ref>
+
+<ref name="google50">From the Inquisition's sentence of 22 June 1633 [[#Reference-Santillana-1976|(de Santillana]], [https://books.google.com/books?id=RABIZBnf_y4C&pg=PA306 1976, pp. 306–10]; [[#Reference-Finocchiaro-1989|Finocchiaro]] [https://web.archive.org/web/20070930013053/http://astro.wcupa.edu/mgagne/ess362/resources/finocchiaro.html#sentence 1989, pp.&nbsp;287–91)]</ref>
+
+<ref name="google6">Biskup (1973), p. 16</ref>
+
+<ref name="guardian">{{cite news|author=Bowcott, Owen|date=21 November 2008|url=https://www.theguardian.com/science/2008/nov/21/astronomy-archaeology|title=16th-century skeleton identified as astronomer Copernicus|work=The Guardian|access-date=18 January 2010}}</ref>
+
+<ref name="NCGes">"Nicolaus Copernicus Gesamtausgabe Bd. VI: Urkunden, Akten und NachrichtenDocumenta Copernicana – Urkunden, Akten und Nachrichten, alle erhaltenen Urkunden und Akten zur Familiengeschichte, zur Biographie und Tätigkeitsfeldern von Copernicus, 1996, {{ISBN|978-3-05-003009-8}} [5]'', pp. 62–63.</ref>
+
+<ref name="psb3">Dobrzycki and Hajdukiewicz (1969), p. 3.</ref>
+
+<ref name="psb4">Dobrzycki and Hajdukiewicz (1969), p. 4.</ref>
+
+<ref name="psb4-5">Dobrzycki and Hajdukiewicz (1969), pp. 4–5.</ref>
+
+<ref name="psb5">Dobrzycki and Hajdukiewicz (1969), p. 5.</ref>
+
+<ref name="psb5-6">Dobrzycki and Hajdukiewicz (1969), pp. 5–6.</ref>
+
+<ref name="psb6">Dobrzycki and Hajdukiewicz (1969), p. 6.</ref>
+
+<ref name="psb7">Dobrzycki and Hajdukiewicz (1969), p. 7.</ref>
+
+<ref name="psb7-8">Dobrzycki and Hajdukiewicz (1969), pp. 7–8.</ref>
+
+<ref name="psb9">Dobrzycki and Hajdukiewicz (1969), p. 9.</ref>
+
+<ref name="psb11">Dobrzycki and Hajdukiewicz (1969), p. 11.</ref>
+
+<ref name="Kobe">{{cite journal|author=Donald H. Kobe|title=Copernicus and Martin Luther: An Encounter Between Science and Religion|journal=American Journal of Physics|volume=66|issue=3|page=190|doi=10.1119/1.18844|date=1998|bibcode = 1998AmJPh..66..190K }}</ref>
+
+<ref name="Milosz37">{{cite book|last=Miłosz|first=Czesław|title=The history of Polish literature|publisher=University of California Press|date=1983|edition=2|isbn=978-0-520-04477-7|page=37}}</ref>
+
+<ref name="newadvent">[http://www.newadvent.org/cathen/04352b.htm ''Catholic Encyclopedia''].</ref>
+
+<ref name="PD20100525">{{cite news|url=http://www.cleveland.com/world/index.ssf/2010/05/16th-century_astronomer_copern.html|title=16th-century astronomer Copernicus reburied as hero in Poland|publisher=Cleveland Plain Dealer/Associated Press|date=25 May 2010}}</ref>
+
+<ref name="omission of general ban">Heilbron [[#Reference-Heilbron-2005|(2005, p. 307)]]; Coyne [[#Reference-Coyne-2005|(2005, p. 347)]].</ref>
+
+<ref name="omission of specific ban">McMullin [[#Reference-McMullin-2005|(2005, p. 6)]]; Coyne [[#Reference-Coyne-2005|(2005, pp.&nbsp;346–47)]].</ref>
+
+<ref name="plato.stanford">{{cite web |url=http://plato.stanford.edu/entries/copernicus/#1 |author=Sheila Rabin |title=Nicolaus Copernicus |access-date=22 April 2007 |website=Stanford Encyclopedia of Philosophy}}</ref>
+
+<ref name="Polish Literature p. 38">[[Czesław Miłosz]], ''The History of Polish Literature'', p. 38.</ref>
+
+<ref name="Polish tests">{{cite news |author=Easton, Adam |url=http://news.bbc.co.uk/1/hi/world/europe/7740908.stm |title=Polish tests 'confirm Copernicus' |access-date=18 January 2010 |work=BBC News |date= 21 November 2008}}</ref>
+
+<ref name="reference">Rabin [[#Reference-Rabin-2005|(2005)]].</ref>
+
+<ref name="reference36">[[#Reference-Kuhn-1957|Kuhn, 1957, pp. 187–88]].</ref>
+
+<ref name="reference40">Koestler [[#Reference-Koestler-1963|(1959, p. 191)]].</ref>
+
+<ref name="Repcheck">Repcheck (2007), pp. 78–79, 184, 186.</ref>
+
+<ref name="repcheck66">Repcheck (2007), p. 66.</ref>
+
+<ref name="Rosen1995 p. 127">[[#Reference-Rosen-1995|Rosen]] (1995, [https://books.google.com/books?id=C_a1kTvuZ1MC&pg=PA127 p. 127]).</ref>
+
+<ref name="Rudnicki 2006">{{cite journal | last = Rudnicki | first = Konrad |date=November–December 2006 | title = The Genuine Copernican Cosmological Principle | journal=Southern Cross Review | pages = note 2 | url = http://southerncrossreview.org/50/rudnicki1.htm | access-date =21 January 2010}}</ref>
+
+<ref name="sedlar">Sedlar (1994).</ref>
+
+<ref name="seven assumptions">Rosen ([[#Reference-Rosen-2004|2004]], [https://books.google.com/books?id=ceSnipu4MykC&pg=PA58 pp.&nbsp;58–59]); Swerdlow ([[#CITEREFSwerdlow1973|1973]], p. 436)</ref>
+
+<ref name="Stephen Mizwa 1943, p. 38">Mizwa, 1943, p.&nbsp;38.</ref>
+
+<ref name="gravemystery">{{Cite journal |last=Gingerich |first=O. |date=2009 |title=The Copernicus grave mystery |journal=PNAS |volume=106 |issue= 30|pages=12215–16 |doi=10.1073/pnas.0907491106 |pmid=19622737 |pmc=2718392 |bibcode = 2009PNAS..10612215G |doi-access=free }}</ref>
+
+<ref name="watzenrode">{{BBKL|w/watzenrode|autor=Wojciech Iwanczak|artikel=Watzenrode, Lucas|band=13|spalte=389–93}}</ref>
+
+<ref name="webexhibits">{{cite web|url=http://webexhibits.org/calendars/year-text-Copernicus.html|title=Schönberg, Nicholas, ''Letter to Nicolaus Copernicus'', translated by Edward Rosen}}</ref>
+
+<ref name="weissenbacher">Weissenbacher (2009), p. 170.</ref>
+
+<ref name="wikisource">[http://de.wikisource.org/wiki/Nicolaus_Coppernicus_aus_Thorn_%C3%BCber_die_Kreisbewegungen_der_Weltk%C3%B6rper/Vorwort#Orthographie Maximilian Curtze, ''Ueber die Orthographie des Namens Coppernicus'', 1879]</ref>
+}}
+
+===Sources===
+{{refbegin|30em}}
+* {{cite book
+ | last=Armitage |first=Angus
+ | year=1951
+ | title = The World of Copernicus
+ | publisher=Mentor Books
+ | location= New York
+ | ref= Reference-Armitage-1951}}
+* {{cite book
+|last=Armitage |first=Angus
+|year=1990
+|title=Copernicus, the founder of modern astronomy
+|publisher=Dorset Press
+|isbn=978-0-88029-553-6}}
+* {{cite book
+ | last=Bell | first=Eric Temple | author-link=Eric Temple Bell
+ | year=1992
+ | orig-year=1940
+ | title=The development of mathematics
+ | publisher=Dover Publications
+ | location=New York
+ | isbn=978-0-486-27239-9}}
+* {{cite book
+ | title = The Scientific World of Copernicus: On the Occasion of the 500th Anniversary of His Birth, 1473–1973
+ | last=Bieńkowska |first=Barbara  | year = 1973
+ | publisher=Springer
+ | isbn = 978-90-277-0353-8}}
+* {{cite book |last=Biskup |first=Marian |year=1973 |title=Regesta Copernicana: (calendar of Copernicus' papers)|language=pl |publisher=Ossolineum}}
+* {{cite book |last=Carrier |first=Martin |year=2001 |title=Nikolaus Kopernikus |publisher=C. H. Beck |isbn=978-3-406-47577-1}}
+* {{cite book
+ | title= The Church's Most Recent Attempt to Dispel the Galileo Myth
+ | last=Coyne
+ | first=George V.
+ | others= In [[#Reference-McMullin-2005|McMullin (2005, pp. 340–59)]]
+ | date= 2005
+ | ref=Reference-Coyne-2005}}
+* {{cite book |last=Danielson |first=Dennis Richard |year=2006 |title=The First Copernican: Georg Joachim Rheticus and the Rise of the Copernican Revolution |publisher=Walker & Company |location=New York |isbn=978-0-8027-1530-2 
+| chapter=1 Patrons and Poets (footnote 13)
+| pages=421
+|url=https://archive.org/details/firstcopernicang00dani }}
+* [[Norman Davies|Davies, Norman]], ''[[God's Playground|God's Playground: A History of Poland]]'', 2 vols., New York, Columbia University Press, 1982, {{ISBN|0-231-04327-9}}.
+* Dobrzycki, Jerzy, and Leszek Hajdukiewicz, "Kopernik, Mikołaj", ''[[Polski słownik biograficzny]]'' (Polish Biographical Dictionary), vol. XIV, Wrocław, [[Polish Academy of Sciences]], 1969, pp.&nbsp;3–16.
+* {{cite book | title= A History of Astronomy from Thales to Kepler
+ | last= Dreyer
+ | first= John Louis Emil
+ | author-link= J. L. E. Dreyer
+ | year= 1953
+ | orig-year= 1906
+ | publisher=Dover Publications
+ | url=https://archive.org/details/historyofplaneta00dreyuoft
+ | location= New York
+ | ref=Reference-Dreyer-1953}}
+* {{cite book
+ | title= The Disputed Injunction and its Role in Galileo's Trial
+ | last=Fantoli |first=Annibale
+ | others= In [[#Reference-McMullin-2005|McMullin (2005, pp. 117–49)]]
+ | year= 2005
+ | ref=Reference-Fantoli-2005}}
+* {{cite book
+ | last= Feldhay
+ | first= Rivka
+ | year = 1995
+ | title = Galileo and the Church: Political Inquisition Or Critical Dialogue?
+ | publisher=Cambridge University Press
+ | location = Cambridge
+ | isbn = 978-0-521-34468-5
+ | url=https://books.google.com/books?id=OuoNH6AifgIC
+ | ref = feldhay-1995}}
+* {{cite book|title=Defending Copernicus and Galileo: Critical Reasoning in the Two Affairs|url=https://books.google.com/books?id=mY3WG5NpjEgC|author=Maurice A. Finocchiaro|publisher=Springer Science & Business Media|date=2010|ref=finocchiaro-2010|isbn=978-90-481-3201-0}}
+* {{cite book
+ | title = The Galileo Affair: A Documentary History
+ | url=https://books.google.com/books?id=k7D1CXFBl2gC
+ | last=Finocchiaro |first=Maurice A.
+ | publisher=University of California Press
+ | year = 1989
+ | location = Berkeley
+ | isbn = 978-0-520-06662-5
+ | ref = Reference-Finocchiaro-1989}}
+* {{cite web
+ | title = Texts from ''The Galileo Affair: A Documentary History''
+|editor-first=Maurice A.
+|editor-last=Finocchiaro
+|translator=Finocchiaro
+ | last=Gagné |first=Marc
+ | publisher=West Chester University course ESS 362/562 in History of Astronomy
+ | year = 2005
+ | access-date =15 January 2008
+| url = http://astro.wcupa.edu/mgagne/ess362/resources/finocchiaro.html
+ |archive-url = https://web.archive.org/web/20070930013053/http://astro.wcupa.edu/mgagne/ess362/resources/finocchiaro.html
+|archive-date=30 September 2007
+|ref=Reference-Gagne-2005
+}} (Extracts from [[#Reference-Finocchiaro-1989|Finocchiaro (1989)]])
+* {{cite book|author1=Pierre Gassendi|author2=Olivier Thill|title=The Life of Copernicus 1473–1543|date=September 2002|publisher=Xulon Press|isbn=978-1-59160-193-7}}
+* {{cite book
+ | title = The Book Nobody Read
+ | last=Gingerich |first=Owen |author-link=Owen Gingerich
+ | publisher=William Heinemann
+ | year = 2004
+ | isbn = 978-0-434-01315-9
+ | location = London
+ | ref = Reference-Gingerich-2004}}
+* {{citation
+ | title =God's Planet
+ | last=Gingerich |first=Owen |author-link=Owen Gingerich
+ | url=https://books.google.com/books?id=po69BAAAQBAJ
+ | year =2014
+ | isbn =978-0-674-41710-6
+ | bibcode=2014gopl.book.....G }}
+* {{citation
+ | title = Copernicus: A Very Short Introduction
+ | last=Gingerich |first=Owen |author-link=Owen Gingerich
+ | publisher=Oxford University Press
+ | location=Oxford & New York, NY
+ | url=https://books.google.com/books?id=kKVHDAAAQBAJ
+ | year =2016
+ | isbn =978-0-19-933096-6
+ }}
+* {{cite book
+   |last=Goddu
+   |first=André
+   |title=Copernicus and the Aristotelian tradition
+   |year=2010
+   |publisher=Brill
+   |location=Leiden, Netherlands
+   |isbn=978-90-04-18107-6
+}}
+* {{cite book
+| title = Setting Aside All Authority: Giovanni Battista Riccioli and the Science Against Copernicus in the Age of Galileo
+| url=https://books.google.com/books?id=6r_nrQEACAAJ
+| last=Graney |first=Christopher M.
+| publisher=University of Notre Dame Press
+| location=Notre Dame, IN
+| date = 2015
+| ref=graney-2015
+| isbn = 978-0-268-02988-3}}
+* {{cite book
+| title = The Rise of Scientific Europe, 1500–1800
+| last1=Goodman |first1=David C.
+| last2=Russell |first2=Colin A.
+| year = 1991
+| publisher=Hodder Arnold H&S
+| isbn = 978-0-340-55861-4}}
+* {{cite book |last= Heath
+              |first= Sir Thomas
+              |author-link= Thomas Little Heath
+              |title= Aristarchus of Samos, the ancient Copernicus ; a history of Greek astronomy to Aristarchus, together with Aristarchus's Treatise on the sizes and distances of the sun and moon : a new Greek text with translation and notes
+              |url= https://archive.org/details/aristarchusofsam00heatuoft
+              |date= 1913
+              |publisher=Oxford University Press
+              |location= London
+              |ref= Reference-Heath-1913}}
+* {{cite book|author=Alan W. Hirshfeld|title=Parallax: The Race to Measure the Cosmos|date=1 May 2002|publisher=Henry Holt and Company|isbn=978-0-8050-7133-7}}
+* {{cite book
+ | title = Censorship of Astronomy in Italy after Galileo
+ | last=Heilbron |first=John L.
+ | others = In [[#Reference-McMullin-2005|McMullin (2005, pp. 279–322)]]
+ | year = 2005
+ | ref = Reference-Heilbron-2005}}
+* {{cite book |last=Hoskin |first=Michael |title=The Cambridge Concise History of Astronomy|date=18 March 1999|publisher=Cambridge University Press|isbn=978-0-521-57600-0}}
+* {{cite book |last=Johnson |first=Lonnie |date=28 September 1996 |title=Central Europe: Enemies, Neighbors, Friends |url=https://archive.org/details/isbn_9780195100716 |url-access=registration |publisher=Oxford University Press, US |isbn=978-0-19-802607-5}}
+* {{cite book
+ | title = The Sleepwalkers: A History of Man's Changing Vision of the Universe
+ | last=Koestler
+ | first=Arthur
+ | author-link=Arthur Koestler
+ | publisher=Grosset & Dunlap
+ | date = 1963
+ | orig-year = 1959
+ | isbn = 978-0-448-00159-3
+ | location = New York
+ | ref = Reference-Koestler-1963| title-link=The Sleepwalkers (Koestler book)
+ }} Original edition published by Hutchinson (1959, London)
+* {{cite book|author=Arthur Koestler|title=The Sleepwalkers|date=1968|publisher=Macmillan}}
+* {{Cite book <!-- Deny Citation Bot-->
+ | title = Nicolaus Copernicus zum 500. Geburtstag
+ | last=Koeppen |first=Hans
+ | display-authors=etal
+ | publisher=Böhlau Verlag
+ | date = 1973
+ | isbn = 978-3-412-83573-6| bibcode=1973ncz..book.....K }}
+* {{cite book
+ | title = The Astronomical Revolution: Copernicus – Kepler – Borelli
+ | last=Koyré |first=Alexandre |author-link=Alexandre Koyré
+ | publisher=Cornell University Press
+ | date = 1973
+ | isbn = 978-0-8014-0504-4
+ | location = Ithaca, NY
+ | ref = Reference-Koyre-1973}}
+* {{Cite book <!-- Deny Citation Bot-->
+ | title = The Copernican Revolution: Planetary Astronomy in the Development of Western Thought
+ | location=Cambridge |publisher=Harvard University Press
+ | last=Kuhn |first=Thomas |author-link=Thomas Kuhn
+ | date = 1957
+ | oclc = 535467
+ | ref = Reference-Kuhn-1957| title-link=The Copernican Revolution: Planetary Astronomy in the Development of Western Thought | bibcode=1957crpa.book.....K }}
+* {{Cite journal | last1 = Lindberg | first1 = David C. | author-link1 = David C. Lindberg | last2 = Numbers | first2 = Ronald L. | author2-link = Ronald L. Numbers | title = Beyond War and Peace: A Reappraisal of the Encounter between Christianity and Science | journal=Church History | volume = 55 | issue = 3 | pages = 338–354 | date = 1986 | doi = 10.2307/3166822 | jstor = 3166822}}
+* {{cite book | title= From Eudoxus to Einstein: A History of Mathematical Astronomy
+ | last=Linton |first=Christopher M.
+ | publisher=Cambridge University Press
+ | date= 2004
+ | location= Cambridge
+ | isbn= 978-0-521-82750-8
+ | ref=Reference-Linton-2004}}
+* {{cite book |last=Malagola |first=Carlo |title=Della vita e delle opere di Antonio Urceo detto Codro: studi e ricerch|date=1878|publisher=Fava e Garagnani}}
+* {{cite book| title= Manetho Ptolemy Tetrabiblos
+| author1= Manetho
+| author2= Ptolemy
+| others= Loeb Classical Library edition, translated by W.G.Waddell and F.E.Robbins PhD
+| date= 1964
+| orig-year= 1940
+| location= London
+| publisher=William Heinemann
+| ref= Reference-Waddell&Robbins-1964
+| title-link= Tetrabiblos
+}}
+* {{cite book
+ | editor-last=McMullin |editor-first=Ernan
+ | year= 2005
+ | title = The Church and Galileo
+ | publisher=University of Notre Dame Press
+ | location = Notre Dame, IN
+ | isbn = 978-0-268-03483-2
+ | ref = Reference-McMullin-2005}}
+* [[Czesław Miłosz|Miłosz, Czesław]], ''The History of Polish Literature'', second edition, Berkeley, University of California Press, 1969, {{ISBN|0-520-04477-0}}.
+* [[Stephen Mizwa|Mizwa, Stephen]], ''Nicolaus Copernicus, 1543–1943'', Kessinger Publishing, 1943.
+* {{cite book
+|last=Moore |first=Patrick
+|title=The great astronomical revolution 1543–1687 and the Space Age epilogue
+|year=1994
+|publisher=Albion
+|isbn=978-1-898563-18-1}}
+* {{citation
+ | title =Of the Original of the Sabbath
+ | first= John
+ | last= Owen
+ | author-link=John Owen (theologian)
+ | url=https://archive.org/details/worksofjohnowen186911owen/page/286
+ | encyclopedia=The Works of John Owen
+ | editor1-first= William H.
+ | editor1-last= Goold
+ | editor2-first= Charles W.
+ | editor2-last= Quick
+ | volume=[https://archive.org/details/worksofjohnowen186911owen/page/n5 XI]
+ | publisher=The Leighton Publications
+ | location=Philadelphia
+ | date = 1869
+ | orig-year= 1671
+ | pages= 286–326
+ }}
+* {{cite book |title=Tetrabiblos
+| last= Ptolemy |first= Claudius
+| year=1964
+| orig-year=1940
+| others=translated by F.E. Robbins
+| edition=Loeb Classical Library
+| publisher=William Heinemann
+| location= London
+| ref= Reference-Robbins-1964
+}}
+* {{cite encyclopedia
+ | title = Nicolaus Copernicus
+ | last=Rabin |first=Sheila
+ | encyclopedia=The Stanford Encyclopedia of Philosophy
+|edition=Summer 2005
+|editor-first=Edward N. |editor-last=Zalta
+ | year= 2005
+ | url = http://plato.stanford.edu/archives/sum2005/entries/copernicus/
+|access-date=26 May 2008
+|ref=Reference-Rabin-2005
+}}
+* {{cite book
+|last=Repcheck
+|first=Jack
+|title=Copernicus' Secret: How the Scientific Revolution Began
+|publisher=Simon & Schuster
+|location=New York
+|year=2007
+|isbn=978-0-7432-8951-1
+|ref=repcheck-2007
+|url=https://archive.org/details/copernicussecret00repc
+}}
+* {{cite journal|last=Rosen |first=Edward|title=Calvin's Attitude toward Copernicus|journal=Journal of the History of Ideas|volume=21|date=1960|pages=431–41|issue=3|doi=10.2307/2708147|ref=rosen-1960|jstor=2708147}}
+* {{Cite book 
+ | title = Copernicus and his Successors
+ | url=https://books.google.com/books?id=Y_fUAwAAQBAJ&printsec=frontcover <!-- Deny Citation Bot-->
+ | last=Rosen |first=Edward
+ | editor-last=Hilfstein | editor-first=Erna
+ | publisher=Hambledon Press
+ | date = 1995
+ | isbn = 978-1-85285-071-5
+ | location = London
+ | ref = Reference-Rosen-1995| bibcode=1995cops.book.....R }}
+* {{cite book
+ | title = Three Copernican Treatises:The Commentariolus of Copernicus; [[The Letter against Werner]]; The Narratio Prima of Rheticus<!-- Deny Citation Bot-->
+ | author=Rosen, Edward (translator)
+ | publisher=Dover Publications
+ | edition = Second Edition, revised
+ | year = 2004
+ | orig-year = 1939
+ | isbn = 978-0-486-43605-0
+ | location = New York
+ | ref = Reference-Rosen-2004
+ }}
+* {{cite book
+ | title = Inventing the Flat Earth – Columbus and Modern Historians
+ | author=[[Jeffrey Burton Russell|Russell, Jeffrey Burton]]
+ | publisher=Praeger
+ | date = 1997
+ | orig-year = 1991
+ | isbn = 978-0-275-95904-3
+ | location = New York
+ | ref = Reference-Russell-1997}}
+* {{cite book|title=The Review of the Polish Academy of Sciences|date=1973|publisher="Ossolineum", the Polish Academy of Sciences Press}}
+* {{cite book|author=Josh Sakolsky|title=Copernicus And Modern Astronomy|date=1 October 2004|publisher=The Rosen Publishing Group|isbn=978-1-4042-0305-1}}
+* {{citation
+   |last=Saliba
+   |first=George
+   |title=Islamic reception of Greek astronomy
+   |volume=260
+   |author-link=George Saliba
+   |year=2009
+   |work=in [[#CITEREFValls-GabaudBoskenberg2009|Valls-Gabaud & Boskenberg (2009)]]
+   |pages=149–65
+   |url=https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4815D5D2879A9719F1DA0DE098900586/S1743921311002237a.pdf/islamic_reception_of_greek_astronomy.pdf
+   |bibcode=2011IAUS..260..149S
+   |doi=10.1017/S1743921311002237
+   |doi-access=free
+   }}
+* {{cite book| title= The Crime of Galileo
+           | first=Giorgio
+           | last=de Santillana
+           | author-link= Giorgio de Santillana
+           | orig-year= 1955
+           | publisher=University of Chicago Press
+           | date= 1976
+           | type=Midway reprint
+           | location = Chicago, Ill
+           | isbn= 978-0-226-73481-1
+           | ref= Reference-Santillana-1976}}
+* {{cite book
+ | title = East Central Europe in the Middle Ages 1000–1500
+ | last=Sedlar |first=Jean W.
+ | publisher=University of Washington Press
+ | isbn = 978-0-295-97290-9
+ | date = 1994}}
+* [[Dava Sobel]], ''A More Perfect Heaven:  How Copernicus Revolutionized the Cosmos'', New York, Walker & Company, 2011, {{ISBN|978-0-8027-1793-1}}. {{unreliable source?|date=April 2017}} Features a fictional play about [[Rheticus]]' visit to Copernicus, sandwiched between chapters about the visit's pre-history and post-history.
+* {{cite book|author=Barbara A. Somervill|title=Nicolaus Copernicus: Father of Modern Astronomy|date=1 January 2005|publisher=Capstone|isbn=978-0-7565-0812-8}} 
+* {{cite book|author=Daniel Stone|title=The Polish-Lithuanian State: 1386–1795|date=2001|publisher=University of Washington Press|isbn=978-0-295-98093-5}}
+* {{citation
+ | title =The Derivation and First Draft of Copernicus's Planetary Theory—A Translation of the Commentariolus with Commentary
+ | first= Noel
+ | last= Swerdlow
+ | journal=Proceedings of the American Philosophical Society
+ | volume=117
+ | number=6
+ | date =December 1973
+ | pages= 423–512
+ }}
+* {{citation| title=Mathematical Astronomy in Copernicus' De Revolutionibus: In Two Parts
+| url=https://books.google.com/books?id=uHPgBwAAQBAJ
+| first1=Noel Mark
+| last1=Swerdlow
+| author1-link=Noel Swerdlow
+| first2=Otto Eduard
+| last2=Neugebauer
+| author2-link=Otto E. Neugebauer
+| publisher=Springer Verlag
+| location=New York
+| year=1984
+| isbn=978-1-4613-8264-5
+}}
+* {{cite book
+ | title = The Lord of Uraniborg
+ | first= Victor E.
+ | last= Thoren
+ | publisher=Cambridge University Press
+ | date = 1990
+ | isbn = 978-0-521-35158-4
+ | location = Cambridge
+ | ref = thoren-1990}} (A biography of Danish astronomer and alchemist [[Tycho Brahe]].)
+* {{cite book
+   |editor1-last=Valls-Gabaud
+   |editor1-first=D.
+   |editor2-last=Boskenberg
+   |editor2-first=A.
+   |title=The Role of Astronomy in Society and Culture
+   |series=Proceedings IAU Symposium No. 260
+   |year=2009
+}}
+* {{cite book|author=Manfred Weissenbacher|title=Sources of Power: How Energy Forges Human History|date=September 2009|publisher=ABC-CLIO|isbn=978-0-313-35626-1}}
+* {{cite book
+ | title = The Copernican Question: Prognostication, Skepticism, and Celestial Order
+ | url=https://books.google.com/books?id=iEueQqLQyiIC
+ | first= Robert S.
+ | last= Westman
+ | publisher=University of California Press
+ | date = 2011
+ | isbn = 978-0-520-25481-7
+ | location = Los Angeles
+ | ref = westman-2011}}
+{{refend}}
+
+==External links==
+{{Sister project links|wikt=no|v=no|n=no|s=Author:Nicolaus Copernicus}}
+{{Wikisourcelang|la|Scriptor:Nicolaus Copernicus|Nicolaus Copernicus}}
+{{Wikisourcelang|de}}
+{{Cosmology|scientists}}
+
+'''Primary sources'''
+* {{Gutenberg author |id=Copernicus,+Nicolaus | name=Nicolaus Copernicus}}
+* {{Internet Archive author |sname=Copernicus}}
+* {{Librivox author |id=2716}}
+* [http://pka.bj.uj.edu.pl/bjmanus/revol/titlpg_e.html De Revolutionibus, autograph manuscript] – Full digital facsimile, Jagiellonian University
+* {{in lang|pl}} [http://domwarminski.pl/index.php?option=com_content&view=article&id=19 Polish translations of letters written by Copernicus in Latin or German]
+* [http://hos.ou.edu/galleries//16thCentury/Copernicus/ Online Galleries, History of Science Collections, University of Oklahoma Libraries] High resolution images of works by and/or portraits of Nicolaus Copernicus in .jpg and .tiff format.
+
+'''General'''
+* {{MacTutor Biography|id=Copernicus}}
+* {{MathGenealogy|id=126177}}
+* [http://www.visittorun.pl/index.php?strona=6 Copernicus in Torun]
+* [http://www.muzeum.torun.pl/strona-26-copernicus_house.html Copernicus House, District Museum in Toruń]
+* [http://copernicus.torun.pl/en/ Nicolaus Copernicus Thorunensis] by the [http://copernicus.torun.pl/en/project/ Copernican Academic Portal]
+* [https://web.archive.org/web/20041009151823/http://www.frombork.art.pl/Ang01.htm Nicolaus Copernicus Museum in Frombork]
+* Portraits of Copernicus: [http://www.nbcnews.com/id/9913250 Copernicus's face reconstructed]; [http://www-groups.dcs.st-andrews.ac.uk/~history/PictDisplay/Copernicus.html Portrait]; [https://web.archive.org/web/20041013153447/http://www.frombork.art.pl/Ang10.htm Nicolaus Copernicus]
+* [http://www.hps.cam.ac.uk/starry/coperastrol.html Copernicus and Astrology] {{Webarchive|url=https://web.archive.org/web/20090121212438/http://www.hps.cam.ac.uk/starry/coperastrol.html |date=21 January 2009 }}
+* [http://plato.stanford.edu/entries/copernicus/ Stanford Encyclopedia of Philosophy entry]
+* [http://news.bbc.co.uk/1/hi/world/europe/4405958.stm 'Body of Copernicus' identified] – BBC article including image of Copernicus using facial reconstruction based on located skull
+* [http://www-personal.umich.edu/~jbourj/money2.htm Nicolaus Copernicus on the 1000 Polish Zloty banknote.]
+* [http://www.mhhe.com/physsci/astronomy/fix/student/images/04f08.jpg Copernicus's model for Mars ]
+* [http://www.mhhe.com/physsci/astronomy/fix/student/images/02f27.jpg Retrograde Motion ]
+* [http://www.mhhe.com/physsci/astronomy/fix/student/images/04f04.jpg Copernicus's explanation for retrograde motion]
+* [http://www.mhhe.com/physsci/astronomy/fix/student/images/04f07.jpg Geometry of Maximum Elongation]
+* [http://csep10.phys.utk.edu/astr161/lect/retrograde/copernican.html Copernican Model]
+* [https://web.archive.org/web/20041013153447/http://www.frombork.art.pl/Ang10.htm Portraits of Nicolaus Copernicus]
+
+'''About ''De Revolutionibus'''''
+* [http://galileo.rice.edu/sci/theories/copernican_system.html The Copernican Universe from the De Revolutionibus]
+* [http://digital.lib.lehigh.edu/planets/cop.php?num=F.1&exp=false&lang=lat&CISOPTR=0&limit=cop&view=full De Revolutionibus, 1543 first edition] – Full digital facsimile, Lehigh University
+* [http://webexhibits.org/calendars/year-text-Copernicus.html The text of the De Revolutionibus]
+* [https://www.e-rara.ch/sbs/doi/10.3931/e-rara-79844 Digitized edition of ''De Revolutionibus Orbium Coelestium''] (1543) with annotations of [[Michael Maestlin]] on [[e-rara]]
+
+'''Prizes'''
+* [https://web.archive.org/web/20090425004549/http://pau.krakow.pl/index.php/en/2008031765/Prizes-by-PAU/Page-2.html Nicolaus Copernicus Prize, founded by the City of Kraków], awarded since 1995
+
+'''German-Polish cooperation'''
+* {{in lang|en|de|pl}} German-Polish "Copernicus Prize" awarded to German and Polish scientists ([https://www.dfg.de/en/funded_projects/prizewinners/copernicus_award/index.html DFG website])
+* {{in lang|en|de|pl}} [http://www.buero-kopernikus.org/en/home/31/0/0 Büro Kopernikus – An initiative of German Federal Cultural Foundation]
+* {{in lang|de|pl}} [http://www.bkherne.eu/index.php?option=com_content&view=article&id=304&Itemid=272 German-Polish school project on Copernicus]
+
+{{Nicolaus Copernicus}}
+{{Portal bar|Biography|Mathematics|Medicine|Astronomy|Stars|Language|Poland|Science}}
+{{Authority control}}
+
+{{DEFAULTSORT:Copernicus, Nicolaus}}
+[[Category:Nicolaus Copernicus| ]]
+[[Category:1473 births]]
+[[Category:1543 deaths]]
+[[Category:16th-century German writers]]
+[[Category:16th-century German male writers]]
+[[Category:16th-century Latin-language writers]]
+[[Category:16th-century mathematicians]]
+[[Category:16th-century Polish writers]]
+[[Category:16th-century male writers]]
+[[Category:Anglican saints]]
+[[Category:Burials at Frombork Cathedral]]
+[[Category:Canons of Warmia]]
+[[Category:Copernican Revolution]]
+[[Category:16th-century German astronomers]]
+[[Category:German economists]]
+[[Category:German philosophers]]
+[[Category:German Roman Catholics]]
+[[Category:Jagiellonian University alumni]]
+[[Category:People celebrated in the Lutheran liturgical calendar]]
+[[Category:People from Royal Prussia]]
+[[Category:People from Toruń]]
+[[Category:People of the Polish–Teutonic War (1519–1521)]]
+[[Category:15th-century Polish astronomers]]
+[[Category:Polish economists]]
+[[Category:Polish philosophers]]
+[[Category:Polish Roman Catholics]]
+[[Category:Renaissance scientists]]
+[[Category:Catholic clergy scientists]]
+[[Category:University of Bologna alumni]]
+[[Category:University of Ferrara alumni]]
+[[Category:University of Padua alumni]]
+[[Category:16th-century German mathematicians]]
+[[Category:16th-century Polish astronomers]]
+[[Category:Latin-language writers from Poland]]

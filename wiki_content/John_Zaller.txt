@@ -1,0 +1,59 @@
+{{Infobox scientist
+| name              = John R. Zaller
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth year and age |1949}}
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| nationality       = [[United States|American]]
+| fields            = [[Political science]]
+| workplaces        = [[University of California, Los Angeles]]
+| alma_mater        = [[University of California, Berkeley]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = [[Nelson W. Polsby]]
+| doctoral_students = 
+| known_for         = 
+| awards            = 
+}}
+'''John Raymond Zaller''' (born 1949) is a [[political science|political scientist]] and professor specializing in [[public opinion]] at the [[University of California, Los Angeles]]. He was an Editor of the [[American Political Science Review]].<ref>{{cite web|url=http://www.polisci.ucla.edu/people/faculty-pages/faculty-cvs/zaller_cv_08.pdf |title=Archived copy |accessdate=2009-04-15 |url-status=dead |archiveurl=https://web.archive.org/web/20100708133516/http://www.polisci.ucla.edu/people/faculty-pages/faculty-cvs/zaller_cv_08.pdf |archivedate=2010-07-08 }}</ref> He graduated from [[Saint Monica Catholic High School]] in [[Santa Monica]], CA. He pursued his undergraduate studies at the [[University of California, Riverside]]. He received his Ph.D. from the [[University of California, Berkeley]] in 1984.
+
+==Career==
+Zaller is best known for his 1992 book ''[[The Nature and Origins of Mass Opinion]]'', in which he argues that changes in public opinion are due to the influences of political [[elite]]s. Although he acknowledges the mainstream media's shortcomings, Zaller holds a positive view of "infotainment", arguing that even sensationalist and superficial media coverage of politics serves to inform and does increase awareness of political issues.  Zaller teaches undergraduate classes on electoral politics and the mass media's influence on public opinion in election cycles as well as graduate classes on political behavior and intermediate statistical analysis.
+
+Zaller is a part of the [[UCLA School of Political Parties]], which holds that political parties are created by intense policy demanders, rather than by ambitious politicians.
+
+==List of works==
+* ''The Party Decides: Presidential Nominations Before and After Reform'', 2008, with Marty Cohen, David Karol and [[Hans Noel]]. [[University of Chicago Press]].
+* ''[[The Nature and Origins of Mass Opinion]]'', 1992, [[Cambridge University Press]].
+* ''The American Ethos, Public Attitudes Toward Capitalism and Democracy'', 1984, with Herbert McCloskey, [[Harvard University Press]].
+
+Zaller has also authored numerous academic articles.<ref>{{Cite web |url=http://www.polisci.ucla.edu/sites/default/files/2-3-2015_john-zaller_cv.pdf |title=Archived copy |access-date=2015-07-14 |archive-url=https://web.archive.org/web/20150715075929/http://www.polisci.ucla.edu/sites/default/files/2-3-2015_john-zaller_cv.pdf |archive-date=2015-07-15 |url-status=dead }}</ref>
+
+==Bibliography==
+*{{cite book|last1=Cohen|first1=Marty|last2=Karol|first2=David|last3=Noel|first3=Hans|last4=Zaller|first4=John|title=The Party Decides: Presidential Nominations Before and After Reform|date=2008|publisher=University of Chicago Press|location=Chicago}}
+*''The Nature and Origins of Mass Opinion'' New York: Cambridge University Press ([http://wikisum.com/w/Zaller:_The_nature_and_origins_of_mass_opinion summary])
+*"Who Gets the News: Measuring Individual Differences in Likelihood of News Reception" with [[Vincent Price (educator)|Vincent Price]]. ''[[Public Opinion Quarterly]]'' 1993.
+
+==Notes==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20090418205140/http://www.polisci.ucla.edu/people/faculty-pages/john-zaller Profile on the UCLA Political Science Department website]
+* {{scopus id}}
+
+{{Authority control}}
+{{DEFAULTSORT:Zaller, John}}
+[[Category:1949 births]]
+[[Category:Living people]]
+[[Category:American political scientists]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:University of California, Los Angeles faculty]]
+
+
+{{US-polisci-bio-stub}}

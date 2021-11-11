@@ -1,0 +1,50 @@
+{{short description|Economist and professor (born 1943)}}
+{{Multiple issues|
+{{COI|date=September 2020}}
+{{BLP sources|date=October 2020}}
+}}
+{{Infobox academic
+| name              = Enrique R. Arzac
+| caption           = 
+| birth_date        = 1943
+| nationality       = Argentine-American
+| workplaces        = [[Columbia University]]
+| discipline        = [[Financial economics]]
+| alma_mater        = [[Columbia University]], [[University of Buenos Aires]]
+| academic_advisors = [[William Vickrey]], [[David W. Miller]]
+| website           = {{URL|https://www0.gsb.columbia.edu/faculty/earzac/}}
+}}
+'''Enrique R. Arzac''' (born 1943) is a [[financial economist]] and [[Professor Emeritus]] of [[finance]] and [[economics]] at [[Columbia University]] specialized in [[corporate finance]].<ref>{{cite web |title=Enrique R. Arzac |url=https://www8.gsb.columbia.edu/cbs-directory/detail/era1 |website=Columbia Business School Directory |language=en |date=15 September 2014}}</ref>
+
+==Education==
+Enrique R. Arzac obtained a CPN degree from the [[University of Buenos Aires]], and MBA, MA in [[economics]] and Ph.D. in [[financial economics]] from [[Columbia University]]. His research spans several areas of economics including [[asset pricing]], [[commodity markets]] and [[corporate finance]].<ref name="fm7zD" />
+
+==Career==
+Arzac's contributions include the development of [[loss aversion]] asset princing when investors follow a generalization of [[Roy's safety-first criterion]].<ref>Arzac, E. and Bawa, V. S.(1977), “Portfolio Choice and Equilibrium in Capital Markets with Safety-First Investors,” Journal of Financial Economics, 4, 277-288. [https://www.sciencedirect.com/science/article/abs/pii/0304405X77900034], Retrieved June 24, 2021.</ref><ref>Jansen, D. W., K.G. Koedijk and C. G. de Vries (2000), “Portfolio selection with limited downside risk,” Journal of Empirical Finance, 7, 247-269.[https://ideas.repec.org/a/eee/empfin/v7y2000i3-4p247-269.html]. Retrieved September 23, 2020.</ref><ref>Broihanne, M-H., Merli, M. and Roger P. (2006), “Théorie comportementale du portefeuille,” Revue économique, 57, 2, 297-314.[https://www.jstor.org/stable/25483753?seq=1]. Retrieved October 20, 2020.</ref> Asset pricing under loss aversion provides the theoretical foundation for [[Value at risk]] portfolio management<ref>Campbell, R., R. Huisman and K. Koedijk (2001), “Optimal portfolio selection in a Value-at-Risk framework,” Journal of Banking and Finance, 25, 1789-1904.
+[https://econpapers.repec.org/article/eeejbfina/v_3a25_3ay_3a2001_3ai_3a9_3ap_3a1789-1804.htm]. Retrieved September 23, 2020.</ref> and the framework for empirical research of the extreme returns observed in emerging markets<ref>Susmel, R. (2001), “Extreme observations and diversification in Latin American emerging equity markets,” Journal of International Money and Finance, 20, 971-986.
+[https://ideas.repec.org/a/eee/jimfin/v20y2001i7p971-986.html]. Retrieved September 23, 2020.</ref> and after black swan events<ref>Haque, M. and O. Varela (2010), “Safety-first portfolio optimization after September 11, 2001,” The Journal of Risk Finance, Vol. 11 No. 1, 20-61.[https://www.emerald.com/insight/content/doi/10.1108/15265941011012679/full/html?skipTracking=true]. Retrieved September 23, 2020.</ref> (see, [[Black swan theory]]).
+
+In a testimony given in 1985 to the [[United States Court of Appeals for the Federal Circuit]], Arzac stated, ''testified without [[rebuttal]] that the appropriate method for calculating delay damages to make [the plaintiff] whole would be by using [[compound interest]] and showed the inequity of using [[simple interest]]''. His testimony persuaded the Court that "compound interest may more nearly fit with the policy to accomplish complete justice as between the plaintiff and the United States" under the just compensation clause of the Fifth Amendment.<ref name="30lTk" /> This landmark case effectively changed the centuries-old interpretation of the just compensation clause of the [[Fifth Amendment of the United States Constitution]] and has been the basis of compensation judgements ever since.<ref name="v6trK" />
+
+== References ==
+{{reflist|refs=
+<ref name="fm7zD">[https://scholar.google.com/citations?user=CPTeA9MAAAAJ&hl=en&oe=ASCII Google Scholar] Retrieved on August 23, 2020.</ref>
+
+<ref name="30lTk">Dynamic Corporation of America v. The United States.[https://casetext.com/case/dynamics-corp-of-america-v-united-states]. Retrieved on August 23, 2020.</ref>
+
+<ref name="v6trK">Citing Cases: Hughes Aircraft Company v. U.S. and other cases [https://casetext.com/case/dynamics-corp-of-america-v-united-states/how-cited?utm_source=casetext&utm_source=Iterable&utm_medium=email&utm_medium=email&utm_campaign=citingcases-case-page-download&utm_campaign=prospecting-emails&utm_content=pdf_Download&PHONE_NUMBER_GROUP=C&citingPage=1&sort=relevance]. Retrieved on August 23, 2020</ref>
+}}
+
+==External links==
+*{{cite book|author=Enrique R. Arzac|title=Valuation of Mergers, Buyouts, and Restructuring|url=https://www.wiley.com/en-us/Valuation%3A+Mergers%2C+Buyouts+and+Restructuring%2C+2nd+Edition-p-9780470452479}}
+
+{{Authority control}}
+{{DEFAULTSORT:Arzac, Enrique}}
+[[Category:Columbia University faculty]]
+[[Category:Financial economists]]
+[[Category:Argentine economists]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]
+[[Category:Columbia University alumni]]
+[[Category:Living people]]
+[[Category:1943 births]]

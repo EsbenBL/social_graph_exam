@@ -1,0 +1,74 @@
+{{About|the political term||Swing (disambiguation)}}
+{{short description|change in voter support from one election to another}}
+
+An '''electoral swing analysis''' (or '''swing''') shows the extent of change in voter support, typically from one [[election]] to another, expressed as a positive or negative percentage. A multi-party swing is an indicator of a change in the electorate's preference between candidates or parties, often between major parties in a [[two-party system]]. A swing can be calculated for the electorate as a whole, for a given electoral district or for a particular demographic.
+
+A swing is particularly useful for analysing change in voter support over time, or as a tool for predicting the outcome of elections in [[constituency]]-based systems.  Swing is also usefully deployed when analysing the shift in voter intentions revealed by (political) [[opinion poll]]s or to compare polls concisely which may rely on differing samples and on markedly different swings and therefore predict extraneous results.<ref>[http://www.electoralcalculus.co.uk/trackrecord_10errors.html ''Electoral Calculus'' 2010 Election: UK Polls Comparison]</ref>
+
+==Calculation==
+A swing is calculated by comparing the percentage of the vote in a particular election to the percentage of the vote belonging to the same party or candidate at the previous election.
+
+One-party swing (in [[percentage point]]s) = '''Percentage of vote (current election) − percentage of vote (previous election).'''
+
+===Example===
+Labor Party 51% (this year) less Labor Party 41% (four years ago) means the Labor Party saw a swing of 10 points (this implies in their favour and can also be published as +10 points).
+
+Examples include the comparison between the [[2006 Ukrainian parliamentary election|2006]] and [[2007 Ukrainian parliamentary election|2007 Ukrainian Parliamentary elections]].
+{| class="wikitable"
+|-
+|+ Swing analysis comparison Ukrainian Parliamentary Elections 2006 to 2007:
+|-
+| [[File:Ukrainian parliamentary election, 2007 (Swing).PNG|300px|Swing 2006 to 2007 (Top six parties)]]
+| [[File:Ukrainian parliamentary election, 2007 (SwingByRegion).PNG|300px|Swing by electoral regions]]
+|}
+
+The above charts show the change in voter support for each of the six major political parties by electoral district and nationwide vote results.<ref>[http://cvk.gov.ua Ukraine – official published election results]</ref>
+
+==Two-party swing==
+
+In many nation states' media, including in [[Australia]] and the [[United Kingdom]], swing is normally expressed in terms of two parties. This practice is most useful where most governments tend to be from an existing [[two-party system]] but other candidates do sometimes run, and is used to predict the outcome of elections in constituency-based systems where different [[parliamentary seat|seat]]s are held with different previous levels of support. An assumption underlies extrapolated national calculations: that all districts will experience the same swing as shown in a poll or in a place's results. The advantage of this swing is the fact that the loss of support for one party will in most cases be accompanied by smaller or bigger gain in support for the other, but both figures are averaged into one. Employing the two assumptions allows the analyst to compute an [[Mackerras pendulum|electoral pendulum]], predicting how many (and which) seats will change hands given a particular swing, and what size uniform swing would therefore bring about a change of government.<ref>[http://www.electoralcalculus.co.uk Electoral Calculus website]</ref><ref>{{Cite web |url=https://www.bbc.co.uk/archive/swingometer |title=BBC Swingometer |access-date=2019-12-25 |archive-date=2017-06-12 |archive-url=https://web.archive.org/web/20170612082424/http://www.bbc.co.uk/archive/swingometer/ |url-status=dead }}</ref><ref>[http://ukpollingreport.co.uk/swingometer-map UK Polling Report Swingometer Map]</ref>
+
+==Australia==
+{{Main|Swing (Australian politics)}}
+
+In [[Australia]], the term "swing" refers to the change in the performance of a political party or candidate in an [[election]] or opinion poll. As Australia uses the [[instant-runoff voting|preferential voting]] system, swing can be expressed in terms of the primary vote (first preference vote), or in terms of the two-party-preferred or two-candidate-preferred result, which may represent significantly different values due to preference flows; ie a 5% primary vote swing does not necessarily represent an equivalent swing in TPP or TCP terms.
+
+==United Kingdom==
+{{Main|Swing (United Kingdom)}}
+
+In the UK, a two-party swing (averaged model) is generally used, which adds one party's increase in share of the vote (expressed as a percentage point) to the percentage-point fall of another party, and divides the total by two.
+
+Thus, if Party One's vote rises by 4 points and Party Two's vote falls 5 points, the swing is 4.5 points (Party 2 to Party 1).<ref>[http://news.bbc.co.uk/1/hi/uk_politics/vote_2005/basics/4415923.stm#swing BBC Explanation of Two Way Swing]</ref>  For disambiguation, suffixes such as: '''(Con to Lab)''' '''(Lab to Lib Dem)''' '''(Lib Dem to Con)''' must be added where three parties stand. Otherwise, a problem when deciding which swing is meant and which swing is best to publish arises where a lower party takes first or second, or where a party loses one of the top two places.{{#tag:ref|E.g. a [[Liberal Democrats (UK)|Liberal Democrat]] drops from first to third place and a [[Conservative Party (UK)|Conservative Party]] former runner-up wins to a [[Labour Party (UK)|Labour Party]] runner-up who was in third place, here three interesting swings are relevant: Lib Dem-Con, Lib Dem-Lab and Lab-Con (and their opposite sign (+/-) equivalents for the opposite way swings).|group= n}}
+
+Originating as a mathematical calculation for comparing the results of two constituencies,{{#tag:ref|Britain, like the US, uses a [[first-past-the-post]] [[voting system]] and where a new third party or independent candidate has a better or worse result (or stands or chooses not to) this calculation allows for a more understandable comparison between the parties which are of wider interest.|group= n}} any of these figures can be used as an indication of the scale of voter change between any two political parties, as shown below for the [[2010 United Kingdom general election]]:
+
+<gallery class="center">
+Image:2010UKElectionLabConSwing.svg|Labour to Conservative swing
+Image:2010UKElectionLDConSwing.svg|Liberal Democrat to Conservative swing
+Image:2010UKElectionLabLDSwing.svg|Labour to Liberal Democrat swing
+</gallery>
+
+==United States==
+{{Main|Swing state}}
+
+'''Swing''' in the [[United States]] can refer to [[swing state]], those states that are known to shift an outcome between [[Democratic Party (United States)|Democrats]] and [[Republican Party (United States)|Republican]] Parties, equivalent on a local level to [[marginal seat]]s.  By contrast, a non-swing state is the direct equivalent of a [[safe seat]], as it rarely changes in outcome. The extent of change in political outcome is heavily influenced by the [[voting system]] in use.{{#tag:ref|As in the [[United Kingdom|UK]], the US employs a [[first-past-the-post]] voting system as its main voting system.|group= n}}
+
+==Three party swing or greater==
+Some websites provide a [[pie chart]] based or column-based multi party [[swingometer]] where ± x%, ± x%, ± x% and so on is displayed or can be input for three parties (or more in more plural [[democracy|democracies]]).  This tool or illustration provides likely outcomes wherever more than two [[political party|political parties]] have a significant influence on which politicians are elected.<ref>[https://www.theguardian.com/politics/interactive/2010/apr/05/general-election-map-swingometer Guardian Swingometer]</ref> In multiparty systems [[exit polls]] frequently include a question as to voting behavior in the last applicable election. Based on those exit polls "voter migration" (where vote gains for a specific party came from and losses of another went to) analyses are published and discussed in election coverage.
+
+==See also==
+* [[Swing vote]]
+* [[Swingometer]]
+
+==Notes and references==
+;Notes
+{{Reflist|group=n}}
+;References
+{{Reflist}}
+
+{{DEFAULTSORT:Swing (Politics)}}
+[[Category:Elections]]
+[[Category:Elections in Australia]]
+[[Category:Elections in the United Kingdom]]
+[[Category:Elections in the United States]]
+[[Category:Psephology]]

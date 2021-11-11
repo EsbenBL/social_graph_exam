@@ -1,0 +1,135 @@
+{{More citations needed|date=June 2007}}
+{{Infobox person 
+| name = J. P. Guilford
+| image = 
+| image_size = 
+| caption = 
+| birth_name =
+| birth_date = {{birth date|1897|3|7|df=y}}
+| birth_place = [[Marquette, Nebraska]], U.S.
+| death_date = {{death date and age|1987|11|26|1897|3|7|df=y}}
+| death_place = [[Los Angeles, California]], U.S.
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates = 
+| residence = 
+| nationality =
+| other_names = 
+| known_for = 
+| education =
+| alma mater = [[University of Nebraska]]<br/>[[Cornell University]]
+| employer = 
+| occupation = Psychologist
+| title =
+| salary = 
+| networth = 
+| term = 
+| predecessor = 
+| successor = 
+| party =
+| boards = 
+| religion =
+| spouse = 
+| children = 
+| parents = 
+| relatives = 
+}}
+'''Joy Paul Guilford''' (March 7, 1897 – November 26, 1987) was an American [[psychologist]] best remembered for his [[psychometric]] study of human [[Intelligence (trait)|intelligence]], including the distinction between [[Convergent thinking|convergent]] and [[Divergent thinking|divergent]] production.
+
+Developing the views of [[L. L. Thurstone]], Guilford rejected [[Charles Spearman]]'s view that intelligence could be characterized in a single numerical parameter. He proposed that three dimensions were necessary for accurate description: operations, content, and products. A ''[[Review of General Psychology]]'' survey, published in 2002, ranked Guilford as the 27th most cited psychologist of the 20th century.<ref>{{cite journal |last1=Haggbloom |first1=Steven J. |display-authors=etal |title=The 100 most eminent psychologists of the 20th century |journal=Review of General Psychology |volume=6 |issue=2 |year=2002 |pages=139–152 |doi=10.1037/1089-2680.6.2.139 |url=http://www.apa.org/monitor/julaug02/eminent.aspx |last3=Warnick |first3=Jason E. |last4=Jones |first4=Vinessa K. |last5=Yarbrough |first5=Gary L. |last6=Russell |first6=Tenea M. |last7=Borecky |first7=Chris M. |last8=McGahhey |first8=Reagan |last2=Powell |first2=John L., III |s2cid=145668721 }}</ref>
+
+== Career ==
+Guilford graduated from the [[University of Nebraska]] before studying under [[Edward Titchener]] at [[Cornell University|Cornell]]. Guilford  was elected a member of the [[Society of Experimental Psychologists]] in 1937,<ref>{{cite journal | last=Boring | first=Edwin G. | title=The Society of Experimental Psychologists: 1904-1938 | journal=[[The American Journal of Psychology]] | publisher=[[JSTOR]] | volume=51 | issue=2 | year=1938 | issn=0002-9556 | doi=10.2307/1415667 | page=420 |access-date=Aug 3, 2021}}</ref> and in 1938 he became the third president of the Psychometric Society, following in the footsteps of its founder [[Louis Leon Thurstone]] and of [[Edward Thorndike]], who held the position in 1937. Guilford held a number of posts at Nebraska and briefly at the [[University of Southern California]]. In 1941 he entered the U.S. Army as a Lieutenant Colonel and served as Director of Psychological Research Unit No. 3 at [[Santa Ana Army Air Base]]. There he worked on the selection and ranking of aircrew trainees as the Army Air Force investigated why a sizable proportion of trainees were not graduating.<ref>{{Citation|last=Guilford|first=J. P.|chapter=Joy Paul Guilford.|pages=167–191|publisher=Appleton-Century-Crofts|doi=10.1037/11579-007|title=A history of psychology in autobiography, Vol V|year=1967}}</ref>
+
+Promoted to Chief of the Psychological Research Unit at the U.S. Army Air Forces Training Command Headquarters in Fort Worth, Guilford oversaw the [[Stanine]] (Standard Nine) Project in 1943, which identified nine specific intellectual abilities crucial to flying a plane. (''Stanines'', now a common term in educational psychology, was coined during Guilford's project). Over the course of World War II, Guilford's use of these factors in the development of the two-day Classification Test Battery was significant in increasing graduation rates for aircrew trainees.
+
+Discharged as a full colonel after the war, Guilford joined the Education faculty at the University of Southern California and continued to research the factors of intelligence. He published widely on what he ultimately named the Structure of Intellect theory, and his post-War research identified a total of 90 discrete intellectual abilities and 30 behavioral abilities.
+
+Guilford's 20 years of research at Southern California were funded by the National Science Foundation, the Office of Education of the former Health, Education and Welfare Department, and the Office of Naval Research. Although Guilford's subjects were recruits at the Air Force Training Command at Randolph Air Force Base in San Antonio, the Office of Naval Research managed this research.
+
+Guilford's post-war research led to the development of classification testing that, modified in different ways, entered into the various personnel assessments administered by all branches of the U.S. Armed Services. So generally speaking, all U.S. Military qualifying exams of the 1950s, 1960s, and 1970s descended from Guilford's research.
+
+== Structure of Intellect theory==
+According to Guilford's Structure of Intellect (SI) theory (1955), an individual's performance on intelligence tests can be traced back to the underlying mental abilities or factors of intelligence. SI theory comprises up to 180 different intellectual abilities organized along three dimensions: operations, content, and products.
+
+The Structure of Intellect Theory advanced by Guilford was applied by [[Mary N. Meeker]] for educational purposes.<ref>{{Cite journal|last=Edwards|first=Reginald|date=1969|title=Guilford's Structure of Intellect Model: Its Relevance for the Teacher Preparation Curriculum|journal=Curriculum Theory Network|issue=3|pages=47–64|doi=10.2307/1179339|issn=0078-4931|jstor=1179339}}</ref>
+
+=== Operations dimension ===
+SI includes six operations or general intellectual processes:
+#[[Cognition]] - The ability to understand, comprehend, discover, and become aware of information
+#Memory recording - The ability to encode information
+#[[Memory retention]] - The ability to recall information
+#Divergent production - The ability to generate multiple solutions to a problem; creativity
+#Convergent production - The ability to deduce a single solution to a problem; rule-following or problem-solving
+#Evaluation - The ability to judge whether or not information is accurate, consistent, or valid
+
+=== Content dimension ===
+SI includes four broad areas of information to which the human intellect applies the six operations:
+
+#Figural - Concrete, [[reality|real world]] information, tangible objects, things in the environment - It includes A. visual: information perceived through sight, B. auditory: information perceived through hearing, and C. [[kinesthetic]]: information perceived through one's own physical actions
+#Symbolic - Information perceived as symbols or signs that stand for something else, e.g., Arabic numerals, the letters of an alphabet, or musical and scientific notations
+#[[Semantic]] - Concerned with verbal meaning and ideas - Generally considered to be abstract in nature.
+#[[Behavioral]] - Information perceived as acts of people (This dimension was not fully researched in Guilford's project. It remains theoretical and is generally not included in the final model that he proposed for describing human intelligence.)
+
+=== Product dimension ===
+As the name suggests, this dimension contains results of applying particular operations to specific contents. The SI model includes six products in increasing complexity:
+#Units - Single items of knowledge
+#Classes - Sets of units sharing common attributes
+#Relations - Units linked as opposites or in associations, sequences, or analogies
+#Systems - Multiple relations interrelated to comprise structures or networks
+#Transformations - Changes, perspectives, conversions, or mutations to knowledge
+#Implications - [[Prediction]]s, [[inference]]s, consequences, or [[anticipation]]s of knowledge
+
+Therefore, according to Guilford there are 5 x 6 x 6 = 180 intellectual abilities or factors (his research only confirmed about three behavioral abilities, so it is generally not included in the model). Each ability stands for a particular operation in a particular content area and results in a specific product, such as Comprehension of Figural Units or Evaluation of Semantic Implications.
+
+Guilford's original model was composed of 120 components (when the behavioral component is included) because he had not separated Figural Content into separate Auditory and Visual contents, nor had he separated Memory into Memory Recording and Memory Retention. When he separated Figural into Auditory and Visual contents, his model increased to 5 x 5 x 6 = 150 categories. When Guilford separated the memory functions, his model finally increased to 180 factors.<ref>Guilford, J.P. (1988). Some changes in the structure of intellect model. ''Educational and Psychological Measurement, 48,'' 1-4.</ref>
+
+== Criticism ==
+
+Various researchers have criticized the statistical techniques used by Guilford. According to Jensen (1998), Guilford's contention that a ''g''-factor was untenable was influenced by his observation that cognitive tests of U.S. Air Force personnel did not show correlations significantly different from zero. According to one reanalysis, this resulted from artifacts and methodological errors. Applying more robust methodologies, the correlations in Guilford's data sets are positive.<ref>Jensen 1998, 115–117.</ref>  In another reanalysis, randomly generated models were found to be as well supported as Guilford's own theory.<ref>Mackintosh 1998, 214–215.</ref>
+
+Guilford's Structure of Intellect model of human abilities has few supporters today. Carroll (1993) summarized the view of later researchers:<ref>Carroll 1993, 60. For a more detailed critique of the Structure-of-Intellect model, see 57–60.</ref>
+
+:"Guilford's SOI model must, therefore, be marked down as a somewhat eccentric aberration in the history of intelligence models. The fact that so much attention has been paid to it is disturbing to the extent that textbooks and other treatments of it have given the impression that the model is valid and widely accepted, when clearly it is not."
+
+== Selected bibliography ==
+*Guilford, J.P.. (1967). Joy Paul Guilford. A history of psychology in autobiography. 5. 169–191. 
+*Guilford, J.P. (1936) Psychometric Methods. New York, NY: McGraw-Hill.<ref>{{cite journal|author=Dunlap, Jack W.|year=1937|title=Review of ''Psychometric Methods'' by J. P. Guilford|journal=Psychological Bulletin|volume=34|issue=4|pages=259–262|doi=10.1037/h0051411}}</ref>
+*Guilford, J.P. (1939) General psychology. New York, NY: D. Van Nostrand Company, Inc. 
+*Guilford, J.P. (1950) Creativity, ''American Psychologist'', Volume 5, Issue 9, 444–454.
+*Guilford, J.P. (1967). ''[[The Nature of Human Intelligence]]''.
+*Guilford, J.P. & Hoepfner, R. (1971). ''The Analysis of Intelligence''.
+*Guilford, J.P. (1982). Cognitive psychology's ambiguities: Some suggested remedies. Psychological Review, 89, 48–59.
+*(1969). Guilford's Structure of Intellect Model: Its Relevance for the Teacher Preparation Curriculum. ''Curriculum Theory Network,'' (3), 47–64.
+
+== Notes ==
+<references/>
+
+== See also ==
+*[[Barberpole illusion]]
+
+== References ==
+* Carroll, J. B. (1993). ''Human Cognitive Abilities''. Cambridge, UK: Cambridge University Press.
+* Jensen, A. R. (1998). ''The ''g'' Factor: The Science of Mental Ability''. Westport, CT: Praeger.
+* Mackintosh, N. J. (1998). ''IQ and Human Intelligence.'' Oxford, UK: Oxford University Press.
+
+== External links ==
+* [http://icebreakerideas.com/learning-theories/#Structure_of_Intellect_JP_Guilford The structure of intellect]
+* [http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/guilford-joy-paul.pdf National Academy of Sciences Biographical Memoir]
+
+{{APA Presidents}}
+{{E. L. Thorndike Award |state=autocollapse}}
+{{Psychology}}
+{{Authority control}}
+
+{{DEFAULTSORT:Guilford, J. P.}}
+[[Category:1897 births]]
+[[Category:1987 deaths]]
+[[Category:20th-century psychologists]]
+[[Category:Creativity researchers]]
+[[Category:Intelligence researchers]]
+[[Category:University of Nebraska–Lincoln alumni]]
+[[Category:Cornell University alumni]]
+[[Category:Presidents of the American Psychological Association]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:People from Hamilton County, Nebraska]]

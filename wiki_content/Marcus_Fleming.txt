@@ -1,0 +1,30 @@
+{{Short description|British economist}}
+{{Use dmy dates|date=January 2018}}
+{{Use British English|date=January 2018}}
+'''John Marcus Fleming''' (1911&nbsp;– 3 February 1976) was a British economist. He was the deputy director of the research department of the [[International Monetary Fund]] for many years; he was already a member of this department during the period of Canadian economist [[Robert Mundell]]'s affiliation. At approximately the same time as Mundell, Fleming presented similar research on [[economic stability|stabilization]] policy in open economies. As a result, today's textbooks refer to the [[Mundell–Fleming model]]. Mundell's contribution, which assumes perfect rather than imperfect capital mobility is, however, considered more important due to its depth, range, and analytical power, and more applicable to today's conditions.
+
+He was educated at Bathgate Academy and the [[University of Edinburgh]], the [[Graduate Institute of International Studies]] in Geneva, and the London School of Economics. 
+
+==Publications==
+*''Dual exchange market and other remedies for disruptive capital flows'', IMF Staff Papers, March 1974.
+
+==External links==
+*{{worldcat id|lccn-n50-4066}}
+* [http://www.nobel.se/economics/laureates/1999/ecoback99.pdf  The Royal Swedish Academy of Sciences has decided to award the Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel, 1999 to Professor Robert A. Mundell]
+*{{Cite journal |last=Fleming |first=J. Marcus |year=1962 |title=Domestic financial policies under fixed and floating exchange rates |journal=IMF Staff Papers |volume=9 |pages=369–379 |doi= 10.2307/3866091|jstor=3866091 }} Reprinted in {{Cite book |editor-last=Cooper |editor-first=Richard N. |year=1969 |title=International Finance |location=New York |publisher=Penguin Books }}
+*{{Cite news |url=https://www.nytimes.com/1976/02/05/archives/j-marcus-fleming-is-dead-research-official-at-imf.html |title=J. Marcus Fleming Is Dead; Research Official at I.M.F. |newspaper=[[New York Times]] |date=4 February 1976 }}
+
+{{Authority control}}
+                   <!-- Goes above DEFAULTSORT/Categories -->
+
+{{DEFAULTSORT:Fleming, Marcus}}
+[[Category:1911 births]]
+[[Category:1976 deaths]]
+[[Category:British economists]]
+[[Category:People educated at Bathgate Academy]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Graduate Institute of International and Development Studies alumni]]
+[[Category:20th-century economists]]
+
+
+{{UK-economist-stub}}

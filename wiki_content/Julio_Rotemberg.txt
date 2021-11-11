@@ -1,0 +1,62 @@
+{{short description|Argentine-American economist}}
+{{Infobox economist
+| name             = Julio Rotemberg
+| school_tradition = [[New Keynesian economics]]
+| image       =Rotemberg.jpg
+| image_size       =
+| caption    =
+| birth_date       = {{Birth date|1953|09|26}}<ref name="hbs.edu">{{cite web|url=http://www.hbs.edu/news/releases/Pages/professor-julio-rotemberg.aspx|title=Harvard Business School Professor Julio Rotemberg Dies at 63 – News – Harvard Business School|website=www.hbs.edu|access-date=11 July 2017}}</ref>
+| birth_place      = Buenos Aires, Argentina <ref name="hbs.edu"/>
+| death_date       = {{Death date and age|2017|04|02|1953|09|26}}<ref name="hbs.edu"/>
+| death_place      = Newton, Massachusetts, USA
+| nationality      = [[Argentina]]
+| institution      = [[Harvard Business School]]<br>[[MIT Sloan School of Management]]
+| field            = [[Monetary economics]]
+| alma_mater       = [[Princeton University]]<br>[[University of California, Berkeley|California–Berkeley]]
+|doctoral_advisor  = [[Alan Blinder]]<br>[[William Hoban Branson]]
+|doctoral_students = 
+| influences       =
+| influenced       =
+| contributions    = First New Keynesian DSGE model, especially on monopolistic competition
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pro30
+}}
+
+'''Julio Jacobo Rotemberg''' was an Argentine/American [[economist]] at [[Harvard Business School]]. He was known for his collaboration with [[Michael Woodford (economist)|Michael Woodford]] on the first [[New Keynesian economics|New Keynesian]] [[Dynamic stochastic general equilibrium|DSGE model]], especially on monopolistic competition.<ref name="Rotemberg1993">{{Citation |last1=Rotemberg |first1=Julio |last2=Woodford |first2=Michael |year=1993 |title=Dynamic General Equilibrium Models with Imperfectly Competitive Product Markets |work=NBER Working Paper No. 4502 |doi=10.3386/w4502 |doi-access=free }}</ref> He was also known for an alternative model of sticky prices.<ref name="Rotemberg1982">{{Citation |last=Rotemberg |first=Julio J. |year=1982 |title=Sticky Prices in the United States |journal=Journal of Political Economy |volume=90 |issue=6 |pages=1187–1211 |jstor=1830944|doi=10.1086/261117 |citeseerx=10.1.1.675.8591 |s2cid=7965196 }}</ref>
+
+Rotemberg held a [[Bachelor of Arts|B.A.]] in economics (1975) from the [[University of California, Berkeley]], and a [[Doctor of Philosophy|Ph.D.]] in economics (1981) from [[Princeton University]].
+
+==References==
+{{Reflist}}
+
+== Selected publications ==
+
+* ''"Sticky Prices in the United States"''. [[Journal of Political Economy]], [[University of Chicago Press]]. December 1982.
+* ''"The New Keynesian Microfoundations"''. NBER Macroeconomics Annual 1987, Volume 2.
+* "''Human Relations in the Workplace''". Journal of Political Economy. August 1994.
+* Rotemberg and [[Garth Saloner]]. "''A Supergame-Theoretic Model of Price Wars during Booms"''. [[The American Economic Review|American Economic Review]]. June 1986.
+
+==External links==
+* [http://drfd.hbs.edu/fit/public/facultyInfo.do?facInfo=ovr&facId=6542 Website at Harvard]
+*{{cite web|title=Julio Rotemberg|url=https://econpapers.repec.org/RAS/pro30.htm|publisher=[[EconPapers]]}}
+*{{cite web|title=Julio Rotemberg|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Julio+Rotemberg%22+&acc=off&wc=on&fc=off&group=none|publisher=[[JSTOR]]}}
+
+{{Keynesians}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rotemberg, Julio}}
+[[Category:1953 births]]
+[[Category:2017 deaths]]
+[[Category:American economists]]
+[[Category:New Keynesian economists]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Princeton University alumni]]
+[[Category:Harvard Business School faculty]]
+[[Category:MIT Sloan School of Management alumni]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Labor economists]]
+
+{{US-economist-stub}}

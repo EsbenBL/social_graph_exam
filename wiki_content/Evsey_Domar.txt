@@ -1,0 +1,101 @@
+{{Short description|Russian-American economist}}
+{{Infobox economist
+| name = Evsey Domar
+| school_tradition = [[Post-Keynesian economics]]
+| image =
+| caption =
+| birth_date = {{Birth date|1914|4|16|mf=y}}
+| birth_place = [[Łódź]], [[Russian Empire]] (now [[Poland]])
+| death_date = {{Death date and age|1997|4|1|1914|4|16}}
+| death_place = [[Concord, Massachusetts]]
+| residence =
+| nationality = [[Russia]]n<br /> [[Americans|American]]
+| field = [[Political economy]]
+| work_institution =
+| alma_mater = [[University of California, Los Angeles]]<br />[[University of Michigan]]<br />[[Harvard University]]
+| doctoral_advisor =[[Alvin Hansen]]
+| doctoral_students = [[Robert Eisner]]<br/>[[Robert Fogel]]<br/>[[Laura Tyson]]<ref>[http://library.mit.edu/F/2C5XDBG1ISI933RATQYQ5VV53YNUTVR1YTGP4KGY4QR8Y5K2PS-04955?func=find-acc&acc_sequence=003671580 Inflation in Yugoslavia, 1962-1972; an empirical analysis.]</ref> 
+| contributions = [[Harrod–Domar model]]
+| influences = [[John Maynard Keynes]], [[John A. Hobson]]
+| influenced =
+}}
+'''Evsey David Domar''' ({{lang-ru|Евсей Давидович Домашевицкий}}, ''Domashevitsky''; April 16, 1914 – April 1, 1997) was a [[Russian American]] [[economist]], famous as developer of the [[Harrod–Domar model]].
+
+== Life ==
+Evsey Domar was born on April 16, 1914 in the [[Poland|Polish]] city of [[Łódź]], which was part of [[Russia]] at that time. He was raised and educated in Russian [[Outer Manchuria]], then emigrated to the [[United States]] in 1936.
+
+He received a Bachelor of Arts from [[UCLA]] in 1939, a Master of Science from the [[University of Michigan]] in 1940, a Master of Science from [[Harvard University]] in 1943, and a doctorate from Harvard in 1947.
+
+In 1946 Evsey Domar married Carola Rosenthal. The couple had two daughters.
+
+He was a professor at the [[Carnegie Institute of Technology]], The [[University of Chicago]], the [[Johns Hopkins University]] and then at the [[Massachusetts Institute of Technology]] from 1957 until the end of his career.
+
+Evsey Domar was president of the Association for Comparative Economics and a member of several other academic organizations including the [[American Academy of Arts and Sciences]], the [[Econometric Society]], and the [[Center for Advanced Study in the Behavioral Sciences]]. He was on the executive committee of the [[American Economic Association]] from 1962 until 1965, and became the organization's vice president in 1970. In 1965, he was the first recipient of the John R. Commons Award, given by the economics honor society [[Omicron Delta Epsilon]].<ref>{{Cite web|url=https://www.omicrondeltaepsilon.org/awards.html|title = Omicron Delta Epsilon - the International Economics Honor Society}}</ref>
+
+He worked for the [[RAND]] Corporation, the [[Ford Foundation]], the [[Brookings Institution]], the [[National Science Foundation]], the [[Battelle Memorial Institute]], and the [[Institute for Defense Analysis]].
+
+Evsey Domar died on April 1, 1997 in the [[Emerson Hospital]] in [[Concord, Massachusetts]].
+
+== Work ==
+Evsey Domar was a [[Keynesian economics|Keynesian]] economist. He made contributions to three main areas of economics: [[economic history]], [[comparative economics]] and [[economic growth]]. In 1946 he advanced the idea that economic growth served to lighten the deficit and the national debt. During the [[Cold War]] he was also an expert on Soviet economics.
+
+He is most known for developing, independently of British economist [[Roy Forbes Harrod]], what has become to be known as the [[Harrod–Domar model]] of economic growth. This model was the precursor to the neoclassical model of economic growth, differing mainly in its restrictive assumption that the [[Leontief production function]] applied, which meant there would be fixed proportions of capital and labor in production, not substitution between them.<ref name=sato>{{cite journal |last=Sato |first=Ryuzo |authorlink=Ryuzo Sato |title=The Harrod-Domar Model vs the Neo-Classical Growth Model |journal=[[The Economic Journal]] |volume=74 |issue=294 |year=1964 |pages=380–387 |jstor=2228485 |doi=10.2307/2228485}}</ref> In the model, economic growth was unstable. The [[Solow–Swan model]] that followed several years later borrowed heavily from the Harrod-Domar model and used a variable proportions [[Cobb–Douglas production function]].<ref>{{cite journal |last=Hagemann |first=Harald |year=2009 |title=Solow's 1956 Contribution in the Context of the Harrod-Domar Model |journal=History of Political Economy |volume=41 |issue=Suppl 1 |pages=67–87 |doi=10.1215/00182702-2009-017 }}</ref>
+
+Domar's 1961 paper is cited as the source of [[Domar aggregation]], a set of rules and processes for combining industry growth data together to get aggregate industry sector or national growth.
+
+Among his students was the economic historian [[Robert Fogel]], who was awarded the [[Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel|Nobel Memorial Prize in Economics]] in 1993.
+
+== Papers ==
+* ''The Burden of the Debt and the National Income'', 1944, AER.
+* ''Proportional Income Taxation and Risk-Taking'', with [[Richard Musgrave (economist)|Richard Musgrave]], 1944.
+* ''Capital Expansion, Rate of Growth and Employment'', 1946, Econometrica.
+* ''Expansion and Employment'', 1947, AER.
+* ''The Problem of Capital Accumulation'', 1948, AER.
+* ''Capital Accumulation and the End of Prosperity'', 1949, Proceedings of Internat. Statistical Conference
+* ''The Effect of Foreign Investment on the Balance of Payments'', 1950, AER.
+* ''A Theoretical Analysis of Economic Growth'', 1952, AER.
+* ''Depreciation, Replacement and Growth'', 1953, EJ.
+* ''The Case for Accelerated Depreciation'', 1953, QJE.
+* ''Essays in the Theory of Economic Growth'', 1957.
+* On the Measurement of Technological Change, 1961, ''The Economic Journal'' 71:284 (Dec., 1961), 709–729. ([https://www.jstor.org/stable/2228246 jstor])
+* ''The Soviet Collective Farm as a Producer Co-Operative'', 1966, AER.
+* ''An Index-Number Tournament'', 1967, QJE.
+* ''[https://archive.org/details/causesofslaveryh00doma The Causes of Slavery or Serfdom: A hypothesis]'', 1969, MIT.
+* ''[https://archive.org/details/onoptimalcompens00doma On The Optimal Compensation of a Socialist Manager]'', 1972, MIT.
+* ''[https://archive.org/details/pooroldcapitalis00doma Poor Old Capitalism]'', 1974, MIT.
+* ''[https://archive.org/details/onprofitabilityo00doma On the profitability of Russian serfdom]'', 1982, MIT. (with [[Mark J. Machina]])
+* ''[https://archive.org/details/wererussianserfs00doma Were the Russian serfs overcharged for their land in 1861? The history of one historical table]'', 1985, MIT.
+* ''[https://archive.org/details/blindmenelephant00doma The blind men and the elephant : an essay on isms]'', 1988, MIT.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* John Edward King, [https://books.google.com/books?id=MkG_DFa0mdEC&dq= ''The Elgar Companion to Post Keynesian Economics''], Edward Elgar Publishing, 2003, p.&nbsp;372.
+
+== External links ==
+* [http://www.eumed.net/cursecon/economistas/domar.htm Evsey D. Domar, 1914-1997] at eumed.net/Enciclopedia Virtual (shows photo of Domar)
+* [http://scriptorium.lib.duke.edu/dynaweb/findaids/domar/ Inventory of the Evsey D. Domar Papers]
+* [http://www.wisdomsupreme.com/dictionary/evsey-domar.php Reference information on Evsey Domar]
+* {{Internet Archive author |sname= Evsey Domar}}
+{{Authority control}}
+
+{{DEFAULTSORT:Domar, Evsey}}
+[[Category:1914 births]]
+[[Category:1997 deaths]]
+[[Category:People from Łódź]]
+[[Category:20th-century Polish Jews]]
+[[Category:Post-Keynesian economists]]
+[[Category:University of California, Los Angeles alumni]]
+[[Category:University of Michigan alumni]]
+[[Category:Harvard University alumni]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:University of Chicago faculty]]
+[[Category:Johns Hopkins University faculty]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences faculty]]
+[[Category:Columbia University faculty]]
+[[Category:Soviet emigrants to the United States]]
+[[Category:Polish emigrants to the United States]]
+[[Category:20th-century American economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Distinguished Fellows of the American Economic Association]]

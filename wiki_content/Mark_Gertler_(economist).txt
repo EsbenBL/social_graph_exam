@@ -1,0 +1,67 @@
+{{Infobox economist
+| name             = Mark Gertler
+| school_tradition = [[New Keynesian economics]]
+| image            = 
+| image_size       = 
+| caption          = 
+| birth_date       = {{birth date and age|1951|3|31}}
+| birth_place      =
+| death_date       = 
+| death_place      =
+| nationality      = [[United States]]
+| institution      = [[New York University]]
+| field            = [[Macroeconomics]]<br>[[Monetary economics]]
+| alma_mater       = [[Stanford University]]<br>[[University of Wisconsin–Madison]]
+| doctoral_advisor = [[Duncan K. Foley]]
+| academic_advisors =
+| doctoral_students =
+| notable_students =
+| influences       = [[Ben Bernanke]]
+| influenced       = [[Jordi Galí]]
+| contributions    = 
+| awards           = 
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pge11
+}}
+
+'''Mark Lionel Gertler''' (born March 31, 1951) is an [[United States|American]] [[economist]], and Henry and Lucy Moses Professor of Economics at [[New York University]] (NYU). A specialist in business cycles and monetary policy, he has been an associate and collaborator of [[Federal Reserve System|Federal Reserve]] Chairman [[Ben Bernanke]] for more than 30 years. He is among the 20 most cited economists in the world.<ref>{{Cite web|url=https://ideas.repec.org/top/top.person.all.html|title = Economist Rankings &#124; IDEAS/RePEc}}</ref>
+
+Gertler completed his [[Bachelor of Arts|B.A.]] in May 1973 from the [[University of Wisconsin–Madison]], and his [[Doctor of Philosophy|Ph.D.]] in June 1978 from [[Stanford University]]. He worked at [[Cornell University]] and the University of Wisconsin–Madison before joining the faculty at NYU.
+
+Gertler and Bernanke published "Should Central Banks Respond to Movements in Asset Prices?" in the ''[[American Economic Review]]'' in 2001, five years before Bernanke replaced [[Alan Greenspan]] as Chairman of the Federal Reserve Board of Governors. The paper, which deals retrospectively with the [[stock market bubble]] of the Internet years, has become a widely cited policy paper in economics, outside the field as well as within. Bernanke and Gertler argue that the practice of targeting inflation and price stability, as the Federal Reserve has done since the 1980s, should be continued, while the more aggressive approach of managing "asset price bubbles", which some economists have advocated, would be ineffective or counterproductive.
+
+In 2020 he was awarded the [[BBVA Foundation Frontiers of Knowledge Awards|BBVA Foundation Frontiers of Knowledge Award]] in the category "Economics, Finance and Management".<ref>[https://www.frontiersofknowledgeawards-fbbva.es/ BBVA Foundation Frontiers of Knowledge Awards 2020]</ref>
+
+Gertler married Cara Lown, a Ph.D. economist, in 1991.
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite journal |last=Bernanke |first=Ben |author-link=Ben Bernanke |author2=Mark Gertler |author-mask2=2  |title=Should Central Banks Respond to Movements in Asset Prices? |journal=[[The American Economic Review]] |year=2001 |volume=91 |issue=2 |pages=253–257 |doi=10.1257/aer.91.2.253 }}
+* [https://www.richmondfed.org/publications/research/econ_focus/2013/q4/pdf/interview.pdf Interview with Mark Gertler (2013)]
+* [http://www.federalreserve.gov/BoardDocs/Speeches/2002/20021015/default.htm Remarks by Governor Ben S. Bernanke (2002)]
+* [http://www.econ.nyu.edu/dept/vitae/gertler.pdf CV of Mark L. Gertler]
+* [http://econpapers.repec.org/RAS/pge11.htm Details about Mark Gertler]
+
+==External links==
+* [http://www.econ.nyu.edu/user/gertlerm/ Personal web page]
+* [http://www.econ.nyu.edu/user/gertlerm/papers.html Publications and Working Papers]
+
+{{Keynesians}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gertler, Mark L.}}
+[[Category:1951 births]]
+[[Category:21st-century American economists]]
+[[Category:Cornell University faculty]]
+[[Category:Macroeconomists]]
+[[Category:New Keynesian economists]]
+[[Category:New York University faculty]]
+[[Category:Stanford University alumni]]
+[[Category:University of Wisconsin–Madison alumni]]
+[[Category:University of Wisconsin–Madison faculty]]
+[[Category:Living people]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]

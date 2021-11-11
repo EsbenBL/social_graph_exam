@@ -1,0 +1,60 @@
+{{short description|Swedish economist}}
+{{original research|date=June 2017}}
+{{Infobox economist
+ |school_tradition = [[Stockholm school (economics)|Stockholm School]]
+ | image       =
+ | caption    =
+ | name             = Assar Lindbeck
+ | birth_date       = {{Birth date|1930|1|26|df=y}}
+ | birth_place      = [[Umeå]], [[Sweden]]
+ | death_date       = {{Death date and age|2020|8|28|1930|1|26|df=y}}
+ | death_place      = [[Stockholm]], Sweden
+ | nationality      = Swedish
+ | field            = [[Economics]]
+ | influences       =
+ | influenced       =
+ | contributions    = [[Insider-outsider theory of employment]]
+ | repec_prefix = f | repec_id = pli332
+}}
+
+{{wikiquote}}
+
+'''Carl Assar Eugén Lindbeck''' (26 January 1930 – 28 August 2020)<ref>{{Cite news|url=https://www.svd.se/dodsannonser#/Case/670786|title = Dödsannonser i SVD|newspaper = Svenska Dagbladet}}</ref><ref>{{Cite web|url=https://www.dn.se/ledare/lars-calmfors-assar-lindbecks-dorr-stod-alltid-oppen-for-forskarkollegorna/|title = Lars Calmfors: Assar Lindbecks dörr stod alltid öppen för forskarkollegorna|date = 31 August 2020}}</ref><ref>{{Cite web|url=https://www.dn.se/nyheter/sverige/nationalekonomen-assar-lindbeck-har-dott/|title=Nationalekonomen Assar Lindbeck har dött|date=28 August 2020|website=Dagens Nyheter|accessdate=28 August 2020}}</ref> was a Swedish professor of [[economics]] at [[Stockholm University]] and at the [[Research Institute of Industrial Economics]] (IFN).<ref>{{cite web|title=Research Institute of Industrial Economics|publisher=Official website|url=http://www.ifn.se/eng|accessdate=May 31, 2018}}</ref>
+
+Lindbeck was a member of the [[Royal Swedish Academy of Sciences]],<ref>{{cite web|title=The Royal Swedish Academy of Sciences: Assar Lindbeck (in Swedish)|publisher=Official website|url=http://www.kva.se/KVA_Root/eng/contact/searchcontacts/detail.asp?PersonID=197|accessdate=May 31, 2018}}</ref> the [[Norwegian Academy of Science and Letters]]<ref>{{cite web|url=http://www.dnva.no/c26849/artikkel/vis.html?tid=40112|title=Gruppe 8: Samfunnsfag (herunder sosiologi, statsvitenskap og økonomi)|publisher=[[Norwegian Academy of Science and Letters]]|language=Norwegian|accessdate=9 January 2011}}</ref> and previously chaired the Academy's{{clarify|date=December 2018}} prize committee for the [[Nobel Memorial Prize in Economic Sciences]]. He was the first Swede to be appointed a foreign Honorary Member of the American Economic Association, and one of only three Swedes ever.<ref>{{cite web|url=https://www.aeaweb.org/about-aea/honors-awards/foreign-honorary-members |title=American Economic Association |publisher=Aeaweb.org |date= |accessdate=2017-10-22}}</ref>
+
+Lindbeck has done research on unemployment (e.g. the [[insider-outsider theory of employment]]), the welfare state (including the effect of changing social norms), and China's reformed economy. Lindbeck received a [[Ph.D.]] from Stockholm University in 1963 with the doctoral thesis ''A study in monetary analysis''.<ref name="Lindbeck1963">{{cite book|author=Assar Lindbeck|title=A Study in Monetary Analysis|url=https://archive.org/details/studyinmonetarya0000lind|url-access=registration|year=1963|publisher=Almqvist & Wiksell}}</ref><ref>{{Cite web|url=http://libris.kb.se/bib/8071961|title=Libris database|accessdate=28 August 2020}}</ref>
+
+Assar Lindbeck also has a theory on self-destructive welfare state dynamics, in which the welfare system erodes norms relating to work and responsibility: change in the [[work ethic]] is related to a rising dependence on welfare state institutions. It was on the basis of this viewpoint that he promoted the economic theories of conservative American theorist [[James McGill Buchanan]]. Indeed, it is said that it was through Lindbeck's influence at the Royal Swedish Academy of Sciences that Buchanan was awarded the 1986 Nobel Memorial Prize in Economic Sciences, a decision which was criticized by the British writer and columnist [[George Monbiot]] in 2017.<ref>{{cite web|title=A despot in disguise: one man's mission to rip up democracy|work=The Guardian|author=George Monbiot|url=https://www.theguardian.com/commentisfree/2017/jul/19/despot-disguise-democracy-james-mcgill-buchanan-totalitarian-capitalism|date=July 20, 2017|accessdate=May 31, 2018}}</ref>
+
+Lindbeck previously headed the [[Institute for International Economic Studies]] at [[Stockholm University]], [[Sweden]]. In 1992–1993 he headed the so-called "Lindbeck Commission", which was appointed by the [[Government of Sweden]] to propose reforms in light of the then-ongoing economic crisis. 
+
+Lindbeck has criticized the Swedish rent control system since the 1960s. This has resulted in one of his most famous quotes: “In many cases rent control appears to be the most efficient technique presently known to destroy a city—except for bombing.”<ref>{{Cite web|title=Rent Control|url=https://www.econlib.org/library/Enc/RentControl.html|access-date=2020-07-18|website=Econlib|language=en-US}}</ref>
+
+==Bibliography==
+* ''The housing shortage. A study of the price system in the housing market'' (with {{ill|Ragnar Bentzel|sv}} och Ingemar Ståhl), Almqvist & Wiksell, Stockholm, 1963.
+* ''The Insider-Outsider Theory of Employment and Unemployment'', (with Dennis Snower) MIT Press, Cambridge, Massachusetts, 1988.
+* ''The Swedish Experiment'', SNS Förlag, Stockholm, 1997.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*[http://perseus.iies.su.se/~alind/CV_AL_NY.pdf Curriculum Vitæ - Assar Lindbeck]
+
+{{Presidents of the European Economic Association}}
+
+{{Authority control}}
+{{DEFAULTSORT:Lindbeck, Assar}}
+[[Category:1930 births]]
+[[Category:2020 deaths]]
+[[Category:Swedish economists]]
+[[Category:Stockholm University alumni]]
+[[Category:Swedish artists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Members of the Royal Swedish Academy of Sciences]]
+[[Category:Members of the Norwegian Academy of Science and Letters]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:People from Umeå]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]

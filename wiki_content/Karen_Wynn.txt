@@ -1,0 +1,126 @@
+{{short description|Canadian psychologist}}
+{{Infobox scientist
+|name              = Karen Wynn
+|image             = Karen Wynn 2014.jpg
+|image_size        = 
+|caption           = Wynn on Anderson Cooper 360, 2014
+|birth_place       = [[Austin, Texas]]
+|death_date        =
+|death_place       =
+|citizenship       = U.S., Canadian
+|nationality       =
+|field             = [[Psychology]], [[cognitive science]], [[developmental psychology]]
+|work_institutions = [[Yale University]], [[University of Arizona]]
+|alma_mater        = [[McGill University]] (BA)<br>[[Massachusetts Institute of Technology]] (Ph.D)
+|doctoral_advisor  = [[Susan Carey]]
+|doctoral_students =
+|known_for         =
+|influences        =
+|influenced        =
+|prizes            = [[National Academy of Sciences]] Troland Research Award, [[American Psychological Association]] Early Career Award. Fellow of the [[Association for Psychological Science]]
+|footnotes         =
+}}
+
+'''Karen Wynn''' is an artist and a Canadian and American [[Yale University]] Professor Emerita of [[psychology]] and [[cognitive science]].<ref>{{Cite web |url=http://psychology.yale.edu/faculty-primary |title=Yale Psychology Department Listing of Faculty |access-date=2012-03-02 |archive-url=https://web.archive.org/web/20120222234821/http://psychology.yale.edu/faculty-primary |archive-date=2012-02-22 |url-status=dead }}</ref> She was born in [[Austin, Texas]], and grew up on the Canadian prairies in [[Regina, Saskatchewan]]. Her research explores the cognitive capacities of infants and young children. She directed for over 3 decades the Infant Cognition Laboratory, first in the Psychology Department at the [[University of Arizona]], and then in the Psychology Department at Yale University.
+
+==Education==
+Wynn received her Bachelor of Arts in psychology from [[McGill University]], and her PhD in cognitive science from the [[Massachusetts Institute of Technology]]. Her first faculty position was at the [[University of Arizona]]. She joined the Yale University Psychology Department in 1999.
+
+==Research==
+
+===Numerical cognition===
+Karen Wynn is known for her pioneering work on infants' and children's early [[numerical cognition]]. The first of her many influential research studies on this topic, published in the scientific journal ''[[Nature (journal)|Nature]]'' in 1992, reported that five-month-old human infants are able to compute the outcomes of simple addition and subtraction operations on small sets of physical objects.<ref>Keith Devlin (2006), ''The Math Instinct: Why You're a Mathematical Genius (Along With Lobsters, Birds, Cats, and Dogs)'', Basic Books, {{ISBN|978-1-56025-672-4}}, pages 1-9.</ref><ref>{{cite journal | last1 = Wynn | first1 = K | year = 1992 | title = Addition and subtraction by human infants | journal = Nature | volume = 358 | issue = 6389| pages = 749–750 | doi=10.1038/358749a0| pmid = 1508269 | bibcode = 1992Natur.358..749W | s2cid = 4348056 }}</ref>
+
+===Methods===
+Thirty-two five-month-old infants participated in the first experiment reported in the Nature article. Infants were [[Random assignment|randomly assigned]] to two-groups ('1+1' and '2-1'). In the 1+1 condition, infants were presented with a single doll. The object was then hidden from view by a small screen. An experimenter brought a second identical doll into the infant's view, and then placed it behind the screen (out of the infant's sight). In the 2-1 condition, a similar procedure occurred. The infant was presented with two dolls, which were then hidden from view by a screen. The experimenter removes one of the objects within the sight of the infant. In both conditions, the set-up was designed so that the infants would witness a mathematical operation being performed (either addition or subtraction), but would not be able to see the final result. For both groups, after this sequence was complete, the screen was removed to reveal either one or two objects. This process was repeated six times for each infant, alternating between one-item and two-item final displays. Looking time (the amount of time that the infant remained [[Fixation (visual)|visually fixated]] on an object while remaining [[attention|attentive]] to the display) was measured.<ref name="nature749">{{cite journal|last=Wynn|first=Karen|title=Addition and subtraction by human infants|journal=Nature|date=August 1992|volume=358|issue=6389|pages=749–750|doi=10.1038/358749a0|pmid=1508269|bibcode=1992Natur.358..749W|s2cid=4348056}}</ref>
+
+===Results===
+The expected results of this experiment follow the theory of violation of expectations, that infants will look for a longer period of time at unexpected events than expected ones. Wynn hypothesized that if infants had the ability to compute numbers, they should look at the incorrect results longer than the correct results. Wynn found that infants in the 1+1 group looked longer when one item was shown as a final result (when the math implied that 1+1=1) than when two items were shown (1+1=2). Infants in the 2-1 group did the reverse, looking longer at the display with two items (2-1=2) than the display with one item (2-1=1). In another experiment within the study, in which infants were presented with 1+1 = 2 or 3, Wynn found that infants looked longer at three objects, the impossible outcome, rather than the two-object display.<ref name="nature749"/>
+
+====Implications====
+These results indicated that infants are capable of performing simple numerical operations. Wynn has suggested that humans, along with many other animal species, are innately endowed with cognitive machinery for detecting and reasoning about numbers of items. As a result, "psychologists were stunned when Wynn announced her results, and many skeptical researchers around the world devised variants of her procedure to determine whether her conclusions were correct."<ref>Keith Devlin, ''Ibid.'',  pages 6-7.</ref> Wynn's findings were subsequently replicated by independent researchers in the United States and in Europe on human infants<ref>Susan Carey (2009), ''The Origin of Concepts'', Oxford University Press, {{ISBN|978-0-19-536763-8}}, page 64 (fn)</ref><ref>Daniel Tammet (2009), ''Embracing the Wide Sky: A Tour Across the Horizons of the Mind'', Simon and Schuster, {{ISBN|978-1-4165-6969-5}}, pages126</ref> and later extended to other subject populations, including rhesus monkeys<ref>Stanislas Dehaene (1999), ''The Number Sense: How the Mind Creates Mathematics'', Oxford University Press, {{ISBN|978-0-19-513240-3}}, pages 53-55 (pages 41-44 of revised & updated 2011 edition).</ref> and domesticated dogs<ref>Ellen Galinsky (2010), ''Mind in the Making: The Seven Essential Life Skills Every Child Needs'', HarperCollins Publishers, {{ISBN|978-0-06-173232-4}}, pages 172-173.</ref><ref>{{cite journal | last1 = West | first1 = R. | last2 = Young | first2 = R. | year = 2002 | title = Do domestic dogs show any evidence of being able to count? | journal = Animal Cognition | volume = 5 | issue = 3| pages = 183–186 | doi=10.1007/s10071-002-0140-0| pmid = 12357291 | s2cid = 28789165 }}</ref> who, like human babies, distinguished correct from incorrect outcomes of additions and subtractions of objects (eggplants, in the studies with rhesus monkeys; doggie biscuits, in the studies with dogs).
+
+====Criticism====
+Criticism of Wynn's 1992 study has suggested that the difference in looking time should not be attributed to looking time, but rather to the preference given to familiar objects. Leslie B. Cohen and Kathryn S. Marks's 2002 study in [[Developmental Science]] suggested the possible explanation that infants may have been displaying a [[Mere-exposure effect|familiarity preference]] to the quantity of objects, as well as a preference for a greater quantity of objects over fewer objects.<ref>{{cite journal|last=Cohen|first=Leslie B.|author2=Kathryn S. Marks|title=How infants process addition and subtraction events|journal=Developmental Science|date=May 2002|volume=5|issue=2|pages=186–212|doi=10.1111/1467-7687.00220}}</ref> Eric P. Charles and Susan M. Rivera also criticized looking time methods and the violation of expectations paradigm, raising the point that because the possible/impossible options are determined by adults, infants are assumed to have the same expectations as adults if they look longer at the impossible outcome.<ref>{{cite journal|last=Charles|first=Eric P.|author2=Susan M. Rivera|title=Object permanence and method of disappearance: looking measures further contradict reaching measures|journal=Developmental Science|date=May 2009|volume=12|issue=6|pages=991–1006|doi=10.1111/j.1467-7687.2009.00844.x|pmid=19840053|s2cid=34545153|url=https://semanticscholar.org/paper/9cb31ced57f81bce46a0bec5afdbd5b5fb4f40fd}}</ref>
+
+====Follow-up====
+In response to criticism that Wynn's 1992 results were due to infants' ability to keep track of small quantities of objects rather than mathematics, Wynn and Koleen McCrink's 2004 study published in ''[[Psychological Science (journal)|Psychological Science]]'' demonstrates that nine-month-old infants can add and subtract numbers that exceed object-tracking limits.<ref>{{cite journal|last=McCrink|first=Koleen|author2=Karen Wynn|title=Large-Number Addition and Subtraction by 9-month-old Infants|journal=Psychological Science|date=November 2004|volume=15|issue=11|pages=776–781|doi=10.1111/j.0956-7976.2004.00755.x|pmid=15482450|s2cid=11811692|url=https://semanticscholar.org/paper/243cf098b0de7d7e5c5d0124b09df9ebc00045ce}}</ref>
+
+===Social evaluation===
+Wynn has also investigated humans' early [[social preferences]] and judgments. Some of this research, conducted in Wynn's lab with Wynn as senior author and then-graduate student [[Kiley Hamlin]] as lead author, found that 6- and 10-month-old infants evaluate individuals based on their behaviors towards others.<ref name="hamlin557">{{cite journal|last=Hamlin|first=J. Kiley |author2=Karen Wynn |author3=Paul Bloom|title=Social evaluation by preverbal infants|journal=Nature|date=November 2007|volume=450|issue=7169 |pages=557–559|doi=10.1038/nature06288|pmid=18033298 |bibcode=2007Natur.450..557H |s2cid=1255426 }}</ref><ref>Ellen Galinsky (2010), ''Mind in the Making: The Seven Essential Life Skills Every Child Needs'', HarperCollins Publishers, {{ISBN|978-0-06-173232-4}}, page 3.</ref>
+
+====Methods====
+The infants were [[habituation|habituated]] to events in which a "climber" character made attempts to climb a hill. On the third attempt, the climber was either aided by a "helper" who pushed the climber from behind, or was pushed down the hill by a "hinderer."  Infants were then asked to reach for their choice of either the helper or hinderer character. In another part of the experiment, infants were habituated the same display and then saw the climber approach either the helper (an unsurprising action) or the hinderer (a surprising action).<ref name="hamlin557"/>
+
+====Results====
+When given a choice to reach for one of the characters, infants chose the helper characters, suggesting that the two characters had established impressions based on the actions each character had made towards the climber. Measurements in looking time showed that the 10-month-old infants looked longer at the circumstances when the climber approached the hinderer, following the violation of expectations principle. Six-month-olds looked for an equal amount of time at both situations, despite showing a preference for the helper characters in the choice task. This suggests that while 6-month-olds may be capable of establishing their own social evaluations, they may not have yet developed the ability to infer others' evaluations.<ref name="hamlin557"/>
+
+====Implications====
+Notable philosopher of bioethics [[Peter Singer]] wrote of these studies that they "have upset the previous wisdom, associated with such stellar figures in psychology as [[Sigmund Freud]], [[Jean Piaget]], and [[Lawrence Kohlberg]], that human moral development is the product of our rearing and our culture."<ref>Peter Singer (2011), ''The Expanding Circle: Ethics, Evolution, and Moral Progress'', Princeton University Press, {{ISBN|978-0-691-15069-7}}, page 188.</ref>
+Wynn and her colleagues have suggested that babies' tendency to prefer [[Prosocial behavior|prosocial]] individuals may arise from an adaptive capacity to detect good candidates for reciprocal interactions, and to prefer these individuals over those who may be more likely to act in self-interest or to renege on social contracts. The research suggests that the ability to evaluate an individual based on behavior may serve as a foundation for moral thought and action.
+
+====Further research====
+Wynn and her students' further research at Yale continued with this theme, exploring questions such as how infants categorize different individuals into groups and how [[in-group favoritism]] develops, as well as investigating adaptive social strategies.<ref>{{cite web|last=Wynn|first=Karen|title=Research|url=http://pantheon.yale.edu/%7Ekw77/Research.html|access-date=2 March 2013|archive-url=https://web.archive.org/web/20030802201502/http://pantheon.yale.edu/~kw77/research.html|archive-date=2 August 2003|url-status=dead}}</ref>
+
+==Honors and awards==
+Wynn was named a Distinguish SAGE Fellow from the SAGE Center for the Study of the Mind in 2009. As part of the fellowship, she presented a series of four lectures at the center, located at the [[University of California, Santa Barbara]], on the social, moral and strategic characters of babies, as well as the baby of the future.<ref>{{cite web|title=Distinguished Fellows for 2009–2010|url=http://www.sagecenter.ucsb.edu/distinguished-fellows/2009-2010|access-date=2 March 2013}}</ref>
+
+Wynn was named a fellow of The [[Association for Psychological Science]] in 2005. Fellowships are awarded for having "made sustained outstanding contributions to the science of psychology in the areas of research, teaching, and/or application."<ref>{{cite web|last=Association for Psychological Science|title=List of APS Fellows|url=http://www.psychologicalscience.org/fellows/fellows-new.cfm|access-date=2 March 2013}}</ref>
+
+Wynn received the Troland Research Award from the [[National Academy of Sciences]] in 2001, given "for her pioneering research on the foundations of quantitative and mathematical thinking in infants and young children."<ref>{{cite web|last=National Academy of Sciences|title=Troland Research Awards Recipients|url=http://www.nasonline.org/about-nas/awards/troland-research-awards.html|access-date=2 March 2013|url-status=dead|archive-url=https://web.archive.org/web/20130126003831/http://www.nasonline.org/about-nas/awards/troland-research-awards.html|archive-date=26 January 2013}}</ref><ref>Yale Bulletin & Calendar, "''Psychologist Karen Wynn cited for pioneering study of infants' ability to recognize numbers''," 2001</ref>
+
+Wynn received the [[Distinguished Scientific Award for an Early Career Contribution to Psychology|Distinguished Scientific Award for Early Career Contribution to Psychology]] in 2000,<ref>{{cite web|url=http://www.apa.org/about/awards/early-career-contribution.aspx |title=APA Distinguished Scientific Awards for an Early Career Contribution to Psychology |publisher=Apa.org |access-date=2014-02-08}}</ref> given by The [[American Psychological Association]] "for her outstanding research program on the ontogenetic foundations of mathematical knowledge. Her research has advanced the understanding of the prelinguistic representations of number, and her work on infant representations of events and collections has advanced the understanding of the concepts infants use to establish representations of individual to enumerate."<ref>{{cite web |url=http://psycnet.apa.org/journals/amp/55/11/1279/ |title= American Psychologist, Vol 55(11), Nov 2000, pages 1279–1282 |website= |access-date=2012-02-28}}</ref>
+
+Wynn received a James McKeen Cattell Foundation Sabbatical Award in 1997.<ref>{{cite web|title=The James McKeen Cattell Fellowship Fund Recipients|url=http://www.cattell.duke.edu/cattrecip.html|access-date=10 March 2013}}</ref>
+
+==Popular media==
+Karen Wynn edited the 2002 book, ''Languages, Logic, and Concepts'' along with [[Ray Jackendoff]] and [[Paul Bloom (psychologist)|Paul Bloom]]. The book, published by [[MIT Press|The MIT Press]], focuses on [[Cognitive development|cognitive]] and [[Language development|linguistic development]], as well as the role of mathematics in cognition.<ref>{{cite web|last=The MIT Press|title=Karen Wynn|url=https://mitpress.mit.edu/authors/karen-wynn|access-date=2 March 2013}}</ref>
+
+Karen Wynn has been interviewed and her research featured in science documentaries, radio shows, newspapers, and popular science news outlets.
+
+===Numerical cognition===
+Wynn's research in numerical competency has generated much media attention. Articles about her research findings have been featured in ''[[The New York Times]]''<ref>{{cite news|last=Goleman|first=Daniel|title=Study Finds Babies at 5 Months Grasp Simple Mathematics|url=https://www.nytimes.com/1992/08/27/us/study-finds-babies-at-5-months-grasp-simple-mathematics.html?pagewanted=all&src=pm|work=The New York Times|access-date=2 March 2013}}</ref> (1992); ''[[Life (magazine)|LIFE magazine]]''<ref>{{cite web|title=At Five Months, Babies Have the Raw Ability to Add|url=http://pantheon.yale.edu/%7Ekw77/LIFE_article.html|publisher=LIFE Magazine|access-date=10 March 2013}}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>  (1993); as a cover story for ''[[Science News]]'',<ref>''Science News'', June 22, 2002 http://www.sciencenews.org/view/issue/id/2846%20 cover story</ref> (2002); and in ''[[Science Daily]]''<ref>''Science Daily'', Dec 05, 2010 https://www.sciencedaily.com/releases/2010/12/101201142507.htm</ref> (2010). In video, Wynn's work has been featured in the documentary television series ''[[National Geographic Explorer]]'' in ''Science of Babies''<ref>{{cite web|last=National Geographic|title=Explorer: Science of Babies|url=http://channel.nationalgeographic.com/channel/explorer/videos/science-of-babies/|access-date=10 March 2013}}</ref> (2007); and in the [[Public Broadcasting Service|PBS]] documentary, ''The Human Spark with Alan Alda''<ref>PBS, ''[https://www.pbs.org/wnet/humanspark/episodes/program-three-brain-matters/video-full-episode/418/ The Human Spark With Alan Alda],'' January 20, 2010</ref> (2010).
+
+===Social evaluation and morality===
+Wynn's research in infants' social interactions and moral development has also received media attention. In print, Wynn's work has been featured in ''[[Science Daily]]''<ref>''Science Daily'', Sept 30, 2003 https://www.sciencedaily.com/releases/2003/09/030930055123.htm</ref> (2003); ''[[The New York Times]]''<ref>{{cite news|last=Nagourney|first=Eric|title=Behavior: Even Babies May be Good Judges of Character|url=https://www.nytimes.com/2007/12/04/health/research/04beha.html?_r=0|work=The New York Times|access-date=2 March 2013}}</ref> (2007); in Canada's [[CBC News]]<ref>{{cite news|title=Even babies make social judgments, study suggests|url=http://www.cbc.ca/news/technology/story/2007/11/21/baby-social.html|publisher=CBC News|access-date=2 March 2013}}</ref> (2007); and The ''[[New York Times Magazine]]''<ref>{{cite news|last=Bloom|first=Paul|title=The Moral Life of Babies|url=https://www.nytimes.com/2010/05/09/magazine/09babies-t.html?pagewanted=all|work=The New York Times|access-date=10 March 2013}}</ref> (2010). Her research can be found in [[National Public Radio|NPR]]'s ''[[All Things Considered]]''<ref>National Public Radio [https://www.npr.org/templates/story/story.php?storyId=126653606 ''All Things Considered, Weekend Edition''], May 09, 2010</ref> (2010); in a special report by the [[National Science Foundation]]<ref>{{cite web|title=Babies and Learning: The good, the bad and the baby|url=https://www.nsf.gov/news/special_reports/science_nation/babieslearning.jsp|publisher=National Science Foundation|access-date=2 March 2013}}</ref> (2011); and on [[CBS News]]' ''[[60 Minutes]]''<ref>{{cite web|last=Stahl|first=Lesley|title=The Baby Lab|url=http://www.cbsnews.com/8301-18560_162-57551557/babies-help-unlock-the-origins-of-morality/|work=CBS News|access-date=2 March 2013}}</ref> (2012).
+
+Wynn has also appeared internationally in British and Australian television and radio programs.<ref>{{cite web|last=Wynn|first=Karen|title=CV|url=http://pantheon.yale.edu/~kw77/cv.pdf|access-date=10 March 2013}}</ref> Her research was also named one of the ''Top 50 Science Stories of 1992'' in the January 1993 issue of [[Discover (magazine)|''Discover'' magazine]].<ref>{{cite web|title=January 1993 Archive|url=http://discovermagazine.com/1993/jan#.UT0FLaV5nzI|publisher=Discover Magazine|access-date=2 March 2013}}</ref>
+
+== See also ==
+*[[Numerical cognition]]  
+*[[Developmental psychology]] 
+*[[Evolutionary developmental psychology]]
+*[[Addition]]
+*[[Moral psychology]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*[http://psychology.yale.edu/faculty/karen-wynn Yale University Psychology Department Faculty web page]
+*[http://pantheon.yale.edu/~kw77/Biographical_Information.html Karen Wynn's personal web page]
+*{{google scholar id|ZBkyZBIAAAAJ}}
+*[https://web.archive.org/web/20090418113001/http://www.yale.edu/opa/arc-ybc/v29.n16/story2.html Yale Bulletin & Calendar, "''Psychologist Karen Wynn cited for pioneering study of infants' ability to recognize numbers''," 2001]
+*[https://www.nytimes.com/1992/08/27/us/study-finds-babies-at-5-months-grasp-simple-mathematics.html?pagewanted=all&src=pm New York Times, "''Study finds babies at 5 months grasp simple mathematics''," 1992]
+*[https://www.nytimes.com/2007/12/04/health/research/04beha.html New York Times, "''Behavior: Even babies may be good judges of character''," 2007]
+*[http://www.education.com/magazine/article/babies-know-numbers/ Education.com, "''Babies Know Numbers''"]
+*[https://www.nsf.gov/news/special_reports/science_nation/babieslearning.jsp Science Nation Special Report, "''Babies and Learning''," 2011]
+
+{{Portal bar|Psychology}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Wynn, Karen}}
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:American women psychologists]]
+[[Category:American psychologists]]
+[[Category:Canadian women psychologists]]
+[[Category:Women cognitive scientists]]
+[[Category:Developmental psychologists]]
+[[Category:Evolutionary psychologists]]
+[[Category:Mathematical cognition researchers]]
+[[Category:Massachusetts Institute of Technology School of Science alumni]]
+[[Category:McGill University Faculty of Science alumni]]
+[[Category:Yale University faculty]]
+[[Category:American women academics]]

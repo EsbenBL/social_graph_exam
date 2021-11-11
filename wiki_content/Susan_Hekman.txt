@@ -1,0 +1,65 @@
+{{Infobox scholar
+| name = Susan Hekman
+| image = 
+| imagesize = 
+| alt = 
+| caption = 
+| fullname = 
+| othernames = 
+| birth_name =         <!-- Use only if different from full/othernames -->
+| birth_date = {{Birth date and age|1949|02|28}}
+| birth_place = [[Grand Rapids|Grand Rapids, Michigan]]
+| death_date = 
+| death_place = 
+| death_cause = 
+| nationality = [[United States|American]]
+| era = 
+| region = 
+| alma_mater = [[University of Washington]]
+| workplaces = [[University of Texas at Arlington]]
+| school_tradition = 
+| main_interests = [[Postmodern feminism]]
+| principal_ideas = Criticism of [[standpoint feminism]]
+| major_works = 
+| awards = 
+| influences = 
+| influenced = 
+| footnotes = 
+}}
+'''Susan Jean Hekman''' (born February 28, 1949),<ref name=Congress>{{cite web |title= Hekman, Susan J. |url= http://id.loc.gov/authorities/names/n82103996.html |publisher= Library of Congress |access-date= 16 January 2015 |quote= (Susan J. Hekman) data sht. (b. 02-28-49) }}</ref> is a [[postmodern feminism|postmodern feminist]] and the professor of [[political science]] and director of the graduate humanities program at the [[University of Texas at Arlington|University of Texas at Arlington (UTA)]].<ref name=UTA>{{cite web|title=Dr. Susan Hekman: Professor of Political Science; Director, Graduate Humanities Program|url=http://www.uta.edu/faculty/hekman/|publisher=Department of Political Science, University of Texas at Arlington|access-date=16 January 2015}}</ref> Hekman's research has been critical of [[standpoint feminist theory]].<ref name=Flynn>{{cite book | last = Flynn | first = Elizabeth A. | contribution = Introduction| editor-last = Flynn | editor-first  = Elizabeth A. | title = Feminism beyond modernism | publisher = Southern Illinois University Press | location = Carbondale | year = 2002 | page = 12 | isbn = 9780809324354 }}</ref>
+
+== Biography ==
+Hekman was born in Grand Rapids, Michigan, USA, in 1949. Hekman earned her Ph.D from the [[University of Washington]] in Seattle.<ref name=NIAS>{{cite web|title=Hekman, S.J.|url=https://www.nias.knaw.nl/fellows/year-group-2010-11/hekman-s-j|publisher=Netherlands Institute for Advanced Study|access-date=15 January 2015|url-status=dead|archive-url=https://web.archive.org/web/20150913021548/http://www.nias.knaw.nl/fellows/year-group-2010-11/hekman-s-j|archive-date=13 September 2015|df=}}</ref> While Hekman stayed at NIAS, she completed the first chapter of her proposed book, Subject Matters: The Evolution of the Subject in Feminist Theory. Hekman stated that, "the book will be an analysis of the major contributions to the development of the subject in feminist theory from the mid-twentieth century to the present. The first chapter, an analysis of the path-breaking work of [[Simone de Beauvoir]], defines the themes that will be pursued in subsequent chapter. After completing this chapter, I sketched out the outline of the entire book, mapping the organization of the chapters and the theses that I will develop."<ref name=NIAS />
+
+== Selected works ==
+
+=== Books ===
+* {{cite book | last1 = Hekman | first1 = Susan | title = Moral Voices, Moral Selves: Carol Gilligan and Feminist Moral Theory | publisher = Polity Press | location = Maiden | year = 1995 | isbn = 0745614213 }}
+* {{cite book | last1 = Hekman | first1 = Susan | last2 = Alaimo | first2 = Stacy | title = Material feminisms | publisher = Indiana University Press | location = Bloomington | year = 2008 | isbn = 9780253219466 }}
+
+=== Journal articles ===
+* {{Cite journal | last = Hekman | first = Susan | title = Truth and method: feminist standpoint theory revisited | journal = [[Signs (journal)|Signs: Journal of Women in Culture and Society]] | volume = 22 | issue = 2 | pages = 341–365 | publisher = [[The University of Chicago Press]] via JSTOR | date = Winter 1997 | jstor = 3175275 | doi=10.1086/495159| s2cid = 13884397 }}
+::See also: {{Cite journal | last = Hartsock | first = Nancy | author-link = Nancy Hartsock | title = Comment on Hekman's "Truth and Method: Feminist Standpoint Theory Revisited": truth or justice? | journal = [[Signs (journal)|Signs: Journal of Women in Culture and Society]] | volume = 22 | issue = 2 | pages = 367–374 | publisher = [[The University of Chicago Press]] via JSTOR | date = Winter 1997 | jstor = 3175277 | doi=10.1086/495161| s2cid = 143503819 }}
+
+==References==
+{{Reflist|30em}}
+
+== External links ==
+* [http://www.uta.edu/faculty/hekman/ Profile page: Susan Hekman], University of Texas at Arlington
+
+{{Subject bar|portal1=Biography|portal2=Politics|portal3=Philosophy|portal5=Feminism|portal6=United States}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hekman, Susan}}
+[[Category:1949 births]]
+[[Category:Carleton College alumni]]
+[[Category:Feminist studies scholars]]
+[[Category:Feminist theory]]
+[[Category:Living people]]
+[[Category:Postmodernists]]
+[[Category:University of Texas at Arlington faculty]]
+[[Category:University of Washington alumni]]
+[[Category:American women political scientists]]
+[[Category:American political scientists]]
+{{feminism-stub}}
+{{US-polisci-bio-stub}}

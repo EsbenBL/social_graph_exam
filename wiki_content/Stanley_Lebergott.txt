@@ -1,0 +1,80 @@
+{{Use mdy dates|date=August 2012}}
+{{Infobox person
+| honorific_prefix          =
+| name                      = Stanley Lebergott
+| honorific_suffix          =
+| native_name               =
+| native_name_lang          =
+| image                     = <!-- just the name, without the File: or Image: prefix or enclosing [[brackets]] -->
+| image_size                =
+| alt                       =
+| caption                   =
+| birth_name                =
+| birth_date                = July 22, 1918
+| birth_place               = [[Detroit]], Michigan, US
+| disappeared_date          = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place         =
+| disappeared_status        =
+| death_date                = {{Death date and age|2009|07|24|1918|07|22}} <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place               = [[Middletown, Connecticut]], US
+| body_discovered           =
+| resting_place             =
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments                 =
+| residence                 =
+| nationality               = American
+| other_names               =
+| ethnicity                 = <!-- Ethnicity should be supported with a citation from a reliable source -->
+| citizenship               =
+| education                 = [[University of Michigan]]
+| alma_mater                =
+| occupation                = Government [[economist]], [[Professor Emeritus]]
+| years_active              =
+| employer                  = [[Bureau of Labor Statistics]], [[Wesleyan University]]
+| organization              =
+| agent                     =
+| known_for                 = Economic books and historical unemployment statistics
+| notable_works             =
+| style                     =
+| influences                =
+| influenced                =
+}}
+
+'''Stanley Lebergott''' (July 22, 1918 – July 24, 2009) was a prominent American government [[economist]] and [[Professor Emeritus]] of [[economics]] at [[Wesleyan University]].<ref>{{cite news
+|url=http://articles.latimes.com/2009/aug/03/local/me-passings3.S3
+|title=Passings / Stanley Lebergott
+|date=August 3, 2009
+|work=[[Los Angeles Times]]}}</ref><ref>{{cite encyclopedia |last1=Lebergott |first1=Stanley  |editor= David R. Henderson  |editor-link= David R. Henderson  |encyclopedia=[[Concise Encyclopedia of Economics]] |title=Wages and Working Conditions |url=http://www.econlib.org/library/Enc1/WagesandWorkingConditions.html#abouttheauthor |year=2002 |edition= 1st |publisher=[[Library of Economics and Liberty]] }} {{OCLC|317650570|50016270|163149563}}
+</ref>
+
+==Early life and family==
+Stanley Lebergott was born in [[Detroit]], [[Michigan]] on July 22, 1918 and went to the [[University of Michigan]], where he got both a [[bachelor's degree]] and a [[master's degree]] in economics in the late 1930s. He married Ruth Wellington in 1941, and they had two children (one daughter and one son), Karen and Steven. Steven died in 1995 but Lebergott's wife and daughter Karen outlived him.<ref name="washingtonpost">{{cite news | url=https://www.washingtonpost.com/wp-dyn/content/article/2009/08/01/AR2009080102175.html | title=Stanley Lebergott, 91, Dies; Economist Saw the Good in Consumer Culture | author=Joe Holley | newspaper=[[The Washington Post]] | date=August 2, 2009 | accessdate=August 27, 2012}}</ref>
+
+==Career==
+Lebergott joined the [[Bureau of Labor Statistics]] in 1940. He compiled historical unemployment [[statistics]] for the time period between 1890 and the 1950s, and his statistics were widely popularized until [[Christina Romer]] and others found flaws in them and accordingly modified them.<ref>{{cite book|last=Lebergott|first=Stanley|title=The Measurement and Behavior of Unemployment|url=https://www.nber.org/chapters/c2644|year=1957|publisher=The National Bureau of Economic Research|pages=211–242|chapter=Annual Estimates of Unemployment in the United States, 1900-1954 }}</ref><ref>{{cite journal |first=Christina |last=Romer |year=1986 |title=Spurious Volatility in Historical Unemployment Data |journal=[[Journal of Political Economy]] |volume=94 |issue=1 |pages=1–37 |jstor=1831958 |doi=10.1086/261361 |s2cid=15302777 }}</ref> He joined the Wesleyan University faculty in 1962 and stayed there until his retirement in 1995. He also wrote a book called "Manpower in Economic Growth" in 1964, in which he discussed U.S. historical economic growth, poverty, and income inequality.  In 1975, he wrote "Wealth and Want", a book about how government policies affect poverty. In 1993, he wrote another book called "Pursuing Happiness: American Consumers in the Twentieth Century".<ref>{{cite book|author=Stanley Lebergott|title=Pursuing Happiness: American Consumers in the Twentieth Century|url=https://books.google.com/books?id=bD0ABAAAQBAJ|date=14 July 2014|publisher=Princeton University Press|isbn=978-0691607580}}</ref>
+
+Lebergott consistently argued about the positive impact of [[consumerism]] on the [[U.S. economy]] and the standard of living of the American people (including improved health, higher wages, less drug use, better technology, and more privacy) throughout his career. Boston University economics professor [[Robert Margo]] wrote that<ref name="washingtonpost" />
+<blockquote>
+Lebergott's influence on economic history has been profound. There are few activities that economic historians can engage in of greater consequence than reconstructing the hard numbers. In this line of work Lebergott had few peers. 'Manpower' put the labor force—people—at the center of economic history, not the bloodless 'agents' of economic models but real people.</blockquote>
+
+This statement indicated the importance of Lebergott's work in academic economic discourse.<ref name="washingtonpost" /> In 1963 he was elected as a [[Fellow of the American Statistical Association]].<ref>[http://www.amstat.org/awards/fellowslist.cfm View/Search Fellows of the ASA], accessed 2016-07-23.</ref>
+
+==Death==
+Lebergott died on July 24, 2009 in his home in [[Middletown, Connecticut]]. His death was due to [[cardiac arrest]] and occurred just two days after he celebrated his 91st birthday.<ref name="washingtonpost"/>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lebergott, Stanley}}
+[[Category:University of Michigan College of Literature, Science, and the Arts alumni]]
+[[Category:1918 births]]
+[[Category:2009 deaths]]
+[[Category:People from Detroit]]
+[[Category:Wesleyan University faculty]]
+[[Category:People from Middletown, Connecticut]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Economists from Michigan]]
+[[Category:Economists from Connecticut]]
+[[Category:20th-century American economists]]

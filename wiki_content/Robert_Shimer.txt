@@ -1,0 +1,64 @@
+{{Infobox economist
+| name             = Robert Shimer
+| school_tradition =
+| color            =
+| image       =
+| image_size       =
+| caption    =
+| birth_date       = {{Birth date and age|1968|08|21}}<ref>[http://home.uchicago.edu/~shimer/shimer.pdf Robert Shimer's c.v.]</ref>
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = [[United States|American]]
+| institution      = [[University of Chicago]]
+| field            = [[Macroeconomics]], [[labor economics]]
+| alma_mater       = [[MIT]]<br>[[Oxford University]]<br>[[Yale University]]
+| doctoral_advisor = [[Olivier Blanchard]]<ref name="Thesis advisor">{{cite thesis |last= Shimer |first= Robert |date= 1996 |title= Essays in search theory |type= Ph.D. |publisher= [[MIT]] |hdl= 1721.1/10832 }}</ref><br>[[Daron Acemoglu]]<ref name="Thesis advisor" />
+| academic_advisors=
+| doctoral_students= [[Marshall Steinbaum]]
+| notable_students =
+| influences       =
+| influenced       =
+| contributions    =
+| awards           =
+| signature        =
+| repec_prefix = e | repec_id = psh9
+}}
+
+'''Robert Shimer''' (born August 21, 1968) is an American [[macroeconomics|macroeconomist]] and [[labour economics|labor economist]] who currently holds the Alvin H. Baum Chair in the Economics Department of the [[University of Chicago]].<ref>[http://economics.uchicago.edu/faculty.shtml#s Faculty list, Dept. of Economics, University of Chicago] {{webarchive|url=https://web.archive.org/web/20060811203228/http://economics.uchicago.edu/faculty.shtml |date=2006-08-11 }}</ref> He was an editor of the ''[[Journal of Political Economy]]'' from 2004 to 2012.<ref>[http://www.journals.uchicago.edu/page/jpe/board.html Editorial Board, ''Journal of Political Economy''.]</ref> His research focuses on the [[Matching theory (macroeconomics)|search and matching approach]] to labor economics. He is especially known for arguing that the standard [[Matching theory (macroeconomics)|labor market matching model]] predicts fluctuations in the unemployment rate much smaller than those actually observed over the business cycle,<ref>{{cite journal |first=Robert |last=Shimer |year=2005 |title=The Cyclical Behavior of Equilibrium Unemployment and Vacancies |journal=[[American Economic Review]] |volume=95 |issue=1 |pages=25–49 |jstor=4132669 |doi=10.1257/0002828053828572}}</ref> an observation which has sometimes been called the '''Shimer puzzle'''.<ref>{{cite journal |first=G. |last=Cardullo |title=Matching Models Under Scrutiny: An Appraisal of the Shimer Puzzle |journal=[[Journal of Economic Surveys]] |volume=24 |issue=4 |pages=622–656 |year=2010 |doi=10.1111/j.1467-6419.2009.00596.x |s2cid=153445313 |url=https://zenodo.org/record/1184634 }}</ref> His book ''Labor Markets and Business Cycles'' was published in 2010 by Princeton University Press, and was recommended by [[Robert Hall (economist)|Robert Hall]]:
+:Shimer's definitive account of the modern theory of labor market volatility presents many new results and deserves a prominent place on the bookshelf of every macroeconomist and labor economist.<ref>[http://press.princeton.edu/titles/9217.html Endorsements of ''Labor Markets and Business Cycles'', by R. Shimer]</ref>
+
+==Publication==
+* {{cite book |last= Shimer |first= Robert |date= 2010 |title= Labor Markets and Business Cycles |url= https://press.princeton.edu/titles/9217.html |location= [[Princeton, New Jersey|Princeton]] and [[Oxford]] |publisher= [[Princeton University Press]] |series= CREI Lectures in Macroeconomics |isbn= 978-0691140223 }}
+
+==Research==
+
+===Labor Choice===
+In 2017, Shimer coauthored a paper entitled, "High Wage Workers Work for High Wage Firms."<ref>{{cite journal |last1=Borovičková|first1=Katarina|last2=Shimer|first2=Robert|title=High Wage Workers Work for High Wage Firms |journal=[[National Bureau of Economic Research No. 24074]]  |issue=November 2017 |year=2017 |doi=10.3386/w24074 |doi-access=free}}</ref> The working paper sought to measure the correlation between worker quality and firm wage rates.  Using Austrian administrative data, he found a correlation between worker and firm types of 0.4 to 0.6.  This implies a contradiction to previous work which found no correlation between types.
+{{reflist}}
+
+==External links==
+* [http://robert.shimer.googlepages.com/ Robert Shimer's homepage]
+* [http://www.nber.org/reporter/2008number3/shimer.html NBER Research Summary]
+*{{Google Scholar id|QkQZSKMAAAAJ}}
+*{{cite web|title=Robert Shimer|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Robert+Shimer%22+&acc=off&wc=on&fc=off&group=none|publisher=[[JSTOR]]}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shimer, Robert}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:Labor economists]]
+[[Category:Macroeconomists]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Yale University alumni]]
+[[Category:Alumni of the University of Oxford]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Princeton University faculty]]
+[[Category:University of Chicago faculty]]
+
+
+{{US-economist-stub}}

@@ -1,0 +1,292 @@
+{{short description|American economist (1915–2009)}}
+{{Use mdy dates|date=September 2019}}
+{{Infobox economist
+| school_tradition = [[Neo-Keynesian economics]]
+| image            = Paul A. Samuelson, economist, edited.jpg 
+| caption          = Samuelson circa 1970-1975
+| birth_name       = Paul Anthony Samuelson
+| birth_date       = {{Birth date|1915|05|15|mf=y}}
+| birth_place      = [[Gary, Indiana]], US
+| death_date       = {{Death date and age|mf=yes|2009|12|13|1915|05|15}}
+| death_place      = [[Belmont, Massachusetts]], US
+| institution      = [[Massachusetts Institute of Technology]]
+| field            = [[Macroeconomics]]
+| alma_mater       = [[University of Chicago]] (B.A.)<br />[[Harvard University]] (Ph.D.)
+| doctoral_advisor = [[Joseph Schumpeter]]<br>[[Wassily Leontief]]
+| academic_advisors=
+| doctoral_students= [[Robert Solow]],[[Lawrence Klein]]<ref>{{Google books |id=gyReAgAAQBAJ |title=Business Cycles and Depressions: An Encyclopedia |page=361 }}</ref><ref>{{cite journal |last1=De Vroey |first1=Michel |last2=Malgrange |first2=Pierre |title=From ''The Keynesian Revolution'' to the Klein–Goldberger model: Klein and the Dynamization of Keynesian Theory |journal=History of Economic Ideas |volume=20 |issue=2 |pages=113–36 |year=2012 |url=https://www.researchgate.net/publication/46473601 }}</ref><br>[[Robert C. Merton]]<ref name="Merton 1970" />
+| notable_students =
+| influences       = [[John Maynard Keynes|Keynes]]{{•}} [[Joseph Schumpeter|Schumpeter]]{{•}} [[Wassily Leontief|Leontief]]{{•}} [[Gottfried Haberler|Haberler]]{{•}} [[Alvin Hansen|Hansen]]{{•}} [[Edwin Bidwell Wilson|Wilson]]{{•}} [[Knut Wicksell|Wicksell]]{{•}} [[Erik Lindahl|Lindahl]]
+| influenced       = [[Stanley Fischer|Fischer]]{{•}} [[Robert Solow|Solow]]{{•}} [[Edmund Phelps|Phelps]]{{•}} [[Paul Krugman|Krugman]]{{•}}[[Joseph Stiglitz|Stiglitz]]{{•}} [[Subramanian Swamy|Swamy]]
+| contributions    = [[Neoclassical synthesis]]<br />[[Mathematical economics]]<br />[[Economic methodology]]<br />[[Revealed preference]]<br />[[International trade]]<br />[[Economic growth]]<br />[[Public goods]]
+| awards           = [[John Bates Clark Medal]] (1947)<br />[[Nobel Memorial Prize in Economic Sciences]] (1970)<br>[[National Medal of Science]] (1996)
+| signature        = <!-- file name only -->
+| repec_prefix     = e | repec_id = psa57
+}}
+{{Macroeconomics sidebar}}
+'''Paul Anthony Samuelson''' (May 15, 1915 – December 13, 2009) was an American [[economist]], who was the first American to win the [[Nobel Memorial Prize in Economic Sciences]]. When awarding the prize in 1970, the [[Swedish Royal Academies]] stated that he "has done more than any other contemporary economist to raise the level of scientific analysis in economic theory".<ref name="MIT">{{cite web|url=http://web.mit.edu/newsoffice/2009/obit-samuelson-1213.html|title=Nobel-winning economist Paul A. Samuelson dies at age 94|work=MIT News|last=Frost|first=Greg|date=December 13, 2009}} "In a career that spanned seven decades, he transformed his field, influenced millions of students and turned MIT into an economics powerhouse"</ref> Economic historian Randall E. Parker has called him the "Father of Modern [[Economics]]",<ref name="Parker 2002" /> and ''[[The New York Times]]'' considers him to be the "foremost academic economist of the 20th century".<ref name="NYTs 2009 Dec 13" />
+
+Samuelson was likely the most influential economist of the later half of the 20th century.<ref name="Econ2009">[http://www.economist.com/node/15127616 "Paul Samuelson: The last of the great general economists died on December 13th, aged 94"], ''[[The Economist]]'', December 17, 2009</ref> In 1996, when he was awarded the [[National Medal of Science]], considered to be America's top science-honor, President [[Bill Clinton]] commended Samuelson for his "fundamental contributions to economic science" for over 60 years.<ref name="MIT" /> Samuelson considered [[mathematics]] to be the "natural language" for economists and contributed significantly to the mathematical foundations of economics with his book ''[[Foundations of Economic Analysis]]''.<ref>{{Cite journal|last=Solow|first=Robert|date=2010|title=On Paul Samuelson|journal=Challenge|volume=53|issue=2|pages=113–116|doi=10.2753/0577-5132530207|s2cid=155020549}}</ref> He was author of the best-selling economics textbook of all time: ''[[Economics (textbook)|Economics: An Introductory Analysis]]'', first published in 1948.<ref name="Mark">{{cite journal |last=Skousken |first=Mark |title=The Perseverance of Paul Samuelson's Economics |journal=Journal of Economic Perspectives |volume=11 |issue=2 |date=Spring 1997 |pages=137–152 |doi=10.1257/jep.11.2.137 |url=http://www.aeaweb.org/articles.php?doi=10.1257/jep.11.2.137 }}</ref> It was the second American textbook that attempted to explain the principles of [[Keynesian economics]]. It is now in its 19th edition, having sold nearly 4&nbsp;million copies in 40 languages.<ref>{{Cite web|url=https://libraries.mit.edu/150books/2011/04/23/1967/|title=Year 107 – 1967: Economics: An Introductory Analysis by Paul A. Samuelson {{!}} 150 Years in the Stacks|website=libraries.mit.edu|access-date=April 26, 2016}}</ref> [[James Poterba]], former head of [[MIT]]'s Department of Economics, noted that by his book, Samuelson "leaves an immense legacy, as a researcher and a teacher, as one of the giants on whose shoulders every contemporary economist stands".<ref name="MIT" />
+
+He entered the [[University of Chicago]] at age 16, during the depths of the [[Great Depression]], and received his [[PhD]] in economics from [[Harvard]]. After graduating, he became an assistant professor of economics at [[Massachusetts Institute of Technology]] (MIT) when he was 25 years of age and a full professor at age 32. In 1966, he was named [[List of Institute Professors at the Massachusetts Institute of Technology|Institute Professor]], MIT's highest faculty honor.<ref name="MIT" /> He spent his career at MIT, where he was instrumental in turning its Department of Economics into a world-renowned institution by attracting other noted economists to join the faculty, including later winners of the Nobel Prize [[Robert Solow]], [[Franco Modigliani]], [[Robert C. Merton]], [[Joseph Stiglitz]], and [[Paul Krugman]].
+
+He served as an advisor to Presidents [[John F. Kennedy]] and [[Lyndon B. Johnson]], and was a consultant to the [[United States Treasury]], the Bureau of the Budget and the President's [[Council of Economic Advisers]]. Samuelson wrote a weekly column for ''[[Newsweek]]'' magazine along with [[Chicago school (economics)|Chicago School]] economist [[Milton Friedman]], where they represented opposing sides: Samuelson, as a self described "Cafeteria Keynesian",<ref name="Econ2009" /> claimed taking the Keynesian perspective but only accepting what he felt was good in it.<ref name="Econ2009" /> By contrast, Friedman represented the [[Monetarism|monetarist]] perspective.<ref name="Szenberg">{{cite book |last1=Szenberg |first1=Michael |author-link=Michael Szenberg|last2=Gottesman |first2=Aron A. |last3=Ramrattan |first3=lall |title=Paul Samuelson: On Being an Economist |location=New York |publisher=Jorge Pinto Books |year=2005 |page=18 |isbn=978-0-9742615-3-9 }}</ref> Together with [[Henry Wallich]], their 1967 columns earned the magazine a [[Gerald Loeb Special Award]] in 1968.<ref name="Devaney 1968 May 22" />
+
+==Biography==
+[[File:Paul Samuelson.jpg|right|thumb|Samuelson in 1997]]
+Samuelson was born in [[Gary, Indiana]], on May 15, 1915, to Frank Samuelson, a [[pharmacy|pharmacist]], and Ella ''[[née]]'' Lipton. His family, he later said, was "made up of upwardly mobile Jewish immigrants from [[Poland]] who had prospered considerably in [[World War&nbsp;I]], because Gary was a brand new steel-town when my family went there".<ref name="NYTs 2009 Dec 13" /> In 1923, Samuelson moved to Chicago where he graduated from Hyde Park High School (now [[Hyde Park Career Academy]]). He then studied at the [[University of Chicago]] and received his [[Bachelor of Arts]] degree there in 1935. He said he was born as an economist, at 8.00am on January 2, 1932, in the University of Chicago classroom.<ref name="Econ2009" /> The lecture mentioned as the cause was on the British economist [[Thomas Robert Malthus|Thomas Malthus]], who most famously studied population growth and its effects.<ref name="NYTs 2009 Dec 13" /> Samuelson felt there was a dissonance between [[neoclassical economics]] and the way the system seemed to behave; he said [[Henry Calvert Simons|Henry Simons]] and [[Frank Knight]] were a big influence on him.<ref name="Parker 2002" /> He next completed his [[Master of Arts]] degree in 1936, and his [[Doctor of Philosophy]] in 1941 at [[Harvard University]]. He won the David A. Wells prize in 1941 for writing the best doctoral dissertation at Harvard University in economics, for a thesis titled "Foundations of Analytical Economics", which later turned into ''[[Foundations of Economic Analysis]]''. As a graduate student at Harvard, Samuelson studied economics under [[Joseph Schumpeter]], [[Wassily Leontief]], [[Gottfried Haberler]], and the "American Keynes" [[Alvin Hansen]]. Samuelson moved to MIT as an assistant professor in 1940 and remained there until his death.<ref>{{Cite journal | doi = 10.1215/00182702-2716118| title = Paul A. Samuelson's Move to MIT| journal = History of Political Economy| volume = 46| page = 60| year = 2014| last1 = Backhouse | first1 = R. E.}}</ref>
+
+Samuelson's family included many well-known economists, including brother [[Robert Summers]], sister-in-law [[Anita Summers]], brother-in-law [[Kenneth Arrow]] and nephew [[Larry Summers]].
+
+During his seven decades as an economist, Samuelson's professional positions included:
+* Assistant professor of economics at MIT, 1940; associate professor, 1944.
+* Member of the Radiation Laboratory 1944–45.
+* Professor of international economic relations (part-time) at the [[Fletcher School of Law and Diplomacy]] in 1945.
+* Guggenheim Fellowship from 1948 to 1949
+* Professor of economics at MIT beginning in 1947 and [[List of Institute Professors|Institute Professor]] beginning in 1962.
+* Vernon F. Taylor Visiting Distinguished Professor at [[Trinity University (Texas)]] in spring 1989.
+
+===Death===
+Samuelson died after a brief illness on December 13, 2009, at the age of 94.<ref name="Reuters">{{cite news | title = Nobel economics laureate Samuelson died at 94 | url = https://www.reuters.com/article/idUSTRE5BC15620091213 | publisher = Reuters | date=December 13, 2009}}</ref> His death was announced by the [[Massachusetts Institute of Technology]].<ref name="NYTs 2009 Dec 13" /> [[James M. Poterba]], an economics professor at MIT and the president of the [[National Bureau of Economic Research]], commented that Samuelson "leaves an immense legacy, as a researcher and a teacher, as one of the giants on whose shoulders every contemporary economist stands".<ref name="Reuters" /> [[Susan Hockfield]], the president of MIT, said that Samuelson "transformed everything he touched: the theoretical foundations of his field, the way economics was taught around the world, the ethos and stature of his department, the investment practices of MIT, and the lives of his colleagues and students".<ref name="revo">[https://www.telegraph.co.uk/news/worldnews/northamerica/usa/6806318/Economics-revolutionary-Paul-Samuelson-dies-aged-94.html "Economics revolutionary Paul Samuelson dies aged 94"], ''[[The Daily Telegraph]]'', December 14, 2009</ref>
+
+==Fields of interest==
+As professor of economics at the Massachusetts Institute of Technology, Samuelson worked in many fields, including:
+* [[Consumer theory]], where he pioneered the [[revealed preference]] approach, which is a method by which one can discern a consumer's [[utility function]], by observing their behavior. Rather than postulate a [[utility function]] or a preference ordering, Samuelson imposed conditions directly on the choices made by individuals – their preferences as revealed by their choices.
+* [[Welfare economics]], in which he popularised the [[Lindahl–Bowen–Samuelson conditions]] (criteria for deciding whether an action will improve welfare) and demonstrated in 1950 the insufficiency of a national-income index to reveal which of two social options was uniformly outside the other's (feasible) [[social welfare function#Bergson–Samuelson social welfare function|possibility function]] (''Collected Scientific Papers'', v. 2, ch. 77; Fischer, 1987, p.&nbsp;236).
+* [[Capital (economics)|Capital theory]], where he is known for 1958 consumption loans model and a variety of [[Turnpike theory|turnpike theorems]] and involved in [[Cambridge capital controversy]].
+* [[Finance]] theory, in which he is known for the [[efficient-market hypothesis]].
+* [[Public finance]] theory, in which he is particularly known for his work on determining the [[Allocative efficiency|optimal allocation]] of resources in the presence of both [[Public good (economics)|public good]]s and [[private good]]s.
+* [[International economics]], where he influenced the development of two important international trade models: the [[Balassa–Samuelson effect]], and the [[Heckscher–Ohlin model]] (with the [[Stolper–Samuelson theorem]]).
+* [[Macroeconomics]], where he popularized the [[overlapping generations model]] as a way to analyze economic agents' behavior across multiple periods of time (''Collected Scientific Papers'', v. 1, ch. 21) and contributed to formation of the [[neoclassical synthesis]].
+* [[Market economics]]: Samuelson believed [[unregulated markets]] have drawbacks, he stated, "free markets do not stabilise themselves. Zero regulating is vastly suboptimal to rational regulating. Libertarianism is its own worst enemy!" Samuelson strongly criticised Friedman and [[Friedrich von Hayek]] arguing their opposition to state intervention "tells us something about them rather than something about [[Genghis Khan]] or [[Franklin Roosevelt]]. It is paranoid to warn against inevitable slippery slopes ... once individual commercial freedoms are in any way infringed upon."<ref name="Econ2009" />
+
+==Impact==
+Samuelson is considered one of the founders of [[neo-Keynesian economics]] and a seminal figure in the development of [[neoclassical economics]]. In awarding him the [[Nobel Memorial Prize in Economic Sciences]] the committee stated:
+
+{{quote|More than any other contemporary economist, Samuelson has helped to raise the general analytical and methodological level in economic science. He has simply rewritten considerable parts of economic theory. He has also shown the fundamental unity of both the problems and analytical techniques in economics, partly by a systematic application of the methodology of maximization for a broad set of problems. This means that Samuelson's contributions range over a large number of different fields.}}
+
+He was also essential in creating the [[neoclassical synthesis]], which ostensibly incorporated [[Keynesian economics|Keynesian]] and [[neoclassical economics|neoclassical]] principles and still dominates current [[mainstream economics]]. In 2003, Samuelson was one of the ten Nobel Prize–winning economists signing the [[Economists' statement opposing the Bush tax cuts]].<ref name="Econ statement">{{cite web|url=http://www.epi.org/publications/entry/econ_stmt_2003/|title=Economists' statement opposing the Bush tax cuts|date=April 3, 2003|access-date=October 31, 2007}}</ref>
+
+==Aphorisms and quotations==
+[[Stanislaw Ulam]] once challenged Samuelson to name one theory in all of the social sciences that is both true and nontrivial. Several years later, Samuelson responded with [[David Ricardo]]'s theory of [[comparative advantage]]: "That it is logically true need not be argued before a mathematician; that is not trivial is attested by the thousands of important and intelligent men who have never been able to grasp the [[doctrine]] for themselves or to believe it after it was explained to them."<ref>{{cite book |first=Paul |last=Samuelson |year=1969 |chapter=The Way of an Economist |editor-first=P. A. |editor-last=Samuelson |title=International Economic Relations: Proceedings of the Third Congress of the International Economic Association |publisher=Macmillan |location=London |pages=1–11 }}</ref>
+
+For many years, Samuelson wrote a column for ''[[Newsweek]]''. One article included Samuelson's most quoted remark and a favorite economics joke:
+
+<blockquote>To prove that Wall Street is an early omen of movements still to come in GNP, commentators quote economic studies alleging that market downturns predicted four out of the last five recessions. That is an understatement. Wall Street indexes predicted nine out of the last five recessions! And its mistakes were beauties.<ref>{{cite news |last=Samuelson |first=Paul |title=Science and Stocks |work=Newsweek |date=September 19, 1966 |page=92 <!-- Newsweek doesn't have this online -->}}</ref></blockquote>
+
+In the early editions of his famous, bestselling economics textbook Paul Samuelson joked that GDP falls when a man "marries his maid".<ref name="Economist 2016 Apr 30" />
+
+==Publications==
+[[File:The competitive price system adapted from Samuelson, 1961.jpg|thumb|The competitive price system adapted from Samuelson, 1961]]
+
+===''Foundations of Economic Analysis''===
+{{Main|Foundations of Economic Analysis}}
+
+Paul Samuelson's book ''[[Foundations of Economic Analysis]]'' (1946) is considered his [[Masterpiece|magnum opus]]. It is derived from his doctoral dissertation, and was inspired by the [[Thermodynamics#Classical thermodynamics|classical thermodynamic]] methods.<ref name="fiu.edu">Liossatos, Panagis, S. (2004). [https://core.ac.uk/download/pdf/6332615.pdf "Statistical Entropy in General Equilibrium Theory"], (p. 3). Department of Economics, Florida International University.</ref> The book proposes to:
+* examine underlying analogies between central features in theoretical and applied economics and
+* study how ''[[operationalism|operationally meaningful]] theorems'' can be derived with a small number of ''analogous methods'' (p.&nbsp;3),
+in order to derive "a general theory of economic theories" (Samuelson, 1983, p. xxvi). The book showed how these goals could be parsimoniously and fruitfully achieved, using the language of the mathematics applied to diverse subfields of economics. The book proposes two general hypotheses as sufficient for its purposes:
+* ''maximizing behavior'' of ''agents'' (including ''consumers'' as to utility and ''business firms'' as to profit) and
+* economic ''systems'' (including a market and an economy) in ''stable equilibrium''.
+In the first tenet, his views presented the idea that all actors, whether firms or consumers, are striving to maximize something. They could be attempting to maximize profits, utility, or wealth, but it did not matter because their efforts to improve their well-being would provide a basic model for all actors in an economic system.<ref name="Solow-authored Obit">{{Cite journal|last=Solow|first=Robert|date=January 15, 2010|title=Paul A. Samuelson (1915–2009)|url=https://science.sciencemag.org/content/327/5963/282|journal=Science|volume=327|issue=5963|page=282|doi=10.1126/science.1186205 |pmid=20075240|bibcode=2010Sci...327..282S|s2cid=206525085}}</ref> His second tenet was focused on providing insight on the workings of equilibrium in an economy. Generally in a market, supply would equal demand. However, he urged that this might not be the case and that the important thing to look at was a system's natural resting point. ''Foundations'' presents the question of how an equilibrium would react when it is moved from its optimal point.<ref name="Solow-authored Obit" /> Samuelson was also influential in providing explanations on how the changes in certain factors can affect an economic system. For example, he could explain the economic effect of changes in taxes or new technologies.
+
+In the course of analysis, ''[[comparative statics]]'', (the analysis of changes in equilibrium of the system that result from a parameter change of the system) is formalized and clearly stated.
+
+The chapter on [[welfare economics]] "attempt(s) to give a brief but fairly complete survey of the whole field of welfare economics" (Samuelson, 1947, p.&nbsp;252). It also exposits on and develops what became commonly called the [[Abram Bergson|Bergson]]–Samuelson [[social welfare function#Bergson–Samuelson social welfare function|social welfare function]]. It shows how to represent (in the maximization calculus) all real-valued economic measures of any belief system that is required to rank consistently different feasible social configurations in an ethical sense as "better than", "worse than", or "indifferent to" each other (p.&nbsp;221).
+
+===''Economics''===
+{{Main|Economics (textbook)}}
+Samuelson is also author (and since 1985 co-author) of an influential principles textbook, ''[[Economics (textbook)|Economics]]'', first published in 1948 (19th ed. as of 2010; multiple reprints). The book sold more than 300,000 copies of each edition from 1961 through 1976 and was translated in the forty-one languages. As of 2018, it has sold over four million copies. [[William Nordhaus]] joined as co-author on the 12th edition (1985). Sometime before 1988, it had become the best-selling economics textbook of all time.<ref name="Rosalsky 2018 Mar 14" /><ref name="Sanyal 2018" /><ref name="Econ-textbooks-info" group=lower-alpha />
+
+Samuelson was once quoted as saying, "Let those who will write the nation's laws if I can write its textbooks."<ref>{{Cite web|url=http://www.econlib.org/library/Enc/bios/Samuelson.html|title=Paul Anthony Samuelson: The Concise Encyclopedia of Economics {{!}} Library of Economics and Liberty|website=www.econlib.org|access-date=April 26, 2016}}<!-- NOTE: This is an original biography not available from other sources. --></ref> Written in the shadow of the [[Great Depression]] and the [[Second World War]], it helped to popularize the insights of [[John Maynard Keynes]]. A main focus was how to avoid, or at least mitigate, the recurring slumps in economic activity.
+
+Samuelson wrote: "It is not too much to say that the widespread creation of dictatorships and the resulting World War II stemmed in no small measure from the world's failure to meet this basic economic problem [the Great Depression] adequately."<ref>See {{cite news |author-link=N. Gregory Mankiw |last=Mankiw |first=Gregory |title=Is government spending too easy an answer? |newspaper=The New York Times |date=January 10, 2009 |url=https://www.nytimes.com/2009/01/11/business/economy/11view.html }}</ref> This reflected the concern of Keynes himself with the economic causes of war and the importance of economic policy in promoting peace.<ref>See {{cite book |author-link=Donald Markwell |first=Donald |last=Markwell |title=John Maynard Keynes and International Relations: Economic Paths to War and Peace |location=New York |publisher=Oxford University Press |year=2006 |isbn=978-0-19-829236-4 }}</ref><ref>{{cite book|last=Samuelson|first=Paul|title=Economics |url=https://archive.org/details/economicsintrodu00paul|url-access=registration|edition=13th|year=1989|publisher=McGraw Hill|page=[https://archive.org/details/economicsintrodu00paul/page/837 837]}}</ref><ref>{{Cite web|title=Paul A. Samuelson Biographical|url=https://www.nobelprize.org/prizes/economic-sciences/1970/samuelson/biographical/|url-status=live}}</ref>
+
+Samuelson's book was the second one that attempted to introduce to a wider audience Keynesian economics, yet by far the most successful one. Canadian economist [[Lorie Tarshis]], who had been a student attending Keynes's lectures at Harvard in the 1930s, published in 1947 an introductory textbook that incorporated his Tarshis's lecture notes, titled ''[https://archive.org/details/elementsofeconom030865mbp/page/n5/mode/2up Elements of Economics]''.<ref name="Tarshis 1947" /><ref name="Harcourt 1982 Summer" /><ref name="Davidson Autumn 2005" /><!--using notes from Keynes classed is on p 107-->
+
+===Other publications===
+There are 388 papers in Samuelson's ''Collected Scientific Papers''. [[Stanley Fischer]] (1987, p.&nbsp;234) writes that taken together they are "unique in their verve, breadth of economic and general knowledge, mastery of setting, and generosity of allusions to predecessors".
+
+Samuelson was co-editor, along with [[William A. Barnett]], of ''Inside the Economist's Mind: Conversations with Eminent Economists'' (Blackwell Publishing, 2007), a collection of interviews with notable economists of the 20th century.
+
+==Criticisms==
+=== Textbook influences in higher education ===
+Samuelson's textbook was a watershed in introducing a serious study of business cycles in the economics curriculum. It was particularly timely because it followed the Great Depression, which had only ended because of the fiscal stimulus of World War II. The study of business cycles along with the introduction of the Keynesian approach of aggregate demand set the stage for the macroeconomic revolution in America, which then diffused throughout the world through translations into every major language. Generations of students, who then became teachers, learned their first and most influential lessons from Samuelson's ''Economics.'' It attracted many imitators, who became successful in different niches of the college market.
+
+The text was not without criticism. While it praised the "mixed economy" of market and government, some found that too radical and attacked it as socialist. As a precursor to criticisms of Samuelson's ''Economics'' textbook, [[Lorie Tarshis]]'s textbook was attacked by trustees of, and donors to, American colleges and universities as preaching a "[[socialist]] [[heresy]]".<ref name="Davidson Spring 2015" /> Piling on, [[William F. Buckley, Jr.]], in his 1951 book, ''[[God and Man at Yale]],'' devoted an entire chapter, attacking both Samuelson's and Tarshis' textbooks. For Samuelson's book, Buckley drew from the ''Educational Examiner'' and credited it as an "excellent review of Samuelson's text." ("Note to Chapter Two." p.&nbsp;234)<ref name="Buckley 1951" /><ref name="Educational-Reviewer-info" group="lower-alpha" /> For Tarshis' book, Buckley drew from [[Merwin K. Hart]]'s organization {{italic correction|''[[:en:wikt:to wit|to wit]]''}}: "I am also grateful to the [[National Economic Council, Inc.|National Economic Council]] for its telling analysis of the Tarshis." ("Note to Chapter Two." p. 234)<ref name="Buckley 1951" /> Buckley essentially characterized both as – in the words of [[Paul Davidson (economist)|Paul Davidson]] – "communist inspired".<ref name="Buckley 1951" /><ref name="Davidson Autumn 2005" /> Buckley, for the rest of his life, defended the criticisms set forth in his book.
+
+=== Economic growth of USSR ===
+One criticism – of a concept that Samuelson added to his ''Economics'' textbook – was the comparison of [[United States|USA]] [[economic growth|growth rates]] with those of the [[Soviet Union|USSR]], which, according to the criticism, was inconsistent with historical [[GNP]] differences.<ref name="Peart 2009" /> The textbook's 1967 edition (7th ed.) extrapolates (projects) the possibility of USSR/US [[Real versus nominal value (economics)|real]] [[Measures of national income and output#GDP and GNP|GNP]] parity between 1977 and 1995. Each subsequent edition extrapolates a date range further in the future until those graphs were dropped from the 1985 edition (12th ed.).<ref name="Bethell 1999" />
+
+===Phillips Curve===
+Samuelson, together with [[Robert Solow]], helped develop and popularize the mathematics of the [[Phillips Curve]].  The curve suggested that unemployment and inflation were inversely related; with the advent of [[stagflation]] in the 1970s some economists including [[Milton Friedman]] and [[Friedrich Hayek]] attacked the economics based on the Phillips Curve as questionable or mistaken.
+
+==Memberships==
+* Member of the [[American Academy of Arts and Sciences]], [[United States National Academy of Sciences|National Academy of Sciences]], fellow of [[Royal Society]] of London
+* Fellow of the [[American Philosophical Society]] and the [[British Academy]];
+* President (1965–68) of the [[International Economic Association]]
+* Member and past president (1961) of the [[American Economic Association]]
+* Member of the editorial board and past-president (1951) of the [[Econometric Society]]
+*Fellow, council member and past vice-president of the [[Royal Economic Society]].
+*Member of [[Phi Beta Kappa]].
+
+==List of publications==
+* Samuelson, Paul A. (1947), Enlarged ed. 1983. ''[[Foundations of Economic Analysis]]'', Harvard University Press.
+* Samuelson, Paul A. (1948), ''[[Economics (textbook)|Economics: An Introductory Analysis]]'', {{ISBN|0-07-074741-5}}; with [[William Nordhaus|William D. Nordhaus]] (since 1985), 2009, 19th ed., McGraw–Hill. {{ISBN|978-0-07-126383-2}}
+* Samuelson, Paul A. (1952), "Economic Theory and Mathematics – An Appraisal", ''American Economic Review'', 42(2), pp. [http://cowles.econ.yale.edu/P/cp/p00b/p0061.pdf 56–66].
+* {{cite journal | last1 = Samuelson | first1 = Paul A | year = 1954 | title = The Pure Theory of Public Expenditure | url = https://semanticscholar.org/paper/9a8d0b15760d0ed38e5986d53b095ccd6e783131| journal = Review of Economics and Statistics | volume = 36 | issue = 4| pages = 387–89 | doi = 10.2307/1925895 | jstor = 1925895 | s2cid = 153571905 }}
+* Samuelson, Paul A. (1958), ''Linear Programming and Economic Analysis'' with [[Robert Dorfman]] and [[Robert M. Solow]], McGraw–Hill. Chapter-preview [https://books.google.com/books?hl=en&lr=&id=k5_vzaCNQP4C&oi=fnd&pg=PP11&dq=&ots=ticEpVKqDz&sig=FEIiGNmox4KDifmeKEfir7pZZNw#v=onepage&q&f=false links.]
+* {{cite book | last = Samuelson | first = Paul A. | contribution = Efficient paths of capital accumulation in terms of the calculus of variations | editor-last1 = Arrow | editor-first1 = Kenneth J. | editor-last2 = Karlin | editor-first2 = Samuel | editor-last3 = Suppes | editor-first3 = Patrick | editor-link1 = Kenneth Arrow | editor-link2 = Samuel Karlin | editor-link3 = Patrick Suppes | title = Mathematical models in the social sciences, 1959: Proceedings of the first Stanford symposium | pages = 77–88 | publisher = Stanford University Press | location = Stanford, California | series = Stanford mathematical studies in the social sciences, IV | year = 1960 | isbn = 9780804700214 }}
+* {{cite book | last = Samuelson | first = Paul A. | contribution = Quesnay's 'Tableau Economique' as a theorist would formulate it today | editor-last1 = Meek | editor-first1 = Ronald (author) | editor-last2 = Bradley | editor-first2 = Ian C.| editor-last3 = Howard | editor-first3 = Michael C.| editor-link1 = Ronald L. Meek | title = Classical and Marxian political economy: essays in honour of Ronald L. Meek | pages = 45–78 | publisher = Macmillan | location = London | year = 1982 | isbn = 9780333321997 }}
+* ''The Collected Scientific Papers of Paul A. Samuelson'', MIT Press. Preview links for vol. 1–3 below. Contents links for vol. 4–7. {{OCLC|1079936608|show=all}}.
+:Samuelson, Paul A. (1966), Vol. [https://books.google.com/books?id=oi-yoPkdKXkC&printsec=find&pg=PR9=gbs_book_other_versions_r&cad=9#v=onepage&q&f=false 1] → via [[Google Books]], 1937–mid-1964.
+:Samuelson, Paul A. (1966), Vol. [https://books.google.com/books?id=XQQFn8Vk470C&printsec=find&pg=PR9=gbs_book_other_versions_r&cad=9#v=onepage&q&f=false 2] → via [[Google Books]], 1937–mid-1964.
+:Samuelson, Paul A. (1972), Vol. [https://books.google.com/books?id=xisb9usg790C&printsec=find&pg=PR7&dq=false#v=onepage&q=false&f=false 3] → via [[Google Books]], mid-1964–1970.
+:Samuelson, Paul A. (1977), Vol. [https://archive.org/details/trent_0116403027612/page/n5/mode/2up 4] → via [[Internet Archive]] {{registration required|nolink=y}}, 1971–76.
+:Samuelson, Paul A. (1986), Vol. [https://books.google.com/books?id=UKeJEc46R9AC&printsec=find&pg=PR8#v=onepage&q&f=false 5] → via [[Google Books]], 1977–1985 [https://web.archive.org/web/20150630034401/https://mitpress.mit.edu/books/collected-scientific-papers-paul-samuelson-3 Description] → via 
+:Samuelson, Paul A. (2011), Vol. [https://mitpress.mit.edu/books/samuelson/samuelson6.pdf 6]{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}, 1986–2009. [https://web.archive.org/web/20110502115456/http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=12518 Description] → via [[Wayback Machine]]
+:Samuelson, Paul A. (2011), Vol. [https://mitpress.mit.edu/books/samuelson/samuelson7.pdf 7]{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}, 1986–2009.
+* [http://library.duke.edu/rubenstein/findingaids/samuelsonpaul/ Paul A. Samuelson Papers, 1933–2010], [[Duke University Libraries#David M. Rubenstein Rare Book & Manuscript Library|Rubenstein Library]], [[Duke University]]. {{OCLC|664246147}}.
+* Samuelson, Paul A. (2007), ''Inside the Economist's Mind: Conversations with Eminent Economists'' with [[William A. Barnett]], Blackwell Publishing, {{ISBN|1-4051-5917-0}}
+* Samuelson, Paul A. (2002), ''Paul Samuelson and the Foundations of Modern Economics'', Transaction Publishers, {{ISBN|978-0-76-580114-2}}
+*Samuelson, Paul A. (2004), Macroeconomics
+*Samuelson, Paul A. (2004), Microeconomics
+
+==See also==
+{{cols}}
+*[[Samuelson's inequality]]
+*[[Iceberg transport cost model|Samuelson's Iceberg transport cost model]]
+*[[Keynesian economics]]
+*[[New Keynesian economics]]
+*[[Neo-Keynesian economics]]
+*[[Neoclassical economics]]
+{{colend}}
+
+==Bibliography==
+=== Annotations ===
+{{reflist|group=lower-alpha|50em|refs=
+<ref name="Econ-textbooks-info">With regard to the Samuelson's textbook ''[[Economics (textbook)|Economics]]'' being the best-seller of all time, other notable high-selling textbooks include:
+<ol type="i" start="1">
+<li> {{Hanging indent |text=''[[Economics in One Lesson]]'' (1st ed. 1946), by [[Henry Hazlitt]] – more than a million sold.}}
+<li> {{Hanging indent |text=''[[Economics (book)|Economics – Principles, Problems, and Policies]]'' (1st ed. 1960), has, at times, been a U.S. best-seller. Campbell Robertson "Mac" McConnell, PhD (1928–2019) was sole author until the 10th ed. Stanley Leonard Brue, PhD (born 1945) became co-author with the 11th ed. (1990). Sean Masaki Flynn, PhD (born 1973) became third co-author beginning with the 18th ed. (2009). }}
+<li> {{Hanging indent |text=''[[Principles of Economics (Mankiw book)|Principles of Economics]],'' by [[Greg Mankiw]] is widely used to cover basics and [[macroeconomics]] }}
+<li> {{Hanging indent |text=[[Hal Varian]] has published a couple widely textbooks for [[microeconomics]]. }}</ol></ref>
+
+<ref name="Educational-Reviewer-info">The ''Educational Reviewer'' was founded in 1949 by Lucille Cardin Crain ({{italic correction|''née''}} Marie Lucille Gabrielle Cardin; 1901–1983), a conservative activist whose primary interest was in – as she stated in 1951 – "rooting out radical influences in American education." In each issue, arch-conservative academicians and writers offered their views of high school and college textbooks as evidence of [[collectivist]] content and the like. The publication, for the first three years, was chiefly financed by [[William F. Buckley, Jr.]] Crain's, Kenneth Cardwell Crain (1883–1969), was a brother of [[Gustavus Demetrious Crain, Jr.]] (1885–1973), founder of [[Crain Communications]]. <!--https://kirkcenter.org/essays/defending-the-right-and-the-good/ check this source--></ref>
+
+}}
+
+=== References ===
+{{reflist|30em|refs=
+<!--B-->
+<ref name="Bethell 1999">{{cite book |ref={{SfnRef|Bethell, October|1999|p=}} |last=Bethell |first=Tom |author-link=Tom Bethell |page=151 |chapter=The Soviet Experiment |title=The noblest triumph: property and prosperity through the ages  |publisher=[[Palgrave MacMillan]] |date=October 1999 |isbn=978-0-312-22337-3}}</ref>
+
+<ref name="Buckley 1951">{{cite book |ref={{SfnRef|Buckley,|1951|p=}} |last1=Buckley |first1=William F., Jr. |author-link1=William F. Buckley, Jr. |date=December 1951 |orig-year=September 1951 |chapter=Chapter 2: Individualism at Yale |chapter-url=https://archive.org/details/godmanatyale0000unse/page/44/mode/2up |title=God and Man at Yale: The Superstitions of "Academic Freedom |url=https://archive.org/details/godmanatyale0000unse/page/44/mode/2up |url-access=registration |type=4th printing |language=en-US |location=[[Chicago]] |publisher=[[Henry Regnery Company]] |pages=45–113 |access-date=April 22, 2021 |via=[[Internet Archive]] |postscript={{space|1}}(Buckley's criticism of [[Lorie Tarshis|Tarshis]]'s textbook, ''{{URL|https://archive.org/details/elementsofeconom030865mbp|The Elements of Economics}},'' begins at p. 49 and is expanded in Appendix VII → pp. 227, 230–231<!--can't find the specific quote, "communist-inspired"-->) }}.{{space|1}}{{OCLC|189667|show=all}}.</ref>
+
+<!--D-->
+<ref name="Davidson Autumn 2005">{{cite journal |ref={{SfnRef|Davidson, Autumn|2005|p= }} |last1=Davidson |first1=Paul |author-link1=Paul Davidson (economist) |date=Autumn 2005 |title=Galbraith and the Post Keynesians |url=http://www.jstor.com/stable/4538962 |access-date=April 22, 2021 |url-access=subscription |journal=Journal of Post Keynesian Economics |language=en-US |publisher=[[Taylor & Francis, Ltd.]] |volume=28 |issue=1 |pages=103–113 |jstor=4538962 |jstor-access= |via= |postscript={{space|1}}("William F. Buckley [{{nowrap| ... }}] attacked Tarshis's book as being communist inspired." p. 107) }}{{space|1}}{{ISSN|0160-3477}} (print publication); {{ISSN|1557-7821}} (online publication); {{OCLC|5550151503|192224991}} (article).</ref>
+
+<ref name="Davidson Spring 2015">{{cite journal |ref={{SfnRef|Davidson, Spring|2015|p= }} |last1=Davidson |first1=Paul |author-link1=Paul Davidson (economist) |date=Spring 2015 |title=What Was the Primary Factor Encouraging Mainstream Economists to Marginalize Post Keynesian Theory? |url= |access-date= |url-access= |journal=Journal of Post Keynesian Economics |language=en-US |publisher=[[Taylor & Francis, Ltd.]] |volume=37 |issue=3 |pages=369–383 |doi=10.1080/01603477.2015.1000093 |jstor= |s2cid=154780517 |jstor-access= }}{{space|1}}{{ISSN|0160-3477}} (print publication); {{ISSN|1557-7821}} (online publication); {{ProQuest|1673822215}} (abstract; database → [[ABI/INFORM]] Collection); {{OCLC|8504916331}} (article).</ref>
+
+<ref name="Devaney 1968 May 22">{{Cite news |url=https://newspapers.com/image/370559693/ |title='Playboy', 'Monitor' Honored |last=Devaney |first=James J. |date=May 22, 1968 |work=[[Hartford Courant]] |access-date=March 20, 2019 |issue=143 |edition=Final |volume=131 |page=36 |url-access=subscription |via=[[Newspapers.com]]}}</ref>
+
+<!--H-->
+<ref name="Harcourt 1982 Summer">{{cite journal |ref={{SfnRef|Harcourt, Summer|1982|p=}} |last1=Harcourt |first1=Colin Harcourt |author-link1=Geoffrey Harcourt |date=Summer 1982 |title=An Early Post Keynesian: Lorie Tarshis (or: Tarshis on Tarshis by Harcourt) |url=https://www.jstor.org/stable/4537699 |access-date=April 23, 2021 |url-access=subscription |journal=Journal of Post Keynesian Economics |type= |series= |language= |edition= |publisher=[[Taylor & Francis, Ltd.]] |volume=4 |issue=4 |pages=609–619 |doi=10.1080/01603477.1982.11489324 |jstor=4537699 |jstor-access= |via= |quote= }}{{space|1}}{{ISSN|0160-3477}} (publication); {{OCLC|222424878|5550180927|7323662377}} (article).</ref>
+
+<!--M-->
+<ref name="Merton 1970">{{cite thesis |type=PhD dissertation |last=Merton |first=Robert C. |author-link1=Robert C. Miller |date=1970 |title=Analytical Optimal Control Theory as Applied to Stochastic and Non-Stochastic Economics |url=https://dspace.mit.edu/handle/1721.1/13875 |publisher=[[Massachusetts Institute of Technology]] |hdl=1721.1/13875 }}</ref>
+
+<!--P-->
+<ref name="Parker 2002">{{cite book |last=Parker |first=Randall E. |title=Reflections on the Great Depression |location=Cheltenham |publisher=Edward Elgar |year=2002 |page=25 |isbn=978-1-84376-335-2 }}</ref>
+
+<ref name="Peart 2009">{{cite journal |title=Soviet Growth & American Textbooks |last1=Levy |first1=David M. |last2=Peart |first2=Sandra J. |date=December 3, 2009 |journal=SSRN Working Paper |ssrn=1517983 |pages= 8–12 |quote= the optimistic forecast of time before the Soviet overtaking is 23 years; the more pessimistic time to overtaking in the max-max world is 36 years. The non-overtaking trajectory is constructed on the specification that something reduces Soviet growth in out years below what simple extrapolation would have it.}}</ref>
+
+<!--R-->
+<ref name="Rosalsky 2018 Mar 14">{{cite journal |ref={{SfnRef|Rosalsky, March 14,|2018|p=}} |last1=Rosalsky |first1=Gregory Ellis |author-link1= |date=March 14, 2018 |title=Freeing Econ 101: Beyond the Grasp of the Invisible Hand |url=https://behavioralscientist.org/freeing-econ-101-beyond-the-grasp-of-the-invisible-hand/ |access-date=April 23, 2021 |format= |department= |journal=Behavorial Scientist |type=non-profit [[Online magazine|digital magazine]] |series= |language=en-US |edition= |location=[[Broad Street (Manhattan)|Broad Street]], [[Lower Manhattan]] }}</ref>
+
+<!--S-->
+<ref name="Sanyal 2018">{{cite book |last1=Sanyal |first1=Amal |author-link1= |date=2018 |chapter=After Keynes – Box 6.3: Paul Samuelson |chapter-url=https://books.google.com/books?id=OEcrDwAAQBAJ&pg=PA174 |title=Economics and Its Stories |url=https://books.google.com/books?id=OEcrDwAAQBAJ&pg=PA174 |language=en |location=[[London]] |publisher=[[Routledge]], an imprint of the [[Taylor & Francis Group]] |publication-date= |page=174 |isbn=9781351581691 }}{{space|1}}{{ISBN|1-1380-9960-0|978-1-1380-9960-9}} (hard copy); {{ISBN|978-1-3150-9896-8}} ([[e-book]]); {{OCLC|989032184|show=all}}.</ref>
+
+<!--T-->
+<ref name="Tarshis 1947">{{cite book |ref={{SfnRef|Tarshis,|1947|p=}} |last1=Tarshis |first1=Lorie |author-link1=Lorie Tarshis |date=1947 |title=The Elements of Economics: An Introduction to the Theory of Price and Employment |url=https://archive.org/details/elementsofeconom030865mbp/page/n5/mode/2up |language=en |publisher=[[Houghton Mifflin Company]] – [[The Riverside Press]] |page= |pages= |oclc=989388561 |access-date=April 23, 2021 |via=[[Internet Archive]] }}</ref>
+
+<ref name="Economist 2016 Apr 30">{{cite news |date=April 30, 2016 |title=The Trouble With GDP |newspaper=[[The Economist]] |url=https://www.economist.com/briefing/2016/04/30/the-trouble-with-gdp |url-access=subscription |access-date=October 22, 2018}}</ref>
+
+<!--W-->
+<ref name="NYTs 2009 Dec 13">{{Cite news|url=https://www.nytimes.com/2009/12/14/business/economy/14samuelson.html |title=Paul A. Samuelson, Economist, Dies at 94 |last=Weinstein |first=Michael M. |date=December 13, 2009 |newspaper=[[The New York Times]] |issn=0362-4331|access-date=April 26, 2016 }}</ref>
+
+}}
+
+==Further reading==
+*{{cite book |last1=Backhouse |first1=Roger E. |author-link1=Roger E. Backhouse |title=Founder of Modern Economics: Paul A. Samuelson: Volume 1: Becoming Samuelson, 1915–1948 |date=2017 |publisher=Oxford University Press |isbn=978-0-19-066411-4 |language=en}}
+* {{cite journal |author-link=Avinash Dixit |first=Avinash |last=Dixit |year=2012 |title=Paul Samuelson's Legacy |journal=[[Annual Review of Economics]] |volume=4 |pages=1–31 |publisher=[[Annual Reviews (publisher)|Annual Reviews]] |doi=10.1146/annurev-economics-080511-110957 |s2cid=154427457 |doi-access=free }}
+* {{cite book |first=Stanley |last=Fischer |year=1987 |title=Samuelson, Paul Anthony |work=The [[New Palgrave: A Dictionary of Economics]] |volume=4 |publisher=Macmillan |location=London |pages=234–41 |isbn=978-0-935859-10-2 }}.
+* {{cite book |first=Leonard |last=Silk |title=The Economists |location=New York |publisher=Basic Books |year=1976 |isbn=978-0-465-01810-9 |url-access=registration |url=https://archive.org/details/economists0000unse }}.
+* {{cite book |author-link=Robert Sobel |last=Sobel |first=Robert |title=The Worldly Economists |location=New York |publisher=Free Press |year=1980 |isbn=978-0-02-929780-3 }}.
+* {{cite book |first=Daniel R. |last=Fusfeld |year=2002 |chapter=The Neoclassical Synthesis |title=The Age of the Economist |edition=9th |location=Boston |publisher=[[Addison-Wesley]] |pages=[https://archive.org/details/ageofeconomist0087fusf/page/198 198–201] |isbn=978-0-321-08812-3 |chapter-url-access=registration |chapter-url=https://archive.org/details/ageofeconomist0087fusf |url=https://archive.org/details/ageofeconomist0087fusf/page/198 }}.
+
+==External links==
+{{Commons category|Paul Samuelson}}
+{{Wikiquote}}
+* {{MathGenealogy |id=137085 }}
+* {{Nobelprize|name=Paul A. Samuelson}}
+* [https://web.archive.org/web/20091027101106/http://geocities.com/gfh_axds_as/zax/samuelson-bio-press.html Presentation Speech] by Professor [[Assar Lindbeck]], Stockholm School of Economics, Award Ceremony, The Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel, 1970
+* [https://web.archive.org/web/20040806110730/http://cepa.newschool.edu/het/profiles/samuelson.htm ''A History of Economic Thought'' biography], 2004
+* {{Cite encyclopedia |title=Paul Anthony Samuelson (1915–2009) |url=http://www.econlib.org/library/Enc/bios/Samuelson.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2009 }}
+* [https://web.archive.org/web/20071014093711/http://yale.edu/opa/campus/2005_commencement/honorand_bios.html#samuelson Paul Samuelson], Yale Honorands biography, May 2005
+* [http://web.mit.edu/newsoffice/2009/obit-samuelson-1213.html "Nobel-winning economist Paul A. Samuelson dies at age 94"], ''MIT News'', December 13, 2009
+* {{C-SPAN|Paul Samuelson}}
+*{{Google Scholar id|ZglAOxkAAAAJ}}
+
+{{S-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Ragnar Frisch]] | before2 = [[Jan Tinbergen]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 1970 }}
+{{s-aft | after = [[Simon Kuznets]] }}
+{{S-end}}
+
+{{Keynesians}}
+{{Economics}}
+{{John Bates Clark Medal recipients}}
+{{Nobel laureates in economics 1969–1975}}
+{{1970 Nobel Prize winners}}
+{{Winners of the National Medal of Science|behav-social}}
+{{John von Neumann Lecturers}}
+{{Presidents of the Econometric Society}}
+{{Presidents of the American Economic Association}}
+{{Presidents of the International Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Samuelson, Paul}}
+[[Category:1915 births]]
+[[Category:2009 deaths]]
+[[Category:Nobel laureates in Economics]]
+[[Category:American Nobel laureates]]
+[[Category:Jewish Nobel laureates]]
+[[Category:20th-century American writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:American people of Polish-Jewish descent]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Harvard University alumni]]
+[[Category:Jewish American scientists]]
+[[Category:Jewish American writers]]
+[[Category:Jewish American social scientists]]
+[[Category:Polish economists]]
+[[Category:Kennedy administration personnel]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences faculty]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:National Medal of Science laureates]]
+[[Category:Writers from Gary, Indiana]]
+[[Category:Trade economists]]
+[[Category:University of Chicago alumni]]
+[[Category:Neo-Keynesian economists]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:People from Belmont, Massachusetts]]
+[[Category:Presidents of the American Economic Association]]
+[[Category:Economists from Massachusetts]]
+[[Category:Economists from Indiana]]
+[[Category:Corresponding Fellows of the British Academy]]
+[[Category:Hyde Park Academy High School alumni]]

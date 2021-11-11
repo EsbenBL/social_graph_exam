@@ -1,0 +1,162 @@
+{{Use mdy dates|date=November 2012}}
+{{Infobox economist
+| name             = Edmund Phelps
+| school_tradition =
+| color            = 
+| image            = Edmund Phelps 2017.jpg
+| image_size       = 
+| caption          = Edmund Phelps in New York, 2017
+| birth_date       = {{Birth date and age|1933|7|26|mf=y}}
+| birth_place      = [[Evanston, Illinois]], U.S.
+| death_date       =
+| death_place      =
+| nationality      = [[United States]]
+| institution      = [[Columbia University]] 1971– <br />[[University of Pennsylvania]]
+| field            = [[Macroeconomics]]
+| alma_mater       = [[Yale University]]<br>[[Amherst College]]
+| doctoral_advisor  = [[James Tobin]]<br>[[Arthur Okun]]
+| academic_advisors =
+| doctoral_students = [[Gylfi Zoega]]
+| notable_students  = 
+| influences       = [[Paul Samuelson]]<br>[[William Fellner]]<br>[[Thomas Schelling]]<br>[[John Rawls]]
+| influenced       = [[Roman Frydman]]<br> [[Mordecai Kurz]] <br>[[Gylfi Zoega]]<br>[[Hian Teck Hoon]] <br> [[Eric Bartelsman]]
+| contributions    = [[Microfoundations of macroeconomics]]<br>Expectations in wage and price-setting<br>[[Natural rate of unemployment]]<br>[[Statistical discrimination (economics)|Statistical discrimination]]<br>Structural slumps<br>[[Imagination]] in [[Innovation|innovating]]<br>[[Golden Rule savings rate|Golden Rule rate of saving]]
+| awards           = [[Nobel Memorial Prize in Economic Sciences]], 2006<br/>[[Chevalier de la Legion d'Honneur]], 2008<br />[[Pico Mirandola]] Prize, 2008<br/>[[Kiel Institute for the World Economy|Global Economy Prize]], 2008<br />China [[Friendship Award]], 2014
+}}
+{{Macroeconomics sidebar}}
+'''Edmund Strother Phelps''' (born July 26, 1933) is an American [[economist]] and the recipient of the 2006 [[Nobel Memorial Prize in Economic Sciences]].
+
+Early in his career, he became known for his research at [[Yale University|Yale]]'s Cowles Foundation in the first half of the 1960s on the sources of economic growth. His demonstration of the [[golden rule savings rate]], a concept related to work by [[John von Neumann]], started a wave of research on how much a nation should spend on present consumption rather than save and invest for [[future generations]].
+
+Phelps was at the [[University of Pennsylvania]] from 1966 to 1971 and moved to [[Columbia University]] in 1971. His most seminal work inserted a [[microfoundation]], one featuring imperfect information, incomplete knowledge and expectations about wages and prices, to support a macroeconomic theory of employment determination and price-wage dynamics. That led to his development of the [[natural rate of unemployment]]: its existence and the mechanism governing its size. In the early 2000s, he turned to the study of business innovation.
+
+He is the founding director, since 2001, of Columbia's [https://capitalism.columbia.edu/ Center on Capitalism and Society]. He has been McVickar Professor of Political Economy at Columbia since 1982.
+
+==Early life and education==
+Phelps was born on July 26, 1933 in [[Evanston, Illinois]], and he moved with his family to [[Hastings-on-Hudson, New York]] when he was six, where he spent his school years.<ref name="autobio">{{cite book | last=Phelps | first=Edmund S. | editor=Arnold Heertje | editor-link=Arnold Heertje | title=The Makers of Modern Economics | chapter=Chapter 5: A Life in Economics | volume=Volume II | edition=First | location=Aldershot; Brookfield | publisher=Edward Elgar Publishing Co. | year=1995 | isbn=1-85898-237-5 | chapter-url=http://www.columbia.edu/~esp2/autobio1.pdf |access-date=2008-08-18}}</ref> In 1951, he went to [[Amherst College]] for his undergraduate education. At his father's advice, Phelps enrolled in his first [[economics]] course in his second year at Amherst. Economist James Nelson gave the course, which was based on the famous textbook ''[[Economics (textbook)|Economics]]'' by [[Paul Samuelson]]. Phelps was strongly impressed with the possibility of applying formal analysis to business.{{Citation needed|date=November 2011}} He quickly became aware of an important unsolved problem with the existing economic theory and the existing gap between microeconomics and macroeconomics.
+
+After receiving his [[B.A.]] at Amherst in 1955, Phelps went to [[Yale University]] for graduate studies. At Yale, he studied under future Nobel laureates [[James Tobin]] and [[Thomas Schelling]], among others. Phelps was also strongly influenced by [[William Fellner]] whose course emphasized the expectations of agents. Phelps received his [[Ph.D.]] in Economics from Yale in 1959.
+
+==Research in 1960s and 1970s==
+After receiving his Ph.D., Phelps went to work as an economist for the [[RAND Corporation]]. However, feeling he could not pursue [[macroeconomics]] at RAND (which focused on defense work), Phelps decided to return to the academic world. In 1960, he took a research position at the [[Cowles Foundation]] while he was also teaching at Yale. At the Cowles Foundation, his research focused mainly on [[exogenous growth model|neoclassical growth theory]], following the seminal work of [[Robert Solow]].{{Citation needed|date=November 2011}} As part of his research, in 1961 Phelps published a famous paper<ref>"The Golden Rule of Accumulation: a Fable for Growthmen"; ''The American Economic Review'', Vol. 51, No. 4, pp. 638–43, 1961 http://www.policonomics.com/wp-content/uploads/The-Golden-Rule-of-Accumulation-a-Fable-for-Growthmen.pdf{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>"The Golden Rule of Capital Accumulation" (see [[#Bibliography|Bibliography]])</ref> on the [[Golden Rule savings rate]], one of his major contributions to economic science. He also wrote papers dealing with other areas of economic theory, such as [[monetary economics]] or [[Ricardian equivalence]] and its relation to optimal growth.
+
+His position at Cowles gave Phelps the chance to interact with [[Arthur Okun]] and other notables in the field. He was able to collaborate with other top economists working on growth theory, including [[David Cass]] and fellow Nobelist [[Tjalling Koopmans]]. During the 1962-63 academic year, Phelps visited [[MIT]], where he was in contact with future Nobel Prize winners [[Paul Samuelson]], [[Robert Solow]] and [[Franco Modigliani]].<ref name="autobio"/>
+
+In 1966, Phelps left Yale and moved to the [[University of Pennsylvania]] [[tenure|to take up a tenured]] position as a professor of economics. At Penn, Phelps's research focused mainly on the link between [[employment]], [[wage]] setting and [[inflation]], leading to his influential 1968 paper "Money-Wage Dynamics and Labor Market Equilibrium"<ref name="Money-Wage">"Money-Wage Dynamics and Labor Market Equilibrium" (1968) (see [[#Bibliography|Bibliography]])</ref> and others.<ref>{{cite journal | author=Phelps, Edmund S. | title=Phillips Curves, Expectations of Inflation and Optimal Unemployment over Time | journal=Economica | year=1967 | volume=34 | issue=135 | pages=254–281 | jstor=2552025| doi=10.2307/2552025 }}</ref> The research contributed important insights in the microeconomics of the [[Phillips curve]], including the role of expectations (in the form of [[adaptive expectations]]) and [[perfect information|imperfect information]] in the setting of wages and prices.<ref>{{cite web |title=Phillips Curve |url=https://www.econlib.org/library/Enc/PhillipsCurve.html |website=The Library of Economics and Liberty |publisher=Liberty Fund, Inc. |access-date=11 February 2019}}</ref> It also introduced the concept of the natural rate of unemployment and argued that labor market equilibrium is independent of the rate of inflation and so is no long run tradeoff between unemployment and inflation. That, if accurate, would have the crucial implication that the [[Keynesian economics|Keynesian]] policy of demand management has only [[wikt:transitory|transitory]] effects and so cannot be used to control the long-term rate of unemployment in the economy. In January 1969, Phelps organized a conference at Penn in support of the research on the microfoundations of inflation and employment determination. The conference papers were published the next year in a book<ref>''Microeconomic Foundations of Employment and Inflation Theory'' by Phelps et al. (see [[#Bibliography|Bibliography]])</ref> that had a strong and lasting influence; it became known as the "Phelps volume".<ref name = "autobio"/><ref name = "nobelinfo">The Royal Swedish Academy of Sciences (2006), "Edmund Phelps's Contributions to Macroeconomics"</ref> Along with his research on the Phillips curve, Phelps also collaborated with other economists on research regarding economic growth, the effects of monetary and fiscal policy, and optimal [[population growth]].
+
+In the following years, an element in Phelps's foundations came under heavy criticism with the introduction of [[John Muth]]'s [[rational expectations]], which was popularized by future Nobel prize winner [[Robert Lucas, Jr.]]. Phelps, with Calvo and John Taylor, started a program to rebuild Keynesian economics with rational expectations by employing [[sticky (economics)|sticky wages and prices]]. They did so by explicitly incorporating in models the fact that wage contracts are set in advance for multiple periods, an idea originating from Phelps's 1968 paper. This research lead to a paper published with Taylor in 1977,<ref>"Stabilizing Powers of Monetary Policy under Rational Expectations" (see [[#Bibliography|Bibliography]])</ref> proving that staggered wage setting gives monetary policy a role in stabilizing economic fluctuations. The use of staggered wage and price setting, further developed by Calvo in a 1983 paper,<ref>{{cite journal |last=Calvo |first=Guillermo |year=1983 |title=Staggered Prices in a Utility-Maximizing Framework |journal=Journal of Monetary Economics |volume=12 |issue=3 |pages=383–98 |doi=10.1016/0304-3932(83)90060-0 }}</ref> became a cornerstone of [[New Keynesian economics]]. During the 1970s, Phelps and Calvo also collaborated on research on optimal contracts under [[asymmetric information]].<ref>{{cite book |last1=Edmund |first1=Phelps |title=Studies in Macroeconomic Theory Vol. 1: Employment and Inflation |date=1979 |publisher=Academic Press |location=New York |isbn=9780125540018 |pages=331–350}}</ref>
+
+Phelps spent 1969–70 at the Center for Advanced Study in Behavioral Science at [[Stanford University]]. Discussions with fellow Nobel prize winners [[Amartya Sen]] and [[Kenneth Arrow]] and especially the influence of the [[philosophy]] of [[John Rawls]], whom he met during the year at the Center, led Phelps to undertake some research outside macroeconomics. As a result, in 1972, he published seminal research in the new field that he named [[statistical discrimination (economics)|statistical discrimination]].<ref>"[https://www.researchgate.net/profile/Edmund_Phelps/publication/4728049_The_Statistical_Theory_of_Racism_and_Sexism/links/5494a5de0cf2ec1337581a8f/The-Statistical-Theory-of-Racism-and-Sexism.pdf The Statistical Theory of Racism and Sexism]" (see [[#Bibliography|Bibliography]])</ref> He also published research on [[economic justice]], applying ideas from Rawls's ''[[A Theory of Justice]]''.
+
+In 1971, Phelps moved to the Economics Department at [[Columbia University]], which also included future Nobel prize winners [[William Vickrey]] and [[James J. Heckman]] (future laureate [[Robert Mundell]] joined three years later), as well as [[Phoebus Dhrymes]], [[Guillermo Calvo]] and [[John B. Taylor]].{{Citation needed|date=November 2011}} There, he published research on the [[inflation tax]] and the impact of [[fiscal policy]] on optimal inflation. In 1972, Phelps published a new book<ref>"Inflation Policy and Unemployment Theory" (see [[#Bibliography|Bibliography]])</ref> which focused on the derivation of policy implications of his new theory. The book further popularized his "expectations-augmented Phillips curve"
+and introduced the concept of [[Hysteresis#Economics|hysteresis]] with regard to unemployment (prolonged unemployment is partially irreversible as workers lose skill and become demoralized).
+
+In the late 1970s, Phelps and one of his former students, [[Roman Frydman]], conducted some research on the implications of assuming rational expectations, at first independently and then in collaboration. Their results suggested that rational expectations are not the correct way to model agents' expectations.{{Citation needed|date=November 2011}} They organized a conference on the issue in 1981 and published the proceedings in a 1983 book.<ref>"Individual Forecasting and Aggregate Outcomes" (see [[#Bibliography|Bibliography]])</ref> However, as rational expectations were becoming the standard in macroeconomics, the book was initially received with hostility and was largely ignored. The [[financial crisis of 2007–2008]], along with the failure of rational expectations models to predict it, led to a renewed interest in the work.<ref name = "autobio"/>
+
+==Research in 1980s==
+In 1982, he was appointed the McVickar Professor of Political Economy at Columbia. During the early 1980s, he wrote an introductory textbook synthesizing contemporary economics knowledge. The book, ''Political Economy'', was published in 1985 but had limited classroom adoption.<ref>{{cite journal |last1=Weinstein |first1=Michael M. |title=Review of Political Economy: An Introductory Text, by Edmund S. Phelps |journal=Journal of Economic Perspectives |date=Fall 1987 |volume=1 |issue=2 |pages=179–182 |doi=10.1257/jep.1.2.179 }}</ref>
+
+In the 1980, Phelps increased collaboration with European universities and institutions, including [[Banca d'Italia]] (where he spent most of his 1985–86 sabbatical and Observatoire français des conjectures économiques (OFCE). He became interested in the puzzle of the persistent high unemployment in Europe despite no pause in inflation and published on the subject with Jean-Paul Fitoussi (the director of OFCE).<ref>Fitoussi, Jean-Paul and Edmund S. Phelps (1988). ''The Slump in Europe: Open Economy Theory Reconstructed''. Basil Blackwell.</ref> Further study led Phelps to believe that it is not a transitory phenomenon but the effect of changes in equilibrium unemployment.{{Citation needed|date=November 2011}} During the following years, Phelps tried to build a theory to determine [[Exogenous and endogenous variables|endogenously]] the natural rate of unemployment. He published partial research results in a 1994 book, ''Structural Slumps: The Modern Equilibrium Theory of Employment, Interest and Assets''. Phelps also collaborated closely with Luigi Paganetto at the [[University of Rome Tor Vergata]] and, between 1988 and 1998, as co-organizers of the [[Villa Mondragone]] International Seminar.
+
+==Research in 1990s==
+In 1990 Phelps took part in a mission from the new [[EBRD]] to [[Moscow]], where he and [[Kenneth Arrow]] designed a proposal for the reform of the [[Soviet Union]].<ref>Phelps, Edmund S. and Kenneth J. Arrow (1991). "Proposed Reforms of the Economic System of Information and Decision in the USSR: Commentary and Advice". ''Rivista di Politica Economica'' 81</ref> After the EBRD was established, he became a member of its Economic Advisory Board, where he stayed until 1993. From his work at EBRD and collaboration with his former student, Roman Frydman, Phelps developed a strong interest in [[Eastern Europe]]'s [[transition economy|transition economies]].
+
+Over the late 1980s and the early 1990s, Phelps created a new non-monetary theory of employment in which business asset values drive the natural rate. The theory, first fully set out in his book ''Structural Slumps'' (1994), explains Europe's slump without disinflation in the 1980s: the elevation of the world real rate of interest, declining opportunities for continuing technological catching up and the mushrooming social wealth granted by Europe's emerging welfare state play the main causal roles. Two sequel papers in 2000 and 2001 on the theory of 'structural booms' explained US inflationless expansion in the late 1990s and claimed its transience.{{Citation needed|date=November 2011}} His papers develop the thesis that the great economic swings experienced by the West in the past century not only originate in non-monetary shocks but also operate fundamentally by non-monetary mechanisms. This book, as well as subsequent papers, argued that the fluctuation of unemployment rates in the United States, the United Kingdom, and France stemmed from the accumulation of wealth with minimal investment.<ref>''[http://www.columbia.edu/~esp2/ Edmund Phelps Home Page]''. Columbia University</ref>
+
+In the mid-1990s, his research turned to what he called [[economic inclusion]]. He published in 1997 a book for the general public, ''Rewarding Work'' about the causes and cures of the joblessness and low wages among disadvantaged workers.
+
+==Current focus==
+Phelps's current work is about the benefits and sources of a country's structural dynamism: the enterprise and creativity of entrepreneurs, the skill of financiers in selecting and supporting the best projects, and the knowledge managers draw upon in evaluating and making use of new methods and products.<ref>{{cite journal |last1=Phelps |first1=Edmund S. |title=The Dynamism of Nations: Toward a Theory of Indigenous Innovation |journal=Capitalism and Society |date=2017 |volume=12 |issue=1 |publisher=Social Science Research Network |language=en|ssrn=2963105 }}</ref> Every dynamic economy has its doldrums and even [[wikt:torpid|torpid]] economies may rise, perhaps with delay, to an extraordinary opportunity. However, great dynamism, he argues, brings advantages in virtually every dimension of economic performance, not just in productivity. For Phelps, the challenges presented in a creative and evolving business sector provide most people with their main vehicle for the exploration, exercise, and development of their talents.<ref name="Mass Flourishing">{{cite book |last1=Phelps |first1=Edmund |title=Mass Flourishing: How Grassroots Innovation Created Jobs, Challenge, and Change |publisher=Princeton University Press |isbn=9780691165790 |pages=392 |url=https://press.princeton.edu/titles/10058.html|date=March 22, 2015 }}</ref>
+
+In the already-advanced economies, that is perhaps the best reason that policy must aim to build a business sector of high dynamism and broad inclusion. The research task is to identify the institutions that are pathways to dynamism and the institutions that are obstructions.
+
+Phelps's own research on dynamism began at the European Bank for Reconstruction and Development in 1990 and 1992–93, where he worked on the theory of capitalism and issues of mass privatization in Eastern Europe. Later in the decade, he turned to studying a range of economic institutions in Western Europe and the United States. He conducted research with a focus on the Italian economy as Senior Advisor to Italy in Europe of the Consiglio Nazionale delle Ricerche from 1997 to 2000.
+
+In 2001, he and Roman Frydman founded the Center on Capitalism & Society at Columbia (now a unit of Arts and Sciences) to promote and conduct research on capitalism.
+
+In 2008, writing in the wake of the [[Great Recession]], Phelps criticized the "false" models of neoclassical economics, but he also wrote with skepticism regarding [[2008–2009 Keynesian resurgence|Keynesian resurgence]]:<ref>{{cite web| work= The [[Financial Times]] | title= Keynes had no sure cure for slumps | date= November 4, 2008 | last= Phelps| first=Edmund| url= http://www.columbia.edu/~esp2/Keynes%20had%20no%20sure%20cure%20for%20slumps.pdf| publisher= [[Columbia University]] |access-date=2011-11-26}}</ref>
+<blockquote>What theory can we use to get us out of the impending slump quickly and reliably? To use the 'new classical' theory of fluctuations begun at Chicago in the 1970s – the theory in which the "risk management" models are embedded – is unthinkable, since it is precisely the theory falsified by the asset price collapse. 
+The thoughts of some have turned to [[John Maynard Keynes]]. His insights into uncertainty and speculation were deep. Yet his employment theory was problematic and the 'Keynesian' policy solutions are questionable at best....At the end of his life Keynes wrote of 'modernist stuff, gone wrong and turned sour and silly'. He told his friend Friedrich Hayek he intended to re-examine his theory in his next book. He would have moved on. The admiration we all have for Keynes's fabulous contributions should not sway us from moving on.</blockquote>
+
+Phelps severely criticizes the economic policy of U.S. president [[Donald Trump]]. It feels "like economic policy at a time of fascism [...]. The leader controls the economy and tells the companies how things are going to be done."<ref>{{Cite news | url=http://www.spiegel.de/wirtschaft/soziales/edmund-phelps-ueber-donald-trump-wirtschaftspolitik-wie-im-faschismus-a-1131995.html | title=Nobelpreisträger Phelps über Donald Trump: "Wirtschaftspolitik wie im Faschismus"| newspaper=Spiegel Online| date=January 27, 2017}}</ref>
+
+In June 2020, he and other [[Nobel Memorial Prize in Economic Sciences|Nobel laureates in Economics]], as well as architects, chefs and leaders of international organizations, signed the [[International Appeal of 7 June 2020|appeal]] in favour of the [[purple economy]] (“Towards a cultural renaissance of the economy”), published in ''[[Corriere della Sera]]'',<ref name=corriere.it20200607>{{cite web|language=it|url=https://www.corriere.it/cultura/20_giugno_07/per-rinascimento-culturale-dell-economia-dcacbef2-a803-11ea-b900-84da2a1f22a9.shtml|title=Per un rinascimento culturale dell'economia|date=7 June 2020|access-date=22 June 2020|work=[[Corriere della Sera]]}}</ref> ''[[El País]]''<ref name=elpais.com20200607>{{cite web|language=es|url=https://elpais.com/cultura/2020-06-07/por-un-renacimiento-cultural-de-la-economia-el-manifiesto-de-una-veintena-de-intelectuales-para-una-nueva-epoca.html|title=Por un renacimiento cultural de la economía|date=7 June 2020|access-date=22 June 2020|work=[[El País]]}}</ref> and ''[[Le Monde]]''.<ref name=lemonde.fr20200607>{{cite web|language=fr|url=https://www.lemonde.fr/idees/article/2020/06/07/en-depit-de-son-importance-croissante-le-culturel-n-a-pas-suffisamment-ete-pense-comme-un-ecosysteme_6042057_3232.html|title=En dépit de son importance croissante, le culturel n'a pas suffisamment été pensé comme un écosystème|date=7 June 2020|access-date=22 June 2020|work=[[Le Monde]]}}</ref>
+
+==Personal life==
+In 1974 Phelps married Viviana Montdor.<ref>{{cite web| publisher= Nobelprize.org| url=http://nobelprize.org/nobel_prizes/economics/laureates/2006/phelps-autobio.html|title=Edmund S. Phelps – Autobiography}}</ref> Publications have noted that despite his many accomplishments, Phelps does not own a car.<ref>''Stop Acting Rich and Live Like a Millionaire'', Thomas Stanley, 2009, John Wiley & Sons, Kindle location 2885</ref>
+
+==Honors and awards==
+In 1981 Phelps was elected to become a member of the National Academy of Science in the USA. In 2006, he was awarded the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel, referred to, colloquially, as the Nobel Prize in Economics for "his analysis of inter-temporal tradeoffs in macroeconomic policy." In announcing the prize, the [[Royal Swedish Academy of Sciences]] said Phelps's work had "deepened our understanding of the relation between short-run and long-run effects of economic policy."<ref>{{cite press release | title= Short run – Long run | url= http://nobelprize.org/nobel_prizes/economics/laureates/2006/press.html | publisher=The Royal Swedish Academy of Sciences | date=October 9, 2006| access-date=2008-08-17}}</ref>
+
+In the year 2000, Phelps was made a Distinguished Fellow of the [[American Economic Association]]. In February 2008, he was named Chevalier of France's [[List of foreign recipients of the Légion d'Honneur|Legion of Honor]]. Four months later he was given the Global Economy Prize of [[Kiel Institute for the World Economy]].
+
+Furthermore, Phelps received honorary degrees from several renowned institutions acknowledging his academic work. In 1985, he was awarded an honorary degree from his alma mater, [[Amherst College]]. In June 2001, he received an honorary doctorate from the [[University of Mannheim]] and, in October 2003, from [[Universidade Nova de Lisboa]]; in July 2004, from [[Paris Dauphine University]] and in October 2004, from the [[University of Iceland]]. He also holds honorary doctorates from the [[Institut d'Etudes Politiques de Paris]] (2006), the [[University of Buenos Aires]] (2007), [[Tsinghua University]] (2007), and the [[Université libre de Bruxelles]] (2010).<ref>{{Cite web | url=http://www.columbia.edu/~esp2/ | title=Edmund Phelps Home Page}}</ref> From 2010 to 2016, he served as Dean of New Huadu Business School at [[Minjiang University]] in [[Fuzhou]].<ref name="Curriculum Vitae">{{cite web |last1=Phelps |first1=Edmund |title=Curriculum Vitae |url=https://capitalism.columbia.edu/files/ccs/person/cv/2019/cv_january_16_2019.pdf |website=Center on Capitalism and Society |access-date=11 February 2019}}</ref>
+
+==Bibliography==
+{{refbegin|indent=yes|30em}}
+*{{cite journal | author=Phelps, Edmund S. | title=The Golden Rule of Capital Accumulation | journal=American Economic Review | year=1961 | volume=51 | pages=638–43}}
+*{{cite book | author=Phelps, Edmund S. | title=Golden Rules of Economic Growth: Studies of Efficient and Optimal Investment | year=1966 | publisher=[[W. W. Norton]], New York | isbn= 0-393-09708-0}}
+*{{cite journal | author=Phelps, Edmund S. | title=Models of Technical Progress and the Golden Rule of Research | journal=Review of Economic Studies | year=1966 | volume=33 | pages=133–46 | doi=10.2307/2974437 | issue=2 | publisher=The Review of Economic Studies Ltd. | jstor=2974437| url=http://cowles.yale.edu/sites/default/files/files/pub/d01/d0176.pdf }}
+*{{cite journal | author=Phelps, Edmund S. | title=Money-Wage Dynamics and Labor Market Equilibrium | journal=Journal of Political Economy | year=1968 | volume=76 | issue=S4 | pages=678–711 | doi=10.1086/259438| s2cid=154427979 }}
+*{{cite book | author=Phelps, Edmund S. | title=Microeconomic Foundations of Employment and Inflation Theory | year=1970 | publisher=W. W. Norton, New York | isbn= 0-393-09326-3|display-authors=etal}}
+*{{cite book | author=Phelps, Edmund S. | title=Inflation Policy and Unemployment Theory | year=1972 | publisher=W. W. Norton, New York | isbn=0-393-09395-6 | url-access=registration | url=https://archive.org/details/inflationpolicyu0000phel }}
+*{{cite journal | author=Phelps, Edmund S. | title=The Statistical Theory of Racism and Sexism | journal=American Economic Review | year=1972 | volume=62 | pages=659–61|url=https://www.researchgate.net/publication/4728049}}
+*{{cite journal |author1=Phelps, Edmund S. |author2=John B. Taylor | title=Stabilizing Powers of Monetary Policy under Rational Expectations | journal=Journal of Political Economy | year=1977 | volume=85 | issue=1 | pages=163–90 | doi=10.1086/260550|s2cid=14729818 }}
+*{{cite book | author=Phelps, Edmund S., Roman Frydman | title=Individual Forecasting and Aggregate Outcomes: 'Rational Expectations' Examined | year=1983 | publisher=[[Cambridge University Press]] | isbn= 0-521-25744-1|display-authors=etal}}
+*{{cite book | author=Phelps, Edmund S. | title=Seven Schools of Macroeconomic Thought | year=1990 | publisher=[[Oxford University Press]] | isbn= 978-0-19-828333-1}}
+*{{cite book | author=Phelps, Edmund S. | title=Structural Slumps: The Modern Equilibrium Theory of Employment, Interest and Assets | year=1994 | publisher=[[Harvard University Press]] | isbn=0-674-84373-8 | url-access=registration | url=https://archive.org/details/structuralslumps0000phel }}
+*{{cite book | author=Phelps, Edmund S. | title=Rewarding Work: How to Restore Participation and Self-Support to Free Enterprise | year=1997 | publisher=[[Harvard University Press]] | isbn= 978-0-674-02694-0}}
+*{{cite book | author=Phelps, Edmund S. | title=Designing Inclusion | year=2003 | publisher=Cambridge University Press | isbn= 0-521-81695-5}}
+*{{cite journal | last=Phelps | first=Edmund S. | url= http://www.firstthings.com/article/2009/10/economic-justice-and-the-spirit-of-innovation |title= Economic Justice and the Spirit of Innovation | journal= First Things | date=October 2009}}
+*{{Citation | last=Phelps | first=Edmund S. | contribution = The good life and the good economy: the humanist perspective of Aristotle, the pragmatists and the vitalists, and the economic justice of John Rawls | editor-last1 = Kanbur | editor-first1 = Ravi | editor-last2 = Basu | editor-first2 = Kaushik | editor-link1= Ravi Kanbur | editor-link2 = Kaushik Basu | title = Arguments for a better world: essays in honor of Amartya Sen &#124; Volume I: Ethics, welfare, and measurement | pages = 35–49 | publisher = Oxford University Press | location = Oxford New York | year = 2009 | isbn = 9780199239115 | postscript = .}}
+*{{cite book | author=Phelps, Edmund S. | title=Mass Flourishing: How Grass Roots Innovation Created Jobs, Challenge, and Change | year=2013 | publisher=[[Princeton University Press]] | isbn= 978-0-691-15898-3}}
+{{refend}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikiquote}}
+* [http://www.columbia.edu/~esp2/ Edmund Phelps official webpage] at [[Columbia University]]
+*{{C-SPAN|Edmund Phelps}}
+;Nobel Prize
+* [http://www.columbia.edu/cu/news/06/10/phelps061009.html Professor Edmund S. Phelps Wins 2006 Nobel Prize in Economics], a Columbia University press release
+* {{cite web| title= Edmund Phelps's Contributions to Macroeconomics | archive-url= https://web.archive.org/web/20070103074826/http://nobelprize.org/nobel_prizes/economics/laureates/2006/ecoadv06.pdf | archive-date= 2007-01-03 | url= http://nobelprize.org/nobel_prizes/economics/laureates/2006/ecoadv06.pdf | publisher= nobelprize.org | access-date=2011-11-26}}
+*{{cite news |last1=Uchitelle |first1=Louis |title=American Wins Nobel in Economics |url=https://www.nytimes.com/2006/10/10/business/10nobel.html |access-date=11 February 2019 |work=The New York Times |date=10 October 2006}}
+* {{Nobelprize|name=Edmund S. Phelps}}
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Robert J. Aumann]] | before2 = [[Thomas C. Schelling]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 2006 }}
+{{s-aft | after = [[Leonid Hurwicz]] | after2 = [[Eric S. Maskin]] | after3 = [[Roger B. Myerson]] }}
+{{s-end}}
+
+{{Nobel laureates in economics 2001-2025}}
+{{2006 Nobel Prize winners}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Phelps, Edmund}}
+[[Category:1933 births]]
+[[Category:Living people]]
+[[Category:Economists from New York (state)]]
+[[Category:Amherst College alumni]]
+[[Category:American Nobel laureates]]
+[[Category:Columbia University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Macroeconomists]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Foreign Members of the Russian Academy of Sciences]]
+[[Category:Nobel laureates in Economics]]
+[[Category:People from Evanston, Illinois]]
+[[Category:People from Hastings-on-Hudson, New York]]
+[[Category:University of Pennsylvania faculty]]
+[[Category:Yale University alumni]]
+[[Category:20th-century American writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Economists from Illinois]]

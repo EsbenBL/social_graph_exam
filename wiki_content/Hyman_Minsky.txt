@@ -1,0 +1,128 @@
+{{Short description|American economist}}
+{{Infobox economist
+| school_tradition = [[Post-Keynesian economics]]
+| image = HymanMinsky-1.jpg
+| image_size =
+| caption =
+|birth_name = Hyman Philip Minsky
+| birth_date = {{Birth date|1919|09|23}}
+| birth_place = [[Chicago, Illinois]]
+| death_date = {{Death date and age|1996|10|24|1919|09|23}}
+| death_place = [[Rhinebeck, New York]]
+| nationality = [[United States]]
+| institution =
+| field = [[Macroeconomics]]
+| alma_mater = [[University of Chicago]] ([[Bachelor of Science|B.S.]])<br>[[Harvard University]] ([[Master of Public Administration|M.P.A.]]/[[Doctor of Philosophy|Ph.D.]])
+| influences = [[Henry Calvert Simons|Henry Simons]]<br>[[Karl Marx]]<br>[[Joseph Schumpeter]]<br>[[Wassily Leontief]]<br>[[Michał Kalecki]]<br>[[John Maynard Keynes]]<br>[[Irving Fisher]]<br>[[Abba Lerner]]
+| influenced = [[Laurence Meyer]]<br>[[Paul McCulley]]<br>[[Michael Hudson (economist)|Michael Hudson]]<br>[[Steve Keen]]<br>[[Stephany Griffith-Jones]]<br>[[Paul Krugman]]<br>[[Daniele Archibugi]]<br>[[Lars Pålsson Syll]]<br>[[L. Randall Wray]]<br> [[Ha-Joon Chang]]
+|doctoral_advisors =  [[Joseph Schumpeter]]<br>[[Wassily Leontief]]
+| doctoral_students = [[Mauro Gallegati]]<br>[[L. Randall Wray]]
+| contributions = [[Financial instability hypothesis]]<br>[[Minsky moment]]
+| awards =
+| signature = <!-- file name only -->
+| repec_prefix = f | repec_id = pmi500
+}}
+{{Macroeconomics sidebar}}
+'''Hyman Philip Minsky''' (September 23, 1919 – October 24, 1996) was an [[Americans|American]] [[economist]], a [[professor]] of [[economics]] at [[Washington University in St. Louis]], and a distinguished scholar at the [[Levy Economics Institute]] of [[Bard College]]. His research attempted to provide an understanding and explanation of the characteristics of [[financial crisis|financial crises]], which he attributed to swings in a potentially fragile financial system. Minsky is sometimes described as a [[post-Keynesian economist]] because, in the [[Keynesian]] tradition, he supported some government intervention in financial markets, opposed some of the financial [[deregulation]] policies popular in the 1980s, stressed the importance of the Federal Reserve as a [[lender of last resort]] and argued against the over-accumulation of private [[debt]] in the financial markets.<ref>{{cite news |title=H. P. Minsky, 77, Economist Who Decoded Lending Trends |url=https://www.nytimes.com/1996/10/26/us/h-p-minsky-77-economist-who-decoded-lending-trends.html |first=Louis |last=Uchitelle | author-link = Louis Uchitelle |work=[[New York Times]] |date=October 26, 1996 }}</ref>
+
+Minsky's economic theories were largely ignored for decades, until the [[subprime mortgage crisis]] of 2008 caused a renewed interest in them.{{Citation needed|date=June 2021}}
+
+==Education==
+A native of [[Chicago, Illinois]], Minsky was born into a family of [[Menshevik]] emigrants from [[Belarus]]. His mother, Dora Zakon, was active in the nascent [[trade union]] movement. His father, [[Sam Minsky]], was active in the [[Jewish]] section of the [[Socialist Party USA|Socialist party]] of [[Chicago]].<ref>{{cite book |url=https://books.google.com/books?id=Gi1-hW3cfo4C&pg=PA411 |title=A biographical dictionary of dissenting economists |access-date=2009-11-08 |isbn=9781858985602 |year=2000 |last1=Arestis |first1=Philip |last2=Sawyer |first2=Malcolm C. }}</ref> In 1937, Minsky graduated from [[George Washington High School (New York City)|George Washington High School in New York City]]. In 1941, Minsky received his [[Bachelor of Science|B.S.]] in [[mathematics]] from the [[University of Chicago]] and went on to earn an [[Master of Public Administration|M.P.A.]] and a [[Doctor of Philosophy|Ph.D.]] in [[economics]] from [[Harvard University]], where he studied under [[Joseph Schumpeter]] and [[Wassily Leontief]].
+
+==Career==
+Minsky taught at [[Brown University]] from 1949 to 1958, and from 1957 to 1965 was an Associate Professor of Economics at the [[University of California, Berkeley]]. In 1965 he became Professor of Economics of [[Washington University in St Louis]] and retired from there in 1990.<ref>[http://record.wustl.edu/archive/1996/10-31-96/8447.html Hyman Minsky, professor emeritus of economics]. Washington University in St. Louis.</ref> At the time of his death he was a Distinguished Scholar at the [[Levy Economics Institute|Levy Economics Institute of Bard College]]. He was a consultant to the [[Commission on Money and Credit]] (1957–1961) while at Berkeley.
+
+==Financial theory==
+Minsky proposed theories linking [[financial market]] fragility, in the normal [[:wikt:life cycle|life cycle]] of an [[economy]], with [[speculation|speculative]] [[investment bubble]]s [[Exogenous and endogenous variables|endogenous]] to financial markets. Minsky stated that in [[prosperity|prosperous]] times, when corporate [[cash flow]] rises beyond what is needed to pay off debt, a [[Irrational exuberance|speculative euphoria]] develops, and soon thereafter debts exceed what borrowers can pay off from their incoming revenues, which in turn produces a [[financial crisis]]. As a result of such speculative borrowing bubbles, [[bank]]s and [[lender]]s tighten credit availability, even to companies that can afford [[loan]]s, and the [[economy]] subsequently contracts.
+
+This slow movement of the financial system from stability to fragility, followed by crisis, is something for which Minsky is best known, and the phrase "[[Minsky moment]]" refers to this aspect of Minsky's academic work.<ref>{{Cite news|url=https://www.economist.com/economics-brief/2016/07/30/minskys-moment|title=Minsky's moment|date=2016-07-30|work=The Economist|access-date=2019-06-09|issn=0013-0613}}</ref>
+
+"He offered very good insights in the '60s and '70s when linkages between the financial markets and the economy were not as well understood as they are now," said [[Henry Kaufman]], a Wall Street [[money manager]] and economist. "He showed us that financial markets could move frequently to excess. And he underscored the importance of the [[Federal Reserve]] as a [[lender of last resort]]."<ref name="NY Times obituary">{{cite news| url=https://www.nytimes.com/1996/10/26/us/h-p-minsky-77-economist-who-decoded-lending-trends.html?pagewanted=1 | work=The New York Times | title=H. P. Minsky, 77, Economist Who Decoded Lending Trends | first=Louis | last=Uchitelle | date=October 26, 1996 | access-date=May 4, 2010}}</ref>
+
+Minsky's model of the [[credit (finance)|credit]] system, which he dubbed the "financial instability hypothesis"{{anchor|financial instability hypothesis}} (FIH),<ref name="working_paper">{{cite journal |url=http://www.levy.org/pubs/wp74.pdf |title=The Financial Instability Hypothesis |first=Hyman P. |last=Minsky |journal=Working Paper No. 74 |date=May 1992 |pages=6–8 }}</ref> incorporated many ideas already circulated by [[John Stuart Mill]], [[Alfred Marshall]], [[Knut Wicksell]] and [[Irving Fisher]].<ref>{{cite book |page=14 |title=Manias, Panics, and Crashes |edition=4th |first=Charles P. |last=Kindleberger }}</ref> "A fundamental characteristic of our economy," Minsky wrote in 1974, "is that the financial system swings between robustness and fragility and these swings are an integral part of the process that generates [[business cycle]]s."<ref>{{Cite news|url=http://digitalcommons.bard.edu/hm_archive/275/|title=Our Financial System is Fragile|last=Minsky|first=Hyman P.|date=September 15, 1974|work=Ocala Star Banner|page=5A}}</ref>
+
+Disagreeing with many mainstream economists of the day, he argued that these swings, and the booms and busts that can accompany them, are inevitable in a so-called free [[market economy]] – unless government steps in to control them, through [[financial regulation|regulation]], [[central bank]] action and other tools. Such mechanisms did in fact come into existence in response to crises such as the [[Panic of 1907]] and the [[Great Depression]]. Minsky opposed the [[deregulation]] that characterized the 1980s.
+
+It was at the [[University of California, Berkeley]], that seminars attended by [[Bank of America]] executives{{Citation needed|date=October 2019}} helped him to develop his theories about lending and economic activity, views he laid out in two books, ''John Maynard Keynes'' (1975), a classic study of the economist and his contributions, and ''Stabilizing an Unstable Economy'' (1986), and more than a hundred professional articles.
+
+===Further developments===
+Minsky's theories have enjoyed some popularity, but have had little influence in [[mainstream economics]] or in [[central bank]] policy.
+
+Minsky stated his theories verbally, and did not build mathematical models based on them. Minsky preferred to use interlocking balance sheets rather than mathematical equations to model economies: "The alternative to beginning one's theorizing about capitalist economies by positing utility functions over the reals and production functions with something labeled K (called capital) is to begin with the interlocking balance sheets of the economy."<ref>[https://books.google.com/books?id=yo6-BwAAQBAJ&pg=PA8&lpg=PA8&dq=balance+sheet+vs.+utility+function+%22over+the+reals%22+minsky&source=bl&ots=lZjI6pXkx4&sig=sgQjaEO6Tw4UENwW603jJaKRSQQ&hl=en&sa=X&ei=YuBfVdi2Io2xogTY24PgCw&ved=0CCAQ6AEwAQ#v=onepage&q&f=false Financial Factors in the Economics of Capitalism] by Hyman Minsky in Journal of Financial Services Research 9:197-208 (1995)</ref> Consequently, his theories have not been incorporated into mainstream economic models, which do not include private debt as a factor.
+
+Minsky's theories, which emphasize the [[macroeconomic]] dangers of [[economic bubble|speculative bubbles]] in asset prices, have also not been incorporated into central bank policy. However, in the wake of the [[financial crisis of 2007–2010]] there has been increased interest in policy implications of his theories, with some central bankers advocating that central bank policy include a Minsky factor.<ref>[http://www.frbsf.org/news/speeches/2009/0416.html A Minsky Meltdown: Lessons for Central Bankers], by Janet L. Yellen, President and CEO, Federal Reserve Bank of San Francisco, April 16, 2009</ref>
+
+==Minsky's theories and the subprime mortgage crisis==
+
+===Minsky's financial instability-hypothesis===
+Hyman Minsky's theories about debt accumulation received  revived attention in the media during the [[subprime mortgage crisis]] of the first decade of this century. ''[[The New Yorker]]'' has labelled it "the Minsky Moment".<ref>[http://www.newyorker.com/magazine/2008/02/04/the-minsky-moment John Cassidy, The Minsky Moment. Subprime mortgage crisis and possible recession, New Yorker, February 4, 2008.]</ref><ref>[http://www.finfacts.ie/irishfinancenews/article_1014734.shtml The Credit Crisis: Denial, delusion and the "defunct" American economist who foresaw the dénouement].</ref>
+
+Minsky argued that a key mechanism that pushes an economy towards a crisis is the accumulation of debt by the non-government sector. He identified three types of borrowers that contribute to the accumulation of [[insolvency|insolvent debt]]: [[Hedge (finance)|hedge]] borrowers, [[speculation|speculative]] borrowers, and [[Ponzi]] borrowers.
+
+The "hedge borrower" can make debt payments (covering interest and principal) from current cash flows from investments. For the "speculative borrower", the cash flow from investments can service the debt, i.e., cover the interest due, but the borrower must regularly roll over, or re-borrow, the principal. The "Ponzi borrower" (named for [[Charles Ponzi]], see also [[Ponzi scheme]]) borrows based on the belief that the appreciation of the value of the asset will be sufficient to refinance the debt but could not make sufficient payments on interest or principal with the cash flow from investments; only the appreciating asset value can keep the Ponzi borrower afloat.
+
+If the use of Ponzi finance is general enough in the financial system, then the inevitable disillusionment of the Ponzi borrower can cause the system to seize up: when the bubble pops, i.e., when the asset prices stop increasing, the speculative borrower can no longer refinance (roll over) the principal even if able to cover interest payments. As with a line of [[dominoes]], collapse of the speculative borrowers can then bring down even hedge borrowers, who are unable to find loans despite the apparent soundness of the underlying investments.<ref name="working_paper" />
+
+===Application to the subprime mortgage crisis===
+Economist [[Paul McCulley]] described how Minsky's hypothesis translates to the [[subprime mortgage crisis]].<ref>[http://media.pimco-global.com/pdfs/pdf/GCB%20Focus%20May%2009.pdf?WT.cg_n=PIMCO-US&WT.ti=GCB%20Focus%20May%2009.pdf McCulley-PIMCO-The Shadow Banking System and Hyman Minsky's Economic Journey]</ref> McCulley illustrated the three types of borrowing categories using an analogy from the mortgage market: a hedge borrower would have a traditional [[mortgage loan]] and is paying back both the principal and interest; the speculative borrower would have an [[interest-only loan]], meaning they are paying back only the interest and must refinance later to pay back the principal; and the ponzi borrower would have a [[negative amortization]] loan, meaning the payments do not cover the interest amount and the principal is actually increasing. Lenders only provided funds to ponzi borrowers due to a belief that housing values would continue to increase.
+
+McCulley writes that the progression through Minsky's three borrowing stages was evident as the credit and housing bubbles built through approximately August 2007. Demand for housing was both a cause and effect of the rapidly expanding [[shadow banking system]], which helped fund the shift to more lending of the speculative and ponzi types, through ever-riskier mortgage loans at higher levels of [[financial leverage|leverage]]. This helped drive the housing bubble, as the availability of credit encouraged higher home prices. Since the bubble burst, we are seeing the progression in reverse, as businesses de-leverage, lending standards are raised and the share of borrowers in the three stages shifts back towards the hedge borrower.
+
+McCulley also points out that human nature is inherently pro-cyclical, meaning, in Minsky's words, that "from time to time, capitalist economies exhibit inflations and debt deflations which seem to have the potential to spin out of control. In such processes, the economic system's reactions to a movement of the economy amplify the movement – inflation feeds upon inflation and debt-deflation feeds upon debt-deflation." In other words, people are [[momentum (technical analysis)|momentum]] [[investors]] by nature, not [[value investor]]s. People naturally take actions that expand the high and low points of cycles. One implication for policymakers and regulators is the implementation of counter-cyclical policies, such as contingent capital requirements for banks that increase during boom periods and are reduced during busts.
+
+==Views on John Maynard Keynes==
+In his book ''John Maynard Keynes'' (1975), Minsky criticized the [[neoclassical synthesis]]'  interpretation of ''[[The General Theory of Employment, Interest and Money]]''. He also put forth his own interpretation of the ''General Theory'', one which emphasized aspects that were de-emphasized or ignored by the neoclassical synthesis, like [[Knightian uncertainty]].
+
+==Selected publications==
+* (2013) ''Ending Poverty: Jobs, Not Welfare''. Levy Economic Institute, New York. {{ISBN|978-1936192311}}
+* (2008) [1st. Pub. 1975]. ''John Maynard Keynes''. McGraw-Hill Professional, New York. {{ISBN|978-0-07-159301-4}}
+* (2008) [1st. Pub. 1986]. ''Stabilizing an Unstable Economy''. McGraw-Hill Professional,  New York. {{ISBN|978-0-07-159299-4}}
+* (1982) ''Can "It" Happen Again?''. M.E. Sharpe, Armonk. {{ISBN|978-0-87332-213-3}}
+* (Winter 1981–82) [https://digitalcommons.bard.edu/hm_archive/166/ "The breakdown of the 1960s policy synthesis"]. New York: Telos Press. Archived at Hyman P. Minsky Archive. 166.
+
+==See also==
+* [[2008–2009 Keynesian resurgence]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* Robert Barbera (2009). ''The Cost of Capitalism''. McGraw-Hill Professional. {{ISBN|978-0-07-162844-0}}
+* George Cooper (2008).  ''The Origin of Financial Crises: Central Banks, Credit Bubbles, and the Efficient Market Fallacy''. Vintage; 1st Edition.  {{ISBN|978-0307473455}}
+* Gary Dymski, Gerald Epstein, [[Robert Pollin]] (1993).  ''Transforming the U.S. Financial System: An Equitable and Efficient Structure for the 21st Century (Economic Policy Institute)''.  Routledge.  {{ISBN|978-1563242694}}
+* Steven M. Fazzari, [[Dimitri B. Papadimitriou]] (1992). ''Financial Conditions and Macroeconomic Performance: Essays in Honor of Hyman P.Minsky''. Routledge.  {{ISBN|978-1563240164}}
+* Jannatul Islam (2014).  ''Hyman P. Minsky Hypothesis to Evaluate Credit Crunch''.  LAP LAMBERT Academic Publishing.  {{ISBN|978-3659607707}}
+* Robert Pollin, Gary Dymski (1994).  ''New Perspectives in Monetary Macroeconomics: Explorations in the Tradition of Hyman P. Minsky''.  University of Michigan Press.  {{ISBN|978-0472104727}}
+* Jan Toporowski, Daniela Tavasci (2010).  ''Minsky, Crisis and Development''.  Palgrave Macmillan.  {{ISBN|978-0230235076}}
+* L. Randall Wray (2015).  ''Why Minsky Matters: An Introduction to the Work of a Maverick Economist''. Princeton University Press.  {{ISBN|978-0691159126}}
+
+==External links==
+{{Wikiquote}}
+* [http://www.levy.org/minsky.aspx Hyman Philip Minsky, Distinguished Scholar, The Levy Economics Institute of Bard College, Blithewood, Bard College, Annandale-on-Hudson, New York]
+* [http://ethesis.unifr.ch/theses/downloads.php?file=SchnyderM.pdf Marc Schnyder: ''Die Hypothese finanzieller Instabilität von Hyman P. Minsky''] Thesis, University of Fribourg, Switzerland, (German)
+* [https://www.wsj.com/articles/SB118736585456901047 In Time of Tumult, Obscure Economist Gains Currency]
+* John Cassidy, '[http://www.newyorker.com/talk/comment/2008/02/04/080204taco_talk_cassidy The Minsky Moment'], ''The New Yorker'', 4 February 2008.
+* [http://www.bard.edu/library/archive/minsky/ Minsky Archive]
+* (Available only to subscribers). Stephen Mihm [http://www.boston.com/bostonglobe/ideas/articles/2009/09/13/why_capitalism_fails/ "Why Capitalism fails,"] boston.com (September 13, 2009).
+* [http://www.boston.com/bostonglobe/editorial_opinion/letters/articles/2009/09/20/optimistic_for_a_more_humane_economy/ Optimistic for a more humane economy]
+* '[https://www.economist.com/blogs/freeexchange/2010/01/the_fed_discovers_hyman_minsky The Fed discovers Hyman Minsky'], ''The Economist'', 7 Jan 2010.
+* Thomas I. Palley, [http://monthlyreview.org/100401palley.php "The Limits of Minsky’s Financial Instability Hypothesis as an Explanation of the Crisis,"] Monthly Review, Volume 61, Issue 11 (April 2010).
+* Thomas I. Palley, [http://www.boeckler.de/pdf/p_imk_wp_5_2009.pdf “A Theory of Minsky Super-Cycles and Financial Crises,”] ''Contributions to Political Economy'', 30 (1), 31 – 46.
+
+{{Keynesians}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Minsky, Hyman}}
+[[Category:1919 births]]
+[[Category:1996 deaths]]
+[[Category:People from Chicago]]
+[[Category:Economists from Illinois]]
+[[Category:Post-Keynesian economists]]
+[[Category:Harvard University alumni]]
+[[Category:University of Chicago alumni]]
+[[Category:Washington University in St. Louis faculty]]
+[[Category:American people of Belarusian-Jewish descent]]
+[[Category:20th-century American economists]]
+[[Category:Brown University faculty]]

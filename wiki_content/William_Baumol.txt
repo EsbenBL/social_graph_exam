@@ -1,0 +1,264 @@
+{{short description|American economist}}
+{{Use mdy dates|date=October 2013}}
+{{Infobox economist
+| name              = William Baumol
+| school_tradition  = [[Neo-Keynesian economics]]
+| image             = William_Baumol.jpg
+| caption           = 
+| birth_name        = William Jack Baumol
+| birth_date        = {{Birth date|1922|02|26}}
+| birth_place       = [[Bronx, New York]], U.S.
+| death_date        = {{death date and age|2017|05|04|1922|02|26}}
+| death_place       = [[New York, New York]], U.S.
+| institution       = {{hlist|[[New York University]]|[[Princeton University]]}}
+| field             = [[Microeconomics]], [[industrial organization]], [[entrepreneurship]]
+| alma_mater        = [[City College of New York|College of the City of New York]] (B.Sc. 1942)<br />[[London School of Economics]] (Ph.D. 1949)
+| doctoral_advisor  = [[Lionel Robbins]]
+| academic_advisors = 
+| doctoral_students = [[Lionel W. McKenzie]]<br />[[William G. Bowen]]<br />[[Burton Malkiel]]<br />[[Harold Tafler Shapiro]]<ref name="pubs.aeaweb.org">{{cite news|last=Krueger|first=Alan|title=An Interview with William J. Baumol|journal=Journal of Economic Perspectives|volume=15|year=2001|pages=211–231 [215]|doi=10.1257/jep.15.3.211}}</ref>
+| notable_students  = 
+| influences        = [[Joseph Schumpeter]]<br />[[Arthur Pigou]]<br />[[John Maynard Keynes]]
+| influenced        = [[James Tobin]]<br />[[Jean Tirole]]<br /> [[Ha-Joon Chang]]
+| contributions     = [[Baumol–Tobin model]]<br />[[Baumol's cost disease]]<br />[[Contestable market]] theory<br />Sales revenue maximization model
+| awards            = 
+| signature         = <!-- file name only -->
+| repec_prefix      = e
+| repec_id          = pba92
+}}
+'''William Jack Baumol''' (February 26, 1922 – May 4, 2017) was an American [[economist]]. He was a professor of [[economics]] at [[New York University]], Academic Director of the Berkley Center for Entrepreneurship and Innovation, and Professor Emeritus at [[Princeton University]]. He was a prolific author of more than eighty books and several hundred journal articles.<ref>{{cite web
+|url= http://library.duke.edu/rubenstein/findingaids/baumol/
+|title=Guide to the William J. Baumol Papers
+|access-date=February 3, 2013}}</ref>
+
+Baumol wrote extensively about [[labor market]] and other economic factors that affect the economy. He also made significant contributions to the theory of [[entrepreneurship]] and the [[history of economic thought]]. He is among the most influential economists in the world according to [[RePEc|IDEAS/RePEc]]. He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1971.<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=American Academy of Arts and Sciences|access-date=May 28, 2011}}</ref>
+
+Baumol was considered a candidate for the [[Nobel Prize in Economics]] for 2003,<ref>{{cite web
+|url= http://economics.about.com/cs/nobelwinners/p/baumol.htm
+|title=Nobel Prize Winners in Economics Profiles Index
+|access-date=February 3, 2013}}</ref>
+and [[Thomson Reuters]] cited him as a potential recipient in 2014,<ref>{{cite web
+|url= http://thomsonreuters.com/en/press-releases/2014/thomson-reuters-predicts-2014-nobel-laureates--researchers-forecast-for-nobel-recognition.html
+|title=Thomson Reuters Predicts 2014 Nobel Laureates, Researchers Forecast for Nobel Recognition
+|access-date=April 13, 2016}}</ref> but he died without receiving the prize.
+
+==Early life==
+Baumol was born in the South Bronx. His parents, Solomon and Lillian, were both immigrants from Eastern Europe.<ref name="TimesObit">{{cite news |last=Cohen |first=Patricia |title=William J. Baumol, 95, 'One of the Great Economists of His Generation,' Dies |url=https://mobile.nytimes.com/2017/05/10/business/economy/william-baumol-dead-economist-coined-cost-disease.html? |work=The New York Times |date=2017-05-10}}</ref>
+
+Baumol studied at the [[City College of New York]] and was awarded his bachelor's degree in 1942. After college, he served in the [[U.S. Army]] in [[World War II]] and later worked for the [[United States Department of Agriculture|Department of Agriculture]] as an economist.<ref name="TimesObit"/><ref>{{cite journal |last=Krueger |first=Alan |title=An Interview With William J Baumol |url=http://graphics8.nytimes.com/packages/pdf/health/18baumol-doc.pdf |journal=Journal of Economic Perspectives |volume=15 |year=2001|issue=3 |pages=211–231 |doi=10.1257/jep.15.3.211 |doi-access=free }}</ref>
+
+==Education==
+
+He was initially denied entry to the doctoral studies at the [[London School of Economics]] and was instead admitted to the Master's program. After witnessing his debating skills at Lord [[Lionel Robbins]]' seminars, he was within weeks switched to the doctoral program and also admitted to the faculty as an Assistant Lecturer.<ref name="ReferenceA">{{cite news|last=Krueger|first=Alan|title=An Interview with William J. Baumol|journal=Journal of Economic Perspectives|volume=15|year=2001|pages=211–231 [214]|doi=10.1257/jep.15.3.211}}</ref>
+
+==Teaching==
+
+While a professor at [[Princeton University]] he supervised some graduate students who would eventually become very well-known economists, including [[Burton Malkiel]], [[William G. Bowen]], and [[Harold Tafler Shapiro]].<ref name="pubs.aeaweb.org">{{cite news|last=Krueger|first=Alan|title=An Interview with William J. Baumol|journal=Journal of Economic Perspectives|volume=15|year=2001|pages=211–231 [215]|doi=10.1257/jep.15.3.211}}</ref>
+
+==Research==
+[[File:Baumol - Precursors in mathematical economics, 1968 - 5895607.tif |thumb|''Precursors in mathematical economics'', 1968]]
+Among his better-known contributions are the theory of [[contestable market]]s, the [[Baumol-Tobin model]] of [[transactions demand]] for money, [[Baumol's cost disease]], which discusses the rising costs associated with service industries, Baumol's sales revenue maximization model<ref>{{cite book|title=Business Behavior, Value and Growth|chapter-url=https://archive.org/details/businessbehavior0000baum_v0a8|chapter-url-access=registration|first1=William&nbsp;J.|last1=Baumol |year=1959|publisher=Macmillan|location=New York|chapter=7}}</ref> and [[Pigovian tax|Pigou taxes]].<ref>{{cite journal |last=Baumol |first=W. J. |year=1972 |title=On Taxation and the Control of Externalities |journal=American Economic Review |volume=62 |issue=3 |pages=307–322 |jstor=1803378}}</ref><ref>{{cite journal
+|url= http://swopec.hhs.se/hastef/abs/hastef0532.htm
+|author1=Eliasson, Gunnar  |author2=Magnus Henrekson
+|name-list-style=amp |year=2004
+|title=William J. Baumol: An Entrepreneurial Economist on the Economics of Entrepreneurship
+|journal=Small Business Economics
+|volume= 23
+|number=1
+|pages= 1–7
+|access-date=October 14, 2013
+|doi=10.1023/b:sbej.0000026049.86377.df|s2cid=154386348 }}</ref> His research on [[environmental economics]]<ref>{{cite book|title=The Theory of environmental policy|edition=Second|first1=William&nbsp;J.|last1=Baumol |last2=Oates|first2=Wallace&nbsp;E.|isbn=978-0-521-31112-0|doi=10.2277/0521311128|year=1988|pages=x+299|publisher=Cambridge University Press|location=Cambridge|author3=with contributions by V.&nbsp;S.&nbsp;Bawa and David&nbsp;F.&nbsp;Bradford|chapter=8 Detrimental externalities and nonconvexities in the production set}}</ref> recognized the fundamental role of [[Shapley–Folkman lemma#Non-convex sets in contemporary economics|non-convexities]] in causing [[market failure]]s.<ref>{{cite news|last=Guesnerie|first=Roger|author-link=Roger Guesnerie|title=Pareto optimality in non-convex economies|journal=Econometrica|volume=43|year=1975|pages=1–29 [2]|doi=10.2307/1913410|mr=443877 | jstor = 1913410}} with {{cite news <!-- last=Guesnerie|first=Roger|title=Errata<!-- : "Pareto optimality in non-convex economies" (''Econometrica'' 43 (1975), 1–29) -->|journal=Econometrica |volume=43|year=1975|number=5–6|page=1010|doi=10.2307/1911353|mr=443878 | jstor = 1911353}} <p> Page 73 (and for other contributions of Baumol pages&nbsp;42,&nbsp;68, and&nbsp;155): {{cite book|last=Starrett|first=David&nbsp;A.|title=Foundations of public economics|series=Cambridge economic handbooks|year=1988|publisher=Cambridge University Press|location=Cambridge|url=https://books.google.com/books?id=R35yljdyyIkC&q=nonconvex+OR+nonconvexities&pg=PR11|isbn=978-0-521-34801-0}} </p> <p>Non-convexities also appear in Baumol's theory of contestable markets: Pages 179–181: {{cite book|last=Salanié|first=Bernard|title=Microeconomics of market failures|edition=English translation of the (1998) French ''Microéconomie: Les défaillances du&nbsp;marché'' (Economica, Paris)|year=2000|publisher=MIT&nbsp;Press|location=Cambridge,&nbsp;MA|isbn=978-0-262-19443-3}} </p><p>page 88: {{cite book|last=Laffont|first=Jean-Jacques|author-link=Jean-Jacques Laffont|year=1988|chapter=3 Nonconvexities <!-- Not "Non–convexities"  -->|title=Fundamentals of public economics|chapter-url=https://archive.org/details/fundamentalsofpu0000laff|publisher=MIT|isbn=978-0-262-12127-9|chapter-url-access=registration}}</p></ref>
+
+William Baumol also contributed to the transformation of the field of [[finance]], and published contributions to the areas of efficiency of [[capital markets]], [[portfolio theory]], and [[capital budgeting]].<ref>{{cite book|title=Chapter 11, William Baumol and the Development of the Field of Finance, in Prices, Competition and Equilibrium: Essays in Honour of William J Baumol|first1=Burton|last1=Malkiel |year=1986|publisher=Oxford|chapter=11 |isbn=9780860030690|chapter-url=https://books.google.com/books?id=GqAOisFfgYYC&q=William+Baumol+and+the+Development+of+the+Field+of+Finance%2C+in+Prices%2C+Competition+and+Equilibrium&pg=PA214 }}</ref>
+
+===Entrepreneurship===
+The place of the disruptive innovations and innovative entrepreneurs in traditional economic theory (which describes many efficiency-based ratios assuming uniform outputs) presents theoretic quandaries. Baumol contributed greatly to this area of economic theory. The 2006 Annual Meetings of the [[American Economic Association]] held a special session in his name, and honoring his many years of work in the field of entrepreneurship and innovation,<ref name="Econ">
+{{cite news | title = Searching for the invisible man | newspaper = The Economist | pages = 67 | date = Mar 9, 2006 | url = https://www.economist.com/node/5601890 |access-date=23 December 2012 }}</ref> where 12 papers on [[entrepreneurship]] were presented.<ref>{{cite web
+|url= http://www.aeaweb.org/annual_mtg_papers/2006papers.html
+|title= Annual meeting allied social science associations
+|work=2006 ASSA Conference
+|publisher=The American Economic Association
+|date=January 8, 2006
+|access-date=August 5, 2011}}</ref>
+
+The ''Baumol Research Centre for Entrepreneurship Studies'' at [[Zhejiang Gongshang University]] is named after William Baumol.<ref>{{citation
+|url=http://gsgl.zjgsu.edu.cn/jsfw/ArticleShow.asp?bookid=54 | title=Baumol Research Centre for Entrepreneurship Studies in ZJGSU}}</ref>
+
+In 2003, Baumol received the [[Global Award for Entrepreneurship Research]]<ref>{{cite journal
+|url=http://www.e-award.org/wfiles/The%20Global%20Award%20for%20Entrepreneurhsip.pdf
+|title=The Global Award for Entrepreneurship Research
+|author1=Magnus Henrekson |author2=Anders Lundstrom |journal=Small Bus Econ
+|year=2009
+|issue=1
+|pages=1–14
+|doi= 10.1007/s11187-008-9141-y
+|volume=32|s2cid=10265169
+|doi-access=free
+}}</ref> "[f]or his persistent effort to give the entrepreneur a key role in mainstream economic theory, for his theoretical and empirical studies of the nature of entrepreneurship, and for his analysis of the importance of institutions and incentives for the allocation of entrepreneurship."<ref>{{cite web
+|url= http://www.e-award.org/web/2003_William_J_Baumol_2.aspx
+|title=2003 Award Winner William J. Baumol
+|date=May 2003
+|publisher=Global Award for Entrepreneurship Research
+|access-date=August 5, 2011}}</ref>
+
+The British news magazine, ''[[The Economist]]'' published an article about William Baumol and his lifelong work to develop a place in economic theory for the [[entrepreneur]] (March 11, 2006, pp 68), much of which owes its genesis to [[Joseph Schumpeter]]. They note that traditional [[microeconomic]] theory normally holds a place for 'prices' and 'firms' but not for that (seemingly) important engine of innovation, the entrepreneur. Baumol is given credit for helping to remedy this shortcoming: "Thanks to Mr. Baumol's own painstaking efforts, economists now have a bit more room for entrepreneurs in their theories."
+
+William Baumol's book, ''The Microtheory of Innovative Entrepreneurship''<ref>{{cite book
+|url= http://press.princeton.edu/titles/9216.html
+|title=The Microtheory of Innovative Entrepreneurship
+|date=May 2010
+|publisher=Princeton University Press
+|isbn=9780691145846
+}}</ref> is the first formal theoretical analysis of the role of innovative entrepreneurs.
+
+==Textbooks==
+Baumol wrote several textbooks in economics, including an introductory textbook with [[Alan Blinder]] titled ''Macroeconomics: Principles and Policy''.<ref>{{cite web
+|url= http://www.cengage.com/search/productOverview.do?Ntt=1936899377546114351853417090916283072&N=4294950577+4294959475&Ntk=P_EPI
+|title=Macroeconomics: Principles and Policy
+|date=2012
+|publisher=Cengage
+}}</ref> His economics&nbsp;textbook on [[operations&nbsp;research]] was internationally well-received:{{citation needed|date=April 2020}}
+
+<blockquote>In the 1960s and 1970s, nearly every economics department offered a course in operations&nbsp;research methods in economics, and the usual textbook used was ''Economic&nbsp;Theory and Operations&nbsp;Analysis'' by W.&nbsp;J.&nbsp;Baumol. An entire generation of economics&nbsp;students was familiar with this book ....<ref>{{cite book|title=Computational Economics: Economic Modeling with Optimization Software |last1=Thompson|first1=Gerald&nbsp;L.|author-link=Gerald L. Thompson|last2=Thore|first2=Sten|isbn=0894262017|year=1992|publisher=Scientific Press
+|location=[[South San Francisco, California]]|pages =xii+352 [vii]}}</ref></blockquote>
+
+==Professional and philanthropic interests==
+Baumol was a trustee of [[Economists for Peace and Security]]. Baumol was known for his interests in the economics of art, including the economics of the performing arts.<ref name="death"/>
+
+==Death==
+Baumol died on May 4, 2017 at the age of 95.<ref name="death">{{cite web|url=https://www.vox.com/new-money/2017/5/4/15547364/baumol-cost-disease-explained|title=William Baumol, whose famous economic theory explains the modern world, has died|website=[[Vox (website)|Vox]]|access-date=May 4, 2017|date=May 4, 2017|author=Timothy B. Lee}}</ref><ref>https://www.washingtonpost.com/national/william-baumol-economist-who-found-logic-in-rising-health-care-prices-dies-at-95/2017/05/05/25439850-3108-11e7-9534-00e4656c22aa_story.html</ref>
+
+==Major publications==
+{{unreferenced section|date=May 2017}}
+* "Community Indifference", 1946, ''RES''
+* "A Community Indifference Map: A construction", 1949, ''RES''.
+* "A Formalization of Mr. Harrod's Model", 1949, ''EJ''.
+* "The Analogy between Producer and Consumer Equilibrium Analysis", with Helen Makower, 1950, ''Economica''.
+* ''Economic Dynamics'', with R. Turvey, 1951.
+* "The Transaction Demand for Cash: An inventory-theoretic approach", 1952, ''QJE''.
+* "The Classical Monetary Theory: The outcome of the discussion", with G.S. Becker, 1952, ''Economica''.
+* ''Welfare Economics and the Theory of the State'', 1952.
+* "Firms with Limited Money Capital", 1953, ''Kyklos''.
+* ''Economic Processes and Policies'', with L.V. Chandler, 1954.
+* "More on the Multiplier Effect of a Balanced Budget", with M.H. Peston, 1955, ''AER''.
+* "Acceleration without Magnification", 1956, ''AER''.
+* "Variety in Retailing", with E.A. Ide, 1956 ''Management Science''.
+* "Speculation, Profitability and Stability", 1957, ''REStat''.
+* "Activity Analysis in One Lesson", 1958, ''AER''.
+* "On the Theory of Oligopoly", 1958, ''Economica''.
+* "Topology of Second Order Linear Difference Equations with Constant Coefficients", 1958, ''Econometrica''.
+* "The Cardinal Utility which is Ordinal", 1958, ''EJ''.
+* ''Business Behavior, Value and Growth'', 1959.
+* "Integer Programming and Pricing", with R.E. Gomory, 1960, ''Econometrica''.
+* ''Economic Theory and Operations Analysis'', 1961.
+* "What Can Economic Theory Contribute to Managerial Economics?", 1961, ''AER''.
+* "Pitfalls in Contracyclical Policies: Some tools and results", 1961, ''REStat''.
+* "The Theory of Expansion of the Firm", 1962, ''AER''.
+* "Stocks, Flows and Monetary Theory", 1962, ''QJE''.
+* "An Expected Gain-Confidence Limit Criterion for Portfolio Selection", 1963, ''Management Science''.
+* "Rules of Thumb and Optimally Imperfect Decisions", with R. E. Quandt, 1964, American Economic Review, 54, p.&nbsp;23–46
+* "Decomposition, Pricing for Decentralization and External Economics", with T.Fabian, 1964, ''Management Science''.
+* "On the Performing Arts: the anatomy of their economic problems", with W.G. Bowen, 1965, ''AER''.
+* "Investment and Discount Rates Under Capital Rationing", with R.E.Quandt, 1965, ''EJ''.
+* "Informed Judgement, Rigorous Theory and Public Policy", 1965, ''Southern EJ''.
+* ''The Stock Market and Economic Efficiency'', 1965.
+* ''Performing Arts: the economic dilemma'', 1966.
+* "The Ricardo Effect in Point-Input, Point-Output Case", 1966, ''Essays in Mathematical Economics in Honor of Oskar Morgenstern''.
+* "Macroeconomics of Unbalanced Growth: The anatomy of urban crisis", 1967, ''AER''.
+* "Calculation of Optimal Product and Retailer Characteristics", 1967, ''JPE''.
+* "The Firm's Optimal Debt-Equity Combination and the Cost of Capital", with B.G. Malkiel, 1967, ''QJE''.
+* "Error Produced by Linearization in Mathematical Programming", with R. Bushnell, 1967, ''Econometrica''.
+* "The Dual of Nonlinear Programming and its Economic Interpretation", with [[Michel Balinski|M.L.Balinski]], 1968, ''RES''.
+* "Entrepreneurship in Economic Theory", 1968, May, ''American Economic Review''
+* "On the Social Rate of Discount", 1968, ''AER''.
+* "On the Discount Rate for Public Projects", 1969, ''Analysis and Evaluation of Public Expenditures''.
+* "Input Choices and Rate-of-Return Regulation: An overview of the discussion", with A.K.Klevorick, 1970, ''Bell JE''.
+* "Optimal Departures from Marginal Cost Pricing", with D.F. Bradford, 1970, ''AER''.
+* "The Economics of Athenian Drama", 1971, ''QJE''.
+* ''Environmental protection, International Spillovers and Trade'', 1971.
+* "On the Economics of the Theatre in Renaissance London" with Mary Oates, 1972, ''Swedish JE''.
+* "The Dynamics of Urban Problems and its Policy Implications", 1972, in Preston and Corry, editors, ''Essays in Honor of Lord Robbins''.
+* "Taxation and the Control of Externalities", 1972, ''AER''.
+* "Detrimental Externalities and Non-Convexity of the Production Set", with D.F. Bradford, 1972, ''Economica''.
+* "The Transformation of Values: What Marx 'Really' Meant", 1974, ''JEL''.
+* ''The Theory of Environmental Policy'', with W.E.Oates, 1975.
+* ''Economics, Environmental Policy and Quality of Life'', with W.E.Oates and S.A. Batey Blackman 1979.
+* ''Contestable Markets and the Theory of Industry Structure'', with J.C. Panzar and R.D. Wilig, 1982
+* "Contestable Markets: An Uprising in the Theory of Industry Structure", 1982, "AER".
+* ''Microtheory: Applications and origins'', 1986
+* ''Superfairness: Application and theory'', with D. Fischer, 1986
+* "The Optimal Cash Balance Proposition: Maurice Allais' Priority", with J. Tobin, 1989, ''JEL''
+* ''Productivity and American Leadership: The long view'', with S.A. Batey Blackman and E.N. Wolff, 1989.
+* ''Entrepreneurship: Productive, Unproductive and Destructive'', Journal of Political Economy, Vol. 98(3), pp.&nbsp;893–921, 1990
+* ''Perfect Markets and Easy Virtue: Business ethics and the invisible hand'', with S.A. Batey Blackman, 1992
+* ''Entrepreneurship, Management and the Structure of Profit'', 1993.
+* ''The Free Market Innovation Machine: Analyzing the Growth Miracle of Capitalism'', 2002.
+* ''Good Capitalism, Bad Capitalism, and the Economics of Growth and Prosperity,'' co-authored with Robert Litan and Carl J. Schramm, 2007
+* ''The Cost Disease: Why Computers get Cheaper and Health Care Doesn't'', 2012 https://yalebooks.yale.edu/book/9780300198157/cost-disease
+
+==Positions and awards==
+{{unreferenced section|date=May 2017}}
+* William Baumol was President of the [[American Economic Association]] for 1981.
+* 1953 Fellow, Econometric Society
+* 1957–58 Guggenheim Fellow
+* 1960–70 Trustee, Rider College
+* 1965 Honorary LL.D, Rider College (Trustee Emeritus)
+* 1965–66 Ford Faculty Fellowship
+* 1970 Honorary Fellow, [[London School of Economics]]
+* 1971 Honorary Doctorate, Stockholm School of Economics
+* 1973 Honorary Doctor of Humane Letters, Knox College
+* 1973 Honorary Doctorate, University of Basel
+* 1975 John R. Commons Award, [[Omicron Delta Epsilon]]
+* 1975 Townsend Harris Medal, Alumni Association of the City College of New York
+* 1982 Distinguished Fellow, American Economic Association
+* 1984 Distinguished Member, Economic Association of Puerto Rico
+* 1986 Winner, Assoc. of American Publishers Award for Best Book in Business, Management and Economics, ''Superfairness: Applications and Theory''
+* 1987 Recipient, Frank E. Seidman Distinguished Award in Political Economy
+* 1988 Joseph Douglas Green 1895 Professor of Economics, Princeton University
+* 1989 Winner, Assoc. of Am. Publishers Annual Awards for Excellence in Publishing, Honorable Mention in Social Sciences, ''Productivity and American Leadership: The Long View''
+* 1992 Recipient, First Senior Scholar in the Arts and Sciences Award, New York University
+* 1996 Honorary Degree, University of Limburg, Maastricht, Netherlands
+* 1996 Honorary Professorship, University of Belgrano, Buenos Aires, Argentina
+* 1999, Honorary Doctor of Humane Letters, Princeton University
+* 2003 Winner of the Global Award for Entrepreneurship Research, the Swedish Entrepreneurship Forum (Entreprenörskapsforum), the Research Institute of Industrial Economics (IFN) and the Swedish Agency for Economic and Regional Growth (Tillväxtverket), Stockholm, Sweden
+
+==See also==
+* [[Baumol–Tobin model]]
+* [[Baumol's cost disease]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikiquote}}
+* [http://www.econ.nyu.edu/dept/vitae/baumol.htm Baumol home page]
+* [https://web.archive.org/web/20091229024912/http://faculty.washington.edu/latsch/SISAF444_Baumol_Entrepreneurship.pdf Entrepreneurship: Productive, Unproductive, and Destructive]
+* [http://blisty.cz/aut/920/art.html The discrimination of blacks has increased the number of jazz composers] – An interview with Baumol published in the Czech weekly Respekt and daily Blisty in 2003
+
+{{Keynesians}}
+{{Presidents of the American Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Baumol, William}}
+[[Category:1922 births]]
+[[Category:2017 deaths]]
+[[Category:Innovation economists]]
+[[Category:Writers from New York City]]
+[[Category:Economists from New York (state)]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Environmental economists]]
+[[Category:Historians of economic thought]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:Cultural economists]]
+[[Category:Cultural economics]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Microeconomists]]
+[[Category:New York University faculty]]
+[[Category:Neo-Keynesian economists]]
+[[Category:Presidents of the American Economic Association]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:United States Army personnel of World War II]]
+[[Category:Corresponding Fellows of the British Academy]]

@@ -1,0 +1,73 @@
+{{short description|American economist}}
+{{refimprove|date=March 2010}}
+
+{{Infobox officeholder
+|name         = Richard N. Cooper
+|office       = Chair of the [[National Intelligence Council]]
+|president    = [[Bill Clinton]]
+|term_start   = June 1, 1995
+|term_end     = January 1997
+|predecessor  = [[Christine Williams (intelligence)|Christine Williams]]
+|successor    = [[John C. Gannon]]
+|office1      = [[Under Secretary of State for Economic Growth, Energy, and the Environment|Under Secretary of State for Economic Affairs]]
+|president1   = [[Jimmy Carter]]
+|term_start1  = April 8, 1977
+|term_end1    = January 19, 1981
+|predecessor1 = [[William D. Rogers]]
+|successor1   = [[Myer Rashish]]
+|office2       =Acting [[United States Secretary of State|Secretary of State]]
+|president2      =[[Jimmy Carter]]
+|term_start2     = May 3, 1980
+|term_end2     = May 3, 1980
+|predecessor2     = [[David D. Newsom]]
+|successor2       = David D. Newsom
+|birth_date   = {{birth date|1934|6|14}}
+|birth_place  = 
+|death_date   = {{death date and age|2020|12|23|1934|6|14}}
+|death_place  = 
+|alma_mater   = [[Oberlin College]]<br>[[London School of Economics]]<br>[[Harvard University]]
+}}
+
+'''Richard Newell Cooper''' (June 14, 1934 – December 23, 2020)<ref>{{cite book|url=https://books.google.com/books?id=ZcMgAAAAIAAJ&q=%22Cooper,+Richard+Newell%22+AND+%221934%22|title=The International Authors and Writers Who's who|first=Adrian|last=Gaster|date=23 July 1977|publisher=International Biographical Centre|isbn=9780900332456|via=Google Books}}</ref><ref>{{cite web |last1=Frankel |first1=Jeffrey |title=Remembering Richard Cooper |url=http://www.jeffrey-frankel.com/2020/12/24/in-memory-of-richard-cooper/ |website=Jeffrey Frankel's Blog |access-date=December 26, 2020 |date=December 24, 2020}}</ref><ref name="Harvard">{{cite web |last1=Aggarwal-Schifellite |first1=Manisha |title=Richard Cooper, cutting-edge economist, dies at 86 |url=https://news.harvard.edu/gazette/story/2021/01/international-economist-richard-cooper-dies-at-86/ |website=[[The Harvard Gazette]] |access-date=January 10, 2021 |date=January 7, 2021}}</ref> was an American economist, policy adviser, and academic.
+
+Born in [[Seattle]],<ref name="Harvard"/> Cooper graduated from [[Oberlin College]] in 1956 and received a [[master's degree]] in [[economics]] from the [[London School of Economics and Political Science]] as a [[Marshall Scholar]] in 1958. He received his [[Doctor of Philosophy|Ph.D.]] from [[Harvard University]] in 1962. Cooper was an assistant professor at [[Yale University]] from 1963 to 1966 and was Frank Altschul Professor of International Economics from 1966 to 1977. From 1972 to 1974 he served as [[Provost (education)|provost]].
+
+Cooper served on the [[Council of Economic Advisers]] from 1961 to 1963 as the senior staff economist. Between 1965 and 1966, he served as Deputy Assistant Secretary of State for International Monetary Affairs in the [[United States Department of State]], and between 1977 and 1981 he was the [[Under Secretary of State for Economic, Business, and Agricultural Affairs|Under-Secretary of State for Economic Affairs]].<ref>{{cite web|url=http://www.thecrimson.com/article/1980/12/2/undersecretary-of-state-cooper-to-occupy/|title=Undersecretary of State Cooper To Occupy Joint CFIA Chair|last=Paul|first=Sarah|date=2 December 1980|work=[[The Harvard Crimson]]|accessdate=24 March 2010}}</ref> Cooper briefly served as acting [[United States Secretary of State|Secretary of State]] under [[President of the United States|President]] [[Jimmy Carter]] for a few hours on May 3, 1980.
+
+In 1981, Cooper became Maurits C. Boas Professor of International Economics at Harvard University. From 1990 to 1992, Cooper was the chairman of the [[Federal Reserve Bank of Boston]]. Between 1995 and 1997, he was the chairman of the [[National Intelligence Council]].
+
+==References==
+{{Reflist}}
+
+{{s-start}}
+{{s-off}}
+{{s-bef|before=[[William D. Rogers]]}}
+{{s-ttl|title=[[Under Secretary of State for Economic Growth, Energy, and the Environment|Under Secretary of State for Economic Affairs]]|years=1977–1981}}
+{{s-aft|after=[[Myer Rashish]]}}
+|-
+{{s-gov}}
+{{s-bef|before=[[Christine Williams (intelligence)|Christine Williams]]}}
+{{s-ttl|title=Chair of the [[National Intelligence Council]]|years=1995–1997}}
+{{s-aft|after=[[John C. Gannon]]}}
+{{s-end}}
+
+{{Authority control}}
+
+{{US-poli-bio-stub}}
+{{US-economist-stub}}
+
+{{DEFAULTSORT:Cooper, Richard N.}}
+[[Category:1934 births]]
+[[Category:2020 deaths]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:American economists]]
+[[Category:Harvard University alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Oberlin College alumni]]
+[[Category:United States Council of Economic Advisers]]
+[[Category:United States Under Secretaries of State]]
+[[Category:Yale University faculty]]
+[[Category:Yale University staff]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Peterson Institute for International Economics]]
+[[Category:People from Seattle]]

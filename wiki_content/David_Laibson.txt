@@ -1,0 +1,66 @@
+{{Use mdy dates|date=August 2019}}
+{{Distinguish|David Laidler}}
+{{Infobox economist
+| name             = David Laibson
+| school_tradition =
+| color            =
+| image       = David laibson 2007.jpg
+| image_size       =
+| caption    = David Laibson in 2007
+| birth_date       = {{Birth date and age|1966|06|26|mf=y}}
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = United States
+| institution      = [[Harvard University]]
+| field            = [[Macroeconomics]]<br>[[Behavioral economics]]
+| alma_mater       = [[Harvard University]] ([[Bachelor of Arts|AB]])<br>[[London School of Economics]] ([[Master of Science|MSc]])<br>[[Massachusetts Institute of Technology]] ([[Doctor of Philosophy|PhD]])
+| doctoral_advisor = [[Olivier Jean Blanchard]]<ref name="Doctoral advisor">{{cite thesis |last= Laibson |first= David Isaac |date= 1994 |title= Hyperbolic Discounting and Consumption |type= Ph.D. |publisher= [[MIT]] |url= https://dspace.mit.edu/bitstream/handle/1721.1/11966/31053607-MIT.pdf?sequence=2 |access-date= February 1, 2017 }}</ref><br>[[Roland Bénabou]]<ref name="Doctoral advisor" />
+| academic_advisors=
+| doctoral_students=
+| notable_students =
+| influences       = [[Benjamin M. Friedman]]<br>[[Matthew Rabin]]
+| influenced       = [[Xavier Gabaix]]
+| contributions    =
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pla164
+}}
+
+'''David Isaac Laibson''' (born June 26, 1966) is a professor of [[economics]] at [[Harvard University]], where he has taught since 1994. His research focuses on [[macroeconomics]], [[intertemporal choice]], [[behavioral economics]], and [[neuroeconomics]]. In 2016, he became chairman of the Harvard economics department.
+
+Laibson was raised by Ruth and Peter Laibson in [[Haverford, Pennsylvania]]. He received an [[Bachelor of Arts|AB]] (''summa'') from Harvard in 1988, studying under [[Benjamin M. Friedman]], and went on to win a [[Marshall Scholarship]] to study at the [[London School of Economics]] ([[Master of Science|MSc]] in Econometrics and Mathematical Economics). He received his [[PhD]] from [[Massachusetts Institute of Technology|MIT]] in 1994 and joined the faculty at Harvard once he graduated. He has since gained tenure. He is married to the mathematician Nina Zipser, and they have a son, Max.
+
+At Harvard, he teaches Economics 2030: Psychology and Economics. He also co-teaches Economics 10, the year-long introductory economics class at Harvard, together with [[Jason Furman]].<ref>{{cite news |last1=Armenakas |first1=Sophia S. |last2=McCafferty |first2=Molly C. |title=Laibson and Furman to Take Over Ec10, Increase Number of Lectures {{!}} News {{!}} The Harvard Crimson |url=https://www.thecrimson.com/article/2019/4/1/laibson-furman-head-ec10/ |work=The Harvard Crimson |date=April 1, 2019 |language=en}}</ref> His research has been published in prestigious journals such as the ''[[QJE]]'', ''[[American Economic Review|AER]]'', ''[[Journal of Economic Perspectives|JEP]]'', ''[[Econometrica]]'', and ''[[Science (magazine)|Science]]''.
+
+Laibson is well known for his work on time inconsistency, especially his model of quasi-[[hyperbolic discounting]]. One of his most prominent early contributions has been the "Golden Eggs and Hyperbolic Discounting" 1997 paper in QJE where he studied the intertemporal behavior of a [[Time inconsistency|time-inconsistent]] consumer.  This work provides a tractable model for self-control problems, in which agents have difficulty sticking to their long-term goals. Agents in Professor Laibson's models generally value "commitment devices," such as 401(k) plans or housing equity, that let them accumulate assets without as much temptation to splurge. These models also explain the "debt puzzle," the idea that American consumers demonstrate both short-run impatience and long-run patience in their lifecycle savings decisions. Laibson has since developed hyperbolic discounting research in many directions, from more advanced theoretical models to computational macroeconomics to conceptual applications.
+
+His own applications of his models have focused primarily on retirement savings, with considerable empirical work on [[401(k)]] plans.  He has acquired access to a proprietary dataset of the 401(k) information for several dozen companies, which has allowed him to empirically investigate the effects of various 401(k) plan designs on the investment strategies of the plan participants. One important result to come from this research is that plan participants tend to follow the "path of least resistance," showing remarkable responsiveness to defaults and other context effects. For example, a company can dramatically increase participation in its 401(k) plan if it enrolls its employees in the plan by default unless they take a minor step to opt out. However, employees tend to stick to the default contribution rates and investment allocations.
+
+Much of this theoretical and empirical work has been co-authored with [[Brigitte C. Madrian|Brigitte Madrian]], [[James Choi]], [[John Beshears]], [[Andrea Repetto]], and [[Jeremy Tobacman]], among many others.  Laibson's quasi-hyperbolic discounting models have also been extended and applied to addiction by [[Matthew Rabin]], [[Ted O'Donoghue]], and [[Jonathan Gruber (economist)|Jonathan Gruber]], among others.  Laibson has written a Principles of Economics textbook with MIT economist [[Daron Acemoglu]] and [[University of Chicago]] economist [[John A. List]].
+
+Another area of research focus for Laibson involves models of bounded rationality in markets; he has co-authored papers in this field with [[Xavier Gabaix]] and other scholars. For his career achievements, he was elected to the [[National Academy of Sciences]] in 2019.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20090814040544/http://uc.princeton.edu/main/index.php?option=com_content&task=view&id=2395&Itemid=1 The Psychology of Savings and Investment], a series of three talks by David Laibson at the London School of Economics and Political Science, Nov 19–21, 2007.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Laibson, David}}
+[[Category:1966 births]]
+[[Category:People from Haverford Township, Pennsylvania]]
+[[Category:Harvard University alumni]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Living people]]
+[[Category:Marshall Scholars]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]
+[[Category:Behavioral economists]]

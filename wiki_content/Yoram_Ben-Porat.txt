@@ -1,0 +1,109 @@
+{{Infobox person
+| honorific_prefix   = 
+| name               = Yoram Ben-Porat
+| honorific_suffix   = 
+| image              = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| image_upright      = 
+| landscape          = <!-- yes, if wide image, otherwise leave blank -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| native_name        = יורם בן-פורת
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name         = <!-- only use if different from name -->
+| birth_date         = 1937<!-- {{Birth date and age|YYYY|MM|DD}} for living people supply only the year with {{Birth year and age|YYYY}} unless the exact date is already widely published, as per [[WP:DOB]]. For people who have died, use {{Birth date|YYYY|MM|DD}}. -->
+| birth_place        = [[Ramat Gan]], Israel
+| death_date         = October 18, 1992 (55 years old)<!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (enter DEATH date then BIRTH date (e.g., ...|1908|31|8|1967|28|2}} use both this parameter and |birth_date to display the person's date of birth, date of death, and age at death) -->
+| death_place        = [[Eilat]], Israel
+| death_cause        = 
+| body_discovered    = 
+| resting_place      = [[Har Hamenuhot]] cemetery, Jerusalem
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place       = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| nationality        = Israeli
+| other_names        = 
+| siglum             = 
+| citizenship        = 
+| education          = 
+| alma_mater         = 
+*[[Hebrew University of Jerusalem]] (bachelor's and master's degrees)
+*[[Harvard University]] (Ph.D.)
+| occupation         = economist
+| years_active       = 
+| era                = 
+| employer           = 
+| organization       = 
+| known_for          = President of the [[Hebrew University of Jerusalem]]
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| style              = 
+| home_town          = 
+| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->
+| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
+| television         = 
+| title              =William Haber Professor of Economics
+| term               = 
+| predecessor        = 
+| successor          = [[Hanoch Gutfreund]]
+| party              = 
+| movement           = 
+| opponents          = 
+| boards             = 
+| spouse             = Dr. Yael Cohen Ben-Porath
+| partner            = <!-- (unmarried long-term partner) -->
+| children           = 1
+| parents            = <!-- overrides mother and father parameters -->
+| mother             = <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| father             = <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| relatives          = 
+| family             = 
+| callsign           = 
+| awards             = 
+| website            = <!-- {{URL|example.com}} -->
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
+'''Yoram Ben-Porat''' (also, '''Ben-Porath'''; Hebrew: '''יורם בן-פורת'''; born 1937; died October 18, 1992) was an Israeli academic and economist. He served as president of the [[Hebrew University of Jerusalem]] from 1990 until his death in 1992 in an automobile accident at the age of 55.
+
+==Biography==
+Ben-Porat was born in [[Ramat Gan]], Israel.<ref name="auto2">{{Cite web|url=http://www.independent.co.uk/news/people/obituary-professor-yoram-ben-porath-1559687.html|title=Obituary: Professor Yoram Ben-Porath|date=October 26, 1992|website=The Independent}}</ref>
+
+He was an economist.<ref name="auto2"/><ref>{{Cite web|url=https://www.nytimes.com/1984/11/03/business/israel-reaches-accord-to-help-cut-inflation.html|title=Israel Reaches Accord to Help Cut Inflation|first1=Thomas L.|last1=Friedman|date=November 3, 1984|work=The New York Times}}</ref> Ben-Porat specialized in the problems of the Israeli economy.<ref name="auto2"/><ref>{{Cite web|url=https://newspaperarchive.com/madison-wisconsin-state-journal-feb-03-1985-p-16/|title= Archives, p. 16|date=February 3, 1985|work=Madison Wisconsin State Journal}}</ref><ref>{{Cite book|url=https://books.google.com/books?id=csMeAQAAMAAJ&q=%22Yoram+Ben-Porat%22+%22hebrew+university%22|title=The Israel Economist; Volume 43|date=January 22, 1987|publisher=Kollek.}}</ref>
+
+Ben-Porat obtained both a bachelor's degree and a master's degrees at the [[Hebrew University of Jerusalem]].<ref name="auto2"/> He then obtained a Ph.D. at [[Harvard University]] in 1967, studying with [[Simon Kuznets]].<ref name="auto2"/><ref>{{Cite book|url=https://books.google.com/books?id=EO40DAAAQBAJ&q=%22Yoram+Ben-Porath%22+hebrew+university&pg=PA460|title=The New Palgrave Dictionary of Economics|date=2016|publisher=Springer|isbn=9781349588022}}</ref>
+
+He became a member of the Hebrew University of Jerusalem Department of Economics faculty in 1967, where he was the William Haber Professor of Economics.<ref name="auto">{{Cite web|url=https://www.jta.org/1992/10/22/archive/thousands-mourn-death-in-israel-of-hebrew-universitys-president|title=Thousands Mourn Death in Israel of Hebrew University's President|publisher=Jewish Telegraphic Agency|date=October 22, 1992}}</ref><ref name="auto2"/><ref>{{Cite book|url=https://books.google.com/books?id=YHPaAAAAMAAJ&q=%22Yoram+Ben-Porat%22+%22hebrew+university%22|title=Communications and Political Attitudes in West Bank Refugee Camps|first=Shimon|last=Shamir|date=January 22, 1974|publisher=Tel Aviv University, Shiloah Center for Middle Eastern and African Studies}}</ref> In 1987, Ben-Porat became Rector of the university.<ref name="auto2"/> 
+
+Ben-Porat was the president of the [[Hebrew University of Jerusalem]] from 1990 to 1992, following [[Amnon Pazy]] and succeeded by [[Hanoch Gutfreund]].<ref name="auto1">{{Cite web|url=https://www.nytimes.com/1992/10/19/obituaries/yoram-ben-porath-55-a-top-israeli-academic.html|title=Yoram Ben-Porath, 55; A Top Israeli Academic|date=October 19, 1992|work=The New York Times}}</ref><ref>{{Cite web|url=https://new.huji.ac.il/en/page/454|title=Office of the President &#124; האוניברסיטה העברית בירושלים &#124; The Hebrew University of Jerusalem|website=new.huji.ac.il}}</ref>
+
+He was also President of the Israel Economic Association, Director of the Maurice Falk Institute for Economic Research in Israel from 1979–84, and a consultant to the [[Rand Corporation]].<ref name="auto"/>
+
+He died on October 18, 1992, in an automobile accident in [[Eilat]], Israel, at the age of 55, along with his 42-year-old wife Dr. Yael Cohen Ben-Porath (a lecturer in logic in the Hebrew University of Jerusalem Philosophy Department) and their five-year-old son, Yahali.<ref name="auto1"/><ref name="auto2"/><ref name="auto3">[https://www.washingtonpost.com/archive/politics/1992/10/31/in-israel-roads-are-deadly-but-is-anyone-paying-attention/776d7cc4-791d-4343-884b-afd2dc7a7f04/ "IN ISRAEL, ROADS ARE DEADLY, BUT IS ANYONE PAYING ATTENTION?"], ''The Washington Post'', October 31, 1992.</ref> They were buried at the [[Har Hamenuhot]] cemetery in Jerusalem.<ref name="auto"/>
+
+He was succeeded as President of the university by [[Hanoch Gutfreund]].<ref>{{Cite web|url=https://apnews.com/f56c852db078b85c9c504e3dcf234f39|title=Hebrew University Names Physics Professor As President|date=June 7, 1993|website=AP News}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ben-Porat, Yoram}}
+[[Category:Hebrew University of Jerusalem faculty]]
+[[Category:Israeli academics]]
+[[Category:Hebrew University of Jerusalem alumni]]
+[[Category:Israeli economists]]
+[[Category:20th-century Israeli educators]]
+[[Category:Harvard Graduate School of Arts and Sciences alumni]]
+[[Category:Presidents of universities in Israel]]
+[[Category:1937 births]]
+[[Category:1992 deaths]]
+[[Category:Road incident deaths in Israel]]

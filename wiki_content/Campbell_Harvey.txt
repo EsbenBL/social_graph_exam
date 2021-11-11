@@ -1,0 +1,77 @@
+{{short description|Canadian economist|bot=PearBOT 5}}
+{{Infobox economist
+| name             = Campbell Harvey
+| image            =
+| image_size       = 200px
+| birth_date       = {{Birth date and age|1958|06|23}}
+| nationality      = [[Canada]]
+| institution      = [[Duke University Fuqua School of Business]]
+| field            = [[Financial economics]]
+| alma_mater       = [[University of Chicago]]<br>[[University of Toronto]]
+| influences       = [[Eugene Fama]]<br>[[Merton Miller]]
+| influenced       =
+| contributions    = 
+| awards           = [[Jensen Prize]]
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pha102
+}}
+'''Campbell Russell''' "'''Cam'''" '''Harvey''' (born June 23, 1958) is a Canadian economist, known for his work on asset allocation with changing risk and [[risk premium]]s and the problem of separating luck from skill in investment management. He is currently the J. Paul Sticht Professor of International Business at [[Duke University]]'s [[Fuqua School of Business]] in [[Durham, North Carolina]], as well as a research associate with the [[National Bureau of Economic Research]] in [[Cambridge, Massachusetts]]. He is also a research associate with the Institute of International Integration Studies at [[Trinity College Dublin]] and a visiting researcher at the [[University of Oxford]]. He served as the 2016 president of the [[American Finance Association]].
+
+==Career==
+He earned his undergraduate degree in economics and political science from [[Trinity College, Toronto|Trinity College]] at the [[University of Toronto]] in 1981 and his MBA from [[York University]] in Toronto in 1983. His doctoral work was carried out at the [[Booth School of Business]] at the [[University of Chicago]]. His doctoral supervisors were [[Eugene Fama]], [[Merton Miller]], Robert Stambaugh, Wayne Ferson, Shmuel Kandel, and [[Lars Peter Hansen|Lars Hansen]].
+
+His 1986 Ph.D. thesis explored the concept that the term structure of interest rates (difference between long-term interest rates and short-term rates) could predict the US business cycle. His thesis was published in the ''[[Journal of Financial Economics]]'' in 1988.<ref>{{cite web|url=http://faculty.fuqua.duke.edu/~charvey/Research/Thesis/Thesis.pdf |title=Campbell R. Harvey's Dissertation |publisher=Faculty.fuqua.duke.edu |date=1986-12-12 |access-date=2011-11-28}}</ref> That work was subsequently expanded and published in the ''[[Financial Analysts Journal]]''  in 1989.<ref name="jstor1">{{cite journal|jstor=4479257|title=Forecasts of Economic Growth from the Bond and Stock Markets|journal=Financial Analysts Journal|volume=45|issue=5|pages=38–45|last1=Harvey|first1=Campbell R.|year=1989|doi=10.2469/faj.v45.n5.38}}</ref>
+
+===Time-varying risk and risk premia===
+Harvey's 1986 thesis showed that information in the term structure of interest rates was linked to future growth of the economy. When short-term rates were higher than long-term rates (an inverted yield curve), recessions followed. In the time since his thesis was published, the [[yield curve]] has inverted three times—in 1989, 2000, and 2006—correctly predicting the three recessions of 1990–1991, 2001, and 2007–2009.<ref>http://faculty.fuqua.duke.edu/~charvey/Research/Professional_Materials/Term_Structure_May_17_2011.pdf</ref>
+
+Given the idea that the business cycle is to some degree predictable, Harvey argued in his 1991 paper with Wayne Ferson in the Journal of Political Economy<ref>{{cite journal|jstor=2937686|title=The Variation of Economic Risk Premiums|journal=Journal of Political Economy|volume=99|issue=2|pages=385–415|last1=Ferson|first1=Wayne E.|last2=Harvey|first2=Campbell R.|year=1991|doi=10.1086/261755|s2cid=153868928}}</ref> that both risk exposures and risk premia should vary predictably through the business cycle. Harvey's research in both the 1989 ''Journal of Financial Economics''<ref name="jstor1"/> and in the 1991 ''[[Journal of Finance]]''<ref>{{cite journal|jstor=2328872|title=S&P 100 Index Option Volatility|journal=The Journal of Finance|volume=46|issue=4|pages=1551–1561|last1=Harvey|first1=Campbell R.|last2=Whaley|first2=Robert E.|year=1991|doi=10.1111/j.1540-6261.1991.tb04631.x}}</ref> documented the predictability of asset returns.
+
+===Emerging markets finance===
+Harvey was one of the early finance researchers to study emerging markets' equity and bond returns. His 1995 paper in the Review of Financial Studies<ref>{{cite journal|jstor=2961971|title=Volatility in the Foreign Currency Futures Market|journal=The Review of Financial Studies|volume=4|issue=3|pages=543–569|last1=Harvey|first1=Campbell R.|last2=Huang|first2=Roger D.|year=1991|doi=10.1093/rfs/4.3.543}}</ref> showed that the standard approaches in finance in developed markets could not be applied to many developing countries. His 1995 ''[[Journal of Finance]]''<ref>{{cite journal|jstor=2329414|title=Time-Varying World Market Integration|journal=The Journal of Finance|volume=50|issue=2|pages=403–444|last1=Bekaert|first1=Geert|last2=Harvey|first2=Campbell R.|year=1995|doi=10.1111/j.1540-6261.1995.tb04790.x|citeseerx=10.1.1.636.3220|s2cid=10210426}}</ref> paper with Geert Bekaert proposed a way of dealing with the special challenges of emerging markets.
+
+In multiple research papers authored with Bekaert, Harvey studies the relationship between the real economy and finance. His 2005 paper with Bekaert and Christian Lundblad shows opening financial markets to foreign investors reduces the cost of financing while increasing investment and GDP for developing countries.
+
+===Survey work in finance===
+Harvey is the founding director of the Duke University/CFO Magazine Global Business Outlook Survey.<ref>{{cite web|url=http://www.cfosurvey.org |title=Duke/CFO Magazine Global Business Outlook Survey |publisher=Cfosurvey.org |access-date=2011-11-28}}</ref> In work with [[John Graham (economist)|John Graham]], he linked the theory and practice of finance. That is, many research papers make assumptions about how managers behave. Harvey's research asks the managers directly about these assumptions. The survey has been conducted every quarter since 1996 and has generated numerous research papers, including a paper published in the ''[[Journal of Financial Economics]]''<ref>{{cite journal|ssrn=220251 |title=The Theory and Practice of Corporate Finance: Evidence from the Field by John Graham, Campbell Harvey :: SSRN |doi=10.2139/ssrn.220251 |publisher=Papers.ssrn.com |date=2000-04-12 |last1=Graham |first1=John R. |last2=Harvey |first2=Campbell R. |s2cid=15390115 }}</ref> in 2001. His paper<ref>{{Cite journal|last1=Graham|first1=John R.|last2=Harvey|first2=Campbell R.|last3=Rajgopal|first3=Shivaram|date=2005-01-11|title=The Economic Implications of Corporate Financial Reporting|language=en|location=Rochester, NY|ssrn=491627}}</ref> with John Graham and Shiva Rajgopal in the ''[[Journal of Accounting and Economics]]'' in 2005 shows that 78% of [[Chief Financial Officer]]s admit to destroying value by trying to hit quarterly earnings targets.
+
+===Risk management===
+Harvey has been a strong proponent of modifying the view of risk. Much risk modeling focuses on volatility or standard deviation. In his 2000 paper in the ''[[Journal of Finance]]''<ref>http://faculty.fuqua.duke.edu/~charvey/Research/Published_Papers/P56_Conditional_skewness_in.pdf</ref> with Siddique, Harvey presents a two-part argument in favor of incorporating skewness. First, asset returns are not normally distributed. Second, investors like positive skew (big profits) and dislike negative skew (big losses); Harvey argues these preferences need to be taken into account in both portfolio management and risk management. Harvey also asserts estimates are imprecise and this uncertainty needs to be taken into account when making investment decisions.<ref>{{cite journal|ssrn=634141 |title=Portfolio Selection with Higher Moments by Campbell Harvey, John Liechty, Merrill Liechty, Peter Mueller :: SSRN |publisher=Papers.ssrn.com |date= 2004-12-13|last1=Mueller |first1=Peter |last2=Liechty |first2=Merrill W. |last3=Liechty |first3=John |last4=Harvey |first4=Campbell R. }}</ref>
+
+=== Luck versus skill ===
+In a paper<ref>{{Cite journal|last1=Harvey|first1=Campbell R.|last2=Liu|first2=Yan|last3=Zhu|first3=Caroline|date=2015-02-03|title=…and the Cross-Section of Expected Returns|language=en|location=Rochester, NY|ssrn=2249314}}</ref> in the ''Review of Financial Studies'' in 2016, written with Yan Liu and Heqing Zhu, Harvey shows that over half of the published asset pricing factors are likely false. In a paper<ref>{{Cite journal|last1=Harvey|first1=Campbell R.|last2=Liu|first2=Yan|date=2018-01-21|title=Detecting Repeatable Performance|language=en|location=Rochester, NY|ssrn=2691658}}</ref> forthcoming in the Review of Financial Studies in 2018 with Yan Liu, Harvey shows how to improve the ability to detect skilled and unskilled managers with a method designed to reduce the noise in past performance. Harvey's Presidential Address<ref>{{Cite web|url=http://afajof.org/news/347397/Watch-the-2017-Presidential-Address.htm|title=Watch the 2017 Presidential Address - American Finance Association|website=afajof.org|language=en|access-date=2018-04-23|archive-url=https://web.archive.org/web/20180424085907/http://afajof.org/news/347397/Watch-the-2017-Presidential-Address.htm|archive-date=2018-04-24|url-status=dead}}</ref> to the [[American Finance Association]], published in the ''Journal of Finance'' in 2017, challenges the way that research is conducted in empirical finance and points out some basic misunderstandings of statistics. Finally, Harvey's latest work<ref>{{Cite journal|last1=Harvey|first1=Campbell R.|last2=Liu|first2=Yan|date=2018-03-25|title=False (and Missed) Discoveries in Financial Economics|language=en|location=Rochester, NY|ssrn=3073799}}</ref> with Yan Liu provides a new way to calibrate Type I (mistakenly choosing a bad manager) and Type II (missing a good investment manager) errors.
+
+==Awards==
+*Fellow of the American Finance Association, 2017<ref>{{Cite web|url=http://afajof.org/page/Fellows|title=Fellows - American Finance Association|website=afajof.org|language=en|access-date=2018-04-23}}</ref>
+*Bernstein Fabozzi/Jacobs Levy Awards 2015 and 2016<ref>{{cite web|url=http://www.jacobslevy.com/awardseventeen.htm|title=The 17th Annual Bernstein Fabozzi/Jacobs Levy Awards|date=2017-06-15|website=jacobslevy.com}}</ref><ref>{{cite web|url=http://www.jacobslevy.com/awardsixteen.htm|title=The 16th Annual Bernstein Fabozzi/Jacobs Levy Awards|date=2017-06-15|website=jacobslevy.com}}</ref><ref>{{cite web|url=http://www.iijournals.com/page/Awards|title=Institutional Investor Journals Awards|date=2017-05-19|website=iijournals.com}}{{Dead link|date=July 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+*James R. Vertin Award 2007 from CFA Institute<ref>{{cite web|url=https://www.cfainstitute.org/learning/foundation/Pages/vertin_award.aspx|title=James R. Vertin Award 2007|website=www.cfainstitute.org|publisher=CFA Institute|access-date=2017-06-22}}</ref>
+*Graham and Dodd Award 2013 from CFA Institute<ref>{{Cite web|url=http://www.cfapubs.org/page/faj/all-graham-dodd-winners|title=Graham and Dodd Award Winners|website=www.cfapubs.org|language=en|access-date=2017-06-22}}</ref>
+*[[Jensen Prize]] 2001 and 2005 from ''Journal of Financial Economics''<ref>{{cite web|url=http://jfe.rochester.edu/winners.htm |title=Winners of Jensen and Fama/DFA JFE Best Paper Prizes |publisher=Jfe.rochester.edu |date=2011-02-06 |access-date=2011-11-28}}</ref>
+
+==Editorships==
+Harvey served as editor of the ''[[Journal of Finance]]'', a position he held for the 2006–2012 term.<ref>{{Cite web|url=http://afajof.org/page/currentpasteditors|title=Current and Past Editors - American Finance Association|website=afajof.org|language=en|access-date=2018-04-23}}</ref>
+Previously, he served as an editor of the [[Review of Financial Studies]] from 1999–2005.<ref>{{Cite web|url=http://rfssfs.org/editorial-team/|title=Editorial Team – The Review of Financial Studies|website=rfssfs.org|language=en-US|access-date=2018-04-23}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.duke.edu/~charvey Duke University]
+* [http://www.nber.org/people/campbell_harvey NBER]
+* {{Google Scholar}}
+
+{{Chicago school economists}}
+{{authority control}}
+
+{{DEFAULTSORT:Harvey, Campbell}}
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:Canadian economists]]
+[[Category:Duke University faculty]]
+[[Category:University of Chicago alumni]]
+[[Category:York University alumni]]
+[[Category:University of Toronto alumni]]
+[[Category:Financial economists]]
+[[Category:Corporate finance theorists]]
+[[Category:The Journal of Finance editors]]
+[[Category:Presidents of the American Finance Association]]

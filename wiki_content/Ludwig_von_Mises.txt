@@ -1,0 +1,241 @@
+{{short description|Austrian-American economist}}
+
+{{about-distinguish2|the Austrian economist|his brother, mathematician [[Richard von Mises]]|[[Ludwig Mies van der Rohe]]|von Mises yield criterion}}
+{{Infobox economist
+| name              = Ludwig von Mises
+| school_tradition  = [[Austrian School]]
+| image             = Ludwig von Mises.jpg
+| birth_name        = Ludwig Heinrich Edler von Mises
+| birth_date        = {{birth date|1881|9|29|df=y}}
+| birth_place       = [[Lviv|Lemberg]], [[Kingdom of Galicia and Lodomeria|Galicia and Lodomeria]], [[Austria-Hungary]]<br>(now [[Lviv]], [[Ukraine]])
+| death_date        = {{death date and age|1973|10|10|1881|9|29|df=y}}
+| death_place       = [[New York City]], [[New York (state)|New York]], U.S.
+| field             = [[Economics]], [[political economy]], [[philosophy of science]], [[epistemology]], [[methodology]], [[rationalism]], [[logic]], [[classical liberalism]], [[Right-libertarianism]]
+| doctoral_advisor  = [[Eugen Böhm von Bawerk]]
+| academic_advisors =
+| doctoral_students = [[Gottfried Haberler]]<br>[[Fritz Machlup]]<br>[[Oskar Morgenstern]]<br>[[Gerhard Tintner]]<br>[[Israel Kirzner]]<br>[[Friedrich Hayek]] 
+| notable_students  =[[Hans Sennholz|Sennholz]] · [[Ralph Raico|Raico]] · [[Leonard Liggio|Liggio]] · [[George Reisman|Reisman]] · [[Murray Rothbard|Rothbard]]
+| institution       = [[University of Vienna]] (1919–1934)<br>[[Graduate Institute of International and Development Studies|Institut Universitaire des Hautes Études Internationales]], Geneva, Switzerland (1934–1940)<br>[[New York University]] (1945–1969)
+| influences        = [[Carl Menger|Menger]] · [[Eugen Böhm von Bawerk|Böhm-Bawerk]] · [[Friedrich von Wieser|Wieser]] · [[Edmund Husserl|Husserl]] · [[Frank Fetter|Fetter]] · [[Max Weber|Weber]] ·  [[Jean-Baptiste Say|Say]] · [[Immanuel Kant|Kant]]
+| influenced        = [[Walter Block|Block]] · [[Friedrich Hayek|Hayek]] · [[Henry Hazlitt|Hazlitt]] · [[Hans-Hermann Hoppe|Hoppe]] · [[Jesus Huerta de Soto|Huerta de Soto]] · [[Murray Rothbard|Rothbard]] · [[Joseph Salerno|Salerno]] · [[Alfred Schütz|Schütz]]
+| contributions     = {{ublist|[[Economic calculation problem]]|[[Quantity theory of money]]|[[Austrian business cycle theory]]|[[Praxeology]]|[[Methodological dualism]]}}[[Economic Calculation]]
+| party               = [[Fatherland Front (Austria)|Fatherland Front]]{{cn|date=October 2021}}
+| notes             = '''Relatives'''<br>[[Richard von Mises]] (brother)<br>[[Gitta Sereny]] (step-daughter)
+}}
+
+'''Ludwig Heinrich Edler von Mises'''<ref>{{German title|Edler}}</ref> ({{IPA-de|ˈluːtvɪç fɔn ˈmiːzəs|lang}}; 29 September 1881 – 10 October 1973) was an [[Austrian School]] [[economist]], [[historian]], logician, and [[Sociology|sociologist.]] Mises wrote and lectured extensively on the societal contributions of [[classical liberalism]]. He is best known for his work on [[praxeology]], a study of human choice and action.
+
+Mises emigrated from [[Austria]] to the [[United States]] in 1940.<ref>{{cite web|title=Profiles: Ludwig von Mises|url=https://mises.org/profile/ludwig-von-mises|website=Mises Institutes|date=28 July 2014}}</ref> Since the mid-20th century, libertarian movements have been strongly influenced by Mises's writings. Mises' student [[Friedrich Hayek]] viewed Mises as one of the major figures in the revival of classical liberalism in the post-war era. Hayek's work "The Transmission of the Ideals of Freedom" (1951) pays high tribute to the influence of Mises in the 20th century libertarian movement.<ref>{{cite journal|last1=Hayek|first1=Friedrich A.|title=The Transmission of the Ideals of Economic Freedom|journal=Econ Journal Watch|date=2012|volume=9|issue=2|pages=163–69|url=https://econjwatch.org/articles/the-transmission-of-the-ideals-of-economic-freedom?}}</ref>
+
+Mises's Private Seminar was a leading group of economists.<ref>{{Cite book|title=Notes and Recollections|last=Mises|first=Ludwig von|publisher=Liberty Fund|year=2013|isbn=978-0-86597-853-9|url=http://lf-oll.s3.amazonaws.com/titles/2603/Mises_Recollections_LFeBK.pdf|pages=69}}</ref> Many of its alumni, including [[Friedrich Hayek]] and [[Oskar Morgenstern]], emigrated from Austria to the United States and Great Britain. Mises has been described as having approximately seventy close students in Austria.<ref>Beller, Steven (1989). ''Vienna and the Jews, 1867–1938: A Cultural History''. Cambridge University Press.</ref>
+
+== Biography ==
+{{Austrian School sidebar|expanded=People}}
+
+=== Early life ===
+[[File:Coat of arms of von Mises.gif|thumb|[[Coat of arms]] of Ludwig von Mises's great-grandfather, Mayer Rachmiel Mises, awarded upon his 1881 ennoblement by [[Franz Joseph I of Austria]]]]
+Ludwig von Mises was born to [[Lviv#The Jewish population|Jewish]] parents in the city of Lemberg, [[Austrian Galicia|Galicia]], [[Austria-Hungary]] (now [[Lviv]], [[Ukraine]]). The family of his father, Arthur Edler von Mises, had been elevated to the Austrian nobility in the 19th century ([[Edler]] indicates a noble landless family) and they had been involved in financing and constructing railroads. His mother Adele (née Landau) was a niece of Dr. Joachim Landau, a Liberal Party deputy to the Austrian Parliament.<ref name=Knight>{{cite book|last=Hülsmann|first=Jörg Guido|title=Mises: The Last Knight of Liberalism|url=https://archive.org/details/bub_gb_it9c6z4bw_8C|publisher=Ludwig von Mises Institute|year=2007|isbn=978-1-933550-18-3}}</ref>{{rp|3–9}} Arthur von Mises was stationed in Lemberg as a construction engineer with the Czernowitz railway company.
+
+By the age of 12, Mises spoke fluent German, Polish and French, read Latin and could understand Ukrainian.<ref name="Kuehnelt-Leddihn">[[Erik Ritter von Kuehnelt-Leddihn]], [https://mises.org/asc/essays/kuehneltLeddihn.pdf "The Cultural Background of Ludwig von Mises"], ''The Ludwig von Mises Institute'', p. 1</ref> Mises had a younger brother, [[Richard von Mises]], who became a mathematician and a member of the [[Vienna Circle]], and a probability theorist.<ref>{{cite encyclopedia |url=http://www.britannica.com/EBchecked/topic/385231/Richard-von-Mises|title=Richard von Mises|encyclopedia=Encyclopædia Britannica|access-date=8 August 2013}}</ref> When Ludwig and Richard were still children, their family moved back to Vienna.{{Citation needed|date=June 2013}}
+
+In 1900, Mises attended the [[University of Vienna]],<ref>{{cite book|last1=Von Mises|first1=Ludwig|last2=Goddard|first2=Arthur|title=Liberalism: A Socio-Economic Exposition|year=1979|edition=2|isbn=978-0-8362-5106-7}}</ref> becoming influenced by the works of [[Carl Menger]]. Mises's father died in 1903. Three years later, Mises was awarded his [[doctorate]] from the school of law in 1906.<ref name="law">{{cite web|url=https://mises.org/page/1468/Biography-of-Ludwig-von-Mises-18811973|title=Biography of Ludwig von Mises (1881–1973) ('Chronology')|publisher=Mises.org|access-date=21 July 2013}}</ref>
+
+=== Life in Europe ===
+In the years from 1904 to 1914, Mises attended lectures given by Austrian economist [[Eugen von Böhm-Bawerk]].<ref>Mises, Ludwig von, ''The Historical Setting of the Austrian School of Economics'', Arlington House, 1969, reprinted by the [[Ludwig von Mises Institute]], 1984, p. 10, Rothbard, Murray, ''The Essential Ludwig von Mises'', 2nd printing, Ludwig von Mises Institute, 1983, p. 30.</ref> He graduated in February 1906 ([[Juris Doctor]]) and started a career as a civil servant in Austria's financial administration.
+
+After a few months, he left to take a trainee position in a Vienna law firm. During that time, Mises began lecturing on economics and in early 1909 joined the Vienna Chamber of Commerce and Industry. During [[World War I]], Mises served as a front officer in the [[Austria-Hungary|Austro-Hungarian]] artillery and as an economic adviser to the War Department.<ref>[https://mises.org/library/mises-wartime Mises in Wartime], Mises Institute</ref>
+
+Mises was chief economist for the [[Austrian Chamber of Commerce]] and was an economic adviser of [[Engelbert Dollfuss]], the [[austrofascist]] and strongly anti-Nazi [[Austrian Chancellor]].<ref>{{cite web|url=https://mises.org/library/meaning-mises-papers |title=The Free Market: Meaning of the Mises Papers, The |publisher=Mises.org |access-date=2009-11-26}}</ref> Later, Mises was economic adviser to [[Otto von Habsburg]], the [[Christian democracy|Christian democratic]] politician and claimant to the [[Emperor of Austria|throne of Austria]] (which had been legally abolished in 1918 following the Great War).<ref name="My Years">Mises, Margit von, [https://mises.org/sites/default/files/My%20Years%20with%20Ludwig%20von%20Mises_2.pdf ''My Years with Ludwig von Mises''], [[Arlington House Publishers]], 1976; 2nd enlarged ed., Cedar Falls, IA: Center for Futures Education, 1984. {{ISBN|978-0915513000}}. {{OCLC|11668538}}</ref> In 1934, Mises left Austria for Geneva, Switzerland, where he was a professor at the [[Graduate Institute of International Studies]] until 1940.
+
+While in Switzerland, Mises married Margit Herzfeld Serény, a former actress and widow of Ferdinand Serény. She was the mother of [[Gitta Sereny]].
+
+=== Work in the United States ===
+{{external media
+| float = right
+| video1 = [https://www.youtube.com/watch?v=6Xsx84k4iSg Bettina Greaves on Ludwig von Mises's Life (1994)]
+}}
+In 1940, Mises and his wife fled the German advance in Europe and emigrated to New York City in the United States.<ref name=Knight />{{rp|xi}} He had come to the United States under a grant by the [[Rockefeller Foundation]]. Like many other classical liberal scholars who fled to the United States, he received support by the [[William Volker Fund]] to obtain a position in American universities.<ref name=Kitch>{{cite journal|last=Kitch|first=Edmund W.|title=The Fire of Truth: A Remembrance of Law and Economics at Chicago, 1932–1970|journal=Journal of Law and Economics|date=April 1983|volume=26|issue=1|pages=163–234|doi=10.1086/467030|s2cid=153525815}}</ref> Mises became a visiting professor at [[New York University]] and held this position from 1945 until his retirement in 1969, though he was not salaried by the university.<ref name="law"/> Businessman and [[Libertarianism|libertarian]] commentator [[Lawrence Fertig]], a member of the New York University Board of Trustees, funded Mises and his work.<ref>Moss, Laurence S. "Introduction". ''The Economics of Ludwig von Mises: Toward a Critical Reappraisal''. Sheed and Ward, 1976.</ref><ref>[[Gary North (Christian Reconstructionist)|North, Gary]]. "Mises on Money". ''[[LewRockwell.com]]''. 21 January 2002 [http://archive.lewrockwell.com/north/north83.html]</ref>
+
+For part of this period, Mises studied [[currency]] issues for the [[International Paneuropean Union|Pan-Europa movement]], which was led by [[Richard von Coudenhove-Kalergi]], a fellow New York University faculty member and Austrian exile.<ref>{{cite book |last=Coudenhove-Kalergi |first=Richard Nikolaus, Graf von |author-link=Richard von Coudenhove-Kalergi |title=An idea conquers the world |publisher=Hutchinson |location=London |year=1953 |page=247}}</ref> In 1947, Mises became one of the founding members of the [[Mont Pelerin Society]].
+
+In 1962, Mises received the [[Austrian Decoration for Science and Art]] for political economy<ref>[http://www.kurienwissenschaftundkunst.at/archiv/archiv-mitglieder-wissenschaft/  Kurien Society of Science and Art website] {{Webarchive|url=https://web.archive.org/web/20201030034628/http://www.kurienwissenschaftundkunst.at/archiv/archiv-mitglieder-wissenschaft |date=2020-10-30 }}, Listing of recipients of the [[Austrian Decoration for Science and Art]]; [https://translate.google.com/translate?sl=de&tl=en&js=n&prev=_t&eotf=1&u=http%3A%2F%2Fwww.kurienwissenschaftundkunst.at%2Farchiv%2Farchiv-mitglieder-wissenschaft%2F Google Translated page], ''accessed June 5, 2013.''</ref> at the [[Embassy of Austria, Washington, D.C.|Austrian Embassy in Washington, D.C.]]<ref name=Knight />{{rp|1034}}
+
+Mises retired from teaching at the age of 87<ref>Rothbard, Murray, ''Ludwig von Mises: Scholar, Creator, Hero'', the Ludwig von Mises Institute, 1988, p. 61.</ref> and died at the age of 92 in New York. He is buried at [[Ferncliff Cemetery]] in [[Hartsdale, New York]]. [[Grove City College]] houses the 20,000-page archive of Mises papers and unpublished works.<ref name=GCC>[http://www2.gcc.edu/dept/econ/ASSC/ Austrian Student Scholars Conference Announcement], [[Grove City College]] website, 2013, ''accessed June 8, 2013.</ref> The personal library of Mises was given to [[Hillsdale College]] as bequeathed in his will.<ref>{{Cite web|url=http://lib.hillsdale.edu/about/collections|title=About – Collections – Mossey Library|website=lib.hillsdale.edu|access-date=2016-07-26}}</ref><ref>http://www.iea.org.uk/sites/default/files/publications/files/upldbook514pdf.pdf</ref>
+
+At one time, Mises praised the work of writer [[Ayn Rand]] and she generally looked on his work with favor, but the two had a volatile relationship, with strong disagreements for example over the moral basis of capitalism.<ref>{{cite book|author=Jennifer Burns|title=Goddess of the Market: Ayn Rand and the American Right|url=https://books.google.com/books?id=z6e9X6JxHpMC&pg=PA106|year=2009|publisher=Oxford University Press|pages=106, 141|isbn=978-0199740895}}</ref>
+
+==Contributions and influence in economics==
+{{refimprove section|date=August 2013}}
+Mises wrote and lectured extensively on behalf of [[classical liberalism]].<ref>For example, Murray Rothbard, a leading Austrian school economist, has written that, by the 1920s, "Mises was clearly the outstanding bearer of the great Austrian tradition." ''Ludwig von Mises: Scholar, Creator, Hero'', the Ludwig von Mises Institute, 1988, p. 25.</ref> In his magnum opus ''[[Human Action]]'', Mises adopted [[praxeology]] as a general conceptual foundation of the social sciences and set forth his methodological approach to economics.
+
+Mises was for [[Economic liberalism|economic non-interventionism]]<ref>{{Cite web | url=https://mises.org/library/why-intervention-persists | title=Why Intervention Persists| date=2005-03-16}}</ref> and was an [[Anti-imperialism|anti-imperialist]].<ref name=":0">{{Cite web | url=https://mises.org/library/anti-imperialism-mises | title=The Anti-Imperialism of Mises| date=2013-06-24}}</ref> He referred to [[World War I|the Great War]] as such a watershed event in human history and wrote that "war has become more fearful and destructive than ever before because it is now waged with all the means of the highly developed technique that the free economy has created. Bourgeois civilization has built railroads and electric power plants, has invented explosives and airplanes, in order to create wealth. Imperialism has placed the tools of peace in the service of destruction. With modern means it would be easy to wipe out humanity at one blow."<ref>{{Cite web | url=https://fee.org/articles/ludwig-von-mises-on-world-war-i/ | title=Ludwig von Mises on World War I &#124; Ludwig von Mises| date=2017-04-06}}</ref>
+
+In 1920, Mises introduced in an article his [[Economic Calculation Problem]] as a critique of socialisms which are based on [[planned economies]] and renunciations of the [[price mechanism]].<ref name="Mises">{{cite book
+|title= Economic calculation in the Socialist Commonwealth
+|access-date= 2008-09-08
+|last= Von Mises
+|first= Ludwig
+|author-link= Ludwig von Mises
+|year= 1990
+|publisher= [[Ludwig von Mises Institute]]
+|url= http://library.freecapitalists.org/books/Ludwig%20von%20Mises/Economic%20Calculation%20in%20the%20Socialist%20Commonwealth.pdf
+|archive-url= https://web.archive.org/web/20141216200523/http://library.freecapitalists.org/books/Ludwig%20von%20Mises/Economic%20Calculation%20in%20the%20Socialist%20Commonwealth.pdf
+|archive-date= 2014-12-16
+|url-status= dead
+}}</ref> In his first article "[[Economic Calculation in the Socialist Commonwealth]]", Mises describes the nature of the price system under capitalism and describes how individual [[subjective value theory|subjective values]] are translated into the objective information necessary for [[Rational choice theory|rational]] allocation of resources in society.<ref name="Mises"/> Mises argued that the pricing systems in socialist economies were necessarily deficient because if a public entity owned all the [[means of production]], no rational prices could be obtained for [[capital goods]] as they were merely internal transfers of goods and not "objects of exchange", unlike final goods. Therefore, they were unpriced and hence the system would be necessarily irrational, as the central planners would not know how to allocate the available resources efficiently.<ref name="Mises" /> He wrote that "rational economic activity is impossible in a socialist [[commonwealth]]".<ref name="Mises" /> Mises developed his critique of socialism more completely in his 1922 book ''[[Socialism: An Economic and Sociological Analysis]]'', arguing that the market price system is an expression of [[praxeology]] and can not be replicated by any form of bureaucracy.
+
+Friends and students of Mises in Europe included [[Wilhelm Röpke]] and [[Alfred Müller-Armack]] (advisors to German chancellor [[Ludwig Erhard]]), [[Jacques Rueff]] (monetary advisor to [[Charles de Gaulle]]), [[Gottfried Haberler]] (later a professor at [[Harvard University|Harvard]]), [[Lionel Robbins, Baron Robbins|Lionel, Lord Robbins]] (of the [[London School of Economics]]), Italian President [[Luigi Einaudi]], and [[Leonid Hurwicz]], recipient of the 2007 Nobel Memorial Prize in Economic Sciences.<ref>Rothbard, Murray, ''Ludwig von Mises: Scholar, Creator, Hero'', the Ludwig von Mises Institute, 1988, p. 67.</ref> Economist and political theorist [[Friedrich Hayek]] first came to know Mises while working as his subordinate at a government office dealing with Austria's post-World War I debt. While toasting Mises at a party in 1956, Hayek said: "I came to know him as one of the best educated and informed men I have ever known".<ref name="My Years"/>{{rp|219–20}} Mises's seminars in Vienna fostered lively discussion among established economists there. The meetings were also visited by other important economists who happened to be traveling through Vienna.
+
+At his New York University seminar and at informal meetings at his apartment, Mises attracted college and high school students who had heard of his European reputation. They listened while he gave carefully prepared lectures from notes.<ref name=Vaughn>{{cite book|last=Vaughn|first=Karen I|title=Austrian Economics in America|year=1998|publisher=Cambridge University Press|url=https://books.google.com/books?id=zQx7fHjtOIUC&pg=PA66|isbn=978-0521637657}} pp. 66–67.</ref><ref>Reisman, George, ''Capitalism: a Treatise on Economics'', "Introduction," Jameson Books, 1996; and Mises, Margit von, ''My Years with Ludwig von Mises'', 2nd enlarged edit., Center for Future Education, 1984, pp. 136–37.</ref> Among those who attended his informal seminar over the course of two decades in New York were [[Israel Kirzner]], [[Hans Sennholz]], [[Ralph Raico]], [[Leonard Liggio]], [[George Reisman]] and [[Murray Rothbard]].<ref>On Mises's influence, see Rothbard, Murray, ''The Essential Ludwig von Mises'', 2nd printing, the Ludwig von Mises Institute, 1983; on Eastman's conversion "from Marx to Mises," see Diggins, John P., ''Up From Communism'' Harper & Row, 1975, pp. 201–33; on Mises's students and seminar attendees, see Mises, Margit von, ''My Years with Ludwig von Mises'', Arlington House, 1976, 2nd enlarged edit., Center for Future Education, 1984.</ref> Mises's work also influenced other Americans, including [[Benjamin Anderson]], [[Leonard Read]], [[Henry Hazlitt]], [[Max Eastman]], legal scholar Sylvester J. Petro and novelist [[Ayn Rand]].
+
+== Reception ==
+=== Debates about Mises's arguments ===
+Economic historian [[Bruce Caldwell (economic historian)|Bruce Caldwell]] wrote that in the mid-20th century, with the ascendance of [[positivism]] and [[Keynesian economics|Keynesianism]], Mises came to be regarded by many as the "archetypal 'unscientific' economist".<ref name="BC1">{{Cite book |title=Hayek's Challenge|publisher=The University of Chicago Press |first=Bruce |last=Caldwell |year=2004 | pages=125–26 |isbn=978-0-226-09191-4 }}</ref> In a 1957 review of his book ''[[The Anti-Capitalistic Mentality]]'', ''[[The Economist]]'' said of Mises: "Professor von Mises has a splendid analytical mind and an admirable passion for liberty; but as a student of [[human nature]] he is worse than null and as a debater he is of [[Speakers' Corner|Hyde Park]] standard".<ref>[https://www.webcitation.org/5fRAcAwrL?url=http://62.190.209.167/exe/wwt.exe/htt?fn=%5C%5CAsteryx%5Cpublic1%5CEconomist%5Cjpg%5CReel1957%5Cecon-1957-0413-0039-0000.jpg&zoom=100&type=j&Quality=100 "Liberalism in Caricature"], ''[[The Economist]]''</ref>  Conservative commentator [[Whittaker Chambers]] published a similarly negative review of that book in the ''[[National Review]],'' stating that Mises's thesis that anti-capitalist sentiment was rooted in "envy" epitomized "[[know-nothing]] conservatism" at its "know-nothingest".<ref>Quoted in [[Sam Tanenhaus]], ''Whittaker Chambers: A Biography'', (Random House, New York, 1997), p. 500.  {{ISBN|978-0-375-75145-5}}.</ref>
+
+Scholar Scott Scheall called economist [[Terence Hutchison]] "the most persistent critic of Mises's apriorism",<ref name="Scheall">{{cite journal |last=Scheall |first=Scott |date=July 2017 |title=What is extreme about Mises's extreme apriorism? |journal=[[Journal of Economic Methodology]] |volume=24 |issue=3 |pages=226–249 |doi=10.1080/1350178X.2017.1356439|s2cid=151703666 }}</ref>{{rp|233}} starting in Hutchison's 1938 book ''The Significance and Basic Postulates of Economic Theory'' and in later publications such as his 1981 book ''The Politics and Philosophy of Economics: Marxians, Keynesians, and Austrians''.<ref name="Scheall"/>{{rp|242}} Scheall noted that [[Friedrich Hayek]], later in his life (after Mises died), also expressed reservations about Mises's [[apriorism]], such as in a 1978 interview where Hayek said that he "never could accept the&nbsp;... almost eighteenth-century rationalism in his [Mises's] argument".<ref name="Scheall"/>{{rp|233–234}}
+
+In a 1978 interview, Hayek said about Mises's book ''[[Socialism (book)|Socialism]]'': {{quote|At first we all felt he was frightfully exaggerating and even offensive in tone. You see, he hurt all our deepest feelings, but gradually he won us around, although for a long time I had to – I just learned he was usually right in his conclusions, but I was not completely satisfied with his argument.<ref>[[UCLA]] Oral History [https://archive.org/details/nobelprizewinnin00haye (Interview with Friedrich Hayek)], ''[[American Libraries]]''/''[[Internet Archive]]'', 1978. Retrieved on 4 April 2009 ([http://blog.mises.org/archives/009657.asp Blog.Mises.org] {{Webarchive|url=https://web.archive.org/web/20090627012718/http://blog.mises.org/archives/009657.asp |date=2009-06-27 }}), source with quotes</ref>}}
+
+Economist [[Milton Friedman]] considered Mises inflexible in his thinking, but added that Mises' difficult life and lack of acceptance by academia are the likely culprits: {{quote|The story I remember best happened at the initial Mont Pelerin meeting when he got up and said, "You're all a bunch of socialists." We were discussing the distribution of income, and whether you should have [[Progressive tax|progressive]] [[income taxes]]. Some of the people there were expressing the view that there could be a justification for it.
+
+Another occasion which is equally telling: Fritz Machlup was a student of Mises's, one of his most faithful disciples. At one of the Mont Pelerin meetings, Machlup gave a talk in which I think he questioned the idea of a [[gold standard]]; he came out in favor of [[floating exchange rates]]. Mises was so mad he wouldn't speak to Machlup for three years. Some people had to come around and bring them together again. It's hard to understand; you can get some understanding of it by taking into account how people like Mises were persecuted in their lives.<ref>{{cite journal | title = Best of Both Worlds (Interview with Milton Friedman) | journal = Reason | date = June 1995 | url = http://www.reason.com/news/show/29691.html }}</ref>}}
+
+Economist [[Murray Rothbard]], who studied under Mises, agreed he was uncompromising, but disputes reports of his abrasiveness. In his words, Mises was "unbelievably sweet, constantly finding research projects for students to do, unfailingly courteous, and never bitter" about the discrimination he received at the hands of the economic establishment of his time.<ref>Murray Rothbard, {{YouTube|KWdUIuID8ag|"The Future of Austrian Economics"}}, 1990 talk at Mises University at Stanford, at MisesMedia Youtube channel.</ref>
+
+After Mises died, his widow Margit quoted a passage that he had written about [[Benjamin Anderson]]. She said it best described Mises's own personality: <blockquote>His most eminent qualities were his inflexible honesty, his unhesitating sincerity. He never yielded. He always freely enunciated what he considered to be true. If he had been prepared to suppress or only to soften his criticisms of popular, but irresponsible, policies, the most influential positions and offices would have been offered him. But he never compromised.<ref>{{cite book |last=Kirzner |first=Israel M. |title=Ludwig von Mises: The Man and his Economics |url=https://archive.org/details/ludwigvonmises00isra |url-access=registration |year=2001 |publisher=ISI Books |location=Wilmington, DE |isbn=978-1882926688 |page=[https://archive.org/details/ludwigvonmises00isra/page/31 31] |author-link=Israel Kirzner |oclc=47734733}}</ref></blockquote>
+
+=== Debates about fascism ===
+Marxists [[Herbert Marcuse]] and [[Perry Anderson]] as well as German writer Claus-Dieter Krohn criticized Mises for writing approvingly of Italian fascism, especially for its suppression of leftist elements, in his 1927 book ''[[Liberalism (book)|Liberalism]]''.<ref>Ralph Raico, "Mises on Fascism, Democracy, and Other Questions, ''Journal of Libertarian Studies'' (1996) 12:1 pp. 1–27</ref> In 2009, economist [[J. Bradford DeLong]] and sociologist [[Richard Seymour (21st-century writer)|Richard Seymour]] repeated the criticism.<ref>Richard Seymour, [''The Meaning of Cameron''], (Zero Books, John Hunt, London, 2010), [https://books.google.com/books?id=lCtbIPZbUTwC&pg=PA32 p. 32], {{ISBN|1846944562}}</ref>
+
+Mises, in his 1927 book ''Liberalism'', wrote:<ref>Ludwig von Mises, [https://mises.org/liberal/ch1sec10.asp "Liberalism"], Chapter 10, The Argument of Fascism, 1927.</ref> {{quote|It cannot be denied that Fascism and similar movements aiming at the establishment of dictatorships are full of the best intentions and that their intervention has, for the moment, saved European civilization. The merit that Fascism has thereby won for itself will live on eternally in history. But though its policy has brought salvation for the moment, it is not of the kind which could promise continued success. Fascism was an emergency makeshift. To view it as something more would be a fatal error.}}
+
+Mises biographer [[Jörg Guido Hülsmann]] says that critics who suggest that Mises supported fascism are "absurd" as he notes that the full quote describes fascism as dangerous. He notes that Mises thought it was a "fatal error" to think that it was more than an "emergency makeshift" against the looming threat of communism and socialism as exemplified by the [[Bolsheviks]] in Russia and the surging [[Communist Party of Germany|communists of Germany]].<ref name=Knight/>{{rp|560}} Nevertheless, [[Jörg Guido Hülsmann|Hülsmann]] does mention briefly in ''Mises: The Last Knight of Liberalism''<ref>''Mises: The Last Knight of Liberalism'' (2007) p. 677</ref> that Mises had been a card-carrying member of the Fatherland Front (Austria) fascist party but, as Hülsmann uses the word "probably", it's not exactly clear whether membership was mandatory for [[public officials]] and [[Civil service|civil servants]]{{CN|date=May 2021}}.  
+
+==Works==
+
+'''Books''' 
+* ''[[The Theory of Money and Credit]]'' (1912, enlarged US edition 1953)
+** [http://library.freecapitalists.org/books/Ludwig%20von%20Mises/The%20Theory%20of%20Money%20and%20Credit.pdf Full text available] {{Webarchive|url=https://web.archive.org/web/20141216191645/http://library.freecapitalists.org/books/Ludwig%20von%20Mises/The%20Theory%20of%20Money%20and%20Credit.pdf |date=2014-12-16 }}.
+* ''[https://mises.org/resources/1085/Nation-State-and-Economy Nation, State, and Economy]'' (1919)
+** [https://mises-media.s3.amazonaws.com/Nation%2C%20State%2C%20and%20Economy_3.pdf Full text available].
+* "[[Economic Calculation in the Socialist Commonwealth]]" (1920) (article)
+* ''[[Socialism (book)|Socialism: An Economic and Sociological Analysis]]'' (1922, 1932, 1951)
+* ''[[Liberalism (book)|Liberalismus]]'' (1927, 1962)
+**Translated into English with the new title, ''The Free and Prosperous Commonwealth''
+* ''[https://mises-media.s3.amazonaws.com/Critique%20of%20Interventionism%2C%20A_3.pdf A Critique of Interventionism]'' (1929) [https://www.mises.org/etexts/mises/critique/contents.asp Full text available online].<ref>“...we must greet enthusiastically the recent publishing of six essays written by Ludwig von Mises in the 1920s. [[Arlington House Publishers]] and translator Professor [[Hans Sennholz]] are to be congratulated for making these essays available to a whole new generation of economists and policymakers who could still profit, apparently, from their insightful analysis.”<br><br>Armentano, D. [https://reason.com/1978/05/01/a-critique-of-interventionism/ “Review of ''A Critique of Interventionism'', by Ludwig von Mises”]. ''[[Reason (magazine)|Reason]]'', May 1978</ref>
+* ''[https://mises.org/books/epistemological.pdf Epistemological Problems of Economics]'' (1933, 1960)
+** ''[https://mises.org/epofe.asp Epistemological Problems of Economics]''
+* ''[https://mises.org/books/memoirs_mises.pdf Memoirs]'' (1940)
+* ''Interventionism: An Economic Analysis'' (1941, 1998)
+* ''[[Omnipotent Government|Omnipotent Government: The Rise of Total State and Total War]]'' (1944)
+* ''[[Bureaucracy (book)|Bureaucracy]]'' (1944, 1962)
+* ''[http://liberty.me/library/planned-chaos/ Planned Chaos]'' (1947, added to 1951 edition of ''Socialism'')
+** ''[https://mises.org/resources/2714 Planned Chaos]''
+* ''[[Human Action|Human Action: A Treatise on Economics]]'' (1949, 1963, 1966, 1996)
+* ''[https://mises.org/books/planningforfreedom_mises.pdf Planning for Freedom]'' (1952, enlarged editions in 1962, 1974, and 1980)
+* ''[[The Anti-Capitalistic Mentality]]'' (1956)
+** [http://library.freecapitalists.org/books/Ludwig%20von%20Mises/The%20Anti-Capitalistic%20Mentality.pdf Full text available]{{Dead link|date=March 2021 |bot=InternetArchiveBot |fix-attempted=yes }} at the [[Ludwig von Mises Institute]].
+* ''[[Theory and History|Theory and History: An Interpretation of Social and Economic Evolution]]'' (1957)
+** [https://mises-media.s3.amazonaws.com/Theory%20and%20History%20An%20Interpretation%20of%20Social%20and%20Economic%20Evolution_1.pdf Full text available].
+** [https://mises.org/library/theory-and-history-interpretation-social-and-economic-evolution-0 Full audiobook available].
+* ''[https://mises.org/books/ultimate.pdf The Ultimate Foundation of Economic Science]'' (1962)
+** ''[https://mises.org/books/ufofes/ The Ultimate Foundation of Economic Science]''
+* ''[https://mises.org/etexts/histsetting.pdf The Historical Setting of the Austrian School of Economics]'' (1969)
+** ''[https://www.mises.org/hsofase.asp The Historical Setting of the Austrian School of Economics]''
+* ''Notes and Recollections'' (1978)
+* ''[https://mises.org/sites/default/files/The%20Clash%20of%20Group%20Interests%20and%20Other%20Essays_3.pdf The Clash of Group Interests and Other Essays]'' (1978)
+* ''[https://mises.org/document/687/ On the Manipulation of Money and Credit]'' (1978)
+** ''[https://mises.org/document/3361 The Causes of the Economic Crisis]'', reissue
+* ''[https://mises.org/sites/default/files/Economic%20Policy%20Thoughts%20for%20Today%20and%20Tomorrow_3.pdf Economic Policy: Thoughts for Today and Tomorrow]'' (1979, lectures given in 1959)
+** ''[https://mises.org/library/economic-policy-thoughts-today-and-tomorrow Economic Policy: Thoughts for Today and Tomorrow]''
+* ''[https://mises.org/sites/default/files/Money%2C%20Method%2C%20and%20the%20Market%20Process_3.pdf Money, Method, and the Market Process]'' (1990)
+** ''[https://mises.org/library/money-method-and-market-process Money, Method, and the Market Process]''
+* ''[https://mises.org/library/economic-freedom-and-interventionism Economic Freedom and Interventionism]'' (1990)
+* ''[http://arquivo.pt/wayback/20090713145625/http://www.fee.org/pdf/books/Free_Market_and_Its_Enemies_The.pdf The Free Market and Its Enemies]'' (2004, lectures given in 1951)
+** ''[https://archive.today/20061014141824/http://www.fee.org/library/books/thefree.asp The Free Market and Its Enemies]''
+* ''[http://www.fee.org/files/doclib/20130703_MarxismUnmasked.pdf Marxism Unmasked: From Delusion to Destruction]'' (2006, lectures given in 1952)
+* ''[https://mises.org/library/ludwig-von-mises-money-and-inflation Ludwig von Mises on Money and Inflation]'' (2010, lectures given in the 1960s)
+
+'''Book reviews'''
+* [https://archive.org/download/vonmisesludwig.reviewoftheeconomicmunichbyphilipcortneythefreemanmarch1955pp.6668/von%20Mises%2C%20Ludwig.%20Review%20of%20The%20Economic%20Munich%20by%20Philip%20Cortney%20%28The%20Freeman%2C%20March%201955%29%20pp.%2066-68.pdf “Review of ''The Economic Munich'' by Philip Cortney”]. ''[[The Freeman]]'', March 1955. [https://mises-media.s3.amazonaws.com/Freeman55-3_4.pdf Full issue available].
+
+== See also ==
+{{div col|colwidth=35em}}
+* [[Contributions to liberal theory]]
+* [[Liberalism in Austria]]
+* [[Praxeology]]
+* [[List of Austrian scientists]]
+* [[Mises Institute]], founded by [[Burton Blumert]], [[Lew Rockwell]] and [[Murray Rothbard]]
+* [[Thymology]]
+{{div col end}}
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+* [[Eamonn Butler|Butler, Eamonn]], [http://www.iea.org.uk/sites/default/files/publications/files/upldbook514pdf.pdf ''Ludwig von Mises – A Primer''], Institute of Economic Affairs (2010).
+* [[Richard Ebeling|Ebeling, Richard M.]] ''Political Economy, Public Policy, and Monetary Economics: Ludwig von Mises and the Austrian Tradition'', (London/New York: Routledge, 2010) 354 pages, {{ISBN|978-0-415-77951-7}}.
+* Ebeling, Richard M. [http://www.thefreemanonline.org/featured/ludwig-von-mises-the-political-economist-of-liberty-part-1/ "Ludwig von Mises: The Political Economist of Liberty, Part I"], (''The Freeman'', May 2006).
+* Ebeling, Richard M. [http://www.thefreemanonline.org/featured/ludwig-von-mises-the-political-economist-of-liberty-part-ii/ "Ludwig von Mises: The Political Economist of Liberty, Part II"], (''The Freeman'', June 2006).
+* Ebeling, Richard M. [https://archive.today/20130416052123/http://www.thefreemanonline.org/featured/ludwig-von-mises-and-the-vienna-of-his-time-part-1/ "Ludwig von Mises and the Vienna of His Time, Part I"], (''The Freeman'', March 2005).
+* Ebeling, Richard M. [https://archive.today/20130415234919/http://www.thefreemanonline.org/featured/ludwig-von-mises-and-the-vienna-of-his-time-part-ii/ "Ludwig von Mises and the Vienna of His Time, Part II"], (''The Freeman'', April 2005).
+* Ebeling, Richard M. [https://archive.today/20130415231036/http://www.thefreemanonline.org/featured/austrian-economics-and-the-political-economy-of-freedom/ "Austrian Economics and the Political Economy of Freedom"], (''The Freeman'', June 2004).
+* [[David Gordon (philosopher)|Gordon, David]] (2011-02-23) ''[https://mises.org/daily/5056/Misess-Epistemology Mises's Epistemology]'', [[Ludwig von Mises Institute]].
+* Jones, Daniel Stedman. ''Masters of the Universe: Hayek, Friedman, and the Birth of Neoliberal Politics'' (2012), pp.&nbsp;49–51.
+* [[Murray Rothbard|Rothbard, Murray N.]] "Mises, Ludwig Edler von," ''[[The New Palgrave: A Dictionary of Economics]]'', 1987, v. 3, pp.&nbsp;479–80.
+* {{cite book|last=Shelton|first=Judy|title=Money Meltdown: Restoring Order to the Global Currency System|year=1994|publisher=Free Press|location=New York|isbn=978-0029291122|oclc=797359731|page=[https://archive.org/details/moneymeltdownres00shel/page/399 399]|url=https://archive.org/details/moneymeltdownres00shel/page/399}}
+** Reviewed in: {{cite journal|last=Dornbusch|first=Rudi|title=Money Meltdown|journal=The Washington Post|date=July 10, 1994|url=http://www.highbeam.com/doc/1P2-899835.html|archive-url=https://web.archive.org/web/20150329065010/http://www.highbeam.com/doc/1P2-899835.html|url-status=dead|archive-date=March 29, 2015|access-date=May 25, 2013 |quote=The hero in this book is Ludwig von Mises.}} (from [[HighBeam Research]]).
+* {{cite book | url=https://archive.org/details/myyearswithludwi00vonm | title=My Years with Ludwig von Mises | publisher=Arlington House Publishers | author=von Mises, Margit | year=1976 | isbn=978-0-87000-368-4 | url-access=registration }}
+* {{cite encyclopedia |last= Yeager|first=Leland |author-link= Leland B. Yeager |editor-first=Ronald |editor-last=Hamowy |editor-link=Ronald Hamowy |encyclopedia=The Encyclopedia of Libertarianism |title=  Mises, Ludwig von (1881–1973) |chapter-url= https://books.google.com/books?id=yxNgXs3TkJYC |year=2008 |publisher= Sage; Cato Institute |location= Thousand Oaks, CA |doi=10.4135/9781412965811.n205 |isbn= 978-1412965804 |oclc=750831024| lccn = 2008009151 |pages=334–36 |chapter=Mises, Ludwig von (1881–1972) }}
+
+== External links ==
+{{wikiquote}}
+* [http://www.vonmisesinstitute-europe.org/ Ludwig von Mises Institute Europe]
+* [http://www.mises.de Mises.de] (books and articles in the original German versions by Mises and other authors of the Austrian School)
+* {{dmoz|Science/Social_Sciences/Economics/Schools_of_Thought/Austrian_School/People/Mises,_Ludwig_von/}}
+* {{Find a Grave|25164836}}
+* {{Google Scholar id|WwEfPsgAAAAJ}}
+{{Ludwig von Mises}}
+{{Austrian economists}}
+{{Authority control}}
+
+{{DEFAULTSORT:Mises, Ludwig von}}
+[[Category:1881 births]]
+[[Category:1973 deaths]]
+[[Category:20th-century American economists]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:20th-century American philosophers]]
+[[Category:20th-century Austrian male writers]]
+[[Category:20th-century Austrian philosophers]]
+[[Category:American economics writers]]
+[[Category:American libertarians]]
+[[Category:American male non-fiction writers]]
+[[Category:American political philosophers]]
+[[Category:American political writers]]
+[[Category:Austrian anti-communists]]
+[[Category:Austrian economists]]
+[[Category:Jewish emigrants from Austria to the United States after the Anschluss]]
+[[Category:Austrian libertarians]]
+[[Category:Austrian male writers]]
+[[Category:Austrian non-fiction writers]]
+[[Category:Austrian political philosophers]]
+[[Category:Austrian classical liberals]]
+[[Category:Austrian School economists]]
+[[Category:Burials at Ferncliff Cemetery]]
+[[Category:Critics of Marxism]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Edlers of Austria]]
+[[Category:Graduate Institute of International and Development Studies faculty]]
+[[Category:Jewish American writers]]
+[[Category:Jewish anti-communists]]
+[[Category:Jewish philosophers]]
+[[Category:Libertarian theorists]]
+[[Category:New York University faculty]]
+[[Category:Non-interventionism]]
+[[Category:Writers from Lviv]]
+[[Category:Recipients of the Austrian Decoration for Science and Art]]
+[[Category:Social philosophy]]
+[[Category:University of Vienna alumni]]
+[[Category:Yiddish-speaking people]]
+[[Category:American anti-communists]]

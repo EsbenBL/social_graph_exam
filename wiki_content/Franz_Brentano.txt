@@ -1,0 +1,168 @@
+{{Short description|German philosopher, psychologist, and former Catholic priest}}
+{{Infobox philosopher
+| region = [[Western philosophy]]
+| era = [[19th-century philosophy]]
+| image = Franz Brentano portrait.jpg
+| honorific_prefix = [[The Reverend]]
+| name = Franz Brentano
+| birth_name = Franz Clemens Honoratus Hermann Josef Brentano
+| birth_date  = 16 January 1838
+| birth_place = {{Interlanguage link multi|Marienberg am Rhein|de}},<br>[[Rhine Province]], [[Kingdom of Prussia|Prussia]]
+| death_date  = {{d-da|17 March 1917|16 January 1838}}
+| death_place = [[Zürich]], [[Swiss Confederation|Switzerland]]
+| education   = [[University of Munich]]<br>[[Humboldt University of Berlin|University of Berlin]]<br>[[University of Münster]]<br>[[University of Tübingen]]<br>([[PhD]], 1862)<br>[[University of Würzburg]]<br>([[Dr. phil. hab.]], 1866)
+| school_tradition = [[School of Brentano]]<br>[[Aristotelianism]]<br>[[Intentionalism (philosophy of mind)|Intentionalism]] ("act psychology")<ref>[http://www.britannica.com/biography/Franz-Brentano Franz Brentano – Britannica.com]</ref><br>[[Empirical psychology]]<ref>[[E. B. Titchener]], [https://www.jstor.org/stable/1413478?seq=1#page_scan_tab_contents "Brentano and Wundt: Empirical and Experimental Psychology"], ''The American Journal of Psychology'', '''32'''(1) (Jan. 1921), pp. 108–120.</ref><br>[[Phenomenology (philosophy)|Austrian phenomenology]]<ref>Robin D. Rollinger, ''Austrian Phenomenology: Brentano, Husserl, Meinong, and Others on Mind and Object'', Walter de Gruyter, 2008, p. 7.</ref><br>[[Austrian realism]]<ref>''Gestalt Theory: Official Journal of the Society for Gestalt Theory and Its Applications (GTA)'', '''22''', Steinkopff, 2000, p. 94: "Attention has varied between Continental Phenomenology (late Husserl, Merleau-Ponty) and Austrian Realism (Brentano, Meinong, Benussi, early Husserl)".</ref><ref>Robin D. Rollinger, ''Austrian Phenomenology: Brentano, Husserl, Meinong, and Others on Mind and Object'', Walter de Gruyter, 2008, p. 114: "The fact that Brentano [in ''Psychology from an Empirical Standpoint''] speaks of a relation of analogy between physical phenomena and real things existing outside of the mind obviously indicates that he is a realist and not an idealist or a solipsist, as he may indeed be taken to at first glance. Rather, his position is a very extreme representational realism. The things which exist outside of our sensations, he maintains, are in fact to be identified with the ones we find posited in the hypotheses of natural sciences."</ref>
+| institutions   = [[University of Würzburg]]<br>(1866–1873)<br>[[University of Vienna]]<br>(1873–1895)
+| main_interests = [[Ontology]]<br>[[Psychology]]
+| influences = [[Aristotle]], [[Friedrich Adolf Trendelenburg]],<ref>Edoardo Fugali, [https://doi.org/10.1007%2F978-1-4020-8582-6_10 ''Toward the Rebirth of Aristotelian Psychology: Trendelenburg and Brentano''] (2008).</ref> [[Bernard Bolzano]]<ref>Robin D. Rollinger, ''Husserl's Position in the School of Brentano'', ''Phaenomenologica'' 150, Dordrecht: Kluwer, 1999, Chap. 2: "Husserl and Bolzano", p. 70.</ref>
+| influenced = [[Edmund Husserl]], [[Sigmund Freud]], [[Tomáš Garrigue Masaryk]], [[Rudolf Steiner]], [[Alexius Meinong]], [[Carl Stumpf]], [[Anton Marty]], [[Kazimierz Twardowski]], [[Christian von Ehrenfels]], [[Vittorio Benussi]], [[Carl Menger]],<ref>[[Barry Smith (academic)|Barry Smith]], [http://ontology.buffalo.edu/smith/articles/menger.html "Aristotle, Menger, Mises:An Essay in the Metaphysics of Economics"], ''History of Political Economy, Annual Supplement to vol. 22'' (1990), 263–288.</ref> [[Martin Heidegger]], [[George Stout]]<ref name=Albertazzi/>
+| notable_ideas = [[Intentionality]],<br>[[intentional object]],<br>distinction between [[Heterophenomenology|''genetic'']] and [[Phenomenology (philosophy)|''empirical/descriptive'' psychology]],<ref name=SEP>{{cite SEP |url-id=brentano |title=Franz Brentano |last=Huemer |first=Wolfgang}}</ref><br>distinction between [[Sensory perception|sensory]] and [[noetic consciousness]] ([[Mental representation|presentations]] of sensory objects or [[intuition]]s versus thinking of [[concept]]s)<ref>Brentano, F., ''[https://books.google.com/books?id=5LY9AAAAIAAJ Sensory and Noetic Consciousness: Psychology from an Empirical Standpoint III''], International Library of Philosophy and Scientific Method, Routledge & Kegan Paul, 1981.</ref><ref>Biagio G. Tassone, ''From Psychology to Phenomenology: Franz Brentano's 'Psychology from an Empirical Standpoint' and Contemporary Philosophy of Mind'', Palgrave Macmillan, 2012, p. 307.</ref><br>the judgement–predication distinction,<br>time-consciousness<ref name=SEP/>
+|thesis1_title = Von der mannigfachen Bedeutung des Seienden nach Aristoteles (On the Several Senses of Being in Aristotle)
+|thesis1_url   = http://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb10234887.html?pageNo=5
+|thesis1_year  = 1862
+|thesis2_title = Die Psychologie des Aristoteles, insbesondere seine Lehre vom Nous Poietikos (The Psychology of Aristotle, in Particular His Doctrine of the Active Intellect)
+|thesis2_url   = https://archive.org/details/diepsychologied00brengoog
+|thesis2_year  = 1867
+|doctoral_advisor  = [[Franz Jakob Clemens]]<br>(PhD thesis advisor)
+|academic_advisors = [[Friedrich Adolf Trendelenburg|Adolf Trendelenburg]]
+|doctoral_students = <!--please add only if reliable sources can be found-->
+|notable_students  = [[Edmund Husserl]], [[Sigmund Freud]], [[Tomáš Masaryk]], [[Rudolf Steiner]], [[Alexius Meinong]], [[Carl Stumpf]], [[Anton Marty]], [[Kazimierz Twardowski]], [[Christian von Ehrenfels]]
+|module         = {{Infobox clergy 
+ |child          = yes
+ |religion       = [[Christianity]]
+ |church         = [[Catholic Church]]
+ |ordained       = 6 August 1864
+ |laicized       = 1873
+}}
+|spouse = {{Plainlist|
+* Ida Lieben<br>(m. 1880–1894; her death)
+* Emilie Rueprecht<br>(m. 1897–1917; his death)
+}}
+}}
+'''Franz Clemens Honoratus Hermann Josef Brentano''' ({{IPAc-en|b|r|ɛ|n|ˈ|t|ɑː|n|oʊ}}; {{IPA-de|bʁɛnˈtaːno|lang}}; 16 January 1838 – 17 March 1917) was an influential [[Germans|German]] [[philosopher]], [[psychologist]], and former [[Catholic priest]] (withdrawn in 1873 due to the definition of papal infallibility) whose work strongly influenced not only students [[Edmund Husserl]], [[Sigmund Freud]], [[Tomáš Masaryk]], [[Rudolf Steiner]], [[Alexius Meinong]], [[Carl Stumpf]], [[Anton Marty]], [[Kazimierz Twardowski]], and [[Christian von Ehrenfels]], but many others whose work would follow and make use of his original ideas and concepts.
+
+==Life==
+Brentano was born at {{Interlanguage link multi|Marienberg am Rhein|de}}, near [[Boppard]]. He was the son of [[Christian Brentano]], the brother of [[Lujo Brentano]], and the nephew of [[Clemens Brentano]] and [[Bettina von Arnim]], and of [[Gunda Brentano|Gunda]] (née Brentano) and [[Friedrich Carl von Savigny|Friedrich von Savigny]]. He studied [[philosophy]] at the universities of [[University of Munich|Munich]], [[University of Würzburg|Würzburg]], [[Humboldt University of Berlin|Berlin]] (with [[Friedrich Adolf Trendelenburg|Adolf Trendelenburg]]) and [[University of Münster|Münster]]. He had a special interest in [[Aristotle]] and [[scholastic philosophy]]. He wrote his dissertation in 1862 at [[University of Tübingen|Tübingen]] under the title ''Von der mannigfachen Bedeutung des Seienden nach Aristoteles'' (''On the Several Senses of Being in Aristotle''). His thesis advisor was [[Franz Jakob Clemens]].<ref>{{MathGenealogy|id=15176}}</ref> Subsequently, he began to study [[theology]] and entered the seminary in Munich and then Würzburg. He was ordained a Catholic priest on 6 August 1864.
+
+In 1866 he defended his [[habilitation thesis]], ''Die Psychologie des Aristoteles, insbesondere seine Lehre vom Nous Poietikos'' (''The Psychology of Aristotle, in Particular His Doctrine of the Active Intellect'', published 1867), and began to lecture at the [[University of Würzburg]]. His students in this period included, among others, [[Carl Stumpf]] and [[Anton Marty]]. Between 1870 and 1873, Brentano was heavily involved in the debate on [[papal infallibility]]. A strong opponent of such [[dogma]], he eventually gave up his priesthood and his tenure in 1873. He remained, however, deeply religious<ref>Boltzmann, Ludwig. 1995. ''Ludwig Boltzmann: His Later Life and Philosophy, 1900-1906: Book Two: The Philosopher''. Springer Science & Business Media, p. 3</ref> and dealt with the topic of the existence of God in lectures given at the Universities of Würzburg and Vienna.<ref>Brentano, F. C. 1987. ''[https://books.google.com/books?id=SB0fgBKZ9KcC&printsec=frontcover#v=onepage&q&f=false On the Existence of God: Lectures Given at the Universities of Würzburg and Vienna (1868-1891)]''. Springer Science & Business Media,</ref>
+
+In 1874 Brentano published his major work, ''[[Psychology from an Empirical Standpoint]]''. From 1874 to 1895 he taught at the [[University of Vienna]], [[Austria-Hungary]]. Among his students were [[Edmund Husserl]], [[Sigmund Freud]], [[Tomáš Masaryk]], [[Rudolf Steiner]], [[Alexius Meinong]], [[Carl Stumpf]], [[Anton Marty]], [[Kazimierz Twardowski]], and [[Christian von Ehrenfels]] and many others (see [[School of Brentano]] for more details). While he began his career as a full ordinary professor, he was forced to give up both his Austrian citizenship and his professorship in 1880 in order to marry Ida Lieben (Austro-Hungarian law denied matrimony to persons who had been ordained priests even if they later had resigned from priesthood), but he was permitted to stay at the university only as a ''[[Privatdozent]]''. After the departure of Twardowski back to Lwów and the death of his wife in 1894, Brentano retired and moved to [[Florence]] in 1896, where he married his second wife, Emilie Ruprecht, in 1897. He transferred to [[Zürich]] at the outbreak of the [[World War I|First World War]], where he died in 1917.
+
+==Work==
+
+===Intentionality<!--'Genetic psychology (Brentano)' and 'Descriptive psychology (Brentano)' redirect here-->===
+{{Main|Intentionality}}
+Brentano is best known for his reintroduction of the concept of [[intentionality]]—a concept derived from [[scholastic philosophy]]—to contemporary [[philosophy]] in his lectures and in his work ''Psychologie vom empirischen Standpunkt'' (''Psychology from an Empirical Standpoint''). While often simplistically summarised as "aboutness" or the relationship between mental acts and the external world, Brentano defined it as the main characteristic of ''mental phenomena'', by which they could be distinguished from ''physical phenomena''. Every mental phenomenon, every psychological act has content, is directed at an object (the ''[[intentional object]]''). Every belief, desire etc. has an object that they are about: the believed, the desired. Brentano used the expression "intentional inexistence" to indicate the status of the objects of thought in the mind. The property of being intentional, of having an intentional object, was the key feature to distinguish psychological phenomena and physical phenomena, because, as Brentano defined it, physical phenomena lacked the ability to generate ''original intentionality'', and could only facilitate an intentional relationship in a second-hand manner, which he labeled ''derived intentionality''.
+ 
+{{cquote|Every mental phenomenon is characterized by what the Scholastics of the Middle Ages called the intentional (or mental) inexistence of an object, and what we might call, though not wholly unambiguously, reference to a content, direction towards an object (which is not to be understood here as meaning a thing), or immanent objectivity. Every mental phenomenon includes something as object within itself, although they do not all do so in the same way. In presentation something is presented, in judgement something is affirmed or denied, in love loved, in hate hated, in desire desired and so on. This intentional in-existence is characteristic exclusively of mental phenomena. No physical phenomenon exhibits anything like it. We could, therefore, define mental phenomena by saying that they are those phenomena which contain an object intentionally within themselves. <small>— Franz Brentano, ''Psychology from an Empirical Standpoint'', edited by Linda L. McAlister (London: Routledge, 1995 [1874]), pp. 88–89.</small>}}
+
+Brentano introduced a distinction between '''genetic psychology'''<!--boldface per WP:R#PLA--> (''genetische Psychologie'') and '''descriptive psychology'''<!--boldface per WP:R#PLA--> (''beschreibende'' or ''deskriptive Psychologie''):<ref>The first published occurrence of the term is in Brentano's ''Vom Ursprung sittlicher Erkenntnis (The Origin of our Knowledge of Right and Wrong)'' published in 1889 (see Franz Brentano, ''Descriptive Psychology'', Routledge, 2012, "Introduction").</ref> in his terminology, genetic psychology is the study of psychological phenomena from a third-person point of view, which involves the use of empirical experiments (satisfying, thus, the scientific standards we nowadays expect of an empirical science).<ref name=SEP/> (This concept is roughly equivalent to what is now called [[empirical psychology]],<ref name=Jacquette>Dale Jacquette (ed.), ''The Cambridge Companion to Brentano'', Cambridge University Press, 2004, p. 67.</ref> [[cognitive science]],<ref name=Jacquette/> or "[[heterophenomenology]]", an explicitly third-person, scientific approach to the study of [[consciousness]].) The aim of descriptive psychology, on the other hand, is to describe consciousness from a first-person point of view.<ref name=SEP/> The latter approach was further developed by Husserl and the [[Phenomenology (philosophy)|phenomenological]] tradition.<ref>[[Anna-Teresa Tymieniecka]], ''Phenomenology World-Wide: Foundations — Expanding Dynamics — Life-Engagements A Guide for Research and Study'', Springer, 2014, p. 18: "[Husserl] entrusts this analysis to a pure or phenomenological psychology whose links with Brentano's descriptive psychology are still clearly visible."</ref>
+
+===Theory of perception===
+He is also well known for claiming that ''Wahrnehmung ist Falschnehmung'' ('perception is misception') that is to say perception is erroneous. In fact he maintained that external, [[sensory perception]] could not tell us anything about the ''de facto'' existence of the perceived world, which could simply be illusion. However, we can be absolutely sure of our internal perception. When I hear a tone, I cannot be completely sure that there is a tone in the real world, but I am absolutely certain that I do hear. This awareness, of the fact that I hear, is called internal perception. External perception, sensory perception, can only yield hypotheses about the perceived world, but not truth. Hence he and many of his pupils (in particular [[Carl Stumpf]] and [[Edmund Husserl]]) thought that the natural sciences could only yield hypotheses and never universal, absolute truths as in pure [[logic]] or [[mathematics]].
+
+However, in a reprinting of his ''Psychologie vom Empirischen Standpunkte'' (''Psychology from an Empirical Standpoint''), he recanted this previous view. He attempted to do so without reworking the previous arguments within that work but it has been said that he was wholly unsuccessful. The new view states that when we hear a sound, we hear something from the external world; there are no physical phenomena of internal perception.<ref>See Postfix in the 1923 edition (in German) or the 1973, English version ({{ISBN|0710074255}}, edited by Oskar Kraus; translated [from German] by Antos C. Rancurello, D. B. Terrell and [[Linda López McAlister]]; English edition edited by Linda López McAlister).</ref>
+
+===Theory of judgment===
+{{More citations needed section|date=March 2010}}
+Brentano has a theory of judgment which is different from what is currently the predominant ([[Gottlob Frege|Fregean]]) view. At the centre of Brentano's theory of judgment lies the idea that a judgment depends on having a [[Mental representation|presentation]], but this presentation does not have to be predicated. Even stronger: Brentano thought that [[Predicate (grammar)|predication]] is not even necessary for judgment, because there are judgments without a predicational content. Another fundamental aspect of his theory is that judgments are always [[Existential clause|existential]]. This so-called existential claim implies that when someone is judging that S is P he/she is judging that some S that is P exists. (Note that Brentano denied the idea that all judgments are of the form: S is P [and all other kinds of judgment which combine presentations]. Brentano argued that there are also judgments arising from a single presentation, e.g. “the planet Mars exists” has only one presentation.) In Brentano's own symbols, a judgment is always of the form: ‘+A’ (A exists) or ‘–A’ (A does not exist).
+
+Combined with the third fundamental claim of Brentano, the idea that all judgments are either positive (judging that A exists) or negative (judging that A does not exist), we have a complete picture of Brentano's theory of judgment. So, imagine that you doubt whether midgets exist. At that point you have a presentation of midgets in your mind. When you judge that midgets do not exist, then you are judging that the presentation you have does not present something that exists. You do not have to utter that in words or otherwise predicate that judgment. The whole judgment takes place in the denial (or approval) of the existence of the presentation you have.
+
+The problem of Brentano's theory of judgment is not the idea that all judgments are existential judgments (though it is sometimes a very complex enterprise to transform an ordinary judgment into an existential one), the real problem is that Brentano made no distinction between [[Object (philosophy)|object]] and presentation. A presentation exists as an object in your mind. So you cannot really judge that A does not exist, because if you do so you also judge that the presentation is not there (which is impossible, according to Brentano's idea that all judgments have the object which is judged as presentation). [[Kazimierz Twardowski]] acknowledged this problem and solved it by denying that the object is equal to the presentation. This is actually only a change within Brentano's theory of perception, but has a welcome consequence for the theory of judgment, viz. that you can have a presentation (which exists) but at the same time judge that the object does not exist.
+
+==Legacy==
+The young [[Martin Heidegger]] was very much inspired by Brentano's early work ''On the Several Senses of Being in Aristotle''.
+Brentano's focus on conscious (or phenomenal) intentionality was inherited by Carl Stumpf's [[Berlin School of experimental psychology]], Anton Marty's [[Prague School]] of linguistics, Alexius Meinong's [[Graz School]] of experimental psychology, Kazimierz Twardowski's [[Lwów–Warsaw school|Lwów School]] of philosophy, and [[Edmund Husserl]]'s [[Phenomenology (philosophy)|phenomenology]].<ref>Uriah Kriegel, [http://philpapers.org/archive/KRIPIP.pdf "Phenomenal intentionality past and present: introductory], ''Phenomenology and the Cognitive Sciences'' '''12'''(3):437–444 (2013).</ref> Brentano's work also influenced [[George Stout]],<ref name=Albertazzi>Liliana Albertazzi, ''Immanent Realism: An Introduction to Brentano'', Springer, 2006, p. 321.</ref> the teacher of [[George Edward Moore|G. E. Moore]] and [[Bertrand Russell]] at [[Cambridge University]].<ref>Maria van der Schaar, ''G. F. Stout and the Psychological Origins of Analytic Philosophy'', Springer, 2013, p. viii.</ref>
+
+==Bibliography==
+;Major works by Brentano in German
+* (1862) ''On the Several Senses of Being in Aristotle'' (''Von der mannigfachen Bedeutung des Seienden nach Aristoteles'' ([[doctoral thesis]])) ([http://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb10234887.html?pageNo=5 online])
+* (1867) ''The Psychology of Aristotle'' (''Die Psychologie des Aristoteles, insbesondere seine Lehre vom Nous Poietikos'' ([[habilitation thesis]] written in 1865/66)) ([https://archive.org/details/diepsychologied00brengoog online])
+* (1874) ''Psychology from an Empirical Standpoint'' (''Psychologie vom empirischen Standpunkt'') ([https://archive.org/details/psychologievome00kraugoog Online])
+** (1924–25) ''Psychologie vom empirischen Standpunkt.'' Ed. Oskar Kraus, 2 vols. Leipzig: Meiner. {{ISBN|3-7873-0014-7}}<ref>[http://gams.uni-graz.at/archive/objects/context:bag/methods/sdef:Context/get?mode=bib_prim Franz Brentano Archiv Graz]</ref>
+* (1876) ''Was für ein Philosoph manchmal Epoche macht'' (a work against [[Plotinus]]) ([https://archive.org/details/MN41856ucmf_0 Online])
+* (1889) ''The Origin of our Knowledge of Right and Wrong'' (''Vom Ursprung sittlicher Erkenntnis'') ([https://archive.org/details/theoriginofthekn00brenuoft 1902 English edition online])
+* (1911) ''Aristotle and his World View'' (''Aristoteles und seine Weltanschauung'')
+* (1911) ''The Classification of Mental Phenomena'' (''Von der Klassifikation der psychischen Phänomene'')
+* (1930) ''The True and the Evident'' (''Wahrheit und Evidenz'')
+* (1976) ''Philosophical Investigations on Space, Time and Phenomena'' (''Philosophische Untersuchungen zu Raum, Zeit und Kontinuum'')
+* (1982) ''Descriptive Psychology'' (''Deskriptive Psychologie'')
+
+;''Collected Works''
+* ''Sämtliche veröffentlichte Schriften in zehn Bänden'' (''Collected Works in Ten Volumes'', edited by Arkadiusz Chrudzimski and Thomas Binder), Frankfurt: Ontos Verlag (now Walter de Gruyter).
+** 1. ''Psychologie vom empirischen Standpunkte — Von der Klassifikation der psychischen Phänomene'' (2008)
+** 2. ''Untersuchungen zur Sinnespsychologie'' (2009)
+** 3. ''Schriften zur Ethik und Ästhetik'' (2010)
+** 4. ''Von der mannigfachen Bedeutung des Seienden nach Aristoteles'' (2014)
+
+==See also==
+*[[Analytic psychology (Dilthey)]]
+*[[Analytic psychology (Stout)]]
+*[[Axiological ethics]]
+*[[Cäcilie M.|Anna von Lieben]] (his sister-in-law)
+*[[Robert von Lieben]] (his nephew)
+*[[List of Austrian scientists]]
+*[[List of Austrians]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{wikiquote}}
+{{commons category}}
+* [http://www.franzbrentano.eu/en Franz Brentano website]
+* [http://www.franzbrentano.eu/en/franz-brentano-and-his-context-3 "Franz Brentano and Cornelio Fabro. A forgotten chapter of the Brentanian reception"]
+* {{cite SEP |url-id=brentano |title=Franz Brentano |last=Huemer |first=Wolfgang}}
+* {{cite SEP |url-id=brentano-judgement |title=Brentano's Theory of Judgement |last=Brandl |first=Johannes}}
+* [http://www.ontology.co/brentanof.htm Franz Brentano's Ontology and His Immanent Realism] – Contains a list of the English translations of Brentano's works
+* {{Cite NIE|wstitle=Brentano, Franz|year=1905 |short=x}}
+* {{Internet Archive author |sname=Franz Brentano}}
+* [https://www.gutenberg.org/ebooks/49228 The Origin of the Knowledge of Right and Wrong by Franz Brentano] at Project Gutenberg
+* [http://gams.uni-graz.at/archive/objects/context:bag/methods/sdef:Context/get?mode=about "Franz Brentano Archiv" (Franz Brentano Papers) at Graz University]
+{{Aristotelianism}}
+{{Authority control}}
+
+{{DEFAULTSORT:Brentano, Franz}}
+[[Category:1853 births]]
+[[Category:1917 deaths]]
+[[Category:19th-century essayists]]
+[[Category:19th-century German male writers]]
+[[Category:19th-century German non-fiction writers]]
+[[Category:19th-century German philosophers]]
+[[Category:20th-century essayists]]
+[[Category:20th-century German male writers]]
+[[Category:20th-century German non-fiction writers]]
+[[Category:20th-century German philosophers]]
+[[Category:20th-century German writers]]
+[[Category:20th-century male writers]]
+[[Category:Aristotelian philosophers]]
+[[Category:Austrian philosophers]]
+[[Category:Catholic philosophers]]
+[[Category:Consciousness researchers and theorists]]
+[[Category:Continental philosophers]]
+[[Category:Empiricists]]
+[[Category:Epistemologists]]
+[[Category:German male essayists]]
+[[Category:German male non-fiction writers]]
+[[Category:German people of Italian descent]]
+[[Category:German psychologists]]
+[[Category:German Roman Catholics]]
+[[Category:Historians of philosophy]]
+[[Category:Humboldt University of Berlin alumni]]
+[[Category:Ludwig Maximilian University of Munich alumni]]
+[[Category:Metaphysicians]]
+[[Category:Ontologists]]
+[[Category:People from Rhein-Hunsrück-Kreis]]
+[[Category:People from the Rhine Province]]
+[[Category:Phenomenologists]]
+[[Category:Philosophers of mind]]
+[[Category:Philosophers of psychology]]
+[[Category:Philosophers of religion]]
+[[Category:Philosophers of science]]
+[[Category:Philosophy academics]]
+[[Category:Philosophy writers]]
+[[Category:University of Münster alumni]]
+[[Category:University of Vienna faculty]]
+[[Category:University of Würzburg alumni]]
+[[Category:University of Würzburg faculty]]

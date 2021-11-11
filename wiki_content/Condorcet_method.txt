@@ -1,0 +1,621 @@
+{{Short description|election method that elects the candidate who wins a majority of the vote in every head-to-head election against each of the other candidates}}
+{{Multiple issues|{{More citations needed|date=January 2010}}
+{{split|discuss=Talk:Condorcet method#Pairwise Vote Counting article, split request|date=August 2020}}}}
+{{Electoral systems}}
+[[Image:Preferential ballot.svg|right|thumb|Example Condorcet method voting ballot. Blank votes are equivalent to ranking that candidate last.]]
+A '''Condorcet method''' ({{IPAc-en|lang|pron|k|ɒ|n|d|ɔr|ˈ|s|eɪ}}; {{IPA-fr|kɔ̃dɔʁsɛ|lang}}) is an [[election method]] that elects the candidate who wins a [[majority rule|majority of the vote]] in every head-to-head election against each of the other candidates, that is, a candidate preferred by more voters than any others, whenever there is such a candidate. A candidate with this property, the ''pairwise champion'' or ''beats-all winner'', is formally called the ''Condorcet winner''.<ref>{{cite journal |doi=10.1007/s003550000071 |quote=The Condorcet winner in an election is the candidate who would be able to defeat all other candidates in a series of pairwise elections.|title=Condorcet efficiency: A preference for indifference|year=2001|last1=Gehrlein|first1=William V.|last2=Valognes|first2=Fabrice|journal=Social Choice and Welfare|volume=18|pages=193–205|s2cid=10493112}}</ref> The head-to-head elections need not be done separately; a voter's choice within any given pair can be determined from the ranking.<ref>{{cite document |last1=Green-Armytage |first1=James |title=Four Condorcet-Hare Hybrid Methods for Single-Winner Elections |date=2011 |s2cid=15220771 |url=http://www.votingmatters.org.uk/ISSUE29/I29P1.pdf }}</ref>
+
+Some elections may not yield a Condorcet winner because voter preferences may be cyclic — that is, it is possible (but rare) that every candidate has an opponent that defeats them in a two-candidate contest.<ref>{{cite journal |jstor=30022874?seq=1 |quote=Condorcet's paradox [6] of simple majority voting occurs in a voting situation [...] if for every alternative there is a second alternative which more voters prefer to the first alternative than conversely.|last1=Gehrlein|first1=William V.|last2=Fishburn|first2=Peter C.|title=Condorcet's Paradox and Anonymous Preference Profiles|journal=Public Choice|year=1976|volume=26|pages=1–18|doi=10.1007/BF01725789|s2cid=153482816}}</ref>(This is similar to the game [[Rock paper scissors]], where each hand shape wins against one opponent and loses to another one). The possibility of such cyclic preferences is known as the [[Condorcet paradox]]. However, a smallest group of candidates that beat all candidates not in the group, known as the [[Smith set]], always exists. The Smith set is guaranteed to have the Condorcet winner in it should one exist. Many Condorcet methods elect a candidate who is in the Smith set absent a Condorcet winner, and is thus said to be "Smith-efficient".<ref>http://pj.freefaculty.org/Papers/Ukraine/PJ3_VotingSystemsEssay.pdf Voting Systems "Formally, the Smith set is defined as the smaller of two sets:
+1. The set of all alternatives, X.
+2. A subset A ⊂ X such that each member of A can defeat every member of X that is
+36
+not in A, which we call B=X − A."</ref> The Condorcet winner is also usually but not necessarily the [[Utility|utilitarian]] winner (the one that maximizes [[Social welfare function|social welfare]]).<ref>{{Cite journal|last=Pivato|first=Marcus|date=2015-08-01|title=Condorcet meets Bentham|journal=Journal of Mathematical Economics|volume=59|pages=58–65|doi=10.1016/j.jmateco.2015.04.006|quote=Indeed, it is easy to construct examples where the Condorcet winner does not maximize social welfare [...however...] in a large population satisfying certain statistical regularities, not only is the Condorcet winner almost guaranteed to exist, but it is almost guaranteed to also be the utilitarian social choice.}}</ref><ref>{{Cite journal|last=Lehtinen|first=Aki|date=2007-08-01|title=The Welfare Consequences of Strategic Voting in Two Commonly Used Parliamentary Agendas|journal=Theory and Decision|language=en|volume=63|issue=1|pages=1–40|doi=10.1007/s11238-007-9028-4|issn=0040-5833|quote=If the CW is not the same alternative as the utilitarian winner (UW), the latter ought to be selected according to the utilitarian welfare criterion|citeseerx=10.1.1.727.3928|s2cid=153595828}}</ref>
+
+Condorcet voting methods are named for the 18th-century French [[mathematician]] and [[philosopher]] Marie Jean Antoine Nicolas Caritat, the [[Marquis de Condorcet]], who championed such systems. However, [[Ramon Llull]] devised the earliest known Condorcet method in 1299.<ref>{{cite journal|author=G. Hägele and F. Pukelsheim|year=2001|title=Llull's writings on electoral systems|url=http://www.math.uni-augsburg.de/stochastik/pukelsheim/2001a.html|journal=Studia Lulliana|volume=41|pages=3–38|archiveurl=https://web.archive.org/web/20060207154726/http://www.math.uni-augsburg.de/stochastik/pukelsheim/2001a.html|archivedate=2006-02-07}}</ref> It was equivalent to [[Copeland's method]] in cases with no pairwise ties.<ref>
+{{cite journal|last=Colomer|first=Josep|year=2013|title=Ramon Llull: From Ars Electionis to Social Choice Theory|url=https://www.researchgate.net/publication/220007301|journal=[[Social Choice and Welfare]]|volume=40|issue=2|pages=317–328|doi=10.1007/s00355-011-0598-2|hdl=10261/125715|s2cid=43015882|hdl-access=free}}</ref>
+
+Condorcet methods may use [[Ranked voting|preferential ranked]], [[cardinal voting|rated vote]] ballots, or explicit votes between all pairs of candidates.
+
+Most Condorcet methods employ a single round of preferential voting, in which each voter ranks the candidates from most (marked as number 1) to least preferred (marked with a higher number). A voter's ranking is often called their ''order of preference.'' Votes can be tallied in many ways to find a winner. All Condorcet methods will elect the Condorcet winner if there is one. If there is no Condorcet winner different Condorcet-compliant methods may elect different winners in the case of a cycle - Condorcet methods differ on which other criteria they satisfy.
+
+The procedure given in [[Robert's Rules of Order]] for voting on motions and amendments is also a Condorcet method, even though the voters do not vote by expressing their orders of preference.<ref>{{cite journal |doi=10.1007/BF01789561 |quote=Binary procedures of the Jefferson/Robert variety will select the Condorcet winner if one exists|title=Did Jefferson or Madison understand Condorcet's theory of social choice?|year=1992|last1=McLean|first1=Iain|last2=Urken|first2=Arnold B.|journal=Public Choice|volume=73|issue=4|pages=445–457|s2cid=145167169}}</ref> There are multiple rounds of voting, and in each round the vote is between two of the alternatives. The loser (by majority rule) of a pairing is eliminated, and the winner of a pairing survives to be paired in a later round against another alternative. Eventually, only one alternative remains, and it is the winner. This is analogous to a single-winner or round-robin tournament; the total number of pairings is one less than the number of alternatives. Since a Condorcet winner will win by majority rule in each of its pairings, it will never be eliminated by Robert's Rules. But this method cannot reveal a [[voting paradox]] in which there is no Condorcet winner and a majority prefer an early loser over the eventual winner (though it will always elect someone in the [[Smith set]]). A considerable portion of the literature on social choice theory is about the properties of this method since it is widely used and is used by important organizations (legislatures, councils, committees, etc.). It is not practical for use in public elections, however, since its multiple rounds of voting would be very expensive for voters, for candidates, and for governments to administer.
+
+==Summary==
+In a contest between candidates A, B and C using the preferential-vote form of Condorcet method, a head-to-head race is conducted between each pair of candidates. A and B, B and C, and C and A. If one candidate is preferred over all others, they are the Condorcet Winner and winner of the election.
+
+Because of the possibility of the [[Condorcet paradox]], it is possible, but unlikely,<ref>{{Cite book|title=Voting paradoxes and group coherence : the condorcet efficiency of voting rules|last=Gehrlein, William V.|date=2011|publisher=Springer|others=Lepelley, Dominique.|isbn=9783642031076|location=Berlin|oclc=695387286|quote=empirical studies ... indicate that some of the most common paradoxes are relatively unlikely to be observed in actual elections. ... it is easily concluded that Condorcet’s Paradox should very rarely be observed in any real elections on a small number of candidates with large electorates, as long as voters’ preferences reflect any reasonable degree of group mutual coherence}}</ref> that a Condorcet winner may not exist in a specific election. This is sometimes called a ''Condorcet cycle'' or just ''cycle'' and can be thought of as [[rock paper scissors|Rock beating Scissors, Scissors beating Paper, and Paper beating Rock]]. Various Condorcet methods differ in how they resolve such a cycle. (Note that most elections do not have cycles. See [[Condorcet paradox#Likelihood of the paradox]] for estimates.) If there is no cycle, all Condorcet methods elect the same candidate and are operationally equivalent.
+
+*Each voter ranks the candidates in order of preference (top-to-bottom, or best-to-worst, or 1st, 2nd, 3rd, etc.). The voter may be allowed to rank candidates as equals and to express indifference (no preference) between them. Candidates omitted by a voter may be treated as if the voter ranked them at the bottom.<ref>{{cite arxiv |eprint=1807.01366 |quote=CC [Condorcet] systems typically allow tied ranks. If a voter fails to rank a candidate, they are typically presumed to rank them below anyone whom they did rank explicitly.|last1=Darlington|first1=Richard B.|title=Are Condorcet and minimax voting systems the best?|year=2018|class=physics.soc-ph}}</ref>
+*For each pairing of candidates (as in a [[round-robin tournament]]) count how many votes rank each candidate over the other candidate. Thus each pairing will have two totals: the size of its majority and the size of its minority{{citation needed|date=April 2012}}<ref>{{Cite book|last=Hazewinkel|first=Michiel|url=https://books.google.com/books?id=ujnhBwAAQBAJ&pg=PA110|title=Encyclopaedia of Mathematics, Supplement III|date=2007-11-23|publisher=Springer Science & Business Media|isbn=978-0-306-48373-8|language=en |quote=Briefly, one can say candidate ''A'' ''defeats'' candidate ''B'' if a majority of the voters prefer A to B. With only two candidates [...] barring ties [...] one of the two candidates will defeat the other.}}</ref> (or there will be a tie).
+
+For most Condorcet methods, those counts usually suffice to determine the complete order of finish (i.e. who won, who came in 2nd place, etc.). They always suffice to determine whether there is a Condorcet winner.
+
+Additional information may be needed in the event of ties. Ties can be pairings that have no majority, or they can be majorities that are the same size. Such ties will be rare when there are many voters. Some Condorcet methods may have other kinds of ties. For example, with [[Copeland's method]], it would not be rare for two or more candidates to win the same number of pairings, when there is no Condorcet winner.{{citation needed|date=April 2012}}
+
+==Definition==
+A Condorcet method is a voting system that will always elect the Condorcet winner (if there is one); this is the candidate whom voters prefer to each other candidate, when compared to them one at a time. This candidate can be found (if they exist; see next paragraph) by checking if there is a candidate who beats all other candidates; this can be done by using [[Copeland's method]] and then checking if the Copeland winner has the highest possible Copeland score. They can also be found by conducting a series of pairwise comparisons, using the procedure given in Robert's Rules of Order described above. For ''N'' candidates, this requires ''N'' - 1 pairwise hypothetical elections. For example, with 5 candidates there are 4 pairwise comparisons to be made, since after each comparison, a candidate is eliminated, and after 4 eliminations, only one of the original 5 candidates will remain.
+
+To confirm that a Condorcet winner exists in a given election, first do the Robert's Rules of Order procedure, declare the final remaining candidate the procedure's winner, and then do at most an additional ''N'' - 2 pairwise comparisons between the procedure's winner and any candidates they haven't been compared against yet (including all previously eliminated candidates). If the procedure's winner doesn't win all pairwise matchups, then no Condorcet winner exists in the election (and thus the Smith set has multiple candidates in it).
+
+Note that computing all pairwise comparisons requires ½''N''(''N''−1) pairwise comparisons for ''N'' candidates. For 10 candidates, this means 0.5*10*9=45 comparisons, which can make elections with many candidates hard to count the votes for.{{citation needed|reason=Do you mean, "time consuming," "difficult to compute," or something else entirely|date=May 2021}}
+
+The family of Condorcet methods is also referred to collectively as Condorcet's method. A voting system that always elects the Condorcet winner when there is one is described by electoral scientists as a system that satisfies the Condorcet criterion.<ref>{{cite document |last1=Wang |first1=Tiance |last2=Cuff |first2=P. |last3=Kulkarni |first3=Sanjeev |title=Condorcet Methods are Less Susceptible to Strategic Voting |date=2013 |s2cid=8230466 |url=https://www.princeton.edu/~cuff/publications/wang_strategic_voting.pdf }}</ref> Additionally, a voting system can be considered to have Condorcet consistency, or be Condorcet consistent, if it elects any Condorcet winner.<ref name=":2">{{Citation|last=Pacuit|first=Eric|title=Voting Methods|date=2019|url=https://plato.stanford.edu/archives/fall2019/entries/voting-methods/|encyclopedia=The Stanford Encyclopedia of Philosophy|editor-last=Zalta|editor-first=Edward N.|edition=Fall 2019|publisher=Metaphysics Research Lab, Stanford University|access-date=2020-10-16}}</ref>
+
+In certain circumstances, an election has no Condorcet winner. This occurs as a result of a kind of tie known as a ''majority rule cycle'', described by [[Voting paradox|Condorcet's paradox]]. The manner in which a winner is then chosen varies from one Condorcet method to another. Some Condorcet methods involve the basic procedure described below, coupled with a Condorcet completion method, which is used to find a winner when there is no Condorcet winner. Other Condorcet methods involve an entirely different system of counting, but are classified as Condorcet methods, or Condorcet consistent, because they will still elect the Condorcet winner if there is one.<ref name=":2" />
+
+It is important to note that not all single winner, [[ranked voting systems]] are Condorcet methods. For example, [[instant-runoff voting]] and the [[Borda count]] are not Condorcet methods.<ref name=":2" /><ref>https://economics.stanford.edu/sites/g/files/sbiybj9386/f/publications/cook_hthesis2011.pdf "IRV satisfies the later-no-harm criterion and the Condorcet loser criterion but fails monotonicity, independence of irrelevant alternatives, and the Condorcet criterion."</ref>
+At the same time, [[Bernard Grofman]]'s conjecture cited by [[Peyton Young]]<ref name=":1">{{Cite journal|last=Young|first=H. P.|date=1988|title=Condorcet's Theory of Voting|url=https://www.cs.cmu.edu/~arielpro/15896s15/docs/paper4a.pdf|journal=American Political Science Review|language=en|volume=82|issue=4|pages=1231–1244|doi=10.2307/1961757|issn=0003-0554|jstor=1961757}}</ref> — that Condorcet and Borda methods mostly lead to same outcomes — has been proved for a large society by [[Andranik Tangian]].<ref name="Tangian2000">{{Cite journal
+|last=Tangian |first=Andranik
+|year=2000
+|title= Unlikelihood of Condorcet's paradox in a large society 
+|journal=Social Choice and Welfare
+|volume=17
+|issue=2
+|pages=337–365
+|doi=10.1007/s003550050024
+|s2cid=19382306
+}}</ref><ref name="Tangian2020">{{Cite book
+|last=Tangian
+|first=Andranik
+|date=2020
+|title=Analytical theory of democracy. Vols. 1 and 2
+|pages = 158–162
+|publisher=Springer
+|location=Cham, Switzerland
+|isbn=978-3-030-39690-9 
+}}</ref>
+
+==Basic procedure==
+===Voting===
+
+In a Condorcet election the voter ranks the list of candidates in order of preference. If a ranked ballot is used the voter gives a "1" to their first preference, a "2" to their second preference, and so on. Some Condorcet methods allow voters to rank more than one candidate equally so that the voter might express two first preferences rather than just one.<ref>{{Cite web|title=Condorcet|url=https://www.equal.vote/condorcet|access-date=2021-04-25|website=Equal Vote Coalition}}</ref> If a scored ballot is used voters rate or score the candidates on a scale, for example as is used in [[Score voting]], with a higher rating indicating a greater preference.<ref>https://halshs.archives-ouvertes.fr/halshs-01972097/document</ref>
+
+When a voter does not give a full list of preferences, it is typically assumed that they prefer the candidates that they have ranked over all the candidates that were not ranked, and that there is no preference between candidates that were left unranked. Some Condorcet elections permit [[write-in candidate]]s.
+
+===Finding the winner===
+
+The count is conducted by pitting every candidate against every other candidate in a series of hypothetical one-on-one contests. The winner of each pairing is the candidate preferred by a majority of voters. Unless they tie, there is always a majority when there are only two choices. The candidate preferred by each voter is taken to be the one in the pair that the voter ranks (or rates) higher on their ballot paper. For example, if Alice is paired against Bob it is necessary to count both the number of voters who have ranked Alice higher than Bob, and the number who have ranked Bob higher than Alice. If Alice is preferred by more voters then she is the winner of that pairing. When all possible pairings of candidates have been considered, if one candidate beats every other candidate in these contests then they are declared the Condorcet winner. As noted above, if there is no Condorcet winner a further method must be used to find the winner of the election, and this mechanism varies from one Condorcet consistent method to another.<ref name=":2" /> In any Condorcet method that passes [[Independence of Smith-dominated alternatives]], it can sometimes help to identify the [[Smith set]] from the head-to-head matchups, and eliminate all candidates not in the set before doing the procedure for that Condorcet method.
+
+===Pairwise counting and matrices===
+
+Condorcet methods use pairwise counting. For each possible pair of candidates, one pairwise count indicates how many voters prefer one of the paired candidates over the other candidate, and another pairwise count indicates how many voters have the opposite preference. The counts for all possible pairs of candidates summarize all the pairwise preferences of all the voters.
+
+Pairwise counts are often displayed in a ''pairwise comparison matrix''<ref name=":0">{{Cite book|url=https://books.google.com/books?id=q2U8jd2AJkEC&pg=PA6|title=Democracy defended|last=Mackie, Gerry.|date=2003|publisher=Cambridge University Press|isbn=0511062648|location=Cambridge, UK|pages=6|oclc=252507400}}</ref> or ''outranking matrix''<ref>{{Citation|last=Nurmi|first=Hannu|s2cid=12562825|chapter=On the Relevance of Theoretical Results to Voting System Choice|date=2012|pages=255–274|editor-last=Felsenthal|editor-first=Dan S.|publisher=Springer Berlin Heidelberg|doi=10.1007/978-3-642-20441-8_10|isbn=9783642204401|editor2-last=Machover|editor2-first=Moshé|title=Electoral Systems|series=Studies in Choice and Welfare}}</ref> such as those below. In these [[Matrix (mathematics)|matrices]], each row represents each candidate as a 'runner', while each column represents each candidate as an 'opponent'. The cells at the intersection of rows and columns each show the result of a particular pairwise comparison. Cells comparing a candidate to themselves are left blank.<ref name=":1" /><ref>{{Cite journal|last=Hogben|first=G.|date=1913|title=Preferential Voting in Single-member Constituencies, with Special Reference to the Counting of Votes|url=http://rsnz.natlib.govt.nz/volume/rsnz_46/rsnz_46_00_005780.html|journal=Transactions and Proceedings of the Royal Society of New Zealand|volume=46|pages=304–308}}</ref>
+
+Imagine there is an election between four candidates: A, B, C, and D. The first matrix below records the preferences expressed on a single ballot paper, in which the voter's preferences are (B, C, A, D); that is, the voter ranked B first, C second, A third, and D fourth. In the matrix a '1' indicates that the runner is preferred over the 'opponent', while a '0' indicates that the runner is defeated.<ref name=":1" /><ref name=":0" />
+
+{| class="wikitable" style="width:13em;margin:auto;text-align:center"
+! {{diagonal split header|Runner|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opponent}} !! A !! B !! C !! D
+|-
+! A
+|| — || 0 || 0 || 1
+|-
+! B
+|| 1 || — || 1 || 1
+|-
+! C
+|| 1 || 0 || — || 1
+|-
+! D
+|| 0 || 0 || 0 || —
+|-
+| colspan=6 style="line-height: 10px;" | <small>A '1' indicates that the runner is preferred over the opponent; a '0' indicates that the runner is defeated.</small>
+|}
+
+Using a matrix like the one above, one can find the overall results of an election. Each ballot can be transformed into this style of matrix, and then added to all other ballot matrices using [[matrix addition]]. The sum of all ballots in an election is called the sum matrix.
+
+Suppose that in the imaginary election there are two other voters. Their preferences are (D, A, C, B) and (A, C, B, D). Added to the first voter, these ballots would give the following sum matrix:
+{| class="wikitable" style="width:13em;margin:auto;text-align:center"
+! {{diagonal split header|Runner|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opponent}} !! A !! B !! C !! D
+|-
+! A
+|| —
+|| 2 || 2 || 2
+|-
+! B
+|| 1 || — || 1 || 2
+|-
+! C
+|| 1 || 2 || — || 2
+|-
+! D
+|| 1 || 1 || 1 || —
+|}
+
+When the sum matrix is found, the contest between each pair of candidates is considered. The number of votes for runner over opponent (runner, opponent) is compared with the number of votes for opponent over runner (opponent, runner) to find the Condorcet winner. In the sum matrix above, A is the Condorcet winner because A beats every other candidate. When there is no Condorcet winner Condorcet completion methods, such as Ranked Pairs and the Schulze method, use the information contained in the sum matrix to choose a winner.
+
+Cells marked '—' in the matrices above have a numerical value of '0', but a dash is used since candidates are never preferred to themselves. The first matrix, that represents a single ballot, is inversely symmetric: (runner, opponent) is ¬(opponent, runner). Or (runner, opponent) + (opponent,  runner) = 1. The sum matrix has this property: (runner, opponent) + (opponent, runner) = N for N voters, if all runners were fully ranked by each voter.
+
+==Example: Voting on the location of Tennessee's capital==
+{{Multiple issues|section=yes|
+{{Original research|section|date=March 2021}}
+{{Unreferenced section|date=March 2021}}
+}}
+{{Tenn voting example}}
+
+To find the Condorcet winner every candidate must be matched against every other candidate in a series of imaginary one-on-one contests. In each pairing the winner is the candidate preferred by a majority of voters. When results for every possible pairing have been found they are as follows:
+
+{| class="wikitable"
+|-
+! Pair !! Winner
+|-
+| Memphis (42%) vs. Nashville (58%)|| Nashville
+|-
+| Memphis (42%) vs. Chattanooga (58%)|| Chattanooga
+|-
+| Memphis (42%) vs. Knoxville (58%)|| Knoxville
+|-
+| Nashville (68%) vs. Chattanooga (32%)|| Nashville
+|-
+| Nashville (68%) vs. Knoxville (32%)||Nashville
+|-
+| Chattanooga (83%) vs. Knoxville (17%)|| Chattanooga
+|}
+
+The results can also be shown in the form of a matrix:
+
+{| class="wikitable"
+|-
+!1st
+! colspan="4" style="background: #ccffcc" | Nashville [N]
+|3 Wins ↓
+|-
+!2nd
+! colspan="3" style="background: #ddddff" | Chattanooga [C]
+|1 Loss →
+↓ 2 Wins
+| style="white-space:nowrap;" | [N] 68%<br/>[C] 32%
+|-
+!3rd
+! colspan="2" style="background: #ffeedd" | Knoxville [K]
+|2 Losses →
+↓ 1 Win
+| style="white-space:nowrap;" | [C] 83% <br />[K] 17%
+| style="white-space:nowrap;" | [N] 68% <br />[K] 32%
+|-
+!4th
+! style="background: #ffdddd" | Memphis [M]
+|3 Losses →
+| style="white-space:nowrap;" | [K] 58% <br />[M] 42%
+| style="white-space:nowrap;" | [C] 58% <br />[M] 42%
+| style="white-space:nowrap;" | [N] 58% <br />[M] 42%
+|}
+
+As can be seen from both of the tables above, Nashville beats every other candidate. This means that Nashville is the Condorcet winner. Nashville will thus win an election held under any possible Condorcet method.
+
+While any Condorcet method will elect Nashville as the winner, if instead an election based on the same votes were held using [[first-past-the-post]] or [[instant-runoff voting]], these systems would select Memphis<ref group="footnotes">The largest bloc ([[Plurality (voting)|plurality]]) of first place votes is 42% for Memphis; no other rankings are considered. So even though 58%—a true majority—would be inconvenienced by having the capital at the most remote location, Memphis wins.</ref> and Knoxville<ref group="footnotes">Chattanooga (15%) is eliminated in the first round; votes transfer to Knoxville. Nashville (26%) eliminated in the second around; votes transfer to Knoxville. Knoxville wins with 58%.</ref> respectively. This would occur despite the fact that most people would have preferred Nashville to either of those "winners". Condorcet methods make these preferences obvious rather than ignoring or discarding them.
+
+On the other hand, note that in this example Chattanooga also defeats Knoxville and Memphis when paired against those cities. If we changed the basis for defining preference and determined that Memphis voters preferred Chattanooga as a second choice rather than as a third choice, Chattanooga would be the Condorcet winner even though finishing in last place in a first-past-the-post election.
+
+An alternative way of thinking about this example if a [[Smith set|Smith-efficient]] Condorcet method that passes [[Independence of Smith-dominated alternatives|ISDA]] is used to determine the winner is that 58% of the voters, a [[Mutual majority criterion|mutual majority]], ranked Memphis last (making Memphis the [[majority loser criterion|majority loser]]) and Nashville, Chattanooga, and Knoxville above Memphis, ruling Memphis out. At that point, the voters who preferred Memphis as their 1st choice could only help to choose a winner among Nashville, Chattanooga, and Knoxville, and because they all preferred Nashville as their 1st choice among those three, Nashville would've had a 68% majority of 1st choices among the remaining candidates and won as the majority's 1st choice.
+
+==Circular ambiguities==
+{{Unreferenced section|date=March 2021}}
+As noted above, sometimes an election has no Condorcet winner because there is no candidate who is preferred by voters to all other candidates. When this occurs the situation is known as a 'Condorcet cycle', 'majority rule cycle', 'circular ambiguity', 'circular tie', 'Condorcet paradox', or simply a 'cycle'. This situation emerges when, once all votes have been tallied, the preferences of voters with respect to some candidates form a circle in which every candidate is beaten by at least one other candidate ([[Intransitivity#Cycles|Intransitivity]]).
+
+For example, if there are three candidates, [[Rock-paper-scissors|Candidate Rock, Candidate Scissors, and Candidate Paper]], there will be no Condorcet winner if voters prefer Candidate Rock over Candidate Scissors and Scissors over Paper, but also Candidate Paper over Rock. Depending on the context in which elections are held, circular ambiguities may or may not be common, but there is no known case of a governmental election with ranked-choice voting in which a circular ambiguity is evident from the record of ranked ballots. Nonetheless a cycle is always possible, and so every Condorcet method should be capable of determining a winner when this contingency occurs. A mechanism for resolving an ambiguity is known as ambiguity resolution, cycle resolution method, or ''Condorcet completion method''.
+
+Circular ambiguities arise as a result of the [[voting paradox]]—the result of an election can be intransitive (forming a cycle) even though all individual voters expressed a transitive preference. In a Condorcet election it is impossible for the preferences of a single voter to be cyclical, because a voter must rank all candidates in order, from top-choice to bottom-choice, and can only rank each candidate once, but the paradox of voting means that it is still possible for a circular ambiguity in voter tallies to emerge.
+
+The idealized notion of a [[political spectrum]] is often used to describe political candidates and policies. Where this kind of spectrum exists, and voters prefer candidates who are closest to their own position on the spectrum, there is a Condorcet winner ([[Single peaked preferences|Black's Single-Peakedness Theorem]]).
+
+In Condorcet methods, as in most electoral systems, there is also the possibility of an ordinary tie. This occurs when two or more candidates tie with each other but defeat every other candidate. As in other systems this can be resolved by a random method such as the drawing of lots. Ties can also be settled through other methods like seeing which of the tied winners had the most first choice votes, but this and some other non-random methods may re-introduce a degree of tactical voting, especially if voters know the race will be close.
+
+The method used to resolve circular ambiguities is the main difference between the various Condorcet methods. There are countless ways in which this can be done, but every Condorcet method involves ignoring the majorities expressed by voters in at least some pairwise matchings. Some cycle resolution methods are Smith-efficient, meaning that they pass the [[Smith criterion]]. This guarantees that when there is a cycle (and no pairwise ties), only the candidates in the cycle can win, and that if there is a [[mutual majority criterion|mutual majority]], one of their preferred candidates will win.
+
+Condorcet methods fit within two categories:
+
+* '''Two-method systems''', which use a separate method to handle cases in which there is no Condorcet winner
+* '''One-method systems''', which use a single method that, without any special handling, always identifies the winner to be the Condorcet winner
+
+Many one-method systems and some two-method systems will give the same result as each other if there are fewer than 4 candidates in the circular tie, and all voters separately rank at least two of those candidates. These include Smith-Minimax (Minimax but done only after all candidates not in the Smith set are eliminated), Ranked Pairs, and Schulze. For example, with three candidates in the Smith set in a Condorcet cycle, because Schulze and Ranked Pairs pass [[Independence of Smith-dominated alternatives|ISDA]], all candidates not in the Smith set can be eliminated first, and then for Schulze, dropping the weakest defeat of the three allows the candidate who had that weakest defeat to be the only candidate who can beat or tie all other candidates, while with Ranked Pairs, once the first two strongest defeats are locked in, the weakest can't, since it'd create a cycle, and so the candidate with the weakest defeat will have no defeats locked in against them).
+
+==Two-method systems==
+{{Unreferenced section|date=March 2021}}
+One family of Condorcet methods consists of systems that first conduct a series of pairwise comparisons and then, if there is no Condorcet winner, fall back to an entirely different, non-Condorcet method to determine a winner. The simplest such fall-back methods involve entirely disregarding the results of the pairwise comparisons. For example, the Black method chooses the Condorcet winner if it exists, but uses the [[Borda count]] instead if there is a cycle (the method is named for [[Duncan Black]]).
+
+A more sophisticated two-stage process is, in the event of a cycle, to use a separate voting system to find the winner but to restrict this second stage to a certain subset of candidates found by scrutinizing the results of the pairwise comparisons. Sets used for this purpose are defined so that they will always contain only the Condorcet winner if there is one, and will always, in any case, contain at least one candidate. Such sets include the
+
+* '''[[Smith set]]''': The smallest non-empty set of candidates in a particular election such that every candidate in the set can beat all candidates outside the set. It is easily shown that there is only one possible Smith set for each election.
+* '''[[Schwartz set]]''': This is the innermost unbeaten set, and is usually the same as the Smith set. It is defined as the union of all possible sets of candidates such that for every set:
+*#Every candidate inside the set is pairwise unbeatable by any other candidate outside the set (i.e., ties are allowed).
+*#No proper (smaller) subset of the set fulfills the first property.
+* '''[[Landau set]]''' (or '''uncovered set''' or '''Fishburn set'''): the set of candidates, such that each member, for every other candidate (including those inside the set), either beats this candidate or beats a third candidate that itself beats the candidate that is unbeaten by the member.
+
+One possible method is to apply [[instant-runoff voting]] in various ways, such as to the candidates of the Smith set. One variation of this method has been described as 'Smith/IRV', with another being [[Tideman's alternative method]]s. It's also possible to do "Smith/Approval" by allowing voters to rank candidates, and indicate which candidates they approve, such that the candidate in the Smith set approved by the most voters wins; this is often done using an approval threshold (i.e. if voters approve their 3rd choices, those voters are automatically considered to approve their 1st and 2nd choices too). In Smith/Score, the candidate in the Smith set with the highest total score wins, with the pairwise comparisons done based on which candidates are scored higher than others.
+
+==Single-method systems==
+{{More citations needed section|date=March 2021}}
+Some Condorcet methods use a single procedure that inherently meets the Condorcet criteria and, without any extra procedure, also resolves circular ambiguities when they arise. In other words, these methods do not involve separate procedures for different situations. Typically these methods base their calculations on pairwise counts. These methods include:
+
+*'''[[Copeland's method]]''': This simple method involves electing the candidate who wins the most pairwise matchings. However, it often produces a tie.
+*'''[[Kemeny–Young method]]''': This method ranks all the choices from most popular and second-most popular down to least popular.
+* '''[[Minimax Condorcet|Minimax]]''': Also called ''Simpson'', ''Simpson–Kramer'', and ''Simple Condorcet'', this method chooses the candidate whose worst pairwise defeat is better than that of all other candidates. A refinement of this method involves restricting it to choosing a winner from among the Smith set; this has been called ''Smith/Minimax''.
+* '''[[Nanson's method]]''' and '''[[Baldwin's method]]''' combine Borda Count with an instant runoff procedure.
+* '''[[Dodgson's method]]''' extends the Condorcet method by swapping candidates until a Condorcet winner is found. The winner is the candidate which requires the minimum number of swaps.
+* '''[[Ranked pairs]]''' breaks each cycle in the pairwise preference graph by dropping the weakest majority in the cycle, thereby yielding a complete ranking of the candidates. This method is also known as ''Tideman'', after its inventor [[Nicolaus Tideman]].
+*'''[[Schulze method]]''' iteratively drops the weakest majority in the pairwise preference graph until the winner becomes well defined. This method is also known as ''Schwartz sequential dropping'' (SSD), ''cloneproof Schwartz sequential dropping'' (CSSD), ''beatpath method'', ''beatpath winner'', ''path voting'' and ''path winner''.
+*[https://electowiki.org/wiki/Smith//Score Smith Score] is a rated voting method which elects the Score voting winner from the Smith set.
+
+Ranked Pairs and Schulze are procedurally in some sense opposite approaches (although they very frequently give the same results):
+* Ranked Pairs (and its variants) starts with the strongest defeats and uses as much information as it can without creating ambiguity.
+* Schulze repeatedly removes the weakest defeat until the ambiguity is removed.
+
+Minimax could be considered as more "blunt" than either of these approaches, as instead of removing defeats it can be seen as immediately removing candidates by looking at the strongest defeats (although their victories are still considered for subsequent candidate eliminations). One way to think of it in terms of removing defeats is that Minimax removes each candidate's weakest defeats until some group of candidates with only pairwise ties between them have no defeats left, at which point the group ties to win.<ref>https://www.rangevoting.org/SchulzeExplan.html Schulze's beatpath voting method "MinMax method: Eliminate successively the weakest pairwise defeat until there is a candidate whose defeats have all been eliminated."</ref>
+
+===Kemeny–Young method===
+{{Unreferenced section|date=March 2021}}
+{{Main|Kemeny–Young method}}
+The Kemeny–Young method considers every possible sequence of choices in terms of which choice might be most popular, which choice might be second-most popular, and so on down to which choice might be least popular. Each such sequence is associated with a Kemeny score that is equal to the sum of the [[#Pairwise counting and matrices|pairwise counts]] that apply to the specified sequence. The sequence with the highest score is identified as the overall ranking, from most popular to least popular.
+
+When the pairwise counts are arranged in a matrix in which the choices appear in sequence from most popular (top and left) to least popular (bottom and right), the winning Kemeny score equals the sum of the counts in the upper-right, triangular half of the matrix (shown here in bold on a green background).
+
+{| class="wikitable" style="text-align:center"
+!
+! ...over '''Nashville'''
+! ...over '''Chattanooga'''
+! ...over '''Knoxville'''
+! ...over '''Memphis'''
+|-
+! Prefer '''Nashville'''...
+| —
+| style="background:#cfc;"| '''68'''
+| style="background:#cfc;"| '''68'''
+| style="background:#cfc;"| '''58'''
+|-
+! Prefer '''Chattanooga'''...
+| 32
+| —
+| style="background:#cfc;"| '''83'''
+| style="background:#cfc;"| '''58'''
+|-
+! Prefer '''Knoxville'''...
+| 32
+| 17
+| —
+| style="background:#cfc;"| '''58'''
+|-
+! Prefer '''Memphis'''...
+| 42
+| 42
+| 42
+| —
+|}
+
+In this example, the Kemeny Score of the sequence Nashville > Chattanooga > Knoxville > Memphis would be 393.
+
+Calculating every Kemeny score requires considerable computation time in cases that involve more than a few choices. However, fast calculation methods based on [[integer programming]] allow a computation time in seconds for some cases with as many as 40 choices.
+
+===Ranked pairs===
+{{Main|Ranked pairs}}
+{{Unreferenced section|date=March 2021}}
+
+The order of finish is constructed a piece at a time by considering the (pairwise) majorities one at a time, from largest majority to smallest majority. For each majority, their higher-ranked candidate is placed ahead of their lower-ranked candidate in the (partially constructed) order of finish, except when their lower-ranked candidate has already been placed ahead of their higher-ranked candidate.
+
+For example, suppose the voters' orders of preference are such that 75% rank B over C, 65% rank A over B, and 60% rank C over A. (The three majorities are a [[rock paper scissors]] cycle.) Ranked pairs begins with the largest majority, who rank B over C, and places B ahead of C in the order of finish. Then it considers the second largest majority, who rank A over B, and places A ahead of B in the order of finish. At this point, it has been established that A finishes ahead of B and B finishes ahead of C, which implies A also finishes ahead of C. So when ranked pairs considers the third largest majority, who rank C over A, their lower-ranked candidate A has already been placed ahead of their higher-ranked candidate C, so C is not placed ahead of A. The order of finish is "A, B, C" and A is the winner.
+
+An equivalent definition is to find the order of finish that minimizes the size of the largest reversed majority. (In the 'lexicographical order' sense. If the largest majority reversed in two orders of finish is the same, the two orders of finish are compared by their second largest reversed majorities, etc. See [[Lexicographical order|the discussion of MinMax, MinLexMax and Ranked Pairs in the 'Motivation and uses' section of the Lexicographical Order article]]). (In the example, the order of finish "A, B, C" reverses the 60% who rank C over A. Any other order of finish would reverse a larger majority.) This definition is useful for simplifying some of the proofs of Ranked Pairs' properties, but the "constructive" definition executes much faster (small polynomial time).
+
+===Schulze method===
+{{Main|Schulze method}}
+
+The [[Schulze method]] resolves votes as follows:
+
+:At each stage, we proceed as follows:
+
+:# For each pair of undropped candidates X and Y: If there is a directed path of undropped links from candidate X to candidate Y, then we write "X → Y"; otherwise we write "not X → Y".
+:# For each pair of undropped candidates V and W: If "V → W" and "not W → V", then candidate W is dropped and all links, that start or end in candidate W, are dropped.
+:# The weakest undropped link is dropped. If several undropped links tie as weakest, all of them are dropped.
+
+:The procedure ends when all links have been dropped. The winners are the undropped candidates.
+
+In other words, this procedure repeatedly throws away the weakest pairwise defeat within the top set, until finally the number of votes left over produce an unambiguous decision.
+
+===Defeat strength===
+{{More citations needed section|date=March 2021}}
+Some pairwise methods—including minimax, Ranked Pairs, and the Schulze method—resolve circular ambiguities based on the relative strength of the defeats. There are different ways to measure the strength of each defeat, and these include considering "winning votes" and "margins":
+
+*'''Winning votes''': The number of votes on the winning side of a defeat.
+*'''Margins''': The number of votes on the winning side of the defeat, minus the number of votes on the losing side of the defeat.<ref>https://principles.liquidfeedback.org/The_Principles_of_LiquidFeedback_1st_edition_online_version.pdf</ref>
+
+If voters do not rank their preferences for all of the candidates, these two approaches can yield different results. Consider, for example, the following election:
+
+{| class="wikitable"
+|-
+!45 voters
+!11 voters
+!15 voters
+!29 voters
+|-
+|1. A
+|1. B
+|1. B
+|1. C
+|-
+|
+|
+|2. C
+|2. B
+|}
+
+The pairwise defeats are as follows:
+
+*B beats A, 55 to 45 (55 winning votes, a margin of 10 votes)
+*A beats C, 45 to 44 (45 winning votes, a margin of 1 vote)
+*C beats B, 29 to 26 (29 winning votes, a margin of 3 votes)
+
+Using the winning votes definition of defeat strength, the defeat of B by C is the weakest, and the defeat of A by B is the strongest. Using the margins definition of defeat strength, the defeat of C by A is the weakest, and the defeat of A by B is the strongest.
+
+Using winning votes as the definition of defeat strength, candidate B would win under minimax, Ranked Pairs and the Schulze method, but, using margins as the definition of defeat strength, candidate C would win in the same methods.
+
+If all voters give complete rankings of the candidates, then winning votes and margins will always produce the same result. The difference between them can only come into play when some voters declare equal preferences amongst candidates, as occurs implicitly if they do not rank all candidates, as in the example above.
+
+The choice between margins and winning votes is the subject of scholarly debate. Because all Condorcet methods always choose the Condorcet winner when one exists, the difference between methods only appears when cyclic ambiguity resolution is required. The argument for using winning votes follows from this: Because cycle resolution involves disenfranchising a selection of votes, then the selection should disenfranchise the fewest possible number of votes. When margins are used, the difference between the number of two candidates' votes may be small, but the number of votes may be very large—or not. Only methods employing winning votes satisfy [[plurality criterion|Woodall's plurality criterion]].
+
+An argument in favour of using margins is the fact that the result of a pairwise comparison is decided by the presence of more votes for one side than the other and thus that it follows naturally to assess the strength of a comparison by this "surplus" for the winning side. Otherwise, changing only a few votes from the winner to the loser could cause a sudden large change from a large score for one side to a large score for the other. In other words, one could consider losing votes being in fact disenfranchised when it comes to ambiguity resolution with winning votes. Also, using winning votes, a vote containing ties (possibly implicitly in the case of an incompletely ranked ballot) doesn't have the same effect as a number of equally weighted votes with total weight equaling one vote, such that the ties are broken in every possible way (a violation of [http://www.mcdougall.org.uk/VM/ISSUE3/P5.HTM Woodall's symmetric-completion criterion]), as opposed to margins.
+
+Under winning votes, if two more of the "B" voters decided to vote "BC", the A->C arm of the cycle would be overturned and Condorcet would pick C instead of B. This is an example of "Unburying" or "Later does harm". The margin method would pick C anyway.
+
+Under the margin method, if three more "BC" voters decided to "bury" C by just voting "B", the A->C arm of the cycle would be strengthened and the resolution strategies would end up breaking the C->B arm and giving the win to B. This is an example of "Burying". The winning votes method would pick B anyway.
+
+==Related terms==
+Other terms related to the Condorcet method are:
+;Condorcet loser:{{citation needed|date=October 2020}} the candidate who is less preferred than every other candidate in a pairwise matchup (preferred by fewer voters than any other candidate).
+;Weak Condorcet winner:{{citation needed|date=October 2020}} a candidate who beats or ties with every other candidate in a pairwise matchup (preferred by at least as many voters as any other candidate). There can be more than one weak Condorcet winner.<ref>{{cite journal |doi=10.1007/s11127-014-0180-4 |quote=A weak Condorcet winner (WCW) is an alternative, y, that no majority of voters rank below any other alternative, z, but is not a SCW [Condorcet winner].|title=Weak Condorcet winner(s) revisited|year=2014|last1=Felsenthal|first1=Dan S.|last2=Tideman|first2=Nicolaus|journal=Public Choice|volume=160|issue=3–4|pages=313–326|s2cid=154447142}}</ref>
+;Weak Condorcet loser:{{citation needed|date=October 2020}} a candidate who is defeated by or ties with every other candidate in a pairwise matchup. Similarly, there can be more than one weak Condorcet loser.
+
+;Improved Condorcet winner:{{citation needed|date=October 2020}} in improved condorcet methods, additional rules for pairwise comparisons are introduced to handle ballots where candidates are tied, so that pairwise wins can not be changed by those tied ballots switching to a specific preference order. A strong improved condorcet winner in an improved condorcet method must also be a strong condorcet winner, but the converse need not hold. In tied at the top methods, the number of ballots where the candidates are tied at the top of the ballot is subtracted from the victory margin between the two candidates. This has the effect of introducing more ties in the pairwise comparison graph, but allows the method to satisfy the favourite betrayal criterion.
+
+==Condorcet ranking methods==
+Some Condorcet methods produce not just a single winner, but a ranking of all candidates from first to last place. A '''Condorcet ranking''' is a list of candidates with the property that the Condorcet winner (if one exists) comes first and the Condorcet loser (if one exists) comes last, and this holds recursively for the candidates ranked between them.
+
+Methods that satisfy this property include:
+* [[Copeland's method]]
+* [[Kemeny–Young method]]
+* [[Ranked pairs]]
+* [[Schulze method]]
+
+Though there won't always be a Condorcet winner or Condorcet loser, there is always a Smith set and "Smith loser set" (smallest group of candidates who lose to all candidates not in the set in head-to-head elections). Some voting methods produce rankings that sort all candidates in the Smith set above all others, and all candidates in the Smith loser set below all others, with this holding recursively for all candidates ranked between them; in essence, this guarantees that when the candidates can be split into two groups, such that every candidate in the first group beats every candidate in the second group head-to-head, then all candidates in the first group are ranked higher than all candidates in the second group.<ref>https://core.ac.uk/download/pdf/7227054.pdf "A first objective of this paper is to propose a formalization of this idea, called the Extended Condorcet Criterion (XCC). In essence, it says that if the set of alternatives can be partitioned in such a way that all members of a subset of this partition defeat all alternatives belonging to subsets with a higher index, then the former should obtain a better rank than the latter."</ref> Because the Smith set and Smith loser set are equivalent to the Condorcet winner and Condorcet loser when they exist, methods that always produce Smith set rankings also always produce Condorcet rankings.
+
+==Comparison with instant runoff and first-past-the-post (plurality)==
+{{Essay|section|date=November 2020}}
+Many proponents of [[instant-runoff voting]] (IRV) are attracted by the belief that if their first choice does not win, their vote will be given to their second choice; if their second choice does not win, their vote will be given to their third choice, etc. This sounds perfect, but it is not true for every voter with IRV. If someone voted for a strong candidate, and their 2nd and 3rd choices are eliminated before their first choice is eliminated, IRV gives their vote to their 4th choice candidate, not their 2nd choice. [[Condorcet voting]] takes all rankings into account simultaneously, but at the expense of violating the [[later-no-harm criterion]] and the [[later-no-help criterion]]. With IRV, indicating a second choice will never affect your first choice. With Condorcet voting, it is possible that indicating a second choice will cause your first choice to lose.
+
+[[Plurality voting]] is simple, and theoretically provides incentives for voters to compromise for centrist candidates rather than throw away their votes on candidates who can't win. Opponents to plurality voting point out that voters often vote for the lesser of evils because they heard on the news that those two are the only two with a chance of winning, not necessarily because those two are the two natural compromises. This gives the media significant election powers. And if voters do compromise according to the media, the post election counts will prove the media right for next time. Condorcet runs each candidate against the other head to head, so that voters elect the candidate who would win the most sincere runoffs, instead of the one they thought they had to vote for.
+
+There are circumstances, as in the examples above, when both [[instant-runoff voting]] and the '[[plurality voting system|first-past-the-post]]' plurality system will fail to pick the Condorcet winner. (In fact, FPTP can elect the Condorcet loser and IRV can elect the second-worst candidate, who would lose to every candidate except the Condorcet loser.<ref name=":02">{{Cite journal|last=Nanson|first=E. J.|date=1882|title=Methods of election|url=https://archive.org/details/transactionsproc1719roya/page/207|journal=Transactions and Proceedings of the Royal Society of Victoria|volume=19|pages=207–208|quote=although Ware's method cannot return the worst, it may return the next worst.}}</ref>) In cases where there is a Condorcet Winner, and where IRV does not choose it, a majority would by definition prefer the Condorcet Winner to the IRV winner. Proponents of the Condorcet criterion see it as a principal issue in selecting an electoral system. They see the Condorcet criterion as a natural extension of [[majority rule]]. Condorcet methods tend to encourage the selection of centrist candidates who appeal to the [[median]] voter. Here is an example that is designed to support IRV at the expense of Condorcet:
+
+{| class="wikitable"
+|-
+!499 voters
+!3 voters
+!498 voters
+|-
+|1. A
+|1. B
+|1. C
+|-
+|2. B
+|2. C
+|2. B
+|-
+|3. C
+|3. A
+|3. A
+|}
+
+B is preferred by a 501–499 majority to A, and by a 502–498 majority to C. So, according to the Condorcet criterion, B should win, despite the fact that very few voters rank B in first place. By contrast, IRV elects C and plurality elects A. The goal of a ranked voting system is for voters to be able to vote sincerely and trust the system to protect their intent. Plurality voting forces voters to do all their tactics before they vote, so that the system does not need to figure out their intent.
+
+The significance of this scenario, of two parties with strong support, and the one with weak support being the Condorcet winner, may be misleading, though, as it is a common mode in plurality voting systems (see [[Duverger's law]]), but much less likely to occur in Condorcet or IRV elections, which unlike Plurality voting, punish candidates who alienate a significant block of voters.
+
+Here is an example that is designed to support Condorcet at the expense of IRV:
+
+{| class="wikitable"
+|-
+!33 voters
+!16 voters
+!16 voters
+!35 voters
+|-
+|1. A
+|1. B
+|1. B
+|1. C
+|-
+|2. B
+|2. A
+|2. C
+|2. B
+|-
+|3. C
+|3. C
+|3. A
+|3. A
+|}
+
+B would win against either A or C by more than a 65–35 margin in a one-on-one election, but IRV eliminates B first, leaving a contest between the more "polar" candidates, A and C. Proponents of plurality voting state that their system is simpler than any other and more easily understood.
+
+All three systems are susceptible to [[tactical voting]], but the types of tactics used and the frequency of strategic incentive differ in each method.
+
+==Potential for tactical voting==
+{{See also|Tactical voting#Condorcet}}
+Like all voting methods,<ref>Satterthwaite, Mark. "Strategy-proofness and Arrow's conditions: Existence and correspondence theorems for voting procedures and social welfare functions".</ref> Condorcet methods are vulnerable to [[Tactical voting|compromising]]. That is, voters can help avoid the election of a less-preferred candidate by insincerely raising the position of a more-preferred candidate on their ballot. However, Condorcet methods are only vulnerable to compromising when there is a [[Condorcet cycle|majority rule cycle]], or when one can be created.<ref>{{cite document |last1=Green-Armytage |first1=James |title=Why majoritarian election methods should be Condorcet-efficient |s2cid=18348996 }}</ref>
+
+Condorcet methods are vulnerable to [[Tactical voting|burying]]. In some elections, voters can help a more-preferred candidate by insincerely lowering the position of a less-preferred candidate on their ballot. For example, in an election with three candidates, voters may be able to falsify their second choice to help their preferred candidate win.
+
+Example with the [[Schulze method]]:
+{| class="wikitable"
+|-
+!46 voters
+!44 voters
+!10 voters
+|-
+|1. A
+|1. B
+|1. C
+|-
+|2. B
+|2. A
+|2. B
+|-
+|3. C
+|3. C
+|3. A
+|}
+* B is the sincere Condorcet winner. But since A has the most votes and almost has a majority, with A and B forming a [[mutual majority criterion|mutual majority]] of 90% of the voters, A can win by publicly instructing A voters to bury B with C (see * below), using B-top voters' 2nd choice support to win the election. If B, after hearing the public instructions, reciprocates by burying A with C, C will be elected, and this threat may be enough to keep A from pushing for his tactic. B's other possible recourse would be to attack A's ethics in proposing the tactic and call for all voters to vote sincerely. This is an example of the [[Chicken (game)|chicken dilemma]].
+{| class="wikitable"
+|-
+!46 voters
+!44 voters
+!10 voters
+|-
+|1. A
+|1. B
+|1. C
+|-
+|2. C*
+|2. A
+|2. B
+|-
+|3. B*
+|3. C
+|3. A
+|}
+* B beats A by 8 as before, and A beats C by 82 as before, but ''now'' C beats B by 12, forming a [[Smith set]] greater than one. Even the [[Schulze method]] elects A: The path strength of A beats B is the lesser of 82 and 12, so 12. The path strength of B beats A is only 8, which is less than 12, so A wins. B voters are powerless to do anything about the public announcement by A, and C voters just hope B reciprocates, or maybe consider compromise voting for B if they dislike A enough.
+
+Supporters of Condorcet methods which exhibit this potential problem could rebut this concern by pointing out that pre-election polls are most necessary with [[plurality voting]], and that voters, armed with ranked choice voting, could lie to pre-election pollsters, making it impossible for Candidate A to know whether or how to bury. It is also nearly impossible to predict ahead of time how many supporters of A would actually follow the instructions, and how many would be alienated by such an obvious attempt to manipulate the system.
+
+{| class="wikitable"
+|-
+!33 voters
+!16 voters
+!16 voters
+!35 voters
+|-
+|1. A
+|1. B
+|1. B
+|1. C
+|-
+|2. B
+|2. A
+|2. C
+|2. B
+|-
+|3. C
+|3. C
+|3. A
+|3. A
+|}
+* In the above example, if C voters bury B with A, A will be elected instead of B. Since C voters prefer B to A, only they would be hurt by attempting the burying. Except for the first example where one candidate has the most votes and has a near majority, the Schulze method is very resistant to burying.
+
+==Evaluation by criteria==
+
+Scholars of electoral systems often compare them using mathematically defined [[Comparison of electoral systems|voting system criteria]]. The criteria which Condorcet methods satisfy vary from one Condorcet method to another. However, the Condorcet criterion implies the [[majority criterion]], and thus is incompatible with [[independence of irrelevant alternatives]] (though it implies a weaker analogous form of the criterion: when there is a Condorcet winner, losing candidates can drop out of the election without changing the result),<ref>{{cite arxiv |eprint=1804.02973 |page=351 |quote=The Condorcet criterion for single-winner elections (section 4.7) is important because, when there is a Condorcet winner b ∈ A, then it is still a Condorcet winner when alternatives a1,...,an ∈ A \ {b} are removed. So an alternative b ∈ A doesn’t owe his property of being a Condorcet winner to the presence of some other alternatives. Therefore, when we declare a Condorcet winner b ∈ A elected whenever a Condorcet winner exists, we know that no other alternatives a1,...,an ∈ A \ {b} have changed the result of the election without being elected.|last1=Schulze |first1=Markus |title=The Schulze Method of Voting |year=2018 |class=cs.GT }}</ref> [[later-no-harm]], the [[participation criterion]], and the [[consistency criterion]].
+
+{| class="wikitable" style="text-align:center"
+|- style="font-size:90%;line-height:1;"
+! {{diagonal split header|<br />Condorcet<br />method|Voting system<br />criterion}} !! [[Monotonicity criterion|Monotonic]] !! [[Condorcet loser criterion|Condorcet<br />loser]] !! [[Independence of clones criterion|Clone<br />independence]] !! [[Reversal symmetry|Reversal<br />symmetry]] !! [[Polynomial time|Polynomial<br />time]] !! [[Resolvability criterion|Resolvable]] !! [[Independence of irrelevant alternatives#Local independence|Local<br />independence<br />of irrelevant<br />alternatives]]
+|-
+! [[Schulze method|Schulze]]
+| {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{no}}
+|-
+! [[Ranked Pairs]]
+| {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}}
+|-
+! [[Minimax Condorcet|Minimax]]
+| {{yes}} || {{no}} || {{no}} || {{no}} || {{yes}} || {{yes}} || {{no}}
+|-
+! [[Nanson's method|Nanson]]
+| {{no}} || {{yes}} || {{no}} || {{yes}} || {{yes}} || {{partial|Unknown}} || {{partial|Unknown}}
+|-
+! [[Kemeny–Young method|Kemeny–Young]]
+| {{yes}} || {{yes}} || {{no}} || {{yes}} || {{no}} || {{yes}} || {{yes}}
+|-
+! [[Dodgson's method|Dodgson]]
+| {{no}} || {{no}} || {{no}} || {{no}} || {{no}} || {{partial|Unknown}} || {{partial|Unknown}}
+|-
+! [[Copeland's method|Copeland]]
+| {{yes}} || {{yes}} || {{no}} || {{yes}} || {{yes}} || {{no}} || {{no}}
+|}
+
+==Use of Condorcet voting==
+[[Image:Voting2.png|thumb|right|sample ballot for Wikimedia's Board of Trustees elections]]
+Condorcet methods are not known to be currently in use in government elections anywhere in the world, but a Condorcet method known as [[Nanson's method]] was used in city elections in the [[United States|U.S.]] town of [[Marquette, Michigan]] in the 1920s,<ref>{{Citation | place = UK | url = http://www.nuff.ox.ac.uk/Politics/papers/2002/w23/mclean.pdf | title = Australian electoral reform and two concepts of representation | publisher = Ox | type = paper | last = McLean | year = 2002 | access-date = 2015-06-27}}</ref> and today Condorcet methods are used by a number of private organizations. Organizations which currently use some variant of the Condorcet method are:
+
+* The [[Wikimedia Foundation]] used the [[Schulze method]] to elect its Board of Trustees until 2013, when it switched to a [[ratings ballot]] with Support/Neutral/Oppose ballots.<ref>{{Cite web|url=https://meta.wikimedia.org/wiki/Wikimedia_Foundation_elections_2013/Results|title=Wikimedia Foundation elections 2013/Results – Meta|website=meta.wikimedia.org|language=en|access-date=2017-01-23}}</ref>
+* The [[Pirate Party (Sweden)|Pirate Party of Sweden]] uses the [[Schulze method]] for its primaries
+* The [[Debian]] project uses the [[Schulze method]] for internal referenda and to elect its leader
+* The [[Software in the Public Interest]] corporation uses the [[Schulze method]] for internal referenda and to elect its Board of Directors
+* The [[Gentoo Linux|Gentoo Foundation]] uses the [[Schulze method]] for internal referenda and to elect its Board of Trustees and its Council
+* The [[Free State Project]] used [[Minimax Condorcet|Minimax]] for choosing its target state
+* The [[United Kingdom|uk]].* hierarchy of [[Usenet]]
+* The [[Alma Mater Society of the University of British Columbia|Student Society of the University of British Columbia]] uses [[ranked pairs]] for its executive elections.
+* [[Kingman Hall]] and [[Hillegass Parker House]], two loosely affiliated [[student housing cooperative]]s, each use the [[Schulze method]] to elect their management teams.
+* The [[Kubernetes]] community uses the [https://civs.cs.cornell.edu/civs_create.html Condorcet Internet Voting Service].
+{{See also|Schulze method#Users|l1=Use of the Schulze method}}
+
+==Other considerations==
+{{Unreferenced section|date=March 2021}}
+* If ''N'' candidates run for a single-seat office in a Condorcet-decided race, ballot counters will count ''N''(''N''+1)/2 head-to-head runoffs to find the winner. While this is doable, it might be more practical to still use ballot access laws or primaries to reduce the number of candidates.
+Possible solutions:
+** Computers can be used to speed up the counts, though some voters fear computers can be hacked and used for ballot counting fraud. 
+** Another option would be to allow several independent scanner owners count the ballots and compare results. Volunteer hand counters could then spot check various candidates and ranks to make sure they match the subtotals reported by the scanners. 
+** It is also possible to limit the number of ranks voters can use; for example, if every voter is only allowed to rank each candidate either 1st, 2nd, or 3rd, with equal rankings allowed, then only the runoffs between candidates ranked 1st and 2nd, 1st and 3rd, 1st and last, 2nd and 3rd, 2nd and last, and 3rd and last need be counted, as the runoffs between two candidates at the same rank will result in ties.
+** The negative vote-counting approach to pairwise counting may reduce the amount of work the vote-counters have to do.<ref>{{Cite news|date=2020-08-14|title=Negative vote-counting approach for pairwise counting|language=en|work=Electowiki|url=https://electowiki.org/wiki/Negative_vote-counting_approach_for_pairwise_counting|access-date=2020-09-08}}</ref> For example, with 10 candidates, a voter who ranks candidate A as their 1st choice and doesn't rank any other candidate prefers A over 9 other candidates. In the regular approach, this means recording those 9 preferences; but with negative counting, it can simply be recorded that A is marked on 1 voter's ballot and that no other candidate is preferred over A, with this itself indicating that A is preferred in every match-up. When a voter ranks a candidate 2nd, then a negative vote can be placed in the matchup between the 2nd choice and 1st choice to indicate that the 2nd choice is '''not''' preferred to the 1st choice, such that it will cancel out with the support the 2nd choice would receive against the 1st choice from being marked on the voter's ballot. Negative votes can likewise be applied to matchups where both candidates are ranked equally. 
+** If there are no more than 5 candidates ( or a larger number of candidates is short-listed to 5) then the amount of effort counting ballots could be reduced to normal acceptable levels by asking voters to select an order of preference from a predetermined list of the possibilities. This would mean that the ballots would just require to be counted once to determine the number of votes cast for each order of preference. The results would then be entered into a simple spreadsheet which would determine the Condorcet winner. For example, where there are candidates A, B and C, there are six orders of preference, so voters could be asked to choose which of the six they wish to vote for. Counting would then be simply a matter of counting how votes were cast for each order of preference. The results could then be applied to a simple spreadsheet which revealed the Condorcet winner. If there were four candidates (options) then there would be 24 orders of preference; if there were five candidates then there would be 120 orders of preference and so on.
+* Voters make an economic trade-off in the amount of time invested in researching and ranking candidates.  If voters rank too few candidates or [[donkey voting|rank such as to inaccurately represent their preferences]], the Condorcet candidate cannot be correctly discovered. Nominating primaries reduce the number of candidates to avoid this, and the style of nominating primary can impact whether the Condorcet candidate—or at least a similar candidate—remains or if all such candidates are eliminated in favor of polarized options.
+
+==See also==
+{{Portal|Politics}}
+* [[Condorcet loser criterion]]
+* [[Condorcet's jury theorem]]
+* [[Ramon Llull]] (1232–1315) who, with the 2001 discovery of his lost manuscripts ''Ars notandi'', ''Ars eleccionis'', and ''Alia ars eleccionis'', was given credit for discovering the Borda count and Condorcet criterion (Llull winner) in the 13th century
+*[[Multiwinner voting]] - contains information on some multiwinner variants of Condorcet methods.
+
+'''Proportional forms of Condorcet'''
+* [[CPO-STV]]
+* [[Schulze STV]]
+
+==Footnotes==
+{{reflist|group="footnotes"|colwidth=30em}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite book | last =  Black | first =  Duncan | title = The Theory of Committees and Elections | url =  https://archive.org/details/theoryofcommitte0000blac | url-access =  registration | publisher =  Cambridge University Press | year = 1958}}
+* {{cite book | last = Farquarson | first = Robin | title = Theory of Voting | location = Oxford | year = 1969}}
+* {{cite book | last = Sen | first = Amartya Kumar| title = Collective Choice and Social Welfare | isbn = 978-0-8162-7765-0 | year = 1970 | publisher = Holden-Day}}
+
+==External links==
+<!-- this section contains a lot of links; please try to keep it organized by the author's last name. -->
+* {{Citation | url = http://pj.freefaculty.org/Ukraine/PJ3_VotingSystemsEssay.pdf | title = Voting Systems | first = Paul E | last = Johnson | publisher = Free faculty | access-date = 2015-06-27}}.
+* {{Citation | url = http://robla.net/1996/politics/condorcet.html | title = Condorcet's Method | first = Robert ‘Rob’ | last = Lanphier}}.
+* {{Citation | url = http://accuratedemocracy.com/ | title = Accurate Democracy | first = Robert ‘Rob’ | last = Loring | access-date = 2004-11-02 | archive-url = https://web.archive.org/web/20041030073537/http://www.accuratedemocracy.com/ | archive-date = 2004-10-30 | url-status = dead }}.
+* {{Citation | url = http://condorcet.ca/ | title = Condorcet Canada Initiative | first = Ron | last = McKinnon | place = CA | access-date = 2019-01-08}}. Multipage description of Condorcet method and Ranked Pairs from a Canadian perspective.
+* {{Citation | url = http://www1.fee.uva.nl/creed/pdffiles/MoulinCh4Elferink.pdf | title = Voting and Social Choice | first = Hervé | last = Moulin | publisher = UVA | place = NL | access-date = 2015-06-27}}. Demonstration and commentary on Condorcet method.
+* {{Citation | url = http://www2.uah.es/docecon/documentos/DT1.pdf | title = A strong No Show Paradox is a common flaw in Condorcet voting correspondences | first = Joaquin | last = Perez | place = ES | publisher = UAH | access-date = 2015-06-27 | archive-url = https://web.archive.org/web/20160303171153/http://www3.uah.es/docecon/documentos/DT1.pdf | archive-date = 2016-03-03 | url-status = dead }}.
+* {{Citation | url = http://radicalcentrism.org/resources/maximum-majority-voting/ | title = Maximum Majority Voting (a Condorcet method) | first = Ernest | last = Prabhakar | publisher = Radical centrism | access-date = 2015-06-27| date = 2010-06-28 }}.
+* {{Citation | url = http://m-schulze.9mail.de/schulze1.pdf | title = A New Monotonic, Clone-Independent, Reversal Symmetric, and Condorcet-Consistent Single-Winner Election Method | first = Markus | last = Schulze}}.
+
+===Software===
+* {{Citation | url = http://www.cs.cornell.edu/andru/civs.html | title = CIVS, a free web poll service using the Condorcet method | publisher = Cornell}}.
+* {{Citation | url = https://github.com/julien-boudry/Condorcet | type = Open-source command line application and [[PHP]] [[Library (computing)|library]] for computing multiple Condorcet methods and others | title =Condorcet PHP | date = 22 October 2021 }}.
+* {{Citation | url = http://www.condorcet.vote/ | title = Condorcet.Vote | type = A free web poll application using the original Condorcet method and many others like Schulze method.}}.
+* {{Citation | url = http://condorcet.ericgorr.net/ | title = Condorcet Voting Calculator | first = Eric | last = Gorr}}.
+* {{Citation | url = https://www.thehivemind.com/ | title = Hivemind | type = A free mobile app for ranked choice voting that uses the Condorcet method.}}.
+* {{Citation | url = http://stv.sourceforge.net/ | type = software for computing Condorcet methods and STV | title = STV | publisher = Sourceforge}}.
+* {{Citation | url = http://www.votefair.org/surveys.html | title = VoteFair surveys | publisher = VoteFair | type = Free ranking service that calculates [[Condorcet Kemeny|Condorcet–Kemeny]] results }}
+* {{Citation | url = https://github.com/cpsolver/VoteFair-ranking-cpp | title = VoteFair Ranking | date = 25 September 2021 | type = Open-source C++ election software that calculates [[Condorcet Kemeny|Condorcet–Kemeny]] results. | publisher = VoteFair}}
+* {{Citation | url = http://voteer.com/ | publisher = Arpinum | title = Voteer | type = free web pool service using a Condorcet algorythme}}
+* {{Citation | url = https://dev.entrouvert.org/projects/wcs | publisher = Entr'ouvert | title = w.c.s. | type = A free web poll application using OpenSTV for voting algorithms}}
+
+{{Voting systems}}
+
+{{DEFAULTSORT:Condorcet Method}}
+[[Category:Single-winner electoral systems]]
+[[Category:Condorcet methods|*]]
+[[Category:Preferential electoral systems]]
+
+[[he:מועמד קונדורסה]]

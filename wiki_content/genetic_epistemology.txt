@@ -1,0 +1,74 @@
+{{short description|study of the origins of knowledge}}
+{{More footnotes|date=October 2010}}
+{{Psychology sidebar}}
+'''Genetic epistemology''' or 'developmental theory of knowledge' is a study of the origins (genesis) of knowledge ([[epistemology]]) established by [[Jean Piaget]].
+
+==Aims==
+The goal of genetic epistemology is to link the validity of knowledge to the model of its construction &ndash; i.e. the context in which knowledge is gained affects its perception, quality, and degree of retention. Further, genetic epistemology seeks to explain the process of cognitive development (from birth) in four primary stages: sensorimotor (birth to age 2), pre-operational (2-7), concrete operational (7-11), and formal operational (11 years onward).  As an example, consider that for children in the sensorimotor stage, teachers should try to provide a rich and stimulating environment with ample objects to play with. Then with children in the concrete operational stage, learning activities should involve problems of classification, ordering, location, conservation using concrete objects.<ref>{{cite web |last1=Culatta |first1=Richard |title=Genetic Epistemology (Jean Piaget) |url=https://www.instructionaldesign.org/theories/genetic-epistemology/ |website=Instructional Design |accessdate=29 February 2020}}</ref> The main focus is on the younger years of development.  ''[[wikt:Assimilation|Assimilation]]'' occurs when the perception of a new event or object occurs to the learner in an existing schema and is usually used in the context of self-motivation. In ''[[Accommodation (psychology)|Accommodation]]'', one accommodates the experiences according to the outcome of the tasks. The highest form of development is ''equilibration''.  Equilibration encompasses both assimilation and accommodation as the learner changes how they think to get a better answer.
+
+Piaget believed that knowledge is a biological function that results from the actions of an individual through change.  He also stated that knowledge consists of structures, and comes about by the adaptation of these structures with the environment.
+
+Piaget's genetic epistemology is halfway between formal logic and dialectical logic. Piaget's epistemology is midway between [[objective idealism]] and [[materialism]].
+
+==Piaget's schema theory==
+#Thought passes through a series of [[Theory of cognitive development|stages of development]]; at each stage there applies formal logic at a specific stage of differentiation which may be characterized by an algebra in which exactly such-and-such a mathematical structure applies, corresponding to the axioms of logic at that stage; this logic is manifested first in actions, then at a relatively early stage in sensorimotor operations (in the specific mathematical sense of the word, as opposed to "actions" which are equivalent to relations but not yet mathematical operations), and finally in operations which express thoughts, conscious purposive activity.
+#The material basis for transition from [[Theory of cognitive development#Sensorimotor stage|sensorimotor]] intelligence to representation and from representation to conceptual thought is the interiorisation of practical activity.
+#The successive stages of concepts manifested in [[child development]] imply relations of deduction in mathematical logic and in the development of thinking in other planes of development, such as in the history of science and the history of knowledge in the [[anthropological]] domain.<ref>[http://www.marxists.org/reference/subject/philosophy/works/fr/piaget.htm "Genetic Epistemology"] by Jean Piaget (1968)</ref>
+
+Piaget draws on the full range of contemporary mathematical knowledge, a vast empirical base of observation of the learning of very young children built up at his institute and reports of observations of older children and a general knowledge of the development of knowledge in history.
+
+(1) From the standpoint of dialectical logic, we must agree that at each stage of development, at each "definition of the Absolute" in Hegel's terminology, formal logic is applicable. Piaget's proof of this is striking, and his demonstration of how the stages of development in child thought pass through a specific series which is deductive in a specific sense from the standpoint of mathematics is original and profound.
+
+However, from the standpoint of understanding development (and this is Piaget's standpoint), what is important is not the definition of each stage but the transition from one to the next; and for this it is necessary to demonstrate the internal contradiction within the logic of that plane.
+
+Since Piaget draws on mathematical logic more developed than what was known to [[Hegel]], it will be necessary to investigate these structures to see if this speculative proposition proves to be valid.
+
+(2) The concept of interiorisation is indeed the basis of the materialist view of the development of thought. However, Piaget, as a professional child-psychologist falls prey to the objective idealism of any professional, of elevating the subject matter of his particular profession from being an aspect of the material world to being its master. [The charge of objective [[idealism]] is qualified, for Piaget is quite unambiguous that relations conceived of in thought exist objectively in the material world].
+
+Thus, since his body of authoritative empirical work is in relation to early childhood development, he imposes the [[Schema (psychology)|schema]] appropriate to this semi-human subject on to adolescent development, speculates on its possible reflection in anthropological development and confounds it with the history of development of science and [[philosophy]]. I say "confounds" because Piaget is aware that his schemas do not seem to apply in this domain. In this sense, the charge of objective idealism would seem unfair, but from confounding he does not go further and seek the implication of this lack of correspondence, but seeks to minimize it.
+
+By focusing on early childhood (as indeed he must; that is his profession, and his institute has contributed a vast body of empirical material), Piaget sees what is biologically (zoologically?) human but not what is socially (historically) human, and humanity is essentially social, after all.
+
+(3) On the plus side, it has to be said that Piaget deals once and for all with any idea of innate intelligence, and makes fully convincing the prospect of a fully genetic (i.e. developmental) elaboration of intelligence, assuming only animal instincts such as grasping and sucking and sensorimotor "equipment" capable of reflecting highly developed relations.
+A weakness in Piaget's theory could be that there isn't proof in how one transitions from one stage to the next.  Can someone progress from one stage forward, but revert backwards, and then move forward again?
+
+== Types of knowledge ==
+Piaget proposes three types of knowledge: physical, logical mathematical, and social knowledge.
+
+Physical knowledge: It refers to knowledge related to objects in the world, which can be acquired through perceptual properties. The acquisition of physical knowledge has been equated with learning in Piaget's theory (Gruber and Voneche, 1995). In other words, thought is fit directly to experience.
+
+<blockquote>
+"Piaget also called his view constructivism, because he firmly believed that knowledge acquisition is a process of continuous self-construction.  That is, Knowledge is not out there, external to the child and waiting to be discovered.  But neither is it wholly performed within the child, ready to emerge as the child develops with the world surrounding her&nbsp;... Piaget believed that children actively approach their environments and acquire knowledge through their actions."<ref name="Driscoll 2005">{{cite book|last=Driscoll|first=Marcy P.|title=Psychology of learning for instruction|year=2005|publisher=Pearson Allyn and Bacon|location=Boston, MA|isbn=0-205-37519-7|page=191}}</ref> 
+</blockquote>
+<blockquote>
+"Piaget distinguished among three types of knowledge that children acquire:  Physical, logical-mathematical, and social knowledge.  '''Physical knowledge,''' also called empirical knowledge, has to do with knowledge about objects in the world, which can be gained through their perceptual properties... '''Logical-Mathematical knowledge''' is abstract and must be invented, but through actions on objects that are fundamentally different from those actions enabling physical knowledge.... '''Social Knowledge''' is culture-specific and can be learned only from other people within one's cultural group." {{Citation needed|date=December 2014}}
+</blockquote>
+
+==See also==
+*[[Constructivist epistemology]]
+*[[Cognitive psychology]]
+*[[Educational psychology]]
+*[[Evolutionary epistemology]]
+*[[General semantics]]
+*[[Genetic structuralism]]
+*[[Learning styles]]
+*[[Learning theory (education)|Learning theory]]
+*[[Ontogeny recapitulates phylogeny]]
+*[[Theory of cognitive development]]
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite book |last=Driscoll |first=Marcy Perkins |editor=Arnis Burvikovs |title=Psychology of Learning for Instruction |year=1994|url=http://www.ablongman.com|edition=3rd |publisher=Pearson Education, Inc. |location=Boston|isbn=0-205-37519-7|pages=190–216|chapter=6 }}
+*{{cite book |editor=Berly A. Geber |title=Piaget and Knowing Studies in Genetic Epistemology|year=1977|url=http://www.ablongman.com|edition=3rd |publisher=Routledge & Kegan Paul Ltd |location=London|isbn=0-7100-8500-1|pages=13–16}}
+*{{cite book |last=Vuyk |first=Rita|editor=Arnis Burvikovs |title=Overview and Critique of Piaget's Genetic Epistemology, 1965-1980, Volume 1|year=1981|edition=1st |publisher=Academic Press Inc. |location=London|isbn=0-12-728501-6|pages=26|chapter=3 }}
+
+{{Epistemology}}
+{{Psychology}}
+
+{{DEFAULTSORT:Genetic Epistemology}}
+[[Category:Developmental psychology]]
+[[Category:Educational psychology]]
+[[Category:History of psychology]]
+[[Category:Epistemology]]

@@ -1,0 +1,45 @@
+{{Use American English|date=May 2012}}
+{{Use dmy dates|date=December 2020}}
+'''Experimental political science''' is the use of [[experiment]]s, which may be [[natural experiment|natural]] or [[scientific control|controlled]], to implement the [[scientific method]] in [[political science]].
+
+== History and usage ==
+The first experiment in political science is regarded to be Harold Gosnell's 1924 study on voter turnout in Chicago.<ref>{{cite journal|last1=Morton|first1=Rebecca B.|last2=Williams|first2=Kenneth C.|title=Experimentation in Political Science|journal=The Oxford Handbook of Political Methodology|url=http://www.nyu.edu/gsas/dept/politics/faculty/morton/ExpChapHandbook5April06.pdf|accessdate=26 July 2014}}</ref> In this experiment, he randomly assigned districts to receive information on voter registration and encouragements to vote.<ref>{{cite journal|last1=Gosnell|first1=Harold F.|title=An Experiment in the Stimulation of Voting|journal=American Political Science Review|date=1926|volume=20|issue=4|pages=869–874|url=http://www.ib.ethz.ch/teaching/pwgrundlagen/Gosnell-Experiment-Voting-1926.pdf|doi=10.2307/1945435|jstor=1945435|archive-url=https://web.archive.org/web/20140729161524/http://www.ib.ethz.ch/teaching/pwgrundlagen/Gosnell-Experiment-Voting-1926.pdf|archive-date=29 July 2014|url-status=dead}}</ref> Current experts in experimental methodology in political science include [[Rebecca Morton]] and [[Donald Green]]. 
+
+Since then, experimental research has become a growing area of political science. The publication of experimental research articles in flagship political science journals has risen, especially since the 1980s. Moreover, [[citation analysis]] indicates that articles using experimental methods have higher rates of citation.
+
+Among the areas that it is used in are:
+* [[Political psychology]], including [[survey methodology]], [[loss aversion]], influences on [[voter turnout]], and [[media influence]];
+* The effects on outcomes of different [[voting systems]] (''e.g.'', [[Storable Votes#Experimental Results|storable votes]]), including the study of [[tactical voting]]; 
+* The political economy of development;<ref>{{cite journal|last1=Humphreys|first1=Macartan |last2=Weinstein | first2 = Jeremy  |title=Field experiments and the Political Economy of Development|journal = Annual Review of Political Science |date=2009|volume=12|pages=367–378|doi=10.1146/annurev.polisci.12.060107.155922|doi-access=free}}</ref> 
+* International relations<ref>{{cite journal|last1=Hyde|first1=Susan D. |title=The future of field experiments in International Relations|journal = The Annals of the American Academy of Political and Social Science |date=2010|volume=628|issue=1|pages=72–84|doi=10.1177/0002716209351513|s2cid=144949241 }}</ref> 
+
+* Interactions and voting in [[legislatures]] (and other [[deliberative assembly|deliberative assemblies]]), including the effects of different [[voting methods in deliberative assemblies|voting methods]] and control of the [[agenda (meeting)|agenda]].<ref name=liberalism_populism>{{cite book|title=Liberalism Against Populism|first=William|last=Riker|author-link=William H. Riker|isbn=978-0-88133-367-1|year=1988|orig-year=First published in 1982|publisher=Waveland Press|location=Prospect Heights, Illinois, USA}}</ref>
+
+== See also ==
+* [[Experimental economics]]
+* [[Experimental psychology]]
+* [[Psephology]]
+* [[Public choice theory]]
+* [[Social choice theory]]
+* [[Issue voting]]
+
+== Notes ==
+{{Reflist}}
+
+== References ==
+* {{cite journal|url=http://www.apsanet.org/imgtest/APSRNov06Druckman_etal.pdf|journal=[[American Political Science Review]]|date=November 2006|first1=James|last1=Druckman|first2=Donald|last2=Green|first3=James|last3=Kuklinski|first4=Arthur|last4=Lupia|authorlink4=Arthur Lupia|title=The Growth and Development of Experimental Research in Political Science|volume=100|issue=4|pages=627–635|doi=10.1017/S0003055406062514|s2cid=1585171}}
+
+== Further reading ==
+* {{cite book|editor1-first=Donald|editor1-last=Kinder|editor2-first=Thomas|editor2-last=Palfrey|editor2-link=Thomas Palfrey|title=Experimental Foundations of Political Science|isbn=978-0-472-08181-3|publisher=University of Michigan Press|year=1993|url=https://books.google.com/books?id=B96kBDDmBFoC&q=%22Experimental+Foundations+of+Political+Science%22|series=Michigan studies in political analysis}}
+* {{cite book|editor1-first=Rebecca|editor1-last=Morton|editor2-first=Kenneth|editor2-last=Williams|title=Experimental Political Science and the Study of Causality: From Nature to the Lab|year=2010|isbn=978-0-521-13648-8|publisher=[[Cambridge University Press]]|url=https://books.google.com/books?id=yxrZlZqZQVEC&q=%22Experimental+Political+Science+and+the+Study+of+Causality%22}}
+* {{cite book|editor1-last=Druckman|editor1-first=James|editor2-first=Donald|editor2-last=Green|editor3-first=James|editor3-last=Kuklinski|editor4-first=Arthur|display-editors = 3 |editor4-last=Lupia|editor4-link=Arthur Lupia|year=2011|title=Cambridge Handbook of Experimental Political Science|location=New York|publisher=Cambridge University Press|isbn=978-0-521-17455-8|url=https://books.google.com/books?id=ES5PUvvShF8C&q=%22Cambridge+Handbook+of+Experimental+Political+Science%22}}
+
+== External links ==
+* [http://cess.nyu.edu/ NYU Center on Experimental Social Science]
+* The [http://www.e-gap.org/ Experiments in Governance and Politics] research network
+* [http://www.apsanet.org/content_70629.cfm?navID=958 Experimental Research], an organized section of the [[American Political Science Association]]
+
+[[Category:Experimental social sciences]]
+
+
+{{polisci-stub}}

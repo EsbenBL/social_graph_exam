@@ -1,0 +1,73 @@
+{{Infobox economist
+| name             = Gustav Cassel
+| school_tradition = [[Stockholm school (economics)|Stockholm School]]
+| image       = Cassel.gif
+| caption    =
+| birth_date       = {{Birth date|1866|10|20|df=y}}
+| birth_place      = [[Stockholm]]
+| death_date       = {{Death date and age|1945|1|14|1866|10|20|df=y}}
+| death_place      = [[Jönköping]]
+| nationality      = [[Sweden|Swedish]]
+| institution      = [[Stockholm University]]
+| field            = [[Mathematical economics]]
+| alma_mater       = [[Uppsala University]]
+| influences       = [[Léon Walras]]
+| doctoral_advisor = [[Gösta Mittag-Leffler]]
+| doctoral_students= [[Gunnar Myrdal]]<br>[[Bertil Ohlin]]<br>[[Eli Heckscher]]<br>[[Gösta Bagge]]
+| contributions    = [[Purchasing power parity]],<br />work on [[interest]]
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix =   | repec_id =
+}}
+
+'''Karl Gustav Cassel''' (20 October 1866 – 14 January 1945) was a [[Sweden|Swedish]] [[economist]] and [[professor]] of [[economics]] at [[Stockholm University]].
+
+==Work==
+Cassel's perspective on economic reality, and especially on the role of interest, was rooted in [[Neoclassical economics|British neoclassicism]] and in the nascent Swedish schools. He is perhaps best known through [[John Maynard Keynes]]' article ''[[Tract on Monetary Reform]]'' (1923), in which he raised the idea of [[purchasing power parity]].
+
+"Cassel was beyond doubt one of the outstanding figures in economic science during the inter-war period. His authority was second only to that of Lord [[Keynes]], and his advice was eagerly sought on many occasions by his own Government and by foreign Governments."<ref>
+{{cite journal
+|title=Obituary
+|journal=Nature
+|date=10 February 1945
+|pages=167
+|doi=10.1038/155167a0
+|last1=Einzig
+|first1=P.
+|volume=155
+|issue=3928|doi-access=free
+}}
+</ref>
+
+He was also a founding member of the Swedish school of economics, along with [[Knut Wicksell]] and [[David Davidson (economist)|David Davidson]]. Cassel came to economics from mathematics. He earned an advanced degree in mathematics from [[Uppsala University]] and was made professor at [[Stockholm University]] during the late 1890s but went to Germany before the turn of the century to study economics, publishing papers spanning just under forty years.
+
+Following the end of WWI Gustav Cassel was actively involved in discussions on possible ways of restoring the [[gold standard]], which would automatically restore the system of [[Fixed exchange-rate system|fixed exchange rates]] among participating nations. The stability of exchange rates was widely believed to be crucial for restoring the international trade and for its further stable and balanced growth.  The question, which Gustav Cassel tried to answer in his works written in the context of those discussions, was how to determine the appropriate level at which exchange rates were to be fixed during the restoration of the system of fixed exchange rates.  His advice was to fix exchange rates at the level corresponding to the [[purchasing power parity]], as he believed that this would prevent trade imbalances between trading nations.  PPP doctrine proposed by Cassel was not really a positive theory of exchange rate determination (as Cassel was perfectly aware of numerous factors that prevent exchange rates from stabilizing at PPP level if allowed to float), but rather a normative policy advice, formulated in the context of discussions on returning to the [[Fixed exchange-rate system|fixed exchange rates]] system.<ref>{{Cite journal|last=Kadochnikov|first=Denis|date=2013|title=Gustav Cassel's purchasing power parity doctrine in the context of his views on international economic policy coordination|journal=European Journal of the History of Economic Thought|volume=20|issue=6|pages=1101–1121|doi=10.1080/09672567.2013.824999|s2cid=154383662}}</ref> 
+
+He also worked on the German reparations problem. He was a member of many committees dealing with matters of state in Sweden and devoted much labour to the creation of a better system of budget exposition and control (1905–21). He was one of the Swedish representatives at the [[International Chamber of Commerce]] meeting in [[London]] in 1921. He became a member of Svenska Vetenskapsakademien and correspondent for Sweden to the [[Royal Economic Society]].<ref name="eb">{{Cite EB1922|wstitle=Cassel, Gustav}}</ref>
+[[File:Cassel - Theoretische Sozialökonomie, 1923 - 5211130.tif|thumb|left|''Theoretische Sozialökonomie'', 1923]]
+In addition to his books in [[Swedish language|Swedish]], he published the following works in other languages: ''Das Recht auf den vollen Arbeitsertrag'' (1900), ''The Nature and Necessity of Interest'' (1903), ''Theoretische Sozialökonomie'' (1919). His ''Memorandum on the World's Monetary Problems'', published by the [[League of Nations]] for the International Financial Conference in [[Brussels]] in 1920, attracted widespread attention.<ref name="eb" />
+
+Some of his notable students include [[Nobel Prize in Economics]] laureates [[Bertil Ohlin]] and [[Gunnar Myrdal]], and the future [[Moderate Party]] leader [[Gösta Bagge]].
+
+==Notes==
+{{reflist}}
+
+==External links==
+{{wikiquote}}
+*{{cite book |last=Cassel |first=Gustav |url=https://mises.org/books/theorysocialeconomy_cassel.pdf |title=The Theory of Social Economy |location=New York |publisher=[[Augustus M. Kelley]] |year=1967 |origyear=1924 }}
+*{{Cite encyclopedia |title=Gustav Cassel (1866–1945) |url=http://www.econlib.org/library/Enc/bios/Cassel.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+* {{PM20|FID=pe/003053}}
+
+{{Stockholm school}}
+
+{{Authority control}}
+{{DEFAULTSORT:Cassel, Gustav}}
+[[Category:1866 births]]
+[[Category:1945 deaths]]
+[[Category:Uppsala University alumni]]
+[[Category:Stockholm University faculty]]
+[[Category:Swedish economists]]
+[[Category:Monetary economists]]
+[[Category:Stockholm University alumni]]
+[[Category:Financial economists]]
+[[Category:Macroeconomists]]

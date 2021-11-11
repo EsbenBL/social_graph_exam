@@ -1,0 +1,158 @@
+{{Infobox economist
+| name             = Lawrence Klein
+| school_tradition = [[Neo-Keynesian economics]]
+
+| image            = Lawrence_Klein.jpg
+| image_size       =
+| caption          =
+| birth_date       = {{Birth date|1920|9|14|mf=y}}
+| birth_place      = [[Omaha, Nebraska]], U.S.
+| death_date       = {{death date and age|2013|10|20|1920|9|14}}
+| death_place      = [[Gladwyne, Pennsylvania]], U.S.
+| nationality      = [[United States]]
+| institution      = [[University of Pennsylvania]] <br />[[University of Oxford]] <br />[[University of Michigan]] <br />[[NBER]] <br />[[Cowles Commission]]
+| field            = [[Macroeconomics]]<br>[[Econometrics]]
+| alma_mater       = [[Massachusetts Institute of Technology]] (Ph.D.)<br />[[University of California, Berkeley]] (B.A.)<br />[[Los Angeles City College]] (A.A.)
+| doctoral_advisor = [[Paul Samuelson]]
+| academic_advisors = 
+| doctoral_students = Jorge L. Gana<br>[[Arthur Goldberger]]<br>[[Bennett Harrison]]<br>[[Ignazio Visco]]<br>[[E. Roy Weintraub]]
+| notable_students = 
+| influences       = [[Jan Tinbergen]]
+| influenced       = 
+| contributions    = Macroeconometric forecasting models
+| awards           = [[John Bates Clark Medal]] (1959)<br />[[Nobel Memorial Prize in Economic Sciences]] (1980)
+| signature        = <!-- file name only -->
+| repec_prefix     = e | repec_id = pkl8
+}}
+{{Macroeconomics sidebar}}
+'''Lawrence Robert Klein''' (September 14, 1920 – October 20, 2013) was an American [[economics|economist]]. For his work in creating [[computer model]]s to forecast economic trends in the field of [[econometrics]] in the Department of Economics at the [[University of Pennsylvania]], he was awarded the [[Nobel Memorial Prize in Economic Sciences]] in 1980 specifically "for the creation of econometric models and their application to the analysis of economic fluctuations and economic policies." Due to his efforts, such models have become widespread among [[economist]]s.  [[Harvard University]] professor [[Martin Feldstein]] told the [[Wall Street Journal]] that Klein "was the first to create the statistical models that embodied [[John Maynard Keynes|Keynesian]] economics," tools still used by the [[Federal Reserve Bank]] and other central banks.<ref name="wsj">{{cite news |title=Nobel-Winning Economist Applied Forecasting Models to the Real World |newspaper=[[Wall Street Journal]] |date=October 22, 2013 |page=A8 |url=https://www.wsj.com/articles/SB10001424052702303672404579150051992163302 }}</ref>
+
+==Life and career==
+Klein was born in [[Omaha, Nebraska]], the son of Blanche (née Monheit) and Leo Byron Klein.<ref>{{Nobelprize|accessdate=2020-10-11}}</ref> He went on to graduate from [[Los Angeles City College]], where he learned [[calculus]]; the [[University of California, Berkeley]], where he began his [[computer model]]ing and earned a [[Bachelor of Arts|B.A.]] in Economics in 1942; he earned his [[Ph.D.]] in Economics at the [[Massachusetts Institute of Technology]] (MIT) in 1944, where he was [[Paul Samuelson]]'s first doctoral student.<ref>{{Google books |id=gyReAgAAQBAJ |title=Business Cycles and Depressions: An Encyclopedia |page=361 }}</ref><ref>{{cite journal |last=De Vroey |first=Michel |last2=Malgrange |first2=Pierre |title=From ''The Keynesian Revolution'' to the Klein–Goldberger model: Klein and the Dynamization of Keynesian Theory |journal=History of Economic Ideas |volume=20 |issue=2 |pages=113–136 |year=2012 }}</ref>
+
+===Early model-building===
+Klein then moved to the [[Cowles Commission for Research in Economics]], which was then at the [[University of Chicago]], now the <!-- [http://cowles.econ.yale.edu/ Cowles Foundation] -->[[Cowles Foundation]].  There he built a model of the [[United States economy]] to forecast the development of business fluctuations and to study the effects of government economic-political policy. After [[World War II]] Klein used his model to correctly predict, against the prevailing expectation, that there would be an economic upturn rather than a [[Depression (economics)|depression]] due to increasing consumer demand from returning servicemen.<ref name="wsj" />  Similarly, he correctly predicted a mild [[recession]] at the end of the [[Korean War]].{{cn|date=April 2020}}
+
+Klein briefly joined the [[Communist Party USA|Communist Party]] during the 1940s, which led to trouble years later.
+
+At the [[University of Michigan]], Klein developed enhanced [[macroeconomic model]]s, in particular the famous [[Klein–Goldberger model]] with [[Arthur Goldberger]], which was based on foundations laid by [[Jan Tinbergen]] of the [[Netherlands]], later winner of the first economics prize in 1969.  Klein differed from Tinbergen in using an alternative [[economic theory]] and a different [[statistics|statistical]] technique.<ref>{{cite book |last=Epstein |first=Roy J. |title=A History of Econometrics |location=New York |publisher=North-Holland |year=1987 |isbn=0-444-70267-9 |pages=114–140 }}</ref>
+
+===McCarthyism and move to England===
+In 1954, Klein's brief membership in the Communist Party was made public<ref name="wsj" /> and he was denied tenure at the University of Michigan, in the wake of the [[McCarthyism|McCarthy era]]. Klein moved to the [[University of Oxford]], and developed an economic model of the [[United Kingdom]] known as the [[Oxford model]] with [[James Ball (economist)|Sir James Ball]]. Additionally, at the Institute of Statistics Klein assisted with the creation of the [[United Kingdom|British]] Savings Surveys, based upon the Michigan Surveys.
+
+===Return to the U.S.===
+In 1958 Klein returned to the U.S. to join the Department of Economics at the [[University of Pennsylvania]].  In 1959 he was awarded the [[John Bates Clark Medal]], one of the two most prestigious awards in the field of economics.  In 1968 he became the [[Benjamin Franklin]] Professor of Economics and Finance at Penn.
+
+===Brookings-SSRC Project===
+In the early 1960s Klein became the leader of the major "Brookings-SSRC Project" to construct a detailed [[econometric model]] to forecast the short-term development of the U.S. economy.
+
+===Wharton===
+Later in the '60s, Klein constructed the [[Wharton Econometric Forecasting Model]]. This model, considerably smaller than the Brookings model, achieved a very good reputation for its analysis of business conditions, used to forecast fluctuations including national product, exports, investments, and consumption, and to study the effect on them of changes in taxation, public expenditure, oil price, etc.
+
+In 1969 Klein founded [[Wharton Econometric Forecasting Associates]] or WEFA (now [[IHS Global Insight]]), launching the econometric forecasting industry in the United States.  Among his clients were [[General Electric Company]], [[IBM]], and [[Bethlehem Steel Corporation]]. He was the initiator of, and an active research leader in their [[Project LINK|LINK]] project, a consortium of model builders from many countries, which was also mentioned in his Nobel citation.  The aim was to produce the world's first global economic model, linking models of many of the world's countries so that the effect of changes in the economy of one country are reflected in the other. LINK, which is now operated by the United Nations, is still meeting regularly, most recently in September 2018 in Santiago, Chile.
+
+Klein served as a thesis advisor for numerous well-known economists including [[E. Roy Weintraub]] in the late 1960s.{{cn|date=May 2020}}
+
+===Later career===
+During the [[1976 United States presidential election]], Klein coordinated [[Jimmy Carter]]'s economic task force.  He declined an invitation to join Carter's administration.  Klein has also been president of the [[Econometric Society]]. the International Atlantic Economic Society (1989–1990), and the [[American Economic Association]] (in 1977).
+
+His Nobel citation concludes that "few, if any, research workers in the empirical field of economic science, have had so many successors and such a large impact as Lawrence Klein". However, [[Christopher Sims]] has criticized the assumptions underlying large macro-econometric models built by Klein (Sims, 1980). Also, many economists have questioned the suitability of estimation methods employed by large structural models and the usefulness of simple autoregressive models for approximating economic systems. 
+
+In his final years, he was constructing short range  "current quarter models" that use current economic indicators to get a handle on the rate of economic growth during the current and next quarter.  In contrast to earlier efforts to model the economy structurally and to use constant adjustments and judgmental estimates for the exogenous variables, these systems are  deliberately automatic and mechanical, simply translating available information into a statistically best estimate of current conditions.  This represents a very different tradition from his earlier model building and applications.
+
+After formal retirement and until his death he was engaged in macro econometric model building high-frequency models that project the economy in a monthly, quarterly frame. A publication on high frequency model containing countries such as US, [[China]], [[Russia]], [[India]], [[Brazil]], [[Mexico]], [[Korea]] and [[Hong Kong]] was expected in 2008.
+
+Klein was a founding trustee of [[Economists for Peace and Security]].
+
+He died  at the age of 93 in his home on October 20, 2013. <ref>{{cite news |url=https://www.nytimes.com/2013/10/22/business/economy/lawrence-r-klein-economist-who-forecast-global-trends-dies-at-93.html |title=Lawrence R. Klein, Economic Theorist, Dies at 93 |newspaper=[[New York Times]] |date=October 21, 2013  }}</ref>
+
+==Publications==
+* {{Cite book |last=Klein |first=Lawrence Robert
+ |title=An essay on the theory of economic prediction
+ |edition=American
+ |series=Markham economics series
+ |year=1970
+ |publisher=Markham Publishing Company
+ |location=[[Chicago]] 
+ |isbn=0-8410-2005-1
+ |lccn=73122300
+ }}
+* Economic Fluctuations in the United States, 1921–41 (1950)
+* An Econometric Model of the United States, 1929–52 (with AS Goldberger, 1955)
+* The Keynesian Revolution (1947) {{ISBN|0-333-08131-5}}
+* The Wharton Econometric Forecasting Model (with MK Evans, 1967)
+* A Textbook of Econometrics (1973) {{ISBN|0-13-912832-8}}
+* The Brookings Model (With Gary Fromm. 1975)
+* Econometric Model Performance (1976)
+* An Introduction to Econometric Forecasting and Forecasting Models (1980) {{ISBN|0-669-02896-7}}
+* Econometric Models As Guides for Decision Making (1982) {{ISBN|0-02-917430-9}}
+* The Economics of Supply and Demand 1983
+* Economics, Econometrics and The LINK (with M Dutta, 1995) {{ISBN|0-444-81787-5}}
+* China and India: Two Asian Economic Giants, Two Different Systems (2004). Article free downloadable at the journal Applied Econometrics and International Development http://www.usc.es/economet/aeid.htm
+
+==See also==
+* [[List of economists]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{Cite book |editor1-last=Breit |editor1-first=William |editor2-last=Hirsch |editor2-first=Barry T. |edition=4th |title=Lives of the Laureates |year=2004 |publisher=The MIT Press |location=Cambridge, Massachusetts |isbn=0-262-52450-3 }}
+* {{cite book |last=Karayiannis |first=Anastassios D. |chapter=A Synopsis of Lawrence R. Klein's Thoughts and Contributions to Economics |pages=579–592 |title=Growth of Economics in the Twentieth Century |editor-first=K. |editor-last=Puttaswamaiah |location=Enfield |publisher=Isle |year=2009 |isbn=978-0-9823895-2-2 }}
+* {{Cite web |url=http://library.duke.edu/rubenstein/findingaids/kleinlawrence/ |title=Lawrence Klein Papers, 1950s–2000 |publisher=Rubenstein Library, Duke University}}
+* Sims, C. (1980). Marcoeconomics and reality. Econometrica, 48, 1-48.
+
+==External links==
+{{Wikiquote}}
+* [http://www.nobel-winners.com/Economics/lawrence_robert_klein.html Lawrence Klein]
+* [http://www.epsusa.org/ Economists for Peace and Security]
+* {{MathGenealogy |id=23472 }}
+* [https://ideas.repec.org/e/pkl8.html IDEAS/RePEc]
+* {{Cite encyclopedia |title=Lawrence Robert Klein (1920– ) |url=http://www.econlib.org/library/Enc/bios/Klein.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+* {{C-SPAN|Lawrence Klein}}
+* {{Find a Grave}}
+* {{Nobelprize|name=Lawrence R. Klein}}
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Theodore W. Schultz]] | before2 = [[Sir Arthur Lewis]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 1980 }}
+{{s-aft | after = [[James Tobin]] }}
+{{s-end}}
+
+{{Keynesians}}
+{{Nobel laureates in economics 1976-2000}}
+{{1980 Nobel Prize winners}}
+{{John Bates Clark Medal recipients}}
+{{Presidents of the Econometric Society}}
+{{Presidents of the American Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Klein, Lawrence}}
+[[Category:1920 births]]
+[[Category:2013 deaths]]
+[[Category:Nobel laureates in Economics]]
+[[Category:American Nobel laureates]]
+[[Category:Jewish Nobel laureates]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Foreign Members of the Russian Academy of Sciences]]
+[[Category:Macroeconomists]]
+[[Category:Time series econometricians]]
+[[Category:21st-century American economists]]
+[[Category:20th-century American economists]]
+[[Category:American people of German-Jewish descent]]
+[[Category:Jewish American social scientists]]
+[[Category:University of Pennsylvania faculty]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Los Angeles City College alumni]]
+[[Category:People from Omaha, Nebraska]]
+[[Category:Econometricians]]
+[[Category:Neo-Keynesian economists]]
+[[Category:University of Michigan faculty]]
+[[Category:Presidents of the American Economic Association]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Economists from Nebraska]]

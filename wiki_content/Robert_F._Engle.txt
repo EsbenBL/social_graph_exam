@@ -1,0 +1,110 @@
+{{short description|American economist}}
+{{Infobox economist
+| name             = Robert F. Engle III
+| school_tradition =
+| color            = <!-- lightsteelblue -->
+| image            = Robert Engle SantiagoWEAI2017.png
+| image_size       =  
+| caption          = Engle in 2017
+| birth_date       = {{Birth date and age|1942|11|10|mf=y}}
+| birth_place      = [[Syracuse, New York]], U.S.
+| death_date       =
+| death_place      =
+| institution      = [[New York University]],<small> since 2000</small><br />[[University of California, San Diego]],<small> (1975–2003)</small><br />[[Massachusetts Institute of Technology]],<small> (1969–1975)</small>
+| field            = [[Econometrics]]
+| alma_mater       = [[Cornell University]], <small>(Ph.D. 1969)</small><br>[[Williams College]], <small>(B.S. 1964)</small>
+| doctoral_advisor = [[Ta-Chung Liu]]<ref>{{citation | last1 = Engle | first1 = Robert F. | last2 =Liu | first2 = Ta-Chung | contribution = Effects of Aggregation Over Time on Dynamic Characteristics of An Econometric Model | editor-last1 = Hickman | editor-first1 = Bert G. | title = Econometric Models of Cyclical Behavior | volume= 2 | page = 673 | publisher = [[NBER]] | series = Conference on Research in Income and Wealth. Studies in income and wealth | year = 1972 | url = https://www.nber.org/chapters/c2787.pdf | postscript = .}}
+</ref>
+| academic_advisors=
+| doctoral_students= [[Mark Watson (economist)|Mark Watson]]<br>[[Tim Bollerslev]]
+| notable_students =
+| influences       = [[David Hendry]]
+| influenced       = [[Tim Bollerslev]]<br>[[Mark Watson (economist)|Mark Watson]]
+| contributions    = [[ARCH]]<br>[[Cointegration]]
+| awards           = [[Nobel Memorial Prize in Economic Sciences]] (2003)
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pen9
+}}
+
+'''Robert Fry Engle III''' (born November 10, 1942) is an [[United States|American]] [[economist]] and [[statistician]]. He won the 2003 [[Nobel Memorial Prize in Economic Sciences]], sharing the award with [[Clive Granger]], "for methods of analyzing economic [[time series]] with time-varying [[Volatility (finance)|volatility]] ([[autoregressive conditional heteroskedasticity|ARCH]])".
+
+==Biography==
+Engle was born in [[Syracuse, New York]] into [[Quaker]] family<ref>{{Nobelprize|accessdate=2 May 2020|name=Robert F. Engle III}}</ref> and went on to graduate from [[Williams College]] with a [[Bachelor of Science|B.S.]] in physics. He earned an [[Master of Science|M.S.]] in physics and a [[Ph.D.]] in economics, both from [[Cornell University]] in 1966 and 1969 respectively.<ref>[http://pages.stern.nyu.edu/~rengle/ Homepage at New York University]</ref> After completing his Ph.D., Engle became an economics professor at the [[Massachusetts Institute of Technology]] from 1969 to 1977.<ref>[http://web.mit.edu/newsoffice/special/nobels.html MIT Nobel laureates]</ref> He joined the faculty of the [[University of California, San Diego]] (UCSD) in 1975, wherefrom he retired in 2003. He now holds positions of Professor Emeritus and Research Professor at UCSD. He currently teaches at [[New York University]], [[Stern School of Business]] where he is the Michael Armellino professor in Management of Financial Services. At [[New York University]], Engle teaches for the Master of Science in Risk Management Program for Executives,<ref>{{cite web|url=http://w4.stern.nyu.edu/academic/global/riskmanagement/|title=NYU Stern School of Business|access-date=10 March 2017}}</ref> which is offered in partnership with the [[Amsterdam Institute of Finance]].<ref>{{cite web|url=http://www.aif.nl/|title=Amsterdam Institute of Finance - Financial Training|access-date=10 March 2017}}</ref>
+
+Engle's most important contribution was his path-breaking discovery of a method for analyzing unpredictable movements in financial market prices and [[interest rates]]. Accurate characterization and prediction of these volatile movements are essential for quantifying and effectively managing [[risk]]. For example, risk measurement plays a key role in pricing [[option (finance)|options]] and [[financial derivatives]]. Previous researchers had either assumed constant [[volatility (finance)|volatility]] or had used simple devices to approximate it. Engle developed new statistical models of volatility that captured the tendency of stock prices and other financial variables to move between high volatility and low volatility periods ("Autoregressive Conditional Heteroskedasticity: ARCH"). These statistical models have become essential tools of modern [[arbitrage pricing theory]] and practice.
+
+Engle was the central founder and director of NYU-Stern's Volatility Institute which publishes weekly date on [[systemic risk]] across countries on its V-LAB site.<ref>[http://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/centers-of-research/volatility-institute The Volatility Institute] at NYU-Stern School of Business site</ref>
+
+More recently, Engle (and [[Eric Ghysels]]) co-founded the Society for Financial Econometrics (SoFiE).
+
+===Personal life===
+* Paternal Grandfather{{spaced ndash}}Robert Fry Engle, Sr. (b. 1879 d. 1946)
+* Father{{spaced ndash}}Robert Fry Engle, Jr. (b. 1910 d. 1981, [[DuPont]] chemist)
+* Mother{{spaced ndash}}Mary Starr Engle ("Murry", French teacher, m. 1939)
+* Sister{{spaced ndash}}Patricia Lee Engle ("Patty", twin, [[United Nations Children's Fund|UNICEF]] official)
+* Sister{{spaced ndash}}[[Sally Engle Merry]] ([[Anthropology|anthropologist]], twin)
+* Wife{{spaced ndash}}Marianne Eger Engle ([[psychologist]], m. 10-Aug-1969, two children)
+* Daughter{{spaced ndash}}Lindsey Engle Richland ([[psychologist]])
+* Son{{spaced ndash}}Jordan Engle ([[actor]], b. May-1980)
+* Mother-in-law{{spaced ndash}}[[Edith Eger]] ([[psychologist]], b. 29-Sept-1927)
+
+==Selected works==
+* {{cite journal |title=Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation |journal=[[Econometrica]] |volume=50 |issue=4 |year=1982 |pages=987–1008 |jstor=1912773 |doi=10.2307/1912773|last1=Engle |first1=Robert F. }}
+* {{cite journal |title=Exogeneity |others=(with [[David F. Hendry]] and Jean-Francois Richard) |journal=Econometrica |volume=51 |year=1983 |issue=2 |pages=277–304 |jstor=1911990 |doi=10.2307/1911990|last1=Engle |first1=Robert F. |last2=Hendry |first2=David F. |last3=Richard |first3=Jean-Francois }}
+* {{cite journal |title=Semi-parametric Estimates of the Relation between Weather and Electricity Demand |others=(with C. Granger, J. Rice and A. Weiss) |journal=[[Journal of the American Statistical Association|J. Amer. Statist. Assoc.]] |volume=81 |year=1986 |issue=394 |pages=310–320 |doi=10.1080/01621459.1986.10478274 }}
+* {{cite journal |title=Co-Integration and Error Correction: Representation, Estimation, and Testing |others=(with [[Clive Granger]]) |journal=Econometrica |volume=55 |year=1987 |issue=2 |pages=251–276 |jstor=1913236 |doi=10.2307/1913236|last1=Engle |first1=Robert F. |last2=Granger |first2=C. W. J. |url=http://pe.cemi.rssi.ru/pe_2015_3_106-135.pdf }}
+* {{cite journal |title=Estimation of Time Varying Risk Premia in the Term Structure: the ARCH-M Model |others=(with David Lilien and Russell Robins) |journal=Econometrica |volume=55 |year=1987 |issue=2 |pages=391–407 |jstor=1913242 |doi=10.2307/1913242|last1=Engle |first1=Robert F. |last2=Lilien |first2=David M. |last3=Robins |first3=Russell P. }}
+* {{cite journal |title=Asset Pricing with a Factor ARCH Covariance Structure: Empirical Estimates for Treasury Bills |others=(with V. Ng, and M. Rothschild) |journal=[[Journal of Econometrics]] |volume=45 |year=1990 |issue=1–2 |pages=213–237 |doi=10.1016/0304-4076(90)90099-F |url=https://deepblue.lib.umich.edu/bitstream/2027.42/28496/1/0000293.pdf |hdl=2027.42/28496 |s2cid=55667632 |hdl-access=free }}
+* {{cite journal |title=Autoregressive Conditional Duration: A New Model for Irregularly Spaced Transaction Data |others=(with J.R. Russell) |journal=Econometrica |volume=66 |year=1998 |issue=5 |pages=1127–1162 |jstor=2999632 |doi=10.2307/2999632|last1=Engle |first1=Robert F. |last2=Russell |first2=Jeffrey R. }}
+* {{cite journal |title=Dynamic Conditional Correlation – A Simple Class of Multivariate GARCH Models |journal=[[Journal of Business and Economic Statistics]] |year=2002 |volume=20 |issue=3 |pages=339–350 |doi=10.1198/073500102288618487 |s2cid=14784060 }}
+* {{cite journal |title=Time-Varying Arrival Rates of Informed and Uninformed Traders |others=(with [[Maureen O'Hara (economist)|Maureen O'Hara]], [[David Easley]] and L. Wu) |journal=Journal of Financial Econometrics |year=2008 |volume=6 |issue=2 |pages=171–207 |doi=10.1093/jjfinec/nbn003 |last1=Easley |first1=D. |last2=Engle |first2=R. F. |last3=O'Hara |first3=M. |last4=Wu |first4=L. |doi-access=free }}
+
+==See also==
+* [[Modeling and analysis of financial markets]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://vlab.stern.nyu.edu V-Lab: real time financial volatility and correlation measurements, modeling and forecasting]
+* [http://sofie.stern.nyu.edu/founding.members The Society for Financial Econometrics (SoFiE)]
+* {{cite encyclopedia |title=Robert F. Engle (1942– ) |url=http://www.econlib.org/library/Enc/bios/Engle.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+* {{MathGenealogy}}
+* {{C-SPAN|Robert Engle}}
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Daniel Kahneman]] | before2 = [[Vernon L. Smith]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 2003 | alongside = [[Clive W.J. Granger]] }}
+{{s-aft | after = [[Finn E. Kydland]] | after2 = [[Edward C. Prescott]] }}
+{{s-end}}
+
+{{Nobel laureates in economics 2001-2025}}
+{{2003 Nobel Prize winners}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Engle, Robert F.}}
+[[Category:Economists from New York (state)]]
+[[Category:American Nobel laureates]]
+[[Category:Cornell University alumni]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences faculty]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:New York University Stern School of Business faculty]]
+[[Category:Nobel laureates in Economics]]
+[[Category:Time series econometricians]]
+[[Category:University of California, San Diego faculty]]
+[[Category:Williams College alumni]]
+[[Category:American Quakers]]
+[[Category:People from Syracuse, New York]]
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:20th-century American economists]]
+[[Category:20th-century Quakers]]
+[[Category:National Bureau of Economic Research]]
+[[Category:Mathematicians from New York (state)]]
+[[Category:Economists from California]]
+[[Category:21st-century American economists]]

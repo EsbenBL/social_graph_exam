@@ -1,0 +1,80 @@
+{{short description|French economist and mathematician}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox scientist
+|name              = Antoine Augustin Cournot
+|image             = Antoine Augustin Cournot.jpg
+|image_size        = 
+|caption           = 
+|birth_date        = {{birth date|1801|08|28|df=y}}
+|birth_place       = [[Gray, Haute-Saône|Gray]], [[French First Republic|France]]
+|death_date        = {{death date and age|1877|03|31|1801|08|28|df=y}}
+|death_place       = [[Paris]], [[Third French Republic|France]]
+|nationality       = French
+|field             = [[Economics]]<br>[[Mathematics]]
+|work_institutions = [[University of Grenoble]]
+|alma_mater        = [[Sorbonne University]]
+|doctoral_advisor  = 
+|doctoral_students = 
+|known_for         = [[Cournot competition]]<br>[[Oligopoly]]
+|influences        = [[Nicolas-François Canard]]
+|influenced        = [[Gabriel Tarde]]<br>[[Léon Walras]]
+}}
+
+'''Antoine Augustin Cournot''' (28 August 1801{{snd}}31 March 1877) was a [[France|French]] [[philosopher]] and [[mathematician]] who also contributed to the development of [[economics]].
+
+== Biography ==
+Antoine Augustin Cournot was born at Gray, [[Haute-Saône]]. In 1821 he entered one of the most prestigious Grandes Écoles, the [[École Normale Supérieure]], and, according to Sandmo:
+<blockquote>in 1823 he took a license degree in mathematics at Sorbonne University. He then became the private secretary of a field marshal who required assistance in writing his memoirs. This position left Cournot with considerable time for his own pursuits. In the course of his ten years in the field marshal's employment he took two doctoral degrees, one in mechanics and one in astronomy. In addition, he published a number of articles and even acquired a degree in law.<ref name=Sandmo>{{cite book|last=Sandmo|first=Agnar|title=Economics evolving|year=2011|publisher=Princeton university press|location=Princeton|isbn=9780691148427|page=146}}</ref></blockquote>
+
+Subsequently, Cournot held positions as professor of mathematics, chief examiner for undergraduate students, and rector of [[Académie des Sciences, Arts et Belles-Lettres de Dijon|Dijon Academy]].
+
+By the time Cournot died in 1877, he was nearly blind.
+
+== Work ==
+===Economics===
+Cournot was mainly a mathematician, but had some influence in [[economics]]. His theories on [[monopoly|monopolies]] and [[duopoly|duopolies]] are still famous.{{Citation needed|date=January 2018}} In 1838 the book ''Researches on Mathematical Principles of the Theory of Wealth''<ref>{{cite book|author=Antoine Augustin Cournot|title=Researches into the Mathematical Principles of the Theory of Wealth|url=https://archive.org/details/bub_gb_AGoGpyJY_SAC|year=1897|publisher=Macmillan}}</ref> was published, in which he used the application of the formulas and symbols of mathematics in economic analysis. This book was strongly criticized and scarcely successful during Cournot's lifetime. He attempted nonetheless to rewrite it twice. It is influential in economics today.  Today many economists believe this book to be the point of departure for modern economic analysis. Cournot introduced the ideas of [[function (mathematics)|function]]s and [[probability]] into economic analysis. He derived the first formula for the rule of [[supply and demand]] as a function of [[price]] and in fact was the first to draw supply and demand curves on a graph, anticipating the work of [[Alfred Marshall]] by roughly thirty years.  The [[Cournot duopoly]] model developed in his book also introduced the concept of a (pure strategy) [[Nash equilibrium]], the [[Reaction function]] and best-response dynamics.
+
+Cournot believed that economists must utilize the tools of mathematics only to establish probable limits and to express less stable facts in more absolute terms. He further held that the practical uses of mathematics in economics do not necessarily involve strict numerical precision.
+
+Today, Cournot's work is recognized in [[econometrics]]. He was also a teacher of [[political economy]] and mathematics to [[Auguste Walras]], who was the father of [[Léon Walras]]. Cournot and Auguste Walras persuaded Léon Walras to try political economics. Cournot is also credited to be one of the sources of inspiration for Léon Walras and his equilibrium theory.{{Citation needed|date=January 2018}}
+
+In the field of economics he is best known for his work in the field of [[oligopoly]] theory—[[Cournot competition]] which is named after him.<ref>{{citation | last=Varian | first=Hal R. | author-link=Hal Varian | year=2006 | title=Intermediate microeconomics: a modern approach | edition=7 | publisher=[[W. W. Norton & Company]] | isbn=0-393-92702-4 | page=490 }}</ref>
+
+=== Philosophy ===
+Cournot worked on [[determinism]] (in physics) and [[Indeterminism|chance]].
+
+Unlike [[Pierre-Simon de Laplace]], who thought that nothing happens by chance, and [[Aristotle]], who thought that randomness and causality had nothing to do which each other, Cournot united the concepts, defining randomness as the
+encounter of two independent causal series.<ref name="TMartin">{{cite web|title=Cournot (A)|url=http://encyclo-philo.fr/cournot-a/|author=Thierry Martin|website=encyclo-philo.fr|language=fr|access-date=16 January 2017}}.</ref>
+This definition allows randomness even in perfectly deterministic events, and is used to generate random numbers by the combination of unrelated signals (for instance, temperature and sound).
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite book |editor-last=Touffut |editor-first=Jean-Philippe |year=2007 |title=Augustin Cournot: Modelling Economics |location=Cheltenham |publisher=Edward Elgar |isbn=978-1-84720-654-1 }}
+*For an early 20th century evaluation see: {{cite EB1911|wstitle=Cournot, Antoine Augustin|volume=7|page=321}}
+
+==External links==
+{{Wikiquote}}
+{{Wikisource author}}
+
+* [https://web.archive.org/web/20080509153657/http://cepa.newschool.edu/het/profiles/cournot.htm "Antoine Augustin Cournot" in ''New School Profiles'']
+* {{MacTutor Biography|id=Cournot}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cournot, Antoine Augustin}}
+[[Category:1801 births]]
+[[Category:1877 deaths]]
+[[Category:19th-century economists]]
+[[Category:19th-century French people]]
+[[Category:People from Gray, Haute-Saône]]
+[[Category:French philosophers]]
+[[Category:French economists]]
+[[Category:French Roman Catholics]]
+[[Category:19th-century French mathematicians]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:Burials at Montparnasse Cemetery]]
+[[Category:Mathematical economists]]
+[[Category:French male non-fiction writers]]
+[[Category:19th-century French male writers]]

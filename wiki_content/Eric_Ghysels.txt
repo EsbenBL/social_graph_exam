@@ -1,0 +1,111 @@
+{{Short description|Belgian economist (born 1956)}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox economist
+| name              = Eric Ghysels
+| image             = EricGhysels.jpg
+| image_size        = 
+| alt               = 
+| birth_date        = {{Birth year and age|1956}}
+| birth_place       = [[Brussels]], Belgium
+| death_date        = 
+| death_place       = 
+| institution =  [[University of North Carolina at Chapel Hill]]
+| field             = [[Finance]]<br>[[Financial econometrics]]<br>[[Machine Learning]]<br>[[Econometrics]]<br>[[Fintech]]
+| spouse = Marianna Matinyan
+| children = Nicholas Ghysels<br>Jonathan Ghysels
+| influences = [[Robert Engle]]<br>[[Clive W. J. Granger]]<br>[[Lars Peter Hansen]]<br>[[Thomas J. Sargent]]<br>[[Christopher Sims]]<br>[[Halbert White]]
+| school_tradition  = 
+| alma_mater        = [[Vrije Universiteit Brussel]]<br>[[Northwestern University]]
+| contributions     = [[Mixed-data sampling]] (MIDAS)<br>[[Seasonality]]
+| awards            = [[Doctor Honoris Causa]]<br> HEC, [[University of Liège]]
+| website = {{URL | https://eghysels.web.unc.edu/ }}
+}}
+
+'''Eric Ghysels''' (born 1956 in [[Brussels]]) is a Belgian-American [[economist]] with particular interest in [[finance]] and time series [[econometrics]], and in particular the fields of [[financial econometrics]] and [[financial technology]].<ref name="gs">{{Google scholar id}}</ref> He is the Edward M. Bernstein Distinguished Professor of Economics at the [[University of North Carolina at Chapel Hill|University of North Carolina]]<ref>{{Cite web|url=https://eghysels.web.unc.edu/|title=Eric Ghysels|website=eghysels.web.unc.edu}}</ref> and a Professor of Finance at the [[Kenan-Flagler Business School]].<ref>{{Cite web|url=https://www.kenan-flagler.unc.edu/faculty/directory/eric-ghysels/|title=Eric Ghysels &#124; UNC Kenan-Flagler Business School|first1=Eric Ghysels Edward Bernstein Distinguished Professor of|last1=Economics|first2=Professor of Finance Contact Kenan|last2=Center 403A|first3=CB 3440 Chapel|last3=Hill|website=kenan-flagler.unc.edu}}</ref> He is also the Faculty Research Director of the Rethinc.Labs at the Frank Hawkins Kenan Institute of Private Enterprise.<ref>{{Cite web|url=https://kenaninstitute.unc.edu/rethinc/|title=Rethinc}}</ref>
+
+==Early life and education==
+
+Ghysels was born in [[Brussels]], Belgium, as the son of Pierre Ghysels (a civil servant) and Anna Janssens (a homemaker). He completed his undergraduate studies in economics (Supra Cum Laude) at the [[Vrije Universiteit Brussel]] in 1979.  He obtained a Fulbright Fellowship from the [[Belgian American Educational Foundation]] in 1980 and started graduate studies at [[Northwestern University]] that year, finishing his PhD at the [[Kellogg Graduate School of Management]] of [[Northwestern University]] in 1984. In 2019 he was awarded an honorary doctorate (Doctor Honoris Causa) by HEC [[University of Liège]].<ref>{{cite web|url=https://www.uliege.be/cms/c_10804579/en/docteurs-honoris-causa-facultaires-2019|title=Docteurs honoris causa facultaires 2019}}</ref>
+
+==Career==
+
+After graduation from the [[Kellogg School of Management]] at [[Northwestern University]] he took a faculty position at the [[Université de Montréal]] in the Departmnent of Economics.<ref>{{Cite web|url=https://sceco.umontreal.ca/accueil/|title=Accueil|website=Département de sciences économiques - Université de Montréal}}</ref> In 1996 he became a Professor of Economics at [[Penn State University]]<ref>{{Cite web|url=https://econ.la.psu.edu/|title=Welcome to the Department of Economics — Department of Economics|website=econ.la.psu.edu}}</ref> and joined the [[University of North Carolina at Chapel Hill]] in 2000. He is currently the Edward M. Bernstein Distinguished Professor of Economics at UNC Chapel Hill and a Professor of Finance and the [[Kenan-Flagler Business School]]. Since 2018 he is the Faculty Research Director, Rethinc.Labs, at the Kenan Institute for Private Enterprise at UNC Chapel Hill. Since 2020 he is also affiliated with the Department of Electrical and Computer Engineering at the [[North Carolina State University]].<ref>{{Cite web|url=https://www.ece.ncsu.edu/supporting-faculty/|title=Supporting Faculty • Electrical and Computer Engineering}}</ref>
+
+Ghysels is a fellow of the [[American Statistical Association]] and co-founded with [[Robert Engle]] the Society for Financial Econometrics (SoFiE).<ref>{{Cite web|url=http://korora.econ.yale.edu/phillips/pubs/art/p1351.pdf|title=ET Interview: Eric Ghysels}}</ref><ref>{{Cite web|url=https://sofie.stern.nyu.edu/founding.members|title=Past Presidents, Founding Council, and Founding Members &#124; The Society for Financial Econometrics}}</ref> He was editor of the Journal of Business and Economic Statistics (with Alastair R. Hall, 2001–2004) editor of the Journal of Financial Econometrics (2012–2015).<ref>{{Cite web|url=https://academic.oup.com/jfec|title=Journal of Financial Econometrics &#124; Oxford Academic|website=OUP Academic}}</ref> He is currently co-editor of the Journal of Applied Econometrics.<ref>{{Cite web|url=https://onlinelibrary.wiley.com/page/journal/10991255/homepage/editorialboard.html|title=Journal of Applied Econometrics|website=Wiley Online Library}}</ref>
+
+In 2008–2009 Ghysels was resident scholar at the [[Federal Reserve Bank of New York]], in 2011 Duisenberg Fellow at the [[European Central Bank]], both at the height of the Great Recession, and has since been a regular visitor of several other central banks around the world.
+
+He has also been visiting Professor at [[Bocconi University]] ([[Tommaso Padoa-Schioppa]] Visiting Professor, 2017), the Stevanovich Center at the [[University of Chicago]] (2015), [[Cambridge University]] (INET Visiting Professor, 2014), [[New York University]] [[Stern School of Business]] (2007), among others, and holds a courtesy appointment at Louvain Finance, [[Université catholique de Louvain]].<ref>{{Cite web|url=https://uclouvain.be/en/directories/eric.ghysels|title=Eric Ghysels|website=UCLouvain}}</ref>
+
+==Books==
+
+In 2001, he published a monograph on ''The Econometric Analysis of Seasonal Time Series'' together with Denise R. Osborn.<ref>{{cite book|title=The Econometric Analysis of Seasonal Time Series|author=Eric Ghysels and Denise Osborn|publisher=Cambridge University Press|year=2012|url=https://www.cambridge.org/core/books/econometric-analysis-of-seasonal-time-series/11ED8F827CBA23E61D4D574062657887#|isbn=9780521562607}}</ref> In 2018, he published a textbook entitled ''Applied Economic Forecasting using Time Series Methods'' together with Massimiliano Mercellino.<ref>{{cite book|title=Applied Economic Forecasting using Time Series Methods|author=Eric Ghysels and Massimiliano Marcellino|publisher=Oxford University Press|year=2018|url=https://global.oup.com/academic/product/applied-economic-forecasting-using-time-series-methods-9780190622015?cc=us&lang=en&|isbn=9780190622039}}</ref>
+
+==Honors and awards==
+
+His honors and awards include:
+* 1980: Fulbright Fellow, [[Belgian American Educational Foundation]]
+* 1981:	Research Fellow, National Science Foundation of Belgium
+* 1985: ASA/NSF/Census Fellow, [[American Statistical Association]]<ref>{{Cite web|url=https://www.amstat.org/ASA/Your-Career/Awards/ASA-Fellows-list.aspx|title=ASA Fellows List|website=amstat.org}}</ref>
+* 1999: Chair, Business and Economic Statistics Section, [[American Statistical Association]]
+* 2001: Who's Who in Economics, Fourth Edition<ref>{{Cite web|url=https://www.e-elgar.com/shop/usd/who-s-who-in-economics-fourth-edition-9781840649925.html|title=Who’s Who in Economics, Fourth Edition|isbn=978 1 84064 992 5}}</ref> 
+* 2008: Resident Scholar, Federal Reserve Bank of New York<ref>{{Cite web|url=https://www.newyorkfed.org/research/resident_scholar.html|title=Program for Resident Scholars - FEDERAL RESERVE BANK of NEW YORK|website=newyorkfed.org}}</ref>
+* 2011:	Fernand Braudel Senior Fellow, European University Institute, Florence, Italy<ref>{{Cite web|url=https://www.eui.eu/DepartmentsAndCentres/Economics/People/Fellows/FernandBraudelFellows|title=Fernand Braudel Fellows|publisher=European University Institute}}</ref> 
+* 2011:	Wim Duisenberg Fellow, European Central Bank<ref>{{Cite web|url=https://www.ecb.europa.eu/pub/economic-research/programmes/duisenberg/html/index.en.html|title=Wim Duisenberg Fellowship|first=European Central|last=Bank|date=9 March 2020|website=European Central Bank}}</ref> 
+* 2012: SoFiE Fellow<ref>{{Cite web|url=https://sofie.stern.nyu.edu/node/520|title=Fellows &#124; The Society for Financial Econometrics}}</ref> 
+* 2017: Inaugural [[Emil Gumbel]] Lecture, [[Heidelberg University]]<ref>{{Cite web|url=https://econ.unc.edu/professor-eric-ghysels-presents-the-inaugural-gumbel-lecture/|title=Professor Eric Ghysels Presents the Inaugural Gumbel Lecture &#124; Economics Department|website=econ.unc.edu}}</ref>
+* 2020: CORE Lecture Series, UC Louvain<ref>{{Cite web|url=https://uclouvain.be/fr/node/66646|title=CORE Lecture Series, by Professor E. Ghysels|website=UCLouvain}}</ref> 
+* 2020: Fellow, International Association Applied Econometrics<ref>{{Cite web|url=https://appliedeconometrics.org/about/fellows|title=Fellows &#124; International Association for Applied Economectrics|website=appliedeconometrics.org}}</ref>
+
+==Research==
+Ghysels' most recent research focuses on '''Mixed data sampling (MIDAS)''' regression models and filtering methods with applications in finance and other fields. He has also worked on diverse topics such as seasonality in economic times series, machine learning and AI applications in finance, quantum computing applications in finance, among many other topics.
+
+[[Mixed data sampling]] or MIDAS regressions are [[econometric]] regression models can be viewed in some cases as substitutes for the [[Kalman filter]] when applied in the context of mixed frequency data. There is now a substantial literature on MIDAS regressions and their applications, including Ghysels, Santa-Clara and Valkanov (2006),<ref>Ghysels, Eric, Pedro Santa-Clara and Rossen Valkanov (2006) ''Predicting Volatility: How to Get Most Out of Returns Data Sampled at Different Frequencies'', Journal of Econometrics, 131, 59–95</ref> Ghysels, Sinko and Valkanov,<ref>Ghysels, Eric and Arthur Sinko and Rossen Valkanov (2006) ''MIDAS Regressions: Further Results and New Directions'', Econometric Reviews, 26, 53–90.</ref> Andreou, Ghysels and Kourtellos (2010)<ref>Andreou, Elena & Eric Ghysels & Andros Kourtellos "Regression Models with Mixed Sampling Frequencies", Journal of Econometrics, 158, 246–261.</ref> and Andreou, Ghysels and Kourtellos (2013).<ref>Andreou, Elena & Eric Ghysels & Andros Kourtellos "Should macroeconomic forecasters use daily financial data and how?", Journal of Business and Economic Statistics 31, 240–251.</ref>
+
+A MIDAS regression is a direct forecasting tool which can relate future low-frequency data with current and lagged high-frequency indicators, and yield different forecasting models for each forecast horizon. It can flexibly deal with data sampled at different frequencies and provide a direct forecast of the low-frequency variable. It incorporates each individual high-frequency data in the regression, which solves the problems of losing potentially useful information and including mis-specification.
+
+A simple regression example has the [[independent variable]] appearing at a higher frequency than the [[dependent variable]]:
+
+:<math>y_t = \beta_0 + \beta_1 B(L^{1/m};\theta)x_t^{(m)} + \varepsilon_t^{(m)},</math>
+
+where ''y'' is the dependent variable, ''x'' is the regressor, ''m'' denotes the frequency – for instance if ''y'' is yearly <math>x_t^{(4)}</math> is quarterly – <math>\varepsilon</math> is the disturbance and <math>B(L^{1/m};\theta)</math> is a lag distribution, for instance the [[Beta function]] or the [[Distributed lag#Finite distributed lags|Almon Lag]].
+
+The regression models can be viewed in some cases as substitutes for the [[Kalman filter]] when applied in the context of mixed frequency data. Bai, Ghysels and Wright (2013)<ref>Bai, Jennie and Eric Ghysels and Jonathan Wright (2013) ''State Space Models and MIDAS Regressions'', Econometric Reviews, 32, 779–813.</ref> examine the relationship between MIDAS regressions and Kalman filter state space models applied to mixed frequency data. In general, the latter involves a system of equations, whereas, in contrast, MIDAS
+regressions involve a (reduced form) single equation. As a consequence, MIDAS regressions might be less efficient, but also less prone to specification errors. In cases where the MIDAS regression is only an approximation, the approximation errors tend to be small.
+
+The MIDAS can also be used for [[machine learning]] time series and panel data [[nowcasting (economics)|nowcasting]].<ref>Babii, Andrii & Eric Ghysels & Jonas Striaukas "Machine learning time series regressions with an application to nowcasting", arXiv:2005.14057.</ref><ref>Babii, Andrii & Ryan T. Ball & Eric Ghysels & Jonas Striaukas "Machine learning time series regressions with an application to nowcasting", arXiv:2005.14057.</ref> The machine learning MIDAS regressions involve [[Legendre polynomials]]. High-dimensional mixed frequency time series regressions involve certain data structures that once taken into account should improve the performance of unrestricted estimators in small samples. These structures are represented by groups covering lagged dependent variables and groups of lags for a single (high-frequency) covariate. To that end, the machine learning MIDAS approach exploits the sparse-group LASSO (sg-LASSO) regularization that accommodates conveniently such structures.<ref>Simon, N., J. Friedman, T. Hastie, and R. Tibshirani (2013): ''A sparse-group LASSO'',
+Journal of Computational and Graphical Statistics, 22(2), 231–245.</ref> The attractive feature of the sg-LASSO estimator is that it allows us to combine effectively the approximately sparse and dense signals.
+
+Several software packages feature MIDAS regressions and related economitric methods. These include:
+
+* MIDAS Matlab Toolbox<ref>{{Cite web|url=https://www.mathworks.com/matlabcentral/fileexchange/45150-midas-matlab-toolbox|title=MIDAS Matlab Toolbox|website=mathworks.com}}</ref>
+* midasr, R package<ref>{{Cite web|url=https://cran.r-project.org/package=midasr|title=midasr: Mixed Data Sampling Regression|first1=Virmantas|last1=Kvedaras|first2=Vaidotas|last2=Zemlys-Balevicius|date=23 February 2021|via=R-Packages}}</ref>
+* midasml, R package for High-Dimensional Mixed Frequency Time Series Data<ref>{{Cite web|url=https://cran.r-project.org/package=midasml|title=midasml: Estimation and Prediction Methods for High-Dimensional Mixed Frequency Time Series Data}}</ref>
+* EViews<ref>{{Cite web|url=https://www.eviews.com/EViews9/ev95midas.html|title=MIDAS|website=eviews.com}}</ref>
+* Python<ref>{{Cite web|url=https://github.com/sapphire921/midas_pro|title=sapphire921/midas_pro|date=3 April 2021|via=GitHub}}</ref>
+* Julia<ref>{{Cite web|url=https://github.com/mikemull/Midas.jl|title=mikemull/Midas.jl|date=31 May 2019|via=GitHub}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://eghysels.web.unc.edu/ Eric Ghysels]
+*[http://www.nyu.edu/sofie/ Society for Financial Econometrics (SoFiE)]
+*[https://web.archive.org/web/20050713020935/http://jfec.oxfordjournals.org/ Journal of Financial Econometrics]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ghysels, Eric}}
+[[Category:Econometricians]]
+[[Category:1956 births]]
+[[Category:Belgian economists]]
+[[Category:Belgian scientists]]
+[[Category:People from Jette]]
+[[Category:Belgian statisticians]]
+[[Category:Free University of Brussels alumni]]
+[[Category:Kellogg School of Management alumni]]
+[[Category:Time series econometricians]]
+[[Category:Financial economists]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Fernand Braudel Fellows]]
+[[Category:Living people]]

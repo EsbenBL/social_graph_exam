@@ -1,0 +1,68 @@
+{{Infobox person
+|name        = Daniel Schacter
+|image       = 
+|alt         = 
+|caption     = 
+|birth_date  = {{birth date and age|1952|06|17}}
+|birth_place = [[Scarsdale, New York]]{{clarify|date=October 2016}}
+|death_date  = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+|death_place = 
+|alma_mater   = [[University of North Carolina at Chapel Hill]] <small>([[Bachelor of Arts|BA]])</small><br>[[University of Toronto]] <small>([[Master of Arts|MA]] and [[Doctor of Philosophy|PhD]])</small>
+|nationality = American
+|other_names = 
+|known_for   = Human [[memory]] and [[amnesia]]
+|occupation  = Professor of psychology at [[Harvard University]], author
+}}
+'''Daniel Lawrence Schacter''' (born June 17, 1952) is an American [[Psychology|psychologist]]. He is a [[Professor]] of Psychology at [[Harvard University]].  His research has focused on psychological and biological aspects of human [[memory]] and [[amnesia]], with a particular emphasis on the distinction between conscious and nonconscious forms of memory and, more recently, on brain mechanisms of memory and brain distortion, and memory and future simulation.
+
+==Early life==
+Schacter received his B.A. from the [[University of North Carolina at Chapel Hill]] in 1974, M.A. and Ph.D. from the [[University of Toronto]] in 1977 and 1981 respectively. His Ph.D. thesis was supervised by [[Endel Tulving]]. In 1978, he was a visiting researcher at the [[University of Oxford]]'s Department of Experimental Psychology. He has also studied the effects of aging on memory.
+
+==Research==
+Professor Schacter's research uses both cognitive testing and brain imaging techniques such as positron emission tomography and [[functional magnetic resonance imaging]]. Schacter has written three books, edited seven volumes, and published over 200 scientific articles and chapters.  His books include: ''Searching for Memory: The Brain, the Mind, and the Past'' (1996); ''Forgotten ideas, neglected pioneers: [[Richard Semon]] and the story of memory.'' (2001);<ref>{{cite web|url=http://hnn.us/article/152111 |title=How Memory Works: Interview with Psychologist Daniel L. Schacter |publisher=[[History News Network]] |author=Robin Lindley |archive-date=September 7, 2013 |archive-url=https://web.archive.org/web/20130907073517/http://hnn.us/article/152111 |url-status=dead }}</ref> ''The Seven Sins of Memory: How the Mind Forgets and Remembers'' (2001).
+
+In ''[[The Seven Sins of Memory]]: How the Mind Forgets and Remembers'', Schacter identifies seven ways ("sins") that memory can fail us.  The seven sins are: Transience, Absent-Mindedness, Blocking, Misattribution, Suggestibility, Persistence, and Bias.<ref>{{cite web|url=http://www.apa.org/monitor/oct03/sins.html|title=The seven sins of memory|website=apa.org}}</ref>
+
+In addition to his books, Schacter publishes regularly in scientific journals. Among the topics that Schacter has investigated are: [[Alzheimer's disease]], the [[neuroscience]] of memory, age-related memory effects, issues related to [[false memory]], and memory and simulation. He is widely known for his integrative reviews, including his seminal review of [[implicit memory]] in 1987.
+
+In 2012 he said in an interview to the [[American Psychologist]] journal that our brain is like a [[Time travel|time machine]], or to be precise, it works as a [[Simulated reality|virtual reality simulator]]. He also said that our brain can imagine the [[future]] but it has difficulty in retracting the past.<ref>{{cite news|url=http://news.harvard.edu/gazette/story/2012/08/making-sense-of-memory/ |title=Making sense of memory |author=Taylor Beck |publisher=[[Harvard Gazette]] |date=August 16, 2012 |access-date=June 13, 2014 |archive-date=September 23, 2013 |archive-url=https://web.archive.org/web/20130923021500/http://news.harvard.edu/gazette/story/2012/08/making-sense-of-memory/ |url-status=dead }}</ref>
+
+==Honors and awards==
+He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1996.<ref name=AAAS>{{cite web|url=http://www.amacad.org/publications/BookofMembers/ChapterS.pdf|title=Book of Members, 1780-2010: Chapter S|publisher=[[American Academy of Arts and Sciences]]|access-date=April 10, 2011}}</ref> In 2005 Schacter received the [[NAS Award for Scientific Reviewing]] from the [[United States National Academy of Sciences|National Academy of Sciences]].<ref name=Reviewing>{{cite web|title=NAS Award for Scientific Reviewing |url=http://www.nasonline.org/about-nas/awards/scientific-reviewing.html |publisher=[[National Academy of Sciences]] |access-date=February 27, 2011 |archive-date=January 26, 2013 |archive-url=https://web.archive.org/web/20130126003933/http://www.nasonline.org/about-nas/awards/scientific-reviewing.html |url-status=dead }}</ref> He was elected to membership in NAS in 2013.<ref name=NASAPA>{{cite web|title=Psychologists elected to National Academy of Sciences and American Academy of Arts & Sciences|url=http://www.apa.org/science/about/psa/2013/06/national-academy.aspx|publisher=[[American Psychological Association]]|access-date=December 8, 2015}}</ref>
+
+==Representative Publications==
+*Buckner, R. L., Andrews‐Hanna, J. R., & Schacter, D. L. (2008). The brain's default network. ''Annals of the New York Academy of Sciences'', ''1124''(1), 1-38.
+*Schacter, D. L. (1992). Priming and multiple memory systems: Perceptual mechanisms of implicit memory. ''Journal of Cognitive Neuroscience'', ''4''(3), 244–256.
+*Schacter, D. L. (2008). ''Searching for memory: The brain, the mind, and the past''. Basic Books.
+*Schacter, D. L., Addis, D. R., & Buckner, R. L. (2007). Remembering the past to imagine the future: the prospective brain. ''Nature Reviews Neuroscience'', ''8''(9), 657–661.
+*Schacter, D. L., & Graf, P. (1986). Effects of Elaborative Processing on Implicit and Explicit Memory for New Associations. ''Journal of Experimental Psychology: Learning, Memory, and Cognition'', ''12''(3), 432–444.
+*Tulving, E., & Schacter, D. L. (1990). Priming and human memory systems. ''Science'', ''247''(4940), 301–306.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://scholar.harvard.edu/schacterlab Schacter memory lab]
+
+{{memory}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Schacter, Daniel}}
+[[Category:1952 births]]
+[[Category:Living people]]
+[[Category:People from Scarsdale, New York]]
+[[Category:American psychologists]]
+[[Category:American neuroscientists]]
+[[Category:Cognitive neuroscientists]]
+[[Category:Memory researchers]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:University of North Carolina at Chapel Hill alumni]]
+[[Category:University of Toronto alumni]]
+[[Category:University of Toronto faculty]]
+[[Category:University of Arizona faculty]]
+[[Category:Harvard University faculty]]
+[[Category:Scarsdale High School alumni]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:20th-century psychologists]]
+[[Category:21st-century psychologists]]

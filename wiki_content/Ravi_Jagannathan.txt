@@ -1,0 +1,59 @@
+{{Use dmy dates|date=July 2019}}
+{{Infobox economist
+| name             = Ravi Jagannathan
+| school_tradition =
+
+| image       =
+| image_size       =
+| caption    =
+| birth_date       = c. {{Birth year and age|1949}}
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = [[Indian American]]
+| institution      = [[Northwestern University]]
+| field            = [[Financial economics]]
+| alma_mater       = [[Carnegie Mellon University]]<br>[[Indian Institute of Management]]<br>[[University of Madras]]
+| influences       =
+| influenced       =
+| contributions    =
+| awards           = [[Alexander Henderson Award]] (1983)
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pja91
+}}
+
+'''Ravi Jagannathan''' is an [[United States|American]] [[economist]]. He is a chaired [[professor]] at the [[Kellogg School of Management]] at [[Northwestern University]]. With the exception of the period 1989–1997 when he was a professor at the [[University of Minnesota]], Jagannathan has been at Kellogg since graduate school.
+
+Jagannathan received a [[bachelor's degree]] in [[mechanical engineering]] from the [[College of Engineering, Guindy]] of [[University of Madras]] in 1970, an [[Master of Business Administration|MBA]] from the [[Indian Institute of Management Ahmedabad]], India  and his [[Doctor of Philosophy|Ph.D.]] from [[Carnegie Mellon University]].
+
+His research interests are in the areas of [[asset pricing]], [[capital markets]] and [[financial institutions]]. Along with [[Zhenyu Wang]], in 1996 he advanced a variation on the [[capital asset pricing model]] known as "conditional CAPM."  Some recent empirical work on options prices supports this model.
+
+He is also among those known for the [[Hansen-Jagannathan bounds]] which provide a way to use security market data to restrict the [[Volatility (finance)|volatility]] of the [[stochastic discount factor]].<ref>{{Cite journal|url=https://ideas.repec.org/a/bes/jnlbes/v12y1994i1p57-79.html|title = Hansen-Jagannathan Bounds as Classical Tests of Asset-Pricing Models|journal = Journal of Business & Economic Statistics|year = 1994|volume = 12|issue = 1|pages = 57–79|last1 = Burnside|first1 = Craig}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.kellogg.northwestern.edu/faculty/bio/jagannat.html Faculty Page, kellogg.northwestern.edu]
+* [http://rady.ucsd.edu/faculty/directory/valkanov/classes/mfe/docs/Jagannathan_Wang_JF_1996.pdf]
+* [https://ssrn.com/abstract=1933617]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jagannathan, Ravi}}
+[[Category:1950s births]]
+[[Category:University of Minnesota faculty]]
+[[Category:Kellogg School of Management faculty]]
+[[Category:Indian emigrants to the United States]]
+[[Category:Living people]]
+[[Category:Financial economists]]
+[[Category:21st-century American economists]]
+[[Category:Tepper School of Business alumni]]
+[[Category:Indian Institute of Management Ahmedabad alumni]]
+[[Category:American academics of Indian descent]]
+[[Category:The Review of Financial Studies editors]]
+
+
+{{US-economist-stub}}
+{{India-economist-stub}}
+{{India-academic-bio-stub}}

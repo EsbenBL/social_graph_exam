@@ -1,0 +1,84 @@
+{{Use dmy dates|date=February 2020}}
+{{Use Indian English|date=May 2018}}
+{{COI|date=October 2014}} <!-- {{User|Ny2545}} -->
+
+{{Infobox scientist
+| name = Arun Sundararajan
+| image = Professor Arun Sundararajan.jpg
+| image_size = 
+| caption = 
+| birth_date = 
+| death_date = 
+| death_place = 
+| nationality = [[India]]n
+| field = [[Economics]]<br/>[[Information Systems]]<br/>[[Network Science]]<br/>[[Economy of India]]
+| work_institution = [[New York University]]
+| alma_mater = [[University of Rochester]]<br/>[[Indian Institute of Technology Madras]]
+| known_for  = [[Network effects]]<br/>[[Digital rights management]]<br/>[[Price discrimination]]
+| prizes = 
+| religion = 
+}}
+
+'''Arun Sundararajan''' ([[Tamil language|Tamil]]: அருண் சுந்தர்ராஜன்) (born in the [[United Kingdom]]) is the NEC Faculty Fellow, Professor of Technology, Operations, and Statistics and a Doctoral Coordinator at the [[Stern School of Business]], [[New York University]].<ref>[http://www.stern.nyu.edu/faculty/bio/arun-sundararajan NYU Stern faculty index page for Arun Sundararajan]</ref> For 2010–12, he is the Distinguished Academic Fellow at the Center for IT and the Networked Economy, [[Indian School of Business]].<ref>[http://www.isb.edu/sritne/Fellows.Shtml Fellows, Srini Raju Center for IT and the Networked Economy]</ref> Sundararajan is an expert on the economics of digital goods and [[network effects]]. He also conducts research about [[network science]] and the socioeconomic transformation of India.<ref>{{cite web | url=https://www.stern.nyu.edu/experience-stern/faculty-research/india-unique-id | title=Digital Identity: Socioeconomic Transformation through IT in India | date=12 October 2011 | publisher=NYU Stern | access-date=19 September 2019 }}</ref>
+
+==Life and work==
+Arun Sundararajan graduated from the [[Indian Institute of Technology Madras]] in 1993 with a BTech in [[electrical engineering]]. He subsequently attended the [[University of Rochester]] where he received an M. Phil in [[operations research]] and a PhD in [[business administration]]. After he earned his doctorate, he joined the faculty at [[New York University]], where his work focuses on the transformation of business and society by information technologies, and the Indian economy.<ref>{{cite web|url=http://w4.stern.nyu.edu/faculty/facultyindex.cgi?id%3D155 |title=Archived copy |access-date=25 February 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110610160822/http://w4.stern.nyu.edu/faculty/facultyindex.cgi?id=155 |archive-date=10 June 2011 }}</ref>
+
+Sundararajan's scholarly research analyzes what makes the economics of IT products and industries unique. He asserts that there are three technological invariants—digitization, exponential growth, and modularity—that have characterized and distinguished information technologies since the 1960s,<ref>{{cite journal |author1=Dhar, Vasant  |author2=Arun Sundararajan |s2cid=33958254 |name-list-style=amp | title=Information technologies in business: a blueprint for education and research| journal=Information Systems Research| year=2007| volume=18 | pages=125–141 | doi=10.1287/isre.1070.0126 | issue=3}}</ref> and that these invariants lead to the ubiquity of information goods, [[digital piracy]] and [[network effects]] in IT industries. His research papers illustrate how these distinctive economics of information technologies warrant new pricing strategies,<ref>{{cite journal | author=Sundararajan, Arun| title=Nonlinear pricing of information goods | journal=Management Science| year=2004| volume=50 | pages=1660–1673 | doi=10.1287/mnsc.1040.0291 | jstor=30048058 | issue=12| s2cid=1715181 }}</ref><ref>{{cite journal
+ |author1=Ghose, Anindya  |author2=Arun Sundararajan
+  |name-list-style=amp | title=Evaluating pricing strategy using e-commerce data: Evidence and estimation challenges
+ | journal=Statistical Science
+ | volume=21
+ | issue=2
+ | pages=131–142
+ | year=2006
+ | doi=10.1214/088342306000000187
+|arxiv=math/0609170|bibcode=2006math......9170G
+ |s2cid=197496325
+ }}</ref> careful digital rights management,<ref>{{cite journal|author=Sundararajan, Arun |s2cid=14197454 |title=Managing digital piracy: pricing and protection |journal=Information Systems Research |year=2004 |volume=15 |pages=287–308 |doi=10.1287/isre.1040.0030 |issue=3 }}</ref><ref>{{cite journal
+ | url=http://aisel.aisnet.org/icis2004/42/
+ |author1=Oestreicher-Singer, Gal  |author2=Arun Sundararajan
+  |name-list-style=amp | year=2004
+ | title=Are digital rights valuable? Theory and evidence from the ebook industry
+ | journal=ICIS 2004 Proceedings
+}}</ref> and a deeper understanding of network structure and dynamics.<ref>{{cite journal| author=Sundararajan, Arun| title=Local network effects and complex network structure| journal=The B.E. Journal of Theoretical Economics| year=2007| volume=7| doi=10.2202/1935-1704.1319| url=http://www.bepress.com/bejte/vol7/iss1/art46| issue=1| citeseerx=10.1.1.332.5020| s2cid=201102162| access-date=25 February 2011| archive-url=https://web.archive.org/web/20110303061739/http://www.bepress.com/bejte/vol7/iss1/art46/| archive-date=3 March 2011| url-status=dead}}</ref><ref>{{cite journal |author1=Aral, Sinan |author2=Muchnik, Lev |author3=Arun Sundararajan  |name-list-style=amp | title=Distinguishing influence-based contagion from homophily-driven diffusion in dynamic networks | journal=Proceedings of the National Academy of Sciences| year=2009| volume=106 | pages=21544–21549 | doi=10.1073/pnas.0908800106 | issue=51 | pmid=20007780 | pmc=2799846|bibcode=2009PNAS..10621544A|doi-access=free }}</ref>
+
+Sundararajan periodically writes and speaks about transformation through information technologies and business<ref>{{cite web | url=http://www.stern.nyu.edu/experience-stern/faculty-research/CON_031873 | title=Steve Jobs: The "Consumerizer" of Digital Technology | work=NYU Stern Opinion | date=6 October 2011}}</ref><ref>{{cite web | url=http://www.ft.com/cms/s/0/1f509532-f256-11dd-9678-0000779fd2ac.html | title=Plugging in to Transformation | work=Financial Times | date=5 February 2009}}</ref> with a frequent focus on privacy<ref>{{cite web | url=http://www.informationweek.com/news/security/privacy/232601890 | title=Google Insists Privacy Change is Legal | work=Information Week | date=1 March 2012}}</ref><ref>{{cite web | url=http://www.ft.com/cms/s/0/e1e31e64-9153-11e0-b1ea-00144feab49a.html | title=Lessons in Privacy from Sony's Data Theft | work=Financial Times | date=8 June 2011}}</ref><ref>{{cite web | url=http://www.cio.com/article/682686/Don_t_Gamble_Your_Company_s_Reputation_on_Data_Governance | title=Don't Gamble your Company's Reputation on Data Governance | work=CIO Magazine | date=26 May 2011 }}</ref> and on India.<ref>{{cite web | url=http://www.livemint.com/2011/11/06221459/Nurturing-the-Aadhaar-ecosyste.html | title=Nurturing the Aadhaar ecosystem | work=Wall Street Journal India (LiveMint) | date=7 November 2011}}</ref><ref>{{cite web | url=http://www.livemint.com/2011/04/13223626/Too-much-transparency.html | title=Too much transparency? | work=Wall Street Journal India (LiveMint) | date=14 April 2011}}</ref><ref>{{cite web | url=http://www.livemint.com/2010/09/29212440/Building-institutions-through.html | title=Building Institutions through Identity | work=Wall Street Journal India (LiveMint) | date=29 September 2010}}</ref><ref>{{cite news | url=http://economictimes.indiatimes.com/opinion/getting-the-3g-policy-right/articleshow/2338157.cms | title=Getting the 3G Policy Right | work=Economic Times | date=5 September 2007}}</ref>
+He has been elected to the editorial boards of the prestigious journals Management Science and [[Information Systems Research]] (where he is currently a Senior Editor<ref>[http://www.informs.org/Pubs/ISR/Editorial-Board ISR Editorial Board]</ref>).  He co-founded the NYU Summer Workshop on the Economics of Information Technology<ref>[http://www.stern.nyu.edu/CeDER/Events/PastEvents/CON_024341 NYU-CeDER Summer Workshop on the Economics of IT] {{webarchive |url=https://web.archive.org/web/20110720015439/http://www.stern.nyu.edu/CeDER/Events/PastEvents/CON_024341 |date=20 July 2011 }}</ref> and the Workshop on Information in Networks.<ref>[http://www.winworkshop.net/win2009 First Workshop on Information in Networks] {{webarchive |url=https://web.archive.org/web/20110724132232/http://www.winworkshop.net/win2009 |date=24 July 2011 }}</ref> He received a 2010 Google-WPP Marketing Research Award,<ref>[http://w4.stern.nyu.edu/newsroom/awards.cfm?doc_id=102356 Professors Anindya Ghose and Arun Sundararajan Granted Prestigious Google & WPP Marketing Research Awards]</ref> the Best Paper award at the 2008 INFORMS Conference on Information Systems and Technology, and the Best Overall Paper award at the 2004 [[International Conference on Information Systems]].
+
+==See also==
+* [[Digital rights management]]
+* [[Network effects]]
+* [[Price discrimination]]
+* [[Sharing economy]]
+
+==Bibliography==
+Patent:
+*{{cite patent  | country=US | number=7848979 | status=patent | title=System, method, software arrangement and computer-accessible medium for incorporating qualitative and quantitative information into an economic model | inventor=Sundararajan, Arun; Ipeirotis, Panagiotis and Anindya Ghose | gdate=7 December 2010}}
+Book:
+*{{cite book|author=Arun Sundararajan|title=The Sharing Economy: The End of Employment and the Rise of Crowd-Based Capitalism|url=https://books.google.com/books?id=2Zz2CwAAQBAJ|date=13 May 2016|publisher=MIT Press|isbn=978-0-262-03457-9}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://oz.stern.nyu.edu Arun Sundararajan's personal web page]
+* [http://www.stern.nyu.edu/faculty/bio/arun-sundararajan NYU Stern Faculty Page]
+* [http://www.isb.edu/sritne/ Center for IT and the Networked Economy, Indian School of Business]
+*{{cite web|title=Arun Sundararajan|url=https://econpapers.repec.org/RAS/psu46.htm|publisher=[[EconPapers]]}}
+*{{Google Scholar id|M0OB5XQAAAAJ}}
+*{{cite web|title=Arun Sundararajan|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Arun+Sundararajan%22+&acc=off&wc=on&fc=off&group=none|publisher=[[JSTOR]]}}
+*{{worldcat id|lccn-n2015073180}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sundararajan, Arun}}
+[[Category:Living people]]
+[[Category:New York University Stern School of Business faculty]]
+[[Category:University of Rochester alumni]]
+[[Category:21st-century American economists]]
+[[Category:Information systems researchers]]
+[[Category:Indian emigrants to the United States]]
+[[Category:Scientists from Chennai]]
+[[Category:Year of birth missing (living people)]]
+[[Category:IIT Madras alumni]]

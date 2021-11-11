@@ -1,0 +1,153 @@
+{{Short description|American economist}}
+{{Infobox economist
+| name             = Susan Athey
+| image             = Susan Athey 15 (cropped).jpg
+| image_size        = 
+| alt               = 
+| caption           = Professor Susan Athey in 2020
+| birth_date       = {{birth based on age as of date |24 |1995|4|21}}
+| birth_place      = [[Boston, Massachusetts]]
+| death_date       =
+| death_place      =
+| nationality      = [[United States]]
+| institution      = [[Stanford University]]
+| field            = [[Microeconomics]]<br>[[Econometrics]]<br>[[Machine Learning]]
+| alma_mater       = [[Stanford Graduate School of Business]]<br>[[Duke University]]
+| doctoral_advisor = [[Paul Milgrom]]<br>[[Donald John Roberts]]<br>[[Edward Lazear]]
+| academic_advisors =
+| doctoral_students = 
+| notable_students =
+| influences       = 
+| influenced       =
+| contributions    =
+| awards           = [[John Bates Clark Medal]] (2007)
+| signature        = <!-- file name only -->
+| spouse           = [[Guido Imbens]]
+| repec_prefix = e  | repec_id = pat6
+}}
+
+'''Susan Carleton Athey''' (born {{birth based on age as of date|24|1995|4|21|noage=1}}) is an American [[Microeconomics|microeconomist]]. She is the Economics of Technology Professor in the School of Humanities and Sciences at the [[Stanford Graduate School of Business]].<ref>{{cite web|title=Enriching the Experience|url=http://www.gsb.stanford.edu/news/headlines/new-faculty-2012.html|publisher=Stanford Graduate School of Business}}</ref> Prior to joining Stanford, she has been a professor at [[Harvard University]] and the [[Massachusetts Institute of Technology]]. She is the first female winner of the [[John Bates Clark Medal]].<ref name='priest'>{{cite news | first=Lisa | last=Priest | title=Economist who aided Canada wins top honour | date=April 23, 2007 | url =https://www.theglobeandmail.com/servlet/story/RTGAM.20070423.wxeconomist23/BNStory/National/home | work =Globe&Mail, Toronto | access-date = 2007-04-23 |archive-date=April 27, 2007 |archive-url=https://web.archive.org/web/20070427132631/http://www.theglobeandmail.com/servlet/story/RTGAM.20070423.wxeconomist23/BNStory/National/home }}</ref>  She served as the consulting chief economist for [[Microsoft]] for six years<ref name=":0">{{Cite web|title=Susan Athey|url=https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey|access-date=2020-12-03|website=Stanford Graduate School of Business|language=en}}</ref> and was a consulting researcher to [[Microsoft Research]]. She is currently on the boards of [[Expedia]], [[LendingClub|Lending Club]], Rover, [[Turo (company)|Turo]], [[Ripple Labs|Ripple]], and non-profit [[Innovations for Poverty Action]].<ref name=":0" /> She also serves as the senior fellow at Stanford Institute for Economic Policy Research. She is an associate director for the Stanford Institute for Human-Centered Artificial Intelligence and the director of Golub Capital Social Impact Lab.<ref name=":0" />
+
+== Early life and education ==
+Athey was born in [[Boston, Massachusetts]], and grew up in [[Rockville, Maryland]]. Her parents are Elizabeth Johansen, an English teacher and freelance editor, and Whit Athey, a physics scholar.
+
+Athey attended [[Duke University]] as an undergraduate, completing three majors ([[economics]], [[mathematics]], and [[computer science]]) and graduating with a BA in 1991.<ref name=":0" /> She got her start in economics research during a summer job preparing bids for a company that was selling personal computers to the government through procurement auctions, working on problems related to [[auction]]s with Bob Marshall, a professor at Duke University who worked on defense procurement and helped her with procurement auctions. She was involved in a number of activities at Duke and served as treasurer of [[Chi Omega]] sorority and as president of the [[field hockey]] club.
+
+Athey graduated with a Ph.D. from the [[Stanford Graduate School of Business]] at the age of 24 in 1995.<ref>{{cite news |url=https://www.nytimes.com/1995/04/21/business/top-draft-pick-economics-professor-be-coveted-two-dozen-universities.html |title=The Top Draft Pick in Economics; A Professor-to-Be Coveted by Two Dozen Universities |newspaper=[[New York Times]] |first=Sylvia |last=Nasar |author-link=Sylvia Nasar |date=April 21, 1995 }}</ref><ref name=":0" /> Her thesis was supervised by [[Paul Milgrom]] and [[Donald John Roberts]].<ref name=priest/> Athey also received an honorary doctorate from Duke University.
+
+Athey has been married to economist [[Guido Imbens]] since 2002.<ref>{{cite journal |last1=Simison |first1=Bob |title=Economist as Engineer |journal=[[Finance & Development]] |publisher=[[International Monetary Fund]] |date=June 2019 |volume=56 |issue=2 |url=https://www.imf.org/external/pubs/ft/fandd/2019/06/profile-stanford-economist-susan-athey-people.htm |access-date=23 December 2020}}</ref>
+
+==Career==
+=== Academic career ===
+Athey's first position was as an assistant professor at the [[Massachusetts Institute of Technology]], where she taught for six years before returning to Stanford's Department of Economics as professor, holding the Holbrook Working Chair for another five years.  She then served as professor of economics at Harvard University until 2012, when she returned to the Stanford Graduate School of Business, her alma mater.
+
+=== Research Interests ===
+Because of Athey's completion of triple majors---economics, mathematics and computer science---in Duke University during her undergraduate period, she always utilized programming and statistics as tools to solve problems in the field of economics. Based on this background, Athey is interested in economics of the Internet, economics of the news media, internet search, econometrics and machine learning, big data and math-based currency. Besides, there are other related fields such as platform markets, online advertising and industrial organization where she puts efforts on. Currently, she focuses on the economics of digitization, marketplace design, and the intersection of econometrics and machine learning.
+
+===Applied auction research===
+Auctions were the reason Athey went into economics. She has contributed on all dimensions to research on auctions. Athey's theoretical work on collusion in repeated games applies to auctions. As well as her existence theorem for sets with private information, she has done an innovative job on the econometrics of auctions. She has performed significant empirical work in econometrics of auctions. She also designed work that has had significant effects on business and public policy. Athey and Jonathan Levin examined the U.S. Forest Service's, oral ascending auctions for the rights to cut timber in the national forests. Typically, a given tract contains several different species of timber-yielding trees. The Forest Service publishes an estimate of the proportions of the various species based on an inspection. Potential bidders then can conduct their inspections. Bids are multidimensional: amounts to be paid per unit for each species. The winner is determined by aggregating each bidder's offer using the Forest Service's estimated proportions. The actual amount the winner pays, however, is computed by applying the bid vector to the exact amounts that are ultimately harvested (the winner has two years to complete the harvest). These rules create an incentive for a bidder whose estimate of the proportions differs from that of the Forest Service to skew its bidding, raising the price bid for the species that the bidder believes are less common than does the Forest Service.  Conversely lowering the price bid for the species that the bidder believes are more common than does the Forest Service. For example, suppose there are two species and the Forest Service estimates that they are in equal proportions, but a bidder believes they are in dimensions 3:2. Then bids of ($100, $100) and ($50, $150) yield the same amount under the Forest Service proportions and so are equally likely to win, but the bidder's expected payments under the first and under the second differ).<ref name="jstor.org">Roberts, John. “Susan C. Athey: John Bates Clark Award Winner 2007.” The Journal of Economic Perspectives, vol. 22, no. 4, 2008, pp. 181–198. JSTOR, JSTOR, www.jstor.org/stable/27648283.</ref>
+
+One of Athey's best-known works that deals with auctions is called “Comparing Open and Sealed Bid Auctions: Theory and Evidence from Timber Auctions." In this paper, Athey works with Johnathan Levin and Enrique Seira. She and her peers were interested in testing to see if the participation effects on auction were important.” There are two types of auctions, open and sealed-bid auctions. Open auctions are where bidders are constantly outbidding one another until the last bidder gives up and the auction ends, and sealed-bid auctions are when individuals write down their bids and submit them, whomever has the highest bid wins. The data that they used came from the United States Forest Service auctions. As a conclusion, they found that participation matters. It even matters more than what is actually taking place during the auctioning process.
+
+=== Research contributions ===
+Athey's early contributions included a new way to model uncertainty (the subject of her doctoral dissertation) and understand investor behavior given uncertainty, along with insights into the behavior of auctions. Athey's research on decision-making under uncertainty focused on conditions under which optimal decision policies would be monotone in a given parameter. She applied her results to establish conditions under which [[Nash equilibria]] would exist in auctions and other Bayesian games.
+
+Athey's work changed the way auctions are held. In the early 1990s Athey uncovered the weaknesses of an overly lenient dispute mechanism through experiences selling computers to the U.S. government at auctions, discovering that open auctions which resulted in frequent legal disputes followed by settlements were actually rife with collusion, e.g., auction winners shared a portion of their spoils with losers who had cooperated in bidding.<ref>{{cite news |first=Mark |last=Whitehouse |title=Economist Breaks New Ground As First Female Winner of Top Prize |url= https://www.wsj.com/articles/SB117708892644877101 |work=[[Wall Street Journal]] |date=2007-04-21 |access-date=2008-06-20}}</ref>  She also aided British Columbia in the design of the pricing system used for publicly owned timber.<ref name='priest'/>  She also published articles about auctions for online advertising and advised Microsoft about the design of their search advertising auctions.<ref>{{cite news |first=Aki |last=Ito |title=Stanford Economist Musters Big Data To Shape Web Future | date=June 26, 2013 | publisher = Bloomberg | url=https://www.bloomberg.com/news/2013-06-26/stanford-economist-musters-big-data-to-shape-web-future.html }}</ref>
+
+=== Professional service ===
+Athey has served as an associate editor of several leading journals, including the ''[[American Economic Review]]'', ''[[Review of Economic Studies]]'', and the ''[[RAND Journal of Economics]]'', as well as the [[National Science Foundation]] economics panel, and she also served as an associate editor for ''[[Econometrica]]'', ''[[Theoretical Economics]]'', and the ''[[Quarterly Journal of Economics]]''. She is a past co-editor of the ''Journal of Economics and Management Strategy'' and ''[[American Economic Journal]]: Microeconomics''. She was the chair of the program committee for the 2006 North American Winter Meetings, and has served on numerous committees for the [[Econometric Society]], the [[American Economic Association]], and the Committee for the Status of Women in the Economics Profession.  She is a member of President Obama's Committee for the [[National Medal of Science]].<ref>{{cite web|title=NMS|url=https://www.nsf.gov/od/nms/committee.jsp}}</ref>
+
+Furthermore, besides professional services in academic committees, Athey, as a "tech economist", also used to serve as consultant chief economist for Microsoft Corporation for a few years and now serves on the board of Expedia, Lending Club, Rover Turo, and Ripple. She also serves as a long-term advisor to the British Columbia Ministry of Forests, helping architect and implement their auction-based pricing system. Athey is the founding director of the Golub Capital Social Impact Lab at Stanford GSB, and associate director of the Stanford Institute for Human-Centered Artificial Intelligence.<ref>{{Cite web|title=Susan Athey|url=https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey|access-date=2020-12-11|website=Stanford Graduate School of Business|language=en}}</ref>
+
+=== Ripple Labs ===
+Athey has been personally named in a group of class actions, notably ''Zakinov v. [[Ripple Labs]] Inc.'' (case number 18-6753), running since 2018 that claim Athey and her employers, Ripple Labs Inc. have been in breach of various California and Federal securities laws.<ref>{{cite web|url=https://www.govinfo.gov/app/details/USCOURTS-cand-4_18-cv-06753|title=18-6753 - Zakinov et al v. Ripple Labs, Inc. et al|publisher=[[U.S. Government Publishing Office]]|date=2020-10-02|access-date=2020-10-23}}</ref>
+
+== Awards and honors ==
+
+=== Academic ===
+*Duke University Alice Baldwin Memorial Scholarship, 1990-1991
+*Mary Love Collins Scholarship, Chi Omega Foundation, 1991-1992
+*Jaedicke Scholar, Stanford Graduate School of Business, 1992-1993
+*National Science Foundation Graduate Fellowship, 1991-1994
+*State Farm Dissertation Award in Business, 1994
+* State Farm Dissertation Award (1995)
+* [[Elaine Bennett Research Prize]] (2000) (This award is given every other year to a young woman economist who has made outstanding contributions to any field.)
+* Fellow of the Econometric Society (2004)
+*[[John Bates Clark Medal]] (2007)
+* Fellow of the [[American Academy of Arts and Sciences]] (2008)<ref>{{cite web|title=Book of Members, 1780–2010: Chapter A|url=http://www.amacad.org/publications/BookofMembers/ChapterA.pdf|publisher=American Academy of Arts and Sciences|access-date=27 April 2011}}</ref>
+* Stanford University Leiberman Fellowship
+* Elected to the [[National Academy of Sciences]] (2012)
+* Honorary Degree, Duke University (2009) <ref>{{cite web|title=Duke Names Honorary Degree Recipients|url=http://today.duke.edu/2009/01/honorary.html|publisher=Duke University|access-date=1 June 2014}}</ref>
+* Fisher-Shultz Lecture, Econometric Society (2011)
+*Jean-Jacques Laffont Prize (2016)<ref>{{Cite web|date=2018-06-05|title=Jean-Jacques Laffont Prize|url=https://www.tse-fr.eu/jjl-prize|access-date=2020-12-03|website=TSE|language=en}}</ref>
+*[[John von Neumann Award]] (2019) <ref>{{Cite web|url=https://www.eventbrite.com/e/digitization-and-the-economy-john-von-neumann-award-ceremony-susan-athey-tickets-77640774647|title=Digitization and the Economy - John von Neumann Award Ceremony: Susan Athey}}</ref>
+*[[CME Group]] - [[Mathematical Sciences Research Institute|MSRI]] Prize (2019)<ref>{{Cite web|last=MSRI|title=Mathematical Sciences Research Institute|url=http://www.msri.org/|access-date=2021-06-07|website=www.msri.org}}</ref>
+
+=== Non-academic ===
+
+* Kilby Award Foundation's Young Innovator Award, 1998
+* Diversity MBA's Top 100 under 50 Diverse Executives 
+* Fast Company's 100 Most Creative People in Business 
+* World Economic Forum Young Global Leader, selected 2008
+* World Innovation Summit on Entrepreneurship and Innovation's World's Most Innovative People Award, 2012
+* Microsoft Research Distinguished Collaborator Award, 2016
+
+== Publications ==
+<ref name="jstor.org"/>
+* {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Segal, Ilya|author2-link=Ilya Segal|year=2013 |title=An Efficient Dynamic Mechanism |journal=[[Econometrica]] |volume=81 |issue=6 |pages=2463–2485 |doi= 10.3982/ECTA6995|citeseerx=10.1.1.79.7416}}
+* {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Coey, Dominic|author3=Levin, Jonathan |year=2011 |title=Setasides and Subsidies in Timber Auctions |journal=American Economic Journal: Microeconomics |volume=5 |issue=1 |pages=1–27 |doi= 10.1257/mic.5.1.1|s2cid=3012150|url=http://www.aeaweb.org/aej/mic/app/2011-0124_app.pdf  }}
+* {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Ellison, Glenn| year=2011 |title=Position Auctions with Consumer Search |journal=[[Quarterly Journal of Economics]] | volume=126 | issue=3 |pages=1213–1270|doi=10.1093/qje/qjr028|url=http://qje.oxfordjournals.org/content/126/3/1213.abstract?sid=5bde2bed-cba5-4185-afe5-8264d6e19f6c |citeseerx=10.1.1.163.9337|s2cid=8681024}}
+* {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Levin, Jonathan|author3=Seira, Enrique |year=2011 |title=Comparing Open and Sealed Bid Auctions: Theory and Evidence from Timber Auctions |journal=[[Quarterly Journal of Economics]] |volume=126 |issue=1 |pages=207–257 |doi= 10.1093/qje/qjq001|s2cid=14478418|url=  http://www.nber.org/papers/w14590.pdf}}
+* {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Bagwell, Kyle |year=2008 |title=Collusion with Persistent Cost Shocks |journal=[[Econometrica]] |volume=76 |issue=3 |pages=493–540 |doi= 10.1111/j.1468-0262.2008.00845.x|citeseerx=10.1.1.615.7881}} (Accepted subject to final revisions)
+* {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Miller, David |year=2007 |title=Efficiency in Repeated Trade with Hidden Valuations |journal=[[Theoretical Economics]] |volume=2 |issue=3 |pages=299–354 |doi= 10.1007/978-3-540-73746-9|url=http://econtheory.org/ojs/index.php/te/article/view/20070299 }}
+* {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Imbens, Guido W. |year=2007 |title=Discrete Choice Models with Multiple Unobserved Choice Characteristics |journal=[[International Economic Review]] |volume=48 |issue=4 |pages=1159–1192 |doi=10.1111/j.1468-2354.2007.00458.x |citeseerx=10.1.1.164.935|s2cid=12392783}}
+* {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Imbens, Guido W. |year=2006 |title=Identification and Inference in Nonlinear Difference-In-Difference Models |journal=Econometrica |volume=74 |issue=2 |pages=431–498 |doi=10.1111/j.1468-0262.2006.00668.x  |citeseerx=10.1.1.79.5356}}
+* {{cite journal |last=Athey|first=Susan|author-mask=1 |author2=Atkeson, Andrew |author3=Kehoe, Patrick J. |year=2005 |title=The Optimal Degree of Monetary Policy Discretion |journal=Econometrica |volume=73 |issue=5 |pages=1431–1476 |doi=10.1111/j.1468-0262.2005.00626.x  |s2cid=5996103|url= http://discovery.ucl.ac.uk/10054404/}}
+* {{cite journal |last=Athey|first=Susan|author-mask=1 |author2=Bagwell, Kyle |author3=Sanchirico, Chris |author3-link=Chris William Sanchirico |year=2004 |title=Collusion and Price Rigidity |journal=[[Review of Economic Studies]] |volume=71 |issue=2 |pages=317–349 |doi=10.1111/0034-6527.00286 |citeseerx=10.1.1.25.2035}}
+* {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Haile, Philip |year=2002 |title=Identification in Standard Auction Models |journal=Econometrica |volume=70 |issue=6 |pages=2107–2140 |doi=10.1111/1468-0262.00371  |citeseerx=10.1.1.217.1365}}
+* {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Stern, Scott |year=2002 |title=The Impact of Information Technology on Emergency Health Care Outcomes |journal=RAND Journal of Economics |volume=33 |issue=3 |pages=399–432 |doi= 10.2307/3087465|url=http://www.rje.org/abstracts/abstracts/2002/Autumn_2002._pp._Athey.html |pmid=12585298 |jstor=3087465 |citeseerx=10.1.1.15.1325|s2cid=6398638}}
+* {{cite journal |author=——— |year=2002 |title=Monotone Comparative Statics Under Uncertainty |journal=[[Quarterly Journal of Economics]] |volume=117 |issue=1 |pages=187–223 |doi=10.1162/003355302753399481 |url= http://nrs.harvard.edu/urn-3:HUL.InstRepos:3372263}}
+* {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Bagwell, Kyle |year=2001 |title=Optimal Collusion with Private Information |journal=RAND Journal of Economics |volume=32 |issue=3 |pages=428–465 |doi= 10.2307/2696363|url=http://www.rje.org/abstracts/abstracts/2001/Autumn_2001._pp._Athey.html |jstor=2696363 |hdl=1721.1/63939|citeseerx=10.1.1.727.384}}
+* {{cite journal |author=——— |year=2001 |title=Single Crossing Properties and the Existence of Pure Strategy Equilibria in Games of Incomplete Information |journal=Econometrica |volume=69 |issue=4 |pages=861–890 |doi=10.1111/1468-0262.00223  |citeseerx=10.1.1.35.2 }}
+* {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Levin, Jonathan |year=2001 |title=Information and Competition in U.S. Forest Service Timber Auctions |journal=[[Journal of Political Economy]] |volume=109 |issue=2 |pages=375–417 |doi=10.1086/319558 |url= http://nrs.harvard.edu/urn-3:HUL.InstRepos:3612768|hdl=1721.1/63772|s2cid=158932760}}
+* {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Schmutzler, Armin |year=2001 |title=Investment and Market Dominance |journal=RAND Journal of Economics |volume=32 |issue=1 |pages=1–26 |doi= 10.2307/2696395|url=http://www.rje.org/abstracts/abstracts/2001/Spring_2001._pp._Athey.html |jstor=2696395 |citeseerx=10.1.1.190.4998}}
+* {{cite journal |last=Athey|first=Susan|author-mask=1 |author2=Avery, Chris |author3=Zemsky, Peter |year=2000 |title=Mentoring and Diversity |journal=[[American Economic Review]] |volume=90 |issue=4 |pages=765–786 |doi= 10.1257/aer.90.4.765|url=http://www.e-aer.org/archive/9004/90040765.pdf }}
+* {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Schmutzler, Armin |year=1995 |title=Product and Process Flexibility in an Innovative Environment |journal=RAND Journal of Economics |volume=26 |issue=4 |pages=557–574 |doi= 10.2307/2556006|url=http://www.rje.org/abstracts/abstracts/1995/Winter_1995._pp_557_574.html |jstor=2556006 }}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://faculty-gsb.stanford.edu/athey/ Susan Athey's Homepage]
+* [http://www.economicprincipals.com/issues/2007.04.22/246.html Clark Medal to Susan Athey] by David Warsh of Economic Principals
+* [https://web.archive.org/web/20070911031559/http://www.gsb.stanford.edu/news/bmag/sbsm0708/kn-athey.html Susan Athey Awarded John Bates Clark Medal] by Joshua Gans in the Stanford Business Magazine, August 2007
+* {{Google scholar id}}
+
+{{Elaine Bennett Research Prize recipients}}
+{{John Bates Clark Medal recipients}}
+{{John von Neumann Award recipients}}
+
+{{FBA 2016|state=expanded}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Athey, Susan}}
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:American women economists]]
+[[Category:Economists from Massachusetts]]
+[[Category:People from Boston]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Duke University Trinity College of Arts and Sciences alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Massachusetts Institute of Technology faculty]]
+[[Category:Stanford Graduate School of Business alumni]]
+[[Category:Stanford University Graduate School of Business faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:People associated with cryptocurrency]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]
+[[Category:20th-century American women]]
+[[Category:Corresponding Fellows of the British Academy]]

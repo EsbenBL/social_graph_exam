@@ -1,0 +1,158 @@
+{{short description|Israeli economist (born 1953)}}
+{{Infobox economist
+| honorific_prefix  = 
+| name              = 
+| honorific_suffix  = 
+| image             = Oded Galor.png
+| image_size        = 
+| alt               = 
+| caption           = 
+| native_name       = 
+| native_name_lang  = 
+| birth_date        = {{birth year and age|1953}}
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- (use {{coord …}}) -->
+| nationality       = Israeli and American
+| citizenship       = 
+| spouse            = <!-- or: spouses -->
+| website           = <!-- {{URL|example.com}} -->
+| institution       = [[Brown University]]
+| field             = Economic Growth <br>Comparative Economic Development <br>Evolutionary Economics
+| school_tradition  = 
+| alma_mater        = [[Columbia University]] (PhD, 1984) <br> [[Hebrew University of Jerusalem]] (BA, 1978, MA, 1980)
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| influences        = 
+| contributions     = [[Unified growth theory]]<br>Inequality and Growth <br>Evolution and Growth <br>Diversity and Development
+| awards            = Doctor Honoris Causa, Poznań University of Economics and Business<br>
+Doctor Honoris Causa, UCLouvain<br>
+
+Elected Fellow of the Econometric Society<br>
+Elected Foreign Member of Academia Europaea (honoris causa)
+| memorials         = 
+| repec_prefix      = 
+| repec_id          = 
+| module            = 
+| signature         = <!-- filename only -->
+| notes             = <!-- or: footnotes -->
+}}
+
+'''Oded Galor''' (born 1953) is an economist who is currently Herbert H. Goldberger Professor of Economics at [[Brown University]]. He is the founder of [[unified growth theory]].  Galor has contributed to the understanding of process of development over the entire course of human history and prehistory, and the role of deep-rooted factors in the transition from stagnation to growth and in the emergence of the vast inequality across the globe. Moreover, he has pioneered the exploration of the impact of human evolution, population diversity, and inequality on the process of development over most of human existence.
+
+==Career==
+Galor completed his BA and MA at the [[Hebrew University of Jerusalem]], and his PhD at [[Columbia University]]. He served as a Chilewich Professor of Economics at the Hebrew University, and he is currently the Herbert H. Goldberger Professor of Economics at [[Brown University]]. He was awarded Doctor Honoris Causa from Poznań University of Economics & Business<ref>{{Cite web|last=Uniwersytet Ekonomiczny w Poznaniu|date=2019|title=Prof. Oded Galor gets the honorary doctorate (doctor honoris causa title) of PUEB (Poznan, Poland)|url=https://www.youtube.com/watch?v=q9EBhf6GTxE&t=76s|url-status=live}}</ref> and from UCLouvain. He is an Elected Foreign Member of Academia Europaea (honoris causa), and an Elected Fellow of the [[Econometric Society]].  He has led the NBER research group on Income Distribution and Macroeconomics and he is a Research Fellow of the CEPR and IZA, a Research Associate of the NBER and CESifo, a Sackler Fellow at Tel-Aviv University, a Fellow of the Economics Department at the Hebrew University. Furthermore, he is the Editor in Chief of the ''Journal of Economic Growth'', Editor of the ''Journal of Population Economics'', Co-Editor of ''Macroeconomic Dynamics''. He was recently among the 5 candidates for the Nobel of Frankfurter Allgemeine.<ref>{{Cite news|title=Favoriten der F.A.Z.: Das sind die Kandidaten für den Wirtschaftsnobelpreis|language=de|work=FAZ.NET|url=https://www.faz.net/aktuell/wirtschaft/die-nobel-kandidaten-16996512.html|access-date=2020-11-18|issn=0174-4909}}</ref> 
+
+==Research==
+Oded Galor is the founder of [[unified growth theory]] that explores the process of development over the entire course of human history and identifies the historical and prehistorical forces behind the differential transition timing from stagnation to growth and the divergence in income per capita across countries and regions
+
+He has made significant contributions to the understanding of process of development over the entire course of human history and the role of deep-rooted factors in the transition from stagnation to growth and in the emergence of the vast inequality across the globe. Moreover, he has pioneered the exploration of the impact of human evolution, population diversity, and inequality on the process of development over most of human existence.
+
+His interdisciplinary research has redirected research in the field of economic growth to the exploration of the long shadow of history and to the role of biogeographical forces in comparative economic development. It has spawned the influential literatures studying the impact of inequality on the process of development, the interaction between human evolution and economic development, the transition from stagnation to growth, and the impact of human diversity on comparative economic development.
+
+He is a co-author of the [[Galor–Zeira model]]—the first macroeconomic model to explore the role of heterogeneity in the determination of macroeconomic behavior. In contrast to the [[representative agent]] approach that dominated the field of macroeconomics till the early 1990s and argued that heterogeneity has no impact on macroeconomic activity, the model demonstrates that in the presence of [[Capital market imperfections|capital markets imperfections]] and local [[Non-convexity (economics)|non-convexities]] in the production of human capital, income distribution affects the long run level of income per-capita as well as the growth process.<ref>{{Cite journal|last1=Galor|first1=Oded|last2=Zeira|first2=Joseph|date=1993|title=Income Distribution and Macroeconomics|url=https://web.archive.org/web/20200125195833/https://www.brown.edu/Departments/Economics/Faculty/Oded_Galor/pdf/WB.pdf|journal=The Review of Economic Studies|volume=60|issue=1|pages=35–52|doi=10.2307/2297811|jstor=2297811}}</ref> The [[The Review of Economic Studies|Review of Economic Studies]] named the paper among the 11 most path-breaking papers published in ''The Review of Economic Studies'' in the past 60 years.<ref>{{Cite web|last=Oxford Journals|date=2013|title=Virtual Issue: The History of Restud|url=https://web.archive.org/web/20130701040209/http://www.oxfordjournals.com/our_journals/restud/resource/history_of_restud.html|url-status=live}}</ref>
+
+== Books ==
+
+=== ''Discrete Dynamical Systems'' (Springer, 2010) ===
+This book provides an introduction to [[discrete dynamical system]]s—a framework of analysis commonly used in the fields of biology, demography, ecology, economics, engineering, finance, and physics. The book characterizes the fundamental factors that govern the qualitative and quantitative trajectories of a variety of deterministic, discrete dynamical systems, providing solution methods for systems that can be solved analytically and methods of qualitative analysis for systems that do not permit or necessitate an explicit solution. The analysis focuses initially on the characterization of the factors the govern the evolution of state variables in the elementary context of one-dimensional, first-order, linear, autonomous systems. The fundamental insights about the forces that affect the evolution of these elementary systems are subsequently generalized, and the determinants of the trajectory of multi-dimensional, nonlinear, higher-order, non-autonomous dynamical systems are established.
+
+=== ''Unified Growth Theory'' (Princeton University Press, 2011) ===
+{{Main|Unified growth theory}}'''Backdrop'''
+
+Throughout most of human existence, economic growth has been all but absent across the globe. But two centuries ago, some regions of the world began to emerge from this epoch of economic stagnation into a period of sustained economic growth, profoundly altering the level and distribution of wealth and health around the world. In his book ''Unified Growth Theory'', Galor provides a global theory explaining what has triggered this remarkable transformation in human history.
+
+'''Synopsis'''
+
+''Unified Growth Theory'' is the first theory that sheds light on the determinants of the process of development since the emergence of Homo sapiens. Galor, who founded the field of unified growth theory, identifies the historical and prehistorical forces behind the differential transition timing from stagnation to growth and the emergence of income disparity around the world. He unveils the mechanisms that have trapped the world economy in millennia of near-stagnation but ultimately has induced the remarkable transition to an era of sustained economic growth characterized by vast inequality across countries and regions. ''Unified Growth Theory'' suggests that during most of human existence, technological progress was counterbalanced by population growth and living standards were near subsistence across time and space. However, the reinforcing interaction between the rate of technological progress and the size and composition of the population has gradually increased the pace of technological progress, enhancing the importance of education in the ability of individuals to adapt to the changing technological environment. The rise in the allocation of resources towards education triggered reductions in fertility rates, enabling economies to divert a larger share of the fruits of technological progress to the growth of income per capita, rather than towards the growth of population, paving the way for the emergence of sustained economic growth. The theory further suggests that variations in biogeographical characteristics, as well as cultural and institutional characteristics, have generated a differential pace of transition from stagnation to growth across countries and consequently divergence in their income per capita over the past two centuries.
+
+'''Reception'''
+
+Nobel Laureate in Economics [[Robert Solow]] described Galor's project as "breathtakingly ambitious". He added that "Galor proposes a fairly simple, intensely human-capital-oriented model that will accommodate the millennia of Malthusian near-stagnation, the Industrial Revolution and its aftermath of rapid growth, the accompanying demographic transition, and the emergence of modern human-capital-based growth. And the model is supposed to generate endogenously the transitions from one era to the next. The resulting book is a powerful mixture of fact, theory, and interpretation."<ref>{{Cite web|url=https://press.princeton.edu/titles/9477.html|title=Oded Galor, Unified Growth Theory|last=Princeton University Press|date=2011}}</ref>
+
+According to [[Massachusetts Institute of Technology]] economist [[Daron Acemoglu]], "''Unified Growth Theory'' is a work of unusual ambition" that "will inspire, motivate, and challenge economists."
+
+University of Chicago economist [[Steven Durlauf|Steven N. Durlauf]] declared that "''Unified Growth Theory'' is Big Science at its best. It grapples with some of the broadest questions in social science, integrating state-of-the-art economic theory with a rich exploration of a wide range of empirical evidence." He considers that Galor's ideas "will have a lasting effect on economics."
+
+==Major Publications==
+*"Intertemporal Equilibrium and the Transfer Paradox" (with H. Polemarchakis), ''Review of Economic Studies'',  54(1), 147–156, (1987).  
+*"Existence, Uniqueness and Stability of Equilibrium in an Overlapping-Generations Model with Productive Capital," (with H. Ryder), ''Journal of Economic Theory'', 49, 360–375, (1989).
+*"A Theory of Career Mobility" (with N. Sicherman), ''Journal of Political Economy'', 98, 169–192, (1990).
+*"A Two-Sector Overlapping-Generations Model: A characterization of the Dynamical System," ''Econometrica'', 60, 1351–1386, (1992).
+*"Income Distribution and Macroeconomics" (with J. Zeira), ''Review of Economics Studies'', 60, 35–52, (1993). {{JSTOR|2297811}}
+*"Convergence? Inferences from Theoretical Models," ''Economic Journal'', 106, 1056–1069, (1996).
+*"The Gender Gap, Fertility, and Growth" (with D. Weil), ''American Economic Review'', 86, 374–387, (1996).
+*"Technological Progress, Mobility, and Economic Growth" (with D. Tsiddon), ''American Economic Review'', 87, 363–382, (1997).
+*"From Malthusian Stagnation to Modern Growth" (with D. Weil), ''American Economic Review'', 89, 150–154 (1997).
+*"Population, Technology, and Growth: From the Malthusian Regime to the Demographic Transition and Beyond" (with D. Weil), ''American Economic Review'', 90, 806–828, (September 2000).
+*"Ability-Biased Technological Change, Wage Inequality and Economic Growth" (with O. Moav), ''Quarterly Journal of Economics'', 115, 469–498, (2000).
+*"Natural Selection and the Origin of Economic Growth" (with O. Moav), ''Quarterly Journal of Economics'', 117, 1133–1192, (2002).
+*"From Physical to Human Capital Accumulation: Inequality in the Process of Development" (with O. Moav), ''Review of Economic Studies'', 71, 1001–1026, (2004).
+*"From Stagnation to Growth: Unified Growth Theory," ''Handbook of Economic Growth'', North Holland, (2005).
+*"Das Human Kapital: A Theory of the Demise of the Class Structure" (with O. Moav), ''Review of Economic Studies'', 73, 85–117, (2006).
+*"Trade and the Great Divergence: The Family connection" (with A. Mountford), ''American Economic Review'', 96, 299–303, (2006).
+*''Discrete Dynamical Systems'', Springer (2007).
+*"Trading Population for Productivity," ''Review of Economic Studies'', 75, 1143–1179, (2008).
+*"Inequality in Landownership, the Emergence of Human-Capital Promoting Institutions, and the Great Divergence" (with O. Moav and D. Vollrath), ''Review of Economic Studies'', 76, 143–179, (2009).
+*"The 2008 Lawrence R. Klein Lecture-Comparative Economic Development: Insights From Unified Growth Theory," ''International Economic Review'', 51, 1–44, (2010).
+*''Unified Growth Theory'', Princeton University Press (2011).
+*"Dynamics and Stagnation in the Malthusian Epoch" (with Q. Ashraf), ''American Economic Review'', 101, (2011).
+*"Inequality, Human Capital Formation, and the Process of Development," ''Handbook of the Economics of Education'', Elsevier, (2011). 
+*"The Out of Africa Hypothesis, Human Genetic Diversity and Comparative Development” (with Q. Ashraf), American Economic Review, 103, (2013).
+*"Genetic Diversity and the Origins of Cultural Fragmentation” (with Q. Ashraf), ''American Economic Review'', P&P 103 (2), (May 2013).
+* "The Agricultural Origins of Time Preference" (with O. Ozak), ''American Economic Review'', 106 (8), 3064–3103, (2016).
+* "The Macrogenoeconomics of Comparative Development" (with Q. Ashraf), ''Journal of Economic Literature'', 56 (3), 1119–1155, (2018).
+* "Human Genealogy Reveals a Selective Advantage to Moderate Fecundity" (with M. Klemp), ''Nature Ecology & Evolution'', 3 (5), 853–857, (2019).
+* "Diversity and Conflict" (with C. Arbatli, Q. Ashraf, and M. Klemp), ''Econometrica'', 88 (2), 727–797 (2020).
+*''[https://www.penguinrandomhouse.com/books/679024/the-journey-of-humanity-by-oded-galor/ The Journey of Humanity]'', Penguin Random House (2022).
+
+==Professional Appointment==
+
+* Editor-in-Chief, Journal of Economic Growth, 1995 –
+*Editor, ''Journal of Population Economics'', 2018 – 
+*Co-Editor, ''Macroeconomic Dynamics,'' 2018 –
+* Co-director of the ''NBER research group on Income Distribution and Macroeconomics'', 1995 –
+* Member of the Editorial Board, ''Economics and Human Biology'', 2002 –
+*Member of the Editorial Board, ''Journal of Economic Inequality'', 2003 –
+* Member of the Advisory Board, ''Journal of Economic Research'', 1997 –
+* Member of the Editorial Advisory Board, ''Open Economics'', 2017 –
+* Series Editor, ''Population Economics'', Springer, 2018 –
+*Associate Editor, ''Economics'', 2007 –
+*Research Fellow, ''[[Centre for Economic Policy Research]]'', 1995 –
+*Research Associate, ''[[National Bureau of Economic Research]]'' (NBER), 2011 –
+*Research Associate, ''IZA'', 2012 –
+*Research Fellow, CESifo, 2014 – 
+*Fellow, Department of Economics, Hebrew University, 2006 –
+*Sackler Fellow, Tel-Aviv University, 2015 –
+
+== Distinguished Named Lectures ==
+
+*''The Copernican Lecture'', Torun, 2019.
+*''The Ricardo Lecture'', Denmark, 2019.
+*''The Bogen Lecture'', Jerusalem, 2019.
+* ''The'' ''Zeuthen Lectures'', Copenhagen, 2016.
+* ''The Berglas Lecture'', Tel-Aviv University, 2015.
+* ''The Maddison Lecture,'' Groningen, 2012.
+* ''The Kuznetz Lecture'', Yale, 2009. 
+* ''The Klein Lecture,'' Osaka, 2008.
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.odedgalor.com Home page]
+*[https://www.youtube.com/channel/UCveaUmyrTrHgFxrnDv96zAA Oded Galor's YouTube Channel]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Galor, Oded}}
+[[Category:1953 births]]
+[[Category:Living people]]
+[[Category:Israeli economists]]
+[[Category:Hebrew University of Jerusalem alumni]]
+[[Category:Brown University faculty]]
+[[Category:Fellows of the Econometric Society]]

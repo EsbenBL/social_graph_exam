@@ -1,0 +1,57 @@
+{{short description|American psychologist}}
+
+{{Infobox person
+| name               = Mary Cheves West Perky
+| othername          = Cheves Perky
+| birth_name         = 
+| birth_date         = 1874
+| birth_place        = 
+| death_date         = 1940
+| nationality        = American 
+| alma_mater         = [[Cornell University]]
+| occupation         = [[Psychologist]]
+| years_active       = 
+| known_for          = The Perky Effect
+
+}}
+'''Mary Cheves West Perky''' (1874–1940) was an American [[psychologist]] who studied under [[Edward B. Titchener]] at [[Cornell University]]. In 1910, she performed the "Banana Experiment," which led to the discovery of the Perky Effect,<ref name=":1">{{cite web|url=http://plato.stanford.edu/entries/mental-imagery/perky-experiment.html |title=The Perky Experiment |website=[[Stanford Encyclopedia of Philosophy]]  |accessdate=9 March 2015}}</ref><ref name=":2">{{cite journal|title=An Experimental Study of Imagination |last=Cheves West Perky |date=July 1910 |journal=The American Journal of Psychology |jstor=1413350 |volume=21 |issue=3 |pages=422–452 |doi=10.2307/1413350 }}</ref> which examines the link between mental imagery and visual perception.<ref name=":0">{{Cite journal|last=Waller|first=David|date=2012|title=A Century of Imagery Research: Reflections on Cheves Perky's Contribution to Our Understanding of Mental Imagery|journal=The American Journal of Psychology|volume=125|issue=3|pages=291–305|jstor=10.5406/amerjpsyc.125.3.0291|doi=10.5406/amerjpsyc.125.3.0291|pmid=22953689}}</ref>
+
+Perky also studied the [[cooperative]] movement, and became the Associate Secretary of the [[Cooperative League of America]].<ref>{{cite web|url=https://books.google.com/books?id=2Y4cAAAAMAAJ&q=%22Cheves+West+Perky%22+history&pg=PA401 |title=1917 American Year Book |website=[[Google Books]] |accessdate=9 March 2015|year=1918 }}</ref>
+
+== The Perky Effect ==
+While some of Titchener's work has "long since fallen into disrepute," the work performed in his lab in 1910 by Perky has "achieved something of a classic, even mythic, status in the literature on imagery."<ref name=":1" />
+
+Perky's famous experiments demonstrated how sensory input, or perceptions, can be mistaken for a mental image when perceptual processes and mental imagery interfere with each other. Now known as the Perky Effect, her research described the result when a subject's visual perception is altered by mental imagery.<ref name=":1" />
+
+To test her hypothesis, <blockquote>Perky asked her subjects to fixate a point on a screen in front of them and to visualize various objects there, such as a tomato, a book, a leaf, a banana, an orange, or a lemon. As the subjects did this, and unbeknownst to them, a faint patch of color, of an appropriate size and shape, and just above the normal threshold of visibility, was back-projected (in soft focus) onto the screen.<ref name=":1" /> </blockquote>The images were projected at a very low brightness to start and gradually increased in brightness. The participants were asked to describe the objects that corresponded to the image that was being projected. <blockquote>...none of Perky's subjects (who ranged from a ten year old child to the trained and experienced introspectors of Titchener's laboratory) ever realized that they were experiencing real percepts; they took what they “saw” on the screen to be entirely the products of their imagination. In fact, however, the projections did influence their experiences.<ref name=":1" /></blockquote>Participants reported that they believed they were imagining the projected images rather than actually perceiving them and they reported “seeing” the mental images in greater detail than what was actually presented in the stimulus. Imagery can be derived from short and long-term memories. Perky also distinguished between "images of memory" and "images of imagination." Images of memory are personal episodic images and are associated with more eye movements and feelings of familiarity. Images of imagination are more general, have little meaning to an individual, and may be associated with feelings of surprise.<ref name=":0" />
+
+The Perky Effect, which describes the link between mental imagery and visual perception, has been a foundation for continued research in visual perception and imagery. Her studies have inspired replications and further exploration of the different ways that perception and imagery can affect things like visual acuity.<ref name=":1" /><ref name=":0" />
+
+== Selected works ==
+
+* Perky, Cheves West. "An experimental study of imagination." ''The American Journal of Psychology'' 21.3 (1910): 422-452.<ref name=":2" />
+* Perky, Cheves West. ''Cooperation in the United States''. Intercollegiate Socialist Society, 1919.
+* Perky, Cheves West. "Children in the Museum." ''Bulletin of the Pennsylvania Museum'' 27.143 (1931): 11-14.
+
+==Literature==
+
+* Cooper, Cooper Sarah. ''Film and the Imagined Image''. Edinburgh University Press, 2019.
+* Proctor, Robert W., and Rand Evans. "EB Titchener, women psychologists, and the experimentalists." ''The American journal of psychology'' 127.4 (2014): 501-526.
+* Calabi, Clotilde. "The Far Side of Things: Seeing, Visualizing and Knowing." ''Mind, Language and Action''. De Gruyter, 2015. 335-346.
+* Berger, Christopher C. ''Where imagination meets sensation: mental imagery, perception and multisensory Integration''. Inst för neurovetenskap/Dept of Neuroscience, 2016.
+* Dijkstra, Nadine, Peter Kok, and Stephen Fleming. "Perceptual reality monitoring: Neural mechanisms dissociating imagination from reality." (2021).
+* Waller, David, et al. “A Century of Imagery Research: Reflections on Cheves Perky's Contribution to Our Understanding of Mental Imagery.” ''The American Journal of Psychology'', vol. 125, no. 3, 2012, pp.&nbsp;291–305. ''JSTOR'', www.jstor.org/stable/10.5406/amerjpsyc.125.3.0291. Accessed 30 June 2021.
+
+==References==
+<references/>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Perky, Cheves}}
+[[Category:American psychologists]]
+[[Category:American women psychologists]]
+[[Category:1874 births]]
+[[Category:1940 deaths]]
+[[Category:20th-century American women scientists]]
+[[Category:20th-century psychologists]]
+[[Category:Cornell University alumni]]

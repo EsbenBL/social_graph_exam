@@ -1,0 +1,109 @@
+{{Use mdy dates|date=October 2021}}
+{{Short description|Canadian economist (b. 1956)}}
+{{Infobox economist
+|name              = David Card
+|image             = David Card - Nobel prize interview screenshot (cropped).png
+|caption           = Card in 2021
+|birth_date        = {{birth year and age|1956}}
+|birth_place       = [[Guelph, Ontario]], Canada
+|death_date        = 
+|death_place       = 
+|nationality       = {{hlist|Canadian|American}}<ref>{{cite web |last1=Card |first1=David |title=Curriculum Vita ‐ David Card |url=https://davidcard.berkeley.edu/cv.pdf |access-date=17 October 2021}}</ref>
+|field             = [[Labour economics]]
+|institution       = [[University of California, Berkeley]]
+|alma_mater        = [[Queen's University at Kingston|Queen's University]] ([[Bachelor of Arts|BA]])<br>[[Princeton University]] ([[Master of Arts|MA]], [[Doctor of Philosophy|PhD]])
+|doctoral_advisor  = [[Orley Ashenfelter]]<ref>{{Cite web|url=http://www.edubilla.com/award/bbva-foundation-frontiers-of-knowledge-award/david-card/|title=David Card|website=Edubilla.com}}</ref>
+|doctoral_students = [[Thomas Lemieux]]<br>[[Phillip Levine|Phillip B. Levine]]<br>[[Christoph M. Schmidt]]<br>[[Michael Greenstone]]<br>[[Jesse Rothstein]]<br>[[Philip Oreopoulos]]<br>[[David Lee (economist)|David Lee]]<br>[[Alexandre Mas]]<br>[[Janet Currie]]<br>[[Enrico Moretti]]<br>[[Heather Royer]]<br>[[Elizabeth Cascio]]<br>[[Ethan G. Lewis]]
+|repec_prefix     = f
+|repec_id         = pca271
+|awards           = [[John Bates Clark Medal]] (1995)<br>[[Frisch Medal]] (2008)<br>[[BBVA Foundation Frontiers of Knowledge Award]] (2014)<br>[[Nobel Memorial Prize in Economic Sciences]] (2021)
+|module           = 
+  {{Infobox academic | child = yes
+  | thesis_title       = Indexation in Long Term Labor Contracts
+  | thesis_url         = https://www.proquest.com/docview/303177959/
+  | thesis_year        = 1983
+  }}
+}}
+
+'''David Edward Card''' (born 1956) is a [[Canadian-American]]<ref>{{cite web |last1=Bailey |first1=Ian |title=Canadian economist David Card’s research on minimum wage wins Nobel Prize |url=https://www.theglobeandmail.com/canada/article-canadian-economist-david-cards-research-on-minimum-wage-wins-nobel/ |website=The Globe and Mail |access-date=17 October 2021 |date=12 October 2021 |quote=Prof. Card remains a Canadian citizen. His family still lives on the farm where he grew up.}}</ref> [[labour economics|labour]] [[economist]] and professor of economics at the [[University of California, Berkeley]]. He was awarded half of the 2021 [[Nobel Memorial Prize in Economic Sciences]] "for his empirical contributions to [[labour economics]]", with [[Joshua Angrist]] and [[Guido Imbens]] jointly awarded the other half.<ref name="nobelprize.summary">{{Cite web|url=https://www.nobelprize.org/prizes/economic-sciences/2021/summary/|archiveurl=http://archive.today/20211011100030/https://www.nobelprize.org/prizes/economic-sciences/2021/summary/|archive-date=October 11, 2021|url-status=live|title=The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2021|website=NobelPrize.org}}</ref><ref name="ap2021">{{cite news |title=Canadian-born David Card among 3 winners of Nobel in economics |url=https://www.cbc.ca/news/world/nobel-economics-1.6207162 |access-date=October 11, 2021 |agency=The Associated Press |publisher=CBC News |date=October 11, 2021}}</ref>
+
+==Early life and career==
+David Card was born in [[Guelph]], Ontario, in 1956.<ref>{{Cite web|title=David Card – Facts|url=https://www.nobelprize.org/prizes/economic-sciences/2021/card/facts/|url-status=live|access-date=October 11, 2021|publisher=[[Nobel Prize]]|language=en-US}}</ref> His parents were dairy farmers.<ref name="NYT06"/> Card earned his [[Bachelor of Arts]] degree from [[Queen's University at Kingston|Queen's University]] in 1978 and his [[Doctor of Philosophy|Ph.D.]] degree in [[economics]] in 1983 from [[Princeton University]], after completing a doctoral dissertation, titled "Indexation in long term labor contracts", under the supervision of [[Orley Ashenfelter]].<ref>{{cite news |last1=Kagan |first1=Sam |last2=Fazel-Zarandi |first2=Mahya |title=Card GS '83, Angrist GS '89 win Nobel Prize in Economics |url=https://www.dailyprincetonian.com/article/2021/10/card-angrist-economics-nobel-prize-princeton |access-date=October 11, 2021 |work=Daily Princetonian |date=October 11, 2021}}</ref><ref name="thesis-card-1983">{{cite thesis |title=Indexation in Long Term Labor Contracts |date=1983 |institution= Princeton University |degree=Ph.D. |last=Card |first=David Edward |id={{ProQuest|303177959}} |oclc=82114591}}</ref>
+
+Card began his career at the [[University of Chicago Graduate School of Business]], where he was Assistant Professor of Business Economics for 2 years. He was on the faculty at [[Princeton University]] from 1983 to 1997, before moving to Berkeley; from 1990 to 1991 he served as a visiting professor at [[Columbia University]].<ref name="cv">{{cite web |title=Curriculum Vita ‐ David Card |url=http://davidcard.berkeley.edu/cv.pdf |access-date=December 29, 2019 |date=January 2018}}</ref> From 1988 to 1992, Card was Associate [[Editing|Editor]] of the ''Journal of Labor Economics'' and from 1993 to 1997, he was co-editor of ''[[Econometrica]]''. From 2002 to 2005, he was co-editor of ''[[The American Economic Review]]''.<ref name="cv"/>
+
+==Academic work==
+In the early 1990s, Card received much attention for his finding, together with his then [[Princeton University]] colleague [[Alan B. Krueger]] that, contrary to widely accepted beliefs among economists, the [[minimum wage]] increase in [[New Jersey]] did not result in job reduction of [[fast food]] companies in that state.<ref>{{cite journal |first1=David |last1=Card |first2=Alan B. |last2=Krueger |year=1994 |title=Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania |journal=[[American Economic Review]] |volume=84 |issue=4 |pages=772–793 |jstor=2118030| url=https://davidcard.berkeley.edu/papers/njmin-aer.pdf }}</ref><ref>{{cite book |title=Myth and Measurement: The New Economics of the Minimum Wage |first1=David E. |last1=Card |first2=Alan B. |last2=Krueger |publisher=Princeton University Press |year=1997 |isbn=978-0-691-04823-9 |url=https://archive.org/details/mythmeasurement00davi }}</ref><ref name="ap2021" /> While the methodology (see [[difference in differences]]) and its claim have been disputed (see [[minimum wage]] for discussion), later studies of minimum wage increases have tended to confirm Card and Krueger's findings<ref>{{cite journal| last1=Dube| first1=Arindrajit| last2=Lester| first2=T. William| last3=Reich| first3=Michael| title=Minimum Wage Effects Across State Borders: Estimates Using Contiguous Counties| date=November 2010| work=Institute for Research on Labor and Employment| url=https://irle.berkeley.edu/files/2010/Minimum-Wage-Effects-Across-State-Borders.pdf}}</ref>, and many economists, including [[Joseph E. Stiglitz|Joseph Stiglitz]] and [[Paul Krugman]],<ref>{{Cite web|url=https://www.nytimes.com/2015/07/17/opinion/paul-krugman-liberals-and-wages.html|title=Opinion &#124; Liberals and Wages|first=Paul|last=Krugman|date=July 17, 2015|via=NYTimes.com}}</ref> accept these findings.<ref>{{cite journal |first=Joseph |last=Stiglitz |year=2002 |url=http://www2.gsb.columbia.edu/faculty/jstiglitz/download/2002_Emploi_justice_sociale.pdf |title=Employment, social justice and societal well-being |journal=International Labour Review |volume=141 |issue=1–2 |pages=9–29 |doi=10.1111/j.1564-913x.2002.tb00229.x |url-status=dead |archive-url=https://web.archive.org/web/20060725114900/http://www2.gsb.columbia.edu/faculty/jstiglitz/download/2002_Emploi_justice_sociale.pdf |archive-date=July 25, 2006 |citeseerx=10.1.1.24.3670 }}</ref>
+
+David Card has also made contributions to research on [[immigration]],<ref>Card, David. [http://www.phil.frb.org/econ/conf/immigration/card.pdf "Is the new immigration really so bad?"], Federal Reserve Bank of Philadelphia.</ref> education,<ref>Card, David. [http://www.csuchico.edu/pub/inside/archive/98_02_26/card.html "Is it worth it to go to college?"] {{Webarchive|url=https://web.archive.org/web/20060314190907/http://www.csuchico.edu/pub/inside/archive/98_02_26/card.html |date=March 14, 2006 }}</ref> job training and inequality. Much of Card's work centers on a comparison between the United States and Canada in various situations. On immigration, Card's research has shown that the economic impact of new immigrants is minimal. Card has done several case studies on the rapid assimilation of immigrant groups, finding that they have little or no impact on wages. For example, Card studied the economic impacts of the [[Mariel boatlift]], and compared the economic effects in Miami to those in Atlanta, Houston, Los Angeles and Tampa, which receive fewer Cuban immigrants.<ref name="NYT06"/> Card found that despite the drastic increase in low-skilled labor in Miami by 7%, wages for the low-skilled workers were not significantly affected. Furthermore, he found that overall unemployment rates and wages for the labor market as a whole in Miami were unchanged by the sudden influx of immigrants.<ref name="CPR"/><ref name="NYT06"/> In an interview with ''[[The New York Times]]'', Card said, "I honestly think the economic arguments [against immigration] are second order. They are almost irrelevant."<ref name="NYT06">"[https://www.nytimes.com/2006/07/09/magazine/the-immigration-equation.html The Immigration Equation]" by [[Roger Lowenstein]]. ''The New York Times Magazine'', July 9, 2006</ref> This does not imply, however, that Card believes immigration should be increased, merely that immigrants do not pose a threat to the labour market.<ref name="NYT06"/>
+
+Despite the fact that Card sometimes researches issues with strong political implications, he does not publicly take a stand on political issues or make policy suggestions. Nevertheless, his work is regularly cited in support of increased immigration and [[minimum wage]] legislation.<ref>{{cite news |last1=Lowenstein |first1=Roger |title=Why the Next President Should Raise the Minimum Wage |url=https://fortune.com/2016/02/29/why-the-next-president-should-raise-the-minimum-wage/ |access-date=October 11, 2021 |work=Fortune |issue=February 29, 2016}}</ref><ref name="CPR">{{cite news |last1=Pellow |first1=Nicholas |title=Immigration and Jobs: David Card's Influential Study |url=https://chicagopolicyreview.org/2017/06/16/immigration-and-jobs-david-cards-influential-study/ |access-date=October 11, 2021 |work=Chicago Policy Review |date=June 16, 2017}}</ref>
+
+==Awards==
+He was the recipient of the 1995 [[John Bates Clark Medal]], awarded to "that American economist under the age of forty who is judged to have made the most significant contribution to economic thought and knowledge" for his work related to the minimum wage as well as the economic effects of the [[Mariel boatlift]].<ref name="NYT06"/> He gave the 2009 [[Richard T. Ely]] Lecture of the [[American Economic Association]] in [[San Francisco]]. A 2011 survey of economics professors named Card their fifth favorite living economist under the age of 60.<ref>https://econjwatch.org/file_download/487/DavisMay2011.pdf</ref> Along with [[N. Gregory Mankiw]], he was elected vice president of the American Economic Association for 2014.<ref>{{cite web |last1=Lempinen |first1=Edward |last2=Anwar |first2=Yasmin |title=UC Berkeley's David Card wins 2021 Nobel Prize in economics |url=https://www.universityofcalifornia.edu/news/uc-berkeley-s-david-card-wins-2021-nobel-prize-economics |publisher=UC Berkeley |access-date=October 11, 2021 |date=October 11, 2021}}</ref>
+
+He has received along with [[Richard Blundell]] the 2014 [[BBVA Foundation Frontiers of Knowledge Award]] in Economics, Finance and Management category for "their contributions to empirical microeconomics," in the words of the jury's citation. "Motivated by important empirical questions, they developed and estimated appropriate econometric models, making significant methodological contributions in the process. Both are known for their attention to institutional detail, careful and innovative research design, rigorous application of econometric tools, and dispassionate reporting of results."<ref>{{cite web |title=BBVA Foundation Awards Prof. Richard Blundell Frontiers of Knowledge Award |url=https://www.ucl.ac.uk/economics/news/2015/feb/bbva-foundation-awards-prof-richard-blundell-frontiers-knowledge-award |publisher=UCL Department of Economics |access-date=October 11, 2021 |date=February 17, 2015}}</ref>
+
+Card was elected as a member of the U.S. [[National Academy of Sciences]] in 2021.<ref>{{Cite web|title=2021 NAS Election|url=http://www.nasonline.org/news-and-multimedia/news/2021-nas-election.html|access-date=April 27, 2021|website=www.nasonline.org}}</ref> He won the Nobel Memorial Prize for Economic Sciences in 2021.<ref name="ap2021"/>
+
+==Publications==
+===Books===
+* {{cite book |date= 2013 |editor1-last= Card |editor1-first= David |editor2-last= Raphael |editor2-first= Steven |editor2-link= Steven Raphael |title= Immigration, Poverty, and Socioeconomic Inequality |location= New York |publisher= [[Russell Sage Foundation]] |isbn= 9780871544988 }}
+* {{cite book |last1= Card |first1= David |last2= Krueger |first2= Alan B. |author-link2= Alan B. Krueger |date= 2011 |editor1-last= Akee |editor1-first= Randall K. Q. |editor2-last= Zimmermann |editor2-first= Klaus F. |title= Wages, School Quality, and Employment Demand |series= IZA Prize in Labor Economics Series |location= Oxford |publisher= [[Oxford University Press]] |isbn= 9780199693382 }}
+* {{cite book |date= 2011 |editor1-last= Ashenfelter |editor1-first= Orley |editor1-link= Orley Ashenfelter |editor2-last= Card |editor2-first= David |title= Handbook of Labor Economics |series= Handbook of Labor Economics |volume= 4A |location= Amsterdam |publisher= [[Elsevier]] |isbn= 9780444534507 }}
+* {{cite book |date= 2011 |editor1-last= Ashenfelter |editor1-first= Orley |editor2-last= Card |editor2-first= David |title= Handbook of Labor Economics |series= Handbook of Labor Economics |volume= 4B |location= Amsterdam |publisher= Elsevier |isbn= 9780444534521 }}
+* {{cite book |date= 2006 |editor1-last= Auerbach |editor1-first= Alan J. |editor1-link= Alan J. Auerbach |editor2-last= Card |editor2-first= David |editor3-last= Quigley |editor3-first= John M. |title= Poverty, The Distribution of Income , and Public Policy |location= New York |publisher= Russell Sage Foundation |isbn= 9780871540461 |url-access= registration |url= https://archive.org/details/publicpolicyinco0000unse }}
+* {{cite book |date= 2004 |editor1-last= Card |editor1-first= David |editor2-last= Blundell |editor2-first= Richard |editor2-link= Richard Blundell |editor3-last= Freeman |editor3-first= Richard B. |editor3-link= Richard B. Freeman |title= Seeking a Premier Economy: The Economic Effects of British Economic Reforms, 1980–2000 |series= National Bureau of Economic Research Comparative Labor Markets Series |location= Chicago |publisher= [[University of Chicago Press]] |isbn= 9780226092843 }}
+* {{cite book |date= 2000 |editor1-last= Card |editor1-first= David |editor2-last= Blank |editor2-first= Rebecca M. |editor2-link= Rebecca M. Blank |title= Finding Jobs: Work and Welfare Reform |location= New York |publisher= Russell Sage Foundation |isbn= 9780871541161 }}
+* {{cite book |date= 1999 |editor1-last= Ashenfelter |editor1-first= Orley C. |editor2-last= Card |editor2-first= David |title= Handbook of Labor Economics |series= Handbook of Labor Economics |volume= 3A |location= Amsterdam |publisher= Elsevier |isbn= 9780444501875 }}
+* {{cite book |date= 1999 |editor1-last= Ashenfelter |editor1-first= Orley C. |editor2-last= Card |editor2-first= David |title= Handbook of Labor Economics |series= Handbook of Labor Economics |volume= 3B |location= Amsterdam |publisher= Elsevier |isbn= 9780444501882 }}
+* {{cite book |date= 1999 |editor1-last= Ashenfelter |editor1-first= Orley C. |editor2-last= Card |editor2-first= David |title= Handbook of Labor Economics |series= Handbook of Labor Economics |volume= 3C |location= Amsterdam |publisher= Elsevier |isbn= 9780444501899 }}
+* {{cite book |last1= Card |first1= David |last2= Krueger |first2= Alan B. |date= 1995 |title= Myth and Measurement: The New Economics of the Minimum Wage |url= https://archive.org/details/mythmeasurement00davi |url-access= registration |edition= 1st |location= Princeton |publisher= [[Princeton University Press]] |isbn= 9780691043906 }}
+
+::{{cite book |last1= Card |first1= David |last2= Krueger |first2= Alan B. |date= 2016 |title= Myth and Measurement: The New Economics of the Minimum Wage |edition= Twentieth-Anniversary |location= Princeton |publisher= Princeton University Press |isbn= 9780691169125 }}
+
+* {{cite book |date= 1993 |editor1-last= Card |editor1-first= David |editor2-last= Freeman |editor2-first= Richard B. |title= Small Differences that Matter: Labor Markets and Income Maintenance in Canada and the United States |series= National Bureau of Economic Research Comparative Labor Markets Series |location= Chicago |publisher= University of Chicago Press |isbn= 9780226092836 |url= https://archive.org/details/smalldifferences0000unse }}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Scholia}}
+* [http://davidcard.berkeley.edu/index.html David Card's homepage] at the UC Berkeley Department of Economics
+* [http://cle.berkeley.edu David Card, Director, Center for Labor Economics] at the UC Berkeley Center for Labor Economics
+* [http://www.minneapolisfed.org/publications_papers/pub_display.cfm?id=3190 Interview with David Card], The Region, Federal Reserve Bank of Minneapolis, December 1, 2006
+* {{Google scholar id}}
+* {{nobelprize}}
+
+{{s-start}}
+{{s-aca}}
+{{s-bef|before=[[Janet Yellen]]}}
+{{s-ttl|title=President of the [[American Economic Association]]|years=2021–present}}
+{{s-inc}}
+{{s-end}}
+
+{{Nobel Memorial Prize in Economic Sciences laureates}}
+{{2021 Nobel Prize winners}}
+{{John Bates Clark Medal recipients}}
+{{Frisch Medal recipients}}
+{{Presidents of the American Economic Association}}
+{{Authority control}}
+
+{{DEFAULTSORT:Card, David}}
+[[Category:1956 births]]
+[[Category:Canadian economists]]
+[[Category:Education economists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Labor economists]]
+[[Category:Living people]]
+[[Category:Microeconometricians]]
+[[Category:Migration economists]]
+[[Category:Nobel laureates in Economics]]
+[[Category:Presidents of the American Economic Association]]
+[[Category:Princeton University alumni]]
+[[Category:Princeton University faculty]]
+[[Category:Queen's University at Kingston alumni]]
+[[Category:University of California, Berkeley College of Letters and Science faculty]]
+[[Category:University of Chicago faculty]]
+[[Category:Columbia University faculty]]

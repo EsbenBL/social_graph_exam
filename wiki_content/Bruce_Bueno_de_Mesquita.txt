@@ -1,0 +1,120 @@
+{{Use mdy dates|date=June 2017}}
+{{Infobox academic
+| honorific_prefix   = <!-- see [[MOS:HONOURIFIC]] -->
+| name               = Bruce Bueno de Mesquita
+| honorific_suffix   = 
+| image              = Bruce Bueno de Mesquita.jpg
+| image_size         = 
+| alt                = 
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| birth_name         = <!-- use only if different from full/othernames -->
+| birth_date         = {{birth date and age|1946|11|24}}<!-- {{birth date and age|YYYY|MM|DD}}  -->
+| birth_place        = 
+| death_date         = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place        = 
+| death_cause        = 
+| region             = 
+| nationality        = 
+| citizenship        = [[Americans|American]]
+| residence          = 
+| other_names        = 
+| occupation         = 
+| period             = 
+| known_for          = 
+| title              = 
+| boards             = <!--board or similar positions extraneous to main occupation-->
+| spouse             = 
+| children           = 
+| parents            =
+| relatives          =
+| awards             = <!--notable national level awards only-->
+| website            = https://as.nyu.edu/content/nyu-as/as/faculty/bruce-bueno-de-mesquita.html
+| education          = 
+| alma_mater         = [[University of Michigan]]<!--will often consist of the linked name of the last-attended higher education institution-->
+| thesis_title       = 
+| thesis_url         = 
+| thesis_year        = 
+| school_tradition   = 
+| doctoral_advisor   = 
+| academic_advisors  = 
+| influences         = <!--must be referenced from a third party source-->
+| era                = 
+| discipline         = [[Political science]]<!--major academic discipline – e.g. Physicist, Sociologist, New Testament scholar, Ancient Near Eastern Linguist-->
+| sub_discipline     = <!--academic discipline specialist area – e.g. Sub-atomic research, 20th Century Danish specialist, Pauline research, Arcadian and Ugaritic specialist-->
+| workplaces         = [[New York University]], [[Hoover Institution]]<!--full-time positions only, not student positions-->
+| doctoral_students  = <!--only those with WP articles-->
+| notable_students   = <!--only those with WP articles-->
+| main_interests     = 
+| notable_works      = 
+| notable_ideas      = [[Selectorate theory]]
+| influenced         = <!--must be referenced from a third party source-->
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| footnotes          = 
+}}
+'''Bruce Bueno de Mesquita''' ({{IPAc-en|m|ə|ˈ|s|k|iː|t|ə}}; born November 24, 1946) is a [[political scientist]], professor at [[New York University]], and senior fellow at [[Stanford University]]'s [[Hoover Institution]].
+
+==Biography==
+Bueno de Mesquita graduated from [[Stuyvesant High School]] in 1963{{citation needed|date=January 2021}}, earned his BA degree from [[Queens College, City University of New York|Queens College, New York]] in 1967 and then his MA and PhD from the [[University of Michigan]]. He specializes in [[international relations]], [[foreign policy]], and [[nation building]]. He is one of the originators of [[selectorate theory]], and was also the director of [[New York University]]'s Alexander Hamilton Center for [[Political Economy]] from 2006 to 2016.<ref>https://cap.stanford.edu/profiles/viewCV?facultyId=86047&name=Bruce_Bueno%20De%20Mesquita</ref>
+
+He was a founding partner at Mesquita & Roundell,<ref name=sm>{{cite web|last=Rehmeyer|first=Julie|title=Mathematical Fortune-Telling |url=http://www.sciencenews.org/view/generic/id/9041/title/Math_Trek__Mathematical_Fortune-Telling|work=ScienceNews|access-date=May 12, 2011}}</ref> until that company merged with his other company, Selectors, LLC, that used the selectorate model for macro-level policy analysis. Now, the company is called Selectors, LLC and uses both the forecasting model and the selectorate approach in consulting.
+
+Bueno de Mesquita is discussed in an August 16, 2009 Sunday ''[[New York Times Magazine]]'' article entitled "Can [[Game Theory]] Predict When Iran Will Get the Bomb?"<ref name="nyt">{{cite news|last=Thompson|first=Clive|title=Can Game Theory Predict When Iran Will Get the Bomb?|url=https://www.nytimes.com/2009/08/16/magazine/16Bruce-t.html|access-date=May 12, 2011|newspaper=New York Times|date=August 12, 2009}}</ref> In December 2008 he was also the subject of a [[History (U.S. TV channel)|History Channel]] two-hour special entitled "The Next [[Nostradamus]]" and has been featured on the 2021 [[Netflix]] series [[How to Become a Tyrant]].
+
+He is the author of many books, including [[The Dictator's Handbook]], co-authored with [https://wp.nyu.edu/alastairsmith/ Alastair Smith], and the forthcoming book [https://www.hachettebookgroup.com/titles/bruce-bueno-de-mesquita/the-invention-of-power/9781541768758/ The Invention of Power] (January 2022).
+
+== Work in Forecasting ==
+Into the early 2000s, Bueno de Mesquita was known for his development of an expected utility model (EUM) capable of predicting the outcome of policy events over a unidimensional policy space.<ref name=":0">{{Cite book|last=Mesquita|first=Bruce Bueno de|url=https://books.google.com/books?id=5t9dvgAACAAJ|title=Predicting Politics|date=2002|publisher=Ohio State University Press|isbn=978-0-8142-0898-4|language=en}}</ref> His EUM used [[Duncan Black]]'s [[median voter theorem]] to calculate the median voter position of an N-player bargaining game and solved for the median voter position as the outcome of several bargaining rounds using other ad-hoc components in the process.
+
+The first implementation of the EUM was used to successfully predict the successor of Indian Prime Minister Y. B. Chavan after his government collapsed (this was additionally the first known time the model was tested). Bueno de Mesquita's model not only correctly predicted that Charan Singh would become prime minister (a prediction that few experts in Indian politics at the time predicted) but also that Y. B. Chavan would be in Singh's cabinet, that Indira Gandhi would briefly support Chavan's government, and that the government would soon collapse (all events that did occur). From the early success of his model, Bueno de Mesquita began a long and continuing career of consulting using refined implementations of his forecasting model. A declassified assessment by the Central Intelligence Agency rated his model as being 90 percent accurate.<ref>{{Cite web|last=Mesquita|first=Bruce Bueno de|title=Recipe for Failure|url=https://foreignpolicy.com/2009/10/19/recipe-for-failure/|access-date=2021-02-02|website=Foreign Policy|language=en-US}}</ref>
+
+Since 2005 or so, Bueno de Mesquita developed a superior model, now known as the Predictioneer's Game or PG that forecasts in a multi-dimensional space, uses the Schofield mean voter theorem, and solves for [[Perfect Bayesian equilibrium|Perfect Bayesian Equilibrium]] in an N-player bargaining game that includes the possibility of coercion, essentially a greatly generalized version of the 2-player game in [https://yalebooks.yale.edu/book/9780300059229/war-and-reason War and Reason]. This model predicts significantly more accurately and does a substantially better job of identifying opportunities that players have to improve the outcome by exploiting uncertainties. This model is documented in ''A New Model for Predicting Policy Choices: Preliminary Tests'',<ref>{{Cite journal|last=Bueno de Mesquita|first=Bruce|date=2011-02-01|title=A New Model for Predicting Policy Choices: Preliminary Tests|url=https://doi.org/10.1177/0738894210388127|journal=Conflict Management and Peace Science|language=en|volume=28|issue=1|pages=65–87|doi=10.1177/0738894210388127|issn=0738-8942}}</ref> and discussed and applied to examples in ''The Predictioneer's Game''.<ref>{{Cite book|last=Bueno de Mesquita|first=Bruce|title=The Predictioneer's Game|publisher=[[Random House]]|year=2009}}</ref>
+
+Bueno de Mesquita's forecasting model have greatly contributed to the study of political events using forecasting methods, especially through his numerous papers that document elements of his models and predictions.<ref>{{Cite journal|last1=de Mesquita|first1=Bruce Bueno|last2=Organski|first2=A. F. K.|date=1992|title=A Mark in Time Saves Nein|url=https://www.jstor.org/stable/1601439|journal=International Political Science Review|volume=13|issue=1|pages=81–100|doi=10.1177/019251219201300106|jstor=1601439|s2cid=144560785|issn=0192-5121|hdl=2027.42/66924|hdl-access=free}}</ref><ref>{{Cite journal|last=de Mesquita|first=Bruce Bueno|date=1984|title=Forecasting Policy Decisions: An Expected Utility Approach to Post-Khomeini Iran|url=https://www.jstor.org/stable/418786|journal=PS|volume=17|issue=2|pages=226–236|doi=10.2307/418786|jstor=418786|issn=0030-8269}}</ref><ref>{{Cite journal|last=De Mesquita|first=Bruce Bueno|date=1985|title=The War Trap Revisited: A Revised Expected Utility Model|url=https://www.jstor.org/stable/1956125|journal=The American Political Science Review|volume=79|issue=1|pages=156–177|doi=10.2307/1956125|jstor=1956125|issn=0003-0554}}</ref><ref name=":0" /><ref>{{Cite journal|last=de Mesquita|first=Bruce Bueno|date=1990|title=Multilateral Negotiations: A Spatial Analysis of the Arab-Israeli Dispute|url=https://www.jstor.org/stable/2706779|journal=International Organization|volume=44|issue=3|pages=317–340|doi=10.1017/S0020818300035311|jstor=2706779|issn=0020-8183}}</ref><ref>{{Cite journal|last1=De Mesquita|first1=Bruce Bueno|last2=Moretti|first2=Lorenzo|last3=Ray|first3=Sabin|date=2013|title=The Power of Predictive Models|url=https://www.jstor.org/stable/24590817|journal=The Brown Journal of World Affairs|volume=19|issue=2|pages=27–35|jstor=24590817|issn=1080-0786}}</ref><ref>{{Cite journal|last=Bueno de Mesquita|first=Bruce|date=1990|title=Multilateral Negotiations: A Spatial Analysis of the Arab-Israeli Dispute|url=https://www.jstor.org/stable/2706779|journal=International Organization|volume=44|issue=3|pages=317–340|doi=10.1017/S0020818300035311|jstor=2706779|issn=0020-8183}}</ref> Bueno de Mesquita has published dozens of forecasts in academic journals. The entirety of his models have never been released to the general public.
+
+==Publications==
+* {{cite book|title=The War Trap|year=1981|pages=226|publisher=[[Yale University Press]]|location=New Haven|isbn=0-300-03091-6}}
+* ''Forecasting Political Events: The Future of Hong Kong'' (with David Newman and Alvin Rabushka). New Haven: Yale University Press, 1985. {{ISBN|9780300042795}} {{OCLC|11970890}}
+* ''Predicting Politics''. Columbus, OH: Ohio State University Press, 2002. {{ISBN|9780814259849}} {{OCLC|804351067}}
+* {{cite book|title=[[The Logic of Political Survival]]|year=2003|pages=480|publisher=[[MIT Press]]|location=Cambridge, Massachusetts|isbn=0-262-52440-6}} (with Alastair Smith, Randolph M. Siverson, James D. Morrow)
+* {{cite book|title=The Strategy of Campaigning: Lessons from Ronald Reagan and Boris Yeltsin|url=http://www.press.umich.edu/titleDetailDesc.do?id=93352|year=2007|pages=356|publisher=[[University of Michigan Press]]|location=Ann Arbor|isbn=978-0-472-03319-5}} (with Kiron K. Skinner, Serhiy Kudelia, Condoleezza Rice)
+* {{cite book|title=The Predictioneer's Game: Using the Logic of Brazen Self-Interest to See and Shape the Future|year=2009|pages=[https://archive.org/details/predictioneersga00buen/page/272 272]|publisher=[[Random House]]|isbn=978-1-4000-6787-9|oclc=290470064|url-access=registration|last=Bueno de Mesquita|first=Bruce|url=https://archive.org/details/predictioneersga00buen/page/272}}
+* {{cite book|title=[[The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics]]|year=2011|pages=272|publisher=[[Random House]]|isbn=9781610390446|oclc=701015473}}
+* [[Principles of International Politics]]. 2013.
+* {{cite book|title=[[The Spoils of War: Greed, Power, and the Conflicts That Made Our Greatest Presidents"]]|year=2016|pages=291|publisher=[[PublicAffairs]]|isbn=9781610396622}}
+*''[https://www.hachettebookgroup.com/titles/bruce-bueno-de-mesquita/the-invention-of-power/9781541768758/ The Invention of Power: Popes, Kings, and the Birth of the West]''. PublicAffairs. 2022. <nowiki>ISBN 9781541768758</nowiki>
+
+== Family ==
+Bueno de Mesquita has three children and six grandchildren. His son, Ethan Bueno de Mesquita, is a political scientist working at the Harris School of Public Policy at the University of Chicago.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://as.nyu.edu/politics/directory.bruce-bueno-de-mesquita.html Bruce Bueno de Mesquita's under faculty at NYU]
+* [http://www.hoover.org/bios/bdm.html Bruce Bueno de Mesquita's biography at Hoover]
+* [https://www.npr.org/templates/story/story.php?storyId=120201554 To See The Future, Use The Logic Of Self-Interest] – ''[[NPR]]'' audio clip
+* {{C-SPAN|brucebuenodemesquita}}
+* {{TED speaker}}
+** {{TED talk|bruce_bueno_de_mesquita_predicts_iran_s_future.html|Bruce Bueno de Mesquita predicts Iran's future}} (TED2009)
+* [http://magazine.good.is/articles/the-new-nostradamus The New Nostradamus] {{Webarchive|url=https://web.archive.org/web/20150930072215/http://magazine.good.is/articles/the-new-nostradamus |date=September 30, 2015 }} – on the use by Bruce Bueno de Mesquita of rational choice theory in political forecasting
+* [http://www.selectorsllc.com/examples  Example of Model Applied To Iran’s Nuclear Program] {{Webarchive|url=https://web.archive.org/web/20161011054625/http://www.selectorsllc.com/examples |date=October 11, 2016 }}
+* {{cite web|last=Roberts|first=Russ|title=Bruce Bueno de Mesquita Podcasts|url=http://www.econtalk.org/archives/_featuring/bruce_bueno_de_mesquita/|work=[[EconTalk]]|publisher=[[Library of Economics and Liberty]]|authorlink=Russ Roberts}}
+* [http://decision-making.moshe-online.com/criticism_of_bueno_de_mesquita.html Compilation of criticisms of Bueno de Mesquita's models]
+
+{{Recipients of the Karl Deutsch Award (International Studies Association)}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bueno de Mesquita, Bruce}}
+[[Category:Game theorists]]
+[[Category:Living people]]
+[[Category:1946 births]]
+[[Category:American political scientists]]
+[[Category:Queens College, City University of New York alumni]]
+[[Category:University of Michigan College of Literature, Science, and the Arts alumni]]
+[[Category:Scientists from New York City]]
+[[Category:New York University faculty]]
+[[Category:American people of Portuguese descent]]

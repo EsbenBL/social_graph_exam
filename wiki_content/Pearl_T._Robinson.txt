@@ -1,0 +1,68 @@
+{{Infobox scientist
+| honorific_prefix =
+| name        = Pearl T. Robinson
+| honorific_suffix =
+| native_name = 
+| native_name_lang = 
+| image       =         <!--(filename only, i.e. without "File:" prefix)-->
+| image_size  = 
+| alt         = 
+| caption     = 
+| birth_date  =         {{birth date |1945|07|04}}
+| birth_place = [[New Orleans, LA]]
+| death_date  =         <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates =  <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names = 
+| residence   = 
+| citizenship = 
+| nationality = 
+| fields      = [[Political science]]
+| workplaces  = [[Tufts University]]
+| patrons     = 
+| education   = 
+| alma_mater  = [[University of California, Davis]], [[Columbia University]]
+| thesis_title =     African traditional rulers and the modern state the linkage role of chiefs in the Republic of Niger
+| thesis_url  =         <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year =     1975
+| doctoral_advisor =    <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for   = 
+| influences  = 
+| influenced  = 
+| awards      = 2011 Teshome H. Gabriel Distinguished Africanist Award from the [[UC San Diego]] Research Center in African and African American Studies
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse      =         <!--(or | spouses = )-->
+| partner     =         <!--(or | partners = )-->
+| children    = 
+| signature   =         <!--(filename only)-->
+| signature_alt = 
+| website     =         <!--{{URL|www.example.com}}-->
+| footnotes   = 
+}}
+'''Pearl T. Robinson''' (born 1945) is an American professor of political science at [[Tufts University]].<ref>{{cite web|url=http://as.tufts.edu/politicalscience/people/faculty/robinson|title=Department of Political Science: Tufts University|last=|first=|date=|work=tufts.edu|accessdate=8 April 2016}}</ref> She has written dozens of books and articles on Africa and African Americans, including co-authoring and co-editing the book, ''Transformation and Resiliency in Africa'',<ref>Smith, E. & Johnson, V. (1986). The International Journal of African Historical Studies
+Vol. 19, No. 2, pp. 361-366 https://www.jstor.org/stable/219432</ref> with her co-editor [[Elliott Skinner]]. She was president of the [[African Studies Association]] from 2007–2008,<ref>{{cite web|url=https://africanstudies.org/about-the-asa/asa-board-of-directors/past-presidents-of-the-asa/|title=Past ASA Presidents|author=Funmi|date=|work=africanstudiesassociation.org|accessdate=8 April 2016}}</ref> and is a member of the [[Council on Foreign Relations]].<ref>{{cite web|url=http://www.cfr.org/about/membership/roster.html?letter=T|title=Membership Roster|work=Council on Foreign Relations|accessdate=8 April 2016|archive-url=https://web.archive.org/web/20160116185757/http://www.cfr.org/about/membership/roster.html?letter=T|archive-date=16 January 2016|url-status=dead}}</ref> Her chapter ''Area Studies in Search of Africa'' from ''The Politics of Knowledge: Area Studies and the Disciplines'' was included in 4th edition of ''The African Studies Companion.''<ref>Zell, H. M. (2006). [http://www.worldcat.org/title/african-studies-companion-a-guide-to-information-sources/oclc/937199287 The African studies companion : a guide to information sources] (4th rev. and expanded ed.). Lochcarron: Hans Zell Pub.</ref>
+
+==References==
+{{Reflist}}
+{{Authority control}}
+
+{{DEFAULTSORT:Robinson, Pearl T.}}
+[[Category:Tufts University faculty]]
+[[Category:American women political scientists]]
+[[Category:American political scientists]]
+[[Category:1945 births]]
+[[Category:Living people]]
+[[Category:African-American studies scholars]]
+[[Category:Columbia University alumni]]
+[[Category:People from New Orleans]]
+[[Category:University of California, Davis alumni]]
+[[Category:American women academics]]
+
+
+{{US-polisci-bio-stub}}

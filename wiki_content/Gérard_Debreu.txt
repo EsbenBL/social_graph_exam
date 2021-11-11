@@ -1,0 +1,159 @@
+{{Short description|French economist and mathematician}}
+{{Infobox economist
+| name             = Gérard Debreu
+| school_tradition = [[Walrasian economics]]
+
+| image            = Debreu, Gérard (1921-2004).jpeg
+| image_size       = 225px
+| caption          = Debreu in 1977
+| birth_date       = {{Birth date|df=yes|1921|07|04}}
+| birth_place      = [[Calais]], France
+| death_date       = {{Death date and age|df=yes|2004|12|31|1921|07|04}}
+| death_place      = [[Paris]], France
+| nationality      = [[France|French]]
+| institution      = [[University of California, Berkeley]]
+| field            = [[Mathematical economics]]
+| alma_mater       = [[École Normale Supérieure]]<br>[[University of Paris]]
+| doctoral_advisor = 
+| academic_advisors=
+| doctoral_students= [[Graciela Chichilnisky]]<br>[[Beth E. Allen]]<br>[[Xavier Vives]]
+| notable_students =
+| influences       = [[Léon Walras]] <br> [[Henri Cartan]] <br> [[Maurice Allais]]
+| influenced       = [[Jacques Drèze]] <br /> [[Stephen Smale]]
+| contributions    = [[General equilibrium]] <br /> [[utility theory]] <br /> [[topology|topological methods]] <br /> [[integration (mathematics)|integration]] of set-valued correspondences
+| awards           = [[Nobel Memorial Prize in Economics]] (1983)
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pde34
+}}
+'''Gérard Debreu''' ({{IPA-fr|dəbʁø|lang}}; 4 July 1921 – 31 December 2004) was a French-born [[economist]] and [[mathematician]]. Best known as a professor of [[economics]] at the [[University of California, Berkeley]], where he began work in 1962, he won the 1983 [[Nobel Memorial Prize in Economic Sciences]].<ref>{{cite news|last=Atlas|first=Riva D.|title=Gerard Debreu, 83, Dies; Won Nobel in Economics|date=6 January 2005|work=[[The New York Times]]|url=https://www.nytimes.com/2005/01/06/obituaries/06debreu.html?_r=0}}</ref>
+
+==Biography==
+His father was the business partner of his maternal grandfather in [[lace]] manufacturing, a traditional industry in [[Calais]]. Debreu was orphaned at an early age, as his father committed suicide and his mother died of natural causes.<ref>{{Cite journal | last = Düppe | first = Till | title = Gerard Debreu's secrecy: his life in order and silence | journal = [[History of Political Economy]] | volume = 44 | issue = 3 | pages = 413–449 | doi = 10.1215/00182702-1717239 | date = Fall 2012 }}</ref> Prior to the start of [[World War II]], he received his [[baccalauréat]] and went to [[Ambert]] to begin preparing for the entrance examination of a [[grande école]]. Later on, he moved from [[Ambert]] to [[Grenoble]] to complete his preparation, both places being in [[Vichy France]] during World War II. In 1941, he was admitted to the [[École Normale Supérieure]] in Paris, along with {{Interlanguage link multi|Marcel Boiteux|fr}}. He was influenced by [[Henri Cartan]] and the [[Nicolas Bourbaki|Bourbaki]] writers. When he was about to take the final examinations in 1944, the [[Normandy landings]] occurred and he, instead, enlisted in the French army. He was transferred for training to [[French Algeria|Algeria]] and then served in the occupying French forces in Germany until July 1945. Debreu passed the Agrégation de Mathématiques exams at the end of 1945 and the beginning of 1946. By this time, he had become interested in economics, particularly in the [[general equilibrium theory]] of [[Léon Walras]]. From 1946 to 1948, he was an assistant in the [[Centre National de la Recherche Scientifique]]. During these two and a half years, he made the transition from mathematics to economics. In 1948, Debreu went to the United States on a [[Rockefeller Fellowship]] which allowed him to visit several American universities, as well as those in [[Uppsala University|Uppsala]] and [[Oslo University|Oslo]] in 1949–50.
+
+Debreu married Françoise Bled in 1946 and they had two daughters, Chantal and Florence, born in 1946 and 1950 respectively.
+
+Debreu died in Paris at the age of 83 of natural causes on [[New Year's Eve]], 2004.
+
+==Academic career==
+Debreu began working as a Research Associate and joined the [[Cowles Commission]] at the [[University of Chicago]] in the summer of 1950. He remained there for five years, returning to Paris periodically.
+
+In 1954, he published a breakthrough paper, entitled ''Existence of an Equilibrium for a Competitive Economy'', together with [[Kenneth Arrow]], in which they provided a definitive mathematical proof of the existence of a [[general equilibrium]], using [[topology|topological]] rather than [[calculus]]-based methods.
+
+In 1955, he moved to [[Yale University]].
+
+In 1959, he published his classical monograph, ''Theory of Value: An Axiomatic Analysis of Economic Equilibrium'' (Cowles Foundation Monographs Series), which is one of the most important works in [[mathematical economics]].<ref>{{cite book | last = Debreu | first = Gérard | title = The theory of value: an axiomatic analysis of economic equilibrium | publisher = [[Wiley-Blackwell|Wiley]] | location = New York | year = 1959 | url = http://digamo.free.fr/debreu59.pdf | oclc = 270657 }}</ref> He also studied several problems in the theory of [[cardinal utility]], in particular the additive [[decomposition]] of a [[utility function]] defined on a [[Cartesian product]] of sets.
+
+In this monograph, Debreu set up an [[axiom]]atic foundation for competitive markets. He also established the existence of an equilibrium using a novel approach. The main idea of his argument is to show that there exists a price system for which the [[aggregate demand|aggregate]] excess demand correspondence vanishes. He did so by proving a type of fixed-point theorem that is based on the [[Kakutani fixed-point theorem]]. In Chapter 7, Debreu introduced the concept of [[uncertainty]] and showed how it could be incorporated into the [[deterministic]] [[Economic model|model]]. Here, he introduced the notion of a [[Contingency (philosophy)|contingent]] [[commodity]], which is a promise to deliver a good should a certain state of nature be realized. This concept is very frequently used in [[financial economics]], where it is known as the "[[Arrow–Debreu security]]".
+
+In 1960–61, he worked at the Center for Advanced Study in the Behavioral Sciences at [[Stanford University|Stanford]] and devoted most of his time to the complex proof that appeared in 1962 of a general theorem on the existence of an economic equilibrium.
+
+In January 1962, he started working at the [[University of California, Berkeley]], where he held the titles of University Professor and Class of 1958 Professor of Economics and Mathematics Emeritus.
+
+During his sabbaticals in the late 1960s and 1970s, he visited universities in [[Leiden University|Leiden]], [[Cambridge University|Cambridge]], [[University of Bonn|Bonn]] and [[University of Paris|Paris]]. In 1987, he visited the [[University of Canterbury|University of Canterbury]] as an Erskine Fellow, lecturing in economic theory.<ref>https://www.youtube.com/watch?v=OcwfyELglmc</ref>
+
+His later studies centred mainly on the theory of [[differentiable function|differentiable]] economies, where he showed that, in general, aggregate [[excess demand function]]s vanish at a finite number of points – basically, he showed that economies have a finite number of price equilibria.
+
+In 1976, he received the French [[Legion of Honour]]. He was awarded the 1983 Bank of Sweden Prize in Economic Sciences in Memory of [[Alfred Nobel]], for having incorporated new analytical methods into economic theory and for his rigorous reformulation of [[general equilibrium theory]]. He was a member of the [[International Academy of Science, Munich|International Academy of Science]].
+
+In 1990, he served as President of the [[American Economic Association]].<ref>{{Cite journal | last = Debreu | first = Gérard | title = The mathematization of economic theory | journal = [[The American Economic Review]] | volume = 81 | issue = 1 | pages = 1–7 | jstor = 2006785 | date = March 1991 }} [http://cruel.org/econthought/texts/method/debr91.html Full text.]</ref>
+
+==Major publications==
+
+=== Books ===
+* {{cite book | last = Debreu | first = Gérard | title = The theory of value: an axiomatic analysis of economic equilibrium | publisher = [[Wiley-Blackwell|Wiley]] | location = New York | year = 1959 | url = http://digamo.free.fr/debreu59.pdf | oclc = 270657 }}
+* {{cite book | last = Debreu | first = Gérard | title = Mathematical economics: twenty papers of Gerard Debreu | publisher = Cambridge University Press | location = Cambridge Cambridgeshire New York | year = 1986 | isbn = 9780521335614 }}
+::''The twenty papers'': The coefficient of resource utilization · A social equilibrium existence theorem · A classical tax-subsidy problem · Existence of an equilibrium for a competitive economy (by ''Gérard Debreu'' and ''[[Kenneth J. Arrow]]'') · Valuation equilibrium and Pareto optimum · Representation of a preference ordering by a numerical function · Market equilibrium · Economics under uncertainty · Topological methods in cardinal utility theory · New concepts and techniques for equilibrium analysis · A limit theorem on the core of an economy (by ''Gérard Debreu'' and ''[[Herbert Scarf]]'') · Contuinity properties of Paretian utility · Neighboring economic agents · Economies with a finite set of equilibria · Smooth preferences · Excess demand functions · The rate of convergence of the core of an economy · Four aspects of the mathematical theory of economic equilibrium · The application to economics of differential topology and global analysis: differentiable economies · Least concave utility functions
+* {{cite book | last1 = Debreu | first1 = Gérard | last2 = Arrow | first2 = Kenneth J. | author-link2 = Kenneth Arrow | title = Landmark papers in general equilibrium theory, social choice and welfare | publisher = [[Edward Elgar Publishing]] | location = Cheltenham, UK Northampton, Massachusetts, USA | year = 2001 | isbn = 9781840645699 }}
+
+=== Book chapters ===
+* {{citation | last = Debreu | first = Gérard | contribution = Representation of a preference ordering by a numerical function | editor-last1 = Thrall | editor-first1 = Robert M. | editor-last2 = Coombs | editor-first2 = Clyde H. | editor-last3 = Raiffa | editor-first3 = Howard | editor-link2 = Clyde H. Coombs | editor-link3 = Howard Raiffa | title = Decision processes | pages = 159–167 | publisher = Wiley | location = New York | year = 1954 | oclc = 639321 | postscript = .}} [https://web.archive.org/web/20141217234911/http://cowles.econ.yale.edu/P/cp/p00b/p0097.pdf Pdf.]
+* {{citation | last = Debreu | first = Gérard | contribution = Topological methods in cardinal utility theory | editor-last1 = Arrow | editor-first1 = Kenneth J. | editor-last2 = Karlin | editor-first2 = Samuel | editor-last3 = Suppes | editor-first3 = Patrick | editor-link1 = Kenneth Arrow | editor-link2 = Samuel Karlin | editor-link3 = Patrick Suppes | title = Mathematical models in the social sciences, 1959: Proceedings of the first Stanford symposium | pages = 16–26 | publisher = Stanford University Press | location = Stanford, California | series = Stanford mathematical studies in the social sciences, IV | year = 1960 | isbn = 9780804700214 | postscript = .}} [http://cowles.yale.edu/sites/default/files/files/pub/d00/d0076.pdf Pdf.]
+* {{citation | last1 = Debreu | first1 = Gérard | last2 = Scarf | first2 = Herbert | author-link2 = Herbert Scarf | contribution = A limit theorem on the core of an economy | editor-last1 = McGuire | editor-first1 = C.B. | editor-last2 = Radner | editor-first2 = Roy | editor-link2 = Roy Radner | title = Decision and organization: a volume in honor of Jacob Marschak | pages = [https://archive.org/details/decisionorganiza0000unse/page/283 283–297] | publisher = North-Holland Pub. Co. | location = Amsterdam | year = 1972 | series = Studies in Mathematical and Managerial Economics Series (volume 12) | isbn = 9780720433135 | postscript = . | url = https://archive.org/details/decisionorganiza0000unse/page/283 }}
+* {{citation | last = Debreu | first = Gérard | contribution = Existence of competitive equilibrium | editor-last1 = Arrow | editor-first1 = Kenneth J. | editor-last2 = Intriligator | editor-first2 = Michael D. | editor-link1 = Kenneth Arrow | editor-link2 = Michael Intriligator | title = Handbook of mathematical economics | pages = 697–744 | publisher = Elsevier North-Holland | location = Amsterdam New York, New York | year = 1981 | series = [[Economics handbooks|Handbook of Economics Series]] | isbn = 9780444861269 | postscript = .}}
+
+=== Journal articles ===
+* {{Cite journal | last = Debreu | first = Gérard | title = The coefficient of resource utilization | journal = [[Econometrica]] | volume = 19 | issue = 3 | pages = 273–292 | doi = 10.2307/1906814 | jstor = 1906814 | date = July 1951 }} [http://lib.cufe.edu.cn/upload_files/other/3_20140520102931_The%20Coefficient%20of%20Resource%20Utilization.pdf Pdf.]
+* {{Cite journal | last = Debreu | first = Gérard | title = Definite and semidefinite quadratic forms | journal = [[Econometrica]] | volume = 20 | issue = 2 | pages = 295–300 | doi = 10.2307/1907852 | jstor = 1907852 | date = April 1952 }}
+* {{Cite journal | last = Debreu | first = Gérard | title = A social equilibrium existence theorem | journal = [[Proceedings of the National Academy of Sciences of the United States of America|Proceedings of the National Academy of Sciences]] | volume = 38 | issue = 10 | pages = 886–893 | jstor = 88720 | doi = 10.1073/pnas.38.10.886 | pmc = 1063675 | date = October 1952 | pmid=16589195| bibcode = 1952PNAS...38..886D | doi-access = free }} [http://www.pnas.org/content/38/10/886.full Full text.]
+* {{Cite journal | last1 = Debreu | first1 = Gérard | last2 = Herstein | first2 = Israel N. | author-link2 = Israel Nathan Herstein | title = Nonnegative square matrices | journal = [[Econometrica]] | volume = 21 | issue = 4 | pages = 597–607 | doi = 10.2307/1907925 | jstor = 1907925 | date = October 1953 }} [http://cowles.yale.edu/sites/default/files/files/pub/cdp/m-0417.pdf Pdf.]
+* {{Cite journal | last = Debreu | first = Gérard | title = A classical tax-subsidy problem | journal = [[Econometrica]] | volume = 22 | issue = 1 | pages = 14–22 | doi = 10.2307/1909828 | jstor = 1909828 | date = January 1954 }} [http://cowles.yale.edu/sites/default/files/files/pub/cdp/e-2020.pdf Pdf.]
+* {{Cite journal | last = Debreu | first = Gérard | title = Numerical representations of technological change | journal = Metroeconomica | volume = 6 | issue = 2 | pages = 45–54 | doi = 10.1111/j.1467-999X.1954.tb00485.x | date = June 1954 }}
+* {{Cite journal | last = Debreu | first = Gérard | title = Valuation equilibrium and Pareto optimum | journal = [[Proceedings of the National Academy of Sciences of the United States of America|Proceedings of the National Academy of Sciences]] | volume = 40 | issue = 7 | pages = 588–592 | jstor = 89325 | date = July 1954 | doi=10.1073/pnas.40.7.588| pmid = 16589528 | pmc = 528000 | bibcode = 1954PNAS...40..588D | doi-access = free }} [http://www.pnas.org/content/40/7/588.full.pdf Pdf.]
+* {{Cite journal | last1 = Debreu | first1 = Gérard | last2 = Arrow | first2 = Kenneth J. | author-link2 = Kenneth Arrow | title = Existence of an equilibrium for a competitive economy | journal = [[Econometrica]] | volume = 22 | issue = 3 | pages = 265–290 | doi = 10.2307/1907353 | jstor = 1907353 | date = July 1954 }} [https://web.stanford.edu/class/msande311/arrow-debreu.pdf Pdf.]
+* {{Cite journal | last = Debreu | first = Gérard | title = Market equilibrium | journal = [[Proceedings of the National Academy of Sciences of the United States of America|Proceedings of the National Academy of Sciences]] | volume = 42 | issue = 11 | pages = 876–878 | jstor = 89463 | date = November 1956 | doi=10.1073/pnas.42.11.876| pmid = 16589963 | pmc = 528356 | bibcode = 1956PNAS...42..876D | doi-access = free }} [http://www.pnas.org/content/42/11/876.full.pdf Pdf.]
+* {{Cite journal | last = Debreu | first = Gérard | title = Stochastic choice and cardinal utility | journal = [[Econometrica]] | volume = 26 | issue = 3 | pages = 440–444 | doi = 10.2307/1907622 | jstor = 1907622 | date = July 1958 | url = http://cowles.yale.edu/sites/default/files/files/pub/d00/d0039.pdf }} [http://cowles.yale.edu/sites/default/files/files/pub/d00/d0039.pdf Pdf.]
+* {{Cite journal | last = Debreu | first = Gérard | title = Cardinal utility for even-chance mixtures of pairs of sure prospects | journal = [[The Review of Economic Studies]] | volume = 26 | issue = 3 | pages = 174–177 | jstor = 2295745 | doi = 10.2307/2295745 | date = June 1959 | url = http://cowles.yale.edu/sites/default/files/files/pub/d00/d0057.pdf }} [http://cowles.yale.edu/sites/default/files/files/pub/d00/d0057.pdf Pdf.]
+* {{Cite journal | last = Debreu | first = Gérard | title = Une économique de l'incertain | trans-title = Economics under uncertainty | journal = Économie Appliquée | volume = 13 | issue = 1 | pages = 111–116 | date = 1960 | url = http://www.ismea.org/ismea/eapp.arch.html | url-status = dead | archive-url = https://web.archive.org/web/20160602143246/http://www.ismea.org/ISMEA/eapp.arch.html | archive-date = 2016-06-02 }}
+* {{Cite journal | last = Debreu | first = Gérard | title = On 'an identity in arithmetic' | journal = [[Proceedings of the American Mathematical Society]] | volume = 11 | issue = 2 | pages = 220–221 | doi = 10.2307/2032959 | jstor = 2032959 | date = April 1960 }} [https://www.ams.org/journals/proc/1960-011-02/S0002-9939-1960-0113862-7/S0002-9939-1960-0113862-7.pdf Pdf.]
+* {{Cite journal | last = Debreu | first = Gérard | title = New concepts and techniques for equilibrium analysis | journal = [[International Economic Review]] | volume = 3 | issue = 3 | pages = 257–273 | doi = 10.2307/2525394 | jstor = 2525394 | date = September 1962 | url = http://cowles.yale.edu/sites/default/files/files/pub/d01/d0129.pdf }} [http://www.dtic.mil/dtic/tr/fulltext/u2/296443.pdf Pdf.]
+* {{Cite journal | last1 = Debreu | first1 = Gérard | last2 = Scarf | first2 = Herbert | author-link2 = Herbert Scarf | title = A limit theorem on the core of an economy | journal = [[International Economic Review]] | volume = 4 | issue = 3 | pages = 235–246 | doi = 10.2307/2525306 | jstor = 2525306 | date = September 1963 }} [http://www.dtic.mil/dtic/tr/fulltext/u2/285997.pdf Pdf.]
+* {{Cite journal | last = Debreu | first = Gérard | title = On a theorem of Scarf | journal = [[The Review of Economic Studies]] | volume = 30 | issue = 3 | pages = 177–180 | jstor = 2296318 | doi = 10.2307/2296318 | date = October 1963 }}
+* {{Cite journal | last = Debreu | first = Gérard | title = Nonnegative solutions of linear inequalities | journal = [[International Economic Review]] | volume = 5 | issue = 2 | pages = 178–184 | doi = 10.2307/2525561 | jstor = 2525561 | date = May 1964 }}
+* {{Cite journal | last = Debreu | first = Gérard | title = Contuinity properties of Paretian utility | journal = [[International Economic Review]] | volume = 5 | issue = 3 | pages = 285–293 | doi = 10.2307/2525513 | jstor = 2525513 | date = September 1964 }} [http://lib.cufe.edu.cn/upload_files/other/3_20140520035941_Continuity%20properties%20of%20paretian%20utility.pdf Pdf.]
+* {{Cite journal | last = Debreu | first = Gérard | title = Integration of correspondences | journal = Proceedings of Fifth Berkeley Symposium on Mathematical Statistics and Probability, Part 1 | volume = 2 | pages = 351–372 | date = 1967 | url = https://projecteuclid.org/euclid.bsmsp/1200513280 }} [https://projecteuclid.org/download/pdf_1/euclid.bsmsp/1200513280 Pdf.]
+* {{Cite journal | last = Debreu | first = Gérard | title = Preference functions on measure spaces of economic agents | journal = [[Econometrica]] | volume = 35 | issue = 1 | pages = 111–122 | doi = 10.2307/1909386 | jstor = 1909386 | date = January 1967 }} 
+* {{Cite journal | last = Debreu | first = Gérard | title = Neighboring economic agents | journal = La Décision | volume = 171 | pages = 85–90 | date = 1969 | url = http://www.dgdr.cnrs.fr/reorganisation.htm | url-status = dead | archive-url = https://web.archive.org/web/20160221111955/http://www.dgdr.cnrs.fr/reorganisation.htm | archive-date = 2016-02-21 }}
+* {{Cite journal | last = Debreu | first = Gérard | title = Economies with a finite set of equilibria | journal = [[Econometrica]] | volume = 38 | issue = 3 | pages = 387–392 | doi = 10.2307/1909545 | jstor = 1909545 | date = May 1970 }} [http://darp.lse.ac.uk/PapersDB/Debreu_%28ECMET_70%29.pdf Pdf.]
+* {{Cite journal | last = Debreu | first = Gérard | title = Smooth preferences | journal = [[Econometrica]] | volume = 40 | issue = 4 | pages = 603–615 | doi = 10.2307/1912956 | jstor = 1912956 | date = July 1972 }} [http://219.219.114.96/cufe/upload_files/other/3_20140520040358_Smooth%20Preferences.pdf Pdf.]{{dead link|date=October 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+* {{Cite journal | last = Debreu | first = Gérard | title = Four aspects of the mathematical theory of economic equilibrium | journal = [[International Congress of Mathematicians|Proceedings of International Congress of Mathematicians]] | pages = 65–77 | date = 1974 | url = http://lib.cufe.edu.cn/upload_files/other/3_20140520040037_Four%20aspects%20of%20the%20mathematical%20theory%20of%20economic%20equilibrium.pdf }}
+* {{Cite journal | last = Debreu | first = Gérard | title = Excess demand functions | journal = [[Journal of Mathematical Economics]] | volume = 1 | issue = 1 | pages = 15–21 | doi = 10.1016/0304-4068(74)90032-9 | date = March 1974 }}
+* {{Cite journal | last = Debreu | first = Gérard | title = The rate of convergence of the core of an economy | journal = [[Journal of Mathematical Economics]] | volume = 2 | issue = 1 | pages = 1–7 | doi = 10.1016/0304-4068(75)90008-7 | date = March 1975 }}
+* {{Cite journal | last = Debreu | first = Gérard | title = The application to economics of differential topology and global analysis: regular differentiable economies | journal = The American Economic Review: Papers and Proceedings| volume = 66 | issue = 2 | pages = 280–287 | jstor = 1817234 | date = May 1976 }}
+* {{Cite journal | last = Debreu | first = Gérard | title = Least concave utility functions | journal = [[Journal of Mathematical Economics]] | volume = 3 | issue = 2 | pages = 121–129 | doi = 10.1016/0304-4068(76)90020-3 | date = July 1976 }}
+* {{Cite journal | last1 = Debreu | first1 = Gérard | last2 = Koopmans | first2 = Tjalling C. | author-link2 = Tjalling Koopmans | title = Additively decomposed quasiconvex functions | journal = [[Mathematical Programming]] | volume = 24 | issue = 1 | pages = 1–38 | doi = 10.1007/BF01585092 | date = December 1982 | s2cid = 206799604 | url = http://cowles.yale.edu/sites/default/files/files/pub/d05/d0574.pdf }}
+* {{Cite journal | last = Debreu | first = Gérard | title = Economic theory in the mathematical mode | journal = [[The American Economic Review]] | volume = 74 | issue = 3 | pages = 267–278 | jstor = 1804007 | date = June 1984 }} [https://web.archive.org/web/20130226160756/http://elaine.ihs.ac.at/~blume/debreuaer.pdf Pdf.]
+* {{Cite journal | last = Debreu | first = Gérard | title = Economic theory in the mathematical mode | journal = [[The Scandinavian Journal of Economics]] | volume = 86 | issue = 4 | pages = 393–410 | doi = 10.2307/3439651 | jstor = 3439651 | date = December 1984 }} [https://web.archive.org/web/20150610092118/http://svc.ac.in/files/Gerard%20Debreu-1983.pdf Pdf.]
+* {{Cite journal | last = Debreu | first = Gérard | title = Theoretic models: mathematical form and economic content | journal = [[Econometrica]] | volume = 54 | issue = 6 | pages = 1259–1270 | doi = 10.2307/1914299 | jstor = 1914299  | date = November 1986 }}
+* {{Cite journal | last = Debreu | first = Gérard | title = The mathematization of economic theory | journal = [[The American Economic Review]] | volume = 81 | issue = 1 | pages = 1–7 | jstor = 2006785 | date = March 1991 }} (Presidential address delivered at the&nbsp;103rd meeting of the American Economic Association,&nbsp;29 December&nbsp;1990, Washington,&nbsp;DC.) [http://cruel.org/econthought/texts/method/debr91.html Full text.]
+* {{Cite journal | last = Debreu | first = Gérard | title = Innovation and research: an economist's viewpoint on uncertainty | journal = Nobelists for the Future | date = 1994 }}
+* {{Cite journal | last1 = Debreu | first1 = Gérard | last2 = Buchanan | first2 = James M. | last3 = Klein | first3 = Lawrence R. | last4 = Friedman | first4 = Milton | last5 = Solow | first5 = Robert M. | author-link2 = James M. Buchanan | author-link3 = Lawrence Klein | author-link4 = Milton Friedman | author-link5 = Robert Solow | title = The most significant contributions to economics during the twentieth century: lists of the Nobel laureates | journal = The European Journal of the History of Economic Thought | volume = 8 | issue = 3 | pages = 289–297 | doi = 10.1080/09672560110062915 | date = Autumn 2001 | s2cid = 154302343 }}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikiquote}}
+{{commons category}}
+* {{Nobelprize}} including the Nobel Lecture December 8, 1983 ''Economic Theory in the Mathematical Mode''
+* [http://www.berkeley.edu/news/media/releases/2005/01/05_debreu.shtml Obituary for Debreu]
+* [http://www.oac.cdlib.org/findaid/ark:/13030/kt358025dk/ Guide to the Gérard Debreu Papers] at [[The Bancroft Library]]
+* [https://www.youtube.com/user/proudlydismal#p/a/f/0/FfztV7HQf_8 Lectures on Mathematical Economics from 1987 at University of Canterbury ] via YouTube
+* {{Cite journal | last = Düppe | first = Till | title = Gerard Debreu's secrecy: his life in order and silence | journal = [[History of Political Economy]] | volume = 44 | issue = 3 | pages = 413–449 | doi = 10.1215/00182702-1717239 | date = Fall 2012 }}
+* {{cite encyclopedia |title=Gerard Debreu (1921–2004) |url=http://www.econlib.org/library/Enc/bios/Debreu.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[George Stigler]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 1983 }}
+{{s-aft | after = [[Richard Stone]] }}
+{{s-end}}
+
+{{Neoclassical economists}}
+{{Nobel laureates in economics 1976-2000}}
+{{1983 Nobel Prize winners}}
+{{Presidents of the Econometric Society}}
+{{Presidents of the American Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Debreu, Gerard}}
+[[Category:1921 births]]
+[[Category:2004 deaths]]
+[[Category:People from Calais]]
+[[Category:French emigrants to the United States]]
+[[Category:French economists]]
+[[Category:Nobel laureates in Economics]]
+[[Category:Mathematical economists]]
+[[Category:Welfare economists]]
+[[Category:General equilibrium theorists]]
+[[Category:French Nobel laureates]]
+[[Category:American Nobel laureates]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:École Normale Supérieure alumni]]
+[[Category:University of California, Berkeley College of Letters and Science faculty]]
+[[Category:20th-century American economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Presidents of the American Economic Association]]
+[[Category:Distinguished Fellows of the American Economic Association]]

@@ -1,0 +1,56 @@
+{{short description|Wikipedia list article}}
+{{Refimprove|date=December 2015}}
+This is a list of notable [[economists]], [[mathematicians]], [[political scientists]], and [[computer scientists]] whose work has added substantially to the field of [[game theory]]. For a list of people in the field of video games rather than game theory, please see [[list of ludologists]].
+
+* [[Derek Abbott]] - [[quantum game theory]] and [[Parrondo's paradox|Parrondo's games]]
+* [[Susanne Albers]] - [[algorithmic game theory]] and algorithm analysis
+* [[Kenneth Arrow]] - voting theory ([[Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel]] 1972)
+* [[Robert Aumann]] - equilibrium theory ([[Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel]] 2005)
+* [[Robert Axelrod]] - repeated [[Prisoner's Dilemma]]
+* [[Tamer Başar]] - dynamic game theory and application [[robust control]] of systems with uncertainty
+* [[Cristina Bicchieri]] - [[epistemology]] of game theory
+* [[Olga Bondareva]] - [[Bondareva–Shapley theorem]]
+* [[Steven Brams]] - [[fair cake-cutting|cake cutting]], [[fair division]], [[theory of moves]]
+* [[Jennifer Tour Chayes]] - [[algorithmic game theory]] and [[auction algorithm]]s
+* [[John Horton Conway]] - combinatorial game theory
+* [[W.D. Hamilton|William Hamilton]] - [[evolutionary biology]]
+* [[John Harsanyi]] - equilibrium theory ([[Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel]] 1994)
+* [[Monika Henzinger]] - algorithmic game theory and [[information retrieval]]
+* [[Naira Hovakimyan]] - [[differential games]] and [[adaptive control]]
+* [[Peter L. Hurd]] - evolution of aggressive behavior
+* [[Rufus Isaacs (game theorist)|Rufus Isaacs]] - [[differential game]]s
+* [[Ehud Kalai]] - [[Kalai-Smorodinski bargaining solution]], rational learning, strategic complexity
+* [[Anna Karlin]] - [[algorithmic game theory]] and [[online algorithm]]s
+* [[Michael Kearns (computer scientist)|Michael Kearns]] - [[algorithmic game theory]] and [[computational social science]]
+* [[Sarit Kraus]] - [[non-monotonic reasoning]]
+* Ehud Lehrer - [[Repeated games]], approachability theory
+* [[John Maynard Smith]] - [[evolutionary biology]]
+* [[Oskar Morgenstern]] - social organization
+* [[John Forbes Nash]] - [[Nash equilibrium]] ([[Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel]] 1994)
+* [[John von Neumann]] - [[Minimax theorem]], expected utility, social organization, arms race
+* [[Abraham Neyman]] - [[Stochastic games]], [[Shapley value]]
+* [[J. M. R. Parrondo]] - games with a reversal of fortune, such as [[Parrondo's paradox|Parrondo's games]]
+* [[Charles E. M. Pearce]] - games applied to [[queuing theory]]
+* [[George R. Price]] - [[theoretical biology|theoretical]] and [[evolutionary biology]]
+* [[Anatol Rapoport]] - [[mathematical psychology|Mathematical psychologist]], early proponent of [[tit-for-tat]] in repeated [[Prisoner's Dilemma]]
+* [[Julia Robinson]] - proved that [[fictitious play]] dynamics converges to the [[mixed strategy]] [[Nash equilibrium]] in two-player [[zero-sum]] games
+* [[Alvin E. Roth]] - [[market design]]  ([[Nobel Memorial Prize in Economic Sciences]] 2012)
+* [[Ariel Rubinstein]] - bargaining theory, learning and language
+* [[Thomas Jerome Schaefer]] - computational complexity of perfect-information games
+* [[Suzanne Scotchmer]] - patent law incentive models
+* [[Reinhard Selten]] - bounded rationality  ([[Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel]] 1994)
+* [[Claude Shannon]] - studied [[cryptography]] and [[chess]]; sometimes called "the father of [[information theory]]"<ref>{{Cite journal | last1 = James | first1 = I. | author-link = Ioan James | doi = 10.1098/rsbm.2009.0015 | title = Claude Elwood Shannon 30 April 1916 – 24 February 2001 | journal = [[Biographical Memoirs of Fellows of the Royal Society]] | volume = 55 | pages = 257–265 | year = 2009 | doi-access = free }}</ref><ref name="Bell Labs acknowledgement">{{cite web|url=http://www.alcatel-lucent.com/wps/portal/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4w39w3RL8h2VAQAGOJBYA!!?LMSG_CABINET=Bell_Labs&LMSG_CONTENT_FILE=News_Features/News_Feature_Detail_000025|archive-url=https://web.archive.org/web/20120722011711/http://www.alcatel-lucent.com/wps/portal/%21ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4w39w3RL8h2VAQAGOJBYA%21%21?LMSG_CABINET=Bell_Labs&LMSG_CONTENT_FILE=News_Features%2FNews_Feature_Detail_000025|title=Bell Labs Advances Intelligent Networks|archive-date=July 22, 2012|url-status=dead|df=mdy-all}}</ref>
+* [[Lloyd Shapley]] - [[Shapley value]] and [[core (economics)|core]] concept in [[coalition]] games ([[Nobel Memorial Prize in Economic Sciences]] 2012)
+* [[Eilon Solan]] - [[Stochastic games]], stopping games
+* [[Thomas Schelling]] - bargaining ([[Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel]] 2005) and models of segregation
+* [[Nicolas Vieille]] - [[Stochastic games]]
+* [[Myrna Wooders]] - [[coalition]] theory
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Game theorists}}
+[[Category:Game theorists|*]]
+[[Category:Theorists]]
+[[Category:Lists of people by occupation]]
+[[Category:Lists of mathematicians by field]]

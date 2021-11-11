@@ -1,0 +1,49 @@
+{{short description|Danish financial economist (born 1972)}}
+<!-- EDIT BELOW THIS LINE -->
+{{Infobox economist
+|name              = Lasse H. Pedersen
+|image             =
+|birth_place= [[Copenhagen]], [[Denmark]]
+| nationality      = [[Denmark|Danish]]
+|field             = [[Financial Economics]]
+|alma_mater        = [[Stanford University Graduate School of Business]]<br/>[[University of Copenhagen]]
+|doctoral_advisor  = [[Darrell Duffie]], [[Kenneth Singleton]]
+|awards            =  [[Germán Bernácer Prize|Bernácer Prize]], [[Fama-DFA Prize]], [[Michael Brennan Award]]
+| repec_prefix      = e
+| repec_id          = ppe174
+}}
+
+'''Lasse Heje Pedersen''' (born October 3, 1972) is a Danish [[financial economics|financial economist]] known for his research on [[liquidity risk]] and [[asset pricing]]. He is Professor of Finance at the [[Copenhagen Business School]].<ref name="cv">{{cite web |title=Vita - Lasse H. Pedersen |url=http://www.lhpedersen.com/vita |accessdate=16 May 2020}}</ref> Before that, he held the position of a Professor of Finance and Alternative Investments at the [[New York University Stern School of Business]]. He has also served in the monetary policy panel and liquidity working group at the [[Federal Reserve Bank of New York]] and is a principal at [[AQR Capital Management]].
+
+He was the winner of the 2011 [[Germán Bernácer Prize]], awarded annually to the best European economist under the age of 40, for his original research contributions on how the interaction between market liquidity risk and funding liquidity risk can create liquidity spirals and systemic financial crises.<ref>{{Cite web |url=http://www.bernacerprize.org/2011_Pedersen |title=Archived copy |access-date=2012-05-27 |archive-url=https://web.archive.org/web/20120620074616/http://www.bernacerprize.org/2011_Pedersen |archive-date=2012-06-20 |url-status=dead }}</ref>
+
+==Education and academic career==
+After completing his bachelor's and master's degrees  in [[mathematics]] and [[economics]] at the [[University of Copenhagen]] in 1997, he went to [[Stanford University Graduate School of Business]] where he earned a Ph.D. in Finance in 2001, advised by [[Darrell Duffie]] and [[Kenneth Singleton]].<ref name="cv"/> Upon graduation he started as assistant professor at the [[New York University Stern School of Business]] where he got tenure in 2005 and held the position of John A. Paulson Professor of Finance and Alternative Investments from 2009 to 2014. He is currently Distinguished Visiting Research Professor at NYU and, since 2011, Professor of Finance at [[Copenhagen Business School]].
+
+His research has been cited by central bankers such as Fed Chairman [[Ben Bernanke]]<ref>http://www.federalreserve.gov/newsevents/speech/bernanke20120413a.htm</ref> and in the press, including ''[[The Economist]]'',<ref>https://www.economist.com/specialreports/displaystory.cfm?story_id=15474125</ref> ''[[The New York Times]]'',<ref>https://www.nytimes.com/2009/08/09/business/economy/09stra.html?_r=1</ref>
+''[[Forbes]],<ref>https://www.forbes.com/global/2009/0608/foreign-exchange-devaluation-buy-junky-currencies.html</ref>
+and ''[[The Financial Times]]''.<ref>http://www.ft.com/cms/s/0/8510b958-9aad-11e1-9c98-00144feabdc0.html</ref>
+
+==Work on market and funding liquidity risk==
+Lasse H. Pedersen's research shows that investors need to be compensated for incurring trading costs and the risk of rising trading costs. Therefore, securities with higher market liquidity risk have higher required return, as per the liquidity-adjusted CAPM.<ref>Viral Acharya and Lasse Heje Pedersen (2005), "Asset Pricing with Liquidity Risk," Journal of Financial Economics, 77, 375-410. http://pages.stern.nyu.edu/%7Elpederse/papers/liquidity_risk.pdf</ref>
+
+Further, many investors face funding constraints (e.g., leverage constraints and margin requirements), and funding liquidity problems affect security prices. Funding constraints raise the required return for securities with high margin requirements <ref>Nicolae Garleanu and Lasse Heje Pedersen (2011), "Margin-Based Asset Pricing and Deviations from the Law of One Price," The Review of Financial Studies, 24(6), 1980-2022. http://pages.stern.nyu.edu/%7Elpederse/papers/MarginPricingLoOP.pdf</ref> or low risk.<ref>Andrea Frazzini and Lasse Heje Pedersen (2010), "Betting Against Beta". http://pages.stern.nyu.edu/~lpederse/papers/BettingAgainstBeta.pdf</ref>
+
+His research shows how the interaction between market and funding liquidity risk can create  [[liquidity crisis|liquidity spirals and liquidity crises]].<ref>[[Markus Brunnermeier]] and Lasse H. Pedersen (2009), "Market Liquidity and Funding Liquidity," The Review of Financial Studies, 22, 2201-2238. http://pages.stern.nyu.edu/%7Elpederse/papers/Mkt_Fun_Liquidity.pdf</ref> Liquidity problems affect the macro economy and imply that monetary authorities can manage leverage and margin requirements as a second monetary tool.<ref>Adam Ashcraft, Nicolae Garleanu, and Lasse H. Pedersen (2010), "Two Monetary Tools: Interest Rates and Haircuts," NBER Macroeconomics Annual, 25, 143-180. http://pages.stern.nyu.edu/~lpederse/papers/TwoMonetaryTools.pdf</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://pages.stern.nyu.edu/~lpederse/ Homepage at NYU Stern]
+*[http://www.lhpedersen.com/home/ Private homepage]
+
+{{Authority control}}
+{{DEFAULTSORT:Pedersen, Lasse Heje}}
+[[Category:1972 births]]
+[[Category:Danish economists]]
+[[Category:Living people]]
+[[Category:Copenhagen Business School faculty]]
+[[Category:New York University faculty]]
+[[Category:University of Copenhagen alumni]]
+[[Category:Stanford University alumni]]

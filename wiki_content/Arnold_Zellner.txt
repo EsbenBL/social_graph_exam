@@ -1,0 +1,66 @@
+{{Short description|American economist and statistician}}
+{{Infobox scientist
+| name        = Arnold Zellner
+| image       =   <!--(filename only, i.e. without "File:" prefix)-->
+| imagesize   = 
+| alt         = 
+| caption     = 
+| birth_date  = {{birth date|1927|1|2|mf=y}}
+| birth_place = [[Brooklyn, New York]]
+| death_date  = {{death date and age|2010|8|11|1927|1|2|mf=y}}
+| death_place = [[Chicago, Illinois]]
+| nationality = [[United States|American]]
+| fields      = [[Statistics]], [[Econometrics]]
+| workplaces  = [[University of Chicago]]
+| alma_mater  = [[University of California, Berkeley]]<br>[[Harvard University]]
+| doctoral_advisor =  [[George Kuznets]]
+| doctoral_students = [[James B. Ramsey]]<br>[[Richard Roll]]<br>[[John H. Makin]]<br>[[Claude Montmarquette]]<br>[[Sanford J. Grossman]]<br>[[Franz Palm]]<br>[[Robert J. Hodrick]]<br>[[Charles Plosser]]<br>[[John M. Abowd]]<br>[[Jean-Marie Dufour]]<br>{{Interlanguage link multi|Greg Allenby|de}}
+| known_for   = [[Bayesian analysis]]<br>[[g-prior]]<br>[[Seemingly unrelated regressions]]
+| awards      = 
+}}
+
+'''Arnold Zellner''' (January 2, 1927 – August 11, 2010) was an American [[economist]] and [[statistician]] specializing in the fields of [[Bayesian probability]] and [[econometrics]]. Zellner contributed pioneering work in the field of [[Bayesian analysis]] and [[econometric model]]ing.
+
+In Bayesian analysis, Zellner not only provided many applications of it but also a new [[information theory|information-theoretic]] derivation of rules that are 100% efficient information processing rules — this class includes Bayes's theorem. In [[econometric modeling]], he, in association with [[Franz Palm]], developed the structural time-series approach for constructing new models and for checking the adequacy of old models. In addition, he was involved in many important applied econometric and statistical studies.
+
+Born in [[Brooklyn, New York]], to [[Ukrainian American|Ukrainian immigrant]] parents,<ref>{{cite web |last=Aybar |first= Pinar |url=https://nature.berkeley.edu/blogs/news/2010/08/in_memoriam_of_arnold_zellner.php |title=In Memoriam of Dr. Arnold Zellner |date=August 12, 2010 |publisher=College of Natural Resources, University of California, Berkeley }}</ref> Zellner earned his [[Bachelor of Arts|A.B.]] in [[physics]] from [[Harvard University]] in 1949 and his [[Ph.D.]] in [[economics]] from the [[University of California, Berkeley]], under supervision of [[George Kuznets]], in 1957. He held honorary degrees from the [[Autonomous University of Madrid]] in Spain, the [[Universidade Técnica de Lisboa]] in [[Portugal]], the [[University of Kiel]] in [[Germany]], and the [[Erasmus University Rotterdam|Erasmus School of Economics]] at [[Erasmus University Rotterdam]] in the [[Netherlands]].
+
+He was H.G.B. Alexander Distinguished Service Professor Emeritus of Economics and Statistics at the Graduate School of Business of the [[University of Chicago]]. He was the founder of the [[International Society for Bayesian Analysis]] and also served as [[List of presidents of the American Statistical Association|President]] of the [[American Statistical Association]] in 1991.
+
+He died on August 11, 2010, in his home in [[Hyde Park, Chicago]].<ref>{{cite web |url=https://news.uchicago.edu/story/arnold-zellner-1927-2010-pioneer-modern-econometrics|title=Arnold Zellner, 1927–2010, a pioneer of modern econometrics |publisher=University of Chicago |date=August 13, 2010}}</ref>
+
+==Bibliography==
+*{{cite book|author=Arnold Zellner|title=Bayesian Analysis in Econometrics and Statistics: The Zellner View and Papers|url=https://books.google.com/books?id=ICW7AAAAIAAJ|year=1997|publisher=Edward Elgar|isbn=978-1-85898-220-5}}
+*{{cite book|author1=Arnold Zellner|author2=Hugo A. Keuzenkamp|author3=Michael McAleer|title=Simplicity, Inference and Modelling: Keeping it Sophisticatedly Simple|url=https://books.google.com/books?id=-YdbBN-O-JAC|year=2002|publisher=Cambridge University Press|isbn=978-1-139-43238-2}}
+*{{cite book|author1=James A. Crutchfield|author2=Arnold Zellner|title=The Economics of Marine Resources and Conservation Policy: The Pacific Halibut Case Study with Commentary|url=https://books.google.com/books?id=2Z1DY9DS54AC|year=2010|orig-year=2002|publisher=University of Chicago Press|isbn=978-0-226-12197-0}}
+*{{cite journal|author1=Arnold Zellner|author2=Justin Tobias|title=Further Results on Bayesian Method of Moments Analysis of the Multiple Regression Model|journal=International Economic Review|volume=42|number=1|year=2001|pages=121–140|jstor=2648721|doi=10.1111/1468-2354.00103|url=http://ageconsearch.umn.edu/record/198659/files/agecon-cal-833.pdf}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20141221021209/http://faculty.chicagobooth.edu/arnold.zellner/more/ Arnold Zellner's webpage]
+*[http://korora.econ.yale.edu/et/interview/zellner.pdf ET Interviews: Professor Arnold Zellner] on the [http://korora.econ.yale.edu/et/ Econometric Theory] page.
+*[http://www.strategy2market.com/downloads/InterviewwithArnoldZellner.pdf ''An Interview with Arnold Zellner''] (2004), Kathy Morrison
+*{{MathGenealogy|id=148660 }}
+*{{cite web|title=Arnold Zellner|url=https://econpapers.repec.org/RAS/pze9.htm|publisher=[[EconPapers]]}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zellner, Arnold}}
+[[Category:1927 births]]
+[[Category:2010 deaths]]
+[[Category:American people of Ukrainian descent]]
+[[Category:Econometricians]]
+[[Category:American economists]]
+[[Category:American statisticians]]
+[[Category:Harvard University alumni]]
+[[Category:Presidents of the American Statistical Association]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Bayesian statisticians]]
+[[Category:Bayesian econometricians]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+
+
+{{US-economist-stub}}

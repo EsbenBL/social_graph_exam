@@ -1,0 +1,154 @@
+{{Short description|American economist}}
+{{other people||Steven Cheung (disambiguation)}}
+{{Infobox economist
+ | school_tradition = [[New institutional economics]]
+ | image       = 
+ | caption     =
+ | name             = Steven Cheung
+ | birth_date       = {{Birth date and age|1935|12|1|mf=y}}
+ | birth_place      = [[British Hong Kong]]
+ | death_date       =
+ | death_place      =
+ | alma_mater=[[Wa Ying College]]<br>[[Queen's College, Hong Kong]]<br>[[University of California, Los Angeles]]
+ | institution=[[University of Chicago]]<br>[[University of Washington]]<br>[[University of Hong Kong]]
+ | nationality      = United States
+ | field            = [[Transaction cost]], [[property rights]], China's economic development
+ | influences       = [[Adam Smith]], [[Armen Alchian]], [[Ronald Coase]], [[Jack Hirshleifer]], [[Milton Friedman]], [[Aaron Director]]
+ | contributions    = 1969 ''The Theory of Share Tenancy''<br>1982 ''Will China Go Capitalist?''
+}}
+{{Chinese|first=t|t=張五常|s=张五常|p=Zhāng Wǔcháng|y=Jēung Ńgh-sèuhng|j=Zoeng1 Ng5soeng4}}
+'''Steven Ng-Sheong Cheung''' ({{IPAc-en|tʃ|ʌ|ŋ}}; born December 1, 1935) is an American economist who specializes in the fields of [[transaction cost]]s and [[property right]]s, following the approach of [[new institutional economics]]. He achieved his public fame with an economic analysis on China open-door policy after the 1980s. In his studies of economics, he focuses on economic explanation that is based on real world observation (an observation first approach). He is also the first to introduce concepts from the [[Chicago School of Economics]], especially [[price theory]], into China.  In 2016, Cheung claimed to have written "1,500 articles and 20 books in Chinese" during his academic career.<ref name="Reminiscence">{{cite journal|last1=Cheung|first1=Steven N.S.|title=Steven N.S. Cheung's Reminiscence of Himself - A Reply to Ning Wang|journal=Man and the Economy|date=2016|volume=3|issue=1|pages=1–21|doi=10.1515/me-2016-0010|s2cid=199472381}}</ref>
+
+He obtained his PhD in economics from [[UCLA]], where his teachers were the American economists [[Armen Alchian]] and [[Jack Hirshleifer]]. He taught in the Department of Economics at the [[University of Washington]] from 1969 to 1982, and then at the [[University of Hong Kong]] from 1982 to 2000. During this period, Cheung reformed the syllabus of Hong Kong's [[Hong Kong Advanced Level Examination|A-level]] Economics examination, adding the concepts of the postulate of constrained [[Maximization (economics)|maximization]], [[methodology]], transaction cost and property right, most of which originate from the theories of the [[Chicago school (economics)|Chicago school]].  
+
+==Academic career==
+A [[Hakka]] of [[Huiyang]], [[Guangdong]] ancestry <ref>{{cite web | title = Steven N.S. Cheung: My father 张五常：我的父亲 | url=http://www.hakkaonline.com/forum.php?mod=viewthread&tid=80086&extra=page%3D12}}</ref> born in Hong Kong in 1935, Cheung fled to China in 1941 due to the [[Japanese occupation of Hong Kong]]. From 1959 to 1967, he studied Economics at [[UCLA]] and prepared a PhD dissertation. From 1967 to 1969, he did postdoctoral research at the [[University of Chicago]], analysing share tenancy and variable rural land resource allocation, and was hired as an assistant professor after impressing [[Milton Friedman]] in a debate. In 1969, he moved to the [[University of Washington]] where he taught until 1982. Under the advice of several friends, including [[Ronald Coase]], he returned to Hong Kong as a professor in [[University of Hong Kong]] to support the economic reforms of China.
+
+Unlike modern mainstream economists, Cheung's analysis does not rely on advanced mathematical techniques but solely on the two basic building blocks of price theory: one is the axiom of constrained maximisation and the other, the law of demand (one that already incorporates the law of diminishing marginal returns). One of the constraints which he emphasizes most is transaction cost (or better termed institutional cost).
+
+His theory of share tenancy has enhanced the understanding of contractual arrangement, which was largely ignored by neo-classical economists. According to Cheung, [[sharecropping]] is not necessarily exploitative. It will achieve the same efficient allocation as labor markets under competition and zero transaction costs (Cheung, 1968).<ref>{{cite journal|title=Private property rights and sharecropping|journal=Journal of Political Economy |year=1968|first=Steven |last=Cheung|volume=76|issue=6|pages=107–122|doi= 10.1086/259477|jstor=1830153|s2cid=153568071 }}</ref> In the presence of transaction costs, sharecropping can be efficient by lowering the monitoring costs of wage contracts and increasing risk-sharing benefits relative to rent contracts (Cheung, 1969).
+
+This implication is revolutionary; sharecropping was perceived as an inferior arrangement for years. After the publication of ''[[The Fable of The Bees]]'', our perception of [[externalities]] is no longer the same: as long as corresponding property rights are clearly delineated, OR transaction cost is zero, externalities can be internalized through private negotiation/contract arrangement without government intervention.
+
+In 1983, Cheung published probably his most important journal article, "The Contractual Nature of the Firm".  While a firm cannot be defined easily, Cheung interprets it as a kind of contractual arrangement being used to replace the market (i.e. price mechanism) to reduce transaction costs (e.g. the cost of price searching). Cheung once stated that when he finished writing the article, he knew that it would become a work that will last generations, and still be read a hundred years later. Thus, "[he] beheld the sky and laughed."<ref>{{Cite web|url=http://m.aisixiang.com/data/11930.html|title = 张五常：学术上的集中与搏杀_爱思想}}</ref>
+
+Outside of the academic world, Steven Cheung is most well known for his numerous writings directed at a popular audience, especially the Chinese public. He is also known for his famous wit; in 1969 he wrote an article "Irving Fisher and the Red Guards", published in the renowned ''[[Journal of Political Economy]]'', arguing [[irony|ironically]] that the activities of the [[Red Guards (China)|Red Guards]] in China stemmed from their use of a "refined concept of capital". Unbeknownst to the readers, the article was written under considerable emotional pain; his close friend, the [[table tennis]] champion [[Rong Guotuan]], had just committed suicide after being tortured by the Red Guards.
+
+Cheung maintained a lifelong friendship with former mentors [[Ronald Coase]] and [[Milton Friedman]], the latter of whom officiated his wedding.<ref name="Reminiscence" /> He accompanied Friedman in his numerous tours of China, and was present when Friedman met with Chinese leader [[Zhao Ziyang]] to discuss economic reforms.
+
+Cheung was also an avid photographer. He took the most iconic photo of Milton Friedman, which was featured on the cover of Friedman's treatise ''[[Capitalism and Freedom]]''.<ref name="Reminiscence" />
+
+==Criticism==
+Nobel Prize winners like [[Ronald Coase]]<ref>[http://nobelprize.org/nobel_prizes/economics/laureates/1991/coase-lecture.html "Ronald Coase's Nobel prize lecture"] from nobelprize.org</ref> and [[Joseph E. Stiglitz]]<ref>[http://nobelprize.org/nobel_prizes/economics/laureates/2001/stiglitz-lecture.pdf "Joseph Stiglitz's Nobel prize lecture" (page 2/Footnote 2)] from nobelprize.org</ref> have acknowledged intellectual provocation by Cheung in their respective Nobel lectures.  [Coase citation missing]. While referring to Cheung's "brilliant, valiant attempt" to prove that sharecropping does not matter to the incentives of the workers, Stiglitz credited Cheung's "[http://nobelprize.org/nobel_prizes/economics/laureates/2001/stiglitz-lecture.pdf unreasonable assumptions, especially concerning information]" for motivating him to develop the theories of the role of information in economics.
+
+==Practical research==
+Steven Cheung is highly respected for his deep devotion to his research. In order to understand real life phenomena, he personally engaged in numerous economic activities, such as fish farming, selling citrus fruit, inspecting the petroleum industry, and haggling over the price of antiques. He has criticized the isolation of most economists from real life problems.
+
+==Contribution to economics and China's economic development==
+Cheung's contribution to economics and China's economic development can be roughly grouped in the following areas,
+
+# [[New Institutional Economics]]
+## how different kinds of contractual arrangement affect transaction costs, which are often ignored by neoclassical economists
+## realizing the importance of transaction costs (as Cheung often mentions in his writings, if there is no transaction costs (the original starting point assumption by Coase), there is no difference in using different institutional arrangements (e.g. market or government)).
+## the nature of the firm (a government, to a certain extent, is a firm and can be more efficient than the market in some areas),
+# [[Methodology]]
+## emphasis on economic explanation (according to Cheung, economic explanation is the ONLY objective of the study of economics);
+## the analysis of relevant and observable real world constraints: Adam Smith's tradition,
+## downward sloping demand curve: [[Neoclassical economics|Neoclassical]] tradition,
+## theories must be potentially [[Falsifiability|refutable]] but not yet refuted (Cheung considers many mainstream concepts not observable, leading to the non-refutable nature of many theories (such as utilities, welfare))
+## focus on capturing the underlying and relevant constraints to explain economic phenomena that might seem odd and strange on the surface.
+# China's economic development
+## Considerable influence among the Chinese speaking population (most of his works after 1982 are written in Chinese);
+## Prediction of China's institutional reform (which, in general, has been quite accurate)
+## Analysis of the deficiencies in the Chinese state owned enterprises
+
+===Comments on China's modernization===
+He wrote many books (in Chinese) commenting on China's modernization programs from an economic point of view. In the 1980s, Cheung predicted and strongly supported an economic transformation of China as a [[market economy]]. However, in that decade, China went through serious inflation, leading to strong economic, political and social tensions.
+
+However, after 1992, China continued to reform economically.  Steven Cheung claimed that most of his ''predictions'' have come true.  One of his major ideas, the replacing of [[state-owned enterprise]]s by private enterprises, turns out to be very consistent with the direction taken by Chinese political leaders and policy makers.
+
+Later on, after the leaders of Shanghai began economic reforms, he predicted that it would immediately become one of the financial centers of the world, surpassing Hong Kong. The prediction was met with heavy skepticism, but turned out to be correct in some respect. As of 31 January 2015, Shanghai Stock Exchange overtook the Hong Kong Stock Exchange in terms of market capitalization. However, Shanghai has yet to catch up with Hong Kong in terms of financial infrastructure, and Shanghai's dream of overtaking Hong Kong has yet to be fully fulfilled.
+
+==Legal troubles==
+On January 28, 2003, Cheung was [[indictment|indicted]] on thirteen counts by a US federal [[grand jury]]. The charges consisted of six counts of filing a false income tax return, six counts of filing false foreign bank account reports, and one count of Conspiracy to Defraud the United States. Cheung was accused of failing to report incomes from Hong Kong parking lots and other business. As a U.S. citizen, Cheung is obliged to report incomes from anywhere in the world, even if he does not reside in the United States. The law is uncommon in other countries. Cheung insists that he relied on the advice of his tax consultant, and did not know he was supposed to report the income in question.<ref>{{Cite web|url=http://community.seattletimes.nwsource.com/archive/?date=20030129&slug=cheung29|title=Local News {{!}} Economist tied to fake art faces tax charges {{!}} Seattle Times Newspaper|website=community.seattletimes.nwsource.com|access-date=2019-01-20}}</ref>
+
+Experts have said that ignorance of the U.S. tax policy is common among U.S. expatriates; the U.S. government generally does not pursue investigations of failures to report overseas income for non-residents. When discovered, offenders are often simply requested to turn in the unpaid tax. It is unknown why the U.S. government chose to investigate Cheung, and further to pursue a federal grand jury indictment; journalists have suspected ulterior motives.<ref>{{Cite web|url=http://economicexplanation.tripod.com/|title=index|website=economicexplanation.tripod.com|access-date=2019-01-20}}</ref>
+
+Originally a professor at [[University of Hong Kong]], because of the [[extradition]] agreements between the US and Hong Kong, Cheung has since stayed in [[mainland China]], a country that has no such agreements with America. He now writes books and works as a columnist for the China website [[Phoenix Television|ifeng.com]]. Occasionally, he pays visits to various universities in mainland China.
+
+From 1998 to 2003, Steven Cheung's company, Steven N. S. Cheung Inc. had a subsidiary in Seattle called Thesaurus Fine Arts, which specialized in Asian antique pieces. The store closed when [http://archives.seattletimes.nwsource.com/cgi-bin/texis.cgi/web/vortex/search?skip=0&maxReturn=20&period=archive&searchType=date&sectionID=&query=%22thesaurus+fine+arts%22&prevQuery=steven+cheung&type=new a series of investigative reports in the Seattle Times] alleged that many of the antiques were fake. <sup>[source needed]</sup> In 2004, the Washington State Attorney General filed consumer fraud charges against Thesaurus Fine Arts. In 2005, Thesaurus Fine Arts settled for up to $550,000 in fines, attorney fees, and restitution. Cheung was dropped from the case as a result. Cheung has denied ownership of Thesaurus. Thesaurus is a subsidiary of Steven N. S. Cheung Inc., but it is claimed that Cheung is "not an officer, director or shareholder" of Thesaurus.
+
+==Notable works==
+
+===Doctoral thesis===
+* 1969 ''The Theory of Share Tenancy'', [[University of Chicago Press]]. Reprinted in June 2000 by [[Arcadia Publishing|Arcadia Press]].
+
+===Selected books for general audiences===
+* 1988 ''Orange Sellers Say'', Sichuan People 's Publishing House
+* 2001 ''Economic Explanation'', Arcadia Press, Reprinted in December 2002 by Arcadia Press
+** ''Book I, The Science of Demand''
+** ''Book II, The Behavior of Supply''
+** ''Book III, The Choice of Institutional Arrangements''
+* 2007 ''The Economic Structure of China'', Arcadia Press
+*2010 ''Currency Strategy Thesis'', Arcadia Press
+* 2010 ''New Orange Sellers Say'', Arcadia Press, Reprinted in May 2011 by Arcadia Press
+* 2011 ''Economic Explanation'' (2nd ed.), Arcadia Press
+** ''Book I, The Science of Demand''
+** ''Book II, Income and Cost''
+** ''Book III, Price Taking and Price Searching''
+** ''Book IV, The Choice of Institutional Arrangements''
+* 2014 ''Economic Explanation'' (3rd ed.), Arcadia Press
+* 2017 ''Economic Explanation'' (4th ed.), Arcadia Press
+** ''Book I, The Science of Demand''
+** ''Book II, Income and Cost''
+** ''Book III, Price Taking and Price Searching''
+** ''Book IV, The General Theory of Contract''
+** ''Book V, The State Theory and the Theoretical Structure of Economic Explanation''
+
+===Selected journal articles===
+* 1968 "Private property rights and sharecropping", [[Journal of Political Economy]], Vol. 76, Issue 6, pp.&nbsp;1107–1122.
+* 1969 ''Transaction Costs, Risk Aversion, and the Choice of Contractual Arrangements'', [[Journal of Law and Economics]], Vol. 12, Issue 1, pp.&nbsp;23–42.
+* 1970 ''The Structure of a Contract and the Theory of a Non-Exclusive Resource'', Journal of Law and Economics, Vol. 13, Issue 1, pp.&nbsp;49–70.
+* 1972 ''Enforcement of Property Rights in Children, and the Marriage Contract'', Economic Journal, Vol. 82, Issue 326, pp.&nbsp;641–57.
+* 1973 ''The Fable of the Bees: An Economic Investigation'', Journal of Law and Economics, Vol. 16, Issue 1, pp.&nbsp;11–33.
+* 1974 ''A Theory of Price Control'', Journal of Law and Economics, Vol. 17, Issue 1, pp.&nbsp;53–71.
+* 1975 ''Roofs or Stars: The Stated Intents and Actual Effects of a Rents Ordinance'', Economic Inquiry, Volume 13, Issue 1, pp.&nbsp;1–21.
+* 1977 ''Why are better seats 'underpriced' '', Economic Inquiry, Volume 15, Issue 4, pp.&nbsp;513–522.
+* 1982 ''Property Rights in Trade Secrets'', Economic Inquiry, Volume 20, Issue 1, pp.&nbsp;40–53.
+* 1983 ''The Contractual Nature of The Firm'', Journal of Law and Economics, Vol. 26, Issue 1, pp.&nbsp;1–26.
+* 1995 ''Economic Interactions: China vis-a-vis Hong Kong'', Contemporary Economic Policy, Vol. 13, Issue 1, pp.&nbsp;1–9.
+* 1996 ''A Simplistic General Equilibrium Theory of Corruption'', Contemporary Economic Policy, Vol. 14, Issue 3, pp.&nbsp;1–5.
+* 1998 ''[[Deng Xiaoping]]'s Great Transformation'', Contemporary Economic Policy, Vol. 16, Issue 2, pp.&nbsp;125–35.
+* 1998 ''The Curse of Democracy as an Instrument of Reform in Collapsed Communist Economies'', Contemporary Economic Policy, Volume 16, Issue 2, pp.&nbsp;247–49.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://blog.sina.com.cn/zhangwuchang Steven Cheung's official blog (in Simplified Chinese)]
+* [https://web.archive.org/web/20080205072737/http://you.video.sina.com.cn/zhangwuchang Steven Cheung's video interviews (with Chinese subtitles)]
+* [https://www.justice.gov/archive/tax/usaopress/2003/txdv03cheung.html Department of Justice Statement on Warrants]
+* [http://archives.seattletimes.nwsource.com/cgi-bin/texis.cgi/web/vortex/search?skip=0&maxReturn=20&period=archive&searchType=date&sectionID=&query=%22thesaurus+fine+arts%22&prevQuery=steven+cheung&type=new Seattle Times investigative reports on Thesaurus Fine Arts]
+
+{{Instecon}}
+{{Chiconomists}}
+{{Authority control}}
+
+{{DEFAULTSORT:Cheung, Steven}}
+[[Category:1935 births]]
+[[Category:Living people]]
+[[Category:American businesspeople convicted of crimes]]
+[[Category:American economists]]
+[[Category:American people of Chinese descent]]
+[[Category:American people convicted of tax crimes]]
+[[Category:Hong Kong economists]]
+[[Category:Hong Kong emigrants to the United States]]
+[[Category:Hong Kong people of Hakka descent]]
+[[Category:People from Huizhou]]
+[[Category:Law and economics scholars]]
+[[Category:New institutional economists]]
+[[Category:People from Huiyang]]
+[[Category:University of California, Los Angeles alumni]]
+[[Category:Hakka scientists]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]

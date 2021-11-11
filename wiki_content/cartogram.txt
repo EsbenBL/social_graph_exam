@@ -1,0 +1,226 @@
+{{Short description|Thematic map that distorts size}}
+{{Broader|Thematic map}}
+{{Distinguish|Cartography}}
+{{short description|Map in which geographic space is distorted based on the value of a thematic mapping variable}}
+[[File:Global population cartogram.png|thumb|upright=2.0|Mosaic cartogram showing the distribution of the global population.
+Each of the 15,266 pixels represents the home country of 500,000 people – cartogram by [[Max Roser]] for [[Our World in Data]]]]
+
+A '''cartogram''' (also called a '''value-area map''' or an '''anamorphic map''', the latter common among German-speakers) is a [[thematic map]] of a set of features (countries, provinces, etc.), in which their geographic size is altered to be  [[Proportionality (mathematics)|directly proportional]] to a selected [[Level of measurement|ratio-level]] variable, such as travel time, [[population]], or [[Gross National Product|GNP]]. Geographic space itself is thus warped, sometimes extremely, in order to visualize the distribution of the variable. It is one of the most abstract types of [[map]]; in fact, some forms may more properly be called [[diagram]]s. They are primarily used to display emphasis and for analysis as [[Nomography|nomographs]].<ref name="tobler2004">{{Cite journal | last = Tobler | first = Waldo | title = Thirty-Five Years of Computer Cartograms | journal = Annals of the Association of American Geographers | volume = 94 | issue = 1 | pages = 58–73 | date = March 2004 | jstor = 3694068 | doi=10.1111/j.1467-8306.2004.09401004.x| citeseerx = 10.1.1.551.7290  | s2cid = 129840496 }}</ref>
+
+Cartograms leverage the fact that size is the most intuitive [[visual variable]] for representing a total amount.<ref name="bertin">Jacque Bertin, ''Sémiologie Graphique. Les diagrammes, les réseaux, les cartes''. With Marc Barbut [et al.]. Paris : Gauthier-Villars. ''Semiology of Graphics'', English Edition, Translation by William J. Berg, University of Wisconsin Press, 1983.)</ref> In this, it is a strategy that is similar to [[proportional symbol map]]s, which scale point features, and many [[flow map]]s, which scale the weight of linear features. However, these two techniques only scale the [[map symbol]], not space itself; a map that stretches the length of linear features is considered a linear cartogram (although additional flow map techniques may be added). Once constructed, cartograms are often used as a base for other thematic mapping techniques to visualize additional variables, such as [[choropleth map]]ping.
+
+==History==
+[[File:Levasseur cartogram.png|thumb|upright=1.15|One of Levasseur's 1876 cartograms of Europe, the earliest known published example of this technique.]]
+The cartogram was developed later than other types of [[Thematic map#History|thematic maps]], but followed the same tradition of innovation in [[France]].<ref>{{cite web
+ | last = Johnson
+ | title = Early cartograms
+ | work = indiemaps.com/blog
+ | date = 2008-12-08
+ | url = http://indiemaps.com/blog/2008/12/early-cartograms/
+ | access-date = 2012-08-17}}</ref> The earliest known cartogram was published in 1876 by French statistician and geographer [[Pierre Émile Levasseur]], who created a series of maps that represented the countries of Europe as squares, sized according to a variable and arranged in their general geographical position (with separate maps scaled by area, population, religious adherents, and national budget).<ref name="levasseur1876">{{cite journal |last1=Levasseur |first1=Pierre Émile |title=Memoire sur l'étude de la statistique dans l'enseignenent primaire, secondaire et superieur |journal=Programme du Neuvieme Congrès international de Statistique, I. Section, Theorie et population |date=1876-08-29 |pages=7–32 |url=https://babel.hathitrust.org/cgi/pt?id=uc1.c2558275}}. Unfortunately, all available scans did not expand the gatefold, so only one map in the series is visible online.</ref> Later reviewers have called his figures a statistical diagram rather than a map, but Levasseur referred to it as a ''carte figurative'', the common term then in use for any thematic map. He produced them as teaching aids, immediately recognizing the intuitive power of size as a visual variable: "It is impossible that the child is not struck by the importance of the trade of Western Europe in relation to that of Eastern Europe, that he does not notice how much England, which has a small territory but outweighs other nations by its wealth and especially by its navy, how much on the contrary Russia which, by its area and its population occupies the first rank, is still left behind by other nations in the commerce and navigation."
+
+Levasseur's technique does not appear to have been adopted by others, and relatively few similar maps appear for many years. The next notable development was a pair of maps by [[Justus Perthes (publishing company)#Hermann Haack|Hermann Haack]] and Hugo Weichel of the [[1898 German federal election|1898 election results]] for the [[Reichstag of the German Empire|German Reichstag]] in preparation for the [[1903 German federal election|1903 election]], the earliest known ''contiguous cartogram''.<ref name="haack1903">{{cite book |last1=Haack |first1=Hermann |last2=Weichel |first2=Hugo |title=Kartogramm zur Reichstagswahl. Zwei Wahlkarten des Deutschen Reiches |date=1903 |publisher=Justus Perthes Gotha}}</ref> Both maps showed a similar outline of the German Empire, with one subdivided into constituencies to scale, and the other distorting the constituencies by area. The subsequent expansion of densely populated areas around [[Berlin]], [[Hamburg]], and [[Saxony]] was intended to visualize the controversial tendency of the mainly urban [[Social Democratic Party of Germany|Social Democrats]] to win the popular vote, while the mainly rural [[Centre Party (Germany)|Zentrum]] won more seats (thus presaging the modern popularity of cartograms for showing the same tendencies in recent elections in the United States).<ref name="hennig2018">{{cite journal |last1=Hennig |first1=Benjamin D. |title=Kartogramm zur Reichstagswahl: An Early Electoral Cartogram of Germany |journal=The Bulletin of the Society of University Cartographers |date=Nov 2018 |volume=52 |issue=2 |pages=15–25 |url=https://www.researchgate.net/publication/329880252}}</ref>
+
+The continuous cartogram emerged soon after in the United States, where a variety appeared in the popular media after 1911.<ref name="bailey1911">{{cite journal |last1=Bailey |first1=William B. |title=Apportionment Map of the United States |journal=The Independent |date=April 6, 1911 |volume=70 |issue=3253 |page=722 |url=https://archive.org/details/independent70newy/page/722/mode/2up}}</ref><ref>{{cite journal |title=Electrical Importance of the Various States |journal=Electrical World |date=March 19, 1921 |volume=77 |issue=12 |pages=650–651 |url=https://archive.org/details/electricalworld77newy/page/650}}</ref> Most were rather crudely drawn compared to Haack and Weichel, with the exception of the "rectangular statistical cartograms" by the American master cartographer [[Erwin Raisz]], who claimed to have invented the technique.<ref name="raisz1934">{{cite journal |last1=Raisz |first1=Erwin |title=The Rectangular Statistical Cartogram |journal=Geographical Review |date=Apr 1934 |volume=24 |issue=2 |pages=292–296 |doi=10.2307/208794|jstor=208794 }}</ref><ref name="raisz1936">{{cite journal |last1=Raisz |first1=Erwin |title=Rectangular Statistical Cartograms of the World |journal=[[Journal of Geography]] |date=1936 |volume=34 |issue=1 |pages=8–10 |doi=10.1080/00221343608987880}}</ref>
+
+When Haack and Weichel referred to their map as a ''kartogramm'', this term was commonly being used to refer to all thematic maps, especially in Europe.<ref name="funkhouser1937">{{cite journal |last1=Funkhouser |first1=H. Gray |title=Historical Development of the Graphical Representation of Statistical Data |journal=Osiris |date=1937 |volume=3 |pages=259–404 |doi=10.1086/368480 |jstor=301591 |s2cid=145013441 |url=https://www.jstor.org/stable/301591}}</ref><ref name="krygier2010">{{cite web |last1=Krygier |first1=John |title=More Old School Cartograms, 1921-1938 |url=https://makingmaps.net/2010/11/30/more-old-school-cartograms-1921-1938/ |website=Making Maps: DIY Cartography |access-date=14 November 2020}}</ref> It was not until Raisz and other academic cartographers stated their preference for a restricted use of the term in their textbooks (Raisz initially espousing ''value-area cartogram'') that the current meaning was gradually adopted.<ref name="raisz">Raisz, Erwin, ''General Cartography'', 2nd Edition, McGraw-Hill, 1948, p.257</ref><ref name="raisz1962">{{cite book |last1=Raisz |first1=Erwin |title=Principles of Cartography |date=1962 |publisher=McGraw-Hill |pages=215–221}}</ref>
+
+The primary challenge of cartograms has always been the drafting of the distorted shapes, making them a prime target for computer automation. [[Waldo R. Tobler]] developed one of the first algorithms in 1963, based on a strategy of warping space itself rather than the distinct districts.<ref name="tobler1963">{{cite journal |last1=Tobler |first1=Waldo R. |title=Geographic Area and Map Projections |journal=Geographical Review |date=Jan 1963 |volume=53 |issue=1 |pages=59–79 |doi=10.2307/212809|jstor=212809 }}</ref> Since then, a wide variety of algorithms have been developed (see below), although it is still common to craft cartograms manually.<ref name="tobler2004"/>
+
+== General principles ==
+Since the early days of the academic study of cartograms, they have been compared to [[map projection]]s in many ways, in that both methods transform (and thus distort) space itself.<ref name="tobler1963" /> The goal of designing a cartogram or a map projection is therefore to represent one or more aspects of geographic phenomena as accurately as possible, while minimizing the collateral damage of distortion in other aspects. In the case of cartograms, by scaling features to have a size proportional to a variable other than their actual size, the danger is that the features will be distorted to the degree that they are no longer recognizable to map readers, making them less useful.
+
+As with map projections, the tradeoffs inherent in cartograms have led to a wide variety of strategies, including manual methods and dozens of computer algorithms that produce very different results from the same source data. The quality of each type of cartogram is typically judged on how accurately it scales each feature, as well as on how (and how well) it attempts to preserve some form of recognizability in the features, usually in two aspects: [[shape]] and [[Geospatial topology|topological relationship]] (i.e., retained adjacency of neighboring features).<ref name="torguson2009">Dent, Borden D., Jeffrey S. Torguson, Thomas W. Hodler, ''Cartography: Thematic Map Design'', 6th Edition, McGraw-Hill, 2009, pp.168-187</ref><ref name="nusrat2015">{{cite journal |last1=Nusrat |first1=Sabrina |last2=Kobourov |first2=Stephen |title=Visualizing Cartograms: Goals and Task Taxonomy |journal=17th Eurographics Conference on Visualization (Eurovis) |date=2015 |url=https://arxiv.org/abs/1502.07792 |access-date=15 November 2020|arxiv=1502.07792 }}</ref> It is likely impossible to preserve both of these, so some cartogram methods attempt to preserve one at the expense of the other, some attempt a compromise solution of balancing the distortion of both, and other methods do not attempt to preserve either one, sacrificing all recognizability to achieve another goal.
+
+== Area cartograms ==
+[[File:Germany-population-cartogram.png|thumb|Cartogram of [[Germany]], with the states and districts resized according to population]]
+The area cartogram is by far the most common form; it scales a set of region features, usually administrative districts such as counties or countries, such that the [[area]] of each district is [[Proportionality (mathematics)|directly proportional]] to a given variable. Usually this variable represents the total count or amount of something, such as total [[Population]], [[Gross domestic product]], or the number of retail outlets of a given brand or type. Other strictly positive [[Level of measurement|ratio]] variables can also be used, such as [[List of countries by GDP (nominal) per capita|GDP per capita]] or [[Birth rate]], but these can sometimes produce misleading results because of the natural tendency to interpret size as total amount.<ref name="bertin" />  Of these, total population is probably the most common variable, sometimes called an ''isodemographic map''.
+
+The various strategies and algorithms have been classified a number of ways, generally according to their strategies with respect to preserving shape and topology. Those that preserve shape are sometimes called ''equiform'', although ''isomorphic'' (same-shape) or ''homomorphic'' (similar-shape) may be better terms. Three broad categories are widely accepted: contiguous (preserve topology, distort shape), non-contiguous (preserve shape, distort topology), and diagrammatic (distort both). Recently, more thorough taxonomies by Nusrat and Kobourov, Markowska, and others have built on this basic framework in an attempt to capture the variety in approaches that have been proposed and in the appearances of the results.<ref name="nusrat2016">{{cite journal |last1=Nusrat |first1=Sabrina |last2=Kobourov |first2=Stephen |title=The State of the Art in Cartograms |journal=Computer Graphics Forum |date=2016 |volume=35 |issue=3 |pages=619–642 |doi=10.1111/cgf.12932|arxiv=1605.08485 |hdl=10150/621282 |s2cid=12180113 |hdl-access=free }} Special issue: 18th Eurographics Conference on Visualization (EuroVis), State of the Art Report</ref><ref name="markowska2019">{{cite journal |last1=Markowska |first1=Anna |title=Cartograms - classification and terminology |journal=Polish Cartographical Review |date=2019 |volume=51 |issue=2 |pages=51–65 |doi=10.2478/pcr-2019-0005|doi-access=free }}</ref> The various taxonomies tend to agree on the following general types of area cartograms.
+
+===Anamorphic Projection===
+{{see also | Anamorphosis}}
+This is a type of contiguous cartogram that uses a single parametric mathematical formula (such as a [[Polynomial | polynomial curved surface]]) to distort space itself to equalize the spatial distribution of the chosen variable, rather than distorting the individual features. Because of this distinction, some have preferred to call the result a ''pseudo-cartogram''.<ref name="bortins-demers">{{cite web |last1=Bortins |first1=Ian |last2=Demers |first2=Steve |title=Cartogram Types |url=http://www.ncgia.ucsb.edu/projects/Cartogram_Central/types.html |website=Cartogram Central |publisher=National Center for Geographic Information Analysis, UC Santa Barbara |access-date=15 November 2020}}</ref> [[Waldo R. Tobler|Tobler's]] first computer cartogram algorithm was based on this strategy,<ref name="tobler1963" /><ref name="tobler1973">{{cite journal |last1=Tobler |first1=Waldo R. |title=A Continuous Transformation Useful for Districting |journal=Annals of the New York Academy of Sciences |date=1973 |volume=219 |issue=1 |pages=215–220 |doi=10.1111/j.1749-6632.1973.tb41401.x|pmid=4518429 |bibcode=1973NYASA.219..215T |hdl=2027.42/71945 |s2cid=35585206 |hdl-access=free }}</ref> for which he developed the general mathematical construct on which his and subsequent algorithms are based.<ref name="tobler1963" /> This approach first models the distribution of the chosen variable as a continuous density function (usually using a [[Curve fitting|least squares fitting]]), then uses the inverse of that function to adjust the space such that the density is equalized. The Gastner-Newman algorithm, one of the most popular tools used today, is a more advanced version of this approach.<ref name="GSM-Fast-Flow-Based">{{cite journal |author = Michael T. Gastner |author2=Vivien Seguy |author3=Pratyush More |year = 2018 |title = Fast flow-based algorithm for creating density-equalizing map projections |journal = Proceedings of the National Academy of Sciences |volume = 115 |pages = E2156–E2164 |doi = 10.1073/pnas.1712674115 |pmid=29463721 |pmc=5877977 |issue = 10 |arxiv = 1802.07625  |bibcode=2018arXiv180207625G |doi-access=free }}</ref><ref name="gastner-newman">{{cite journal |last1=Gastner |first1=Michael T. |last2=Newman |first2=M.E.J. |title=Diffusion-based Method for Producing Density-Equalizing Maps |journal=Proceedings of the National Academy of Sciences of the United States of America |date=May 18, 2004 |volume=101 |issue=20 |pages=7499–7504 |doi=10.1073/pnas.0400280101 |jstor=3372222 |pmid=15136719 |pmc=419634 |url=|arxiv=physics/0401102 |s2cid=2487634 |doi-access=free }}</ref> Because they do not directly scale the districts, there is no guarantee that the area of each district is exactly equal to its value.
+
+===Shape-warping contiguous cartograms===
+[[File:PaullHennig2016WorldMap.OAha.CC-BY-4.0.jpg|thumb|upright=1.35|Contiguous cartogram (Gastner-Newman) of the world with each country rescaled in proportion to the hectares of certified [[organic farming]]<ref name=Atlas>Paull, John & Hennig, Benjamin (2016) [https://www.academia.edu/25648267/Atlas_of_Organics_Four_maps_of_the_world_of_organic_agriculture  Atlas of Organics: Four Maps of the World of Organic Agriculture]  Journal of Organics. 3(1): 25–32.</ref>]]
+Also called ''irregular cartograms'' or ''deformation cartograms'',<ref name="markowska2019" /> This is a family of very different algorithms that scale and deform the shape of each district while maintaining adjacent edges. This approach has its roots in the early 20th Century cartograms of Haack and Weichel and others, although these were rarely as mathematically precise as current computerized versions. The variety of approaches that have been proposed include [[Cellular automaton|cellular automata]], [[Quadtree | quadtree partitions]], [[cartographic generalization]], [[Medial axis|medial axes]], spring-like forces, and simulations of inflation and deflation.<ref name="nusrat2016" /> Some attempt to preserve some semblance of the original shape (and may thus be termed ''homomorphic''),<ref name="kocmoud1998">{{cite journal |last1=House |first1=Donald H. |last2=Kocmoud |first2=Christopher J. |title=Continuous cartogram construction |journal=Proceedings Visualization '98 |date=October 1998 |pages=197–204 |doi=10.1109/VISUAL.1998.745303 |isbn=0-8186-9176-X |url=https://www.researchgate.net/publication/3788051}}</ref> but these are often more complex and slower algorithms than those that severely distort shape.
+
+===Non-contiguous isomorphic cartograms===
+[[File:Cartogram projector cz.png|thumb|upright=1.15|left|Non-contiguous isomorphic cartogram of the [[Czech Republic]], in which the size of each district is proportional to the Catholic percentage and the color (choropleth) representing the proportion voting for the KDU-CSL party in 2010, showing a strong correlation.]]
+This is perhaps the simplest method for constructing a cartogram, in which each district is simply reduced or enlarged in size according to the variable without altering its shape at all.<ref name="torguson2009" /> In most cases, a second step adjusts the location of each shape to reduce gaps and overlaps between the shapes, but their boundaries are not actually adjacent. While the preservation of shape is a prime advantage of this approach, the results often have a haphazard appearance because the individual districts do not fit together well.
+
+===Diagrammatic (Dorling) cartograms===
+[[File:Wikipédia-Pays par liens.2011.07.svg|thumb|right|upright=1.35|Diagrammatic (Dorling) cartogram of the number of times each country is linked in the French-language Wikipedia.]]
+In this approach, each district is replaced with a simple geometric shape of proportional size. Thus, the original shape is completely eliminated, and contiguity may be retained in a limited form or not at all. Although they are usually referred to as ''Dorling cartograms'' after Daniel Dorling's 1996 algorithm first facilitated their construction,<ref name="dorling1996">{{cite book |last1=Dorling |first1=Daniel |title=Area Cartograms: Their Use and Creation |date=1996 |volume=59|series=Concepts and Techniques in Modern Geography (CATMOG) |publisher=University of East Anglia}}</ref> these are actually the original form of cartogram, dating back to Levasseur (1876)<ref name="levasseur1876" /> and Raisz (1934).<ref name="raisz1934" /> Several options are available for the geometric shapes:
+* '''Circles''' (Dorling), typically brought together to be touching and arranged to retain some semblance of the overall shape of the original space.<ref name="dorling1996"/> These often look like [[proportional symbol map]]s, and some consider them to be a hybrid between the two types of thematic map.
+* '''Squares''' (Levasseur/Demers), treated in much the same way as the circles, although they do not generally fit together as simply.
+* '''Rectangles''' (Raisz), in which the height and width of each rectangular district is adjusted to fit within an overall shape. The result looks much like a [[Treemapping|treemap diagram]], although the latter is generally sorted by size rather than geography. These are often contiguous, although the contiguity may be illusory because many of the districts that are adjacent in the map may not be the same as those that are adjacent in reality.
+
+Because the districts are not at all recognizable, this approach is most useful and popular for situations in which the shapes would not be familiar to map readers anyway (e.g., [[United Kingdom Parliament constituencies|U.K. parliamentary constituencies]]) or where the districts are so familiar to map readers that their general distribution is sufficient information to recognize them (e.g., countries of the world). Typically, this method is used when it is more important for readers to ascertain the overall geographic pattern than to identify particular districts; if identification is needed, the individual geometric shapes are often labeled.
+
+===Mosaic cartograms===
+[[File:Cartogram 2008 red blue.png|thumb|upright=1.6|left|Mosaic cartogram of United States Electoral College results (scaled by 2008 electors) of four past Presidential elections (1996, 2000, 2004, 2008) {{legend|#ff0000|States carried by the Republican in all four elections}} {{legend|#FF5E5E|States carried by the Republican in three of the four elections}} {{legend|#cccccc|States carried by each party twice in the four elections}}
+{{legend|#6D5EFF|States carried by the Democrat in three of the four elections}}
+{{legend|#2300ff|States carried by the Democrat in all four elections}}]]
+In this approach (also called ''block'' or ''regular cartograms''), each shape is not just scaled or warped, but is reconstructed from a discrete [[tessellation]] of space, usually into squares or hexagons. Each cell of the tessellation represents a constant value of the variable (e.g., 5000 residents), so the number of whole cells to be occupied can be calculated (although rounding error often means that the final area is not exactly proportional to the variable). Then a shape is assembled from those cells, usually with some attempt to retain the original shape, including salient features such as panhandles that aid recognition (for example, [[Long Island]] and [[Cape Cod]] are often exaggerated). Thus, these cartograms are usually homomorphic and at least partially contiguous.
+
+This method works best with variables that are already measured as a relatively low-valued integer, enabling a one-to-one match with the cells. This has made them very popular for visualizing the [[United States Electoral College]] that determines the election of the [[President of the United States|president]], appearing on television coverage and numerous vote-tracking websites.<ref>{{cite web |last1=Bliss |first1=Laura |last2=Patino |first2=Marie |title=How to Spot Misleading Election Maps |url=https://www.bloomberg.com/news/articles/2020-11-03/a-complete-guide-to-misleading-election-maps |website=Bloomberg CityLab |publisher=Bloomberg |access-date=15 November 2020}}</ref> Several examples of block cartograms were published during the 2016 U.S. presidential election season by ''The Washington Post'',<ref>{{cite web|title=Poll: Redrawing the Electoral Map|url=https://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo#plus&electoral-map|website=Washington Post|access-date=4 February 2018}}</ref> the ''FiveThirtyEight'' blog,<ref>{{cite web|title=2016 Election Forecast|url=https://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo#plus&electoral-map|website=FiveThirtyEight blog|access-date=4 February 2018}}</ref> and the ''Wall Street Journal'',<ref>{{cite web|title=Draw the 2016 Electoral College Map|url=http://graphics.wsj.com/elections/2016/2016-electoral-college-map-predictions/|website=Wall Street Journal|access-date=4 February 2018}}</ref> among others.
+
+The major disadvantage of this type of cartogram has traditionally been that they had to be constructed manually, but recently algorithms have been developed to automatically generate both square and hexagonal mosaic cartograms.<ref name="cano2015">{{cite journal |last1=Cano |first1=R.G. |last2=Buchin |first2=K. |last3=Castermans |first3=T. |last4=Pieterse |first4=A. |last5=Sonke |first5=W. |last6=Speckman |first6=B. |title=Mosaic Drawings and Cartograms |journal=Computer Graphics Forum |date=2015 |volume=34 |issue=3 |pages=361–370 |doi=10.1111/cgf.12648|s2cid=41253089 |url=https://research.tue.nl/nl/publications/mosaic-drawings-and-cartograms(18c48d40-f040-43de-9a96-36ec0cf08829).html }} Proceedings of 2015 Eurographics Conference on Visualization (EuroVis)</ref><ref name="tilegrams">{{cite web |last1=Florin |first1=Adam |last2=Hamel |first2=Jessica |title=Tilegrams |url=https://pitchinteractiveinc.github.io/tilegrams/ |publisher=Pitch Interactive |access-date=15 November 2020}}</ref> One of these, Tilegrams, even admits that the results of their algorithm is not perfect and provides a way for users to edit the product.
+
+== Linear cartograms ==
+[[File:Travel Time Tube Map - High Barnet.png|thumb|A linear cartogram of the London Underground, with distance distorted to represent travel time from High Barnet station|right]]
+While an area cartogram manipulates the area of a polygon feature, a '''linear cartogram''' manipulates linear distance on a line feature. The spatial distortion allows the map reader to easily visualize intangible concepts such as travel time and connectivity on a network. Distance cartograms are also useful for comparing such concepts among different geographic features. A distance cartogram may also be called a ''central-point cartogram''.
+
+A common use of distance cartograms is to show the relative travel times and directions from vertices in a network. For example, on a distance cartogram showing travel time between cities, the less time required to get from one city to another, the shorter the distance on the cartogram will be. When it takes a longer time to travel between two cities, they will be shown as further apart in the cartogram, even if they are physically close together.
+
+Distance cartograms are also used to show connectivity. This is common on subway and metro maps, where stations and stops are shown as being the same distance apart on the map even though the true distance varies.  Though the exact time and distance from one location to another is distorted, these cartograms are still useful for travel and analysis.
+
+== Multivariate cartograms ==
+[[File:Canadian Federal Election Cartogram 2019.svg|thumb|left|upright=1.15|Hexagonal mosaic cartogram of the results of the 2019 Canadian parliamentary election, colored with the party of each winner using a nominal choropleth technique.]]
+{{main | Multivariate map }}
+Both area and linear cartograms adjust the base geometry of the map, but neither has any requirements for how each feature is symbolized. This means that [[Map symbol|symbology]] can be used to represent a second variable using a different type of [[Thematic map | thematic mapping technique]].<ref name="torguson2009" /> For linear cartograms, line width can be scaled as a [[flow map]] to represent a variable such as traffic volume. For area cartograms, it is very common to fill each district with a color as a [[choropleth map]]. For example, [http://worldmapper.org/ WorldMapper] has used this technique to map topics relating to global social issues, such as poverty or malnutrition; a cartogram based on total population is combined with a choropleth of a socioeconomic variable, giving readers a clear visualization of the number of people living in underprivileged conditions.
+
+Another option for diagrammatic cartograms is to subdivide the shapes as charts (commonly a [[pie chart]]), in the same fashion often done with [[proportional symbol maps]]. This can be very effective for showing complex variables such as population composition, but can be overwhelming if there are a large number of symbols or if the individual symbols are very small.
+
+== Production ==
+One of the first cartographers to generate cartograms with the aid of computer visualization was [[Waldo Tobler]] of [[University of California, Santa Barbara|UC Santa Barbara]] in the 1960s. Prior to Tobler's work, cartograms were created by hand (as they occasionally still are). The [[National Center for Geographic Information and Analysis]] located on the UCSB campus maintains an online [http://www.ncgia.ucsb.edu/projects/Cartogram_Central/index.html Cartogram Central] with resources regarding cartograms.
+
+A number of software packages generate cartograms. Most of the available cartogram generation tools work in conjunction with other [[GIS software]] tools as add-ons or independently produce cartographic outputs from GIS data formatted to work with commonly used GIS products. Examples of cartogram software include ScapeToad,<ref>[http://scapetoad.choros.ch/ ScapeToad]</ref><ref>{{Cite web |url=http://artofsoftware.org/2012/02/08/cartogram-crash-course/ |title=The Art of Software: Cartogram Crash Course |access-date=2012-08-17 |archive-url=https://web.archive.org/web/20130628092855/http://artofsoftware.org/2012/02/08/cartogram-crash-course/ |archive-date=2013-06-28 |url-status=dead }}</ref> Cart,<ref>[http://www-personal.umich.edu/~mejn/cart/ Cart: Computer software for making cartograms]</ref> and the Cartogram Processing Tool (an ArcScript for [[Environmental Systems Research Institute|ESRI]]'s [[ArcGIS]]), which all use the Gastner-Newman algorithm.<ref>[http://www.arcgis.com/home/item.html?id=d348614c97264ae19b0311019a5f2276 Cartogram Geoprocessing Tool]</ref><ref>{{Citation
+ | last1 = Hennig
+ | first1 = Benjamin D.
+ | last2 = Pritchard 
+ | first2 = John 
+ | last3 = Ramsden
+ | first3 = Mark
+ | last4 = Dorling
+ | first4 = Danny
+ | title = Remapping the World's Population: Visualizing data using cartograms
+ | journal = ArcUser
+ | issue = Winter 2010
+ | pages = 66–69
+ | url = http://www.esri.com/news/arcuser/0110/cartograms.html}}</ref> An alternative algorithm, Carto3F,<ref name="Sun_Carto3F">{{Citation
+ | last = Sun
+ | first = Shipeng
+ | year = 2013
+ | title = A Fast, Free-Form Rubber-Sheet Algorithm for Contiguous Area Cartograms
+ | journal =  International Journal of Geographical Information Science
+ | volume = 27
+ | issue = 3
+ | pages = 567–93
+ | doi=10.1080/13658816.2012.709247| s2cid = 17216016
+ }}</ref> is also implemented as an independent program for non-commercial use on Windows platforms.<ref>[http://sunsp.net/portfolio.html Personal Website of Shipeng Sun]</ref> This program also provides an optimization to the original Dougenik rubber-sheet algorithm.<ref name="Sun_Opti-DCN">{{Citation
+ | last = Sun | first = Shipeng | year = 2013
+ | title = An Optimized Rubber-Sheet Algorithm for Continuous Area Cartograms
+ | journal =  The Professional Geographer
+ | volume = 16 | issue = 1 | pages = 16–30
+ | doi=10.1080/00330124.2011.639613| s2cid = 58909676 }}</ref>
+<ref name="DCN">{{Citation
+ | last1 = Dougenik | first1 = James A. | first2 = Nicholas R. |last2 = Chrisman | first3 = Duane R. | last3 = Niemeyer
+ | year = 1985
+ | title = An Algorithm to Construct Continuous Area Cartograms
+ | journal =  The Professional Geographer
+ | volume = 37| issue = 1 | pages = 75–81
+ | doi=10.1111/j.0033-0124.1985.00075.x}}</ref>
+The [[R (programming language)#CRAN|CRAN]] package [https://cran.r-project.org/package=recmap recmap] provides an implementation of  a rectangular cartogram algorithm.<ref name="recmap" />
+
+=== Algorithms ===
+[[File:EU net budget 2007-2013 per capita cartogram.png|thumb|upright=1.15|Cartogram (likely Gastner-Newman) showing [[Open Europe]] estimate of total [[European Union]] net budget expenditure in euros for the whole period 2007–2013, ''per capita'', based on [[Eurostat]] 2007 pop. estimates (Luxembourg not shown).
+<br />
+'''Net contributors'''
+{{legend|#A20029|−5000 to −1000 euro per capita}}
+{{legend|#EC2220|−1000 to −500 euro per capita}}
+{{legend|#FF7900|−500 to 0 euro per capita}}
+'''Net recipients'''
+{{legend|#FFEF00|0 to 500 euro per capita}}
+{{legend|#2DA842|500 to 1000 euro per capita}}
+{{legend|#08AEE2|1000 to 5000 euro per capita}}
+{{legend|#566BE9|5000 to 10000 euro per capita}}
+{{legend|#000000|10000 euro plus per capita}}]]
+{| class="wikitable sortable"
+|-
+! Year !! Author !! Algorithm !! Type !! Shape preservation !! Topology preservation
+|-
+| 1973||[[Waldo R. Tobler|Tobler]]||Rubber map method|| area contiguous||with distortion || Yes, but not guaranteed
+|-
+| 1976||Olson||Projector method|| area noncontiguous||yes || No
+|-
+| 1978||Kadmon, Shlomi||Polyfocal projection || distance radial|| Unknown|| Unknown
+|-
+| 1984||Selvin et al.||DEMP (Radial Expansion) method||area contiguous||with distortion|| Unknown
+|-
+| 1985||Dougenik et al.||Rubber Sheet Distortion method <ref name="DCN" />||area contiguous||with distortion || Yes, but not guaranteed
+|-
+| 1986||[[Waldo R. Tobler|Tobler]]||Pseudo-Cartogram method||area contiguous||with distortion|| Yes
+|-
+| 1987||Snyder||Magnifying glass azimuthal map projections||   distance radial|| Unknown|| Unknown
+|-
+| 1989||Cauvin et al.||Piezopleth maps||area contiguous||with distortion|| Unknown
+|-
+| 1990||Torguson||Interactive polygon zipping method||area contiguous||with distortion|| Unknown
+|-
+| 1990||[[Danny Dorling|Dorling]]||Cellular Automata Machine method||area contiguous||with distortion||Yes
+|-
+| 1993||Gusein-Zade, Tikunov||Line Integral method||area contiguous||with distortion|| Yes
+|-
+| 1996||[[Danny Dorling|Dorling]]||Circular cartogram||area noncontiguous||no (circles)|| No
+|-
+| 1997||Sarkar, Brown||Graphical fisheye views||   distance radial|| Unknown|| Unknown
+|-
+| 1997||[[Herbert Edelsbrunner|Edelsbrunner]], Waupotitsch||Combinatorial-based approach||area contiguous||with distortion|| Unknown
+|-
+| 1998||Kocmoud, House||Constraint-based approach||area contiguous||with distortion|| Yes
+|-
+| 2001||[[Daniel A. Keim|Keim]], North, Panse||CartoDraw<ref name="CartoDraw">{{cite journal|last1=Keim|first1=Daniel|last2=North|first2=Stephen|last3=Panse|first3=Christian|title=CartoDraw: a fast algorithm for generating contiguous cartograms.|journal=IEEE Trans Vis Comput Graph|date=2004|volume=10|issue=1|pages=95–110|doi=10.1109/TVCG.2004.1260761|pmid=15382701|s2cid=9726148}}</ref>||area contiguous||with distortion|| Yes, algorithmically guaranteed
+|-
+| 2004||Gastner, Newman||Diffusion-based method<ref name="GN-Diffusion">[http://www.pnas.org/content/101/20/7499.full Gastner, Michael T. and Mark E. J. Newman, "Diffusion-based method for producing density-equalizing maps." ''Proceedings of the National Academy of Sciences'' 2004; 101:  7499–7504].</ref>||area contiguous||with distortion || Yes, algorithmically guaranteed
+|-
+| 2004||Sluga||Lastna tehnika za izdelavo anamorfoz||area contiguous||with distortion|| Unknown
+|-
+| 2004||van Kreveld, Speckmann||Rectangular Cartogram<ref name="BettinaSpeckmann2004">{{cite book|last1=van Kreveld|first1=Marc|last2=Speckmann|first2=Bettina|author2-link=Bettina Speckmann|title=On Rectangular Cartograms|journal=In: Albers S., Radzik T. (Eds) Algorithms – ESA 2004. ESA 2004. Lecture Notes in Computer Science|date=2004|volume=3221|pages=724–735|doi=10.1007/978-3-540-30140-0_64|series=Lecture Notes in Computer Science|isbn=978-3-540-23025-0}}</ref>||area contiguous||no (rectangles)|| No
+|-
+| 2004||Heilmann, [[Daniel A. Keim|Keim]] et al.||[https://cran.r-project.org/package=recmap RecMap]<ref name="recmap">{{cite book|last1=Heilmann|first1=Roland|last2=Keim|first2=Daniel|last3=Panse|first3=Christian|last4=Sips|first4=Mike|title=RecMap : Rectangular Map Approximations|journal=Proceedings of the 10th IEEE Symposium on Information Visualization|date=2004|pages=33–40|doi=10.1109/INFVIS.2004.57|isbn=978-0-7803-8779-9|s2cid=14266549}}</ref>||area noncontiguous||no (rectangles)|| No
+|-
+| 2005||[[Daniel A. Keim|Keim]], North, Panse||Medial-axis-based cartograms<ref name="MCartoDraw">{{cite journal|last1=Keim|first1=Daniel|last3=North|first3=Stephen|last2=Panse|first2=Christian|title=Medial-axis-based cartograms.|journal= IEEE Computer Graphics and Applications|date=2005|volume=25|issue=3|pages=60–68|doi=10.1109/MCG.2005.64|pmid=15943089|s2cid=6012366|url=http://nbn-resolving.de/urn:nbn:de:bsz:352-opus-69401}}</ref>||area contiguous||with distortion|| Yes, algorithmically guaranteed
+|-
+| 2009||Heriques, Bação, Lobo||Carto-SOM||area contiguous||with distortion|| Yes
+|-
+| 2013||Shipeng Sun ||Opti-DCN<ref name="Sun_Opti-DCN" /> and Carto3F<ref name="Sun_Carto3F" />||area contiguous||with distortion || Yes, algorithmically guaranteed
+|-
+| 2014||[[B. S. Daya Sagar]]||Mathematical Morphology-Based Cartograms||area contiguous||with local distortion,<br/>but no global distortion|| No
+|-
+| 2018||Gastner, Seguy, More||Fast Flow-Based Method<ref name="GSM-Fast-Flow-Based"/>||area contiguous||with distortion || Yes, algorithmically guaranteed
+|}
+
+==See also==
+* {{annotated link|Choropleth map}}
+* {{annotated link|Contour line|Contour map}}
+* {{annotated link|Thematic map}}
+
+== References ==
+{{reflist|30em}}
+
+== Further reading ==
+* Campbell, John. ''Map Use and Analysis''. New York: McGraw-Hill, 2001.
+* [http://www.dannydorling.org/?page_id=1448 Dorling, Daniel. "Area cartograms: Their use and creation." "Concepts and Techniques in Modern Geography series no. 59." Norwich: University of East Anglia, 1996].
+* [http://www.pnas.org/content/101/20/7499.full Gastner, Michael T. and Mark E. J. Newman, "Diffusion-based method for producing density-equalizing maps." ''Proceedings of the National Academy of Sciences'' 2004; 101:  7499–7504].
+* {{cite journal | last1 = Gillard | first1 = Quentin | year = 1979 | title = Places in the News: The Use of Cartograms in Introductory Geography Courses | journal = [[Journal of Geography]] | volume = 78 | issue = 3| pages = 114–115 | doi = 10.1080/00221347908979963 }}
+* [https://dx.doi.org/10.1007/978-3-642-34848-8 Hennig, Benjamin D. "Rediscovering the World: Map Transformations of Human and Physical Space." Berlin, Heidelberg: Springer, 2013].
+* [http://www.viz.tamu.edu/faculty/house/cartograms/Vis98.PDF House, Donald H. and Christopher Kocmoud, "Continuous Cartogram Construction." ''Proceedings of the IEEE Conference on Visualization 1998'']
+*Paull, John & Hennig, Benjamin (2016) [https://www.academia.edu/25648267/Atlas_of_Organics_Four_maps_of_the_world_of_organic_agriculture  Atlas of Organics: Four Maps of the World of Organic Agriculture]  Journal of Organics. 3(1): 25–32.
+* [http://www.geog.ucsb.edu/~kclarke/G232/ToblerCartograms.pdf Tobler, Waldo. "Thirty-Five Years of Computer Cartograms." ''Annals of the Association of American Geographers''. 94 (2004): 58–73].
+* [[Victor Vescovo|Vescovo, Victor]]. "The Atlas of World Statistics." Dallas: Caladan Press, 2005.
+
+== External links ==
+{{Commons category|Cartograms}}
+* [http://www.ncgia.ucsb.edu/projects/Cartogram_Central/index.html Cartogram Central]
+* [https://worldmapper.org/ Worldmapper collection of world cartograms]
+* [https://web.archive.org/web/20150221150040/http://www.comeetie.fr/map_lbc.php Classified Ads on the French Leboncoin social web site and their regional distribution]
+*[https://florencioq.github.io/cartogram-brazil/ Cartograms about Brazil]
+*[https://pitchinteractiveinc.github.io/tilegrams/ Tilegrams] - Interactive tool for constructing hexagonal mosaic cartograms
+
+{{Atlas}}
+
+[[Category:Diagrams]]
+[[Category:Statistical charts and diagrams]]

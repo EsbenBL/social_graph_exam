@@ -1,0 +1,929 @@
+{{Short description|Capital city of the United States}}
+{{Redirect|District of Columbia|the history of the district as a separate legal entity|District of Columbia (until 1871)}}
+{{Other uses|United States capital (disambiguation)|Washington (disambiguation)}}
+{{pp-semi-indef}}
+{{pp-move-indef}}
+{{Featured article}}
+{{Use mdy dates|date=November 2020}}
+{{Infobox settlement
+| anthem                          = "Washington" <br> "Our Nation's Capital" (march)<ref name="dc">{{cite web |last1=Imhoff |first1=Gary |title=Our Official Songs|date=October 1999 |work=DC Watch |url=http://www.dcwatch.com/gary/gri9910.htm |access-date=February 7, 2012}}</ref>
+| name                            = Washington, D.C.
+| official_name                   = District of Columbia
+| settlement_type                 = [[Capital city|Federal capital city]] and [[federal district]]
+| motto                           = {{lang|la|Justitia Omnibus}}<br />({{lang-en|Justice for All}})
+| image_skyline                   = {{multiple image
+| perrow         = 2/2/2/1
+| border         = infobox
+| total_width    = 280
+| image1 = National Mall, Lincoln Memorial 04448v.jpg
+| alt1 = Aerial view of the Lincoln Memorial, reflecting pool, and Washington Monument
+| image2 = 12-07-13-washington-by-RalfR-08.jpg
+| alt2 = U.S. Capitol Building dome
+| image3 = WashingtonNationalCathedralHighsmith15393v.jpg
+| alt3 = The Gothic Washington National Cathedral
+| image4 = 12-07-12-wikimania-wdc-by-RalfR-010.jpg
+| alt4 = Train arriving at the McPherson Square metro station with a domed concrete ceiling
+| image5 = Adams Morgan Day 2014 (cropped).jpg
+| alt5 = Colorful rowhouses in Adams Morgan
+| image6 = Smithsonian Air and Space Planes.jpg
+| alt6 = Planes suspended from the ceiling of the Smithsonian National Air and Space Museum lobby
+| image7 = White House lawn (long tightly cropped).jpg
+| alt7 = Manicured South Lawn of the White House
+}}
+| image_caption                   = Clockwise from top left: the [[Washington Monument]] and [[Lincoln Memorial]] on the [[National Mall]], [[United States Capitol]], [[Washington Metro]], [[National Air and Space Museum|Air and Space Museum]], [[White House]], storefronts in [[Adams Morgan]], [[National Cathedral]]
+| image_flag                      = Flag of the District of Columbia.svg
+| image_seal                      = Seal of the District of Columbia.svg
+| nickname                        = D.C., The District
+| image_map                       = {{Maplink|frame=yes|plain=y|frame-width=300|frame-height=200|frame-align=center|zoom=4|type=point|title=Washington D.C.|marker=city|type2=shape|stroke-width2=2|stroke-color2=#808080}}
+| map_caption                     = Interactive map of Washington D.C.
+| coordinates                     = {{coord|38.9101|-77.0147|dim:50000_region:US-DC_type:adm1st|name=District of Columbia|display=inline}}
+| subdivision_type                = [[List of sovereign states|Country]]
+| subdivision_name                = {{flagu|United States}}
+| established_title               = [[Residence Act]]
+| established_date                = 1790
+| named_for                       = [[George Washington]], [[Christopher Columbus]]
+| established_title1              = [[District of Columbia Organic Act of 1801|Organized]]
+| established_date1               = 1801
+| established_title2              = [[District of Columbia Organic Act of 1871|Consolidated]]
+| established_date2               = 1871
+| established_title3              = [[District of Columbia Home Rule Act|Home Rule Act]]
+| established_date3               = 1973
+| unit_pref                       = imperial
+| leader_title                    = [[Mayor of the District of Columbia|Mayor]]
+| leader_title1                   = [[Council of the District of Columbia|D.C. Council]]
+| leader_title2                   = [[United States House of Representatives|U.S. House]]
+| leader_name                     = [[Muriel Bowser]]&nbsp;([[Democratic Party (United States)|D]])
+| leader_name1                    = {{Collapsible list
+ |title = |bullets=yes
+ |frame_style = border:none; padding: 0;
+ |list_style = text-align:left;display:yes;
+ |1 = [[Phil Mendelson]]&nbsp;(D), Chairman
+ |2 = [[Anita Bonds]]&nbsp;(D), At‑large
+ |3 = Christina Henderson&nbsp;([[Independent politician|I]]), At‑large
+ |4 = [[Robert White (Washington, D.C., politician)|Robert White]]&nbsp;(D), At‑large
+ |5 = [[Elissa Silverman]]&nbsp;(I), At‑large
+ |6 = [[Brianne Nadeau]]&nbsp;(D), Ward&nbsp;1
+ |7 = [[Brooke Pinto]]&nbsp;(D),<br>Ward&nbsp;2
+ |8 = [[Mary Cheh]]&nbsp;(D),<br />Ward&nbsp;3
+ |9 = [[Janeese Lewis George]]&nbsp;(D), Ward&nbsp;4
+ |10 = [[Kenyan McDuffie]]&nbsp;(D), Ward&nbsp;5
+ |11 = [[Charles Allen (Washington, D.C. politician)|Charles Allen]]&nbsp;(D), Ward&nbsp;6
+ |12 = [[Vincent C. Gray]]&nbsp;(D), Ward&nbsp;7
+ |13 = [[Trayon White]]&nbsp;(D), Ward&nbsp;8
+ }}
+| leader_name2                    = [[Eleanor Holmes Norton]]&nbsp;(D),<br />[[District of Columbia's at-large congressional district|Delegate]] (At-large)
+| area_total_sq_mi                = 68.34
+| area_land_sq_mi                 = 61.05
+| area_water_sq_mi                = 7.29
+| population_as_of                = [[2020 United States census|2020]]
+| population_total                = 689545
+| population_rank                 = [[List of United States cities by population|20th]] in the United States
+| population_metro_footnotes      = <ref name="2020Pop">{{cite web |title=2020 Population and Housing State Data |url=https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html |publisher=United States Census Bureau |access-date=22 August 2021}}</ref>
+| population_metro                = 6385162 ([[List of metropolitan statistical areas|6th]])
+| population_footnotes            = <ref name="QuickFacts">{{cite web |title=QuickFacts: Washington city, District of Columbia |url=https://www.census.gov/quickfacts/fact/table/washingtoncitydistrictofcolumbia/POP010220 |publisher=United States Census Bureau |access-date=20 August 2021}}</ref>
+| population_density_sq_mi        = 11294.76
+| population_density_km2          = 4361.45
+| population_demonym              = Washingtonian<ref>{{cite web|title=Demonyms for people from the USA|url=http://www.geography-site.co.uk/pages/countries/demonyms_usa.html|website=www.geography-site.co.uk|access-date=April 12, 2017|language=en}}</ref><ref>{{Cite web |url=http://addis.com/news/demonym/ |title=Demonym |website=addis.com |language=en |access-date=April 12, 2017 |url-status=dead |archive-url=https://web.archive.org/web/20170413073309/http://addis.com/news/demonym/ |archive-date=April 13, 2017 }}</ref>
+| timezone                        = [[Eastern Time Zone|EST]]
+| utc_offset                      = −5
+| timezone_DST                    = [[Eastern Time Zone|EDT]]
+| utc_offset_DST                  = −4
+| postal_code_type                = [[ZIP Code]]s
+| postal_code                     = 20001–20098, 20201–20599
+| area_code                       = [[Area code 202|202]], 771 (overlay)<ref>[https://dcist.com/story/21/04/05/dc-new-area-code-771-to-start-in-november-2021/ D.C.'s New (771) Area Code Will Start Being Assigned In November] {{Webarchive|url=https://web.archive.org/web/20210426175047/https://dcist.com/story/21/04/05/dc-new-area-code-771-to-start-in-november-2021/ |date=April 26, 2021 }}(Retrieved 26 April 2021 from DCist.com)</ref><ref>[https://www.washingtonpost.com/local/dcs-202-area-code-ending-its-73-year-run/2020/09/22/dcb59ef0-fcea-11ea-b555-4d71a9254f4b_story.html 771 will be new D.C. area code, supplementing venerable 202](Retrieved 26 April 2021 from Washington Post)</ref>
+| elevation_min_ft                = 0
+| elevation_max_ft                = 409
+| website                         = {{URL|dc.gov/|dc.gov}}
+| blank_name_sec1                 = Major airports
+| blank_info_sec1                 = {{unbulleted list| [[Dulles International Airport|Washington Dulles]] |[[Reagan National Airport|Reagan National]] |[[Baltimore/Washington International Airport|Baltimore/Washington]]}}
+| blank1_name_sec1                = [[Commuter rail]]
+| blank1_info_sec1                = [[File:MARC train.svg|30px|link= MARC Train]] [[File:Virginia Railway Express.svg|30px|link= Virginia Railway Express]]
+| blank2_name_sec1                = [[Rapid transit]]
+| blank2_info_sec1                = [[File:WMATA Red.svg|22px|link= Red Line (Washington Metro)]] [[File:WMATA Blue.svg|22px|link= Blue Line (Washington Metro)]] [[File:WMATA Orange.svg|22px|link= Orange Line (Washington Metro)]] [[File:WMATA Yellow.svg|22px|link= Yellow Line (Washington Metro)]] [[File:WMATA Green.svg|22px|link= Green Line (Washington Metro)]] [[File:WMATA Silver.svg|22px|link= Silver Line (Washington Metro)]]
+}}
+{{Infobox U.S. state symbols
+<!-- Sources: https://os.dc.gov/page/dc-symbols, http://www.netstate.com/states/symb/dc_symb.htm -->
+|Name = Washington, D.C.,
+|Bird = [[Wood Thrush]]
+|Tree = [[Scarlet Oak]]
+|Flower = [[American Beauty rose]]
+|Beverage = [[The Rickey|Rickey]]<ref>{{cite web |author=Jamie R. Liu |title=Rickey Named Official D.C. Cocktail |work=DCist |date=July 14, 2011 |url=http://dcist.com/2011/07/rickey_named_dcs_cocktail.php |access-date=July 14, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111014163359/http://dcist.com/2011/07/rickey_named_dcs_cocktail.php |archive-date=October 14, 2011 }}</ref>
+|Dinosaur = ''[[list of informally named dinosaurs#Capitalsaurus|Capitalsaurus]]''
+|Food = [[Cherry]]
+|Rock = [[Potomac bluestone]]
+|Slogan = Federal City
+|Route Marker = {{infobox road/shieldmain/USA|state=DC|type=DC|route=295}}
+|Quarter = File:2009 DC Proof.png
+|QuarterReleaseDate = 2009
+|Mammal=[[Little brown bat]]
+|Fish=[[American shad]]}}
+'''Washington, D.C.''', formally the '''District of Columbia''' ('''D.C.'''), also known as just '''Washington''', is the [[capital city]] of the [[United States]].<ref>{{Cite web |url=https://www.whitehousehistory.org/where-oh-where-should-the-capital-be-white-house-history-number-34 |title=Introduction: Where Oh Where Should the Capital Be? |website=WHHA |language=en}}</ref> It is located on the east bank of the [[Potomac River]] which forms its southwestern and southern border with the U.S. state of [[Virginia]], and shares a land border with the U.S. state of [[Maryland]] on its remaining sides. The city was named for [[George Washington]], the first [[president of the United States]] and a [[Founding Fathers of the United States|Founding Father]],<ref>{{Cite web |url=http://www.dchistory.org/publications/dc-history-faq/ |title=Washington, D.C. History F.A.Q. |website=The Historical Society of Washington, D.C. |language=en-US |access-date=March 7, 2018 |date=May 27, 2014 |archive-date=September 10, 2017 |archive-url=https://web.archive.org/web/20170910142827/http://www.dchistory.org/publications/dc-history-faq/ |url-status=dead }}</ref> and the [[federal district]] is named after [[Columbia (personification)|Columbia]], a female personification of the nation. As the seat of the [[U.S. federal government]] and several international organizations, the city is an important [[Caput Mundi|world political capital]].<ref>{{Cite web |url=https://pqasb.pqarchiver.com/washingtonpost/doc/307230206.html?FMT=ABS&FMTS=ABS:FT&type=current&date=FEB%2018,%201990&author=David%20S.%20Broder&pub=The%20Washington%20Post&edition=&startpage=&desc=Nation%27s%20Capital%20in%20Eclipse%20as%20Pride%20and%20Power%20Slip%20Away;%20Some%20See%20Descent%20as%20Steep%20and%20Permanent%20but%20Others%20Regard%20It%20as%20Temporary |title=Nation's Capital in Eclipse as Pride and Power Slip Away |last=Broder |first=David S. |author-link=David S. Broder |date=February 18, 1990 |website=[[The Washington Post]] |access-date=October 18, 2010 |quote=In the days of the Truman Doctrine, the Marshall Plan and the creation of NATO, [Clark Clifford] said, ''we saved the world, and Washington became the capital of the world.''}}</ref> It is one of the most visited cities in the U.S., seeing over 20&nbsp;million visitors in 2016.<ref>{{Cite web |url=http://www.thisisinsider.com/most-visited-us-cities-2017-12#6-washington-dc-5 |title=The 10 most-visited cities in the US this year |website=Insider |access-date=March 6, 2018}}</ref><ref>{{Cite web |url=https://www.bizjournals.com/washington/news/2017/05/09/d-c-breaks-another-domestic-tourism-record.html |title=D.C. breaks another domestic tourism record|last=Cooper |first=Rebecca |date=May 9, 2017 |website=www.bizjournals.com |publisher=Washington Business Journal}}</ref>
+
+The [[U.S. Constitution]] provides for a [[federal district]] under the [[District of Columbia home rule|exclusive jurisdiction]] of [[United States Congress|Congress]]; the district is therefore not a part of any [[U.S. state]] (nor is it one itself). The signing of the [[Residence Act]] on July 16, 1790, approved the creation of a [[capital district]] located along the Potomac River near the country's [[East Coast of the United States|East Coast]]. The City of Washington was founded in 1791 to serve as the national capital, and Congress held its first session there in 1800. In 1801, the territory, formerly part of Maryland and Virginia (including the settlements of [[Georgetown (Washington, D.C.)|Georgetown]] and [[Alexandria, Virginia|Alexandria]]), officially became recognized as the federal district. In 1846, Congress [[District of Columbia retrocession|returned the land originally ceded by Virginia]], including the city of Alexandria; in 1871, it created a [[District of Columbia Organic Act of 1871|single municipal government]] for the remaining portion of the district. There have been [[Statehood movement in the District of Columbia|efforts]] to make the city into a state since the 1880s, a movement that has gained momentum in recent years, and a [[DC Admission Act|statehood bill]] passed the [[United States House of Representatives|House of Representatives]] in 2021.<ref>{{Cite news|last=Cochrane|first=Emily|date=2021-04-22|title=House Approves D.C. Statehood, but Senate Obstacles Remain|language=en-US|work=The New York Times|url=https://www.nytimes.com/2021/04/22/us/politics/dc-statehood-vote.html|access-date=2021-04-23|issn=0362-4331}}</ref>
+
+The city is divided into [[Quadrants of Washington, D.C.|quadrants]] centered on the [[United States Capitol|Capitol Building]], and there are as many as 131 [[Neighborhoods in Washington, D.C.|neighborhoods]]. According to the [[2020 United States census|2020 Census]], it has a population of 689,545,<ref name="QuickFacts" /> which makes it the [[List of United States cities by population|20th-most populous city in the U.S.]] and gives it a population larger than that of two U.S. states: Wyoming and Vermont.<ref>{{Cite web|last=Journal|first=Matt Vasilogambros, National|date=2013-12-30|title=D.C. Has More People Than Wyoming and Vermont, Still Not a State|url=https://www.theatlantic.com/politics/archive/2013/12/dc-has-more-people-than-wyoming-and-vermont-still-not-a-state/437661/|access-date=2020-11-23|website=The Atlantic|language=en-US}}</ref> [[Commuters]] from the surrounding Maryland and Virginia suburbs raise the city's daytime population to more than one&nbsp;million during the workweek.<ref name="U.S. Department of Commerce">{{cite web|title=Washington-Arlington-Alexandria, DC-VA-MD-WV|url=https://www.census.gov/population/www/cen2000/migration/metxmet/a47900.html|website=U.S. Census Bureau|publisher=U.S. Department of Commerce|access-date=April 12, 2017}}</ref> Washington's [[Washington metropolitan area|metropolitan area]], the country's [[List of metropolitan statistical areas|sixth-largest]] (including parts of Maryland, Virginia and [[West Virginia]]), had a 2019 estimated population of 6.3&nbsp;million residents.<ref>{{cite web |url=https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-metro-and-micro-statistical-areas.html |title=Metropolitan and Micropolitan Statistical Areas Population Totals and Components of Change: 2010–2019 |publisher=[[United States Census Bureau]], Population Division |date=April 2019 |access-date=April 18, 2020}}</ref>
+
+The three branches of the U.S. federal government are centered in the district: Congress (legislative), the president (executive), and the [[U.S. Supreme Court|Supreme Court]] (judicial). Washington is home to many national [[List of museums in Washington, D.C.|monuments and museums]], primarily situated on or around the [[National Mall]]. The city hosts [[List of diplomatic missions in Washington, D.C.|177 foreign embassies]] as well as the headquarters of many international organizations, trade unions, non-profits, lobbying groups, and professional associations, including the [[World Bank Group]], the [[International Monetary Fund]], the [[Organization of American States]], the [[AARP]], the [[National Geographic Society]], the [[Human Rights Campaign]], the [[International Finance Corporation]], and the [[American Red Cross]].
+
+[[Mayor of the District of Columbia|A locally elected mayor]] and [[Council of the District of Columbia|a 13-member council]] have governed the district since 1973. Congress maintains supreme authority over the city and may overturn local laws. D.C. residents elect a [[District of Columbia voting rights|non-voting]], at-large [[Non-voting members of the United States House of Representatives|congressional delegate]] to the House of Representatives, but the district has no representation in the [[United States Senate|Senate]]. District voters choose three [[United States Electoral College|presidential electors]] in accordance with the [[Twenty-third Amendment to the United States Constitution]], ratified in 1961.
+
+==History==
+{{For|the capitals of the United States before the founding of Washington, D.C.|List of capitals in the United States#Capitals of the US}}
+{{Further|History of Washington, D.C.|Timeline of Washington, D.C.|District of Columbia (until 1871)}}
+Various [[tribe]]s of the [[Algonquian peoples|Algonquian]]-speaking [[Piscataway tribe|Piscataway people]] (also known as the Conoy) inhabited the lands around the [[Potomac River]] when Europeans first visited the area in the early 17th century. One group known as the [[Nacotchtank]] (also called the Nacostines by [[Catholic missions|Catholic missionaries]]) maintained settlements around the [[Anacostia River]] within the present-day District of Columbia. Conflicts with [[European colonization of the Americas|European colonists]] and neighboring tribes forced the relocation of the Piscataway people, some of whom established a new settlement in 1699 near [[Point of Rocks, Maryland]].<ref>{{Cite book |url=https://books.google.com/books?id=BaJrnQEACAAJ |title=Ancient Washington: American Indian Cultures of the Potomac Valley |last1=Humphrey |first1=Robert Lee |last2=Chambers |first2=Mary Elizabeth |date=1977 |publisher=George Washington University |isbn=9781888028041 |access-date=March 6, 2018}}</ref>
+
+In his [[Federalist No. 43]], published January 23, 1788, [[James Madison]] argued that the new federal government would need authority over a national capital to provide for its own maintenance and safety.<ref>{{cite web |url=http://thomas.loc.gov/home/fedpapers/fed_43.html |title=The Federalist No. 43 |access-date=September 5, 2011 |last=Madison |first=James |work=The Independent Journal |publisher=Library of Congress |archive-date=August 23, 2011 |archive-url=https://www.webcitation.org/619ldujGz?url=http://thomas.loc.gov/home/fedpapers/fed_43.html |url-status=dead }}</ref> Five years earlier, a band of unpaid soldiers had besieged Congress while its members were meeting in [[Philadelphia]]. Known as the [[Pennsylvania Mutiny of 1783]], the event emphasized the need for the national government not to rely on any state for its own security.<ref>{{Cite book |chapter-url=https://books.google.com/books?id=5Q81AAAAIAAJ |title=Centennial History of the City of Washington, D.C. |last1=Crew |first1=Harvey W. |last2=Webb |first2=William Bensing |last3=Wooldridge |first3=John |publisher=United Brethren Publishing House |year=1892 |location=Dayton, OH |page=66 |chapter=IV. Washington Becomes The Capital}}</ref>
+
+[[Article One of the United States Constitution#Section 8: Powers of Congress|Article One, Section Eight]], of the [[United States Constitution|Constitution]] permits the establishment of a "District (not exceeding ten&nbsp;miles&nbsp;square) as may, by cession of particular states, and the acceptance of Congress, become the seat of the government of the United States".<ref>{{cite web|url=https://www.archives.gov/exhibits/charters/constitution_transcript.html |title=Constitution of the United States |access-date=July 22, 2008 |publisher=[[National Archives and Records Administration]] }}</ref> However, the Constitution does not specify a location for the capital. In what is now known as the [[Compromise of 1790]], Madison, [[Alexander Hamilton]], and [[Thomas Jefferson]] agreed that the federal government would pay each state's remaining [[American Revolutionary War|Revolutionary War]] debts in exchange for establishing the new national capital in the [[Southern United States]].<ref name=Crew124>{{cite book |last1=Crew |first1=Harvey W. |last2=Webb |first2=William Bensing |last3=Wooldridge |first3=John |title=Centennial History of the City of Washington, D.C. |publisher=United Brethren Publishing House |year=1892 |location=Dayton, OH |url=https://archive.org/details/bub_gb_5Q81AAAAIAAJ |page=[https://archive.org/details/bub_gb_5Q81AAAAIAAJ/page/n131 124]}}</ref>{{efn|By 1790, the Southern states had largely repaid their overseas debts from the Revolutionary War. The Northern states had not, and wanted the federal government to take over their outstanding liabilities. Southern Congressmen agreed to the plan in return for establishing the new national capital at their preferred site on the Potomac River.<ref name=Crew124/>}}
+
+===Foundation===
+On July 9, 1790, Congress passed the [[Residence Act]], which approved the creation of a national capital on the [[Potomac River]]. The exact location was to be selected by President [[George Washington]], who signed the bill into law on July 16. Formed from land donated by the states of Maryland and Virginia, the initial shape of the federal district was a square measuring {{convert|10|mi|km}} on each side, totaling {{convert|100|sqmi|km2|0}}.<ref name=Crew89>{{cite book |last1=Crew |first1=Harvey W. |last2=Webb |first2=William Bensing |last3=Wooldridge |first3=John |title=Centennial History of the City of Washington, D.C. |publisher=United Brethren Publishing House |year=1892 |location=Dayton, OH |url=https://archive.org/details/bub_gb_5Q81AAAAIAAJ |pages=[https://archive.org/details/bub_gb_5Q81AAAAIAAJ/page/n96 89]–92 }}</ref>{{efn|The Residence Act allowed the President to select a location within Maryland as far east as the Anacostia River. However, Washington shifted the federal territory's borders to the southeast and rotated them to include the city of [[Alexandria, Virginia|Alexandria]] at the District's southern tip. In 1791, Congress amended the Residence Act to approve the new site, including territory ceded by Virginia.<ref name=Crew89 />}}
+
+Two pre-existing settlements were included in the territory: the port of [[Georgetown (Washington, D.C.)|Georgetown, Maryland]], founded in 1751,<ref>{{cite web|url=http://www.nps.gov/history/nr/travel/Wash/dc15.htm |title=Georgetown Historic District |access-date=July 5, 2008 |publisher=[[National Park Service]]}}</ref> and the port city of [[Alexandria, Virginia]], founded in 1749.<ref>{{cite web|url=http://www.alexandriahistorical.org/history.html |title=Alexandria's History |access-date=April 4, 2009 |publisher=Alexandria Historical Society |url-status=dead |archive-url=https://web.archive.org/web/20090404012136/http://www.alexandriahistorical.org/history.html |archive-date=April 4, 2009 }}</ref> During 1791–92, a team under [[Andrew Ellicott (surveyor)|Andrew Ellicott]], including Ellicott's brothers [[Joseph Ellicott|Joseph]] and [[Benjamin Ellicott|Benjamin]] and African-American [[astronomer]] [[Benjamin Banneker]], surveyed the borders of the federal district and placed [[Boundary Stones (District of Columbia)|boundary stones]] at every mile point.<ref>{{cite book|last=Bordewich|first=Fergus M.|title=Washington: the making of the American capital|year=2008|publisher=HarperCollins|isbn=978-0-06-084238-3|pages=76–80|url=https://books.google.com/books?id=kKKMJ7Rqta8C}}</ref> Many of the stones are still standing.<ref>{{cite web|url=http://www.boundarystones.org/ |title=Boundary Stones of the District of Columbia |publisher=BoundaryStones.org |access-date=May 27, 2008 }}</ref>
+
+A new [[federal city]] was then constructed on the north bank of the Potomac, to the east of Georgetown. On September 9, 1791, the three commissioners overseeing the capital's construction named the city in honor of President Washington. The same day, the federal district was named Columbia (a feminine form of "[[Christopher Columbus|Columbus]]"), which was [[Columbia (personification)|a poetic name for the United States]] commonly in use at that time.<ref>{{cite book|last1=Crew |first1=Harvey W. |last2=Webb |first2=William Bensing |last3=Wooldridge |first3=John |url=https://books.google.com/books?id=5Q81AAAAIAAJ&pg=PA101|title=Centennial History of the City of Washington, D.C. |publisher=United Brethren Publishing House|place=Dayton, OH|page=101|year=1892|access-date=June 1, 2011}}</ref><ref>{{cite web|title=Get to Know D.C. |url=http://www.historydc.org/aboutdc.aspx |publisher=Historical Society of Washington, D.C. |access-date=July 11, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20100918042009/http://www.historydc.org/aboutdc.aspx |archive-date=September 18, 2010 }}</ref> Congress held its first session there on November 17, 1800.<ref>{{cite web|url=https://www.senate.gov/artandhistory/history/minute/The_Senate_Moves_to_Washington.htm |title=The Senate Moves to Washington |access-date=July 11, 2008 |date=February 14, 2006 |publisher=[[United States Senate]] }}</ref><ref>{{Cite web|url=https://ghostsofdc.org/2013/07/24/washington-dc-district-of-columbia/|title=Why Is Washington, D.C. Called the District of Columbia?|last=Tom|date=July 24, 2013|website=Ghosts of DC|language=en-US|access-date=February 20, 2019}}</ref>
+
+Congress passed the [[District of Columbia Organic Act of 1801]] which officially organized the district and placed the entire territory under the [[District of Columbia home rule|exclusive control]] of the federal government. Further, the area within the district was organized into two counties: the [[Washington County, D.C.|County of Washington]] to the east (or north) of the Potomac and the [[Alexandria County, D.C.|County of Alexandria]] to the west (or south).<ref>{{cite book |last1=Crew |first1=Harvey W. |last2=Webb |first2=William Bensing |last3=Wooldridge |first3=John |title=Centennial History of the City of Washington, D.C.|chapter=IV. Permanent Capital Site Selected|publisher=United Brethren Publishing House |year=1892 |location=Dayton, Ohio |chapter-url=https://books.google.com/books?id=5Q81AAAAIAAJ |page=103 }}</ref> After the passage of this Act, citizens living in the district were no longer considered residents of Maryland or Virginia, which therefore ended their representation in Congress.<ref>{{cite web|url=http://www.americanbar.org/content/dam/aba/migrated/poladv/letters/electionlaw/060914testimony_dcvoting.authcheckdam.pdf |title=Statement on the subject of The District of Columbia Fair and Equal Voting Rights Act |access-date=August 10, 2011 |date=September 14, 2006 |publisher=[[American Bar Association]] }}</ref>
+
+===Burning during the War of 1812===
+
+{{Main|War of 1812}}
+[[File:British Burning Washington.jpg|thumb|Following their victory at the [[Battle of Bladensburg]], the British entered Washington, D.C., [[Burning of Washington|burning down buildings]], including the [[White House]].]]
+
+On August 24–25, 1814, in a raid known as the [[Burning of Washington]], British forces invaded the capital during the [[War of 1812]]. The [[United States Capitol|Capitol]], [[United States Department of the Treasury|Treasury]], and [[White House]] were burned and gutted during the attack.<ref>{{cite web|url=http://www.whitehousehistory.org/whha_classroom/classroom_documents-1812.html|title=Saving History: Dolley Madison, the White House, and the War of 1812 |access-date=February 21, 2010 |publisher=White House Historical Association }}</ref> Most government buildings were repaired quickly; however, the Capitol was largely under construction at the time and was not completed in its current form until 1868.<ref>{{cite web|url=http://www.aoc.gov/history/us-capitol-building |title=A Brief Construction History of the Capitol |access-date=December 2, 2012 |publisher=Architect of the Capitol }}</ref>
+
+===Retrocession and the Civil War===
+
+{{see also|District of Columbia retrocession|Washington, D.C., in the American Civil War}}
+[[File:LincolnInauguration1861a.jpg|thumb|President [[Abraham Lincoln]] insisted that construction of the [[United States Capitol dome]] continue during the [[American Civil War]] (1861).]]
+
+In the 1830s, the district's southern territory of Alexandria went into economic decline partly due to neglect by Congress.<ref name=richards>{{cite journal|last=Richards |first=Mark David |date=Spring–Summer 2004 |title=The Debates over the Retrocession of the District of Columbia, 1801–2004 |journal=Washington History |pages=54–82 |url=http://www.dcvote.org/pdfs/mdrretro062004.pdf |access-date=January 16, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090118053203/http://www.dcvote.org/pdfs/mdrretro062004.pdf |archive-date=January 18, 2009 }}</ref> The city of Alexandria was a major market in the American [[History of slavery|slave trade]], and pro-slavery residents feared that [[Abolitionism in the United States|abolitionists]] in Congress would [[Slavery in the United States|end slavery]] in the district, further depressing the economy. Alexandria's citizens petitioned Virginia to take back the land it had donated to form the district, through a process known as [[District of Columbia retrocession|retrocession]].<ref>{{cite book |last=Greeley |first=Horace |title=The American Conflict: A History of the Great Rebellion in the United States |publisher=G. & C.W. Sherwood |year=1864 |location=Chicago |url=https://archive.org/details/americanconflic06greegoog |pages=[https://archive.org/details/americanconflic06greegoog/page/n154 142]–144}}</ref>
+
+The [[Virginia General Assembly]] voted in February 1846 to accept the return of Alexandria. On July 9, 1846, Congress agreed to return all the territory that Virginia had ceded. Therefore, the district's area consists only of the portion originally donated by Maryland.<ref name=richards /> Confirming the fears of pro-slavery Alexandrians, the [[Compromise of 1850]] outlawed the slave trade in the District, although not slavery itself.<ref>{{cite web|url=https://www.loc.gov/rr/program/bib/ourdocs/Compromise1850.html |title=Compromise of 1850 |access-date=July 24, 2008 |date=September 21, 2007 |publisher=[[Library of Congress]] }}</ref>
+
+The outbreak of the [[American Civil War]] in 1861 led to the expansion of the federal government and notable growth in the district's population, including a large influx of freed slaves.<ref name="Dodd">{{cite book |last=Dodd |first=Walter Fairleigh |title=The government of the District of Columbia |publisher=John Byrne & Co. |year=1909 |location=Washington, D.C. |url=https://archive.org/details/governmentdistr01doddgoog |pages=[https://archive.org/details/governmentdistr01doddgoog/page/n46 40]–45 }}</ref> President [[Abraham Lincoln]] signed the [[Compensated Emancipation Act]] in 1862, which ended slavery in the district of Columbia and freed about 3,100 enslaved persons, nine months prior to the [[Emancipation Proclamation]].<ref name=emancipation>{{cite web|url=http://emancipation.dc.gov/page/ending-slavery-district-columbia |title=Ending Slavery in the District of Columbia |access-date=May 12, 2012 |publisher=D.C. Office of the Secretary }}</ref> In 1868, Congress granted the district's [[African American]] male residents the right to vote in municipal elections.<ref name="Dodd" />
+
+===Growth and redevelopment===
+By 1870, the district's population had grown 75% from the previous census to nearly 132,000 residents.<ref name="histpop">{{cite web |url=https://www.census.gov/population/www/documentation/twps0056/tab23.pdf |title=Historical Census Statistics on Population Totals By Race, 1790 to 1990 |access-date=August 13, 2011 |date=September 13, 2002 |publisher=[[United States Census Bureau]] |url-status=dead |archive-url=https://web.archive.org/web/20110804230047/http://www.census.gov/population/www/documentation/twps0056/tab23.pdf |archive-date=August 4, 2011 }}</ref> Despite the city's growth, Washington still had dirt roads and lacked basic sanitation. Some members of Congress suggested moving the capital further west, but President [[Ulysses S. Grant]] refused to consider such a proposal.<ref>{{cite book|last=Bordewich|first=Fergus M.|title=Washington: the making of the American capital|year=2008|publisher=HarperCollins|isbn=978-0-06-084238-3|page=272|url=https://books.google.com/books?id=kKKMJ7Rqta8C}}</ref>
+
+Congress passed the [[District of Columbia Organic Act of 1871|Organic Act of 1871]], which repealed the individual charters of the cities of Washington and Georgetown, abolished the [[Washington County, D.C.|Washington County]], and created a new territorial government for the whole District of Columbia.<ref>{{cite web| title=An Act to provide a Government for the District of Columbia |url=http://memory.loc.gov/cgi-bin/ampage?collId=llsl&fileName=016/llsl016.db&recNum=0454 |work=Statutes at Large, 41st Congress, 3rd Session |access-date=July 10, 2011 |publisher=[[Library of Congress]] }}</ref> From this point, the name "Washington", initially only refers to "the City of Washington, DC", became synonymous with "District of Columbia".
+
+After the reorganization, President Grant appointed [[Alexander Robey Shepherd]] to the position of Governor of the District of Columbia in 1873. Shepherd authorized large-scale projects that greatly modernized the City of Washington, but ultimately bankrupted the district government. In 1874, Congress replaced the territorial government with an appointed three-member Board of Commissioners.<ref>{{cite book|last=Wilcox|first=Delos Franklin|author-link=Delos Franklin Wilcox|title=Great cities in America: their problems and their government|year=1910|publisher=The Macmillan Company|pages=[https://archive.org/details/greatcitiesinam00wilcgoog/page/n43 27]–30|url=https://archive.org/details/greatcitiesinam00wilcgoog}}</ref>
+
+The city's [[streetcars in Washington, D.C.|first motorized streetcars]] began service in 1888. They generated growth in areas of the district beyond the City of Washington's original boundaries. Washington's urban plan was expanded throughout the district in the following decades.<ref name=neighborhoods>{{cite book|title=Washington at Home: An Illustrated History of Neighborhoods in the Nation's Capital|year=2010|publisher=Johns Hopkins University Press|isbn=978-0-8018-9353-7|pages=1–11|edition=2|editor=Kathryn Schneider Smith}}</ref> Georgetown's street grid and other administrative details were formally merged to those of the legal City of Washington in 1895.<ref name=Tindall>{{cite book|last=Tindall|first=William|title=Origin and government of the District of Columbia|year=1907|publisher=U.S. Government Printing Office|location=Washington, D.C.|pages=[https://archive.org/details/origingovernment02tind/page/26 26]–28|url=https://archive.org/details/origingovernment02tind}}</ref> However, the city had poor housing conditions and strained public works. The district was the first city in the nation to undergo [[urban renewal]] projects as part of the "[[City Beautiful movement]]" in the early 1900s.<ref name=ramroth>{{cite book| last=Ramroth| first=William| title=Planning for Disaster| year=2007| publisher=Kaplan| isbn=978-1-4195-9373-4| page=[https://archive.org/details/planningfordisas0000ramr/page/91 91]| chapter-url=https://books.google.com/books?id=BgTpVyDyWDIC| chapter=The City Beautiful Movement| url=https://archive.org/details/planningfordisas0000ramr/page/91}}</ref>
+
+Increased federal spending as a result of the [[New Deal]] in the 1930s led to the construction of new government buildings, memorials, and museums in the district,<ref>{{cite book|last=Gelernter|first=Mark|title=History of American Architecture|year=2001|publisher=Manchester University Press|isbn=978-0-7190-4727-5|url=https://books.google.com/books?id=tCe8AAAAIAAJ|page=248}}</ref> though the chairman of the House Subcommittee on District Appropriations [[Ross A. Collins]] from [[Mississippi]] justified cuts to funds for welfare and education for local residents, saying that "my constituents wouldn't stand for spending money on niggers."<ref>''[https://books.google.com/books?id=feb5BE4wvq4C&lpg=PA94&dq=constituents%20wouldn't%20stand%20for%20spending%20money%20on%20niggers.&hl=pt-BR&pg=PA94#v=onepage&q&f=false Home Rule or House Rule? Congress and the Erosion of Local Governance in the District of Columbia]'' by [[Michael K. Fauntroy]], [[University Press of America]], 2003 at [[Google Books]], page 94</ref>
+
+[[World War II]] further increased government activity, adding to the number of federal employees in the capital;<ref>{{cite book|last=Williams|first=Paul Kelsey|title=Washington, D.C.: the World War II years|year=2004|publisher=Arcadia Publishing|isbn=978-0-7385-1636-3|url=https://books.google.com/books?id=GtVIlFGursEC}}</ref> by 1950, the district's population reached its peak of 802,178 residents.<ref name="histpop" />
+
+===Civil rights and home rule era===
+[[File:March on Washington edit.jpg|thumb|upright|right|Crowds surrounding the [[Lincoln Memorial Reflecting Pool]] during the [[March on Washington for Jobs and Freedom|March on Washington]], 1963]]
+
+{{externalvideo|video1=[https://www.youtube.com/watch?v=nYbfGcAIWTA 1960s Washington DC, 4K from 35mm Kinolibrary]}}
+
+The [[Twenty-third Amendment to the United States Constitution]] was ratified in 1961, granting the district three votes in the [[Electoral College (United States)|Electoral College]] for the election of president and vice president, but still no voting representation in Congress.<ref>{{cite web|title=Twenty-third Amendment|url=https://www.law.cornell.edu/anncon/html/amdt23_user.html|work=CRS Annotated Constitution|publisher=Legal Information Institute (Cornell University Law School)|access-date=August 28, 2012}}</ref>
+
+After the [[Assassination of Martin Luther King Jr.|assassination of civil rights leader Dr. Martin Luther King Jr.]], on April 4, 1968, [[1968 Washington, D.C. riots|riots broke out in the district]], primarily in the U&nbsp;Street, 14th&nbsp;Street, 7th&nbsp;Street, and H&nbsp;Street corridors, centers of black residential and commercial areas. The riots raged for three days until more than 13,600 federal troops and D.C. Army National Guardsmen stopped the violence. Many stores and other buildings were burned; rebuilding was not completed until the late 1990s.<ref>{{cite news |first=Paul |last=Schwartzman |author2=Robert E. Pierre |title=From Ruins To Rebirth |date=April 6, 2008 |url=https://www.washingtonpost.com/wp-dyn/content/article/2008/04/05/AR2008040501607.html |work=The Washington Post |access-date=June 6, 2008}}</ref>
+
+In 1973, Congress enacted the [[District of Columbia Home Rule Act]], providing for an elected mayor and thirteen-member council for the district.<ref>{{cite web|url=http://www.abfa.com/ogc/hract.htm |title=District of Columbia Home Rule Act |access-date=May 27, 2008 |date=February 1999 |publisher=Government of the District of Columbia }}</ref> In 1975, [[Walter Washington]] became the first elected and first black mayor of the district.<ref>{{cite news|last=Mathews|first=Jay|title=City's 1st Mayoral Race, as Innocent as Young Love|url=https://www.washingtonpost.com/wp-srv/local/2000/mayor101199.htm|newspaper=The Washington Post|date=October 11, 1999|page=A1}}</ref>
+
+==Geography==
+
+{{Main|Geography of Washington, D.C.}}
+{{Location map+ | USA Washington Metropolitan Area
+| caption =The [[Washington Metropolitan Area]] has a population of 6,131,977, as of 2014.<ref name="U.S. Department of Commerce" />
+|width=300
+| places =
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Calvert County, Maryland|Calvert]]
+    | label_size=80
+    | marksize=0
+    | position =top
+    | lat_deg =38.53
+    | lon_deg =-76.53
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Charles County, Maryland|Charles]]
+    | label_size=80
+    | marksize=0
+    | position =top
+    | lat_deg =38.48
+    | lon_deg =-77.01
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Frederick County, Maryland|Frederick]]
+    | label_size=80
+    | marksize=0
+    | position =top
+    | lat_deg =39.47
+    | lon_deg =-77.4
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Montgomery County, Maryland|Montgomery]]
+    | label_size=80
+    | marksize=0
+    | position =top
+    | lat_deg =39.14
+    | lon_deg =-77.2
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Prince George's County, Maryland|Prince&nbsp;George's]]
+    | label_size=80
+    | marksize=0
+    | position =right
+    | lat_deg =38.83
+    | lon_deg =-76.85
+    }}
+ {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Alexandria, Virginia|Alexandria]]
+    | label_size=80
+    | marksize=2
+    | position =bottom
+    | lat_deg =38.804722
+    | lon_deg =-77.047222
+    }}
+ {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Arlington, Virginia|Arlington]]
+    | label_size=80
+    | marksize=0
+    | position =right
+    | lat_deg =38.8807927
+    | lon_deg =-77.172196
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Clarke County, Virginia|Clarke]]
+    | label_size=80
+    | marksize=0
+    | position =top
+    | lat_deg =39.12
+    | lon_deg =-78
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Fairfax, Virginia|Fairfax]]
+    | label_size=80
+    | marksize=2
+    | position =left
+    | lat_deg =38.87
+    | lon_deg =-77.304377
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Fairfax County, Virginia|Fairfax&nbsp;County]]
+    | label_size=80
+    | marksize=0
+    | position =right
+    | lat_deg =38.83
+    | lon_deg =-77.28
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Falls Church, Virginia|Falls&nbsp;Church]]
+    | label_size=80
+    | marksize=2
+    | position =top
+    | lat_deg =38.882222
+    | lon_deg =-77.171111
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Fauquier County, Virginia|Fauquier]]
+    | label_size=80
+    | marksize=0
+    | position =bottom
+    | lat_deg =38.74
+    | lon_deg =-77.81
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Loudoun County, Virginia|Loudoun]]
+    | label_size=80
+    | marksize=0
+    | position =top
+    | lat_deg =39.09
+    | lon_deg =-77.64
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Manassas, Virginia|Manassas]]
+    | label_size=80
+    | marksize=2
+    | position =right
+    | lat_deg =38.751415
+    | lon_deg =-77.476396
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Manassas Park, Virginia|Manassas&nbsp;Park]]
+    | label_size=80
+    | marksize=2
+    | position =left
+    | lat_deg =38.773564
+    | lon_deg =-77.453542
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Prince William County, Virginia|Prince&nbsp;William]]
+    | label_size=80
+    | marksize=0
+    | position =bottom
+    | lat_deg =38.7
+    | lon_deg =-77.48
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Spotsylvania County, Virginia|Spotsylvania]]
+    | label_size=80
+    | marksize=0
+    | position =top
+    | lat_deg =38.18
+    | lon_deg =-77.65
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Stafford County, Virginia|Stafford]]
+    | label_size=80
+    | marksize=0
+    | position =top
+    | lat_deg =38.41
+    | lon_deg =-77.45
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Fredericksburg, Virginia|Fredericksburg]]
+    | label_size=80
+    | marksize=2
+    | position =top
+    | lat_deg =38.301829
+    | lon_deg =-77.470778
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Warren County, Virginia|Warren]]
+    | label_size=80
+    | marksize=0
+    | position =top
+    | lat_deg =38.91
+    | lon_deg =-78.21
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =Washington
+    | label_size=80
+    | marksize=2
+    | position =right
+    | lat_deg =38.95
+    | lon_deg =-77.016389
+    }}
+  {{Location map~ | USA Washington Metropolitan Area
+    | label =[[Jefferson County, West Virginia|Jefferson]]
+    | label_size=80
+    | marksize=0
+    | position =top
+    | lat_deg =39.31
+    | lon_deg =-77.86
+    }}
+}}
+[[File:Washington, D.C. by Sentinel-2, 2020-07-29.jpg|thumb|Satellite photo of Washington, D.C. by [[European Space Agency|ESA]]]]
+Washington, D.C., is located in the [[Mid-Atlantic (United States)|mid-Atlantic region]] of the [[East Coast of the United States|U.S. East Coast]]. Due to the [[District of Columbia retrocession]], the city has a total area of {{convert|68.34|sqmi|km2|sigfig=3}}, of which {{convert|61.05|sqmi|km2}} is land and {{convert|7.29|sqmi|km2}} (10.67%) is water.<ref>{{cite web |url=https://www.census.gov/prod/cen2010/cph-2-10.pdf |title=District of Columbia: 2010 |access-date=December 22, 2015 |date=June 2012 |publisher=[[United States Census Bureau]] }}</ref> The district is bordered by [[Montgomery County, Maryland]] to the northwest; [[Prince George's County, Maryland]] to the east; [[Arlington County, Virginia]] to the west; and [[Alexandria, Virginia]] to the south. Washington, D.C., is {{convert|38|mi|km}} from [[Baltimore]], {{convert|124|mi|km}} from [[Philadelphia]] and {{convert|227|mi|km}} from [[New York City]].
+
+The south bank of the [[Potomac River]] forms the district's border with Virginia and has two major tributaries: the [[Anacostia River]] and [[Rock Creek (Potomac River tributary)|Rock Creek]].<ref>{{cite web|url=http://www.potomacriver.org/2012/facts-a-faqs/faqs |title=Facts & FAQs |publisher=Interstate Commission on the Potomac River Basin |access-date=March 31, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120813114925/http://www.potomacriver.org/2012/facts-a-faqs/faqs |archive-date=August 13, 2012 }}</ref> [[Tiber Creek]], a natural watercourse that once passed through the [[National Mall]], was fully enclosed underground during the 1870s.<ref>{{cite journal |last=Grant III|first=Ulysses Simpson |year=1950 |journal=Records of the Columbia Historical Society |volume=50 |title=Planning the Nation's Capital |pages=43–58 |author-link=Ulysses S. Grant III}}</ref> The creek also formed a portion of the now-filled [[Washington City Canal]], which allowed passage through the city to the Anacostia River from 1815 until the 1850s.<ref>{{cite journal |last=Heine |first=Cornelius W. |year=1953 |title=The Washington City Canal |journal=Records of the Columbia Historical Society |volume=53 |pages=1–27 |jstor= 40067664 }}</ref> The [[Chesapeake and Ohio Canal]] starts in Georgetown and was used during the 19th century to bypass the [[Little Falls (Potomac River)|Little Falls]] of the Potomac River, located at the northwest edge of Washington at the [[Atlantic Seaboard fall line]].<ref>{{cite web |url=http://www.nps.gov/choh/historyculture/index.htm |title=C&O Canal National Historic Park: History & Culture |access-date=July 3, 2008 |publisher=[[National Park Service]] }}</ref>
+
+The highest natural elevation in the district is {{convert|409|ft|m}} [[Above mean sea level|above sea level]] at [[Fort Reno Park]] in upper northwest Washington.<ref>{{cite news |url=https://www.washingtonpost.com/wp-dyn/content/article/2008/04/17/AR2008041703859.html |title=D.C.'s Puny Peak Enough to Pump Up 'Highpointers' |last=Dvorak |first=Petula |date=April 18, 2008 |work=[[The Washington Post]] |pages=B01 |access-date=February 25, 2009}}</ref> The lowest point is sea level at the Potomac River.<ref>{{cite book|last=Winegar|first=Deane|title=Highroad Guide to the Chesapeake Bay |year=2003|publisher=John F. Blair|isbn=978-0-89587-279-1|page=5|url= https://books.google.com/books?id=bMejFkODGIcC}}</ref> The geographic center of Washington is near the intersection of 4th and L Streets NW.<ref>{{cite web |url=http://www.usgs.gov/state/state.asp?State=DC |title=Science in Your State: District of Columbia |access-date=July 7, 2008 |date=July 30, 2007 |publisher=[[United States Geological Survey]] }}</ref><ref>{{cite news|last=Reilly|first=Mollie|title=Washington's Myths, Legends, and Tall Tales—Some of Which Are True|url=http://www.washingtonian.com/articles/people/washingtons-myths-legends-and-tall-talessome-of-which-are-true/|access-date=August 29, 2011|newspaper=Washingtonian|date=May 12, 2012}}</ref><ref name=legend>{{cite news |first=John |last=Kelly |title= Washington Built on a Swamp? Think Again. |work=The Washington Post |date= April 1, 2012 |url= https://www.washingtonpost.com/local/washington-built-on-a-swamp-think-again/2012/03/31/gIQA7BfBpS_story.html }}</ref>
+
+The district has {{convert|7464|acre|km2}} of parkland, about 19% of the city's total area and the second-highest percentage among high-density U.S. cities.<ref>{{cite web |url=http://cloud.tpl.org/pubs/ccpe-city-park-facts-2011.pdf |title=2011 City Park Facts |year=2011 |publisher=[[The Trust for Public Land]] |access-date=December 9, 2011}}</ref> This factor contributed to Washington, D.C., being ranked as third in the nation for park access and quality in the 2018 ParkScore ranking of the park systems of the 100 most populous cities in the United States, according to the nonprofit [[Trust for Public Land]].<ref>{{Cite web|url=http://www.parkscore.tpl.org/rankings.php|title=ParkScore|website=www.parkscore.tpl.org|language=en-US|access-date=May 23, 2018|archive-date=May 24, 2018|archive-url=https://web.archive.org/web/20180524003623/http://www.parkscore.tpl.org/rankings.php|url-status=dead}}</ref>
+
+The [[National Park Service]] manages most of the {{convert|9122|acre|km2}} of city land owned by the U.S. government.<ref>{{cite web|title=Comparison of Federally Owned Land with Total Acreage of States|url=http://www.blm.gov/public_land_statistics/pls99/99pl1-3.pdf|publisher=Bureau of Land Management|access-date=July 19, 2011|year=1999|url-status=dead|archive-url=https://web.archive.org/web/20111016174341/http://www.blm.gov/public_land_statistics/pls99/99pl1-3.pdf|archive-date=October 16, 2011}}</ref> [[Rock Creek Park]] is a {{convert|1754|acre|km2|adj=on}} urban forest in Northwest Washington, which extends {{convert|9.3|mi|km}} through a stream valley that bisects the city. Established in 1890, it is the country's fourth-oldest national park and is home to a variety of plant and animal species, including raccoon, deer, owls, and coyotes.<ref>{{cite web|title=Rock Creek Park |url=http://www2.nature.nps.gov/geology/parks/rocr/index.cfm |work=Geology Fieldnotes |publisher=National Park Service |access-date=February 3, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130204002946/http://www2.nature.nps.gov/geology/parks/rocr/index.cfm |archive-date=February 4, 2013 }}</ref> Other National Park Service properties include the [[Chesapeake and Ohio Canal National Historical Park|C&O Canal National Historical Park]], the [[National Mall and Memorial Parks]], [[Theodore Roosevelt Island]], [[Columbia Island (District of Columbia)|Columbia Island]], [[Fort Dupont Park]], [[Meridian Hill Park]], [[Kenilworth Park and Aquatic Gardens]], and [[Anacostia Park]].<ref>{{cite web |url=http://www.nps.gov/state/dc/list.htm |title=District of Columbia |access-date=October 16, 2011 |publisher=[[National Park Service]] }}</ref> The [[D.C. Department of Parks and Recreation]] maintains the city's {{convert|900|acres|km2}} of athletic fields and playgrounds, 40 swimming pools, and 68 recreation centers.<ref>{{cite web|title=FY12 Performance Plan|url=http://oca.dc.gov/sites/default/files/dc/sites/oca/publication/attachments/DPR12.pdf|publisher=D.C. Department of Parks and Recreation|access-date=February 3, 2013}}</ref> The [[U.S. Department of Agriculture]] operates the {{convert|446|acre|km2|adj=on}} [[U.S. National Arboretum]] in Northeast Washington.<ref>{{cite web |url=http://www.usna.usda.gov/Information/historymissn.html |title=U.S. National Arboretum History and Mission |access-date=July 7, 2008 |date=October 16, 2007 |publisher=[[United States National Arboretum]] |url-status=dead |archive-url=https://web.archive.org/web/20110805235639/http://www.usna.usda.gov/Information/historymissn.html |archive-date=August 5, 2011  }}</ref>
+
+===Climate===
+Washington is in the [[humid subtropical climate]] zone ([[Köppen climate classification|Köppen]]: ''Cfa'').<ref>{{cite journal|url=http://koeppen-geiger.vu-wien.ac.at/ |title=World Map of the Köppen-Geiger climate classification updated |journal=Meteorologische Zeitschrift |volume=15 |issue=3 |pages=259 |date=November 6, 2008 |access-date=December 3, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20100906034159/http://koeppen-geiger.vu-wien.ac.at/ |archive-date=September 6, 2010 |bibcode=2006MetZe..15..259K |last1=Kottek |first1=Markus |last2=Grieser |first2=Jürgen |last3=Beck |first3=Christoph |last4=Rudolf |first4=Bruno |last5=Rubel |first5=Franz |doi=10.1127/0941-2948/2006/0130 }}</ref> The [[Trewartha climate classification|Trewartha classification]] is defined as an [[oceanic climate]] (''Do'').<ref>{{Citation|last=Peterson|first=Adam|title=English: Trewartha climate types for the contiguous United States|date=September 22, 2016|url=https://commons.wikimedia.org/wiki/File:US_trewartha.svg|access-date=March 8, 2019}}</ref> Winters are usually cool with light snow, and summers are hot and humid. The district is in plant [[hardiness zone]] 8a near downtown, and zone 7b elsewhere in the city, indicating a humid subtropical climate.<ref>{{cite web|url=http://www.arborday.org/media/zones.cfm |title=Hardiness Zones |year=2006 |publisher=Arbor Day Foundation |access-date=November 4, 2008}}</ref>
+
+Spring and fall are mild to warm, while winter is cool with annual snowfall averaging {{convert|15.5|in|cm|0}}. Winter temperatures average around {{convert|38|°F|0}} from mid-December to mid-February.<ref name="NWS Baltimore/Washington (LWX)"/> However, winter temperatures in excess of {{convert|60|°F|0}} are not uncommon.<ref name="WaPo temps">{{cite news |last1=Samenow |first1=Jason |title=D.C.-area forecast: Temperatures seesaw this week between mild and cool, while extreme winter weather stays away |url=https://www.washingtonpost.com/weather/2020/02/17/dc-area-forecast-temperatures-seesaw-this-week-between-mild-cool-while-extreme-winter-weather-stays-away/ |access-date=September 4, 2020 |work=[[Washington Post]] |date=February 17, 2020}}</ref>
+
+Summers are hot and humid with a July daily average of {{convert|79.8|°F|1}} and average daily relative humidity around 66%, which can cause moderate personal discomfort. Heat indices regularly approach {{convert|100|°F|°C|0}} at the height of summer.<ref>{{cite news|title=Average Conditions: Washington DC, USA|work=BBC Weather| url=http://news.bbc.co.uk/weather/hi/about/newsid_9390000/9390415.stm?tt=TT001140| access-date=August 30, 2010}}</ref> The combination of heat and humidity in the summer brings very frequent thunderstorms, some of which occasionally produce tornadoes in the area.<ref>{{cite web|last=Iovino|first=Jim|title=Severe Storm Warnings, Tornado Watches Expire|url=http://www.nbcwashington.com/weather/stories/Cold-Front-Could-Bring-Storms-Today-95721304.html|work=NBCWashington.com|access-date=August 30, 2010}}</ref>
+
+Blizzards affect Washington, on average, once every four to six years. The most violent storms are called "[[nor'easter]]s", which often affect large sections of the East Coast.<ref name=dcwinter>{{cite web|url=http://www.erh.noaa.gov/lwx/winter/DC-Winters.htm |title=Washington Area Winters |access-date=September 17, 2010 |last=Watson |first=Barbara McNaught |date=November 17, 1999 |publisher=National Weather Service |url-status=dead |archive-url=https://web.archive.org/web/20101231041158/http://www.erh.noaa.gov/lwx/winter/DC-Winters.htm |archive-date=December 31, 2010 }}</ref> From [[Knickerbocker storm|January 27 to 28, 1922]], the city officially received {{convert|28|in|cm}} of snowfall, the largest snowstorm since official measurements began in 1885.<ref>{{Cite news |url=https://www.washingtonpost.com/news/capital-weather-gang/wp/2016/01/23/where-snowzilla-fits-into-d-c-s-top-10-snowstorms/ |title=Where Snowzilla fits into D.C.'s top 10 snowstorms |last1=Ambrose |first1=Kevin |last2=Junker |first2=Wes |date=January 23, 2016 |newspaper=Washington Post |language=en-US}}</ref> According to notes kept at the time, the city received between {{convert|30|and|36|in|cm}} from a snowstorm in January 1772.<ref name=DOC>{{cite web |publisher=The Weather Doctor |url=http://www.islandnet.com/~see/weather/events/wjsnow1772.htm |title=The Washington and Jefferson Snowstorm of 1772 |first=Keith C. |last=Heidorn |date=January 1, 2012 |access-date=January 25, 2016 }}</ref>
+
+[[File:Washington Monument, Washington, D.C. 04037u original.jpg|thumb|left|The [[Washington Monument]], seen across the [[Tidal Basin]] during 2007's [[National Cherry Blossom Festival]]]]
+
+Hurricanes (or their remnants) occasionally track through the area in late summer and early fall. However, they are often weak by the time they reach Washington, partly due to the city's inland location.<ref>{{cite book|last=Schwartz|first=Rick|title=Hurricanes and the Middle Atlantic States|year=2007|publisher=Blue Diamond Books|isbn=978-0-9786280-0-0|page=9|url=https://books.google.com/books?id=t5U1CYKwQxcC}}</ref> Flooding of the Potomac River, however, caused by a combination of high tide, storm surge, and runoff, has been known to cause extensive property damage in the neighborhood of [[Georgetown (Washington, D.C.)|Georgetown]].<ref>{{cite news|last=Vogel |first=Steve |title=Bulk of Flooding Expected in Old Town, Washington Harbour |url=https://www.washingtonpost.com/wp-dyn/content/article/2006/06/27/AR2006062701527.html |date=June 28, 2006 |work=The Washington Post |page=B02 |access-date=July 11, 2008}}</ref>
+
+Precipitation occurs throughout the year.<ref name="WMO 1961–90 KDCA"/>
+
+
+The highest recorded temperature was {{convert|106|F|0}} on August 6, 1918, and on July 20, 1930.<ref name="Samenow">{{cite news |title= Washington, D.C. shatters all-time June record high, sizzles to 104 |first= Jason |last= Samenow |work= The Washington Post |date= June 29, 2012 |url= https://www.washingtonpost.com/blogs/capital-weather-gang/post/washington-dc-ties-record-high-of-101/2012/06/29/gJQAiiRmBW_blog.html}}</ref> while the lowest recorded temperature was {{convert|−15|F|0}} on [[Great Blizzard of 1899#Arctic cold|February 11, 1899]], right before the [[Great Blizzard of 1899]].<ref name=dcwinter/> During a typical year, the city averages about 37 days at or above {{convert|90|F|0}} and 64 nights at or below the freezing mark ({{convert|32|F|C|disp=or}}).<ref name="NWS Baltimore/Washington (LWX)"/> On average, the first day with a minimum at or below freezing is November 18 and the last day is March 27.<ref>Grieser, Justin; Livingston, Ian (November 8, 2017). "[https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/11/08/the-falls-first-freeze-is-coming-saturday-and-for-most-of-the-d-c-area-its-historically-late/ The first freeze is coming Saturday and, for most of the D.C. area, it's historically late]". ''The Washington Post''.</ref><ref>Livingston, Ian; Grieser, Justin (April 3, 2018). "[https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/04/03/when-will-the-last-freeze-happen-around-the-d-c-region-and-when-is-it-safe-to-plant/ When will the last freeze happen around the D.C. region, and when is it safe to plant?]" ''The Washington Post''.</ref>
+{{Clear}}
+
+{{Washington, D.C. weatherbox}}
+
+==Cityscape==
+
+{{See also|Streets and highways of Washington, D.C.|Neighborhoods in Washington, D.C.|List of tallest buildings in Washington, D.C.}}
+[[File:L'Enfant plan.jpg|thumb|The [[L'Enfant Plan]] for Washington, D.C., as revised by [[Andrew Ellicott]] in 1792]]
+
+Washington, D.C., is a [[New town|planned city]]. In 1791, President Washington commissioned [[Pierre Charles L'Enfant|Pierre (Peter) Charles L'Enfant]], a French-born architect and city planner, to design the new capital. He enlisted Scottish surveyor [[Alexander Ralston]] to help lay out the city plan.<ref name = c109>{{cite book|last=Coleman|first=Christopher Bush|title=Indiana Magazine of History|publisher=Indiana Historical Society|year=1920|url=https://books.google.com/books?id=wZY1AAAAIAAJ |page=109}}</ref> The [[L'Enfant Plan]] featured broad streets and avenues radiating out from rectangles, providing room for open space and landscaping.<ref name=lenfant>{{cite web|url=http://www.nps.gov/nr/travel/wash/lenfant.htm |title=The L'Enfant and McMillan Plans |access-date=May 27, 2008 |publisher=[[National Park Service]]}}</ref> He based his design on plans of cities such as [[Paris]], [[Amsterdam]], [[Karlsruhe]], and [[Milan]] that [[Thomas Jefferson]] had sent to him.<ref>{{cite book|last=Minta|first=Anna|title=Planning a National Pantheon: Monuments in Washington, D.C. and the Creation of Symbolic Space|work=Public Space and the Ideology of Place in American Culture|year=2009|publisher=Rodopi B.V.|location=Amsterdam—New York|isbn=978-90-420-2574-5|oclc=644525117|url=https://books.google.com/books?id=7pVtaBw6cq0C&pg=PA22|editor=Klaus Benesch |editor2=Jeffrey L. Meilke |editor3=David E. Nye |editor4=Miles Orvell |page=22}}</ref> L'Enfant's design also envisioned a garden-lined "grand avenue" approximately {{convert|1|mi|km}} in length and {{convert|400|ft|m}} wide in the area that is now the National Mall.<ref>{{cite web|url=http://www.nps.gov/history/nr/twhp/wwwlps/lessons/62wash/62locate1.htm|title=Map 1: The L'Enfant Plan for Washington|publisher=National Park Service|access-date=October 27, 2009}}</ref> President Washington dismissed L'Enfant in March 1792 due to conflicts with the three commissioners appointed to supervise the capital's construction. [[Andrew Ellicott]], who had worked with L'Enfant surveying the city, was then tasked with completing the design. Though Ellicott made revisions to the original plans—including changes to some street patterns—L'Enfant is still credited with the overall design of the city.<ref>{{cite book |last1=Crew |first1=Harvey W. |last2=Webb |first2=William Bensing |last3=Wooldridge |first3=John |title=Centennial History of the City of Washington, D.C. |publisher=United Brethren Publishing House |year=1892 |location=Dayton, OH |url=https://archive.org/details/bub_gb_5Q81AAAAIAAJ |pages=[https://archive.org/details/bub_gb_5Q81AAAAIAAJ/page/n108 101]–103}}</ref>
+[[File:The Cairo - Washington, DC - DSC09749.jpg|left|thumb|upright=0.7|Construction of the 12-story [[The Cairo|Cairo Apartment Building]] (1894) spurred [[The Height of Buildings Act of 1899|building height restrictions]].|alt=A tall red brick building in the center of a city skyline punctuated by steeples and other shorter buildings]]
+
+By the early 20th century, L'Enfant's vision of a grand national capital had become marred by slums and randomly placed buildings, including a railroad station on the National Mall. Congress formed a special committee charged with beautifying Washington's ceremonial core.<ref name=ramroth /> What became known as the [[McMillan Plan]] was finalized in 1901 and included re-landscaping the Capitol grounds and the National Mall, clearing slums, and establishing a new citywide park system. The plan is thought to have largely preserved L'Enfant's intended design.<ref name=lenfant />
+
+By law, Washington's skyline is low and sprawling. The federal [[Height of Buildings Act of 1910]] allows buildings that are no taller than the width of the adjacent street, plus {{convert|20|ft|m}}.<ref name="Schwartzman">{{cite news|last=Schwartzman|first=Paul|title=High-Level Debate on Future of D.C.|url=https://www.washingtonpost.com/wp-dyn/content/article/2007/05/01/AR2007050101939.html|access-date=July 1, 2012|newspaper=The Washington Post|date=May 2, 2007}}</ref> Despite popular belief, no law has ever limited buildings to the height of the United States Capitol Building or the {{convert|555|ft|m|adj=on}} [[Washington Monument]],<ref name=legend/> which remains the district's tallest structure. City leaders have criticized the height restriction as a primary reason why the district has limited affordable housing and traffic problems caused by suburban sprawl.<ref name="Schwartzman" />
+
+The district is divided into [[Quadrants of Washington, D.C.|four quadrants]] of unequal area: [[Northwest, Washington, D.C.|Northwest (NW)]], [[Northeast, Washington, D.C.|Northeast (NE)]], [[Southeast, Washington, D.C.|Southeast (SE)]], and [[Southwest, Washington, D.C.|Southwest (SW)]]. The axes bounding the quadrants radiate from the U.S. Capitol building.<ref name=dcstreets>{{cite web|url=https://www.senate.gov/pagelayout/visiting/one_item_and_teasers/layout_of_washington.htm |title=Layout of Washington DC |access-date=July 14, 2008 |date=September 30, 2005 |publisher=United States Senate }}</ref> All road names include the quadrant abbreviation to indicate their location and house numbers generally correspond with the number of blocks away from the Capitol. Most streets are set out in a grid pattern with east–west streets named with letters (e.g., C Street SW), north–south streets with numbers (e.g., 4th Street NW), and diagonal avenues, many of which are [[List of state-named roadways in Washington, D.C.|named after states]].<ref name=dcstreets />
+
+[[File:USA-Georgetown C&O Canal.jpg|thumb|The [[Georgetown (Washington, D.C.)|Georgetown neighborhood]] is known for its historic [[Federal architecture|Federal-style]] rowhouses.]]
+The City of Washington was bordered by Boundary Street to the north (renamed [[Florida Avenue]] in 1890), Rock Creek to the west, and the Anacostia River to the east.<ref name=neighborhoods /><ref name=lenfant /> Washington's street grid was extended, where possible, throughout the district starting in 1888.<ref>{{cite book|title=Laws relating to the permanent system of highways outside of the cities of Washington and Georgetown|year=1908|publisher=Government Printing Office|location=Washington, D.C.|page=3|url=https://books.google.com/books?id=k4zVAAAAMAAJ}}</ref> [[Georgetown street renaming|Georgetown's streets]] were renamed in 1895.<ref name=Tindall /> Some streets are particularly noteworthy, such as [[Pennsylvania Avenue (Washington, D.C.)|Pennsylvania Avenue]]—which connects the White House to the Capitol, and [[K Street (Washington, D.C.)|K Street]]—which houses the offices of many lobbying groups.<ref name=kstreet>{{cite news |first=Jeffrey H. |last=Birnbaum |title=The Road to Riches Is Called K Street |date=June 22, 2005 |url=https://www.washingtonpost.com/wp-dyn/content/article/2005/06/21/AR2005062101632.html |work=The Washington Post |page=A01 |access-date=June 17, 2008 }}</ref> [[Constitution Avenue]] and [[Independence Avenue (Washington, D.C.)|Independence Avenue]], located on the north and south sides of the National Mall, respectively, are home to many of Washington's iconic museums, including the [[Smithsonian Institution]] buildings, the [[National Archives Building]]. Washington hosts 177 [[List of diplomatic missions in Washington, D.C.|foreign embassies]], constituting approximately 297 buildings beyond the more than 1,600 residential properties owned by foreign countries, many of which are on a section of [[Massachusetts Avenue (Washington, D.C.)|Massachusetts Avenue]] informally known as [[Embassy Row]].<ref name="embassies">{{cite news|last=Van Dyne|first=Larry|title=Foreign Affairs: DC's Best Embassies|url=http://www.washingtonian.com/articles/people/foreign-affairs-dcs-best-embassies/|access-date=June 17, 2012|newspaper=Washingtonian Magazine|date=February 1, 2008}}</ref>
+
+===Architecture===
+[[File:Fountain at Meridian Hill Park.jpg|thumb|right|[[Meridian Hill Park]], in [[Columbia Heights (Washington, D.C.)|Columbia Heights]]]]
+
+The architecture of Washington varies greatly. Six of the top 10 buildings in the [[American Institute of Architects]]' 2007 ranking of "[[America's Favorite Architecture]]" are in the District of Columbia:<ref>{{cite web|url=http://favoritearchitecture.org/afa150.php |title=America's Favorite Architecture |access-date=July 3, 2008 |year=2007 |publisher=American Institute of Architects and Harris Interactive |url-status=dead |archive-url=https://web.archive.org/web/20110510113118/http://favoritearchitecture.org/afa150.php |archive-date=May 10, 2011 }}</ref> the [[White House]], the [[Washington National Cathedral]], the [[Thomas Jefferson Memorial]], the [[United States Capitol]], the [[Lincoln Memorial]], and the [[Vietnam Veterans Memorial]]. The neoclassical, Georgian, gothic, and modern architectural styles are all reflected among those six structures and many other prominent edifices in Washington. Notable exceptions include buildings constructed in the French [[Second Empire (architecture)|Second Empire]] style such as the [[Eisenhower Executive Office Building]].<ref name=nps>{{cite web|url=http://www.nps.gov/nr/travel/wash/sitelist.htm |title=Washington, D.C., List of Sites |access-date=December 12, 2010 |publisher=[[National Park Service]]}}</ref>
+
+Outside downtown Washington, architectural styles are even more varied. Historic buildings are designed primarily in the [[Queen Anne style architecture in the United States|Queen Anne]], [[Châteauesque]], [[Richardsonian Romanesque]], Georgian revival, [[Beaux-Arts architecture|Beaux-Arts]], and a variety of [[Victorian architecture|Victorian]] styles. Rowhouses are especially prominent in areas developed after the Civil War and typically follow [[Federal architecture|Federalist]] and late Victorian designs.<ref>{{cite web|url=https://www.loc.gov/rr/print/adecenter/essays/Scott.html |title=Residential Architecture of Washington, D.C., and Its Suburbs |access-date=June 5, 2008 |last=Scott |first=Pamela |year=2005 |publisher=Library of Congress }}</ref> Georgetown's [[Old Stone House (Washington, D.C.)|Old Stone House]] was built in 1765, making it the oldest-standing original building in the city.<ref>{{cite web|url=http://www.nps.gov/nr/travel/wash/dc17.htm |title=Old Stone House |access-date=August 13, 2011 |publisher=[[National Park Service]]}}</ref> Founded in 1789, [[Georgetown University]] features a mix of Romanesque and [[Gothic Revival architecture]].<ref name=nps /> The [[Ronald Reagan Building]] is the largest building in the district with a total area of approximately 3.1&nbsp;million square&nbsp;feet (288,000&nbsp;m<sup>2</sup>).<ref>{{cite web |url=http://www.itcdc.com/About-Us/Our-Building.aspx |title=Our Building |access-date=January 6, 2013 |publisher=Ronald Reagan Building and International Trade Center |url-status=dead |archive-url=https://web.archive.org/web/20130115081257/http://www.itcdc.com/About-Us/Our-Building.aspx |archive-date=January 15, 2013 }}</ref>
+
+==Demographics==
+
+{{Main|Demographics of Washington, D.C.}}
+{{US Census population
+|1800= 8144
+|1810= 15471
+|1820= 23336
+|1830= 30261
+|1840= 33745
+|1850= 51687
+|1860= 75080
+|1870= 131700
+|1880= 177624
+|1890= 230392
+|1900= 278718
+|1910= 331069
+|1920= 437571
+|1930= 486869
+|1940= 663091
+|1950= 802178
+|1960= 763956
+|1970= 756510
+|1980= 638333
+|1990= 606900
+|2000= 572059
+|2010= 601723
+|2020= 689545
+|footnote=Source:<ref name="Census2020">{{cite web |title=2020 Census Apportionment Results |url=https://www.census.gov/data/tables/2020/dec/2020-apportionment-data.html |publisher=United States Census Bureau |access-date=April 26, 2021}}</ref> {{efn|Apportionment totals are collected by combining Resident and Overseas population. (For D.C., this is 689545 residents and 1988 overseas population.)}}<ref name="histpop" /><ref name=Census2010>{{cite web|url=http://www.census.gov/2010census/popmap/ipmtext.php?fl=11|archive-url=https://archive.today/20130217133628/http://www.census.gov/2010census/popmap/ipmtext.php?fl=11|url-status=dead|archive-date=February 17, 2013|title=Resident Population Data|year=2010|publisher=United States Census Bureau|access-date=January 6, 2013}}</ref> Note:{{efn|Until 1890, the Census Bureau counted the City of Washington, Georgetown, and unincorporated portions of [[Washington County, D.C.|Washington County]] as three separate areas. The data provided in this article from before 1890 are calculated as if the District of Columbia were a single municipality as it is today. Population data for each city prior to 1890 are available.<ref>{{cite web|url=https://www.census.gov/population/www/documentation/twps0027/twps0027.html|title=Population of the 100 Largest Cities and Other Urban Places in the United States: 1790 to 1990|access-date=July 29, 2008|last=Gibson|first=Campbell|date=June 1998|publisher=[[United States Census Bureau]]}}</ref>}}<br>2010–2020<ref name="QuickFacts"/>
+}}
+
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+|-
+! Demographic profile 
+!2020<ref>{{cite web |url=https://planning.dc.gov/publication/2020-census-information-and-data</ref>!! 2010<ref>{{cite web |url=http://planning.dc.gov/sites/default/files/dc/sites/op/publication/attachments/Chapter%25202.pdf |title=Demographic Characteristics of the District and Metro Area |publisher=DC Office of Planning/State Data Center}}</ref> !! 1990<ref name="census1">{{cite web|title=District of Columbia—Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990|publisher=U.S. Census Bureau|url=https://www.census.gov/population/www/documentation/twps0076/twps0076.html|access-date=April 21, 2012|archive-url=https://web.archive.org/web/20120812191959/http://www.census.gov/population/www/documentation/twps0076/twps0076.html|archive-date=August 12, 2012|url-status=dead}}</ref> !! 1970<ref name="census1"/> !! 1940<ref name="census1"/>
+|-
+| [[White American|White]] 
+|39.6%|| 38.5% || 29.6% || 27.7% || 71.5%
+|-
+|&nbsp;—[[Non-Hispanic whites]] 
+|38.0%|| 34.8% || 27.4% || 26.5%<ref name="fifteen">From 15% sample</ref> || 71.4%
+|-
+| [[African American|Black or African American]] 
+|41.4%|| 50.7% || 65.8% || 71.1% || 28.2%
+|-
+| [[Hispanic and Latino Americans|Hispanic or Latino]] (of any race) 
+|11.3%|| 9.1% || 5.4% || 2.1%<ref name="fifteen"/> || 0.1%
+|-
+| [[Asian American|Asian]] 
+|4.9%|| 3.5% || 1.8% || 0.6% || 0.2%
+|}
+
+The [[U.S. Census Bureau]] estimates that the district's population was 705,749 as of July 2019, an increase of more than 100,000 people compared to the [[2010 United States Census]]. When measured on a decade-over-decade basis, this continues a growth trend since 2000, following a half-century of population decline.<ref>{{Cite news |url=https://www.washingtonpost.com/wp-dyn/content/article/2010/12/21/AR2010122102609.html |title=D.C. population soars past 600,000 for first time in years |last1=Morello |first1=Carol |date=December 22, 2011 |work=The Washington Post |access-date=August 26, 2011 |last2=Keating |first2=Dan}}</ref> But on a year-over-year basis, the July 2019 census count shows a population decline of 16,000 individuals over the preceding 12-month period.<ref>{{Cite web|date=2014-08-30|title=District of Columbia Population History|url=https://matthewbgilmore.wordpress.com/district-of-columbia-population-history/|access-date=2021-04-30|website=Washington DC History Resources|language=en}}</ref> Washington was the [[List of United States cities by population|24th most populous place]] in the United States {{As of|2010|lc=y}}.<ref>{{cite web|title=Population Change for Places With Populations of 50,000 or More in the United States and Puerto Rico: 2000 to 2010|url=https://www.census.gov/population/www/cen2010/cph-t/cph-t-3.html|publisher=United States Census Bureau|access-date=December 21, 2011|date=September 27, 2011}}</ref> According to data from 2010, commuters from the suburbs increase the district's daytime population to over a million.<ref>{{cite web|last=Austermuhle|first=Martin|title=D.C.'s Population Grows 79 Percent Every Workday, Outpacing Other Cities|url=http://wamu.org/news/13/05/31/dcs_population_grows_79_percent_every_workday_outpacing_other_cities|publisher=WAMU|access-date=June 1, 2013|date=May 31, 2013}}</ref> If the district were a state it would rank [[List of U.S. states and territories by population|49th in population]], ahead of [[Vermont]] and [[Wyoming]].<ref name=quickfacts>{{cite web|url=https://www.census.gov/quickfacts/DC |title=QuickFacts: District of Columbia |date=July 1, 2017 |publisher=[[U.S. Census Bureau]] |access-date=October 11, 2018}}</ref>
+
+The [[Washington Metropolitan Area]], which includes the district and surrounding suburbs, is the [[Table of United States Metropolitan Statistical Areas|sixth-largest]] metropolitan area in the United States with an estimated six million residents in 2014.<ref>{{cite web |url=https://factfinder.census.gov/bkmk/table/1.0/en/PEP/2016/PEPANNRES/310M300US47900 |title=Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2016 |access-date=March 6, 2018 |date=March 2017 |publisher=[[United States Census Bureau]], Population Division |archive-url=https://archive.today/20200213114548/https://factfinder.census.gov/bkmk/table/1.0/en/PEP/2016/PEPANNRES/310M300US47900 |archive-date=February 13, 2020 |url-status=dead }}</ref> When the Washington area is included with [[Baltimore]] and its suburbs, the [[Baltimore–Washington Metropolitan Area]] had a population exceeding 9.8&nbsp;million residents in 2020, the [[List of United States combined statistical areas|third-largest]] combined statistical area in the country.<ref>{{cite web |url=https://factfinder.census.gov/bkmk/table/1.0/en/PEP/2016/GCTPEPANNR.US41PR |archive-url=https://archive.today/20200213004930/http://factfinder.census.gov/bkmk/table/1.0/en/PEP/2016/GCTPEPANNR.US41PR |url-status=dead |archive-date=February 13, 2020 |title=Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2016—United States—Combined Statistical Area; and for Puerto Rico |access-date=March 6, 2018 |date=March 2017 |publisher=[[United States Census Bureau]], Population Division }}</ref>
+
+According to 2017 Census Bureau data, the population of Washington, D.C., was 47.1% Black or African American, 45.1% White (36.8% non-Hispanic White), 4.3% [[Asian American|Asian]], 0.6% American Indian or Alaska Native, and 0.1% Native Hawaiian or Other Pacific Islander. Individuals from two or more races made up 2.7% of the population. Hispanics of any race made up 11.0% of the district's population.<ref name=quickfacts/>
+[[File:Race and ethnicity 2010- Washington, DC (5559893527).png|thumb|left|Map of racial distribution in Washington, D.C., according to the 2010 U.S. Census. Each dot is 25 people: <span style="color:#ff0000">'''White'''</span>, <span style="color:#0000ff">'''Black'''</span>, <span style="color:#00ff80">'''Asian'''</span>, <span style="color:#ff8000">'''Hispanic'''</span> or '''Other''' (yellow)]]
+
+Washington has had a [[List of U.S. cities with large African-American populations|significant African American population]] since the city's foundation.<ref>{{cite book|last=Kolchin|first=Peter|title=American Slavery: 1619–1877|publisher=Hill and Wang|location=New York|year=1994|page=81}}</ref> African American residents composed about 30% of the district's total population between 1800 and 1940.<ref name="histpop" /> The black population reached a peak of 70% by 1970, but has since steadily declined due to many African Americans moving to the surrounding suburbs. Partly as a result of [[gentrification]], there was a 31.4% increase in the non-Hispanic white population and an 11.5% decrease in the black population between 2000 and 2010.<ref name=demshift>{{cite news|title=Number of black D.C. residents plummets as majority status slips away|url=https://www.washingtonpost.com/local/black-dc-residents-plummet-barely-a-majority/2011/03/24/ABtIgJQB_story.html|access-date=March 25, 2011|newspaper=The Washington Post|date=March 24, 2011|first1=Carol |last1=Morello|first2=Dan |last2=Keating}}</ref> According to a study by the National Community Reinvestment Coalition, D.C. has experienced more "intense" gentrification than any other American city, with 40% of neighborhoods gentrified.<ref>{{Cite web|date=April 18, 2019|title='It's primarily racial': Study finds DC has the most intense gentrification in the country|url=https://wtop.com/dc/2019/04/its-primarily-racial-dc-has-the-most-intense-gentrification-in-the-country-study-found/|access-date=June 12, 2020|website=WTOP|language=en}}</ref>
+
+About 17% of D.C. residents were age 18 or younger in 2010, lower than the U.S. average of 24%. However, at 34 years old, the district had the lowest median age compared to the 50 states.<ref>{{cite web|title=Age and Sex Composition: 2010|url=https://www.census.gov/prod/cen2010/briefs/c2010br-03.pdf|publisher=United States Census Bureau|access-date=August 17, 2011|page=7|date=May 2011}}</ref> {{As of|2010}}, there were an estimated 81,734 [[immigrants]] living in Washington, D.C.<ref name=DCsocial>{{cite web |url=http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_1YR/DP02/0400000US11 |archive-url=https://archive.today/20200212084753/http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_1YR/DP02/0400000US11 |url-status=dead |archive-date=February 12, 2020 |title=Selected Social Characteristics in the United States |work=American Community Survey 2010 |access-date=January 21, 2012 |publisher=[[United States Census Bureau]] }}</ref> Major sources of immigration include [[El Salvador]], [[Vietnam]], and [[Ethiopia]], with a concentration of Salvadorans in the [[Mount Pleasant, Washington, D.C.|Mount Pleasant]] neighborhood.<ref>{{cite web |url=http://www.brookings.edu/research/reports/2001/04/washington-dc-singer |title=The World in a Zip Code: Greater Washington, D.C. as a New Region of Immigration |publisher=The Brookings Institution |last=Singer|first=Audrey|year=2001 |access-date=May 12, 2012|display-authors=etal}}</ref>
+
+Researchers found that there were 4,822 same-sex couples in the District of Columbia in 2010, about 2% of total households.<ref>{{cite web |url=http://williamsinstitute.law.ucla.edu/wp-content/uploads/Census2010Snapshot_DC_v2.pdf |title=District of Columbia Census Snapshot: 2010 |access-date=November 12, 2011 |last=Gates |first=Gary J. |author2=Abigail M. Cooke |date=September 2011 |publisher=The Williams Institute |archive-date=April 7, 2012 |archive-url=https://web.archive.org/web/20120407025129/http://williamsinstitute.law.ucla.edu/wp-content/uploads/Census2010Snapshot_DC_v2.pdf |url-status=dead }}</ref> Legislation [[same-sex marriage in the District of Columbia|authorizing same-sex marriage]] passed in 2009, and the district began issuing marriage licenses to same-sex couples in March 2010.<ref>{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2010/03/03/AR2010030300654.html|title=D.C. begins licensing same-sex marriages|last=Alexander|first=Keith L.|author2=Anne E. Marimow |date=March 4, 2010|work=The Washington Post|access-date=March 4, 2010}}</ref>
+
+A 2007 report found that about a third of district residents were [[functionally illiterate]], compared to a national rate of about one in five. This is attributed in part to immigrants who are not proficient in English.<ref>{{cite news|url=https://news.yahoo.com/s/ap/20070319/ap_on_re_us/adult_literacy |title=Study Finds One-third in D.C. Illiterate |date=March 19, 2007 |agency=Associated Press |access-date=August 13, 2011 |archive-url=https://web.archive.org/web/20070322164359/http://news.yahoo.com/s/ap/20070319/ap_on_re_us/adult_literacy |archive-date=March 22, 2007 |url-status=dead }}</ref> {{As of|2011}}, 85% of D.C. residents age{{nbsp}}5 and older spoke English at home as a primary language.<ref>{{cite web|last=Ryan|first=Camille|title=Language Use in the United States: 2011|url=https://www.census.gov/prod/2013pubs/acs-22.pdf|work=American Community Survey|publisher=U.S. Census Bureau|access-date=August 11, 2013|date=August 2013|archive-url=https://web.archive.org/web/20160205101044/http://www.census.gov/prod/2013pubs/acs-22.pdf|archive-date=February 5, 2016|url-status=dead}}</ref> Half of residents had at least a four-year college degree in 2006.<ref name=DCsocial /> In 2017, the median household income in D.C. was $77,649;<ref name="DC_AF"/> also in 2017, D.C. residents had a [[States of the United States of America by income|personal income per capita]] of $50,832 (higher than any of the 50 states).<ref name="DC_AF">{{cite web |url=https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_5YR_B19301&prodType=table |archive-url=https://archive.today/20200214060841/https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_5YR_B19301&prodType=table |url-status=dead |archive-date=February 14, 2020 |work=American FactFinder |title=Per Capita Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars) 2013–2017 American Community Survey 5-Year estimates. (Geography set to "District of Columbia") |access-date=July 3, 2019 }}</ref><ref>{{cite web|url=https://www.census.gov/compendia/statab/2008/tables/08s0659.pdf|title=Personal Income Per Capita in Current and Constant (2000) Dollars by State: 2000 to 2006|date=April 2007|publisher=United States Census Bureau|access-date=December 27, 2008|url-status=dead|archive-url=https://web.archive.org/web/20081228053245/http://www.census.gov/compendia/statab/2008/tables/08s0659.pdf|archive-date=December 28, 2008}}</ref> However, 19% of residents were below the poverty level in 2005, higher than any state except [[Mississippi]]. In 2019, the poverty rate stood at 14.7%.<ref>{{cite web|url=https://www.census.gov/compendia/statab/2008/tables/08s0687.pdf|title=Individuals and Families Below Poverty Level—Number and Rate by State: 2000 and 2005|year=2005|publisher=United States Census Bureau|access-date=December 27, 2008|url-status=dead|archive-url=https://web.archive.org/web/20081228053242/http://www.census.gov/compendia/statab/2008/tables/08s0687.pdf|archive-date=December 28, 2008}}</ref>{{efn|The [[territories of the United States]] have the highest poverty rates in the United States.<ref>{{cite web|url=https://www.gao.gov/new.items/d10240r.pdf|work=GAO|title=Poverty Determination In U.S. Insular Areas|access-date=July 3, 2019|archive-date=April 12, 2019|archive-url=https://web.archive.org/web/20190412032339/https://www.gao.gov/new.items/d10240r.pdf|url-status=dead}}</ref>}}<ref>{{cite web|url=https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-poverty-people.html|title=Historical Poverty Tables: People and Families—1959 to 2018|year=2018|access-date=October 8, 2019}}</ref>
+
+Of the district's population, 17% is [[Baptist]], 13% is [[Catholic]], 6% is [[evangelical Protestant]], 4% is [[Methodist]], 3% is [[Episcopal Church (United States)|Episcopalian]]/[[Anglican]], 3% is [[Jewish]], 2% is [[Eastern Orthodox]], 1% is [[Pentecostal]], 1% is [[Buddhist]], 1% is [[Adventism|Adventist]], 1% is [[Lutheran]], 1% is [[Muslim]], 1% is [[Presbyterian]], 1% is [[Mormon]], and 1% is [[Hindu]].<ref>{{cite web|title=County Membership Report: District of Columbia: Religious Traditions, 2010 |work=[[Association of Religion Data Archives]] |archive-url=https://web.archive.org/web/20141028180838/http://www.thearda.com/rcms2010/r/c/11/rcms2010_11001_county_name_2010.asp |archive-date=October 28, 2014 |url=http://www.thearda.com/rcms2010/r/c/11/rcms2010_11001_county_name_2010.asp |url-status=dead }}</ref>{{efn|These figures count adherents, meaning all full members, their children, and others who regularly attend services. In all of the District, 55% of the population is adherent to any particular religion.}}
+
+{{as of|2010}}, more than 90% of D.C. residents had health insurance coverage, the second-highest rate in the nation. This is due in part to city programs that help provide insurance to low-income individuals who do not qualify for other types of coverage.<ref>{{cite web|last=Reed|first=Jenny|title=National Health Care Reform is a Win for DC|url=http://www.dcfpi.org/national-health-care-reform-is-a-win-for-dc|publisher=DC Fiscal Policy Institute|access-date=August 17, 2011|date=April 21, 2010|url-status=dead|archive-url=https://web.archive.org/web/20111002180131/http://www.dcfpi.org/national-health-care-reform-is-a-win-for-dc|archive-date=October 2, 2011}}</ref> A 2009 report found that at least three percent of district residents have HIV or AIDS, which the [[Centers for Disease Control and Prevention]] (CDC) characterizes as a "generalized and severe" epidemic.<ref>{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2009/03/14/AR2009031402176_pf.html|title=HIV/AIDS Rate in D.C. Hits 3%|last=Vargas|first=Jose Antonio|author2=Darryl Fears |date=March 15, 2009|work=The Washington Post|pages=A01|access-date=March 21, 2009}}</ref>
+
+===Crime===
+
+{{Main|Crime in Washington, D.C.}}
+{{See also|List of law enforcement agencies in the District of Columbia}}
+[[File:MPDC.MFL.WDC.19January2018 (39879686101).jpg|thumb|[[Metropolitan Police Department of the District of Columbia|D.C. police]] on [[Harley-Davidson]] motorcycles escort a protest in 2018.]]
+
+Crime in Washington, D.C., is concentrated in areas associated with poverty, drug abuse, and gangs. A 2010 study found that 5 percent of city blocks accounted for more than 25% of the district's total crimes.<ref name=DCPI>{{cite web|last=Cahill|first=Meagan|title=Small Number of Blocks Account for Lots of Crime in D.C.|url=http://www.dccrimepolicy.org/Briefs/images/DCPIBrief_CrimeByBlockFINAL_2.pdf|publisher=District of Columbia Crime Policy Institute|access-date=June 25, 2011|author2=John K. Roman|date=November 2010|url-status=dead|archive-url=https://web.archive.org/web/20111016042143/http://www.dccrimepolicy.org/Briefs/images/DCPIBrief_CrimeByBlockFINAL_2.pdf|archive-date=October 16, 2011}}</ref>
+
+The more affluent neighborhoods of Northwest Washington are typically safe, especially in areas with concentrations of government operations, such as [[Downtown Washington, D.C.]], [[Foggy Bottom]], [[Embassy Row]], and Penn Quarter, but reports of violent crime increase in poorer neighborhoods generally concentrated in the eastern portion of the city.<ref name=DCPI /> Approximately 60,000 residents are ex-convicts.<ref>{{cite news |first=Robert |last=Pierre|title=Ex-Offenders Protest Dearth of Jobs, Services |date=July 2, 2008 |url=https://www.washingtonpost.com/wp-dyn/content/article/2008/07/01/AR2008070102608.html|work=The Washington Post |access-date=May 2, 2011}}</ref>
+
+In 2012, Washington's annual murder count had dropped to 88, the lowest total since 1961.<ref>{{cite web|last=Mollenbeck|first=Andrew|title=District celebrates historically low homicide rate|url=http://www.wtop.com/109/3180337/District-celebrates-historically-low-homicide-rate|publisher=WTOP|access-date=January 14, 2013|date=January 3, 2013}}</ref> The murder rate has since risen from that historic low, though it remains close to half the rate of the early 2000s.<ref>{{cite web|title=Crime rate in Washington, District of Columbia (DC)|url=http://www.city-data.com/crime/crime-Washington-District-of-Columbia.html|publisher=City-data.com}}</ref> Washington was once described as the "murder capital" of the United States during the early 1990s.<ref>{{cite news |first=Ian |last=Urbina |title=Washington Officials Try to Ease Crime Fear |date=July 13, 2006 |url=https://www.nytimes.com/2006/07/13/us/13deecee.html |work=The New York Times |access-date=June 10, 2008 }}</ref> The number of murders peaked in 1991 at 479, but the level of violence then began to decline significantly.<ref>{{cite news |first1=Allison |last1=Klein |first2=Matt |last2=Zapotosky |title=As homicides fall in D.C., rise in Prince George's, numbers meet in the middle| url=https://www.washingtonpost.com/local/as-homicides-fall-in-dc-rise-in-prince-georges-numbers-meet-in-the-middle/2011/12/21/gIQAjopBTP_story.html| work=The Washington Post|date=December 31, 2011|access-date=January 2, 2012}}</ref>
+
+In 2016, the district's Metropolitan Police Department tallied 135 homicides, a 53% increase from 2012 but a 17% decrease from 2015.<ref>{{cite web|url=http://mpdc.dc.gov/page/district-crime-data-glance|title=District Crime Data|publisher=Mpdc.dc.gov}}</ref> Many neighborhoods such as [[Columbia Heights, Washington, D.C.|Columbia Heights]] and [[Logan Circle, Washington, D.C.|Logan Circle]] are becoming safer and vibrant. However, incidents of robberies and thefts have remained higher in these areas because of increased nightlife activity and greater numbers of affluent residents.<ref name=klein>{{cite news|last=Klein|first=Allison|title=Liveliest D.C. Neighborhoods Also Jumping With Robberies|url=https://www.washingtonpost.com/wp-dyn/content/article/2006/10/12/AR2006101201813.html|access-date=June 26, 2011|newspaper=[[The Washington Post]]|date=October 13, 2006|author2=Dan Keating}}</ref> Even still, citywide reports of both property and violent crimes have declined by nearly half since their most recent highs in the mid-1990s.<ref>{{cite web|title=District of Columbia Crime Rates 1960–2010|url=http://www.disastercenter.com/crime/dccrime.htm|publisher=Disaster Center|access-date=September 22, 2012}}</ref>
+
+On June 26, 2008, the [[Supreme Court of the United States]] held in ''[[District of Columbia v. Heller]]'' that the city's 1976 [[Firearms Control Regulations Act of 1975|handgun ban]] violated the [[Right to keep and bear arms in the United States|right to keep and bear arms]] as protected under the [[Second Amendment to the United States Constitution|Second Amendment]].<ref>{{cite news |first=Robert |last=Barnes |title=Supreme Court Strikes Down D.C. Ban on Handguns |date=June 26, 2008 |url=https://www.washingtonpost.com/wp-dyn/content/article/2008/06/26/AR2008062600615.html |work=The Washington Post |access-date=June 27, 2008 }}</ref> However, the ruling does not prohibit all forms of gun control; laws requiring firearm registration remain in place, as does the city's assault weapon ban.<ref>{{cite news|first=David |last=Nakamura |title=D.C. Attorney General: All Guns Must Be Registered |date=June 26, 2008 |url=http://blog.washingtonpost.com/dc/2008/06/dc_attorney_general_all_guns_m.html |work=The Washington Post |access-date=June 26, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20081011085230/http://blog.washingtonpost.com/dc/2008/06/dc_attorney_general_all_guns_m.html |archive-date=October 11, 2008 }}</ref>
+
+In addition to the district's own [[Metropolitan Police Department of the District of Columbia|Metropolitan Police Department]], many [[Federal law enforcement in the United States|federal law enforcement agencies]] have jurisdiction in the city as well—most visibly the [[United States Park Police|U.S. Park Police]], founded in 1791.<ref>{{cite web|url=http://www.nps.gov/uspp/tauthorit.htm |title=U.S. Park Police Authority and Jurisdiction |access-date=August 13, 2011 |date=August 13, 2011 |publisher=[[National Park Service]]}}</ref>
+
+==Economy==
+
+{{Category see also|Category:Companies based in Washington, D.C.|Category:Non-profit organizations based in Washington, D.C.}}
+[[File:Aerial view of Federal Triangle - facing west.jpg|thumb|[[Federal Triangle]], between [[Constitution Avenue]] and [[Pennsylvania Avenue]]. The [[U.S. federal government]] accounts for about 29% of D.C. jobs.]]
+
+Washington has a growing, diversified economy with an increasing percentage of professional and business service jobs.<ref>{{cite news|last=Florida|first=Richard|title=What Housing Crisis?|url=https://www.nytimes.com/roomfordebate/2011/06/02/double-dip-not-in-washington-dc/what-housing-crisis|work=The New York Times|access-date=November 15, 2011|date=June 2, 2011}}</ref> The district's gross state product in 2018-Q2 was $141&nbsp;billion.<ref>[http://www.bea.gov/system/files/2018-11/qgdpstate1118.pdf Gross Domestic Product by State], U.S. Bureau of Economic Analysis, November 14, 2018</ref> The Washington Metropolitan Area's gross product was $435&nbsp;billion in 2014, making it the [[List of metropolitan areas in the United States by GMP|sixth-largest metropolitan economy]] in the United States.<ref>{{Cite web|title = Bureau of Economic Analysis|url = https://www.bea.gov/iTable/iTable.cfm?reqid=70&step=1&isuri=1&acrdn=2#reqid=70&step=6&isuri=1&7003=900&7004=naics&7005=-1&7001=2900&7002=2&7090=70|website = www.bea.gov|access-date = January 11, 2016|language = EN-US|first = US Department of Commerce, BEA, Bureau of Economic|last = Analysis}}</ref> Between 2009 and 2016, GDP per capita in Washington has consistently ranked on the very top among U.S. states.<ref name="capita2009">{{cite web|last1=Bureau of Economic Analysis|title=Per capita real GDP by state (chained 2009 dollars)|url=https://www.bea.gov/iTable/iTable.cfm?reqid=70&step=10&isuri=1&7003=200&7035=-1&7004=sic&7005=1&7006=xx&7036=-1&7001=1200&7002=1&7090=70&7007=-1&7093=levels#reqid=70&step=10&isuri=1&7003=1000&7004=naics&7035=-1&7005=1&7006=xx&7001=11000&7036=-1&7002=1&7090=70&7007=-1&7093=levels|website=www.bea.gov|publisher=U.S. Department of Commerce|access-date=August 29, 2017}}</ref> In 2016, at $160,472, its GDP per capita is almost three times as high as that of [[Massachusetts]], which was ranked second in the nation.<ref name="capita2009"/> {{as of|2011}}, the Washington Metropolitan Area had an unemployment rate of 6.2%; the second-lowest rate among the 49 [[Table of United States Metropolitan Statistical Areas|largest metro areas]] in the nation.<ref>{{cite web|url=http://www.bls.gov/news.release/archives/empsit_07082011.htm|title=Metropolitan Area Employment and Unemployment (Monthly) News Release|date=July 8, 2011|publisher=United States Bureau of Labor Statistics|access-date=August 9, 2011}}</ref> The District of Columbia itself had an unemployment rate of 9.8% during the same time period.<ref>{{cite web|url=http://www.bls.gov/news.release/archives/laus_06172011.htm|title=Regional and State Employment and Unemployment (Monthly) News Release|date=June 17, 2011|publisher=United States Bureau of Labor Statistics|access-date=August 9, 2011}}</ref>
+
+In December 2017, 25% of the employees in Washington, D.C., were employed by a federal governmental agency.<ref>"[https://does.dc.gov/sites/default/files/dc/sites/does/publication/attachments/CESdc1Dec17.pdf District of Columbia Wage and Salary Employment by Industry and Place of Work 2017]". ''District of Columbia Department of Employment Services, Office of Labor Market Research and Information''. 2017.</ref><ref name="fedjobs">{{cite web|url=http://newsroom.dc.gov/file.aspx/release/23164/CESdcJan12.pdf |title=Wage and Salary Employment by Industry and Place of Work |access-date=April 19, 2012 |year=2012 |publisher=District of Columbia Department of Employment Services }}</ref> This is thought to immunize Washington, D.C., to national economic downturns because the federal government continues operations even during recessions.<ref>{{cite web|url=http://www.businessweek.com/stories/2008-10-14/some-cities-will-be-safer-in-a-recessionbusinessweek-business-news-stock-market-and-financial-advice|title=Some Cities Will Be Safer in a Recession|last=Gopal|first=Prashant|date=October 14, 2008|work=BusinessWeek |access-date=September 9, 2012}}</ref> Many organizations such as [[law firm]]s, [[defense contractor]]s, [[independent contractor|civilian contractors]], [[nonprofit organization]]s, [[lobbying in the United States|lobbying firms]], [[trade union]]s, [[industry trade group]]s, and [[professional association]]s have their headquarters in or near Washington, D.C., in order to be close to the federal government.<ref name=kstreet /> The city of [[Rosslyn, Virginia]], located across the Potomac River from D.C., serves as a base of operations for several [[Fortune 500 companies]], due to the building height restrictions in place within the District of Columbia. In 2018, Amazon announced they would build "HQ 2" in the [[Crystal City, Arlington, Virginia|Crystal City neighborhood]] of Arlington, Virginia.<ref>{{Cite news|url=https://www.npr.org/2018/11/13/665646050/amazons-grand-search-for-2nd-headquarters-ends-with-split-nyc-and-d-c-suburb|title=Amazon's Grand Search For 2nd Headquarters Ends With Split: NYC And D.C. Suburb|newspaper=NPR|date=November 13, 2018|language=en|access-date=September 1, 2019|last1=Selyukh|first1=Alina}}</ref>
+
+Tourism is Washington's second-largest industry. Approximately 18.9&nbsp;million visitors contributed an estimated $4.8&nbsp;billion to the local economy in 2012.<ref name=tourism2012>{{cite news |url=http://washingtonexaminer.com/d.c.-sets-tourism-record-with-19m-visitors-in-2012/article/2529134 |title=D.C. sets tourism record with 19m visitors in 2012 |first=Matt |last=Connolly |date=May 7, 2013 |access-date=May 8, 2013 |work=[[The Washington Examiner]] |url-status=dead |archive-url=https://web.archive.org/web/20131103040727/http://washingtonexaminer.com/d.c.-sets-tourism-record-with-19m-visitors-in-2012/article/2529134 |archive-date=November 3, 2013  }}</ref> The district also hosts nearly 200 foreign embassies and international organizations such as the [[World Bank Group|World Bank]], the [[International Monetary Fund]] (IMF), the [[Organization of American States]], the [[Inter-American Development Bank]], and the [[Pan American Health Organization]]. In 2008, the foreign [[diplomatic corps]] in Washington employed about 10,000 people and contributed an estimated $400&nbsp;million annually to the local economy.<ref name="embassies" />
+
+The district has growing industries not directly related to government, especially in the areas of education, finance, public policy, and scientific research. [[Georgetown University]], [[George Washington University]], [[Washington Hospital Center]], [[Children's National Medical Center]] and [[Howard University]] are the top five non-government-related employers in the city {{As of|2009|lc=y}}.<ref>{{cite web|url=http://does.dc.gov/sites/default/files/dc/sites/does/publication/attachments/DOES_Top200.pdf |title=Top 200 Chief Executive Officers of the Major Employers in the District of Columbia 2009 |access-date=September 6, 2012 | year=2010|publisher=D.C. Department of Employment Services }}</ref> According to statistics compiled in 2011, four of the [[Fortune 500|largest 500 companies]] in the country were headquartered in the district.<ref>{{cite news|url=https://money.cnn.com/magazines/fortune/fortune500/2011/states/DC.html |title=Fortune 500 2011: States: District Of Columbia Companies |access-date=November 12, 2011 |date=May 23, 2011 |work=[[Fortune Magazine]] |publisher=CNNMoney.com }}</ref> In the 2021 [[Global Financial Centres Index]], Washington was ranked as having the 14th most competitive financial center in the world, and fourth most competitive in the United States (after [[Economy of New York City#Finance|New York City]], [[San Francisco#Economy|San Francisco]], and [[Economy of Los Angeles#Finance|Los Angeles]]).<ref>{{cite web|url=https://www.longfinance.net/media/documents/GFCI_29_Full_Report_2021.03.17_v1.1.pdf|title=The Global Financial Centres Index 29|date=March 2021|access-date=July 27, 2021|archive-date=March 22, 2021|archive-url=https://web.archive.org/web/20210322132130/https://www.longfinance.net/media/documents/GFCI_29_Full_Report_2021.03.17_v1.1.pdf|url-status=dead}}</ref>
+
+==Culture==
+
+{{Main|Culture of Washington, D.C.}}
+
+===Landmarks===
+
+{{See also|List of National Historic Landmarks in Washington, D.C.|National Register of Historic Places listings in Washington, D.C.}}
+[[File:Lincoln in his seat.JPG|thumb|right|The [[Lincoln Memorial]] receives about six million visits annually.]]
+
+The [[National Mall]] is a large, open park in downtown Washington between the [[Lincoln Memorial]] and the [[United States Capitol]]. Given its prominence, the mall is often the location of [[List of protest marches on Washington, D.C.|political protests]], concerts, festivals, and [[United States presidential inauguration|presidential inaugurations]]. The [[Washington Monument]] and the [[Jefferson Pier]] are near the center of the mall, south of the [[White House]]. Also on the mall are the [[National World War II Memorial]] at the east end of the [[Lincoln Memorial Reflecting Pool]], the [[Korean War Veterans Memorial]], and the [[Vietnam Veterans Memorial]].<ref name=nama>{{cite web|url=http://www.nps.gov/nama/historyculture/index.htm |title=National Mall & Memorial Parks: History & Culture |access-date=February 18, 2012 |date=September 28, 2006 |publisher=[[National Park Service]] }}</ref>
+
+Directly south of the mall, the [[Tidal Basin (District of Columbia)|Tidal Basin]] features rows of Japanese cherry trees.<ref>{{cite web|title=History of the Cherry Trees|url=http://www.nps.gov/cherry/cherry-blossom-history.htm|publisher=National Park Service|access-date=August 19, 2011}}</ref> The [[Franklin Delano Roosevelt Memorial]], [[George Mason Memorial]], Jefferson Memorial, [[Martin Luther King Jr. Memorial]], and the [[District of Columbia War Memorial]] are around the Tidal Basin.<ref name=nama />
+
+The [[National Archives and Records Administration|National Archives]] houses thousands of documents important to American history, including the [[United States Declaration of Independence|Declaration of Independence]], the Constitution, and the [[United States Bill of Rights|Bill of Rights]].<ref>{{cite web|url=https://www.archives.gov/nae/visit/rotunda.html |title=Rotunda for the Charters of Freedom |access-date=June 28, 2008 |publisher=The National Archives }}</ref> Located in three buildings on Capitol Hill, the [[Library of Congress]] is the largest library complex in the world with a collection of more than 147&nbsp;million books, manuscripts, and other materials.<ref>{{cite web|title=General Information|url=https://www.loc.gov/about/generalinfo.html|publisher=Library of Congress|access-date=July 9, 2011|date=February 1, 2011}}</ref> The [[United States Supreme Court Building]] was completed in 1935; before then, the court held sessions in the [[Old Senate Chamber]] of the Capitol.<ref>{{cite web|title=The Court Building|url=https://www.supremecourt.gov/about/courtbuilding.aspx|publisher=Supreme Court of the United States|access-date=August 19, 2011}}</ref>
+
+===Museums===
+
+{{See also|List of museums in Washington, D.C.}}
+[[File:Smithsonian_Building_NR.jpg|thumb|The [[Smithsonian Institution]] is the world's largest research and museum complex.<ref>{{Cite web|date=September 20, 2012|title=Top 10 Museums and Galleries|url=https://www.nationalgeographic.com/travel/top-10/museum-galleries/|website=National Geographic}}</ref>]]
+The [[Smithsonian Institution]] is an educational foundation chartered by Congress in 1846 that maintains most of the nation's official museums and galleries in Washington, D.C. The U.S. government partially funds the Smithsonian, and its collections are open to the public free of charge.<ref>{{cite web|url=http://www.si.edu/about/ |title=About the Smithsonian |access-date=May 27, 2008 |publisher=Smithsonian Institution }}</ref> The Smithsonian's locations had a combined total of 30&nbsp;million visits in 2013. The most visited museum is the [[National Museum of Natural History]] on the National Mall.<ref>{{cite web|url=http://newsdesk.si.edu/about/stats |title=Visitor Statistics |access-date=February 20, 2014 |publisher=Smithsonian Institution }}</ref> Other Smithsonian Institution museums and galleries on the mall are: the [[National Air and Space Museum]]; the [[National Museum of African Art]]; the [[National Museum of American History]]; the [[National Museum of the American Indian]]; the [[Arthur M. Sackler Gallery|Sackler]] and [[Freer Gallery of Art|Freer]] galleries, which both focus on Asian art and culture; the [[Hirshhorn Museum and Sculpture Garden]]; the [[Arts and Industries Building]]; the [[S. Dillon Ripley Center]]; and the [[Smithsonian Institution Building]] (also known as "The Castle"), which serves as the institution's headquarters.<ref name="SI">{{cite web|url=http://newsdesk.si.edu/factsheets/ |title=Museum and Program Fact Sheets |access-date=August 13, 2011 |publisher=Smithsonian Institution }}</ref>
+The [[Smithsonian American Art Museum]] and the [[National Portrait Gallery (United States)|National Portrait Gallery]] are housed in the [[Old Patent Office Building]], near Washington's [[Chinatown, Washington, D.C.|Chinatown]].<ref>{{cite web|last=Goodheart |first=Adam |title=Back to the Future |url=http://www.smithsonianmag.com/history/back-to-the-future-122460718/ |work=Smithsonian Magazine |access-date=September 9, 2012 |year=2006}}</ref> The [[Renwick Gallery]] is officially part of the Smithsonian American Art Museum but is in a separate building near the White House. Other Smithsonian museums and galleries include: the [[Anacostia Museum|Anacostia Community Museum]] in Southeast Washington; the [[National Postal Museum]] near [[Union Station (Washington, D.C.)|Union Station]]; and the [[National Zoological Park (United States)|National Zoo]] in [[Woodley Park, Washington, D.C.|Woodley Park]].<ref name="SI" />
+[[File:Washington_October_2016-12.jpg|thumb|The [[National Gallery of Art]]]]
+The [[National Gallery of Art]] is on the National Mall near the Capitol and features American and European artworks. The U.S. government owns the gallery and its collections. However, they are not a part of the Smithsonian Institution.<ref>{{cite web|url=http://www.nga.gov/content/ngaweb/about.html |title=About the National Gallery of Art |access-date=April 28, 2013 |publisher=National Gallery of Art }}</ref> The [[National Building Museum]], which occupies the former Pension Building near [[Judiciary Square, Washington, D.C.|Judiciary Square]], was chartered by Congress and hosts exhibits on architecture, urban planning, and design.<ref>{{cite web|url=http://www.nbm.org/about-us/about-the-museum/|title=About the National Building Museum|publisher=National Building Museum|access-date=November 6, 2010|url-status=dead|archive-url=https://web.archive.org/web/20101104214726/http://www.nbm.org/about-us/about-the-museum/|archive-date=November 4, 2010}}</ref>
+
+There are many private art museums in the District of Columbia, which house major collections and exhibits open to the public, such as the [[National Museum of Women in the Arts]] and [[The Phillips Collection]] in [[Dupont Circle, Washington, D.C.|Dupont Circle]], the first museum of modern art in the United States.<ref>{{cite web |url=http://www.phillipscollection.org/about/about-the-phillips/index.aspx |title=About The Phillips Collection |access-date=December 2, 2012 |publisher=The Phillips Collection |archive-date=November 30, 2012 |archive-url=https://web.archive.org/web/20121130212702/http://www.phillipscollection.org/about/about-the-phillips/index.aspx |url-status=dead }}</ref> Other private museums in Washington include the [[Newseum]], the [[O Street Museum]], the [[International Spy Museum]], the [[National Geographic Society]] Museum, and the [[Museum of the Bible]]. The [[United States Holocaust Memorial Museum]] near the National Mall maintains exhibits, documentation, and artifacts related to the Holocaust.<ref>{{cite web|url=http://www.ushmm.org/research/library/faq/details.php?lang=en&topic=06 |title=Frequently Asked Questions |access-date=May 27, 2008 |date=January 14, 2008 |publisher=U.S. Holocaust Memorial Museum }}</ref>
+
+===Arts===
+
+{{Main|Theater in Washington, D.C.|Music of Washington, D.C.}}
+[[File:Kennedy Center - panoramio.jpg|thumb|upright=1.25|The [[John F. Kennedy Center for the Performing Arts|Kennedy Center for Performing Arts]] is home to the [[Washington National Opera]] and [[National Symphony Orchestra (United States)|National Symphony Orchestra]].]]
+
+Washington, D.C., is a national center for the arts. The [[John F. Kennedy Center for the Performing Arts]] is home to the [[National Symphony Orchestra (United States)|National Symphony Orchestra]], the [[Washington National Opera]], and the [[Washington Ballet]]. The [[Kennedy Center Honors]] are awarded each year to those in the performing arts who have contributed greatly to the cultural life of the United States.<ref>{{cite web|url=http://www.kennedy-center.org/programs/specialevents/honors/about/home.html |title=About the Kennedy Center Honors |access-date=June 29, 2008 |publisher=The Kennedy Center |url-status=dead |archive-url=https://web.archive.org/web/20080516004214/http://kennedy-center.org/programs/specialevents/honors/about/home.html |archive-date=May 16, 2008 }}</ref> The historic [[Ford's Theatre]], site of the assassination of President [[Abraham Lincoln]], continues to operate as a functioning performance space as well as a museum.<ref>{{cite news|last=Rothstein|first=Edward|title=Where a Comedy Turned to Tragedy|url=https://www.nytimes.com/2009/02/07/arts/design/07linc.html|access-date=April 2, 2011|newspaper=The New York Times|date=February 6, 2009}}</ref>
+
+The [[Marine Barracks, Washington, D.C.|Marine Barracks]] near [[Capitol Hill]] houses the [[United States Marine Band]]; founded in 1798, it is the country's oldest professional musical organization.<ref>{{cite web|title=Who We Are |url=http://www.marineband.usmc.mil/WHO_WE_ARE/ensembles/marine_band/index.htm |publisher=United States Marine Band |access-date=July 23, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20121019060441/http://www.marineband.usmc.mil/WHO_WE_ARE/ensembles/marine_band/index.htm |archive-date=October 19, 2012 }}</ref> [[American march music|American march composer]] and Washington-native [[John Philip Sousa]] led the Marine Band from 1880 until 1892.<ref>{{cite journal|last=Davison|first=Marjorie Risk|title=History of Music in the District of Columbia|journal=Records of the Columbia Historical Society|year=1969|volume=66–68|page=183|url=https://books.google.com/books?id=6V7jAAAAMAAJ|access-date=August 9, 2011}}</ref> Founded in 1925, the [[United States Navy Band]] has its headquarters at the [[Washington Navy Yard]] and performs at official events and public concerts around the city.<ref>{{cite web|title=History |url=http://www.navyband.navy.mil/History.shtml |publisher=United States Navy Band |access-date=July 23, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110716081210/http://www.navyband.navy.mil/History.shtml |archive-date=July 16, 2011 }}</ref>
+Washington has a strong local theater tradition. Founded in 1950, [[Arena Stage]] achieved national attention and spurred growth in the city's independent theater movement that now includes organizations such as the [[Shakespeare Theatre Company]], [[Woolly Mammoth Theatre Company]], and the [[Studio Theatre]].<ref>{{cite book|last=Wilmeth|first=Don B.|title=The Cambridge history of American theatre|year=2000|publisher=Cambridge University Press|page=232|url=https://books.google.com/books?id=mnRa7u3-T2IC|author2=C.W.E. Bigsby |isbn=978-0-521-66959-7}}</ref> Arena Stage opened its newly renovated home in the city's emerging [[Southwest Waterfront, Washington, D.C.|Southwest waterfront area]] in 2010.<ref>{{cite news|last=Kravitz|first=Derek|title=The emerging Southwest: Transformation underway|url=https://www.washingtonpost.com/wp-dyn/content/article/2010/09/23/AR2010092307325.html|access-date=April 2, 2001|newspaper=The Washington Post|date=September 26, 2010}}</ref> The [[GALA Hispanic Theatre]], now housed in the historic [[Tivoli Theatre (Washington, D.C.)|Tivoli Theatre]] in [[Columbia Heights (Washington, D.C.)|Columbia Heights]], was founded in 1976 and is a National Center for the Latino Performing Arts.<ref>{{cite web|title=Gala Theatre History |url=http://galatheatre.org/history.php |publisher=GALA Hispanic Theatre |access-date=April 2, 2001 |url-status=dead |archive-url=https://web.archive.org/web/20090830222103/http://www.galatheatre.org/history.php |archive-date=August 30, 2009 }}</ref>
+
+The [[U Street Corridor]] in Northwest D.C., known as "Washington's Black Broadway", is home to institutions like the [[Howard Theatre]], [[Bohemian Caverns]], and the [[Lincoln Theatre (Washington, D.C.)|Lincoln Theatre]], which hosted music legends such as Washington-native [[Duke Ellington]], [[John Coltrane]], and [[Miles Davis]].<ref name=ustreet>{{cite news|first=Dan |last=Levin |title=Lights Return to 'Black Broadway' in Northwest Washington, D.C. |date=September 10, 2006 |url=http://travel2.nytimes.com/2006/09/10/travel/10surfacing.html |work=The New York Times |access-date=June 20, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20110610144435/http://travel2.nytimes.com/2006/09/10/travel/10surfacing.html?ref=travel |archive-date=June 10, 2011 }}</ref> Washington has its own native music genre called [[go-go]]; a post-funk, percussion-driven flavor of rhythm and blues that was popularized in the late 1970s by D.C. band leader [[Chuck Brown]].<ref>{{cite news |first=Alona |last=Wartofsky |title=What Go-Goes Around ... |date=June 3, 2001 |work=The Washington Post |page=G01 }}</ref>
+
+The district is an important center for [[indie music scene|indie culture and music]] in the United States. The label [[Dischord Records]], formed by [[Ian MacKaye]], frontman of [[Fugazi]], was one of the most crucial independent labels in the genesis of 1980s punk and eventually indie rock in the 1990s.<ref>{{cite book|last=Constantinou|first=Costas M.|title=Cultures and politics of global communication|year=2008|publisher=Cambridge University Press|page=203|url=https://books.google.com/books?id=xpJ0_WQIbZoC|isbn=978-0-521-72711-2}}</ref> Modern [[Alternative rock|alternative]] and indie music venues like [[Black Cat (Washington, D.C. nightclub)|The Black Cat]] and the [[9:30 Club]] bring popular acts to the U Street area.<ref>{{cite news |title=Black Cat: A changing club with a changing scene in a changing city |date=September 9, 2001 |url=http://www.georgetownvoice.com/2004/09/09/black-cat-a-changing-club-with-a-changing-scene-in-a-changing-city/ |work=The Georgetown Voice |access-date=June 10, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20110513133855/http://georgetownvoice.com/2004/09/09/black-cat-a-changing-club-with-a-changing-scene-in-a-changing-city/ |archive-date=May 13, 2011 }}</ref>
+
+===Sports===
+
+{{Main|Sports in Washington, D.C.}}
+[[File:Nationals Park 8.16.19 - 7.jpg|thumb|[[Nationals Park]] is the home of the [[Washington Nationals]].]]
+
+Washington is one of 13 cities in the United States with teams [[U.S. cities with teams from four major sports|from all four major professional men's sports]] and is home to one major professional women's team. The [[Washington Wizards]] (National Basketball Association) and the [[Washington Capitals]] (National Hockey League) play at the [[Capital One Arena]] in Chinatown. The [[Washington Mystics]] (Women's National Basketball Association) play in the [[St. Elizabeths East Entertainment and Sports Arena]]. [[Nationals Park]], which opened in Southeast D.C. in 2008, is home to the [[Washington Nationals]] (Major League Baseball). [[D.C. United]] (Major League Soccer) plays at [[Audi Field]]. The [[Washington Football Team]] (National Football League) plays at [[FedExField]] in nearby Landover, Maryland.
+
+D.C. teams have won a combined thirteen professional league championships: the Washington Football Team (then named the Washington Redskins) have won five (including three [[Super Bowl]]s during the 1980s);<ref>{{cite web|title=History by Decades|url=http://www.redskins.com/team/history/history-by-decades.html|publisher=Washington Redskins|access-date=May 29, 2011|archive-url=https://web.archive.org/web/20110322043657/http://www.redskins.com/team/history/history-by-decades.html|archive-date=March 22, 2011|url-status=dead}}</ref> D.C. United has won four;<ref>{{cite web |title=D.C. United History & Tradition |publisher=D.C. United |url=http://www.dcunited.com/club |access-date=June 13, 2010}}</ref> and the Washington Wizards (then the Washington Bullets), Washington Capitals, Washington Mystics and Washington Nationals have each won a single championship.<ref>{{cite web|url=http://www.nba.com/history/finals/champions.html |title=NBA Finals: All-Time Champions |access-date=June 29, 2008 |year=2008 |publisher=National Basketball Association }}</ref><ref>{{Cite news|url=https://www.washingtonpost.com/news/capitals-insider/wp/2018/06/07/2018-nhl-stanley-cup-finals-capitals-golden-knights-game-5/|title=Capitals win Stanley Cup, Washington's first major sports championship since 1992|last1=Khurshudyan|first1=Isabelle|date=June 8, 2018|work=[[The Washington Post]]|access-date=June 12, 2018|last2=Stubbs|first2=Roman|language=en-US|issn=0190-8286|last3=Dougherty|first3=Jesse|last4=Allen|first4=Scott|last5=Greenberg|first5=Neil|last6=Steinberg|first6=Dan}}</ref>
+
+Other professional and semi-professional teams in Washington include: [[DC Defenders]] ([[XFL (2020)|XFL]]), [[Old Glory DC]] ([[Major League Rugby]]), the [[Washington Kastles]] (World TeamTennis); the [[Washington D.C. Slayers]] (USA Rugby League); the Baltimore Washington Eagles (U.S. Australian Football League); the [[D.C. Divas]] (Independent Women's Football League); and the [[Potomac Athletic Club RFC]] (Rugby Super League). The [[William H.G. FitzGerald Tennis Center]] in Rock Creek Park hosts the [[Citi Open]]. Washington is also home to two major annual marathon races: the [[Marine Corps Marathon]], which is held every autumn, and the [[Rock 'n' Roll USA Marathon]] held in the spring. The Marine Corps Marathon began in 1976 and is sometimes called "The People's Marathon" because it is the largest marathon that does not offer prize money to participants.<ref>{{cite web|title=MCM History |url=http://www.marinemarathon.com/MCM_Vault/MCM_History.htm |publisher=Marine Corps Marathon |access-date=May 18, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20150119081010/http://www.marinemarathon.com/MCM_Vault/MCM_History.htm |archive-date=January 19, 2015 }}</ref>
+
+The district's four [[National Collegiate Athletic Association|NCAA]] [[Division I (NCAA)|Division I]] teams, [[American Eagles]], [[George Washington Colonials]], [[Georgetown Hoyas]] and [[Howard Bison and Lady Bison]], have a broad following. The [[Georgetown Hoyas men's basketball]] team is the most notable and also plays at the Capital One Arena. From 2008 to 2012, the district hosted an annual [[college football]] [[bowl game]] at [[Robert F. Kennedy Memorial Stadium|RFK Stadium]], called the [[Military Bowl]].<ref>{{cite web|title=Emergence of the Bowl |url=http://www.militarybowl.org/wp-content/uploads/2010/10/EMERGENCE_OF_THE_EAGLEBANK_BOWL1.pdf |publisher=D.C. Bowl Committee |access-date=May 18, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110720092629/http://www.militarybowl.org/wp-content/uploads/2010/10/EMERGENCE_OF_THE_EAGLEBANK_BOWL1.pdf |archive-date=July 20, 2011 }}</ref> The D.C. area is home to one regional sports television network, [[Comcast SportsNet]] (CSN), based in Bethesda, Maryland.
+
+==Media==
+
+{{Main|Media in Washington, D.C.}}
+{{See also|List of newspapers in Washington, D.C.|List of films set in Washington, D.C.|List of television shows set in Washington, D.C.}}
+[[File:New_headquarters_building_of_The_Washington_Post.jpg|thumb|[[One Franklin Square]]: The ''[[Washington Post]]'' Building on [[Franklin Square (Washington, D.C.)|Franklin Square]]]]
+Washington, D.C., is a prominent center for national and international media. ''[[The Washington Post]]'', founded in 1877, is the oldest and most-read local daily newspaper in Washington.<ref name="wapo">{{cite web|url=http://www.washpostco.com/phoenix.zhtml?c=62487&p=irol-history1875 |title=History of the Post |year=2011 |access-date=May 29, 2011 }}</ref> "''The Post''", as it is popularly called, is well known as the newspaper that exposed the [[Watergate scandal]].<ref>{{cite news|url=https://www.washingtonpost.com/wp-srv/politics/special/watergate/timeline.html |title=The Watergate Story Timeline |access-date=December 2, 2012 |work=The Washington Post }}</ref> It had the sixth-highest readership of all news dailies in the country in 2011.<ref>{{cite web|last=Edmonds|first=Rick|title=Newspapers: By the Numbers|url=http://stateofthemedia.org/2012/newspapers-building-digital-revenues-proves-painfully-slow/newspapers-by-the-numbers/|work=The State of the News Media 2012|publisher=Pew Research Center|access-date=September 9, 2012|author2=Emily Guskin|author3=Tom Rosenstiel|author4=Amy Mitchell|archive-url=https://web.archive.org/web/20120907081344/http://stateofthemedia.org/2012/newspapers-building-digital-revenues-proves-painfully-slow/newspapers-by-the-numbers/|archive-date=September 7, 2012|url-status=dead}}</ref> From 2003 to 2019, [[The Washington Post Company]] published a daily free commuter newspaper called the ''[[Express (Washington, D.C. newspaper)|Express]]'', which summarized events, sports and entertainment;<ref>{{cite news |url=https://www.washingtonpost.com/lifestyle/style/express-commuter-newspaper-published-by-the-washington-post-shuts-down-after-16-years/2019/09/11/27c761c8-d495-11e9-9343-40db57cf6abd_story.html?noredirect=on |title=Express, commuter newspaper published by The Washington Post, shuts down after 16 years |date=September 11, 2019 |newspaper=The Washington Post |first=Paul |last=Farhi |access-date=April 7, 2020}}</ref> it still publishes the Spanish-language paper ''El Tiempo Latino''.
+
+Another popular local daily is ''[[The Washington Times]]'', the city's second general interest broadsheet and also an influential paper in conservative political circles.<ref>{{cite web|url=https://www.motherjones.com/politics/2007/04/bush-sr-celebrate-rev-sun-myung-moon-again|title=Bush Sr. To Celebrate Rev. Sun Myung Moon—Again}}</ref> The [[Alternative newspaper|alternative weekly]] ''[[Washington City Paper]]'' also has a substantial readership in the Washington area.<ref>{{cite news | title=Times circulation climbs to buck trend | date=May 18, 2005 | url =http://www.washingtontimes.com/news/2005/may/18/20050518-120247-7729r/ | work=The Washington Times | access-date =September 2, 2008 }}</ref><ref>{{cite web|url=http://www.altweeklies.com/aan/Company?oid=oid%3A95 |title=Washington City Paper |access-date=August 12, 2011 |publisher=Association of Alternative Newsweeklies }}</ref>
+[[File:WatergateFromAir.JPG|left|thumb|The [[Watergate complex]] was the site of the [[Watergate Scandal]], which led to [[Richard Nixon|President Nixon]]'s resignation.]]
+
+Some community and specialty papers focus on neighborhood and cultural issues, including the weekly ''[[Washington Blade]]'' and ''[[Metro Weekly]]'', which focus on LGBT issues; the ''[[Washington Informer]]'' and ''[[The Washington Afro American]]'', which highlight topics of interest to the black community; and neighborhood newspapers published by [[The Current Newspapers]]. ''[[Congressional Quarterly]]'', ''[[The Hill (newspaper)|The Hill]]'', ''[[Politico (newspaper)|Politico]]'' and ''[[Roll Call]]'' newspapers focus exclusively on issues related to Congress and the federal government. Other publications based in Washington include the ''[[National Geographic (magazine)|National Geographic]]'' magazine and political publications such as ''[[The Washington Examiner]]'', ''[[The New Republic]]'' and ''[[Washington Monthly]]''.<ref>{{cite web|title=District of Columbia, 2010–2011|url=http://chroniclingamerica.loc.gov/search/titles/results/?state=District+of+Columbia&year1=2010&year2=2011|work=Chronicling America: Historic American Newspapers|publisher=Library of Congress|access-date=August 17, 2011}}</ref>
+
+The Washington Metropolitan Area is the ninth-largest television media market in the nation, with two million homes, approximately 2% of the country's population.<ref>{{cite web|url=http://www.marketingcharts.com/television/us-tv-households-up-15-asian-hispanic-households-triple-that-5846/nielsen-top-30-local-television-market-universe-estimates-2008-2009jpg/|title=US TV Households Up 1.5%—Asian, Hispanic Households Triple That|date=September 27, 2008|publisher=Nielsen Media Research|access-date=October 10, 2009}}</ref> Several media companies and cable television channels have their headquarters in the area, including [[C-SPAN]]; [[Black Entertainment Television]] (BET); [[Radio One (company)|Radio One]]; the [[National Geographic Channel]]; [[Smithsonian Networks]]; [[National Public Radio]] (NPR); [[Travel Channel]] (in [[Chevy Chase, Maryland]]); [[Discovery Channel|Discovery Communications]] (in [[Silver Spring, Maryland]]); and the [[Public Broadcasting Service]] (PBS) (in [[Arlington, Virginia]]). The headquarters of [[Voice of America]], the U.S. government's international news service, is near the Capitol in Southwest Washington.<ref>{{cite web|title=About VOA |url=http://www.insidevoa.com/info/about_us/1673.html| publisher=Voice of America|access-date=December 2, 2012}}</ref>
+
+Washington has two local NPR affiliates, [[WAMU]] and [[WETA (FM)|WETA]].
+
+==Government and politics==
+
+{{Main|Government of the District of Columbia}}
+
+===Politics===
+{{See also|District of Columbia home rule|List of mayors of Washington, D.C.|List of District of Columbia symbols|United States presidential elections in Washington, D.C.}}
+
+[[Article One of the United States Constitution|Article One, Section Eight of the United States Constitution]] grants the [[United States Congress]] "exclusive jurisdiction" over the city. The district did not have an elected local government until the passage of the [[District of Columbia Home Rule Act|1973 Home Rule Act]]. The Act devolved certain Congressional powers to an [[Mayor of the District of Columbia|elected mayor]] and the thirteen-member [[Council of the District of Columbia]]. However, Congress retains the right to review and overturn laws created by the council and intervene in local affairs.<ref>{{cite web|url=http://www.dccouncil.washington.dc.us/pages/dc-home-rule |title=DC Home Rule |publisher=Council of the District of Columbia |access-date=December 3, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111117031522/http://www.dccouncil.washington.dc.us/pages/dc-home-rule |archive-date=November 17, 2011 }}</ref>
+
+Each of the city's eight [[Ward (country subdivision)|wards]] elects a single member of the council and residents elect four at-large members to represent the district as a whole. The council chair is also elected at-large.<ref>{{cite web|url=http://www.dcboee.org/candidate_info/elected_officials/elected.asp |title=Current Elected Officials in DC |access-date=January 11, 2012 |publisher=D.C. Board of Elections and Ethics }}</ref> There are 37 [[Advisory Neighborhood Commission]]s (ANCs) elected by small neighborhood districts. ANCs can issue recommendations on all issues that affect residents; government agencies take their advice under careful consideration.<ref>{{cite web|url=http://anc.dc.gov/page/about-anc |title=About ANC |access-date=September 22, 2012 |publisher=Government of the District of Columbia }}</ref> The [[Attorney General of the District of Columbia|attorney general of the District of Columbia]] is elected to a four-year term.<ref>{{cite web|title=§ 1–204.35. Election of the Attorney General.|url=http://dccode.org/simple/sections/1-204.35.html|website=Code of the District of Columbia (Unofficial)|publisher=Open Law DC|access-date=January 2, 2015}}</ref>
+
+Washington, D.C., observes all [[Federal holidays in the United States|federal holidays]] and also celebrates [[Emancipation Day]] on April 16, which commemorates the end of slavery in the district.<ref name=emancipation /> The [[flag of Washington, D.C.]], was adopted in 1938 and is a variation on George Washington's family [[coat of arms]].<ref>{{cite book|last=Glaser|first=Jason|title=Washington, D.C.|year=2003|publisher=Capstone|isbn=978-0-7368-2204-6|page=[https://archive.org/details/washingtondc0000glas/page/55 55]|url=https://archive.org/details/washingtondc0000glas|url-access=registration}}</ref>
+
+Washington, D.C., is overwhelmingly [[Democratic Party (United States)|Democratic]], having voted for the Democratic candidate solidly since it was granted electoral votes in [[1964 United States presidential election|1964]]. Each [[Republican Party (United States)|Republican]] candidate was voted down in favor of the Democratic candidate by a margin of at least 56 percentage points each time; the closest, albeit very large, margin between the two parties in a presidential election was in [[1972 United States presidential election|1972]], when [[Richard Nixon]] secured 21.56% of the vote to [[George McGovern]]'s 78.10%. Since then, the Republican candidate has never received more than 20 percent of the vote. Every Democrat since [[2008 United States presidential election|2008]] has received over 90% of the vote.{{Citation needed|date=September 2021}}
+
+Additionally, since 2016, the city's residential voting population has become almost unanimously Democratic, more so than it has ever been. Since [[2016 United States presidential election|2016]], no Democrat has received less than 93% of the major-party vote in the federal district, a level of support that has not been crossed districtwide before that election.{{cn|date=November 2021}}
+
+[[Same-sex marriage in the District of Columbia|Same-sex marriage]] has been legal in the district since 2010, and [[conversion therapy]] has been prohibited since 2015. [[Assisted suicide in the United States#District of Columbia|Assisted suicide]] is also permitted in the district, with a bill legalizing the practice being introduced in 2015, signed by mayor [[Muriel Bowser]] in 2016, and going into effect in 2017, making Washington, D.C., the seventh jurisdiction in the United States to have legalized assisted suicide, along with [[Washington (state)|Washington]], [[Oregon]], [[California]], [[Colorado]], [[Hawaii]], [[Montana]] and [[Vermont]].{{cn|date=November 2021}}
+
+Washington, D.C., has been a member state of the [[Unrepresented Nations and Peoples Organization]] (UNPO) since 2015.<ref>{{Cite web |title=UNPO: District of Columbia (Washington, DC)|work=unpo.org|access-date=November 4, 2021 |url= https://unpo.org/members/18770 |date=December 4, 2015 }}</ref>
+
+The idiom [[Inside the Beltway]] is an occasional reference used by media to describe political issues inside of Washington, D.C., by way of geographical demarcation regarding the region inner to the Capital's Beltway, [[Capital Beltway|Interstate 495]], the city's highway loop (beltway) constructed in 1964.{{Citation needed|date=September 2021}}
+
+===Budgetary issues===
+[[File:John_A._Wilson_Building_west_side.jpg|thumb|The [[John A. Wilson Building]] houses the offices of the [[Mayor of the District of Columbia|mayor of Washington]] and the [[Council of the District of Columbia]].]]
+The mayor and council set local taxes and a budget, which Congress must approve. The [[Government Accountability Office]] and other analysts have estimated that the city's high percentage of tax-exempt property and the Congressional prohibition of commuter taxes create a structural deficit in the district's local budget of anywhere between $470&nbsp;million and over $1&nbsp;billion per year. Congress typically provides additional grants for federal programs such as [[Medicaid]] and the operation of the [[National Capital Revitalization and Self-Government Improvement Act of 1997|local justice system]]; however, analysts claim that the payments do not fully resolve the imbalance.<ref name=DCAppleseed>{{cite web|title=Building the Best Capital City in the World |url=http://www.dcappleseed.org/library/DC%20Appleseed%20Report.FINAL.pdf |publisher=DC Appleseed |access-date=February 5, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110511193725/http://www.dcappleseed.org/library/DC%20Appleseed%20Report.FINAL.pdf |archive-date=May 11, 2011 }}</ref><ref name=GAO>{{cite web|title=District of Columbia Structural Imbalance and Management Issues|url=http://www.gao.gov/new.items/d03666.pdf|publisher=Government Accountability Office|date=May 2003|access-date=February 5, 2011}}</ref>
+
+The city's local government, particularly during the mayoralty of [[Marion Barry]], was criticized for mismanagement and waste.<ref>{{cite news |first=Michael |last=Powell |title=Poor Management, Federal Rule, Undermine Services |date=July 20, 2007 |url=https://www.washingtonpost.com/wp-srv/local/longterm/library/dc/mismanage/manage20.htm |work=The Washington Post |page=A01 |access-date=June 10, 2008 }}</ref> During his administration in 1989, ''[[The Washington Monthly]]'' magazine claimed that the district had "the worst city government in America".<ref>{{cite news|url=http://www.thefreelibrary.com/The+worst+city+government+in+America-a06977500|title=The worst city government in America.|last=DeParle|first=Jason|date=January 1, 1989|work=The Washington Monthly|access-date=June 6, 2009}}</ref> In 1995, at the start of Barry's fourth term, Congress created the [[District of Columbia Financial Control Board]] to oversee all municipal spending.<ref>{{cite news |first=Michael |last=Janofsky |title=Congress creates board to oversee Washington, D.C. |date=April 8, 1995 |url=https://query.nytimes.com/gst/fullpage.html?res=990CE7DB1739F93BA35757C0A963958260&sec=&spon=&pagewanted=all |work=The New York Times |access-date=May 27, 2008}}</ref> Mayor [[Anthony A. Williams|Anthony Williams]] won election in 1998 and oversaw a period of [[urban renewal]] and budget surpluses.
+
+The district regained control over its finances in 2001 and the oversight board's operations were suspended.<ref>{{cite news|last=DeBonis|first=Mike|title=After 10 years, D.C. control board is gone but not forgotten|url=https://www.washingtonpost.com/wp-dyn/content/article/2011/01/30/AR2011013003901.html|access-date=July 11, 2011|newspaper=The Washington Post|date=January 30, 2011}}</ref>
+
+The district has a federally funded "Emergency Planning and Security Fund" to cover security related to visits by foreign leaders and diplomats, presidential inaugurations, protests, and terrorism concerns. During the Trump administration, the fund has run with a deficit. Trump's January 2017 inauguration cost the city $27&nbsp;million; of that, $7&nbsp;million was never repaid to the fund. Trump's 2019 Independence Day event, "A Salute to America", cost six times more than Independence Day events in past years.<ref>{{Cite news|url=https://www.washingtonpost.com/local/dc-politics/trumps-july-fourth-event-and-weekend-protests-bankrupted-dc-security-fund-mayor-says/2019/07/10/fb0d1de4-a316-11e9-b732-41a79c2551bf_story.html|title=Trump's July Fourth event and weekend protests bankrupted D.C. security fund, mayor says|last=Jamison|first=Peter|date=July 10, 2019|work=[[The Washington Post]]|access-date=July 10, 2019}}</ref>
+{{clear}}
+
+===Voting rights debate===
+
+{{See also|District of Columbia voting rights|Political party strength in Washington, D.C.}}
+
+<!---RfC related to the charts below was they should be moved to main article
+{| class="wikitable" style="float:right; margin:1em; font-size:95%;"
+|+ Washington, D.C. vote|Presidential election results<ref name="Leip, David"/>
+|- style="background:lightgrey;"
+! Year
+! [[Democratic Party (United States)|Democratic]]
+! [[Republican Party (United States)|Republican]]
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 1964|1964]]
+| {{Party shading/Democratic}}|'''85.5%''' ''169,796''
+| {{Party shading/Republican}}|14.5% ''28,801''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 1968|1968]]
+| {{Party shading/Democratic}}|'''81.8%''' ''139,566''
+| {{Party shading/Republican}}|18.2% ''31,012''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 1972|1972]]
+| {{Party shading/Democratic}}|'''78.1%''' ''127,627''
+| {{Party shading/Republican}}|21.6% ''35,226''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 1976|1976]]
+| {{Party shading/Democratic}}|'''81.6%''' ''137,818''
+| {{Party shading/Republican}}|16.5% ''27,873''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 1980|1980]]
+| {{Party shading/Democratic}}| '''74.9%''' ''130,231''
+| {{Party shading/Republican}}| 13.4% ''26,218''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 1984|1984]]
+| {{Party shading/Democratic}}|'''85.4%''' ''180,408''
+| {{Party shading/Republican}}|13.7% ''29,009''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 1988|1988]]
+| {{Party shading/Democratic}}|'''82.6%''' ''159,407''
+| {{Party shading/Republican}}|14.3% ''27,590''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 1992|1992]]
+| {{Party shading/Democratic}}|'''84.6%''' ''192,619''
+| {{Party shading/Republican}}|9.1% ''20,698''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 1996|1996]]
+| {{Party shading/Democratic}}|'''85.2%''' ''158,220''
+| {{Party shading/Republican}}|9.3% ''17,339''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 2000|2000]]
+| {{Party shading/Democratic}}|'''85.2%''' '' 171,923''
+| {{Party shading/Republican}}|9.0% ''18,073''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 2004|2004]]
+| {{Party shading/Democratic}}| '''89.0%''' ''202,970''
+| {{Party shading/Republican}}|9.3% ''21,256''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 2008|2008]]
+| {{Party shading/Democratic}}|'''92.5%''' ''245,800''
+| {{Party shading/Republican}}|6.5% ''17,367''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 2012|2012]]
+| {{Party shading/Democratic}}|'''90.9%''' ''267,070''
+| {{Party shading/Republican}}|7.3% ''21,381''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 2016|2016]]
+| {{Party shading/Democratic}}|'''90.9%''' ''282,830''
+| {{Party shading/Republican}}|4.1% ''12,723''
+|-
+| {{Party shading/Democratic}}|[[United States presidential election in the District of Columbia, 2020|2020]]
+| {{Party shading/Democratic}}|'''92.2%''' ''317,323''
+| {{Party shading/Republican}}|5.4% ''18,586''
+|-
+|}
+{| class="wikitable" style="float:right; margin:1em; font-size:95%;"
+|+ Washington, D.C. vote|Mayoral election results<ref name="Leip, David">{{cite web|url=http://uselectionatlas.org/RESULTS/|title=General Election Results—District of Columbia|publisher=United States Election Atlas|access-date=November 18, 2016|last=Leip|first=David}}</ref>
+|- style="background:lightgrey;"
+! Year
+! [[Democratic Party (Washington, D.C.)|Democratic]]
+! [[Republican Party (Washington, D.C.)|Republican]]
+|-
+| {{Party shading/Democratic}}|[[Washington, D.C. mayoral election, 1974|1974]]
+| {{Party shading/Democratic}}|'''82.5%''' ''79,065''
+| {{Party shading/Republican}}|3.7% ''3,501''
+|-
+| {{Party shading/Democratic}}|[[Washington, D.C. mayoral election, 1978|1978]]
+| {{Party shading/Democratic}}| '''70.2%''' ''68,354''
+| {{Party shading/Republican}}| 28.1% ''27,366''
+|-
+| {{Party shading/Democratic}}|[[Washington, D.C. mayoral election, 1982|1982]]
+| {{Party shading/Democratic}}|'''81.0%''' ''95,007''
+| {{Party shading/Republican}}|14.1% ''16,502''
+|-
+| {{Party shading/Democratic}}|[[Washington, D.C. mayoral election, 1986|1986]]
+| {{Party shading/Democratic}}|'''61.4%''' ''79,142''
+| {{Party shading/Republican}}|32.8% ''42,354''
+|-
+| {{Party shading/Democratic}}|[[Washington, D.C. mayoral election, 1990|1990]]
+| {{Party shading/Democratic}}|'''86.2%''' ''140,011''
+| {{Party shading/Republican}}|11.5% ''18,653''
+|-
+| {{Party shading/Democratic}}|[[Washington, D.C. mayoral election, 1994|1994]]
+| {{Party shading/Democratic}}|'''56.0%''' ''102,884''
+| {{Party shading/Republican}}|41.9% ''76,902''
+|-
+| {{Party shading/Democratic}}|[[Washington, D.C. mayoral election, 1998|1998]]
+| {{Party shading/Democratic}}|'''66.2%''' ''92,504''
+| {{Party shading/Republican}}|30.2% ''42,280''
+|-
+| {{Party shading/Democratic}}|[[Washington, D.C. mayoral election, 2002|2002]]
+| {{Party shading/Democratic}}| '''60.6%''' ''79,841''
+| {{Party shading/Republican}}|34.5% ''45,407''
+|-
+| {{Party shading/Democratic}}|[[Washington, D.C. mayoral election, 2006|2006]]
+| {{Party shading/Democratic}}|'''89.7%''' ''98,740''
+| {{Party shading/Republican}}|6.1% ''6,744''
+|-
+| {{Party shading/Democratic}}|[[Washington, D.C. mayoral election, 2010|2010]]
+| {{Party shading/Democratic}}|'''74.2%''' ''97,978''
+| {{Party shading/Republican}} align="center"|—
+|-
+| {{Party shading/Democratic}}|[[Washington, D.C. mayoral election, 2014|2014]]
+| {{Party shading/Democratic}}|'''54.5%''' ''96,666''
+| align="center" {{Party shading/Republican}}|{{efn|Independents [[David Catania]] and [[Carol Schwartz]], both former Republicans, garnered 61,388 and 12,327 votes, or 34.6% and 7.0%, respectively.}}
+|-
+| {{Party shading/Democratic}}|[[Washington, D.C. mayoral election, 2018|2018]]
+| {{Party shading/Democratic}}|'''76.4%''' ''171,608''
+| {{Party shading/Republican}} align="center"|—
+|-
+|}--->
+[[File:17-08-islcanus-RalfR-DSC 4895-Panorama.jpg|thumb|The [[Eisenhower Executive Office Building]], once the world's largest office building, houses the [[Executive Office of the President of the United States]].]]
+
+The district is not a state and therefore has no voting representation in Congress. D.C. residents elect a [[Non-voting members of the United States House of representatives|non-voting delegate]] to the [[United States House of Representatives|House of Representatives]] ([[District of Columbia's At-large congressional district|D.C. At-Large]]), who may sit on committees, participate in debate, and introduce legislation, but cannot vote on the [[Floor (legislative)|House floor]]. The district has no official representation in the [[United States Senate]]. Neither chamber seats the district's elected [[Shadow congressperson|"shadow" representative or senators]]. Unlike residents of [[Territories of the United States|U.S. territories]] such as [[Puerto Rico]] or [[Guam]], which also have non-voting delegates, D.C. residents are subject to all federal taxes.<ref>{{cite web |url=https://www.irs.gov/Individuals/International-Taxpayers/Individuals-Living-or-Working-in-U.S.-Possessions |title=Individuals Living or Working in U.S. Possessions |access-date=December 2, 2012 |publisher=[[Internal Revenue Service]] |url-status=dead |archive-url=https://web.archive.org/web/20121202114846/http://www.irs.gov/Individuals/International-Taxpayers/Individuals-Living-or-Working-in-U.S.-Possessions |archive-date=December 2, 2012  }}</ref> In the financial year 2012, D.C. residents and businesses paid $20.7&nbsp;billion in federal taxes; more than the taxes collected from 19 states and the highest [[Federal tax revenue by state|federal taxes per capita]].<ref>{{cite web|url=https://www.irs.gov/pub/irs-soi/12db05co.xls |title=Internal Revenue Gross Collections, by Type of Tax and State, Fiscal Year 2012 |access-date=September 5, 2013 |format=XLS |publisher=Internal Revenue Service }}</ref>
+
+A 2005 poll found that 78% of Americans did not know residents of the District of Columbia have less representation in Congress than residents of the fifty states.<ref name="votepoll">{{cite web|url=http://www.dcvote.org/newsletter/spring05.pdf |title=Poll Shows Nationwide Support for DC Voting Rights |access-date=May 29, 2008 |year=2005 |work=DC Vote Voice |url-status=dead |archive-url=https://web.archive.org/web/20080624204729/http://www.dcvote.org/newsletter/spring05.pdf |archive-date=June 24, 2008 }}</ref> Efforts to raise awareness about the issue have included campaigns by [[grassroots]] organizations and featuring the city's unofficial motto, "[[No taxation without representation|Taxation Without Representation]]", on [[Vehicle registration plates of Washington, D.C.|D.C. vehicle license plates]].<ref>{{cite web |url=http://dmv.dc.gov/node/156462 |title='Taxation without Representation' Tags |access-date=December 2, 2012 |publisher=District of Columbia Department of Motor Vehicles |url-status=dead |archive-url=https://web.archive.org/web/20130115081252/http://dmv.dc.gov/node/156462 |archive-date=January 15, 2013 }}</ref> There is evidence of nationwide approval for D.C. voting rights; various polls indicate that 61 to 82% of Americans believe D.C. should have voting representation in Congress.<ref name=votepoll/><ref>{{cite news |title=Washington Post Poll: D.C. Voting Rights |date=April 23, 2007 |url=https://www.washingtonpost.com/wp-srv/politics/polls/postpoll_042307.html |work=The Washington Post |access-date=June 10, 2008 }}</ref>
+
+{{clear left}}
+Several approaches to resolving these concerns have been suggested over the years:
+* [[D.C. statehood movement|District of Columbia Statehood]]: Almost all the District of Columbia would become the [[51st state|51st State]] as Washington, Douglass Commonwealth. The much-reduced District of Columbia would run from Capitol Hill west to the Potomac, including the White House and many federal buildings; no one resides permanently in this federal enclave.{{cn|date=November 2021}}
+* [[District of Columbia retrocession#Proposed Maryland retrocession|District of Columbia Retrocession to Maryland]]: As [[Arlington County, Virginia|Arlington County]] in 1846 was retroceded to [[State of Virginia|Virginia]], proponents believe the rest of the District of Columbia except for a small strip of land around the Capitol and the White House (the federal enclave) would be given back to [[State of Maryland|Maryland]], allowing for DC residents to become Maryland residents as they were before the [[Residence Act]] of 1790.{{cn|date=November 2021}}
+* [[District of Columbia Voting Rights Amendment]]: this option would allow DC residents to vote in Maryland or Virginia for their congressional representatives, with the District of Columbia remaining an independent entity. This was in effect from 1790 to 1801, before the [[District of Columbia Organic Act of 1801|Organic Act of 1801]].{{cn|date=November 2021}}
+
+Opponents of D.C. voting rights propose that the [[Founding Fathers of the United States|Founding Fathers]] never intended for district residents to have a vote in Congress since the Constitution makes clear that representation must come from the states. Those opposed to making D.C. a state claim such a move would destroy the notion of a separate national capital and that statehood would unfairly grant Senate representation to a single city.<ref>{{cite news|first=John |last=Fortier |title=The D.C. colony |date=May 17, 2006 |url=http://thehill.com/component/content/article/275-john-fortier/4948-the-dc-colony |work=The Hill |access-date=October 10, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20101112065946/http://thehill.com/component/content/article/275-john-fortier/4948-the-dc-colony |archive-date=November 12, 2010 }}</ref>
+
+===Sister cities===
+
+Washington, D.C., has fifteen official [[sister city]] agreements. Each of the listed cities is a national capital except for Sunderland, which includes the town of [[Washington, Tyne and Wear|Washington]], the ancestral home of George Washington's family.<ref name=Sunderland>{{cite web|url=http://os.dc.gov/service/dc-sister-cities|title=DC Sister Cities|publisher=D.C. Office of the Secretary|access-date=August 13, 2019}}</ref> Paris and Rome are each formally recognized as a partner city due to their special one sister city policy.<ref name=ParisRome>{{cite web|url=http://www.paris.fr/english/paris-a-city-with-an-international-profile/international-action-cooperation/twinning-with-rome/rub_8139_stand_29903_port_18784 |title=Twinning with Rome |publisher=Ville de Paris |access-date=February 21, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20110608151440/http://www.paris.fr/english/paris-a-city-with-an-international-profile/international-action-cooperation/twinning-with-rome/rub_8139_stand_29903_port_18784 |archive-date=June 8, 2011 }}</ref> Listed in the order each agreement was first established, they are:
+{{div col|colwidth=20em}}
+* [[Bangkok]], Thailand (1962, renewed 2002 and 2012)
+* [[Dakar]], Senegal (1980, renewed 2006)
+* [[Beijing]], China (1984, renewed 2004 and 2012)
+* [[Brussels]], Belgium (1985, renewed 2002 and 2011)
+* [[Athens]], Greece (2000)
+* [[Paris]], France (2000 as a friendship and cooperation agreement, renewed 2005)<ref name=ParisRome/><ref>{{cite web|url=http://next.paris.fr/english/paris-a-city-with-an-international-profile/international-action-cooperation/friendship-and-cooperation-agreements/rub_8139_stand_29940_port_18784 |title=Friendship and cooperation agreements |publisher=Marie de Paris |location=Paris |access-date=September 10, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160403161510/http://next.paris.fr/english/paris-a-city-with-an-international-profile/international-action-cooperation/friendship-and-cooperation-agreements/rub_8139_stand_29940_port_18784 |archive-date=April 3, 2016 }}</ref>
+* [[City of Tshwane Metropolitan Municipality|Pretoria]], South Africa (2002, renewed 2008 and 2011)
+* [[Seoul]], South Korea (2006)
+* [[Accra]], Ghana (2006)
+* [[Sunderland, Tyne and Wear|Sunderland]], United Kingdom (2006, renewed 2012)<ref name=Sunderland/>
+* [[Rome]], Italy (2011, renewed 2013)<ref name=ParisRome/>
+* [[Ankara]], Turkey (2011)
+* [[Brasília]], Brazil (2013)
+* [[Addis Ababa]], Ethiopia (2013)<ref>{{cite web|title=DC & Addis to Become Sister Cities|url=http://www.tadias.com/12/04/2013/dc-addis-to-become-sister-cities/|work=Tadias Magazine|access-date=December 6, 2013}}</ref>
+* [[San Salvador]], El Salvador (2018)
+{{div col end}}
+
+==Education==
+
+{{See also|List of parochial and private schools in Washington, D.C.}}
+[[File:LOC_Main_Reading_Room_Highsmith.jpg|thumb|The [[Library of Congress]] is one of the [[List of largest libraries|world's largest libraries]], with more than 167&nbsp;million cataloged items.<ref>{{cite web|title=General Information|url=https://www.loc.gov/about/general-information/|access-date=January 1, 2019|publisher=Library of Congress}}</ref>]]
+[[District of Columbia Public Schools]] (DCPS) operates the city's 123 public schools.<ref name=dcps>{{cite web| title=2010–2011 School Opening Report| url=http://dcps.dc.gov/DCPS/About+DCPS/Strategic+Documents/School+Opening+Report/2010-2011+School+Opening+Report| publisher=District of Columbia Public Schools| access-date=November 12, 2011| url-status=dead| archive-url=https://web.archive.org/web/20120119043507/http://dcps.dc.gov/DCPS/About+DCPS/Strategic+Documents/School+Opening+Report/2010-2011+School+Opening+Report| archive-date=January 19, 2012| df=mdy-all}}</ref> The number of students in DCPS steadily decreased for 39 years until 2009. In the 2010–11 school year, 46,191 students were enrolled in the public school system.<ref name=DCenroll>{{cite web|title=DC Public School Enrollment Up for Third Straight Year|url=http://osse.dc.gov/release/dc-public-school-enrollment-third-straight-year|publisher=Office of the State Superintendent of Education|access-date=November 12, 2011|date=November 7, 2011}}</ref> DCPS has one of the highest-cost, yet lowest-performing school systems in the country, in terms of both infrastructure and student achievement.<ref>{{cite web|url=https://www.forbes.com/2007/07/05/schools-taxes-education-biz-beltway_cz_cs_0705schools_2.html |title=Best And Worst School Districts for the Buck |access-date=June 10, 2008 |last=Settimi |first=Christina |date=July 5, 2007 |work=Forbes }}</ref> Mayor Adrian Fenty's administration made sweeping changes to the system by closing schools, replacing teachers, firing principals, and using private education firms to aid curriculum development.<ref>{{cite news |first=V. Dion |last=Haynes |author2=Bill Turque |title=Rhee Offers Plan To Improve D.C.'s Troubled Schools |date=May 16, 2008 |url=https://www.washingtonpost.com/wp-dyn/content/article/2008/05/15/AR2008051502354.html |work=The Washington Post |page=B01 |access-date=June 3, 2008 }}</ref>
+
+The [[District of Columbia Public Charter School Board]] monitors the 52 public charter schools in the city.<ref>{{cite web|url=http://www.dcpubliccharter.com/Enrollment-and-Demographics/SY2010-002D-2011-Charter-School-Profile.aspx |title=SY2010–2011 Charter School Profile |publisher=D.C. Public Charter School Board |access-date=January 8, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110109204056/http://www.dcpubliccharter.com/Enrollment-and-Demographics/SY2010-002D-2011-Charter-School-Profile.aspx |archive-date=January 9, 2011 }}</ref> Due to the perceived problems with the traditional public school system, enrollment in public [[charter school]]s had by 2007 steadily increased.<ref>{{cite news | first=V. Dion | last=Haynes |author2=Theola Labbe | title=A Boom for D.C. Charter Schools | date=April 25, 2007 | url =https://www.washingtonpost.com/wp-dyn/content/article/2007/04/24/AR2007042402542.html | work=The Washington Post | pages =A01 | access-date =July 25, 2008 }}</ref> As of 2010, D.C., charter schools had a total enrollment of about 32,000, a 9% increase from the prior year.<ref name=DCenroll /> The district is also home to 92 private schools, which enrolled approximately 18,000 students in 2008.<ref>{{cite web|url=http://nces.ed.gov/surveys/pss/tables/table_2008_15.asp| title=Table 15. Number of private schools, students, full-time equivalent (FTE) teachers, and 2006–07 high school graduates, by state: United States, 2007–08|year=2008|publisher=National Center for Education Statistics|access-date=November 12, 2011}}</ref> The [[District of Columbia Public Library]] operates 25 neighborhood locations including the landmark [[Martin Luther King Jr. Memorial Library]].<ref>{{cite web|title=In Your Neighborhood|url=http://www.dclibrary.org/about/neighborhood|publisher=D.C. Public Library|access-date=August 14, 2011}}</ref>
+
+===Higher education===
+
+{{See also|List of colleges and universities in Washington, D.C.}}
+[[File:Georgetown_Day.jpg|thumb|Georgetown Day at [[Georgetown University]]]]
+Private universities include [[American University]] (AU), the [[Catholic University of America]] (CUA), [[Gallaudet University]], [[George Washington University]] (GW), [[Georgetown University]] (GU), [[Howard University]] (HU), the [[Johns Hopkins University]] [[Paul H. Nitze School of Advanced International Studies]] (SAIS), and [[Trinity Washington University]]. The [[Corcoran College of Art and Design]], the oldest art school in the capital, was absorbed into the George Washington University in 2014, now serving as its college of arts.<ref>{{cite news |first=David |last=Montgomery |url=https://www.washingtonpost.com/entertainment/museums/corcoran-gallery-of-art-and-college-to-be-taken-over-by-the-national-gallery-of-art-and-george-washington-university/2014/02/19/a236132e-9994-11e3-b88d-f36c07223d88_story.html |title=Corcoran Gallery of Art and College to split apart, partnering with National Gallery, GWU |newspaper=The Washington Post |date=February 19, 2014 |access-date=November 8, 2021 }}</ref>
+
+The [[University of the District of Columbia]] (UDC) is a public [[land-grant university]] providing undergraduate and graduate education. D.C. residents may also be eligible for a grant of up to $10,000 per year to offset the cost of tuition at any public university in the country.<ref>{{cite web|title=DC Tuition Assistance Grant|url=http://www.consortium.org/consortium/index.cfm/students/finding-resources/dc-tuition-assistance-grant-program/|publisher=Consortium of Universities of the Washington Metropolitan Area|access-date=September 27, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130928205737/http://www.consortium.org/consortium/index.cfm/students/finding-resources/dc-tuition-assistance-grant-program/|archive-date=September 28, 2013}}</ref>
+
+The district is known for its medical research institutions such as [[Washington Hospital Center]] and the [[Children's National Medical Center]], as well as the [[National Institutes of Health]] in [[Bethesda, Maryland]]. In addition, the city is home to three medical schools and associated teaching hospitals at George Washington, Georgetown, and Howard universities.<ref>{{cite web|last=Bowman|first=Inci A.|title=Historic Medical Sites in the Washington, DC Area|url=https://www.nlm.nih.gov/hmd/medtour/intro.html|publisher=U.S. National Library of Medicine|access-date=August 17, 2011}}</ref>
+
+==Infrastructure==
+===Transportation===
+
+{{Main|Transportation in Washington, D.C.}}
+[[File:Blue Line train at Farragut West station, December 2019.jpg|thumb|A Blue Line train at [[Farragut West station|Farragut West]], an underground station on the [[Washington Metro]]]]
+
+There are {{convert|1500|mi|km}} of [[Streets and highways of Washington, D.C.|streets, parkways, and avenues]] in the district.<ref>{{cite web|title=Public Road Length|url=http://www.fhwa.dot.gov/policy/ohim/hs06/htm/hm10.htm|work=Highway Statistics 2006|publisher=Federal Highway Administration|access-date=September 17, 2012|url-status=dead|archive-url=https://web.archive.org/web/20121122121841/http://www.fhwa.dot.gov/policy/ohim/hs06/htm/hm10.htm|archive-date=November 22, 2012}}</ref> Due to the [[Highway revolts in the United States|freeway revolts]] of the 1960s, much of the proposed [[interstate highway system]] through the middle of Washington was never built. [[Interstate 95 in the District of Columbia|Interstate&nbsp;95]] (I-95), the nation's major east coast highway, therefore bends around the district to form the eastern portion of the [[Interstate 495 (Capital Beltway)|Capital Beltway]]. A portion of the proposed highway funding was directed to the region's public transportation infrastructure instead.<ref>{{cite book|last=Schrag|first=Zachary|title=The Great Society Subway|year=2006|publisher=Johns Hopkins University Press|chapter-url=https://books.google.com/books?id=vDQI-02wki0C|chapter=Chapter 5: The Bridge|isbn=978-0-8018-8906-6}}</ref> The interstate highways that continue into Washington, including [[Interstate 66 in the District of Columbia|I-66]] and [[Interstate 395 in the District of Columbia|I-395]], both terminate shortly after entering the city.<ref>I-66: {{Hanging indent | {{cite news|last1=Kozel|first1=Scott M.|title=Interstate 66 in Virginia|url=http://www.roadstothefuture.com/I66_VA_Desc.html|access-date=April 22, 2017|publisher=Roads to the Future|date=May 31, 2000}}}} I-395: {{Hanging indent | {{cite book|last1=BMI|title=I-95/i-395 Hov Restriction Study|date=February 1999|publisher=Virginia Department of Transportation|pages=70|url=http://www.virginiadot.org/travel/resources/studynova-hov395Final.pdf|access-date=April 22, 2017|url-status=dead|archive-url=https://web.archive.org/web/20170525021506/http://www.virginiadot.org/travel/resources/studynova-hov395Final.pdf|archive-date=May 25, 2017}}}}</ref>
+
+The [[Washington Metropolitan Area Transit Authority]] (WMATA) operates the [[Washington Metro]], the city's [[rapid transit]] system, as well as [[Metrobus (Washington, D.C.)|Metrobus]]. Both systems serve the district and its suburbs. Metro opened on March 27, 1976, and, {{as of|2014|lc=yes}}, consists of [[List of Washington Metro stations|91&nbsp;stations]] and {{convert|117|mi}} of track.<ref>{{cite press release |url= http://www.wmata.com/about_metro/news/PressReleaseDetail.cfm?ReleaseID=5749 |title= Metro launches Silver Line, largest expansion of region's rail system in more than two decades |date= July 25, 2014 |access-date= August 4, 2014 |publisher= Washington Metropolitan Area Transit Authority |url-status=dead |archive-url= https://web.archive.org/web/20140801205217/http://www.wmata.com/about_metro/news/PressReleaseDetail.cfm?ReleaseID=5749 |archive-date= August 1, 2014 |df= mdy-all }}</ref> With an average of about one million trips each weekday, Metro is the [[List of United States rapid transit systems by ridership|second-busiest rapid transit system]] in the country. Metrobus serves more than 400,000 riders each weekday and is the nation's [[List of United States local bus agencies by ridership|fifth-largest bus system]].<ref>{{cite web |url=http://www.apta.com/resources/statistics/Documents/Ridership/2009_q2_ridership_APTA.pdf |title=Estimated Unliked Transit Passenger Trips |access-date=October 10, 2009 |last=Dawson |first=Christie R. |date=August 21, 2009 |publisher=American Public Transport Association |archive-url=https://www.webcitation.org/619quRclS?url=http://www.apta.com/resources/statistics/Documents/Ridership/2009_q2_ridership_APTA.pdf |archive-date=August 23, 2011 |url-status=dead }}</ref> The city also operates its own [[DC Circulator]] bus system, which connects commercial areas within central Washington.<ref>{{cite web|title=About DC Circulator |url=http://www.dccirculator.com/Home/About.aspx |work=DC Circulator |access-date=March 3, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120415081625/http://www.dccirculator.com/Home/About.aspx |archive-date=April 15, 2012 }}</ref>
+[[File:Union Station Washington DC.jpg|thumb|left|upright=1.25|[[Washington Union Station]] is one of the busiest [[railways|rail]] stations in the United States.]]
+
+[[Union Station (Washington, D.C.)|Union Station]] is the city's main train station and services approximately 70,000 people each day. It is [[Amtrak]]'s second-busiest station with 4.6&nbsp;million passengers annually and is the southern terminus for the [[Northeast Corridor]] and [[Acela Express]] routes. Maryland's [[MARC Train|MARC]] and Virginia's [[Virginia Railway Express|VRE]] commuter trains and the Metrorail [[Red Line (Washington Metro)|Red Line]] also provide service into Union Station.<ref>{{cite web |url=http://www.amtrak.com/pdf/factsheets/DC10.pdf |title=District of Columbia Amtrak Fact Sheet FY 2010 |access-date=July 19, 2011 |date=November 2010 |publisher=Amtrak |url-status=dead |archive-url=https://web.archive.org/web/20120119183510/http://www.amtrak.com/pdf/factsheets/DC10.pdf |archive-date=January 19, 2012 }}</ref> Following renovations in 2011, Union Station became Washington's primary [[intercity bus]] transit center.<ref>{{cite web|title=Union Station gets new bus depot|url=http://www.wjla.com/articles/2011/11/union-station-gets-new-bus-depot-69175.html|publisher=WJLA-TV|access-date=June 19, 2012|date=November 15, 2011}}</ref>
+
+Three major airports serve the district. The closest is [[Ronald Reagan Washington National Airport]], which is about 5 miles from the city and is primarily reserved for domestic flights, but is the least busy in the region. The busiest by international flights is [[Dulles International Airport|Washington Dulles International Airport]] located about 24 miles away from the city center,<ref>{{Citation|title=MWAA Air Traffic Statistics|date=2018-12-01|url=https://www.mwaa.com/sites/default/files/12-18_ats_report_v2.pdf|work=Metropolitan Washington Airport Authority|language=en|access-date=2019-08-16}}</ref> and the busiest by total passenger boardings is [[Baltimore/Washington International Airport]], about 30 miles from the city.<ref>{{Cite web|title=Commercial Service Airport Ranking, FAA|url=https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/media/cy18-commercial-service-enplanements.pdf|date=December 20, 2019|website=Federal Aviation Administration (FAA)|access-date=November 8, 2021}}</ref> Each of these three airports also serves as a hub for a major American airline: Reagan is a small hub for [[American Airlines]],<ref>{{cite news |url=https://www.usatoday.com/story/travel/flights/todayinthesky/2016/12/06/fleet-and-hubs-american-airlines-numbers/95014004/ |title=The fleet and hubs of American Airlines, by the numbers |date=December 6, 2016 |work=USA Today |first=Ben |last=Mutzabaugh |access-date=November 8, 2021 }}</ref> Dulles is a major hub for [[United Airlines]] and [[Star Alliance]] partners,<ref>{{cite news |url=https://www.usatoday.com/story/travel/flights/todayinthesky/2017/01/26/fleet-and-hubs-united-airlines-numbers/96983530/ |title=The fleet and hubs of United Airlines, by the numbers |date=January 26, 2017 |work=USA Today |first=Ben |last=Mutzabaugh |access-date=November 8, 2021 }}</ref> and BWI is a major focus city for [[Southwest Airlines]].<ref>{{cite magazine |url=https://airwaysmag.com/airlines/southwest-opens-ft-lauderdale-international-gateway-focus-city/ |title=Southwest Opens Ft Lauderdale International Gateway Focus City |date=August 8, 2016 |magazine=Airways Magazine |first=Chris |last=Sloan |access-date=November 8, 2021 |quote=Ft. Lauderdale is destined to join Houston Hobby, Baltimore, and Los Angeles as a key focus gateway city }}</ref>
+
+[[File:2018-10-25 13 51 18 View west along Interstate 66 (Potomac River Freeway) from the overpass for Triangle Park-Virginia Avenue-New Hampshire Avenue-25th Street in Washington, D.C..jpg|thumb|right|I-66 in Washington, D.C.]]
+
+According to a 2010 study, Washington-area commuters spent 70&nbsp;hours a year in traffic delays, which tied with Chicago for having the nation's worst road congestion.<ref>{{cite news |first=Ashley |last=Halsey III |title=Washington area tied with Chicago for traffic congestion, study finds |date=January 20, 2011 |url=https://www.washingtonpost.com/wp-dyn/content/article/2011/01/20/AR2011012000056.html |work=The Washington Post |access-date=August 15, 2011 }}</ref> However, 37% of Washington-area commuters take public transportation to work, the second-highest rate in the country.<ref>{{cite news|url=https://money.cnn.com/2007/06/13/real_estate/public_transit_commutes/index.htm |title=New Yorkers are top transit users |access-date=July 15, 2008 |last=Christie |first=Les |date=June 29, 2007 |publisher=CNNMoney }}</ref> An additional 12% of D.C. commuters walked to work, 6% carpooled, and 3% traveled by bicycle in 2010.<ref>{{cite web|title=District of Columbia Commuting Characteristics by Sex|url=http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_1YR/S0801/0400000US11|archive-url=https://archive.today/20200212094909/http://factfinder.census.gov/bkmk/table/1.0/en/ACS/10_1YR/S0801/0400000US11|url-status=dead|archive-date=February 12, 2020|work=2010 American Community Survey|publisher=United States Census Bureau|access-date=October 16, 2011}}</ref> A 2011 study by [[Walk Score]] found that Washington was the seventh-most walkable city in the country with 80% of residents living in neighborhoods that are not car dependent.<ref>{{cite web |url=http://wtop.com/?nid=41&sid=2487841|title=D.C. among top 10 most walkable cities |publisher=WTOP |date=August 8, 2011 |access-date=August 28, 2011}}</ref> In 2013, the Washington-Arlington-Alexandria metropolitan statistical area (MSA) had the eighth lowest percentage of workers who commuted by private automobile (75.7 percent), with 8{{nbsp}}percent of area workers traveling via rail transit.<ref>{{cite web |url= https://www.census.gov/content/dam/Census/library/publications/2015/acs/acs-32.pdf |title= Who Drives to Work? Commuting by Automobile in the United States: 2013 |series= American Survey Reports |access-date= December 26, 2017 |date= August 2015 |author= McKenzie, Brian}}</ref>
+
+An expected 32% increase in transit usage within the district by 2030 has spurred the construction of a new [[DC Streetcar]] system to interconnect the city's neighborhoods.<ref>{{cite web|title=History—DC Streetcar|url=http://www.dcstreetcar.com/about/information/history/|publisher=District Department of Transportation|access-date=April 28, 2013}}</ref> An additional [[Silver Line (Washington Metro)|Metro line]] that will connect Washington to Dulles airport is expected to open by July 2021 at the earliest.{{update after|2021|07}}<ref>{{Cite web|last=Repetski|first=Stephen|date=September 11, 2020|title=More cracks were found at Silver Line stations. Here's what needs to happen before Metro opens Phase 2.|url=https://ggwash.org/view/78978/metro-inspector-general-finds-more-cracks-at-silver-line-stations-and-outlines-what-needs-to-happen-before-metro-opens-service|url-status=live|access-date=2021-02-01|website=ggwash.org|language=en}}</ref><ref>{{Cite web|date=2020-09-22|title=Metro forced to make budget cuts, Silver Line expansion delayed|url=https://www.localdvm.com/news/virginia/metro-forced-to-make-budget-cuts-silver-line-expansion-delayed/|url-status=live|access-date=2021-02-01|website=WDVM25 & DCW50|language=en-US}}</ref> The district is part of the regional [[Capital Bikeshare]] program. Started in 2010, it is one of the largest [[bicycle sharing system]]s in the country with more than 4,351 bicycles and more than 395 stations,<ref>{{Cite web|url=https://www.pbsc.com/city/washington-dc/|title=Capital Bike-Share Washington DC / Arlington {{!}} PBSC|website=PBSC Solutions Urbanes|language=en-US|access-date=June 17, 2016}}</ref> all provided by [[PBSC Urban Solutions]]. By 2012, the city's network of marked bicycle lanes covered {{convert|56|mi|km}} of streets.<ref>{{cite web|title=Bicycle Program|url=http://ddot.dc.gov/DC/DDOT/On+Your+Street/Bicycles+and+Pedestrians/Bicycles|publisher=District Department of Transportation|access-date=September 16, 2012|url-status=dead|archive-url=https://web.archive.org/web/20120627045418/http://ddot.dc.gov/DC/DDOT/On+Your+Street/Bicycles+and+Pedestrians/Bicycles|archive-date=June 27, 2012}}</ref>
+
+===Utilities===
+
+[[File:Flickr - USCapitol - Capitol Power Plant.jpg|thumb|right|The [[Capitol Power Plant]], built to supply energy for the [[United States Capitol Complex|U.S. Capitol Complex]], is under the jurisdiction of the [[Architect of the Capitol]].]]
+
+The [[District of Columbia Water and Sewer Authority]] (i.e., WASA or D.C. Water) is an independent authority of the D.C. government that provides [[drinking water]] and wastewater collection in Washington. WASA purchases water from the historic [[Washington Aqueduct]], which is operated by the [[U.S. Army Corps of Engineers|Army Corps of Engineers]]. The water, sourced from the Potomac River, is treated and stored in the city's [[Dalecarlia Reservoir|Dalecarlia]], [[Georgetown Reservoir|Georgetown]], and [[McMillan Reservoir|McMillan]] reservoirs. The aqueduct provides drinking water for a total of 1.1&nbsp;million people in the district and Virginia, including Arlington, Falls Church, and a portion of Fairfax County.<ref>{{cite web|title=The Washington Aqueduct System|url=http://www.nps.gov/choh/historyculture/thewashingtonaqueductsystem.htm|publisher=National Park Service|access-date=January 5, 2014}}</ref> The authority also provides [[sewage treatment]] services for an additional 1.6&nbsp;million people in four surrounding Maryland and Virginia counties.<ref>{{cite web|title=General Information|url=http://www.dcwater.com/about/gen_information.cfm|publisher=District of Columbia Washington and Sewer Authority|access-date=January 5, 2014}}</ref>
+
+[[Pepco]] is the city's electric utility and services 793,000 customers in the district and suburban Maryland.<ref>{{cite web|title=Welcome to Pepco|url=http://www.pepco.com/welcome/|work=January 5, 2014|publisher=Pepco|url-status=dead|archive-url=https://web.archive.org/web/20140106040826/http://www.pepco.com/welcome/|archive-date=January 6, 2014}}</ref> An 1889 law prohibits overhead wires within much of the historic City of Washington. As a result, all power lines and telecommunication cables are located underground in downtown Washington, and traffic signals are placed at the edge of the street.<ref>{{cite news|last=Rein|first=Lisa|title=D.C. streetcar project may get hung up on overhead wires|url=https://www.washingtonpost.com/wp-dyn/content/article/2010/04/05/AR2010040502927.html|access-date=January 5, 2014|newspaper=The Washington Post|date=April 6, 2010}}</ref> A plan announced in 2013 would bury an additional {{convert|60|miles|km}} of primary power lines throughout the district.<ref>{{cite news|last=DeBonis|first=Mike|title=Plan to bury D.C.'s outage-prone power lines backed by task force|url=https://www.washingtonpost.com/local/dc-politics/plan-to-bury-dcs-outage-prone-power-lines-backed-by-task-force/2013/05/14/6571f060-bcc3-11e2-97d4-a479289a31f9_story.html|access-date=January 4, 2014|newspaper=The Washington Post|date=May 15, 2013}}</ref>
+
+[[Washington Gas]] is the city's [[natural gas]] utility and serves more than a million customers in the district and its suburbs. Incorporated by Congress in 1848, the company installed the city's first gas lights in the Capitol, the White House, and along Pennsylvania Avenue.<ref>{{cite web|title=Company Profile / History|url=http://www.washingtongas.com/pages/CompanyProfileHistory|publisher=Washington Gas Light Co.|access-date=January 5, 2014}}</ref>
+
+==See also==
+<div style="float:right;">'''''<small>{{portal-inline|Cities}}<br>{{portal-inline|United States}}</small></div>
+* [[Index of Washington, D.C.–related articles]]
+* [[Outline of Washington, D.C.]]
+* [[List of people from Washington, D.C.]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Sister project links|voy=Washington, D.C.|Washington, D.C.}}
+* {{official website|http://dc.gov/}}
+* [https://www.loc.gov/rr/program/bib/states/dc/home.html Guide to Washington, D.C.], materials from the [[Library of Congress]]
+* {{osmrelation-inline|162069}}
+* {{GNIS|1702382|District of Columbia (civil)}}
+* [https://ghostsofdc.org/2013/07/24/washington-dc-district-of-columbia/ Why is Washington, D.C. Called the District of Columbia?]
+
+{{s-start}}
+{{s-bef|before=[[Philadelphia, Pennsylvania]]}}
+{{s-ttl|title=Capital of the United States<br />of America|years=1800–present}}
+{{s-inc}}
+{{s-end}}
+
+{{Geographic Location (8-way)
+ | West =
+ | Northwest =
+ | North =
+ | Northeast = {{flag|Maryland}}
+ | Centre = {{flag|District of Columbia}}: [[Outline of Washington, D.C.|Outline]] • [[Index of Washington, D.C.-related articles|Index]]
+ | East =
+ | Southeast =
+ | South =
+ | Southwest = {{flag|Virginia}}
+}}
+
+{{District of Columbia|expanded}}
+{{Washington DC landmarks}}
+{{Neighborhoods in Washington, D.C.}}{{DCMetroArea}}
+{{George Washington}}
+{{Navboxes
+| title = Related United States and geographic topics
+| list =
+{{United States topics}}
+{{United States political divisions}}
+{{USCensus Geography}}
+{{USLargestMetros}}
+{{Northeast Megalopolis}}
+{{DCMetroArea}}
+{{Southern United States}}
+{{Northeast US}}
+{{Southern U.S. majority-minority counties}}
+{{Capital districts and territories}}
+}}
+{{Navboxes
+| title = Other related topics
+| list =
+{{List of North American capitals}}
+{{Location of US capital}}
+}}
+{{USPopulousCities}}
+{{Authority control}}
+{{coord|38.9101|-77.0147|dim:50000_region:US-DC_type:adm1st|name=District of Columbia|display=title}}
+
+[[Category:Washington, D.C.| ]]
+[[Category:Cities in the Baltimore–Washington metropolitan area| ]]
+[[Category:Capital districts and territories]]
+[[Category:Capitals in North America]]
+[[Category:Members of the Unrepresented Nations and Peoples Organization]]
+[[Category:Municipalities in the United States]]
+[[Category:Planned capitals]]
+[[Category:Planned cities in the United States]]
+[[Category:Populated places established in 1790]]
+[[Category:Populated places on the Potomac River]]
+[[Category:Mid-Atlantic states]]
+[[Category:Southern United States]]
+[[Category:Northeastern United States]]
+[[Category:States and territories established in 1790]]
+[[Category:Political divisions of the United States]]
+[[Category:Washington metropolitan area]]
+[[Category:1790 establishments in the United States]]

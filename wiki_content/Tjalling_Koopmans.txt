@@ -1,0 +1,103 @@
+{{short description|American mathematician}}
+{{Infobox scientist
+| name        = Tjalling C. Koopmans
+| image       = TjallingKoopmans1967.jpg
+| image_size  = 
+| birth_date  = {{birth date|1910|8|28|mf=y}}
+| birth_place = [['s-Graveland]], [[Netherlands]]
+| death_date  = {{death date and age|1985|2|26|1910|8|28|mf=y}}
+| death_place = [[New Haven, Connecticut]], [[United States|US]]
+| nationality = [[Netherlands|Dutch]], [[United States|American]]
+| field       = [[Economics]], [[Physics]]
+| alma_mater  = [[University of Utrecht]]<br>[[University of Leiden]]
+| doctoral_advisor  = [[Hans Kramers]]<br />[[Jan Tinbergen]]
+| doctoral_students = [[Carl Christ]]<br>[[Stanley Reiter]]<br>{{Interlanguage link multi|Rolf Mantel|es}}<br>[[Guillermo Calvo]]
+| known_for   = [[Ramsey–Cass–Koopmans model]]<br>[[Koopmans' theorem]]
+| prizes      = [[Nobel Memorial Prize in Economic Sciences]] (1975)
+}}
+
+'''Tjalling Charles Koopmans''' (August 28, 1910 – February 26, 1985) was a [[Dutch American|Dutch-American]] mathematician and economist. He was the joint winner with [[Leonid Kantorovich]] of the 1975 [[Nobel Memorial Prize in Economic Sciences]] for his work on the theory of the optimum allocation of resources.  Koopmans showed that on the basis of certain efficiency criteria, it is possible to make important deductions concerning optimum price systems.
+
+== Biography ==
+[[File:KoopmansLeuven1967.jpg|{{largethumb}}|Koopmans (1967)]]
+Koopmans was born in [['s-Graveland]], [[Netherlands]]. He began his university education at the [[Utrecht University]] at seventeen, specializing in mathematics. Three years later, in 1930, he switched to theoretical physics. In 1933, he met [[Jan Tinbergen]], the winner of the 1969 Nobel Memorial Prize in Economics, and moved to [[Amsterdam]] to study [[mathematical economics]] under him. In addition to mathematical economics, Koopmans extended his explorations to [[econometrics]] and [[statistics]]. In 1936 he graduated from [[Leiden University]] with a PhD, under the direction of [[Hendrik Kramers]]. The title of the thesis was "Linear regression analysis of economic time series".<ref>{{cite web|author=Tjalling Koopmans |url=http://ilorentz.org/history/proefschriften/sources/Koopmans_1936.pdf |title=Linear regression analysis of economic time series  |year=1936}}</ref>
+
+Koopmans moved to the [[United States]] in 1940. There he worked for a while for a government body in [[Washington D.C.]], where he published on the [[economics of transportation]] focusing on optimal routing, then moved to [[Chicago]] where he joined a research body, the [[Cowles Foundation|Cowles Commission for Research in Economics]], affiliated with the [[University of Chicago]]. In 1946, he became a [[naturalized citizen]] of the [[United States]] and in 1948 director of the Cowles Commission. Also in 1948, he was elected as a [[Fellow of the American Statistical Association]].<ref>[http://www.amstat.org/awards/fellowslist.cfm View/Search Fellows of the ASA], accessed 2016-07-23.</ref> In 1950 he became a corresponding member of the [[Royal Netherlands Academy of Arts and Sciences]].<ref>{{cite web|url=https://www.dwc.knaw.nl/biografie/pmknaw/?pagetype=authorDetail&aId=PE00001356 |title=T.C. Koopmans (1910 - 1985) |publisher=Royal Netherlands Academy of Arts and Sciences |access-date=11 May 2020}}</ref> Rising hostile opposition to the Cowles Commission by the department of economics at University of Chicago during the 1950s led Koopmans to convince the Cowles family to move it to [[Yale University]] in 1955 (where it was renamed the [[Cowles Foundation]]). He continued to publish, on the [[economics]] of optimal growth and activity analysis.
+
+Koopmans's early works on the [[Hartree–Fock]] theory are associated with the [[Koopmans' theorem]], which is very well known in [[quantum chemistry]]. Koopmans was awarded his Nobel memorial prize (jointly with Leonid Kantorovich) for his contributions to the field of resource allocation, specifically the theory of optimal use of resources. The work for which the prize was awarded focused on activity analysis, the study of interactions between the inputs and outputs of [[Production (economics)|production]], and their relationship to [[economic efficiency]] and [[prices]]. Finally, the importance of the article by Koopmans (1942) deriving the distribution of the serial correlation coefficient was recognized by [[John von Neumann]], and it later influenced the optimal tests for a [[unit root]] by [[John Denis Sargan]] and [[Alok Bhargava]] (Sargan and Bhargava, 1983).
+
+===Family and name===
+Tjalling Charles Koopmans was a son of Sjoerd Koopmans and Wytske van der Zee; his [[middle name]] Charles was probably derived from his [[patronymic]] "Sjoerds".<ref>{{cite book |title=De Macht van Twee: Kwartierstaat van de kinderen van Hendrik Koopmans en Minke Jager |language=nl |author=Ruurd Koopmans}}</ref>
+
+One of Sjoerd Koopmans's sisters, Gatske Koopmans, and her husband Symon van der Meer were the paternal grandparents of Nobel Prize winner [[Simon van der Meer]].<ref>{{cite web |url=http://www.familyaffairs.nl/UK/FamousData/Koopmans.html |title=Ancestors of Tjalling Koopmans |date=2010 |publisher=Family Affairs |access-date=18 March 2017 }}</ref><ref>{{cite book |title=Tussen observatie en participatie: twee eeuwen gereformeerde en antirevolutionaire wereld in ontwikkelingsperspectief|language=nl |author=D.Th. Kuiper |publisher=Uitgeverij Verloren |isbn=978-90-6550-694-8|year=2002 }}</ref> Tjalling Koopmans and Simon van der Meer were therefore [[first cousins once removed#1stOnceRem|first cousins once removed]].
+
+Tjalling had two brothers, one of whom was [[theologian]] Rev. Dr [[Jan Koopmans]], who in 1940, early during the [[German occupation of the Netherlands]], wrote the widely distributed pamphlet "''Bijna te laat''" ("''Almost too late''", 30,000 copies), warning about the future of the Jews under the Nazi regime.<ref>{{cite book |last=Dewulf |first=Jeroen |date=1 December 2010 |title=Spirit of Resistance: Dutch Clandestine Literature During the Nazi Occupation |publisher=Boydell & Brewer |page=125 |isbn=978-1571134936 }}</ref> In 1945, towards the end of the war, he witnessed an execution of hostages in [[Amsterdam]] from behind a window and was mortally wounded by a stray bullet.<ref>{{cite book |last=van Istendael |first=Geert |date=1 July 2005 |title=Mijn Nederland |trans-title=My Netherlands |language=nl |publisher=Atlas-Contact |isbn= 9789045005195}}</ref><ref>{{cite web |url=http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1975/koopmans-bio.html |title=Tjalling C. Koopmans - Biographical |last=Koopmans |first=Tjalling Charles |date=1975 |publisher=Nobel Media AB 2014 |access-date=27 July 2017 }}</ref>
+
+== Selected works ==
+* {{Cite journal | last = Koopmans | first = Tjalling C. | title = Serial correlation and quadratic forms in normal variables | journal = [[Annals of Mathematical Statistics]] | volume = 13 | issue = 1 | pages = 14–33 | publisher = [[Institute of Mathematical Statistics]] | doi = 10.1214/aoms/1177731639 | jstor = 2236158 | date = March 1942 | doi-access = free }}
+* {{Cite journal | last1 = Koopmans | first1 = Tjalling C. | last2 = Montias | first2 = J.M. | title = On the Description and Comparison of Economic Systems | year = 1971 }} Cowles Foundation Paper No. 357.
+* {{cite book | last = Koopmans | first = Tjalling C. | title = Nobel Memorial Lecture: Concepts of optimality and their uses | url = https://www.nobelprize.org/uploads/2018/06/koopmans-lecture.pdf | date = December 11, 1975 }}
+* {{Cite journal | last1 = Koopmans | first1 = Tjalling C. | last2 = Debreu | first2 = Gérard | author-link2 = Gérard Debreu | title = Additively decomposed quasiconvex functions | journal = [[Mathematical Programming]] | volume = 24 | issue = 1 | pages = 1–38 | publisher = [[Springer Science+Business Media|Springer]] | doi = 10.1007/BF01585092 | date = December 1982 | s2cid = 206799604 | url = http://cowles.yale.edu/sites/default/files/files/pub/d05/d0574.pdf }}
+
+== Further reading ==
+*{{cite journal |last=Hughes Hallett |first=Andrew J. |title=Econometrics and the Theory of Economic Policy: The Tinbergen–Theil Contributions 40 Years On |journal=Oxford Economic Papers |year=1989 |volume=41 |issue=1 |pages=189–214 |jstor=2663189 |doi=10.1093/oxfordjournals.oep.a041892 }}
+*{{cite journal |last1=Sargan |first1=J. D. |author-link=Denis Sargan |author-link2=Alok Bhargava |first2=Alok |last2=Bhargava |year=1983 |title=Testing residuals from least squares regressions for being generated by the Gaussian random walk |journal=[[Econometrica]] |volume=51 |issue=1 |pages=153–174 |jstor=1912252 |doi=10.2307/1912252 }}
+
+== See also ==
+* [[Linear programming]]
+* [[Transportation theory (mathematics)]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{commons category}}
+{{wikiquote}}
+* {{Nobelprize}}
+* [[Herbert Scarf|Scarf, Herbert E.]], [https://web.archive.org/web/20060901092041/http://newton.nap.edu/html/biomems/tkoopmans.html "Tjalling Charles Koopmans: August 28, 1910 – February 26, 1985"], ''National Academy of Science''
+* [https://ideas.repec.org/e/pko26.html IDEAS/RePEc]
+* {{MathGenealogy |id=110580 }}
+* {{Cite book |title=Tjalling Charles Koopmans (1910–1985) |url=http://www.econlib.org/library/Enc/bios/Koopmans.html |work=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+* [https://www.informs.org/About-INFORMS/History-and-Traditions/Biographical-Profiles/Koopmans-Tjalling-C Biography of Tjalling Koopmans] from the Institute for Operations Research and the Management Sciences
+* [http://hdl.handle.net/10079/fa/mssa.ms.1439 Tjalling Charles Koopmans Papers (MS 1439).] Manuscripts and Archives, Yale University Library.
+{{S-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Gunnar Myrdal]] | before2 = [[Friedrich August von Hayek]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 1975 |alongside= [[Leonid Vitaliyevich Kantorovich]] }}
+{{s-aft | after = [[Milton Friedman]] }}
+{{S-end}}
+
+{{Nobel laureates in economics 1969–1975}}
+{{1975 Nobel Prize winners}}
+{{Nobel Prize laureates from The Netherlands|state=collapsed}}
+{{Presidents of the Econometric Society}}
+{{Presidents of the American Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Koopmans, Tjalling}}
+[[Category:1910 births]]
+[[Category:1985 deaths]]
+[[Category:People from Wijdemeren]]
+[[Category:Dutch Nobel laureates]]
+[[Category:Dutch economists]]
+[[Category:Dutch emigrants to the United States]]
+[[Category:Utrecht University alumni]]
+[[Category:University of Amsterdam alumni]]
+[[Category:Nobel laureates in Economics]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the Institute of Mathematical Statistics]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Mathematical economists]]
+[[Category:Econometricians]]
+[[Category:Time series econometricians]]
+[[Category:General equilibrium theorists]]
+[[Category:Operations researchers]]
+[[Category:20th-century American writers]]
+[[Category:20th-century American economists]]
+[[Category:20th-century American mathematicians]]
+[[Category:Presidents of the American Economic Association]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Members of the Royal Netherlands Academy of Arts and Sciences]]
+[[Category:Dutch mathematicians]]

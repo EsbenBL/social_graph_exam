@@ -1,0 +1,83 @@
+{{short description|American economist}}
+{{Infobox economist
+|name             = Raj Chetty
+|image            = Raj Chetty recieving the 2019 A.SK Social Science Award.png
+|birth_date       = {{birth date and age|1979|8|4}}
+|birth_place      = [[New Delhi]], [[India]]
+|death_date       = 
+|death_place      = 
+|institution      = [[Stanford University]]<br>[[Harvard University]]<br>[[University of California, Berkeley]]<br>[[University School of Milwaukee]]
+|field            = [[Public economics]]
+|alma_mater       = [[Harvard University]] ([[Bachelor of Arts|AB]], [[Master of Arts|AM]], [[Doctor of Philosophy|PhD]])
+|doctoral_advisor = [[Martin Feldstein]]<ref name="auto">{{cite web |title=Consumption commitments, risk preferences, and optimal unemployment insurance |url=http://search.proquest.com/docview/305332512/ |first=Nadarajan |last=Chetty |access-date=January 23, 2014 |via=ProQuest}}</ref>
+|awards           = [[MacArthur Fellowship]] (2012)<br>[[John Bates Clark Medal]] (2013)<br>[[Infosys Prize]] (2020)
+|repec_prefix     = e
+|repec_id         = pch161
+}}
+'''Nadarajan "Raj" Chetty''' (born August 4, 1979) is an [[India]]n-born American [[economist]] and the William A. Ackman Professor of Public Economics at [[Harvard University]].<ref name="Chetty's webpage">{{cite web|last1=Chetty|first1=Raj|title=RajChetty.com|url=http://www.rajchetty.com/|access-date=5 February 2019}}</ref> Some of Chetty's recent papers have studied [[equality of opportunity]] in the United States<ref>{{cite web|url=http://www.equality-of-opportunity.org/|title=The Equality of Opportunity Project|website=www.equality-of-opportunity.org}}</ref> and the long-term impact of teachers on students' performance.<ref name="obs.rc.fas.harvard.edu">{{cite web |url=http://obs.rc.fas.harvard.edu/chetty/value_added.html |title=Archived copy |access-date=2014-08-01 |url-status=dead |archive-url=https://web.archive.org/web/20140805212724/http://obs.rc.fas.harvard.edu/chetty/value_added.html |archive-date=2014-08-05 }}</ref> Offered tenure at the age of 28, Chetty became one of the youngest tenured faculty in the history of Harvard's economics department. He is a recipient of the [[John Bates Clark Medal]] and a [[MacArthur Fellows Program|2012 MacArthur Fellow]].<ref name="MacArthur">{{cite web|title=2012 MacArthur Foundation 'Genius Grant' Winners|url=http://bigstory.ap.org/article/2012-macarthur-foundation-genius-grant-winners#overlay-context=users/rjagodzinski|work=1 October 2012|publisher=AP|access-date=1 October 2012}}</ref> Currently, he is also an advisory editor of the ''[[Journal of Public Economics]]''.<ref>{{cite web|url=http://www.journals.elsevier.com/journal-of-public-economics/|title=Journal of Public Economics}}</ref> In 2020, he was awarded the [[Infosys Prize]] in Economics, the highest monetary award recognizing achievements in science and research, in India.<ref name=":0">{{Cite web|title=Infosys Laureate - Social Sciences (2020) ~ Raj Chetty|url=http://www.infosys-science-foundation.com/prize/laureates/2020/raj-chetty.asp|website=[[Infosys Science Foundation]]}}</ref>
+
+==Education and early career==
+Raj Chetty was born in [[New Delhi]], [[India]] and lived there until the age of nine.<ref name=atlanticprofile>{{cite news | last1=Cook|first1=Gareth| date= 17 July 2019| work=[[The Atlantic]]| url= https://www.theatlantic.com/magazine/archive/2019/08/raj-chettys-american-dream/592804/ | title= The Economist Who Would Fix the American Dream | access-date= 9 July 2020}}</ref> His family immigrated to the United States in 1988.<ref name=atlanticprofile /> Chetty graduated from [[University School of Milwaukee]] in 1997 and earned his [[Bachelor of Arts|AB]] from [[Harvard University]] in 2000. He continued at Harvard to earn his [[Doctor of Philosophy|PhD]] in 2003<ref name="Profile">{{cite web|url=http://www.macfound.org/fellows/861/|title=Raj Chetty — MacArthur Foundation|website=www.macfound.org}}</ref> with a thesis titled ''Consumption commitments, risk preferences, and optimal unemployment insurance''.<ref name="auto"/> As a sophomore in college, Chetty was told by his mentor [[Martin Feldstein]] to pursue his own ideas after proposing a counterintuitive idea that higher interest rates sometimes lead to higher investment.<ref name="Experimenter">{{Citation |last=Chesler |first=Caren |date=October 2007 |title=The Experimenter |magazine=The American |url=http://www.american.com/archive/2007/september-october-magazine-contents/the-experimenter }}</ref>
+
+In 2003, at the age of 23, Chetty became an assistant professor of economics at the University of California, Berkeley, becoming a tenured associate professor there at 27.<ref name="Experimenter" /> In 2009, Chetty returned to Harvard, where he was the Bloomberg Professor of Economics and the director of the Lab for Economic Applications and Policy.<ref name="Profile" /> In 2015, Chetty moved to Stanford, where he became a professor in the Economics Department.<ref name="Chetty's webpage" /> In June 2018, Raj Chetty's frequent coauthor [[John Friedman]] announced that Chetty will be returning to Harvard.<ref>{{cite web|url=https://twitter.com/John_N_Friedman/status/1007794811112443904|title=John N.Friedman on Twitter}}</ref> In July of the same year, he became a Founding Director of Opportunity Insights with [[John Friedman]] and [[Nathaniel Hendren]].<ref>{{cite web | url=http://www.rajchetty.com/chettyfiles/cv.pdf|title = Biographical Sketch: Raj Chetty}}</ref>
+
+==Research==
+In 2011 with John Friedman and [[Jonah Rockoff]], Chetty found that test-score based [[Value-added modeling|value-added measures]] are not substantially biased by unobserved student characteristics and that the students of high value-added teachers have markedly better outcomes later in life.<ref name="obs.rc.fas.harvard.edu"/> Drawing on these findings, Chetty testified in the landmark case ''[[Vergara v. California]]'' in support of the plaintiffs’ key points: that teacher quality has a direct impact on students’ achievements and that the current dismissal and seniority statutes have disparate impact on minority and low-income students.<ref>{{cite web|url=http://studentsmatter.org/evidence/#dr-raj-chettys-presentation-on-the-impact-of-teachers-on-student-learning-and-lifetime-success|title=Research Items Archive - Students Matter|website=Students Matter}}</ref>
+
+Chetty is also known for research showing that [[economic mobility]] varies enormously within the United States<ref name=atlanticprofile /><ref>{{cite news | last1=Leonhardt|first1=David| date= 22 July 2013| work=[[The New York Times]]| url= https://www.nytimes.com/2013/07/22/business/in-climbing-income-ladder-location-matters.html | title= In Climbing Income Ladder, Location Matters | access-date= 4 July 2020}}</ref> and for work on the optimal level of [[unemployment benefits]].
+
+==Recognition==
+In 2008, ''[[The Economist]]'' and ''[[The New York Times]]'' listed Chetty as one of the top eight young economists in the world.<ref name="TheEconomist">{{Citation |date=December 30, 2008 |title=International bright young things |newspaper=The Economist |url=http://www.economist.com/businessfinance/displayStory.cfm?story_id=12851150 }}</ref> Chetty is among the most cited young economists in the world.<ref>{{cite web|url=https://ideas.repec.org/top/top.young.html|title=Young Economist Rankings - IDEAS/RePEc|last=zimmermann@stlouisfed.org|website=ideas.repec.org}}</ref> In 2010, he received the Young Labor Economist Award from the [[Institute for the Study of Labor]] for his paper "Moral Hazard Versus Liquidity and Optimal Unemployment Insurance" in the Journal of Political Economy.<ref>{{cite web|url=http://www.iza.org/en/webcontent/prize/ylea_history/ylea5|title=IZA - Institute of Labor Economics|website=www.iza.org}}</ref>
+
+In 2012, he was one of 23 fellows to receive $500,000 over the following five years from the John D. and Catherine T. MacArthur Foundation as a recipient of one of the Foundation's [[MacArthur Fellows Program|Genius Grants]].<ref name="MacArthur"/>
+
+Chetty was the recipient of the 2013 [[John Bates Clark Medal]], awarded by the American Economic Association to "that American economist under the age of forty who is adjudged to have made a significant contribution to economic thought and knowledge."<ref>Brenda Cronin, [https://www.wsj.com/articles/SB10001424127887324010704578419001694904538 Economist Is Awarded Top Honor in the Field], Wall Street Journal, April 12, 2013</ref>
+
+Chetty was awarded the [[Padma Shri]], an award for distinguished service in any field, by the Government of India in 2015.<ref>{{cite web|title=Padma Awards 2015|url=http://pib.nic.in/newsite/PrintRelease.aspx?relid=114952|website=pib.nic.in|publisher=Press Information Bureau, Government of India|access-date=4 May 2015}}</ref>
+
+George Mason University economist [[Tyler Cowen]] described Chetty in 2017 as "the single most influential economist in the world today."<ref>{{Cite web|url=https://medium.com/conversations-with-tyler/raj-chetty-tyler-cowen-inequality-mobility-american-dream-d5ea7f4742b1|title=Raj Chetty on Teachers, Taxes, Mobility, and How to Answer Big Questions|last=Center|first=Mercatus|date=2017-05-24|website=Medium|access-date=2017-06-19}}</ref>
+
+Research by Chetty was covered by ''[[The New York Times]]'',<ref>{{Cite news|url=https://www.nytimes.com/2018/10/01/upshot/maps-neighborhoods-shape-child-poverty.html|title=Detailed Maps Show How Neighborhoods Shape Children for Life|last=Badger|first=Emily|date=2018-10-01|work=The New York Times|access-date=2019-09-22|last2=Bui|first2=Quoctrung|language=en-US|issn=0362-4331}}</ref> ''[[The Atlantic]]'',<ref>{{Cite web|url=https://www.theatlantic.com/family/archive/2019/06/raj-chetty-and-study-hyperlocal-inequality/592612/|title=How Do Rich Neighborhoods Exist So Close to Poor Ones?|last=Pinsker|first=Joe|date=2019-06-26|website=The Atlantic|language=en-US|access-date=2019-09-22}}</ref> [[Our World in Data]],<ref>{{Cite web|url=https://ourworldindata.org/talent-is-everywhere-opportunity-is-not|title=Talent is everywhere, opportunity is not. We are all losing out because of this.|website=Our World in Data|access-date=2019-09-22}}</ref> and ''[[Vox (website)|Vox]]''.<ref>{{Cite web|url=https://www.vox.com/policy-and-politics/2018/3/21/17139300/economic-mobility-study-race-black-white-women-men-incarceration-income-chetty-hendren-jones-porter|title=The massive new study on race and economic mobility in America, explained|last=Matthews|first=Dylan|date=2018-03-21|website=Vox|language=en|access-date=2019-09-22}}</ref>
+
+In 2018, he was elected a member of the [[National Academy of Sciences]].
+
+In 2019, he received an Andrew Carnegie Fellowship, awarded by the [[Carnegie Corporation of New York]].<ref name=acf19>{{Cite news|url=https://news.harvard.edu/gazette/story/2019/04/harvard-economist-sociologist-win-prestigious-carnegie-fellowships/|title=Carnegie Corporation names fellowship winners|date=2019-04-23|work=Harvard Gazette|access-date=2019-05-01}}</ref>
+
+In December 2020, he received the [[Infosys Prize]] for Social Sciences – Economics "for his pioneering research on identifying barriers to economic opportunity and for developing solutions to help people escape from poverty towards better life outcomes."<ref name=":0" /><ref>{{Cite news|title=Infosys Prize 2020 winners felicitated in six categories|work=[[The Hindu]]|url=https://www.thehindu.com/news/national/karnataka/infosys-prize-2020-winners-felicitated-in-six-categories/article33232504.ece}}</ref>
+
+==Publications==
+*[https://scholar.google.com/citations?user=PhDDPiUAAAAJ&hl=en&oi=ao Google Scholar profile]
+* {{Cite journal | last1 = Chetty | first1 = R. | author-link1 = Raj Chetty | last2 = Saez | first2 = E. | author-link2 = Emmanuel Saez | doi = 10.1093/qje/120.3.791 | title = Dividend Taxes and Corporate Behavior: Evidence from the 2003 Dividend Tax Cut | journal = [[The Quarterly Journal of Economics]] | volume = 120 | issue = 3 | pages = 791 | year = 2005 | jstor = 25098756 | url = http://obs.rc.fas.harvard.edu/chetty/files/dividends_qje.pdf | access-date = 2015-08-29 | archive-url = https://web.archive.org/web/20130531022753/http://obs.rc.fas.harvard.edu/chetty/files/dividends_qje.pdf | archive-date = 2013-05-31 | url-status = dead }}
+* {{cite journal|last1=Chetty|first1=Raj|last2=Friedman|first2=John N.|last3=Hilger|first3=Nathaniel|last4=Saez|first4=Emmanuel|last5=Schanzenbach|first5=Diane Whitmore|last6=Yagan|first6=Danny|date=2011|title=How does your kindergarten classroom affect your earnings? Evidence from Project STAR|url=http://www.rajchetty.com/chettyfiles/STAR.pdf|journal=The Quarterly Journal of Economics|volume=126|issue=4|doi=10.1093/qje/qjr041|pmid=22256342|pages=1593–1660}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20090119053634/http://www.economics.harvard.edu/faculty/chetty Professor Raj Chetty at Harvard]
+* [http://www.american.com/archive/2007/september-october-magazine-contents/the-experimenter Winner of The American Magazine 2008 Young Economist Award]
+* [http://www.iza.org/en/webcontent/prize/ylea Winner of the IZA 2010 Young Labor Economist Award]
+* [http://www.economics.harvard.edu/news Harvard Economics welcomes Raj Chetty to the Position of Professor of Economics]
+
+{{Padma Shri Award Recipients in Literature & Education}}
+
+{{John Bates Clark Medal recipients}}
+{{Authority control}}
+
+{{DEFAULTSORT:Chetty, Raj}}
+[[Category:1979 births]]
+[[Category:21st-century American economists]]
+[[Category:American academics of Indian descent]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the American Academy of Political and Social Science]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Harvard University alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Labor economists]]
+[[Category:Living people]]
+[[Category:MacArthur Fellows]]
+[[Category:Microeconometricians]]
+[[Category:Recipients of the Padma Shri in trade and industry]]
+[[Category:Stanford University Department of Economics faculty]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:University School of Milwaukee alumni]]

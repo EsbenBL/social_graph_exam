@@ -1,0 +1,71 @@
+{{Short description|American economist and statistician}}
+{{Infobox economist
+| name        = Holbrook Working
+| native_name = 
+| native_name_lang = 
+| school_tradition = 
+| image       = 
+| image_size  = 
+| caption     = 
+| birth_date  =  	February 5, 1895
+| birth_place = [[Fort Collins, Colorado]] 
+| death_date  = {{Death date and age|1985|10|5|1895|2|5}}
+| death_place = 
+| resting_place = 
+| resting_place_coordinates = 
+| nationality = 
+| institution = [[Stanford University|Stanford University's Food Research Institute]]
+| field       = 
+| alma_mater  = [[University of Wisconsin–Madison]]
+| influences  = 
+| influenced  = 
+| contributions = 
+| awards      =
+| memorials   = 
+| spouse      =
+| signature   = <!--(filename only)-->
+| module      = 
+| repec_prefix = 
+| repec_id = 
+}}
+'''Holbrook Working''' (February 5, 1895 – October 5, 1985) was an American professor of [[economics]] and [[statistics]] at [[Stanford University]]'s Food Research Institute known for his contributions on [[hedge (finance)|hedging]], on the theory of [[Futures contract|futures]] prices, on an early theory of [[market maker]] behavior,<ref>[http://business.kent.edu/erf/Papers/1954/s54-09.pdf Price Effects of Scalping and Daytrading] Proceedings of the Symposium on Futures Markets and the Public Interest, Chicago, 1954, accessed 4/24/07.</ref> and on the [[theory of storage]] (including the ''Working curve'' which plots the difference between short term and long term grain futures prices against current inventory).<ref>[http://cepa.newschool.edu/het/profiles/working.htm The Working Brothers] {{Webarchive|url=https://web.archive.org/web/20051201211458/http://cepa.newschool.edu/het/profiles/working.htm |date=2005-12-01 }} History of Economic Thought, accessed 4/24/07</ref><ref>Working, H. 1933, "Price Relations between July and September Wheat Futures at Chicago Since 1885", Wheat Studies of the Food Research Institute</ref>
+
+== Biography ==
+He was born in [[Fort Collins, Colorado]], on February 5, 1895.
+
+Working earned his Ph.D. in Agricultural Economics from the [[University of Wisconsin–Madison]] in 1921. He taught at [[Cornell University]] and the [[University of Minnesota]] before he joined Stanford's Food Research Institute in 1925. His younger brother [[Elmer Working]] made a major contribution on the [[parameter identification problem|identification problem for demand curves]] in econometrics, with which Holbrook Working was also involved.
+
+Working disagreed with [[Keynes]]'s [[backwardation]] theory of futures prices, which argued that short hedgers (farmers) drive down futures prices because of their demand for ''price insurance''. Working argued that there could be hedgers on both sides of the market and that hedging was essentially not a risk reduction technique, but "speculation in the basis" which allows informed traders and commodity dealers to profit from their knowledge of future changes in the difference between futures and spot prices.
+
+He was a founding member of the [[Econometric Society]] and was elected a Fellow of the American Agricultural Economics Association, the [[American Statistical Association]], and the [[American Association for the Advancement of Science]].<ref>[http://histsoc.stanford.edu/pdfmem/WorkingH.pdf Stanford Historical Society] {{Webarchive|url=https://web.archive.org/web/20060916235517/http://histsoc.stanford.edu/pdfmem/WorkingH.pdf |date=2006-09-16 }} accessed 4/24/07.</ref>  In 1981 he was awarded the [[Wilks Memorial Award]] by the American Statistical Association.
+
+He died on October 5, 1985, in [[Santa Clara, California]].
+
+==See also==
+*[[Working–Hotelling procedure]]
+
+== Notable papers ==
+* {{Cite journal | last1 = Working | first1 = Holbrook | title = The statistical determination of demand curves | journal = [[Quarterly Journal of Economics|The Quarterly Journal of Economics]] | volume = 39 | issue = 4 | pages = 503–543 | doi = 10.2307/1883264 | date = August 1925 | jstor = 1883264 }}
+* {{Cite journal | last1 = Working | first1 = Holbrook | title = ''Business cycles: the problem and its setting'', by Wesley C. Mitchell (book review) | journal = [[Journal of the American Statistical Association]] | volume = 23 | issue = 161 | pages = 89–109 | doi = 10.1080/01621459.1928.10503002 | date = March 1928 }}
+* {{Cite journal | last1 = Working | first1 = Holbrook | last2 = Hotelling | first2 = Harold | author-link2 = Harold Hotelling | title = Applications of the theory of error to the interpretation of trends | journal = Journal of the American Statistical Association | volume = 24 | issue = 165A | pages = 73–85 | doi = 10.1080/01621459.1929.10506274 | date = March 1929 }}
+* {{Cite journal | last1 = Working | first1 = Holbrook | title = A random-difference series for use in the analysis of time series | journal = [[Journal of the American Statistical Association]] | volume = 29 | issue = 185 | pages = 11–24 | doi = 10.1080/01621459.1934.10502683 | date = March 1934 }}
+* {{Cite journal | last1 = Working | first1 = Holbrook | title = Differential price behavior as a subject for commodity price analysis | journal = [[Econometrica]] | volume = 3 | issue = 4 | pages = 416–427 | doi = 10.2307/1905633 | date = October 1935 | jstor = 1912225 }}
+* {{Cite journal | last1 = Working | first1 = Holbrook | title = Futures trading and hedging | journal = [[The American Economic Review]] | volume = 43 | issue = 3 | pages = 314–343 | publisher = [[American Economic Association]] via JSTOR | date = June 1953 | jstor = 1811346 }}
+* {{Cite journal | last1 = Working | first1 = Holbrook | title = Hedging reconsidered | journal = [[American Journal of Agricultural Economics]] | volume = 35 | issue = 4 | pages = 544–561 | doi = 10.2307/1233368  | date = November 1953 | jstor = 1233368 }}
+* {{Cite journal | last1 = Working | first1 = Holbrook | title = New concepts concerning futures markets and prices | journal = [[The American Economic Review]] | volume = 52 | issue = 3 | pages = 413–459 | publisher = [[American Economic Association]] via JSTOR | date = June 1962 | jstor = 1810553 }}
+* {{Cite journal | last1 = Working | first1 = Holbrook | title = Tests of a theory concerning floor trading on commodity exchanges | journal = [[Stanford University|Stanford University's Food Research Institute]] | volume = 7 | issue = s | pages = 5–48 | publisher = [[Disciplinary repository|AgEcon search]] | date = 1967 | url = http://purl.umn.edu/134942 }}
+
+== References ==
+{{Reflist|30em}}
+
+{{Subject bar|portal1 = Biography | portal2 = Economics | portal3 = Agriculture and Agronomy | portal4 = Education | portal5 = United States }}
+{{Authority control}}
+
+{{DEFAULTSORT:Working, Holbrook}}
+[[Category:1895 births]]
+[[Category:1985 deaths]]
+[[Category:20th-century American economists]]
+[[Category:Cornell University faculty]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Stanford University faculty]]
+[[Category:Fellows of the Econometric Society]]

@@ -1,0 +1,77 @@
+{{BLP sources|date=November 2013}}
+{{Infobox economist
+| name             = Neil Wallace
+| school_tradition = [[New classical economics]]
+
+| image            =
+| image_size       =
+| caption          =
+| birth_date       = {{Birth year and age|1939}}
+| birth_place      = [[New York City]], New York, U.S.
+| death_date       =
+| death_place      =
+| nationality      = American 
+| institution      = [[Pennsylvania State University|Penn State University]]<br>[[University of Miami]]<br>[[University of Minnesota]]
+| field            = [[Monetary economics]]
+| alma_mater       = [[University of Chicago]]<br>[[Columbia University]]
+| doctoral_advisor = [[Milton Friedman]]
+| doctoral_students = [[Robert M. Townsend]]<br>[[S. Rao Aiyagari]]<br>[[Randall Wright]]<br>[[Lars Ljungqvist]]<br>[[Per Krusell]]
+| influences       = [[John Muth]]<br>[[Robert Lucas, Jr.]]
+| influenced       = 
+| contributions    =
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pwa33
+}}
+
+'''Neil Wallace''' (born 1939) is an American economist and professor at [[Pennsylvania State University]]. Wallace is considered one of the main proponents of [[new classical macroeconomics]].<ref>{{cite book |last=Galbács |first=Peter |title=The Theory of New Classical Macroeconomics. A Positive Critique |location=Heidelberg/New York/Dordrecht/London |publisher=Springer |year=2015 |isbn= 978-3-319-17578-2 |doi=10.1007/978-3-319-17578-2 |series=Contributions to Economics }}</ref>
+
+He became professor at Penn State in 1997, after holding professorships at the [[University of Minnesota]] (1974–1994), and the University of Miami (1994–1997).
+
+Wallace earned his [[Bachelor of Arts]] in Economics at [[Columbia University]] in 1960, and his [[Doctor of Philosophy]] in Economics at the [[University of Chicago]] under [[Milton Friedman]] in 1964.
+
+Since 1969 Wallace has been a consultant to the [[Federal Reserve Bank of Minneapolis]].
+
+In 2012 he was elected Distinguished Fellow of the [[American Economic Association]].
+
+In 1975 he and [[Thomas J. Sargent]] proposed the [[Policy-ineffectiveness proposition]], which refuted a basic assumption of [[Keynesian economics]].
+
+==Selected publications==
+* Ricardo De O. Cavalcanti and Neil Wallace, 1999. "Inside and Outside Money as Alternative Media of Exchange," ''Journal of Money, Credit and Banking'', 31(3, Part 2), pp. [https://www.jstor.org/pss/2601062 443]–457.
+* [[Thomas J. Sargent]] and Neil Wallace, "Rational Expectations and the Dynamics of Hyperinflation," ''International Economic Review'', 14(2),  (Jun., 1973), pp. [https://web.archive.org/web/20060909063754/http://www.cbe.csueastbay.edu/~alima/courses/6315/Week05/WallaceSargentHyperinflation.pdf 328–350].
+* _____ and _____, 1973.  The Stability of Models of Money and Growth with Perfect Foresight," ''Econometrica'', 41(6), pp. [https://www.jstor.org/pss/1914034 1043]–1048.
+* {{Cite journal |last1=Sargent |first1=Thomas |name-list-style=amp |first2=Neil |last2=Wallace |year=1975 |title='Rational' Expectations, the Optimal Monetary Instrument, and the Optimal Money Supply Rule |journal=Journal of Political Economy |volume=83 |issue=2 |pages=241–254 |doi=10.1086/260321 |s2cid=154301791 }}
+* {{Cite journal |last1=Sargent |first1=Thomas |name-list-style=amp |first2=Neil |last2=Wallace |year=1976 |title=Rational Expectations and the Theory of Economic Policy |journal=[[Journal of Monetary Economics]] |volume=2 |issue=2 |pages=169–183 |doi= 10.1016/0304-3932(76)90032-5|url=http://www.minneapolisfed.org/research/WP/WP29.pdf }}
+* _____ and _____, 1981. "Some Unpleasant Monetarist Arithmetic," Federal Reserve Bank of Minneapolis  ''Quarterly Review'', 5(3), pp. [https://web.archive.org/web/20110727055011/http://research.mpls.frb.fed.us/research/qr/qr531.pdf 1–17.]
+* Neil Wallace, 1980. The Overlapping Generations Model of Fiat Money," in ''Models of Monetary Economies'', Federal Reserve Bank of Minneapolis, pp. [https://web.archive.org/web/20120314212443/http://www.minneapolisfed.org/publications_papers/books/models/cp49.pdf 49–82]. [http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.141.7429 Abstract].
+* _____, 2001.  "Whither Monetary Economics?," ''International Economic Review'', 42(4), pp. [https://www.jstor.org/pss/826976 p. 847]–869.
+
+==Notes==
+{{Reflist}}
+
+==External links==
+* {{webarchive |url=https://web.archive.org/web/20100609221343/http://econ.la.psu.edu/people/biographies/wallace_cv.pdf |date=June 9, 2010 |title=Curriculum vitae }}
+* {{webarchive |url=https://web.archive.org/web/20100609200131/http://econ.la.psu.edu/people/biographies/wallace_bio.shtml |date=June 9, 2010 |title=Bio at Penn State }}
+
+{{Neoclassical economists}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wallace, Neil}}
+[[Category:1939 births]]
+[[Category:Living people]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Monetary economists]]
+[[Category:New classical economists]]
+[[Category:Columbia University alumni]]
+[[Category:University of Chicago alumni]]
+[[Category:University of Minnesota faculty]]
+[[Category:University of Miami faculty]]
+[[Category:Pennsylvania State University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+
+
+{{US-economist-stub}}

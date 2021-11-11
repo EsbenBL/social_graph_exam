@@ -1,0 +1,78 @@
+{{More citations needed|date=February 2019}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox economist
+| name             = Mathias Dewatripont
+| school_tradition =
+| image       = M. Dewatripont 2003.JPG
+| image_size       =
+| caption    =
+| birth_date       = {{birth date and age|df=yes|1959|12|27}}
+| birth_place      = [[Brussels]], Belgium
+| death_date       =
+| death_place      =
+| nationality      = [[Belgium]]
+| institution      = [[Université Libre de Bruxelles]]<br />[[Massachusetts Institute of Technology]]<br />[[National Bank of Belgium]]
+| field            = [[Microeconomics]]<br />[[Industrial Organization]]
+| alma_mater       = [[Harvard University]]<br />[[Université Libre de Bruxelles]]
+| doctoral_advisor = [[Eric Maskin]]<br />[[Andreu Mas-Colell]]
+| academic_advisors= 
+| doctoral_students= 
+| notable_students = 
+| influences       =
+| influenced       = Wouter Dessein
+| contributions    =
+| awards           = [[Yrjö Jahnsson Award]] (2003)<br />[[Francqui Prize]] (1998)
+| signature        = <!-- file name only -->
+| repec_prefix = f | repec_id = pde423
+}}
+
+'''Mathias François Dewatripont''' (born 27 December 1959) is a [[Belgium|Belgian]] economist and professor at the [[Université libre de Bruxelles]] (ULB) and visiting professor at the [[Massachusetts Institute of Technology]] (MIT).
+
+He studied economics at the ULB, and obtained a [[Doctor of Philosophy|PhD]] at [[Harvard University]] ([[United States]]) in 1986 (under the supervision of [[Eric Maskin]] and [[Andreu Mas-Colell]]). He is a member of the Economic Advisory Group for Competition Policy of the [[Directorate-General for Competition (European Commission)|DG Competition]] ([[European Commission]]), since 2004. He is a member of European Commission President [[José Manuel Durão Barroso]]'s ''Group of Economic Policy Analysis'', since 2005.
+In 2005, he was President of the European Economic Association. He is a member of the Econometric Society and Research Director at CEPR.
+
+He is one of the 22 members of the Scientific Council of the [[European Research Council]].
+
+He is member of the Académie Royale de Belgique and has been elected Foreign Honorary Member of the [[American Academy of Arts and Sciences]] (April 2009).
+
+In 1998, he was awarded the [[Francqui Prize]] on Human Sciences, and in 2003 he received the [[Yrjö Jahnsson Award]].
+
+He was Chairman of the Oxera Economic Council.  He is member of the Scientific Council of the [[Toulouse School of Economics]], member of the Scientific Council of the [[Barcelona Graduate School of Economics]], member of the Scientific Council of CentER (Tilburg University), and Chairman of the Scientific Council of the ULB Foundation.
+
+He is Deputy Chairman (2008–09), Chairman (2009–10) and Dean (2010–11) of the [[Solvay Brussels School of Economics and Management]] (SBS-EM) of the [[Université libre de Bruxelles]] (ULB).
+
+He has been member of the Haut Conseil de la Science et de la Technologie, Ministère français de l'Enseignement supérieur et de la Recherche, since 2009.
+
+He has been appointed Executive Director of the [[National Bank of Belgium]] since April 2011.
+
+== Selected works ==
+* On the Theory of Commitment, with Applications to the labor Market (Contract Theory, Labor Unions). PhD dissertation, Harvard University, United States—Massachusetts, 1986.
+::Published as: {{cite journal|jstor=2937812|title=Renegotiation and Information Revelation over Time: The Case of Optimal Labor Contracts|last1=Dewatripont|first1=Mathias|journal=The Quarterly Journal of Economics|year=1989|volume=104|issue=3|pages=589–619|doi=10.2307/2937812}}
+* La Réglementation Prudentielle des Banques, (with J. Tirole), Payot, Lausanne, 1993.
+* The Prudential Regulation of Banks, (with J. Tirole, expanded English version of La Réglementation Prudentielle des Banques), MIT Press, Cambridge, 1994 (also translated in Japanese (1996), Italian (1998) and Chinese (2002)).
+* Contract Theory, (with P. Bolton), MIT Press, Cambridge, 2005 (also translated in Chinese (2008)).
+* Macroeconomic Stability and Financial Regulation: Key Issues for the G20, co-auteurs: X. Freixas & R. Portes, VoxEU & CEPR ebook, 2009
+* Bailing out the Banks: Reconciling Stability and Competition: An analysis of state-supported schemes for financial institutions, co-auteurs: T. Beck, D. Coyle, X. Freixas & P. Seabright, CEPR, London, 2010.
+* Balancing the Banks: Global Lessons from the Financial Crisis, co-auteurs: J.-C. Rochet & J. Tirole, Princeton University Press, 2010.
+
+== External links ==
+* [http://www.ecare.ulb.ac.be/index.php?option=com_comprofiler&task=userProfile&user=103&Itemid=263 Mathias Dewatripont at ECARE]{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+* {{Google scholar id}}
+
+{{Yrjö Jahnsson Award recipients}}
+{{Presidents of the European Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dewatripont, Mathias}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:Belgian economists]]
+[[Category:Free University of Brussels alumni]]
+[[Category:Harvard University alumni]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]
+[[Category:20th-century Belgian writers]]
+[[Category:21st-century Belgian writers]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]

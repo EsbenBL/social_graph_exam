@@ -1,0 +1,78 @@
+{{Short description|German social psychologist}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Fritz Strack
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = Fritz Strack.jpg
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| | birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth date and age|1950|02|06}}
+| birth_place       = [[Landau]], [[Palatinate (region)|Pfalz]], [[Germany]]
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| home_town         =
+| other_names       = 
+| pronounce         =
+| residence         = 
+| citizenship       = 
+| nationality       = 
+| fields            = [[Social psychology]]
+| workplaces        = [[University of Würzburg]]
+| patrons           = 
+| education         = [[University of Mannheim]]<br>[[Stanford University]]
+| alma_mater        = 
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = 
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+'''Fritz Strack''' (born February 6, 1950)<ref>{{Cite web |url=http://wy2x05.psychologie.uni-wuerzburg.de/PSY2-PHP/ma_pics/strack_Vita_short.pdf |title=Fritz Strack Curriculum Vitae |publisher=University of Würzburg |archive-url=https://web.archive.org/web/20060207064734/http://wy2x05.psychologie.uni-wuerzburg.de/PSY2-PHP/ma_pics/strack_Vita_short.pdf |archive-date=2006-02-07 |access-date=2019-06-17}}</ref> is a German social psychologist and professor emeritus at the [[University of Würzburg]].<ref>{{Cite web |url=https://www.psychologie.uni-wuerzburg.de/en/soz/team/prof-dr-fritz-strack/ |title=Prof. Dr. Fritz Strack  |website=Lehrstuhl für Psychologie II  |publisher=University of Würzburg |access-date=2019-06-17}}</ref> He was the lead author of a frequently cited<ref>{{cite web |url=https://www.science.org/toc/science/316/5827 |title=About the Cover |date=18 May 2007 |website=science.sciencemag.org}}</ref>{{Failed verification|date=August 2021}} 1988 study that provided support for the [[facial feedback hypothesis]]. The study asked participants to hold a pen in their mouths in such a way as to make them either smile or frown, and then had them rate how funny a series of ''[[the Far Side]]'' [[cartoon]]s were. In this study, participants who were smiling rated the cartoons as funnier, on average, compared to those who were frowning.<ref>{{Cite journal |last1=Strack |first1=F. |last2=Martin |first2=L. L. |last3=Stepper |first3=S. |date=May 1988 |title=Inhibiting and facilitating conditions of the human smile: a nonobtrusive test of the facial feedback hypothesis  |journal=Journal of Personality and Social Psychology |volume=54 |issue=5 |pages=768–777 |issn=0022-3514 |pmid=3379579|doi=10.1037/0022-3514.54.5.768 }}</ref> In 2016, a study by a separate research team was published which failed to replicate the original study's results.<ref>{{Cite journal |last1=Wagenmakers |first1=E.-J. |last2=Beek |first2=T. |last3=Dijkhoff |first3=L. |last4=Gronau |first4=Q. F. |last5=Acosta |first5=A. |last6=Adams |first6=R. B. |last7=Albohn |first7=D. N. |last8=Allard |first8=E. S. |last9=Benning |first9=S. D. |date=November 2016 |title=Registered Replication Report: Strack, Martin, & Stepper (1988) |journal=Perspectives on Psychological Science |language=en |volume=11 |issue=6 |pages=917–928 |doi=10.1177/1745691616674458 |pmid=27784749 |issn=1745-6916|doi-access=free }}</ref><ref>{{Cite news |url=http://www.slate.com/articles/health_and_science/cover_story/2016/08/can_smiling_make_you_happier_maybe_maybe_not_we_have_no_idea.html |title=Sad Face |last=Engber |first=Daniel |date=2016-08-28 |work=Slate |access-date=2019-06-17 |language=en-US |issn=1091-2339}}</ref> Strack himself suggested<ref>Strack, F. (2016). Reflection on the smiling registered replication report. Perspectives on Psychological Science, 11(6), 929–930. https://doi.org/10.1177/1745691616674460</ref> that the negative results of the replication study may have been caused by its researchers' use of a video camera to record the participants' responses. He also took issue with the replication study's choice of the same cartoons that had originally been used in 1985.<ref>{{Cite news |url=http://www.nature.com/news/psychologists-argue-about-whether-smiling-makes-cartoons-funnier-1.20929 |title=Psychologists argue about whether smiling makes cartoons funnier |last=Skibba |first=Ramin |date=2016-11-03 |work=Nature News |access-date=2019-06-17 |language=en |doi=10.1038/nature.2016.20929}}</ref> Subsequent research has supported Strack's claim that participants knowing they are being recorded by cameras led to the replication study's negative result.<ref>{{Cite journal |last1=Noah |first1=Tom |last2=Schul |first2=Yaacov |last3=Mayo |first3=Ruth |date=May 2018 |title=When both the original study and its failed replication are correct: Feeling observed eliminates the facial-feedback effect. |journal=Journal of Personality and Social Psychology |language=en |volume=114 |issue=5 |pages=657–664 |doi=10.1037/pspa0000121 |pmid=29672101 |s2cid=4985655 |issn=1939-1315}}</ref><ref>{{Cite news |url=https://www.theguardian.com/science/2018/oct/17/smiling-does-make-you-happier-under-carefully-controlled-conditions |title=Smiling does make you happier – under carefully controlled conditions |last=Paley |first=Christopher |date=2018-10-17 |work=The Guardian |access-date=2019-06-18 |language=en-GB |issn=0261-3077}}</ref> Further evidence has provided additional support for both the pen procedure and the validity of the facial-feedback hypothesis.<ref>Coles, N. A., Larsen, J. T., & Lench, H. C. (2019). A meta-analysis of the facial feedback literature: Effects of facial feedback on emotional experience are small and variable. Psychological Bulletin, 145(6), 610-651.</ref><ref>Marsh, A. A., Rhoads, S. A., & Ryan, R. M. (2018). A multi-semester classroom demonstration yields evidence in support of the facial feedback effect. Emotion, 19(8), 1500–1504.</ref>
+
+Strack is a member of Germany's National [[Academy of Sciences Leopoldina]] and was awarded the [[Ig Nobel Prize]] for psychology in 2019.<ref>{{Cite web|url=https://www.biotechniques.com/general-interest/who-are-this-years-ig-nobel-prize-winners/|title=Who Are This Year's Ig Nobel Prize Winners?|date=2019-10-14|website=BioTechniques|language=en|access-date=2019-10-20}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.psychologie.uni-wuerzburg.de/en/soz/team/prof-dr-fritz-strack/ Faculty page]
+*[http://strack.socialpsychology.org/ Profile] at [[Social Psychology Network]]
+*{{Google Scholar id|0hgmLKMAAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Strack, Fritz}}
+[[Category:Living people]]
+[[Category:German psychologists]]
+[[Category:Social psychologists]]
+[[Category:1950 births]]
+[[Category:University of Würzburg faculty]]
+[[Category:University of Mannheim alumni]]
+[[Category:Stanford University alumni]]
+[[Category:People from Landau]]
+
+
+{{Germany-psychologist-stub}}

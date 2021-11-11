@@ -1,0 +1,42 @@
+{{Use dmy dates|date=July 2013}}
+{{BLP sources|date=June 2010}}
+{{Infobox economist
+|name             = Pierangelo Garegnani
+|school_tradition = [[Neo-Ricardian school]]
+|image            =
+|caption          =
+|birth_date       = 9 August 1930
+|birth_place      = [[Milan]], [[Italy]]
+|death_date       = {{death-date and age|df=yes|14 October 2011|9 August 1930}}
+|death_place      = [[Lavagna]], [[Italy]]
+|nationality      = Italian
+|institution      = [[Roma Tre University|University of Rome III]]
+|field            = [[Economics]]
+|alma_mater       = [[University of Pavia]], [[University of Cambridge]]
+|influences       = [[Piero Sraffa]]
+|repec_prefix = f | repec_id = pga481
+}}
+
+'''Pierangelo Garegnani''' (1930–2011) was an [[Italy|Italian]] [[economist]] and [[professor]] of the [[Roma Tre University|University of Rome III]].<ref>{{cite web|url=http://host.uniroma3.it/dipartimenti/economia/it/index.asp?se=Personale&id=1012&incd=docenti|title=Docenti e Ricercatori: Pierangelo Garegnani|publisher=Università degli Studi Roma Tre|language=it|accessdate=28 June 2010}} {{Dead link|date=April 2019}}</ref> He was the Director of the Fondazione Centro Piero Sraffa di Studi e Documenti at the Federico Caffè School of Economics, and also the [[literary executor]] of the works, documents and papers left by the Italian economist [[Piero Sraffa]] to the [[University of Cambridge|University of Cambridge's]] [[Wren Library, Cambridge|Wren Library]].
+
+Professor Garegnani was one of the leading theoretical critics of [[neoclassical economics]]. He published several books and articles concerning the classical economic theory, from [[David Ricardo|Ricardo]] to Sraffa, as an alternative theoretical foundation to analyse the [[capitalist economy]]. An account of his contributions was published by the [[Royal Economic Society]].<ref>{{cite web|title=Pierangelo Garegnani|accessdate=16 March 2011|publisher=Royal Economic Society|url=http://www.res.org.uk/view/obituariesGaregnani.html}}</ref> During the 1980s, Garegnani worked as a visiting professor at [[The New School]].<ref>{{cite web|title=Pierangelo Garegnani, 1930–2011|url=https://www.hetwebsite.net/het/profiles/garegnani.htm}}</ref>
+
+==Works==
+See list of last works at the IDEAS site: [https://ideas.repec.org/f/pga481.html Information about Pierangelo Garegnani at IDEAS].
+
+==Further reading==
+*Mongiovi, G. and Petri F. (eds.), ''Value, Distribution and capital. Essays in honor of Pierangelo Garegnani'', London, Routledge, {{ISBN|0-415-14277-6}}.
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Garegnani, Pierangelo}}
+[[Category:1930 births]]
+[[Category:2011 deaths]]
+[[Category:Italian economists]]
+[[Category:Roma Tre University faculty]]
+
+
+{{Italy-economist-stub}}

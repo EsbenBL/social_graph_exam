@@ -1,0 +1,78 @@
+{{Use British English|date=July 2014}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox economist
+| name             = William Hewins
+| school_tradition =
+| color            =
+| image       = William Hewins.jpg
+| image_size       =
+| caption    = William Hewins circa 1900
+| birth_date       = {{Birth date|df=yes|1865|5|11}}
+| birth_place      =
+| death_date       = {{Death date and age|df=yes|1931|11|17|1865|5|11}}
+| death_place      =
+| nationality      = [[United Kingdom]]
+| field            = Economics
+| influences       =
+| influenced       =
+| contributions    =
+}}
+'''William Albert Samuel Hewins''' (11 May 1865 – 17 November 1931) was a [[United Kingdom|British]] economist and [[Conservative Party (UK)|Conservative]] politician.<ref name=spartacus>{{cite web|title=William Hewins|url=http://www.spartacus-educational.com/TUlewins.htm|work=British History > History of Socialism|publisher=Spartacus Educational|accessdate=8 December 2013}}</ref> In 1895, he was appointed by [[Sidney Webb]] as the first Director of the [[London School of Economics]], a post he held until 1903.<ref>{{Cite web |url=http://blogs.lse.ac.uk/lsehistory/2015/10/21/lses-first-director-william-hewins/ |title=LSE's first Director – William Hewins}}</ref>
+
+==Family and education==
+Hewins was the son of Samuel Hewins, an iron merchant. He was educated at [[Wolverhampton Grammar School]] and [[Pembroke College, Oxford|Pembroke College]], [[University of Oxford]]. He graduated with a degree in [[mathematics]] and later worked as a university extension lecturer.
+
+==Politics==
+Hewins resigned from teaching to work for [[Joseph Chamberlain]] and his campaign for [[tariff reform]]. He unsuccessfully contested [[Shipley (UK Parliament constituency)|Shipley]] in 1910 and [[Middleton (UK Parliament constituency)|Middleton]] in 1912 but was successfully returned to Parliament for [[Hereford (UK Parliament constituency)|Hereford]] in [[1912 Hereford by-election|a 1912 by-election]]. He served in the [[Coalition Government 1916-1922|coalition government]] of [[David Lloyd George]] as [[Under-Secretary of State for the Colonies]] from 1917 to 1919. He retired from the [[British House of Commons|House of Commons]] before the [[1918 United Kingdom general election|1918 general election]].<ref name=spartacus />
+
+He was invited to represent [[Tory]] opinions as a member of the [[Coefficients (dining club)|Coefficients dining club]] of social reformers, formed by [[Sidney Webb|Sidney]] and [[Beatrice Webb]] in 1902.<ref name=gollin>{{cite book|last=Gollin|first=Alfred M.| author-link = Alfred Gollin |title=No Longer an Island: Britain and the Wright Brothers, 1902–1909|year=1984|publisher=Stanford University Press|location=Stanford, CA|isbn=978-0804712651|page=231|url=https://books.google.com/books?id=xT2rAAAAIAAJ}}</ref>
+
+In later life Hewins wrote articles <ref>{{cite EB1911|wstitle= Economics |volume= 08 | pages = 899&ndash;910 | last1= Hewins |first1= William Albert Samuel |author-link= William Hewins}}</ref> for the ''[[Encyclopædia Britannica]]'' and the ''[[Dictionary of National Biography]]''.<ref>{{cite wikisource|title=Author:William Albert Samuel Hewins}}</ref> He also published among other works ''Trade in Balance'' (1924), ''Empire Restored'' (1927), and the ''Apologia of an Imperialist'' (1929).<ref name=spartacus />
+
+He died on 17 November 1931, at age 66.
+
+==Private life==
+He married Margaret Slater in 1892 and they had three children. Their daughter was [[Nancy Hewins]] who was a theatre director. She founded the first British all-woman set of players.<ref name=dau>{{Cite ODNB|title=Hewins, (Margaret) Nancy (1902–1978), theatre director and actress|url=https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-56707|access-date=2020-10-31|year = 2004|language=en|doi=10.1093/ref:odnb/56707}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+{{wikisource author}}
+* {{Hansard-contribs | mr-william-hewins | William Hewins }}
+
+{{s-start}}
+{{s-edu}}
+{{s-new | office }}
+{{s-ttl | title = [[London School of Economics|Director of the London School of Economics]]
+| years = 1895–1903}}
+{{s-aft | after = [[Halford Mackinder]]}}
+{{s-par|uk}}
+{{succession box
+ | title  = [[Hereford (UK Parliament constituency)|Member of Parliament for Hereford]]
+ | years  = [[1912 Hereford by-election|1912]]–1918
+ | before = [[John Arkwright (Conservative politician)|John Arkwright]]
+ | after  = [[Charles Pulley]]
+}}
+{{s-off}}
+{{succession box
+ | title  = [[Under-Secretary of State for the Colonies]]
+ | years  = 1917–1919
+ | before = [[Sir Arthur Steel-Maitland, 1st Baronet|Arthur Steel-Maitland]]
+ | after  = [[Leo Amery]]
+}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hewins, William Albert Samuel}}
+[[Category:1865 births]]
+[[Category:1931 deaths]]
+[[Category:British economists]]
+[[Category:People associated with the London School of Economics]]
+[[Category:Conservative Party (UK) MPs for English constituencies]]
+[[Category:UK MPs 1910–1918]]
+
+
+{{UK-economist-stub}}
+{{England-Conservative-UK-MP-1860s-stub}}

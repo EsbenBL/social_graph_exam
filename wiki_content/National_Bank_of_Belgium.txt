@@ -1,0 +1,100 @@
+{{Short description|Belgian central bank}}
+{{more citations needed|date=July 2018}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox central bank
+| logo = National Bank of Belgium EN logo.svg
+| image = 
+| image_title = NBB Headquarters
+| bank_name_in_local = ''Nationale Bank van België''<small> {{in lang|nl}}</small><br/>''Banque nationale de Belgique''<small> {{in lang|fr}}</small><br/>''Belgische Nationalbank''<small> {{in lang|de}}</small>
+| headquarters = [[Brussels]]
+| ownership = [[Government of Belgium]] (50%)<br/>[[Public float]] (50%)<ref name="dnbinfo">https://d-nb.info/1138787981/34</ref><br>Traded as: {{Euronext|BNB}}
+| reserves = 8 450 million USD<ref name="dnbinfo"/>
+| established = 5 May 1850
+| president = {{ill|Pierre Wunsch|nl}}
+| leader_title = Governor
+| bank_of = [[Belgium]]
+| currency = 
+| currency_iso = <!--DO NOT add info on currency, rates, printer or mints, as these are controlled by ECB -->
+| website = {{URL|nbb.be}}
+| preceded = 
+}}
+The '''National Bank of Belgium''' ('''NBB'''; {{lang-nl|Nationale Bank van België}}, {{lang-fr|Banque nationale de Belgique}}, {{lang-de|Belgische Nationalbank}}) has been the [[central bank]] of [[Belgium]] since 1850. The National Bank of Belgium was established with 100% private capital by a law of 5 May 1850 as a ''[[naamloze vennootschap]]'' (NV). It is a member of the [[European System of Central Banks]].
+
+The Governor of the National Bank is a member of the Governing Council, the main decision-making body of the Eurosystem, particularly as regards monetary policy; the National Bank of Belgium participates in the preparation and execution of its decisions.
+
+Apart from monetary policy, the National Bank of Belgium takes on other tasks which can be classified as follows:
+*the issuing of euro banknotes
+*the printing of euro banknotes and the placing in circulation of euro coins
+*the management of foreign currency reserves 
+*the collection, circulation and analysis of economic and financial information 
+*the stability of the Belgian financial sector – see also [[Banking, Finance and Insurance Commission (Belgium)|CBFA]]
+*the role of financial ambassador to international economic institutions 
+*services for the Belgian State 
+*services for the Belgian financial sector 
+*services for the general public
+
+50% of the NBB stock is freely traded on [[Euronext Brussels]], the other 50% of the shares are owned by the Belgian government. (400.000 shares in total)
+
+== Governors ==
+{{anchor|Governors}}
+[[File:Réunion du Conseil d'Adm. de la Banque nationale.jpg|thumb|''Meeting of the Administrative Council of the National Bank'' (1918) by {{ill|Herman Richir|fr}}]]
+* [[François-Philippe de Haussy]] (1850–1869)
+* [[Eugène Prévinaire]] (1870–1877)
+* [[André-Eugène Pirson]] (1877–1881)
+* [[Alexandre Jamar]] (1882–1888)
+* [[Eugène Anspach]] (1888–1890)
+* [[Victor Van Hoegaerden]] (1891–1905)
+* [[Théophile de Lantsheere]] (1905–1918)
+* [[Leon Van der Rest]] (1918–1923)
+* [[Fernand Hautain]] (1923–1926)
+* [[Louis Franck (politician)|Louis Franck]] (1926–1937)
+* [[Georges Janssen]] (1938–1941)
+* [[Albert Goffin]] (1941)
+* [[Georges Theunis]] (1941–1944)
+* [[Maurice Frère]] (1944–1957)
+* [[Hubert Ansiaux]] (1957–1971)
+* [[Robert Vandeputte]] (1971–1975)
+* [[Cecil de Strycker]] (1975–1982)
+* [[Jean Godeaux]] (1982–1989)
+* [[Alfons Verplaetse]] (1989–1999)
+* [[Guy Quaden]] (1999–2011)
+* [[Luc Coene]] (2011–2015)
+* {{Interlanguage link multi|Jan Smets|nl}} (2015–2019)
+*Pierre Wunsch (2019–present)<ref name=":0" />
+
+== Vice-Governors ==
+(List to be expanded)
+
+* [[Luc Coene]] (2003–2011)
+* [[Mathias Dewatripont]] (2014–2015)
+* Pierre Wunsch (2015–2019)<ref name=":0">{{cite web|url=https://www.nbb.be/en/cv/pierre-wunsch|title=Pierre Wunsch – nbb.be|website=www.nbb.be}}</ref>
+
+==See also==
+{{Portal|Banks}}
+*[[Belgian franc]]
+*[[Economy of Belgium]]
+*[[Euro]]
+*[[Jonathan-Raphaël Bisschoffsheim]], founder and first President
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category-inline}}
+* {{Official website|http://www.nbb.be/ }} {{in lang|nl|fr|de|en}} 
+* [http://www.nbb.be/libray The Scientific Library of the National Bank of Belgium]{{Dead link|date=April 2020 |bot=InternetArchiveBot |fix-attempted=yes }}
+* {{PM20|FID=co/053056|TEXT=Documents and clippings about|NAME=}}
+
+{{Belgium topics}}
+{{Central banks of the European Union}}
+{{Central banks}}
+{{Authority control}}
+
+[[Category:Economy of Belgium]]
+[[Category:European System of Central Banks|Belgium]]
+[[Category:Central banks|Belgium]]
+[[Category:Banks of Belgium]]
+[[Category:Companies in the BEL Mid Index]]
+[[Category:1850 establishments in Belgium]]
+[[Category:Banks established in 1850]]
+[[Category:Companies based in Brussels]]

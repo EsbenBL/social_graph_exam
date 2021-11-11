@@ -1,0 +1,81 @@
+{{Use dmy dates|date=August 2016}}
+{{Use British English|date=August 2016}}
+{{Infobox officeholder
+| name        = Thomas Attwood
+|honorific-suffix = [[Member of Parliament (United Kingdom)|MP]]
+| image       = Thomas Attwood by G.Sharples 1832.png
+| imagesize   = 250px
+| caption     = 
+| birth_date  = {{birth date|1783|10|6|df=y}}
+| birth_place = [[Halesowen]], [[Shropshire]], [[England]]
+| death_date  = {{death date and age|1856|3|6|1783|10|6|df=y}}
+| death_place = [[Great Malvern]], [[Worcestershire]], [[England]]
+| nickname = King Tom
+| occupation  = Banker, economist, political agitator, Member of Parliament
+| known_for   = 
+| title       = 
+|spouse           = {{marriage|Elizabeth Carless|12 May 1806}}
+| children    = <!-- {{ubl | George de Bosco Attwood | Thomas Aurelius Attwood}} -->
+| relations   = [[Daniel Wakefield (judge)|Daniel Wakefield]] (son-in-law)
+| office          = [[Member of Parliament (United Kingdom)|Member of Parliament]]<br />for [[Birmingham]]
+| term_start = [[1832 United Kingdom general election|1832]]
+| term_end = 1840
+| successor = [[Joshua Scholefield]] and<br />[[George Muntz]] 
+}}
+
+'''Thomas Attwood''' (6 October 1783 – 6 March 1856)<ref>{{Citation|last=Behagg|first=Clive|year=2009|contribution=Attwood, Thomas (1783–1856), ''politician and currency theorist''|contribution-url=http://www.oxforddnb.com/view/article/878|title=Oxford Dictionary of National Biography|edition=Online|publisher=Oxford University Press|url=http://www.oxforddnb.com|access-date=2012-01-21}}</ref> was a British [[banker]], [[economist]], [[political campaigner]] and [[Member of Parliament (United Kingdom)|Member of Parliament]]. He was the leading figure of the [[underconsumption]]ist [[Birmingham School (economics)|Birmingham School]] of economists, and, as the founder of the [[Birmingham Political Union]], the leading figure in the public campaign for the [[Reform Act 1832|Great Reform Act]] of 1832.
+
+==Life and career==
+Thomas Attwood was born in [[Halesowen]], then a detached part of [[Shropshire]], and attended Halesowen Grammar School (now [[Earls High School]]) before being moved to [[Wolverhampton Grammar School]]. On 12 May 1806, Attwood married Elizabeth Carless from Lower Ravenhurst Farm, an area which is now part of the [[Moor Pool]] estate.<ref name=Family>{{cite book|last=Moss|first=David J|title=Thomas Attwood: The Biography of a Radical|url=https://archive.org/details/thomasattwoodbio0000moss|url-access=registration|date=1990|page=[https://archive.org/details/thomasattwoodbio0000moss/page/31 31]|publisher=McGill-Queen's University Press|isbn=0-7735-0708-6}}</ref> They had two sons, George de Bosco Attwood (15 March 1808), who stood unsuccessfully for the [[Walsall (UK Parliament constituency)|Walsall constituency]] in the [[1832 United Kingdom general election|1832 general election]], and Thomas Aurelius Attwood (4 March 1810).<ref name=Family /> Their daughter Angela married [[Daniel Wakefield (judge)|Daniel Wakefield]] with whom she emigrated to New Zealand.<ref>{{cite book |title=An Encyclopaedia of New Zealand |publisher=[[Ministry for Culture and Heritage|Ministry for Culture and Heritage / Te Manatū Taonga]] |url= http://www.teara.govt.nz/en/1966/wakefield-daniel/1 | editor-first=A. H. |editor-last=McLintock |editor-link=Alexander Hare McLintock |access-date= 3 June 2018 |chapter=Wakefield, Daniel}}</ref>
+
+He founded the [[Birmingham Political Union]] in 1830. This was a political organization campaigning for cities, and large towns such as Birmingham, to be directly represented in Parliament. The Birmingham Political Union was foremost among groups lobbying the government for the passage of a [[Reform Bill]] to achieve this aim. The [[Days of May]] in 1832 brought the people's struggle for wider [[enfranchisement]] to a head, and the [[Great Reform Act]] was passed on 15 May 1832. After this success he became one of the first two [[Member of Parliament (United Kingdom)|Members of Parliament]] (MPs) for [[Birmingham (UK Parliament constituency)|Birmingham]] (along with [[Joshua Scholefield]]) on 12 December 1832, a position he held until 1839.
+
+Attwood lived at [[Grove Park, Birmingham|The Grove]], a [[Georgian architecture|Georgian]] house in [[Harborne]], [[Birmingham]], between 1823 and 1846. He died in [[Malvern, Worcestershire|Malvern]], [[Worcestershire]] in 1856.
+
+==Memorials==
+[[File:Thomas Attwood on the steps.jpg|right|upright|thumb|Bronze statue in [[Chamberlain Square]]]]
+[[File:Thomas Attwood statue, Highgate Park, Birmingham.jpg|upright|right|thumb|Statue of Thomas Attwood in Highgate Park, Birmingham]]
+
+A [[grade II listed]] statue of Thomas Attwood by local sculptor [[Peter Hollins]] stood in Calthorpe Park from 1859 to 1974<ref>Dictionary of British Sculptors 1660-1851 by Rupert Gunnis</ref> then moved to Larches Green, Sparkbrook, Birmingham between 1974 and 2008, but is now in store. A 1993 bronze statue sat, having left his plinth, and scattered his bronze pages, on the steps of [[Chamberlain Square]] in Birmingham until 2016 when works to demolish the Central Library and rebuild Chamberlain Square began. The statue was reinstalled in 2020 once the works were completed.
+
+Attwood Street, a residential street in [[Halesowen]], commemorates his achievements.
+
+==See also==
+*[[Peel's Bill]]
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*{{cite book|last=Attwood|first=Thomas|title=Selected economic writings of Thomas Attwood|editor=Frank Whitson Fetter|publisher=The London School of Economics and Political Science|location=London |year=1964}}
+*{{cite book|last=Moss|first=David J|title=Thomas Attwood, the biography of a radical|url=https://archive.org/details/thomasattwoodbio0000moss|url-access=registration|publisher=McGill Queens University Press|location=Montreal |year=1990}}
+
+== External links ==
+* www.thepeoplescharter.co.uk
+*{{Hansard-contribs | mr-thomas-attwood | Thomas Attwood }}
+*[http://www.spartacus-educational.com/CHattwood.htm Biography]
+
+{{s-start}}
+{{s-par|uk}}
+{{s-new | constituency}}
+{{s-ttl
+ | title = [[Member of Parliament (United Kingdom)|Member of Parliament]] for [[Birmingham (UK Parliament constituency)|Birmingham]]
+ | years = [[1832 United Kingdom general election|1832]]–1840
+ | with  = [[Joshua Scholefield]]
+}}
+{{s-aft | after = [[Joshua Scholefield]] and<br />[[George Muntz]] }}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Attwood, Thomas}}
+[[Category:1783 births]]
+[[Category:1856 deaths]]
+[[Category:English economists]]
+[[Category:Members of the Parliament of the United Kingdom for English constituencies]]
+[[Category:People educated at Wolverhampton Grammar School]]
+[[Category:People from Halesowen]]
+[[Category:People from Birmingham, West Midlands]]
+[[Category:UK MPs 1832–1835]]
+[[Category:UK MPs 1835–1837]]
+[[Category:UK MPs 1837–1841]]

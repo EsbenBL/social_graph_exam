@@ -1,0 +1,87 @@
+{{short description|American political scientist}}
+{{Infobox academic
+| honorific_prefix   = <!-- see [[MOS:CREDENTIAL]] and [[MOS:HONORIFIC]] -->
+| name               = George Tsebelis
+| honorific_suffix   = 
+| image              = 
+| image_size         = 
+| alt                = 
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| birth_name         = <!-- use only if different from full/othernames -->
+| birth_date         = <!-- {{birth date and age|YYYY|MM|DD}}  -->
+| birth_place        = 
+| death_date         = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place        = 
+| death_cause        = 
+| region             = 
+| nationality        = [[Greece]]
+| citizenship        = [[United States]]
+| residence          = 
+| other_names        = 
+| occupation         = [[Political scientist]]
+| period             = 
+| known_for          = 
+| home_town          = 
+| title              = 
+| boards             = <!--board or similar positions extraneous to main occupation-->
+| spouse             = 
+| children           = 
+| parents            =
+| relatives          =
+| awards             = [[Fellow of the American Academy of Arts and Sciences]]<!--notable national level awards only-->
+| website            = https://sites.lsa.umich.edu/tsebelis/
+| education          = [[National Technical University of Athens]]<br>[[Sciences Po]]<br>[[Pierre and Marie Curie University]]
+| alma_mater         = [[Washington University in St. Louis]]<!--will often consist of the linked name of the last-attended higher education institution-->
+| thesis_title       = Parties and Activists: A Comparative Study of Parties and Party Systems
+| thesis_url         = https://catalog.wustl.edu:443/record=b1145865~S2
+| thesis_year        = 1985
+| school_tradition   = 
+| doctoral_advisor   = John Sprague
+| academic_advisors  = 
+| influences         = <!--must be referenced from a third party source-->
+| era                = 
+| discipline         = [[Political science]]<!--major academic discipline – e.g. Physicist, Sociologist, New Testament scholar, Ancient Near Eastern Linguist-->
+| sub_discipline     = <!--academic discipline specialist area – e.g. Sub-atomic research, 20th Century Danish specialist, Pauline research, Arcadian and Ugaritic specialist-->
+| workplaces         = [[University of Michigan]]<br>[[University of California, Los Angeles]]<!--full-time positions only, not student positions-->
+| doctoral_students  = [[Amie Kreppel]]<!--only those with WP articles-->
+| notable_students   = <!--only those with WP articles-->
+| main_interests     = 
+| notable_works      = 
+| notable_ideas      = 
+| influenced         = <!--must be referenced from a third party source-->
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| footnotes          = 
+}}
+'''George Tsebelis''' is a Greek-American [[political scientist]] who specializes in [[comparative politics]] and formal modeling.<ref>{{Cite web|title=George Tsebelis Interview|url=https://www.uni-bamberg.de/en/bagss/magazine/the-research-talks/george-tsebelis-interview/|access-date=2021-04-25|website=www.uni-bamberg.de|language=en}}</ref> He is currently Anatol Rapoport Collegiate Professor of Political Science at the [[University of Michigan]].
+
+He received undergraduate degrees in [[engineering]] from the [[National Technical University of Athens]] and in political science from [[Sciences Po]]. He received a [[doctorate]] in [[mathematical statistics]] from [[Pierre and Marie Curie University]] and one in political science from [[Washington University in St. Louis]].<ref>{{Cite web|url = http://www.lsa.umich.edu/polisci/people/faculty/ci.tsebelisgeorge_ci.detail|title = George Tsebelis|date = |accessdate = 13 December 2014|website = |publisher = [[University of Michigan]]|last = |first = }}</ref> Tsebelis was elected as a [[Fellow of the American Academy of Arts and Sciences]] as part of the Academy's 2016 class.<ref>{{Cite web|url=https://lsa.umich.edu/polisci/news-events/all-news/tsebelis-to-join-american-academy-of-arts-and-sciences.html|title=Tsebelis to join American Academy of Arts and Sciences {{!}} U-M LSA Political Science|website=lsa.umich.edu|access-date=2016-12-20}}</ref>
+
+== Veto players theory ==
+Tsebelis developed the theory of "veto players", set out in his best known work, ''[[Veto Players: How Political Institutions Work]]'' (2002).<ref>{{cite journal |last1=Munger |first1=Michael C. |title=Veto Players: How Political Institutions Work |journal=The Independent Review |date=Fall 2004 |volume=9 |issue=2 |url=http://www.independent.org/publications/tir/article.asp?id=468 |accessdate=10 November 2018}}</ref>
+
+== See also ==
+* [[Agenda-setting theory]]
+
+== References ==
+<references/>
+
+==External links==
+* [http://www.pupress.princeton.edu/titles/7419.html ''Veto Players: How Political Institutions Work''] at [[Princeton University Press]]
+* [https://mcommunity.umich.edu/#profile:tsebelis Tsebelis' homepage]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tsebelis, George}}
+[[Category:American people of Greek descent]]
+[[Category:American political scientists]]
+[[Category:Greek political scientists]]
+[[Category:Living people]]
+[[Category:University of Michigan faculty]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{polisci-bio-stub}}

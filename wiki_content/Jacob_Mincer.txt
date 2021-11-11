@@ -1,0 +1,97 @@
+{{more citations needed|date=February 2013}}
+{{Infobox economist
+| name             = Jacob Mincer
+| school_tradition = [[Chicago School of Economics]]
+
+| image       = Jacob Mincer.jpg
+| image_size       = 200px
+| caption    =
+| birth_date       = {{Birth date|1922|07|15}}
+| birth_place      = [[Tomaszow Lubelski|Tomaszów Lubelski]], [[Second Polish Republic|Poland]]
+| death_date       = {{Death date and age|2006|08|20|1922|07|15}}
+| death_place      = [[New York City]], [[New York (state)|New York]], U.S.
+| nationality      = Polish-American
+| institution      = [[National Bureau of Economic Research|NBER]] (1960–2006)<br>[[Columbia University]] (1959–91)
+| field            = [[Labour economics]]
+| alma_mater       = [[Columbia University]] <small>(Ph.D.)</small><br>[[Emory University]] <small>(B.A.)</small>
+| doctoral_advisor = [[George Stigler]]<br>[[Harold Barger]]
+| academic_advisors =
+| doctoral_students = [[Reuben Gronau]]<br>[[George Borjas]]
+| notable_students =
+| influences       = [[H. Gregg Lewis]]
+| influenced       = [[Gary Becker]]
+| contributions    = Idea of [[human capital]]<br>[[Labour economics]]
+| awards           = [[IZA Prize in Labor Economics]] (2002)
+| signature        = <!-- file name only -->
+| repec_prefix =   | repec_id =
+}}
+'''Jacob Mincer''' (July 15, 1922 – August 20, 2006), was a father of modern [[labor economics]]. He was [[Joseph L. Buttenwieser]] Professor of Economics and Social Relations at [[Columbia University]] for most of his active life.
+
+==Biography==
+Born in [[Tomaszów Lubelski]], [[Poland]], Mincer survived World War II [[internment|prison camps]] in [[Czechoslovakia]] and [[Germany]] as a teenager.  After graduating from [[Emory University]] in 1950, Mincer received his Ph.D. from [[Columbia University]] in 1957.
+
+Following teaching stints at [[City College of New York]], [[Hebrew University]], [[Stockholm School of Economics]] and the [[University of Chicago]], Mincer joined Columbia's faculty where he stayed until his retirement in 1991.
+
+Mincer was also a member of the [[National Bureau of Economic Research]] from 1960 through his death.
+
+Mincer died at his [[Manhattan]] home on August 20, 2006, due to complications from [[Parkinson's disease]], according to his wife, Dr. Flora Mincer, and his daughters, Deborah Mincer (Sussman) and Carolyn Mincer.
+
+==Contributions to economic science==
+Mincer was considered by many to be a father of modern [[labor economics]].<ref name="Grossbard on Mincer">Shoshana Grossbard (ed.), Jacob Mincer, A Pioneer of Modern Labor Economics. New York: Springer, 2006.</ref><ref name="Columbia News">{{cite web |title=Remembered: Jacob Mincer, Father of Modern Labor Economics |url=http://www.columbia.edu/cu/news/06/09/mincer.html |date=September 1, 2006 |work=Columbia News }}</ref> As a leading member of a group of economists known as the [[Chicago School of Economics]], Mincer and Nobel Laureate [[Gary Becker]] helped to develop the empirical foundations of [[human capital]] theory, consequently revolutionizing the field of labor economics.
+
+During his academic career, Mincer authored four books and hundreds of journal articles, papers and essays.  Mincer's ground-breaking work: ''Schooling, Experience and Earnings'', published in 1974, used data from the 1950 and 1960 Censuses to relate income distribution in America to the varying amounts of education and on-the-job training among workers. "He calculated, for example, that annual earnings rose by 5 to 10 percent in the 1950s and 1960s for every year of additional schooling. There was a similar, although smaller, return on investment in job training—and age played a role."<ref name="New York Times Obit">{{cite news |first=Louis |last=Uchitelle | author-link = Louis Uchitelle |title=Jacob Mincer, 84, Pioneer On Labor Economics, Dies |url=https://query.nytimes.com/gst/fullpage.html?res=9507E6D7123EF930A1575BC0A9609C8B63 |work=New York Times |date=August 23, 2006 }}</ref>
+
+Mincer's work continues to have a profound impact on the field of labor economics.  Papers in the field frequently use [[Mincerian equations]], which model wages as a function of [[human capital]] in [[statistical estimation]].  And as a result of Mincer's pioneering work, variables such as schooling and work experience are now the most commonly used measures of human capital.
+
+==Awards and prizes==
+In 1967 Mincer was elected as a [[Fellow of the American Statistical Association]].<ref>[http://www.amstat.org/awards/fellowslist.cfm View/Search Fellows of the ASA], accessed 2016-08-20.</ref>
+
+In 1991, he received an [[honorary degree|honorary]] [[Doctor of Laws]] degree from the [[University of Chicago]] which recognized his seminal work in the economic analysis of earnings and [[Economic inequality|inequality]], the [[labor force]] decisions of women and of [[Job (role)|job]] mobility. The citation for the degree also recognized Mincer's work in this area that has helped guide a generation of economists who study these important social questions.
+
+In recognition of his lifetime achievements in economics, Mincer was awarded the first [[Institute for the Study of Labor#IZA Prize in Labor Economics|IZA Prize in Labor Economics]] of the [[Institute for the Study of Labor]] ([[Bonn]], Germany). The $50,000 prize was presented to Mincer by more than 100 of his former students at a conference at Columbia University in 2002.
+
+In 2004 Mincer received a Career Achievement Award from the University of Chicago's Society of Labor Economists; the annual award has subsequently become known as the [[Jacob Mincer Award|Mincer Award]].
+
+Mincer was never awarded a [[Nobel Prize in Economics|Nobel Prize]], though he was considered one of the world's greatest economists of the 20th century, and was nominated for the award numerous times by admiring colleagues.
+
+==Quotes regarding Mincer==
+{{quote|..the decade Jacob and I spent working together was surely one of the most, if not the most exciting and fruitful in my life.|[[Gary Becker]], 2006<ref name="Grossbard on Mincer"/>}}
+
+{{quote|The close blending of theory and data represented in Mincer's work has shaped the direction of labor economics and influenced and inspired all those who have followed him.|[[David Card]], 2006<ref name="New York Times Obit"/>}}
+
+{{quote|His very simple formulation basically fits the data for understanding how earnings are related to educational attainment in virtually every country in every time period.|[[Lawrence F. Katz]], 2006<ref name="New York Times Obit"/>}}
+
+==Selected bibliography==
+
+;Book chapters
+* {{citation | last = Mincer | first = Jacob | contribution = Labor force participation of married women: a study of labor supply | editor-last = Lewis | editor-first = H. Greg | title = Aspects of labor economics | pages = 63–105 | publisher = Princeton University Press | location = Princeton | year = 1962 | postscript = .}}
+::''Reprinted as'': {{citation | last = Mincer | first = Jacob | contribution = Labor force participation of married women: a study of labor supply | editor-last = Humphries | editor-first = Jane | editor-link = Jane Humphries | title = Gender and economics | pages = [https://archive.org/details/gendereconomics0000unse/page/211 211–253] | publisher = Edward Elgar | location = Aldershot, England Brookfield, Vermont, USA | year = 1995 | isbn = 9781852788438 | postscript = . | url = https://archive.org/details/gendereconomics0000unse/page/211 }}
+* {{citation | last1 = Mincer | first1 = Jacob | last2 = Polachek | first2 = Solomon | contribution = Family investments in human capital: earnings of women (1974) | editor-last = Humphries | editor-first = Jane | editor-link = Jane Humphries | title = Gender and economics | pages = [https://archive.org/details/gendereconomics0000unse/page/317 317–349] | publisher = Edward Elgar | location = Aldershot, England Brookfield, Vermont, USA | year = 1995 | isbn = 9781852788438 | postscript = . | url = https://archive.org/details/gendereconomics0000unse/page/317 }}
+
+;Journal articles
+* {{Cite journal | last1 = Mincer | first1 = Jacob | last2 =  Polachek | first2 = Solomon | title = Family investments in human capital: earnings of women | journal = Journal of Political Economy | volume = 82 | issue = 2 | pages = s76–s108 | doi = 10.1086/260293 | jstor = 1829993 | date = March–April 1974 | s2cid = 154095476 | url = http://www.nber.org/chapters/c2973.pdf }}
+
+==Notes==
+{{Reflist}}
+
+==External links==
+* IZA ([[Institute for the Study of Labor]]) Prize in Labor Economics [https://web.archive.org/web/20160303220422/http://www.iza.org/index_html?lang=en&mainframe=http%3A%2F%2Fwww.iza.org%2Fen%2Fwebcontent%2Fen%2Fwebcontent%2Fprize%2Fprize2003%2Fiza_prize&topSelect=prize]
+* University of Chicago's Society of Labor Economists Mincer Award [https://web.archive.org/web/20070927010333/http://client.norc.org/jole/SOLEweb/Mincer-award.htm]
+
+{{Chicago school economists}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mincer, Jacob}}
+[[Category:1922 births]]
+[[Category:2006 deaths]]
+[[Category:Columbia University alumni]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:American people of Polish-Jewish descent]]
+[[Category:20th-century American economists]]
+[[Category:Labor economists]]
+[[Category:Columbia University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Polish emigrants to the United States]]

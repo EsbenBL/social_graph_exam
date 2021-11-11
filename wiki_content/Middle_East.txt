@@ -1,0 +1,636 @@
+{{Short description|Region encompassing Western Asia and North Africa}}{{Distinguish|West Asia}}{{Other uses}}
+{{pp-move-indef}}
+{{pp-30-500|small=yes}}
+{{more citations needed|date=April 2019}}
+{{Coord|29|N|41|E|type:country_source:wikidata|display=title}}
+{{Infobox continent
+| title      =  Middle East
+| image      = [[File:Middle East (orthographic projection).svg|220px|Middle East]]
+| caption    = {{legend|#346733|Location of the Middle East}}{{legend|#008000|[[Greater Middle East]]}}{{legend|#73ED73|Areas sometimes included}}
+| area       = {{convert|7207575|km2|sqmi|abbr=on}}
+| population = 371 million (2010)<ref>Population 1971–2010 ([http://iea.org/co2highlights/co2highlights.pdf pdf] {{webarchive|url=https://web.archive.org/web/20120106205757/http://iea.org/co2highlights/co2highlights.pdf |date=2012-01-06 }} p. 89) IEA (OECD/ World Bank) (original population ref OECD/ World Bank e.g. in IEA Key World Energy Statistics 2010 p. 57)</ref>
+| countries  = {{Collapsible list
+| titlestyle = background:transparent;text-align:left;font-weight:normal;
+| title      = [[Member states of the United Nations|UN member states]] (16)
+| {{flag|Bahrain}}
+| {{flag|Cyprus}}
+| {{flag|Egypt}}
+| {{flag|Iran}}
+| {{flag|Iraq}}
+| {{flag|Israel}}
+| {{flag|Jordan}}
+| {{flag|Kuwait}}
+| {{flag|Lebanon}}
+| {{flag|Oman}}
+| {{flag|Qatar}}
+| {{flag|Saudi Arabia}}
+| {{flag|Syria}}
+| {{flag|Turkey}}
+| {{flag|United Arab Emirates}}
+| {{flag|Yemen}}
+ }}
+ {{Collapsible list
+|titlestyle     = background:transparent;text-align:left;font-weight:normal;
+|title          = [[United Nations General Assembly observers#Present non-member observers|UN observer state]] (1)
+| {{flag|State of Palestine}}
+ }}
+ {{Collapsible list
+|titlestyle     = background:transparent;text-align:left;font-weight:normal;
+|title          = [[List of states with limited recognition|Disputed]] (1)
+| {{flag|Northern Cyprus}}
+ }}
+|dependencies   = {{Collapsible list
+|titlestyle     = background:transparent;text-align:left;font-weight:normal;
+|title          = [[Dependent territory|External]] (1)
+| {{Flag|Akrotiri and Dhekelia|name=Sovereign Base Areas of Akrotiri and Dhekelia}}
+ }}
+ {{Collapsible list
+|titlestyle     = background:transparent;text-align:left;font-weight:normal;
+|title          = [[Territory|Internal]] (3)
+| {{flag|Gaza Strip}}
+| {{flag|Kurdistan Region}}
+| {{flag|Autonomous Administration of North and East Syria|name=Rojava}}
+ }}
+ {{Collapsible list
+|titlestyle     = background:transparent;text-align:left;font-weight:normal;
+|title          = [[List of territorial disputes|Disputed]] (2)
+| {{noflag|[[Golan Heights]]}}
+| {{noflag|[[West Bank]]}}
+ }}
+ {{Collapsible list
+|titlestyle     = background:transparent;text-align:left;font-weight:normal;
+|title          = [[United Nations|UN]] [[Buffer zone|Buffer Zones]] (2)
+| {{flagdeco|United Nations}} [[United Nations Buffer Zone in Cyprus|UNBZC]]
+| {{flagdeco|United Nations}} [[United Nations Disengagement Observer Force#UNDOF Zone|UNDOF Zone]]
+ }}
+| languages  = {{collapsible list
+| titlestyle = background:transparent;text-align:left;font-weight:normal;
+| title      = 60 languages
+| '''Official languages'''
+| [[Arabic]]
+| [[English Language|English]]
+| [[Greek language|Greek]]
+| [[Hebrew language|Hebrew]]
+| [[Kurdish languages|Kurdish]]
+| [[Persian language|Persian]]
+| [[Turkish language|Turkish]]
+| '''Languages without official status''' (spoken by diaspora or other minorities)
+| [[Albanian language|Albanian]]
+| [[Armenian language|Armenian]]
+| [[Abaza language|Abaza]]
+| [[Abkhaz language|Abkhaz]]
+| [[Amharic]]
+| [[Azerbaijani language|Azerbaijani]]
+| [[Balochi language|Balochi]]
+| [[Bosniak language|Bosniak]]
+| [[Chechen language|Chechen]]
+| [[Chinese language|Chinese]]
+| [[Circassian language|Circassian]]
+| [[Crimean Tatar language|Crimean Tatar]]
+| [[Coptic language|Coptic]]
+| [[Domari language|Domari]]
+| [[French Language|French]]
+| [[Balkan Gagauz Turkish]]
+| [[Georgian language|Georgian]]
+| [[Gilaki language|Gilaki]]
+| [[Hungarian language|Hungarian]]
+| [[Hindi]]
+| [[Italian language|Italian]]
+| [[Kazakh language|Kazakh]]
+| [[Kumyk language|Kumyk]]
+| [[Kurbet language|Kurbet]]
+| [[Kyrgyz language|Kyrgyz]]
+| [[Judaeo-Spanish|Judæo-Spanish]]
+| [[Laz language|Laz]]
+| [[Luri language|Lurish]]
+| [[Marathi language|Marathi]]
+| [[Malayalam]]
+| [[Mazanderani language|Mazanderani]]
+| [[Neo-Aramaic languages|Neo-Aramaic]]
+| [[Nobiin language|Nobiin]]
+| [[Qashqai language|Qashqai]]
+| [[Romanian language|Romanian]]
+| [[Russian language|Russian]]
+| [[Siwa language|Siwa]]
+| [[Somali language|Somali]]
+| [[Syriac language|Syriac]]
+| [[Spanish language|Spanish]]
+| [[Punjabi language|Punjabi]]
+| [[Tagalog language|Tagalog]]
+| [[Talysh language|Talysh]]
+| [[Tatar language|Tatar]]
+| [[Thai language|Thai]]
+| [[Turkmen language|Turkmen]]
+| [[Turoyo language|Turoyo]]
+| [[Ukrainian language|Ukrainian]]
+| [[Urdu]]
+| [[Uyghur language|Uyghur]]
+| [[Yiddish language|Yiddish]]
+| [[Zaza language|Zaza]]
+ }}
+| time       = [[UTC+02:00]], [[UTC+03:00]], [[UTC+03:30]], [[UTC+04:00]], [[UTC+04:30]]
+| cities     =  [[Largest metropolitan areas of the Middle East|Largest cities]]: {{ublist|class=nowrap | [[Cairo]] | [[Tehran]] | [[Istanbul]] | [[Baghdad]] | [[Jeddah]] | [[Riyadh]]}}
+}}
+[[File:Middle east.jpg|upright=1.2|thumb|Map of the Middle East between Africa, Europe, Central Asia, and South Asia.]]
+[[File:Middle East map of Köppen climate classification.svg|upright=1.2|thumb|Middle East map of Köppen climate classification.]]
+The '''Middle East''' ({{lang-ar|الشرق الأوسط}}, <small>[[ISO 233]]:</small> {{transl|ar|ash-Sharq al-Awsat}}) is a geopolitical term<ref>Beaumont, Peter; Blake, Gerald H; Wagstaff, J. Malcolm. ''The Middle East: A Geographical Study''. Second Edition. London: David Fulton. 1988.</ref> that commonly refers to the region spanning the [[Levant]], [[Arabian Peninsula]], [[Anatolia]] (including modern [[Turkey]] and [[Cyprus]]), [[Egypt]], [[Iran]] and [[Iraq]].  The term came into widespread usage as a replacement of the term [[Near East]] (as opposed to the [[Far East]]) beginning in the early 20th century. The term "Middle East" has led to some confusion over its changing definitions, and has been viewed by some to be discriminatory<ref name="dont"/> or too [[Eurocentric]].<ref name="hanafi"/> The region includes the vast majority of the territories included in the closely associated definition of [[Western Asia]], but without the [[Caucasus]] and including all of [[Egypt]], and not just the [[Sinai Peninsula]].
+
+Most Middle Eastern countries (13 out of 18) are part of the [[Arab world]]. The [[List of Middle Eastern countries by population|most populous countries in the region]] are Egypt, [[Iran]], and Turkey, while [[Saudi Arabia]] is the largest Middle Eastern country by area. The [[history of the Middle East]] dates back to [[ancient history|ancient times]], with the geopolitical importance of the region being recognized for millennia.<ref>Cairo, Michael F. [https://books.google.nl/books?id=_ukBNxLFNxgC&dq=middle+east+of+high+importance+since+ancient+times&hl=nl&source=gbs_navlinks_s ''The Gulf: The Bush Presidencies and the Middle East''] {{webarchive|url=https://web.archive.org/web/20151222230823/https://books.google.nl/books?id=_ukBNxLFNxgC&dq=middle+east+of+high+importance+since+ancient+times&hl=nl&source=gbs_navlinks_s |date=2015-12-22 }} University Press of Kentucky, 2012 {{ISBN|978-0-8131-3672-1}} p xi.</ref><ref>Government Printing Office. [https://books.google.nl/books?id=UOgvZdjOsb0C&pg=PA177&dq=middle+east+of+high+importance+since+ancient+times&hl=nl&sa=X&ved=0CDMQ6AEwA2oVChMIlNGcnPv5yAIVybMUCh2Sag-6#v=onepage&q=middle%20east%20of%20high%20importance%20since%20ancient%20times&f=false ''History of the Office of the Secretary of Defense: The formative years, 1947–1950''] {{webarchive|url=https://web.archive.org/web/20151222230708/https://books.google.nl/books?id=UOgvZdjOsb0C&pg=PA177&dq=middle+east+of+high+importance+since+ancient+times&hl=nl&sa=X&ved=0CDMQ6AEwA2oVChMIlNGcnPv5yAIVybMUCh2Sag-6 |date=2015-12-22 }} {{ISBN|978-0-16-087640-0}} p 177</ref><ref>Kahana, Ephraim. Suwaed, Muhammad. [https://books.google.nl/books?id=Xoftt29B4soC&pg=PR31&dq=middle+east+of+crucial+importance+since+ancient+times&hl=nl&sa=X&ved=0CFEQ6AEwB2oVChMI-8aUsPr5yAIVxGsUCh3q_wR-#v=onepage&q=middle%20east%20of%20crucial%20importance%20since%20ancient%20times&f=false ''Historical Dictionary of Middle Eastern Intelligence''] {{webarchive|url=https://web.archive.org/web/20151223002634/https://books.google.nl/books?id=Xoftt29B4soC&pg=PR31&dq=middle+east+of+crucial+importance+since+ancient+times&hl=nl&sa=X&ved=0CFEQ6AEwB2oVChMI-8aUsPr5yAIVxGsUCh3q_wR- |date=2015-12-23 }} Scarecrow Press, 13 apr. 2009 {{ISBN|978-0-8108-6302-6}} p. xxxi.</ref> Several major religions have their origins in the Middle East, including [[Judaism]], [[Christianity]], and [[Islam]]. [[Arabs]] constitute the main socioethnic grouping in the region,<ref>{{cite book|url=https://books.google.com/books?id=SPBfnT_E1mgC&q=main+ethnic+groups+in+the+middle+east&pg=PA16|title=Ethnic Groups of Africa and the Middle East: An Encyclopedia|access-date=26 May 2014|url-status=live|archive-url=https://web.archive.org/web/20160424084425/https://books.google.com/books?id=SPBfnT_E1mgC&pg=PA16&lpg=PA16&dq=main+ethnic+groups+in+the+middle+east&source=bl&ots=uGb8t7Re3p&sig=wlU7EbnyjrI4FHgw5H2WTeJvePI&hl=nl&sa=X&ei=JHCDU_HgMInHOeCGgLgK&ved=0CDAQ6AEwADgU#v=onepage&q=Turks&f=false|archive-date=24 April 2016|isbn=978-1-59884-362-0|last1=Shoup|first1=John A.|date=2011-10-31}}</ref> followed by [[Turkish people|Turks]], [[Persian people|Persians]], [[Kurds]], [[Azerbaijanis|Azeris]], [[Copts]], [[Jews]], [[Assyrian people|Assyrians]], [[Iraqi Turkmen]], and [[Greek Cypriots]].
+
+The Middle East generally has a hot, [[arid]] climate, especially in the Peninsula and Egyptian regions. Several major rivers providing [[irrigation]] to support [[agriculture]] in limited areas here such as the [[Nile Delta]] in Egypt, the [[Tigris]] and [[Euphrates]] watersheds of [[Mesopotamia]] ([[Iraq]], [[Kuwait]], and eastern [[Syria]]), and most of what is known as the [[Fertile Crescent]]. Conversely the Levantine coast and most of Turkey have more temperate, oceanic and wetter climates. Most of the countries that border the [[Persian Gulf]] have vast reserves of [[petroleum]], with monarchs of the [[Arabian Peninsula]] in particular benefiting economically from petroleum exports. Because of the arid climate and heavy reliance on the fossil fuel industry, the Middle East is both [[Climate change in the Middle East and North Africa|a heavy contributor to climate change]] and [[Climate change in the Middle East and North Africa|a region expected to be severely negatively impacted by it.]]
+
+Other concepts of the region exist including the broader the [[MENA|Middle East and North Africa]] (MENA), which includes states of the [[Maghreb]] and [[Sudan]], or the "[[Greater Middle East]]" which additionally also includes parts of [[East Africa]], [[Afghanistan]], [[Pakistan]], and sometimes [[Transcaucasia]] and [[Central Asia]].
+
+==Terminology==
+The term "Middle East" may have originated in the 1850s in the British [[India Office]].{{Sfn | Beaumont | Blake | Wagstaff | 1988 | p = 16}} However, it became more widely known when [[United States|American]] naval strategist [[Alfred Thayer Mahan]] used the term in 1902<ref>{{cite journal | last =Koppes | first = CR |title = Captain Mahan, General Gordon and the origin of the term "Middle East" |journal=Middle East Studies |volume=12 |pages= 95–98 |year= 1976 |doi = 10.1080/00263207608700307}}</ref> to "designate the area between Arabia and India".<ref>{{cite book | last = Lewis | first = Bernard | title= The Middle East and the West |year= 1965 |page=9}}</ref><ref>{{cite book | last = Fromkin | first = David | author-link = David Fromkin | title = A Peace to end all Peace | year = 1989 | page = [https://archive.org/details/peacetoendallpea0000from/page/224 224] | isbn = 978-0-8050-0857-9 | title-link = A Peace to End All Peace }}</ref> During this time the [[British Empire|British]] and [[Russian Empire]]s were vying for influence in [[Central Asia]], a rivalry which would become known as [[The Great Game]]. Mahan realized not only the strategic importance of the region, but also of its center, the [[Persian Gulf]].<ref>{{Citation | last = Melman | first = Billie | url = http://cco.cambridge.org/extract?id=ccol052178140x_CCOL052178140XA010 | publisher = Cambridge | title = Companion to Travel Writing | volume = 6 The Middle East/Arabia | series = Collections Online | access-date = January 8, 2006 | url-status = dead | archive-url = https://web.archive.org/web/20110725125839/http://cco.cambridge.org/extract?id=ccol052178140x_CCOL052178140XA010 | archive-date = July 25, 2011 | date = November 2002 }}.</ref><ref>Palmer, Michael A. ''Guardians of the Persian Gulf: A History of America's Expanding Role in the Persian Gulf, 1833–1992.'' New York: The Free Press, 1992.  {{ISBN|0-02-923843-9}} pp. 12–13.</ref> He labeled the area surrounding the Persian Gulf as the Middle East, and said that after Egypt's [[Suez Canal]], it was the most important passage for Britain to control in order to keep the Russians from advancing towards [[British Raj|British India]].<ref>Laciner, Dr. Sedat. "[http://www.turkishweekly.net/comments.php?id=2117  Is There a Place Called 'the Middle East'?] {{webarchive|url=https://web.archive.org/web/20070220093342/http://www.turkishweekly.net/comments.php?id=2117 |date=2007-02-20 }}", ''The Journal of Turkish Weekly'', June 2, 2006. Retrieved January 10, 2007.</ref> Mahan first used the term in his article "The Persian Gulf and International Relations", published in September 1902 in the ''[[National Review (London)|National Review]]'', a British journal.
+{{Quote | The Middle East, if I may adopt a term which I have not seen, will some day need [[Malta Protectorate|its Malta]], as well as [[Capture of Gibraltar|its Gibraltar]]; it does not follow that either will be in the Persian Gulf.  Naval force has the quality of mobility which carries with it the privilege of temporary absences; but it needs to find on every scene of operation established bases of refit, of supply, and in case of disaster, of security. The British Navy should have the facility to concentrate in force if occasion arise, about [[Aden Province|Aden]], India, and the Persian Gulf.{{Sfn | Adelson | 1995 | pp = 22–23}}}}
+
+Mahan's article was reprinted in ''[[The Times]]'' and followed in October by a 20-article series entitled "The Middle Eastern Question," written by Sir [[Ignatius Valentine Chirol]]. During this series, Sir Ignatius expanded the definition of ''Middle East'' to include "those regions of Asia which extend to the borders of [[India]] or command the approaches to India."{{Sfn | Adelson | 1995 | p = 24}} After the series ended in 1903, ''The Times'' removed quotation marks from subsequent uses of the term.{{Sfn | Adelson | 1995 | p = 26}}
+
+Until [[World War II]], it was customary to refer to areas centered around [[Turkey]] and the eastern shore of the Mediterranean as the "[[Near East]]", while the "[[Far East]]" centered on [[China]],<ref name="davison">{{cite journal | last =Davison | first = Roderic H. |title= Where is the Middle East? |journal= Foreign Affairs | volume = 38 |pages=665–75 |year=1960 |doi=10.2307/20029452 |issue=4| jstor = 20029452 | s2cid = 157454140 | url = https://semanticscholar.org/paper/b0f99025d232494803f84f1a4578d7a11dcf1be2 }}</ref> and the Middle East then meant the area from [[Mesopotamia]] to [[Burma]], namely the area between the Near East and the Far East.{{Citation needed| date=November 2008}} In the late 1930s, the British established the [[Middle East Command]], which was based in [[Cairo]], for its military forces in the region. After that time, the term "Middle East" gained broader usage in Europe and the United States, with the [[Middle East Institute]] founded in [[Washington, D.C.]] in 1946, among other usage.<ref>{{cite book | last =Held | first = Colbert C. |title=Middle East Patterns: Places, Peoples, and Politics | url =https://archive.org/details/middleeastpatter00held_0 | url-access =registration |publisher=Westview Press |year=2000 |page=[https://archive.org/details/middleeastpatter00held_0/page/7 7] |isbn= 978-0-8133-8221-0}}</ref>
+
+The corresponding adjective is ''Middle Eastern'' and the derived noun is ''Middle Easterner''.
+
+While non-Eurocentric terms such "Southwest Asia" or "Swasia" has been sparsedly used, the inclusion of an African country, Egypt, in the definition questions the usefulness of using such terms.<ref>{{Cite journal|jstor=25741178|title=Constructing and naturalizing the Middle Easr|first=Karen|last=Culcasi|journal=[[Geographical Review]]|volume=100|issue=4|year=2010|pages=583–597|doi=10.1111/j.1931-0846.2010.00059.x|s2cid=154611116}}</ref>
+
+===Criticism and usage===
+[[File:Middle East.ogv|thumb|1957 American film about the Middle East]]
+The description ''Middle'' has also led to some confusion over changing definitions. Before the [[World War I|First World War]], "Near East" was used in English to refer to the [[Balkans]] and the [[Ottoman Empire]], while "Middle East" referred to the [[Caucasus]], [[Persia]], and Arabian lands,<ref>https://www.washingtonpost.com/news/worldviews/wp/2016/05/19/the-modern-middle-east-is-actually-only-100-years-old/</ref> and sometimes [[Afghanistan]], [[India]] and others.<ref>{{Cite web|url=https://mideast.unc.edu/where/|title=Where Is the Middle East? &#124; Center for Middle East and Islamic Studies}}</ref> In contrast, "Far East" referred to the countries of [[East Asia]] (e.g. [[China]], [[Japan]], [[Korea]], etc.)
+
+With the disappearance of the Ottoman Empire in 1918, "Near East" largely fell out of common use in English, while "Middle East" came to be applied to the re-emerging countries of the [[Islamic world]]. However, the usage "Near East" was retained by a variety of academic disciplines, including [[archaeology]] and [[ancient history]], where it describes an area identical to the term ''Middle East'', which is not used by these disciplines (see [[Ancient Near East]]).
+
+The first official use of the term "Middle East" by the [[Federal government of the United States|United States government]] was in the 1957 [[Eisenhower Doctrine]], which pertained to the [[Suez Crisis]]. Secretary of State [[John Foster Dulles]] defined the Middle East as "the area lying between and including [[Libya]] on the west and [[Pakistan]] on the east, [[Syria]] and [[Iraq]] on the North and the Arabian peninsula to the south, plus the [[Sudan]] and [[Ethiopia]]."<ref name="davison"/> In 1958, the [[United States Department of State|State Department]] explained that the terms "Near East" and "Middle East" were interchangeable, and defined the region as including only [[Egypt]], [[Syria]], [[Israel]], [[Lebanon]], [[Jordan]], [[Iraq]], [[Saudi Arabia]], [[Kuwait]], [[Bahrain]], and [[Qatar]].<ref>{{cite news |title= 'Near East' is Mideast, Washington Explains |url= http://select.nytimes.com/gst/abstract.html?res=F70E10FC3D59127A93C6A81783D85F4C8585F9&scp=1&sq='Near%20East'%20is%20Mideast,%20Washington%20Explains&st=cse |newspaper= The New York Times |date= August 14, 1958 |access-date= 2009-01-25 |url-status=live |archive-url= https://web.archive.org/web/20091015044505/http://select.nytimes.com/gst/abstract.html?res=F70E10FC3D59127A93C6A81783D85F4C8585F9&scp=1&sq=%27Near%20East%27%20is%20Mideast%2C%20Washington%20Explains&st=cse |archive-date= October 15, 2009 }}{{subscription required}}</ref>
+
+Middle East has also been rejected as a colonialist and racist term.<ref name="dont">{{cite web |last=Khraish |first=Louay |title=Don't Call Me Middle Eastern |publisher=Raseef 22|url=https://raseef22.net/article/1083546-dont-call-me-middle-eastern|archive-date=2007-03-12 }}</ref>
+
+The [[Associated Press]] Stylebook says that Near East formerly referred to the farther west countries while Middle East referred to the eastern ones, but that now they are synonymous. It instructs:
+<blockquote>Use ''Middle East'' unless ''Near East'' is used by a source in a story. ''Mideast'' is also acceptable, but ''Middle East'' is preferred.<ref>Goldstein, Norm. ''The Associated Press Stylebook and Briefing on Media Law''. New York: Basic Books, 2004. {{ISBN|0-465-00488-1}} p. 156</ref></blockquote>
+
+The term ''Middle East'' has also been criticised as [[Eurocentric]] ("based on a British Western perception") by Hanafi (1998).<ref name="hanafi">{{cite web |last=Hanafi |first=Hassan |title=The Middle East, in whose world? (Primary Reflections) |url=http://www.smi.uib.no/pao/hanafi.html |publisher=Nordic Society for Middle Eastern Studies (The fourth Nordic conference on Middle Eastern Studies: The Middle East in globalizing world Oslo, 13–16 August 1998) |url-status=dead |archive-url=https://web.archive.org/web/20061008121436/http://www.smi.uib.no/pao/hanafi.html |archive-date=8 October 2006 }} ("unedited paper as given at the Oslo conference. An updated and edited version has been published in Utvik and Vikør, The Middle East in a Globalized World, Bergen/London 2000, 1–9. Please quote or refer only to the published article")
+"The expression Middle East is an old British label based on a British Western perception of the East divided into middle or near and far".
+see also {{cite web |last=Shohat |first=Ella |title=Redrawing American Cartographies of Asia |url=http://commposite.uqam.ca/videaz/docs/elshen.html |publisher=City University of New York |access-date=2007-01-12 |url-status=dead |archive-url=https://web.archive.org/web/20070312062752/http://commposite.uqam.ca/videaz/docs/elshen.html |archive-date=2007-03-12 }}</ref>
+
+===Translations===
+There are terms similar to ''Near East'' and ''Middle East'' in other European languages, but since it is a relative description, the meanings depend on the country and are different from the English terms generally. In [[German language|German]] the term ''[[:de:Naher Osten|Naher Osten]]'' (Near East) is still in common use (nowadays the term ''Mittlerer Osten'' is more and more common in press texts translated from English sources, albeit having a distinct meaning) and in [[Russian language|Russian]] [[:ru:Ближний Восток|Ближний Восток]] or ''Blizhniy Vostok'', [[Bulgarian language|Bulgarian]] [[:bg:Близък Изток|Близкия Изток]], [[Polish language|Polish]] ''[[:pl:Bliski Wschód|Bliski Wschód]]'' or [[Croatian language|Croatian]] ''[[:hr:Bliski istok|Bliski istok]]'' (meaning ''Near East'' in all the four Slavic languages) remains as the only appropriate term for the region. However, some languages do have "Middle East" equivalents, such as the [[French language|French]] [[:fr:Moyen-Orient|Moyen-Orient]], [[Swedish language|Swedish]] [[:sv:Mellanöstern|Mellanöstern]], [[Spanish language|Spanish]] [[:es:Oriente Medio|Oriente Medio or Medio Oriente]], and the [[Italian language|Italian]] [[:it:Medio Oriente|Medio Oriente]].<ref group="note">In Italian, the expression "Vicino Oriente" (Near East) was also widely used to refer to Turkey, and ''Estremo Oriente'' (Far East or Extreme East) to refer to all of Asia east of Middle East</ref>
+
+Perhaps because of the influence of the Western press, the Arabic equivalent of ''Middle East'' (Arabic: الشرق الأوسط  ''ash-Sharq al-Awsaṭ'') has become standard usage in the mainstream Arabic press, comprising the same meaning as the term "Middle East" in North American and Western European usage. The designation, ''[[Mashriq]]'', also from the Arabic root for ''East'', also denotes a variously defined region around the [[Levant]], the eastern part of the Arabic-speaking world (as opposed to the ''[[Maghreb]]'', the western part).<ref>{{cite book |author=Anderson, Ewan W., William Bayne Fisher |title=The Middle East: Geography and Geopolitics |publisher=Routledge |year=2000 |pages=12–13}}</ref> Even though the term originated in the West, apart from Arabic, other languages of countries of the Middle East also use a translation of it. The [[Persian language|Persian]] equivalent for Middle East is خاورمیانه (''Khāvar-e miyāneh''), the Hebrew is המזרח התיכון (''hamizrach hatikhon''), the Turkish is Orta Doğu and the Greek is Μέση Ανατολή (''Mesi Anatoli'').
+
+==Territories and regions==
+{{main list|List of Middle Eastern countries by population}}
+
+===Territories and regions usually considered within the Middle East===
+Traditionally included within the Middle East are [[Iran]] (Persia), [[Asia Minor]], [[Mesopotamia]], the [[Levant]], the [[Arabian Peninsula]], and [[Egypt]]. In modern-day-country terms they are these:
+
+{|class ="wikitable sortable" style="text-align: center";
+!class="unsortable"| [[Armorial of Europe|Arms]]
+!class="unsortable"| [[Flags of Europe|Flag]]
+! State
+! [[List of countries by area|Area]]<br />(km<sup>2</sup>)
+! [[List of countries by population|Population]]<br />(2012){{update inline|date=March 2020}}
+! [[List of countries by population density|Density]]<br />(per km<sup>2</sup>)
+! [[Capital city|Capital]]
+! [[List of countries by GDP (nominal)|Nominal<br />GDP]], {{abbr|bn|billions}} (2018)<ref name="GDP IMF">{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?sy=2018&ey=2018&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C668%2C914%2C672%2C612%2C946%2C614%2C137%2C311%2C546%2C213%2C674%2C911%2C676%2C314%2C548%2C193%2C556%2C122%2C678%2C912%2C181%2C313%2C867%2C419%2C682%2C513%2C684%2C316%2C273%2C913%2C868%2C124%2C921%2C339%2C948%2C638%2C943%2C514%2C686%2C218%2C688%2C963%2C518%2C616%2C728%2C223%2C836%2C516%2C558%2C918%2C138%2C748%2C196%2C618%2C278%2C624%2C692%2C522%2C694%2C622%2C962%2C156%2C142%2C626%2C449%2C628%2C564%2C228%2C565%2C924%2C283%2C233%2C853%2C632%2C288%2C636%2C293%2C634%2C566%2C238%2C964%2C662%2C182%2C960%2C359%2C423%2C453%2C935%2C968%2C128%2C922%2C611%2C714%2C321%2C862%2C243%2C135%2C248%2C716%2C469%2C456%2C253%2C722%2C642%2C942%2C643%2C718%2C939%2C724%2C734%2C576%2C644%2C936%2C819%2C961%2C172%2C813%2C132%2C726%2C646%2C199%2C648%2C733%2C915%2C184%2C134%2C524%2C652%2C361%2C174%2C362%2C328%2C364%2C258%2C732%2C656%2C366%2C654%2C144%2C336%2C146%2C263%2C463%2C268%2C528%2C532%2C923%2C944%2C738%2C176%2C578%2C534%2C537%2C536%2C742%2C429%2C866%2C433%2C369%2C178%2C744%2C436%2C186%2C136%2C925%2C343%2C869%2C158%2C746%2C439%2C926%2C916%2C466%2C664%2C112%2C826%2C111%2C542%2C298%2C967%2C927%2C443%2C846%2C917%2C299%2C544%2C582%2C941%2C474%2C446%2C754%2C666%2C698&s=NGDPD&grp=0&a=&pr.x=32&pr.y=12|title=World Economic Outlook Database|date=10 April 2019|publisher=[[International Monetary Fund]]|access-date=May 14, 2019}}</ref>
+! [[List of countries by GDP (nominal) per capita|Per capita]] (2018)<ref name="GDP-capita IMF">{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?sy=2018&ey=2018&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C668%2C914%2C672%2C612%2C946%2C614%2C137%2C311%2C546%2C213%2C674%2C911%2C676%2C314%2C548%2C193%2C556%2C122%2C678%2C912%2C181%2C313%2C867%2C419%2C682%2C513%2C684%2C316%2C273%2C913%2C868%2C124%2C921%2C339%2C948%2C638%2C943%2C514%2C686%2C218%2C688%2C963%2C518%2C616%2C728%2C223%2C836%2C516%2C558%2C918%2C138%2C748%2C196%2C618%2C278%2C624%2C692%2C522%2C694%2C622%2C962%2C156%2C142%2C626%2C449%2C628%2C564%2C228%2C565%2C924%2C283%2C233%2C853%2C632%2C288%2C636%2C293%2C634%2C566%2C238%2C964%2C662%2C182%2C960%2C359%2C423%2C453%2C935%2C968%2C128%2C922%2C611%2C714%2C321%2C862%2C243%2C135%2C248%2C716%2C469%2C456%2C253%2C722%2C642%2C942%2C643%2C718%2C939%2C724%2C734%2C576%2C644%2C936%2C819%2C961%2C172%2C813%2C132%2C726%2C646%2C199%2C648%2C733%2C915%2C184%2C134%2C524%2C652%2C361%2C174%2C362%2C328%2C364%2C258%2C732%2C656%2C366%2C654%2C144%2C336%2C146%2C263%2C463%2C268%2C528%2C532%2C923%2C944%2C738%2C176%2C578%2C534%2C537%2C536%2C742%2C429%2C866%2C433%2C369%2C178%2C744%2C436%2C186%2C136%2C925%2C343%2C869%2C158%2C746%2C439%2C926%2C916%2C466%2C664%2C112%2C826%2C111%2C542%2C298%2C967%2C927%2C443%2C846%2C917%2C299%2C544%2C582%2C941%2C474%2C446%2C754%2C666%2C698&s=NGDPDPC&grp=0&a= |title=Report for Selected Countries and Subjects |publisher=[[International Monetary Fund]] |date=April 2019|access-date=May 14, 2019}}</ref>
+! Currency
+! Government
+! Official<br />languages
+|-
+| {{Coat of arms|United Kingdom|size=30px|text=none}}
+| {{flagicon|Akrotiri and Dhekelia|size=45px}}
+| [[Akrotiri and Dhekelia]]
+| style="text-align:right;"| 254
+| style="text-align:right;"| 15,700
+| style="text-align:right;"| N/A
+| [[Episkopi Cantonment|Episkopi]]
+| N/A
+| N/A
+| [[Euro]]
+| ''De facto'' [[stratocracy|stratocratic]] [[Dependent territory|dependency]] under a [[constitutional monarchy]]
+| [[English language|English]]
+|-
+| {{Coat of arms|Bahrain|size=30px|text=none}}
+| {{flagicon|Bahrain|size=45px}}
+| [[Bahrain]]
+| style="text-align:right;"| 780
+| style="text-align:right;"| 1,234,596
+| style="text-align:right;"| 1,582.8
+| [[Manama]]
+| $30.355
+| $25,851
+| [[Bahraini dinar]]
+| [[Absolute monarchy]]
+| [[Arabic language|Arabic]]
+|-
+| {{Coat of arms|Cyprus|size=30px|text=none}}
+| {{flagicon|Cyprus|size=45px}}
+| [[Cyprus]]
+| style="text-align:right;"| 9,250
+| style="text-align:right;"| 1,088,503
+| style="text-align:right;"| 117
+| [[Nicosia]]
+| $24.492
+| $28,340
+| [[Euro]]
+| [[Presidential republic]]
+| [[Greek language|Greek]],<br />[[Turkish language|Turkish]]
+|-
+| {{Coat of arms|Egypt|size=30px|text=none}}
+| {{flagicon|Egypt|size=45px}}
+| [[Egypt]]
+| style="text-align:right;"| 1,010,407
+| style="text-align:right;"| 82,798,000
+| style="text-align:right;"| 90
+| [[Cairo]]
+| $249.559
+| $2,573
+| [[Egyptian pound]]
+| [[Presidential republic]]
+| [[Arabic language|Arabic]]
+|-
+| {{Seal|Iran|size=30px|text=none}}
+| {{flagicon|Iran|size=45px}}
+| [[Iran]]
+| style="text-align:right;"| 1,648,195
+| style="text-align:right;"| 78,868,711
+| style="text-align:right;"| 45
+| [[Tehran]]
+| $452.275
+| $5,491
+| [[Iranian rial]]
+| [[Islamic republic]]
+| [[Persian language|Persian]]
+|-
+| {{Coat of arms|Iraq|size=30px|text=none}}
+| {{flagicon|Iraq|size=45px}}
+| [[Iraq]]
+| style="text-align:right;"| 438,317
+| style="text-align:right;"| 33,635,000
+| style="text-align:right;"| 73.5
+| [[Baghdad]]
+| $226.07
+| $5,930
+| [[Iraqi dinar]]
+| [[Parliamentary republic]]
+|  [[Arabic language|Arabic]],<br />[[Kurdish language|Kurdish]]
+|-
+| {{Coat of arms|Israel|size=30px|text=none}}
+| {{flagicon|Israel|size=45px}}
+| [[Israel]]
+| style="text-align:right;"| 20,770
+| style="text-align:right;"| 7,653,600
+| style="text-align:right;"| 365.3
+| [[Jerusalem]]{{ref|israel|a}}
+| $369.843
+| $41,644
+| [[Israeli new shekel|Israeli shekel]]
+| [[Parliamentary republic]]
+| [[Hebrew language|Hebrew]]
+|-
+| {{Coat of arms|Jordan|size=30px|text=none}}
+| {{flagicon|Jordan|size=45px}}
+| [[Jordan]]
+| style="text-align:right;"| 92,300
+| style="text-align:right;"| 6,318,677
+| style="text-align:right;"| 68.4
+| [[Amman]]
+| $42.371
+| $4,278
+| [[Jordanian dinar]]
+| [[Constitutional monarchy]]
+| [[Arabic language|Arabic]]
+|-
+| {{Coat of arms|Kuwait|size=30px|text=none}}
+| {{flagicon|Kuwait|size=45px}}
+| [[Kuwait]]
+| style="text-align:right;"| 17,820
+| style="text-align:right;"| 3,566,437
+| style="text-align:right;"| 167.5
+| [[Kuwait City]]
+| $141.05
+| $30,839
+| [[Kuwaiti dinar]]
+| [[Constitutional monarchy]]
+| [[Arabic language|Arabic]]
+|-
+| {{Coat of arms|Lebanon|size=30px|text=none}}
+| {{flagicon|Lebanon|size=45px}}
+| [[Lebanon]]
+| style="text-align:right;"| 10,452
+| style="text-align:right;"| 4,228,000
+| style="text-align:right;"| 404
+| [[Beirut]]
+| $56.409
+| $9,257
+| [[Lebanese pound]]
+| [[Parliamentary republic]]
+| [[Arabic language|Arabic]]
+|-
+| {{Seal|Oman|size=30px|text=none}}
+| {{flagicon|Oman|size=45px}}
+| [[Oman]]
+| style="text-align:right;"| 212,460
+| style="text-align:right;"| 2,694,094
+| style="text-align:right;"| 9.2
+| [[Muscat]]
+| $82.243
+| $19,302
+| [[Omani rial]]
+| [[Absolute monarchy]]
+| [[Arabic language|Arabic]]
+|-
+| {{Coat of arms|Palestine|size=30px|text=none|link=State of Palestine}}
+| {{flagicon|Palestine|size=45px}}
+| [[State of Palestine|Palestine]]
+| style="text-align:right;"| 6,220
+| style="text-align:right;"| 4,260,636
+| style="text-align:right;"| 667
+| [[Ramallah]]{{ref|palestine|a}}
+| n/a
+| n/a
+| [[Israeli new shekel|Israeli shekel]],<br />[[Jordanian dinar]]
+| [[Semi-presidential system|Semi-presidential]] [[republic]]
+| [[Arabic language|Arabic]]
+|-
+| {{Seal|Qatar|size=30px|text=none}}
+| {{flagicon|Qatar|size=45px}}
+| [[Qatar]]
+| style="text-align:right;"| 11,437
+| style="text-align:right;"| 1,696,563
+| style="text-align:right;"| 123.2
+| [[Doha]]
+| $192.45
+| $70,780
+| [[Qatari riyal]]
+| [[Absolute monarchy]]
+| [[Arabic language|Arabic]]
+|-
+| {{Seal|Saudi Arabia|size=30px|text=none}}
+| {{flagicon|Saudi Arabia|size=45px}}
+| [[Saudi Arabia]]
+| style="text-align:right;"| 2,149,690
+| style="text-align:right;"| 27,136,977
+| style="text-align:right;"| 12
+| [[Riyadh]]
+| $782.483
+| $23,566
+| [[Saudi riyal]]
+| [[Absolute monarchy]]
+| [[Arabic language|Arabic]]
+|-
+| {{Coat of arms|Syria|size=30px|text=none}}
+| {{flagicon|Syria|size=45px}}
+| [[Syria]]
+| style="text-align:right;"| 185,180
+| style="text-align:right;"| 23,695,000
+| style="text-align:right;"| 118.3
+| [[Damascus]]
+| n/a
+| n/a
+| [[Syrian pound]]
+| [[Presidential republic]]
+| [[Arabic language|Arabic]]
+|-
+| 
+| {{flagicon|Turkey|size=45px}}
+| [[Turkey]]
+| style="text-align:right;"| 783,562
+| style="text-align:right;"| 73,722,988
+| style="text-align:right;"| 94.1
+| [[Ankara]]
+| $766.428
+| $9,346
+| [[Turkish lira]]
+| [[Presidential republic]]
+| [[Turkish language|Turkish]]
+|-
+| {{Coat of arms|United Arab Emirates|size=30px|text=none}}
+| {{flagicon|United Arab Emirates|size=45px}}
+| [[United Arab Emirates]]
+| style="text-align:right;"| 82,880
+| style="text-align:right;"| 8,264,070
+| style="text-align:right;"| 97
+| [[Abu Dhabi]]
+| $424.635
+| $40,711
+| [[Emirati dirham]]
+| [[Federation|Federal]] [[constitutional monarchy]]
+| [[Arabic language|Arabic]]
+|-
+| {{Coat of arms|Yemen|size=30px|text=none}}
+| {{flagicon|Yemen|size=45px}}
+| [[Yemen]]
+| style="text-align:right;"| 527,970
+| style="text-align:right;"| 23,580,000
+| style="text-align:right;"| 44.7
+| [[Sana'a]]{{ref|sanaa|b}}<br />[[Aden]] <small>(provisional)</small>
+| $26.914
+| $872
+| [[Yemeni rial]]
+| [[Provisional government|Provisional]] [[presidential republic]]
+| [[Arabic language|Arabic]]
+|}
+:<small>a. {{note|israel}}{{note|palestine}}[[Jerusalem]] is the [[Jerusalem Law|proclaimed capital of Israel]], which is [[Positions on Jerusalem|disputed]] and the actual location of the [[Knesset]], [[Israeli Supreme Court]], and other governmental institutions of Israel. [[Ramallah]] is the actual location of the government of Palestine, whereas the proclaimed capital of Palestine is [[East Jerusalem]], which is [[Positions on Jerusalem|disputed]].</small>
+:<small>b. {{note|sanaa}}Controlled by the [[Houthis]] due to the [[Yemeni Civil War (2015–present)|ongoing war]]. Seat of government moved to Aden.</small>
+
+===Other definitions of the Middle East===
+{{main|Near East|Greater Middle East}}
+Various concepts are often being paralleled to Middle East, most notably Near East, [[Fertile Crescent]] and the Levant. Near East, Levant and Fertile Crescent are geographic concepts, which refer to large sections of the modern defined Middle East, with Near East being the closest to Middle East in its geographic meaning. Due to it primarily being Arabic speaking, the [[Maghreb]] region of North Africa is sometimes included.
+
+The countries of the [[South Caucasus]]—[[Armenia]], [[Azerbaijan]], and [[Georgia (country)|Georgia]]—are occasionally included in definitions of the Middle East.<ref>{{cite web|url=http://www.gloria-center.org/meria/2000/12/novikova.pdf|title=Armenia and the Middle East|publisher=Middle East Review of International Affairs|date=December 2000|first=Gayane|last=Novikova|access-date=14 August 2014|url-status=live|archive-url=https://web.archive.org/web/20140821001515/http://www.gloria-center.org/meria/2000/12/novikova.pdf|archive-date=21 August 2014}}</ref>
+
+The [[Greater Middle East]] was a [[Political geography|political]] term coined by the [[George W. Bush administration|second Bush administration]] in the first decade of the 21st century,<ref name=haeri>{{Cite news|url=http://www.atimes.com/atimes/Middle_East/FC04Ak06.html|archive-url=https://web.archive.org/web/20040407112015/http://www.atimes.com/atimes/Middle_East/FC04Ak06.html|url-status=unfit|archive-date=2004-04-07|access-date=2008-08-21|title=Concocting a 'Greater Middle East' brew|work=[[Asia Times]]|date=2004-03-03|first=Safa|last=Haeri}}</ref> to denote various countries, pertaining to the [[Muslim world]], specifically [[Iran]], [[Turkey]], [[Afghanistan]] and [[Pakistan]].<ref>Ottaway, Marina & Carothers, Thomas (2004-03-29), [http://www.carnegieendowment.org/publications/index.cfm?fa=view&id=1480 The Greater Middle East Initiative: Off to a False Start] {{webarchive|url=https://web.archive.org/web/20090312061428/http://www.carnegieendowment.org/publications/index.cfm?fa=view&id=1480 |date=2009-03-12 }}, Policy Brief, ''Carnegie Endowment for International Peace'', 29, pp. 1–7</ref> Various [[Central Asian]] countries are sometimes also included.<ref>[http://www.worldatlas.com/webimage/countrys/me.htm Middle East] {{webarchive|url=https://web.archive.org/web/20160415014006/http://www.worldatlas.com/webimage/countrys/me.htm |date=2016-04-15 }} What Is The Middle East And What Countries Are Part of It? worldatlas.com. Retrieved 16 April 2016.</ref>
+
+==History==
+{{main|History of the Middle East}}
+{{see also|Neolithic#Western_Asia|Ancient Near East|History of the Middle East||Uruk period|Kish civilization|Ancient Egypt|History of the ancient Levant|History of Anatolia|History of Iran|Middle Eastern Empires|Pre-Islamic Arabia|List of modern conflicts in the Middle East}}
+[[File:Jerusalem kotel mosque.jpg|thumb|upright|[[Western Wall]] and [[Dome of the Rock]] in [[Jerusalem]]]]
+[[File:Kaaba mirror edit jj.jpg|thumb|The [[Kaaba]], located in [[Mecca]], [[Saudi Arabia]]]]
+
+The Middle East lies at the juncture of [[Eurasia]] and [[Africa]] and of the [[Mediterranean Sea]] and the [[Indian Ocean]]. It is the birthplace and [[Spirituality|spiritual]] center of religions such as [[Christianity]], [[Islam]], [[Judaism]], [[Manichaeism]], [[Yezidi]], [[Druze]], [[Yarsan]] and [[Mandeanism]], and in Iran, [[Mithraism]], [[Zoroastrianism]], [[Manicheanism]], and the [[Baháʼí Faith]]. Throughout its history the Middle East has been a major center of world affairs; a strategically, economically, politically, culturally, and religiously sensitive area. The region is one of the regions were agriculture was independently discovered, and from the Middle East it was spread, during the Neolithic, to different regions of the world such as Europe, the Indus Valley and Eastern Africa.
+
+Prior to the formation of civilizations, advanced cultures formed all over the Middle East during the [[Stone Age]]. The search for agricultural lands by agriculturalists, and pastoral lands by herdsmen meant different migrations took place within the region and shaped its ethnic and demographic makeup.
+
+The Middle East is widely and most famously known as the [[Cradle of civilization]]. The world's earliest civilizations, Mesopotamia ([[Sumer]], [[Akkadian Empire|Akkad]], [[Assyria]] and [[Babylonia]]), [[ancient Egypt]] and [[Kish civilization|Kish]] in the Levant, all originated in the Fertile Crescent and [[Nile]] Valley regions of the ancient Near East. These were followed by the [[Hittites|Hittite]], [[Greeks|Greek]], [[Hurrians|Hurrian]] and [[Urartian]] civilisations of [[Asia Minor]]; [[Elam]], [[History of Iran|Persia]] and [[Medes|Median]] civilizations in [[Iran]], as well as the civilizations of the [[History of the Levant|Levant]] (such as [[Ebla]], [[Mari, Syria|Mari]], [[Tell Brak|Nagar]], [[Ugarit]], [[Canaan]], [[Aramea]], [[Mitanni]], [[Phoenicia]] and [[Israel]]) and the [[Arabian Peninsula]] ([[Majan (civilization)|Magan]], [[Sheba]], [[Iram of the Pillars|Ubar]]). The Near East was first largely unified under the [[Neo Assyrian Empire]], then the [[Achaemenid Empire]] followed later by the [[Macedonian Empire]] and after this to some degree by the [[History of Iran|Iranian empires]] (namely the [[Arsacid Empire|Parthian]] and [[Sassanid Empire]]s), the [[Roman Empire]] and [[Byzantine Empire]]. The region served as the intellectual and economic center of the Roman Empire and played an exceptionally important role due to its periphery on the [[Sassanid Empire]]. Thus, the [[Ancient Rome|Romans]] stationed up to five or six of their legions in the region for the sole purpose of defending it from Sassanid and Bedouin raids and invasions.
+
+From the 4th century CE onwards, the Middle East became the center of the two main powers at the time, the [[Byzantine empire]] and the [[Sassanid Empire]]. However, it would be the later [[Caliphate|Islamic Caliphates]] of the [[Middle Ages]], or [[Islamic Golden Age]] which began with the Islamic conquest of the region in the 7th century AD, that would first unify the entire Middle East as a distinct region and create the dominant [[Islam]]ic [[Arab]] ethnic identity that largely (but not exclusively) persists today. The 4 caliphates that dominated the Middle East for more than 600 years were the [[Rashidun Caliphate]], the [[Umayyad caliphate]], the [[Abbasid caliphate]] and the [[Fatimid caliphate]]. Additionally, the [[Mongols]] would come to dominate the region, the [[Kingdom of Armenia (Antiquity)|Kingdom of Armenia]] would incorporate parts of the region to their domain, the [[Seljuk Empire|Seljuks]] would rule the region and spread Turko-Persian culture, and the [[Franks]] would found the [[Crusader states]] that would stand for roughly two centuries. Josiah Russell estimates the population of what he calls "Islamic territory" as roughly 12.5 million in 1000 – [[Anatolia]] 8 million, [[Syria (region)|Syria]] 2 million, and [[Egypt]] 1.5 million.{{sfn|Russell|1985|p=298}}
+From the 16th century onward, the Middle East came to be dominated, once again, by two main powers: the [[Ottoman Empire]] and the [[Safavid dynasty]].
+
+The modern Middle East began after [[World War I]], when the Ottoman Empire, which was allied with the [[Central Powers]], was defeated by the British Empire and their allies and [[partitioning of the Ottoman Empire|partitioned]] into a number of separate nations, initially under British and French Mandates. Other defining events in this transformation included the establishment of Israel in 1948 and the eventual departure of European powers, notably [[United Kingdom|Britain]] and [[France]] by the end of the 1960s. They were supplanted in some part by the rising influence of the United States from the 1970s onwards.
+
+In the 20th century, the region's significant stocks of [[crude oil]] gave it new strategic and economic importance. Mass production of oil began around 1945, with Saudi Arabia, Iran, Kuwait, Iraq, and the [[United Arab Emirates]] having large quantities of oil.<ref>Goldschmidt (1999), p. 8</ref> Estimated [[Oil reserves#Estimated reserves by country|oil reserves]], especially in Saudi Arabia and Iran, are some of the highest in the world, and the international oil cartel [[OPEC]] is dominated by Middle Eastern countries.
+
+During the Cold War, the Middle East was a theater of ideological struggle between the two superpowers and their allies: [[NATO]] and the United States on one side, and the [[Soviet Union]] and [[Warsaw Pact]] on the other, as they competed to influence regional allies. Besides the political reasons there was also the "ideological conflict" between the two systems. Moreover, as [[Louise Fawcett]] argues, among many important areas of contention, or perhaps more accurately of anxiety, were, first, the desires of the superpowers to gain strategic advantage in the region, second, the fact that the region contained some two-thirds of the world's oil reserves in a context where oil was becoming increasingly vital to the economy of the Western world [...]<ref>Louise, Fawcett. ''International Relations of the Middle East''. (Oxford University Press, New York, 2005)</ref> Within this contextual framework, the United States sought to divert the Arab world from Soviet influence. Throughout the 20th and 21st centuries, the region has experienced both periods of relative peace and tolerance and periods of conflict particularly between [[Sunni]]s and [[Shiite]]s.
+
+==Demographics==
+{{main|Demographics of the Middle East}}
+{{see also|Largest metropolitan areas of the Middle East}}
+[[File:Maunsell&#039;s map, Pre-World War I British Ethnographical Map of eastern Turkey in Asia, Syria and western Persia 01.jpg|thumb|Maunsell's map, a Pre-World War I British Ethnographical Map of the Middle East]]
+
+===Ethnic groups===
+{{main|Ethnic groups in the Middle East}}
+[[Arabs]] constitute the largest ethnic group in the Middle East, followed by various [[Iranian peoples]] and then by [[Turkic people|Turkic speaking groups]] ([[Turkish people|Turkish]], [[Azeris]], and [[Iraqi Turkmen]]). Native ethnic groups of the region include, in addition to Arabs, [[Arameans in Syria|Arameans]], [[Assyrian people|Assyrians]], [[Baloch peoples|Baloch]], [[Berbers]], [[Copts]], [[Druze]], [[Greek Cypriots]], [[Jews]], [[Kurds]], [[Lurs]], [[Mandaeans]], [[Persian people|Persians]], [[Samaritans]], [[Shabak people|Shabaks]], [[Tat people (Iran)|Tats]], and [[Zazas]]. European ethnic groups that form a diaspora in the region include [[Albanians]], [[Bosniaks]], [[Circassians]] (including [[Kabardians]]), [[Crimean Tatars]], [[Greeks]], [[Levantines (Latin Christians)|Franco-Levantines]], [[Levantines (Latin Christians)#Italian Levantines|Italo-Levantines]], and [[Iraqi Turkmens]]. Among other migrant populations are [[Overseas Chinese|Chinese]], [[Filipinos in Saudi Arabia|Filipinos]], [[Indians in Saudi Arabia|Indians]], [[Indonesians in Saudi Arabia|Indonesians]], [[Pakistanis]], [[Pashtuns]], [[Romani people|Romani]], and [[Afro-Arab]]s.
+
+===Migration===
+"Migration has always provided an important vent for labor market pressures in the Middle East. For the period between the 1970s and 1990s, the Arab states of the Persian Gulf in particular provided a rich source of employment for workers from Egypt, Yemen and the countries of the Levant, while Europe had attracted young workers from North African countries due both to proximity and the legacy of colonial ties between France and the majority of North African states."<ref name="Hassan and Dyer">{{cite journal|last1=Hassan|first1=Islam|last2=Dyer|first2=Paul|title=The State of Middle Eastern Youth.|journal=The Muslim World|date=2017|volume=107|issue=1|pages=3–12|url=https://www.academia.edu/31029084|hdl=10822/1042998|url-status=live|archive-url=https://web.archive.org/web/20170403002800/http://www.academia.edu/31029084/The_Muslim_World_CIRS_Special_Issue_The_State_of_Middle_Eastern_Youth|archive-date=2017-04-03|doi=10.1111/muwo.12175}}</ref> According to the [[International Organization for Migration]], there are 13&nbsp;million first-generation migrants from [[Arab nations]] in the world, of which 5.8 reside in other Arab countries. Expatriates from Arab countries contribute to the circulation of financial and human capital in the region and thus significantly promote regional development. In 2009 Arab countries received a total of US$35.1&nbsp;billion in [[remittance]] in-flows and remittances sent to [[Jordan]], [[Egypt]] and [[Lebanon]] from other Arab countries are 40 to 190 per cent higher than trade revenues between these and other Arab countries.<ref>{{cite web |url=http://www.egypt.iom.int/Doc/IOM%20Intra%20regional%20labour%20mobility%20in%20Arab%20region%20Facts%20and%20Figures%20(English).pdf |title=IOM Intra regional labour mobility in Arab region Facts and Figures (English) |access-date=2012-10-31 |url-status=live |archive-url=https://web.archive.org/web/20110430010601/http://www.egypt.iom.int/Doc/IOM%20Intra%20regional%20labour%20mobility%20in%20Arab%20region%20Facts%20and%20Figures%20%28English%29.pdf |archive-date=2011-04-30 }}</ref> In [[Somalia]], the [[Somali Civil War]] has greatly increased the size of the [[Somali diaspora]], as many of the best educated Somalis left for Middle Eastern countries as well as [[Europe]] and [[North America]].
+
+Non-Arab Middle Eastern countries such as [[Turkey]], [[Israel]] and [[Iran]] are also subject to important migration dynamics.
+
+A fair proportion of those migrating from Arab nations are from ethnic and religious minorities facing racial and or religious persecution and are not necessarily ethnic Arabs, Iranians or Turks.{{citation needed|date=September 2012}} Large numbers of [[Kurdish people|Kurds]], [[Jewish people|Jews]], [[Assyrian people|Assyrians]], [[Greek people|Greeks]] and [[Armenian people|Armenians]] as well as many [[Mandean]]s have left nations such as Iraq, Iran, Syria and Turkey for these reasons during the last century. In Iran, many religious minorities such as [[Christians]], [[Baháʼí Faith|Baháʼís]] and [[Zoroastrians]] have left since the [[Iranian Revolution|Islamic Revolution of 1979]].{{citation needed|date=September 2012}}
+
+===Religions===
+{{main|Religion in the Middle East}}
+[[File:Mosque.jpg|thumb|Islam is the largest religion in the Middle East. Here, Muslim men are [[prostration|prostrating]] during prayer in a mosque.]]
+
+The Middle East is very diverse when it comes to [[Major religious groups|religions]], many of which originated there. [[Islam]] is the largest religion in the Middle East, but other faiths that originated there, such as [[Judaism]] and [[Christianity]], are also well represented. Christians represent 40.5% of Lebanon, where the [[President of Lebanon|Lebanese president]], half of the cabinet, and half of the parliament follow one of the various Lebanese Christian rites. There are also important minority religions like the [[Baháʼí Faith]], [[Yarsanism]], [[Yazidis]]m, [[Zoroastrianism]], [[Mandaeism]], [[Druze]], and [[Shabak people#Religious beliefs|Shabakism]], and in ancient times the region was home to [[ancient Mesopotamian religion|Mesopotamian religions]], [[ancient Canaanite religion|Canaanite religions]], [[Manichaeism]], [[Mithraic mysteries|Mithraism]] and various [[monotheist]] [[gnostic]] sects.
+
+===Languages===
+The six top languages, in terms of numbers of speakers, are [[Arabic dialects|Arabic]], [[Persian language|Persian]], [[Turkish language|Turkish]], [[Kurdish languages|Kurdish]], [[Hebrew languages|Hebrew]] and [[Modern Greek|Greek]]. Arabic and Hebrew represent the [[Afro-Asiatic languages|Afro-Asiatic]] [[language family]]. Persian, Kurdish and Greek belong to the [[Indo-European languages|Indo-European]] language family. Turkish belongs to [[Turkic languages|Turkic]] language family. About 20 minority languages are also spoken in the Middle East.
+
+Arabic, with all its dialects, is the most widely spoken language in the Middle East, with [[Modern Standard Arabic|Literary Arabic]] being official in all North African and in most West Asian countries. Arabic dialects are also spoken in some adjacent areas in neighbouring Middle Eastern non-Arab countries. It is a member of the [[Semitic languages|Semitic branch]] of the Afro-Asiatic languages. Several [[Modern South Arabian languages]] such as [[Mehri language|Mehri]] and [[Soqotri language|Soqotri]] are also spoken Yemen and Oman. Another Semitic language such as [[Aramaic language|Aramaic]] and its dialects are spoken mainly by [[Assyrian people|Assyrians]] and [[Mandaeans]]. There is also an [[Berber languages|Oasis Berber]]-speaking community in Egypt where the language is also known as [[Siwa language|Siwa]]. It is a non-Semitic Afro-Asiatic language.
+
+[[Persian language|Persian]] is the second most spoken language. While it is primarily spoken in [[Iran]] and some border areas in neighbouring countries, the country is one of the region's largest and most populous. It belongs to the [[Indo-Iranian languages|Indo-Iranian branch]] of the family of [[Indo-European languages]]. Other Western Iranic languages spoken in the region include [[Achomi language|Achomi]], [[Daylami language|Daylami]], [[Kurdish languages|Kurdish]] dialects, [[Semnani language|Semmani]], [[Luri language|Lurish]], amongst many others.
+
+The third-most widely spoken language, [[Turkish language|Turkish]], is largely confined to Turkey, which is also one of the region's largest and most populous countries, but it is present in areas in neighboring countries. It is a member of the [[Turkic languages]], which have their origins in Central Asia. Another Turkic language, [[Azerbaijani language|Azerbaijani]], is spoken by Azerbaijanis in Iran.
+
+[[Hebrew languages|Hebrew]] is one of the two official languages of [[Israel]], the other being Arabic. Hebrew is spoken and used by over 80% of Israel's population, the other 20% using Arabic.
+
+[[Modern Greek|Greek]] is one of the two official languages of [[Cyprus]], and the country's main language. Small communities of Greek speakers exist all around the Middle East; until the 20th century it was also widely spoken in Asia Minor (being the second most spoken language there, after Turkish) and Egypt. During the antiquity, [[Ancient Greek]] was the [[lingua franca]] for many areas of the western Middle East and until the Muslim expansion it was widely spoken there as well. Until the late 11th century, it was also the main spoken language in [[Asia Minor]]; after that it was gradually replaced by the Turkish language as the Anatolian Turks expanded and the local Greeks were assimilated, especially in the interior.
+
+[[English language|English]] is one of the official languages of Akrotiri and Dhekelia.<ref>{{cite web |title=Europe :: Akrotiri — The World Factbook - Central Intelligence Agency |url=https://www.cia.gov/the-world-factbook/countries/akrotiri/ |website=www.cia.gov|date=25 October 2021 }}</ref><ref>{{cite web |title=Europe :: Dhekelia — The World Factbook - Central Intelligence Agency |url=https://www.cia.gov/the-world-factbook/countries/dhekelia/ |website=www.cia.gov|date=25 October 2021 }}</ref> It is also commonly taught and used as a second language, especially among the [[middle class|middle]] and [[upper class]]es, in countries such as [[Egypt]], [[Jordan]], [[Iran]], [[Kurdistan]], [[Iraq]], [[Qatar]], [[Bahrain]], [[United Arab Emirates]] and [[Kuwait]].<ref>{{cite web |url= https://www.cia.gov/the-world-factbook/countries/jordan/ |title= World Factbook – Jordan |date= 20 October 2021 }}</ref><ref>{{Cite web|url=https://www.cia.gov/the-world-factbook/countries/kuwait/|title=Kuwait|date=October 19, 2021|publisher=Central Intelligence Agency|via=CIA.gov}}</ref> It is also a main language in some Emirates of the United Arab Emirates. It is also spoken as native language by Jewish immigrants from Anglophone countries (UK, USA, Australia) in Israel and understood widely as second language there.
+
+[[French language|French]] is taught and used in many government facilities and media in [[Lebanon]], and is taught in some primary and secondary schools of [[Egypt]] and [[Syria]]. [[Maltese language|Maltese]], a Semitic language mainly spoken in Europe, is also used by the [[Maltese in Egypt|Franco-Maltese diaspora]] in Egypt. Also, due to widespread immigration of [[French Jews]] to [[French Jews in Israel|Israel]], it is the native language of approximately 200,000 Jews of Israel.
+
+[[Armenian language|Armenian]] speakers are also to be found in the region. [[Georgian language|Georgian]] is spoken by the Georgian diaspora. 
+
+[[Russian language|Russian]] is spoken by a large portion of the Israeli population, because of [[Aliyah from the Commonwealth of Independent States in the 1990s|emigration in the late 1990s]].{{sfn|Dowty|2004|p=95}} Russian today is a popular unofficial language in use in [[Israel]]; news, radio and sign boards can be found in Russian around the country after Hebrew and Arabic. [[Northwest Caucasian languages|Circassian]] is also spoken by the diaspora in the region and by almost all Circassians in Israel who speak Hebrew and English as well. 
+
+The largest [[Romanian language|Romanian]]-speaking community in the Middle East is found in [[Israel]], where {{as of|1995|lc=on}} Romanian is spoken by 5% of the population.<ref group="note">According to the 1993 ''Statistical Abstract of Israel'' there were 250,000 Romanian speakers in Israel, at a population of 5,548,523 (census 1995).</ref><ref>{{cite web |url=http://www.eurojewcong.org/ejc/news.php?id_article=110 |title=Reports of about 300,000 Jews that left the country after WW2 |publisher=Eurojewcong.org |access-date=2010-07-07 |url-status=dead |archive-url=https://web.archive.org/web/20100813205116/http://www.eurojewcong.org/ejc/news.php?id_article=110 |archive-date=2010-08-13 }}</ref><ref>{{cite web|url=http://www.evz.ro/article.php?artid=185041 |title=Evenimentul Zilei |publisher=Evz.ro |access-date=2010-07-07 |url-status=dead |archive-url=https://web.archive.org/web/20071224113558/http://www.evz.ro/article.php?artid=185041 |archive-date=2007-12-24 }}</ref>
+
+[[Bengali language|Bengali]], [[Hindi]] and [[Urdu]] are widely spoken by migrant communities in many Middle Eastern countries, such as Saudi Arabia (where 20–25% of the population is South Asian), the United Arab Emirates (where 50–55% of the population is South Asian), and Qatar, which have large numbers of [[Pakistan]]i, [[Bangladesh]]i and [[India]]n immigrants.
+
+==Economy==
+{{main|Economy of the Middle East|Middle East economic integration}}
+{{outdated section|date=December 2016}}
+[[File:Oil and Gas Infrastructure Persian Gulf (large).gif|thumb|upright=1.35|[[Petroleum|Oil]] and [[Natural gas|gas]] pipelines in the Middle-East]]
+
+Middle Eastern economies range from being very poor (such as Gaza and Yemen) to extremely wealthy nations (such as Qatar and UAE). Overall, {{as of|2007|lc=on}}, according to the CIA World Factbook, all nations in the Middle East are maintaining a positive rate of growth.
+
+According to the [[World Bank]]'s ''World Development Indicators'' database published on July 1, 2009, the three largest Middle Eastern economies in 2008 were Turkey ($794,228), Saudi Arabia ($467,601) and Iran ($385,143) in terms of [[List of countries by GDP (nominal)|Nominal GDP]].<ref name=WB-GDP-Nominal>[http://siteresources.worldbank.org/DATASTATISTICS/Resources/GDP.pdf The World Bank: World Economic Indicators Database. ''GDP (Nominal) 2008.''] {{webarchive|url=https://web.archive.org/web/20090912122439/http://siteresources.worldbank.org/DATASTATISTICS/Resources/GDP.pdf |date=2009-09-12 }} Data for 2008. Last revised on July 1, 2009.</ref> Regarding nominal GDP per capita, the highest ranking countries are Qatar ($93,204), the UAE ($55,028), Kuwait ($45,920) and Cyprus ($32,745).<ref>Data refer to 2008. [http://imf.org/external/pubs/ft/weo/2009/02/weodata/weorept.aspx?pr.x=26&pr.y=9&sy=2008&ey=2008&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C941%2C914%2C446%2C612%2C666%2C614%2C668%2C311%2C672%2C213%2C946%2C911%2C137%2C193%2C962%2C122%2C674%2C912%2C676%2C313%2C548%2C419%2C556%2C513%2C678%2C316%2C181%2C913%2C682%2C124%2C684%2C339%2C273%2C638%2C921%2C514%2C948%2C218%2C943%2C963%2C686%2C616%2C688%2C223%2C518%2C516%2C728%2C918%2C558%2C748%2C138%2C618%2C196%2C522%2C278%2C622%2C692%2C156%2C694%2C624%2C142%2C626%2C449%2C628%2C564%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C453%2C960%2C968%2C423%2C922%2C935%2C714%2C128%2C862%2C611%2C716%2C321%2C456%2C243%2C722%2C248%2C942%2C469%2C718%2C253%2C724%2C642%2C576%2C643%2C936%2C939%2C961%2C644%2C813%2C819%2C199%2C172%2C184%2C132%2C524%2C646%2C361%2C648%2C362%2C915%2C364%2C134%2C732%2C652%2C366%2C174%2C734%2C328%2C144%2C258%2C146%2C656%2C463%2C654%2C528%2C336%2C923%2C263%2C738%2C268%2C578%2C532%2C537%2C944%2C742%2C176%2C866%2C534%2C369%2C536%2C744%2C429%2C186%2C433%2C925%2C178%2C746%2C436%2C926%2C136%2C466%2C343%2C112%2C158%2C111%2C439%2C298%2C916%2C927%2C664%2C846%2C826%2C299%2C542%2C582%2C443%2C474%2C917%2C754%2C544%2C698&s=NGDPDPC&grp=0&a= World Economic Outlook Database-October 2009], [[International Monetary Fund]]. Retrieved October 1, 2009.</ref> Turkey ($1,028,897), Iran ($839,438) and Saudi Arabia ($589,531) had the largest economies in terms of [[List of countries by GDP (PPP)|GDP-PPP]].<ref name=WB-GDP-PPP>[http://siteresources.worldbank.org/DATASTATISTICS/Resources/GDP_PPP.pdf The World Bank: World Economic Indicators Database. ''GDP (PPP) 2008.''] {{webarchive|url=https://web.archive.org/web/20140209081011/http://siteresources.worldbank.org/DATASTATISTICS/Resources/GDP_PPP.pdf |date=2014-02-09 }} Data for 2008. Last revised on July 1, 2009.</ref> When it comes to per capita (PPP)-based income, the highest-ranking countries are Qatar ($86,008), Kuwait ($39,915), the UAE ($38,894), Bahrain ($34,662) and Cyprus ($29,853). The lowest-ranking country in the Middle East, in terms of per capita income (PPP), is the autonomous Palestinian Authority of Gaza and the West Bank ($1,100).
+
+The economic structure of Middle Eastern nations are different in the sense that while some nations are heavily dependent on export of only oil and oil-related products (such as Saudi Arabia, the UAE and Kuwait), others have a highly diverse economic base (such as Cyprus, Israel, Turkey and Egypt). Industries of the Middle Eastern region include oil and oil-related products, agriculture, cotton, cattle, dairy, textiles, leather products, surgical instruments, defence equipment (guns, ammunition, tanks, submarines, fighter jets, UAVs, and missiles). Banking is also an important sector of the economies, especially in the case of UAE and Bahrain.
+
+With the exception of Cyprus, Turkey, Egypt, Lebanon and Israel, tourism has been a relatively undeveloped area of the economy, in part because of the socially conservative nature of the region as well as political turmoil in certain regions of the Middle East. In recent years, however, countries such as the UAE, Bahrain, and Jordan have begun attracting greater numbers of tourists because of improving tourist facilities and the relaxing of tourism-related restrictive policies.
+
+Unemployment is notably high in the Middle East and North Africa region, particularly among young people aged 15–29, a demographic representing 30% of the region's total population. The total regional unemployment rate in 2005, according to the [[International Labour Organization]], was 13.2%,<ref>{{cite web |url=http://www.ppionline.org/ppi_ci.cfm?knlgAreaID=108&subsecID=900003&contentID=254026 |title=Unemployment Rates Are Highest in the Middle East |publisher=Progressive Policy Institute |date=August 30, 2006 |url-status=dead |archive-url=https://web.archive.org/web/20100714042307/http://www.ppionline.org/ppi_ci.cfm?knlgAreaID=108&subsecID=900003&contentID=254026 |archive-date=July 14, 2010 |access-date=July 31, 2008 }}</ref> and among youth is as high as 25%,<ref>{{cite web |author1=Navtej Dhillon |author2=Tarek Yousef |url=http://shababinclusion.org/content/document/detail/623/1 |title=Inclusion: Meeting the 100 Million Youth Challenge |publisher=Shabab Inclusion |year=2007 |url-status=live |archive-url=https://web.archive.org/web/20081109191428/http://www.shababinclusion.org/content/document/detail/623/1 |archive-date=2008-11-09 }}</ref> up to 37% in [[Morocco]] and 73% in [[Syria]].<ref>{{cite web |url=http://www.shababinclusion.org/content/document/detail/558/1 |author=Hilary Silver |title=Social Exclusion: Comparative Analysis of Europe and Middle East Youth |work=[[Middle East Youth Initiative]] Working Paper |date=December 12, 2007 |publisher=Shabab Inclusion |url-status=dead |archive-url=https://web.archive.org/web/20080820065906/http://www.shababinclusion.org/content/document/detail/558/1 |archive-date=August 20, 2008 |access-date=July 31, 2008 }}</ref>
+
+== Climate change ==
+{{Excerpt|Climate change in the Middle East and North Africa}}
+
+==Gallery==
+<gallery mode="packed">
+File:Abu dhabi skylines 2014.jpg|[[Abu Dhabi]] – United Arab Emirates
+File:View of Abdali.jpeg|[[Amman]] – Jordan
+File:YDA-Center-03.jpg|[[Ankara]] – Turkey
+File:فندق بغداد روتانا.jpg|[[Baghdad]] – Iraq
+File:Beirut Corniche from University Tower.jpg|[[Beirut]] – Lebanon
+File:Flickr - archer10 (Dennis) - Egypt-2A-007.jpg|[[Cairo]] – Egypt
+File:Damascus from Qasiyon.JPG|[[Damascus]] – Syria
+File:Doha skyline in the morning (12544910974).jpg|[[Doha]] – Qatar
+File:Dubai skyline 2015 (crop).jpg|[[Dubai]] – United Arab Emirates
+File:Levent, Istanbul at night.jpg|[[Istanbul]] – Turkey
+File:Jerusalem Dome of the rock BW 14.JPG|[[Jerusalem]] – Israel
+File:Kuwait City cropped.jpg|[[Kuwait City]] – Kuwait
+File:Manama, Bahrain Decembre 2014.jpg|[[Manama]] – Bahrain
+File:MAKKAH - panoramio.jpg|[[Mecca]] – Saudi Arabia
+File:The gate to Muscat (8727196402).jpg|[[Muscat, Oman|Muscat]] – Oman
+File:Nicosia skyline July 2018.jpg|[[Nicosia]] – Cyprus
+File:Ramallahskyline.jpg|[[Ramallah]] – Palestine
+File:Sanaa HDR (16482367935).jpg|[[Sana'a]] – Yemen
+File:North of Tehran Skyline view.jpg|[[Tehran]] – Iran
+File:Panorama of Tel Aviv.jpg|[[Tel Aviv]] – Israel 
+</gallery>
+
+{{multiple image
+| align     = center
+| direction = horizontal
+| image1    = Night Pass over Central Africa and the Middle East.ogv
+| width1    = 270
+| alt1      =
+| caption1  = This video over Central Africa and the Middle East was taken by the crew of Expedition 29 on board the [[International Space Station]].
+| image2    = Evening Pass over the Sahara Desert and the Middle East.ogv
+| width2    = 270
+| alt2      =
+| caption2  = This video over the [[Sahara Desert]] and the Middle East was taken by the crew of Expedition 29 on board the International Space Station.
+| image3    = Views of the Mideast at Night.ogv
+| width3    = 270
+| alt3      =
+| caption3  = A pass beginning over [[Turkmenistan]], east of the [[Caspian Sea]] to south-eastern [[China]], just north-west of [[Hong Kong]].
+}}
+
+==See also==
+{{portal|Asia|Africa|Geography}}
+{{Div col|colwidth=30em}}
+* [[Etiquette in the Middle East]]
+* [[Hilly Flanks]]
+* [[MENASA]]
+* [[Mental health in the Middle East]]
+* [[Middle Eastern cuisine]]
+* [[Middle Eastern music]]
+* [[Cinema of Egypt]]
+* [[Middle East Studies Association of North America]]
+* [[Orientalism]]
+* {{Section link|State feminism|Middle East}}
+* [[Timeline of Middle Eastern history]]
+{{div col end}}
+
+==Notes==
+{{reflist |group="note"}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{Refbegin|30em}}
+* {{cite book | last = Adelson | first = Roger | title = London and the Invention of the Middle East: Money, Power, and War, 1902–1922. | publisher = Yale University Press | year = 1995 | isbn = 978-0-300-06094-2 | url = https://archive.org/details/londoninventiono00adel }}
+* {{cite book | last1 =Anderson | first1 = R | last2 = Seibert | first2 = R | last3 = Wagner | first3 = J. | title = Politics and Change in the Middle East |edition = 8th | publisher = Prentice-Hall |year= 2006}}
+* {{cite book | last1 = Barzilai | first1 = Gad | first2 = Klieman | last2 = Aharon | first3 = Shidlo | last3 = Gil | title = The Gulf Crisis and its Global Aftermath | publisher = Routledge | year = 1993 | isbn = 978-0-415-08002-6 | url-access = registration | url = https://archive.org/details/gulfcrisisitsglo0000unse }}
+* {{cite book | last = Barzilai | first = Gad | title = Wars, Internal Conflicts and Political Order|publisher= State University of New York Press |year=1996 |isbn = 978-0-7914-2943-3}}
+* {{cite book | last1 =Beaumont | first1 = Peter | first2 = Gerald H | last2 = Blake | first3 = J. Malcolm | last3 = Wagstaff |title=The Middle East: A Geographical Study |publisher=David Fulton |year=1988 |isbn=978-0-470-21040-6 }}
+* {{cite journal |last1=Bishku |first1=Michael B. |title=Is the South Caucasus Region a Part of the Middle East? |journal=Journal of Third World Studies |date=2015 |volume=32 |issue=1 |pages=83–102|jstor=45178576 }}
+* Cleveland, William L., and Martin Bunton. ''A History Of The Modern Middle East'' (6th ed. 2018 [https://archive.org/details/WilliamLClevelandMartinBuntonAHistoryOfTheModernMiddleEastFourthEdition/page/n3/mode/2up 4th ed. online]
+* Cressey, George B. (1960). ''Crossroads: Land and Life in Southwest Asia''. Chicago, IL: J.B. Lippincott Co. xiv, 593 pp. ill. with maps and b&w photos.
+* Fischbach, ed. Michael R. ''Biographical encyclopedia of the modern Middle East and North Africa'' (Gale Group, 2008).
+* Freedman, Robert O. (1991). ''The Middle East from the Iran-Contra Affair to the Intifada'', in series, ''Contemporary Issues in the Middle East''. 1st ed. Syracuse, NY: Syracuse University Press. x, 441 pp. {{ISBN|0-8156-2502-2}} pbk.
+* {{cite book |title=A Concise History of the Middle East | last =Goldschmidt | first = Arthur Jr |publisher=Westview Press |year=1999 |isbn=978-0-8133-0471-7}}
+* Halpern, Manfred. ''Politics of Social Change: In the Middle East and North Africa'' (Princeton University Press, 2015).
+* Ismael, Jacqueline S., Tareq Y. Ismael, and Glenn Perry. ''Government and politics of the contemporary Middle East: Continuity and change'' (Routledge, 2015).
+* Lynch, Marc, ed. ''The Arab Uprisings Explained: New Contentious Politics in the Middle East (Columbia University Press, 2014). p. 352.
+* {{cite book|last= Palmer|first= Michael A.|title= Guardians of the Persian Gulf: A History of America's Expanding Role in the Persian Gulf, 1833–1992|location= New York|publisher= The Free Press|date= 1992|isbn= 978-0-02-923843-1|url= https://archive.org/details/guardiansofgulfh00palm}}
+* Reich, Bernard. ''Political leaders of the contemporary Middle East and North Africa: a biographical dictionary'' (Greenwood Publishing Group, 1990).
+{{Refend}}
+
+==External links==
+{{Sisterlinks|voy=Middle East}}
+{{Spoken Wikipedia|Wikipedia_-_Middle_East.ogg|date=2008-03-28}}
+* [http://www.cfr.org/region/397/middle_east.html "Middle East – Articles by Region"] {{Webarchive|url=https://web.archive.org/web/20140209155728/http://www.cfr.org/region/397/middle_east.html |date=2014-02-09 }} – [[Council on Foreign Relations]]: "A Resource for Nonpartisan Research and Analysis"
+* [http://www.cfr.org/publication/13850/?cid=080416a "Middle East – Interactive Crisis Guide"] {{Webarchive|url=https://web.archive.org/web/20091130145259/http://www.cfr.org/publication/13850/?cid=080416a |date=2009-11-30 }} – [[Council on Foreign Relations]]: "A Resource for Nonpartisan Research and Analysis"
+* [https://www.lib.uchicago.edu/e/su/mideast/ Middle East Department] [[University of Chicago]] Library
+* ''[http://www.meed.com/ Middle East Business Intelligence since 1957]'': "The leading information source on business in the Middle East" – MEED.com
+* [http://www.carboun.com/ Carboun] – advocacy for sustainability and environmental conservation in the Middle East
+* {{curlie|Regional/Middle_East/}}
+* [https://news.yahoo.com/i/736 Middle East News] from Yahoo! News
+* [http://www.arabianbusiness.com/ Middle East Business, Financial & Industry News] – ''ArabianBusiness.com''
+
+{{Middle East}}
+{{Regions of Africa}}
+{{Regions of Asia}}
+
+{{Authority control}}
+
+[[Category:Middle East]]
+[[Category:Regions of Eurasia]]
+[[Category:Western Asia]]
+[[Category:North Africa]]
+[[Category:Regions of Africa]]
+[[Category:Articles containing video clips]]
+[[Category:Eurocentrism]]

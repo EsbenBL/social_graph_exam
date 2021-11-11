@@ -1,0 +1,56 @@
+{{Infobox person
+| name          = Charles Knick Harley
+| image         = <!-- just the filename, without the File: or Image: prefix or enclosing [[brackets]] -->
+| alt           = 
+| caption       = 
+| birth_date    = {{Birth year and age|1943}}
+| birth_place   = 
+| nationality   = 
+| other_names   = C. Knick Harley, C.K. Harley
+| education     = B.A., Economics and History, [[College of Wooster]]<br />Ph.D., Economics, [[Harvard University]]
+| occupation    = Professor of Economics and Economic History
+| years_active  = 1970–2011
+}}
+
+'''Charles Knickerbocker Harley''' is an academic [[economic historian]] who has written on a wide range of topics including the British [[industrial revolution]], the late nineteenth century international economy, and the impact of [[technological change]]. He is a practitioner of the [[Cliometrics|New Economic History]].<ref>Harley, 2002, pp. 16, 20</ref>
+
+At Harvard he studied under [[Alexander Gerschenkron]]. He completed his dissertation, ''Shipbuilding and Shipping in the Late Nineteenth Century'', on the transition from wooden [[sailing ships]] to steel [[Steamship|steamers]], in 1972.<ref>Harley, 2002, p. 17</ref> He took a professorship at the [[University of British Columbia]]. In 1978 he moved to the [[University of Western Ontario]].<ref>{{cite web |url=http://economics.uwo.ca/people/faculty/harley.html |title=C. Knick Harley, Professor Emeritus |author=<!--Staff writer(s); no by-line.--> |date=n.d. |website=Department of Economics, Western University, Canada |access-date=17 October 2015}}; Harley, 2005</ref> In 2005 he joined the faculty of [[St. Antony's College, Oxford]],<ref>ibid.</ref> where he stayed until becoming an Emeritus Fellow in 2011.<ref>{{cite web |url=https://www.sant.ox.ac.uk/people/knick-harley |title=Professor Knick Harley, Emeritus Fellow |author=<!--Staff writer(s); no by-line.--> |date=n.d. |website=St Antony's College, University of Oxford |access-date=17 October 2015}}</ref>
+
+He has been a frequent collaborator with [[Nicholas Crafts|N.F.R. Crafts]].<ref>Harley, 2002, p. 20; e.g. Harley 1992, Crafts & Harley, 1992</ref>
+
+He has been awarded [[The Cliometric Society]]'s ''Clio Can'' in 1999 in recognition of his exceptional support of cliometrics<ref>{{cite journal |last=Lyons |first=John |date=July 1999 |title=Report on the 39th Annual Cliometrics Conference |url=http://cliometrics.org/newsletters/Volume%2014/Volume%2014%20Number%202%20Jul%201999.pdf |journal=The Newsletter of the Cliometric Society |volume=14 |issue=2 |access-date=17 October 2015 |archive-url=https://web.archive.org/web/20160305035306/http://cliometrics.org/newsletters/Volume%2014/Volume%2014%20Number%202%20Jul%201999.pdf |archive-date=5 March 2016 |url-status=dead }}; {{cite web |url=http://cliometrics.org/awards.htm/ |title=Clio Can Award Winners |author=<!--Staff writer(s); no by-line.--> |date=n.d. |website=Cliometric Society |access-date=17 October 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20151103184352/http://www.cliometrics.org/awards.htm |archivedate=3 November 2015 }}</ref> and the ''Arthur H. Cole Prize'' by the ''Journal of Economic History'', for his essay, "British Industrialization Before 1841: Evidence of Slower Growth During the Industrial Revolution".<ref>{{cite journal |author=<!--Staff writer(s); no by-line.--> |date=December 1982 |title=Editors' Notes: 1983 Annual Meeting of Economic History Association |journal=[[The Journal of Economic History]] |volume=42 |issue=4 |pages=923–928 |jstor=2121117 |doi=10.1017/s0022050700028424|doi-access=free }}; {{cite web |url=http://eh.net/eha/cole-prize-winners-1966-1997/ |title=Cole Prize Winners 1966-1997 |author=<!--Staff writer(s); no by-line.--> |date=n.d. |website=Economic History Association |access-date=17 October 2015}}</ref>
+
+==Selected publications==
+* {{cite journal |last=Harley |first=Charles K. |date=March 1970 |title=British Shipbuilding and Merchant Shipping: 1850–1890 |journal=The Journal of Economic History |volume=31 |issue=1 |pages=262–266 |doi=10.1017/S0022050700078761}}
+* {{cite book |last1=Harley |first1=Charles K. |editor-last=McCloskey |editor-first=Deirdre |title=Essays on a Mature Economy: Papers and Proceedings of the MSSB Conference on the New Economic History of Britain 1840–1930 |publisher=Routledge |location=New York |date=2010 |edition=3rd |orig-year=first pub. 1971 |pages=215–234 |chapter=The Shift from Sailing Ships to Steamships, 1850-1890: A Study in Technological Change and its Diffusion |isbn=978-1-136-58671-2}}
+* {{cite journal |last=Harley |first=C.K. |date=June 1973 |title=On the Persistence of Old Techniques: The Case of North American Wooden Shipbuilding |journal=The Journal of Economic History |volume=33 |issue=2 |pages=372–398 |doi=10.1017/S0022050700076658}}
+* {{cite journal |last=Harley |first=C.K. |date=Summer 1974 |title=Skilled Labour and the Choice of Technique in Edwardian Industry |journal=Explorations in Economic History |volume=11 |issue=4 |pages=391–414 |doi=10.1016/0014-4983(74)90026-6}}
+* {{cite journal |last=Harley |first=C.K. |date=February 1976 |title=Goschen's Conversion of the National Debt and the Yield on Consols |journal=The Economic History Review |volume=29 |issue=1 |pages=101–106 |jstor=2594509 |doi=10.2307/2594509}}
+* {{cite journal |last=Harley |first=C. Knick |date=January 1977 |title=The Interest Rate and Prices in Britain, 1873-1913: A Study of the Gibson Paradox |journal=Explorations in Economic History |volume=14 |issue=1 |pages=69–89 |doi=10.1016/0014-4983(77)90015-8}}
+* {{cite journal |last=Harley |first=C. Knick |date=December 1978 |title=Western Settlement and the Price of Wheat, 1872-1913 |journal=The Journal of Economic History |volume=38 |issue=4 |pages=865–878 |jstor=2118661 |doi=10.1017/s0022050700087131}}
+* {{cite book |last1=McCloskey |first1=Donald N. |last2=Harley |first2=C. Knick |editor1-last=McCloskey |editor1-first=Donald N. |editor2-last=Floud |editor2-first=Roderick C. |title=The Economic History of Britain since 1700, Vol. 2, 1800 to the 1970s |location=Cambridge |publisher=Cambridge University Press |date=1981 |pages=50–69 |chapter=Foreign Trade, Competition and the Expanding International Economy}}
+* {{cite journal |last=Harley |first=C. Knick |s2cid=154492025 |date=June 1982 |title=British Industrialization Before 1841: Evidence of Slower Growth During the Industrial Revolution |journal=The Journal of Economic History |volume=42 |issue=2 |pages=267–289 |jstor=2120128 |doi=10.1017/s0022050700027431|url=https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1740&context=economicsresrpt }}
+* {{cite journal |last1=Harley |first1=C. Knick |date=December 1982 |title=Oligopoly Agreement and the Timing of American Railroad Construction |journal=The Journal of Economic History |volume=42 |issue=4 |pages=797–823 |jstor=2121109 |doi=10.1017/s0022050700028345}}
+* {{cite journal |last1=Harley |first1=C. Knick |date=December 1988 |title=Ocean Freight Rates and Productivity, 1740-1913: The Primacy of Mechanical Invention Reaffirmed |journal=The Journal of Economic History |volume=48 |issue=4 |pages=851–876 |jstor=2121620 |doi=10.1017/s0022050700006641|url=https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1684&context=economicsresrpt }}
+* {{cite book |last=Harley |first=C.K. |editor1-last=Broadberry |editor1-first=S.N. |editor2-last=Crafts |editor2-first=N.F.R. |title=Britain in the International Economy, 1870-1939 |publisher=Cambridge University Press |date=1992 |pages=[https://archive.org/details/britainininterna0000unse/page/244 244–268] |chapter=The World Food Economy and Pre-World War I Argentina |isbn=978-0-521-41859-1 |chapter-url-access=registration |chapter-url=https://archive.org/details/britainininterna0000unse |url=https://archive.org/details/britainininterna0000unse/page/244 }}
+* {{cite journal |last1=Crafts |first1=N.F.R. |last2=Harley |first2=C.K. |date=November 1992 |title=Output Growth and the British Industrial Revolution: A Restatement of the Crafts-Harley View |journal=The Economic History Review |volume=45 (New Series) |issue=4 |pages=703–730 |jstor=2597415 |doi=10.2307/2597415}}
+* {{cite journal |last1=Harley |first1=C.K. |last2=Crafts |first2=N.F.R. |date=February 1995 |title=Cotton Textiles and Industrial Output Growth during the Industrial Revolution |journal=The Economic History Review |volume=48 |issue=1 |pages=134–144 |jstor=2597874 |doi=10.2307/2597874|url=https://warwick.ac.uk/fac/soc/economics/research/workingpapers/1989-1994/twerp420.pdf }}
+* {{cite book |last=Harley |first=C. Knick |editor-last=Reis |editor-first=Jaime |title=International Monetary Systems in Historical Perspective |publisher=Palgrave Macmillan |date=1995 |pages=23–46 |chapter=The Classical Gold Standard's Adjustment to Shocks: American Railroads and British Investment in the 1880s |isbn=978-0-312-12540-0}}
+* {{cite book |editor-last=Harley |editor-first=C. Knick |date=1995 |title=The Integration of the World Economy, 1850-1914 (3 Volumes) |location=Cheltenham, Gloucestershire |publisher=Edward Elgar |isbn=978-1-858-98094-2}}
+* {{cite journal |last=Harley |first=Knick |date=Spring 2002 |title=Economic History: A Personal Journey |url=http://cliometrics.org/newsletters/Volume%2017/Volume%2017%20Number%201%20spring%202002.pdf |journal=The Newsletter of the Cliometric Society |volume=17 |issue=1 |pages=16–20 |access-date=17 October 2015 |archive-url=https://web.archive.org/web/20160306054803/http://cliometrics.org/newsletters/Volume%2017/Volume%2017%20Number%201%20spring%202002.pdf |archive-date=6 March 2016 |url-status=dead }}
+* {{cite journal |last=Harley |first=Knick |date=Spring 2005 |title=Welcome to a new Governing Body Fellow:– C. Knick Harley–University Lecturer in Economic History |url=https://www.sant.ox.ac.uk/sites/default/files/related-documents/spring_2005.pdf |journal=St. Antony's College Newsletter |publisher=St. Antony's College, Oxford |page=4}}
+* {{cite journal |last=Harley |first=C. Knick |date=December 2008 |title=Steers Afloat: The North Atlantic Meat Trade, Liner Predominance, and Freight Rates, 1870–1913 |journal=Journal of Economic History |volume=68 |issue=4 |pages=1028–1058 |doi=10.1017/S0022050708000806|url=https://ora.ox.ac.uk/objects/uuid:375f1c2f-3b87-4fc5-a0cf-f40c22bea102 }}
+* {{cite journal |last=Harley |first=C. Knick |date=October 2012 |title=Was Technological Change in the Early Industrial Revolution Schumpeterian? Evidence of Cotton Textile Profitability |journal=Explorations in Economic History |volume=49 |issue=4 |pages=516–527 |doi=10.1016/j.eeh.2012.06.004}}
+* Harley, C. Knick (April 2013). [http://www.economics.ox.ac.uk/materials/papers/12739/harley113.pdf ''Slavery, the British Atlantic Economy and the Industrial Revolution'']. University of Oxford, Discussion Papers in Economic and Social History. Number 113.
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Harley, Charles Knickerbocker}}
+
+[[Category:Living people]]
+[[Category:1943 births]]
+[[Category:Economic historians]]
+[[Category:Harvard University alumni]]
+[[Category:University of Western Ontario faculty]]
+[[Category:Fellows of St Antony's College, Oxford]]

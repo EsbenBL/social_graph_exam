@@ -1,0 +1,88 @@
+{{Short description|Dutch economist}}
+{{Infobox economist
+| name = Bernard van Praag
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| birth_date = {{birth date and age |1939|2|28|df=y}}
+| birth_place = [[Amsterdam]], Netherlands
+| death_date = 
+| death_place = 
+| nationality = [[Netherlands|Dutch]]
+| institution = University of Amsterdam <!-- or: | institutions =  -->
+| field = 
+| school_tradition = 
+| alma_mater = [[University of Amsterdam]]
+| influences = [[Mars Cramer]]
+| influenced = 
+| contributions = 
+| awards = 
+| repec_prefix = e
+| repec_id = pva16
+}}
+
+'''Bernard Marinus Siegfried van Praag''' ([[Amsterdam]], 28 February 1939) is a Dutch [[economist]], and Distinguished University Professor at the University of Amsterdam, noted for researching the measurement of welfare, as [[well-being]] and [[happiness]].
+
+==Biography==
+Bernard van Praag was born in 1939 into a Jewish family from [[Amsterdam]], The Netherlands. He is the second son of Jonas Andries (1895-1969) and Henriette Emma van Praag (1901-?). His family went into hiding during the [[World War II in the Netherlands]] and survived [[The Holocaust in the Netherlands|The Holocaust]], although many family members perished in the extermination camps [[Auschwitz concentration camp |Auschwitz]] and [[Sobibor extermination camp| Sobibor]].<ref>{{Cite web|url=https://www.parool.nl/nederland/vu-bestuursvoorzitter-mirjam-van-praag-deze-pandemie-is-ook-een-groot-experiment~b5a11477/|title=VU-bestuursvoorzitter Mirjam van Praag: 'Deze pandemie is ook een groot experiment'
+|date=13 December 2020
+|access-date=13 December 2020|language=nl|publisher=Het Parool}}</ref> He grew up in [[Bloemendaal]] and has one older brother, Herman Bernard Jonas (born 1934). He studied [[econometrics]] at the [[University of Amsterdam]], where he received a Ph.D. degree ''cum laude'' in 1968.
+
+Van Praag was appointed professor at the [[Free University of Brussels (1834–1969)|Free University of Brussels]] in 1969, then in 1970 associate professor at [[Erasmus University]], [[Rotterdam]], professor of economics at the [[University of Leiden]] (1972), professor at [[Erasmus University]] (1984), professor in "applied economic research" at the [[University of Amsterdam]] (1992), and managing director of the [[SEO Economic Research|Foundation for Economic Research]] from 1992 to 2000. In 2000 he became Distinguished University Professor at the University of Amsterdam.
+
+Van Praag was the founding president of the [[European Society for Population Economics]] (ESPE), and co-editor of the ''[[Journal for Population Economics]]'' and ''[[Journal of Health Economics]]''. He was a member of the Dutch [[Social Economic Council]]. In 1988-1992 he was a member of the (Dutch) [[Scientific Council for Government Policy]], a prominent advisory body for the Dutch government on long term policy issues. He was the responsible council member for their report "Ouderen voor Ouderen", which initiated the demographic discussion on the aging society in the [[Netherlands]].
+
+He has published in a wide range of journals, including the ''[[Review of Economics and Statistics]], [[European Economic Review]], Journal of Public Economics, [[Journal of Population Economics]], [[Econometrica]],'' ''Psychometrika, [[Journal of Econometrics]], [[Journal of Applied Econometrics]], [[Review of Income and Wealth]], [[Journal of Human Resources]], Journal of Economic Psychology, [[Journal of Health Economics]], [[Health Economics]], [[Journal of Economic Behavior and Organization]], [[the Economic Journal]], Journal of Happiness Studies, Journal of Income Distribution'', and ''Journal of Economic Inequality''. He was mentioned in the top 5% of economics authors by Repec, as of September 2012.<ref>{{Cite web|url=https://ideas.repec.org/top/top.person.all.html|title = Economist Rankings &#124; IDEAS/RePEc}}</ref>
+
+==Work==
+
+===Leyden school===
+During his Leyden period (1972–84), Van Praag initiated and acted as leader of the Leyden School project, his main co-authors being Arie Kapteyn and Aldi Hagenaars. Van Praag argued in his Ph.D. dissertation (1968) that utility of money (called by Van Praag the "individual welfare function of income", WFI) could be seen as a cardinal concept.
+Based on this idea he devised a specific question module, the Income Evaluation Question (IEQ), intended to ask respondents which income level they would call "good", "sufficient", "bad", etc. The IEQ has been posed since 1970 to many thousands of respondents in large-scale surveys. Van Praag estimated the WFI for thousands of individuals in most countries of Western Europe.
+
+He discovered a preference drift (comparable to the [[hedonic treadmill]]), whereby the WFI of the individual depends on current income and shifts with rising income to the right. Kapteyn and Van Praag discovered reference drift, which means that individual welfare depends on the income of the reference group members. The analysis led to the estimation of subjective family equivalence scales and subjective definitions of poverty. He carried out several large-scale poverty studies for the [[European Union]].
+
+Van Praag has also been active on econometric methodology, labour and [[health economics]], conjoint or vignette analysis and the economics of ageing. The Leyden School may be seen as a precursor of modern [[happiness economics]] by about twenty years. In the words of Claudia Senik when reviewing ''Happiness Quantified:''
+: 'Van Praag is one of the leading and inaugural figures of the field. In the early 1970s, Professor van Praag, with other colleagues, started this stream of the literature at the University of Leyden, hence the “Leyden School” denomination. With the current success of “happiness studies”, economists are re-discovering the contributions and intuitions of the Leyden school.'<ref>{{cite journal |first1=Claudia |last1=Senik |first2=B. M. S. |last2=van Praag |first3=A. |last3=Ferrer-i-Carbonell |title=Happiness Quantified. A Satisfaction Calculus Approach |journal=[[Journal of Economic Behavior & Organization]] |volume=59 |issue=1 |year=2006 |pages=147–151 |doi=10.1016/j.jebo.2005.03.004 }}</ref>
+
+Andrew Clark ''et al''. in their authoritative survey comparing Van Praag's work with the happiness papers from 1990 onwards write:
+: 'One method that essentially inverts the question is that of the Welfare Function of Income, associated with the Leyden school in the Netherlands and, particularly, with Van Praag. This predates the work on satisfaction by some years, with the first published article being Van Praag (1971).'<ref>{{cite journal |first1=Andrew E. |last1=Clark |first2=Paul |last2=Frijters |first3=Michael A. |last3=Shields |title=Relative Income, Happiness, and Utility: An Explanation for the Easterlin Paradox and Other Puzzles |journal=[[Journal of Economic Literature]] |year=2008 |volume=46 |issue=1 |pages=95–144 |doi= 10.1257/jel.46.1.95|s2cid=1744957 |url=https://eprints.qut.edu.au/30738/1/30738_final.pdf }}</ref><ref>{{cite journal |last=Van Praag |first=Bernard M. S. |year=1971 |title=The Welfare Function of Income in Belgium: An Empirical Investigation |journal=[[European Economic Review]] |volume=2 |issue=3 |pages=337–69 |doi= 10.1016/0014-2921(71)90045-6}}</ref>
+
+===Recent research===
+After a relative calm period, during which Van Praag was engaged in semi-commercial research, Van Praag resumed his academic research at the end of the 1990s.
+
+He enriched his research by adopting the satisfaction question module used by modern [[happiness economists]]. His main new results are the application of happiness economics with [[Barbara Baarsma]] to estimate shadow prices of airplane-noise hindrance near Amsterdam Airport, which method may be used for estimating the shadow prices of other external effects as well and the development of a two-layer model with Frijters and Ferrer-i-Carbonell, where life satisfaction is seen as an aggregate of domain satisfactions.
+
+He published in 2004 the comprehensive monograph ''Happiness Quantified, a Satisfaction Calculus Approach'' (with [[Ada Ferrer-i-Carbonell]]), which was revised in 2008 and translated into Chinese in 2010. He is a regular contributor to the Dutch dailies ''[[NRC Handelsblad]]'' and ''[[de Volkskrant]]'' and the professional weekly ''Economisch-Statistische Berichten''.
+
+==Honours==
+Van Praag is a Fellow Emeritus of the [[European Economic Association]], member of the [[Royal Netherlands Academy of Arts and Sciences]] (Koninklijke Nederlandse Academie van Wetenschappen) since 1999,<ref>{{cite web|author= |url=https://www.knaw.nl/en/members/members/4669 |archive-url=https://web.archive.org/web/20200814135448/https://www.knaw.nl/en/members/members/4669 |title=Bernard van Praag |publisher=Royal Netherlands Academy of Arts and Sciences |date= |archive-date=14 August 2020}}</ref> elected as a member of the [[International Statistical Institute]], member of the Royal Dutch Society of Sciences (Koninklijke Hollandsche Maatschappij van Wetenschappen), Fellow of CESifo Munich, IZA Bonn, [[DIW Berlin]], AIAS Amsterdam, Honorary Fellow and chairman–founder (1986) of the [[Tinbergen Institute]].
+
+==Books==
+
+*''1968 Individual Welfare Functions and Consumer Behavior - a Theory of Rational Irrationality, North-Holland Publishing Company, Amsterdam, Contributions to Economic Analysis, nr. 57''
+*''1998 The Distribution of Welfare and Household Production: International Perspectives (Stephen P. Jenkins, Arie Kapteyn, Bernard M.S. van Praag, eds.), Cambridge University Press, Cambridge, United Kingdom''
+*''2004 B.M.S. van Praag and A. Ferrer-i-Carbonell. Happiness Quantified: A Satisfaction Calculus Approach Oxford University Press, Oxford: UK , revised in 2008, Chinese translation 2009.''
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20110412070049/http://www1.fee.uva.nl/pp/bvanpraag/ Personal page] at [[University of Amsterdam]]
+* [https://ideas.repec.org/e/pva16.html Publications]
+
+{{Authority control}}
+{{DEFAULTSORT:Praag, Bernard van}}
+[[Category:1939 births]]
+[[Category:Living people]]
+[[Category:Dutch economists]]
+[[Category:Dutch people of Jewish descent]]
+[[Category:Holocaust survivors]]
+[[Category:Econometricians]]
+[[Category:Members of the Royal Netherlands Academy of Arts and Sciences]]
+[[Category:Scientists from Amsterdam]]
+[[Category:University of Amsterdam alumni]]
+[[Category:Leiden University faculty]]
+[[Category:Erasmus University Rotterdam faculty]]
+[[Category:University of Amsterdam faculty]]

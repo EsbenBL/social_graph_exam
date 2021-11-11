@@ -1,0 +1,77 @@
+{{short description|American academic}}
+{{Infobox economist
+| name = Edward E. Leamer
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| birth_date = {{birth date and age|1944|5|24|mf=y}}
+| birth_place = 
+| death_date = 
+| death_place = 
+| nationality = [[Americans|American]]
+| institutions = [[University of California, Los Angeles]]
+| field = [[Econometrics]]
+| school_tradition = 
+| alma_mater = [[University of Michigan]]
+| influences = 
+| influenced = 
+| contributions = 
+| awards = 
+| repec_prefix = f
+| repec_id = ple440
+}}
+
+'''Edward Emory Leamer''' (born May 24, 1944) is a professor of economics and statistics at [[UCLA]]. He is Chauncey J. Medberry Professor of Management and director of the UCLA Anderson Forecast.<ref>{{Cite web|title=About Us {{!}} UCLA Anderson School of Management|url=https://www.anderson.ucla.edu/centers/ucla-anderson-forecast/about-us|access-date=2020-07-24|website=www.anderson.ucla.edu}}</ref>
+
+He attended Princeton (B.A., mathematics, 1966) and the University of Michigan (M.A., mathematics, Ph.D., economics, 1970).<ref>[http://www.anderson.ucla.edu/faculty/edward.leamer/ Edward E. Leamer Home Page] and [http://www.anderson.ucla.edu/faculty/edward.leamer/documents/Leamer%20Vita.pdf CV] {{Webarchive|url=https://web.archive.org/web/20150402131745/http://www.anderson.ucla.edu/faculty/edward.leamer/documents/Leamer%20Vita.pdf |date=2015-04-02 }}</ref>
+
+Leamer is the author of 4 books and over 100 articles on a range of subjects especially including applied [[econometrics]] and quantitative [[international economics]].
+
+Leamer was the [[Vice President of the United States|vice presidential]] nominee on [[Laurence Kotlikoff]]'s independent ticket in the [[2016 US presidential election]].
+
+Leamer is known amongst economists for his paper "Let's Take the Con Out of Econometrics",<ref>{{Cite journal|last=Leamer|first=Edward E.|date=1983|title=Let's Take the Con Out of Econometrics|url=https://www.jstor.org/stable/1803924|journal=The American Economic Review|volume=73|issue=1|pages=31–43|jstor=1803924|issn=0002-8282}}</ref> widely referred to as Leamer's critique, which is said to have catalyzed the implementation of more rigorous research designs in the economic sciences.<ref>{{Cite web|title=Edward Leamer Deserves a Nobel Prize for Improving Argumentation That Uses Statistics · Econ Journal Watch : Sensitivity analysis, econometrics, specification search, data mining, natural experiments, replication, statistical inference|url=https://econjwatch.org/articles/edward-leamer-deserves-a-nobel-prize-for-improving-argumentation-that-uses-statistics#:~:text=The%20Leamer%20critique%20caused%20economists,than%20he%20already%20has%20been.|access-date=2021-02-04|website=econjwatch.org}}</ref>
+
+==Selected publications==
+;Books
+* 1978. ''Specification Searches: Ad Hoc Inference with Nonexperimental Data'', Wiley. Chapter preview [https://web.archive.org/web/20121007060555/http://www.anderson.ucla.edu/faculty/edward.leamer/books/specification_searches/specification_searches.htm links].
+* 1985. ''Sources of International Comparative Advantage: Theory and Evidence'', MIT Press. [https://web.archive.org/web/20060921015919/http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=7626 Description].
+* 2006. ''Quantitative International Economics'' (with Robert M. Stern). Aldine Transaction. [https://books.google.com/books?id=8nvWKE1sJEIC&printsec=find&pg=PA211#v=onepage&q&f=true Description] and [https://books.google.com/books?id=8nvWKE1sJEIC&printsec=find&pg=PA1=onepage&q&f=false preview].
+* 2007. ''Handbook of Econometrics'', Elsevier. [https://web.archive.org/web/20110810022951/http://www.elsevier.com/wps/find/bookdescription.cws_home/712946/description#description Description] and chapter-preview links for v. [http://www.sciencedirect.com/science/handbooks/15734412/6/part/PA 6A] & [http://www.sciencedirect.com/science/handbooks/15734412/6/part/PB 6B] (editor with [[James J. Heckman]]).
+* 2009. ''Macroeconomic Patterns and Stories'', Springer. {{ISBN|3540463887|}} [https://www.springer.com/economics/econometrics/book/978-3-540-46388-7 Description] and [https://books.google.com/books?id=XObELQuIWv8C&printsec=find&pg=PA3=#v=onepage&q&f=false preview].
+
+;Articles
+* 1980. "The Leontief Paradox, Reconsidered," ''Journal of Political Economy'', 88(3), pp. [https://www.jstor.org/pss/1831928 495]-503. Reprinted in [[Jagdish N. Bhagwati]], ed., 1987, ''International Trade: Selected Readings'', MIT Press. pp. [https://books.google.com/books?id=4s6cAgg5xd4C&pg=PA115&lpg=PA115&dq=false 115-] 124.
+* 1983a. "Let's Take the Con Out of Econometrics," ''American Economic Review'', 73(1), pp. [http://www.international.ucla.edu/media/files/Leamer_article.pdf 31-43.]
+* 1983b. "Reporting the Fragility of Regression Estimates," (with Herman Leonard), ''Review of Economics and Statistics,'' 65(2), pp. [https://web.archive.org/web/20120529105758/http://www.anderson.ucla.edu/faculty/edward.leamer/selected_research/Tantalus%20by%20Leamer.pdf 306-317].
+* 1985. "Sensitivity Analyses Would Help," ''American Economic Review'', 75(3), pp. [https://www.jstor.org/pss/1814801 308]-313.
+*  1995. "International Trade Theory: The Evidence," ch. 26, ''Handbook of International Economics'', v. 3, pp.&nbsp;1339–1394. [http://www.sciencedirect.com/science/article/pii/S1573440405800061 Abstract].
+* 1987. "Econometric Metaphors," in ''Advances in Econometrics'', Truman F. Bewley, ed., Cambridge v. 2, pp. [https://books.google.com/books?id=5p4APIQhqd8C&printsec=find&pg=PA1=onepage&q&f=false#v=onepage&q&f=false 1]-28.
+* 2007a. "Housing ''is'' the Business Cycle," in ''Housing, Housing Finance, and Monetary Policy'', Federal Reserve Bank of Kansas City, pp. [http://www.kcfed.org/publicat/sympos/2007/PDF/Leamer_0415.pdf 149-233].
+* 2007b. "Linking the Theory with the Data: That is the Core Problem of International Economics," ch. 67, ''Handbook of Econometrics'', v. 6A, pp 4587–4606. [http://www.sciencedirect.com/science/article/pii/S1573441207060679 Abstract].
+* 2008. From ''[[The New Palgrave Dictionary of Economics]]''. 2nd Edition. Abstract links:
+** "[http://www.dictionaryofeconomics.com/article?id=pde2008_E000250&edition=current&q=Sensitivity%20analysis&topicid=&result_number=2 extreme bounds analysis]"
+** "[http://www.dictionaryofeconomics.com/article?id=pde2008_L000179&edition=current&q=%20Leontief%20paradox&topicid=&result_number=1 Leontief paradox]"
+** "[http://www.dictionaryofeconomics.com/article?id=pde2008_S000200&edition=current&q=Specification%20problems%20in%20econometrics&topicid=&result_number=1 specification problems in econometrics]".
+* 2010. "Tantalus on the Road to Asymptopia," ''Journal of Economic Perspectives'', 24(2), pp. [https://web.archive.org/web/20120529105758/http://www.anderson.ucla.edu/faculty/edward.leamer/selected_research/Tantalus%20by%20Leamer.pdf 31-46].
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{MathGenealogy |id=106759 }}
+* {{cite web |last=Roberts |first=Russ |title=Ed Leamer Podcasts |url=http://www.econtalk.org/archives/_featuring/ed_leamer/ |work=[[EconTalk]] |publisher=[[Library of Economics and Liberty]] |authorlink=Russ Roberts}}
+* [https://accadandkoka.com/episodes/edward-leamer-econometrics-and-the-search-for-truth/ Ed Leamer on ''The Accad and Koka Report'' Podcast]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Leamer, Edward E.}}
+[[Category:1944 births]]
+[[Category:Living people]]
+[[Category:21st-century American economists]]
+[[Category:Econometricians]]
+[[Category:Princeton University alumni]]
+[[Category:University of Michigan alumni]]
+[[Category:University of California, Los Angeles faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]

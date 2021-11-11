@@ -1,0 +1,128 @@
+{{Use dmy dates|date=November 2021}}
+{{Use Australian English|date=April 2012}}
+{{Infobox scientist
+| honorific_prefix  = Sir
+| name              = Leslie Melville
+| honorific_suffix  = {{post-nominals|country=AUS|sep=,|size=100%|KBE}}
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = Leslie Galfreid Melville<!-- if different from "name" -->
+| birth_date        = {{Birth date|df=yes|1902|3|26}}<!--{{birth date |YYYY|MM|DD}}-->
+| birth_place       = [[Sydney]], [[New South Wales]]
+| death_date        = {{Death date and age|df=yes|2002|4|30|1902|3|26}}<!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = [[Canberra]], [[Australian Capital Territory]]
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| pronounce         =
+| residence         = 
+| citizenship       = 
+| nationality       = Australian
+| fields            = [[Economics]]
+| workplaces        = {{unbulleted list|[[University of Adelaide]]|[[Commonwealth Bank]]|[[Australian National University]]}}
+| patrons           = 
+| education         = [[Sydney Church of England Grammar School]]
+| alma_mater        = [[University of Sydney]]
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Helped to form Australia's [[Central bank|central banking system]]
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = Mary Scales<!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = {{unbulleted list|Galfrid Leslie ("Tig") Melville|Anthony Melville}}
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = <ref name=OA>{{cite web |author=Farquharson, John |title=Melville, Sir Leslie Galfreid (1902–2002) |work=Obituaries Australia |publisher=National Centre of Biography, [[Australian National University]] |url=http://oa.anu.edu.au/obituary/melville-sir-leslie-galfreid-720/text721 |access-date=12 April 2018}}</ref><ref name=Tig>{{cite news |url=https://www.smh.com.au/national/visionary-who-changed-insurance-20100920-15juk.html |title=Visionary who changed insurance |work=[[The Sydney Morning Herald]] |date=21 September 2010 |access-date=11 April 2018 |author1=Roach, Owen |author2=Trahair, Tim }}</ref>
+}}
+'''Sir Leslie Galfreid Melville''' {{post-nominals|country=AUS|sep=,|KBE}} (26 March 1902{{spaced ndash}}30 April 2002) was a renowned [[Australia]]n economist, academic and public servant.<ref>{{cite web |author=Markwell, Donald |author-link=Donald Markwell |title=Keynes and Australia |publisher=[[Reserve Bank of Australia]] |year=2000 |pages=44-6 & ''[[passim]]'' |url=http://www.rba.gov.au/publications/rdp/2000/pdf/rdp2000-04.pdf }}</ref>  He helped form Australia's [[Central bank|central banking system]] and gave his voice in international economic forums in the years following [[World War II]].  He also played an important role in the early years of the [[Australian National University]], serving as its Vice-Chancellor between 1953 and 1960.
+
+==Early years and background==
+Leslie Melville was born in [[Sydney]] in 1902.  His father Richard Ernest Melville was of Irish stock, and his mother Lillian Evelyn née Thatcher had English forebears.  During [[World War I]], his father lost his job as a bank manager and then invested in a project that failed, bringing the family into severe financial difficulty.  This experience helped formulate Leslie's outlook and attitudes to economic matters generally.<ref name=q/>  He won a scholarship to [[Sydney Church of England Grammar School]] (Shore), where he topped the state in mathematics, and was known as the "[[Isaac Newton]] of Shore".<ref name=q/>
+
+While studying engineering at the [[University of Sydney]], he diverged into [[actuary|actuarial studies]] and then joined the NSW Superannuation Fund.  Working full-time meant he could study only subjects he could take at evenings, so he chose [[economics]]. 
+
+==Career in economics==
+In 1924, aged only 22, he was appointed Public Actuary for [[South Australia]]. In this role he was often called upon to advise the government on economic issues generally.
+
+In 1928 he gave evidence on Commonwealth-State economic and financial matters before the Royal Commission on the Australian Constitution, and again in 1929 before the Royal Commission on the Finances of South Australia.<ref name=q/> In 1929, aged only 27, Melville became the Foundation Professor of Economics at the [[University of Adelaide]].<ref name=mac>{{cite web |url=http://www.rba.gov.au/publications/bulletin/2002/apr/pdf/bu-0402-3.pdf |title=Inaugural Sir Leslie Melville Address |author=Macfarlane, Ian (Governor of the Reserve Bank) |authorlink=Ian Macfarlane (economist) |date=22 March 2002 |publisher=[[Reserve Bank of Australia]] }}</ref> In 1930 he became Chief Economic Adviser to the [[Commonwealth Bank]], a role he held for 23 years.<ref name=am/>  In this role he was at the forefront of the formulation of Australia's policies to combat the [[Great Depression]].<ref name=q/>
+
+Melville represented Australia at the 1932 Ottawa Imperial Trade Conference, after the [[Prime Minister of Australia|Prime Minister]] [[Joseph Lyons]] had revoked Sir [[Robert Gibson (businessman)|Robert Gibson]]'s directive for him not to attend.<ref name=am/> Melville also attended the World Economic Conference in London in 1933.<ref name=q>[https://www.questia.com/googleScholar.qst;jsessionid=0D4659B66EF36E0388288893FD0BDE8F.inst2_1b?docId=5000641214 online]{{dl|date=July 2021}}</ref>
+
+He became a prolific writer on economic matters, contributing greatly to economic debate both at home and internationally.<ref name=mac/> His economic thinking was often out of kilter with his colleagues: he advocated exchange rate fluidity when most were arguing for the status quo. He presented his ideas forcefully at the 1936-37 Royal Commission on Banking and Monetary Systems.<ref name=am/> During [[World War II]], he helped design Australia's war economy.<ref name=q/>
+
+In 1944 Melville led the Australian delegation to the [[United Nations Monetary and Financial Conference|Bretton Woods Conference]], which laid the foundations for the [[World Bank]] and the [[International Monetary Fund]] (IMF). [[John Maynard Keynes]] was very impressed with Melville; and he said that Melville:
+
+<blockquote>
+... upheld the dignity and integrity of Australia with the most marked success ... He handled himself most impressively, was clear, cogent and never unreasonable, put his point forcibly yet moderately, yet achieved ... as much as was humanly possible to move matters in the direction he desired.  He had quite a difficult task and accomplished it supremely well.<ref name=mac/><ref name=am/>
+</blockquote>
+
+In 1950 Melville became Australia's Executive Director of both the World Bank and the IMF.<ref name=q/><ref name=mac/>
+
+==Academic career==
+From 1953 to 1960 he was Vice-Chancellor of the [[Australian National University]] (ANU).  After his retirement, he remained an honorary fellow of the ANU in the Department of Economics at the [[Research School of Pacific and Asian Studies]] (RSPAS).<ref name=js/>
+
+==Government appointments==
+When [[H. C. Coombs]] was appointed Governor of the [[Reserve Bank of Australia]], he paid tribute to Melville by advising the government and others that the best man for the job had been overlooked.<ref name=mac/><ref name=am/> Melville nevertheless served three terms as a Board Member of the Reserve Bank. When Melville retired, Coombs wrote to him: ''In the years you were with the Bank, you made a contribution to the theory and practice of central banking which is without equal in the world''.<ref name=mac/>
+
+In 1960 he became Chairman of the Tariff Board, but clashed repeatedly with the Trade Minister, [[John McEwen]], and he resigned in 1962.<ref name=mac/> In 1966 Melville was appointed Chairman of the [[Commonwealth Grants Commission]], remaining in this post until 1974.<ref name=OA/><ref name=mac/>
+
+==Personal life==
+In 1925 Melville married Mary Scales in Adelaide. They had two sons, Galfrid (Tig) and Anthony.<ref name=Tig/><ref name=am/> Sir Leslie Melville celebrated his 100th birthday on 26 March 2002 at Canberra's [[Commonwealth Club (Australia)|Commonwealth Club]], which he had helped found.<ref name=js/> He died a month later, on 30 April 2002.<ref name=js/> At the time of his death, he was survived by his son Anthony, three grandchildren (Jennifer, Elizabeth and Alice) and five great-grandchildren (Michael Kalaf, Henry Kalaf, William Kalaf, Patrick O'Connell and Sophie O'Connell).<ref name=js/>
+
+His close friend Professor [[Heinz Arndt]] was to deliver Melville's eulogy, but he died in a car accident while on the way to the funeral.
+
+==Honours==
+In the New Year's Honours of 1953, Melville was appointed a Commander of the [[Order of the British Empire]] (CBE) for his services to the Commonwealth Bank.<ref>[http://www.itsanhonour.gov.au/honours/honour_roll/search.cfm?aus_award_id=1065000&search_type=simple&showInd=true It's an Honour: CBE]</ref> In the New Year's Honours of 1957, he was appointed a Knight Commander of the Order (KBE).<ref>[http://www.itsanhonour.gov.au/honours/honour_roll/search.cfm?aus_award_id=1082180&search_type=simple&showInd=true It's an Honour: KBE]</ref>
+
+The ANU celebrated his centenary by dedicating an annual lecture series in his name, the Sir Leslie Melville Lecture. The inaugural address, given on 22 March 2002, a few days before his 100th birthday, was delivered by [[Ian Macfarlane (economist)|Ian Macfarlane]], then Governor of the Reserve Bank.<ref name=am>[http://www.hetsa.org.au/pdf/36-A-13.pdf Alex Millmow]</ref><ref>[http://www.ace2011.org.au/ACE2011/Program/Lectures_and_special_sessions/ACE2011/2_-_Program/Lectures_and_Special_Sessions.aspx?hkey=aec5cd5d-e4c4-4581-9c9c-b12c38bc0392 Australian Conference of Economists] {{webarchive|url=https://web.archive.org/web/20110305012748/http://www.ace2011.org.au/ACE2011/Program/Lectures_and_special_sessions/ACE2011/2_-_Program/Lectures_and_Special_Sessions.aspx?hkey=aec5cd5d-e4c4-4581-9c9c-b12c38bc0392 |date=5 March 2011 }}</ref>
+
+Melville Hall and Melville Place at the ANU are named in honour of Sir Leslie.<ref name=js>{{cite web |url=http://www.hansard.act.gov.au/Hansard/2002/week06/1519.htm |author1=Stanhope, Jon |authorlink1=Jon Stanhope |author2=Humphries, Gary |authorlink2=Gary Humphries |title=Death of Sir Leslie Melville KBE, CBE |publisher=[[Legislative Assembly of the Australian Capital Territory]] |work=Hansard |date=14 May 2002 }}</ref><ref>[http://heritage.anu.edu.au/files/1439_The%20practice%20of%20naming%20Buildings.pdf ANU doc: Sources of Precinct, Street and Building names]</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-aca}}
+{{s-bef|before=[[Douglas Copland|Sir Douglas Copland]] }}
+{{s-ttl|title = 2nd [[List of Australian National University people#Vice-Chancellors|Vice-Chancellor]] of the [[Australian National University]] |years=1953–1960}}
+{{s-aft|after = [[Leonard Huxley (physicist)|Sir Leonard Huxley]] }}
+{{s-gov}}
+{{s-bef|before= }}
+{{s-ttl|title = Chairman of the [[Commonwealth Grants Commission]] |years=1966–1974}}
+{{s-aft|after = }}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Melville, Leslie}}
+[[Category:1902 births]]
+[[Category:2002 deaths]]
+[[Category:Australian economists]]
+[[Category:Australian bankers]]
+[[Category:Australian public servants]]
+[[Category:Australian Knights Commander of the Order of the British Empire]]
+[[Category:Australian centenarians]]
+[[Category:Men centenarians]]
+[[Category:University of Sydney alumni]]
+[[Category:University of Adelaide faculty]]
+[[Category:Australian National University faculty]]
+[[Category:People from Sydney]]
+[[Category:Vice-Chancellors of the Australian National University]]
+[[Category:People educated at Sydney Church of England Grammar School]]
+[[Category:20th-century Australian public servants]]

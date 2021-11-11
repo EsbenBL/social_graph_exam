@@ -1,0 +1,42 @@
+{{short description|American economist (born 1945)}}
+'''Ross Marc Starr''' (born 1945) is an [[United States|American]] [[economist]] who specializes in [[microeconomic theory]], [[monetary economics]] and [[mathematical economics]]. He is a [[Professor]] at the [[University of California, San Diego]].<ref>[http://economics.ucsd.edu/about/profile.aspx?pid=68 Faculty profile], UCSD economics department, retrieved 2011-01-21.</ref>
+
+Starr grew up in [[Los Angeles]] where he attended high school. He attended [[UCLA]] and [[Reed College]] before obtaining his [[Bachelor of Science]] degree in mathematics from [[Stanford]] in 1966. He completed his [[PhD]] in economics at Stanford in 1972. His dissertation was supervised by [[Kenneth Arrow]].
+
+He has worked at the [[RAND corporation]], [[Yale]], [[UC Davis]], [[UC Berkeley]], the [[Federal Reserve Bank]] in [[San Francisco]] and at UC San Diego.
+
+Starr first published the [[Shapley–Folkman lemma]] on the existence of quasi-equilibria in economies with non-convexities.
+
+In addition to publications in economic journals, he wrote the textbook ''General Equilibrium Theory: An Introduction''.
+
+==Selected publications==
+* {{citation|last=Starr|first=Ross&nbsp;M. <!-- authorlink=Ross Starr -->|issue=1|journal=Econometrica|pages=25–38|title=Quasi-equilibria in markets with non-convex preferences (Appendix&nbsp;2: The Shapley–Folkman theorem, pp.&nbsp;35–37)|volume=37|year=1969|jstor=1909201|doi=10.2307/1909201|citeseerx=10.1.1.297.8498}}
+* {{cite book|last=Starr|first=Ross&nbsp;M. <!-- |authorlink=Ross Starr -->|chapter=Shapley–Folkman theorem|title=The New&nbsp;Palgrave Dictionary of Economics|editor-first=Steven&nbsp;N.|editor-last=Durlauf|editor2-first=Lawrence&nbsp;E<!-- . -->|editor2-last=Blume|publisher=Palgrave Macmillan|year=2008|edition=Second|pages=317–318 (1st&nbsp;ed.)|chapter-url=http://www.dictionaryofeconomics.com/article?id=pde2008_S000107|doi=10.1057/9780230226203.1518|isbn=978-0-333-78676-5}}
+* {{cite book|title=General equilibrium models of monetary economies: Studies in the static foundations of monetary theory|series=Economic theory, econometrics, and mathematical economics|editor-first=Ross M.|editor-last=Starr <!-- editor-link=Ross Starr -->|publisher=Academic Press|year=1989|isbn=978-0-12-663970-4|pages=351}}
+* {{cite book|author=Ross M. Starr|title=General Equilibrium Theory: An Introduction|url=https://books.google.com/books?id=t9pSAlEMyDYC|date=25 April 2011|publisher=Cambridge University Press|isbn=978-1-139-49673-5}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{cite web|title=Ross Starr|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Ross+Starr%22+&acc=off&wc=on&fc=off&group=none|publisher=[[JSTOR]]}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Starr, Ross}}
+[[Category:General equilibrium theorists]]
+[[Category:Monetary economists]]
+[[Category:Mathematical economists]]
+[[Category:Economists from California]]
+[[Category:University of California, Davis faculty]]
+[[Category:University of California, San Diego faculty]]
+[[Category:Yale University faculty]]
+[[Category:RAND Corporation people]]
+[[Category:University of California, Los Angeles alumni]]
+[[Category:Reed College alumni]]
+[[Category:1945 births]]
+[[Category:Living people]]
+[[Category:21st-century American economists]]
+
+
+{{US-economist-stub}}

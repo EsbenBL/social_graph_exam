@@ -1,0 +1,102 @@
+{{short description|British economist (1898-1978)}}
+{{Use dmy dates|date=August 2016}}
+{{Use British English|date=August 2016}}
+{{Infobox economist
+ | school_tradition =
+ | image            = Arnold Plant.jpg
+ | honorific_prefix = [[Sir]]
+ | name             = Arnold Plant
+ | birth_date       = 29 April 1898
+ | birth_place      = [[Hoxton, London]], England
+ | death_date       = {{dda|1978|04|19|1898|4|29|df=y}}
+ | death_place      = [[Camden, London]], England
+ | field            =
+ | influences       = [[David Hume]],<ref name="Coase1995"/> [[Edwin Cannan]]<ref name="Coase1995"/>
+ | influenced       = [[Ronald Coase]],<ref name="Coase1995"/> [[Arthur Lewis (economist)|Arthur Lewis]], [[Arthur Seldon]]
+ | contributions    =
+ | spouse           = {{marriage|Edith Render|1925}}
+}}
+
+'''Sir Arnold Plant''' (29 April 1898 – 19 April 1978) was a British [[economist]].<ref name="Yame1980">{{Cite journal| volume = 143| issue = 1| pages = 92| last = Yame| first = B. S.| title = Professor Sir Arnold Plant, 1898–1978| journal = Journal of the Royal Statistical Society. Series A (General)| year = 1980}}</ref><ref name="times">{{cite news |title= Obituary: Sir Arnold Plant – Services in the field of economics |work=[[The Times]] |date= 21 April 1978|page= 20 }}</ref>
+
+==Biography==
+Plant was born in [[Hoxton, London]], the son of a municipal librarian, William Charles Plant, and Thomasine Emily Plant.<ref>''1911 England Census''</ref><ref name="Coase1995">[[Ronald Coase|Coase, Ronald H.]] (1995). "12: Arnold Plant". ''Essays on Economics and Economists''. University of Chicago Press. pp. 176–184. {{ISBN|0-226-11102-4}}.</ref>
+After attending [[Strand School]], he worked for a mechanical engineering organisation.
+At the advice of [[William Piercy, 1st Baron Piercy|William Piercy]], he set out to learn about management.
+He obtained a [[Bachelor of Commerce|BCom]] degree (1922) and a [[Bachelor of Science|BSc]] degree in Economics (1923; specialising in modern economic history) from the [[London School of Economics]].<ref name="Coase1995"/>
+
+He worked as a professor at the [[University of Cape Town]] (1923–1930) and at the London School of Economics (1930–1965).<ref name="Yame1980"/>
+
+Plant's 1934 paper on [[patents]], "The Economic Theory Concerning Patents for Inventions",<ref>Arnold Plant,  "The Economic Theory Concerning Patents for Inventions", ''Economica: New Series'', Vol. 1, No. 1 (Feb., 1934), pp. 30-51; reprinted in Arnold Plant, Selected Economic Essays and Addresses 35 (1974).</ref> is considered a classic.
+
+In 1947, he was [[Knight Bachelor|knighted]].<ref name="Yame1980"/><ref>{{Cite journal| doi = 10.1086/466903| volume = 20| issue = 2| pages = 265–290| last = Kitch| first = Edmund W.| title = The Nature and Function of the Patent System| journal = Journal of Law and Economics| date = October 1977| s2cid = 52235846}}</ref> He died in 1978. His widow, Edith, Lady Plant, died a decade later.<ref>{{cite news |title= Deaths: Lady Plant |work=[[The Times]] |date=8 June 1988 |page= 2}}</ref>
+
+==Published work (selection)==
+* {{Cite journal
+| issue = 35
+| pages = 45–62
+| last = Plant
+| first = Arnold
+| title = Trends in Business Administration
+| journal = [[Economica]]
+| date = February 1932
+| doi = 10.2307/2548975
+| jstor = 2548975
+}}
+* {{Cite journal
+| doi = 10.2307/2548573
+| volume = 1
+| issue = 1
+| pages = 30–51
+| last = Plant
+| first = Arnold
+| title = The Economic Theory Concerning Patents for Inventions
+| journal = Economica
+| series = New Series
+| date = February 1934
+| jstor = 2548573
+}}
+* {{Cite journal
+| doi = 10.2307/2548748
+| volume = 1
+| issue = 2
+| pages = 167–195
+| last = Plant
+| first = Arnold
+| title = The Economic Aspects of Copyright in Books
+| journal = Economica
+| series = New Series
+| date = May 1934
+| jstor = 2548748
+}}
+* {{Cite journal
+| doi = 10.2307/2548933
+| volume = 6
+| issue = 22
+| pages = 205–212
+| last = Plant
+| first = Arnold
+| title = An African Survey
+| journal = Economica
+| series = New Series
+| date = May 1939
+| jstor = 2548933
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://archives.lse.ac.uk/Record.aspx?src=CalmView.Catalog&id=PLANT Arnold Plant Collection]{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }} at the [[British Library of Political and Economic Science]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Plant, Arnold}}
+[[Category:1898 births]]
+[[Category:1978 deaths]]
+[[Category:English economists]]
+[[Category:Knights Bachelor]]
+[[Category:People from Hoxton]]
+[[Category:Alumni of the London School of Economics]]
+
+{{UK-economist-stub}}

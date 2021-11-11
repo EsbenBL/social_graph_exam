@@ -1,0 +1,47 @@
+{{Infobox person
+|name        = David A. Bositis
+|image       =
+|caption     =
+|birth_date  =
+|birth_place =
+|death_date  = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+|death_place =
+|other_names =
+|known_for   = Minority Politics
+|occupation  = Senior Research Associate
+|nationality =
+}}
+
+'''David A. Bositis''' is an American expert on voting rights and redistricting.<ref name="bio">{{Cite web|url=http://www.jointcenter.org/index.php/news_room/joint_center_scholars/david_a_bositis|title=David A. Bositis|access-date=November 7, 2008|publisher=Joint Center for Political and Economic Studies|year=2008|author1=Joint Center for Political|author2=Economic Studies|archive-url=https://web.archive.org/web/20081106101229/http://www.jointcenter.org/index.php/news_room/joint_center_scholars/david_a_bositis|archive-date=November 6, 2008|url-status=dead}}</ref><ref name="usatoday">{{cite news|url=https://www.usatoday.com/news/politics/election2008/2008-11-04-voterturnout_N.htm|title=Passionate race drives a massive turnout|access-date=November 7, 2008|publisher=[[USA Today]]|author=Jill Lawrence | date=November 5, 2008}}</ref> He is a former a senior research associate at the [[Joint Center for Political and Economic Studies]] in [[Washington, D.C.]]<ref>{{Cite web|url=http://jointcenter.org/blog/voter-suppression-wrong|title=Voter Suppression is Wrong {{!}} Joint Center for Political and Economic Studies|website=jointcenter.org|access-date=2017-07-26|quote="David Bositis, who is not a Joint Center staffer, and has not worked at the Joint Center for over a year."}}</ref>
+
+Bositis is frequently consulted by major newspapers, including ''[[The New York Times]]'' and ''[[The Washington Post]]'' for his input on issues of race in politics.<ref name="nyt">{{cite news|url=https://www.nytimes.com/2008/11/02/us/politics/02first.html?em|title=Obama-Inspired Black Voters Warm to Politics |access-date=November 7, 2008|work=[[The New York Times]]|author=Susan Saulny | date=November 2, 2008}}</ref><ref name="washpost">{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2008/10/20/AR2008102002601.html|title=Black Turnout Could Decide House Races|access-date=November 7, 2008|work=[[The Washington Post]]|author=Lyndsey Layton | date=October 21, 2008}}</ref><ref name="usatoday2">{{cite news|url=https://www.usatoday.com/news/politics/election2008/2008-03-09-obamademographics_N.htm?loc=interstitialskip|title=Obama sees benefits, limits to black support|access-date=November 7, 2008|publisher=USA Today|author=Charles Babington for the [[Associated Press]] | date=March 9, 2008}}</ref>
+
+Bositis received his [[bachelor's degree]] from [[Northwestern University]], and a [[master's degree]] and [[doctorate]] from [[Southern Illinois University]].<ref name="bio"/> Bositis joined the Joint Center in 1990, and designs and manages national surveys, mainly geared towards minorities.<ref name="bio"/>
+
+Bositis is the author of at least six books and numerous articles which focus on minority politics, especially black representation and voting patterns and the effects of redistricting on minority representation.<ref name="usatoday"/>
+
+==Publications==
+{{refbegin}}
+*{{cite book | last = Bositis | first = David | title = Research Designs for Political Science | publisher = Southern Illinois University Press | location = Carbondale | year = 1990 | isbn = 0-8093-1600-5 }}
+*{{cite book | last = Bositis | first = David | title = Redistricting and Minority Representation | publisher = Joint Center for Political and Economic Studies | location = Washington | year = 1998 | isbn = 0-7618-1195-8 }}
+*{{cite book |author1=Bositis, David A. |author2=Baer, Denise L. |title=Elite cadres and party coalitions: representing the public in party politics |publisher=Greenwood Press |location=Westport, Conn |year=1988 |isbn=0-313-26153-9 |url-access=registration |url=https://archive.org/details/elitecadresparty00baer }}
+*{{cite book |author1=Bositis, David A. |author2=Baer, Denise L. |title=Politics and linkage in a democratic society |publisher=Prentice Hall |location=Englewood Cliffs, N.J |year=1993 |isbn=0-13-682402-1 }}
+*{{cite book | last = Bositis | first = David | title = The Congressional Black Caucus in the 103rd Congress | publisher = Joint Center for Political and Economic Studies | location = Washington | year = 1994 | isbn = 978-0-8191-9560-9 | url-access = registration | url = https://archive.org/details/congressionalbla00bosi }}
+{{refend}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.jointcenter.org/ Joint Center for Political and Economic Studies]
+*[http://www.religionandsocialpolicy.org/interviews/article_print.cfm?id=127 An Interview with David Bositis - Religion and Social Policy.org]
+*{{C-SPAN|David Bositis}}
+
+{{DEFAULTSORT:Bositis, David}}
+[[Category:American political scientists]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Place of birth missing (living people)]]
+
+
+{{US-poli-bio-stub}}

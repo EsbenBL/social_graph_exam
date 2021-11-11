@@ -1,0 +1,79 @@
+{{use mdy dates|date=January 2017}}
+{{Infobox academic
+| name               = Jeffrey Scott Tanaka
+| image              = 
+| image_size         = 
+| alt                = 
+| caption            = 
+| birth_date         = 1958
+| birth_place        = [[Los Angeles]], California, United States
+| death_date         = {{death date and age |1992|11|3 |1958|8 |mf=yes}}
+| death_place        = [[Bondville, Illinois]], United States
+| occupation         = Professor of [[educational psychology]]
+| title              = 
+| boards             = <!-- Board or similar positions extraneous to main occupation   -->
+| known_for          =
+| discipline         = [[Psychologist]]
+| alma_mater         = [[University of California, Los Angeles]] <small>(A.B., M.A., PhD)</small>
+| thesis_title       = 
+| thesis_url         = 
+| thesis_year        = 
+| doctoral_advisor   = 
+| doctoral_students  = 
+| notable_students   = <!--Only those with WP articles-->
+| main_interests     = [[Psychometrics]], [[multivariate statistics]], [[social psychology]], [[cognition]], [[information processing]]
+| workplaces         = 
+  {{plainlist |
+* [[New York University]]
+* [[University of Illinois at Urbana–Champaign]]
+  }}
+| notable_works      = 
+| notable_ideas      = 
+| footnotes          =
+}}
+
+'''Jeffrey Scott Tanaka'''<ref name="psychometrics-minutes">{{cite journal |first=Mark I. |last=Appelbaum |title=Minutes of the Annual Business Meeting of the Psychometric Society |journal=[[Psychometrika]] |date=Dec 1980 |volume=45 |issue=4 |pages=507{{ndash}}509 |url=https://www.psychometricsociety.org/sites/default/files/BusMeet1980.pdf |access-date=January 14, 2017}}</ref> (1958 {{ndash}} November 3, 1992) was an American [[psychologist]] and [[statistician]], known for his work in [[educational psychology]], [[social psychology]] and various fields of statistics including [[structural equation modeling]].
+
+==Biography==
+Tanaka was born in Los Angeles in 1958<ref name="cudeck-obituary">{{cite journal |first1=Robert |last1=Cudeck |first2=Bill |last2=Chaplin |first3=Lisa |last3=Harlow |first4=Terence J. |last4=La Du |first5=A. T. |last5=Panter |first6=Tim |last6=Strauman |title=Jeffrey S. Tanaka 1958-1992 |journal=[[Multivariate Behavioral Research]] |date=1993 |volume=28 |issue=2 |pages=161{{ndash}}170 |doi=10.1207/s15327906mbr2802_1 }}</ref> to parents Margaret and Shoji Tanaka.<ref name="nyt-obituary">{{cite news |title=Jeffrey S. Tanaka, 34, Psychology Professor |newspaper=[[The New York Times]] |date=November 12, 1992 |url=https://www.nytimes.com/1992/11/12/obituaries/jeffrey-s-tanaka-34-psychology-professor.html}}</ref> In 1979, Tanaka received an [[A.B.]] ([[cum laude]]) in [[quantitative psychology]] at [[UCLA]], followed by an [[M.A.]] in psychology in 1980 and a PhD in [[psychometrics]] in 1984.<ref name="harlow-obituary">{{cite journal |first=Lisa L. |last=Harlow |title=In memoriam: Jeffrey S. Tanaka |journal=Structural Equation Modeling: A Multidisciplinary Journal |volume=1 |issue=1 |year=1994 |pages=2{{ndash}}4 |doi=10.1080/10705519409539959}}</ref>
+
+His professional academic career began at [[New York University]] (NYU), where he was assistant professor of psychology from 1983. In 1990, he joined the [[University of Illinois, Urbana-Champaign]] as associate professor while continuing his career at NYU as visiting research associate professor.<ref name="harlow-obituary"/>
+
+Tanaka applied himself in a wide range of fields. As a psychologist, he worked in [[social psychology]], [[educational psychology]]<ref name="latimes-obituary">{{cite news |title=Jeffrey S. Tanaka; Educational Psychologist, Writer |newspaper=[[Los Angeles Times]] |date=November 14, 1992 |url=http://articles.latimes.com/1992-11-14/news/mn-44_1_educational-psychology}}</ref> and [[cognition]]. In statistics, his research interests included [[structural equation modeling]],<ref name="child-dev-1987">{{cite journal |last1=Tanaka |first1=J. S. |title="How big is big enough?": sample size and goodness of fit in structural equation models with latent variables |journal=Child Development |date=Feb 1987 |volume=58 |issue=1 |pages=134{{ndash}}146 |doi=10.2307/1130296|jstor=1130296 }}</ref> [[factor analysis]] and [[Categorical variable|categorical data analysis]].<ref name="harlow-obituary"/>
+
+On November 3, 1992, Tanaka died in an automobile accident near [[Bondville, Illinois]]<ref name="nyt-obituary"/> at the age of 34.<ref name="cudeck-obituary"/><ref name="latimes-obituary"/>
+
+==Legacy==
+Due to his work with the [[American Psychological Association]] (APA) in raising awareness for ethnic minority issues in academia (Tanaka was an ethnic minority himself), the APA named their ''Jeffrey S. Tanaka Dissertation Award'' in his memory.<ref name="harlow-obituary"/><ref name="tanaka-award">{{cite web |title=Jeffrey S. Tanaka Memorial Dissertation Award in Psychology |website=[[American Psychological Association]] |url=http://www.apa.org/about/awards/tanaka-award.aspx |access-date=January 14, 2017}}</ref>
+
+In 1993, the [[Journal of Personality]] started to run a series of papers titled ''The Jeffrey S. Tanaka Occasional Papers in Quantitative Methods for Personality'' in Tanaka's memory. As of 2011, papers were still being written for the series.<ref>{{cite journal |journal=[[Journal of Personality]] |title=Announcement: The Jeffrey S. Tanaka Occasional Papers in Quantitative Methods for Personality |date=January 11, 2011 |first=Howard |last=Tennen |doi=10.1111/j.1467-6494.2010.00681_1.x |volume=79 |issue=1 |page=1}}</ref>
+
+In 1994, the [[Society of Multivariate Experimental Psychology]] introduced the ''Tanaka Award for Best Article in Multivariate Behavioral Research'', given annually to the authors of the most outstanding paper in the ''[[Multivariate Behavioral Research]]'' journal.<ref name=smep>{{cite web |url=https://www.smep.org/awards/tanaka |website=Society of Multivariate Experimental Psychology |access-date=September 29, 2018 |title=Tanaka Award for Best Article in Multivariate Behavioral Research}}</ref>
+
+==Publications==
+
+===Selected academic works===
+The works below are listed by number of times cited (descending), according to data from [[Google Scholar]] (correct as of January 2017).
+* {{cite journal |last1=Tanaka |first1=J. S. |title=Multifaceted conceptions of fit in structural equation models |journal=SAGE Focus Editions |date=1993 |volume=154 |pages=10{{ndash}}39 }}
+* {{cite journal |last1=Tanaka |first1=J. S. |title="How big is big enough?": sample size and goodness of fit in structural equation models with latent variables |journal=[[Child Development (journal)|Child Development]] |date=Feb 1987 |volume=58 |issue=1 |pages=134{{ndash}}146 |doi=10.2307/1130296|jstor=1130296 }}
+* {{cite journal |last1=Malamuth |first1=N. M. |last2=Sockloskie |first2=R. J. |last3=Koss |first3=M. P. |author-link3=Mary P. Koss |last4=Tanaka |first4=J. S. |title=Characteristics of aggressors against women: Testing a model using a national sample of college students |journal=[[Journal of Consulting and Clinical Psychology]] |date=Oct 1991 |volume=59 |issue=5 |pages=670{{ndash}}681 |doi=10.1037/0022-006X.59.5.670 |pmid=1955602}}
+* {{cite journal |last1=Tanaka |first1=J. S. |last2=Huba |first2=G. J. |title=A fit index for covariance structure models under arbitrary GLS estimation |journal=[[British Journal of Mathematical and Statistical Psychology]] |date=Nov 1985 |volume=38 |issue=2 |pages=197{{ndash}}201 |doi=10.1111/j.2044-8317.1985.tb00834.x}}
+* {{cite journal |last1=Tanaka |first1=J. S. |last2=Huba |first2=G. J. |title=Confirmatory hierarchical factor analyses of psychological distress measures |journal=[[Journal of Personality and Social Psychology]] |date=Mar 1984 |volume=46 |issue=3 |pages=621{{ndash}}635 |doi=10.1037/0022-3514.46.3.621}}
+* {{cite journal |last1=Tanaka |first1=J. S. |last2=Huba |first2=G. J. |title=A general coefficient of determination for covariance structure models under arbitrary GLS estimation |journal=British Journal of Mathematical and Statistical Psychology |date=Nov 1989 |volume=42 |issue=2 |pages=233{{ndash}}239 |doi=10.1111/j.2044-8317.1989.tb00912.x}}
+* {{cite journal |last1=la Du |first1=T. J. |last2=Tanaka |first2=J. S. |title=Influence of sample size, estimation method, and model specification on goodness-of-fit assessments in structural equation models |journal=[[Journal of Applied Psychology]] |date=Aug 1989 |volume=74 |issue=4 |pages=625{{ndash}}635 |doi=10.1037/0021-9010.74.4.625}}
+* {{cite journal |last1=Lebovits |first1=A. H. |last2=Strain |first2=J. J. |last3=Schleifer |first3=S. J. |last4=Tanaka |first4=J. S. |last5=Bhardwaj |first5=S. |last6=Messe |first6=M. R. |title=Patient noncompliance with self-administered chemotherapy |journal=[[Cancer (journal)|Cancer]] |date=1990 |volume=65 |issue=1 |pages=17{{ndash}}22 |doi=10.1002/1097-0142(19900101)65:1<17::AID-CNCR2820650106>3.0.CO;2-I|pmid=2293862 }}
+
+==References==
+{{Reflist}}
+
+{{Psychology}}
+{{Authority control}}
+
+{{DEFAULTSORT:Tanaka, Jeffrey S.}}
+[[Category:1958 births]]
+[[Category:1992 deaths]]
+[[Category:American psychologists]]
+[[Category:New York University faculty]]
+[[Category:University of California, Los Angeles alumni]]
+[[Category:University of Illinois at Urbana–Champaign faculty]]
+[[Category:20th-century psychologists]]

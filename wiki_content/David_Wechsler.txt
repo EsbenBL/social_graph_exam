@@ -1,0 +1,68 @@
+{{short description|Romanian-American psychologist}}
+{{Infobox scientist
+| name = David "Wechy" Wechsler
+| image = File:Dr. David Wechsler.jpg
+| caption = Wechsler seated at a table, conducting a test on a patient.
+| birth_date = January 12, 1896
+| birth_place = [[Lespezi]], [[Kingdom of Romania|Romania]]
+| death_date = May 2, 1981 (aged 85)
+| death_place = [[New York City]], U.S.
+| residence = 
+| citizenship = 
+| nationality = 
+| alma_mater = 
+| doctoral_advisor = 
+| doctoral_students = 
+| known_for = [[Wechsler Adult Intelligence Scale]], <br>[[Wechsler Intelligence Scale for Children]]
+| influences = [[Charles Spearman]]
+| influenced = [[Alan S. Kaufman]]
+| ethnicity = 
+| field = [[Psychology]]
+| work_institutions = 
+| prizes = 
+| religion = 
+}}
+'''David Wechsler''' ({{IPAc-en|ˈ|w|ɛ|k|s|l|ər}}; January 12, 1896 – May 2, 1981) was a Romanian-American psychologist. He developed well-known intelligence scales, such as the [[Wechsler Adult Intelligence Scale]] (WAIS) and the [[Wechsler Intelligence Scale for Children]] (WISC). A ''[[Review of General Psychology]]'' survey, published in 2002, ranked Wechsler as the 51st most cited psychologist of the 20th century.<ref>{{cite journal |last1=Haggbloom |first1=Steven J. |title=The 100 most eminent psychologists of the 20th century |journal=Review of General Psychology |volume=6 |issue=2 |year=2002 |pages=139–152 |doi=10.1037/1089-2680.6.2.139 |last2=Warnick |first2=Renee |last3=Warnick |first3=Jason E. |last4=Jones |first4=Vinessa K. |last5=Yarbrough |first5=Gary ., III|s2cid=145668721 | display-authors=2|url=http://creativity.ipras.ru/texts/top100.pdf }}</ref>
+
+==Biography==
+Wechsler was born in a [[History of the Jews in Romania|Jewish]] family in [[Lespezi]], [[Romania]], and emigrated with his parents to the [[United States]] as a child. He studied at the [[City College of New York]] and [[Columbia University]], where he earned his master's degree in 1917 and his Ph.D. in 1925 under the direction of [[Robert S. Woodworth]]. During [[World War I]], he worked with the [[United States Army]] to develop psychological tests to screen new draftees while studying under [[Charles Spearman]] and [[Karl Pearson]].
+
+After short stints at various locations (including five years in private practice), Wechsler became chief [[psychologist]] at [[Bellevue Hospital Center|Bellevue Psychiatric Hospital]] in 1932, where he stayed until 1967.
+
+He died on May 2, 1981.<ref>{{cite news |author=Wolfgang Saxon |title=Dr. David Wechsler, 85, Author Of Intelligence Tests |url=https://www.nytimes.com/1981/05/03/obituaries/dr-david-wechsler-85-author-of-intelligence-tests.html |quote=Dr. David Wechsler, a psychologist who was the author of widely used intelligence tests, died yesterday at his home on Manhattan's East Side. He was 85 years old. |newspaper=[[The New York Times]] |date=May 3, 1981 |access-date=2014-08-18 |author-link= Wolfgang Saxon}}</ref>
+
+==Intelligence scales==
+
+Wechsler is best known for his [[intelligence tests]]. He was one of the most influential advocates of the role of nonintellective factors in testing. He emphasized that factors other than intellectual ability are involved in intelligent behavior.<ref>Kaplan, R. M. & Saccuzzo, O. P. (2009). Psychological testing: Principles, applications, and issues (7 ed.), (pp. 250). Belmont, CA: Wadsworth.</ref> Wechsler objected to the single score offered by the 1937 Binet scale. Although his test did not directly measure nonintellective factors, it took these factors into careful account in its underlying theory.<ref>Kaplan, R. M. & Saccuzzo, O. P. (2009). Psychological testing: Principles, applications, and issues (7 ed., pp 250-251). Belmont, CA: Wadsworth.</ref> The [[Wechsler Adult Intelligence Scale]] (WAIS) was developed first in 1939 and then called the Wechsler-Bellevue Intelligence Test. From these he derived the [[Wechsler Intelligence Scale for Children]] (WISC) in 1949 and the [[Wechsler Preschool and Primary Scale of Intelligence]] (WPPSI) in 1967. Wechsler originally created these tests to find out more about his patients at the Bellevue clinic and he found the then-current [[Stanford-Binet IQ test|Binet IQ test]] unsatisfactory. The tests are still based on his philosophy that intelligence is "the global capacity to act purposefully, to think rationally, and to deal effectively with [one's] environment" (cited in Kaplan & Saccuzzo, p.&nbsp;256).
+
+The Wechsler scales introduced many novel concepts and breakthroughs to the intelligence testing movement. First, he did away with the quotient scores of older intelligence tests (the Q in "[[Intelligence quotient|I.Q.]]"). Instead, he assigned an arbitrary value of 100 to the mean intelligence and added or subtracted another 15 points for each [[standard deviation]] above or below the mean the subject was. While not rejecting the concept of [[g factor (psychometrics)|general intelligence]] (as conceptualized by his teacher [[Charles Spearman]]), he divided the concept of [[intelligence (trait)|intelligence]] into two main areas: verbal and performance (non-verbal) scales, each evaluated with different subtests.
+
+== References ==
+{{reflist|30em}}
+
+== Bibliography ==
+
+* {{Cite book |title=The Wechsler Enterprise: An Assessment of the Development, Structure, and Use of the Wechsler Tests of Intelligence |last=Frank |first=George |year=1983 |publisher=Pergamon |location=Oxford |isbn=978-0-08-027973-2 |url-access=registration |url=https://archive.org/details/wechslerenterpri0000fran }}
+* {{Cite book |title=Psychological Testing: Principles, Applications, and Issues |last1=Kaplan |first1=Robert M. |last2=Saccuzzo |first2=Dennis P. |year=2009 |edition=Seventh |publisher=Wadsworth |location=Belmont (CA) |isbn=978-0-495-09555-2}}
+* {{Cite book |title=Intelligent Testing with the WISC-V |last1=Kaufman |first1=Alan S. |author-link=Alan S. Kaufman |last2=Raiford |first2=Susan Engi |last3=Coalson |first3=Diane L. |series=Wiley |year=2016 |publisher=Wiley |location=New York (NY) |isbn=978-1118589236 }}
+* {{Cite book |title=IQ Testing 101 |last=Kaufman |first=Alan S. |author-link=Alan S. Kaufman |year=2009 |publisher=Springer Publishing |location=New York |isbn=978-0-8261-0629-2}}
+* {{Cite book |title=Assessing Adolescent and Adult Intelligence |last1=Kaufman |first1=Alan S. |last2=Lichtenberger |first2=Elizabeth |author-link1=Alan S. Kaufman |edition=3rd |year=2006 |publisher=Wiley |location=Hoboken (NJ) |isbn=978-0-471-73553-3}}
+* {{Cite book |title=The Measurement of Adult Intelligence |last=Wechsler |first=David |author-link=David Wechsler |year=1939 |publisher=Williams & Witkins |location=Baltimore (MD) }}
+* {{Cite book |title=The Measurement and Appraisal of Adult Intelligence |last=Wechsler |first=David |author-link=David Wechsler |year=1958 |edition=fourth |publisher=Williams & Witkins |location=Baltimore (MD) }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wechsler, David}}
+[[Category:1896 births]]
+[[Category:1981 deaths]]
+[[Category:American people of Romanian-Jewish descent]]
+[[Category:American psychologists]]
+[[Category:City College of New York alumni]]
+[[Category:Columbia University alumni]]
+[[Category:Educational psychologists]]
+[[Category:Intelligence researchers]]
+[[Category:Jewish American social scientists]]
+[[Category:Romanian emigrants to the United States]]
+[[Category:Romanian Jews]]
+[[Category:20th-century psychologists]]
+[[Category:20th-century American Jews]]

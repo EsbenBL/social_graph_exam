@@ -1,0 +1,81 @@
+{{more footnotes|date=March 2013}}
+{{Infobox economist
+| name             = Sherwin Rosen
+| school_tradition = [[Chicago School of Economics]]
+| image       =
+| image_size       =
+| caption    =
+| birth_date       = {{Birth date|1938|09|29}}
+| birth_place      = [[Chicago, Illinois]]
+| death_date       = {{Death date and age|2001|03|17|1938|09|29}}
+| death_place      = [[South Side, Chicago]]
+| nationality      = [[United States]]
+| institution      = [[University of Chicago]]
+| field            = [[Labor economics]]
+| alma_mater       = University of Chicago<br>[[Purdue University]]
+| doctoral_advisor          = [[H. Gregg Lewis]]
+| academic_advisors         =
+| doctoral_students         = [[Richard Thaler]]<br>[[Justin Yifu Lin]]<br>[[Kevin M. Murphy]]<br>[[Luis Garicano]]<br>[[Antoinette Schoar]]
+| notable_students          =
+| influences       = 
+| influenced       = [[Xavier Gabaix]]<br> Thomas Hubbard<br> Mark Harrison <br> [[David O. Meltzer]]
+| contributions    =
+| awards           =
+| notes=Relatives: [[Joseph Epstein (writer)|Joseph Epstein]] (cousin)
+| signature        = <!-- file name only -->
+| repec_prefix = e 
+| repec_id = pro58
+}}
+
+'''Sherwin Rosen''' (September 29, 1938 – March 17, 2001) was an [[United States|American]] [[labour (economics)|labor]] [[economist]]. He had ties with many American universities and academic institutions including the [[University of Chicago]], the [[University of Rochester]], [[Stanford University]] and its [[Hoover Institution]]. At the time of his death, Rosen was Edwin A. and Betty L. Bergman Distinguished Service Professor in Economics at the [[University of Chicago]] and president of the [[American Economic Association]].
+
+Rosen received his B.S. in economics from [[Purdue University]] in 1960, his M.A. and Ph.D. in economics from the [[University of Chicago]] in 1962 and 1966 respectively.
+
+He was chair of the Economics department at the [[University of Chicago]] and colleague to an impressive range of celebrated economists including friend [[Gary S. Becker]]. He was elected to the [[United States National Academy of Sciences|National Academy of Sciences]] in 1997.
+
+Rosen died at the [[Bernard Mitchell Hospital]] on March 17, 2001 at the age of 62.
+
+==Contributions to economics==
+As Palda wrote in 2013<ref>{{cite book|last1=Palda|first1=Filip|title=The Apprentice Economist: Seven Steps to Mastery|date=2013|publisher=Cooper-Wolfling Press|page=132}}</ref> {{quote|text=In his 1974 and 1986 articles Sherwin Rosen asked what would happen if you were limited in how you could move about through characteristics space. Rosen pointed out that sometimes when buying a product with several underlying characteristics you could not just go out and span characteristics space by buying a bit of another product with the same characteristics but in different proportions. The reason was that sometimes when you buy something, you are selling something at the same time and are able to sell uniquely to one purchaser. Recombining goods to balance characteristics to suit your tastes is not possible. Rosen called such exchanges tied-sales.}}
+Rosen showed that tied sales could lead to the segregation of people by their types. He argued that the worst effects of segregation could be palliated by a market that resolved supply and demand of complicated tied sales situations through a monetary payment he called an “equalizing difference”. This work led to many unexpected insights on the effects of government policy. For example, the minimum wage might not decrease employment, as economists commonly believed, but it might induce employers to provide less on-the-job training to employees. In addition to implications for policy, Rosen's analysis of choice in characteristics space with tied sales specified the conditions under which the parameters of demand and supply function parameters for the underlying characteristics of goods could be deduced from so-called [[hedonic regression]]s.
+
+==Selected works==
+* {{Citation |doi= 10.1086/250112 |first1= Sherwin|year=1999 |title=Potato Paradoxes |journal=Journal of Political Economy |volume=107 |issue=6, pt. 2 |pages=S294–313 |s2cid= 222454869}}
+* {{citation | jstor=1829907|title=Education and Self-Selection|last1=Willis|first1=Robert J.|last2=Rosen|first2=Sherwin|journal=Journal of Political Economy|year=1979|volume=87|issue=5|pages=S7–S36|doi=10.1086/260821|url=http://www.nber.org/papers/w0249.pdf}}
+* {{Citation |year=1981 |title=The Economics of Superstars |journal=American Economic Review |volume=71 |issue=5 |pages=845–858 }}
+* {{Citation |year=1974 |title=Hedonic Prices and Implicit Markets: Product Differentiation in Pure Competition |journal=The Journal of Political Economy |volume=82 |issue=1 |pages=34–55 |doi=10.1086/260169|first1= Sherwin|citeseerx=10.1.1.517.5639|s2cid= 39481486}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://chronicle.uchicago.edu/010329/obit-rosen.shtml Obituary] posted at the University of Chicago website.
+* {{Find a Grave}}
+* Lazear, Edward P. (2003). [http://www.nap.edu/readingroom/books/biomems/srosen.pdf "Sherwin Rosen,"] ''Biographical Memoirs, Vol. 83'' (National Academies Press, 2003), pp.&nbsp;176–195. {{ISBN|0-309-08699-X}}. Online versioni retrieved January 13, 2007.
+
+{{s-start}}
+{{s-aca}}
+{{s-bef | before = [[Dale W. Jorgenson]] }}
+{{s-ttl | title = [[American Economic Association#Association presidents|President]] of the [[American Economic Association]] | years = 2001– 2002 }}
+{{s-aft | after = [[Robert Lucas Jr.]] }}
+{{s-end}}
+
+{{Chiconomists}}
+{{Presidents of the American Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rosen, Sherwin}}
+[[Category:1938 births]]
+[[Category:2001 deaths]]
+[[Category:American people of German descent]]
+[[Category:Labor economists]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Purdue University alumni]]
+[[Category:University of Chicago alumni]]
+[[Category:University of Chicago faculty]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Presidents of the American Economic Association]]
+[[Category:Distinguished Fellows of the American Economic Association]]

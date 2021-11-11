@@ -1,0 +1,183 @@
+{{Short description|Polish economist, historian, and Marxist theorist and revolutionary}}
+{{Infobox economist
+|name = Henryk Grossman
+|school_tradition = [[Marxian economics]]
+|image       =
+|caption     =
+|birth_date  = {{Birth date|1881|04|14|df=y}}
+|birth_place = [[Kraków]], [[Austrian Poland]]
+|death_date  = {{Death date and age|1950|11|24|1881|04|14|df=y}}
+|death_place = [[Leipzig]], [[East Germany]]
+|institution =
+|nationality = [[Poland|Polish]]
+|contributions =
+|influences  = [[Carl Grünberg]], [[Karl Marx]], [[Jean de Sismondi]]<ref>{{cite book |last1=Kuhn |first1=Rick |title=Henryk Grossman and the Recovery of Marxism |date=2007 |publisher=University of Illinois Press |page=105}}</ref>
+|influenced  = [[Chris Harman]], [[Paul Mattick]]
+}}
+
+'''Henryk Grossman''' (alternative spelling: ''Henryk Grossmann''; 14 April 1881 – 24 November 1950) was a [[Poland|Polish]] economist, historian, and [[Marxist]] revolutionary active in both Poland and [[Germany]].
+
+Grossman's key contribution to political-economic theory was his book, ''The Law of Accumulation and Breakdown of the Capitalist System'', a study in [[Marxian economics|Marxian]] [[crisis theory]]. It was published in [[Leipzig]] months before the [[Wall Street Crash 1929|Stock Market Crash of 1929]].
+
+==Early life and education==
+Grossman was born as Chaskel Grossman into a relatively prosperous Polish-Jewish family in [[Kraków]], [[Poland]] (then part of [[Austria-Hungary|Austrian]] Galicia).<ref>Rick Kuhn ''Henryk Grossman and the Recovery of Marxism'' p.2</ref>   Although his parents were assimilated into Krakow society, they nevertheless ensured their sons were circumcised and registered as members of the Jewish community.<ref name=":0">{{Cite book|title=Grand Hotel Abyss p.18|last=Jeffries|first=Stuart}}</ref>  His father died at the age of 54 when Henryk was 15.<ref name=":0" /> 
+
+He joined the [[socialist]] movement around 1898, becoming a member of the [[Social Democratic Party of Galicia]] (GPSD), an affiliate of the [[Social Democratic Workers' Party of Austria]].<ref>Rick Kuhn ''Henryk Grossman and the Recovery of Marxism'' p.4</ref> The GPSD, led by [[Ignacy Daszyński]], was formally [[Marxist]], but dominated by [[Polish nationalism|Polish nationalists]] close to the [[Polish Socialist Party]] (PPS).<ref>Rick Kuhn ''Henryk Grossman and the Recovery of Marxism'' pp. 4–7</ref> When the [[Ukrainian Social Democratic Party (1899)|Ukrainian Social Democratic Party]] in Galicia (USPD) was formed in 1899, the GSPD became the [[Polish Social Democratic Party]] (PPSD) and the Polish nationalist current was strengthened.<ref>Rick Kuhn ''Henryk Grossman and the Recovery of Marxism'' p.6</ref> Grossman led the resistance of [[orthodox Marxism|orthodox Marxists]] to this current. Along with [[Karl Radek]], he was active in the socialist student movement, particularly in ''Ruch'' (Movement), which included members of the PPSD as well as of the two socialist parties in the [[Congress Poland|Kingdom of Poland]], the PPS and the [[Social Democracy of the Kingdom of Poland and Lithuania]] (SDKPiL – led by [[Rosa Luxemburg]] and [[Leo Jogiches]]).<ref>Rick Kuhn ''Henryk Grossman and the Recovery of Marxism'' pp. 8–16</ref> He was the main figure in the newspaper ''Zjednoczenie'' (Unification), which took a line close to the SDKPiL, against the pro-PPS politics of ''Ruch''s main organ, ''Promień'' for which he was censured by the PPSD and its newspaper ''Naprzód''.<ref>Rick Kuhn ''Henryk Grossman and the Recovery of Marxism'' pp. 10–16</ref>
+
+During this period, Grossman learned [[Yiddish]] and became involved in the Jewish workers' movement in Kraków. Grossman was the founding secretary and theoretician of the [[Jewish Social Democratic Party]] of Galicia (JSDP) in 1905. The JSDP broke with the PPSD over the latter's belief that the Jewish workers should assimilate to Polish culture. It took a position close to the [[General Jewish Labour Bund in Lithuania, Poland and Russia|Bund]], and was critical of the [[labour Zionism]] of the [[Poale Zion]] as well to assimilationist forms of socialism.<ref>Rick Kuhn ''Henryk Grossman and the Recovery of Marxism'' pp. 16–72</ref> The JSDP sought to affiliate to the Social Democratic Workers' Party of Austria (the General Party), but this was refused. However, the JSDP was active alongside the General Party, for example for [[universal suffrage]].
+
+Grossman earned his [[Juris Doctor]] in 1908 from the [[Jagiellonian University]]. At the end of 1908, he went to the [[University of Vienna]] to study with the Marxian economic historian [[Carl Grünberg]], withdrawing from his leadership role in the JSDP (although he remained on its executive until 1911 and had contact with the small JSDP group in Vienna, the Ferdinand Lassalle Club).<ref>Rick Kuhn ''Henryk Grossman and the Recovery of Marxism'' pp. 70–77</ref> With the destruction of the Austro-Hungarian empire at the end of [[World War I]], Grossman became an economist in [[Poland]], and joined the [[Communist Party of Poland]].
+
+==Career==
+From 1922 to 1925, Grossman was Professor of economics at the [[Free Polish University]] in Warsaw. He emigrated in 1925 to escape political persecution. The same year he was invited to join the Marxian [[Institute for Social Research]] in Frankfurt by his former tutor Carl Grünberg.
+
+[[Adolf Hitler|Hitler]]'s accession to power in 1933 forced him first to Paris, and then via Britain to New York, where he remained in relative isolation from 1937 until 1949. In that year he took up a professorship in political economy at the [[University of Leipzig]] in [[East Germany]].
+
+Grossman's ''The Law of Accumulation and Breakdown of the Capitalist System''(1929) despite being one of the first publications of the [[Frankfurt School]] was only made available in English translation in 1979 by [[Jairus Banaji]], for an Indian Trotskyist organisation, the [[Platform Tendency]]. A recent edition is: {{ISBN|0-7453-0459-1}}. However, it is a condensed version and lacks the important concluding chapter of the German original.
+
+==Contribution to theory==
+While at Frankfurt in the mid-1920s, Grossman contended that a "general tendency to cling to the results" of [[Karl Marx]]'s theory in ignorance of the subtleties of "the method underlying ''[[Das Kapital|Capital]]''" was causing a catastrophic vulgarisation of Marxian thought, a trend which was undermining the revolutionary possibilities of the moment.
+
+''The Law of Accumulation'' was his attempt to demonstrate that Marxian political economy had been underestimated by its critics and by extension that revolutionary critiques of [[capitalism]] were still valid. Amongst other arguments, it sets forth the following demonstration (for a complete definition of the terms employed, the whole book is recommended):
+
+===Logical and mathematical basis of the law of breakdown===
+Apart from the arithmetical and logical proofs that we have been given already, mathematicians may prefer the following more general form of presentation which avoids the purely arbitrary values of a concrete numerical example.
+
+; Meaning of the symbols
+'' c '' = [[constant capital]]. Initial value = ''c<sub>o</sub>''. Value after ''j'' years = ''c<sub>j</sub>''<br>
+'' v '' = [[variable capital]]. Initial value = ''v<sub>o</sub>''. Value after ''j'' years = ''v<sub>j</sub>''<br>
+'' s '' = rate of [[surplus value]] (written as a percentage of ''v'')<br>
+'' a<sub>c</sub> '' = rate of [[capital accumulation|accumulation]] of constant capital ''c''<br>
+'' a<sub>v</sub> '' = rate of accumulation of variable capital ''v''<br>
+'' k '' = consumption share of capitalists<br>
+'' S '' = mass of surplus value, being:
+
+<math>k + {a_{c} \cdot c\over 100} + {a_{v} \cdot v\over 100}</math>
+
+'' Ω '' = [[organic composition of capital]], or ''c'':''v''<br>
+(Correction with respect to Grossman's text: From the formula below it follows that Grossman means by '' Ω '' the initial value of the organic composition of capital ''<math>c_0</math>'':''<math>v_0</math>'')<br>
+'' j '' = number of years
+
+Further, let <br>
+<math> r = 1 + {a_c\over 100}</math>
+
+and let <br>
+<math> w = 1 + {a_v\over 100}</math>
+
+===Formula===
+After ''j'' years at the assumed rate of accumulation ''a<sub>c</sub>'', the constant capital ''c'' reaches the level:
+<math>c_j = c_{o} \cdot r^j</math>
+
+At the assumed rate of accumulation ''a<sub>v</sub>'', the variable capital  ''v'' reaches the level:
+<math>v_j = v_{o} \cdot w^j</math>
+
+The year after (''j'' + 1) accumulation is continued as usual according to the formula:
+<math>S = k +
+{c_{o} \cdot r^{j} \cdot a_c \over 100} +
+{v_{o} \cdot w^{j} \cdot a_v \over 100} =
+{s \cdot v_{o} \cdot w^j \over 100}
+</math>
+
+whence
+
+<math> k = {v_{o} \cdot w^{j} (s - a_{v})\over 100} - {c_{o} \cdot r^{j} \cdot a_c\over 100}</math>
+
+For ''k'' to be greater than 0, it is necessary that:
+<math>{v_{o} \cdot w^{j} (s - a_{v})\over 100} >  {c_{o} \cdot r^{j} \cdot a_c\over 100}</math>
+
+''k'' = 0 for a year ''n'', if:
+<math> {v_{o} \cdot w^{n} (s - a_{v})\over 100} = {c_{o} \cdot r^{n} \cdot a_c\over 100}</math>
+
+Note this line follows the German original in ''Das Akkumulations- und Zusammenbruchsgesetz des kapitalistischen Systems (zugleich eine Krisentheorie)'' because it is misspecified in the condensed English translation.
+
+The timing of the absolute crisis is given by the point at which the consumption share of the entrepreneur vanishes completely, long after it has already started to decline. This means:
+
+<math>({r \over w})^n = {s - a_v\over \Omega \cdot a_c}</math>
+
+whence ''n'' =
+<math>
+{log \left( \frac{s - a_v}{\Omega \cdot a_c} \right)}
+\over
+{log \left( \frac{100 + a_c}{100 + a_v} \right)}
+</math>
+
+This is a real number as long as ''s > a<sub>v</sub>''
+
+However, this is what we assume anyway throughout our investigation. Starting from time-point ''n'', the mass of surplus value ''S'' is not sufficient to ensure the valorisation of ''c'' and ''v'' under the conditions postulated.
+
+===Discussion of the formula===
+The number of years ''n'' down to the absolute crisis thus depends on four conditions:
+# The level of organic composition ''Ω''. The higher this is the smaller the number of years. The crisis is accelerated.
+# The rate of accumulation of the constant capital ''a<sub>c</sub>'', which works in the same direction as the level of the organic composition of capital.
+# The rate of accumulation of the variable capital ''a<sub>v</sub>'', which can work in either direction, sharpening the crisis or defusing it, and whose impact is therefore ambivalent.
+# The level of the rate of surplus value ''s'', which has a defusing impact; that is, the greater is ''s'', the greater is the number of years ''n'', so that the breakdown tendency is postponed.
+
+The accumulation process could be continued if the earlier assumptions were modified:
+# The rate of accumulation of the constant capital ''a<sub>c</sub>'' is reduced and the tempo of accumulation slowed down.
+# The constant capital is devalued which again reduces the rate of accumulation ''a<sub>c</sub>''.
+# Labour power is devalued, hence wages cut, so that the rate of accumulation of variable capital ''a<sub>v</sub>'' is reduced and the rate of surplus value  ''s'' is enhanced.
+# Finally, capital is exported, so that again the rate of accumulation ''a<sub>c</sub>'' is reduced.
+
+These four major cases allow us to deduce all the variations that are actually to be found in reality and which impart to the [[capitalist mode of production (Marxist theory)|capitalist mode of production]] a certain elasticity ...
+
+Much of the remainder of Grossman's book is devoted to exploring these "elasticities" or counter-crisis tendencies, tracking both their logical and their actual, historical development. Examples of each would include:
+# Depressed interest rates, investment capital transferred to unproductive speculation, e.g. housing stock, art objects.
+# Enlarged state sector bleeds value from the accumulation process via taxes. Wars destroy capital values.
+# The [[reserve army of labour]] (unemployed) created to discipline wage claims.
+# [[Imperialism]]
+
+== Personal life ==
+Grossman lost his immediate family in the Holocaust.  His wife Jana and his son Jan were murdered in Auschwitz in 1943.<ref name=":1">{{Cite book|title=Grand Hotel Abyss p.262|last=Jeffries|first=Stuart}}</ref> His return to Leipzig was considered in the newly-formed [[East Germany|German Democratic Republic]] to be a success for the regime, and he was nominated by the city of Leipzig in March 1950 for the [[National Prize of the German Democratic Republic|National Prize]] 'for the totality of his scientific achievements in the area of scientific socialism', but did not win.  He was plagued with ill health and died after suffering with prostate problems and [[Parkinson's disease]].<ref name=":1" />
+
+==See also==
+* [[Reproduction (economics)]]
+* [[Capital accumulation]]
+* [[Crisis theory]]
+* [[Tendency of the rate of profit to fall]]
+* [[Surplus value]]
+* [[Organic composition of capital]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Kuhn, Rick (ed.) ''[https://brill.com/view/title/57604 Henryk Grossman Works, Volume 2: Political Writings]'' Brill, 2020
+* Kuhn, Rick (ed.) ''[https://brill.com/view/title/32347 Henryk Grossman Works, Volume 1: Essays and Letters on Economic Theory]'' Brill, 2018
+* Freudenthal, Gideon and Mclaughlin, Peter (editors) ''The Social and Economic Roots of the Scientific Revolution: Texts by Boris Hessen and Henryk Grossmann'' Springer 2009 {{ISBN|978-1-4020-9603-7}}
+* Grossman, Henryk ''The Law of Accumulation and Breakdown of the Capitalist System'' Pluto 1992 {{ISBN|0-7453-0459-1}}
+* Kuhn, Rick ''Henryk Grossman and the Recovery of Marxism'' Urbana and Chicago: University of Illinois Press, 2007. {{ISBN|0-252-07352-5}}
+* Grossman, Henryk [2017] ''Capitalism’s Contradictions: Studies in Economic Theory before and after Marx'' Ed. Rick Kuhn, Trans. Birchall, Kuhn, O’Callaghan. Haymarket, Chicago.  {{ISBN|978-1-60846-779-2}}
+* Scheele, Juergen ''Zwischen Zusammenbruchsprognose und Positivismusverdikt. Studien zur politischen und intellektuellen Biographie Henryk Grossmanns (1881–1950)'' Frankfurt a.M., Berlin, Bern, Bruxelles, New York, Wien: Peter Lang, 1999. {{ISBN|3-631-35153-4}}.
+
+==External links==
+* Grossman, Henryk, [http://www.marxists.org/archive/grossman/index.htm The Henryk Grossman Internet Archive]. A collection of Grossman's writings.
+* Grossman, Henryk [https://digitalcollections.anu.edu.au/bitstream/1885/11086/2/Grossman_FiftyYearsMarxism2013.pdf ''Fifty years of struggle over Marxism 1883‐1932'']
+* [[Chris Harman|Harman, Chris]], [http://www.isj.org.uk/index.php4?id=322&issue=114 "Forgotten treasure: a new biography of Grossman"], ''International Socialism'', No. 114, Spring 2007. A review of Kuhn's Grossman biography.
+* Heartfield, James, [http://www.spiked-online.com/index.php?/site/reviewofbooks_article/3632/ "Why Grossman still matters"], ''Spiked Review of Books'', No. 3, July 2007. Another review of Kuhn's Grossman biography.
+* Kuhn, Rick, [http://www.anu.edu.au/polsci/rick/capitaldevelopment.htm "Capital development"], ''Socialist Review'', No. 245, October 2000. A short biography of Henryk Grossman.
+* Kuhn, Rick, [http://hdl.handle.net/1885/40145 "Economic crisis and socialist revolution: Henryk Grossman's Law of accumulation, its first critics and his responses"], preprint version of an essay in Paul Zarembka and Susanne Soederberg (eds) ''Neoliberalism in crisis, accumulation and Rosa Luxemburg's Legacy'': ''Research in Political Economy'' 21 Elsevier, Amsterdam 2004 pp.&nbsp;181–22. A discussion of aspects of Grossman's contribution to the Marxist theory of economic crisis.
+* Kuhn, Rick, [http://dspace.anu.edu.au/handle/1885/44510 "Henryk Grossman and the recovery of Marxism"], preprint version of an article in ''Historical Materialism'' 13 (3), 2005. On Grossman's contributions to and place in the history of Marxism.
+* Kuhn, Rick, [http://www.isreview.org/issues/56/feat-grossman.shtml "Henryk Grossman – Capitalist Expansion and Imperialism"], ''International Socialist Review'', No. 56, November 2007. On the relevance of Grossman's analysis for understanding globalisation and the current crisis.
+* [http://radicalnotes.com/2007/04/09/on-henryk-grossman-a-revolutionary-marxist-an-interview-with-rick-kuhn/ "On Henryk Grossman, A Revolutionary Marxist: An Interview with Rick Kuhn"], ''Radical Notes'', 9 April 2007
+* [[Paul Mattick|Mattick, Paul]], [http://www.marxists.org/archive/mattick-paul/1974/crisis/index.htm "Economic Crisis and Crisis Theories"], 1974. (The book places Grossman's work in the context of other theories of economic crisis.)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Grossman, Henryk}}
+[[Category:1881 births]]
+[[Category:1950 deaths]]
+[[Category:Writers from Kraków]]
+[[Category:Jews from Galicia (Eastern Europe)]]
+[[Category:Polish Social Democratic Party of Galicia politicians]]
+[[Category:Jewish Social Democratic Party in Galicia politicians]]
+[[Category:Jewish socialists]]
+[[Category:Communist Party of Poland politicians]]
+[[Category:German economists]]
+[[Category:German Marxists]]
+[[Category:German communists]]
+[[Category:Polish economists]]
+[[Category:Polish Marxists]]
+[[Category:Polish communists]]
+[[Category:Marxian economists]]
+[[Category:Marxist theorists]]
+[[Category:Leipzig University faculty]]

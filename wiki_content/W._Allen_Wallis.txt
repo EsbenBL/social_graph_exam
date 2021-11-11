@@ -1,0 +1,123 @@
+{{Infobox officeholder
+| name               = W. Allen Wallis
+| image              = WAllenWallis1970.jpg
+| imagesize          = 
+| smallimage         = <!--If this is specified, "image" should not be.-->
+| alt                = 
+| caption            = 
+| office1            = 2nd Chancellor of the [[University of Rochester]]
+| term_start1        = 1970
+| term_end1          = 1982
+| predecessor1       = [[Ira Harris]]
+| successor1         =
+| office2            = 1st CEO of the [[University of Rochester]]
+| term_start2        = 1970
+| term_end2          = 1975
+| successor2         = [[Robert Sproull|Robert L. Sproull]]
+| order3             = 6th
+| office3            = President of the University of Rochester
+| term_start3        = 1962
+| term_end3          = 1970
+| predecessor3       = [[Cornelis de Kiewiet|Cornelis W. de Kiewiet]]
+| successor3         = [[Robert Sproull|Robert L. Sproull]]
+| birth_date         = {{Birth date|1912|11|5}}
+| birth_place        = [[Philadelphia|Philadelphia, Pennsylvania]]
+| death_date         = {{Death date and age|1998|10|12|1912|11|5}}
+| death_place        = [[Rochester, New York]]
+| restingplace       = 
+| party              = [[Independent (politician)|Independent]] (until 1984)<ref>https://www.nytimes.com/1998/10/14/us/w-allen-wallis-85-economist-and-president-of-u-of-rochester.html</ref> 
+[[Republican Party (United States)|Republican]] (1984–1998)<ref>https://www.adst.org/OH%20TOCs/Wallis,%20W.%20Allen.toc.pdf</ref>
+| nationality        = [[United States|American]]
+| spouse             = Anne Armstrong
+| children           = Nancy Wallis Ingling<BR>Virginia Wallis Cates
+| parents            = [[Wilson Dallam Wallis]], Grace Steele Allen
+| residence          = 
+| alma_mater         = [[University of Minnesota]], [[The University of Chicago]]
+| profession         = [[Academic administration|Administrator]]
+| signature          = 
+| signature_alt      = 
+| website            = 
+}}
+'''Wilson Allen Wallis''' (November 5, 1912 – October 12, 1998) was an [[United States|American]] [[economist]] and [[statistician]] who served as president of the [[University of Rochester]].<ref>{{Citation | date = 1998-10-14 | title = W. Allen Wallis, 85, Economist And President of U. of Rochester | periodical = [[The New York Times]] | location = [[New York City|New York]] | pages = A21 | url = https://www.nytimes.com/1998/10/14/us/w-allen-wallis-85-economist-and-president-of-u-of-rochester.html | issn = 0362-4331 | accessdate = 2009-12-30 | first=Eric | last=Pace}}</ref>  He is best known for the [[Kruskal–Wallis one-way analysis of variance]], which is named after him and [[William Kruskal]].
+{{TOC right}}
+
+==Early years==
+Born in [[Philadelphia]], he attended the [[University of Minnesota]], Class of 1932, where he was a member of the [[Chi Phi Fraternity]].  After receiving his degree in psychology a year of graduate work at the University of Minnesota, he began graduate studies in economics at [[The University of Chicago]] in 1933, where he began what would prove to be lifelong friendships with [[Milton Friedman]], [[Aaron Director]] and [[George Stigler]].
+
+In 1936–37, he served as an economist and statistician for the National Resources Committee. During [[World War II]], Wallis was the director of research of the U.S. [[Office of Scientific Research and Development]]'s [[Statistical Research Group]] (1942–46) at [[Columbia University]]; he recruited a team of bright young economists, including  Friedman and Stigler, to the Statistical Research Group.
+
+From 1948 to 1954, Wallis served as the treasurer of the [[Mont Pèlerin Society]].<ref>R. M. Hartwell, ''A History of the Mont Pelerin Society'', Indianapolis: Liberty Fund, 1995, pp. 66–7.</ref>
+
+==University administration==
+[[File:WallisHall.jpg|thumb|left|Wallis Hall on the [[University of Rochester]] campus]]
+Wallis served as [[Dean (education)|dean]] of [[The University of Chicago Booth School of Business|The University of Chicago Graduate School of Business]] from 1956 to 1962.  During his time as dean he established the "Chicago Approach to Business Education," which involved the application of statistical methodology to business.<ref>{{Citation | date = 1998-10-13 | title = Retired UR president Wallis dies | periodical = [[Democrat and Chronicle]] | location = [[Rochester, New York]] | pages = 1B | issn = 1088-5153}}</ref>
+
+He became [[University president|president]] of the [[University of Rochester]] in 1962, a position he held until 1970, when he became the University of Rochester's [[Chancellor (education)|chancellor]] and chief executive.  In 1975, he relinquished the job of chief executive, but remained chancellor of the university until his retirement in 1982.<ref>{{Citation | date = 1998-10-14 | title = W. Allen Wallis, 85, Economist And President of U. of Rochester | periodical = [[The New York Times]] | location = [[New York City, New York]] | pages = A21 | issn = 0362-4331}}</ref>
+
+In December 1992, the University of Rochester named a joint program of its Departments of Economics and Political Science in honor of Wallis: the W. Allen Wallis Institute of Political Economy at the University of Rochester.<ref>{{cite web | url = http://www.wallis.rochester.edu/wallis_obt.html | title = W. A. Wallis | author = W. Allen Wallis Institute of Political Economy | date = 1998-10-12 | publisher = [[University of Rochester]] | location = [[Rochester, New York]] | accessdate = 2009-12-30}}</ref> He died in 1998 in [[Rochester, New York|Rochester]], [[New York (state)|New York]].
+
+[[File:Preparations for the 1988 Economic Summit - NARA - 198389.jpg|thumb|right|January 1988 memo identifying Wallis as President Reagan's "personal representative" for policy matters during the administration's preparations for attending the [[14th G7 summit]] in June.]]
+
+==Presidential advisor==
+In addition to his role as an academic and academic administrator, Wallis served as an advisor to [[President of the United States|U.S. presidents]] [[Dwight Eisenhower]], [[Richard Nixon]], [[Gerald Ford]], and [[Ronald Reagan]].  Under Eisenhower, he collaborated with Vice President Nixon on the report of the Cabinet Committee on Price Stability for Economic Growth (1959–61).  Under Nixon and Ford, he served on the President's Commission on Federal Statistics and on the Advisory Council on [[Social Security (United States)|Social Security]].  Nixon also appointed Wallis as chairman of the [[Corporation for Public Broadcasting]], a post he held 1975–78.  Under Reagan, he served as Under Secretary of State for Economic Affairs (1982–85), and then, after Congress changed the job description and title, as [[Under Secretary of State for Economic, Business, and Agricultural Affairs]] (1985–89).
+
+==Selected works==
+* {{Citation | last1 = Wallis | first1 = W. Allen | last2 = Moore | first2 = Geoffrey H. | title = A Significance Test for Time Series and Other Ordered Observations. | year = 1941 | publisher = [[National Bureau of Economic Research]] | location = [[New York City|New York]] | oclc = 1876032}}
+* {{Citation | last1 = Wallis | first1 = W. Allen | author2 = Churchill Eisenhart | author2-link = Churchill Eisenhart | author3= Millard W Hastay | title = Selected Techniques of Statistical Analysis for Scientific and Industrial Research and Production and Management Engineering | year = 1947 | publisher = [[McGraw-Hill]] | location = [[New York City|New York]] | oclc = 490341075}}
+* {{Citation | last = Wallis | first = W. Allen | author2 = Harry V. Roberts | author2-link = Harry V. Roberts | title = Statistics, a New Approach | url = https://archive.org/details/StatisticsANewApproach | accessdate = 2009-12-30 | year = 1956 | publisher = [[Free Press (publisher)|Free Press]] | location = [[Glencoe, Illinois]] | oclc = 839651}}
+* {{Citation | last = Wallis | first = W. Allen | author2 = James Tobin | author2-link = James Tobin | title = Welfare Programs: An Economic Appraisal | year = 1968 | publisher = [[American Enterprise Institute]] for Public Policy Research | location = [[Washington, D.C.]] | oclc = 21672}}
+* {{Citation | last = Wallis | first = W. Allen | title = Abolish the Draft | journal = Science | year = 1969 | volume = 163 | issue = 3864 | page = 235 | publisher = National Council to Repeal the Draft | location = [[Washington, D.C.]] | doi = 10.1126/science.163.3864.235 | pmid = 17790247 | oclc = 45712869}}
+* {{Citation | last = Wallis | first = W. Allen | title = An Overgoverned Society | year = 1976 | publisher = [[Free Press (publisher)|Free Press]] | location = [[New York City|New York]] | oclc = 2352513 | isbn = 978-0-02-933710-3 | url-access = registration | url = https://archive.org/details/overgovernedsoci00wall }}
+
+==See also==
+* [[Kruskal–Wallis one-way analysis of variance]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.wallis.rochester.edu/ W. Allen Wallis Institute of Political Economy website]
+* [http://eisenhower.archives.gov/Research/Finding_Aids/W.html Records of W. Allen Wallis, Dwight D. Eisenhower Presidential Library]
+* {{C-SPAN|wwallis}}
+
+{{s-start}}
+{{s-aca}}
+{{s-bef | before = [[John E. Jeuck]]}}
+{{s-ttl | title = Dean of the [[University of Chicago Booth School of Business|University of Chicago School of Business]] | years = 1956–1962}}
+{{s-aft | after = [[George P. Shultz]]}}
+{{s-bef | before = [[Cornelis de Kiewiet|Cornelis W. de Kiewiet]]}}
+{{s-ttl | title = [[President of the University of Rochester]] | years = 1962–1970}}
+{{s-aft | after = [[Robert Sproull|Robert L. Sproull]]}}
+{{s-vac | unknlast = }}
+{{s-ttl | title = Chancellor of the [[University of Rochester]] | years = 1970–1982}}
+{{s-vac | unknnext = }}
+{{s-npo}}
+{{s-bef | before = [[Albert H. Bowker]]}}
+{{s-ttl | title = [[President of the American Statistical Association]] | years = 1965}}
+{{s-aft | after = [[Frederick F. Stephan]]}}
+{{s-bef | before = Robert S. Benjamin}}
+{{s-ttl | title = Chairman of the [[Corporation for Public Broadcasting]] | years = 1975–1978}}
+{{s-aft | after = }}
+{{s-gov}}
+{{s-bef | before = [[Myer Rashish]]}}
+{{s-ttl | title = [[Under Secretary of State for Economic, Business, and Agricultural Affairs|Under Secretary of State for Economic Affairs]] | years = September 23, 1982 – August 15, 1985}}
+{{s-non | reason = Office renamed}}
+{{s-new | office}}
+{{s-ttl | title = [[Under Secretary of State for Economic, Business, and Agricultural Affairs]] | years = August 16, 1985 – January 20, 1989}}
+{{s-aft | after = [[Richard T. McCormack]]}}
+{{s-end}}
+
+{{University of Rochester presidents}}
+{{Authority control}}
+
+{{DEFAULTSORT:Wallis, W. Allen}}
+[[Category:1912 births]]
+[[Category:1998 deaths]]
+[[Category:American statisticians]]
+[[Category:Presidents of the University of Rochester]]
+[[Category:University of Minnesota alumni]]
+[[Category:Presidents of the American Statistical Association]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:University of Chicago faculty]]
+[[Category:20th-century American mathematicians]]
+[[Category:20th-century American economists]]

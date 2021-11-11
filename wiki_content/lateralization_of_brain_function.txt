@@ -1,0 +1,165 @@
+{{Short description|Specialization of some cognitive functions in one side of the brain}}
+{{About|specialization of function between the left and right hemispheres of the brain|specialization of brain function generally| Functional specialization (brain)}}
+{{Use dmy dates|date=February 2016}}
+
+[[File:Cerebral_lobes.png|thumb|alt=Diagram of the human brain.|270px|The human brain is divided into two hemispheres&ndash;left and right. Scientists continue to explore how some cognitive functions tend to be dominated by one side or the other; that is, how they are ''lateralized''.]]
+
+The '''lateralization of brain function''' is the tendency for some neural functions or [[cognitive process]]es to be specialized to one side of the brain or the other. The [[medial longitudinal fissure]] separates the [[human brain]] into two distinct [[cerebral hemisphere]]s, connected by the [[corpus callosum]]. Although the macrostructure of the two hemispheres appears to be almost identical, different composition of neuronal networks allows for specialized function that is different in each hemisphere.
+
+Lateralization of brain structures is based on general trends expressed in healthy patients; however, there are numerous counterexamples to each generalization. Each human's brain develops differently, leading to unique lateralization in individuals. This is different from specialization, as lateralization refers only to the function of one structure divided between two hemispheres. Specialization is much easier to observe as a trend, since it has a stronger [[Anthropology|anthropological history]].<ref name="Halpern 2005" />
+
+The best example of an established lateralization is that of [[Broca's area|Broca's]] and [[Wernicke's area]]s, where both are often found exclusively on the left hemisphere. Function lateralization, such as [[semantics]], [[intonation (linguistics)|intonation]], [[accentuation]], and [[prosody (linguistics)|prosody]], has since been called into question and largely been found to have a neuronal basis in both hemispheres.<ref>{{cite journal|last1=Riès|first1=SK|last2=Dronkers|first2=NF|last3=Knight|first3=RT|title=Choosing words: left hemisphere, right hemisphere, or both? Perspective on the lateralization of word retrieval.|journal=Annals of the New York Academy of Sciences|date=April 2016|volume=1369|issue=1|pages=111–31|doi=10.1111/nyas.12993|pmid=26766393|pmc=4874870|bibcode=2016NYASA1369..111R}}</ref> Another example is that each hemisphere in the brain tends to represent one side of the body. In the [[cerebellum]], this is the same body side, but in the [[forebrain]] this is predominantly the [[Contralateral brain|contralateral side]].
+
+== Lateralized functions==
+===Language===
+[[Language]] functions such as grammar, vocabulary and literal meaning are typically lateralized to the left hemisphere, especially in right-handed individuals.<ref name="Taylor">{{cite book |author1=Taylor, I.  |author2=Taylor, M. M. | year = 1990 | title = Psycholinguistics: Learning and using Language | publisher = Pearson | isbn = 978-0-13-733817-7}} p. 367</ref> While language production is left-lateralized in up to 90% of right-handers, it is more bilateral, or even right-lateralized, in approximately 50% of left-handers.<ref name="Beaumont">{{cite book|author = Beaumont, J.G. | year = 2008 | title = Introduction to Neuropsychology, Second Edition | publisher = The Guilford Press | isbn =  978-1-59385-068-5}} Chapter 7</ref>
+
+[[Broca's area]] and [[Wernicke's area]], associated with the production of speech and comprehension of speech, respectively, are located in the left [[cerebral hemisphere]] for about 95% of right-handers but about 70% of left-handers.<ref name=Griggs2012>{{cite book|last1=Griggs|first1=Richard A.|title=Psychology : a concise introduction|date=2012|publisher=Worth Publishers|location=New York, NY|isbn=978-1429261555|edition=3rd}}</ref>{{rp|69}} Individuals who speak multiple languages demonstrate separate speech areas for each language.<ref>{{Cite journal|last=Lucas|first=Timothy|date=2004|title=Functional separation of languages in the bilingual brain: a comparison of electrical stimulation language mapping in 25 bilingual patients and 117 monolingual control patients|journal=Journal of Neurosurgery|volume=101|issue=3|pages=449–457|doi=10.3171/jns.2004.101.3.0449|pmid=15352603|via=American Association of Neurological Surgeons}}</ref>
+
+===Sensory processing===
+The processing of basic sensory information is lateralized by being divided into left and right sides of the body or the space around the body.
+
+In [[visual perception|vision]], about half the neurons of the [[optic nerve]] from each eye [[Optic chiasm|cross]] to project to the opposite hemisphere, and about half do not cross to project to the hemisphere on the same side.<ref>https://theodora.com/anatomy/the_optic_nerve.html</ref> This means that the left side of the visual field is processed largely by the [[visual cortex]] of the right hemisphere and vice versa for the right side of the visual field.
+
+In [[hearing]], about 90% of the neurons of the [[auditory nerve]] from one ear cross to project to the [[auditory cortex]] of the opposite hemisphere.
+
+In the [[sense of touch]], most of the neurons from the skin cross to project to the [[somatosensory cortex]] of the opposite hemisphere.
+
+Because of this functional division of the left and right sides of the body and of the space that surrounds it, the processing of information in the sensory cortices is essentially identical. That is, the processing of visual and auditory stimuli, spatial manipulation, [[face perception|facial perception]], and artistic ability are represented bilaterally.<ref name = Beaumont /> Numerical estimation, comparison and online calculation depend on bilateral parietal regions<ref name=Dehaene2>{{cite journal | vauthors = Dehaene S, Spelke E, Pinel P, Stanescu R, Tsivkin S | title = Sources of mathematical thinking: behavioral and brain-imaging evidence | journal = Science | volume = 284 | issue = 5416 | pages = 970–4 | date = May 1999 | pmid = 10320379 | doi = 10.1126/science.284.5416.970 | bibcode = 1999Sci...284..970D | url = http://www.unicog.org/publications/DehaeneSpelke_ExactApprox_Science1999.pdf | url-status = live | archive-url = https://web.archive.org/web/20110719225033/http://www.unicog.org/publications/DehaeneSpelke_ExactApprox_Science1999.pdf | archive-date = 19 July 2011 | df = dmy-all }}</ref><ref name=Dehaene2003>{{cite journal | vauthors = Dehaene S, Piazza M, Pinel P, Cohen L | title = Three parietal circuits for number processing | journal = Cognitive Neuropsychology | volume = 20 | issue = 3–6 | pages = 487–506 | year = 2003 | pmid = 20957581 | doi = 10.1080/02643290244000239 | url = http://www.unicog.org/publications/DehaeneEtAl_3parietalCircuits_CogNeuropsy2003.pdf | url-status = live | archive-url = https://web.archive.org/web/20110719224955/http://www.unicog.org/publications/DehaeneEtAl_3parietalCircuits_CogNeuropsy2003.pdf | archive-date = 19 July 2011 | df = dmy-all | citeseerx = 10.1.1.4.8178 | s2cid = 13458123 }}</ref> while exact calculation and fact retrieval are associated with left parietal regions, perhaps due to their ties to linguistic processing.<ref name="Dehaene2" /><ref name="Dehaene2003" />
+
+===Value systems===
+Rather than just being a series of places where different brain modules occur, there are running similarities in the kind of function seen in each side, for instance how right-side impairment of drawing ability making patients draw the parts of the subject matter with wholly incoherent relationships, or where the kind of left-side damage seen in language impairment not damaging the patient's ability to catch the significance of intonation in speech.<ref>McGilchrist (2009) provides an extensive survey of the relevant literature in chapter two.</ref> This has led British psychiatrist [[Iain McGilchrist]] to view the two hemispheres as having different [[value system]]s, where the left hemisphere tends to reduce complex matters such as ethics to rules and measures, and the right hemisphere is disposed to the holistic and metaphorical.<ref>{{cite web|title=One Head, Two Brains: How The Brain's Hemispheres Shape The World We See|url=https://www.npr.org/templates/transcript/transcript.php?storyId=690656459 |author=[[Iain McGilchrist]] & Shankar Vedantam|date=4 Feb 2019|website=[[NPR]] [[Hidden Brain]]|language=en|format=Audio podcast with transcript}}</ref>
+
+==Clinical significance==
+Depression is linked with a hyperactive right hemisphere, with evidence of selective involvement in "processing negative emotions, pessimistic thoughts and unconstructive thinking styles", as well as vigilance, arousal and self-reflection, and a relatively hypoactive left hemisphere, "specifically involved in processing pleasurable experiences" and "relatively more involved in decision-making processes".<ref>{{cite journal | author = Hecht D | title = Depression and the hyperactive right-hemisphere | journal = Neurosci. Res. | volume = 68 | issue = 2 | pages = 77–87 | date = October 2010 | pmid = 20603163 | doi = 10.1016/j.neures.2010.06.013 | s2cid = 39453265 }}</ref> Additionally, "left hemisphere lesions result in an omissive response bias or error pattern whereas right hemisphere lesions result in a commissive response bias or error pattern."<ref>{{cite journal |vauthors=Braun CM, Delisle J, Guimond A, Daigneault R | title = Post unilateral lesion response biases modulate memory: crossed double dissociation of hemispheric specialisations | journal = Laterality | volume = 14 | issue = 2 | pages = 122–64 | date = March 2009 | pmid = 18991140 | doi = 10.1080/13576500802328613 | s2cid = 28225385 }}</ref> The [[delusional misidentification syndrome]]s, [[reduplicative paramnesia]] and [[Capgras delusion]] are also often the result of right hemisphere lesions.<ref>{{cite journal | author = Devinsky O | title = Delusional misidentifications and duplications: right brain lesions, left brain delusions | journal = Neurology | volume = 72 | issue = 1 | pages = 80–7 | date = January 2009 | pmid = 19122035 | doi = 10.1212/01.wnl.0000338625.47892.74 | s2cid = 207103708 }}</ref>
+
+=== Hemisphere damage ===
+Damage to either the right or left hemisphere, and its resulting deficits provide insight into the function of the damaged area. Left hemisphere damage has many effects on language production and perception. Damage or lesions to the right hemisphere can result in a lack of [[emotional prosody]] or intonation when speaking. Right hemisphere damage also has grave effects on understanding discourse. People with damage to the right hemisphere have a reduced ability to generate inferences, comprehend and produce main concepts, and a reduced ability to manage alternative meanings. Furthermore, people with right hemisphere damage often exhibit discourse that is abrupt and perfunctory or verbose and excessive. They can also have pragmatic deficits in situations of turn taking, topic maintenance and shared knowledge.
+
+Lateral brain damage can also affect visual perceptual spatial resolution. People with left hemisphere damage may have impaired perception of high resolution, or detailed, aspects of an image. People with right hemisphere damage may have impaired perception of low resolution, or big picture, aspects of an image.
+
+=== Plasticity ===
+If a specific region of the brain, or even an entire hemisphere, is injured or destroyed, its functions can sometimes be assumed by a neighboring region in the same hemisphere or the corresponding region in the other hemisphere, depending upon the area damaged and the patient's age.<ref>{{cite journal |vauthors=Pulsifer MB, Brandt J, Salorio CF, Vining EP, Carson BS, Freeman JM | title = The cognitive outcome of hemispherectomy in 71 children | journal = Epilepsia | volume = 45 | issue = 3 | pages = 243–254 | year = 2004 | pmid = 15009226 | doi = 10.1111/j.0013-9580.2004.15303.x | s2cid = 15894321 | doi-access = free }}</ref> When injury interferes with pathways from one area to another, alternative (indirect) connections may develop to communicate information with detached areas, despite the inefficiencies.
+
+=== Broca's aphasia ===
+Broca's aphasia is a specific type of [[expressive aphasia]] and is so named due to the aphasia that results from damage or lesions to the [[Broca's area]] of the brain, that exists most commonly in the left inferior frontal hemisphere. Thus, the aphasia that develops from the lack of functioning of the Broca's area is an expressive and non-fluent aphasia. It is called 'non-fluent' due to the issues that arise because Broca's area is critical for language pronunciation and production. The area controls some motor aspects of speech production and articulation of thoughts to words and as such lesions to the area result in specific non-fluent aphasia.<ref>Biopsychology (8th edition), by John J.P. Pinel Pearson 2011</ref>
+
+=== Wernicke's aphasia ===
+[[Wernicke's aphasia]] is the result of damage to the area of the brain that is commonly in the left hemisphere above the [[Sylvian fissure]]. Damage to this area causes primarily a deficit in language comprehension. While the ability to speak fluently with normal [[Prosody (linguistics)|melodic intonation]] is spared, the language produced by a person with Wernicke's aphasia is riddled with [[semantics|semantic]] errors and may sound nonsensical to the listener. Wernicke's aphasia is characterized by phonemic paraphasias, neologism or jargon. Another characteristic of a person with Wernicke's aphasia is that they are unconcerned by the mistakes that they are making.
+
+==Society and culture==
+===Misapplication===
+[[File:RightBrainDominant.jpg|thumb|alt=Gross oversimplification of hemisphericity|Gross oversimplification of hemisphericity]]
+[[Terence Hines]] states that the research on brain lateralization is valid as a research program, though commercial promoters have applied it to promote subjects and products far outside the implications of the research.<ref name=Hines>{{cite journal | author-link = Terence Hines |last= Hines |first= Terence |year= 1987 |title= Left Brain/Right Brain Mythology and Implications for Management and Training |journal= The Academy of Management Review |volume= 12 |issue= 4 |pages= 600–606 |doi= 10.2307/258066 |jstor= 258066 }}</ref> For example, the implications of the research have no bearing on psychological interventions such as [[eye movement desensitization and reprocessing]] (EMDR) and [[neurolinguistic programming]],<ref>{{cite journal | author = Drenth JD | year = 2003 | title = Growing anti-intellectualism in Europe; a menace to science | journal = Studia Psychologica | volume = 45 | issue = 1 | pages = 5–13 }}, available in [http://www.allea.org/Pages/ALL/4/881.bGFuZz1FTkc.pdf ''ALLEA Annual Report 2003''] {{webarchive|url=https://web.archive.org/web/20110616080310/http://www.allea.org/Pages/ALL/4/881.bGFuZz1FTkc.pdf |date=16 June 2011 }}, pp. 61–72</ref> brain-training equipment, or management training.<ref>
+{{cite book
+ |last1        = Della Sala
+ |first1       = Sergio
+ |author-link1 = Sergio Della Sala
+ |year         = 1999
+ |title        = Mind Myths: Exploring Popular Assumptions about the Mind and Brain
+ |url          = https://books.google.com/books?id=ldd9AAAAMAAJ
+ |location     = New York
+ |publisher    = Wiley
+ |isbn         = 978-0-471-98303-3
+ |url-status      = live
+ |archive-url   = https://web.archive.org/web/20180509181512/https://books.google.nl/books?id=ldd9AAAAMAAJ
+ |archive-date  = 9 May 2018
+ |df           = dmy-all
+}}
+</ref>
+
+=== Popular psychology ===
+[[File:Brain Lateralization.svg|thumb|right|The oversimplification of lateralization in pop psychology. This belief was widely held even in the scientific community for some years.]]
+Some popularizations oversimplify the science about lateralization, by presenting the functional differences between hemispheres as being more absolute than is actually the case.<ref name="Westen 2006">{{cite book|last1=Westen|first1=Drew|last2=Burton|first2=Lorelle|last3=Kowalski|first3=Kowalski|title=Psychology : Australian and New Zealand edition|date=2006|publisher=John Wiley & Sons|location=Milton, Qld.|isbn=9780470805527}}</ref>{{rp|107}}<ref>{{cite journal |vauthors=Toga AW, Thompson PM | title = Mapping brain asymmetry | journal = Nature Reviews Neuroscience | volume = 4 | issue = 1 | pages = 37–48 | year = 2003 | pmid = 12511860 | doi = 10.1038/nrn1009 | s2cid = 15867592 }}</ref> Interestingly, research shown quite opposite function of brain lateralisation, i.e. left hemisphere creatively and chaotically link between concepts and right hemisphere tend to adhere to specific date and time, although generally adhering to the pattern of left-brain as linguistic interpretation and right brain as spatio-temporal. <ref>https://psychology.stackexchange.com/questions/16096/brain-right-hemisphere-is-random-and-left-hemisphere-is-linear-really</ref> <ref>Cerebral specialization and interhemispheric communication: Does the corpus callosum enable the human condition?, Michael Gazzaniga, https://academic.oup.com/brain/article/123/7/1293/380106</ref> <ref>https://academic.oup.com/view-large/figure/5559555/b071316.gif</ref>
+
+===Sex differences===
+{{See also|Neuroscience of sex differences}}
+In the 19th century and to a lesser extent the 20th, it was thought that each side of the brain was associated with a specific gender: the left corresponding with masculinity and the right with femininity and each half could function independently.<ref>{{Cite book|url=https://books.google.com/books?id=y4YMSE9HUEMC|title=Medicine, Mind, and the Double Brain: A Study in Nineteenth-Century Thought|last=Harrington|first=Anne|date=1989-01-01|publisher=Princeton University Press|isbn=978-0691024226|pages=87–90|language=en}}</ref> The right side of the brain was seen as the inferior and thought to be prominent in women, savages, children, criminals, and the insane. A prime example of this in fictional literature can be seen in [[Robert Louis Stevenson]]'s ''[[Strange Case of Dr. Jekyll and Mr. Hyde]]''.<ref>{{cite journal|last1=Stiles|first1=Anne|title=Robert Louis Stevenson's "Jekyll and Hyde" and the Double Brain|journal=SEL: Studies in English Literature 1500–1900|date=2006|volume=46|issue=4|pages=879–900|doi=10.1353/sel.2006.0043|jstor=4127513|s2cid=161889732}}</ref>
+
+==Evolutionary advantage==
+The widespread lateralization of many vertebrate animals suggests an evolutionary advantage associated with the specialization of each hemisphere.<ref name="Halpern 2005">{{cite journal |vauthors=Halpern ME, Güntürkün O, Hopkins WD, Rogers LJ | title = Lateralization of the Vertebrate Brain: Taking the Side of Model Systems | journal = The Journal of Neuroscience | volume = 25 | issue = 45 | pages = 10351–10357 | year = 2005 | pmid = 16280571 | pmc = 2654579 | doi = 10.1523/JNEUROSCI.3439-05.2005 }}</ref>
+
+==History==
+{{unreferenced section|date=October 2017}}
+
+===Broca===
+One of the first indications of brain function lateralization resulted from the research of French physician [[Pierre Paul Broca]], in 1861. His research involved the male patient nicknamed "Tan", who suffered a speech deficit ([[aphasia]]); "tan" was one of the few words he could articulate, hence his nickname. In Tan's [[autopsy]], Broca determined he had a syphilitic [[lesion]] in the left cerebral hemisphere. This left [[frontal lobe]] brain area ([[Broca's area]]) is an important speech production region. The motor aspects of speech production deficits caused by damage to Broca's area are known as [[expressive aphasia]]. In clinical assessment of this type of aphasia, patients have difficulty producing speech.<ref>{{Cite journal|last=Broca|first=Paul|date=1865|title=Sur le siège de la faculté du langage articulé|url=https://www.persee.fr/doc/bmsap_0301-8644_1865_num_6_1_9495|journal=Bulletins et Mémoires de la Société d'Anthropologie de Paris|volume=6|issue=1|pages=377–393|doi=10.3406/bmsap.1865.9495|hdl=11858/00-001M-0000-002A-E780-7|hdl-access=free}}</ref>
+
+===Wernicke===
+German physician [[Karl Wernicke]] continued in the vein of Broca's research by studying language deficits unlike expressive aphasia. Wernicke noted that not every deficit was in speech production; some were linguistic. He found that damage to the left [[Anatomical terms of location|posterior]], superior [[temporal lobe|temporal]] [[gyrus]] ([[Wernicke's area]]) caused language comprehension deficits rather than speech production deficits, a syndrome known as [[receptive aphasia]].
+
+===Imaging===
+These seminal works on hemispheric specialization were done on patients or postmortem brains, raising questions about the potential impact of pathology on the research findings. New methods permit the ''[[in vivo]]'' comparison of the hemispheres in healthy subjects. Particularly, [[magnetic resonance imaging]] (MRI) and [[positron emission tomography]] (PET) are important because of their high spatial resolution and ability to image subcortical brain structures.
+
+===Movement and sensation===
+In the 1940s, neurosurgeon [[Wilder Penfield]] and his [[neurologist]] colleague [[Herbert Jasper]] developed a technique of [[cortical stimulation mapping|brain mapping]] to help reduce [[Adverse effect (medicine)|side effect]]s caused by [[surgery]] to treat [[epilepsy]]. They stimulated [[motor cortex|motor]] and [[somatosensory cortex|somatosensory cortices]] of the brain with small electrical currents to activate discrete brain regions. They found that stimulation of one hemisphere's motor cortex produces [[muscle]] contraction on the opposite side of the body. Furthermore, the functional map of the motor and [[Somatosensory system|sensory]] cortices is fairly consistent from person to person; Penfield and Jasper's famous pictures of the motor and sensory [[cortical homunculus|homunculi]] were the result.
+
+===Split-brain patients===
+{{main|Split-brain}}
+Research by [[Michael Gazzaniga]] and [[Roger Wolcott Sperry]] in the 1960s on [[split-brain]] patients led to an even greater understanding of functional laterality. Split-brain patients are patients who have undergone [[corpus callosotomy]] (usually as a treatment for severe epilepsy), a severing of a large part of the [[corpus callosum]]. The corpus callosum connects the two hemispheres of the brain and allows them to communicate. When these connections are cut, the two halves of the brain have a reduced capacity to communicate with each other. This led to many interesting [[behavior]]al phenomena that allowed Gazzaniga and Sperry to study the contributions of each hemisphere to various cognitive and perceptual processes. One of their main findings was that the right hemisphere was capable of rudimentary language processing, but often has no lexical or grammatical abilities.<ref name="Kandel_1">Kandel E, Schwartz J, Jessel T. ''Principles of Neural Science''. 4th ed. p1182. New York: McGraw&ndash;Hill; 2000. {{ISBN|0-8385-7701-6}}</ref> Eran Zaidel also studied such patients and found some evidence for the right hemisphere having at least some syntactic ability.{{Citation needed|date=March 2020}}
+
+Language is primarily localized in the left hemisphere. While the left hemisphere has proven to be more optimized for language, the right hemisphere has the capacity with emotions, such as sarcasm, that can express prosody in sentences when speaking. According to Sheppard and Hillis, "The right hemisphere is critical for perceiving sarcasm (Davis et al., 2016), integrating context required for understanding metaphor, inference, and humour, as well as recognizing and expressing affective or emotional prosody—changes in pitch, rhythm, rate, and loudness that convey emotions".<ref>Sheppard, S. M., & Hillis, A. E. (2018a). That’s right! Language comprehension beyond the left hemisphere. Brain, 141(12), 3280–3289. https://doi.org/10.1093/brain/awy291</ref>  One of the experiments carried out by Gazzaniga involved a split-brain male patient sitting in front of a computer screen while having words and images presented on either side of the screen, and the visual stimuli would go to either the right or left visual field, and thus the left or right brain, respectively. It was observed that if the patient was presented with an image to his left visual field (right brain), he would report not seeing anything. If he was able to feel around for certain objects, he could accurately pick out the correct object, despite not having the ability to verbalize what he saw.
+
+==Additional images==
+<gallery>
+File:Slide2GRE.JPG|Ventricles of brain and basal ganglia. Superior view. Horizontal section. Deep dissection
+File:Slide3GRE.JPG|Ventricles of brain and basal ganglia. Superior view. Horizontal section. Deep dissection
+</gallery>
+
+==See also==
+{{div col|colwidth=20em}}
+* [[Alien hand syndrome]]
+* [[Ambidexterity]]
+* [[Bicameral mentality]]
+* [[Brain asymmetry]]
+* [[Chirality]]
+* [[Contralateral brain]]
+* [[Cross-dominance]]
+* [[Divided consciousness]]
+* [[Dual consciousness]]
+* [[Emotional lateralization]]
+* [[Handedness]]
+* [[Hemispherectomy]]
+* [[Laterality]]
+* [[Left brain interpreter]]
+* [[Parallel computing]]
+* [[Psychoneuroimmunology]]
+* [[Right hemisphere brain damage]]
+* [[Wada test]]
+* [[Yakovlevian torque]]
+{{Div col end}}
+
+==References==
+{{Reflist|35em}}
+
+==External links==
+*[https://www.psychologytoday.com/intl/blog/the-theory-cognitive-modes/201401/left-brain-right-brain-wrong#_=_ Left Brain, Right Brain? Wrong]
+
+==Bibliography==
+{{Refbegin}}
+*{{cite book
+  | last = McGilchrist | first = Iain | author-link = Iain McGilchrist
+  | title = The Master and His Emissary: The Divided Brain and the Making of the Western World
+  | title-link = The Master and His Emissary
+  | publisher = [[Yale University Press]] | location = USA
+  | date = 9 October 2009 | edition = Hardcover
+  | isbn = 978-0-300-14878-7
+  }}
+{{Refend}}
+
+== Further resources ==
+{{Refbegin}}
+* {{cite journal |vauthors=Josse G, Tzourio-Mazoyer N | title = Review: Hemispheric specialization for language | journal = Brain Research Reviews | volume = 44 | issue = 1 | pages = 1–12 | year = 2003 | pmid = 14739000 | doi = 10.1016/j.brainresrev.2003.10.001 | s2cid = 8181841 }}
+* {{cite book | author-link = John Cutting (psychiatrist) | first = John | last = Cutting | title = A Critique of Psychopathology | publisher = Parodos Verlag | year = 2012 | isbn = 978-3-938880-51-7 }}
+* {{cite book | author-link = Robert E. Ornstein | first = Robert | last = Ornstein | title = The Right Mind: Making Sense of the Hemispheres | publisher = Harcourt Brace International | year = 1998 | isbn = 978-0-15-600627-9 }}
+* [[Jill Bolte Taylor]] (2008). [[My Stroke of Insight]]. Viking: USA. 0670020745. 
+{{Refend}}
+
+{{Laterality}}
+{{Authority control}}
+
+{{DEFAULTSORT:Lateralization Of Brain Function}}
+[[Category:Neuropsychology]]
+[[Category:Cerebrum]]
+[[Category:Brain]]
+[[Category:Brain asymmetry]]

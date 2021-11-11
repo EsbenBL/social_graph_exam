@@ -1,0 +1,91 @@
+{{short description|American economist and the Frank P (born 1940)}}
+{{Infobox economist
+| name             = Richard J. Zeckhauser
+| image       = Richard Zeckhauser (2014).jpg
+| image_size       =
+| caption    = Richard Zeckhauser (2014)
+| birth_date       = 1940
+| birth_place      = 
+| death_date       =
+| death_place      =
+| nationality      = American
+| institution      = [[Harvard University]]
+| field            = [[Decision theory]], [[game theory]], [[behavioral economics]]
+| school_tradition = Decision theory, behavioral economics
+| alma_mater       = [[Harvard University]]
+| influences       = [[Thomas Schelling]]
+| doctoral_students= [[Nat Keohane]], [[Gernot Wagner]]
+| contributions    = 
+| awards           = 
+| signature        = <!-- file name only -->
+| spouse           = Sally H. Zeckhauser<ref name="sallyref" />
+| repec_prefix = e | repec_id = pze7
+}}
+'''Richard Jay Zeckhauser''' (born 1940) is an American [[economist]] and the [[Frank P. Ramsey]] Professor of [[Political Economy]] at the [[Kennedy School of Government]] at [[Harvard University]].<ref>{{Cite web | url=http://www.environment.harvard.edu/about/faculty/richard-zeckhauser | title=Richard Zeckhauser| date=2009-10-12}}</ref>
+
+He holds a [[Bachelor of Arts|BA]] (''[[summa cum laude]]'') and a PhD in [[economics]] from [[Harvard University]]. Early in his career, he was one of the "[[Whiz Kids (Department of Defense)|whiz kids]]" assembled by Defense Secretary [[Robert S. McNamara]] to apply cutting-edge analysis to [[Cold War]] military strategy. He is married to Sally H. Zeckhauser.<ref name="sallyref">{{cite news|title='Quiet' Harvard Leader To Retire {{!}} News {{!}} The Harvard Crimson|url=http://www.thecrimson.com/article/2009/3/10/quiet-harvard-leader-to-retire-harvards/|work=www.thecrimson.com|language=en}}</ref>
+
+He is the author or co-author of many books and over 300 peer-reviewed articles. His most significant works focus on risk management, decision sciences, investment, and policy-making under uncertainty. Zeckhauser introduced the term "ignorance" into decision-making under uncertainty, as in: there's "risk", "uncertainty", and outright "ignorance".<ref>{{cite journal|last1=Zeckhauser|first1=Richard|title=Investing in the Unknown and Unknowable|journal=Journal of Risk and Uncertainty|date=11 January 2011|doi=10.2470/rf.v2010.n2.7|url=https://www.cfapubs.org/doi/abs/10.2470/rf.v2010.n2.7|language=EN|doi-broken-date=31 October 2021}}</ref>
+
+His most recent book, with Peter Schuck, is ''Targeting in Social Programs.'' The book examines how and why to deploy scarce public resources to solve public problems. While he holds no formal office, he has long been an informal leader at the Kennedy School and at Harvard.<ref>https://www.youtube.com/watch?v=YbDDXznHPI0</ref> He is also a consultant with Analysis Group.<ref>http://www.analysisgroup.com/richard_zeckhauser.aspx</ref> In 1994, he was elected to the [[Common Cause]] National Governing Board.
+
+== Richwine controversy ==
+Zeckhauser was on the dissertation committee at [[John F. Kennedy School of Government|Harvard's Kennedy School]] that awarded former member of [[The Heritage Foundation]] [[Jason Richwine]] with a Ph.D. for his thesis, "IQ and Immigration Policy".{{cn|date=July 2021}} Criticized for the way it linked race to I.Q. levels, the thesis lost Richwine his job at the Foundation.
+
+==Bridge career==
+Zeckhauser is a champion [[Contract bridge|bridge]] player.<ref>{{cite news|last1=Alexander|first1=Sophie|title=KSG Prof Plays His Cards Right |url=http://www.thecrimson.com/article/2007/3/19/ksg-prof-plays-his-cards-right/|work=www.thecrimson.com|language=en}}</ref>
+
+===Wins===
+* [[North American Bridge Championships]] (2)
+** [[Blue Ribbon Pairs]] (1) 1966
+** [[Rockwell Mixed Pairs|Mixed Pairs]] (1) 2007
+
+===Runners-up===
+* [[North American Bridge Championships]] (2)
+** [[Mitchell Board-a-Match Teams|Men's Board-a-Match Teams]] (1) 1968
+** [[Chicago Mixed Board-a-Match|Mixed Board-a-Match Teams]] (2) 2003, 2012
+
+==Significant works==
+* [[Lawrence Summers|Summers, Lawrence]], and Richard Zeckhauser. "Policymaking for posterity." Journal of Risk and Uncertainty 37.2-3 (2008): 115–140.
+* Zeckhauser, Richard. "[https://www.cfapubs.org/doi/abs/10.2470/rf.v2010.n2.7 Investing in the Unknown and Unknowable]." (2010): 77–117.
+* Samuelson, William, and Richard Zeckhauser. "[https://link.springer.com/article/10.1007/BF00055564 Status quo bias in decision making]." Journal of risk and uncertainty 1, no. 1 (1988): 7–59.
+* Zeckhauser, Richard (2006) [http://www.bepress.com/cas/vol1/iss2/art5/ "Investing in the Unknown and Unknowable"], ''Capitalism and Society'': Vol. 1 : Iss. 2, Article 5. {{doi|10.2202/1932-0213.1009}}
+* Schuck, Peter H. &  Zeckhauser, Richard J. ''Targeting in Social Programs: Avoiding Bad Bets, Removing Bad Apples'', Brookings Institution Press, 2010, {{ISBN|978-0-8157-0428-7}}
+* Zeckhauser, Richard, [https://books.google.com/books?id=YsapejLQstkC&printsec=frontcover&dq=Richard+Zeckhauser&hl=en&ei=dHxbTKa3FIT78AaryNj4AQ&sa=X&oi=book_result&ct=result&resnum=2&ved=0CC0Q6AEwAQ#v=onepage&q&f=false ''Strategy and choice''], MIT Press, 1991, {{ISBN|978-0-262-24033-8}}
+* Zeckhauser, Richard, Keeney, Ralph L., Sebenius, James K. [https://books.google.com/books?id=i-L0EGtVnG4C&printsec=frontcover&dq=Richard+Zeckhauser&hl=en&ei=5HxbTK27JsP98AbznviDDw&sa=X&oi=book_result&ct=result&resnum=5&ved=0CEIQ6AEwBA#v=onepage&q&f=false ''Wise choices: decisions, games, and negotiations''], Harvard Business Press, 1996, {{ISBN|978-0-87584-677-4}}
+* {{cite encyclopedia |last1= Zeckhauser |first1=Richard  |editor= David R. Henderson  |editor-link= David R. Henderson  |encyclopedia=[[Concise Encyclopedia of Economics]] |title=Insurance |url=http://www.econlib.org/library/Enc/Insurance.html |year=2008 |edition= 2nd |publisher=[[Library of Economics and Liberty]] |location=Indianapolis |isbn=978-0865976658 |oclc=237794267}}
+
+==Trivia==
+Zeckhauser is connected to the so-called [[Yhprum's law]], the opposite of [[Murphy's law]], saying: "Sometimes systems that should not work, work nevertheless."<ref>{{cite journal|last=Resnick|first=Paul|author2=Zeckhauser, Richard |author3=Swanson, John |author4= Lockwood, Kate |title=The value of reputation on eBay: A controlled experiment|journal=Experimental Economics|date=June 2006|volume=9|issue=2|pages=79–101|doi=10.1007/s10683-006-4309-2|s2cid=195331813|url=http://www.hks.harvard.edu/fs/rzeckhau/postcards.pdf}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://sites.hks.harvard.edu/fs/rzeckhau/ Official website]
+* [https://www.nber.org/authors/richard_zeckhauser NBER Publications by Richard J. Zeckhauser]
+* {{LCAuth|n82080130|Richard Zeckhauser|25|}} (including 2 as second author 'Richard J.')
+* {{WBFpeople}}
+* [[Common Cause]]
+{{WPCBIndex}}
+{{Authority control}}
+
+{{DEFAULTSORT:Zeckhauser, Richard}}
+[[Category:1940 births]]
+[[Category:Date of birth missing (living people)]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Harvard College alumni]]
+[[Category:Harvard Kennedy School faculty]]
+[[Category:21st-century American economists]]
+[[Category:Health economists]]
+[[Category:American contract bridge players]]
+[[Category:Living people]]
+[[Category:Negotiation scholars]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:National Bureau of Economic Research]]
+[[Category:Harvard Graduate School of Arts and Sciences alumni]]
+
+
+{{US-economist-stub}}

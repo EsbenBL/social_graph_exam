@@ -1,0 +1,89 @@
+{{Infobox scientist
+| honorific_prefix = 
+| name = Richard Carson
+| honorific_suffix = 
+| native_name = 
+| native_name_lang = 
+| image = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size = 
+| image_upright = 
+| alt = 
+| caption = 
+| birth_date = {{birth date and age|1955|02|24}}
+| birth_place = [[Jackson, Mississippi]]
+| death_date = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names = 
+| residence = 
+| citizenship = 
+| nationality = [[Americans|American]]
+| fields = Economics
+| workplaces = [[University of California, San Diego]]
+| patrons = 
+| education = [[Mississippi State University]]
+| alma_mater = [[George Washington University]]
+| thesis_title = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year = 1985
+| doctoral_advisor = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for = The most cited environmental economist in the world
+| influences = 
+| influenced = 
+| awards = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse = <!--(or | spouses = )-->
+| partner = <!--(or | partners = )-->
+| children = 
+| signature = <!--(filename only)-->
+| signature_alt = 
+| website = <!--{{URL|www.example.com}}-->
+| footnotes = 
+}}
+
+'''Richard Taylor Carson''' (born February 24, 1955, [[Jackson, Mississippi]]) is a [[professor]] of [[economics]] at the [[University of California, San Diego]]. He obtained a [[Bachelor of Arts|B.A.]] degree from [[Mississippi State University]] in 1977, an [[Master of Arts|M.A.]] in [[international relations|international affairs]] from [[George Washington University]] in 1979, and an M.A. in [[statistics]] and a Ph.D. in agricultural and resource economics from the [[University of California, Berkeley]], in 1985.<ref>{{cite web |url=http://www.econ.ucsd.edu/~rcarson/ |title=Richard T. Carson |publisher=University of California, San Diego |date= |accessdate=2012-10-05}}</ref> He is the author or editor of eight books and over a hundred journal articles, with over 4000 citations to his works.<ref>{{cite web |url=http://www.aere.org/meetings/richardcarson.php |title=2009 AERE Fellow: Richard Carson |publisher=Association of Environmental and Resource Economists |accessdate=2012-10-05 |archive-url=https://web.archive.org/web/20110831130423/http://www.aere.org/meetings/richardcarson.php# |archive-date=2011-08-31 |url-status=dead }}</ref>
+
+== Career ==
+Carson has been a consultant to a number of non-profit organizations, major corporations, and government agencies, including the Alaska Department of Fish and Game, Australian Resource Assessment Commission, California Attorney General's Office, California Department of Fish and Game, Electric Power Research Institute, Environment Canada, Interamerican Development Bank, Los Angeles Department of Water and Power, Metropolitan Water District of Southern California, National Park Service, National
+Oceanic and Atmospheric Administration, OECD, U.K. DEFRA, U.K. MOJ, United Nations, U.S. DOJ, U.S. EPA, and the World Bank. Carson has been a visiting professor at the University of New South Wales, University of Oslo, and the University of Sydney, a Faculty Research Fellow at the National Bureau of Economic Research and a Continuing Consultant at Resources for the Future. He served on the National Academy of Science's Committee on Oil Spill Research and Development and as a member of an Academy
+committee reviewing procedures for water resource planning procedures. He was Program Chair for the Second World Congress of Environmental and Resource Economists.<ref>{{cite web|title=Biography|url=http://www.econ.ucsd.edu/~rcarson/rtcbio.pdf|accessdate=2 February 2014}}</ref>
+
+== Selected publications ==
+*"The Discrete Choice Experiment Approach to Environmental Contingent Valuation,":Carson, Richard T. and Mikolaj Czajkowski in Stephane Hess and Andrew Daly, eds. Handbook of Choice Modelling (Northampton, MA: Edward Elgar, 2014)
+*"Contingent Valuation: A Practical Alternative When Prices Aren't Available,":Carson, Richard T. (Journal of Economic Perspectives, 2012)
+*"A Common Nomenclature for Stated Preference Approaches,":Carson, Richard T. and Jordan J. Louviere (Environmental and Resource Economics, 2011)
+*"Incentive and Information Properties of Preference Questions: Commentary and Extensions,": Carson, Richard T. and Ted Groves in Jeff Bennett, ed., International Handbook of Non-Market Environmental Valuation (Northampton, MA: Edward Elgar, 2011)
+*"Discrete Choice Experiments Are Not Conjoint Analysis,": Jordan J. Louviere, Terry N. Flynn and Richard T. Carson) (Journal of Choice Modeling, 2010)
+*"Incentive and Informational Properties of Preference Questions":Carson, Richard T. and Theodore Groves (Environmental and Resource Economics, 2007)
+*"Contingent Valuation":Carson, Richard T. and W. Michael Hanemann (Handbook of Environmental Economics, K.G. Maler and J.R. Vincent, eds, (North Holland, 2005)
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|1=http://economics.ucsd.edu/about/Profile.aspx?pid=26}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Carson, Richard}}
+[[Category:1955 births]]
+[[Category:University of California, San Diego faculty]]
+[[Category:Mississippi State University alumni]]
+[[Category:Elliott School of International Affairs alumni]]
+[[Category:UC Berkeley College of Letters and Science alumni]]
+[[Category:UC Berkeley College of Natural Resources alumni]]
+[[Category:Environmental economists]]
+[[Category:Economists from Mississippi]]
+[[Category:Living people]]
+[[Category:Writers from Jackson, Mississippi]]
+[[Category:Economists from California]]
+[[Category:21st-century American economists]]
+
+
+{{US-economist-stub}}

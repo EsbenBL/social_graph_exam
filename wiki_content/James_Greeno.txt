@@ -1,0 +1,65 @@
+{{short description|American psychologist}}
+{{COI|date=August 2020}}
+{{Infobox scientist
+| birth_name = James G. Greeno
+| name = Jim Greeno
+| image = 
+| birth_date = {{birth date|1935|5|1|mf=y}}{{cn|date=September 2020}}
+| birth_place = [[Sioux Falls]], [[South Dakota]], U.S.{{cn|date=September 2020}}
+| death_date  = {{death date and age|2020|9|8|1935|5|1|mf=y}}{{cn|date=September 2020}}
+| citizenship = United States
+| spouse = Noreen H. Greeno
+| field = [[Psychology]]
+| work_institutions = [[Indiana University]], [[University of Michigan]], [[University of Pittsburgh]], [[Stanford]]
+| education = [[University of Minnesota]]<br />(B.A., 1957; M.S., 1958; Ph.D., 1961)
+| doctoral_advisor = [[David LaBerge]]
+| academic_advisors = [[James J. Jenkins]]
+| influences = [[May Brodbeck]], [[Herbert Feigl]], [[Wilfred Sellars]], [[Alan Donagan]], [[D.B. Terrell]]
+| known_for = [[Problem Typology]]<br/>[[Conceptual Entities]]<br />[[Competence Models]]<br />[[Situated Cognition]]
+}}
+'''James G. Greeno''' (May 1, 1935 – September 8, 2020) was an American experimental psychologist and [[Learning sciences|learning scientist]] whose research focused on learning and problem solving with conceptual understanding, using scientific concepts and methods of association theory, computational cognitive modeling, and [[discourse analysis]]. 
+
+==Education==
+Greeno earned a PhD. in psychology from the University of Minnesota, Minneapolis, in 1961. While a student at the University of Minnesota, Greeno also studied philosophy with [[Herbert Feigl]], [[May Brodbeck]], [[Wilfred Sellars]], [[Alan Donagan]] and D. B. Terrell. During that time he developed a strong interest in philosophy, which he retained throughout his life.
+
+==Career==
+In 1961 Greeno was hired by the psychology department at Indiana University. There he worked with Frank Restle, [[William Kaye Estes]], and Cletus Burke. 
+
+In 1968 he moved to the Department of Psychology at the University of Michigan joining [[Arthur Melton]], [[Robert Bjork]], David Krantz, Edwin Martin, and Robert Pachella in the Human Performance Center. Estes, Restle, and Melton were all important mentors and good friends throughout their lifetimes. During those years, Greeno’s interest in learning shifted from mathematical analyses and modeling of performance to analyses of information structures of cognition. 
+
+In 1973 he was awarded a [[Guggenheim Fellowship]].<ref>{{cite web |title=John Simon Guggenheim Foundation {{!}} James G. Greeno |url=https://www.gf.org/fellows/all-fellows/james-g-greeno/ |website=gf.org}}</ref> 
+
+In 1976 he joined scholars at the Learning Research and Development Center and the Department of Psychology at the University of Pittsburgh, working especially with Lauren Resnick and [[Robert Glaser]]. There he was also a member of the Center for Philosophy of Science, with [[ Adolph Grunbaum]] and [[ Wesley Salmon]]. 
+
+In 1984 Greeno moved to the University of California, Berkeley, to become the chair of a new enterprise in building a strong area of the study of mathematics and science learning, with [[Alan Schoenfeld]] and [[Andrea diSessa]], in the Program of Education in Mathematics, Science, and Technology. 
+
+From 1987 to 2003 he was the Margaret Jacks Professor of Education at Stanford University, where he was also Director of the Symbolic Systems Program from 1989-1992. In 1987, Greeno, [[John Seely Brown]], and [[David Kearns]] co-founded the [[Institute for Research on Learning]]. Greeno retired from Stanford in 2003 and became Margaret Jacks Professor of Education, Emeritus. 
+
+From 2003 to 2012 he was Visiting Professor of Education at the University of Pittsburgh. During this time, he has also been a Center Affiliate of the Learning Research and Development Center, and a Resident Fellow of the Center for Philosophy of Science.
+
+Greeno has suggested a typology of problems:
+
+1- '''Problems of inducing structure''': Several instances are given and the problem solver must discover the rule or pattern involved. 
+
+2- '''Problems of transformation''': An initial state is given and the problem solver must find a sequence of operation that will produce the goal state. 
+
+3- '''Problems of arrangement''': All of the elements are given and the problem solver must arrange them in such a way that the problem is solved.<ref>{{Cite web|url=http://www.co-bw.com/BSC_CPS_working_def_problem_solving.htm/BSC_CPS_working_def_problem_solving.htm|title=co-bw.com|access-date=2020-01-30|archive-url=https://web.archive.org/web/20180912072355/http://news.bbc.co.uk/2/hi/uk_news/8490524.stm|archive-date=2018-09-12|url-status=dead}}</ref>
+
+== Personal life ==
+He married Noreen H. Greeno on 15 June 1957. They had two children.<ref name="CV">http://www.lrdc.pitt.edu/people/cv/Greeno_VITA.pdf</ref>
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Greeno, James}}
+[[Category:1935 births]]
+[[Category:2020 deaths]]
+[[Category:Educational psychologists]]
+[[Category:American psychologists]]
+[[Category:University of Minnesota College of Liberal Arts alumni]]
+[[Category:Fellows of the Cognitive Science Society]]
+[[Category:University of Michigan faculty]]
+
+{{US-psychologist-stub}}

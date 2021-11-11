@@ -1,0 +1,212 @@
+{{Short description|13th-century Bishop of Lincoln and philosopher}}
+{{Use British English|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox Christian leader
+| name = Robert Grosseteste
+| bishop_of = [[Bishop of Lincoln]]
+| image = Grosseteste bishop.jpg
+| caption = An early 14th-century portrait of Grosseteste<ref>''Brev. Hist. Ang. Scot.'' &c. ([https://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=18837&CollID=8&NStart=3860 Harleian MS 3860], f. 48).</ref>
+| enthroned = 1235
+| ended = 1253
+| predecessor = [[Hugh of Wells]]
+| successor = [[Henry of Lexington]]
+| ordination = 
+| other_post = 
+| birth_date = {{circa|1168}}
+| birth_place = Stow,<ref>[[Richard of Bardney]] in his work 'The Life of Robert Grosstête' gives Stow as Grosseteste's birthplace, without mentioning Suffolk. R. W. Southern (1986, p. 77) notes that there are three Stows in Suffolk.</ref> [[Suffolk]]
+| death_date = 8 or 9 October 1253 (aged about 78)
+| death_place = [[Buckden, Cambridgeshire|Buckden]], [[Huntingdonshire]]
+{{Infobox philosopher
+| embed             = yes
+|region           = [[Western philosophy]]
+|era              = [[Medieval philosophy]]
+|name             = Robert Grosseteste
+|education        = 
+|school_tradition = [[Scholasticism]]
+|main_interests   = [[Theology]], [[natural philosophy]]
+|influences       = [[Anselm of Canterbury]],<ref>Steven P. Marrone, ''William of Auvergne and Robert Grosseteste: New Ideas of Truth in Early Thirteenth Century'', Princeton University Press, 2014, p. 146.</ref> [[Averroes]]<ref>Charles Edwin Butterworth, Blake Andrée Kessel (eds.), ''The Introduction of Arabic Philosophy Into Europe'', BRILL, 1994, p. 55.</ref>
+|influenced       = [[Roger Bacon]],<ref>{{citation |last=Hackett |first=Jeremiah M.G. |ref={{harvid |Hackett (1997), "Life"}} |contribution=Roger Bacon: His Life, Career, and Works |contribution-url=https://books.google.com/books?id=Gy3Vp7TurVUC&pg=PA9 |editor-last=Hackett |editor-first=Jeremiah M. G. |display-editors=0 |title=Roger Bacon and the Sciences: Commemorative Essays |series=''Studien und Texte zur Geistesgeschichte des Mittelalters'', No.&nbsp;57 |url=https://books.google.com/books?id=Gy3Vp7TurVUC |location=Leiden |publisher=Brill |date=1997 |isbn=90-04-10015-6 |page=10 }}</ref> [[Thomas Bradwardine]],<ref>Edith Wilks Dolnikowski, ''Thomas Bradwardine: A View of Time and a Vision of Eternity in Fourteenth Century Thought'', BRILL, 1995, p. 101 n. 4.</ref> [[Thomas Hobbes]]<ref>Tom Sorell (ed.), ''The Cambridge Companion to Hobbes'', Cambridge University Press, 1996, p. 155 n. 93.</ref>
+|notable_ideas    = Theory of [[scientific demonstration]]
+}}
+}}
+'''Robert Grosseteste{{refn|group=n|The name is the [[Norman French]] form of '''Robert Greathead''' ({{lang-la|Robertus Capito}}, ''{{lang|la|Capitus}}'', ''{{lang|la|Megacephalus}}'', or ''{{lang|la|Grossum Caput}}'') or the [[frenchification|gallicized]] '''Robert Grosstête''' ({{IPAc-en|ˈ|g|r|oʊ|s|t|eɪ|t}} {{respell|GROHS|tayt}}; {{lang-la|Robertus Grossetesta}} or ''{{lang|la|Grossatesta}}'').<ref>G.M. Miller, ''BBC Pronouncing Dictionary of British Names'' (London: Oxford UP, 1971), p. 65.</ref> Also known as '''Robert of Lincoln''' ({{lang-la|Robertus Lincolniensis}}, ''{{lang|la|Linconiensis}}'', &c.) or '''Rupert of Lincoln''' ({{lang-la|Rubertus Lincolniensis}}, &c.).<ref>"[http://thesaurus.cerl.org/record/cnp01235745 Grosseteste, Robert (1168–1253)]", ''CERL Thesaurus''.</ref><ref>[http://www.worldcat.org/identities/lccn-n50-72227/ Grosseteste, Robert 1175?–1253]", ''OCLC WorldCat Identities''.</ref>}}''' ({{IPAc-en|ˈ|g|r|oʊ|s|t|ɛ|s|t}} {{respell|GROHS|test}}; {{lang-la|Robertus Grosseteste}}; {{circa|lk=no|1168}}{{snd}}8 or 9 October 1253)<ref>{{Citation|last=Lewis|first=Neil|title=Robert Grosseteste|date=2019|url=https://plato.stanford.edu/archives/sum2019/entries/grosseteste/|encyclopedia=The Stanford Encyclopedia of Philosophy}}</ref> was an [[Kingdom of England|English]] statesman, [[scholasticism|scholastic philosopher]], theologian, scientist and [[Bishop of Lincoln]]. He was born of humble parents in [[Suffolk]] (according to the early 14th century chronicler Nicholas Trevet), but the associations with the village of [[Stradbroke]] is a post-medieval tradition.<ref>Giles E. M. Gasper, et al, ''Knowing and Speaking: Robert Grosseteste's 'De artibus liberalibus' 'On the Liberal Arts' and 'De Generatione Sonorum' 'On the Generation of Sounds''' (Oxford University Press, 2019), pp. 9-35 and 199-225.</ref> Upon his death, he was almost universally revered as a saint in England, but attempts to procure a formal [[canonisation]] failed.  [[Alistair Cameron Crombie|A.&nbsp;C. Crombie]] called him "the real founder of the tradition of scientific thought in medieval [[Oxford]], and in some ways, of the modern English intellectual tradition".
+
+==Scholarly career==
+[[File:Grosseteste-color.png|right|200px|thumb|An image of Grosseteste from a late-14th-century [[illuminated manuscript]].<ref>Grosseteste, ''{{lang|la|Dicta CXLVII}}'' &c. ([http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=39914 Royal 6 E p.&nbsp;116]).</ref>]]
+There is very little direct evidence about Grosseteste's education. He may have received a [[liberal arts education]] at Lincoln and appears as a witness for the bishop of Lincoln at in the late 1180s or early 1190s, where he is identified as a Master. From about 1195 he was active in the household of the Bishop of Hereford [[William de Vere]]; a letter from [[Gerald of Wales]] to William extolling Grosseteste's skills survives. Grosseteste appears not to have received any form of benefice from Bishop William, and on the latter's death in 1198, the household dissolved. There is no evidence that Grosseteste held any position in the households of William's successors, but it is possible that he was supported by Hugh Foliot, Archdeacon of Shropshire in the north of Hereford diocese.  Grosseteste's movements are not clear in the next two decades or so, but he seems to have spent some time in France during the years of the interdict over England (1208-14), and acted as a papal judge-delegate, in company with Hugh Foliot, in or around 1216.
+
+By 1225, he had gained the [[benefice]] of [[Abbotsley]] in the [[diocese of Lincoln]], by which time he was a deacon. On that period in his life, scholarship is divided. Some historians argue that he began his teaching career in theology at [[University of Oxford|Oxford]] in this year, whereas others have more recently argued that he used the income of his ecclesiastical post to support studies in theology at the [[University of Paris]]. However, there is clear evidence that by 1229/30 he was teaching at Oxford, but on the periphery as the [[lector]] in theology to the [[Franciscans]], who had established a [[convent]] in Oxford about 1224. He remained in this post until March 1235.
+
+Grosseteste may also have been appointed [[Chancellor of the University of Oxford]]. However, the evidence for this comes from a late thirteenth century anecdote whose main claim is that Grosseteste was in fact entitled the master of students (''magister scholarium'').
+
+At the same time he began lecturing in theology at Oxford, [[Hugh of Wells]], Bishop of Lincoln, appointed him as [[List of Archdeacons of Leicester|Archdeacon of Leicester]],<ref name=BHOArchLeicester>[http://british-history.ac.uk/report.aspx?compid=33569 British History Online Archdeacons of Leicester] accessed on 28 October 2007</ref> and he also gained a [[prebend]] that made him a [[Canon (priest)|canon]] in [[Lincoln Cathedral]]. However, after a severe illness in 1232, he resigned all his benefices (Abbotsley and Leicester), but retained his prebend. His reasons were due to changing attitudes about the plurality of benefices (holding more than one ecclesiastical position simultaneously), and after seeking advice from the [[Roman Curia|papal court]], he tendered his resignations. The angry response of his friends and colleagues to his resignations took him by surprise and he complained to his sister and to his closest friend, the Franciscan [[Adam Marsh]], that his intentions had been completely misunderstood.
+
+As a master of the sacred page (manuscripts of theology in Latin), Grosseteste trained the Franciscans in the standard curriculum of university theology. The Franciscan [[Roger Bacon]] was his most famous disciple, and acquired an interest in the scientific method from him.<ref>John Freely, ''Aladdin's Lamp: How Greek Science Came to Europe Through the Islamic World'', Alfred A. Knopf, 2009</ref> Grosseteste lectured on the [[Psalter]], the [[Pauline epistles]], [[Book of Genesis|Genesis]] (at least the [[Genesis creation myth|creation account]]), and possibly on [[Book of Isaiah|Isaiah]], [[Book of Daniel|Daniel]] and [[Wisdom of Sirach|Sirach]]. He also led disputations on such subjects as the theological nature of truth and the efficacy of the [[613 Commandments|Mosaic Law]]. Grosseteste also preached at the university and appears to have been called to preach within the diocese as well. He collected some of those sermons, along with some short notes and reflections, not long after he left Oxford; this is now known as his ''Dicta''. His theological writings reveal a continual interest in the natural world as a major resource for theological reflection and an ability to read Greek sources (if he ever learned Hebrew, it would be not until he became bishop of Lincoln). His theological index (''tabula distinctionum'') reveals the breadth of his learning and his desire to communicate it in a systematic manner. However, Grosseteste's own style was far more unstructured than many of his scholastic contemporaries, and his writings reverberate with his own personal views and outlooks. 
+==Bishop of Lincoln==
+[[File:Bishop Robert Grosseteste, 1896.jpg|thumb|200px|alt=1896|A 19th-century portrait of Robert Grosseteste in [[stained glass]]]]
+In February 1235, Hugh of Wells died, and the canons of [[Diocese of Lincoln|Lincoln cathedral]] met to elect his successor. They soon were at a deadlock and could not reach a majority. Fearing that the election would be taken out of their hands, they settled on a compromise candidate, Grosseteste. He was consecrated in June of that same year<ref name=Handbook255>Fryde, et al. ''Handbook of British Chronology'' p. 255</ref> at [[Reading, Berkshire|Reading]].<ref name=BHOLincoln>[http://british-history.ac.uk/report.aspx?compid=33560 British History Online Bishops of Lincoln] accessed on 28 October 2007</ref> He instituted an innovative programme of visitation, a procedure normally reserved for the inspection of monasteries. Grosseteste expanded it to include all the [[deanery|deaneries]] in each archdeaconry of his vast diocese. The scheme brought him into conflict with more than one privileged corporation, in particular with his own chapter, who vigorously disputed his claim to exercise the right of visitation over their community. The dispute raged hotly from 1239 to 1245,<ref name="EB1911"/> with the chapter launching an appeal to the papacy. In 1245, while attending the [[First Council of Lyon]], the papal court ruled in favour of Grosseteste. [[Dean of Lincoln|Dean]] [[William de Thornaco]] is recorded as being suspended by [[Bishop of Lincoln|Bishop]] Grosseteste in 1239, together with [[precentor]] and [[subdean]] in relation to the aforementioned matter.
+
+In ecclesiastical politics the bishop belonged to the school of [[Thomas Becket]]. His zeal for reform led him to advance, on behalf of the courts, Christian claims which it was impossible that the secular power should admit. He twice incurred a rebuke from [[Henry III of England|Henry III]] upon this subject although it was left for [[Edward I of England|Edward I]] to settle the question of principle in favour of the state. The devotion of Grosseteste to the hierarchical theories of his age is attested by his correspondence with his chapter and the king. Against the former he upheld the prerogative of the bishops; against the latter he asserted that it was impossible for a bishop to disregard the commands of the Holy See. Where the liberties of the national church came into conflict with the assertions of Rome he stood by his own countrymen.<ref name="EB1911"/>
+
+Thus in 1238 he demanded that the King should release certain Oxford scholars who had assaulted the [[Papal legate|legate]] [[Otto Candidus]]. But at least up to the year 1247 he submitted patiently to papal encroachments, contenting himself with the protection (by a special papal privilege) of his own diocese from alien clerks. Of royal exactions he was more impatient; and, after the retirement of Archbishop [[Edmund Rich|(Saint) Edmund]], constituted himself the spokesman of the clerical estate in the Great Council.<ref name="EB1911"/>
+
+In 1244 he sat on a committee which was empanelled to consider a demand for a subsidy. The committee rejected the demand, and Grosseteste foiled an attempt on the king's part to separate the clergy from the [[baron]]age. "It is written", the bishop said, "that united we stand and divided we fall."<ref name="EB1911">{{EB1911 |inline=y |last=Davis |first=Henry William Carless |wstitle=Grosseteste, Robert |volume=12 |page=617}}</ref>
+
+The last years of Grosseteste's life and episcopacy were embroiled in a conflict with the new [[Archbishop of Canterbury]], [[Boniface of Savoy (archbishop)|Boniface of Savoy]]. In 1250, he travelled to the papal court, where one of the cardinals read his complaints at an audience with [[Innocent IV]]. He claimed not only that Boniface was threatening the health of the church but also that the pope was just as guilty for not reining him in and that that was symptomatic of the current malaise of the entire church. Most observers noted the personal animus between the bishop of Lincoln and the pope, but it did not stop the pope from agreeing to most of Grosseteste's demands about the way the English church ought to function.
+
+Grosseteste continued to keep a watchful eye on ecclesiastical events. In 1251 he protested against a papal mandate enjoining the English clergy to pay Henry III one-tenth of their revenues for a [[crusade]]; and called attention to the fact that, under the system of provisions, a sum of 70,000 marks was annually drawn from England by the alien nominees of Rome. In 1253, upon being commanded to provide in his own diocese for a papal nephew, he wrote a letter of expostulation and refusal, not to the pope himself but to the commissioner, Master Innocent, through whom he received the mandate. The text of the remonstrance, as given in the Burton Annals and in Matthew Paris, has possibly been altered by a forger who had less respect than Grosseteste for the papacy. The language is more violent than that which the bishop elsewhere employs. But the general argument, that the papacy may command obedience only so far as its commands are consonant with the teaching of Christ and the apostles, is only what should be expected from an ecclesiastical reformer of Grosseteste's time. There is much more reason for suspecting the letter addressed "to the nobles of England, the citizens of London, and the community of the whole realm", in which Grosseteste is represented as denouncing in unmeasured terms papal finance in all its branches. But even in this case allowance must be made for the difference between modern and medieval standards of decorum.<ref name="EB1911"/>
+
+[[File:Grosseteste Chapel.jpg|thumb|right|upright=1.4|Grosseteste's Tomb and Chapel in Lincoln Cathedral]]
+
+Grosseteste numbered among his most intimate friends the Franciscan teacher, [[Adam Marsh]]. Through Adam he came into close relations with [[Simon de Montfort, 6th Earl of Leicester|Simon de Montfort]]. From the Franciscan's letters it appears that the earl had studied a political tract by Grosseteste on the difference between a monarchy and a [[tyranny]] and that he embraced with enthusiasm the bishop's projects of ecclesiastical reform. Their alliance began as early as 1239, when Grosseteste exerted himself to bring about a reconciliation between the king and the earl. But there is no reason to suppose that the political ideas of Montfort had matured before the death of Grosseteste; nor did Grosseteste busy himself overmuch with secular politics, except insofar as they touched the interest of the Church. Grosseteste realised that the misrule of Henry III and his unprincipled compact with the papacy largely accounted for the degeneracy of the English hierarchy and the laxity of ecclesiastical discipline. But he can hardly be termed a [[Constitutionalism|constitutionalist]].<ref name="EB1911"/>
+
+==Death and burial==
+Grosseteste died on 9 October 1253<ref name=Handbook255/><ref>[https://books.google.com/books?id=ii3Rs56pE2wC&pg=PA30&lpg=PA30&dq=%22Lincoln+cathedral%22+grosseteste&source=bl&ots=eItZkhKvVD&sig=b_wYTijjldTByiRJh7bRClnerrI&hl=en&sa=X&ei=obuGU7K6HImv7Ab_6YDwBQ&ved=0CEEQ6AEwBDgo#v=onepage&q=%22Lincoln%20cathedral%22%20grosseteste&f=false James McEvoy, ''Robert Grosseteste'' (Oxford University Press 2000] {{ISBN|978-0-19535417-1}}), p. 30</ref> He was aged between seventy and eighty.
+
+He is buried in a tomb within his memorial chapel within Lincoln Cathedral. Its dedicatory plaque reads as follows:
+
+{{quotation|In this place lies the body of ROBERT GROSSETESTE who was born at Stradbroke in Suffolk, studied in the University of Paris{{snd}}and in 1224 became Chancellor of Oxford University where he befriended and taught the newly founded orders of Friars : In 1229 he became Archdeacon of Leicester and a Canon of this Cathedral{{snd}}reigning as Bishop of Lincoln from 17th. June 1235 until his death.
+<br />
+He was a man of learning and an inspiration to scholars a wise administrator while a true shepherd of his flock, ever concerned to lead them to Christ in whose service he strove to temper justice with mercy, hating the sin while loving the sinner, not sparing the rod though cherishing the weak{{snd}}He died on 8th. October 1253.}}
+
+==Reputation and legacy==
+Grosseteste was already an elderly man, with a firmly established reputation, when he became a bishop. As an ecclesiastical [[wikt:statesman|statesman]], he showed the same fiery zeal and versatility of which he had given proof in his academic career; but the general tendency of modern writers has been to exaggerate his political and ecclesiastical services, and to neglect his performance as a scientist and scholar. The opinion of his own age, as expressed by [[Matthew Paris]] and [[Roger Bacon]], was very different. His contemporaries, while admitting the excellence of his intentions as a statesman, lay stress upon his defects of temper and discretion. But they see in him the pioneer of a literary and scientific movement; not merely a great ecclesiastic who patronised learning in his leisure hours, but the first mathematician and [[physicist]] of his age. He anticipated, in these fields of thought, some of the striking ideas to which Roger Bacon subsequently gave a wider currency.<ref name="EB1911"/>
+
+[[Bishop Grosseteste University]] in [[Lincoln, England|Lincoln]] is named after Robert Grosseteste. The university provides Initial Teacher Training and academic degrees at all levels. In 2003, it hosted an international conference on Grosseteste in honour of the 750th anniversary of his death.
+
+==Works==
+Grosseteste wrote a number of early works in Latin and French while he was a clerk ([[#Biography|see biography above]]), including one called ''Chasteau d'amour'', an allegorical poem on the creation of the world and Christian redemption, as well as several other poems and texts on household management and courtly etiquette. He also wrote a number of theological works including the influential ''[[Hexaëmeron]]'' in the 1230s.  He was also a highly regarded author of manuals on pastoral care and produced treatises that dealt with a variety of penitential contexts, including monasteries, the parish and a bishop's household.
+
+However, Grosseteste is best known as an original thinker for his work concerning what would today be called science or the [[scientific method]].
+
+From about 1220 to 1235 he wrote a host of scientific treatises including:
+
+*''De sphera''. An introductory text on astronomy.
+*''De luce''. On the "metaphysics of light." (which is the most original work of [[cosmogony]] in the Latin West)
+*''De accessu et recessu maris''. On tides and tidal movements. (although some scholars dispute his authorship)
+*''De lineis, angulis et figuris''. Mathematical reasoning in the natural sciences.
+** {{Cite book|title=De phisicis lineis, angulis et figuris|volume=|publisher=|location=Nürnberg|year=1503|language=la|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=4678756}}
+*''De iride''. On the rainbow.
+
+In 1242, having been introduced to the Greek work by [[John of Basingstoke]], Grosseteste had the ''[[Testament of the Twelve Patriarchs]]'' brought from Greece and translated it with help of a clerk of St. Albans:
+{{quote|for the strengthening of the christian {{sic}} faith and the confusion of the Jews [who were said to have deliberately hidden the book away] ... on account of the manifest prophecies of Christ contained therein.{{sfn|Archer|1885}} }}
+
+He also wrote a number of commentaries on [[Aristotle]], including the first in the West of ''[[Posterior Analytics]]'', and one on Aristotle's ''[[Physics (Aristotle)|Physics]]'', which has survived as a loose collection of notes or glosses on the text. Moreover, he did a lot of very interesting work on [[Pseudo-Dionysius the Areopagite]]'s Celestial Hierarchy: he translated both the text and the scholia from Greek into Latin and wrote a commentary <ref>See the edition by D. A. Lawell, Versio Caelestis Hierarchiae Pseudo-Dionysii Areopagitae cum scholiis ex Graeco sumptis necnon commentariis notulisque eiusdem Lincolniensis (= Corpus Christianorum. Continuatio Mediaevalis 268), Turnhout: Brepols Publishers, 2015 ({{ISBN|978-2-503-55593-5}}).</ref>
+
+===Science===
+It has been argued that Grosseteste played a key role in the development of the scientific method. Grosseteste did introduce to the Latin West the notion of controlled experiment and related it to [[Scientific demonstration|demonstrative science]], as one among many ways of arriving at such knowledge.<ref>{{cite web|url=http://plato.stanford.edu/archives/win2010/entries/grosseteste/|title=Robert Grosseteste|first=Lewis|last=Neil|website=plato.stanford.edu|access-date=5 April 2018}}</ref> Although Grosseteste did not always follow his own advice during his investigations, his work is seen as instrumental in the history of the development of the Western scientific tradition.
+
+Grosseteste was the first of the [[Scholastics]] to fully understand [[Aristotle]]'s vision of the dual path of scientific reasoning: generalising from particular observations into a universal law, and then back again from universal laws to prediction of particulars. Grosseteste called this "resolution and composition". So, for example, looking at the particulars of the moon, it is possible to arrive at universal laws about nature. Conversely once these universal laws are understood, it is possible to make predictions and observations about other objects besides the moon. Grosseteste said further that both paths should be verified through experimentation to verify the principles involved. These ideas established a tradition that carried forward to [[Padua]] and [[Galileo Galilei]] in the 17th century.
+
+As important as "resolution and composition" would become to the future of Western scientific tradition, more important to his own time was his idea of the subordination of the sciences. For example, when looking at geometry and optics, optics is subordinate to geometry because optics depends on geometry, and so optics was a prime example of a subalternate science. Thus Grosseteste concluded, following much of what [[Boethius]] had argued, that mathematics was the highest of all sciences, and the basis for all others, since every natural science ultimately depended on mathematics. He supported this conclusion by looking at light, which he believed to be the "first form" of all things, the source of all generation and motion (approximately what is now known as biology and physics). Hence, since light could be reduced to lines and points, and thus fully explained in the realm of mathematics, mathematics was the highest order of the sciences.
+
+[[File:Optics from Roger Bacon's De multiplicatone specierum.jpg|thumb|[[Optic]] studies from Roger Bacon's ''De multiplicatione specierum''. The diagram shows light being refracted by a spherical glass container full of water.]]
+
+Grosseteste had read several important works translated from Greek via Arabic, including ''De Speculis'' by [[Euclid]] (and likely also ''De Visu''), ''Meteorologica'' and ''De Generatione Animalium'' by [[Aristotle]], and directly from Arabic, such as ''Liber Canonis'' by [[Avicenna]]. He likely also read [[al-Kindi]]’s ''De Aspectibus''.<ref>{{cite book |last1=Lindberg |first1=David C. |title=Theories of Vision from al-Kindi to Kepler |date=1976 |publisher=University of Chicago Press |location=Chicago |page=94}}</ref> Drawing on these sources, Grosseteste produced important work in optics, which would be continued by [[Roger Bacon]], who often mentioned his indebtedness to him although there is no proof that the two ever met. In ''De Iride'' Grosseteste writes:
+
+<blockquote>This part of optics, when well understood, shows us how we may make things a very long distance off appear as if placed very close, and large near things appear very small, and how we may make small things placed at a distance appear any size we want, so that it may be possible for us to read the smallest letters at incredible distances, or to count sand, or seed, or any sort of minute objects.</blockquote>
+
+Editions of the original Latin text may be found in: ''Die Philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln'' (Münster i. W., Aschendorff, 1912.), p.&nbsp;75.<ref>A reproduction of this text may be found on the website: [http://www.grosseteste.com/index.htm The Electronic Grossteste] {{webarchive|url=https://web.archive.org/web/20061102095121/http://www.grosseteste.com/index.htm |date=2 November 2006 }}{{snd}}[http://www.grosseteste.com/cgi-bin/textdisplay.cgi?text=de-iride.xml online]  {{webarchive|url=https://web.archive.org/web/20070627234624/http://www.grosseteste.com/cgi-bin/textdisplay.cgi?text=de-iride.xml |date=27 June 2007 }}</ref>
+
+Grossesteste is now believed to have had a very modern understanding of colour, and supposed errors in his account have been found to be based on corrupt late copies of his essay on the nature of colour, written in about 1225 (''De Luce''). In 2014 Grosseteste's 1225 treatise ''De Luce'' (''On Light'') was translated from Latin and interpreted by an interdisciplinary project led by Durham University, that included Latinists, philologists, medieval historians, physicists and cosmologists. ''De Luce'' explores the nature of matter and the cosmos. Four centuries before Isaac Newton proposed gravity and seven centuries before the Big Bang theory, Grosseteste described the birth of the Universe in an explosion and the crystallisation of matter to form stars and planets in a set of nested spheres around Earth. ''De Luce'' is the first attempt to describe the heavens and Earth using a single set of physical laws.<ref>{{cite web|url=http://www.nature.com/news/history-a-medieval-multiverse-1.14837?WT.ec_id=NATURE-20140313|title=Home : Nature Status|website=www.nature.com|access-date=5 April 2018}}</ref> The 'Ordered Universe' collaboration of scientists and historians at [[Durham University]] studying medieval science regard him as a key figure in showing that pre-Renaissance science was far more advanced than previously thought.<ref>[https://www.newscientist.com/article/mg21328551.600-medieval-modern-master-colour-decoded-before-its-time.html Michael Brooks, 'Master of Colour], ''New Scientist'', 10 March 2012</ref>
+
+==Veneration==
+Upon his death, he was almost universally revered as a [[saint (Christianity)|saint]] in England, with [[miracle]]s reported at his [[shrine]] and [[pilgrimage (Christian)|pilgrims]] to it granted an [[indulgence]] by the [[bishop of Lincoln]].{{sfnp|''Cath. Enc.''|1910}} Attempts by the Lincoln bishops, the [[University of Oxford]], and [[Edward I of England|Edward&nbsp;I]] to secure a formal [[canonization|canonisation]], however, failed.{{sfnp|''Cath. Enc.''|1910}} In most of the modern [[Anglican Communion]], Grosseteste is considered [[beatification|beatified]] and commemorated on 9 October.{{sfnp|''ASB''|1991}} However, the [[Episcopal Church (USA)]] commemorates him with St. [[Hugh of Lincoln]] on 17 November.<ref>{{cite web|url=http://satucket.com/lectionary/Calendar.htm|title=Calendar of the Church Year, according to the Episcopal Church|website=satucket.com|access-date=5 April 2018}}</ref> Robert Grosseteste is [[Calendar of saints (Church of England)|remembered]] in the [[Church of England]] with a [[Commemoration (Anglicanism)|commemoration]] on [[October 9|9 October]].<ref>{{Cite web|title=The Calendar|url=https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/calendar|access-date=2021-04-08|website=The Church of England|language=en}}</ref>
+
+==Editions==
+*''Versio Caelestis Hierarchiae Pseudo-Dionysii Areopagitae cum scholiis ex Graeco sumptis necnon commentariis notulisque eiusdem Lincolniensis'', ed. D. A. Lawell (''Corpus Christianorum. Continuatio Mediaevalis'' 268), Turnhout: Brepols Publishers, 2015 ({{ISBN|978-2-503-55593-5}})
+*''Opera'' I. ''Expositio in Epistolam sancti Pauli ad Galatas. Glossarum in sancti Pauli Epistolas fragmenta. Tabula'', ed. J. McEvoy, L. Rizzerio, R.C. Dales, P.W. Rosemann (''Corpus Christianorum. Continuatio Mediaevalis'' 130), Turnhout: Brepols Publishers, 1995 ({{ISBN|978-2-503-04301-2}})
+*''The Greek Commentaries of the Nicomachean Ethics of Aristotle in the Latin Translation of Robert Grosseteste'', ed. H Mercken (''Corpus Latinum Commentariorum in Aristotelem Graecorum'' VI), Leiden: Brill, 1973–1991
+*''On Light'', ed. C Riedl, (Milwaukee, WI, 1942)
+
+===Works in translation===
+*''Mystical theology: The Glosses by Thomas Gallus and the Commentary of Robert Grosseteste on ''De mystica theologia'' '', ed. J McEvoy, (Paris: Peeters, 2003)
+*''On the Six Days of Creation'', tr. CFJ Martin, (Oxford, 1996)
+
+==See also==
+* [[Brazen head]]
+* [[Greyfriars, Oxford]]
+* [[History of science in the Middle Ages]]
+* [[History of the scientific method]]
+* [[List of bishops of Lincoln and precursor offices]]
+* [[List of Roman Catholic scientist-clerics]]
+* [[Oxford Franciscan school]]
+
+==Notes==
+{{reflist|group=n}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* Baur L. (ed.) ''Die Philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln'' in Baeumker's ''Beitradge zer Geschichte der Philosophie des Mittelalters'' series, vol. IX (Munster i. W.: Aschendorff, 1912).
+* Crombie, A. C. ''Robert Grosseteste and the Origins of Experimental Science''. Oxford: [[Clarendon Press]], 1971, {{OCLC|401196}}.  {{ISBN|0-19-824189-5}} (1953).
+* {{cite book |last1=Fryde |first1=E. B. |last2=Greenway |first2=D. E. |last3=Porter |first3=S. |last4=Roy |first4=I. |title=Handbook of British Chronology|edition=Third revised |publisher=Cambridge University Press |location=Cambridge |year=1996 |isbn=0-521-56350-X }}
+* Ginther, James R. ''Master of the Sacred Page: A Study of the Theology of Robert Grosseteste (ca. 1229/30-1235)''. Aldershot: Ashgate Publishers, 2004. {{ISBN|0-7546-1649-5}}.
+* Goering, J. W. & Mackie, E. A. (eds.), ''Editing Robert Grosseteste'', Toronto: University of Toronto Press, 2003. {{ISBN|978-080-208-841-3}}
+* {{Cite DNB|first=Henry Richards|last=Luard|wstitle=Grosseteste, Robert|volume=23}}
+* McEvoy, James. ''The Philosophy of Robert Grosseteste''. Oxford: Clarendon Press, 1992. {{ISBN|0-19-824645-5}}.
+* McEvoy, James. ''Robert Grosseteste''. Oxford: [[Oxford University Press]], 2000.
+* Southern, R. W.  ''Robert Grosseteste: The Growth of an English Mind in Medieval Europe''.  Oxford: Clarendon Press, 1986.  {{ISBN|0-19-820310-1}} (Oxford University Press, USA; 2 edition (1 February 1992) pbk)
+
+==External links==
+*[http://grosseteste.org/ The Electronic Grosseteste]
+*[http://grossetestesociety.org/ International Robert Grosseteste Society]
+*[https://ordered-universe.com/ Ordered Universe Project]
+* {{citation |last=Urquhart |first=Francis |display-authors=0 |contribution=Robert Grosseteste |contribution-url=http://www.newadvent.org/cathen/07037a.htm |title=The Catholic Encyclopedia |location=New York |publisher=Robert Appleton Co. |date=1910 |volume=Vol.&nbsp;VII |ref={{harvid|''Cath. Enc.''|1910}} |title-link=The Catholic Encyclopedia }}.
+*[http://www.britannica.com/eb/article-9038191/Robert-Grosseteste "Robert Grosseteste"]. In ''[[Encyclopædia Britannica]]'' Online.
+* Clare Riedl's 1942 translation of ''[https://web.archive.org/web/20121102034606/http://web.mit.edu/jwk/www/docs/Riedel%201942%20Grosseteste%20On%20Light.pdf On Light]''
+* [http://phys.org/news/2014-04-medieval-bishop-theory-resembles-modern.html Medieval bishop's theory resembles modern concept of multiple universes] (24 April 2014 by Tom Mcleish, Giles Gasper And Hannah Smithson, The Conversation)
+*{{cite web |url=https://theconversation.com/our-latest-scientific-research-partner-was-a-medieval-bishop-42857 |title=Our latest scientific research partner was a medieval bishop |last1=McLeish |first1=Tom |last2=Gasper |first2=Giles |last3=Smithson |first3=Hannah |date=7 June 2015 |website=The Conversation US |access-date=14 June 2015 }}
+* {{cite news|last1=Brookes|first1=Michael|title=The medieval bishop who helped to unweave the rainbow|url=https://www.theguardian.com/science/blog/2014/nov/27/bishop-unweaved-rainbow-times-higher-education-award|work=The Guardian|date=27 November 2014}}
+* {{citation |contribution=October |contribution-url=https://books.google.com/books?id=jN4wspXqHBkC&pg=PA24 |page=24 |title=The Anglican Service Book |url=https://books.google.com/books?id=jN4wspXqHBkC |date=1991 |publisher=Good Shepherd Press, reprinted 2007 |ref={{harvid|''ASB''|1991}} |location=[[Rosemont, Pennsylvania|Rosemont]] |isbn = 9780962995507}}.
+* [http://british-history.ac.uk/report.aspx?compid=33569 British History Online Archdeacons of Leicester] accessed on 28 October 2007.
+* [http://british-history.ac.uk/report.aspx?compid=33560 British History Online Bishops of Lincoln] accessed on 28 October 2007.
+
+{{s-start}}
+{{s-rel|ca}}
+{{s-bef | before=[[Hugh of Wells]]}}
+{{s-ttl| title=[[Bishop of Lincoln]]| years=1235–1253}}
+{{s-aft  | after=[[Henry of Lexington]] }}
+{{s-aca}}
+{{s-bef|before=New position}}
+{{s-ttl|title=[[List of Chancellors of the University of Oxford|Chancellor of the University of Oxford]]|years=1224–1231 }}
+{{s-aft |after=[[Ralph Cole (chancellor)|Ralph Cole]]}}
+{{s-end}}
+
+{{Medieval Philosophy}}
+{{Bishops of Lincoln}}
+{{Chancellors of the University of Oxford}}
+{{Authority control}}
+
+{{Subject bar| portal1=Christianity|portal2=Biography|portal3=Catholicism|portal4=Saints|portal5=England|commons=y|q=y}}
+
+{{DEFAULTSORT:Grosseteste, Robert}}
+[[Category:1168 births]]
+[[Category:1253 deaths]]
+[[Category:13th-century English Roman Catholic theologians]]
+[[Category:13th-century philosophers]]
+[[Category:Catholic philosophers]]
+[[Category:Scholastic philosophers]]
+[[Category:People from Stradbroke]]
+[[Category:English scientists]]
+[[Category:Medieval scientists]]
+[[Category:English philosophers]]
+[[Category:English Franciscans]]
+[[Category:Philosophers of science]]
+[[Category:Catholic clergy scientists]]
+[[Category:Bishops of Lincoln]]
+[[Category:Archdeacons of Leicester]]
+[[Category:Clerks]]
+[[Category:Academics of the University of Oxford]]
+[[Category:Chancellors of the University of Oxford]]
+[[Category:Burials in Lincolnshire]]
+[[Category:13th-century English Roman Catholic bishops]]
+[[Category:13th-century Latin writers]]
+[[Category:Greek–Latin translators]]
+[[Category:13th-century astronomers]]
+[[Category:13th-century mathematicians]]
+[[Category:13th-century translators]]
+[[Category:Medieval English astronomers]]
+[[Category:Medieval physicists]]
+[[Category:Anglican saints]]

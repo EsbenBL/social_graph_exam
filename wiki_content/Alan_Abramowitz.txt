@@ -1,0 +1,88 @@
+{{short description|American political scientist and author|bot=PearBOT 5}}
+{{Infobox scholar
+| name = Alan Abramowitz
+| image = <!-- just the filename, without the File: or Image: prefix or enclosing [[brackets]] -->
+| imagesize = 
+| alt = 
+| caption = 
+| fullname = 
+| othernames = 
+| birth_name = Alan Ira Abramowitz
+| birth_date = {{Birth date and age|mf=yes|1947|12|01}} 
+| birth_place = 
+| death_date = <!-- {{Death date and age|df=yes|YYYY|MM|DD|YYYY|MM|DD}}  -->
+| death_place = 
+| death_cause = 
+| residence = 
+| era = 
+| region = 
+| workplaces = [[Emory University]]
+| alma_mater = [[Stanford University]]
+| thesis_title = An assessment of party and incumbent accountability in midterm congressional elections
+| thesis_url = https://www.worldcat.org/oclc/27994633
+| thesis_year = 1976
+| doctoral_advisor = 
+| doctoral_students = 
+| notable_students = 
+| school_tradition = 
+| main_interests = [[Political science]]
+| principal_ideas = 
+| major_works = 
+| awards = 
+| influences = 
+| influenced = 
+| website = <!-- {{URL|example.com}} -->
+| footnotes = 
+}}
+'''Alan Ira Abramowitz''' (born December 1, 1947)<ref name=Congress>{{cite web |title= Humphries, Jane, 1948– |url= http://id.loc.gov/authorities/names/n81064314.html |publisher= Library of Congress |access-date= 15 March 2017 |quote= data sheet (b. Dec. 1, 1947) }}</ref> is an American political scientist and author, known for his research and writings on [[American politics]], [[Elections in the United States|elections]], and [[Political parties in the United States|political parties]].
+
+==Early life==
+Abramowitz graduated with a B.A. with high honors in political science from the [[University of Rochester]] in 1969. He attended graduate school at [[Stanford University]], completing an M.A. in 1972 and a Ph.D. in 1976.  Abramowitz' dissertation was entitled ''An Assessment of Party and Incumbent Accountability in Midterm Congressional Elections''.<ref>{{cite thesis|degree=PhD|last=Abramowitz|first=Alan Ira|date=1976|title=An assessment of party and incumbent accountability in midterm congressional elections|publisher=[[Stanford University]]|oclc=27994633}}</ref>
+
+==Career==
+Abramowitz taught at the [[College of William and Mary]] from 1976 to 1982 and at [[SUNY-Stony Brook|Stony Brook University]] from 1982 to 1987. He then joined the faculty at [[Emory University]] as a professor of political science. Abramowitz was awarded the [[Alben W. Barkley]] Distinguished Chair in Political Science at Emory University in 1993.
+
+Abramowitz has authored or co-authored five books. His 1992 book co-authored with Jeff Segal of Stony Brook University, ''Senate Elections'', written in 1992, received two awards from political science associations and remains one of the seminal works in the study of senatorial elections to this day. Abramowitz has written extensively on many disparate topics in American politics, including [[President of the United States|presidential]], [[United States Senate|Senate]] and [[United States House of Representatives|House of Representatives]] elections, [[activism]], [[Polarization (politics)|polarization]], [[ideology]], [[partisanship]], [[Realigning election|ideological realignment]], [[incumbency]], and [[redistricting]].
+
+===Time-for-change model===
+In 1988, Abramowitz devised a model, which he termed the "time-for-change model", for predicting the outcome of the popular vote in [[United States presidential election]]s.<ref>[http://blog.longreads.com/2015/04/09/alan-abramowitzs-model-has-correctly-predicted-every-presidential-election-outcome-since-1992/ "Alan Abramowitz’s Model Has Correctly Predicted Every Presidential Election Outcome Since 1992"]. ''Longreads Blog''. April 5, 2015.</ref> The model makes its prediction based on only three inputs: "the growth rate of the economy during the second quarter of the election year, the incumbent president’s approval rating at mid-year, and the length of time the incumbent president’s party has controlled the [[White House]]". The last of these is what Abramowitz dubbed "the time-for-change factor", arguing that the longer a political party controls the presidency, the more likely the other party will be to win it back, since "voters attach a positive value to periodic alternation in power by the two major parties".<ref>{{Cite journal | last = Abramowitz | first = Alan I. | title = Forecasting the 2008 Presidential election with the time-for-change model | journal = [[PS Political Science & Politics|PS: Political Science & Politics]] | volume = 41 | issue = 4 | pages = 691–695 | doi = 10.1017/S1049096508081249 | jstor = 20452296 | date = October 2008 }} [http://sites.suffolk.edu/bconleygovt120/files/2009/08/abramowitz.pdf Pdf.]</ref>
+
+Abramowitz's model was correct in every presidential election from 1988 until [[2016 United States presidential election|2016]], when it predicted that [[Donald Trump]] would win the popular vote; he lost the popular vote to [[Hillary Clinton]], although he did win the [[United States Electoral College|Electoral College]]. In May 2016, Abramowitz had predicted that Clinton would win the popular vote by an even larger margin, stating that his model assumed that both political parties would nominate mainstream candidates and that Trump broke this assumption.<ref>{{cite web |title=One of the best election models predicts a Trump victory. Its creator doesn't believe it. |url=https://www.vox.com/2016/6/14/11854512/trump-election-models-political-science |publisher=Vox |first=Dylan |last=Matthews |date=June 14, 2016}}</ref>
+
+==Select publications==
+;Books
+* {{cite book | last1 = Abramowitz | first1 =Alan I. | last2 = Rapoport | first2 = Ronald B. | last3 = McGlennon | first3 = John | title = Party activists in Virginia: a study of delegates to the 1978 senatorial nominating conventions | publisher = Institute of Government, University of Virginia | location = Charlottesville | year = 1981 | oclc = 7645639 }}
+* {{cite book | last1 = Abramowitz | first1 =Alan I. | last2 = Stone | first2 = Walter J. | title = Nomination politics: party activists and presidential choice | url = https://archive.org/details/nominationpoliti00abra | url-access = registration | publisher = Praeger | location = New York | year = 1984 | isbn =0472081926 | oclc = 560242080 }}
+* {{cite book | editor-last1 = Abramowitz | editor-first1 = Alan I. | editor-last2 = Rapoport | editor-first2 = Ronald B. | editor-last3 = McGlennon | editor-first3 = John | title = The Life of the parties: activists in presidential politics | publisher = University Press of Kentucky | location = Lexington, Kentucky | year = 1986 | isbn = 9780813115597 | url-access = registration | url = https://archive.org/details/lifeofparties00rapo }}
+::''Available online as'': {{Cite journal | last1 = Abramowitz | first1 =Alan I. | last2 = Rapoport | first2 = Ronald B. | last3 = McGlennon | first3 = John | title = Table of contents | journal = The Life of the Parties: Activists in Presidential Politics | publisher = University Press of Kentucky | date = 1986 | jstor = j.ctt130jbn7 }} [https://muse.jhu.edu/book/38080 Project Muse.]
+* {{cite book | last1 = Abramowitz | first1 = Alan I. | last2 = Segal | first2 = Jeffrey A. | title = Senate elections | publisher = University of Michigan Press | location = Ann Arbor | year = 1992 | isbn = 9780472103454 | url-access = registration | url = https://archive.org/details/senateelections0000abra }}
+* {{cite book | last = Abramowitz | first = Alan I. | title = Voice of the people: elections and voting in the United States | publisher = McGraw-Hill | location = New York | year = 2004 | isbn = 9780072490657 | url-access = registration | url = https://archive.org/details/voiceofpeopleele0000abra }}
+* {{cite book | last = Abramowitz | first = Alan I. | title = The disappearing center: engaged citizens, polarization, and American democracy | publisher = Yale University Press | location = New Haven | year = 2010 | isbn = 9780300162882 }}
+* {{cite book | last = Abramowitz | first = Alan I. | title = The polarized public? Why our government is so dysfunctional | publisher = Pearson | location = Upper Saddle River, New Jersey | year = 2013 | isbn = 9780205877393 | url-access = registration | url = https://archive.org/details/polarizedpublicw0000abra }}
+
+;Journal articles
+* {{Cite journal | last1 = Abramowitz | first1 =Alan I. | last2 = Segal | first2 = Jeffrey A. | title = Determinants of the outcomes of U.S. Senate elections | journal = [[The Journal of Politics]] | volume = 48 | issue = 2 | pages = 433–439 | doi = 10.2307/2131102 | jstor = 2131102 | date = May 1986 | s2cid =154252391 }}
+* {{Cite journal | last1 = Abramowitz | first1 =Alan I. | last2 = Cover | first2 = Albert D. | last3 = Norpoth | first3 = Helmut | title = The President's party in midterm elections: going from bad to worse | journal = [[American Journal of Political Science]] | volume = 30 | issue = 3 | pages = 562–576 | doi = 10.2307/2111090 | jstor = 2111090 | date = August 1986 }}
+* {{Cite journal | last = Abramowitz | first = Alan I. | title = Forecasting the 2008 Presidential election with the time-for-change model | journal = [[PS Political Science & Politics|PS: Political Science & Politics]] | volume = 41 | issue = 4 | pages = 691–695 | doi = 10.1017/S1049096508081249 | jstor = 20452296 | date = October 2008 }} [http://sites.suffolk.edu/bconleygovt120/files/2009/08/abramowitz.pdf Pdf.]
+* {{cite web | last = Abramowitz | first =Alan I. | title = The Republican establishment versus The Tea Party | url = http://www.centerforpolitics.org/crystalball/articles/not-their-cup-of-tea-the-republican-establishment-versus-the-tea-party | publisher = [[University of Virginia Center for Politics]] | date = November 14, 2013 }}
+* {{Cite journal | last1 = Abramowitz | first1 =Alan I. | last2 = Webster | first2 = Steven | title = The rise of negative partisanship and the nationalization of U.S. elections in the 21st century | journal = [[Electoral Studies]] | volume = 41 | pages = 12–22 | doi = 10.1016/j.electstud.2015.11.001 | date = March 2016 }}
+* {{Cite journal | last = Abramowitz | first = Alan I. | title = Will time for change mean time for Trump? | journal = [[PS Political Science & Politics|PS: Political Science & Politics]] | volume = 49 | issue = 4 | pages = 659–660 | doi = 10.1017/S1049096516001268 | date = October 2016 | doi-access = free }} [http://www.politicalsciencenow.com/will-time-for-change-mean-time-for-trump/ Abstract.]
+
+==References==
+{{reflist}}
+
+==Sources==
+*[http://polisci.emory.edu/home/people/faculty/abramowitz-alan.html Emory Department of Political Science: Alan I. Abramowitz]
+*[https://web.archive.org/web/20150525203321/http://polisci.emory.edu/home/documents/faculty-curriculum-vita/abramowitz-alan.pdf Curriculum vitae: Alan I. Abramowitz]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Abramowitz, Alan I.}}
+[[Category:American political scientists]]
+[[Category:Living people]]
+[[Category:1947 births]]
+[[Category:Emory University faculty]]
+[[Category:University of Rochester alumni]]
+[[Category:Stanford University School of Humanities and Sciences alumni]]
+[[Category:College of William & Mary faculty]]
+[[Category:Stony Brook University faculty]]

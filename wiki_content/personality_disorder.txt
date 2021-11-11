@@ -1,0 +1,1365 @@
+{{Short description|Maladaptive patterns of behavior}}
+{{Use dmy dates|date=February 2018}}
+{{Infobox medical condition (new)
+| name = Personality disorders
+| image =
+| caption =
+| field  = [[Psychiatry]]; [[clinical psychology]]
+| symptoms        =
+| complications   =
+| onset           =
+| duration        =
+| causes          =
+| risks           =
+| diagnosis       =
+| differential    =
+| prevention      =
+| treatment       =
+| medication      =
+| prognosis       =
+| frequency       = 9–15%<ref name=DSM5>{{citation|author=American Psychiatric Association|year=2013|title=Diagnostic and Statistical Manual of Mental Disorders (5th ed.)|location=Arlington|publisher=American Psychiatric Publishing|page=[https://archive.org/details/diagnosticstatis0005unse/page/646 646]|isbn=978-0-89042-555-8|url=https://archive.org/details/diagnosticstatis0005unse/page/646}}</ref>
+| deaths          =
+}}
+{{Personality disorders sidebar}}
+
+'''Personality disorders''' ('''PD''') are a class of [[mental disorder]]s characterized by enduring [[maladaptive]] patterns of behavior, cognition, and inner experience, exhibited across many contexts and deviating from those accepted by the individual's culture. These patterns develop early, are inflexible, and are associated with significant distress or disability. The definitions may vary somewhat, according to source, and remain a matter of controversy.<ref name="DSM-5-general personality disorder">{{Cite book|url=https://books.google.com/books?id=-JivBAAAQBAJ|title=Diagnostic and Statistical Manual of Mental Disorders|last=American Psychiatric Association|publisher=American Psychiatric Publishing|year=2013|isbn=978-0-89042-555-8|edition=Fifth|location=Arlington, VA|pages=646–49}}</ref><ref>{{cite journal|author=Berrios, G E |year=1993|title= European views on personality disorders: a conceptual history|journal=Comprehensive Psychiatry|volume= 34|pages= 14–30|doi=10.1016/0010-440X(93)90031-X|pmid=8425387|issue=1}}</ref><ref name="millon1">{{cite book|title=Disorders of Personality: DSM-IV and Beyond|last=Theodore Millon|author2=Roger D. Davis|publisher=John Wiley & Sons, Inc.|year=1996|isbn=978-0-471-01186-6|location=New York|page=226|author-link=Theodore Millon}}</ref> Official criteria for diagnosing personality disorders are listed in the fifth chapter of the ''[[International Statistical Classification of Diseases and Related Health Problems|International Classification of Diseases]]'' (ICD) and in the [[American Psychiatric Association]]'s ''[[Diagnostic and Statistical Manual of Mental Disorders]]'' (DSM).
+
+[[Personality]], defined psychologically, is the set of enduring behavioral and mental traits that distinguish individual humans. Hence, personality disorders are defined by experiences and behaviors that deviate from [[social norm]]s and expectations. Those diagnosed with a personality disorder may experience difficulties in cognition, emotiveness, interpersonal functioning, or [[impulse control]]. In general, personality disorders are diagnosed in 40–60% of psychiatric patients, making them the most frequent of psychiatric diagnoses.<ref>{{cite journal | doi = 10.1016/B0-08-043076-7/03763-3 | title=Personality Disorders | year=2001 | journal=International Encyclopedia of the Social & Behavioral Sciences | pages=11301–11308 | author=Saß H| isbn=9780080430768 }}</ref>{{Clarify|reason=|date=October 2020}}
+
+Personality disorders are characterized by an enduring collection of behavioral patterns often associated with considerable personal, social, and occupational disruption. Personality disorders are also inflexible and pervasive across many situations, largely due to the fact that such behavior may be [[ego-syntonic]] (i.e. the patterns are consistent with the [[Ego Integrity|ego integrity]] of the individual) and are therefore perceived to be appropriate by that individual. In addition, people with personality disorders often [[Anosognosia|lack insight]] into their condition and so refrain from seeking treatment. This behavior can result in maladaptive [[coping skills]] and may lead to personal problems that induce extreme anxiety, distress, or depression and result in impaired psychosocial functioning. These behavior patterns are typically recognized by adolescence, the beginning of adulthood or sometimes even childhood and often have a pervasive negative impact on the [[quality of life]].<ref name="DSM-5-general personality disorder" /><ref>[[Otto F. Kernberg|Otto Kernberg]] (1984). Severe Personality Disorders. New Haven, CT: Yale University Press, {{ISBN|0300053495}}.</ref><ref name=":1" />
+
+While emerging treatments, such as [[dialectical behavior therapy]], have demonstrated efficacy in treating personality disorders, such as [[borderline personality disorder]],<ref>{{Cite journal|last1=Kliem|first1=Sören|last2=Kröger|first2=Christoph|last3=Kosfelder|first3=Joachim|date=December 2010|title=Dialectical behavior therapy for borderline personality disorder: a meta-analysis using mixed-effects modeling|url=https://pubmed.ncbi.nlm.nih.gov/21114345/|journal=Journal of Consulting and Clinical Psychology|volume=78|issue=6|pages=936–951|doi=10.1037/a0021015|issn=1939-2117|pmid=21114345}}</ref> personality disorders are associated with considerable [[Social stigma|stigma]] in popular and clinical discourse alike.<ref>{{cite web |url=https://www.helpseeker.net/Personality-disorders/there-are-few-disorders-that-carry-such-a-stigma-as-personality-disorders |title=There are few disorders that carry such a stigma as personality disorders |website=Helpseeker.net |access-date=2020-12-06}}</ref> Despite various methodological schemas designed to categorize personality disorders, many issues occur with classifying a personality disorder because the theory and diagnosis of such disorders occur within prevailing [[Norm (social)|cultural expectations]]; thus, their validity is contested by some experts on the basis of inevitable subjectivity. They argue that the theory and diagnosis of personality disorders are based strictly on social, or even [[Politics|sociopolitical]] and economic considerations.<ref>{{cite book|url=https://books.google.com/books?id=BzPOAWB2DncC&pg=PA196|title=Psychoanalytic Diagnosis, Second Edition: Understanding Personality Structure in the Clinical Process|date=29 July 2011|publisher=Guilford Press|isbn=978-1-60918-494-0|pages=196–|author=Nancy McWilliams}}</ref>
+
+{{TOC limit|3}}
+
+== Classification ==
+The two relevant major systems of classification are
+* the [[ICD-11|International Classification of Diseases (11th revision, ICD-11)]] published by the [[World Health Organization]]
+* the [[DSM-5|Diagnostic and Statistical Manual of Mental Disorders (Fifth Edition, DSM-5)]] by the [[American Psychiatric Association]].
+
+The ICD system is a collection of numerical codes that have been assigned to all known clinical disease states, which provides uniform terminology for medical records, billing, and research purposes.  The DSM defines psychiatric diagnoses based on research and expert consensus, and its content informs the ICD-10 classifications.  Both have deliberately merged their diagnoses to some extent, but some differences remain. For example, ICD-10 does not include narcissistic personality disorder as a distinct category, while DSM-5 does not include enduring personality change after catastrophic experience or after psychiatric illness. ICD-10 classifies the DSM-5 schizotypal personality disorder as a form of [[schizophrenia]] rather than as a personality disorder. There are accepted diagnostic issues and controversies with regard to distinguishing particular personality disorder categories from each other.<ref>{{cite journal | pmc = 1525106 | pmid=16946918 | volume=2 | issue=3 | title=Personality disorder diagnosis |date=October 2003 | author=Widiger TA |author-link=Thomas Widiger| journal=World Psychiatry | pages=131–35}}</ref>
+
+=== <span id="Diagnosis"></span> General criteria ===
+Both diagnostic systems provide a definition and six criteria for a general personality disorder. These criteria should be met by all personality disorder cases before a more specific diagnosis can be made.
+
+The [[ICD-10]] lists these general guideline criteria:<ref name=":0">{{Cite book|chapter-url=https://www.who.int/classifications/icd/en/bluebook.pdf|title=The ICD-10 Classification of Mental and Behavioural Disorders – Clinical descriptions and diagnostic guidelines|publisher=WHO (2010)|pages=157–58|chapter=Disorders of adult personality and behaviour (F60–F69)}}</ref>
+* Markedly disharmonious attitudes and behavior, generally involving several areas of functioning, e.g. affectivity, arousal, impulse control, ways of perceiving and thinking, and style of relating to others;
+* The abnormal behavior pattern is enduring, of long standing, and not limited to episodes of mental illness;
+* The abnormal behavior pattern is pervasive and clearly maladaptive to a broad range of personal and social situations;
+* The above manifestations always appear during childhood or adolescence and continue into adulthood;
+* The disorder leads to considerable personal distress but this may only become apparent late in its course;
+* The disorder is usually, but not invariably, associated with significant problems in occupational and social performance.
+The ICD adds: "For different cultures it may be necessary to develop specific sets of criteria with regard to social norms, rules and obligations."<ref name=":0" />
+
+In [[DSM-5]], any personality disorder diagnosis must meet the following criteria:<ref name="DSM-5-general personality disorder2">{{Cite book|title=Diagnostic and Statistical Manual of Mental Disorders|year=2013|isbn=978-0-89042-555-8|edition=Fifth|pages=[https://archive.org/details/diagnosticstatis0005unse/page/234 234–236]|chapter=Alternative DSM-5 Model for Personality Disorders|publisher=American Psychiatric Association|doi=10.1176/appi.books.9780890425596.156852|chapter-url=https://books.google.com/books?id=-JivBAAAQBAJ|url=https://archive.org/details/diagnosticstatis0005unse/page/234}}</ref>
+* An enduring pattern of inner experience and behavior that deviates markedly from the expectations of the individual's culture. This pattern is manifested in two (or more) of the following areas:
+** Cognition (i.e., ways of perceiving and interpreting self, other people, and events).
+** Affectivity (i.e., the range, intensity, lability, and appropriateness of emotional response).
+** Interpersonal functioning.
+** Impulse control.
+* The enduring pattern is inflexible and pervasive across a broad range of personal and social situations.
+* The enduring pattern leads to clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+* The pattern is stable and of long duration, and its onset can be traced back at least to adolescence or early adulthood.
+* The enduring pattern is not better explained as a manifestation or consequence of another mental disorder.
+* The enduring pattern is not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication) or another medical condition (e.g., head trauma).
+
+=== In ICD-10 ===
+[[ICD-10 Chapter V: Mental and behavioural disorders#(F60–F69) Disorders of adult personality and behaviour|Chapter V]] in the [[ICD-10]] contains the mental and behavioral disorders and includes categories of personality disorder and enduring personality changes. They are defined as ingrained patterns indicated by inflexible and disabling responses that significantly differ from how the average person in the culture perceives, thinks, and feels, particularly in relating to others.<ref>WHO (2010) [http://apps.who.int/classifications/icd10/browse/2010/en#/F60 ICD-10: Specific Personality Disorders]</ref>
+
+The specific personality disorders are: [[Paranoid personality disorder|paranoid]], [[Schizoid personality disorder|schizoid]], [[Dissocial personality disorder|dissocial]], [[Emotionally unstable personality disorder|emotionally unstable]] (borderline type and impulsive type), [[Histrionic personality disorder|histrionic]], [[Anankastic personality disorder|anankastic]], [[Avoidant personality disorder|anxious (avoidant)]] and [[Dependent personality disorder|dependent]].<ref>[http://behaviouralsciences.net/classifications/icd10/browse/2010/en#/F60-F69 "International Statistical Classification of Diseases and Related Health Problems 10th Revision (ICD-10) Version for 2010 (Online Version)"]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}. Apps.who.int. Retrieved on 16 April 2013.</ref>
+
+Besides the ten specific PD, there are the following categories:
+* ''Other specific personality disorders'' (involves PD characterized as [[eccentricity (behavior)|eccentric]], ''[[haltlose personality disorder|haltlose]]'', [[Maturity (psychological)|immature]], [[narcissistic]], [[Passive–aggressive personality disorder|passive–aggressive]], or [[psychoneurotic]].)
+* ''Personality disorder, unspecified'' (includes "character [[neurosis]]" and "[[pathological]] personality").
+* ''Mixed and other personality disorders'' (defined as conditions that are often troublesome but do not demonstrate the specific pattern of symptoms in the named disorders).
+* ''Enduring personality changes, not attributable to brain damage and disease'' (this is for conditions that seem to arise in adults without a diagnosis of personality disorder, following catastrophic or prolonged stress or other psychiatric illness).
+
+==== In ICD-11 ====
+In the proposed revision of [[ICD-11]], all discrete personality disorder diagnoses will be removed and replaced by the single diagnosis "personality disorder". Instead, there will be specifiers called "prominent personality traits" and the possibility to classify degrees of severity ranging from "mild", "moderate", and "severe" based on the dysfunction in interpersonal relationships and everyday life of the patient.<ref>{{cite journal|last2=Reed|first2=Geoffrey M|last3=Crawford|first3=Mike J|date=February 2015|title=Classification, assessment, prevalence, and effect of personality disorder|journal=The Lancet|volume=385|issue=9969|pages=717–26|doi=10.1016/S0140-6736(14)61995-4|pmid=25706217|last1=Tyrer|first1=Peter|s2cid=25755526|url=https://www.semanticscholar.org/paper/2e8c3b2681a6b1b5239ecd90999de539077a54ab}}</ref><ref name=":3">[http://apps.who.int/classifications/icd11/browse/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1128733473 ICD-11 Beta Draft.] who.int</ref>
+
+There are six prominent personality traits/patterns categorised by the ICD-11:<ref name=":3" />
+
+* ''[[Negative affectivity]]'' ("tendency to experience a broad range of negative emotions.")
+* ''[[Emotional detachment|Detachment]]'' ("tendency to maintain interpersonal distance (social detachment) and emotional distance (emotional detachment).")
+* ''[[Anti-social behaviour|Dissociality]]'' ("disregard for the rights and feelings of others, encompassing both self-centredness and lack of empathy." Equivalent to the DSM-5 classification of [[antisocial personality disorder]].)
+* ''[[Disinhibition]]'' ("tendency to act rashly based on immediate external or internal stimuli (i.e., sensations, emotions, thoughts), without consideration of potential negative consequences.")
+* ''[[Obsessive–compulsive personality disorder|Anankastia]]'' ("narrow focus on one’s rigid standard of perfection and of right and wrong, and on controlling one’s own and others’ behaviour and controlling situations to ensure conformity to these standards." Equivalent to the DSM-5 classification of obsessive-compulsive personality disorder.)
+* ''[[Borderline personality disorder|Borderline pattern]]'' ("pattern of personality disturbance is characterised by a pervasive pattern of instability of interpersonal relationships, self-image, and affects, and marked impulsivity". Equivalent to the DSM-5 classification of borderline personality disorder.)
+
+=== In DSM-5 ===
+The most recent [[DSM-5|fifth edition]] of the ''[[Diagnostic and Statistical Manual of Mental Disorders]]'' stresses that a personality disorder is an enduring and inflexible pattern of long duration leading to significant distress or impairment and is not due to use of substances or another medical condition. The [[DSM-5]] lists personality disorders in the same way as other mental disorders, rather than on a separate 'axis', as previously.<ref>[http://www.medscape.com/viewarticle/803884_8 A Guide to DSM-5: Personality Disorders] Medscape Psychiatry, Bret S. Stetka, MD, Christoph U. Correll, 21 May 2013</ref>
+
+DSM-5 lists ten specific personality disorders: [[Paranoid personality disorder|paranoid]], [[Schizoid personality disorder|schizoid]], [[Schizotypal personality disorder|schizotypal]], [[Antisocial personality disorder|antisocial]], [[Borderline personality disorder|borderline]], [[Histrionic personality disorder|histrionic]], [[Narcissistic personality disorder|narcissistic]], [[Avoidant personality disorder|avoidant]], [[Dependent personality disorder|dependent]] and [[Obsessive–compulsive personality disorder|obsessive–compulsive]] personality disorder.
+
+The DSM-5 also contains three diagnoses for personality patterns not matching these ten disorders, but nevertheless exhibit characteristics of a personality disorder:<ref name="DSM-5-general personality disorder2" />
+* Personality change due to another medical condition – personality disturbance due to the direct effects of a medical condition.
+* Other specified personality disorder – general criteria for a personality disorder are met but fails to meet the criteria for a specific disorder, with the reason given.
+* [[Personality disorder not otherwise specified|Unspecified personality disorder]] – general criteria for a personality disorder are met but the personality disorder is not included in the DSM-5 classification.
+
+=== Personality clusters ===
+The specific personality disorders are grouped into the following three clusters based on descriptive similarities:
+
+==== Cluster A (odd or eccentric disorders) ====
+Cluster A personality disorders are often associated with schizophrenia: in particular, schizotypal personality disorder shares some of its hallmark symptoms with schizophrenia, e.g., acute discomfort in close relationships, cognitive or perceptual distortions, and eccentricities of behavior. However, people diagnosed with odd-eccentric personality disorders tend to have a greater grasp on reality than those with schizophrenia. Patients suffering from these disorders can be paranoid and have difficulty being understood by others, as they often have odd or eccentric modes of speaking and an unwillingness and inability to form and maintain close relationships. Though their perceptions may be unusual, these anomalies are distinguished from delusions or hallucinations as people suffering from these would be diagnosed with other conditions. Significant evidence suggests a small proportion of people with Cluster A personality disorders, especially schizotypal personality disorder, have the potential to develop schizophrenia and other psychotic disorders. These disorders also have a higher probability of occurring among individuals whose first-degree relatives have either schizophrenia or a Cluster A personality disorder.<ref name="ClusterA">{{cite journal|last2=Goulding|first2=Sandra M.|last3=Walker|first3=Elaine F.|date=5 May 2010|title=Cluster A Personality Disorders: Schizotypal, Schizoid and Paranoid Personality Disorders in Childhood and Adolescence|journal=Journal of Psychopathology and Behavioral Assessment|volume=32|issue=4|pages=515–28|doi=10.1007/s10862-010-9183-8|pmc=2992453|pmid=21116455|last1=Esterberg|first1=Michelle L.}}</ref>
+* [[Paranoid personality disorder]]: characterized by a pattern of irrational suspicion and mistrust of others, interpreting motivations as malevolent.
+* [[Schizoid personality disorder]]: lack of interest and detachment from social relationships, apathy, and restricted emotional expression.
+* [[Schizotypal personality disorder]]: pattern of extreme discomfort interacting socially, and distorted cognition and perceptions.
+
+==== Cluster B (dramatic, emotional or erratic disorders) ====
+{{Main|Cluster B personality disorders}}
+* [[Antisocial personality disorder]]: pervasive pattern of disregard for and violation of the rights of others, lack of empathy, bloated self-image, manipulative and impulsive behavior.
+* [[Borderline personality disorder]]: pervasive pattern of abrupt emotional outbursts, altered empathy,<ref name=empathy_in_borderline>{{cite journal|url=https://pubmed.ncbi.nlm.nih.gov/28351003/|author=Niedtfeld, I.|title=Experimental investigation of cognitive and affective empathy in borderline personality disorder: Effects of ambiguity in multimodal social information processing|journal=Psychiatry Research|volume=253|pages=58–63|date=July 2017|doi=10.1016/j.psychres.2017.03.037|pmid=28351003|s2cid=13764666|access-date=February 16, 2020}}</ref> instability in relationships, self-image, identity, behavior and [[affect (psychology)|affect]], often leading to self-harm and impulsivity.
+* [[Histrionic personality disorder]]: pervasive pattern of [[attention-seeking]] behavior, excessive emotions, and egocentrism.
+* [[Narcissistic personality disorder]]: pervasive pattern of [[grandiosity|superior grandiosity]], need for admiration, and a perceived or real lack of empathy. In a more severe expression, narcissistic personality disorder may show evidence of [[paranoia]], aggression, [[psychopathy]], and [[sadistic personality disorder]], which is known as [[malignant narcissism]].<ref>{{cite journal | author = Lenzenweger M.F., Clarkin J.F., Caligor E., Cain N.M., Kernberg O.F. | year = 2018 | title = Malignant Narcissism in Relation to Clinical Change in Borderline Personality Disorder: An Exploratory Study | journal = Psychopathology | volume =  51| issue = 5| pages =  318–325| doi = 10.1159/000492228 | pmid = 30184541 | s2cid = 52160230 }}</ref>
+
+==== Cluster C (anxious or fearful disorders) ====
+* [[Avoidant personality disorder]]: pervasive feelings of social inhibition and inadequacy, extreme sensitivity to negative evaluation.
+* [[Dependent personality disorder]]: pervasive psychological need to be cared for by other people.
+* [[Obsessive–compulsive personality disorder]]: characterized by rigid conformity to rules, perfectionism, and control to the point of satisfaction and exclusion of leisurely activities and friendships (distinct from [[obsessive–compulsive disorder]]).
+
+=== Other personality types ===
+
+Some types of personality disorder were in previous versions of the diagnostic manuals but have been deleted. Examples include [[sadistic personality disorder]] (pervasive pattern of cruel, demeaning, and aggressive behavior) and [[self-defeating personality disorder]] or masochistic personality disorder (characterized by behavior consequently undermining the person's pleasure and goals). They were listed in the [[DSM-III-R]] appendix as "Proposed diagnostic categories needing further study" without specific criteria.<ref>{{cite journal|author=Fuller, AK, Blashfield, RK, Miller, M, Hester, T |title=Sadistic and self-defeating personality disorder criteria in a rural clinic sample|doi=10.1002/1097-4679(199211)48:6<827::AID-JCLP2270480618>3.0.CO;2-1|year=1992|journal=Journal of Clinical Psychology|volume=48|issue=6|pages=827–31|pmid=1452772}}</ref> The psychologist [[Theodore Millon]] and others consider some relegated diagnoses to be equally valid disorders, and may also propose other personality disorders or subtypes, including mixtures of aspects of different categories of the officially accepted diagnoses.<ref name="Millon 11" />
+
+{| class="wikitable sortable"
+|+ Personality disorder diagnoses in each edition of the Diagnostic and Statistical Manual<ref name="DSM-5-general personality disorder2" /><ref name="Widiger 99">{{cite book|url=https://books.google.com/books?id=CTVpAgAAQBAJ|title=The Oxford Handbook of Personality Disorders|last=Widiger|first=Thomas|year=2012|publisher=Oxford University Press|isbn=978-0-19-973501-3}}</ref>{{rp|17}}
+|-
+! scope="col" | DSM-I
+! scope="col" | DSM-II
+! scope="col" | DSM-III
+! scope="col" | DSM-III-R
+! scope="col" | DSM-IV(-TR)
+! scope="col" | DSM-5
+|-
+| Inadequate{{efn|group=DSM|name=dsm1pattern|DSM-I Personality Pattern disturbance subsection.<ref name="Widiger 99" />{{rp|16}} }}
+| Inadequate
+| {{dropped|Deleted<ref name="Widiger 99" />{{rp|19}} }}
+|
+|
+|
+|-
+| Schizoid{{efn|name=dsm1pattern}}
+| Schizoid
+| Schizoid
+| Schizoid
+| Schizoid
+| Schizoid
+|-
+| Cyclothymic{{efn|name=dsm1pattern}}
+| Cyclothymic
+| {{dropped|Reclassified<ref name="Widiger 99" />{{rp|16, 19}} }}
+|
+|
+|
+|-
+| Paranoid{{efn|name=dsm1pattern}}
+| Paranoid
+| Paranoid
+| Paranoid
+| Paranoid
+| Paranoid
+|-
+|
+|
+| Schizotypal
+| Schizotypal
+| Schizotypal
+| Schizotypal{{efn|group=DSM|Also classified as a schizophrenia-spectrum disorder in addition to personality disorder.}}
+|-
+| Emotionally unstable{{efn|group=DSM|name=dsm1trait|DSM-I Personality Trait disturbance subsection.<ref name="Widiger 99" />{{rp|16}} }}
+| Hysterical<ref name="Widiger 99" />{{rp|18}}
+| Histrionic
+| Histrionic
+| Histrionic
+| Histrionic
+|-
+| {{sdash}}
+| {{sdash}}
+| Borderline<ref name="Widiger 99" />{{rp|19}}
+| Borderline
+| Borderline
+| Borderline
+|-
+| Compulsive{{efn|name=dsm1trait}}
+| Obsessive–compulsive
+| Compulsive
+| Obsessive–compulsive
+| Obsessive–compulsive
+| Obsessive–compulsive
+|-
+| Passive–aggressive,<br />Passive–depressive subtype{{efn|name=dsm1trait}}
+| {{dropped|Deleted<ref name="Widiger 99" />{{rp|18}} }}
+| Dependent<ref name="Widiger 99" />{{rp|19}}
+| Dependent
+| Dependent
+| Dependent
+|-
+| Passive–aggressive,<br />Passive–aggressive subtype{{efn|name=dsm1trait}}
+| Passive–aggressive
+| Passive–aggressive
+| Passive–aggressive
+| Negativistic<ref name="Widiger 99" />{{rp|21}}
+|
+|-
+| Passive–aggressive,<br />Aggressive subtype{{efn|name=dsm1trait}}
+|
+|
+|
+|
+|
+|-
+| {{sdash}}
+| Explosive<ref name="Widiger 99" />{{rp|18}}
+| {{dropped|Deleted<ref name="Widiger 99" />{{rp|19}} }}
+|
+|
+|
+|-
+| {{sdash}}
+| Asthenic<ref name="Widiger 99" />{{rp|18}}
+| {{dropped|Deleted<ref name="Widiger 99" />{{rp|19}} }}
+|
+|
+|
+|-
+| {{sdash}}
+| {{sdash}}
+| Avoidant<ref name="Widiger 99" />{{rp|19}}
+| Avoidant
+| Avoidant
+| Avoidant
+|-
+| {{sdash}}
+| {{sdash}}
+| Narcissistic<ref name="Widiger 99" />{{rp|19}}
+| Narcissistic
+| Narcissistic
+| Narcissistic
+|-
+| Antisocial reaction{{efn|group=DSM|name=dsm1sociopathic|DSM-I Sociopathic personality disturbance subsection.<ref name="Widiger 99" />{{rp|16}} }}
+| Antisocial
+| Antisocial
+| Antisocial
+| Antisocial
+| Antisocial
+|-
+| Dyssocial reaction{{efn|name=dsm1sociopathic}}
+|
+|
+|
+|
+|
+|-
+| Sexual deviation{{efn|name=dsm1sociopathic}}
+| {{dropped|Reclassified<ref name="Widiger 99" />{{rp|16, 18}} }}
+|
+|
+|
+|
+|-
+| ''Addiction''{{efn|name=dsm1sociopathic}}
+| {{dropped|Reclassified<ref name="Widiger 99" />{{rp|16, 18}} }}
+|
+|
+|
+|
+|-
+! colspan="6" | ''Appendix''
+|-
+|
+|
+|
+| Self-defeating
+| Negativistic
+| Dependent
+|-
+|
+|
+|
+| Sadistic
+| Depressive
+| Histrionic
+|-
+|
+|
+|
+|
+|
+| Paranoid
+|-
+|
+|
+|
+|
+|
+| Schizoid
+|-
+|
+|
+|
+|
+|
+| Negativistic
+|-
+|
+|
+|
+|
+|
+| Depressive
+|}
+
+{{notelist|group=DSM}}
+
+=== Millon's description ===
+
+Psychologist [[Theodore Millon]], who has written numerous popular works on personality, proposed the following description of personality disorders:
+
+{| class="wikitable"
+|+ Millon's brief description of personality disorders<ref name="Millon 11">[[Theodore Millon]] (2004). ''[http://dlia.ir/Scientific/e_book/Medicine/Internal_Medicine/RC_435_571_Psychiatry_/017437.pdf Personality Disorders in Modern Life] {{webarchive|url=https://web.archive.org/web/20170207112700/http://dlia.ir/Scientific/e_book/Medicine/Internal_Medicine/RC_435_571_Psychiatry_/017437.pdf |date=7 February 2017 }}.'' Wiley, 2nd Edition. {{ISBN|0-471-23734-5}}. ([https://books.google.com/books?id=BZjayfSEGyQC&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false GoogleBooks Preview]).</ref>{{rp|4}}
+|-
+! Type of personality disorder
+! Description
+|-
+| '''Paranoid'''
+| Guarded, defensive, distrustful and suspicious. Hypervigilant to the motives of others to undermine or do harm. Always seeking confirmatory evidence of hidden schemes. Feel righteous, but persecuted. Experience a pattern of pervasive distrust and suspicion of others that lasts a long time. They are generally difficult to work with and are very hard to form relationships with. They are also known to be somewhat short-tempered.<ref>Bressert, Steve. [http://psychcentral.com/disorders/paranoid-personality-disorder-symptoms Paranoid Personality Disorder Symptoms] {{Webarchive|url=https://web.archive.org/web/20140621041713/http://psychcentral.com/disorders/paranoid-personality-disorder-symptoms/ |date=21 June 2014 }}. psychcentral.com</ref>{{ums|date=November 2017}}
+|-
+| '''Schizoid'''
+| Apathetic, indifferent, remote, solitary, distant, humorless, contempt, odd fantasies. Neither desire nor need human attachments. Withdrawn from relationships and prefer to be alone. Little interest in others, often seen as a loner. Minimal awareness of the feelings of themselves or others. Few drives or ambitions, if any. Is an uncommon condition in which people avoid social activities and consistently shy away from interaction with others. It affects more males than females. To others, they may appear somewhat dull or humorless. Because they don't tend to show emotion, they may appear as though they don't care about what's going on around them.<ref>{{cite web|url=http://www.mayoclinic.org/diseases-conditions/schizoid-personality-disorder/basics/definition/con-20029184 |title=Overview – Schizoid personality disorder |publisher=Mayo Clinic |date=12 July 2016 |access-date=28 December 2016}}</ref>
+|-
+| '''Schizotypal'''
+| Eccentric, self-estranged, bizarre, absent. Exhibit peculiar mannerisms and behaviors. Think they can read thoughts of others. Preoccupied with odd daydreams and beliefs. Blur line between reality and fantasy. Magical thinking and strange beliefs. People with schizotypal personality disorder are often described as odd or eccentric and usually have few, if any, close relationships. They think others think negatively of them.<ref>{{cite web|url=http://www.mayoclinic.org/diseases-conditions/schizotypal-personality-disorder/basics/definition/con-20027949 |title=Overview – Schizotypal personality disorder |publisher=Mayo Clinic |date=1 April 2016 |access-date=28 December 2016}}</ref>
+|-
+| '''Antisocial'''
+| Impulsive, irresponsible, deviant, unruly. Act without due consideration. Meet social obligations only when self-serving. Disrespect societal customs, rules, and standards. See themselves as free and independent. People with antisocial personality disorder depict a long pattern of disregard for other people's rights. They often cross the line and violate these rights.<ref>Medline Plus. Antisocial personality disorder, 2018. https://medlineplus.gov/ency/article/000921.htm</ref>
+|-
+| '''Borderline'''
+| Unpredictable, egocentric, emotionally unstable. Frantically fears abandonment and isolation. Experience rapidly fluctuating moods. Shift rapidly between loving and hating. See themselves and others alternatively as all-good and all-bad. Unstable and frequently changing moods. People with borderline personality disorder have a pervasive pattern of instability in interpersonal relationships.<ref>Bressert, Steve. [http://psychcentral.com/disorders/borderline-personality-disorder-symptoms/ Borderline Personality Disorder Symptoms]. psychcentral.com</ref>{{ums|date=November 2017}}
+|-
+| '''Histrionic'''
+| Hysteria, dramatic, seductive, shallow, egocentric, attention-seeking, vain. Overreact to minor events. Exhibitionistic as a means of securing attention and favors. See themselves as attractive and charming. Constantly seeking others' attention. Disorder is characterized by constant attention-seeking, emotional overreaction, and suggestibility. Their tendency to over-dramatize may impair relationships and lead to depression, but they are often high-functioning.<ref>{{cite web|url=http://www.psychologytoday.com/conditions/histrionic-personality-disorder|title=Histrionic Personality Disorder|work=psychologytoday.com}}</ref>{{ums|date=November 2017}}
+|-
+| '''Narcissistic'''
+| Egotistical, arrogant, grandiose, insouciant. Preoccupied with fantasies of success, beauty, or achievement. See themselves as admirable and superior, and therefore entitled to special treatment. Is a mental disorder in which people have an inflated sense of their own importance and a deep need for admiration. Those with narcissistic personality disorder believe that they're superior to others and have little regard for other people's feelings.
+|-
+| '''Avoidant'''
+| Hesitant, self-conscious, embarrassed, anxious. Tense in social situations due to fear of rejection. Plagued by constant performance anxiety. See themselves as inept, inferior, or unappealing. They experience long-standing feelings of inadequacy and are very sensitive of what others think about them.<ref>Bressert, Steve. [http://psychcentral.com/disorders/avoidant-personality-disorder-symptoms/ Avoidant Personality Disorder Symptoms]. psychcentral.com</ref>{{ums|date=November 2017}}
+|-
+| '''Dependent'''
+| Helpless, incompetent, submissive, immature. Withdrawn from adult responsibilities. See themselves as weak or fragile. Seek constant reassurance from stronger figures. They have the need to be taken care of by a person. They fear being abandoned or separated from important people in their life.<ref>Bressert, Steve. [http://psychcentral.com/disorders/dependent-personality-disorder-symptoms/ Dependent Personality Disorder Symptoms]. psychcentral.com</ref>{{ums|date=November 2017}}
+|-
+| '''Obsessive–compulsive'''
+| Restrained, conscientious, respectful, rigid. Maintain a rule-bound lifestyle. Adhere closely to social conventions. See the world in terms of regulations and hierarchies. See themselves as devoted, reliable, efficient, and productive.
+|-
+| '''Depressive'''
+| Somber, discouraged, pessimistic, brooding, fatalistic. Present themselves as vulnerable and abandoned. Feel valueless, guilty, and impotent. Judge themselves as worthy only of criticism and contempt. Hopeless, suicidal, restless. This disorder can lead to aggressive acts and hallucinations.<ref>Grohol, John. [http://psychcentral.com/disorders/depression/ "Depression."] psychcentral.com.</ref>{{ums|date=November 2017}}
+|-
+| '''Passive–aggressive (Negativistic)'''
+| Resentful, contrary, skeptical, discontented. Resist fulfilling others’ expectations. Deliberately inefficient. Vent anger indirectly by undermining others’ goals. Alternately moody and irritable, then sullen and withdrawn. Withhold emotions. Will not communicate when there is something problematic to discuss.<ref>Brandt, Andrea. [http://psychcentral.com/lib/8-keys-to-eliminating-passive-aggressiveness/ "8 Keys to Eliminating Passive–Aggressiveness."] psychcentral.com.</ref>{{ums|date=November 2017}}
+|-
+ | '''Sadistic'''
+| Explosively hostile, abrasive, cruel, dogmatic. Liable to sudden outbursts of rage. Gain satisfaction through dominating, intimidating and humiliating others. They are opinionated and closed-minded. Enjoy performing brutal acts on others. Find pleasure in abusing others. Would likely engage in a sadomasochist relationship, but will not play the role of a masochist.<ref name="psychcentral.com">Randle, K. (2008). [http://psychcentral.com/ask-the-therapist/2008/08/11/masochism-and-where-it-comes-from/ Masochism and Where it Comes From]. Psych Central.</ref>{{ums|date=November 2017}}
+|-
+| '''Self-defeating (Masochistic)'''
+| Deferential, pleasure-phobic, servile, blameful, self-effacing. Encourage others to take advantage of them. Deliberately defeat own achievements. Seek condemning or mistreatful partners. They are suspicious of people who treat them well. Would likely engage in a sadomasochist relationship.<ref name="psychcentral.com" />{{ums|date=November 2017}}
+|}
+
+=== Additional factors ===
+
+In addition to classifying by category and cluster, it is possible to classify personality disorders using additional factors such as severity, impact on social functioning, and [[Attribution (psychology)|attribution]].<ref name="Murray">Murray, Robin M. et al (2008). ''Psychiatry. Fourth Edition''. Cambridge University Press. {{ISBN|978-0-521-60408-6}}.</ref>
+
+==== Severity ====
+
+This involves both the notion of personality difficulty as a measure of subthreshold scores for personality disorder using standard interviews and the evidence that those with the most severe personality disorders demonstrate a “ripple effect” of personality disturbance across the whole range of mental disorders. In addition to subthreshold (personality difficulty) and single cluster (simple personality disorder), this also derives complex or diffuse personality disorder (two or more clusters of personality disorder present) and can also derive severe personality disorder for those of greatest risk.
+
+{| class="wikitable"
+|+ '''Dimensional System of Classifying Personality Disorders'''<ref>Tyrer, P. (2000) ''Personality Disorders: Diagnosis, Management and Course. Second Edition''. London: Arnold Publishers Ltd., pp. 126–32. {{ISBN|9780723607366}}.</ref>
+|-
+! scope="col" | Level of Severity
+! scope="col" | Description
+! scope="col" | Definition by Categorical System
+|-
+! scope="row" | 0
+| No Personality Disorder
+| Does not meet actual or subthreshold criteria for any personality disorder
+|-
+! scope="row" | 1
+| Personality Difficulty
+| Meets sub-threshold criteria for one or several personality disorders
+|-
+! scope="row" | 2
+| Simple Personality Disorder
+| Meets actual criteria for one or more personality disorders within the same cluster
+|-
+! scope="row" | 3
+| Complex (Diffuse) Personality Disorder
+| Meets actual criteria for one or more personality disorders within more than one cluster
+|-
+! scope="row" | 4
+| Severe Personality Disorder
+| Meets criteria for creation of severe disruption to both individual and to many in society
+|}
+
+There are several advantages to classifying personality disorder by severity:<ref name="Murray" />
+* It not only allows for but also takes advantage of the tendency for personality disorders to be comorbid with each other.
+* It represents the influence of personality disorder on clinical outcome more satisfactorily than the simple [[Dichotomy|dichotomous]] system of no personality disorder versus personality disorder.
+* This system accommodates the new diagnosis of severe personality disorder, particularly "dangerous and severe personality disorder" (DSPD).
+
+==== Effect on social functioning ====
+
+Social function is affected by many other aspects of mental functioning apart from that of personality. However, whenever there is persistently impaired social functioning in conditions in which it would normally not be expected, the evidence suggests that this is more likely to be created by personality abnormality than by other clinical variables.<ref>{{cite journal|author=Nur, U., Tyrer, P., Merson, S., & Johnson, T. |year=2004|title=Relationship between clinical symptoms, personality disturbance, and social function: a statistical enquiry|journal= Irish Journal of Psychological Medicine|volume= 21|issue=1|pages= 19–22|doi=10.1017/S0790966700008090|pmid=30308726|s2cid=52962308}}</ref> The Personality Assessment Schedule<ref>{{cite journal|author=Tyrer, P. & Alexander, J. |year=1979|title=Classification of Personality Disorder|journal= British Journal of Psychiatry|volume= 135|pages= 238–42|doi=10.1192/bjp.135.2.163|pmid=486849|issue=2|s2cid=3182563|url=https://semanticscholar.org/paper/e0ddecff794366c531203fa5b9a3d503e4db3859}}</ref> gives social function priority in creating a hierarchy in which the personality disorder creating the greater social dysfunction is given primacy over others in a subsequent description of personality disorder.
+
+==== Attribution ====
+
+Many who have a personality disorder do not recognize any abnormality and defend valiantly their continued occupancy of their personality role. This group have been termed the Type R, or treatment-resisting personality disorders, as opposed to the Type S or treatment-seeking ones, who are keen on altering their personality disorders and sometimes clamor for treatment.<ref name="Murray" /> The classification of 68 personality disordered patients on the caseload of an assertive community team using a simple scale showed a 3 to 1 ratio between Type R and Type S personality disorders with Cluster C personality disorders being significantly more likely to be Type S, and paranoid and schizoid (Cluster A) personality disorders significantly more likely to be Type R than others.<ref>{{cite journal|author=Tyrer, P., Mitchard, S., Methuen, C., & Ranger, M. |year=2003|title=Treatment-rejecting and treatment-seeking personality disorders: Type R and Type S|journal= Journal of Personality Disorders|volume= 17|pages= 263–68|doi=10.1521/pedi.17.3.263.22152 |issue=3|pmid=12839104}}</ref>
+
+==Presentation==
+=== Comorbidity ===
+
+There is a considerable personality disorder diagnostic co-occurrence. Patients who meet the DSM-IV-TR diagnostic criteria for one personality disorder are likely to meet the diagnostic criteria for another.<ref name="Tasman" /> Diagnostic categories provide clear, vivid descriptions of discrete personality types but the personality structure of actual patients might be more accurately described by a constellation of maladaptive personality traits.
+
+{| class="wikitable sortable" style="text-align:right;"
+|+ DSM-III-R personality disorder diagnostic co-occurrence aggregated across six research sites<ref name="Tasman" />
+|-
+! scope="col" | Type of Personality Disorder
+! scope="col" | PPD
+! scope="col" | SzPD
+! scope="col" | StPD
+! scope="col" | ASPD
+! scope="col" | BPD
+! scope="col" | HPD
+! scope="col" | NPD
+! scope="col" | AvPD
+! scope="col" | DPD
+! scope="col" | OCPD
+! scope="col" | PAPD
+|-
+| {{rh}} | Paranoid (PPD)
+| {{sdash}}
+| 8
+| 19
+| 15
+| 41
+| 28
+| 26
+| 44
+| 23
+| 21
+| 30
+|-
+| {{rh}} | Schizoid (SzPD)
+| 38
+| {{sdash}}
+| 39
+| 8
+| 22
+| 8
+| 22
+| 55
+| 11
+| 20
+| 9
+|-
+| {{rh}} | Schizotypal (StPD)
+| 43
+| 32
+| {{sdash}}
+| 19
+| 4
+| 17
+| 26
+| 68
+| 34
+| 19
+| 18
+|-
+| {{rh}} | Antisocial (ASPD)
+| 30
+| 8
+| 15
+| {{sdash}}
+| 59
+| 39
+| 40
+| 25
+| 19
+| 9
+| 29
+|-
+| {{rh}} | Borderline (BPD)
+| 31
+| 6
+| 16
+| 23
+| {{sdash}}
+| 30
+| 19
+| 39
+| 36
+| 12
+| 21
+|-
+| {{rh}} | Histrionic (HPD)
+| 29
+| 2
+| 7
+| 17
+| 41
+| {{sdash}}
+| 40
+| 21
+| 28
+| 13
+| 25
+|-
+| {{rh}} | Narcissistic (NPD)
+| 41
+| 12
+| 18
+| 25
+| 38
+| 60
+| {{sdash}}
+| 32
+| 24
+| 21
+| 38
+|-
+| {{rh}} | Avoidant (AvPD)
+| 33
+| 15
+| 22
+| 11
+| 39
+| 16
+| 15
+| {{sdash}}
+| 43
+| 16
+| 19
+|-
+| {{rh}} | Dependent (DPD)
+| 26
+| 3
+| 16
+| 16
+| 48
+| 24
+| 14
+| 57
+| {{sdash}}
+| 15
+| 22
+|-
+| {{rh}} | Obsessive–Compulsive (OCPD)
+| 31
+| 10
+| 11
+| 4
+| 25
+| 21
+| 19
+| 37
+| 27
+| {{sdash}}
+| 23
+|-
+| {{rh}} | Passive–Aggressive (PAPD)
+| 39
+| 6
+| 12
+| 25
+| 44
+| 36
+| 39
+| 41
+| 34
+| 23
+| {{sdash}}
+|}
+
+''Sites used DSM-III-R criterion sets. Data obtained for purposes of informing the development of the DSM-IV-TR personality disorder diagnostic criteria.''
+
+'''Abbreviations used:''' ''PPD – Paranoid Personality Disorder, SzPD – Schizoid Personality Disorder, StPD – Schizotypal Personality Disorder, ASPD – Antisocial Personality Disorder, BPD – Borderline Personality Disorder, HPD – Histrionic Personality Disorder, NPD – Narcissistic Personality Disorder, AvPD – Avoidant Personality Disorder, DPD – Dependent Personality Disorder, OCPD – Obsessive–Compulsive Personality Disorder, PAPD – Passive–Aggressive Personality Disorder.''
+
+=== Impact on functioning ===
+It is generally assumed that all personality disorders are linked to impaired functioning and a reduced [[Quality of life (healthcare)|quality of life (QoL)]] because that is a basic diagnostic requirement. But research shows that this may be true only for some types of personality disorder.
+
+In several studies, higher disability and lower QoL were predicted by avoidant, dependent, schizoid, paranoid, schizotypal and antisocial personality disorder. This link is particularly strong for [[Avoidant personality disorder|avoidant]], [[Schizotypal personality disorder|schizotypal]] and [[Borderline personality disorder|borderline PD]]. However, obsessive–compulsive PD was not related to a compromised QoL or dysfunction. A [[prospective study]] reported that all PD were associated with significant impairment 15 years later, except for [[Obsessive–compulsive personality disorder|obsessive compulsive]] and [[narcissistic personality disorder]].<ref name="EmmelkampKamphuis2013">{{cite book|url=https://books.google.com/books?id=RwNmAgAAQBAJ&pg=PA54|title=Personality Disorders|author=Paul M. G. Emmelkamp|publisher=Psychology Press|year=2013|isbn=978-1-317-83477-9|pages=54–56}}</ref>
+
+One study investigated some aspects of "life success" (status, wealth and successful intimate relationships). It showed somewhat poor functioning for schizotypal, antisocial, borderline and dependent PD, schizoid PD had the lowest scores regarding these variables. Paranoid, histrionic and avoidant PD were average. Narcissistic and obsessive–compulsive PD, however, had high functioning and appeared to contribute rather positively to these aspects of life success.<ref name=":1">{{Cite journal|last=Ullrich|first=Simone|date=2007|title=Dimensions of DSM-IV Personality Disorders and Life-Success|url=https://www.researchgate.net/publication/5775313|journal=Journal of Personality Disorders|volume=21|issue=6|pages=657–63|doi=10.1521/pedi.2007.21.6.657|pmid=18072866}}</ref>
+
+There is also a direct relationship between the number of diagnostic criteria and quality of life. For each additional personality disorder criterion that a person meets there is an even reduction in quality of life.<ref>{{Cite book|chapter-url=https://books.google.com/books?id=TlKTAwAAQBAJ&pg=PA126|title=The American Psychiatric Publishing textbook of personality disorders|last=Svenn Torgersen (2014)|isbn=978-1-58562-456-0|edition=Second|location=Washington, DC|pages=122–26|chapter=Prevalence, Sociodemographics and Functional Impairment|oclc=601366312|year=2014}}</ref>
+
+== Issues ==
+=== In the workplace ===
+Depending on the diagnosis, severity and individual, and the job itself, personality disorders can be associated with difficulty coping with work or the workplace—potentially leading to problems with others by interfering with [[interpersonal relationships]].  Indirect effects also play a role; for example, impaired educational progress or complications outside of work, such as [[substance abuse]] and co-morbid mental disorders, can plague sufferers. However, personality disorders can also bring about above-average work abilities by increasing competitive drive or causing the sufferer to exploit his or her co-workers.<ref>Ettner, Susan L. (2011). "Personality Disorders and Work." In [https://books.google.com/books?id=g_HASArJsoIC&vq=personality+disorder&source=gbs_navlinks_s ''Work Accommodation and Retention in Mental Health''], Chapter 9</ref><ref>{{cite journal|last=Ettner|first=Susan L.|author2=Maclean, Johanna Catherine |author3=French, Michael T. |title=Does Having a Dysfunctional Personality Hurt Your Career? Axis II Personality Disorders and Labor Market Outcomes|journal=Industrial Relations: A Journal of Economy and Society|date=1 January 2011|volume=50|issue=1|pages=149–73|doi=10.1111/j.1468-232X.2010.00629.x|pmid=22053112|pmc=3204880}}</ref>
+
+In 2005 and again in 2009, psychologists Belinda Board and Katarina Fritzon at the [[University of Surrey]], UK, interviewed and gave personality tests to high-level British executives and compared their profiles with those of criminal psychiatric patients at [[Broadmoor Hospital]] in the UK.  They found that three out of eleven personality disorders were actually more common in executives than in the disturbed criminals:
+* [[Histrionic personality disorder]]: including [[superficial charm]], insincerity, [[egocentricity]] and [[psychological manipulation|manipulation]]
+* [[Narcissistic personality disorder]]: including [[grandiosity]], self-focused lack of [[empathy]] for others, exploitativeness and independence.
+* [[Obsessive–compulsive personality disorder]]: including [[Perfectionism (psychology)|perfectionism]], excessive devotion to work, rigidity, stubbornness and dictatorial tendencies.<ref name="Board2005">{{Cite journal
+ | last1 = Board | first1 = Belinda Jane
+ | year = 2005
+ | title = Disordered personalities at work
+ | journal = Psychology, Crime and Law
+ | volume = 11
+ | pages = 17–32
+ | doi = 10.1080/10683160310001634304
+ | first2 = Katarina
+ | last2 = Fritzon
+| s2cid = 145582366
+ }}</ref>
+
+According to leadership academic [[Manfred F.R. Kets de Vries]], it seems almost inevitable that some personality disorders will be present in a senior management team.<ref>{{cite journal|author1=de Vries |author2=Manfred F. R. Kets |title= The Dark Side of Leadership|journal= Business Strategy Review |volume=14|issue=3|page= 26 |year=2003 |doi=10.1111/1467-8616.00269}}</ref>
+
+=== In children ===
+{{Main|Personality development disorder}}
+Early stages and preliminary forms of personality disorders need a multi-dimensional and early treatment approach. Personality development disorder is considered to be a childhood risk factor or early stage of a later personality disorder in adulthood.<ref name="Krueger">{{cite journal|last2=Carlson|first2=Scott R.|year=2001|title=Personality disorders in children and adolescents|journal=Current Psychiatry Reports|volume=3|issue=1|pages=46–51|doi=10.1007/s11920-001-0072-4|pmid=11177759|author=Krueger, R.|s2cid=12532932|url=https://www.semanticscholar.org/paper/49db138e018b9a54f8db55b20191d5f18b4b49d6}}</ref>
+In addition, in Robert F. Krueger's review of their research indicates that some children and adolescents do suffer from clinically significant syndromes that resemble adult personality disorders, and that these syndromes have meaningful correlates and are consequential. Much of this research has been framed by the adult personality disorder constructs from Axis II of the Diagnostic and Statistical Manual. Hence, they are less likely to encounter the first risk they described at the outset of their review: clinicians and researchers are not simply avoiding use of the PD construct in youth. However, they may encounter the second risk they described: under-appreciation of the developmental context in which these syndromes occur. That is, although PD constructs show continuity over time, they are probabilistic predictors; not all youths who exhibit PD symptomatology become adult PD cases.<ref name="Krueger" />
+
+=== Versus mental disorders ===
+The disorders in each of the three clusters may share with each other underlying common vulnerability factors involving cognition, affect and impulse control, and behavioral maintenance or inhibition, respectively. But they may also have a spectrum relationship to certain syndromal mental disorders:<ref name="Tasman" />
+* Paranoid, schizoid or schizotypal personality disorders may be observed to be premorbid antecedents of [[delusional disorder]]s or [[schizophrenia]].
+* Borderline personality disorder is seen in association with [[Mood disorder|mood]] and [[anxiety disorder]]s, with [[impulse-control disorder]]s, [[eating disorders]], [[Attention deficit hyperactivity disorder|ADHD]], or a [[substance use disorder]].
+* [[Avoidant personality disorder]] is seen with [[social anxiety disorder]].
+
+=== Versus normal personality ===
+{{See also|Big Five personality traits|Myers-Briggs Type Indicator#Personality disorders}}The issue of the relationship between normal personality and personality disorders is one of the important issues in personality and clinical psychology. The personality disorders classification ([[DSM-5]] and [[ICD-10]]) follows a ''categorical approach'' that views personality disorders as discrete entities that are distinct from each other and from normal personality. In contrast, the [[dimensional approach to personality disorders|dimensional approach]] is an alternative approach that personality disorders represent maladaptive extensions of the same traits that describe normal personality.
+
+[[Thomas Widiger]] and his collaborators have contributed to this debate significantly.<ref>{{cite journal|year=1993|title=The DSM-III-R categorical personality disorder diagnoses: A critique and an alternative|journal=Psychological Inquiry|volume=4|issue=2|pages=75–90|doi=10.1207/s15327965pli0402_1|author=Widiger, T. A.}}</ref> He discussed the constraints of the ''categorical approach'' and argued for the ''dimensional approach'' to the personality disorders. Specifically, he proposed the [[Five Factor Model]] of personality as an alternative to the classification of personality disorders. For example, this view specifies that Borderline Personality Disorder can be understood as a combination of emotional lability (i.e., high neuroticism), impulsivity (i.e., low conscientiousness), and hostility (i.e., low agreeableness). Many studies across cultures have explored the relationship between personality disorders and the Five Factor Model.<ref>Costa, P.T., & Widiger, T.A. (2001). Personality disorders and the five-factor model of personality (2nd ed.). Washington, DC: American Psychological Association.</ref> This research has demonstrated that personality disorders largely correlate in expected ways with measures of the Five Factor Model<ref>{{cite journal|year=2008|title=A meta-analytic review of the relationships between the five-factor model and DSM personality disorders: A facet level analysis|journal=Clinical Psychology Review|volume=28|issue=8|pages=1326–42|doi=10.1016/j.cpr.2008.07.002|pmc=2614445|pmid=18708274|author1=Samuel, D.B.|author2=Widiger, T.A.}}</ref> and has set the stage for including the Five Factor Model within [[DSM-5]].<ref>Widiger, Thomas A., Costa, Paul T. (2012). ''Personality Disorders and the Five-Factor Model of Personality, Third Edition''. {{ISBN|978-1-4338-1166-1}}.</ref>
+
+In clinical practice, individuals are generally diagnosed by an interview with a [[psychiatrist]] based on a [[mental status examination]], which may take into account observations by relatives and others. One tool of diagnosing personality disorders is a process involving interviews with scoring systems. The patient is asked to answer questions, and depending on their answers, the trained interviewer tries to code what their responses were. This process is fairly time-consuming.
+
+{| class="wikitable" style="max-height:100vh; overflow:auto;"
+|-
+|+ DSM-IV-TR Personality Disorders from the Perspective of the Five-Factor Model of General Personality Functioning<ref name="Tasman">Tasman, Allan et al (2008). ''Psychiatry. Third Edition''. John Wiley & Sons, Ltd. {{ISBN|978-0470-06571-6}}.</ref> (including previous DSM revisions)
+|-
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" | Factors
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" |{{abbr|PPD|Paranoid Personality Disorder}}
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" | {{abbr|SzPD|Schizoid Personality Disorder}}
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" |{{abbr|StPD|Schizotypal Personality Disorder}}
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" |{{abbr|ASPD|Antisocial Personality Disorder}}
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" |{{abbr|BPD|Borderline Personality Disorder}}
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" |{{abbr|HPD|Histrionic Personality Disorder}}
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" |{{abbr|NPD|Narcissistic Personality Disorder}}
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" |{{abbr|AvPD|Avoidant Personality Disorder}}
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" |{{abbr|DPD|Dependent Personality Disorder}}
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" |{{abbr|OCPD|Obsessive–Compulsive Personality Disorder}}
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" |{{abbr|PAPD|Passive–Aggressive Personality Disorder}}
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" |{{abbr|DpPD|Depressive Personality Disorder}}
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" |{{abbr|SDPD|Self-Defeating Personality Disorder}}
+! scope="col" style="position:-webkit-sticky; position:sticky; top:-1px;" |{{abbr|SaPD|Sadistic Personality Disorder}}
+|-
+| '''''Neuroticism (vs. emotional stability)'''''
+|-
+| Anxiousness (vs. unconcerned)
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| Angry hostility (vs. dispassionate)
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| Depressiveness (vs. optimistic)
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+|-
+| Self-consciousness (vs. shameless)
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+|-
+| Impulsivity (vs. restrained)
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| Vulnerability (vs. fearless)
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| '''''Extraversion (vs. introversion)'''''
+|-
+| Warmth (vs. coldness)
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+|-
+| Gregariousness (vs. withdrawal)
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+|-
+| Assertiveness (vs. submissiveness)
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| Activity (vs. passivity)
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+|-
+| Excitement seeking (vs. lifeless)
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+|-
+| Positive emotionality (vs. anhedonia)
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+|-
+| '''''Open-mindedness (vs. closed-minded)'''''
+|-
+| Fantasy (vs. concrete)
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{font color|#3CB371|High}}
+|-
+| Aesthetics (vs. disinterest)
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-
+| Feelings (vs. alexithymia)
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+|-
+| Actions (vs. predictable)
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+|-
+| Ideas (vs. closed-minded)
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+|-
+| Values (vs. dogmatic)
+| {{font color|#DC143C|Low}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+|-
+| '''''Agreeableness (vs. antagonism)'''''
+|-
+| Trust (vs. mistrust)
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+|-
+| Straightforwardness (vs. deception)
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+|-
+| Altruism (vs. exploitative)
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+|-
+| Compliance (vs. aggression)
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+|-
+| Modesty (vs. arrogance)
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+|-
+| Tender-mindedness (vs. tough-minded)
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+|-
+| '''''Conscientiousness (vs. disinhibition)'''''
+|-
+| Competence (vs. laxness)
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{font color|#3CB371|High}}
+|-
+| Order (vs. disorderly)
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+|-
+| Dutifulness (vs. irresponsibility)
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+|-
+| Achievement striving (vs. lackadaisical)
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+|-
+| Self-discipline (vs. negligence)
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+|-
+| Deliberation (vs. rashness)
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{font color|#DC143C|Low}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{n/a}}
+| {{font color|#3CB371|High}}
+| {{font color|#3CB371|High}}
+| {{font color|#DC143C|Low}}
+|}
+
+'''Abbreviations used:''' ''PPD – Paranoid Personality Disorder, SzPD – Schizoid Personality Disorder, StPD – Schizotypal Personality Disorder, ASPD – Antisocial Personality Disorder, BPD – Borderline Personality Disorder, HPD – Histrionic Personality Disorder, NPD – Narcissistic Personality Disorder, AvPD – Avoidant Personality Disorder, DPD – Dependent Personality Disorder, OCPD – Obsessive–Compulsive Personality Disorder, PAPD – Passive–Aggressive Personality Disorder, DpPD – Depressive Personality Disorder, SDPD – Self-Defeating Personality Disorder, SaPD – Sadistic Personality Disorder, and n/a – not available.''
+
+As of 2002, there were over fifty published studies relating the five factor model (FFM) to personality disorders.<ref>Widiger TA, Costa PT., Jr. (2002) "Five-Factor model personality disorder research", pp. 59–87 in Costa Paul T, Jr, Widiger Thomas A. (eds.) ''Personality disorders and the five-factor model of personality''. 2nd ed. Washington, DC: American Psychological Association. {{ISBN|978-1-55798-826-3}}.</ref> Since that time, quite a number of additional studies have expanded on this research base and provided further empirical support for understanding the DSM personality disorders in terms of the FFM domains.<ref>Mullins-Sweatt SN, Widiger TA (2006). "The five-factor model of personality disorder: A translation across science and practice", pp. 39–70 in Krueger R, Tackett J (eds.). ''Personality and psychopathology: Building bridges''. New York: Guilford.</ref> In her seminal review of the personality disorder literature published in 2007, [[Lee Anna Clark]] asserted that "the five-factor model of personality is widely accepted as representing the higher-order structure of both normal and abnormal personality traits".<ref>{{cite journal|year=2007|title=Assessment and diagnosis of personality disorder: Perennial issues and an emerging reconceptualization|journal=Annual Review of Psychology|volume=58|pages=227–57|doi=10.1146/annurev.psych.57.102904.190200|pmid=16903806|last1=Clark|first1=L. A.|s2cid=2728977|url=https://semanticscholar.org/paper/66ec8c4239f08af9864a3577220e99ac22070a43}}</ref>
+
+The five factor model has been shown to significantly predict all 10 personality disorder symptoms and outperform the [[Minnesota Multiphasic Personality Inventory]] (MMPI) in the prediction of borderline, avoidant, and dependent personality disorder symptoms.<ref>{{cite journal|last2=Sellbom|first2=Martin|last3=Costa|first3=Paul T.|last4=Widiger|first4=Thomas A.|year=2008|title=Predicting ''Diagnostic'' and Statistical Manual of Mental Disorders-IV personality disorders with the five-factor model of personality and the personality psychopathology five|journal=Personality and Mental Health|volume=2|issue=2|pages=55–69|doi=10.1002/pmh.33|last1=Bagby|first1=R. Michael}}</ref>
+
+Research results examining the relationships between the FFM and each of the ten DSM personality disorder diagnostic categories are widely available. For example, in a study published in 2003 titled "The five-factor model and personality disorder empirical literature: A meta-analytic review",<ref>{{cite journal|last2=Page|first2=A. C.|year=2004|title=The five-factor model and personality disorder empirical literature: A meta-analytic review|journal=Clinical Psychology Review|volume=23|issue=8|pages=1055–85|doi=10.1016/j.cpr.2002.09.001|pmid=14729423|last1=Saulsman|first1=L. M.}}</ref> the authors analyzed data from 15 other studies to determine how personality disorders are different and similar, respectively, with regard to underlying personality traits. In terms of how personality disorders differ, the results showed that each disorder displays a FFM profile that is meaningful and predictable given its unique diagnostic criteria. With regard to their similarities, the findings revealed that the most prominent and consistent personality dimensions underlying a large number of the personality disorders are positive associations with [[neuroticism]] and negative associations with [[agreeableness]].
+
+==== Openness to experience ====
+{{Main|Openness to experience}}
+At least three aspects of openness to experience are relevant to understanding personality disorders: [[cognitive distortions]], lack of [[insight]](means the ability to recognize one's own mental illness here) and [[impulsivity]]. Problems related to high openness that can cause problems with social or professional functioning are excessive [[Fantasy (psychology)|fantasising]], peculiar thinking, diffuse identity, unstable [[goal]]s and nonconformity with the demands of the society.<ref name="Piedmont">{{cite journal|year=2012|title=Maladaptively High and Low Openness: The Case for Experiential Permeability|journal=Journal of Personality|volume=80|issue=6|pages=1641–68|doi=10.1111/j.1467-6494.2012.00777.x|pmid=22320184|authors=Piedmont, R. L., Sherman, M. F., Sherman, N. C.}}</ref>
+
+High openness is characteristic to [[schizotypal personality disorder]] (odd and fragmented thinking), [[narcissistic personality disorder]] (excessive self-valuation) and [[paranoid personality disorder]] (sensitivity to external hostility). Lack of insight (shows low openness) is characteristic to all personality disorders and could help explain the persistence of maladaptive behavioral patterns.<ref name="Williams">{{cite journal|year=2009|title=Using the Five-Factor Model to Identify a New Personality Disorder Domain: The Case for Experiential Permeability.|journal=Journal of Personality and Social Psychology|volume=96|issue=6|pages=1245–58|doi=10.1037/a0015368|pmid=19469599|authors=Piedmont, R. L., Sherman, M. F., Sherman, N. C., Dy-Liacco, G. S., Williams, J. E. G.}}</ref>
+
+The problems associated with low openness are difficulties adapting to change, low tolerance for different worldviews or lifestyles, emotional flattening, [[alexithymia]] and a narrow range of interests.<ref name="Piedmont" /> [[Rigidity (psychology)|Rigidity]] is the most obvious aspect of (low) openness among personality disorders and that shows lack of knowledge of one's emotional experiences. It is most characteristic of [[obsessive–compulsive personality disorder]]; the opposite of it known as impulsivity (here: an aspect of openness that shows a tendency to behave unusually or autistically) is characteristic of [[schizotypal]] and [[borderline personality disorder]]s.<ref name="Williams" />
+
+== Causes ==
+Currently, there are no definitive proven causes for personality disorders. However, there are numerous possible&nbsp;causes and known risk factors supported by scientific research that vary depending on the disorder, the individual, and the circumstance. Overall, findings show that genetic disposition and life experiences, such as trauma and abuse, play a key role in the development of personality disorders.
+
+=== Child abuse ===
+[[Child abuse]]&nbsp;and&nbsp;[[Child neglect|neglect]]&nbsp;consistently show up as risk factors to the development of personality disorders in adulthood.<ref name="Cohen">{{cite journal|author1=Cohen, Patricia |author2=Brown, Jocelyn |author3=Smailes, Elizabeth |title=Child Abuse and Neglect and the Development of Mental Disorders in the General Population|journal= Development and Psychopathology|year= 2001|volume= 13|issue= 4|pages=981–99|pmid=11771917|doi=10.1017/S0954579401004126 |s2cid=24036702 }}</ref> A study looked at&nbsp;retrospective reports of abuse of participants that had demonstrated psychopathology throughout their life and were later found to have past experience with abuse. In a study of 793 mothers and children, researchers asked mothers if they had screamed at their children, and told them that they did not love them or threatened to send them away.&nbsp;Children who had experienced such verbal abuse were three times as likely as other children (who did not experience such verbal abuse) to have borderline, narcissistic, obsessive–compulsive or paranoid personality disorders in adulthood.<ref>{{cite web|title=What Causes Psychological Disorders? |work=American Psychological Association|year= 2010|url=http://apa.org/topics/personality/disorders-causes.aspx|archive-url=https://web.archive.org/web/20101120002217/http://apa.org/topics/personality/disorders-causes.aspx|archive-date=20 November 2010}}</ref> The&nbsp;[[Sexual abuse|sexually abused]]&nbsp;group demonstrated the most consistently elevated patterns of psychopathology. Officially verified&nbsp;[[physical abuse]]&nbsp;showed an extremely strong correlation with the development of antisocial and impulsive behavior. On the other hand, cases of abuse of the neglectful type that created childhood pathology were found to be subject to partial remission in adulthood.<ref name="Cohen" />
+
+=== Socioeconomic status ===
+[[Socioeconomic status]]&nbsp;has also been looked at as a potential cause for personality disorders. There is a strong association with low parental/neighborhood socioeconomic status and personality disorder symptoms.<ref name=":2">{{Cite journal|last1=Cohen|first1=Patricia|last2=Chen|first2=Henian|last3=Gordon|first3=Kathy|last4=Johnson|first4=Jeffrey|last5=Brook|first5=Judith|last6=Kasen|first6=Stephanie|date=April 2008|title=Socioeconomic background and the developmental course of schizotypal and borderline personality disorder symptoms|journal=Development and Psychopathology|volume=20|issue=2|pages=633–50|doi=10.1017/S095457940800031X|pmid=18423098|issn=1469-2198|pmc=3857688}}</ref> In a 2015 publication from Bonn, Germany, which compared parental socioeconomic status and a child's personality, it was seen that children who were from higher socioeconomic backgrounds were more altruistic, less risk seeking, and had overall higher&nbsp;[[Intelligence quotient|IQs]].<ref>{{Cite journal|last=Deckers|first=Thomas|date=February 2015|title=How does Socio-Economic Status Shape a Child's Personality?|url=https://econresearch.uchicago.edu/sites/econresearch.uchicago.edu/files/Deckers_Falk_etal_2016_SES-child-personality.pdf|journal=Human Capital and Economic Opportunity Global Working Group}} {{webarchive |url=https://web.archive.org/web/20181105062454/https://econresearch.uchicago.edu/sites/econresearch.uchicago.edu/files/Deckers_Falk_etal_2016_SES-child-personality.pdf |date=5 November 2018}}</ref> These traits correlate with a low risk of developing personality disorders later on in life. In a study looking at female children who were detained for disciplinary actions found that psychological problems were most negatively associated with socioeconomic problems.<ref>{{Cite journal|last1=Damme|first1=Lore Van|last2=Colins|first2=Olivier|last3=Maeyer|first3=Jessica De|last4=Vermeiren|first4=Robert|last5=Vanderplasschen|first5=Wouter|date=1 June 2015|title=Girls' quality of life prior to detention in relation to psychiatric disorders, trauma exposure and socioeconomic status|journal=Quality of Life Research|language=en|volume=24|issue=6|pages=1419–29|doi=10.1007/s11136-014-0878-2|pmid=25429824|s2cid=28876461|issn=0962-9343|url=https://www.semanticscholar.org/paper/a27bf49376a69dddf2a1ff8c6e31031d3c67f598}}</ref> Furthermore, social disorganization was found to be inversely correlated with personality disorder symptoms.<ref>{{Cite journal|last1=Walsh|first1=Zach|last2=Shea|first2=M. Tracie|last3=Yen|first3=Shirley|last4=Ansell|first4=Emily B.|last5=Grilo|first5=Carlos M.|last6=McGlashan|first6=Thomas H.|last7=Stout|first7=Robert L.|last8=Bender|first8=Donna S.|last9=Skodol|first9=Andrew E.|date=17 September 2012|title=Socioeconomic-Status and Mental Health in a Personality Disorder Sample: The Importance of Neighborhood Factors|journal=Journal of Personality Disorders|volume=27|issue=6|pages=820–31|doi=10.1521/pedi_2012_26_061|pmid=22984860|pmc=4628287|issn=0885-579X|url=http://wesscholar.wesleyan.edu/cgi/viewcontent.cgi?article=1124&context=div2facpubs}}</ref>
+
+=== Parenting ===
+Evidence shows personality disorders may begin with parental personality issues. These cause the child to have their own difficulties in adulthood, such as difficulties reaching higher education, obtaining jobs, and securing dependable relationships. By either genetic or modeling mechanisms, children can pick up these traits.<ref name=":2" /> Additionally, poor parenting appears to have symptom elevating effects on personality disorders.<ref name=":2" /> More specifically, lack of&nbsp;[[maternal bond]]ing&nbsp;has also been correlated with personality disorders. In a study comparing 100 healthy individuals to 100&nbsp;[[borderline personality disorder]]&nbsp;patients, analysis showed that BPD patients were significantly more likely not to have been breastfed as a baby (42.4% in BPD vs. 9.2% in healthy controls).<ref>{{Cite journal|last1=Schwarze|first1=Cornelia E.|last2=Hellhammer|first2=Dirk H.|last3=Stroehle|first3=Verena|last4=Lieb|first4=Klaus|last5=Mobascher|first5=Arian|date=23 September 2014|title=Lack of Breastfeeding: A Potential Risk Factor in the Multifactorial Genesis of Borderline Personality Disorder and Impaired Maternal Bonding|journal=Journal of Personality Disorders|volume=29|issue=5|pages=610–26|doi=10.1521/pedi_2014_28_160|pmid=25248013|issn=0885-579X}}</ref> These researchers suggested this act may be essential in fostering maternal relationships. Additionally, findings suggest personality disorders show a negative correlation with two attachment variables: maternal availability and dependability. When left unfostered, other attachment and interpersonal problems occur later in life ultimately leading to development of personality disorders.<ref>{{Cite thesis|last=Michelle|first=Ball, Ericka|date=20 October 2016|title=The Moderating Role of Maternal Attachment on Borderline Personality Disorder Features and Dependent Life Stress|url=https://shsu-ir.tdl.org/shsu-ir/handle/20.500.11875/44|language=en|type=Thesis}}</ref>
+
+=== Genetics ===
+Currently, genetic research for the understanding of the development of personality disorders is severely lacking. However, there are a few possible risk factors currently in discovery. Researchers are currently looking into genetic mechanisms for traits such as aggression, fear and anxiety, which are associated with diagnosed individuals.&nbsp;More research is being conducted into disorder specific mechanisms.<ref>{{Cite web|url=http://www.apa.org/topics/personality/disorders-causes.aspx|title=What causes personality disorders?|website=American Psychological Association|language=en|archive-url=https://web.archive.org/web/20100313134730/http://www.apa.org/topics/personality/disorders-causes.aspx|archive-date=13 March 2010|url-status=dead|access-date=9 August 2017}}</ref>
+
+=== Malfunctioning inner brain - hippocampus, amygdala ===
+Research shows a malfunctioning inner brain:  [[hippocampus]] up to 18% smaller, a smaller [[amygdala]], malfunctions in the [[striatum]]-[[nucleus accumbens]] and the [[Cingulum (brain)|cingulum]] [[neural pathway]]s connecting them and taking care of the feedback loops on what to do with all the incoming information from the multiple senses; so what comes out is anti-social - not according to what is the [[social norm]], socially acceptable and appropriate.<ref>{{Cite journal|last1=Nunes|first1=Paulo Menezes|last2=Wenzel|first2=Amy|last3=Borges|first3=Karinne Tavares|last4=Porto|first4=Cristianne Ribeiro|last5=Caminha|first5=Renato Maiato|last6=de Oliveira|first6=Irismar Reis|date=August 2009|title=Volumes of the hippocampus and amygdala in patients with borderline personality disorder: a meta-analysis|url=https://pubmed.ncbi.nlm.nih.gov/19663654/|journal=Journal of Personality Disorders|volume=23|issue=4|pages=333–345|doi=10.1521/pedi.2009.23.4.333|issn=1943-2763|pmid=19663654}}</ref><ref>{{Cite journal|last1=Kaya|first1=Suheda|last2=Yildirim|first2=Hanefi|last3=Atmaca|first3=Murad|date=May 2020|title=Reduced hippocampus and amygdala volumes in antisocial personality disorder|url=https://pubmed.ncbi.nlm.nih.gov/32334739/|journal=Journal of Clinical Neuroscience|volume=75|pages=199–203|doi=10.1016/j.jocn.2020.01.048|issn=1532-2653|pmid=32334739|s2cid=210711736}}</ref>
+
+== Management ==
+
+=== Specific approaches ===
+
+There are many different forms (modalities) of treatment used for personality disorders:<ref>Magnavita, Jeffrey J. (2004) [https://books.google.com/books?id=jhtvBV3i0rkC Handbook of personality disorders: theory and practice], John Wiley and Sons, {{ISBN|978-0-471-48234-5}}.</ref>
+* Individual [[psychotherapy]] has been a mainstay of treatment. There are long-term and short-term ([[Brief psychotherapy|brief]]) forms.
+* [[Family therapy]], including couples therapy.
+* [[Group therapy]] for personality dysfunction is probably the second most used.
+* [[Psychoeducation|Psychological-education]] may be used as an addition.
+* [[Self-help groups for mental health|Self-help groups]] may provide resources for personality disorders.
+* [[Psychiatric medications]] for treating symptoms of personality dysfunction or co-occurring conditions.
+* [[Milieu therapy]], a kind of group-based residential approach, has a history of use in treating personality disorders, including [[therapeutic communities]].
+* The practice of [[mindfulness]] that includes developing the ability to be nonjudgmentally aware of unpleasant emotions appears to be a promising clinical tool for managing different types of personality disorders.<ref name=Sng>{{cite journal |vauthors=Sng AA, Janca A |title= Mindfulness for personality disorders |pmid=26651010|doi=10.1097/YCO.0000000000000213|journal= Current Opinion in Psychiatry |volume=29 |issue=1|pages= 70–76 |date= 2016|s2cid= 235472 }}</ref><ref name=Creswell>{{cite journal |author= Creswell J.D. |title= Mindfulness Interventions |journal= Annual Review of Psychology |volume= 68 |pages= 70–76 |date= 2016 |pmid= 27687118 |doi= 10.1146/annurev-psych-042716-051139 |url= http://www.psy.cmu.edu/~creswell/papers/Creswell_2017_mindful_interv_review_Annual_Review_Psy |access-date= 28 December 2016 |archive-url= https://web.archive.org/web/20161228195506/http://www.psy.cmu.edu/~creswell/papers/Creswell_2017_mindful_interv_review_Annual_Review_Psy |archive-date= 28 December 2016 |url-status= dead |df= dmy-all }}</ref>
+
+There are different specific theories or schools of therapy within many of these modalities. They may, for example, emphasize [[Psychodynamic psychotherapy|psychodynamic]] techniques, or [[Cognitive behavioral therapy|cognitive or behavioral]] techniques. In clinical practice, many therapists use an 'eclectic' approach, taking elements of different schools as and when they seem to fit to an individual client. There is also often a focus on [[Common factors theory|common themes]] that seem to be beneficial regardless of techniques, including attributes of the therapist (e.g. trustworthiness, competence, caring), processes afforded to the client (e.g. ability to express and confide difficulties and emotions), and the match between the two (e.g. aiming for mutual respect, trust and boundaries).
+
+{| class="wikitable"
+|+ Response of Patients with personality disorders to biological and psychosocial treatments<ref name="Tasman" />
+|-
+! scope="col" | Cluster
+! scope="col" | Evidence for [[Neurological disorder|brain dysfunction]]
+! scope="col" | Response to biological treatments
+! scope="col" | Response to psychosocial treatments
+|-
+| {{rh}} | A
+| Evidence for relationship to [[schizophrenia]]; otherwise none known
+| Schizotypal patients may improve on [[antipsychotic]] medication; otherwise not indicated
+| Poor. [[Supportive psychotherapy]] may help
+|-
+| {{rh}} | B
+| Evidence for relationship to [[bipolar disorder]]; otherwise none known
+| [[Antidepressant]]s, [[antipsychotic]]s, or [[mood stabilizer]]s may help for borderline personality; otherwise not indicated
+| Poor in antisocial personality. Variable in borderline, narcissistic, and histrionic personalities
+|-
+| {{rh}} | C
+| Evidence for relationship to [[generalized anxiety disorder]]; otherwise none known
+| No direct response. Medications may help with comorbid [[anxiety]] and [[Depression (mood)|depression]]
+| Most common treatment for these disorders. Response variable
+|}
+
+=== Challenges ===
+
+The management and treatment of personality disorders can be a challenging and controversial area, for by definition the difficulties have been enduring and affect multiple areas of functioning. This often involves [[Interpersonal relationship|interpersonal]] issues, and there can be difficulties in seeking and obtaining help from organizations in the first place, as well as with establishing and maintaining a specific [[therapeutic relationship]]. On the one hand, an individual may not consider themselves to have a mental health problem, while on the other, [[community mental health services]] may view individuals with personality disorders as too complex or difficult, and may directly or indirectly [[social exclusion|exclude]] individuals with such diagnoses or associated behaviors.<ref>{{cite journal|last=Davison|first=S. E.|title=Principles of managing patients with personality disorder|journal=Advances in Psychiatric Treatment|year=2002|volume=8|issue=1|pages=1–9|doi=10.1192/apt.8.1.1}}</ref> The disruptiveness that people with personality disorders can create in an organisation makes these, arguably, the most challenging conditions to manage.
+
+Apart from all these issues, an individual may not consider their personality to be disordered or the cause of problems. This perspective may be caused by the patient's ignorance or lack of [[insight]] into their own condition, an [[Egosyntonic and egodystonic|ego-syntonic]] perception of the problems with their personality that prevents them from experiencing it as being in conflict with their goals and self-image, or by the simple fact that there is no distinct or objective boundary between 'normal' and 'abnormal' personalities. There is substantial [[social stigma]] and discrimination related to the diagnosis.
+
+The term 'personality disorder' encompasses a wide range of issues, each with a different level of severity or disability; thus, personality disorders can require fundamentally different approaches and understandings. To illustrate the scope of the matter, consider that while some disorders or individuals are characterized by continual social withdrawal and the shunning of relationships, others may cause ''fluctuations'' in forwardness. The extremes are worse still: at one extreme lie [[self-harm]] and [[self-neglect]], while at another extreme some individuals may commit [[violence]] and [[crime]]. There can be other factors such as problematic [[Substance use disorder|substance use or dependency]] or [[behavioral addiction]]s. A person may meet the criteria for Dissociative Identity Disorder (formerly "Multiple Personality Disorder")<ref>{{Citation|title=Dissociative Disorders (Section II)|url=http://dx.doi.org/10.1176/appi.books.9780890425596.529303|work=Diagnostic and Statistical Manual of Mental Disorders, 5th Edition|publisher=American Psychiatric Publishing, Inc|doi=10.1176/appi.books.9780890425596.529303|isbn=978-0-89042-559-6|access-date=2020-10-12}}</ref> diagnoses and/or other mental disorders, either at particular times or continually, thus making coordinated input from multiple services a potential requirement.
+
+Therapists in this area can become disheartened by lack of initial progress, or by apparent progress that then leads to setbacks. Clients may be perceived as negative, [[Social rejection|rejecting]], demanding, [[aggressive]] or [[Psychological manipulation|manipulative]]. This has been looked at in terms of both therapist and client; in terms of [[social skills]], [[coping (psychology)|coping efforts]], [[defence mechanisms|defense mechanisms]], or deliberate [[Strategy|strategies]]; and in terms of [[moral]] judgments or the need to consider underlying [[motivation]]s for specific behaviors or [[Social conflict|conflicts]]. The [[vulnerabilities]] of a client, and indeed a therapist, may become lost behind actual or apparent strength and [[Psychological resilience|resilience]]. It is commonly stated that there is always a need to maintain appropriate [[professional boundaries|professional personal boundaries]], while allowing for [[emotional expression]] and therapeutic relationships. However, there can be difficulty acknowledging the different worlds and views that both the client and therapist may live with. A therapist may assume that the kinds of relationships and ways of interacting that make them feel safe and comfortable have the same effect on clients. As an example of one extreme, people who may have been exposed to hostility, deceptiveness, rejection, aggression or [[abuse]] in their lives, may in some cases be made confused, intimidated or suspicious by presentations of warmth, [[intimacy]] or positivity. On the other hand, reassurance, openness and clear communication are usually helpful and needed. It can take several months of sessions, and perhaps several stops and starts, to begin to develop a trusting relationship that can meaningfully address a client's issues.<ref>McVey, D. & Murphy, N. (eds.) (2010)  [http://www.routledge.com/books/details/9780415404808/ ''Treating Personality Disorder: Creating Robust Services for People with Complex Mental Health Needs''], {{ISBN|0-203-84115-8}}</ref>
+
+== Epidemiology ==
+
+The [[prevalence]] of personality disorder in the general community was largely unknown until surveys starting from the 1990s. In 2008 the [[median]] rate of diagnosable PD was estimated at 10.6%, based on six major studies across three nations. This rate of around one in ten, especially as associated with high use of services, is described as a major [[public health]] concern requiring attention by researchers and clinicians.<ref>{{cite journal|last=Lenzenweger|first=Mark F.|title=Epidemiology of Personality Disorders|journal=Psychiatric Clinics of North America|year=2008|volume=31|issue=3|pages=395–403|doi=10.1016/j.psc.2008.03.003|pmid=18638642}}</ref>
+
+The prevalence of individual personality disorders ranges from about 2% to 3% for the more common varieties, such as schizotypal, antisocial, borderline, and histrionic, to 0.5–1% for the least common, such as narcissistic and avoidant.<ref name="Tasman" />
+
+A screening survey across 13 countries by the [[World Health Organization]] using [[DSM-IV]] criteria, reported in 2009 a prevalence estimate of around 6% for personality disorders. The rate sometimes varied with [[demographic]] and [[socioeconomic]] factors, and functional impairment was partly explained by co-occurring mental disorders.<ref>{{cite journal|last1=Huang|first1=Y.|last2=Kotov |first2=R.|last3=de Girolamo|first3=G.|last4=Preti|first4=A.|last5=Angermeyer|first5=M.|last6=Benjet|first6= C.|last7=Demyttenaere|first7=K.|last8=de Graaf|first8=R.|last9=Gureje|first9= O.|last10=Karam|first10=A. N.|last11=Lee|first11=S.|last12=Lepine|first12=J. P.|last13=Matschinger|first13=H.|last14=Posada-Villa|first14=J.|last15=Suliman|first15=S.|last16=Vilagut|first16=G.|last17=Kessler|first17=R. C.|title=DSM-IV personality disorders in the WHO World Mental Health Surveys|journal=The British Journal of Psychiatry|date=30 June 2009|volume=195|issue=1|pages=46–53|doi=10.1192/bjp.bp.108.058552|pmid=19567896|pmc=2705873}}</ref> In the US, screening data from the [[National Comorbidity Survey]] Replication between 2001 and 2003, combined with interviews of a subset of respondents, indicated a population prevalence of around 9% for personality disorders in total. Functional disability associated with the diagnoses appeared to be largely due to co-occurring mental disorders (Axis I in the DSM).<ref>{{cite journal|last=Lenzenweger|first=Mark F.|author2=Lane, Michael C. |author3=Loranger, Armand W. |author4=Kessler, Ronald C. |title=DSM-IV Personality Disorders in the National Comorbidity Survey Replication|journal=Biological Psychiatry|year=2006|volume=62|issue=6|pages=553–64|doi=10.1016/j.biopsych.2006.09.019|pmid=17217923|pmc=2044500}}</ref>
+
+A UK national [[epidemiological]] study (based on DSM-IV screening criteria), reclassified into levels of severity rather than just diagnosis, reported in 2010 that the majority of people show some personality difficulties in one way or another (short of threshold for diagnosis), while the prevalence of the most complex and severe cases (including meeting criteria for multiple diagnoses in different clusters) was estimated at 1.3%. Even low levels of personality symptoms were associated with functional problems, but the most severely in need of services was a much smaller group.<ref>{{cite journal|last=Yang|first=M.|author2=Coid, J. |author3=Tyrer, P. |title=Personality pathology recorded by severity: national survey|journal=The British Journal of Psychiatry|date=31 August 2010|volume=197|issue=3|pages=193–99|doi=10.1192/bjp.bp.110.078956|pmid=20807963}}</ref>
+
+Personality disorders (especially [[#American Psychiatric Association|Cluster A]]) are also very common among [[Homelessness|homeless people]].<ref>{{Cite journal|last=Connolly|first=Adrian J.|year=2008|title=Personality disorders in homeless drop-in center clients|url=http://www.ncsinc.org/images/pdfs/JPD_article_winter_2008.pdf|journal=Journal of Personality Disorders|volume=22|issue=6|pages=573–88|doi=10.1521/pedi.2008.22.6.573|quote=With regard to Axis II, Cluster A personality disorders (paranoid, schizoid, schizotypal) were found in almost all participants (92% had at least one diagnosis), and Cluster B (83% had at least one of antisocial, borderline, histrionic, or narcissistic) and C (68% had at least one of avoidant, dependent, obsessive–compulsive) disorders also were highly prevalent|pmid=19072678|access-date=31 January 2017|archive-url=https://web.archive.org/web/20090617134208/http://www.ncsinc.org/images/pdfs/JPD_article_winter_2008.pdf|archive-date=17 June 2009|url-status=dead|df=dmy-all}}</ref>
+
+There are some [[sex]] differences in the frequency of personality disorders which are shown in the table below.<ref name="Widiger 99" />{{rp|206}}
+
+{| class="wikitable sortable"
+|+ '''Sex differences in the frequency of personality disorders'''
+|-
+! scope="col" | Type of personality disorder
+! scope="col" | Predominant sex
+|-
+| [[Paranoid personality disorder]]
+| Male
+|-
+| [[Schizoid personality disorder]]
+| Male
+|-
+| [[Schizotypal personality disorder]]
+| Male
+|-
+| [[Antisocial personality disorder]]
+| Male
+|-
+| [[Borderline personality disorder]]
+| Female
+|-
+| [[Histrionic personality disorder]]
+| Female
+|-
+| [[Narcissistic personality disorder]]
+| Male
+|-
+| [[Avoidant personality disorder]]
+| Male
+|-
+| [[Dependent personality disorder]]
+| Female
+|-
+| [[Depressive personality disorder]]
+| Female
+|-
+| [[Passive–aggressive personality disorder]]
+| Male
+|-
+| [[Obsessive–compulsive personality disorder]]
+| Male
+|-
+| [[Self-defeating personality disorder]]
+| Female
+|-
+| [[Sadistic personality disorder]]
+| Male
+|}
+
+== History ==
+'''Before the 20th century'''
+
+Personality disorder is a term with a distinctly modern meaning, owing in part to its clinical usage and the institutional character of [[modern psychiatry]]. The currently accepted meaning must be understood in the context of historical changing classification systems such as DSM-IV and its predecessors. Although highly anachronistic, and ignoring radical differences in the character of subjectivity and social relations, some have suggested similarities to other concepts going back to at least the [[Ancient Greek medicine|ancient Greeks]].<ref name="millon1" />{{rp|35}} For example, the Greek philosopher [[Theophrastus]] described 29 'character' types that he saw as deviations from the norm, and similar views have been found in Asian, Arabic and Celtic cultures. A long-standing influence in the Western world was [[Galen]]'s concept of personality types, which he linked to the [[four humours]] proposed by [[Hippocrates]].
+
+Such views lasted into the eighteenth century, when experiments began to question the supposed biologically based humours and 'temperaments'. Psychological concepts of character and 'self' became widespread. In the nineteenth century, 'personality' referred to a person's conscious awareness of their behavior, a disorder of which could be linked to altered states such as [[Dissociation (psychology)|dissociation]]. This sense of the term has been compared to the use of the term 'multiple personality disorder' in the first versions of the DSM.<ref>Suryanarayan, Geetha (2002) [http://www.asia.cmpmedica.com/cmpmedica_my/disppdf.cfm?fname=suryanHistory.pdf The History of the Concept of Personality Disorder and its Classification]{{Dead link|date=May 2020 |bot=InternetArchiveBot |fix-attempted=yes }}, The Medicine Publishing Company Ltd.</ref>
+
+Physicians in the early nineteenth century started to diagnose forms of [[insanity]] involving disturbed emotions and behaviors but seemingly without significant intellectual impairment or [[delusions]] or [[hallucinations]]. [[Philippe Pinel]] referred to this as ' ''manie sans délire'' ' – mania without delusions – and described a number of cases mainly involving excessive or inexplicable anger or rage. [[James Cowles Prichard]] advanced a similar concept he called [[moral insanity]], which would be used to diagnose patients for some decades. 'Moral' in this sense referred to [[Affect (psychology)|affect]] (emotion or mood) rather than ethics, but it was arguably based in part on religious, social and moral beliefs, with a pessimism about medical intervention so social control should take precedence.<ref>{{cite journal|pmid=8757717|year=1996|last1=Augstein|first1=HF|title=J C Prichard's concept of moral insanity—a medical theory of the corruption of human nature|volume=40|issue=3|pages=311–43|pmc=1037128|journal=Medical History|doi=10.1017/S0025727300061329}}</ref> These categories were much different and broader than later definitions of personality disorder, while also being developed by some into a more specific meaning of moral degeneracy akin to later ideas about 'psychopaths'. Separately, [[Richard von Krafft-Ebing]] popularized the terms [[Sadomasochism|sadism and masochism]], as well as [[homosexuality]], as psychiatric issues.
+
+The German psychiatrist [[Julius Ludwig August Koch|Koch]] sought to make the moral insanity concept more scientific, and in 1891 suggested the phrase 'psychopathic inferiority', theorized to be a [[congenital disorder]]. This referred to continual and rigid patterns of misconduct or dysfunction in the absence of apparent [[mental retardation]] or illness, supposedly without a moral judgment. Described as deeply rooted in his Christian faith, his work established the concept of personality disorder as used today.<ref>{{cite journal|pmid=19127839|year=2008|last1=Gutmann|first1=P|title=Julius Ludwig August Koch (1841–1908): Christian, philosopher and psychiatrist|volume=19|issue=74 Pt 2|pages=202–14|journal=History of Psychiatry|doi=10.1177/0957154X07080661|s2cid=2223023|url=https://hal.archives-ouvertes.fr/hal-00570903/document}}</ref>
+
+'''20th century'''
+
+In the early 20th century, another German psychiatrist, [[Emil Kraepelin]], included a chapter on psychopathic inferiority in his influential work on clinical psychiatry for students and physicians. He suggested six types – excitable, unstable, eccentric, liar, swindler and quarrelsome. The categories were essentially defined by the most disordered criminal offenders observed, distinguished between criminals by impulse, professional criminals, and morbid [[Vagabond (person)|vagabonds]] who wandered through life. Kraepelin also described three paranoid (meaning then delusional) disorders, resembling later concepts of schizophrenia, delusional disorder and paranoid personality disorder. A diagnostic term for the latter concept would be included in the DSM from 1952, and from 1980 the DSM would also include schizoid, schizotypal; interpretations of earlier (1921) theories of [[Ernst Kretschmer]] led to a distinction between these and another type later included in the DSM, avoidant personality disorder.
+
+In 1933 Russian psychiatrist [[Pyotr Gannushkin|Pyotr Borisovich Gannushkin]] published his book ''Manifestations of Psychopathies: Statics, Dynamics, Systematic Aspects'', which was one of the first attempts to develop a detailed [[Pyotr Gannushkin#The theory of psychopathies|typology of psychopathies]]. Regarding maladaptation, ubiquity, and stability as the three main symptoms of behavioral pathology, he distinguished nine clusters of psychopaths: cycloids (including constitutionally depressive, constitutionally excitable, cyclothymics, and emotionally labile), {{not a typo|asthenics}} (including psychasthenics), schizoids (including dreamers), paranoiacs (including fanatics), epileptoids, hysterical personalities (including pathological liars), unstable psychopaths, antisocial psychopaths, and constitutionally stupid.<ref name="Gannushkin 01">Ганнушкин П. Б. (2000). ''Клиника психопатий, их статика, динамика, систематика''. Издательство Нижегородской государственной медицинской академии. {{ISBN|5-86093-015-1}}.</ref> Some elements of Gannushkin's typology were later incorporated into the theory developed by a Russian adolescent psychiatrist, [[Andrey Yevgenyevich Lichko]], who was also interested in psychopathies along with their milder forms, the so-called [[Andrey Yevgenyevich Lichko#Accentuations of character|accentuations of character]].<ref name="Lichko 02">Личко А. Е. (2010) Психопатии и акцентуации характера у подростков. Речь, {{ISBN|978-5-9268-0828-2}}.</ref>
+
+In 1939, psychiatrist David Henderson published a theory of 'psychopathic states' that contributed to popularly linking the term to [[anti-social behavior]]. [[Hervey M. Cleckley]]’s 1941 text, ''[[The Mask of Sanity]]'', based on his personal categorization of similarities he noted in some prisoners, marked the start of the modern clinical conception of psychopathy and its popularist usage.<ref>{{cite journal|last=Arrigo|first=B. A.|title=The Confusion Over Psychopathy (I): Historical Considerations|journal=International Journal of Offender Therapy and Comparative Criminology|date=1 June 2001|volume=45|issue=3|pages=325–44|doi=10.1177/0306624X01453005|s2cid=145400985}}</ref>
+
+Towards the mid 20th century, psychoanalytic theories were coming to the fore based on work from the turn of the century being popularized by [[Sigmund Freud]] and others. This included the concept of ''character disorders'', which were seen as enduring problems linked not to specific symptoms but to pervasive internal conflicts or derailments of normal childhood development. These were often understood as weaknesses of character or willful deviance, and were distinguished from [[neurosis]] or [[psychosis]]. The term 'borderline' stems from a belief some individuals were functioning on the edge of those two categories, and a number of the other personality disorder categories were also heavily influenced by this approach, including dependent, obsessive–compulsive and histrionic,<ref>Amy Heim & Drew Westen (2004) [http://www.psychsystems.net/Publications/2005/17.%20theories%20of%20personality%20and%20personality%20disorders_Heim_textbook%20of%20pers%20disorders%202005.pdf Theories of personality and personality disorders] {{webarchive|url=https://web.archive.org/web/20120111140930/http://www.psychsystems.net/Publications/2005/17.%20theories%20of%20personality%20and%20personality%20disorders_Heim_textbook%20of%20pers%20disorders%202005.pdf |date=11 January 2012 }}</ref> the latter starting off as a conversion symptom of hysteria particularly associated with women, then a hysterical personality, then renamed histrionic personality disorder in later versions of the DSM. A passive aggressive style was defined clinically by Colonel [[William Menninger]] during World War II in the context of men's reactions to military compliance, which would later be referenced as a personality disorder in the DSM.<ref name="Lane">{{cite journal|last=Lane|first=C.|title=The Surprising History of Passive–Aggressive Personality Disorder|journal=Theory & Psychology|date=1 February 2009|volume=19|issue=1|pages=55–70|doi=10.1177/0959354308101419|url=http://www.christopherlane.org/documents/Lane.PAPDisorder.pdf|citeseerx=10.1.1.532.5027|s2cid=147019317}}</ref> [[Otto Kernberg]] was influential with regard to the concepts of borderline and narcissistic personalities later incorporated in 1980 as disorders into the DSM.
+
+Meanwhile, a more general [[personality psychology]] had been developing in academia and to some extent clinically. [[Gordon Allport]] published theories of [[personality traits]] from the 1920s—and [[Henry Murray]] advanced a theory called ''personology'', which influenced a later key advocate of personality disorders, [[Theodore Millon]]. Tests were developing or being applied for personality evaluation, including [[projective test]]s such as the [[Rorschach test|Rorshach]], as well as questionnaires such as the [[Minnesota Multiphasic Personality Inventory]]. Around mid-century, [[Hans Eysenck]] was analysing traits and [[personality types]], and psychiatrist [[Kurt Schneider]] was popularising a clinical use in place of the previously more usual terms 'character', 'temperament' or 'constitution'.
+
+American psychiatrists officially recognized concepts of enduring personality disturbances in the first [[Diagnostic and Statistical Manual of Mental Disorders]] in the 1950s, which relied heavily on psychoanalytic concepts. Somewhat more neutral language was employed in the [[DSM-II]] in 1968, though the terms and descriptions had only a slight resemblance to current definitions. The [[DSM-III]] published in 1980 made some major changes, notably putting all personality disorders onto a second separate 'axis' along with mental retardation, intended to signify more enduring patterns, distinct from what were considered axis one mental disorders. 'Inadequate' and '[[asthenic]]' personality disorder' categories were deleted, and others were expanded into more types, or changed from being personality disorders to regular disorders. [[Sociopathic personality disorder]], which had been the term for [[psychopathy]], was renamed Antisocial Personality Disorder. Most categories were given more specific 'operationalized' definitions, with standard criteria psychiatrists could agree on to conduct research and diagnose patients.<ref>Hoermann, Simone; Zupanick, Corinne E. and Dombeck, Mark (January 2011) [http://www.mentalhelp.net/poc/view_doc.php?type=doc&id=560&cn=8 The History of the Psychiatric Diagnostic System Continued]. mentalhelp.net.</ref> In the DSM-III revision, self-defeating personality disorder and sadistic personality disorder were included as provisional diagnoses requiring further study. They were dropped in the DSM-IV, though a proposed 'depressive personality disorder' was added; in addition, the official diagnosis of passive–aggressive personality disorder was dropped, tentatively renamed 'negativistic personality disorder.'<ref>{{cite journal|author=Oldham, John M. |title=Personality Disorders |journal=Focus |year=2005|volume=3|pages=372–82|url=http://focus.psychiatryonline.org/doi/abs/10.1176/foc.3.3.372|doi=10.1176/foc.3.3.372|doi-broken-date=31 October 2021}}</ref>
+
+International differences have been noted in how attitudes have developed towards the diagnosis of personality disorder. Kurt Schneider argued they were 'abnormal varieties of psychic life' and therefore not necessarily the domain of psychiatry, a view said to still have influence in Germany today. British psychiatrists have also been reluctant to address such disorders or consider them on par with other mental disorders, which has been attributed partly to resource pressures within the National Health Service, as well as to negative medical attitudes towards behaviors associated with personality disorders. In the US, the prevailing healthcare system and psychanalytic tradition has been said to provide a rationale for private therapists to diagnose some personality disorders more broadly and provide ongoing treatment for them.<ref>{{cite journal|author=Kendell, RE|doi=10.1192/bjp.180.2.110|title=The distinction between personality disorder and mental illness|year=2002|journal=The British Journal of Psychiatry|volume=180|issue=2|pages=110–15|pmid=11823318|s2cid=90434}}</ref>
+
+==See also==
+{{Portal|Psychology}}
+* [[Depressive personality disorder]]
+* [[Borderline personality disorder]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* Marshall,  W. & Serin, R. (1997) Personality Disorders. In Sm.M. Turner & R. Hersen (Eds.) Adult Psychopathology and Diagnosis.  New York: Wiley. 508–41
+* Murphy, N. & McVey, D. (2010) [https://web.archive.org/web/20110715060200/http://www.pdmh-consultancy.com/publication-detail/4/ Treating Severe Personality Disorder]: Creating Robust Services for Clients with Complex Mental Health Needs. London: Routledge
+* [[Theodore Millon|Millon, Theodore]] (and Roger D. Davis, contributor) – ''Disorders of Personality: DSM IV and Beyond'' – 2nd ed. – New York, John Wiley and Sons, 1995 {{ISBN|0-471-01186-X}}
+* {{cite book|last=Yudofsky|first=Stuart C.|title=Fatal Flaws: Navigating Destructive Relationships With People With Disorders of Personality and Character|year=2005|location=Washington, DC|isbn=978-1-58562-214-6|edition=1st}}
+
+== External links ==
+{{Medical condition classification and resources
+| DiseasesDB      = 9889
+| ICD10           = {{ICD10|F|60||f|60}}
+| ICD9            = {{ICD9|301.9}}
+| ICDO            = 
+| OMIM            = 
+| MedlinePlus     = 000939
+| eMedicineSubj   = article
+| eMedicineTopic  = 294307
+| MeshID          = D010554
+| SNOMED CT       = 33449004
+}}
+{{clear}}
+{{Library resources box
+|by=no
+|onlinebooks=no
+|others=no
+|about=yes
+|label=Personality disorders}}
+* [http://counsellingresource.com/distress/personality-disorders/foundation/index.html Personality Disorders Foundation]
+* [http://www.nmha.org/go/information/get-info/personality-disorders National Mental Health Association personality disorder fact sheet]
+* [http://www.rcpsych.ac.uk/expertadvice/problemsdisorders/personalitydisorder.aspx Personality Disorders information leaflet from The Royal College of Psychiatrists]
+
+{{DSM personality disorders}}
+{{ICD-10 personality disorders}}
+{{Authority control}}
+
+[[Category:Personality disorders| ]]
+[[Category:Disorders of adult personality and behaviour]]
+[[Category:Psychology|*]]
+[[Category:Psychology portal|Psychology]]
+[[Category:Behavioural sciences| ]]

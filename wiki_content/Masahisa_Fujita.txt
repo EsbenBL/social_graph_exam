@@ -1,0 +1,238 @@
+{{Short description|Japanese economist}}
+{{no footnotes|date=November 2017}}
+{{primary sources|date=November 2017}}
+{{Infobox economist
+| name = Masahisa Fujita
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| native_name = 藤田 昌久
+| native_name_lang = 
+| birth_date = {{birth date and age|1943|07|21}}
+| birth_place = [[Yamaguchi Prefecture|Yamaguchi]], [[Japan]]
+| death_date = 
+| death_place = 
+| resting_place = 
+| resting_place_coordinates =  <!-- (use {{coord ...}}) -->
+| nationality = 
+| institution = [[RIETI]]<br>[[Konan University]]<br>[[University of Pennsylvania]]<br>[[Kyoto University]]
+| field = [[Regional science]]<br>[[Urban economics]]<br>[[Spatial economics]]
+| school_tradition = 
+| alma_mater = [[University of Pennsylvania]]<small> ([[Doctor of Philosophy|Ph.D.]] 1972)</small><br>[[Kyoto University]]<small> ([[B.S.]] 1966)</small>
+| influences = 
+| influenced = [[Walter Isard]]
+| contributions = [[Economic geography#New economic geography|New Economic Geography]]
+| awards = 
+| memorials = 
+| spouse =            <!-- or: | spouses =  -->
+| signature =         <!-- filename only -->
+| url = 
+| module = 
+| repec_prefix = e
+| repec_id = pfu109
+| notes = 
+}}
+{{nihongo|'''Masahisa Fujita'''|藤田 昌久|Fujita Masahisa|born 21 July 1943}} is a [[Japan]]ese [[economist]] who has studied [[regional science]] and [[Urban economics]] and [[International Trade]], Spatial Economy ([[New Economic Geography]]). He is a [[professor]] at [[Konan University]] and an [[adjunct professor]] at Institute of Economic Research, [[Kyoto University]].
+
+Fujita majored in [[urban planning]] as an undergraduate at [[Kyoto University]]. He studied [[regional science]] in [[University of Pennsylvania]] under [[Walter Isard]] and obtained a Ph.D.(in Regional Science) from [[University of Pennsylvania]] in 1972. He taught at University of Pennsylvania for about 20 years, and has been the faculty of Institute of Economic Research (KIER) [[Kyoto University]] since 1995, where he served as Director in 1999. He was the President of [[Institute of Developing Economies]] during 2003 to 2007, and proposed a basic concept of [[Economic Research Institute for ASEAN and East Asia]] to [[JETRO]] and [[Ministry of Economy, Trade and Industry|METI]]. In 2007, he became President and Chief Research Officer of the Research Institute of Economy, Trade and Industry.
+
+Fujita is known as one of the pioneers of [[economic geography|New Economic Geography]], as well as [[Paul Krugman]]. Fujita is the recipient of the 1983 Tord Palander Prize, the 1998 Walter Isard Award in regional science, and was also awarded the first [[William Alonso|Alonso]] Prize, alongside [[Paul Krugman]].
+
+==Selected works==
+===Books===
+* {{cite book |last1= Fujita |first1= Masahisa |year= 1978 |title= Spatial development planning: a dynamic convex programming approach |series= Studies in regional science and urban economics |volume= 2 |location= [[Amsterdam]] |publisher= [[North-Holland Pub. Co.]] |isbn= 9780444851574 }}
+* {{cite book |last1= Fujita |first1= Masahisa |year= 1989 |title= Urban Economic Theory: Land Use and City Size |location= [[Cambridge, England]] |publisher= [[Cambridge University Press]] |isbn= 9780521346627 }}
+* {{cite book |last1= Fujita |first1= Masahisa |last2= Krugman |first2= Paul |author-link2= Paul Krugman |last3= Venables |first3= Anthony J. |author-link3= Anthony Venables |year= 1999 |title= The Spatial Economy: Cities, Regions, and International Trade |location= [[Cambridge, Massachusetts]] |publisher= [[MIT Press]] |isbn= 9780262062046 }}
+* {{cite book |last1= Fujita |first1= Masahisa |last2= Thisse |first2= Jacques-François |author-link2= Jacques-François Thisse |year= 2002 |title= Economics of Agglomeration: Cities, Industrial Location, and Regional Growth |edition= 1st |location= Cambridge, England |publisher= Cambridge University Press |isbn= 9780521805247 }}
+::A revised edition: {{cite book |last1= Fujita |first1= Masahisa |last2= Thisse |first2= Jacques-François |year= 2013 |title= Economics of Agglomeration: Cities, Industrial Location, and Regional Growth |edition= 2nd |location= Cambridge, England |publisher= Cambridge University Press |isbn= 9781107001411 }}
+
+===Journals articles===
+* {{Cite journal
+|last= Fujita |first= Masahisa 
+| title = Spatial patterns of urban growth: Optimum and market
+| journal = [[Journal of Urban Economics]]
+| volume = 3 | issue = 3 | pages = 209–241 | doi = 10.1016/0094-1190(76)90041-3
+| date = 1976 
+}}<!--| accessdate = 2014-09-09-->
+* {{Cite journal
+|last= Fujita |first= Masahisa 
+| title = Location of firms with input transactions
+| journal = [[Environment and Planning|Environment and Planning A]]
+| volume = 13 | issue = 11 | pages = 1401–1414 | doi = 10.1068/a131401
+| date = 1981 
+|s2cid= 154913583 
+}}<!--| accessdate = 2014-09-09-->
+* {{Cite journal
+|last1= Akita |first1= Takahiro |last2= Fujita |first2= Masahisa 
+| title = Spatial development processes with renewal in a growing city
+| journal = Environment and Planning A
+| volume = 14 | issue = 2 | pages = 205–223 | doi = 10.1068/a140205
+| date = 1982 
+|s2cid= 144707849 }}<!--| accessdate = 2014-09-09-->
+* {{cite journal 
+|last1= Fujita |first1= Masahisa |last2= Ogawa |first2= Hideaki
+|title= Multiple equilibria and structural transition of non-monocentric urban configurations
+|journal= [[Regional Science and Urban Economics]]
+|volume= 12 |issue= 2 |pages= 161–196 | doi = 10.1016/0166-0462(82)90031-X 
+|date= 1982 
+}}
+* {{Cite journal
+|last= Fujita |first= Masahisa 
+| title = Spatial patterns of residential development
+| journal = Journal of Urban Economics
+| volume = 12 | issue = 1 | pages = 22–52 | doi = 10.1016/0094-1190(82)90003-1
+| date = 1982 
+}}<!--| accessdate = 2014-09-09-->
+* {{Cite journal
+|last1= Yang |first1= Chung-hsin |last2= Fujita |first2= Masahisa 
+| title = Urban spatial structure with open space
+| journal = Environment and Planning A
+| volume = 15 | issue = 1 | pages = 67–84 | doi = 10.1068/a150067
+| date = 1983 
+|s2cid= 153796469 }}<!--| accessdate = 2014-09-09-->
+* {{Cite journal
+|last1= Fujita |first1= Masahisa |last2= Thisse |first2= Jacques-François 
+| title = Spatial Competition with a Land Market: Hotelling and Von Thunen Unified
+| url = http://www.brown.edu/Departments/Economics/Faculty/Matthew_Turner/ec2410/readings/Thisse_RES_1986.pdf
+| journal = [[The Review of Economic Studies|Review of Economic Studies]]
+| volume = 53 | issue = 5 | pages = 819–841 | doi = 10.2307/2297721
+| date = 1986 
+|jstor= 2297721 }}<!--| accessdate = 2014-09-09-->
+* {{Cite journal
+|last= Fujita |first= Masahisa 
+| title = A monopolistic competition model of spatial agglomeration: Differentiated product approach
+| journal = Regional Science and Urban Economics
+| volume = 18 | issue = 1 | pages = 87–124 | doi = 10.1016/0166-0462(88)90007-5
+| date = 1988 
+}}
+* {{Cite journal
+|last1= Ogawa |first1= Hideaki |last2= Fujita |first2= Masahisa 
+| title = Nonmonocentric urban configurations in a two-dimensional space
+| journal = Environment and Planning A
+| volume = 21 | issue = 3 | pages = 363–374 | doi = 10.1068/a210363
+| date = 1989 
+|citeseerx= 10.1.1.477.1883 |s2cid= 154778364 }}<!--| accessdate = 2014-09-09-->
+* {{Cite journal
+|last1= Fujita |first1= Masahisa  |last2= Kashiwadani |first2= Masuo  
+| title = Testing the efficiency of urban spatial growth: A case study of Tokyo
+| journal = Journal of Urban Economics
+| volume = 25 | issue = 2 | pages = 156–192 | doi = 10.1016/0094-1190(89)90033-8
+| date = 1989 
+}}<!--| accessdate = 2014-09-09-->
+* {{Cite journal
+|last1= Fujita |first1= Masahisa |last2= Thisse |first2= Jacques-François
+| title = Spatial duopoly and residential structure
+| journal = Journal of Urban Economics
+| volume = 30 | issue = 1 | pages = 27–47 | doi = 10.1016/0094-1190(91)90043-7
+| date = 1991 
+}}<!--| accessdate = 2014-09-09-->
+* {{Cite journal
+|last1= Berliant |first1= Marcus |last2= Fujita |first2= Masahisa 
+| title = Alonso's Discrete Population Model of Land Use: Efficient Allocations and Competitive Equilibria
+| journal = [[International Economic Review]]
+| volume = 33 | issue = 3 | pages = 535–566 | doi = 10.2307/2527125
+| date = 1992 |jstor= 2527125 }}
+* {{Cite journal
+|last1= Abdel-Rahman |first1= Hesham M. |last2= Fujita |first2= Masahisa 
+| title = Specialization and Diversification in a System of Cities
+| journal = Journal of Urban Economics
+| volume = 33 | issue = 2 | pages = 189–222 | doi = 10.1006/juec.1993.1013
+| date = 1993 
+}}<!--| accessdate = 2014-09-09-->
+* {{Cite journal
+|last1= Fujita |first1= Masahisa |last2= Thisse |first2= Jacques-François 
+| title = Technological Linkages and Efficient Location of Indivisible Activities: Koopmans - Beckmann and von Thunen Unified
+| journal = Journal of Urban Economics
+| volume = 34 | issue = 2 | pages = 118–141 | doi = 10.1006/juec.1993.1030
+| date = 1993 
+}}<!--| accessdate = 2014-09-08-->
+* {{cite journal 
+|last1= Fujita |first1= Masahisa |last2= Krugman |first2= Paul
+|title= When is the economy monocentric?: von Thünen and Chamberlin unified
+|journal= [[Regional Science and Urban Economics]]
+|volume= 25 |issue= 4 |pages= 505–528 | doi = 10.1016/0166-0462(95)02098-F
+|date= 1995
+}}
+* {{cite journal 
+|last1= Fujita |first1= Masahisa |last2= Thisse |first2= Jacques-François
+|title= Economics of Agglomeration
+|journal= [[Journal of the Japanese and International Economies]]
+|volume= 10 |issue= 4 |pages= 339–378 | doi = 10.1006/jjie.1996.0021
+|date= 1996 
+|url= https://www.e-elgar.com/shop/isbn/9781788119771 }}
+* {{Cite journal
+|last1= Lee |first1= C-M |last2= Fujita |first2= Masahisa 
+| title = Efficient configuration of a greenbelt: theoretical modelling of greenbelt amenity
+| journal = Environment and Planning A
+| volume = 29 | issue = 11 | pages = 1999–2017 | doi = 10.1068/a291999
+| date = 1997 
+|s2cid= 145781390 }}<!--| accessdate = 2014-09-09-->
+* {{Cite journal
+|last1= Fujita |first1= Masahisa |last2= Thisse |first2= Jacques-François |last3= Zenou |first3= Yves 
+| title = On the Endogeneous Formation of Secondary Employment Centers in a City
+| journal = Journal of Urban Economics
+| volume = 41 | issue = 3 | pages = 337–357 | doi = 10.1006/juec.1996.2002
+| date = 1997 
+}}<!--| accessdate = 2014-09-09-->
+* {{Cite journal
+|last1= Fujita |first1= Masahisa |last2= Krugman |first2= Paul |last3= Mori |first3= Tomoya 
+| title = On the evolution of hierarchical urban systems
+| journal = European Economic Review
+| volume = 43 | issue = 2 | pages = 209–251 | doi = 10.1016/S0014-2921(98)00066-X
+| date = 1999
+}}
+* {{cite journal 
+|last1= Fujita |first1= Masahisa |last2= Hu |first2= Dapeng
+|title= Regional disparity in China 1985–1994: The effects of globalization and economic liberalization
+|journal= [[Annals of Regional Science]]
+|volume= 35 |issue= 1 |pages= 3–37 | doi = 10.1007/s001680000020
+|date= 2001
+|s2cid= 154813469 }}
+* {{cite journal 
+|last1= Fujita |first1= Masahisa |last2= Krugman |first2= Paul
+|title= The new economic geography: Past, present and the future
+|journal= [[Papers in Regional Science]]
+|volume= 83 |issue= 1 |pages= 139–164 | doi = 10.1007/s10110-003-0180-0
+|date= 2005 
+|s2cid= 6402845 |url= http://www.aecr.org/images/ImatgesArticles/2007/11%20Masahisa.pdf |doi-access= free }}
+* {{Cite journal
+|last1= Fujita |first1= Masahisa |last2= Thisse |first2= Jacques-François
+| title = Globalization And The Evolution Of The Supply Chain: Who Gains And Who Loses?
+| journal = International Economic Review
+| volume = 47 | issue = 3 | pages = 811–836 | doi = 10.1111/j.1468-2354.2006.00397.x
+| date = 2006 
+|citeseerx= 10.1.1.526.437 |s2cid= 33067378 }}<!--| accessdate = 2014-09-09-->
+* {{Cite journal
+|last1= Berliant |first1= Marcus |last2= Fujita |first2= Masahisa 
+| title = Knowledge Creation As A Square Dance On The Hilbert Cube
+| journal = International Economic Review
+| date = 2008 | volume = 49 | issue = 4 | pages = 1251–1295
+| doi = 10.1111/j.1468-2354.2008.00512.x 
+|citeseerx= 10.1.1.175.2656 |s2cid= 1252773 }}<!--| accessdate = 2014-09-09-->
+
+==External links==
+* [http://www.rieti.go.jp/users/fujita-masahisa/index_en.html Fellow profile] at [[RIETI]]
+* [http://www.kier-net.com/member/show/64575 Researcher profile] at Institute of Economic Research Kyoto University(KIER)
+* [http://www.ide.go.jp/ Institute of Developing Economies(IDE)]
+
+{{Presidents of the Japanese Economic Association}}
+{{Authority control}}
+
+{{DEFAULTSORT:Fujita, Masahisa}}
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:People from Yamaguchi Prefecture]]
+[[Category:Japanese geographers]]
+[[Category:Japanese economists]]
+[[Category:20th-century economists]]
+[[Category:21st-century economists]]
+[[Category:Regional economists]]
+[[Category:Kyoto University alumni]]
+[[Category:University of Pennsylvania alumni]]
+[[Category:Kyoto University faculty]]
+[[Category:University of Pennsylvania faculty]]
+[[Category:Konan University faculty]]
+[[Category:Members of the Japan Academy]]
+[[Category:Presidents of the Japanese Economic Association]]
+[[Category:Fellows of the Econometric Society]]

@@ -1,0 +1,35 @@
+{{for|other people named Robert Summers|Robert Summers (disambiguation)}}
+'''Robert Summers''' (June 22, 1922 – April 17, 2012<ref>{{cite news|last=Lin|first=Jennifer|title=Robert Summers, 89, Penn economics professor|url=http://articles.philly.com/2012-04-18/news/31361931_1_economists-john-summers-lawrence-summers|accessdate=22 November 2013|newspaper=Philly.com|date=18 April 2012}}</ref><ref>{{cite web|last=Summers|first=Robert|title=Death Index|url=http://www.genealogybank.com/gbnk/ssdi/doc/news/13E4BB888A5084A8|publisher=Genealogy bank|accessdate=22 November 2013}}</ref>) was an economist and professor at the [[University of Pennsylvania]], where he taught from 1960. A widely cited early work by Summers is on the small-sample statistical properties of alternate [[Regression analysis|regression]] estimators where analytical measures are unavailable.<ref>{{cite journal |first=Robert |last=Summers |year=1965 |title=A Capital Intensive Approach to the Small Sample Properties of Various Simultaneous Equation Estimators |journal=[[Econometrica]] |volume=33 |issue=1 |jstor=1911887 |pages=1–41 |doi=10.2307/1911887 |url=http://cowles.yale.edu/sites/default/files/files/pub/d00/d0064.pdf }}</ref>
+
+Summers received his Ph.D. from [[Stanford University]].
+
+Summers was part of a team at Penn that developed estimates of national income and output across countries which adjust GDP and components for [[purchasing power parity]] in the cost of goods and services among different countries,<ref>Irving B. Kravis, Alan W. Heston, and Robert Summers (1978). "Real GDP Per Capita for More Than One Hundred Countries," ''Economic Journal'', 88(350), p [https://www.jstor.org/pss/2232127 p. 215]-242.</ref><ref>Robert Summers and [[Alan Heston]] (1991). "The Penn World Table (Mark 5): An Expanded Set of International Comparisons, 1950-1988," ''Quarterly Journal of Economics'', 106(2), p [https://www.jstor.org/stable/2937941 p. 327]-368.</ref> later termed the [[Penn World Table]].   This yielded large, systematic differences from the common method of using only international [[exchange rates]] to convert national products to a common currency.  For that work, Summers and [[Alan Heston]] were recognized as [[American Economic Association]] Distinguished Fellows for 1998.<ref>{{Cite web|url=http://www.vanderbilt.edu/AEA/disting_fellows.htm|title = American Economic Association}}</ref>
+
+Prior to joining the Penn faculty, Summers was on the faculty at [[Yale University]].<ref>Richard Bradley. ''Harvard Rules: The Struggle for the Soul of the World's Most Powerful University''. p. 4</ref>
+
+Summers was married to [[Anita Summers]].  They are the parents of [[Lawrence Summers]].  His brother is [[Paul Samuelson]]. (Their deceased older brother Harold, a lawyer, changed his name to Summers in his youth, and Robert did the same.<ref>{{Cite news|url=https://www.nytimes.com/1988/06/05/business/the-economists-behind-the-candidates-summers-a-legacy-of-liberalism.html?pagewanted=all|title = THE ECONOMISTS BEHIND THE CANDIDATES; Summers: A Legacy of Liberalism|newspaper = The New York Times|date = 5 June 1988|last1 = Kilborn|first1 = Peter T.}}</ref>)  All three of these people{{clarify|date=December 2017|reason=Which three?}} were also noted economists, as is his wife's brother [[Kenneth Arrow]].
+
+==See also==
+* [[Penn effect]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [https://web.archive.org/web/20070208214526/http://pwt.econ.upenn.edu/summers.html "Robert Summers: American Economics Association Distinguished Fellow Citation, 1998"]
+* [[Mark Blaug]] and  Howard R. Vane (2003).  [https://books.google.com/books?id=29U9GeQQnSUC&printsec=frontcover&source=gbs_v2_summary_r&cad=0#v=onepage&q&f=false ''Who's Who in Economics''], pp.&nbsp;811–812.
+*{{cite web|title=Robert Summers|url=https://econpapers.repec.org/RAS/psu175.htm|publisher=[[EconPapers]]}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Summers, Robert}}
+[[Category:American economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Stanford University alumni]]
+[[Category:1922 births]]
+[[Category:2012 deaths]]
+[[Category:Yale University faculty]]
+[[Category:University of Pennsylvania faculty]]
+[[Category:20th-century American Jews]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:21st-century American Jews]]

@@ -1,0 +1,75 @@
+{{BLP sources|date=September 2010}}
+{{Use dmy dates|date=April 2020}}
+
+'''Philip N. Johnson-Laird''' (born 12 October 1936) is a philosopher of language and reasoning. He was a professor at [[Princeton University]]'s [[Princeton University Department of Psychology|Department of Psychology]], as well as the author of several notable books on human [[cognition]] and the [[psychology of reasoning]].<ref name="NAS Profile">{{Cite journal 
+| last1 = Ahmed | first1 = F. 
+| doi = 10.1073/pnas.1117174108 
+| title = Profile of Philip N. Johnson-Laird 
+| journal = Proceedings of the National Academy of Sciences 
+| year = 2011 
+| pmid = 22065789 
+| pmc =3250179
+ | volume=108
+ | issue=50
+ | pages=19862–4
+| bibcode = 2011PNAS..10819862A 
+| doi-access = free 
+}}</ref>
+
+==Biography==
+He was educated at [[Culford School]] and [[University College London]] where he won the Rosa Morison Medal in 1964 and a [[James Sully]] Scholarship between 1964–66.  He achieved a BA there in 1964 and a PhD in 1967.<ref name="giffordlectures.org">{{cite web|url=http://www.giffordlectures.org/lecturers/philip-johnson-laird|title=Philip Johnson-Laird|date=18 August 2014|accessdate=6 January 2017}}</ref> He was elected to a Fellowship in 1994.
+
+His entry in [[Who's Who]] (2007 edition) records the following career history:
+
+*Ten years of miscellaneous jobs, as surveyor, musician, hospital porter (alternative to National Service), librarian, before going to university.
+*Assistant Lecturer, then Lecturer, in Psychology, [[University College London|UCL]], 1966–73
+*Visiting Member, [[Institute for Advanced Study]] in [[Princeton, New Jersey]], 1971–72
+*Reader, 1973, Professor, 1978, in Experimental Psychology, [[University of Sussex]]
+*Visiting Fellow, [[Stanford University]], 1980
+*Assistant Director, [[Cognition and Brain Sciences Unit|MRC Applied Psychology Unit]], [[University of Cambridge]], 1983–89
+*Fellow, [[Darwin College, Cambridge|Darwin College]], Cambridge, 1984–89
+*Visiting Professorships: [[Stanford University]], 1985; Princeton Univ., 1986.
+
+He joined the department of psychology at Princeton University in 1989, where he became the Stuart Professor of Psychology in 1994.<ref name="NAS Profile" /> He retired in 2012.<ref>{{cite web |title=Eleven professors retire from faculty |url=https://paw.princeton.edu/article/eleven-professors-retire-faculty |website=Princeton Alumni Weekly|date=6 June 2012}}</ref>
+
+Johnson-Laird is a member of the [[American Philosophical Society]],<ref>{{Cite web|title=APS Member History|url=https://search.amphilsoc.org/memhist/search?creator=Philip+N.+Johnson-Laird&title=&subject=&subdiv=&mem=&year=&year-max=&dead=&keyword=&smode=advanced|access-date=2021-05-24|website=search.amphilsoc.org}}</ref> a Fellow of the [[Royal Society]], a Fellow of the [[British Academy]], a William James Fellow of the [[Association for Psychological Science]], and a Fellow of the [[Cognitive Science Society]]. He has been awarded honorary doctorates from: Göteborg, 1983; Padua, 1997; Madrid, 2000; Dublin, 2000; Ghent, 2002; Palermo, 2005. He won the [[Spearman Medal]] in 1974, the [[British Psychological Society]] President's Award in 1985, and the International Prize from [[Fyssen Foundation]] in 2002.
+
+Along with several other scholars, Johnson-Laird delivered the 2001 [[Gifford Lectures]] in [[Natural Theology]] at the [[University of Glasgow]],<ref name="giffordlectures.org"/> published as ''The Nature and Limits of Human Understanding'' (ed. Anthony Sanford, T & T Clark, 2003). He has been a member of the United States [[National Academy of Sciences]] since 2007.
+
+==Selected publications==
+*{{Cite news|url=http://www.pnas.org/content/107/43/18243|title=Mental models and human reasoning|last=Johnson-Laird|first=P. N.|year=2010|volume=107|pages=18243–18250|doi=10.1073/pnas.1012933107 <!-- authorlink=Philip Johnson-Laird --> |journal=Proceedings of the National Academy of Sciences}}
+*{{Cite book|last=Johnson-Laird|first=Philip N|title=How We Reason|year=2006|publisher=Oxford University Press|isbn=978-0-19-856976-3}}
+*{{Cite news|title=Peirce, logic diagrams, and the elementary operations of reasoning <!-- authorlink=Philip Johnson-Laird --> |first=P. N.|last=Johnson-Laird|journal=Thinking & Reasoning|volume=8|year=2002|pages=69–95 | doi=10.1080/13546780143000099|url=http://www.tandf.co.uk/journals/pp/13546783.html}}
+*{{Cite book|last=Johnson-Laird|first=Philip N|title=Computer and the Mind: An Introduction to Cognitive Science|year=1988|publisher=Harvard University Press|isbn=978-0-674-15616-6|url-access=registration|url=https://archive.org/details/computermind00phil}}
+*{{Cite book|last=Johnson-Laird|first=Philip N|title=Human and Machine Thinking (Distinguished Lecture Series)|year=1993|publisher=LEA, Inc.|isbn=978-0-8058-0921-3}}
+*{{Cite book|last=Johnson-Laird|first=Philip N (with [[Ruth M. J. Byrne]])|title=Deduction|year=1991|publisher=Psychology Press|isbn=978-0-86377-149-1}}
+*{{Cite book|last=Johnson-Laird|first=Philip N|title=Mental Models: Toward a Cognitive Science of Language, Inference and Consciousness|title-link=Mental model|year=1983|publisher=Harvard University Press|isbn=978-0-674-56882-2}}
+*{{Cite book|last=Johnson-Laird|first=Philip N (with [[Peter Cathcart Wason]])|title=Thinking: Readings in Cognitive Science|year=1977|publisher=Cambridge University Press}}
+*{{Cite book|last=Johnson-Laird|first=Philip N (with [[George Armitage Miller]])|title=Language and Perception|year=1976|publisher=Belknap Press|isbn=978-0-674-50948-1}}
+*{{Cite book|last=Johnson-Laird|first=Philip N (with [[Peter Cathcart Wason]])|title=Psychology of Reasoning: Structure and Content|year=1972|publisher=Harvard University Press|isbn=978-0-674-72127-2|url-access=registration|url=https://archive.org/details/psychologyofreas00waso}}
+
+==References==
+{{reflist}}
+
+{{FRS 1991}}
+{{Authority control}}
+
+{{DEFAULTSORT:Johnson-Laird, Philip}}
+[[Category:1936 births]]
+[[Category:Living people]]
+[[Category:People educated at Culford School]]
+[[Category:Alumni of University College London]]
+[[Category:Princeton University faculty]]
+[[Category:Consciousness researchers and theorists]]
+[[Category:Cognitive scientists]]
+[[Category:Cognitive psychologists]]
+[[Category:American psychologists]]
+[[Category:British psychologists]]
+[[Category:Fellows of Darwin College, Cambridge]]
+[[Category:Academics of University College London]]
+[[Category:Fellows of the Royal Society]]
+[[Category:British expatriate academics in the United States]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Members of the American Philosophical Society]]
+[[Category:Fellows of the British Academy]]
+[[Category:Fellows of the Cognitive Science Society]]

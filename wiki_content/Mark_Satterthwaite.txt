@@ -1,0 +1,68 @@
+{{Short description|American economist}}
+{{Expert needed|biography|talk=Talk:Mark_Satterthwaite|date=February 2018}}
+{{Infobox economist
+| name              = 
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| native_name       = 
+| native_name_lang  = 
+| birth_date        = <!-- {{birth date and age|YYYY|MM|DD}} -->
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- (use {{coord …}}) -->
+| nationality       = 
+| citizenship       = 
+| spouse            = <!-- or: spouses -->
+| website           = <!-- {{URL|example.com}} -->
+| institution       = [[Northwestern University]]
+| field             = 
+| school_tradition  = 
+| alma_mater        = [[University of Wisconsin, Madison]]<br>[[California Institute of Technology]]
+| doctoral_advisor  = [[Richard H. Day]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| influences        = 
+| influenced        = 
+| contributions     = 
+| awards            = 
+| memorials         = 
+| repec_prefix      = 
+| repec_id          = 
+| module            = 
+| signature         = <!-- filename only -->
+| notes             = <!-- or: footnotes -->
+}}
+'''Mark Allen Satterthwaite''' is an [[economist]] at the [[Kellogg School of Management]] at [[Northwestern University]] in [[Evanston, Illinois]]. He is currently A.C. Buehler Professor in Hospital & Health Services Management, Professor of Strategic Management & Managerial Economics, and chair of the Management & Strategy Department. He is a fellow of the [[Econometric Society]] and a member of the [[American Academy of Arts and Sciences]].<ref>Mark Satterthwaite faculty web page. [http://www.kellogg.northwestern.edu/Faculty/Directory/Satterthwaite_Mark.aspx  http://www.kellogg.northwestern.edu/Faculty/Directory/Satterthwaite_Mark.aspx] Retrieved May 13, 2010</ref>
+
+==See also==
+* [[Gibbard–Satterthwaite theorem]]
+* [[Muller–Satterthwaite theorem]]
+* [[Myerson–Satterthwaite theorem]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.kellogg.northwestern.edu/Faculty/Directory/Satterthwaite_Mark.aspx Satterthwaite's faculty web page]
+*{{Google Scholar id|iTERn8AAAAAJ}}
+*{{cite web|title=Mark Satterthwaite|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Mark+Satterthwaite%22+&acc=off&wc=on&fc=off&group=none|publisher=[[JSTOR]]}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Satterthwaite, Mark}}
+[[Category:American economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Kellogg School of Management faculty]]
+[[Category:University of Wisconsin–Madison alumni]]
+[[Category:California Institute of Technology alumni]]
+
+
+{{US-economist-stub}}

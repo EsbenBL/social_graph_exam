@@ -1,0 +1,73 @@
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = John R. Alford
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = <!--{{birth date |YYYY|MM|DD}}-->
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| home_town         =
+| other_names       = 
+| pronounce         =
+| residence         = 
+| citizenship       = 
+| nationality       = United States
+| fields            = [[Political science]]
+| workplaces        = [[Rice University]]
+| patrons           = 
+| education         = [[University of Houston]]<br>[[University of Iowa]]
+| alma_mater        = 
+| thesis_title      = Party Strength in the Electorate and Congress
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1981
+| doctoral_advisor  = <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[Genopolitics]]
+| influences        = 
+| influenced        = 
+| awards            = [[CQ Press]] Award from the [[American Political Science Association]] (1988; with [[John R. Hibbing]])<ref>{{Cite web |url=http://docs.politicalscience.rice.edu/AlfordCV.pdf |title=John R. Alford Curriculum Vitae |date=2012 |website=Rice University |access-date=2019-03-29}}</ref>
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+'''John R. Alford''' is a [[political science]] professor at [[Rice University]], known for his research with [[John R. Hibbing]] in the field of [[genopolitics]].<ref>{{Cite news |url=https://journalstar.com/news/local/unl-political-scientist-says-genetics-politics-linked/article_3fcadae7-2547-5236-ae3b-058ce4ac86ec.html |title=UNL political scientist says genetics, politics linked |last=Hansen |first=Matthew |date=2005-07-25 |work=Lincoln Journal-Star |access-date=2019-03-29 |language=en}}</ref><ref>{{Cite news |url=https://www.newscientist.com/article/mg19726411-800-are-political-leanings-all-in-the-genes/ |title=Are political leanings all in the genes? |last=Giles |first=Jim |date=2008-01-30 |work=New Scientist |access-date=2019-03-29 |language=en-US}}</ref><ref>{{Cite news |url=https://www.chronicle.com/article/The-Biology-of-Voting/31258 |title=The Biology of Voting |last=Monastersky |first=Richard |date=2008-10-03 |work=The Chronicle of Higher Education |access-date=2019-03-29 |language=en-US |issn=0009-5982}}</ref> He has also testified as an [[expert witness]] in several court cases pertaining to [[Congressional redistricting]] in [[Texas]].<ref>{{Cite news |url=https://www.nytimes.com/2003/07/01/us/across-us-redistricting-as-a-never-ending-battle.html |title=Across U.S., Redistricting as a Never-Ending Battle |last=Halbfinger |first=David M. |date=2003-07-01 |work=The New York Times |access-date=2019-03-29 |language=en-US |issn=0362-4331}}</ref><ref>{{Cite news |url=https://www.texastribune.org/2017/07/14/redistricting-trial-texas-refutes-discrimination-claims-while-blocking/ |title=On day 5 of redistricting trial, Texas rebuts claim that current political maps discriminate |last=Malewitz |first=Jim |date=2017-07-14 |work=The Texas Tribune |access-date=2019-03-29 |last2=Malewitz |first2=Jim |language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://politicalscience.rice.edu/john-alford Faculty page]
+*{{Google Scholar id|_1scNV8AAAAJ}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Alford, John R.}}
+[[Category:Living people]]
+[[Category:Rice University faculty]]
+[[Category:American political scientists]]
+[[Category:University of Houston alumni]]
+[[Category:University of Iowa alumni]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{US-polisci-bio-stub}}

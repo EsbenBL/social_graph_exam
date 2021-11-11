@@ -1,0 +1,46 @@
+{{Infobox scientist
+|name = Matthew O. Jackson
+|image =
+|caption =
+|birth_date = 1962
+|birth_place = 
+|residence = United States
+|field = [[Economics]]
+|work_institution = [[Stanford University]]
+|alma_mater = [[Stanford University]]
+ [[Princeton University]]
+|doctoral_advisor = 
+|awards = Social Choice and Welfare Prize (2002)
+}}
+
+'''Matthew Owen Jackson''' is  the William D. Eberle Professor of [[Economics]] at [[Stanford University]], an external faculty member of the [[Santa Fe Institute]], and a fellow of [[CIFAR]].<ref>{{cite web|url=http://www.stanford.edu/~jacksonm/ |title=Home Page - Matthew O. Jackson |date= |accessdate=2013-02-20}}</ref>  He received his Ph.D. from [[Stanford University]] in 1988. Jackson has been honored with the Social Choice and Welfare Prize,<ref>{{cite web|url=http://www.unicaen.fr/recherche/mrsh/scw/prize |title=Prize &#124; Maison de la Recherche en Sciences Humaines |date= |accessdate=2013-02-20}}</ref> the B.E.Press Arrow Prize for Senior Economists,<ref>{{cite web |url=http://www.bepress.com/arrow.html |title=Berkeley Electronic Press |date= |accessdate=2013-02-20 |archive-url=https://web.archive.org/web/20120910173951/http://www.bepress.com/arrow.html |archive-date=2012-09-10 |url-status=dead }}</ref> and a Guggenheim Fellowship.<ref>{{cite web|url=http://www.caltech.edu/content/matthew-o-jackson-named-guggenheim-fellow |title=Matthew O. Jackson Named Guggenheim Fellow &#124; Caltech |date=2005-04-18 |accessdate=2013-02-20}}</ref> He has served as co-editor of Games and Economic Behavior,<ref>{{cite web|url=http://www.journals.elsevier.com/games-and-economic-behavior/editorial-board/ |title=Games and Economic Behavior Editorial Board |date= |accessdate=2013-02-20}}</ref> the Review of Economic Design,<ref>{{cite web|url=https://www.springer.com/economics/journal/10058?detailsPage=editorialBoard |title=Review of Economic Design – incl. option to publish open access (Editorial Board) |date= |accessdate=2013-02-20}}</ref> and Econometrica.<ref>{{cite web|url=http://www.econometricsociety.org/editors.asp |title=Welcome to the website of The Econometric Society An International Society for the Advancement of Economic Theory in its Relation to Statistics and Mathematics |date= |accessdate=2013-02-20}}</ref> Jackson co-teaches a popular game theory course on Coursera.org,<ref>{{cite web|url=http://game-theory-class.org |title=Coursera.org |publisher=Game-theory-class.org |date= |accessdate=2013-02-20}}</ref> along with [[Kevin Leyton-Brown]] and [[Yoav Shoham]].
+
+Jackson's research concerns [[game theory]], [[microeconomic theory]], and the study of [[Social network|social]] and [[Economics of networks|economic networks]].
+
+== Selected publications ==
+
+* {{cite book |first=Matthew O.|last=Jackson |title=Social and Economic Networks|publisher=[[Princeton University Press]] |year=2010 |page=520 |isbn=978-0691148205}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.stanford.edu/~jacksonm/  Jackson's home page at Stanford University]
+
+{{John von Neumann Award recipients}}
+{{Presidents of the Game Theory Society}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jackson, Matthew O.}}
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:Stanford University Department of Economics faculty]]
+[[Category:Game theorists]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Santa Fe Institute people]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]
+[[Category:Network scientists]]

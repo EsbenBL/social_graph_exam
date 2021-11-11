@@ -1,0 +1,126 @@
+{{Short description|British Economist}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox economist
+| name             = Sir Clive Granger
+| image       = Clive Granger by Olaf Storbeck.jpg
+| image_size       = 240px
+| caption     = Clive Granger in 2008
+| birth_date       = {{Birth date|df=yes|1934|09|04}}
+| birth_place      = [[Swansea]], Wales, U.K.
+| death_date       = {{Death date and age|df=yes|2009|05|27|1934|09|04}}
+| death_place      = [[San Diego]], [[California]], U.S.
+| nationality      = United Kingdom
+| institution      = [[Erasmus University Rotterdam]]<br>[[University of California, San Diego]]<br>[[University of Nottingham]]
+| field            = [[Financial economics]]<br>[[Econometrics]]
+| alma_mater       = [[University of Nottingham]]
+| doctoral_advisor          = [[Harry Pitt]]
+| academic_advisors         =
+| doctoral_students         = [[Mark Watson (economist)|Mark Watson]]<br>[[Tim Bollerslev]]
+| influences       = [[David Hendry]]<br>[[Norbert Wiener]]<br>[[John Denis Sargan]]<br>[[Alok Bhargava]]
+| influenced       = [[Paul Newbold]]<br>[[Christopher Sims]]<br>[[James H. Stock]]<br>[[Mark Watson (economist)|Mark Watson]]
+| contributions    = [[Cointegration]]<br>[[Granger causality]]<br>[[Autoregressive fractionally integrated moving average]]
+| awards           = [[Nobel Memorial Prize in Economic Sciences]] (2003)
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pgr55
+}}
+
+'''Sir Clive William John Granger''' ({{IPAc-en|ˈ|g|r|eɪ|n|dʒ|ər}}; 4 September 1934 – 27 May 2009) was a British [[Econometrics|econometrician]] known for his contributions to nonlinear [[time series]] analysis.<ref>{{cite journal |first=Timo |last=Teräsvirta |year=2017 |title=Sir Clive Granger s contributions to nonlinear time series and econometrics |url=http://pure.au.dk/portal/files/108719021/rp17_04.pdf }}</ref> He taught in Britain, at the [[University of Nottingham]] and in the United States, at the [[University of California, San Diego]]. Granger was awarded the [[Nobel Memorial Prize in Economic Sciences]] in 2003 in recognition of the contributions that he and his co-winner, [[Robert F. Engle]], had made to the analysis of time series data. This work fundamentally changed the way in which economists analyse financial and macroeconomic data.<ref>{{cite news |url=https://www.nytimes.com/2003/10/09/business/09ECON.html |title=Two Professors, Collaborators in Econometrics, Win the Nobel |newspaper=[[The New York Times]] |date=9 October 2003 }}</ref>
+
+==Biography==
+
+===Early life===
+Clive Granger was born in 1934 in [[Swansea]], south [[Wales]], [[United Kingdom]], to Edward John Granger and Evelyn Granger.<ref name=nobelbio>{{Cite book | chapter = Clive W.J. Granger: The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2003 | chapter-url = http://nobelprize.org/nobel_prizes/economics/laureates/2003/granger-autobio.html | publisher = [[The Nobel Foundation]] | title = Les Prix Nobel. The Nobel Prizes 2003 | editor = Tore Frängsmyr | location = Stockholm | year = 2004 }}</ref> The next year his parents moved to [[Lincoln, Lincolnshire|Lincoln]].
+
+During [[World War II]] Granger and his mother moved to [[Cambridge]] because Edward joined the Royal Air Force and deployed to North Africa. Here they stayed first with Evelyn's mother, then later Edward's parents, while Clive began school. Clive would later recall a primary school teacher telling his mother that "[Clive] would never be successful".<ref name=":0">{{Cite web|last=Granger|first=Clive W.J.|date=2003|title=Clive W.J. Granger Biographical|url=https://www.nobelprize.org/prizes/economic-sciences/2003/granger/biographical|access-date=2020-06-28|website=NobelPrize.org|language=en-US}}</ref>  
+
+Clive started secondary school in Cambridge, but continued in [[Nottingham]], where his family moved after the war. Here two teachers encouraged Granger's interest in physics and applied mathematics.<ref>{{Cite book|last=British Academy|url=https://www.thebritishacademy.ac.uk/documents/1476/17_Granger.pdf|title=Biographical Memoirs of Fellows of the British Academy, XII|date=2013|publisher=Oxford University Press|isbn=978-0-19-726393-8|location=Oxford|pages=453–455|oclc=58411642}}</ref> He had anticipated following the convention of completing schooling at age 16 to enter the workforce and saw himself working in a bank or insurance company. However, positive social influence from his peers and support from his father led him to enroll in [[Sixth form|sixth-form]] for two years as preparation for a university degree.<ref name=":0" />
+
+Granger enrolled in a joint degree in economics and mathematics at the [[University of Nottingham]] but switched to full mathematics in his second year. After receiving his BA in 1955, he remained at the University of Nottingham for a PhD in statistics under the supervision of [[Harry Pitt]].<ref name=":0" />
+
+In 1956, aged 21, Granger was appointed a junior lecturer in statistics at the university. His interest in applied statistics and economics led him to choose as the topic of his doctoral thesis [[Time series|time series analysis]], a field in which he felt that relatively little work had been done at the time.<ref name="nobelbio" /> In 1959 Granger completed his PhD degree with a thesis titled "Testing for [[Stationary process|Non-stationarity]]".
+
+===Academic life===
+Granger spent the next academic year, 1959–60, at [[Princeton University]] under a [[Harkness Fellowship]] of the Commonwealth Fund. He had been invited to Princeton by [[Oskar Morgenstern]] to participate in his Econometrics Research Project. Here, Granger and [[Michio Hatanaka]] as assistants to [[John Tukey]] on a project using [[Fourier analysis]] on economic data.
+
+In 1964, Granger and Hatanaka published the results of their research in a book on ''Spectral Analysis of Economic Time Series'' (Tukey had encouraged them to write this themselves, as he was not going to publish the research results.)<ref name="nobelbio" />  In 1963, Granger also wrote an article on "The typical spectral shape of an economic variable", which appeared in ''[[Econometrica]]'' in 1966. Both the book and the article proved influential in the adoption of the new methods.
+
+Granger also became a full professor at the [[University of Nottingham]].
+
+In a 1969 paper in ''Econometrica'', Granger also introduced his concept of [[Granger causality]].
+
+After reading a pre-print copy of the time series book by [[George Box]] and [[Gwilym Jenkins]] in 1968,<ref>{{cite book |first1=George |last1=Box |first2=Gwilym |last2=Jenkins |year=1970 |title=Time Series Analysis, Forecasting and Control |url=https://archive.org/details/timeseriesanalys0000boxg |url-access=registration |location=San Francisco |publisher=Holden-Day }}</ref> Granger became interested in forecasting. For the next few years he worked on this subject with his post-doctoral student, [[Paul Newbold]]; and they wrote a book which became a standard reference in time series forecasting (published in 1977). Using simulations, Granger and Newbold also wrote the famous 1974 paper on [[Spurious relationship|spurious regression]] which led to a re-evaluation of previous empirical work in economics and to the econometric methodology.<ref name=etinterview>{{cite journal |title=The ET Interview: Professor Clive Granger |first=Peter C. B. |last=Phillips |journal=Econometric Theory |volume=13 |issue=2 |year=1997 |pages=253–303 |doi=10.1017/S0266466600005740 }}</ref>
+
+Granger spent 22 years at the University of Nottingham. In 2005, the building that houses the Economics and Geography Departments was renamed the ''Sir Clive Granger Building'' in honor of his Nobel prize award.
+
+In 1974 Granger moved to the [[University of California at San Diego]]. In 1975 he participated in a [[US Bureau of Census]] committee, chaired by [[Arnold Zellner]], on [[seasonal adjustment]]. At UCSD, Granger continued his research on time series, collaborating closely with Nobel prize co-recipient [[Robert Engle]] (whom he helped bring to UCSD), [[Roselyne Joyeux]] (on [[Autoregressive fractionally integrated moving average|fractional integration]]), [[Timo Teräsvirta]] (on [[nonlinear time series]]) and others. Working with Robert Engle, he developed the concept of [[cointegration]], introduced in a 1987 joint paper in ''[[Econometrica]]'';<ref>{{Cite journal | last1 = Engle | first1 = Robert F. | last2 = Granger | first2 = C. W. J. | year = 1987 | title = Co-Integration and Error Correction: Representation, Estimation, and Testing | journal = Econometrica | volume = 55 | issue = 2 | pages = 251–276 | jstor = 1913236  | url =  http://pe.cemi.rssi.ru/pe_2015_3_106-135.pdf| doi=10.2307/1913236}}</ref> for which he was awarded the Nobel prize in 2003.
+
+Granger also supervised many PhD students, including [[Mark Watson (economist)|Mark Watson]] (co-advisor with Robert Engle).<ref>"Interview" by Philipp Harms, [http://www.szgerzensee.ch/fileadmin/Dateien_Anwender/Dokumente/newsletter/July03.pdf ''Study Center Gerzensee Newsletter'', July 2003]</ref>
+
+In later years Granger also used time series methods to analyse data outside economics. He worked on a project forecasting deforestation in the [[Amazon rainforest]].<ref>{{cite book |last1=Granger |first1=C. W. J. |last2=Andersen |first2=L. |last3=Reis |first3=E. |last4=Weinhold |first4=D. |last5=Wunder |first5=S. |year=2002 |title=The Dynamics of Deforestation and Economic Growth in the Brazilian Amazon |publisher=Cambridge University Press }}</ref> In 2003, Granger retired from UCSD as a [[Professor Emeritus]]. He was a Visiting Eminent Scholar of the [[University of Melbourne]] and [[Canterbury University]]. He was a supporter of the [[Campaign for the Establishment of a United Nations Parliamentary Assembly]], an organisation which campaigns for democratic reform of the United Nations.<ref>{{Cite news|url=http://en.unpacampaign.org/supporters/overview/?mapcountry=allhea&mapgroup=hea|title=Overview|work=Campaign for a UN Parliamentary Assembly|access-date=2017-09-26|language=en-US}}</ref>
+
+Granger was married to Patricia (Lady Granger) from 1960 until his death. He is survived by their son, Mark William John, and their daughter, Claire Amanda Jane.<ref name=nobelbio/>
+
+Granger died on 27 May 2009, at Scripps Memorial Hospital in [[La Jolla, California]].<ref name="NYT_Obit" >{{Cite news | url = https://www.nytimes.com/2009/05/31/business/31granger.html | title = Clive Granger, Economist, Dies at 74 | journal=The New York Times | author = Anahad O'Connor | date = 30 May 2009 }}</ref>
+
+==Honors and awards==
+In 2003, Granger and his collaborator Robert Engle were jointly awarded the [[Nobel Memorial Prize in Economic Sciences]]. He was made a [[Knight Bachelor]] in the New Year's Honours in 2005.<ref>[http://www.econ.canterbury.ac.nz/sir_clive.shtml "Canterbury Distinguished Professor Clive Granger awarded a Knighthood in New Year’s Honours"] {{webarchive|url=https://web.archive.org/web/20070709153435/http://www.econ.canterbury.ac.nz/sir_clive.shtml |date=9 July 2007 }}, University of Canterbury news, 2006</ref>
+
+Granger was a fellow of the [[Econometric Society]] since 1972 and a Corresponding Fellow of the [[British Academy]] since 2002. In 2004, he was voted as one of the [[100 Welsh Heroes]].
+
+==See also==
+* [[Gabor–Granger method]]
+* [[Granger causality]]
+
+==Publications==
+* {{cite journal |author=Granger, C. W. J. |title=The typical spectral shape of an economic variable |journal=[[Econometrica]]|year=1966 |volume=34 |pages=150–161 |doi=10.2307/1909859 |issue=1 |jstor=1909859}}
+* {{cite journal |author=Granger, C. W. J. |title=Investigating causal relations by econometric models and cross-spectral methods |journal=Econometrica|year=1969 |volume=37 |pages=424–438 |doi=10.2307/1912791 |issue=3 |jstor=1912791}}
+* {{cite journal |author1=Granger, C. W. J.  |author2=Bates, J. |title=The combination of forecasts |journal= Journal of the Operational Research Society|year=1969 |volume=20 |pages=451–468 |doi=10.1057/jors.1969.103 |issue=4}}
+* {{cite book |author1=Granger, C. W. J.  |author2=Hatanaka, M. |title=Spectral Analysis of Economic Time Series |url=https://archive.org/details/spectralanalysis00gran  |url-access=registration  |year=1964 |publisher=[[Princeton University Press]] |location=Princeton, NJ |isbn=978-0-691-04177-3}}
+* {{cite book | last1=Morgenstern | first1=Oskar | author-link1=Oskar Morgenstern |  last2=Granger| first2=Clive W. J. | title=Predictability of stock market prices | publisher=Lexington Books (D. C. Heath and Company) | year=1970 | location=Lexington, Massachusetts | pages=xxiii+303}}
+* {{cite journal |author1=Granger, C. W. J.  |author2=Joyeux, R. |title=An introduction to long-memory time series models and fractional differencing |journal=Journal of Time Series Analysis |year=1980 |volume=1 |pages=15–30 |doi=10.1111/j.1467-9892.1980.tb00297.x}}
+* {{cite journal |author1=Granger, C. W. J.  |author2=Newbold, P. |title=Spurious regressions in econometrics|journal=Journal of Econometrics|year=1974 |volume=2 |pages=111–120 |doi=10.1016/0304-4076(74)90034-7 |issue=2|citeseerx=10.1.1.353.2946 }}
+* {{cite book |author1=Granger, C. W. J.  |author2=Newbold, P. |title=Forecasting Economic Time Series |url=https://archive.org/details/forecastingecono00gran_0  |url-access=registration  |year=1977 |publisher=Academic Press }}
+* {{Cite journal | last1 = Engle | first1 = Robert F. | author-link1 = Robert Engle | last2 = Granger | first2 = C. W. J. | year = 1987 | title = Co-Integration and Error Correction: Representation, Estimation, and Testing | journal = Econometrica | volume = 55 | issue = 2 | pages = 251–276 | jstor = 1913236 | url =http://pe.cemi.rssi.ru/pe_2015_3_106-135.pdf  | doi=10.2307/1913236}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2003/index.html Winner page] on the official [[Nobel Foundation]] website
+* {{Nobelprize|name=Clive W.J. Granger}}
+* [http://www.irishtimes.com/newspaper/ireland/2008/0909/1220629651456.html More maths good for economy&nbsp;– Nobel laureate]
+* [https://www.telegraph.co.uk/news/obituaries/finance-obituaries/5407598/Professor-Sir-Clive-Granger.html Sir Clive Granger] – Daily Telegraph obituary
+* {{Cite encyclopedia |title=Clive W. J. Granger (1934– ) |url=http://www.econlib.org/library/Enc/bios/Granger.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Daniel Kahneman]] | before2 = [[Vernon L. Smith]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 2003 | alongside = [[Robert F. Engle III]] }}
+{{s-aft | after = [[Finn E. Kydland]] | after2 = [[Edward C. Prescott]] }}
+{{s-end}}
+
+{{Nobel laureates in economics 2001–2025}}
+{{2003 Nobel Prize winners}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Granger, Clive}}
+[[Category:Academics of the University of Nottingham]]
+[[Category:Alumni of the University of Nottingham]]
+[[Category:British economists]]
+[[Category:British expatriates in the United States]]
+[[Category:British Nobel laureates]]
+[[Category:Econometricians]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Knights Bachelor]]
+[[Category:Nobel laureates in Economics]]
+[[Category:People from Swansea]]
+[[Category:Time series econometricians]]
+[[Category:University of California, San Diego faculty]]
+[[Category:Welsh statisticians]]
+[[Category:1934 births]]
+[[Category:2009 deaths]]
+[[Category:20th-century economists]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Corresponding Fellows of the British Academy]]

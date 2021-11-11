@@ -1,0 +1,79 @@
+{{Infobox scientist
+| name        = William H. Riker
+| image       =         <!--(filename only, i.e. without "File:" prefix)-->
+| alt         = 
+| caption     = 
+| birth_date  = {{birth date |1920|9|22|mf=y}}
+| birth_place = [[Des Moines, Iowa]], U.S.
+| death_date  = {{death date and age |1993|6|26|1920|9|22|mf=y}}
+| death_place = [[Rochester, New York]], U.S.
+| spouse      = {{marriage|Mary Elizabeth Lewis|1943|}}
+| nationality = [[United States|American]]
+| fields      = [[Political science]]
+| workplaces  = {{ubl|[[Lawrence University]]|[[University of Rochester]]}}
+| alma_mater  = {{ubl|[[DePauw University]]|[[Harvard University]]}}
+| doctoral_advisor =  
+| doctoral_students = 
+| known_for   = 
+| awards      = 
+}}
+
+'''William Harrison Riker''' (September 22, 1920 – June 26, 1993) was an American [[political scientist]] who is prominent for applying [[game theory]] and [[mathematics]] to political science.<ref>{{Citation|last=Aldrich|first=John|title=William H. Riker|date=2004|url=https://doi.org/10.1007/978-0-306-47828-4_28|encyclopedia=The Encyclopedia of Public Choice|pages=321–324|editor-last=Rowley|editor-first=Charles K.|publisher=Springer US|language=en|doi=10.1007/978-0-306-47828-4_28|isbn=978-0-306-47828-4|access-date=2020-05-09|editor2-last=Schneider|editor2-first=Friedrich}}</ref><ref name=":0">{{Cite news|last=Cohn|first=Jonathan|date=1999-10-25|title=Irrational Exuberance|work=The New Republic|url=https://newrepublic.com/article/78956/political-science-irrational-exuberance|access-date=2021-11-03|issn=0028-6583}}</ref> He helped to establish [[Rochester school|University of Rochester]] as a center of [[Political science#Behavioral revolution and new institutionalism|behavioral revolution]] in political science.<ref>{{Cite journal|last1=Amadae|first1=S. M.|last2=Bueno De Mesquita|first2=Bruce|year=1999|title=THE ROCHESTER SCHOOL: The Origins of Positive Political Theory|journal=Annual Review of Political Science|volume=2|pages=269–295|doi=10.1146/annurev.polisci.2.1.269|doi-access=free}}</ref><ref name=":0" />
+
+==Early life==
+William Harrison Riker was born on September 22, 1920, in [[Des Moines, Iowa]]. He had 4 children, 2 sons and 2 daughters with wife Mary Elizabeth.<ref>{{cite book |last1=Aldrich |first1=John |title=The Encyclopedia of Public Choice |chapter=William H. Riker |year=2003 |page=321 |doi=10.1007/978-0-306-47828-4_28 |isbn=978-0-7923-8607-0 |chapter-url=https://link.springer.com/chapter/10.1007/978-0-306-47828-4_28 |access-date=25 January 2021}}</ref> He earned his bachelor's degree in economics at Indiana's [[DePauw University]] in 1942 and received his Ph.D at [[Harvard University]] in 1948. While a student at DePauw, he was initiated into the [[Delta Kappa Epsilon]] fraternity.<ref>{{cite book|title=The Mirage|year=1942|publisher=DePauw University|location=Greencastle, IN|pages=67}}</ref> Before his Ph.D, Riker worked at the [[RCA]] (then Radio Corporation of America), where he worked as a time-and-motion analyst.<ref>{{cite web |last1=Munro |first1=André |title=William H. Riker |url=https://www.britannica.com/biography/William-Riker |website=Britannica |access-date=25 January 2021}}</ref>
+
+==Career==
+Riker took on a professorship at [[Lawrence University]] in [[Appleton, Wisconsin]] (then Lawrence College), where he published ''[[The Theory of Political Coalitions]]'' (1962). In 1962, he became the chair of the Political Science Department at the [[University of Rochester]], where he remained chair until 1977, and remained active until his death.
+
+Riker was elected to the [[National Academy of Sciences]] in 1974.<ref name=":0" />
+
+Riker founded the now-mainstream field of [[positive political theory]], which introduced [[game theory]] and the axiomatic method of [[social choice theory]] to [[political science]].<ref>{{Cite book |author=Eamonn Butler |author-link=Eamonn Butler |title=Public Choice—A Primer |location=London |publisher=[[Institute of Economic Affairs]] |year=2012 |page=36 |url=http://www.iea.org.uk/sites/default/files/publications/files/IEA%20Public%20Choice%20web%20complete%2029.1.12.pdf |type=PDF}}</ref> [[Bruce Bueno de Mesquita]] and Kenneth Shepsle in their memoir write that "These have proved crucial to predictive tests for political theory."<ref>{{Cite web |title=William Harrison Riker |last1=Bueno de Mesquita |first1=Bruce |author-link1=Bruce Bueno de Mesquita |last2=Shepsle |first2=Kenneth |series=Biographical Memoirs |publisher=National Academy of Sciences |url=http://www.nap.edu/html/biomems/wriker.html |access-date=2013-09-18}}</ref>
+Riker is also often credited with being the founder of [[rational choice theory]]<ref>{{cite web |last1=Roskin |first1=Michael G. |title=Political science |url=https://www.britannica.com/topic/political-science/Theory-of-rational-choice |access-date=25 January 2021}}</ref> with his work on applying economic theory to mathematical models of politics.
+
+Among other contributions, Riker is known for work on the theory and history of [[federalism]] and on what he called "[[heresthetic]]"—the art of changing political outcomes without changing peoples' underlying preferences by manipulating the decision-making process, for example by changing the order in which decisions are made. In his book ''Liberalism Against Populism'', he argued that the instability of majority rule, demonstrated in [[Arrow's impossibility theorem]] and the [[McKelvey–Schofield chaos theorem]], meant that "populist" interpretations of democracy as implementing a collective will of the people were untenable. Instead, democratic leaders aimed to build disparate coalitions; a piece of successful coalition-building could cause realigning elections, in which blocs of voters swiftly changed their allegiance.
+
+Concerning political coalition for the benefit of minorities, Riker argued that the larger the coalition, the shorter-lived it is.<ref>[[Eamonn Butler]], ''Public Choice: A Primer'', London: [[Institute of Economic Affairs]], 2012, p. 63</ref> In his book The Theory of Political Coalitions (1962), Riker argued that in situations where there is conflict over finite resources, actors will seek to create coalitions that are large enough to ensure that they get access to the resources, but that the coalitions will not be larger than that (because the actors will not want to dilute the resources more than they have to).
+
+The William H. Riker Prize for excellence in undergraduate teaching is awarded by the University of Rochester bi-annually in his honor. The Political Economy section of the American Political Science Association awards an annual book prize in his name as well.
+
+==Publications==
+*Riker, William H. ''Soldiers of the States: The Role of the National Guard in American Democracy''. Washington: [[Public Affairs Press]], 1957.
+*____.  “The Paradox of Voting and Congressional Rules for Voting on. Amendments.” ''American Political Science Review''. ''52'', 1958: 349–366.
+*____. ''[[The Theory of Political Coalitions]]''. New Haven: Yale University Press, 1962.
+*____. "Federalism: Origin, Operation, Significance". Boston: Little, Brown, 1964.
+*____. "Towards a Positive Political Theory", Englewood Cliffs, NJ: Prentice Hall, 1973.
+*____. "Implications from the Disequilibrium of Majority Rule for the Study of Institutions," ''American Political Science Review'', ''74'', 1980: 432–446. {{Jstor|1960638}}
+*____. ''Liberalism Against Populism''. San Francisco: W. H. Freeman, 1982.
+*____. "The Heresthetics of Constitution-Making: The Presidency in 1787, with Comments on Determinism and Rational Choice." ''American Political Science Review'', ''78'', 1984: 1–16.
+*____. ''The Art of Political Manipulation''. New Haven: Yale University Press, 1986.
+*____. ''The Strategy of Rhetoric''. New Haven: Yale University Press, 1996.
+
+==See also==
+*[[Duverger's law]]
+
+==Notes==
+{{Reflist}}
+
+==External links==
+{{wikiquote}}
+*[https://www.nap.edu/read/10169/chapter/17 NAS memoir of William H. Riker] with discussion of his contributions
+*[http://rhetorica.net/heresthetics.htm Heresthetics]: an exposition of Riker's concept for structuring the world so
+*[https://web.archive.org/web/20080516204123/http://www.rochester.edu/college/psc/news/riker.php William H Riker Prize]: administered by the University of Rochester, Department of Political Science
+
+{{American Political Science Association presidents|state=uncollapsed}}
+{{Authority control}}
+
+{{DEFAULTSORT:Riker, William H.}}
+[[Category:1920 births]]
+[[Category:1993 deaths]]
+[[Category:American political scientists]]
+[[Category:American political philosophers]]
+[[Category:Voting theorists]]
+[[Category:DePauw University alumni]]
+[[Category:Lawrence University faculty]]
+[[Category:Harvard University alumni]]
+[[Category:University of Rochester faculty]]
+[[Category:People from Des Moines, Iowa]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Shortridge High School alumni]]

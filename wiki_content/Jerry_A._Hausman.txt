@@ -1,0 +1,64 @@
+{{Infobox economist
+| name             = Jerry A. Hausman
+| school_tradition =
+| color            = <!-- lightsteelblue -->
+| image       =
+| image_size       =
+| caption    =
+| birth_date       = {{Birth date and age|1946|05|05}}
+| birth_place      = [[Weirton, West Virginia]]
+| death_date       =
+| death_place      =
+| nationality      = [[United States]]
+| institution      = [[Massachusetts Institute of Technology|MIT]]
+| field            = [[Econometrics]]
+| alma_mater       = [[Nuffield College, Oxford]] <small>(Ph.D.)</small><br>[[Brown University]] <small>(B.A.)</small>
+| doctoral_advisor = 
+| academic_advisors= 
+| doctoral_students= [[Halbert White]]<br>[[Roger H. Gordon]]<ref>{{cite thesis |last= Gordon |first= Roger Hall |date= 1976 |title= Essays on the causes and equitable treatment of differences in earnings and ability |type= Ph.D. |publisher= [[MIT]] |url= http://library.mit.edu/item/000029358 |access-date= 21 January 2017 }}</ref><br>[[Whitney K. Newey]]<ref>[https://dspace.mit.edu/bitstream/handle/1721.1/15496/11246206-MIT.pdf?sequence=2 Specification testing and estimation using a generalized method of moments]</ref><br>[[Andrew Lo]]<br>[[Jeffrey R. Kling]]<ref>{{cite thesis |last= Kling |first= Jeffrey Richard |date= 1998 |title= Identifying causal effects of public policies |type= Ph.D. |publisher= [[MIT]] |hdl= 1721.1/10114 }}</ref><br>[[Yacine Ait-Sahalia]]<ref>[https://dspace.mit.edu/handle/1721.1/12689 Nonparametric functional estimation with applications to financial models]</ref>
+| contributions    = [[Hausman specification test]]
+| awards           = [[John Bates Clark Medal]] (1985)<br>[[Frisch medal|Frisch Medal]] (1980)
+| signature        = <!-- file name only -->
+| repec_prefix = f  | repec_id = pha893
+}}
+
+'''Jerry Allen Hausman''' (born May 5, 1946) is the John and Jennie S. MacDonald Professor of [[Economics]] at the [[Massachusetts Institute of Technology]] and a notable [[econometrician]].  He has published numerous influential papers in microeconometrics. Hausman is the recipient of several prestigious awards including the [[John Bates Clark Medal]] in 1985 and the [[Frisch medal|Frisch Medal]] in 1980.
+
+He is perhaps most well known for his development of the [[Durbin-Wu-Hausman test]], the first easy method allowing scientists to evaluate if their [[statistical model]]s correspond to the data.{{citation needed|date=September 2014}}
+
+He has done extensive work in the field of [[telecommunication]]s, and is also recognized as an expert on [[antitrust]] and [[Mergers and acquisitions|mergers]], [[public finance]] and [[tax]]ation, and [[regulation]].  Hausman also serves as the director of the MIT Telecommunications Economics Research Program.
+
+His recent applied papers are on topics including the effect of new goods on economic welfare and their measurement in the [[Consumer Price Index|CPI]], new telecommunications technologies including cellular [[3G]] and [[broadband]], regulation of telecommunications and railroads, and competition in [[network markets]]. His recent econometrics papers include estimation of [[difference in difference]] models, [[semi-parametric duration models]], [https://economics.mit.edu/files/14516 mixed logit model, weak instruments], and [[errors in variables]] in non-standard situations.
+
+Hausman received his [[Bachelor of Arts|B.A.]] from [[Brown University]] summa cum laude in 1968, and his [[Doctor of Philosophy|Ph.D.]] from [[Nuffield College, Oxford|Nuffield College]], [[Oxford University]], where he was a [[Marshall Scholar]], in 1973,<ref>{{MathGenealogy|id=46609}}</ref> with thesis titled ''Theoretical and empirical aspects of vintage capital models''.<ref>{{cite web | url= http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.458576 | title = Theoretical and empirical aspects of vintage capital models | publisher = British Library EThOS | access-date = 17 May 2013}}</ref>
+
+==Selected publications==
+* {{cite journal |last1=Hausman |first1=Jerry A. |last2=Griliches |first2=Zvi |author2-link=Zvi Griliches |author-mask=3 |title=Errors in Variables in Panel Data |journal=[[Journal of Econometrics]] |volume=31 |issue=1 |year=1986 |pages=93–118 |doi=10.1016/0304-4076(86)90058-8 |s2cid=86867575 |url=http://www.nber.org/papers/t0037.pdf }}
+* {{cite journal |last1=Hausman |first1=Jerry A. |last2=McFadden |first2=Daniel |author2-link=Daniel McFadden |author-mask=3 |title=Specification Tests for the Multinomial Logit Model  |journal=[[Econometrica]] |volume=52 |issue=5 |year=1984 |pages=1219–1240 |jstor=1910997 |doi=10.2307/1910997|hdl=1721.1/64213 |hdl-access=free }}
+* {{cite journal |last1=Hausman |first1=Jerry A. |last2=Taylor |first2=William E. |author-mask=3 |title=Panel Data and Unobservable Individual Effects |journal=Econometrica |volume=49 |issue=6 |year=1981 |pages=1377–1398 |jstor=1911406 |doi=10.2307/1911406|hdl=1721.1/64044 |url=http://dspace.mit.edu/bitstream/1721.1/64044/1/paneldataunobser00haus.pdf |hdl-access=free }}
+* {{cite journal |last=Hausman |first=Jerry A. |author-mask=3  |title=Specification Tests in Econometrics |journal=Econometrica |volume=46 |issue=6 |year=1978 |pages=1251–1271 |jstor=1913827 |doi=10.2307/1913827|hdl=1721.1/64309 |url=http://dspace.mit.edu/bitstream/1721.1/64309/1/specificationtes00haus.pdf |hdl-access=free }}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://econ-www.mit.edu/faculty/hausman Hausman's faculty page at MIT]
+
+{{Frisch Medal recipients}}
+{{John Bates Clark Medal recipients}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hausman, Jerry A.}}
+[[Category:21st-century American economists]]
+[[Category:20th-century American economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Econometricians]]
+[[Category:Marshall Scholars]]
+[[Category:Brown University alumni]]
+[[Category:Alumni of Nuffield College, Oxford]]
+[[Category:Fellows of Nuffield College, Oxford]]
+[[Category:Living people]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences faculty]]
+[[Category:1946 births]]
+[[Category:Distinguished Fellows of the American Economic Association]]

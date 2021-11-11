@@ -1,0 +1,63 @@
+{{Infobox person
+| name = Eli Heckscher
+| image = Eli Heckscher.jpg
+| birth_date = {{Birth date|1879|11|24|df=yes}}
+| birth_place = [[Stockholm]]
+| death_date = {{Death date and age|1952|12|23|1879|11|24|df=yes}}
+| death_place = Stockholm
+}}
+'''Eli Filip Heckscher''' (24 November 1879 – 23 December 1952) was a Swedish [[Political economy|political economist]] and [[Economic history|economic historian]].
+
+==Biography==
+Heckscher was born in Stockholm, son of the Jewish Danish-born businessman Isidor Heckscher and his spouse Rosa Meyer, and completed his secondary education there in 1896. He conducted higher studies at [[Uppsala University]] (from 1897) and [[Gothenburg University College]]<ref>{{Cite web|url=https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12680&forceOrdinarySite=true#Arkivuppgifter|title=Eli F Heckscher – Svenskt Biografiskt Lexikon|website=sok.riksarkivet.se}}</ref> (in 1898), completing his PhD in Uppsala in 1907. He was professor of Political economy and Statistics at the [[Stockholm School of Economics]] from 1909 until 1919, when he exchanged that chair for a research professorship in [[economic history]], finally retiring as emeritus professor in 1945. In 1929 Heckscher founded the Institute for Economic and Business History Research as a key step in his effort to create the field of economic history in Sweden, and make it a policy-oriented science. He advanced his agenda by recruiting two other scholars, historian Bertil Boëthius (1885–1974) and economist Arthur Montgomery.  Thereby the "Stockholm School" emerged and achieved a voice in government planning.<ref>Hasselberg, 2006</ref>
+
+Eli Heckscher's son was [[Gunnar Heckscher]] (1909–1987), a political scientist and the leader of what would later become the [[Swedish Moderate Party]] 1961–1965. His grandson is the [[Socialdemokratiska arbetarpartiet|Social Democratic]] politician [[Sten Heckscher]].
+
+By 1950 Heckscher had published 1148 books and articles. Well known were his study of [[Mercantilism]], which was translated into several languages, and a monumental Economic history of Sweden in several volumes.<ref>Donald Cuthbert Coleman, "Eli Heckscher and the idea of mercantilism." ''Scandinavian Economic History Review'' 5.1 (1957): 3–25.</ref>  
+
+Heckscher's most important work, though, is his [[1919]] article “The Effect of Foreign Trade on the Distribution of Income."<ref>Heckscher, E. (1919). The Effect of Foreign Trade on the Distribution of Income. Ekonomisk Tidskrift, 497-512. Reprinted as Chapter 13 in A.E.A. (1949). Readings in the Theory of International Trade, 272-300 (Philadelphia: Blakiston) with a Translation in H. Flam and M. J. Flanders (Eds.). 1991. Heckscher-Ohlin Trade Theory, 43-69. Cambridge: MIT Press.</ref> In this article, Heckscher provided a model explaining patterns in [[international trade]] now known as the ([[Heckscher-Ohlin model]]). Heckscher's   “The Effect of Foreign Trade on the Distribution of Income" was groundbreaking but originally gained little attention for several reasons. First,  Hecksher published the article in the Swedish journal ''Ekonomisk Tidskrift'' in [[Swedish language|Swedish]], a language with comparatively less international access. Second, even those reading Swedish and following Hecksher may have overlooked this particular article at first since Heckscher was so prolific (he published 1148 articles and books). Finally, Heckscher was a [[Jews|Jew]] which was a factor because, just as the significance of the article became apparent beyond Sweden, the rise of [[anti-Semitism]] globally and [[Nazi|Nazism]] bans on Jewish authors arguably delayed its greater recognition until after [[World War II]]. Heckscher's famous former student [[Bertil Ohlin]] at the [[Stockholm School of Economics]] (who himself succeeded Heckscher as professor there), signicantly expanded on Hecksher's theory, giving it more support and a wider audience. Ohlin won the [[Nobel Memorial Prize in Economic Sciences]] in 1977 long after Heckscher's death.
+
+== Heckscher–Ohlin theorem ==
+{{Main|Heckscher–Ohlin theorem}}
+The Heckscher–Ohlin Theorem, which is concluded from the [[Heckscher–Ohlin model]] of international trade, states: trade between countries is in proportion to their relative amounts of capital and labor. In countries with an abundance of capital, wage rates tend to be high; therefore, labor-intensive products, e.g. textiles, simple electronics, etc., are more costly to produce internally. In contrast, capital-intensive products, e.g. automobiles, chemicals, etc., are less costly to produce internally. Countries with large amounts of capital will export capital-intensive products and import labor-intensive products with the proceeds. Countries with high amounts of labor will do the reverse.
+
+The following conditions must be true:
+* The major factors of production, namely labor and capital, are not available in the same proportion in both countries.
+* The two goods produced either require more capital or more labor.
+* Labor and capital do not move between the two countries.
+* There are no costs associated with transporting the goods between countries.
+* The citizens of the two trading countries have the same needs.
+
+The theory does not depend on total amounts of capital or labor, but on the amounts per worker. This allows small countries to trade with large countries by specializing in production of products that use the factors which are more available than its trading partner. The key assumption is that capital and labor are not available in the same proportions in the two countries. That leads to specialization, which in turn benefits the country's economic welfare. The greater the difference between the two countries, the greater the gain from specialization.
+
+==References==
+<references />
+
+==Sources==
+*Bertil Ohlin, "Heckscher, Eli Filip", ''[[Svenskt biografiskt lexikon]]'', vol. 18, pp.&nbsp;376–381.
+
+==Further reading==
+{{Portal|Sweden|Biography|Economics}}
+* Carlson, Benny, and Lars Jonung. "Knut Wicksell, Gustav Cassel, Eli Heckscher, Bertil Ohlin and Gunnar Myrdal on the role of the economist in public debate." ''Econ Journal Watch'' 3.3 (2006): 511+ [https://staging.econjwatch.org/File+download/119/2006-09-carlsonjonung-char-issue.pdf online].
+* Coleman, Donald Cuthbert,  "Eli Heckscher and the idea of mercantilism." ''Scandinavian Economic History Review'' 5.1 (1957): 3–25 [https://www.tandfonline.com/doi/pdf/10.1080/03585522.1957.10411389 online].
+* Hasselberg, Ylva. "Networks and Scientific Integrity: Eli Heckscher and the Construction of Economic History in Sweden, 1920–1950." ''Scandinavian Economic History Review'' 54.3 (2006): 273–290.
+*''Eli Heckscher, International Trade, and Economic History'', Findlay, Ronald, Rolf G. H. Henriksson, Håkan Lindgren and Mats Lundahl, eds., The MIT Press, 2007.
+* {{cite book |last=Heckscher|first=Eli F.|year=1922 |editor-last=Westergaard |editor-first= Harald |title= The Continental System: An Economic Interpretation |edition= 1 |publisher= At the Clarendon Press  |location=Oxford  |url= https://archive.org/stream/continentalsyste00heckuoft#page/n7/mode/2up|access-date= 2 June 2016 |via= Internet Archive }}
+
+==External links==
+* {{Internet Archive author |sname= Eli Heckscher}}
+{{Authority control}}
+
+{{DEFAULTSORT:Heckscher, Eli}}
+[[Category:1879 births]]
+[[Category:1952 deaths]]
+[[Category:Writers from Stockholm]]
+[[Category:Swedish economists]]
+[[Category:Swedish historians]]
+[[Category:Swedish Jews]]
+[[Category:Jewish historians]]
+[[Category:Economic historians]]
+[[Category:Trade economists]]
+[[Category:Uppsala University alumni]]
+[[Category:University of Gothenburg alumni]]
+[[Category:Stockholm School of Economics faculty]]

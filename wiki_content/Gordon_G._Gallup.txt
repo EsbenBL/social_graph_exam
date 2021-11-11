@@ -1,0 +1,40 @@
+{{Infobox person
+|birth_date={{Birth year and age|1941}}
+}}
+'''Gordon G. Gallup Jr.''' ({{IPAc-en|ˈ|g|æ|l|ə|p}}; born 1941) is an American [[psychologist]] in the [[University at Albany, SUNY|University at Albany's]] [[psychology]] department, researching [[biopsychology]].
+
+==Early life and education==
+Gallup received his [[Doctor of Philosophy|Ph.D.]] from [[Washington State University]] in 1968, after which he joined the faculty of the psychology department at [[Tulane University]].
+
+==Career==
+He is best known for developing the [[mirror test]], also called the mirror self-recognition test, or MSR, in 1970, which gauges [[self-awareness]] of animals. In 1975, Gallup moved to the University at Albany.
+
+During his tenure at Tulane, Gallup also developed a research interest in tonic immobility, or "animal hypnosis," which he continued at the University at Albany. His later work on animal behavior focused on ethological approaches to the study of animal behavior under laboratory conditions, which he pursued with Susan Suarez in the 1980s.
+
+Since the 1990s, Gallup has researched human [[evolutionary psychology]] exclusively. Gallup's article entitled "Does Semen Have Antidepressant Properties?"<ref>Gallup, G. G., Jr., Burch, R. L., & Platek, S. M.  (2002). Does semen function as an antidepressant? ''Archives of Sexual Behavior'', 31, 289-293.</ref> attracted the attention of the media<ref>[https://www.newscientist.com/article.ns?id=dn2457 Raj Persaud (2002). Semen acts as an anti-depressant. ''New Scientist''.]</ref> when it was published in 2002. Gallup commented, "I want to make it clear that we are not advocating that people abstain from using condoms. Clearly, an unwanted pregnancy or a sexually transmitted disease would more than offset any advantageous psychological effects of semen."<ref>{{Cite web|last=Persaud|first=Raj|title=Feeling good? you'll never guess why|url=https://www.newscientist.com/article/mg17423490-400-feeling-good-youll-never-guess-why/|access-date=2020-09-07|website=New Scientist|language=en-US}}</ref>
+
+== Publications ==
+*{{Cite journal|last=Gallup|first=Gordon G.|date=1970|title=Chimpanzees: Self-Recognition|journal=[[Science (journal)|Science]]|language=en|volume=167|issue=3914|pages=86–87|doi=10.1126/science.167.3914.86|pmid=4982211}}
+*{{Cite journal|last=Gallup|first=Gordon G.|date=1977|title=Self recognition in primates: A comparative approach to the bidirectional properties of consciousness.|journal=American Psychologist|language=en|volume=32|issue=5|pages=329–338|doi=10.1037/0003-066X.32.5.329}}
+*{{Cite journal|last1=Gallup|first1=Gordon G.|last2=Burch|first2=Rebecca L.|last3=Platek|first3=Steven M.|date=2002|title=Does semen have antidepressant properties?|journal=Archives of Sexual Behavior|volume=31|issue=3|pages=289–293|doi=10.1023/A:1015257004839|pmid=12049024}}
+*{{Cite journal|last1=Hughes|first1=Susan M.|last2=Dispenza|first2=Franco|last3=Gallup|first3=Gordon G.|date=2004|title=Ratings of voice attractiveness predict sexual behavior and body configuration|journal=Evolution and Human Behavior|language=en|volume=25|issue=5|pages=295–304|doi=10.1016/j.evolhumbehav.2004.06.001}}
+*{{Cite journal|last1=Platek|first1=Steven M|last2=Burch|first2=Rebecca L|last3=Panyavin|first3=Ivan S|last4=Wasserman|first4=Brett H|last5=Gallup|first5=Gordon G|date=2002|title=Reactions to children's faces: Resemblance affects males more than females|journal=Evolution and Human Behavior|language=en|volume=23|issue=3|pages=159–166|doi=10.1016/S1090-5138(01)00094-0}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20160618085730/http://www.albany.edu/psychology/20915.php Faculty page]
+*[http://www.evolutionarypsych.com/ Human Behavior and Evolution Laboratory]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gallup, Gordon G.}}
+[[Category:American psychologists]]
+[[Category:Living people]]
+[[Category:University at Albany, SUNY faculty]]
+[[Category:Washington State University alumni]]
+[[Category:1941 births]]
+
+
+{{US-psychologist-stub}}

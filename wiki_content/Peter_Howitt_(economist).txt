@@ -1,0 +1,56 @@
+{{Short description|Canadian economist}}
+{{Infobox economist
+| name        = Peter W. Howitt
+| school_tradition = 
+| image       = 
+| image_size  = 
+| caption     = 
+| birth_date  = {{birth date and age|1946|5|31|mf=y}}
+| birth_place = 
+| death_date  = 
+| death_place = 
+| nationality = [[Canadians|Canadian]]
+| institution = [[Brown University]]
+| field       = [[Growth theory|New Dynamics]], [[Monetary economics]], [[Macroeconomics]]
+| alma_mater  = [[Northwestern University]]<br>[[University of Western Ontario]]<br>[[McGill University]]
+| doctoral_advisor  = [[John O. Ledyard]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| influences  = 
+| influenced  = 
+| contributions = 
+| awards      =
+| repec_prefix = e | repec_id = pho22
+}}
+
+'''Peter Wilkinson Howitt''' (born May 31, 1946) is a Canadian economist. He is the Lyn Crost Professor of Social Sciences at [[Brown University]]. Howitt is a Fellow of the [[Econometric Society]] since 1994 and a Fellow of [[Royal Society of Canada]] since 1992. He served as President of the [[Canadian Economics Association]] in 1993–1994 and was the editor of the ''[[Journal of Money, Credit, and Banking]]'' in the period 1997–2000.{{Citation needed|date=March 2014}} For 2019 he received the [[BBVA Foundation Frontiers of Knowledge Awards|BBVA Foundation Frontiers of Knowledge Award]] in Economics.<ref>[https://www.frontiersofknowledgeawards-fbbva.es/ BBVA Foundation Frontiers of Knowledge Awards 2019]</ref>
+
+==Selected works==
+
+=== Books ===
+* {{cite book | last1 = Howitt | first1 = Peter | last2 = Aghion | first2 = Philippe | author-link2 = Philippe Aghion | title = Endogenous growth theory | publisher = MIT Press | location = Cambridge, Massachusetts | year = 1998 | isbn = 9780262011662 | url-access = registration | url = https://archive.org/details/endogenousgrowth0000aghi }}
+
+=== Papers ===
+* {{cite book | last1 = Howitt | first1 = Peter | last2 = Clower | first2 = Robert | author-link2 = Robert Clower | title = The emergence of economic organization | location = Cleveland | year = 1999 }}<ref name=Emergence>{{cite web|title=The Emergence of Economic Organization|url=http://www.clevelandfed.org/research/conferences/1999/september/org.pdf|publisher=www.clevelandfed.org|accessdate=12 March 2014|url-status=dead|archiveurl=https://web.archive.org/web/20140821054825/http://www.clevelandfed.org/research/conferences/1999/september/org.pdf|archivedate=21 August 2014}}</ref>
+
+==References==
+{{reflist}}
+
+==External sources==
+* [http://www.econ.brown.edu/fac/Peter_Howitt/cv.pdf Academic CV]
+* [https://web.archive.org/web/20110717090449/http://www.cdhowe.org/pdf/commentary_246.pdf Innovation, Competition and Growth: A Schumpeterian Perspective on Canada's Economy]
+* {{Scopus id}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Howitt, Peter}}
+[[Category:1946 births]]
+[[Category:Living people]]
+[[Category:Canadian economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:McGill University alumni]]
+[[Category:University of Western Ontario alumni]]
+[[Category:Northwestern University alumni]]
+[[Category:Brown University faculty]]

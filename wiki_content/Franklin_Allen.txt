@@ -1,0 +1,79 @@
+{{short description|British economist and academic|bot=PearBOT 5}}
+{{Multiple issues|{{More footnotes|date=December 2010}}{{BLP sources|date=December 2010}}}} 
+{{Use dmy dates|date=October 2019}} 
+{{use British English|date=July 2017}}
+{{Infobox economist
+| name        = Franklin Allen
+| school_tradition = 
+| image       = 
+| image_size  = 
+| caption     = 
+| birth_date  = {{Birth date and age|df=y|1956|03|06}}
+| birth_place = 
+| death_date  = 
+| death_place = 
+| nationality = 
+| institution = {{plain list|
+* [[University of Pennsylvania]]
+* [[Imperial College London]] }}
+| field       = [[Financial economics]]
+| alma_mater  = [[University of East Anglia]] (B.A.)<br>[[Nuffield College, Oxford]] (D.Phil)
+| doctoral_advisor = [[James Mirrlees]]<ref>[http://finance.wharton.upenn.edu/~allenf/download/Vita/VITA-Allen-Apr10.pdf Allen's CV]</ref>
+| academic_advisors =
+| doctoral_students = 
+| notable_students =
+| influences  = 
+| influenced  = 
+| contributions = 
+| awards      =
+| memorials   = 
+| repec_prefix = 
+| repec_id = 
+}}
+
+'''Franklin Allen''', {{post-nominals|country=GBR|commas=on|FBA|size=100%}} (born 6 March 1956) is a British economist and academic. Since 2014, he has been professor of finance and economics, and executive director of the [[Brevan Howard Centre]] at [[Imperial College London]].<ref name="bio ICL">{{cite web|title=Professor Franklin Allen|url=http://www.imperial.ac.uk/people/f.allen|website=Imperial College London|access-date=29 July 2017}}</ref> He was the Nippon Life Professor of Finance and Economics at the [[Wharton School]] of the [[University of Pennsylvania]]. He is most active in the research areas of financial innovations, [[asset price bubble]]s, the comparison of financial systems, and [[financial crises]].
+
+==Early life and education==
+He was educated at [[Merchant Taylors' School, Northwood]] and [[City College Norwich|Norwich City College]]. He graduated from the [[University of East Anglia]] with a first class [[bachelor's degree]] in 1977 and completed his [[doctorate]] in economics at [[Nuffield College, Oxford]] in 1980.
+
+==Academic career==
+Allen was associate professor of finance and associate professor of finance and economics at the Wharton School from 1980 to 1990, when he became vice dean and director of the [[Wharton School of the University of Pennsylvania#Wharton doctoral program|Wharton Doctoral Programs]] and Professor of Finance and Economics. In 1994 he was assigned to the chair of Nippon Life Professor of Finance and Economics as professor. Additionally, he took the position of co-director of the Wharton Financial Institutions Center. He has also visited diverse universities and research centres in the context of visiting professorships, academic fellowships and scientific advisory such as the [[University of Tokyo]] (1993), the Johann Wolfgang Goethe-Universität of Francfort (2001, 2006), the Indian School of Business in Hyderabad (2005), the [[Stockholm School of Economics]] and [[Gothenburg University]] in Sweden (2006).
+
+He is a past president of the [[American Finance Association]], Western Finance Association and the Society for Financial Studies, as well as a scientific adviser at the [[Sveriges Riksbank]], the central bank of Sweden.  He is the editor of the [[European finance association|European Finance Association]]'s flagship journal, the ''Review of Finance''.<ref>{{cite web |url=http://www.revfin.org/board.html |title=Editorial Board |website=Review of Finance |publisher=Oxford University Press |access-date=19 July 2013 |archive-url=https://web.archive.org/web/20130601133629/http://www.revfin.org/board.html |archive-date=1 June 2013 |url-status=dead }}</ref> Besides, he acts as advisor to ''Fair Observer'', an online magazine covering global issues from a plurality of perspectives, on issues concerning finance or economics, but also on future strategy and editorial policy.<ref>{{Cite web|url=http://fairobserver.com/advisors|title = Fair Observer - Advisers}}</ref>
+
+Together with [[Stewart Myers]] and [[Richard Brealey]], he is the author of ''[[Principles of Corporate Finance]]''. The work is a widely prescribed, standard textbook for undergraduate students in [[corporate finance]], and also addresses the needs of practising [[Managerial finance|financial managers]].
+
+==Honours==
+In July 2017, Allen was elected a [[Fellow of the British Academy]] (FBA), the United Kingdom's [[national academy]] for the humanities and social sciences.<ref>{{cite web|title=Elections to the British Academy celebrate the diversity of UK research|url=http://www.britac.ac.uk/news/elections-british-academy-celebrate-diversity-uk-research|website=British Academy|access-date=29 July 2017|date=2 July 2017}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://finance.wharton.upenn.edu/~allenf/download/Vita/VITA-Allen-Apr10.pdf Wharton School Official Curriculum Vitae]
+
+{{FBA 2017|state=expanded}}
+{{Authority control}}
+
+{{DEFAULTSORT:Allen, Franklin}}
+[[Category:Living people]]
+[[Category:1956 births]]
+[[Category:People educated at Merchant Taylors' School, Northwood]]
+[[Category:21st-century economists]]
+[[Category:20th-century economists]]
+[[Category:Alumni of the University of East Anglia]]
+[[Category:Alumni of Nuffield College, Oxford]]
+[[Category:University of Pennsylvania faculty]]
+[[Category:Financial economists]]
+[[Category:American finance and investment writers]]
+[[Category:American textbook writers]]
+[[Category:American male non-fiction writers]]
+[[Category:Corporate finance theorists]]
+[[Category:Wharton School of the University of Pennsylvania faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Nippon Life]]
+[[Category:Fellows of the British Academy]]
+[[Category:British economists]]
+[[Category:People educated at City College Norwich]]
+[[Category:Presidents of the American Finance Association]]
+[[Category:The Review of Financial Studies editors]]

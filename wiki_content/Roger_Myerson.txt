@@ -1,0 +1,130 @@
+{{short description|American mathematician}}
+{{Infobox economist
+| name             = Roger Myerson
+| school_tradition =
+
+| image       = Myerson_roger_b_print.jpg
+| image_size       =
+| caption    =
+| birth_date       = {{Birth date and age|1951|03|29}}
+| birth_place      = [[Boston]], [[Massachusetts]]
+| death_date       =
+| death_place      =
+| nationality      = [[United States]]
+| institution      = [[University of Chicago]]<br />[[Northwestern University]]
+| field            = [[Game theory]]
+| alma_mater       = [[Harvard University]] {{small|([[Bachelor of Arts|AB]], [[Master of Science|SM]], [[Doctor of Philosophy|PhD]])}}
+| doctoral_advisor          = [[Kenneth Arrow]]
+| academic_advisors         =
+| doctoral_students         = [[Scott E. Page]]
+| notable_students          =
+| influences       = 
+| influenced       =
+| contributions    = [[Mechanism design]]
+| awards           = [[Nobel Memorial Prize in Economic Sciences]] (2007)
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pmy13
+}}
+'''Roger Bruce Myerson''' (born 1951) is an [[United States|American]] [[economist]] and professor at the University of Chicago. He holds the title of the David L. Pearson Distinguished Service Professor of Global Conflict Studies at The Pearson Institute for the Study and Resolution of Global Conflicts in the [[Harris School of Public Policy Studies|Harris School of Public Policy]], the Griffin Department of Economics, and [[College of the University of Chicago|the College]].<ref name=PearsonFaculty>{{cite web|url=https://thepearsoninstitute.org/faculty/roger-myerson|title=Roger Myerson Pearson Institute Faculty Profile}}</ref> Previously, he held the title The Glen A. Lloyd Distinguished Service Professor of Economics.<ref name=MyersonProfile>{{cite web|url=https://economics.uchicago.edu/directory/roger-b-myerson|title=Prof. Myerson's University of Chicago Department of Economics Profile}}</ref> In 2007, he was the winner of the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel with [[Leonid Hurwicz]] and [[Eric Maskin]] for "having laid the foundations of [[mechanism design]] theory."<ref>{{cite press release |url=http://nobelprize.org/nobel_prizes/economics/laureates/2007/press.html |title=The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2007 |date=October 15, 2007 |access-date=2008-08-15 |publisher=[[Nobel Foundation]]}}</ref> He was elected a Member of the [[American Philosophical Society]] in 2019.<ref>{{Cite web|url=https://www.amphilsoc.org/blog/aps-announces-2019-class-new-members|title=APS Announces 2019 Class of New Members}}</ref>
+
+==Biography==
+Roger Myerson was born in 1951 in Boston. He attended [[Harvard University]], where he received his [[Bachelor of Arts|A.B.]], ''[[summa cum laude]]'', and [[Master of Science|S.M.]] in [[applied mathematics]] in 1973. He completed his  [[Doctor of Philosophy|Ph.D.]] in applied mathematics from Harvard University in 1976.<ref>{{Cite web | url=http://www.pritzkermilitary.org/whats_on/pritzker-military-presents/front-center-john-callaway-global-economic-crisis/ |title = Front & Center with John Callaway: The Global Economic Crisis &#124; Pritzker Military Museum & Library &#124; Chicago}}</ref> His doctorate thesis was ''A Theory of Cooperative Games''.<ref name="CV">{{cite web |url=http://home.uchicago.edu/~rmyerson/research/rbmvita.pdf |title=Curriculum Vitae of Roger Myerson |access-date=2008-08-15 }}</ref>
+
+From 1976 to 2001, Myerson was a professor of economics at [[Northwestern University]]'s [[Kellogg School of Management]], where he conducted much of his Nobel-winning research.<ref>[http://www.juf.org/news/local.aspx?id=27784&terms=Roger+Myerson JUF News: Nobel Prize winners have Jewish, Chicago connections]</ref> From 1978 to 1979, he was Visiting Researcher at [[Bielefeld University]]. He was Visiting Professor of Economics at the [[University of Chicago]] from 1985–86 and from 2000–01. He became Professor of Economics at Chicago in 2001. Currently, he is the inaugural David L. Pearson Distinguished Service Professor of Global Conflict Studies at the University of Chicago.<ref name="UChicagoPress Release">{{cite web |url=https://news.uchicago.edu/story/roger-myerson-appointed-inaugural-david-l-pearson-distinguished-service-professor|title=Roger Myerson appointed inaugural David L. Pearson Distinguished Service Professor |access-date=2019-12-23}}</ref>
+
+==Awards and Honors==
+===Bank of Sweden Nobel Memorial Prize===
+Myerson was one of the three winners of the 2007 [[Nobel Memorial Prize in Economic Sciences]], the other two being [[Leonid Hurwicz]] of the [[University of Minnesota]], and [[Eric Maskin]] of the [[Institute for Advanced Study]]. He was awarded the prize for his contributions to [[mechanism design theory]].<ref name="UC">{{cite web |url=http://www-news.uchicago.edu/releases/07/071015.nobel.myerson.shtml |title=Roger Myerson wins 2007 Nobel Memorial Prize in Economics |date=2007-10-17 |publisher=University of Chicago |access-date=2008-08-16}}</ref>
+
+Myerson made a path-breaking contribution to mechanism design theory when he discovered a fundamental connection between the allocation to be implemented and the monetary transfers needed to induce informed agents to reveal their information truthfully. Mechanism design theory allows for people to distinguish situations in which markets work well from those in which they do not. The theory has helped economists identify efficient trading mechanisms, regulation schemes, and voting procedures. Today, the theory plays a central role in many areas of [[economics]] and parts of [[political science]].<ref name="UC"/>
+
+===Memberships and Honors===
+Myerson is a member of the [[American Academy of Arts and Sciences]], the [[National Academy of Sciences]], the [[Council on Foreign Relations]], and the [[American Philosophical Society]].<ref name="CV"/> He is a Fellow of the [[Game Theory Society]]<ref>{{cite web |url=http://gametheorysociety.org/people/ |title=Game Theory Society - People}}</ref> and serves as an advisory board member on the International Journal of Game Theory.<ref>{{cite web |url=https://www.springer.com/journal/182/editors |title=International Journal of Game Theory Editors}}</ref>  Myerson holds an Honorary Doctorate from the [[University of Basel]] in 2002 <ref>{{cite news |url=https://www.unibas.ch/en/University/About-University/Dies-Academicus/Honorary-Awards-Dies-Academicus-Faculty-of-Business-and-Economics.html |title=Honorary Awards Faculty of Business and Economics}}</ref> and received the Jean-Jacques Laffont Prize in 2009.<ref>{{cite web |url=https://www.tse-fr.eu/jjl-prize |title=Jean Jacques Laffont Prize Former Laureates}}</ref> He also served on the Social Sciences jury for the [[Infosys Prize]] in 2016.
+
+==Personal life==
+In 1980, Myerson married Regina (née Weber) and the couple had two children, Daniel and Rebecca.<ref>{{Nobelprize|name=Roger B. Myerson|accessdate=2020-10-11}}</ref>
+
+==Publications==
+;Game theory and mechanism design
+* {{Cite journal | title = Graphs and Cooperation in Games | journal = [[Mathematics of Operations Research]] | volume = 2 | issue = 3 | pages =  225–229 | doi = 10.1287/moor.2.3.225 | date = August 1977 | last1 = Myerson | first1 = Roger B. | url = http://www.kellogg.northwestern.edu/research/math/papers/246.pdf | hdl = 10419/220606 | hdl-access = free }}
+* {{Cite journal | title = Two-Person Bargaining Problems and Comparable Utility | journal = [[Econometrica]] | volume = 45 | issue = 7 | pages = 1631–1637 | doi = 10.2307/1913955 | jstor = 1913955 | date = October 1977 | last1 = Myerson | first1 = Roger B. | url = http://www.kellogg.northwestern.edu/research/math/papers/247.pdf }}
+* {{Cite journal | title = Refinements of the Nash Equilibrium Concept | journal = International Journal of Game Theory | volume = 7 | issue = 2 | pages = 73–80 | doi = 10.1007/BF01753236 | date = June 1978 | last1 = Myerson | first1 = R. B. | s2cid = 222358176 | url = http://www.kellogg.northwestern.edu/research/math/papers/295.pdf }}
+* {{Cite journal | title = Incentive Compatibility and the Bargaining Problem | journal = [[Econometrica]] | volume = 47 | issue = 1| pages = 61–73 | doi = 10.2307/1912346 | jstor = 1912346 | date = January 1979 | last1 = Myerson | first1 = Roger B. }}
+* {{Cite journal | title = Optimal Auction Design | journal = [[Mathematics of Operations Research]] | volume = 6 | issue = 1 | pages = 58–73 | doi = 10.1287/moor.6.1.58 | date = February 1981 | last1 = Myerson | first1 = Roger B. | s2cid = 12282691 | url = https://semanticscholar.org/paper/542fbbca4262ee7aa143083d5d1132122c4e7ab7 }}
+* {{Cite journal | title = Mechanism Design by an Informed Principal | journal = [[Econometrica]] | volume = 51 | issue = 6 | pages = 1767–1797 | doi = 10.2307/1912116 | jstor = 1912116 | date = November 1983 | last1 = Myerson | first1 = Roger B. | url = http://www.kellogg.northwestern.edu/research/math/papers/481.pdf }}
+* {{Cite journal | title = Two-Person Bargaining Problems with Incomplete Information | journal = [[Econometrica]] | volume = 52 | issue = 2| pages = 461–487 | doi = 10.2307/1911499 | jstor = 1911499 | date = 1984 | last1 = Myerson | first1 = Roger B. }}
+* "Bayesian Equilibrium and Incentive Compatibility," in {{cite book | editor-last1 = Hurwicz | editor-first1 = Leonid | editor-last2 = Schmeidler | editor-first2 = David | editor-last3 = Sonnenschein | editor-first3 = Hugo | title = Social goals and social organization : essays in memory of Elisha Pazner | pages = 229&ndash;259 | publisher = [[Cambridge University Press]] | location = Cambridge New York | year = 2005 | isbn = 9780521023955 | title-link = Elisha Pazner }}
+
+He wrote a general textbook on game theory in 1991, and has also written on the history of game theory, including his review of the origins and significance of noncooperative game theory.<ref>{{Cite journal |last=Myerson | first=Roger B. | title=Nash Equilibrium and the History of Economic Theory | journal=[[Journal of Economic Literature]] | volume= 37 | issue= 3 | date=1999 | pages=1067–1082 | jstor= 2564872 | doi=10.1257/jel.37.3.1067| citeseerx=10.1.1.130.7955 }}</ref> He also served on the editorial board of the ''International Journal of Game Theory'' for ten years.
+
+Myerson has worked on economic analysis of [[political institution]]s and written several major survey papers:
+* {{Cite journal | title = Analysis of Democratic Institutions: Structure, Conduct, and Performance | journal = [[Journal of Economic Perspectives]] | volume = 9 | issue = 1 | pages = 77–89 | date = Winter 1995 | jstor = 2138356  | doi=10.1257/jep.9.1.77| last1 = Myerson | first1 = Roger B. | url = http://www.aeaweb.org/articles.php?doi=10.1257/jep.9.1.77 }}
+* "Economic Analysis of Political Institutions: An Introduction," Advances in Economic Theory and Econometrics: Theory and Applications, volume 1, edited by D. Kreps and K. Wallis (Cambridge University Press, 1997), pages 46–65.
+* {{Cite journal | title = Theoretical Comparisons of Electoral Systems | journal = [[European Economic Review]] | volume = 43 | issue = 4–6 | pages = 671–697 | doi = 10.1016/S0014-2921(98)00089-0 | date = April 1999 | last1 = Myerson | first1 = Roger B. | citeseerx = 10.1.1.21.9735 }}
+
+His recent work on [[democratization]] has raised critical questions about American policy in occupied Iraq:
+* {{Cite journal| title = Fundamentals of social choice theory | journal = [[Quarterly Journal of Political Science]] | volume = 8 | issue = 3 | pages = 305–337 | doi = 10.1561/100.00013006 | date = June 2013 | citeseerx = 10.1.1.297.6781 | last1 = Myerson | first1 = Roger B. }}
+
+;Books
+* {{cite book | title = Game theory: analysis of conflict | publisher = Harvard University Press | location = Cambridge, Massachusetts | year = 1991 | isbn = 9780674728615 }}
+* {{cite book | title = Probability models for economic decisions | publisher = Thomson/Brooke/Cole | location = Belmont, CA | year = 2005 | isbn = 9780534423810 }}
+
+== Concepts named after him ==
+* [[Myerson–Satterthwaite theorem]]
+* [[Myerson mechanism]]
+* [[Myerson ironing]]
+
+==See also==
+* [[List of economists]]
+* [[List of Jewish Nobel laureates]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{Nobelprize|name=Roger B. Myerson}} including the Nobel Lecture ''Perspectives on Mechanism Design in Economic Theory''
+* [http://home.uchicago.edu/~rmyerson Webpage at the University of Chicago]
+* [http://abclocal.go.com/wls/story?section=local&id=5707479 ABC News Chicago interview]
+* {{MathGenealogy|99809}}
+* [https://web.archive.org/web/20071025023317/http://nobelprize.org/nobel_prizes/economics/laureates/2007/ecoadv07.pdf The scientific background to the 2007 Nobel prize: Mechanism Design Theory]
+* [http://www.pritzkermilitary.org/whats_on/pritzker-military-presents/front-center-john-callaway-global-economic-crisis/ Myerson participated in panel discussion, ''The Global Economic Crisis: What Does It Mean for U.S. National Security?''] at the Pritzker Military Museum & Library on April 2, 2009
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Edmund S. Phelps]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 2007 | alongside = [[Leonid Hurwicz]], [[Eric S. Maskin]] }}
+{{s-aft | after = [[Paul Krugman]] }}
+{{s-end}}
+
+{{2007 Nobel Prize winners}}
+{{Nobel laureates in economics 2001-2025}}
+{{Presidents of the Econometric Society}}
+{{Presidents of the Game Theory Society}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Myerson, Roger}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:Nobel laureates in Economics]]
+[[Category:American Nobel laureates]]
+[[Category:Jewish Nobel laureates]]
+[[Category:Economists from Massachusetts]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:Game theorists]]
+[[Category:Harvard School of Engineering and Applied Sciences alumni]]
+[[Category:Jewish American social scientists]]
+[[Category:Kellogg School of Management faculty]]
+[[Category:University of Chicago faculty]]
+[[Category:Writers from Boston]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:20th-century American writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Members of the American Philosophical Society]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]

@@ -1,0 +1,45 @@
+{{Infobox economist
+| name             = Rajeev H. Dehejia
+| school_tradition =
+
+| image       =
+| image_size       =
+| caption    =
+| birth_date       = {{Birth year and age|1973}}
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = Canada <br> India <br> United States
+| institution      = [[New York University]]
+| field            = [[Labor economics]], [[Econometrics]], [[Development economics]]
+| alma_mater       = [[Harvard University]] <small>(Ph.D.)</small><br>[[Carleton University]] <small>(B.A.)</small>
+| doctoral_advisor = [[Gary Chamberlain]]<br>[[Guido Imbens]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| influences       =
+| influenced       =
+| contributions    =
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pde179
+}}
+
+'''Rajeev Dehejia''' is a professor of public policy in the [[Robert F. Wagner Graduate School of Public Service]] at [[New York University]]. He is the author of numerous academic articles in econometrics, labor economics, and development economics, including two widely cited papers on the evaluation of [[propensity score matching]].<ref>Dehejia, Rajeev, and Sadek Wahba (1999), "Causal Effects in Non-Experimental Studies: Re-Evaluating the Evaluation of Training Programs," [http://www.amstat.org/publications/jasa.cfm Journal of the American Statistical Association], Volume 94, Number 448 (December 1999), pp. 1053–1062.</ref><ref>Dehejia, Rajeev, and Sadek Wahba, "Propensity Score Matching Methods for Non-Experimental Causal Studies," [http://www.mitpressjournals.org/loi/rest?cookieSet=1 Review of Economics and Statistics], Volume 84 (February 2002), pp. 151–161.</ref>  He graduated in 1988 from [[Sir Robert Borden High School]] and in 1992 from [[Carleton University]] with the [http://archive.gg.ca/honours/search-recherche/index_e.asp?results=1&Firstname=&Middlename=&Lastname=dehejia&City=&Province=&TypeID=acmed&Institution=&Honours=&AwardStart=&AwardEnd=&npp=25 Governor General's Medal]. He completed his Ph.D. from [[Harvard University]] in 1997.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://wagner.nyu.edu/Dehejia http://wagner.nyu.edu/Dehejia]
+* [http://www.nber.org/~rdehejia http://www.nber.org/~rdehejia]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dehejia, Rajeev}}
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:Canadian economists]]
+[[Category:Harvard University alumni]]
+[[Category:Carleton University alumni]]
+[[Category:New York University faculty]]

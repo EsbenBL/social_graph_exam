@@ -1,0 +1,69 @@
+{{Short description|American economist}}
+{{Use American English|date=January 2021}}
+{{Use mdy dates|date=January 2021}}
+
+{{Infobox academic
+|name=Vincent P. Crawford
+|birth_date=1950
+|birth_place=[[Springfield, Ohio]]
+|citizenship=United States
+|alma_mater={{Unbulleted list
+|[[Princeton University]]
+|[[Massachusetts Institute of Technology]]
+}}
+|website= {{URL|https://econweb.ucsd.edu/~v2crawford/}}
+|discipline=Economics
+|thesis_title=Essays in Economic Theory
+|sub_discipline=[[Game theory]], [[experimental economics]]
+|workplaces=[[University of Oxford]]<br>[[University of California, San Diego]]
+|doctoral_advisor=[[Franklin M. Fisher]]}}
+
+'''Vincent P. Crawford''' {{Post-nominals|country=GBR|FBA}} (born 1950) is an American economist. He is a Senior Research Fellow at the [[University of Oxford]], following his tenure as [[Drummond Professor of Political Economy]] from 2010 to 2020. He is also Research Professor at the [[University of California, San Diego]].
+
+== Early life and education ==
+Crawford majored in economics at [[Princeton University]], graduating ''[[Latin honors|Summa cum laude]]'' in 1972. He went on to further study at the [[Massachusetts Institute of Technology]] and received his PhD in Economics in 1976.<ref>{{Cite web|last=Crawford|first=Vincent|title=Curriculum Vitae|url=https://www.economics.ox.ac.uk/files/vincentcrawfordcvpdf|website=Oxford Department of Economics}}</ref> His thesis was supervised by [[Franklin M. Fisher]].<ref>{{Cite thesis|last=Crawford|first=Vincent P.|title=Essays in Economic Theory|date=May 1976|url=https://dspace.mit.edu/bitstream/handle/1721.1/27455/02600545.pdf?sequence=1}}</ref>
+
+== Career ==
+Crawford began his academic career at the [[University of California, San Diego|UCSD]] as assistant professor in 1976 and was promoted to full professor in 1985. As he took up his second professorship at Oxford University and the associated fellowship at [[All Souls College, Oxford]] in 2010, he was appointed Distinguished Professor Emeritus and Research Professor at UCSD.
+
+The [[Econometric Society]] conferred fellowship to him in 1990, [[American Academy of Arts and Sciences]] elected him fellow in 2003, and the [[British Academy]] and the [[Society for the Advancement of Economic Theory]] followed suit in 2011 and 2012, respectively.<ref name=":0">{{Cite web|title=Vincent Paul Crawford|url=https://www.amacad.org/person/vincent-paul-crawford|access-date=2021-01-06|website=American Academy of Arts & Sciences|language=en}}</ref><ref name=":1">{{Cite web|title=Professor Vincent Crawford FBA|url=https://www.thebritishacademy.ac.uk/fellows/vincent-crawford-FBA/|url-status=live|website=The British Academy}}</ref><ref>{{Cite web|title=Fellows {{!}} The Econometric Society|url=https://www.econometricsociety.org/society/organization-and-governance/fellows|access-date=2021-01-06|website=www.econometricsociety.org}}</ref><ref>{{Cite web|title=Economic Theory Fellows|url=https://saet.uiowa.edu/economic-theory-fellows/|access-date=2021-01-06|website=SAET|language=en-US}}</ref> He gave the 2017 [[Nancy L. Schwartz Memorial Lecture]].<ref>{{Cite web|title=Vincent P. Crawford {{!}} Nancy L. Schwartz Memorial Lecture {{!}} Kellogg School of Management|url=https://www.kellogg.northwestern.edu/news-events/lecture/schwartz/speakers/2010-2019/2017.aspx|access-date=2021-02-16|website=www.kellogg.northwestern.edu}}</ref>
+
+He has served an editor and coeditor of various economic journals, such as ''[[Econometrica]]'' from 2004 to 2007,<ref>{{Cite web|title=Past Associate Editors {{!}} The Econometric Society|url=https://www.econometricsociety.org/publications/econometrica/editorial-board/past-associate-editors|access-date=2021-01-06|website=www.econometricsociety.org}}</ref> the [[The American Economic Review|''American Economic Review'']] from 2005 to 2009<ref>{{Cite web|title=Editors of the American Economic Review|url=https://www.aeaweb.org/journals/aer/about-aer/editors|url-status=live|access-date=2021-01-06|website=www.aeaweb.org|language=en}}</ref> and [[Games and Economic Behavior|''Games and Economic Behaviour'']].<ref>{{Cite book|url=https://www.journals.elsevier.com/games-and-economic-behavior/editorial-board|title=Games and Economic Behavior Editorial Board}}</ref>
+
+== Research ==
+Crawford's research focuses on behavioural game theory, specifically bargaining and communication, experimental economics and matching. His work on strategic information transmission has been seminal in the field of strategic communication in economic games, with his 1982 paper (co-authored with [[Joel Sobel]]) establishing the concept of [[cheap talk]] in game theory.<ref name=":0" /><ref name=":1" /><ref>{{Cite book|url=https://www.worldcat.org/oclc/853313603|title=Eminent economists II : their life and work philosophies|others=Szenberg, Michael,, Ramrattan, Lall, 1951-|date=February 24, 2014|isbn=978-1-107-04053-3|location=New York|oclc=853313603}}</ref> ''[[The Economist]]'' predicted him to be the next [[Nobel Memorial Prize in Economic Sciences|Nobel Prize laureate]] in 2011.<ref>{{Cite news|date=2011-10-04|title=Runners and riders|work=The Economist|url=https://www.economist.com/free-exchange/2011/10/04/runners-and-riders|access-date=2021-01-07|issn=0013-0613}}</ref>
+
+== Selected works ==
+*{{Cite journal|url=https://doi.org/10.2307/1913390|doi = 10.2307/1913390|jstor = 1913390|title = Strategic Information Transmission|last1 = Crawford|first1 = Vincent P.|last2 = Sobel|first2 = Joel|journal = Econometrica|year = 1982|volume = 50|issue = 6|pages = 1431–1451}}
+*{{Cite journal|url=https://doi.org/10.2307/1913392|doi = 10.2307/1913392|jstor = 1913392|title = Job Matching, Coalition Formation, and Gross Substitutes|last1 = Kelso|first1 = Alexander S.|last2 = Crawford|first2 = Vincent P.|journal = Econometrica|year = 1982|volume = 50|issue = 6|pages = 1483–1504}}
+*{{Cite journal|url=https://doi.org/10.1257/000282803321455197|doi=10.1257/000282803321455197|title=Lying for Strategic Advantage: Rational and Boundedly Rational Misrepresentation of Intentions|year=2003|last1=Crawford|first1=Vincent P.|journal=American Economic Review|volume=93|pages=133–149}}
+*{{Cite journal|url=https://doi.org/10.1257/aer.96.5.1737|doi = 10.1257/aer.96.5.1737|title = Cognition and Behavior in Two-Person Guessing Games: An Experimental Study|year = 2006|last1 = Costa-Gomes|first1 = Miguel A.|last2 = Crawford|first2 = Vincent P.|journal = American Economic Review|volume = 96|issue = 5|pages = 1737–1768}}
+*{{Cite journal|url=https://doi.org/10.1257/aer.97.5.1731|doi = 10.1257/aer.97.5.1731|title = Fatal Attraction: Salience, Naïveté, and Sophistication in Experimental "Hide-and-Seek" Games|year = 2007|last1 = Crawford|first1 = Vincent P.|last2 = Iriberri|first2 = Nagore|journal = American Economic Review|volume = 97|issue = 5|pages = 1731–1750}}
+*{{Cite journal|url=https://doi.org/10.1016/j.geb.2021.02.005|doi = 10.1016/j.geb.2021.02.005|title = Efficient mechanisms for level-k bilateral trading|year = 2021|last1 = Crawford|first1 = Vincent P.|journal = Games and Economic Behavior|volume = 127|pages = 80–101}}
+*{{cite book|last1=Crawford|first1=Vincent|title=Essays in Economic Theory (Routledge Revivals) |date=1983|publisher=Routledge|location=Oxford|isbn=978-1138858671}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://econweb.ucsd.edu/~vcrawfor/index.html Official website]
+* [https://www.asc.ox.ac.uk/person/professor-vincent-crawford Profile] on the website of All Souls College
+* [https://economics.ucsd.edu/faculty-and-research/faculty-profiles/crawford.html Profile] on the website of UC San Diego
+{{FBA 2012}}
+{{Authority control}}
+
+{{DEFAULTSORT:Crawford, Vincent}}
+[[Category:1950 births]]
+[[Category:People from Springfield, Ohio]]
+[[Category:Princeton University alumni]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:University of California, San Diego faculty]]
+[[Category:Fellows of All Souls College, Oxford]]
+[[Category:Drummond Professors of Political Economy]]
+[[Category:Fellows of the British Academy]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]
+[[Category:American economists]]
+[[Category:Game theorists]]
+[[Category:Living people]]

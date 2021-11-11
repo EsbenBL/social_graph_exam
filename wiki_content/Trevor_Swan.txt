@@ -1,0 +1,64 @@
+{{Short description|Australian economist}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox economist
+| name             = Trevor Swan
+| school_tradition =
+| color            =
+| image            =
+| image_size       =
+| caption          =
+| birth_date       = {{birth date|1918|1|14|df=y}}
+| birth_place      = [[Sydney]], [[Australia]]
+| death_date       = {{death date and age|1989|1|15|1918|1|14|df=y}}
+| death_place      =
+| nationality      = [[Australia]]n
+| institution      = [[Australian National University]]
+| field            = [[Macroeconomics]]
+| alma_mater       = [[University of Sydney]]
+| influences       =
+| influenced       =
+| contributions    = [[Solow–Swan model]]
+| awards           =
+| spouse           =
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = psw11
+}}
+
+'''Trevor Winchester Swan''' (14 January 1918 – 15 January 1989) was an [[Australian]] [[economist]]. He is best known for his work on the [[Solow–Swan model|Solow–Swan growth model]], published simultaneously by American economist [[Robert Solow]], for his work on integrating internal and external balance as represented by the [[Swan diagram|Swan Diagram]], and for pioneering work in [[macroeconomic model]]ing, which predated that of [[Lawrence Klein]] but remained unpublished until 1989.
+
+Swan is widely regarded as the greatest economic theorist that Australia has produced, and as one of the finest economists not to receive a [[Nobel Memorial Prize in Economic Sciences]].<ref>[http://ecocomm.anu.edu.au/nieb/ANUEconomists2.htm#7 Distinguished ANU Economists]</ref> 
+
+There were two independent pioneers of Neoclassical Growth Theory: Robert Solow and Trevor Swan. Solow published "A Contribution to the Theory of Economic Growth" in the February issue of the QJE in 1956, and Trevor Swan published "Economic Growth and Capital Accumulation" in the ''Economic Record'', subsequent to Solow in December 1956. Swan's contribution has been overshadowed by Solow, who was awarded the Nobel Memorial Prize in 1987 for his contributions to economic growth.
+
+==Biography==
+Born and educated in Sydney, Swan attended [[Canterbury Boys' High School|Canterbury High School]] where he was [[Dux]] in 1935. After school he joined the [[State Bank of New South Wales|Rural Bank of New South Wales]], studying part-time at the [[University of Sydney]]. In 1940 he received a bachelor of economics with First Class Honours and was awarded the gold medal, the first time it had been awarded on the basis of part-time study; he was appointed an assistant lecturer at the University of Sydney. From 1942 to 1950 he was employed in government service, as an economist in the Department of War Organization of Industry, secretary to the War Commitments Committee, chairman of the Food Priorities Committee, joint secretary of the Joint Administrative Planning Sub-Committee of the Defence Committee, chief economist of the [[Department of Post-War Reconstruction (Australia)|Department of Post-War Reconstruction]], and, from 1949, chief economist of the [[Prime Minister's Department (Australia)|Department of the Prime Minister]]. During this period he contributed to the [[White Paper on Full Employment]] which set the framework for Australian [[macroeconomic]] policy in the postwar decades.
+
+In 1950, he was appointed as the first chair of economics created at the [[Australian National University]], remaining Professor of Economics until his retirement in 1983. He built up a strong department with such figures as Noel Butlin and Ivor Pearce.
+
+In 1975 he was appointed to the Board of the Reserve Bank of Australia and reappointed in 1980. He played a small role in the [[1975 Australian constitutional crisis]], by suggesting to his friend, the [[Prime Minister of Australia|Prime Minister]], [[Gough Whitlam]], that the banks could assist in ensuring the government had funds to meet its obligations, during the period when Supply was being threatened by the Opposition in the [[Australian Senate|Senate]].<ref>Gay Davidson, "The Dismissal: many degrees dead wrong", ''The Canberra Times'', 11 November 2000, Panorama, p. 8</ref>
+
+In 2007, in an address to the [[American Economic Association]] celebrating the 50th anniversary of his 1956 contribution, Robert Solow reminded his audience that, "If you have been interested in growth theory for a while, you probably know that Trevor Swan—who was a splendid macroeconomist—also published a paper on growth theory in 1956. In that article, you can find the essentials of the basic neoclassical model of economic growth."<ref>{{cite journal |first1=Robert W. |last1=Dimand |first2=Barbara J. |last2=Spencer |year=2009 |title=Trevor Swan and the Neoclassical Growth Model |journal=History of Political Economy |volume=41 |issue=Suppl. 1 |pages=107–126 |doi=10.1215/00182702-2009-019 |s2cid=154280878 }}</ref>
+
+Swan was noted by [[Paul Krugman]] in his ''[[New York Times]]'' blog: "There's an oldie but goodie in international macro known as the Swan Diagram – not instructions for making an origami swan, but the insightful analysis developed by the Australian economist Trevor Swan."<ref>{{cite news |first=Paul |last=Krugman |title=China's Swan Song |newspaper=The New York Times|date=11 March 2010 |url=https://krugman.blogs.nytimes.com/2010/03/11/chinas-swan-song/ }}</ref>
+
+He died in 1989.<ref>{{cite journal |last1=Butlin |first1=N. G. |last2=Gregory |first2=R. G. |title=Trevor Winchester Swan 1918–1989 |journal=Economic Record |volume=65 |issue=4 |pages=369–377 |year=1989 |doi=10.1111/j.1475-4932.1989.tb00689.x }}</ref>
+
+==Selected publications==
+* {{cite journal |last=Swan |first=Trevor W. |date = November 1956 |title=Economic growth and capital accumulation |journal=Economic Record |volume=32 |issue=2 |pages=334–361 |doi= 10.1111/j.1475-4932.1956.tb00434.x }}
+
+==References==
+{{Reflist}}
+
+==External links==
+* https://www.rse.anu.edu.au/seminars-events/public-lectures/trevor-swan-distinguished-lectures/
+
+{{Authority control}}
+
+{{DEFAULTSORT:Swan, Trevor}}
+[[Category:Australian economists]]
+[[Category:1918 births]]
+[[Category:1989 deaths]]
+[[Category:University of Sydney alumni]]
+[[Category:Australian National University faculty]]
+[[Category:20th-century economists]]
+[[Category:Growth economists]]

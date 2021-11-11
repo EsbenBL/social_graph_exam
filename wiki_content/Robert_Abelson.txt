@@ -1,0 +1,50 @@
+'''Robert Paul Abelson''' (September 12, 1928 – July 13, 2005) was a [[Yale University]] [[Psychology|psychologist]] and [[Political science|political scientist]] with special interests in [[statistics]] and [[logic]].
+
+==Biography==
+He was born in [[New York City]] and attended the [[Bronx High School of Science]]. He did his undergraduate work at [[MIT]] and his [[Ph.D.]] in psychology at [[Princeton University]]'s [[Princeton University Department of Psychology|Department of Psychology]] under [[John Tukey]] and [[Silvan Tomkins]].
+
+From Princeton, Abelson went to Yale, where he stayed for the subsequent five decades of his career. Arriving during the ''Yale Communication Project'', Abelson contributed to the foundation of attitudes studies as co-author of ''Attitude Organization and Change: An Analysis of Consistency Among Attitude Component'', (1960, with Rosenberg, Hovland, McGuire, & Brehm).  While at Yale, Abelson was briefly a bass in the [[Yale Russian Chorus]].
+
+With [[Milton J. Rosenberg]], he developed the notion of “symbolic psycho-logic," an early attempt, using an idiosyncratic kind of [[adjacency matrix]] of a [[signed graph]], at a descriptive (rather than prescriptive) psychological organization of attitudes and attitude consistency, which was key to the development of the field of [[social cognition]].
+
+The notion that beliefs, attitudes, and ideology were deeply connected knowledge structures was contained in ''Scripts, Plans, Goals, and Understanding'' (1977, with [[Roger Schank]]), a work that has collected several thousand citations, and led to the first interdisciplinary graduate program in cognitive science at Yale. His work on voting behavior in the 1960 and 1964 elections, and the creation of a computer program modeling ideology (the “Goldwater machine”) helped define and build the field of political psychology.
+
+He was the author of ''Statistics As Principled Argument'' which includes prescriptions for how statistical analyses should proceed, as well as a description of what statistical analysis is, why we should do it, and how to differentiate good from bad statistical arguments. He was a co-author of several other books in psychology, statistics, and political science.
+In 1959, Abelson published a paper to elucidate different ways in which an individual tends to resolve his "belief dilemmas" (Abelson «Modes of  Resolution of Belief Dilemmas» Journal of conflict Resolution 1959). 
+ 
+Abelson received the Distinguished Scientific Contribution Award from APA, the Distinguished Scientist Award from SESP, and the Distinguished Scientist Award from the International Society of Political Psychology. He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1978.<ref name=AAAS>{{cite web|title=Book of Members, 1780-2010: Chapter A|url=http://www.amacad.org/publications/BookofMembers/ChapterA.pdf|publisher=American Academy of Arts and Sciences|accessdate=20 March 2011}}</ref>
+
+He died of complications of [[Parkinson's disease]].<ref>{{cite journal| title = In Memoriam: Robert P. Abelson (1928-2005) | publisher = Association for Psychological Science | url = http://www.psychologicalscience.org/index.php/publications/observer/2006/december-06/in-memoriam-robert-p-abelson-1928-2005.html | journal = Observer | volume = 19 | issue = 12 | date = December 2006}}</ref><ref>{{cite journal | title = Robert P. Abelson (1928-2005). |author1=Roseman, Ira J. |author2=Read, Stephen J. | journal = American Psychologist | volume = 62 | issue = 3 | date = Apr 2007 | pages = 247–248 | doi = 10.1037/0003-066X.62.3.247 }}</ref><ref>{{cite news | url = https://www.nytimes.com/2005/08/07/classified/paid-notice-deaths-abelson-professor-robert-p.html | title = Paid Notice: Deaths ABELSON, PROFESSOR ROBERT P. | date = August 7, 2005 | work = The New York Times}}</ref>
+
+==Books==
+*{{cite book | first1=Robert R. | last1=Bush | first2=Robert  | last2=Abelson  | last3=Hyman | first3=Ray | author3-link=Ray Hyman | title=Mathematics for Psychologists| location=New York | publisher=Social Science Research Council | year= 1956 | oclc=2301803 }}
+*{{cite book | first1=Roger | last1=Schank | first2=Robert P. | last2=Abelson | authorlink=Roger Schank | author2-link=Robert Abelson | title=Scripts, plans, goals and understanding: An inquiry into human knowledge structures | location=New Jersey | publisher=Erlbaum | year=1977 | isbn=0-470-99033-3 }}
+*{{cite book | first=Robert P. | last=Abelson | title=Statistics as Principled Argument | location=Hillsdale, N.J. | publisher=L. Erlbaum Associates | year=1995 | oclc=31011850 }}
+*{{cite book | first1=Robert P. | last1=Abelson | first2=Kurt P.  | last2=Frey  | last3=Gregg | first3=Aiden P. | title=Experiments with People : Revelations From Social Psychology| location=Mahwah, N.J. | publisher=Lawrence Erlbaum | year=2004 | oclc=51389089 }}
+
+==See also==
+* [[The MAGIC criteria]]
+* [[Abelson's paradox]]
+
+==Bibliography==
+
+* Ira J. Roseman, Stephen J. Read, "Psychologist at Play:  Robert P. Abelson's Life and Contributions to Psychological Science",  ''Perspectives on Psychological Science'' '''2''':1:86-97 (March 2007) {{jstor|40212337}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Abelson, Robert P.}}
+[[Category:American political scientists]]
+[[Category:American social psychologists]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Princeton University alumni]]
+[[Category:Yale University faculty]]
+[[Category:1928 births]]
+[[Category:2005 deaths]]
+[[Category:Deaths from Parkinson's disease]]
+[[Category:Neurological disease deaths in the United States]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:The Bronx High School of Science alumni]]

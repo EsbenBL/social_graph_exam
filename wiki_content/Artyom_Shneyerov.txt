@@ -1,0 +1,201 @@
+{{Infobox scientist
+| name = Artyom Shneyerov
+| image = Art_shneyerov_image_1_.JPG
+| image_size = 155
+| caption = 
+| birth_place = [[St. Petersburg]], [[Russia]]
+| residence = [[Canada]] 
+| nationality = [[Canadians|Canadian]]
+| field = [[Economist]]
+| work_institution = [[Concordia University (Montreal)|Concordia University]] (Montreal, Quebec, Canada)
+| alma_mater = [[Northwestern University]] (Ph.D.)
+[[Vanderbilt University]] (M.A.)
+[[St. Petersburg Polytechnical University]] (B.S.)
+| known_for  = [[Game theory]], [[Industrial organization]], [[Econometrics]]
+}}
+
+'''Artyom Shneyerov''' is a  [[Microeconomy|microeconomist]] working at [[Concordia University (Montreal)|Concordia University]] in [[Montreal|Montreal, Quebec]], Canada. He is also an associate editor of the ''International Journal of Industrial Organization''.<ref>[http://www.elsevier.com/wps/find/journaleditorialboard.cws_home/505551/editorialboard/ The International Journal of Industrial Organization]</ref> His current research is in the fields of [[game theory]], [[industrial organization]] and applied [[econometrics]]. His contributions to these and other areas of economics include the following:
+
+*In his paper "An empirical study of auction revenue rankings: the case of municipal bonds",<ref>{{Cite journal
+| volume = 37
+| issue = 4
+| pages = 1005–1022
+| last = Shneyerov
+| first = Artyom
+| title = An empirical study of auction revenue rankings: the case of municipal bonds
+| journal = [[The RAND Journal of Economics]]
+| date = December 0335
+| doi = 10.1111/j.1756-2171.2006.tb00068.x
+| citeseerx = 10.1.1.202.3581
+}}</ref> he introduced an approach for the estimation of counterfactual revenues in a [[common value auction]] without the need to identify model primitives. He showed that for any given [[reserve price]], equilibrium bids from [[sealed first-price auction|first-price auctions]] can be used to identify the expected revenues in [[Vickrey auction]] with the same reserve price. In addition, he derived an explicit bound on expected revenue for [[English auction]]s. His approach is based on the revenue ranking theorem of [[Paul Milgrom|Milgrom]] and Weber.<ref>
+
+{{Cite journal
+| issn = 0012-9682
+| volume = 50
+| issue = 5
+| pages = 1089–1122
+| last = Milgrom
+| first = Paul R.
+|author2=Robert J. Weber
+| title = A Theory of Auctions and Competitive Bidding
+| journal = Econometrica
+| date = September 1982
+| doi = 10.2307/1911865
+| jstor = 1911865
+| url = http://www.kellogg.northwestern.edu/research/math/papers/447.pdf
+}}</ref> He has applied these results to [[municipal bond]] auctions in California. This paper is discussed in a handbook of industrial organization.<ref>
+
+{{Cite book
+| publisher = Elsevier
+| volume = 3
+| pages = 2073–2143
+| last = Hendricks
+| first = Ken
+|author2=Robert H. Porter
+| chapter = An Empirical Perspective on Auctions
+|title = Handbook of Industrial Organization
+| year = 2007
+| chapter-url = https://ideas.repec.org/h/eee/indchp/3-32.html
+}}</ref>
+
+*Jointly with [[Mark Satterthwaite]],<ref>The author of [[Gibbard–Satterthwaite theorem]] and [[Myerson-Satterthwaite theorem]]</ref> and his former student Adam Chi Leung Wong, obtained a number of results about the structure of equilibria of dynamic matching and bargaining games and their convergence to perfect competition .<ref>{{Cite journal
+| volume = 75
+| issue = 1
+| pages = 155–200
+| last = Satterthwaite
+| first = Mark
+|author2=Artyom Shneyerov
+| title = Dynamic Matching, Two-Sided Incomplete Information, and Participation Costs: Existence and Convergence to Perfect Competition
+| journal = Econometrica
+| date = 2007-01-01
+| doi = 10.1111/j.1468-0262.2007.00735.x
+| citeseerx = 10.1.1.579.6347
+}}</ref><ref>
+
+ {{Cite journal
+| doi = 10.1016/j.geb.2008.04.014
+| volume = 63
+| issue = 2
+| pages = 435–467
+| last = Satterthwaite
+| first = Mark
+|author2=Artyom Shneyerov
+| title = Convergence to perfect competition of a dynamic matching and bargaining market with two-sided incomplete information and exogenous exit rate
+| journal = Games and Economic Behavior
+| date = July 2008
+}}</ref><ref>
+
+{{Cite journal
+| doi = 10.1016/j.geb.2009.10.005
+| last = Shneyerov
+| first = Artyom
+|author2=Adam Chi Leung Wong
+| title = Bilateral matching and bargaining with private information
+| journal = Games and Economic Behavior
+| year = 2009
+| volume = 68
+| issue = 2
+| pages = 748
+| url = https://commons.ln.edu.hk/sw_master/4494
+}}
+
+</ref> Some of these results are discussed in Bergemann and Balat (2008),<ref>Dirk Bergemann and Jorge Balat, [http://www.econ.yale.edu/%7Edirkb/teach/521b-07-08/econ521-lecturenotes-db-rev.pdf Advanced Microeconomic Theory 521B Lecture Notes] {{Webarchive|url=https://web.archive.org/web/20100711191231/http://www.econ.yale.edu/~dirkb/teach/521b-07-08/econ521-lecturenotes-db-rev.pdf |date=2010-07-11 }}</ref> the lecture notes of a graduate economics course at [[Yale University]]. These games are often used to provide a foundation for the [[perfect competition]] hypothesis, one of the basic concepts in economics. They are also used frequently in search models of [[labor economics]].<ref>{{Cite journal
+| volume = 43
+| issue = 4
+| pages = 959–988
+| last1 = Richard Rogerson |author2=Robert Shimer | author3-link = Randall Wright
+|author3=Randall Wright
+| title = Search-Theoretic Models of the Labor Market: A Survey
+| journal = Journal of Economic Literature
+| access-date = 2008-04-14
+| year = 2005
+| url = https://ideas.repec.org/a/aea/jeclit/v43y2005i4p959-988.html
+| doi = 10.1257/002205105775362014
+| first1 = Richard
+}}</ref> Most dynamic matching and bargaining models in the previous literature assumed full information.<ref>{{Cite journal
+| doi = 10.2307/2297543
+| volume = 57
+| issue = 1
+| pages = 63–78
+| last = Rubinstein
+| first = Ariel
+|author2=Asher Wolinsky
+| title = Decentralized Trading, Strategic Behaviour and the Walrasian Outcome
+| journal = Review of Economic Studies
+| access-date = 2008-04-16
+| year = 1990
+| url = https://ideas.repec.org/a/bla/restud/v57y1990i1p63-78.html
+| jstor = 2297543
+| citeseerx = 10.1.1.295.2440
+}}</ref><ref>{{Cite journal
+| volume = 43
+| issue = 1
+| pages = 20–54
+| last = Gale
+| first = Douglas
+| title = Limit theorems for markets with sequential bargaining
+| journal = Journal of Economic Theory
+| access-date = 2008-04-16
+| year = 1987
+| url = https://ideas.repec.org/a/eee/jetheo/v43y1987i1p20-54.html
+| doi = 10.1016/0022-0531(87)90114-1
+| citeseerx = 10.1.1.295.907
+}}</ref> This means that in a given meeting, the buyer knows the minimum the seller is willing to accept for the item, and the  seller knows the maximum the buyer is willing to pay. This assumption is often violated in reality. Satterthwaite and Shneyerov have shown that the dynamic matching and bargaining market is nevertheless approximately competitive as the time between matches becomes progressively smaller.
+
+*Has also done early work on the measurement of income inequality.<ref>{{Cite journal
+| doi = 10.1006/jeth.1999.2565
+| volume = 91
+| issue = 2
+| pages = 199–222
+| last = Foster
+| first = James E.
+|author2=Artyom A. Shneyerov
+| title = Path Independent Inequality Measures
+| journal = Journal of Economic Theory
+| date = April 2000
+}}</ref><ref>{{Cite journal
+| doi = 10.1007/s001990050283
+| volume = 14
+| issue = 1
+| pages = 89–111
+| last = Foster
+| first = James E.
+|author2=Artyom A. Shneyerov
+| title = A general class of additively decomposable inequality measures
+| journal = Economic Theory
+| date = 1999-07-18
+| citeseerx = 10.1.1.383.5000
+| s2cid = 8978754
+}}</ref> In "Path Independent Inequality Measures", he and James Foster introduced inequality measures that are decomposable into within and between group components. These measures have been recently applied more broadly than income inequality, e.g. to selection into and across lending contracts in Thailand.<ref>{{Cite journal
+| doi = 10.1016/j.jeconom.2005.11.013
+| volume = 136
+| issue = 2
+| pages = 665–698
+| last = Ahlin
+| first = Christian
+|author2=Robert M. Townsend
+| title = Selection into and across credit contracts: Theory and field research
+| journal = Journal of Econometrics
+| date = February 2007
+| url = http://www.accessecon.com/pubs/VUECON/vu03-w23.pdf
+| hdl = 1803/15747
+| hdl-access = free
+}}</ref>
+
+== References ==
+
+{{Reflist}}
+
+== External links ==
+*[http://sites.google.com/site/artyom239/ Artyom Shneyerov's website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Shneyerov, Artyom}}
+[[Category:1968 births]]
+[[Category:Game theorists]]
+[[Category:Northwestern University alumni]]
+[[Category:Concordia University faculty]]
+[[Category:Information economists]]
+[[Category:Living people]]
+[[Category:Canadian economists]]

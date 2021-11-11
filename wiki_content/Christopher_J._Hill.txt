@@ -1,0 +1,57 @@
+{{short description|British political scientist}}
+{{Use dmy dates|date=January 2015}}
+{{Use British English|date=January 2015}}
+{{Infobox academic
+| name              = Christopher Hill
+| birth_name = Christopher John Hill
+| honorific_suffix = {{postnominals|country=GBR|size=100%|FBA}}
+| birth_date        = {{Birth date and age|1948|11|20|df=yes}}
+| workplaces        = [[University of Cambridge]]
+| alma_mater        = [[University of Oxford]] (MA, DPhil) <!--Merton College, Oxford doesn't award degrees-->
+| thesis_title      = The decision-making process in relation to British foreign policy, 1938-1941
+| thesis_url        = http://ora.ox.ac.uk/objects/uuid%3A285853fe-e71f-4c01-8088-c26aa0b55506
+| thesis_year       = 1979
+| doctoral_advisor  = 
+| doctoral_students = 
+| website = <!--{{URL|https://www.polis.cam.ac.uk/Staff_and_Students/christopher-hill-sir-patrick-sheehy-professor-of-international-relations}} looks horrible for some reason-->
+}}
+'''Christopher John Hill''' {{post-nominals|country=GBR|FBA}} (born 20 November 1948) 
+is an emeritus 
+Professor of [[international relations]] at the [[University of Cambridge]].<ref name=whoswho>{{Who's Who | surname = HILL | othernames = Prof. Christopher John | id = | volume = 2014 | edition = online [[Oxford University Press]]|location=Oxford}} {{subscription required}}</ref><ref>[https://web.archive.org/web/20090907012504/http://www.polis.cam.ac.uk/contacts/staff/hill-christopher.html Staff page at the Cambridge Centre of International Studies]</ref>
+
+==Education==
+Hill was educated at the [[University of Oxford]] where he received both his [[Master of Arts (Oxbridge and Dublin)|Master of Arts]] and [[Doctor of Philosophy]] degrees.<ref>{{cite thesis|degree=PhD|publisher=University of Oxford|title=The decision-making process in relation to British foreign policy, 1938-1941|first= Christopher|last=Hill|date=1979|url=http://ora.ox.ac.uk/objects/uuid%3A285853fe-e71f-4c01-8088-c26aa0b55506|id={{EThOS|uk.bl.ethos.459127}}|website=ora.ox.ac.uk|oclc=}} {{free access}}</ref>
+
+==Career and research==
+From 1974 to 2004 he taught in the Department of International Relations at the [[London School of Economics and Political Science]] where he was the [[Montague Burton Professor of International Relations]] from 1991. He was head of the [[Faculty of Human, Social, and Political Science, University of Cambridge|Department of Politics and International Studies]] (POLIS) at Cambridge, 2012–14.
+
+He has published widely in the areas of foreign policy analysis, European politics and general international relations. He is a past Chair of the British International Studies Association, and was elected a Fellow of the British Academy in 2007. He was a member of the RAE2008 Panel for Politics and International Studies.<ref>{{cite web|title=College Fellows and Staff - Sidney Sussex College, Cambridge University|url=http://www.sid.cam.ac.uk/aboutus/people/person.html?crsid=cjh68|accessdate=25 January 2014}}</ref> From 2016 to 2019 he has been Wilson E. Schmidt Distinguished Professor of International Relations at the School of Advanced International Studies,  Johns Hopkins University, Bologna.
+
+===Selected publications===
+* "The Capability-Expectations Gap, or Conceptualizing Europe's International Role", in ''Journal of Common Market Studies'', vol. 31, no. 3, September 1993, pp.&nbsp;305–28. Available in pdf format [https://web.archive.org/web/20070204115833/http://www.aueb.gr/deos/MSc/executives/Bourantonis/expectations-capabilitiesdoc.pdf here].
+* ''Two Worlds of International Relations: Academics, Practitioners and the Trade in Ideas'' (ed. with Pamela Beshoff), Routledge, an imprint of Taylor & Francis Books Ltd, 1994. {{ISBN|0-415-11323-7}}
+* ''Domestic Sources of Foreign Policy: West European Reactions to the Falklands Conflict'' (with Stelios Stavridis), Berg Publishers Ltd, 1996. {{ISBN|1-85973-089-2}}
+* ''European Foreign Policy: Key Documents'' (ed. with Karen E. Smith), Routledge, an imprint of Taylor & Francis Books Ltd, 2000. {{ISBN|0-415-15823-0}}
+* ''Cabinet Decisions on Foreign Policy: The British Experience, October 1938-June 1941'', Cambridge University Press, 2002. {{ISBN|0-521-89402-6}}
+* ''The Changing Politics of Foreign Policy'', Palgrave Macmillan, 2003. {{ISBN|0-333-75423-9}}
+* 'The National Interest in Question: Foreign Policy in Multicultural Societies', (Oxford University Press, 2013){{ISBN missing}}
+* 'Foreign Policy in the 21st Century' (Palgrave Macmillan 2016)
+* 'The Future of British Foreign Policy: Security and Diplomacy in a World after Brexit' (Polity Press, 2019).
+
+==References==
+{{Reflist|35em}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hill, Christopher John}}
+[[Category:British political scientists]]
+[[Category:Academics of the University of Cambridge]]
+[[Category:Academics of the London School of Economics]]
+[[Category:Fellows of Sidney Sussex College, Cambridge]]
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:Alumni of Merton College, Oxford]]
+[[Category:Fellows of the British Academy]]
+
+
+{{polisci-bio-stub}}

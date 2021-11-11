@@ -1,0 +1,31 @@
+[[File:HutchinsFlightDeck.jpg|thumb|right|Hutchins aboard an airline flight deck]]
+'''Edwin Hutchins''' (b. 1948<ref>http://faculty.lawrence.edu/wp-content/uploads/sites/18/2015/11/DCog.pdf</ref>) is a professor and former department head of [[cognitive science]] at the [[University of California, San Diego]]. Hutchins is one of the main developers of [[distributed cognition]].
+
+Hutchins was a student of the [[cognitive anthropology|cognitive anthropologist]] [[Roy D'Andrade]] and has been a strong advocate of the use of anthropological methods in [[cognitive science]]. He is considered the father of modern [[cognitive ethnography]].<ref>{{Cite web|url=https://www.interaction-design.org/literature/author/edwin-hutchins|title=Edwin Hutchins: Publications, bio, bibliography, etc.|website=The Interaction Design Foundation|language=en|access-date=2017-11-05}}</ref> His early work involved studies of logic in legal discourse among people of the [[Trobriand Islands]], [[Papua New Guinea]].<ref>{{cite book|last = Hutchins |first = Edwin |title = Culture and Inference: A Trobriand Case Study|url = https://archive.org/details/cultureinference0000hutc |url-access = registration | year = 1980| publisher = [[Harvard University Press]]| location = Cambridge, Massachusetts}}</ref>
+
+For a time he worked in the Navy doing research on how crews of a ship can function as a distributed machine, offloading the cognitive burden of ship navigation onto each member of the crew.  He was a recipient of the prestigious [[MacArthur Foundation|MacArthur "Genius Grant"]].<ref>{{Cite web|url=https://www.macfound.org/fellows/254/|title=MacArthur Foundation|website=www.macfound.org|language=en|access-date=2017-11-05}}</ref>
+
+In 1995, Hutchins published ''Cognition in the Wild'',<ref>{{cite book|last = Hutchins |first = Edwin |title= Cognition in the Wild |year = 1995|publisher = [[MIT Press]]|location = Cambridge, Massachusetts}}</ref> a detailed study of distributed cognitive processes in a navy ship (an [[Iwo Jima-class amphibious assault ship|''Iwo Jima''-class amphibious assault ship]]<ref>Although Hutchins does not mention the ship class by name, he characterizes it as a {{convert|592|ft|m|adj=mid|-long}} amphibious [[helicopter carrier]] (''Cognition in the Wild'', p. 7). In 2018 he mentioned that the vessel was USS Okinawa. </ref>); like other works related to distributed cognition, it criticizes disembodied views of cognition and proposes an alternative which looks at cognitive systems that may be composed of multiple agents and the material world.
+
+Other areas of his work include the study of airline cockpits,<ref>Hutchins, E. (1995). How a Cockpit Remembers Its Speeds. Cognitive Science, 19(3), 265-288.</ref> the development of cognitive ethnographic methods and tools, and [[human-computer interaction]]. He ran the Distributed Cognition and Human Computer Interaction Laboratory at UC San Diego, in collaboration with [[James D. Hollan|James Hollan]] until 2014. He is now professor emeritus in the UC San Diego Department of Cognitive Science.
+
+==References==
+<references/>
+
+==External links==
+* [http://hci.ucsd.edu/hutchins Hutchins's home page]
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Hutchins, Edwin}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:MacArthur Fellows]]
+[[Category:Cognitive scientists]]
+[[Category:Psychological anthropologists]]
+[[Category:University of California, San Diego faculty]]
+[[Category:Fellows of the Cognitive Science Society]]
+
+
+{{US-anthropologist-stub}}

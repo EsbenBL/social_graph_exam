@@ -1,0 +1,63 @@
+{{short description|American economist}}
+{{Infobox economist
+| name             = David Neumark
+| image            = 
+| image_size       = 
+| caption          = 
+| birth_date       = {{birth date and age|1959|7|7|mf=y}}
+| birth_place      = 
+| death_date       = 
+| death_place      =  
+| nationality      = [[United States|American]]
+| institution      = [[University of California, Irvine]]
+| field            = [[Labor economics]]
+| alma_mater       = [[Harvard University]]<br>[[University of Pennsylvania]]
+| influences       = 
+| influenced       = 
+| contributions    = 
+| awards           =
+| memorials        = 
+| spouse           =
+| signature        = <!-- file name only -->
+| module           = 
+| repec_prefix = e | repec_id = pne16
+}}
+
+'''David Neumark''' (born July 7, 1959) is an [[United States|American]] economist and a Chancellor's Professor of Economics at the [[University of California, Irvine]],<ref>[http://www.ap.uci.edu/distinctions/chancprof.html List of Chancellor's Professors]  {{webarchive|url=http://web.archive.bibalex.org/web/20021115173118/http://www.ap.uci.edu/distinctions/chancprof.html |date=November 15, 2002 }}, UC Irvine, retrieved 2015-06-10.</ref> where he also directs the Economic Self-Sufficiency Policy Research Institute.<ref>{{Cite web|url=http://www.esspri.uci.edu/staff.php|title=Staff {{!}} ESSPRI {{!}} UCI Social Sciences|website=www.esspri.uci.edu|language=en|access-date=2017-02-27}}</ref>
+
+== Education ==
+Neumark graduated with a B.A. in [[economics]] in 1982 from the University of Pennsylvania. He graduated [[Phi Beta Kappa]], Summa Cum Laude, with Honors. He went on to complete his M.A. in 1985 and Ph.D. in 1987 in economics from Harvard University. His fields were [[labor economics]] and [[econometrics]]. His dissertation was entitled ''Male-Female Differentials in the Labor Force: Measurement, Causes and Probes'', and published in parts in the ''[[Journal of Human Resources]]''.<ref>{{Cite journal | last1 = Neumark | first1 = David | year = 1988 | title = Employers' Discriminatory Behavior and the Estimation of Wage Discrimination | journal = Journal of Human Resources | volume = 23 | issue = 3 | pages = 279–295 | doi = 10.2307/145830 | jstor = 145830 }}</ref>
+
+== Academic career ==
+From 1989 to 1994, Neumark was an assistant professor of economics at the [[University of Pennsylvania]]. He became a professor at [[Michigan State University]] in 1994 and remained at MSU until 2004. Since 2005, he is a professor of economics at the University of California, Irvine. He is also a research associate at the [[National Bureau of Economic Research]] and the [[Institute for the Study of Labor]] (IZA).
+
+== Research ==
+
+Neumark's research interests include minimum wages<ref>{{cite journal |last1=Neumark |first1=David |title=Employment effects of minimum wages |journal=IZA World of Labor |date=2018 |doi=10.15185/izawol.6 |url=https://wol.iza.org/articles/employment-effects-of-minimum-wages |access-date=14 May 2021|hdl=10419/125231 |hdl-access=free }}</ref> and living wages, affirmative action, sex differences in labor markets, the nature of labor market discrimination (e.g., [[Taste-based discrimination|taste-based]] versus [[Statistical discrimination (economics)|statistical]] discrimination),<ref>Neumark, D. (2018). Experimental Research on Labor Market Discrimination. Journal of Economic Literature, 56(3), 799–866. https://doi.org/10.1257/jel.20161309</ref> the economics of aging, and school-to-work programs, and he has also done work in demography, health economics, development, industrial organization, and finance. His work has been published in economics journals like the ''American Economic Review'', the ''Quarterly Journal of Economics'', the ''Journal of Political Economy'', the ''Journal of Labor Economics'', the ''Journal of Human Resources''. He is currently the editor of the ''IZA Journal of Labor Policy'' and a co-editor of the ''Journal of Urban Economics''.
+
+;Books
+*''The Economics of Affirmative Action''.<ref>{{cite book|author1=Harry J. Holzer|author-link=Harry J. Holzer|author2=David Neumark|title=The Economics of Affirmative Action|url=https://books.google.com/books?id=jV_vAAAAMAAJ|year=2004|publisher=Edward Elgar Pub.|isbn=978-1-84376-117-4}}</ref> (Co-edited with [[Harry J. Holzer]].) Edward Algar, 2004.
+
+His 2008 book with William Wascher, ''Minimum Wages'',<ref>{{cite book|author1=David Neumark|author2=William L. Wascher|title=Minimum Wages|url=https://books.google.com/books?id=DGg0MzglouYC|year=2008|publisher=MIT Press|isbn=978-0-262-14102-4}}</ref> published by the MIT Press, provides a summary of the dozens of papers he and others have written on the effects of minimum wages. The book covers the effects of minimum wages on employment, schooling, training, income inequality, and poverty.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.socsci.uci.edu/%7Edneumark/index.htm Personal website of David Neumark]
+* [http://www.socsci.uci.edu/%7Edneumark/cv_107.pdf CV of David Neumark]
+* [http://www.iza.org/index_html?lang=en&mainframe=http%3A//www.iza.org/en/webcontent/personnel/photos/index_html%3Fkey%3D1769&topSelect=personnel&subSelect=fellows David Neumark, Research Fellow]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Neumark, David}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:Economists from California]]
+[[Category:Labor economists]]
+[[Category:Microeconometricians]]
+[[Category:Harvard University alumni]]
+[[Category:Michigan State University faculty]]
+[[Category:University of California, Irvine faculty]]
+[[Category:University of Pennsylvania alumni]]
+[[Category:21st-century American economists]]

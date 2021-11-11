@@ -1,0 +1,53 @@
+{{Infobox economist
+| name             = David A. Jaeger
+| school_tradition =
+
+| image       =
+| image_size       =
+| caption    =
+| birth_date       = {{Birth year and age|1964}}
+| birth_place      =
+| death_date       =
+| death_place      =
+| nationality      = United States
+|website = http://www.djaeger.org
+| institution      = [[University of St Andrews]]
+| field            = [[Labor economics]], [[Econometrics]], [[Conflict economics]]
+| doctoral_advisor = [[John Bound]]
+| alma_mater       = [[University of Michigan]] <small>(Ph.D.)</small><br>[[University of Michigan]] <small>(M.A.)</small><br>[[Williams College]] <small>(B.A.)</small>
+| influences       =
+| influenced       =
+| contributions    =
+| spouse           = {{marriage|[[Alison Beach]]|1990}}
+| awards           =  W.E. Upjohn Institute Dissertation Award
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = pja17
+}}
+
+'''David Allen Jaeger''' is a professor of economics at the [[University of St Andrews]], a Research Fellow at [[IZA Institute of Labor Economics]], and a Research Fellow at the [[Centre for Economic Policy Research]].  He was previously a professor of economics at the [[CUNY Graduate Center]] and a Research Fellow in the [[National Bureau of Economic Research]]. He is the author of numerous papers in labor economics, the economics of conflict, and econometrics, including a widely cited paper on the consequences of using weak instruments in [[instrumental variable]] estimation.<ref>{{cite journal |last=Bound |first=John |first2=David A. |last2=Jaeger |first3=Regina M. |last3=Baker |title=Problems with Instrumental Variables Estimation when the Correlation between the Instrument and the Endogenous Explanatory Variable Is Weak |journal=Journal of the American Statistical Association |volume=90 |issue=430 |year=1995 |pages=443–450 |doi=10.1080/01621459.1995.10476536 }}</ref>  He completed his B.A. in economics at [[Williams College]] in 1986 and his Ph.D. in economics at the [[University of Michigan]] in 1995.  He also holds an M.A. in statistics from the [[University of Michigan]].  
+
+In 1995 he was the first winner of the W.E. Upjohn Institute Dissertation Award.<ref>[http://www.upjohn.org/we-upjohn-institute-dissertation-award-winners-and-honorable-mentions W.E. Upjohn Dissertation Award Winners and Honorable Mentions]</ref>  In 2003-2004 he was the recipient of a fellowship from the [[Alexander von Humboldt Foundation]].
+
+David Jaeger is married to the medieval historian [[Alison Beach]].
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.djaeger.org David A. Jaeger's Homepage]
+* [https://scholar.google.com/citations?user=fVTWWtAAAAAJ David A. Jaeger] at [https://scholar.google.com Google Scholar]
+* [https://ideas.repec.org/e/pja17.html David A. Jaeger] at [http://ideas.repec.org RePEc]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jaeger, David A.}}
+[[Category:Living people]]
+[[Category:1964 births]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:University of Michigan alumni]]
+[[Category:Williams College alumni]]
+[[Category:Academics of the University of St Andrews]]
+[[Category:City University of New York faculty]]
+[[Category:University of Cologne faculty]]
+[[Category:College of William & Mary faculty]]

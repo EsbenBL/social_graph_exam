@@ -1,0 +1,82 @@
+{{cleanup reorganize|date=May 2014}}
+{{Infobox economist
+| name             = Sheridan Titman
+| school_tradition =
+| color            =
+| image            =
+| image_size       =
+| caption          =
+| birth_date       = {{Birth date and age|1954|05|23}}
+| birth_place      = [[Denver, Colorado]]
+| death_date       =
+| death_place      =
+| nationality      = United States
+| institution      = [[McCombs School of Business]]
+| field            = [[Financial economics]], including energy finance, investment banking, and real estate finance
+| alma_mater       = [[Carnegie Mellon University]]<br>[[University of Colorado at Boulder|University of Colorado]]
+| awards           = [[Smith Breeden Prize]], 1997 <br> Batterymarch Fellowship, 1985
+| repec_prefix     =  e
+| repec_id         = pti51
+}}
+
+'''Sheridan Dean Titman''' is a professor of finance at the [[University of Texas at Austin]], where he holds the McAllister Centennial Chair in Financial Services at the [[McCombs School of Business]].<ref>{{cite web|url=http://gersteinfisher.com/who-we-are/academic-partners|title=Gerstein Fisher Academic Partners|publisher=Gersteinfisher.com|access-date=2014-05-05}}</ref> He received a B.S. degree from the [[University of Colorado at Boulder|University of Colorado]] and an M.S. and Ph.D. from [[Carnegie Mellon University]].
+
+== Career ==
+Titman previously taught at [[UCLA]], where he was the chair for the department of finance. Between 1992 and 1994, he was one of the founding professors of the School of Business and Management at the [[Hong Kong University of Science and Technology]]. From 1994 to 1997, he served as the John J. Collins, S.J. Chair in Finance at [[Boston College]]. From 1988–89, Titman worked in [[Washington D.C.]] as the special assistant to the Treasury Assistant Secretary for Economic Policy.
+
+Titman's academic publications include articles on [[asset pricing]], [[corporate finance]], and [[real estate]]. Sheridan won the [[Smith-Breeden Prize]] for the best finance research paper published in the ''[[Journal of Finance]]'', the GSAM best paper award for the ''Review of Finance'' and was a recipient of the Batterymarch Fellowship.{{cn|date=October 2017}}
+
+Titman served on the editorial boards of the ''[[Journal of Finance]]'' and the ''[[Review of Financial Studies]]''. He co-authored three finance textbooks, ''Financial Markets and Corporate Strategy'',<ref>{{cite book|title = Amazon listing for Financial Markets and Corporate Strategy|isbn = 978-0072294330|last1 = Grinblatt|first1 = Mark|last2 = Titman|first2 = Sheridan|year = 2002|url = https://archive.org/details/isbn_9780072294330}}</ref> ''Valuation: The Art and Science of Corporate Investment Decisions,'' and ''Financial Management: Principles and Applications''.{{citation needed|date=October 2016}} In 2012 he succeeded [[Raghuram Rajan]] as the President of the [[American Finance Association]] and served as the President of the [[Western Finance Association]]. He has also served as Director of the Asia Pacific Finance Association and the Financial Management Association.{{citation needed|date=October 2016}}
+
+===Momentum investing===
+Titman's most well known research has been on [[Momentum investing]].<ref>{{Cite news|url=http://www.nasdaq.com/article/are-you-ignoring-this-predictive-stock-indicator-cm476322|title=Rising Anxiety That Stocks Are Overpriced|last=Shiller|first=Robert J.|date=2015-08-27|newspaper=The New York Times|issn=0362-4331|access-date=2016-08-10}}</ref> Momentum investing is an investment strategy that aims to capitalize on the continuance of existing trends in the market.<ref>{{Cite web|url=http://www.investopedia.com/terms/m/momentum_investing.asp|title=Momentum Investing Definition|date=2007-06-26|access-date=2016-08-10}}</ref>
+
+In 1993, Narasimhan Jegadeesh and Titman published ''Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency''.<ref>{{Cite journal|last=Jegadeesh|first=Narasimhan|last2=Titman|first2=Sheridan|date=1993-03-01|title=Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency|journal=The Journal of Finance|language=en|volume=48|issue=1|pages=65–91|doi=10.1111/j.1540-6261.1993.tb04702.x|issn=1540-6261|citeseerx=10.1.1.597.6528}}</ref> A study economist [[Robert J. Shiller|Robert Shiller]] called a bombshell.<ref>{{Cite news|url=https://www.nytimes.com/2015/08/30/upshot/rising-anxiety-that-stocks-are-overpriced.html|title=Rising Anxiety That Stocks Are Overpriced|last=Shiller|first=Robert J.|date=2015-08-27|newspaper=The New York Times|issn=0362-4331|access-date=2016-08-10}}</ref>
+
+Follow up research on Titman's momentum paper has been done in academia and private organizations such as [[Cliff Asness]]'s AQR Capital Management.<ref>{{Cite journal|last=Asness|first=Clifford S.|last2=Frazzini|first2=Andrea|last3=Israel|first3=Ronen|last4=Moskowitz|first4=Tobias J.|date=2014-05-09|title=Fact, Fiction and Momentum Investing|ssrn=2435323|location=Rochester, NY|publisher=Social Science Research Network}}</ref> Investment managers such as [[Paul Woolley (economist)|Paul Woolly]] have criticized Momentum Investing, claiming it leads to asset bubbles.<ref>{{Cite news|url=http://www.ft.com/cms/s/0/d9f70604-a611-11e3-8a2a-00144feab7de.html#axzz4Gu8RHnYd|title=Why are markets inefficient and what can be done about it?|last=Authers|first=John|date=2014-03-09|newspaper=Financial Times|issn=0307-1766|access-date=2016-08-10}}</ref>
+
+==Select awards and honors==
+* [[Smith Breeden Prize]] for best paper in the ''[[Journal of Finance]]'', 1997
+* Batterymarch Fellowship, 1985
+* President of the [[American Finance Association]], 2012
+* [[Institute for Scientific Information highly cited researcher]]
+
+==Selected bibliography==
+===Books===
+* Keown, Arthur; John Martin; Sheridan Titman (2010). ''Financial Management: Principles and Applications''. [[Prentice Hall]]. {{ISBN|978-0132544337}}
+* Titman, Sheridan; John Martin (2007). ''Valuation: The Art and Science of Corporate Investment Decisions''. Reading, MA: [[Addison-Wesley]]. {{ISBN|978-0-321-33610-1}}
+* {{cite book | author=Grinblatt, Mark | author2=Sheridan Titman | title=Financial Markets and Corporate Strategy | publisher=[[McGraw-Hill]] | location=Boston | year=2002 | isbn=978-0-07-229433-0 | url=https://archive.org/details/isbn_9780072294330 }}
+
+===Articles===
+* Narasimhan Jegadeesh and Sheridan Titman. 2011. Momentum. ''[[Annual Review of Financial Economics]] ''3, 493–509.
+* Sheridan Titman and Cristian-Ioan Tiu. 2011. Do the Best Hedge Funds Hedge?. ''[[Review of Financial Studies]] ''24, 123–168.
+* Ravi Anshuman, John Martin, and Sheridan Titman. 2011. Accounting for Sovereign Risk When Investing in Emerging Markets. ''[[Journal of Applied Corporate Finance]]'' 23, 41–49.
+* Eric Jacquier, Sheridan Titman, and Atakan Yalçin. 2010. Predicting systematic risk: Implications from growth options. ''[[Journal of Empirical Finance]]'' 17, 991–1005.
+* Sheridan Titman and Sergey Typlakov. 2010. Originator Performance, CMBS Structures and Yield Spreads of Commercial Mortgages. ''[[Review of Financial Studies]] ''23, 3558–3594.
+* Jay Hartzell, Toby Muhlhofer, and Sheridan Titman. 2010. Alternative Benchmarks for Evaluating Mutual Fund Performance. ''Real Estate Economics ''38, 121–154.
+* Sheridan Titman. 2010. The Leverage of Hedge Funds. ''Financial Research Letters'' 7, 2–7.
+* Andres Almazan, Adolfo de Motta, Sheridan Titman, and Vahap Uysal. 2010. [http://118.96.136.31/ejurnal/Journal%20of%20Finance,%202010,%20Vol.%2065%20Issue%202.pdf#page=107 Financial Structure, Acquisition Opportunities, and Firm Locations]. ''[[Journal of Finance]] ''65, 529–563.
+
+==See also==
+* [[Momentum (finance)]]
+* [[Momentum investing]]
+* [[Mutual funds]]
+* [[Carnegie School]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://gersteinfisher.com/who-we-are/academic-partners/ Gerstein Fisher Bio]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Titman, Sheridan}}
+[[Category:Boston College faculty]]
+[[Category:Tepper School of Business alumni]]
+[[Category:Living people]]
+[[Category:University of Colorado alumni]]
+[[Category:McCombs School of Business faculty]]
+[[Category:UCLA Anderson School of Management faculty]]
+[[Category:1954 births]]
+[[Category:Presidents of the American Finance Association]]

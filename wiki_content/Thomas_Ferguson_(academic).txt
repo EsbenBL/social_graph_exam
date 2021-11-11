@@ -1,0 +1,101 @@
+{{short description|American political scientist and author|bot=PearBOT 5}}
+{{Infobox scientist
+|name              = Thomas Ferguson
+|image             =   <!--(filename only)-->
+|image_size        = 
+|caption           = 
+|birth_date        = 1949
+|birth_place       = 
+|death_date        = 
+|death_place       = 
+|fields            = [[Political science]]
+|workplaces        = [[University of Massachusetts Boston]], [[Massachusetts Institute of Technology|MIT]], [[University of Texas, Austin]]
+|alma_mater        = [[Princeton University]] (PhD)
+|doctoral_advisor  = 
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  = 
+|known_for         = [[Investment theory of party competition]]
+|influences        = 
+|influenced        = 
+|awards            = 
+|religion          = 
+|footnotes         = 
+}}
+'''Thomas Ferguson''' (born 1949) is an American [[political science|political scientist]] and author who writes on [[politics]] and [[economics]], often within a [[history|historical]] perspective. He is best known for his [[Investment theory of party competition|Investment Theory of Party Competition]], described in detail in his 1995 book ''Golden Rule: The Investment Theory of Party Competition and the Logic of Money-driven Political Systems''.
+
+==Biography==
+Ferguson obtained his Ph.D. from [[Princeton University]] before teaching at the [[Massachusetts Institute of Technology]] and the [[University of Texas, Austin]].<ref name="INET">{{cite web|title=Thomas Ferguson Profile - Institute for new Economic Thinking|url=http://www.ineteconomics.org/community/experts/tferguson?tab=more-from-this-expert&tab=more-from-this-expert#more-from-this-expert|website=Institute for New Economic Thinking|access-date=10 May 2016}}</ref> He later moved to the [[University of Massachusetts Boston]] where he is now Emeritus Professor of Political Science.<ref>{{cite web|title=Thomas Ferguson Profile - University of Massachusetts Boston|url=https://www.umb.edu/academics/cla/faculty/thomas_ferguson|website=University of Massachusetts Boston|access-date=10 May 2016}}</ref> Ferguson is a member of the advisory board for the [[Institute for New Economic Thinking]] where he is Director of Research, and was also a senior fellow at the [[Roosevelt Institute]].<ref name="INET"/><ref>{{cite web|title=Thomas Ferguson Profile - Roosevelt Institute|url=http://rooseveltinstitute.org/thomas-ferguson/|website=Roosevelt Institute|access-date=10 May 2016}}</ref>
+
+Alongside his academic work Ferguson has also contributed widely to popular media. He has been a contributing editor at ''[[The Nation]]'' and a contributing writer to ''[[The Huffington Post]]''.<ref>{{cite web|title=Thomas Ferguson Profile - The Nation|url=http://www.thenation.com/authors/thomas-ferguson/|website=The Nation|access-date=10 May 2016}}</ref><ref>{{cite web|title=Thomas Ferguson Profile - The Huffington Post|url=http://www.huffingtonpost.com/thomas-ferguson/|website=The Huffington Post|access-date=10 May 2016}}</ref> He is also a contributing editor at ''[[AlterNet]]''.<ref>{{cite web|title=Thomas Ferguson Profile - AlterNet|url=http://www.alternet.org/authors/thomas-ferguson|website=AlterNet|access-date=10 May 2016}}</ref>
+
+==Investment theory of party competition==
+{{details|Investment theory of party competition}}
+Ferguson is best known for his ''investment theory of party competition'', which was detailed most extensively in his 1995 book ''Golden Rule: The Investment Theory of Party Competition and the Logic of Money-Driven Political Systems''. The theory states that political systems featuring party competition are best understood as competitions for investment from wealthy segments of society. This is because political campaigns are expensive, and so political parties whose policies are most attractive to wealthy 'investors' will tend to be more successful as they are better able to attract the finances required to win election campaigns.<ref>{{cite book|last1=Ferguson|first1=Thomas|title=Golden Rule : The Investment Theory of Party Competition and the Logic of Money-Driven Political Systems|url=https://archive.org/details/goldenruleinvest00ferg|url-access=registration|date=1995|publisher=University of Chicago Press|location=Chicago|isbn=0226243176}}</ref>
+
+The theory contrasts with the [[median voter theorem]], which states that the outcome of elections will be the preferences of the median voter as political parties converge on the 'center ground' as they compete for votes.
+
+In 2009, the documentary ''Golden Rule: The Investment Theory of Politics'' about the theory was released, it featured speakers including Thomas Ferguson, [[Noam Chomsky]] and [[Michael Albert]].<ref>{{cite web|title=Golden Rule: The Investment Theory of Politics|url=https://gb.imdb.com/title/tt1851943/|website=IMDb|access-date=10 May 2016}}</ref>
+
+==MIT controversy== 
+According to [[Noam Chomsky]], Ferguson was warned while at MIT that his research might get him denied [[tenure (academic)|tenure]] in the political science department. In Chomsky's account, Ferguson was told "If you ever want to get tenure in this department, keep away from anything after the [[New Deal]]; you can write all of your radical stuff up to the New Deal, but if you try and do it for the post-New Deal period, you're never going to get tenure in this department." Although not explicitly mentioned, the research was ostensibly the [[investment theory of party competition]].<ref>{{cite book |last1=Chomsky |first1=Noam |editor-last1=Mitchell |editor-first1=Peter R. |editor-last2=Schoeffel |editor-first2=John|title=Understanding Power: The Indispensable Chomsky |publisher=Vintage |date=2003 |isbn=0099466066}}</ref>
+
+== Selected works ==
+Ferguson has written numerous scholarly articles, magazine pieces, and a number of books.
+
+=== Books ===
+* {{cite book|last1=Ferguson|first1=Thomas|last2=Rogers|first2=Joel (eds.)|title=The Political Economy: Readings in the Politics and Economics of American Public Policy|date=1984|publisher=M.E. Sharpe, Inc.|location=New York|isbn=0873322762|edition=3. print.|url=https://archive.org/details/politicaleconomy00omic}}
+* {{cite book|last1=Ferguson|first1=Thomas|last2=Rogers|first2=Joel | author-link2 = Joel Rogers |title=Right turn: The Decline of the Democrats and the Future of American Politics|date=1988|publisher=Hill and Wang|location=New York|isbn=0809001705|edition=3. print.}}
+* {{cite book|last1=Ferguson|first1=Thomas|title=Golden Rule: The Investment Theory of Party Competition and the Logic of Money-driven Political Systems|url=https://archive.org/details/goldenruleinvest00ferg|url-access=registration|date=1995|publisher=University of Chicago Press|location=Chicago|isbn=0226243176}}
+
+=== Scholarly ===
+*{{cite journal|last1=Ferguson|first1=Thomas|title=The Political Economy of Knowledge and the Changing Politics of the Philosophy of Science|journal=Telos|date=1973|volume=15|issue=Spring}}
+*{{cite journal|last1=Ferguson|first1=Thomas|title=Party Realignment and American Industrial Structure: The Investment Theory of Political Parties in Historical Perspective|journal=Research in Political Economy|date=1983|volume=6}}
+*{{cite journal|last1=Ferguson|first1=Thomas|title=From Normalcy to New Deal: Industrial structure, Party Competition, and American Public Policy in the Great Depression|journal=International Organization|date=1984|volume=38|issue=1|pages=41–94|url=http://vi.uh.edu/pages/buzzmat/ferguson.pdf|doi=10.1017/s0020818300004276|url-status=dead|archive-url=https://web.archive.org/web/20160304132340/http://vi.uh.edu/pages/buzzmat/ferguson.pdf|archive-date=2016-03-04}}
+*Epstein, Gerald; Ferguson, Thomas (1984). "Monetary Policy, Loan Liquidation, and Industrial Conflict: The Federal Reserve and the Open Market Operations of 1932". ''The Journal of Economic History.'' '''44''' (4): 957-983.
+*{{cite book |last=Ferguson |first=Thomas |editor-last1=Ginsberg |editor-first1=Benjamin |editor-last2=Stone |editor-first2=Alan |title=Do Elections Matter? |publisher=M.E. Sharpe |date=1986 |chapter=Elites and Elections, or: What Have They Done to You Lately? Toward an Investment Theory of Political Parties and Critical Realignment |isbn=978-1-56324-446-9 |url-access=registration |url=https://archive.org/details/doelectionsmatte0000gins_s4k9 }}
+*{{cite journal|last1=Ferguson|first1=Thomas|title=By Invitation Only: Party Competition and Industrial Structure in the 1988 Election|journal=Socialist Review|date=1989|volume=19|pages=73–103}}
+*{{cite journal|last1=Ferguson|first1=Thomas|title=Industrial Structure and Party Competition in the New Deal|journal=Sociological Perspectives|date=1991|volume=34|issue=4|pages=493–526|doi=10.2307/1389404|jstor=1389404}}
+*{{cite book |last=Ferguson |first=Thomas |editor-last=Hodgson |editor-first=Godfrey |title=The United States (Handbooks to the Modern World) |date=1992 |chapter=Money and Politics |isbn=978-0816016211 |chapter-url=https://archive.org/details/unitedstates0000hodg |url-access=registration |url=https://archive.org/details/unitedstates0000hodg }}
+*{{cite book |last1=Ferguson |first1=Thomas |last2=Galbraith |first2=James K. |editor-last1=Galbraith |editor-first1=James K. |editor-last2=Berner |editor-first2=Maureen |title=Inequality and Industrial Change: A Global View |publisher=Cambridge University Press |date=2001 |pages=33–78 |chapter=The American Wage Structure, 1920-1947 |isbn=9780521662741}}
+*{{cite book |last1=Ferguson |first1=Thomas |editor-last=Crotty |editor-first=William J. |title=The State of Democracy in America |publisher=Georgetown University Press |date=2001 |pages=195–254 |chapter=Blowing Smoke: Impeachment, the Clinton Presidency, and the Political Economy |isbn=9780878408610}}
+*{{citation | last = Ferguson| first = Thomas| contribution = Holy Owned Subsidiary: Globalization, Religion and Politics in the 2004 Election | editor-last1 = Crotty| editor-first1 = William J. | title = A Defining Election: The Presidential Race of 2004 | publisher = Routledge | year = 2005 | isbn = 1317478185 | postscript = .}} [https://utip.lbj.utexas.edu/papers/utip_32.pdf Longer version available here.]
+*{{cite journal|last1=Ferguson|first1=Thomas|last2=Voth|first2=Hans-Joachim|title=Betting on Hitler: The Value of Political Connections in Nazi Germany|journal=Quarterly Journal of Economics|date=2008|volume=123|issue=1|pages=101–137|doi=10.1162/qjec.2008.123.1.101}}
+*{{cite journal|last1=Ferguson|first1=Thomas|last2=Johnson|first2=Robert|title=Too Big to Bail: The 'Paulson Put,' Presidential Politics, and the Global Financial Meltdown, Part I: From Shadow Banking System to Shadow Bailout|journal=International Journal of Political Economy|date=2009|volume=38|issue=1|pages=3–34|doi=10.2753/ijp0891-1916380101}}
+*{{cite journal|last1=Ferguson|first1=Thomas|last2=Johnson|first2=Robert|title=Too Big to Bail: The 'Paulson Put,' Presidential Politics, and the Global Financial Meltdown, Part II: Fatal Reversal - Single Payer and Back|journal=International Journal of Political Economy|date=2009|volume=38|issue=2|pages=5–45|doi=10.2753/ijp0891-1916380201}}
+*Ferguson, Thomas; Johnson, Robert (2011). "A World Upside Down? Deficit Fantasies in the Great Recession". International Journal of Political Economy. 40 (1): 3-47. doi:10.2753/IJP0891-1916400101.
+*{{cite journal|last1=Ferguson|first1=Thomas|last2=Jorgensen|first2=Paul|last3=Chen|first3=Jie|title=Party Competition and Industrial Structure in the 2012 Elections: Who's Really Driving the Taxi to the Dark Side?|journal=International Journal of Political Economy|date=2013|volume=42|issue=3|pages=3–41|doi=10.2753/IJP0891-1916420201}}
+
+=== Popular ===
+* "[https://web.archive.org/web/20100108214833/http://tpmcafe.talkingpointsmemo.com/2008/04/17/financial_regulation_dont_get/ Financial Regulation? Don't Get Your Hopes Up]", ''[[Talking Points Memo]]'', 2008-04-17
+* "[http://www.thenation.com/article/bridge-loan-nowhere-0 Bridge Loan to Nowhere?]", ''[[The Nation]]'', 2008-09-24
+* {{cite web|last1=Ferguson|first1=Thomas|last2=Chen|first2=Jie|last3=Jorgensen|first3=Paul|title=Cover Ups Are Worse Than Vanishing Data: The Facts About the FEC's Data Downloads|url=http://www.alternet.org/story/156355/cover_ups_are_worse_than_vanishing_data%3A_the_facts_about_the_fec%E2%80%99s_data_downloads|website=AlterNet|access-date=7 August 2016|date=July 17, 2012}}
+* {{cite web|last1=Ferguson|first1=Thomas|last2=Chen|first2=Jie|last3=Jorgensen|first3=Paul|title=Revealed: Why the Pundits Are Wrong About Big Money and the 2012 Elections|url=http://www.alternet.org/news-amp-politics/revealed-why-pundits-are-wrong-about-big-money-and-2012-elections|website=AlterNet|access-date=7 August 2016|date=December 20, 2012}}
+* {{cite web|last1=Ferguson|first1=Thomas|title=Defying the Investors: Thomas Ferguson on how voter alienation from corporate candidates produced this year's dizzying election results.|url=https://www.jacobinmag.com/2016/06/ferguson-clinton-sanders-election-democratic-party-trump/|website=Jacobin|access-date=7 August 2016|date=June 28, 2016}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://www.umb.edu/academics/cla/faculty/thomas_ferguson UMass Boston polisci profile]
+* [http://www.thenation.com/authors/thomas-ferguson/ Thomas Ferguson's articles] in [[The Nation]].
+* [https://www.motherjones.com/authors/thomas-ferguson Thomas Ferguson's articles] in [[Mother Jones (magazine)|Mother Jones]].
+* [http://www.alternet.org/authors/thomas-ferguson Thomas Ferguson's articles] at [[Alternet]].
+* [http://therealnews.com/t2/index.php?option=com_content&task=view&id=33&Itemid=74&jumival=477 "Giant holes in new banking rules"] Thomas Ferguson interview on [[The Real News]], November 2009 (video and print transcript).
+* [http://therealnews.com/t2/index.php?option=com_content&task=view&id=33&Itemid=74&jumival=348 "Obama should save banks not bankers"] Thomas Ferguson interview on The Real News, March 2009 (video and print transcript).
+* [http://www.democracynow.org/2000/11/7/money_and_power_in_the_2000 "Money and Power in the 2000 Elections"] Thomas Ferguson interview on [[Democracy Now!]], November 7, 2000 (audio and print transcript).
+* [http://www.ineteconomics.org/community/experts/tferguson?tab=more-from-this-expert&tab=more-from-this-expert#more-from-this-expert Profile at Institute for New Economic Thinking]
+* [http://rooseveltinstitute.org/thomas-ferguson/ Profile at the Roosevelt Institute]
+
+<!--
+http://will.illinois.edu/mediamatters/show/september-28-2008/
+-->
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ferguson, Thomas}}
+[[Category:1949 births]]
+[[Category:American political scientists]]
+[[Category:Princeton University alumni]]
+[[Category:University of Massachusetts Boston faculty]]
+[[Category:Living people]]

@@ -1,0 +1,126 @@
+{{Short description|Canadian-born American psychologist}}
+{{Use mdy dates|date=October 2015}}
+{{Infobox scientist
+| name = John Robert Anderson
+| native_name = 
+| native_name_lang = 
+| image = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size = 
+| alt = 
+| caption = 
+| birth_date = {{birth date and age|1947|08|27}}
+| birth_place = 
+| death_date = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names = 
+| residence = 
+| citizenship = 
+| nationality = 
+| fields = [[Educational psychology]]<br>[[Cognitive psychology]] (mathematics education)
+| workplaces = [[Carnegie Mellon University]]
+| patrons = 
+| education = 
+| alma_mater = [[University of British Columbia]] <small>([[Bachelor of Arts|B.A.]])</small> <br> [[Stanford University]] <small>([[Doctor of Philosophy|Ph.D.]])</small>
+| thesis_title = A Stochastic model of sentence memory       <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url = http://searchworks.stanford.edu/view/2231225        <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year = 1972        <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor = [[Gordon Bower]]    <!--(or  | doctoral_advisors = )-->
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = [[Neil Heffernan]]<br>[[Kenneth Koedinger]]<br>[[Christian Lebiere]]<br>[[Peter Pirolli]]<br>[[Dario Salvucci]]<br>[[Lael Schooler]]
+| known_for = [[Intelligent tutoring systems]]<br>[[Cognitive tutors]]<br>[[ACT-R]]<br>[[Rational analysis]]
+| influences = 
+| influenced = 
+| awards = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse = <!--(or | spouses = )-->
+| partner = <!--(or | partners = )-->
+| children = 
+| signature = <!--(filename only)-->
+| signature_alt = 
+| website = <!--{{URL|www.example.com}}-->
+| footnotes = 
+}}
+'''John Robert Anderson''' (born August 27, 1947) is a Canadian-born American psychologist. He is currently professor of [[Psychology]] and [[Computer Science]] at [[Carnegie Mellon University]].
+
+== Biography ==
+Anderson obtained a B.A. from the [[University of British Columbia]] in 1968, and a Ph.D. in Psychology from [[Stanford University|Stanford]] in 1972. He became an assistant professor at [[Yale University|Yale]] in 1972.  He moved to the University of Michigan in 1973 as a Junior Fellow (and married Lynne Reder who was a graduate student there) and returned to Yale in 1976 with tenure.  He was promoted to full professor at Yale in 1977 but moved to [[Carnegie Mellon University]] in 1978. From 1988 to 1989, he served as president of the [[Cognitive Science Society]]. He was elected to the [[American Academy of Arts and Sciences]] and the [[United States National Academy of Sciences|National Academy of Sciences]] and has received a series of awards:
+* 1968: Governor General's Gold Medal:  Graduated as top student in Arts and Sciences at University of British Columbia
+* 1978: Early Career Award of the American Psychological Association 
+* 1989–1994: Research Scientist Award, [[National Institute of Mental Health|NIMH]]
+* 1994: [[American Psychological Association]]'s Distinguished Scientific Career Award
+* 1999: Elected to the [[United States National Academy of Sciences|National Academy of Sciences]]<ref>[http://www.nasonline.org/site/Dir/544817841?pg=vprof&mbr=1001524&returl=http%3A%2F%2Fwww.nasonline.org%2Fsite%2FDir%2F544817841%3Fpg%3Dsrch%26view%3Dbasic&retmk=search_again_link National Academy of Sciences: Anderson, John R.]</ref>
+* 1999: Fellow of [[American Academy of Arts and Sciences]]<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter A|url=http://www.amacad.org/publications/BookofMembers/ChapterA.pdf|publisher=American Academy of Arts and Sciences|access-date=April 18, 2011}}</ref>
+* 2004: The [[David E. Rumelhart]] Prize <ref>See the list of Rumelhart prize winners on the [http://www.cognitivesciencesociety.org/der.html Cognitive Science Society website] {{webarchive|url=https://web.archive.org/web/20071218001826/http://www.cognitivesciencesociety.org/der.html |date=December 18, 2007 }}.</ref> for Contributions to the Formal Analysis of Human Cognition
+* 2005: Howard Crosby Warren Medal for outstanding achievement in Experimental Psychology in the United States and Canada, Society of Experimental Psychology
+* 2006: Inaugural [[Dr. A.H. Heineken Prize]]<ref>See the list of prize winners at the [http://www.knaw.nl/heinekenprizes/ Heineken Prize page website].</ref> for Cognitive Science awarded by the Royal Netherlands Academy of Arts and Sciences
+* 2011: [[Benjamin Franklin Medal (Franklin Institute)|Benjamin Franklin Medal]] in Computer and Cognitive Science, [[Franklin Institute]]<ref>{{cite web |url=http://www.fi.edu/franklinawards/11/bf_computersci.html |title=Benjamin Franklin Medal in Computer and Cognitive Science |year=2011 |publisher=Franklin Institute |access-date=December 23, 2011 |url-status=dead |archive-url=https://archive.is/20120731054034/http://www.fi.edu/franklinawards/11/bf_computersci.html |archive-date=July 31, 2012 |df=mdy-all }}</ref> "for the development of the first large-scale computational theory of the process by which humans perceive, learn and reason, and its application to computer tutoring systems."
+*2016:  Atkinson Prize from the National Academy of Sciences.
+
+==Research==
+In [[cognitive psychology]], John Anderson is widely known for his [[cognitive architecture]] [[ACT-R]]<ref>Anderson, J. R. & Lebiere, C. (1998). ''The atomic components of thought''. Mahwah, NJ: Lawrence Erlbaum Associates</ref><ref>Anderson, J. R. (2007). ''How can the human mind occur in the physical universe?'' New York: Oxford University Press</ref> and [[rational analysis]].<ref>Anderson, J. R. (1991). ''Is human cognition adaptive?'' Behavioral and Brain Sciences 14, 471–517.</ref><ref>Anderson, J. R. (1990). "The adaptive character of thought". Hillsdale, NJ: Lawrence Erlbaum Associates.</ref> He has published many papers on cognitive psychology, including recent criticism of unjustified claims in [[mathematics education]] that lack experimental warrant and sometimes (in extreme cases) contradict known findings in cognitive psychology.<ref>{{ cite journal | last1=Anderson | first1=John&nbsp;R. <!-- | author-link1=John Robert Anderson (psychologist) --> | first2=Lynne&nbsp;M. | last2=Reder | first3=Herbert&nbsp;A. | last3=Simon |author-link3=Herbert A. Simon | author4=K.&nbsp;Anders Ericsson | author5=Robert Glaser | title=Radical constructivism and cognitive psychology | journal=Brookings Papers on Education Policy | editor=Diane Ravitch | editor-link=Diane Ravitch | year=1998 | volume=6 | issue=1 | pages=227–278 }}.</ref>
+
+He was also an early leader in research on [[intelligent tutoring systems]], such as [[cognitive tutors]], and many of Anderson's former students, such as [[Kenneth Koedinger]] and [[Neil Heffernan]], have become leaders in that area.
+
+=== Intelligent tutoring systems ===
+Anderson's research has used fMRI brain imaging to study how students learn with intelligent tutoring systems.<ref name="act-r.psy.cmu.edu">http://act-r.psy.cmu.edu/publications/pubinfo.php?id=819</ref>  Most of his studies have looked at neural processes of students while they are solving algebraic equations or proofs.
+
+Anderson and colleagues generated a cognitive model that predicted that while students were learning an algebra proof, neuroimages showed decreased activation in a lateral inferior prefrontal region and a predefined fusiform region.  This decrease in activity showed an increased fluency in retrieving declarative information, as students required less activity in these regions to solve the problems.<ref name="act-r.psy.cmu.edu"/>
+
+=== Cognitive stages when solving mathematical problems ===
+In a 2012 study, Anderson and Jon Fincham, a colleague at Carnegie Mellon, examined the cognitive stages participants engaged in when solving mathematical problems.  These stages included encoding, planning, solving, and response.  The study determined how much time participants spent in each problem solving stage when presented with a mathematical problem.  Multi-[[voxel]] pattern recognition techniques and [[Hidden Markov model]]s were used to determine participants' problem solving stages.
+
+The results of the study showed that the time spent in the planning stage was dependent on the novelty of the problem.  The time spent in the solving stage was dependent on the amount of computation required for the particular problem.  Lastly, the time spent in the response stage was dependent on the complexity of the response required by the problem.<ref>[http://act-r.psy.cmu.edu/publications/pubinfo.php?id=1053 "Discovering the Sequential Structure of Thought" ]</ref>
+
+=== Decomposition Hypothesis ===
+In another study, Anderson and colleagues used a video game task to test the Decomposition Hypothesis, or the idea that a complex cognitive task can be broken down into a set of information processing components.  The combination of these components remains the same across different tasks.  The study used a cognitive model that predicted behavioral and activation patterns for specific regions in the brain.
+
+The predictions involved both tonic activation, which remained stable across brain regions during game play, and phasic activation, which was present only when there was resource competition. The study's results supported the Decomposition Hypothesis.  Individual differences were also found in participants' learning gains, which indicated that learning a complex skill is dependent on cognitive capacity limits.<ref>http://act-r.psy.cmu.edu/publications/pubinfo.php?id=974</ref>''''''
+
+== Publications ==
+* 1976. ''Language, memory, and thought''. Hillsdale, NJ: Lawrence Erlbaum Associates.
+* 1980. ''Cognitive psychology and its implications.'' San Francisco: Freeman. Eighth edition, Worth Publishers, 2014. {{ISBN|978-1464148910}} 
+* 1983. ''The architecture of cognition.'' Cambridge, MA: Harvard University Press.
+* 1990. ''The adaptive character of thought.'' Hillsdale, NJ: Lawrence Erlbaum Associates.
+* 2000. ''Learning and Memory: An Integrated Approach'' Wiley.  {{ISBN|978-0471249252}}
+* 2007. ''How can the human mind occur in the physical universe?'' New York: Oxford University Press. {{ISBN|978-0195398953}}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://act-r.psy.cmu.edu/people/ja/ Personal page at CMU]
+*[http://act-r.psy.cmu.edu/people/ja/ja_bio.html Biography]
+
+{{Heineken Prizes}}
+{{Psychology|state=uncollapsed}}
+{{Authority control}}
+
+{{DEFAULTSORT:Anderson, John R.}}
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:20th-century psychologists]]
+[[Category:21st-century psychologists]]
+[[Category:American psychologists]]
+[[Category:Computational psychologists]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:Cognitive psychologists]]
+[[Category:Cognitive scientists]]
+[[Category:Educational psychologists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Society of Experimental Psychologists]]
+[[Category:Mathematical cognition researchers]]
+[[Category:Mathematics educators]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Memory researchers]]
+[[Category:Stanford University School of Humanities and Sciences alumni]]
+[[Category:University of British Columbia alumni]]
+[[Category:Winners of the Heineken Prize]]
+[[Category:Rumelhart Prize laureates]]
+[[Category:Yale University faculty]]
+[[Category:Fellows of the Cognitive Science Society]]
+[[Category:Canadian emigrants to the United States]]

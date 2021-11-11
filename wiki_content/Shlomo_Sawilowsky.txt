@@ -1,0 +1,158 @@
+{{Infobox scientist
+| name              = Shlomo Sawilowsky
+| image             = Sawilowsky1991.jpg
+| image_size        = 
+| caption           = 1991
+| birth_date        = 1954
+| death_date        = January 11, 2021
+| birth_place       = [[Augusta, Georgia]]<ref>{{cite book |title=American Men & Women of Science: A Biographical Directory of Today's Leaders in Physical, Biological, and Related Sciences |chapter-url=https://archive.org/details/americanmenwomen08hend |chapter-url-access=registration |publisher=Gale |location=Detroit |series=Gale Biography In Context |year=2008|chapter=Shlomo S. Sawilowsky}}</ref>
+| residence         = West Bloomfield, [[Michigan]], [[United States]]
+| citizenship       = [[United States]] of America
+| nationality       = United States of America
+| fields            = [[Applied statistics]], [[research design]], [[classical test theory]], [[program evaluation]], [[Monte Carlo method]]s
+| workplaces        = [[Wayne State University]]
+| alma_mater        = [[University of South Florida]]
+| doctoral_advisor  = R. Clifford Blair<ref>https://digitalcommons.wayne.edu/coe_tbf/14/ A conversation with R. Clifford Blair on the occasion of his retirement.</ref> James Higgins<ref name=genealogy>{{cite web|url=http://www.genealogy.ams.org/id.php?id=85370|title=The Mathematics Genealogy Project - Shlomo Sawilowsky}}</ref>
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = [[nonparametric statistics]], ''[[Journal of Modern Applied Statistical Methods]]''
+| influences        = 
+| awards            = University distinguished fellow, teaching, and mentoring; [[American Educational Research Association]] distinguished paper
+}}
+
+'''Shlomo S. Sawilowsky''' was [[professor]] of educational statistics and Distinguished Faculty Fellow at [[Wayne State University]] in [[Detroit]], Michigan, where he has received teaching, mentoring, and research awards.<ref>[http://www.otl.wayne.edu/awardsWSU/aw-pe.html 1994 WSU President's Award For Excellence In Teaching; 1997 College of Education Excellence in Teaching Award] {{webarchive|url=https://web.archive.org/web/20081106104005/http://www.otl.wayne.edu/awardsWSU/aw-pe.html |date=2008-11-06 }}</ref><ref>[http://www.gradschool.wayne.edu/GradCouncil/archives/97-98/98-03-25min.pdf 1998 WSU Outstanding Graduate Mentor Award]</ref><ref>[https://web.archive.org/web/20100627233059/http://www.coe.wayne.edu/COE/pdf_files/08-09-Educator-v4.pdf 2000 - 2002 WSU Distinguished Faculty Fellow.]</ref>
+
+==Academic career==
+Sawilowsky obtained his [[Ph.D.]] in 1985 at the [[University of South Florida]]. He was inducted into the USF chapter of the [[Phi Kappa Phi]] honor society on May 17, 1981,<ref>''Who's Who in American Education'', 1990, ''II'', 608. National Reference Institute.</ref> when he received his [[Master of Arts|M.A.]]<ref name="coe.wayne.edu">{{cite web|url=http://coe.wayne.edu/faculty-staff/bio.php?id=60321|title=Profile View - College of Education - Wayne State University|date=11 May 2021}}</ref> In 2008 Sawilowsky served as president of the [[American Educational Research Association]] Special Interest Group/Educational Statisticians. He served as an Assistant Dean in the College of Education at WSU. Along with Miodrag Lovric (Serbia) and [[C. R. Rao]] (India), he was nominated for the 2013 [[Nobel Peace Prize]] for his contributions to the [[International Encyclopedia of Statistical Science]].<ref>http://www.ime.usp.br/~abe/lista/pdfcFHNhReNSn.pdf</ref>
+
+==Contributions to applied statistics and social/behavioral sciences==
+In 2000, the ''AMSTAT News'', a publication of the [[American Statistical Association]], described Professor Sawilowsky's award of Distinguished Faculty Fellow "in recognition of Sawilowsky's outstanding scholarly achievements in applied statistics, psychometrics, and experimental design in education and psychology."<ref>''Amstat News'', May, 2000, p. 26.</ref>
+
+===Applied statistics===
+He is the author of a statistics textbook that presents statistical methods via Monte Carlo simulation methods,<ref>{{cite book |last1=Sawilowsky |first1=Shlomo S. |last2=Fahoome |first2=Gail C. |year=2003 |title=''Statistics via Monte Carlo Simulation with Fortran'' |publisher=Rochester Hills, MI: JMASM |isbn=978-0-9740236-0-1}}</ref> editor of a volume on real data analysis published by the [[American Educational Research Association]] SIG/Educational Statisticians,<ref>{{cite book |last1=Sawilowsky |first1=Shlomo S. (Ed.) |year= 2007 |title=Real Data Analysis: A Volume in Quantitative Methods in Education and the Behavioral Sciences: Issues, Research, and Teaching. American Educational Research Association SIG Educational Statisticians |publisher=Charlotte, NC: IAP-Information Age Publishing |isbn=978-1-59311-565-4}}</ref> and author of over a hundred articles in applied statistics and social sciences journals. Sawilowsky has also authored 24 entries in statistics encyclopedias.
+
+His presentation titled "The Rank Transform," with co-author R. Clifford Blair, was awarded the 1985 Florida Educational Research Association & 1986 American Educational Research Association State/Regions Distinguished Paper Award.<ref name="coe.wayne.edu"/> Many of his publications are related to [[Ranking#Ranking in statistics|rank-based]] [[nonparametric statistics]]. For example, an examination of the robustness and comparative power properties of the rank transform statistic<ref>{{cite journal|last1=Sawilowsky |first1=Shlomo S. |last2=Blair |first2=R. C.|last3=Higgins |first3=J. J.|title=An investigation of the type I error and power properties of the rank transform procedure in factorial ANOVA|journal=Journal of Educational Statistics|volume=14|issue=3 |pages=255–267|doi=10.3102/10769986014003255|year=1989 |s2cid=123538275 }}</ref> was called a "major Monte Carlo study".<ref name="Het98">{{cite book|last1=Hettmansperger|first1=T. P.|last2=McKean|first2=J. W.|title=Robust nonparametric statistical methods| edition=First|series=Kendall's Library of Statistics |volume=5 |location=London|publisher=Edward Arnold; New York: John Wiley \& Sons, Inc. |year=1998|pages=xiv, 269–270, 467|isbn=978-0-340-54937-7 |mr=1604954}}.</ref><ref>Similarly, see F. Pesarin (2001), ''Multivariate permutation tests'', Chichester: Wiley, p. 229.</ref> Hettmansperger and McKean stated that Sawilowsky provided "an excellent review of nonparametric approaches to testing for interaction" (p.&nbsp;254-255).<ref name=Het98/>
+
+Sawilowsky's Monte Carlo work has been cited as an exemplar for designing simulation studies.<ref>{{cite journal | last1 = Maxwell | first1 = S. E. | last2 = Cole | first2 = D. A. | year = 1995 | title = Tips for writing (and reading) methodological papers | url = http://business.nmsu.edu/~mhyman/M610_Articles/Maxwell_Psych_Bulletin_1995.pdf | journal = Psychological Bulletin | volume = 118 | issue = 2| pages = 196–197 | doi=10.1037/0033-2909.118.2.193| citeseerx = 10.1.1.417.6968 }}</ref> His work has been cited on a variety of statistical issues, such as
+*demonstrating sequential procedures of testing underlying assumptions of parametric tests, commonly recommended in textbooks and statistics software user manuals, "increases the rate of Type I error";<ref>Grissom, R. J., & Kim, J. J. (2005). ''Effect sizes for research: A broach practical approach''. Mahwah, NJ: Erlbaum, p. 15.</ref>
+*rounding down degrees of freedom when using tabled critical values decreases statistical power;<ref>Grissom & Kim (2005), p. 33</ref>
+* alternatives to the winsorized sample standard deviation can be invoked to increase the statistical power of Yuen's confidence interval;<ref>Grissom & Kim (2005), p. 38</ref>
+*[[maximum likelihood]] methods (e.g., one-step Huber) are superior to trimming in constructing robust estimators;<ref>Grissom & Kim (2005), p. 42</ref>
+*using effect sizes obtained when the null hypothesis has been retained inflates Type I errors in meta-analysis;<ref>Grissom & Kim (2005), p. 60</ref> and
+*setting the standards for an appropriate Monte Carlo simulation.<ref>{{cite journal | last1 = Cassey | last2 = Smith | year = 2014 | title = Simulating confidence for the Ellison-Glaeser Index | journal = Journal of Urban Economics | volume = 81 | page = 93 | doi =  10.1016/j.jue.2014.02.005}}</ref><ref>Grissom & Kim (2005), p. 131</ref>
+
+{{See also|Monte Carlo Methods}}
+
+===Psychometrics===
+In [[psychological testing]], Sawilowsky is a co-author of two [[Self-determination theory|self-determination]] <!--standardized --> [[Psychological assessment|assessment]] batteries;<ref>{{cite web|url=http://www.ealyeducation.com/|title=Self-Determination Assessment-internet}}</ref><ref>{{cite web |url=http://www.sdtac.uncc.edu/sd_assessments.asp |title=Archived copy |access-date=2010-03-22 |url-status=dead |archive-url=https://web.archive.org/web/20100628223252/http://www.sdtac.uncc.edu/sd_assessments.asp |archive-date=2010-06-28 }}</ref> an instrument designed to assess [[locus of control]], [[self-esteem]], and [[self-concept]] among at-risk adolescents;<ref>Wood, P. C, Hillman, S. B., & Sawilowsky, S. S. (1996). Locus of control, self-concept, and self-esteem among at-risk African -American adolescents. ''Tests in Print'', Volume 1, Oscar Krisen Buros, Buros Institute of Mental Measurements, Educational tests and measurements, 1999, p. 247.</ref> an instrument "which measures [[future orientation]], knowledge of the realities of child rearing, personal intentions, and sexual self-efficacy;"<ref>{{cite journal | last1 = Herrman | first1 = J. W. | last2 = Waterhouse | first2 = J. K. | year = 2010 | title = What do adolescents think about teen parenting? | journal = Western Journal of Nursing Research | volume =  33| issue = 4| pages =  577–592| doi = 10.1177/0193945910381761 | pmid = 20947793 | s2cid = 206462502 }}</ref><ref>{{cite journal | last1 = Somers | first1 = C. L. | last2 = Johnson | first2 = S. A. | last3 = Sawilowsky | first3 = S. S. | year = 2002 | title = A measure for evaluating the effectiveness of teen pregnancy programs | journal = Psychology in the Schools | volume = 39 | issue = 3| pages = 337–342 | doi=10.1002/pits.10023}}</ref> and a college well-being instrument.<ref>{{cite web|url=http://www.edgefoundation.org/information/research/edge-research-executive-summary/|title=Edge Research Executive Summary|access-date=2010-12-09|archive-url=https://web.archive.org/web/20110118021239/http://www.edgefoundation.org/information/research/edge-research-executive-summary/|archive-date=2011-01-18|url-status=dead}}</ref> Sawilowsky was the initial proponent in favor of psychometric theory (reliability refers to the test) over datametric theory<ref>Sawilowsky coined the phrase "datametric theory" in {{cite journal | last1 = Sawilowsky | first1 = S | year = 2000 | title = Psychometrics vs datametrics. | journal = Educational and Psychological Measurement| volume= 60| issue = 2 |pages= 157–173 | doi=10.1177/00131640021970439| s2cid = 145237093 }}; see also {{cite journal | last1 = Sawilowsky | first1 = S. |year=2000| journal = Educational and Psychological Measurement | volume = 60 | issue = 2| pages = 196–200 | doi=10.1177/00131640021970457 | title=Reliability: Rejoinder to Thompson and Vacha-Haase| s2cid = 145538874 }}</ref> (reliability refers to the data), a controversy with implications for test theory, role of tests in expert testimony, [[test validity]],<ref>S. Urbina (2004), ''Essentials of psychological testing''. Hoboken: Wiley, p. 148.</ref><ref>Note that in classical measurement theory (see, e.g., Sawilowsky (2000), ''Educational and Psychological Measurement''), validity applies to the application of the test, but not to the test itself. Hence, the Wikipedia link name is problematic.</ref> etc. The debate was discussed in ''Educational and Psychological Measurement''<ref>2000, ''v''. 60</ref> and elsewhere.<ref>B. Thompson (Ed.) (2003), ''Score reliability: Contemporary thinking on reliability issues'', Thousand Oaks: Sage.</ref> Although the issue has not been resolved, the current non-aligned opinion "lean[s] toward the Sawilowsky position."<ref>J. C. Thomas and P. Traux (2008), Assessment and analysis of clinically significant change. In D. McKay (Ed.), ''Handbook of Research Methods in Abnormal and Clinical Psychology'', p. 333.</ref> In [[classical test theory]], he developed the ''Sawilowsky I'' test, a statistical test used to help demonstrate evidence of [[construct validity]] in the [[multitrait-multimethod matrix]].<ref>{{cite journal | last1 = Sawilowsky | first1 = S | year = 2002 | title = A quick distribution-free test for trend that contributes evidence of construct validity | journal = Measurement and Evaluation in Counseling and Development | volume = 35 | issue = 2| pages = 78–88 | doi = 10.1080/07481756.2002.12069051 | s2cid = 143359025 }}</ref>
+
+{{See also| Multitrait-multimethod matrix}}
+
+===Experimental design===
+Sawilowsky's Monte Carlo<ref>{{cite book |last1=Sawilowsky |first1=Shlomo S. (Ed.) |year= 2007 |title=Real Data Analysis: A Volume in Quantitative Methods in Education and the Behavioral Sciences: Issues, Research, and Teaching. American Educational Research Association SIG Educational Statisticians |publisher=Charlotte, NC: IAP-Information Age Publishing |isbn=978-1-59311-565-4}}, Chapter 15</ref> work on comparing randomized vs quasi-experimental design has been described as "one of the strongest examples"<ref>{{cite journal|last1=Spence|first1=P. R.|author2=Lachlan, K. A.|last3=Rainear|first3=Adam|title=Social media and crisis research: Data collection and directions|journal=Computers in Human Behavior|volume=54|date=2016|pages=667–672|doi=10.1016/j.chb.2015.08.045|url=https://works.bepress.com/patric_spence/67}}</ref> demonstrating limitations of quasi-experimental design, and "provides possibly one of the strongest cases for the superiority of randomized designs."<ref>{{cite journal|last=Spence|first=P. R.|author2=Lachlan, K. A. |title=Disasters, crises, and unique populations: Suggestions for survey research|journal=New Directions for Evaluation|volume=2010|issue=126|date=2010|pages=95–106|doi=10.1002/ev.332}}</ref>
+
+==Mentorship==
+In 1998, the ''AMSTAT News'' reported Sawilowsky's Awards for Excellence in Teaching, and Graduate Mentorship, and noted "Professor Sawilowsky's exceptional record as an academician is reflected in the excellence with which he mentors graduate students."<ref>{{cite web|url=http://www.amstat.org/sections/educ/award.html|title=Awards for Outstanding Statistics Educators}}</ref> He has mentored 109 doctoral dissertations as major professor according to the [[Mathematics Genealogy Project]].<ref name=genealogy/> 
+
+[[ProQuest]] indicates he has chaired dissertations in many other fields, such as kinesiology,<ref>ProQuest 1594489921</ref> nursing education,<ref>ProQuest 1269394702</ref> and teacher education;<ref>ProQuest 1269395621</ref> and co-chaired a dissertation on process drama.<ref>Proquest 733505421</ref> He also served as 2nd advisor on many doctoral dissertations, and numerous more as a committee member.<ref name="ReferenceA">{{cite web|url=http://coe.wayne.edu/tbf/eer/bio.php?id=60321|title=Profile View - College of Education - Wayne State University|date=11 May 2021}}</ref>
+
+==Editorship==
+Sawilowsky is the founder and editor of the ''[[Journal of Modern Applied Statistical Methods]].'' It was created to provide an outlet for research using Monte Carlo and other resampling methods, nonparametric and other robust methods, permutation and other exact or approximately exact methods, and statistical algorithms.<ref>{{cite web|url=http://digitalcommons.wayne.edu/jmasm/|title=JMASM: Journal of Modern Applied Statistical Methods - Open Access Journals - Wayne State University}}</ref><ref>{{cite web|url=http://www.jmasm.com|title=Journal of Modern Applied Statistical Methods (JMASM)}}</ref>
+
+==Publications==
+Books
+* 2007. (Ed.) ''Real data analysis. A Volume in Quantitative Methods in Education and the Behavioral Sciences: Issues, Research, and Teaching, American Educational Research Association Educational, Educational Statisticians.'' Greenwich, CT: Information Age Publishing.
+* 2007. (With editorial assistance by Yechiel Conway.) ''Making the Shabbos kitchen.''  Lakewood, NJ: ''Pirchei Shoshanim''.
+* 2002. (With G. F. Fahoome). ''Statistics via Monte Carlo simulation with Fortran.'' Rochester Hills, MI: JMASM.
+
+Selected Articles [http://coe.wayne.edu/profiles/s_sawilowsky.pdf]
+{{div col|colwidth=35em}}
+* 2016. [http://digitalcommons.wayne.edu/jmasm/vol15/iss2/4/ ''Rao-Lovric and the triwizard point null hypothesis tournament'']
+* 2012. [http://irssh.com/yahoo_site_admin/assets/docs/9_IRSSH-219-V3N1.131230744.pdf ''S-Index: A Comprehensive Scholar Impact Index'']
+* 2009. [http://digitalcommons.wayne.edu/jmasm/vol8/iss2/26/ ''New Effect Size Rules of Thumb'']
+* 2005. [http://digitalcommons.wayne.edu/jmasm/vol4/iss2/26/ ''Misconceptions leading to choosing the t test over the Wilcoxon Mann-Whitney U test for shift in location parameter'']
+* 2004. [https://digitalcommons.wayne.edu/coe_tbf/14/ ''A Conversation With R. Clifford Blair On The Occasion Of His Retirement'']
+* 2004. [http://digitalcommons.wayne.edu/jmasm/vol3/iss1/23/ ''Teaching Random Assignment: Do You Believe It Works?'']
+* 2003. [http://digitalcommons.wayne.edu/jmasm/vol2/iss2/19/ ''Deconstructing Arguments From The Case Against Hypothesis Testing'']
+* 2003. [http://digitalcommons.wayne.edu/jmasm/vol2/iss1/11/ ''A Different Future For Social And Behavioral Science Research'']
+* 2002. [http://digitalcommons.wayne.edu/jmasm/vol1/iss1/19/ ''The Trouble With Trivials (p > .05) Part 1''] 
+* 2003. [http://digitalcommons.wayne.edu/jmasm/vol2/iss1/21/ ''You Think You've Got Trivials? Part 2''] 
+* 2003. [http://digitalcommons.wayne.edu/jmasm/vol2/iss1/25/ ''Trivials: The Birth, Sale, And Final Production Of Meta-Analysis Part 3'']
+* 2002. [http://digitalcommons.wayne.edu/jmasm/vol1/iss2/55/ ''Fermat, Schubert, Einstein, and Behrens-Fisher: The Probable Difference Between Two Means When Sigma(1)^2 Is Not Equal to Sigma(2)^2'']
+* 2002. [http://digitalcommons.wayne.edu/jmasm/vol1/iss1/8/ ''A Measure Of Relative Efficiency For Location Of A Single Sample'']
+* 2002. A quick distribution-free test for trend that contributes evidence of construct validity. ''Measurement and Evaluation in Counseling and Development'', ''35'', 78-88.
+* 2000. Reliability. ''Educational and Psychological Measurement'', ''60'', 196-200.
+* 2000. Psychometrics vs. datametrics. ''Educational and Psychological Measurement'', ''60'', 157-173.
+* 2000. Review of the rank transform in designed experiments. ''Perceptual and Motor Skills'', ''90'', 489-497.
+* 1994. (With D. L. Kelley, R.C. Blair, & B. S. Markman). Meta-analysis and the Solomon four-group design. ''Journal of Experimental Education'', ''62'', 361-376.
+* 1992 (With R. C. Blair). A more realistic look at the robustness and type II error properties of the t test to departures from population normality. ''Psychological Bulletin'', ''111'', 353-360.
+* 1990 Nonparametric tests of interaction in experimental design. ''Review of Educational Research'', ''60'', 91-126.
+* 1989 (With R. C. Blair & J. J. Higgins). An investigation of the type I error and power properties of the rank transform procedure in factorial ANOVA. ''Journal of Educational Statistics'', ''14'', 255-267.
+{{div col end}}
+
+{{Infobox religious biography
+| background      =
+| name            = Shlomo Sawilowsky
+| image           =
+| caption         =
+| religion        = Jewish
+| school          = [[Rabbinical College of America]], [[List of yeshivas|''Yeshivas Pirchei Shoshanim'']]
+| lineage         =
+| denomination            = [[Chabad-Lubavitch]]
+| temple          =
+| alias           =
+| monastic name   =
+| pen name        =
+| posthumous name =
+| dharma name     =
+| location        =
+| title           =
+| period          =
+| predecessor     =
+| successor       =
+| ordination      = ''Issur V'Heter'', ''Shabbos''
+| post            =  *''[[Shaliach (Chabad)]]'' of Pinellas County, Florida
+* Associate Rabbi, ''Bais Chabad'' of Farmington Hills, Michigan [http://www.jewishfarmingtonhills.com/templates/articlecco_cdo/aid/593910/jewish/Adult-Education.htm]
+| birth_date   =
+| birth_place  =
+| nationality     =
+| death_date   =
+| death_place  =
+| resting place   =
+| resting place coordinates =
+| teacher         = Rabbi [[Menachem Mendel Schneerson]], Rabbi Avraham Lipskier ([[Mashpia]]), Rabbi Dovid Ostroff [http://www.machonyaakov.org/staff/#bio]
+| students        =
+| works           = ''Pirchei Shoshanim'''s Making the ''Shabbos'' Kitchen
+| reincarnation of =
+}}
+
+==Rabbinical studies and contributions to the Judaica literature==
+After graduating from the [[Rabbinical College of America]] in 1979, Sawilowsky was the emissary of the Grand Rabbi of Lubavitch, Rabbi [[Menachem Mendel Schneerson]], to [[Pinellas County, Florida]].<ref>Rabbi Yosef B. Friedman (Ed.)(1986). ''Let there be light: Thirty days in the lives of the Chabad-Lubavitch Lamplighters''. Brooklyn, NY: Merkos L'Inyonei Chinuch, Section "Florida: S. Petersburg," {{ISBN|0-8266-0378-5}}.</ref> He also obtained a rabbinical degree from Yeshivas Pirchei Shoshanim ([[Jerusalem]], [[Israel]]) in 2004, after having studied with the first group of students ever to receive strictly Orthodox Rabbinical [[Semicha|ordination]] curricula on the laws of the [[Shabbat|Jewish Sabbath]] delivered via e-mail.<ref>[https://web.archive.org/web/20070214062405/https://www.shulchanaruch.com/ Shema Yisrael Torah Learning Network]</ref><ref>[http://mishpacha.com/backissuesLarge/1/14/ ''Mishpacha Jewish Family Weekly''] {{webarchive |url=https://web.archive.org/web/20061111060729/http://mishpacha.com/backissuesLarge/1/14/ |date=November 11, 2006 }}</ref>
+
+Sawilowsky is the author of a textbook written in dialogue format for preparing food and other matters related to the kitchen for the Sabbath.<ref>Sawilowsky, Shlomo S. (2007). ''Making the Shabbos kitchen''. (With editorial assistance by Yechiel Conway.) Lakewood, NJ: Pirchei Shoshanim. {{ISBN|978-0-9740236-7-0}}</ref> It is based on the [[Talmud]], Code of Jewish Law ([[Shulchan Aruch]]), and [[Ashkenaz]], [[Sephardi]], and [[Chabad]] customs. He has published articles on Bible commentary and related topics in the annual journal of Pirchei Shoshanim.<ref name="ReferenceA"/>
+
+===Selected Judaica===
+{{div col|colwidth=35em}}
+* 2007. [http://www.shulchanaruch.com/wp-content/uploads/2012/samples/SHABBOS_KITCHEN_LESSON_1.pdf ''Making the Shabbos Kitchen, Chapter 1'']
+{{div col end}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+<!-- *{{Official|http://tbf.coe.wayne.edu/eer/shlomo.htm}} -->
+*{{MathGenealogy|85370}}
+*[http://digitalcommons.wayne.edu/jmasm/''Journal of Modern Applied Statistical Methods'']
+{{Chabad footer}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sawilowsky, Shlomo}}
+[[Category:1954 births]]
+[[Category:Living people]]
+[[Category:Chabad-Lubavitch Hasidim]]
+[[Category:American Hasidim]]
+[[Category:Jewish American scientists]]
+[[Category:American statisticians]]
+[[Category:Monte Carlo methodologists]]
+[[Category:Wayne State University faculty]]

@@ -1,0 +1,59 @@
+{{Infobox economist
+| name              = Leonard A. Rapping
+| image             = Leonard A Rapping898.jpg
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date|1934|4|16|mf=yes}}
+| birth_place       = 
+| death_date        = {{death date and age|1991|10|1|1934|4|16|mf=yes}}
+| death_place       = 
+| nationality       = [[United States|American]]
+| institution       = <!-- or: institutions -->
+| field             = 
+| school_tradition  = 
+| alma_mater        = [[University of Chicago]]
+| doctoral_advisor  = 
+| doctoral_students = 
+| contributions     = 
+| awards            = 
+}}
+
+'''Leonard Alan Rapping''' (April 16, 1934 – October 1, 1991)<ref>{{Find a Grave|39089507|Leonard A. Rapping}}</ref> was an American economist, who advised several Federal agencies. He also helped develop theories on the interplay of human behavior and business cycles. He was most famous for his work with [[Robert E. Lucas]] which laid the foundations for [[real business cycle theory]], which holds that the financial expectations of business executives and consumers help mold their decisions, therefore influencing economic outcomes. That theory helped analyze the 1970s phenomenon of "[[stagflation]]", in which prices rose despite economic stagnation and recession.
+
+At the time of his death, Rapping was completing a book for the 20th Century Fund, called ''The Wage Crunch'', on the social and economic effects of the slowdown in American wages in recent years.
+
+Early in his career, Rapping held a [[laissez-faire]] view of a government's role in the economy but grew to believe capitalism needed regulation. He was highly critical of the [[supply-side economics|supply-side]] policies of the [[Ronald Reagan|Reagan administration]].,<ref name="urlLeonard A. Rapping Dies at 57; Adviser and Economic Theorist - The New York Times">{{cite news |url=https://www.nytimes.com/1991/10/04/us/leonard-a-rapping-dies-at-57-adviser-and-economic-theorist.html |title=Leonard A. Rapping Dies at 57; Adviser and Economic Theorist |newspaper=[[New York Times]] |accessdate=2010-05-07 |first=Bruce |last=Lambert |date=1991-10-04 }}</ref> calling it a policy that "transfers money from the poor to the rich."
+
+As a consultant and researcher, Rapping worked for the Rand Corporation, the Federal Bureau of the Budget, the Defense Department, the Justice Department, the Labor Department, the Transportation Department, the Center for Naval Analysis, and Northwestern University's Transportation Center. Shortly before his death, Rapping served as Director of the National Academy of Science's Panel on Technology and Employment.
+
+Rapping was Professor of Economics at the University of Massachusetts, Amherst. Before that, he served on the faculty of Graduate School of Industrial Administration, Carnegie-Mellon University. He also taught at Brandeis University, University of Notre Dame, the University of Nevada, San Fernando State College, and UCLA.
+
+Rapping obtained his bachelor's degree from UCLA, 1956, [[Phi Beta Kappa Society|Phi Beta Kappa]], Master of Arts, University of Chicago, 1958 and Doctor of Philosophy in Economics, University of Chicago, 1961.
+
+== Personal ==
+Leonard A. Rapping was born April 16, 1934, son of Joseph & Rose (Scharfin) Rapping. Married Elayne J. Antler, August 15, 1960 (div. May 1973); Children: Alison Rapping, [[Jonathan Rapping]]. Married Judith Alt Wilson, Sept 12, 1980.
+
+== Selected publications ==
+
+* {{Cite journal | jstor = 1830142|title=Unemployment in the Great Depression: Is There a Full Explanation?| journal = Journal of Political Economy| volume = 80| issue = 1| pages = 186–191| last1 = Lucas| first1 = Robert E| last2 = Rapping| first2 = Leonard A| year = 1972| doi=10.1086/259872}}
+* {{Cite journal | jstor = 1829964|title=Real Wages, Employment, and Inflation|author1=Robert E. Lucas, Jr.|author2= Leonard A. Rapping|journal=Journal of Political Economy|volume=77|number= 5|date=Sep–Oct 1969|pages= 721–754|doi=10.1086/259559}}
+* {{Cite journal | jstor = 1830034|title=The Role of Market Variables and Key Bargains in the Manufacturing Wage Determination Process| journal = Journal of Political Economy| volume = 76| issue = 5| pages = 1015–1036| last1 = McGuire| first1 = Timothy W| last2 = Rapping| first2 = Leonard A| year = 1968| doi=10.1086/259465}}
+* {{Cite journal | doi = 10.2307/1924126| jstor = 1924126| title = Learning and World War II Production Functions| journal = The Review of Economics and Statistics| volume = 47| issue = 1| pages = 81–86| year = 1965| last1 = Rapping | first1 = L. }}
+* {{Cite book|url=https://books.google.com/books/about/Racial_Discrimination_in_Economic_Life.html?id=0uS6AAAAIAAJ|title=Racial Discrimination in Economic Life|isbn=978-0-669-83352-2|last1=Pascal|first1=Anthony H|year=1972|publisher=The Rand Corporation, Lexington Books|first2=Leonard A.|last2= Rapping}}
+* {{cite journal|doi=10.1086/258828|title=The Economic Value of the United States Merchant Marine. Allen R. Ferguson , Eugene M. Lerner , John S. Mc ''Gee'' , Walter Y. Oi , Leonard A. Rapping , Stephen P. Sobotka|journal=Journal of Political Economy|volume=71|issue=6|pages=601–602|year=1963|last1=Meyer|first1=John}}
+* {{Cite book|publisher=Simon & Schuster|isbn=978-0-8147-7416-8|title=International Reorganization and American Economic Policy|first1=Leonard A.|last1= Rapping}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rapping, Leonard}}
+[[Category:1934 births]]
+[[Category:1991 deaths]]
+[[Category:20th-century American economists]]
+[[Category:University of California, Los Angeles alumni]]
+[[Category:University of Chicago alumni]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:University of Massachusetts faculty]]

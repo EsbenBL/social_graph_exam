@@ -1,0 +1,96 @@
+{{Multiple issues|
+{{tone|date=March 2011}}
+{{more citations needed|date=March 2011}}
+{{peacock|date=March 2011}}
+}}
+{{Infobox scientist
+| image             = Edwin Ray Guthrie.jpg
+| image_size        = 200px
+| birth_date        = {{birth date|1886|1|9|df=y}}
+| birth_place       = [[Lincoln, Nebraska]]
+| death_date        = {{death date and age|1959|4|23|1886|1|9|df=y}}
+| death_place       = [[Seattle, Washington]]
+| doctoral_students =
+| notable_students  =
+| known_for         = One Trial Theory
+| author_abbrev_bot =
+| author_abbrev_zoo =
+| influences        = [[Edward Thorndike]]
+| influenced        = [[William Kaye Estes]]
+| spouse            = 
+| footnotes         =
+}}
+
+'''Edwin Ray Guthrie''' ({{IPAc-en|ˈ|g|ʌ|θ|r|i}}; January 9, 1886 – April 23, 1969) was a [[behaviorist|behavioral]] [[psychologist]]. He first worked as a [[mathematics]] teacher, and [[philosopher]], but switched to psychology when he was 33. He spent most of his career at the [[University of Washington]], where he became full professor and then [[emeritus]] professor in psychology.<ref name=Peterson>{{Cite web |url=http://www.muskingum.edu/~psych/psycweb/history/guthrie.htm |title=Edwin R. Guthrie. Peterson, Heather 1999 |access-date=2007-03-07 |archive-url=https://web.archive.org/web/20070313195620/http://www.muskingum.edu/~psych/psycweb/history/guthrie.htm |archive-date=2007-03-13 |url-status=dead }}</ref>
+
+Guthrie is best known for his theory that all learning was based on a [[stimulus–response theory|stimulus–response association]]. This was variously described as one trial theory, non-reinforcement, and [[Contiguity (psychology)|contiguity learning]]. The theory was:
+:"A combination of [[stimulus (psychology)|stimuli]] which has accompanied a movement will on its recurrence tend to be followed by that movement".<ref>Guthrie E.R. 1935. ''The psychology of learning''. New York: Harper & Row, p26.</ref>
+One word that his coworkers and students used to describe Guthrie and his theories was "simple",<ref name=Sheffield>Sheffield F.D. 1959. Edwin Ray Guthrie: 1886-1959. ''American Journal of Psychology'', 642-650.</ref> and perhaps he did prefer to use simple terms to illustrate complex ideas.<ref name=Peterson/> However, "It is undoubtedly true that many reviews of Guthrie in the literature have mistaken incompleteness for simplicity".<ref>Mueller C.G. Jr & Schonfeld W.N. 1954. Edwin R. Guthrie. In W.E. Estes et al, ''Modern learning theory''. New York: Appleton-Century-Crofts, 345{{ndash}}379.</ref>
+
+His simple nature carried into his teachings where he took great pride in working with and teaching students.<ref name=Clark>{{cite journal | last1 = Clark | first1 = D.O. | year = 2005 | title = From philosopher to psychologist: the early career of Edwin Ray Guthrie | journal = History of Psychology | volume = 8 | issue = 3| pages = 235–254 | doi = 10.1037/1093-4510.8.3.235 | pmid = 16217880 }}</ref>
+
+== Early life and education ==
+Guthrie was born in [[Lincoln, Nebraska]], to a father who owned a store selling pianos and bicycles, and a mother who was a school teacher. He remarked that his theories got an early start when he and a friend read Darwin's ''[[Origin of Species]]'' and ''[[The Expression of the Emotions in Man and Animals]]'' while they were both in eighth grade. Guthrie graduated at the age of 17 after writing a rather inflammatory senior thesis that argued "that both science and religion, being dependent on words, and words being symbols dependent for their meanings on the experience of their users and auditors, would have no chance at expressing Absolute Truth".<ref name=Guthrie59>Guthrie, Edwin, Association by contiguity. In Sigmund Koch (ed), 1959. ''Psychology: a study of a science'', 158-198.</ref>  Guthrie received the title of [[lay reader]] in his local Episcopal Church while pursuing a philosophy degree from the University of Nebraska. This university he credited with helping him pursue his varied interests because "the university had none of the present apparatus of required courses and set curricula. . . . This freedom made possible the inclusion of courses in both Latin and Greek which had been begun in high school; mathematics through calculus" <ref name=Guthrie59 />
+
+===Psychology interest===
+While Guthrie was going to graduate school he was the only student in a seminary taught by [[Wilhelm Wundt]]’s protégé H. K. Wolfe, where they debated the philosophy of science. Guthrie later characterized the classes that he took for his degree as philosophy courses that "took much interest in issues that would now be recognized as psychological".<ref name=Guthrie59 />  His focus upon a theoretical approach to psychology as opposed to an experimental research approach can be found in his account of his single experimental psychology course which he described as "a research course under Bolton devoted a winter to observations with an [[aesthesiometer]] on the [[Just noticeable difference|limen]] of twoness, and served to quench [my] interest in [[psychophysics]], which was the chief preoccupation of psychological laboratories in those times".<ref name=Guthrie59 />
+
+His professional psychology career did not start in full until he met Stevenson Smith, who founded the psychology department at the [[University of Washington]] in 1917. Guthrie and Smith helped write ''Chapters in General Psychology'' in 1921.<ref name=SmithGuthrie/> This book and work with Smith, focused Guthrie's continuing psychological works towards how exactly learning works and what affects a person's capability of learning. He and his wife, Helen MacDonald, traveled to [[France]] where they met [[Pierre Janet]]. Janet's writing had a great impact on Guthrie's thinking, so profound in fact that Guthrie and his wife translated Janet's ''Principles of Psychology'' together. Guthrie added to Janet's writings an objective theory of learning.<ref name=Encyclopedia>Edwin Ray Guthrie, ''Encyclopedia of Psychology'' 2001</ref>
+
+==One trial theory==
+
+Guthrie's theories went against those of [[E.L. Thorndike|Thorndike]]’s [[classical conditioning]] and [[B. F. Skinner|Skinner]]’s [[operant conditioning]] due mainly to Guthrie’s insistence that their "desire for results of immediate practical applications" led to their theories being wrong.<ref name=Guthrie46>Guthrie, E. R. (1946). Psychological Facts and Psychological Theory., "Psychological Bulletin" Vol. 43, 1-20</ref>  Guthrie's learning theory is called one-trial learning and he developed it with Smith at the University of Washington.<ref name=SmithGuthrie>Smith, S. & Guthrie, E. Exhibitionism, University of Washington, 1920, 205-211</ref>  Guthrie and Smith's theory states that all learning is done within a single exposure to a situation.<ref name=Guthrie46 />  Guthrie admitted that his own theory required the assumption that people react to a given situation the same way so long as it was still effective.<ref name=Guthrie46 />  
+Guthrie's more ambiguous theories and assumptions were put into more understandable terms after his death.<ref name=Cech />  These notes focused upon the following three principles, the principle of association, the principle of postremity, and the principle of response probability.<ref name=Voeks>Voeks, V. W. Formalization and clarification of a learning of theory, ''Journal of Psychology'' 1950, Vol. 30, 341-362</ref>
+
+* The principle of association says that any stimulus that accompanies a behavior or immediately precedes it by less than half a second becomes a cue for that specific behavior.<ref name=Voeks />
+* The principle of postremity theorizes that a stimulus when followed by more than two responses only becomes associated with the response closest to the stimulus.<ref name=Voeks />
+* The principle of response probability states that the chance of a particular response occurring at a specified time relates to the size of the stimulus for that response present at the specified time. The more cues for a stimulus the higher the chance of a desired response.<ref name=Voeks />
+
+===Punishment===
+Guthrie also had theories as to how punishment worked that were at odds with the likes of [[Edward Thorndike|Thorndike]] and other learning theorists of his own time. Guthrie thought that punishment was only as effective as the amount of change in behavior the punishment caused.<ref name=Guthrie34>Guthrie, E. R. Reward and Punishment, ''Psychological Review'' 1934, Vol. 41, 450-460</ref>  Guthrie's theory required that presentation of punishment happen while the stimulus is still around. He did warn that if the punishment did not stop the undesirable response or if it was not presented in the presence of the stimulus that the punishment could actually strengthen the undesired response.
+
+===Breaking habits===
+Guthrie believed that dozens of tiny movements make up what most see as a single behavior; much like waving good-bye actually involves dozens of muscle movements. Guthrie viewed habits as a response connecting with a large number of stimuli, which causes the habit to happen more often to a wide variety of things. He postulated that there were three different ways to break a habit, the threshold method, the fatigue method, and the incompatible response method. 
+* The threshold method involves introducing stimuli that are associated with the habit response at such a weak level that it doesn't actually elicit the response. The strength of the stimuli is increased slowly until the stimuli can be presented at full strength without eliciting the habit response. Guthrie compared this method to "[[horse whispering]]."<ref name=Guthrie34 />
+* The fatigue method is quite simple, you keep presenting the stimulus until the person with the habit no longer replies with their habitual response. Guthrie considered this method similar to "breaking the horse."<ref name=Guthrie34 />
+* The incompatible response method pairs the stimuli that causes the habitual behavior with another stimulus that triggers a response that is opposite or incompatible with the habit that you want to get rid of.<ref name=Guthrie34 />
+
+==Historical relevance==
+According to his students, Guthrie's writings and theories were intentionally vague and "ambiguous" much to his insistence on his work not being biased in a similar fashion and due to this resulted in most of his theories not being tested while Guthrie was alive.<ref name=Cech>Cech, C. G. Chapter 5 - The Nature of Reinforcement & Its effects on Acquisition: Guthrie’s Contiguity Theory 1998</ref>  Thankfully, his peers and students turned his theories into more precise ideas that allowed experiments to test them. His theories on learning were wrong but his ideas about behaviorism helped make the case that Psychology as a whole had important applications to real life issues. His real effect on the course of Psychology however, came from those he left behind. His student [[Voeks]] was the one who formalized Guthrie's theories into a more testable form and his colleague [[William Kaye Estes]] took Guthrie's ideas and created a statistical theory of learning that he is now famous for.
+
+== Guthrie on education ==
+Edwin Ray Guthrie was interested in the application of psychology and his learning theories in education. In the preface of his book ''Educational Psychology'' (1950), he states, " … the ultimate test of a theory of learning is its influence on the all-round growth of young people when applied in the classroom."<ref name=GuthriePowers>{{cite book|last1=Guthrie|first1=E. R.|last2=Powers|first2=F. F.|title=Educational Psychology|date=1950|publisher=The Ronald Press Company|location=New York}}</ref> He hypothesized that pairing a stimulus and response could result in learning after only one trial. Guthrie believed that learning takes place through [[association (psychology)|association]] and [[classical conditioning|conditioning]], and one pairing is often enough to establish a connection, rather than repeated stimulus-response pairings.<ref name=GuthriePowers /> These association and [[connectionism|connectionist]] theories are the bases of Guthrie's contiguity theory of learning. The [[Contiguity (psychology)|law of contiguity]] refers to associating, or learning, two stimuli or events that occur simultaneously. When the stimulus and response occur together, they are learned due to the connection of their contiguity.<ref name=Mangal>{{cite book|last1=Mangal|first1=S. K.|title=Advanced Educational Psychology|date=2002|publisher=Prentice Hall of India Private Limited|location=New Delhi|edition=Second}}</ref>
+
+Guthrie acknowledged the use of [[reinforcement]] and rewards, but he did not deem them necessary for learning.<ref name=GuthriePowers /> He believed that organisms played a large part in their learning when developing habits and skills due to "movement-produced stimuli."<ref name=Prenzel>{{cite book|last1=Prenzel-Guthrie|first1=P.|editor1-last=Kimble|editor1-first=G. A.|editor2-last=Boneau|editor2-first=C. A.|editor3-last=Wertheimer|editor3-first=M.|title=Portraits of pioneers in psychology: Volume II|date=1996|publisher=American Psychological Association|location=Washington DC|pages=137–150|chapter=Edwin Ray Guthrie: Pioneer Learning Theorist}}</ref> Therefore, he asserts that the students do not learn from what the teacher does, but from what they do themselves. In other words, students do not learn something merely by hearing or reading it; rather, the information must elicit an "active response" in the learner.<ref name=GuthriePowers /> He believed that the ideal school environment is one that permits "freedom of responsible action."<ref name=GuthriePowers /> He advocated for an environment that does not repress individual differences but rather appreciates them and allows the students as much self-direction as possible.<ref name=GuthriePowers /> Guthrie described that an effective teacher would be one that would modify and revise the content of their lessons because students are dynamic in their learning and are "constantly organizing and reorganizing experiences."<ref name=GuthriePowers /> According to ''Visible Learning for Teachers'' (2012), which evaluates effective teaching strategies, Hattie makes a significant point to advocate for flexible, adaptable instruction that is modified by the students’ prior knowledge, experiences, and individual differences as well as their rates of learning.<ref name=Hattie>{{cite book|last1=Hattie|first1=J.|title=Visible learning for teachers: Maximizing impact on learning|date=2012|publisher=Routledge|location=New York, NY}}</ref>
+
+The applications of Guthrie's theories have carried on to present education practices. In ''Educational Psychology'' (1950), he asserted that effective study skills included a clear goal, mastery of fundamentals, knowledge of learning phenomena, concentration, and practice.<ref name=GuthriePowers /> There is evidence that [[goal setting]] is indeed effective in learning and retaining material.<ref name=Hattie /> Similarly, Guthrie advocated for making clear objectives for student learning by connecting the target response to the educational stimulus.<ref name=Olson>{{cite book|last1=Olson|first1=M. H.|last2=Hergenhahn|first2=B. R.|title=An introduction to theories of learning|date=2009|publisher=Prentice Hall|location=Upper Saddle River, NJ|edition=8th}}</ref> Although he believed in one-trial learning, Guthrie valued practice in the classroom. The purpose of practice is to ensure that students continue to "relearn" the material because of the uniqueness of each learning experience.<ref name=Olson /> He asserted that distributed, or spaced, practice is the most effective and efficient method for learning and retaining content.<ref name=GuthriePowers /> [[Distributed practice]] has indeed been shown to be highly effective in improving student learning and is recommended for use in classrooms today.<ref name=Dunlosky>{{cite journal|last1=Dunlosky|first1=J.|last2=Rawson|first2=K. A.|last3=Marsh|first3=E. J.|last4=Nathan|first4=M. J.|last5=Willingham|first5=D. T.|title=Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology|journal=Psychological Science in the Public Interest|date=2013|volume=14|issue=1|pages=4–58|doi=10.1177/1529100612453266|pmid=26173288|s2cid=1621081}}</ref>
+
+* Guthrie, E. R. (1938). The psychology of human conflict: the clash of motives within the individual. New York: Harper Brothers.
+* Guthrie, E. R. (1946). Psychological Facts and Psychological Theory., Psychological Bulletin, 43, 1-20
+* Guthrie, E. R. (1959). Association by contiguity. In Sigmund Koch (Ed.), Psychology: A study of a science (Vol. 2, pp.&nbsp;158–195). New York: McGraw-Hill.
+
+==References==
+{{Reflist}}
+
+==Sources==
+* Cech, C. G. (1998). Chapter 5 - The Nature of Reinforcement & Its effects on Acquisition: Guthrie's Contiguity Theory. Retrieved October 12, 2006, from http://www.ucs.louisiana.edu/~cgc2646/LRN/Chap5.htm{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+* Clark, D.O. (2005). From Philosopher to Psychologist: The Early Career of Edwin Ray Guthrie, Jr. History of Psychology, 8, 235-254.
+* Contiguity Theory. (2005). The Psychology of Learning. Retrieved November 23, 2009, from http://psychology.org/guthrie.html{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+* Encyclopedia of Psychology. (2001). Guthrie, Edwin Ray. Retrieved November 23, 2009, from http://findarticles.com/p/articles/mi_g2699/is_0004/ai_2699000486/.
+*Hilgard E.R. & Bower G.H. ''Theories of learning''. 2nd ed, New York: Appleton-Century-Crofts, Chapter 4: Guthrie's contiguous conditioning.
+* Sheffield, D. D. (1959). Edwin Ray Guthrie: 1886-1959. American Journal of Psychology (Vol. 7, pp.&nbsp;642–650).
+* Smith, S., & Guthrie, E. (1920). Exhibitionism. University of Washington, 205-211.
+* Theories of Learning in Educational Psychology. (2008). Edwin Guthrie and "One Trial Leaning". Retrieved November 23, 2009, from https://web.archive.org/web/20090626071206/http://www.lifecircles-inc.com/Learningtheories/behaviorism/guthrie.html.
+* Thorne, M. B., & Henley, T. (2005). Connections in the History and Systems of Psychology (3rd ed). Houghton Mifflin Company.
+
+{{APA Presidents|state=uncollapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Guthrie, Edwin Ray}}
+[[Category:1886 births]]
+[[Category:1959 deaths]]
+[[Category:Behaviourist psychologists]]
+[[Category:Presidents of the American Psychological Association]]
+[[Category:Anglican lay readers]]
+[[Category:20th-century psychologists]]

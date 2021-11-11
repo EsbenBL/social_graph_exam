@@ -1,0 +1,65 @@
+{{Infobox Officeholder
+|name             = Harvey Rosen
+|image            = Harvey S. Rosen 174-CD-L03-10-08B-003 (cropped).jpg
+|office           = 22nd Chairman of the [[Council of Economic Advisers]]
+|president        = [[George W. Bush]]
+|term_start       = February 23, 2005
+|term_end         = June 10, 2005
+|predecessor      = [[Greg Mankiw]]
+|successor        = [[Ben Bernanke]]
+|birth_date       = {{birth date and age|1949|3|29}}
+|birth_place      = [[Chicago]], [[Illinois]], U.S.
+|death_date       = 
+|death_place      = 
+|party            = [[Republican Party (United States)|Republican]]
+|spouse           = Marsha Novick
+|children         = 2
+|education        = [[University of Michigan|University of Michigan, Ann Arbor]] {{small|([[Bachelor of Arts|BA]])}}<br>[[Harvard University]] {{small|([[Master of Arts|MA]], [[Doctor of Philosophy|PhD]])}}
+|module           = {{Infobox Economist
+|child            = yes
+|doctoral_advisor = [[Martin Feldstein]]
+|doctoral_students = [[Douglas Holtz-Eakin]]
+|repec_prefix     = e
+|repec_id         = pro55}}
+}}
+'''Harvey Sheldon Rosen''' (born 29 March 1949) was the [[John L. Weinberg]] Professor of [[Economics]] and [[Business]] Policy at [[Princeton University]], and former [[Chairman|chairperson]] of the [[Council of Economic Advisers]]. His research focuses on [[public finance]]. [[Harvard University]] economist and former [[Council of Economic Advisers]] chairman [[Greg Mankiw]] credits Rosen as one of four mentors who taught him how to practice economics, along with [[Alan Blinder]], [[Lawrence Summers|Larry Summers]], and [[Stanley Fischer]].<ref>https://scholar.harvard.edu/files/mankiw/files/my_rules_of_thumb.pdf</ref>
+
+==Early life and education==
+Rosen attended the [[University of Michigan]], where he was a member of the [[Phi Beta Kappa Society]] and received a [[bachelor's degree]] in economics in 1970. Rosen also attended [[Harvard University]], where he received his [[master's degree]] and [[Doctor of Philosophy|Ph.D.]] in economics in 1972 and 1974, respectively.<ref>{{Cite web|url=http://www.nndb.com/people/677/000161194/ |title= Harvey S. Rosen |publisher= nndb.com |access-date=October 29, 2012}}</ref>
+
+==Career==
+Rosen has been an Associate Researcher at the [[National Bureau of Economic Research]] since 1978, where he has focused on taxes and commerce.<ref>{{Cite web|url=http://www.nber.org/people/harvey_rosen |title= Harvey S. Rosen |publisher= nber.gov |access-date=October 29, 2012}}</ref> In 1981 he was a Visiting Scholar at the [[Hoover Institute]], and in 1986 was a Fellow at the [[Econometric Society]]. From 1989-1991 he worked at the [[United States Department of Treasury]] as the Deputy Assistant Secretary for Tax Analysis.<ref>{{Cite news|url=https://www.nytimes.com/1990/05/04/business/corporate-tax-shortfall-in-dispute.html |title= Corporate-Tax Shortfall in Dispute |publisher= nytimes.com |access-date=October 29, 2012|newspaper= The New York Times |date= 1990-05-04 |last1= Rosenbaum |first1= David E. |last2= Times |first2= Special To the New York }}</ref> He served as a member of the [[Council of Economic Advisors]] from 2003-2005, and served as Chairman in 2005.<ref>{{Cite web |url=https://obamawhitehouse.archives.gov/administration/eop/cea/about/Former-Members |title= Former Members of the Council |access-date= October 29, 2012 |url-status= live |archive-url= https://web.archive.org/web/20170121012254/https://obamawhitehouse.archives.gov/administration/eop/cea/about/Former-Members |via=[[NARA|National Archives]] |work=[[whitehouse.gov]] |archive-date= January 21, 2017 }}</ref> Rosen is currently the John L. Weinberg Professor of Economics and Business Policy at [[Princeton University]], where he has previously served as Chairman of the Department from 1993 to 1996, and was a Co-Director at the Princeton University Center for Economic Policy Studies from 1993 to 2011.<ref>{{Cite web|url= http://www.princeton.edu/~hsr/bio.html |title= Biography |publisher= princeton.edu |access-date=October 29, 2012}}</ref> His work at Princeton focuses on teaching [[Undergraduate education|undergraduate]] courses in [[public finance]], [[tax]]ation, and introductory [[microeconomics]], and graduate courses in public finance.<ref>{{Cite web|url= http://harveysrosen.com/ |title= Biography |publisher= harveyrosen.com |access-date=October 29, 2012}}</ref>
+
+In 2013, Rosen was a signatory to an [[Amicus curiae|amicus curiae brief]] submitted to the [[Supreme Court of the United States|Supreme Court]] in support of [[same-sex marriage]] during the ''[[Hollingsworth v. Perry]]'' case.<ref>{{Cite news | url=http://www.thedailybeast.com/articles/2013/02/28/the-pro-freedom-republicans-are-coming-131-sign-gay-marriage-brief.html | title=The Pro-Freedom Republicans Are Coming: 131 Sign Gay Marriage Brief| newspaper=The Daily Beast| date=2013-02-28| last1=Avlon| first1=John}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{wikiquote}}
+* [https://www.princeton.edu/~hsr/cv11-08.pdf C.V.]
+* [https://www.princeton.edu/~hsr/ Biography]
+* [http://scholar.harvard.edu/files/mankiw/files/my_rules_of_thumb.pdf Mankiw's "Rules of Thumb"]
+*{{cite web|title=Harvey S. Rosen|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Harvey+S.+Rosen%22+&acc=off&wc=on&fc=off&group=none|publisher=[[JSTOR]]}}
+*{{cite web|title=Harvey S. Rosen|url=https://econpapers.repec.org/RAS/pro55.htm|publisher=[[EconPapers]]}}
+
+{{s-start}}
+{{s-off}}
+{{s-bef|before=[[Greg Mankiw]]}}
+{{s-ttl|title=Chair of the [[Council of Economic Advisers]]|years=2005}}
+{{s-aft|after=[[Ben Bernanke]]}}
+{{s-end}}
+
+{{CEA Chairs}}
+{{Authority control}}
+
+{{DEFAULTSORT:Rosen, Harvey S.}}
+[[Category:1949 births]]
+[[Category:21st-century American economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Harvard University alumni]]
+[[Category:Living people]]
+[[Category:Princeton University faculty]]
+[[Category:University of Michigan College of Literature, Science, and the Arts alumni]]
+[[Category:National Bureau of Economic Research]]
+[[Category:Chairs of the United States Council of Economic Advisers]]

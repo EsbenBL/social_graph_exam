@@ -1,0 +1,71 @@
+{{Short description|American economist}}
+{{Infobox economist
+| name = Gene M. Grossman
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| native_name = 
+| native_name_lang = 
+| birth_date = {{Birth date and age|1955|12|11|mf=y}}
+| birth_place = [[New York City]], U.S.
+| citizenship = United States
+| nationality = [[United States|American]]
+| institution = [[Princeton University]]
+| field = [[International trade]]<br>[[Political economy]]<br>[[Economic growth]]
+| school_tradition = 
+| alma_mater = [[Massachusetts Institute of Technology|MIT]] (Ph.D.)<br/>[[Yale University]] (B.A.)
+| doctoral_advisor = [[Jagdish Bhagwati|Jagdish N. Bhagwati]]<ref>{{cite web|url=http://library.mit.edu/F/K213STDDRFEF7HXGRHSXVPYFID8SABYR1JJPTM35VK7YBFENGP-21980?func=full-set-set&set_number=017172&set_entry=000010&format=999|title=PDS login|website=library.MIT.edu|access-date=January 6, 2018}}</ref>
+| academic_advisors =
+| doctoral_students =
+| notable_students =
+| influences = 
+| influenced = [[Pol Antràs]]<br/>[[Dani Rodrik]]
+| contributions = 
+| awards = [[Onassis Prize]], [[Harry G. Johnson Prize]], [[Bernard-Harms Prize]]
+| memorials = 
+| spouse = Jean Baldwin Grossman           <!-- or: | spouses =  -->
+| signature =         <!-- filename only -->
+| url = 
+| module = 
+| repec_prefix = e
+| repec_id = pgr21
+| notes = 
+}}
+
+'''Gene Michael Grossman''' (born December 11, 1955, in [[New York City|New York]]) is the [[Jacob Viner]] Professor of International Economics at [[Princeton University]]. He received his B.A. in Economics from [[Yale University]] in 1976 and his Ph.D. in Economics from the [[Massachusetts Institute of Technology]] in 1980. He became assistant professor at Princeton University in 1980 and full professor of economics in 1988. He is well known for his research on international trade, in large part focusing on the relationship between economic growth and trade and the political economy of trade policy. He is also known for his work on the [[environmental Kuznets curve]].<ref name="Grossman2001">{{cite journal |last1=Grossman |first1=G. M. |author2-link=Alan B. Krueger |first2=A. B. |last2=Krueger |title= Environmental impacts of a North American Free Trade Agreement |journal= National Bureau of Economic Research Working Paper 3914, NBER |location=Cambridge MA. |year=1991 |doi=10.3386/w3914|doi-access=free }}</ref> He frequently collaborated with [[Harvard]] professor [[Elhanan Helpman]], producing three books together: ''Innovation and Growth in the Global Economy'', ''Special Interest Politics'', and ''Interest Groups and Trade Policy''.<ref>{{cite web |last1=Grossman |first1=Gene |title=Biography |url=http://www.princeton.edu/~grossman/grossman_biography.htm |website=Gene M. Grossman Personal Website |access-date=9 December 2020}}</ref> In 2009, Grossman received an honorary doctorate in Economics from the [[University of St. Gallen]]. Grossman received the 2015 [[Onassis Prize]] for International Trade.<ref>{{cite web|url=http://www.onassis.org/en/onassis-international-prizes-details.php?id=5|title=Onassis International Prizes - Alexander S. Onassis Public Benefit Foundation|website=www.Onassis.org|access-date=January 6, 2018}}</ref> In 2016, Grossman received an honorary doctorate in Economics from the [[University of Minho]]. Professor Grossman currently lives with his wife and fellow lecturer at the [[Princeton School of Public and International Affairs]], Jean Baldwin Grossman.<ref>{{cite web |last1=Grossman |first1=Gene |title=Biography |url=http://www.princeton.edu/~grossman/grossman_biography.htm |website=Gene Grossman's Personal Website |access-date=9 December 2020}}</ref> He has two children.
+
+Grossman was elected as a member of the [[American Academy of Arts and Sciences]] in 1997.<ref>{{Cite web|title=Gene M. Grossman|url=https://www.amacad.org/person/gene-m-grossman|access-date=2021-03-23|website=American Academy of Arts & Sciences|language=en}}</ref>
+
+== Publications ==
+* {{cite journal |last1=Grossman|first1=Gene |author2-link=Alan B. Krueger |first2=Allan B. |last2=Krueger   |title= Environmental impacts of a North American Free Trade Agreement |journal= National Bureau of Economic Research Working Paper 3914, NBER |location=Cambridge MA. |year=1991 |doi=10.3386/w3914|doi-access=free}}
+* {{cite book | last1 = Grossman | first1 = Gene | last2 = Helpman | first2 = Elhanan | author-link2= Elhanan Helpman | title = Innovation and growth in the global economy | publisher = MIT Press | location = Cambridge, Massachusetts | year = 1993 | isbn = 9780262570978 }}
+* {{cite book | last1 = Grossman | first1 = Gene | last2 = Helpman | first2 = Elhanan | author-link2= Elhanan Helpman | title = Special interest politics | publisher = MIT Press | location = Cambridge, Massachusetts | year = 2002 | isbn = 9780262571678 }}
+* {{cite book |last1=Grossman |first1=Gene |last2=Helpman |first2=Elhanan | author-link2= Elhanan Helpman |title=Interest Groups and Trade Policy |date=March 3, 2002 |publisher=Princeton University Press |isbn=9780691095974}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.princeton.edu/~grossman/ Gene Grossman's personal homepage at Princeton University]
+* [https://ideas.repec.org/e/pgr21.html Gene Grossman at IDEAS/RePEc]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Grossman, Gene}}
+[[Category:1955 births]]
+[[Category:21st-century American economists]]
+[[Category:Living people]]
+[[Category:International economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Yale University alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:Princeton University faculty]]
+[[Category:Trade economists]]
+[[Category:Environmental economists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Sloan Research Fellows]]
+[[Category:American economics writers]]
+[[Category:The Bronx High School of Science alumni]]
+
+{{US-economist-stub}}

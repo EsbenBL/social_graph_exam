@@ -1,0 +1,89 @@
+{{short description|Professor of psychology}}
+{{Infobox scientist
+|image            = Eleanor Rosch.jpg
+|caption          =
+|name             = Eleanor Rosch
+|birth_name       = Eleanor Rosch
+|birth_date       = 1938
+|fields           = [[Cognitive science]], [[psychology]], [[philosophy]]
+|education        = [[Harvard]] (Ph.D.)
+|work_institution = [[University of California, Berkeley]]<br>[[Brown University]]<br>[[Connecticut College]] 
+}}
+
+'''Eleanor Rosch''' (once known as '''Eleanor Rosch Heider''';<ref name=":0">"Natural Categories", Cognitive Psychology, Vol. 4, No. 3, (May 1973), p. 328.</ref> born 1938)<ref>[http://www.sis.pitt.edu/~mbsclass/hall_of_fame/rosch.html Eleanor Rosch - School of Information Science - Hall of Fame]</ref> is an American [[psychologist]]. She is a [[professor]] of psychology at the [[University of California, Berkeley]],<ref>[https://mitpress.mit.edu/authors/eleanor-rosch Eleanor Rosch, MIT Press website]</ref> specializing in [[cognitive psychology]] and primarily known for her work on [[categorization]], in particular her [[prototype (linguistics)|prototype]] theory, which has profoundly influenced the field of [[cognitive psychology]].
+
+Throughout her work Rosch has conducted extensive research focusing on a range of topics, including semantic categorization, [[mental representation]] of [[concept]]s, and [[linguistics]].<ref>{{cite journal|last=Rosch|first=Eleanor|title=Cognitive representations of Semantic Categories|journal=Journal of Experimental Psychology: General|date=September 1975|volume=104|issue=3|pages=192–233|doi=10.1037/0096-3445.104.3.192}}</ref> Her research interests include cognition, concepts, causality, thinking, memory, and cross-cultural, and Eastern and religious psychology. Her more recent work in the psychology of religion has sought to show the implications of [[Buddhism]] and contemplative aspects of Western religions for modern psychology.
+
+==Early life and education==
+Rosch was born in New York City, the daughter of an English teacher from England and a mother who was a Russian refugee.<ref>{{Cite web|url=http://www.iwp.jku.at/born/mpwfst/02/www.dialogonleadership.org/Roschx1999.html|title=Dialog on Leadership: Professor Eleanor Rosch Interview|website=www.iwp.jku.at|access-date=2018-11-13}}</ref> She completed an undergraduate philosophy thesis at [[Reed College]] on [[Wittgenstein]], who she said "cured her of studying philosophy."{{citation needed|date=January 2019}}
+
+After school, she served as a social worker in Portland for several years, returning later to Harvard to study clinical psychology at the then-Department of Social Relations. Rosch delivered a paradigm-changing<ref>{{cite book |last=Levitin |first=Daniel |date=2006 |title=This Is Your Brain on Music: The Science of a Human Obsession |url={{Google books|_B3CEBJhhBQC|page=87|plainurl=yes}} |location=New York |publisher=Dutton |page=141 |isbn=9780525949695 |access-date=2015-08-13 }}</ref> doctoral thesis at [[Harvard]] about category formation, under the direction of Roger Brown. After a short stint at [[Brown University]] and [[Connecticut College]], Rosch joined the Department of Psychology at University of California, Berkeley in 1971.<ref>{{cite journal |last1=Heider |first1=Eleanor Rosch |title=Information Processing and the Modification of an 'Impulsive Conceptual Tempo' |journal=Child Development |date=October 1971 |volume=42 |issue=4 |pages=1276–81 |jstor=1127811 |doi=10.2307/1127811 |pmid=5157116 }}</ref><ref>{{cite journal |last1=Heider |first1=Eleanor Rosch |last2=Olivier |first2=Donald C. |title=The structure of the color space in naming and memory for two languages |journal=Cognitive Psychology |date=April 1972 |volume=3 |issue=2 |pages=337–354 |doi=10.1016/0010-0285(72)90011-4 }}</ref>
+
+==Research==
+From field experiments Rosch conducted (alongside her then-husband [[Karl G. Heider|Karl Heider]]) in the 1970s with the [[Dani people]] of [[Papua New Guinea]], she concluded that when categorizing an everyday object or experience, people rely less on abstract definitions of categories than on a comparison of the given object or experience with what they deem to be the object or experience best representing a category ("prototype").{{citation needed|date=January 2019}}
+
+Although the Dani lack words for all the English colors (their language contained only two color terms dividing all colors into either the "light, bright" category or the "dark, cool" category), Rosch showed that they could still categorize objects by colors for which they had no words. She argued that basic objects have a psychological import that transcends cultural differences and shapes how such objects are mentally represented. She concluded that people in different cultures tend to categorize objects by using prototypes, although the prototypes of particular categories may vary.<ref name=":0" />
+
+Rosch contributed to multiple scholarly works of taxonomic analysis of objects based on these prototype ("chair") and subordinate terms ("tall black leather chair"). She inferred that overuse of subordinate terms could be attributed to the attitude of snobbery and elitism.<ref name=":1">{{Cite book|title=Cognition and Categorization|last=Rosch|first=Eleanor|publisher=Lawrence Erlbaum|year=1978|location=Hillsdale, NJ|pages=1–25}}</ref>
+
+Her work has been often referenced by that of computer vision and deep learning researcher [[Aude Oliva]], who has built upon Rosch's object classifications to teach computers to recognize basic scenes instantly interpreted by humans.{{citation needed|date=January 2019}}
+
+==Publications==
+
+===Books===
+*1978 (with Lloyd, B., eds). ''Cognition and Categorization''. Hillsdale NJ: Lawrence Erlbaum Associates.<ref name=":1" />
+*1991 (with [[Francisco Varela]] and Evan F. Thompson). ''The Embodied Mind''. MIT Press.
+
+===Book chapters===
+* 1973, "On the Internal Structure of Perceptual and Semantic Categories." In T. Moore (ed.), ''Cognitive Development and the Acquisition of Language, New York: Academic Press, 1973.
+* 1974, Linguistic relativity. In: E. Silverstein (ed.) Human Communication: Theoretical Perspectives, Hillsdale, NJ: Lawrence Erlbaum.
+*1977, "Human Categorization" in Warren, Neil, ed., ''Advances in Cross-Cultural Psychology 1'': 1-72. Academic Press.
+*1983, "Prototype classification and logical classification: The two systems" in Scholnick, E., ''New Trends in Cognitive Representation: Challenges to Piaget's Theory''. Hillsdale, NJ: Lawrence Erlbaum Associates: 73-86
+
+===Papers===
+====Categorization and prototype theory====
+*{{cite journal | last1 = Rosch | first1 = E.H. | year = 1973 | title = Natural categories | journal = [[Cognitive Psychology (journal)|Cognitive Psychology]] | volume = 4 | issue = 3| pages = 328–50 | doi = 10.1016/0010-0285(73)90017-0 }}
+*{{cite journal | last1 = Rosch | first1 = R.H. | year = 1975 | title = Cognitive reference points | journal = [[Cognitive Psychology (journal)|Cognitive Psychology]] | volume = 7 | issue = 4| pages = 532–47 | doi = 10.1016/0010-0285(75)90021-3 | s2cid = 54342276 }}
+*1975, "Cognitive representation of semantic categories," ''Journal of Experimental Psychology 104(3): 192-233.
+*{{cite journal | last1 = Rosch | first1 = E.H. | last2 = Mervis | first2 = C.B. | last3 = Gray | first3 = W.D. | last4 = Johnson | first4 = D.M. | last5 = Boyes-Braem | first5 = P. | year = 1976 | title = Basic objects in natural categories | journal = [[Cognitive Psychology (journal)|Cognitive Psychology]] | volume = 8 | issue = 3| pages = 382–439 | doi = 10.1016/0010-0285(76)90013-X | citeseerx = 10.1.1.149.3392 | s2cid = 5612467 }}
+*{{cite journal | last1 = Mervis | first1 = C.B. | last2 = Rosch | first2 = E. | year = 1981 | title = Categorization of Natural Objects | journal = [[Annual Review of Psychology]] |volume = 32 | pages = 89–113 | doi=10.1146/annurev.ps.32.020181.000513 }}
+
+====Psychology of religion====
+*{{cite journal |author=Eleanor Rosch |year=2002 |title=How to catch James's mystic germ: Religious experience, Buddhist meditation and psychology |journal=[[Journal of Consciousness Studies]] |volume=9 |issue=9–10 |pages= 37–56 |url=http://www.ingentaconnect.com/content/imp/jcs/2002/00000009/F0020009/1304 |issn= 1355-8250 }}
+*{{cite journal |author=Eleanor Rosch |year=2003 |title=The basis of compassion: Western science in dialog with the Dalai Lama |journal=[[PsycCRITIQUES]] |volume=48 |issue=3 |pages=330–332 |doi=10.1037/000807 |issn=1554-0138|title-link=Dalai Lama }}
+*{{cite journal |author=Eleanor Rosch |year=2007  |title=More than mindfulness: When you have a tiger by the tail, let it eat you |journal=[[Psychological Inquiry]] |volume=18  |issue=4  |pages= 258–264  |doi=10.1080/10478400701598371 |s2cid=144196114 |issn=1047-840X }}
+*{{cite journal  |author=Eleanor Rosch & Eman Fallah |year=2007 |title=Science and religion, Dalai Lama style |journal=[[PsycCRITIQUES]] |volume=52 |issue=20 |pages= np |doi=10.1037/a0007895 |issn=1554-0138 }}
+
+== Awards and recognition ==
+Rosch is a Fellow of the Cognitive Science Society.<ref>{{Cite web|url=http://www.cognitivesciencesociety.org/fellows/|title=Fellows {{!}} Cognitive Science Society|website=www.cognitivesciencesociety.org|language=en-US|access-date=2018-11-13|archive-url=https://web.archive.org/web/20180926082227/http://www.cognitivesciencesociety.org/fellows/|archive-date=2018-09-26|url-status=dead}}</ref> She has mediated several discussions with the [[14th Dalai Lama|Dalai Lama]].
+
+==See also==
+* [[Categorization]]
+* [[Cognitive science]]
+* [[Embodied mind]]
+* [[Grand Valley Dani language]]
+* [[Interobject]]
+* [[Prototype theory]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://psychology.berkeley.edu/people/eleanor-h-rosch Faculty page for Eleanor Rosch] at the Department of Psychology at the [[University of California, Berkeley]]
+*[http://www.sis.pitt.edu/~mbsclass/hall_of_fame/rosch.html Eleanor Rosch's web page on Pitt's Information Science Hall of Fame]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rosch, Eleanor}}
+[[Category:American psychologists]]
+[[Category:American women psychologists]]
+[[Category:Cognitive scientists]]
+[[Category:Women cognitive scientists]]
+[[Category:Cognitive psychologists]]
+[[Category:Reed College alumni]]
+[[Category:University of California, Berkeley faculty]]
+[[Category:1938 births]]
+[[Category:Living people]]
+[[Category:Harvard University alumni]]
+[[Category:Brown University faculty]]
+[[Category:American women academics]]

@@ -1,0 +1,62 @@
+{{short description|American economist (born 1926)}}
+{{Infobox person
+| name          = Thomas Vietorisz
+| image         = 
+| alt           = 
+| caption       = 
+| birth_name    = 
+| birth_date    =  {{birth date and age|1926|2|4}}
+| birth_place   = Budapest, Hungary
+| death_date    = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place   = 
+| nationality   = American
+| other_names   = 
+| occupation    = Economist
+| education     = MIT
+| years_active  = 
+| known_for     = 
+| notable_works = 
+}}
+
+'''Thomas Vietorisz''' (born February 4, 1926 in [[Budapest]], [[Hungary]]) is an American [[economist]] who specialized in [[urban planning]].
+
+==Education==
+Vietorisz completed his undergraduate studies at [[Budapest]], [[Basel]], and [[Zurich]]. In 1948, he received a Master of Science degree in Chemical Engineering and in 1956, a doctorate degree in economics from the [[Massachusetts Institute of Technology]] (MIT).<ref name=shortbio>{{cite web|url=http://www.columbia.edu/itc/architecture/vietorisz/6550/bio-vita_fall01.html|title=bio-vita_fall01|publisher=}}</ref>
+
+==Career==
+===Teaching===
+From 1963 to 1995, Vietorisz worked in the graduate faculty of [[The New School|The New School for Social Research]] in [[New York city]]. He held the position of department chair in 1977; senior lecturer from 1990 to 1994 and [[Professor Emeritus]] from 1995. Since 1996, he has been an [[adjunct Professor]] at [[Columbia University]]. Vietorisz also worked as an adjunct professor at [[Cornell University]], Ithaca, [[New York (state)|New York]] from 1970 to 1973 and from 1977 onwards.<ref name=shortbio/>
+
+===Economics===
+Vietorisz worked in the field of [[applied economics|applied]] and theoretical economics. An early example of his theoretical contribution is his method to quantize for priority ordering of projects in planning.<ref name=quanta>Vietorisz T. "Association Quantized Preferences and Planning by Priorities." in ''The American Economic Review'' (Papers and Proceedings of the Eighty-second Annual Meeting of the American Economic Association) May 1970 60:2 p. 65 - 69.</ref> Another example is his theory of "Decentralization in NonConvex System" that was highlighted in ''Econometrica.'' <ref name=Decentralize>"Decentralization in Non-Convex Systems" in ''Econometrica'' 1966 34:5S p. 123 - 125.</ref> The aim was to represent a two-level planning and decision making system within the traditional [[Edgeworth box|Edgeworth box diagram]], but extended for non-convex analysis.
+
+An example of a practical suggestion Vietorisz makes is discussed in his challenge of the substitution-based theory for setting the [[Minimum wage in the United States|US minimum wage]] which came under discussion in the forum of the journal ''Challenge''.<ref name=challenge>Vietorisz T. and McCulloch J. H. "The $3.50 Minimum Wage: "Let Them Earn Cake!"" in “Challenge” 1973, July and August 6:3 p. 69 - 70.</ref> In that forum, McCulloch raised the question as to where the other factors of production will come from to support an increase in the minimum wage. Vietorisz proposed that there were historic precedents to show that government-assisted loans were a possible source, and that in the case of the agricultural sector, there was no shortage of land since some was being taken out of cultivation through subsidy programs.<ref name=challenge/> In short, McCulloch argued from the [[Organizational theory#Neoclassical perspective|neoclassical perspective]]; Vietorisz, from the Dual Labor Market and Moral perspectives. The two different paradigms to view the issue of minimum wage are still being reconciled in the literature.
+
+==Selected papers==
+* "Planning and Political Economy" in ''Social Research'' 1983, Summer 50:2 p.&nbsp;469 - 484.
+* "Epilogue: The Hieroglyph of Production" in Nell E. A. (Ed.) ''Growth, Profits, and Property'' Cambridge University Press, New York, 1980, p.&nbsp;303 - 304.
+* "Economic Policy Design: Principles and Urban Applications" in ''Eastern Economic Journal'' 1974, January 1:1. 
+* "We Need a $3.50 Minimum Wage" in ''Challenge'' 1973 May - June p.&nbsp;49 - 62.
+* "Quantized Preferences and Planning by Priorities" in ''American Economic Review'' May, 1970.
+* "Decentralization and Project Evaluation under Economies of Scale and Indivisibilities" in ''Industrialization and Productivity'' New York, 1968, United Nations, Bulletin 12, p.&nbsp;25 - 58.
+* "Locational Choices in Planning" in [[Max Millikan|Millikan M.]] (Ed.) ''National Economic Planning'', New York, National Bureau of Economic Research and Columbia University Press 1967 p.&nbsp;69 - 128.
+* "Pre-Investment Data Summary for the Chemical Industry" in ''Industrialization and Productivity'', New York, 1966. United Nations, Bulletin 10 p.&nbsp;7 - 56.
+* "Industrial Development Planning Models with Economies of Scale and Indivisibilities" in ''Regional Science Association Papers and Proceedings'' 1964 vol. 12 p.&nbsp;157 - 192.
+* "Preliminary Bibliography for Industrial Development Programming, Chemical and Related Industries" in ''Industrialization and Productivity'', New York, 1963 United Nations bulletin 6 p.&nbsp;67 - 77.
+* "The Potential of the Computer and High-Speed Information Processing Techniques for Industrial Development" in ''Science, Technology and Development'' U.S. Government Printing Office, Washington DC 1963, vol. 4 p.&nbsp;103 - 117.
+* "Preliminary Bibliography for Industrial Development Programming, Part I: Industries in General" in ''Industrialization and Productivity'', New York, 1962. United Nations bulletin 5 p.&nbsp;68 - 82.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{cite web|title=Thomas Vietorisz|url=https://www.jstor.org/action/doBasicSearch?Query=au%3A%22Thomas+Vietorisz%22|publisher=[[JSTOR]]}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vietorisz, Thomas}}
+[[Category:American economists]]
+[[Category:1926 births]]
+[[Category:Living people]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:MIT School of Engineering alumni]]

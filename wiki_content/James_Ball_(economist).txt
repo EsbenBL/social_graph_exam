@@ -1,0 +1,63 @@
+{{Short description|English economist}}
+{{Use British English|date=May 2021}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox economist
+|honorific_prefix = [[Sir]]
+|name = James Ball
+|honorific_suffix = {{postnom|country=GBR|size=100|CBE}}
+|school_tradition =
+|color =
+|image =
+|image_size =
+|caption =
+|birth_date = {{birth date|df=y|1933|07|15}}<ref>{{cite news|title=Birthdays|newspaper=[[The Independent]]|date=15 July 1995}}</ref>
+|birth_place =
+|death_date = {{death date and age|df=y|2018|01|15|1933|07|15}} 
+|death_place =
+|nationality =
+|institution = [[London Business School]]<ref name=LBSmain/>
+|field = [[Macroeconomics]]<ref name=LBSmain/>
+|alma_mater = {{unbulleted list
+ |[[University of Pennsylvania]] {{small|(PhD)}}<ref name=LBSmain/>
+ |{{nowrap|[[Oxford University]] {{small|(M.A.)}}<ref name=LBSmain/> }}}}
+|influences =
+|influenced =
+|contributions =
+|awards =
+|signature = <!-- file name only -->
+|repec_prefix = |repec_id =
+}}
+'''Sir Robert James Ball''' {{postnom|country=GBR|CBE}} (15 July 1933 – 15 January 2018) was an English economist, former principal of the [[London Business School]] (LBS) from 1972–1984 <ref name=remember/> and a leader in the field of [[econometric model]]ling.<ref name=LBSmain>{{Cite web |title=Jim Ball |url=http://www.london.edu/facultyandresearch/faculty/search.do?uid=jball |work=Faculty Profiles |publisher=[[London Business School]] |accessdate=25 March 2013}}</ref><ref name=IAM>{{Cite web |title=BALL, JAMES |url=http://theiam.ws/?person=ball-james |publisher=The International Academy of Management |accessdate=25 March 2013}}</ref><ref name=Holly/>
+
+==Work==
+Ball was co-creator of the [[Oxford model|Oxford Econometric Model]] along with [[Lawrence Klein]] which led to an "explosion" of [[Econometrics|macroeconometric forecasting]].<ref name=Wood>{{Cite book |last=Wood |first=John Cunningham |author-link=John Cunningham Wood |title=Critical Assessments of Contemporary Economists |year=2005 |publisher=[[Routledge]] |location=New York |isbn=978-0415310628 |page=279 |url=https://books.google.com/books?id=jWxcKtahWEcC&q=%22Lawrence%20Klein%22%20%22James%20Ball%22&pg=PA279 |display-authors=etal}}</ref>
+
+==Time at the London Business School==
+Ball joined LBS in 1964 as a professor of economics after having been recruited by [[Harold Rose (economist)]], emeritus professor of finance.<ref name=remember>{{Cite web |title=Remembering Sir James Ball |url=https://www.london.edu/news-and-events/news/remembering-sir-james-ball-1393 |publisher=[[London Business School]] |accessdate=29 December 2019 |date=24 January 2018}}</ref> According to LBS Professor of Management Practice in Accounting Sir Andrew Likierman, Ball's presence as the "King of Forecasting" at LBS greatly changed the reputation of Business schools in the UK in the 1970s. <ref name=remember/> Ball also launched the first Executive MBA program of its kind in the UK in 1982 and fundraised for the development of the Plowden building at LBS's London Campus.<ref name=remember/>
+
+==Other positions==
+Ball was a trustee of [[The Economist]].<ref>{{Cite book |last=Edwards |first=Ruth Dudley |title=The Pursuit of Reason: The Economist, 1843–1993 |year=1993 |publisher=[[Harvard Business School Press]] |location=[[Boston, Massachusetts]] |isbn=978-0875846088 |page=950 |url=https://books.google.com/books?id=SPwlhXGwtEQC&q=%22sir%20james%20ball%22&pg=PA950}}</ref> He served on the [[Board of Governors]] for the [[Centre for Economic Policy Research]].<ref>{{Cite book |last=Buiter |first=William H. |title=International Economic Policy Coordination |year=1985 |publisher=Press Syndicate of the [[University of Cambridge]] |location=[[Cambridge]] |isbn=9780521337809|url=https://books.google.com/books?id=rQQ4AAAAIAAJ&q=sir%20%22james%20ball%22%20economics&pg=PR3 |display-authors=etal}}</ref> He was the Chairman of [[Legal & General]] Group<ref name=remember/> in 1979–1994.
+
+==Honors and awards==
+In June 1984 Ball was awarded a knighthood in the Queen's Birthday Honours. In 1994, the book ''Money, Inflation and Employment: Essays in Honour of James Ball'' was published to mark his contribution to the field of econometric modelling.<ref name=Holly>{{Cite book |last=Holly |first=Sean |title=Money, Inflation and Employment: Essays in Honour of James Ball |year=1994 |publisher=[[Edward Elgar Publishing]] |isbn=978-1852787110 |page=ix |display-authors=etal}}</ref>
+
+==Death==
+Sir James Ball died on 15 January 2018, aged 84.<ref>[http://www.legacy.com/obituaries/thetimes-uk/obituary.aspx?pid=187934801.]</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ball, James}}
+[[Category:1933 births]]
+[[Category:2018 deaths]]
+[[Category:20th-century economists]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Knights Bachelor]]
+[[Category:Academics of London Business School]]
+[[Category:British economists]]
+[[Category:University of Pennsylvania alumni]]
+[[Category:Alumni of the University of Oxford]]
+[[Category:Econometricians]]
+[[Category:Fellows of the Econometric Society]]

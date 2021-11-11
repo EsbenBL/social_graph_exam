@@ -1,0 +1,142 @@
+{{short description|Swiss-born Polish mathematician}}
+{{Infobox scientist
+| name = Michel Louis Balinski
+| image = Balinski pukelsheim brams.jpg
+| caption = From left: Michel Balinski, {{ill|Friedrich Pukelsheim|de}}, [[Steven Brams]], Oberwolfach 2004
+| birth_date = {{birth date|1933|10|6}}
+| birth_place = [[Geneva]], Switzerland
+| death_date = February 4, 2019 (aged 85)
+| death_place = [[Bayonne]], France
+| residence = France
+| citizenship = 
+| nationality = Polish
+| ethnicity = 
+| fields = [[Mathematics]],  [[economics]],  [[operations research]],  [[political science]]
+| workplaces = [[École Polytechnique]], [[Massachusetts Institute of Technology]], [[Princeton University]], [[Cornell University]]<ref name="pi.math.cornell.edu">[http://pi.math.cornell.edu/~billera/misc/BalinskiBio/MichelBalinskiCV.pdf], pi.math.cornell.edu;</ref>
+| alma_mater = [[Williams College]], [[Massachusetts Institute of Technology]], [[Princeton University]]
+| doctoral_advisor = [[Albert W. Tucker]]
+| doctoral_students = [[Louis Billera]]
+| known_for = [[Balinski's theorem]]
+| awards = [[John von Neumann Theory Prize]], [[Lanchester Prize]]
+| native_name = Michał Ludwik Baliński
+| children = Marta Balińska b. 1965 - known for the biography of [[Ludwik Rajchman]]
+}}
+
+'''Michel Louis Balinski''' (born '''Michał Ludwik Baliński'''; October 6, 1933 – February 4, 2019) was an [[applied mathematician]], [[economist]], [[operations research analyst]] and [[political scientist]]. As a [[Polish Americans|Polish-American]], educated in the United States, he lived and worked primarily in the United States and France. He was known for his work in optimisation (combinatorial, linear, nonlinear), convex polyhedra, stable matching, and the theory and practice of electoral systems, jury decision, and social choice. He was Directeur de Recherche de classe exceptionnelle (emeritus) of the [[École Polytechnique|C.N.R.S. at the École Polytechnique]] (Paris). He was awarded the [[John von Neumann Theory Prize]] by INFORMS in 2013.<ref>{{cite web |title=International Conference on Mathematical Optimization for Fair Social Decisions : A tribute to Michel Balinski |url=https://www.sciencesconf.org/browse/conference/?confid=8853 |publisher=Science Conf |access-date=12 January 2021}}</ref>
+
+Michel Louis Balinski died in [[Bayonne]], [[France]]. He maintained an active involvement in research and public appearances, his last public engagement took place in January 2019.<ref>{{Cite web|url=https://www.informs.org/Explore/History-of-O.R.-Excellence/Biographical-Profiles/Balinski-Michel|title=Balinski, Michel|last=INFORMS|website=INFORMS|language=en-US|access-date=2019-04-14}}</ref>
+
+==Early life==
+
+Michel Balinski was born in  [[Geneva]], Switzerland, the grandson of the Polish [[bacteriologist]] and founder of [[UNICEF]],  [[Ludwik Rajchman]].<ref name="aug"/> Brought up by his mother Irena (Rajchman) Balinska and his grandparents, they were living in France when the Nazis invaded in 1940. They fled via Spain and Portugal to the United States. He graduated from the Edgewood School in Greenwich CT in 1950, earned a B.A. degree cum laude in mathematics at  [[Williams College]] in 1954 and a M.Sc. in economics at the [[Massachusetts Institute of Technology]] in 1956. He completed a Ph.D. in mathematics at [[Princeton University]] in 1959 under the supervision of [[Albert W. Tucker]].<ref name="aug"/><ref name="mg">{{mathgenealogy|id=29519|name=Michel Louis Balinski}}</ref>
+
+==Career==
+
+After completing his Ph.D. Balinski remained at [[Princeton University]] as a research associate then lecturer in mathematics. From 1963 to 1965 he was associate professor of economics at the [[Wharton School of the University of Pennsylvania]]. He was then appointed to the Graduate School of the [[City University of New York]], first as associate professor then (as of 1969) professor of mathematics. One of his doctoral students at the City University was another noted mathematician, Louis Billera, through whom he has many academic descendants. In 1978 he was appointed professor of organization and management and of administrative sciences at [[Yale]].
+
+In parallel with his academic work, Balinski engaged in consulting as of the time he was a graduate student at Princeton. A participant in the beginnings of what became the consulting firm Mathematica, he was a senior consultant with the firm from 1962 to 1974. He also acted as a consultant elsewhere, including the [[Rand Corporation]], Mobil Oil Research, the [[Office de Radiodiffusion Télévision Française|ORTF]] (Office de Radiodiffusion-Télévision Française), the Mayor's office of the City of New York (as member of the Operations Research Council), and Econ, Inc. From 1975 to 1977 he was chairman of System and Decision Sciences at IIASA (International Institute for Applied Systems Analyses) at Laxenburg, Austria.
+
+In 1980 Balinski settled in France, becoming Directeur de Recherche de classe exceptionnelle of the CNRS ([[Centre National de Recherche Scientifique]]) at the Laboratoire d’Econométrie of the [[Ecole Polytechnique]] in 1983. Concurrently he was Leading Professor of Applied Mathematics and Statistics and of Economics at [[Stony Brook University]] (1983–1990), where he founded and was the first Director of the Institute for Decision Sciences (that has since become the Center for Game Theory in Economics).
+
+Upon becoming director of the Laboratoire d’Econométrie (1989 to 1999), he co-founded and co-directed the joint Ecole Polytechnique/Université de Paris 1 masters program "Modélisation et méthodes mathématiques en économie: optimisation et analyse stratégiques," and its successor the joint Ecole Polytechnique/Université Pierre et Marie Curie (Paris 6) masters program "Optimisation, jeux et modélisation en économie."<ref name="ptvn"/>
+
+He was a visiting professor at other institutions, including the Ecole Polytechnique Fédérale de Lausanne (1972–1973), the Université Scientifique et Médicale de Grenoble (1974–1975), the [[University of Chile|Universidad de Chile]] in [[Santiago]] (1994), and [[INSEAD]] in Fontainebleau (1997–1998).<ref name="aug"/><ref name="ptvn">[https://www.polytechnique.edu/home/current-events/awards-and-honors/michel-balinski-receives-the-2013-john-von-neumann-theory-prize-299249.kjsp Michel Balinski receives the 2013 John von Neumann Theory Prize] {{webarchive|url=https://web.archive.org/web/20131203002136/https://www.polytechnique.edu/home/current-events/awards-and-honors/michel-balinski-receives-the-2013-john-von-neumann-theory-prize-299249.kjsp |date=2013-12-03 }}, [[École Polytechnique]], retrieved 2013-11-27.</ref>
+
+Balinski was the founding editor-in-chief of the journal ''[[Mathematical Programming]]'' in 1971, one of the founders of the [[Mathematical Optimization Society]]  in 1970, and president of that society from 1986 to 1989.<ref>{{citation|url=http://www.mathopt.org/pdfs/wolfe_memoir.pdf|title=The Mathematical Programming Society|first=Philip|last=Wolfe|publisher=[[Mathematical Optimization Society]]|access-date=2013-11-27}}.</ref>
+
+==Research contributions==
+
+Balinski's Ph.D. thesis concerned the [[vertex enumeration problem]], the [[algorithm]]ic problem of listing all vertices of a  [[convex polytope]]  or finding all optimal solutions of a  [[linear program]], and some of his subsequent work continued to concern [[polyhedral combinatorics]].  The thesis includes the fundamental theorem, published in 1961, that the skeletons of polytopes in "n"-space viewed as graphs are "n"-connected, meaning that at least "n" edges must be removed to disconnect the graph of the remaining vertices and edges;<ref>{{citation|first=Günter M.|last=Ziegler|authorlink=Günter Ziegler|title=Lectures on Polytopes|publisher=Springer-Verlag|year=1995|series=Graduate Texts in Mathematics|volume=152|contribution=Section 3.5: Balinski's Theorem: The Graph is ''d''-Connected}}.</ref> it is known as [[Balinski's theorem]]. He also proved the [[Hirsch conjecture]] for several different classes of polytopes associated with the transportation problem, showed that the diameter of the skeleton of the assignment polytope viewed as a graph is 2, and found the polytope whose vertices are the stable matchings of the university admissions problem.
+
+His contributions to linear and nonlinear optimization include a primal/dual simplex method that incorporates a natural proof of termination and leads to a self-contained, elementary but rigorous, constructive account of the theory and the basic computational tool of linear programming; the use and economic interpretation of dual prices; and a proof that prices in von Neumann's model of an expanding economy are marginal values. His work in integer programming includes the formulation and analysis of the fixed cost transportation problem; one of the first computationally successful practical uses of Gomory's cutting plane algorithm (1968, truck deliveries with cost functions in part concave, in part convex); and an extensive survey paper on integer programming which was awarded INFORM's [[Frederick W. Lanchester Prize|Lanchester Prize]] in 1965.
+
+Together with Mourad Baïou,<ref>http://fc.isima.fr/~baiou/pmwiki-2.2.61/pmwiki.php</ref> he developed a new formulation of stable matchings and generalizations in terms of graphs, providing a unified notation and tool leading to new proofs of known results and new results; notably, a characterization of the university admissions polytope, and a generalization of matching opposites (e.g., men and women, students and universities) to matching opposites in real numbers (e.g., time spent together).
+
+In 1970, he published one of the earliest papers on the [[closure problem]] and its applications to transportation planning.<ref>{{citation
+ | last = Hochbaum | first = Dorit | authorlink = Dorit S. Hochbaum
+ | doi = 10.1287/mnsc.1040.0242
+ | issue = 6
+ | journal = [[Management Science (journal)|Management Science]]
+ | pages = 709–723
+ | title = 50th Anniversary Article: Selection, Provisioning, Shared Fixed Costs, Maximum Closure, and Implications on Algorithmic Methods Today
+ | volume = 50
+ | year = 2004}}.</ref>
+
+=== Electoral systems ===
+
+Balinski has made important contributions to the theory of electoral systems, namely, representation and apportionment on the one hand, and voting on the other. His 1982 book<ref>Apportionment: Balinski and Young's contribution--- http://www.ams.org/samplings/feature-column/fcarc-apportionii3</ref><ref>Donald L. Vestal, Fair Representation: Meeting the Ideal of One Man, One Vote --- http://www.maa.org/press/maa-reviews/fair-representation-meeting-the-ideal-of-one-man-one-vote</ref> with H. Peyton Young<ref>{{Cite web |url=http://www.economics.ox.ac.uk/Academic/h-peyton-young |title=Archived copy |access-date=2017-02-05 |archive-url=https://web.archive.org/web/20160620191720/http://www.economics.ox.ac.uk/Academic/h-peyton-young |archive-date=2016-06-20 |url-status=dead }}</ref> has had direct practical application in apportioning the seats of assemblies to regions in several countries (including the UK). He conceived and developed with others "[[biproportional apportionment]]" that has been adopted (as of 2014) in five of Switzerland's cantonal elections. His 2010 book with Rida Laraki<ref>{{Cite web|url=https://sites.google.com/site/ridalaraki/|title = Rida Laraki homepage}}</ref> proposes a new theory and method of voting called "[[majority judgment]]" where voters evaluate the merit of each candidate in a well-defined ordinal scale (instead of voting for one or several candidates, or rank-ordering them) and majorities determine society's evaluation of each candidate and thereby its rank-ordering of them all. This, they prove, overcomes the most important drawbacks of the traditional theory of voting (including [[Arrow's impossibility theorem]]).<ref name="informs-awards"/>
+
+==Awards and honors==
+
+[[Phi Beta Kappa]], Williams College 1954; [[Frederick W. Lanchester Prize]], INFORMS 1965;<ref name="informs.org">{{Cite web|url=https://www.informs.org/Recognizing-Excellence/Award-Recipients/Michel-L-Balinski|title=Michel L Balinski}}</ref> I.B.M. World Trade Corporation Fellow 1969–1970; [[Lester R. Ford Award]], Mathematical Association of America 1976;<ref>{{cite journal|author=Balinski, Michel L.|author2=Young, H. P.|title=The quota method of apportionment|journal=Amer. Math. Monthly|volume=82|year=1975|issue=7|pages=701–730|url=http://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/BalinskiYoung.pdf|doi=10.2307/2318729|jstor=2318729}}</ref> Honorary Master of Arts, Privatum, Yale University 1978; Special Service Award, Mathematical Optimization Society, 1982; Honorary Doctorate (Ehrendoktors, Mathematisch-Naturwissenshaftlichen) [[University of Augsburg|Universität Augsburg]], 2004;<ref name="aug">[http://www.uni-augsburg.de/de/fakultaeten/mntf/dr_h_c/balinski/laudatio.html Laudatio], Friedrich Pukelsheim, [[University of Augsburg]], retrieved 2013-11-27.</ref> Murat Sertel Lecturer (inaugural lecture), 8th International Meeting of the Society for Social Choice and Welfare, Istanbul, July 2006; Messenger Lecturer, Cornell University, September 2007;<ref>http://www.math.cornell.edu/~billera/misc/Messenger.html</ref><ref>http://www.math.cornell.edu/~billera/misc/Abstracts.html</ref><ref>http://www.orie.cornell.edu/news/index.cfm?news_id=62115&news_back=news_archive%26</ref> IFORS Distinguished Lecturer, INFORMS National Meeting, Washington, D.C., October 2008;<ref>{{Cite web|url=http://www.ifors.org/michel-balinski/|title = Michel Balinski}}</ref> George H. Hallet Award, 2009;<ref>{{Cite web|url=http://jcolomer.blogspot.fr/2008/09/fair-representation-ideal-of.html?view=classic|title = Josep Colomer's Blog}}</ref> [[Lester R. Ford Award]], Mathematical Association of America, 2009;<ref>{{cite journal|author=Balinski, Michel|title=Fair Majority Voting (or How to Eliminate Gerrymandering)|journal=Amer. Math. Monthly|volume=115|issue=2|year=2008|pages=97–113|doi=10.1080/00029890.2008.11920503|jstor=27642416|s2cid=1139441|url=http://www.maa.org/programs/maa-awards/writing-awards/fair-majority-voting-or-how-to-eliminate-gerrymandering}}</ref> Celebration of Michel Balinski's 78 years at the 23rd International Conference on Game Theory, SUNY Stony Brook, July 2012;<ref>http://www.gtcenter.org/Archive/2012/BalinskiSchedule.pdf</ref> [[John von Neumann Theory Prize]], INFORMS, 2013;<ref name="informs.org"/> [[Institute for Operations Research and the Management Sciences|INFORMS]] Fellow, 2014.<ref name="informs-awards">[https://www.informs.org/Recognizing-Excellence/Award-Recipients/Michel-L-Balinski INFORMS award recipients: Michel L. Balinski], retrieved 2013-11-27.</ref><ref>{{Cite web|url=https://www.informs.org/Recognizing-Excellence/Fellows/INFORMS-Fellows-Class-of-2014|title=INFORMS Fellows: Class of 2014}}</ref>
+
+==Selected publications==
+
+===Books===
+*''Fair Representation: Meeting the Ideal of One Man, One Vote'', Michel L. Balinski and [[Peyton Young|H. Peyton Young]], Yale University Press, 1982. 2nd edition, Brookings Institution Press, Washington, D.C., 2001. Japanese translation, Chikura-Shobo Publishing Co., Tokyo, 1987. {{ISBN|9780815716341}}. [Given the George H. Hallet Award, 2009, "[For] a book published at least 10 years ago that has made a lasting contribution to ... representation and electoral systems."]
+*''Le Suffrage Universel Inachevé'', Michel Balinski, Editions Belin, 2004, {{ISBN|2-7011-3774-8}}.
+*''Majority Judgment: Measuring, Ranking, and Electing'', Michel Balinski and Rida Laraki, MIT Press,<ref>{{Cite web|url=https://mitpress.mit.edu/books/majority-judgment|title=Majority Judgment &#124; the MIT Press}}</ref> 2010, {{ISBN|9780262015134}}.
+
+===Articles===
+*{{citation | last = Balinski | first = M. L. | year = 1961 | title = An algorithm for finding all vertices of convex polyhedral sets | journal = J. Soc. Indust. Appl. Math. | mr = 0142057 | pages = 72–88 | volume = 9 | doi=10.1137/0109008|ref=none}}.
+*{{citation|last=Balinski|first=M. L. | author-mask = 2| year=1961|title= On the graph structure of convex polyhedra in n-space|journal  = [[Pacific Journal of Mathematics]]|volume=11|issue=2 |pages=431–434|doi=10.2140/pjm.1961.11.431|doi-access=free}}.
+*{{citation|last=Balinski|first=M. L. | author-mask = 2|year=1965 |title=Integer Programming : Methods, Uses, Computation|journal=[[Management Science (journal)|Management Science]]|volume=12|issue=3 |pages=253–313|doi=10.1287/mnsc.12.3.253|jstor=2627582|ref=none}}. Reprinted in ''Mathematics of the Decision Sciences'' (1968), in ''Proceedings of the Princeton Symposium on Mathematical Programming'', 1970, and in ''50 Years of Integer Programming 1958–2008'' (2010). Given the 1965 [[Lanchester Prize]]
+*{{cite journal|author=Balinski, M. L.| author-mask = 2|author2=Baumol, W. J. |year=1968 |title= The dual in nonlinear programming and its economic interpretation |journal=[[The Review of Economic Studies]]|volume=25| issue = 3|pages=237–256| doi = 10.2307/2296660| jstor = 2296660}}
+*{{cite journal|author=Balinski, M. L.| author-mask = 2|author2=Tucker, A. W. |year=1968 |title= Duality theory of linear programs: a constructive approach with applications |journal= [[SIAM Review]] |volume=11|pages=247–377}}
+*{{citation|last=Balinski|first=M. L. | author-mask = 2|year=1970|title=On a selection problem|journal = [[Management Science (journal)|Management Science]]|volume=17|issue=3|pages=230–231|doi=10.1287/mnsc.17.3.230|ref=none|doi-access=free}}.
+*{{cite journal|author=Balinski, M. L.| author-mask = 2|author2=Young, H. P. |year=1974|title= Interpreting von Neumann model prices as marginal values |journal= [[Journal of Economic Theory]] |volume=9| issue = 4|pages=449–463 |doi=10.1016/0022-0531(74)90045-3}}
+*{{cite journal|author=Balinski, M. L.| author-mask = 2|author2=Young, H. P. |year=1975 |title=The quota method of apportionment|journal=Amer. Math. Monthly|volume=82| issue = 7|pages=701–730|url=http://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/BalinskiYoung.pdf|doi=10.2307/2318729| jstor = 2318729}}. Given the 1976 [[Lester R. Ford Award]]
+*{{cite journal|author=Balinski, M. L.| author-mask = 2 |year=1984 |title=The Hirsch conjecture for dual transportation polyhedra|journal=Mathematics of Operations Research|volume=9| issue = 4 |pages=629–633|doi=10.1287/moor.9.4.629|url=http://pure.iiasa.ac.at/2373/1/CP-83-009.pdf}}
+*{{cite journal|author=Balinski, M. L.| author-mask = 2|author2=Demange, G.|year=1989 |title= An axiomatic approach to proportionality between matrices |journal= [[Mathematics of Operations Research]] |volume=14| issue = 4|pages=700–719 |doi=10.1287/moor.14.4.700|url=https://hal.archives-ouvertes.fr/hal-00686748/file/Balinski-DemangeMOR.pdf}}
+*{{cite journal|author=Balinski, M. L.| author-mask = 2|author2=Ramiréz, V.|year=1996 |title= A case study of electoral manipulation: the Mexican laws of 1989 and 1994 |journal= [[Electoral Studies]] |volume=15| issue = 2|pages=203–217 |doi=10.1016/0261-3794(95)00033-x}}
+*{{cite journal|author=Balinski, M. L.| author-mask = 2|author2= Sönmez, T. |year=1999|title= A tale of two mechanisms: student placement |journal= [[Journal of Economic Theory]] |volume=84|pages=73–94 |doi=10.1006/jeth.1998.2469}}
+*{{cite journal|author= Baïou, M. |author2= Balinski, M. L. |year=2002 |title= The stable allocation (or ordinal transportation) problem |journal= [[Mathematics of Operations Research]] |volume=27|pages=662–680 |doi=10.1287/moor.27.4.662.302|doi-access=free }}
+*{{citation|last=Balinski|first=M. L. |year=2005|title= What is just? |journal= [[American Mathematical Monthly]]|volume=112|issue=6 |pages=502–5011 |doi=10.2307/30037520|jstor=30037520 }}.
+*{{cite journal|author=Balinski, M. L.| author-mask = 2|author2= Laraki, R. |year=2007|title= A theory of measuring, electing and ranking |journal= [[Proceedings of the National Academy of Sciences]] |volume=104| issue = 21|pages=8720–8725 |doi=10.1073/pnas.0702634104|url=https://hal.archives-ouvertes.fr/hal-00243040/document|pmc=1885569 |pmid=17496140| bibcode = 2007PNAS..104.8720B| doi-access = free}}
+*{{citation|last=Balinski|first=M. L. |year=2008|title= Fair majority voting (or how to eliminate gerrymandering) |journal= [[American Mathematical Monthly]]|volume=115|issue=2 |pages=97–113 |jstor=27642416 |doi=10.1080/00029890.2008.11920503|s2cid=1139441 }}.Given the [[Lester R. Ford Award]]
+*{{citation|last=Balinski|first=M. L. | author-mask = 2|year=2009|title= Projets électoraux: le droit rencontre les mathématiques |journal= [[Recueil Dalloz]]|volume=3|pages=183–186 }}.
+*{{cite journal|author=Balinski, M. L.| author-mask = 2|author2= Laraki, R. |year=2014 |title= Judge: Don't Vote |journal= [[Operations Research (journal)|Operations Research]] |volume=62| issue = 3|pages=483–511 |doi=10.1287/opre.2014.1269}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.informs.org/content/view/full/270958 Biography of Michel Balinski] from the Institute for Operations Research and the Management Sciences
+*[[Ludwik Rajchman]] – Grandfather of Michel Balinski, Founder of [[UNICEF]]
+*[https://sites.google.com/site/michellbalinski/ Michel Balinski's website]
+*[http://www.math.cornell.edu/~billera/misc/Abstracts.html Messenger Lectures]
+*[http://www.orie.cornell.edu/news/index.cfm?news_id=62115&news_back=news_archive%26y%3D2007 Messenger Lectures]
+*[https://www.ams.org/samplings/feature-column/fcarc-apportionii3 Apportionment: Balinski and Young’s Contribution]
+*[http://www.whydomath.org/Reading_Room_Material/siamnews/sn6_10_2001.html Political calculus]
+*[http://www.college-de-france.fr/site/pierre-rosanvallon/seminar-2012-02-29-10h00.htm Le jugement majoritaire, video]
+*[http://mitpress.mit.edu/books/majority-judgment Majority Judgment: Measuring, Ranking and Electing]
+*[https://books.google.com/books?id=hplkLvGkuzwC&pg=PA286 A Biography of Michel Balinski] in the book: A Mathematical View of Our World.
+*[http://ifors.org/web/michel-balinski/ IFORS Distinguished Lecture]
+*[http://www.maa.org/sites/default/files/pdf/awards/mf09pzbk.pdf  George H. Hallet Award 2009]
+*[https://connect.informs.org/communities/community-home/digestviewer/viewthread?MessageKey=58480fbc-fb5f-4b2e-86c2-8fdea851a685&CommunityKey=1d5653fa-85c8-46b3-8176-869b140e5e3c&tab=digestviewer#bm58480fbc-fb5f-4b2e-86c2-8fdea851a685 Remembering Michel Balinski]
+*[http://gametheorysociety.org/michel-balinski-1933-2019/ In Memoriam: Michel Balinski (1933-2019)]
+
+{{John von Neumann Theory Prize recipients}}
+{{Authority control}}
+
+{{DEFAULTSORT:Balinski, Michel L.}}
+[[Category:1933 births]]
+[[Category:2019 deaths]]
+[[Category:20th-century American mathematicians]]
+<!-- Before changing this to a national category, think: should he be listed as Polish, Swiss, American, French, or some combination of more than one of these? -->
+[[Category:Williams College alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:Princeton University alumni]]
+[[Category:Princeton University faculty]]
+[[Category:University of Pennsylvania faculty]]
+[[Category:City University of New York faculty]]
+[[Category:Yale University faculty]]
+[[Category:Stony Brook University faculty]]
+[[Category:American operations researchers]]
+[[Category:Econometricians]]
+[[Category:American political scientists]]
+[[Category:American people of Polish descent]]
+[[Category:21st-century mathematicians]]
+[[Category:John von Neumann Theory Prize winners]]
+[[Category:People from Geneva]]
+[[Category:Fellows of the Institute for Operations Research and the Management Sciences]]

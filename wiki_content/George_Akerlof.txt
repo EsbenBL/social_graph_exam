@@ -1,0 +1,145 @@
+{{short description|American economist (born 1940)}}
+{{Infobox economist
+| name              = George Akerlof
+| birth_name        = George Arthur Akerlof
+| school_tradition  = [[New Keynesian economics]]
+| image             = George Akerlof.jpg
+| image_size        = 225px
+| caption           = Akerlof in 2007
+| birth_date        = {{Birth date and age|1940|6|17|mf=y}}
+| birth_place       = [[New Haven, Connecticut]], U.S.
+| death_date        = 
+| death_place       = 
+| institution       = [[Georgetown University]]<br>[[London School of Economics]]<br>[[University of California, Berkeley]]
+| field             = 
+| alma_mater        = [[Yale University]] ([[Bachelor of Arts|B.A]])<br />[[Massachusetts Institute of Technology]] ([[Doctor of Philosophy|Ph.D]])
+| doctoral_advisor  = [[Robert Solow]]<ref>{{cite thesis |last= Akerlof |first= George |date= 1966 |title= Wages and capital |type= Ph.D. |publisher= Massachusetts Institute of Technology |url= https://dspace.mit.edu/bitstream/handle/1721.1/12962/26075763-MIT.pdf?sequence=2 |access-date= June 28, 2017 }}</ref>
+| academic_advisors = 
+| doctoral_students = [[Charles Engel]]<br>[[Adriana Kugler]]
+| notable_students  = 
+| influences        = [[John Maynard Keynes]]
+| influenced        = [[Robert Shiller]]
+| contributions     = [[Information asymmetry]]<br />[[Efficiency wages]]
+| awards            = [[Nobel Memorial Prize in Economic Sciences]] (2001)
+| spouse            = {{marriage|[[Janet Yellen]]|1978}}
+| children          = 1
+| signature         = 
+| repec_prefix      = e
+| repec_id          = pak7
+|child=Robert Akerlof}}
+'''George Arthur Akerlof''' (born June 17, 1940) is an American [[economist]] who is a university professor at the [[McCourt School of Public Policy]] at [[Georgetown University]] and Koshland [[Professor]] of [[Economics]] Emeritus at the [[University of California, Berkeley]].<ref name="wsj">{{cite web|url=https://blogs.wsj.com/economics/2014/09/23/george-akerlof-aka-mr-janet-yellen-heads-to-georgetown/|title=George Akerlof (aka Mr. Janet Yellen) Heads to Georgetown - Real Time Economics - WSJ|publisher=blogs.wsj.com|access-date=2014-10-25|date=2014-09-23}}</ref><ref>{{Cite web | url=http://explore.georgetown.edu/people/gaa53/ |title = Faculty}}</ref> He won the 2001 [[Nobel Memorial Prize in Economic Sciences]] (shared with [[Michael Spence]] and [[Joseph Stiglitz|Joseph E. Stiglitz]]).
+
+==Early life and education==
+Akerlof was born in [[New Haven, Connecticut]], United States, the son of Rosalie Clara Grubber (née Hirschfelder) and Gösta Carl Åkerlöf, who was a chemist and inventor.<ref name="google">{{cite book|title=Economics and Sociology: Redefining Their Boundaries : Conversations with Economists and Sociologists|author=Swedberg, R.|date=1990|publisher=Princeton University Press|isbn=9780691003764|url=https://archive.org/details/economicssociolo0000swed|url-access=registration|page=[https://archive.org/details/economicssociolo0000swed/page/61 61]|access-date=2014-10-25}}</ref><ref name="google2">{{cite book|title=Biographical Memoirs|author1=Secretary, O.H.|author2=Sciences, N.A.|date=1980|volume=51|publisher=National Academies Press|isbn=9780309028882|url=https://books.google.com/books?id=s3Ms-rq7RWQC|page=221|access-date=2014-10-25}}</ref><ref>http://digitalcollections.library.cmu.edu/awweb/awarchive?type=file&item=407756</ref> His mother was [[Jewish]], from a family that had emigrated from [[Germany]]. His father was a [[Swedish Americans|Swedish immigrant]].<ref name="Nobel">{{Nobelprize}} "The Princeton Country Day School ended at grade nine. At that point most of my classmates dispersed among different New England prep schools. Both for financial reasons and also because they preferred that I stay at home, my family sent me down the road to the Lawrenceville School."</ref> Akerlof attended [[Princeton Day School]], graduated from the [[Lawrenceville School]]<ref name="Nobel"/> in 1958, and received the [[Aldo Leopold]] Award in 2002. In 1962 he received his BA degree from [[Yale University]], in 1966 his PhD degree from [[Massachusetts Institute of Technology|MIT]] and taught at the [[London School of Economics]] 1978–80.
+
+==Contributions to economics==
+
+==="The Market for Lemons" and asymmetric information===
+Akerlof is perhaps best known for his article, "[[The Market for Lemons|The Market for Lemons: Quality Uncertainty and the Market Mechanism]]", published in the ''[[Quarterly Journal of Economics]]'' in 1970, in which he identified certain severe problems that afflict markets characterized by [[Information asymmetry|asymmetric information]], the paper for which he was awarded the Nobel Memorial Prize.{{#tag:Ref|Both the ''[[American Economic Review]]'' and ''[[The Review of Economic Studies]]'' rejected the paper for "triviality", while the reviewers for ''[[Journal of Political Economy]]'' rejected it as incorrect, arguing that if this paper was correct, then no goods could be traded. Only on the fourth attempt did the paper get published in ''[[Quarterly Journal of Economics]]''.<ref>[http://nobelprize.org/nobel_prizes/economics/laureates/2001/akerlof-article.html Writing the <!--sic;the extra "the" is in the source--> “The Market for ‘Lemons’”: A Personal and Interpretive Essay] by George A. Akerlof</ref> Today, the paper is one of the most-cited papers in modern economic theory (more than 5800 citations in academic papers as of July 2009).<ref>{{cite web |url=https://scholar.google.de/scholar?num=100&hl=en&lr=&safe=off&cites=13868942939151083936 |title=Citations of Akerlof: The Market for Lemons: Quality Uncertainty and the Market Mechanism |access-date=2009-07-07 |work=[[Google Scholar]] |url-status=dead |archive-url=https://archive.today/20120723200808/http://scholar.google.de/scholar?num=100&hl=en&lr=&safe=off&cites=13868942939151083936 |archive-date=2012-07-23 }}</ref>}} In ''Efficiency Wage Models of the Labor Market'', Akerlof and coauthor/current Secretary of the U.S. Treasury [[Janet Yellen]] propose rationales for the [[efficiency wage hypothesis]] in which employers pay above the [[market clearing|market-clearing]] wage, in contradiction to the conclusions of [[neoclassical economics]]. This work introduced [[gift-exchange game]] to economics.
+
+===Identity economics===
+In his latest work, Akerlof and collaborator [[Rachel Kranton]] of Duke University introduce social identity into formal economic analysis, creating the field of [[identity economics]]. Drawing on [[social psychology]] and many fields outside of economics, Akerlof and Kranton argue that individuals do not have preferences only over different goods and services. They also adhere to [[norm (sociology)|social norms]] for how different people should behave. The norms are linked to a person's [[social identity|social identities]]. These ideas first appeared in their article "Economics and Identity", published in the ''Quarterly Journal of Economics'' in 2000.
+
+===Reproductive technology shock===
+In the late 1990s Akerlof's ideas attracted the attention of some on both sides of the debate over legal [[abortion]]. In articles appearing in The ''[[Quarterly Journal of Economics]]'',<ref>{{Citation |doi=10.2307/2946680 |last1=Akerlof |first1=George A. |last2=Yellen |first2=Janet |author-link2=Janet Yellen |last3=Katz |first3=Michael L. |s2cid=11777041 |author-link3=Lawrence F. Katz |name-list-style=amp |year=1996 |title=An Analysis on Out-of-Wedlock Childbearing in the United States |journal=Quarterly Journal of Economics |volume=111 |issue=2 |pages=277–317 |publisher=The MIT Press |jstor=2946680 }}</ref> ''[[The Economic Journal]]'',<ref>{{Citation |doi=10.1111/1468-0297.00288 |last=Akerlof |first=George A. |year=1998 |title=Men Without Children |journal=Economic Journal |volume=108 |issue=447 |pages=287–309 |jstor=2565562 |publisher=Blackwell Publishing }}</ref> and other forums Akerlof described a phenomenon that he labeled "''reproductive technology shock.''" He contended that the new technologies that had helped to spawn the late twentieth century [[sexual revolution]], modern contraceptives and legal abortion, had not only failed to suppress the incidence of [[Legitimacy (family law)|out-of-wedlock]] childbearing but also had actually worked to increase it. According to Akerlof, for women who did not use them, these technologies had largely transformed the old paradigm of socio-sexual assumptions, expectations, and behaviors in ways that were especially disadvantageous. For example, the availability of legal abortion now allowed men to view their offspring as the deliberate product of female choice rather than as the joint product of sexual intercourse. Thus, it encouraged biological fathers to reject not only the notion of an obligation to marry the mother but also the idea of a paternal obligation.
+
+While Akerlof did not recommend legal restrictions on either abortion or the availability of contraceptives his analysis seemed to lend support to those who did. Thus, a scholar strongly associated with liberal and Democratic-leaning policy positions has been approvingly cited by conservative and Republican-leaning analysts and commentators.<ref>{{Citation|title=Failed Promises of Abortion|url=http://www.uexpress.com/maggiegallagher/?uc_full_date=20030121|url-status=dead|archive-url=https://web.archive.org/web/20081012045720/http://www.uexpress.com/maggiegallagher/?uc_full_date=20030121|archive-date=2008-10-12}}</ref><ref>{{Citation |title=The Facts of Life & Marriage |url=http://www.nfpoutreach.org/library/facts_life-marriage.htm }}</ref>
+
+===Looting===
+In 1993 Akerlof and [[Paul Romer]] brought forth "Looting: The Economic Underworld of Bankruptcy for Profit", describing how under certain conditions, owners of corporations will decide it is more profitable for them personally to 'loot' the company and 'extract value' from it instead of trying to make it grow and prosper. For example:
+
+<blockquote>Bankruptcy for profit will occur if poor accounting, lax regulation, or low penalties for abuse give owners an incentive to pay themselves more than their firms are worth and then default on their debt obligations. Bankruptcy for profit occurs most commonly when a government guarantees a firm's debt obligations.<ref>1993 George Akerlof and [[Paul Romer]], "Looting: The Economic Underworld of Bankruptcy for Profit", Brookings Papers on Economic Activity 24, Brookings Institution, Washington, DC, 1993, as quoted in {{Citation | title = Econned | author = Yves Smith | publisher = Palgrave Macmillan | year = 2010 | isbn = 978-0-230-62051-3 | title-link = ECONned }} pp. 164–165</ref></blockquote>
+
+===Norms and macroeconomics===
+In his 2007 presidential address to the [[American Economic Association]], Akerlof proposed ''natural norms'' that decision makers have for how they ''should'' behave, and showed how such norms can explain discrepancies between theory and observed facts about the macroeconomy. Akerlof proposed a new agenda for macroeconomics, using social norms to explain macroeconomic behavior.<ref>[http://www.aeaweb.org/annual_mtg_papers/2007/0106_1640_0101.pdf ''The Missing Motivation in Macroeconomics'']</ref> He is considered{{According to whom|date=March 2017}} together with [[Gary Becker]] as one of the founders of [[social economics]].
+
+He is a trustee of [[Economists for Peace and Security]] and co-director of the Social Interactions, Identity and Well-Being Program at the [[Canadian Institute for Advanced Research]] (CIFAR). He is on the advisory board of the [[Institute for New Economic Thinking]]. He was elected a fellow of the [[American Academy of Arts and Sciences]] in 1985.<ref name=AAAS>{{cite web|title=Book of Members, 1780–2010: Chapter A|url=http://www.amacad.org/publications/BookofMembers/ChapterA.pdf|publisher=American Academy of Arts and Sciences|access-date=April 6, 2011}}</ref>
+
+==Personal life==
+His spouse, [[Janet Yellen]] serving as [[United States Secretary of the Treasury]] and [[professor emeritus]] at Berkeley's [[Haas School of Business]], previously served as the [[chair of the Federal Reserve]].<ref name="berkeley">{{cite web|url=http://newsroom.haas.berkeley.edu/article/janet-yellen-fact-sheet|title=Janet Yellen Fact Sheet &#124; Berkeley-Haas|publisher=newsroom.haas.berkeley.edu|access-date=2014-10-25|date=2013-09-25}}</ref> She also served as the president and chief executive officer of the [[Federal Reserve Bank of San Francisco]] and as chair of President [[Bill Clinton]]'s [[Council of Economic Advisors]].<ref>[http://www.epsusa.org/main/trustees.htm Trustees], Economists for Peace and Security  {{webarchive |url=https://web.archive.org/web/20080723121848/http://www.epsusa.org/main/trustees.htm |date=July 23, 2008 }}</ref><ref>[http://clinton4.nara.gov/WH/EOP/CEA/html/yellen.html Janet L. Yellen, White House Council of Economic Advisors] {{Webarchive|url=https://web.archive.org/web/20110927041252/http://clinton4.nara.gov/WH/EOP/CEA/html/yellen.html |date=2011-09-27 }}.</ref> His son Robert Akerlof<ref name="Nobel"/> has a PhD in economics from Harvard University and teaches at the [[University of Warwick]].<ref name="warwick">{{cite web|url=http://www2.warwick.ac.uk/fac/soc/economics/staff/academic/ |title=Academic Staff – University of Warwick Department of Economics|publisher=www2.warwick.ac.uk|access-date=2014-12-12}}</ref>
+
+Akerlof was one of the signees of a 2018 ''amici curiae'' brief that expressed support for [[Harvard University]] in the ''[[Students for Fair Admissions v. President and Fellows of Harvard College]]'' lawsuit. Other signees of the brief include [[Alan Krueger|Alan B. Krueger]], [[Robert Solow|Robert M. Solow]], Janet Yellen, [[Cecilia Rouse]], as well as numerous others.<ref>{{Cite web|url=https://admissionscase.harvard.edu/files/adm-case/files/economists_amended_brief_dkt._527-1.pdf|website=admissionscase.harvard.edu|access-date=2018-12-22}}</ref>
+
+== Bibliography ==
+{{Expand list|date=December 2017}}
+*{{cite book |author=Akerlof, George A. |title=An economic theorist's book of tales : essays that entertain the consequences of new assumptions in economic theory |url=https://archive.org/details/economictheorist00aker_0 |url-access=registration |location=Cambridge |publisher=Cambridge University Press |year=1984 <!--isbn=0521263239-->}}
+* Akerlof, George A., and [[Janet Yellen]]. 1986. ''Efficiency Wage Models of the Labor Market''. Orlando, Fla.: Academic Press.
+* Akerlof, George A., Romer, Paul M., Brookings Papers on Economic Activity, "Looting: The Economic Underworld of Bankruptcy for Profit" Vol. 1993, No. 2 (1993), pp.&nbsp;1–73<ref name="nyu">{{cite web|url=http://pages.stern.nyu.edu/~promer/Looting.pdf|date=23 December 2007|title=Looting: The Economic Underworld of Bankruptcy for Profit|author=George A. Akerlof and Paul M. Romer|access-date=2014-10-25}}</ref>
+* Akerlof, George A. 2000. "Economics and Identity,"  ''Quarterly Journal of Economics'', 115(3), pp. [http://www.popeconomics.com/wp-content/uploads/2010/02/economicsandidentity.pdf 715–53.]
+* Akerlof, George A. 2005. ''Explorations in Pragmatic Economics'', Oxford University Press. {{ISBN|978-0-19-925390-6}}.
+* Akerlof, George A. 2005. "Identity and the Economics of Organizations," ''Journal of Economic Perspectives'',  19(1), pp. [http://econ.duke.edu/~rek8/identityandtheeconomicsoforganizations.pdf 9–32.]
+* Akerlof, George A. "[http://www.chinadialogue.net/article/show/single/en/143-Thoughts-on-global-warming Thoughts on global warming]." [[chinadialogue]] (2006). 14 July 2008.
+* Akerlof, George A. and [[Robert Shiller|Robert J. Shiller]]. 2009. ''[[Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism]]''. Princeton, New Jersey: Princeton University Press. {{ISBN|978-0-691-14233-3}}.
+* Akerlof, George A., and [[Rachel Kranton|Rachel E. Kranton]]. 2010. ''Identity Economics: How Our Identities Shape Our Work, Wages, and Well-Being'', Princeton, New Jersey: Princeton University Press. {{ISBN|978-0-691-14648-5}}. [http://press.princeton.edu/titles/9108.html Description & TOC], "Introduction,"  pp. [http://press.princeton.edu/chapters/s9108.pdf 3–8], and [https://books.google.com/books/p/princeton?id=1gKUpITuf00C&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false preview.]
+* George A. Akerlof and [[Robert Shiller|Robert J. Shiller]]. 2015. ''Phishing for Phools: The Economics of Manipulation and Deception'', Princeton University Press. {{ISBN|978-0-691-16831-9}}.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+* [http://emlab.berkeley.edu/users/akerlof/ George A. Akerlof] at [[University of California, Berkeley]]
+* [http://identityeconomics.org/ Identity Economics]
+* [http://www.britannica.com/EBchecked/topic/764254/George-A-Akerlof Biography] at [[Encyclopædia Britannica]]
+* {{Nobelprize}} including the Nobel Prize Lecture December 8, 2001 ''Behavioral Macroeconomics and Macroeconomic Behavior''
+* [https://ideas.repec.org/e/pak7.html Profile] and [http://econpapers.repec.org/RAS/pak7.htm Papers] at [[Research Papers in Economics]]/RePEc
+* {{Worldcat id|lccn-n82-241976}}
+* {{cite encyclopedia |title=George A. Akerlof (1940– ) |url=http://www.econlib.org/library/Enc/bios/Akerlof.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+;Articles
+* [http://www.berkeley.edu/news/media/releases/2003/02/12_akerlof.shtml Akerlof's criticism of Bush], February 12, 2003
+* [https://web.archive.org/web/20061121212004/http://www.commondreams.org/headlines03/0729-06.htm Akerlof slams Bush government], July 29, 2003
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[James J. Heckman]] | before2 = [[Daniel L. McFadden]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 2001 | alongside = [[A. Michael Spence]], [[Joseph E. Stiglitz]] }}
+{{s-aft | after = [[Daniel Kahneman]] | after2 = [[Vernon L. Smith]] }}
+{{s-aca}}
+{{s-bef | before = [[Daniel McFadden]] }}
+{{s-ttl | title = [[American Economic Association#Association presidents|President]] of the [[American Economic Association]] | years = 2006–2007 }}
+{{s-aft | after = [[Thomas J. Sargent]] }}
+{{s-end}}
+
+{{Keynesians}}
+{{Sveriges Riksbank laureates in economics 2001–2025}}
+{{2001 Nobel Prize winners}}
+{{Presidents of the American Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Akerlof, George}}
+[[Category:1940 births]]
+[[Category:Living people]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Academics of the London School of Economics]]
+[[Category:American expatriate academics]]
+[[Category:American Nobel laureates]]
+[[Category:American people of German-Jewish descent]]
+[[Category:American people of Swedish descent]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Economists from Connecticut]]
+[[Category:Economists from New Jersey]]
+[[Category:Expatriate academics in the United Kingdom]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Information economists]]
+[[Category:Institute for New Economic Thinking]]
+[[Category:Jewish American academics]]
+[[Category:Jewish American economists]]
+[[Category:Jewish American scientists]]
+[[Category:Jewish Nobel laureates]]
+[[Category:Labor economists]]
+[[Category:Lawrenceville School alumni]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:McCourt School of Public Policy faculty]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:National Bureau of Economic Research]]
+[[Category:New Keynesian economists]]
+[[Category:Nobel laureates in Economics]]
+[[Category:People from Princeton, New Jersey]]
+[[Category:Presidents of the American Economic Association]]
+[[Category:Russell Sage Foundation]]
+[[Category:Scientists from New Haven, Connecticut]]
+[[Category:University of California, Berkeley College of Letters and Science faculty]]
+[[Category:Yale University alumni]]

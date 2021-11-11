@@ -1,0 +1,55 @@
+{{short description|German-born American psychologist (born 1933)}}
+{{Infobox scientist
+| name              = Robert Rosenthal
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_date        = {{birth date and age |1933|3|2|mf=yes}}
+| birth_place       = [[Gießen]], [[People's State of Hesse|Hesse]]
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| nationality       = [[United States|American]]
+| fields            = [[Psychology]]
+| workplaces        = [[University of California, Riverside]]
+| alma_mater        = [[University of California, Los Angeles]]
+| thesis_title      = An Attempt at the Experimental Induction of the Defense Mechanism of Projection
+| thesis_url        = https://catalog.library.ucla.edu/vwebv/holdingsInfo?bibId=2985332
+| thesis_year       = 1956
+| doctoral_advisor  = [[Bruno Klopfer]]
+| doctoral_students = 
+| known_for         = 
+| awards            = 
+}}
+'''Robert Rosenthal''' (born March 2, 1933) is a German-born American psychologist who is a Distinguished Professor of [[Psychology]] at the [[University of California, Riverside]]. His interests include  [[self-fulfilling prophecy|self-fulfilling prophecies]], which he explored in a well-known study of the [[Pygmalion effect]]: the effect of teachers' expectations on students.
+
+==Biography==
+Rosenthal was born in [[Gießen]], [[People's State of Hesse|Hesse]], on March 2, 1933, and left Germany with his family at the age of six. In 1956, he was awarded a [[PhD]] by the [[University of California, Los Angeles]]. He started his career as a [[clinical psychology|clinical psychologist]] and then moved into [[social psychology]]. From 1962 to 1999 he taught at [[Harvard]], became chairman of the psychology department there in 1992, and Edgar Pierce Professor of Psychology in 1995. On retiring from Harvard in 1999, he went to California. 
+
+Much of his work has focused on [[nonverbal communication]], particularly its influence on expectations: for example, in doctor-patient or manager-employee situations. The many awards he has won include the 2003 Gold Medal Award for Life Achievement in the Science of Psychology from the [[American Psychological Association]] and election to the [[American Academy of Arts and Sciences]]. Rosenthal won the [[AAAS Prize for Behavioral Science Research]] in 1960.<ref>[http://archives.aaas.org/awards.php?a_id=24 History & Archives:  AAAS Prize for Behavioral Science Research]</ref> In 2008 he became a University Professor in the University of California statewide system. A survey in the ''[[Review of General Psychology]]'', published in 2002, ranked Rosenthal as the 84th most cited psychologist of the 20th century.<ref>{{cite journal |title=The 100 most eminent psychologists of the 20th century |journal=Review of General Psychology |volume=6 |issue=2 |year=2002 |pages=139–152 |doi=10.1037/1089-2680.6.2.139 |url=http://www.apa.org/monitor/julaug02/eminent.aspx |last1=Haggbloom |first1=Steven J. |last2=Warnick |first2=Renee |last3=Warnick |first3=Jason E. |last4=Jones |first4=Vinessa K. |last5=Yarbrough |first5=Gary L. |last6=Russell |first6=Tenea M. |last7=Borecky |first7=Chris M. |last8=McGahhey |first8=Reagan |last9=Powell III |first9=John L. |last10=Beavers |first10=Jamie |last11=Monte |first11=Emmanuelle|s2cid=145668721 }}</ref>
+
+==Publications==
+*{{citation |year=1979 |author=Rosenthal, Robert |title=The "File Drawer Problem" and the Tolerance for Null Results |journal=[[Psychological Bulletin]] |volume=86 |issue=3 |pages=638–641 |doi=10.1037/0033-2909.86.3.638}}
+* Rosenthal, R. & Jacobson, L. (1992). Pygmalion in the classroom, Expanded edition. New York: Irvington.
+
+==References== 
+<references/>
+
+==Sources==
+*[http://www.psych.ucr.edu/faculty/rosenthal/index.html University Biography]
+*[http://www.apa.org/monitor/julaug03/apf.aspx American Psychological Foundation]
+*[https://web.archive.org/web/20060518094027/http://hcr3.isiknowledge.com/author.cgi?&link1=Browse&link2=Results&id=2771 List of Rosenthal's appointments, awards etc.]
+
+{{Authority control}}
+{{DEFAULTSORT:Rosenthal, Robert}}
+[[Category:1933 births]]
+[[Category:German emigrants to the United States]]
+[[Category:University of California, Riverside faculty]]
+[[Category:University of California, Los Angeles alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Social psychologists]]
+[[Category:Living people]]
+
+{{US-psychologist-stub}}
+[[Category:American psychologists]]

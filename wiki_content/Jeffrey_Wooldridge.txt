@@ -1,0 +1,46 @@
+{{Infobox economist
+| name             = Jeffrey M. Wooldridge
+| school_tradition = 
+| color            = 
+| image            = 
+| image_size       = 
+| caption          = 
+| birth_date       = 15 Jan 1960
+| birth_place      = 
+| death_date       = 
+| death_place      = 
+| nationality      = [[United States|American]]
+| institution      = [[Michigan State University]]
+| field            = [[Econometrics]]
+| alma_mater       = [[University of California, San Diego|California–San Diego]]<br>[[University of California, Berkeley|California–Berkeley]]
+| contributions    = 
+| awards           =
+| repec_prefix = e | repec_id = pwo39
+|doctoral_advisor=[[Halbert White]]}}
+
+'''Jeffrey Marc Wooldridge''' (born 1960) is an [[United States|American]] [[econometrics|econometrician]] at [[Michigan State University]]. He is known for his theoretical contributions to analysis of [[Cross-sectional data|cross-sectional]] and [[panel data]].
+
+After graduating in [[computer science]] and [[economics]] from the [[University of California, Berkeley]] in 1982, Wooldridge earned a Ph.D. in economics from the [[University of California, San Diego]] in 1986. He spent five years as an assistant professor of economics at the [[Massachusetts Institute of Technology]], before joining faculty at [[Michigan State University]], where he became a professor in 1993. He was designated University Distinguished Professor in 2001.<ref>http://econ.msu.edu/faculty/wooldridge/jmwvita.pdf</ref>
+
+Wooldridge is a Fellow of the [[Econometric Society]] and of the [[Journal of Econometrics]]. He is also known as the author of the popular econometrics textbooks ''Introductory Econometrics: A Modern Approach'' (6th edition, 2016) and ''Econometric Analysis of Cross Section and Panel Data'' (2nd edition, 2010).
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://econ.msu.edu/faculty/wooldridge/ Website at Michigan State University]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wooldridge, Jeffrey}}
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:Economists from California]]
+[[Category:Microeconometricians]]
+[[Category:University of California, San Diego alumni]]
+[[Category:Michigan State University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:21st-century American economists]]
+
+
+{{US-economist-stub}}

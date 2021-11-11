@@ -1,0 +1,71 @@
+
+{{Infobox economist
+| name = Herb Scarf
+| image = Herbert-Scarf-Yale.png
+| birth_name = Herbert Eli Scarf
+| birth_date = {{birth date|1930|7|25}}
+| birth_place = [[Philadelphia]], [[Pennsylvania]], U.S.
+| death_date = {{Death date and age|2015|11|15|1930|7|25}}
+| death_place = [[Sag Harbor, New York]], U.S.
+| field = [[Economics]], [[Mathematics]]
+| institution = [[Yale University]]
+| alma_mater = [[Temple University]] ([[Bachelor of Arts|BA]])<br>[[Princeton University]] ([[Master of Arts|MA]], [[Doctor of Philosophy|PhD]])
+| doctoral_advisor = [[Salomon Bochner]]
+| doctoral_students = {{plainlist|1=
+*[[Duncan K. Foley]]
+*{{ill|Donald Iglehart|de}}
+*[[Timothy Kehoe]]
+*{{ill|Rolf Mantel|es}}
+*{{ill|Frank Proschan|de}}
+*[[John Shoven]]
+*[[Ludo Van der Heyden]]
+*[[Menahem Yaari]]
+}}
+| awards = [[John von Neumann Theory Prize]] {{small|(1983)}}
+| repec_prefix = e
+| repec_id = psc54
+}}
+'''Herbert Eli "Herb" Scarf''' (July 25, 1930 – November 15, 2015) was an [[United States|American]] [[mathematical economics|mathematical economist]] and [[Sterling Professor]] of [[Economics]] at [[Yale University]].
+
+==Education and career==
+Scarf was born in Philadelphia, the son of Jewish emigrants from Ukraine and Russia, Lene (Elkman) and Louis Scarf.<ref>{{Cite web|url=https://www.nytimes.com/2015/11/23/business/herbert-scarf-an-economists-mathematician-dies-at-85.html|title=Herbert Scarf, an Economist's Mathematician, Dies at 85 (Published 2015)|first=Sam|last=Roberts|date=November 21, 2015|via=NYTimes.com}}</ref> During his undergraduate work he finished in the top 10 of the 1950 [[William Lowell Putnam Mathematical Competition]], the major mathematics competition between universities across the United States and [[Canada]].  He received his PhD from Princeton in 1954, supervised by [[Salomon Bochner]].<ref>{{mathgenealogy|id=8119}}</ref>
+
+==Contributions==
+Among his notable works is a seminal paper in [[Cooperative game theory|cooperative game]] in which he showed sufficiency for a [[core (economics)]] in general balanced games.  Sufficiency and necessity had been previously shown by [[Lloyd Shapley]] for games where players were allowed to transfer utility between themselves freely.  Necessity is shown to be lost in the generalization.
+
+==Recognition==
+Scarf received the 1973 [[Frederick W. Lanchester Award]] for his contribution ''The Computation of Economic Equilibria'' with the collaboration of [[Terje Hansen]], which pioneered the use of numeric [[algorithm]]s to solve [[general equilibrium]] systems using [[Applied general equilibrium]] models.
+He was a member of the [[American Academy of Arts and Sciences]], and was elected to the 2002 class of [[Fellow]]s of the [[Institute for Operations Research and the Management Sciences]].<ref>{{citation|url=https://www.informs.org/Recognizing-Excellence/Fellows/Fellows-Alphabetical-List|title=Fellows: Alphabetical List|publisher=[[Institute for Operations Research and the Management Sciences]]|access-date=2019-10-09|archive-url=https://web.archive.org/web/20190510220119/https://www.informs.org/Recognizing-Excellence/Fellows/Fellows-Alphabetical-List|archive-date=2019-05-10|url-status=dead}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://cowles.econ.yale.edu/~hes/ Personal web site]
+* [https://web.archive.org/web/20090418004842/http://cepa.newschool.edu/het/profiles/scarf.htm The works of Herbert Scarf]
+*{{Find a Grave}}
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Scarf, Herbert}}
+[[Category:1930 births]]
+[[Category:2015 deaths]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:General equilibrium theorists]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:20th-century American mathematicians]]
+[[Category:Yale University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Yale Sterling Professors]]
+[[Category:John von Neumann Theory Prize winners]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Fellows of the Institute for Operations Research and the Management Sciences]]
+[[Category:21st-century American mathematicians]]
+
+
+{{US-economist-stub}}
+{{US-mathematician-stub}}

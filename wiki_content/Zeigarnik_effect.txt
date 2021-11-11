@@ -1,0 +1,63 @@
+{{short description|Activity that has been interrupted may be more readily recalled}}
+Named after Soviet psychologist [[Bluma Zeigarnik]], in [[psychology]] the '''Zeigarnik effect''' occurs when an activity that has been interrupted may be more readily [[Recall (memory)|recalled]]. It postulates that people remember unfinished or interrupted tasks better than completed tasks. In [[Gestalt psychology]], the Zeigarnik effect has been used to demonstrate the general presence of Gestalt phenomena: not just appearing as perceptual effects, but also present in cognition.<ref>cf. Kurt Koffka, ''Principles of Gestalt Psychology'', 1935, pp 334ff.</ref>
+
+The Zeigarnik effect should not be confused with the [[Ovsiankina effect]]. [[Maria Ovsiankina]], a colleague of Zeigarnik, investigated the effect of task interruption on the tendency to resume the task at the next opportunity.<ref>Ovsiankina 1928: ''Die Wiederaufnahme unterbrochener Handlungen''. In: ''Psychologische Forschung'' 11(3/4), 302–379. [https://doi.org/10.1007/BF00410261 doi=0.1007/BF00410261]</ref>
+
+==Overview==
+Russian psychologist [[Bluma Zeigarnik]] first studied the phenomenon after her professor and [[Gestalt psychology|Gestalt]] psychologist [[Kurt Lewin]] noticed that a [[waiter]] had better recollections of still unpaid orders. However, after the completion of the task – after everyone had paid – he was unable to remember any more details of the orders. Zeigarnik then designed a series of experiments to uncover the processes underlying this phenomenon. Her research report was published in 1927, in the journal ''[[Psychological Research|Psychologische Forschung]].''<ref>[http://interruptions.net/literature/Zeigarnik-PsychologischeForschung27.pdf Zeigarnik, B. (1927). Das Behalten erledigter und unerledigter Handlungen. ''Psychologische Forschung'', 9, 1-85.]: a condensed and abridged English version: Zeigarnik, B. (1938), "On Finished and Unfinished Tasks", pp.300-314 in [https://archive.org/details/in.ernet.dli.2015.198039 W. D. Ellis (Ed.), ''A Sourcebook of Gestalt Psychology'', London: Kegan Paul, Trench, Trubner & Co.]</ref>
+
+The advantage of remembrance can be explained by looking at [[Field theory (psychology)|Lewin's field theory]]: a task that has already been started establishes a task-specific tension, which improves cognitive accessibility of the relevant contents.<ref name=Lewin1935>[[Kurt Lewin]], ''A Dynamic Theory of Personality'', 1935, pp 243ff</ref> The tension is relieved upon completion of the task, but persists if it is interrupted. Through continuous tension, the content is made more easily accessible, and can be easily remembered.<ref name=Lewin1935/>
+
+The Zeigarnik effect suggests that students who suspend their study to perform unrelated activities (such as studying a different subject or playing a game), will remember material better than students who complete study sessions without a break (McKinney 1935; Zeigarnik 1927).
+
+==Harden rule==
+Sportswriter Matt Moore has suggested that the Zeigarnik effect could explain the widespread criticism of the [[National Basketball Association]] in allowing [[free throws]] for a player "chucking it up whenever a guy comes near them."<ref>{{cite news |last1=Moore |first1=Matt |title=How the NBA's newly imposed 'Harden Rule' will impact James Harden this season |url=https://www.cbssports.com/nba/news/how-the-nbas-newly-imposed-harden-rule-will-impact-james-harden-this-season/ |access-date=21 April 2020 |work=CBSSports.com |date=4 October 2017 |language=en}}</ref>  There is a stoppage of play with each foul. When repeatedly done, it is felt to build up a [[cognitive bias]] against this move. The criticism necessitated a rule change penalizing this activity, known as the Harden Rule, named after its most prominent user, [[James Harden]].<ref>{{cite web|last1=Boone|first1=Kyle|title=The NBA is finally cracking down on James Harden's foul-drawing antics|url=https://www.cbssports.com/nba/news/the-nba-is-finally-cracking-down-on-james-hardens-foul-drawing-antics/|website=CBSSports.com|access-date=October 4, 2017|date=September 22, 2017|language=en}}</ref><ref>{{cite web|title=NBA implementing 'Zaza Pachulia,' 'James Harden' rules|url=http://nba.nbcsports.com/2017/09/21/nba-implementing-zaza-pachulia-james-harden-rules/|website=NBCSports.com|access-date=October 4, 2017|date=September 21, 2017|language=en}}</ref>
+
+==Criticism==
+The reliability of the effect has been a matter of some controversy.<ref name="Einstein2003">{{cite journal|last1=Einstein|first1=Gilles O.|last2=McDaniel|first2=Mark A.|last3=Williford|first3=Carrie L.|last4=Pagan|first4=Jason L.|last5=Dismukes|first5=R. Key|title=Forgetting of intentions in demanding situations is rapid.|journal=[[Journal of Experimental Psychology: Applied]] |date=2003|volume=9|issue=3|pages=147–162|doi=10.1037/1076-898X.9.3.147 |pmid=14570509|url=http://human-factors.arc.nasa.gov/flightcognition/Publications/JEPapplied03.pdf |quote=[...] there is controversy regarding the reliability of the Zeigarnik effect [...]|archive-url=https://web.archive.org/web/20160304230412/http://human-factors.arc.nasa.gov/flightcognition/Publications/JEPapplied03.pdf|archive-date=2016-03-04}}</ref>
+
+Several studies, performed later in other countries, attempting to replicate Zeigarnik's experiment, failed to find any significant differences in recall between "finished" and "unfinished" (interrupted) tasks (e.g., Van Bergen, 1968).<ref>{{Cite Q | Q91935831 }}</ref>
+
+==Usages==
+
+=== Software ===
+Zeigarnik effect is being used in some [[SaaS]] systems to [[User onboarding|onboard users]] faster and effectively.{{Citation needed|date=February 2021}}
+
+Zeigarnik effect emphasizes an "Aha! moment" as an uncompleted task.{{Citation needed|date=February 2021}}
+
+Usually, being implemented as user interactions gamification. These are some examples:
+
+* Progress trackers which inform users of how close they are to complete a task. When users see a message like "Your profile is 64% complete", they are more likely to spend a few minutes on providing all missing details.
+* Checklists to provide a clear step-by-step on-boarding flow.
+
+==See also== 
+* [[List of cognitive biases]]
+* [[Cliffhanger]]
+* [[Closure (psychology)]]
+* [[Procrastination]]
+
+==Notes==
+{{reflist}}
+
+==Further reading==
+===Zeigarnik===
+* [http://interruptions.net/literature/Zeigarnik-PsychologischeForschung27.pdf Zeigarnik, B. (1927). Das Behalten erledigter und unerledigter Handlungen. ''Psychologische Forschung'', 9, 1-85.]: a condensed and abridged English version: Zeigarnik, B. (1938), "On Finished and Unfinished Tasks", pp.300-314 in [https://archive.org/details/in.ernet.dli.2015.198039 W. D. Ellis (Ed.), ''A Sourcebook of Gestalt Psychology'', London: Kegan Paul, Trench, Trubner & Co.]
+===Others===
+* Burke W.W., "A Perspective on the Field of Organization Development and Change: The Zeigarnik Effect", ''The Journal of Applied Behavioral Science'', Vol.47, No.2, (June 2011), pp.143-167.
+*{{cite book|last1=Denmark|first1=Florence L.|editor1-last=Weiner|editor1-first=Irving B.|editor2-last=Craighead|editor2-first=W. Edward|title=The Corsini Encyclopedia of Psychology|date=2010|publisher=John Wiley & Sons|isbn=9780470170236|pages=1873–1874|edition=4th|chapter-url=https://books.google.com/books?id=pUSG1BONmekC&pg=PA1873|language=en|chapter=Zeigarnik Effect|doi=10.1002/9780470479216.corpsy0924}}
+* Mazur, Elena, "The Zeigarnik Effect and the Concept of Unfinished Business in Gestalt Therapy", ''British Gestalt Journal'', Vol.5, No.1, (1996), pp.18-23.
+* [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.8781&rep=rep1&type=pdf McKinney, Fred, "Studies in the Retention of Interrupted Learning Activities", ''Journal of Comparative Psychology'', Vol.19, No.2, (April 1935), 265-296.]
+* Oyama, Yoshinori, Manalo, Emmanuel & Nakatan, Yoshihide (2018), "The Hemingway effect: How failing to finish a task can have a positive effect on motivation", ''Thinking Skills and Creativity''. [https://doi.org/10.1016/j.tsc.2018.01.001 doi=10.1016/j.tsc.2018.01.001]
+* Savitsky, K., Medvec, V.H. & Gilovich, T., "Remembering and Regretting: The Zeigarnik Effect and the Cognitive Availability of Regrettable Actions and Inactions", ''Personality and Social Psychology Bulletin'', Vol.23, No.3, (March 1997), pp.248-257. [https://doi.org/10.1177/0146167297233004 doi=10.1177/0146167297233004]
+* [https://www.researchgate.net/profile/Christine_Syrek/publication/301562131_Zeigarnik%27s_Sleepless_Nights_How_Unfinished_Tasks_at_the_End_of_the_Week_Impair_Employee_Sleep_on_the_Weekend_Through_Rumination/links/590854bc0f7e9bc0d59b9f5a/Zeigarniks-Sleepless-Nights-How-Unfinished-Tasks-at-the-End-of-the-Week-Impair-Employee-Sleep-on-the-Weekend-Through-Rumination.pdf Syrek, C.J., Weigelt, O., Peifer, C. & Antoni, C.H., "Zeigarnik's sleepless nights: How unfinished tasks at the end of the week impair employee sleep on the weekend through rumination", ''Journal of Occupational Health Psychology'', Vol.22, No.2, (April 2017), pp.225-238.]
+* [https://pure.uva.nl/ws/files/1512014/100519_OCR_gescand_boek.pdf Van Bergen, Annie, ''Task Interruption'', North-Holland, (Amsterdam), 1968.]
+* [https://s3.amazonaws.com/academia.edu.documents/39837388/1968_-_Achievement_Motivation_and_The_Recall.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1535448337&Signature=AlF19plwRBWg04KW%2BIb7wOdjIn4%3D&response-content-disposition=inline%3B%20filename%3DAchievement_Motivation_and_the_Recall_of.pdf Weiner, B., Johnson, P.B. & Mehrabian, A., "Achievement Motivation and the Recall of Incomplete and Completed Exam Questions", ''Journal of Educational Psychology'', Vol.59, No.3, (June 1968), pp.181-185.]{{dead link|date=June 2021|bot=medic}}{{cbignore|bot=medic}}
+
+==External links==
+* [https://web.archive.org/web/20050204020835/http://recallplus.com/Breaks.asp Study advice]
+* [https://web.archive.org/web/20080109120727/http://www.actionplan.com/z-effect.html Marketing usage]
+
+[[Category:Memory processes]]
+[[Category:Educational psychology]]
+[[Category:Cognitive biases]]
+[[Category:Learning]]

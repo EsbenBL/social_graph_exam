@@ -1,0 +1,78 @@
+{{for|the [[Heteronym (literature)|heteronym]] of Fernando Pessoa|Fernando Pessoa}}
+{{for|the novel by [[José Saramago]]|The Year of the Death of Ricardo Reis}}
+{{short description|Portuguese economist (born 1978)}}
+{{Infobox economist
+| name             = Ricardo Reis
+| school_tradition = [[New Keynesian economics]]
+| image            = Ricardo Reis 3.jpg
+| image_size       = 
+| caption          = 
+| birth_date       = {{Birth date and age|1978|09|01}}
+| birth_place      = [[Porto, Portugal]]
+| death_date       = 
+| death_place      = 
+| institution      = [[London School of Economics]]
+| field            = [[Macroeconomics]]
+| alma_mater       = [[Harvard University]] <small>(Ph.D., 2004)</small><br>[[London School of Economics|LSE]] <small>(B.Sc., 1999)</small>
+| influences       = [[N. Gregory Mankiw]]
+| influenced       = 
+| contributions    = ESBies or SBBS; The misallocation hypothesis for the European slump and crisis; QE and central bank solvency ; HANK model; Automatic stabilizers and transfer multipliers ; Sticky information ; Disagreement in inflation expectations
+| awards           = Best young money-finance economist, BdF-TSE price (2017); Best European macroeconomist under the age of 40, Bernacer prize (2016);  Excellence award in global economic affairs, Kiel (2013); Kenneth Arrow Prize (2004).
+| signature        = <!-- file name only -->
+| repec_prefix     = e
+| repec_id         = pre73
+}}
+'''Ricardo A. M. R. Reis''' (born 1 September 1978) is a Portuguese [[economist]] and the A. W. Phillips professor of economics at the [[London School of Economics]].  In a 2013 ranking of young economists by [[Glenn Ellison]], Reis was considered the top economist with a PhD between 1996 and 2004.,<ref>Ellison, G. (2013) "How Does the Market Use Citation Data? The Hirsch Index in Economics," AEJ: Applied Economics, 5 (3), 63–90, {{doi|10.1257/app.5.3.63}}</ref> and in 2016 he won the [[Germán Bernácer Prize]] for top European-born economist researching macroeconomics and finance. He writes a weekly op-ed for the Portuguese newspaper [[Jornal de Notícias]] and [[Expresso (newspaper)|Expresso]], and participates frequently in economic debates in [[Portugal]].
+
+==Academic career==
+Reis earned his [[Bachelor of Science]] (B.Sc.) degree from the [[London School of Economics]] in 1999, and his [[Doctor of Philosophy]] (Ph.D.) from [[Harvard University]] in 2004. He taught at [[Princeton University]] from 2004 to 2008 before moving to [[Columbia University]] where he became a full professor at the age of 29, one of the youngest ever in the history of the university. He is an academic advisor and visiting scholar at central banks around the world, and sits on the board of multiple institutions.
+
+==Economic contributions==
+=== Sticky information and inattentiveness ===
+In 2002, with [[Gregory Mankiw]], Reis proposed the sticky-information [[Phillips curve]]<ref>Mankiw, N.G. and R. Reis (2002) "Sticky Information Versus Sticky Prices: A Proposal To Replace The New Keynesian Phillips Curve," Quarterly Journal of Economics, 117(4), 1295–1328, {{doi|10.1162/003355302320935034}}</ref> and followed it later with rational theories of inattention,<ref>R. Reis (2006) "Inattentive Producers," Review of Economic Studies, 73(3), 793–821, {{doi|10.1111/j.1467-937X.2006.00396.x}}</ref> and sticky-information models in general equilibrium.<ref>Mankiw, N.G. and R. Reis (2010) Imperfect Information and Aggregate Supply" Handbook of Monetary Economics {{doi|10.1016/B978-0-444-53238-1.00005-3}}</ref> This model of [[nominal rigidities]] is based on the slow diffusion of information among the population of price setters and displays three related properties that are more consistent with accepted views about the effects of monetary policy. First, disinflations are always contractionary (although announced disinflations are less contractionary than surprise ones). Second, monetary policy shocks have their maximum impact on inflation with a substantial delay. Third, the change in inflation is positively correlated with the level of economic activity.
+
+=== Empirical study of disagreement in surveys ===
+In 2004, with [[Gregory Mankiw]] and [[Justin Wolfers]], Reis started the modern empirical literature that focuses on disagreement in surveys.<ref>Mankiw, N. G., J. Wolfers and R. Reis (2004) "Disagreement about Inflation Expectations" NBER Macroeconomics Annual, 18, 209–248 {{doi|10.3386/w9796}}</ref> A large literature that followed has documented the empirical properties of disagreement, has shown that it is very different from uncertainty, and has used it as moments to evaluate imperfect information models.
+
+=== Pure inflation ===
+In 2010, with [[Mark Watson (economist)|Mark Watson]], Reis developed measures of pure inflation, which have become popular measures of [[core inflation]] used by central banks around the world.<ref>Reis, R. and M. Watson (2010) "Relative Goods' Prices, Pure Inflation, and the Phillips Correlation" AEJ: Macroeconomics, 2 (3), 128–57 {{doi|10.1257/mac.2.3.128}}</ref>
+
+=== The diabolic loop and ESBies ===
+In 2011, Reis with [[Markus Brunnermeier]], [[Luis Garicano]], [[Philip R. Lane]] and others, argued that banks holding significant amounts of bonds issued by their sovereign creates a "diabolic loop", whereby small changes in the perceived solvency of the sovereign can amplify into large crises.<ref>Brunnermeier, Garicano, Lane, Marco Pagano, Reis, Santos, Thesmar, van Nieuwerburgh and Vayanos (2011) "ESBies: A Realistic Reform of Europe's Financial Architecture" In: The Future of Banking: A VoxEu.org Book, edited by Thorsten Beck, 15-20, October 2011</ref> This concept has become central in accounts of the [[Euro crisis]] and is also referred to as the "doom loop" or the "bank-government nexus". They proposed creating European Safe Bonds (ESBies) ,a new financial vehicle allowing banks in the Eurozone to break the diabolic loop without creating the problems of joint and several liability with Eurobonds.<ref>Brunnermeier, Langfeld, Pagano, Reis, van Nieuwerburgh and Vayanos (2017) "ESBies: Safety in the Tranches," Economic Policy 32, 177-219.
+</ref> The [[European Systemic Risk Board]] proposed a variant of ESBies, labelled Sovereign Bond-Backed Securities (or SBBS) as a crucial ingredient to have a more stable Eurozone.
+
+=== HANK models ===
+In 2012, Reis wrote the first model that merged the Aiyagari model of incomplete markets with a New Keynesian model of nominal rigidities.<ref>Oh, H, and R. Reis (2011) "Targeted Transfers and the Fiscal Response to the Great Recession," Journal of Monetary Economics, 59, S50-S64 {{doi|10.1016/j.jmoneco.2012.10.025}}</ref> In 2016, he published the first business-cycle model that merged the Krusell-Smith model of business cycles with the Christiano–Eichenbaum–Evans model of monetary policy.<ref>McKay, A. and R. Reis (2011) "The Role of Automatic Stabilizers in the U.S. Business Cycle," NBER working paper 16775 {{doi|10.3386/w19000}}</ref> These models were later baptized HANK, or Heterogeneous Agent New Keynesian Models.
+
+=== Central bank solvency ===
+In 2013, with [[Robert Hall (economist)|Robert E. Hall]], Reis invented the concept of central bank insolvency to describe the impact of possible losses from [[quantitative easing]] programs.<ref>Reis, R. (2013) "The Mystique Surrounding the Central Bank's Balance Sheet, Applied to the European Crisis" American Economic Review, 103 (3), 135–40 {{doi|10.1257/aer.103.3.135}}</ref><ref>Hall R. and R. Reis (2013) "Maintaining Central-Bank Solvency under New-Style Central Banking" {{doi|10.3386/w21173}}</ref>
+
+=== The misallocation hypothesis of slumps and crashes ===
+In 2013, Reis proposed the misallocation hypothesis for the European slump and crash.<ref>R. Reis (2013) "The Portuguese Slump and Crash and the Euro Crisis," Brookings Papers on Economic Activity, 46, 143-193 {{doi|10.1353/eca.2013.0005}}</ref> It contends that by joining the eurozone, countries in the European periphery enjoyed large capital inflows, but their underdeveloped financial and political systems misallocated this capital leading to a slump in productivity and sowing the seeds of the crisis. Fast financial integration without financial depth creates a slump and a crash. Some accounts of why low real interest rates can be causing misallocation and low productivity build on his idea.
+
+=== QE and satiating the market for reserves ===
+In 2016, at the [[Federal Reserve Bank of Kansas City#Economic policy symposium|Kansas City Federal Reserve economic policy symposium]], Reis proposed that a central bank's balance sheet should be just large enough to satiate the demand for bank reserves.<ref>R. Reis (2016) "Funding Quantitative Easing to Target Inflation," Designing Resilient Monetary Policy Frameworks for the Future,  Jackson Hole Economic Policy Symposium: Federal Reserve Bank of Kansas City, August 2016</ref> In modern monetary systems, where deposits at the central bank are the key monetary instrument, ensuring that the deposit rate equals the private interbank rate achieves the [[Friedman rule]].
+
+=== Automatic stabilizers ===
+In 2016, with Alisdair McKay, Reis showed that [[automatic stabilizers]] can be very effective by reducing the need for precautionary savings at the start of recessions.<ref>McKay, A. and R. Reis (2011) "The Role of Automatic Stabilizers in the U.S. Business Cycle," NBER working paper 16775 {{doi|10.3386/w19000}}.</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://personal.lse.ac.uk/reisr/index.html Official website at the LSE]
+* [https://www.youtube.com/watch?v=tm0cjuMdH8E The Phillips lecture]
+* {{cite web |last=Roberts |first=Russ |title=Reis on Keynes, Macroeconomics, and Monetary Policy |url=http://www.econtalk.org/archives/_featuring/ricardo_reis/ |work=[[EconTalk]] |publisher=[[Library of Economics and Liberty]] |authorlink=Russ Roberts |date=April 27, 2009}}
+
+{{Keynesians}}
+{{Authority control}}
+
+{{DEFAULTSORT:Reis, Ricardo}}
+[[Category:1978 births]]
+[[Category:Living people]]
+[[Category:Portuguese economists]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:Harvard University alumni]]
+[[Category:New Keynesian economists]]
+[[Category:Academics of the London School of Economics]]
+[[Category:Fellows of the Econometric Society]]

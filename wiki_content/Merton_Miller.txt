@@ -1,0 +1,98 @@
+{{Short description|American economist}}
+{{Distinguish|Merton L. Miller}}
+{{Infobox economist
+| name         = Merton Miller
+| school_tradition = [[Chicago School of Economics]]
+
+| image       = Merton Miller.jpg
+| image_size   = 180px
+| birth_date   = {{Birth date|1923|5|16|mf=y}}
+| birth_place  = [[Boston]], [[Massachusetts]]
+| death_date   = {{Death date and age|2000|6|3|1923|5|16|mf=y}}
+| death_place  = [[Chicago]], [[Illinois]], USA
+| nationality  = [[United States]]
+| field        = [[Economics]]
+| institution  =  [[Carnegie Mellon University]]<br>[[University of Chicago]]<br>[[London School of Economics]]
+| alma_mater   = [[Harvard University]]<br>[[Johns Hopkins University]]
+| doctoral_advisor = [[Fritz Machlup]]
+| doctoral_students = [[Eugene Fama]]<br>[[William Poole (economist)|William Poole]]
+| influences       = 
+| influenced       = [[Michael C. Jensen|Michael Jensen]]<br>[[Richard Roll]]<br>[[Myron Scholes]]
+| contributions    = [[Modigliani–Miller theorem]]
+| awards           = [[Nobel Memorial Prize in Economic Sciences]] (1990)
+| repec_prefix = e | repec_id = pmi18}}
+
+'''Merton Howard Miller''' (May 16, 1923 – June 3, 2000) was an American economist, and the co-author of the [[Modigliani–Miller theorem]] (1958), which proposed the irrelevance of debt-equity structure. He shared the [[Nobel Memorial Prize in Economic Sciences]] in 1990, along with [[Harry Markowitz]] and [[William F. Sharpe]]. Miller spent most of his academic career at the [[University of Chicago]]'s [[Booth School of Business]].
+
+==Biography==
+
+===Early years===
+Miller was born in [[Boston, Massachusetts]] to Jewish parents Sylvia and Joel Miller,<ref name=nndb>{{cite web | title=Merton H. Miller | url=http://www.nndb.com/people/174/000159694/ | work=The Notable Names Database| year=2008 | access-date=2008-09-18}}</ref><ref>{{Cite book|title=Encyclopedia of American Jewish history|date=2008|publisher=ABC-CLIO|others=Norwood, Stephen H. (Stephen Harlan), 1951-, Pollack, Eunice G.|isbn=978-1851096381|location=Santa Barbara, Calif.|oclc=174966865}}</ref> a housewife and attorney. He attended Harvard University as an undergraduate student. He worked during [[World War II]] as an economist in the division of tax research of the Treasury Department, and received a [[Doctor of Philosophy|Ph.D.]] in economics from [[Johns Hopkins University]], 1952. His first academic appointment after receiving his doctorate was Visiting Assistant Lecturer at the [[London School of Economics]].
+
+===Career===
+In 1958, at [[Carnegie Institute of Technology]] (now [[Carnegie Mellon University]]), he collaborated with his colleague [[Franco Modigliani]] on the paper ''The Cost of Capital, Corporate Finance and the Theory of Investment''. This paper urged a fundamental objection to the traditional view of [[corporate finance]], according to which a corporation can reduce its [[cost of capital]] by finding the right debt-to-equity ratio. According to the [[Modigliani–Miller theorem]], on the other hand, there is no right ratio, so corporate managers should seek to minimize tax liability and maximize corporate net wealth, letting the debt ratio chips fall where they will.
+
+The way in which they arrived at this conclusion made use of the "no [[arbitrage]]" argument, i.e. the [[premise]] that any state of affairs that will allow traders of any market instrument to create a riskless money machine will almost immediately disappear. They set the pattern for many arguments based on that premise in subsequent years.
+
+Miller wrote or co-authored eight books. He became a fellow of the [[Econometric Society]] in 1975 and was president of the [[American Finance Association]] in 1976. He was on the faculty of the [[University of Chicago]]'s [[Booth School of Business]] from 1961 until his retirement in 1993, although he continued teaching at the school for several more years.
+
+His works formed the basis of the "Modigliani-Miller Financial Theory".
+
+He served as a public director on the [[Chicago Board of Trade]] 1983–85 and the [[Chicago Mercantile Exchange]] from 1990 until his death in [[Chicago]] on June 3, 2000. In 1993, Miller waded into the controversy surrounding $2 billion in trading losses by what was characterized as a rogue futures trader at a subsidiary of [[Metallgesellschaft]], arguing in the ''Wall Street Journal'' that management of the subsidiary was to blame for panicking and liquidating the position too early.<ref>{{cite book|last1=Markham|first1=Jerry W.|title=A Financial History of Modern U.S. Corporate Scandals: From Enron to Reform|date=2006|publisher=M.E. Sharpe, Inc.|location=Armonk, N.Y.|isbn=0-7656-1583-5|page=78|url=https://books.google.com/books?id=Z7qTGiF8FCgC|access-date=26 October 2017}}</ref> In 1995, Miller was engaged by [[Nasdaq]] to rebut allegations of price fixing.<ref>{{cite news|title=Nasdaq Hires Nobel Laureate to Help Fend Off Allegations|url=http://articles.latimes.com/1995-03-14/business/fi-42613_1_nasdaq-stock|access-date=26 October 2017|agency=Bloomberg Business News|work=Los Angeles Times|date=March 14, 1995}}</ref>
+
+===Personal life===
+Miller was married to Eleanor Miller, who died in  1969.  He was survived by his second wife, Katherine Miller, and by three children from his first marriage: Pamela (1952), Margot (1955), and Louise (1958), and two grandsons.<ref>[[Louis Uchitelle]] (2000). "Merton H. Miller, 77, Dies; Economist Who Won Nobel," ''New York Times'', June 5.[https://query.nytimes.com/gst/fullpage.html?res=9C02E4DD163FF936A35755C0A9669C8B63&sec=&spon=&pagewanted=1]</ref>
+
+==Bibliography==
+* {{cite book | author=Merton H. Miller | title=Merton Miller on Derivatives | publisher=[[John Wiley & Sons]] | location=New York | year=1991 | isbn=0-471-18340-7}}
+* {{cite book | author=Merton H. Miller | title=Financial Innovations and Market Volatility | publisher=[[Blackwell Publishing]] | location=Cambridge, MA | year=1991 | isbn=1-55786-252-4}}
+* {{cite book | last=Merton | first=Miller H. |author2=Charles W. Upton | title=Macroeconomics: A Neoclassical Introduction | publisher=[[University of Chicago Press]] | location=Chicago | year=1986 | isbn=0-226-52623-2}}
+* {{cite book | last=Kessel | first=Reuben A. |author2=R. H. Coase |author3=Merton H. Miller  | title=Essays in Applied Price Theory | publisher=[[University of Chicago Press]] | location=Chicago | year=1980 | isbn=0-226-43200-9}}
+* {{cite book | last=Fama | first=Eugene F. | author2=Merton H. Miller | title=The Theory of Finance | publisher=[[Holt, Rinehart & Winston]] | location=New York | year=1972 | isbn=0-03-086732-0 | url-access=registration | url=https://archive.org/details/theoryoffinance00fama }}
+* {{cite news | author=Merton H. Miller | title=The Private Interest & the Public Interest | publisher=[[The Green Bag (1997)|The Green Bag]] | year=1997}}
+
+==See also==
+* [[List of economists]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+* {{Cite encyclopedia |title=Merton H. Miller (1923–2000) |url=http://www.econlib.org/library/Enc/bios/Miller.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+*{{C-SPAN|Merton Miller}}
+* {{Nobelprize|name=Merton H. Miller}} including the Prize Lecture December 7, 1990 ''Leverage''
+*[https://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.MHMILLER Guide to the Merton H. Miller Papers 1941-2002] at the [https://www.lib.uchicago.edu/scrc/ University of Chicago Special Collections Research Center]
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[Trygve Haavelmo]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 1990 |alongside= [[Harry M. Markowitz]], [[William F. Sharpe]] }}
+{{s-aft | after = [[Ronald H. Coase]]}}
+{{s-end}}
+
+{{Nobel laureates in economics 1976-2000}}
+{{1990 Nobel Prize winners}}
+{{chiconomists}}
+{{Financial economics awards}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Miller, Merton}}
+[[Category:1923 births]]
+[[Category:2000 deaths]]
+[[Category:Nobel laureates in Economics]]
+[[Category:American Nobel laureates]]
+[[Category:Jewish Nobel laureates]]
+[[Category:Financial economists]]
+[[Category:American business theorists]]
+[[Category:Harvard University alumni]]
+[[Category:Johns Hopkins University alumni]]
+[[Category:University of Chicago faculty]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:Corporate finance theorists]]
+[[Category:Jewish American economists]]
+[[Category:20th-century American economists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Presidents of the American Finance Association]]

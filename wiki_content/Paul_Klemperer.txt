@@ -1,0 +1,100 @@
+{{Short description|British economist}}
+{{Use dmy dates|date=September 2014}}
+{{Use British English|date=February 2015}}
+'''Paul David Klemperer''' [[Fellow of the British Academy|FBA]] (born 15 August 1956)<ref>[http://www.ukwhoswho.com/view/article/oupww/whoswho/U23290 KLEMPERER, Prof. Paul David’], ''Who's Who 2014'', A & C Black, 2014; online edn, Oxford University Press, 2014</ref> is an economist and the [[Edgeworth Professor of Economics]] at the [[ Department of Economics, University of Oxford|Department of Economics]], [[Oxford University]]. He is a member of the [[Klemperer|Klemperer family]]. He works on industrial economics, competition policy, [[auction]] theory, and [[economics of climate change|climate change economics]] and policy.
+
+Klemperer has an engineering degree from [[Cambridge University]], and an [[MBA]] and an economics PhD from [[Stanford University]]. He was elected John Thomson Fellow and tutor of [[St Catherine's College, Oxford]] in 1984, and a professorial fellow of [[Nuffield College, Oxford]] in 1995, when he became [[Edgeworth Professor of Economics]] in succession to Nobel Prize winner [[James Mirrlees]].
+
+He was a member of the UK [[Competition Commission]] from 2001–5. He was elected a fellow of the [[Econometric Society]] in 1994, a fellow of the [[British Academy]] in 1999, and a foreign honorary member of the [[American Academy of Arts and Sciences]] in 2005. He is also a fellow of the [[European Economic Association]].<ref>{{Cite web|title=Fellows {{!}} EEA|url=https://www.eeassoc.org/fellows|access-date=2021-03-23|website=www.eeassoc.org}}</ref>
+
+== Academic contributions ==
+
+His 1985 papers (with Jeremy Bulow and John Geanakoplos) developed the concept – and invented the terminology&nbsp;– of "[[strategic complements]]" that is now commonly used in game theory, industrial organisation and elsewhere.<ref>[http://www.nuff.ox.ac.uk/users/klemperer/multimarket.PDF Multimarket Oligopoly, JPE]</ref>
+
+His PhD thesis, and independent work by Carl Christian von Weizsacker, began the study of consumer [[switching costs]].<ref>[https://www.jstor.org/discover/10.2307/1885068?uid=3738296&uid=2&uid=4&sid=21101520514723 Switching Costs, QJE]</ref>
+
+His paper on supply function equilibria (with Margaret Meyer) developed a standard model for the analysis of privatised electricity markets, and has been important in developing the theory of multiunit auctions.<ref>[http://www.nuffield.ox.ac.uk/users/klemperer/supply.pdf Supply Functions, Econometrica]</ref>
+
+His papers (many of which are co-authored with Jeremy Bulow) apply ideas from auction theory to other economic contexts, including finance and political economy.<ref>[https://www.jstor.org/discover/10.2307/2138791?uid=3738296&uid=2&uid=4&sid=21101520514723 Rational Frenzies and Crashes, JPE]</ref><ref>[https://www.jstor.org/discover/10.2307/116984?uid=3738296&uid=2&uid=4&sid=21101520514723 War of Attrition, AER]</ref><ref>[https://www.jstor.org/discover/10.2307/2118262?uid=3738296&uid=2&uid=4&sid=21101520514723 Auctions versus negotiations, AER]</ref>
+
+He has also invented new auction designs, including the "Product Mix Auction" that is now in regular use by the Bank of England (currently used monthly).<ref>{{cite journal|doi=10.1111/j.1542-4774.2010.tb00523.x | volume=8 | issue=2–3 | year=2010 | journal=Journal of the European Economic Association | pages=526–536 | last1 = Klemperer | first1 = Paul| title=The Product-Mix Auction: A New Auction Design for Differentiated Goods }}</ref> This new auction for differentiated products has similarities to a simultaneous multiple-round auction, but runs instantaneously, is said to be more robust against collusion, and allows sellers, as well as buyers, to specify how the quantities they trade will depend on the auction prices. His other innovations include the Anglo-Dutch auction,<ref>{{cite journal| doi=10.1016/S0014-2921(97)00123-2 | volume=42 | issue=3–5 | title=Auctions with almost common values: The 'Wallet Game' and its applications | year=1998 | journal=European Economic Review | pages=757–769 | last1 = Klemperer | first1 = Paul| url=http://www.nuff.ox.ac.uk/economics/papers/1998/w3/wallwebb.pdf }}</ref> and (with Aytek Erdil) Reference-Rule Pricing for package auctions.<ref>{{cite journal|doi=10.1111/j.1542-4774.2010.tb00524.x | volume=8 | issue=2–3 | year=2010 | journal=Journal of the European Economic Association | pages=537–547 | last1 = Erdil | first1 = Aytek| title=A New Payment Rule for Core-Selecting Package Auctions | citeseerx=10.1.1.151.313 | s2cid=1469564 }}</ref>
+
+He has also worked (with Elizabeth Baldwin) on applying [[tropical geometry]] to economics and auctions, including the Product Mix auction.
+
+== Public policy ==
+
+He was principal auction-theorist designing the UK '[[3G]]' mobile-phone license auction that raised £22½ billion in spring 2000 and was far more successful than several parallel exercises on the [[European continent]]. The Netherland auction that took place 3 months later raised 1/4 of the revenue per head of population, and the difference has been attributed to the auction design.<ref>[http://ikt.web.etu.edu.tr/RePEc/pdf/1002.pdf Madden, Saglam and Morey "Auction Design and the Success of National 3G Spectrum Auctions"] {{webarchive|url=https://web.archive.org/web/20110708233133/http://ikt.web.etu.edu.tr/RePEc/pdf/1002.pdf |date=8 July 2011 }}</ref> It has been argued that the [[UK Treasury]] owes £15 billion or more to him and [[Ken Binmore]], who led the auction team.
+
+In 2002, he advised the [[UK government]] on the world's first auction for greenhouse gas emissions reductions, working with Nobel prizewinner [[Eric Maskin]].
+
+In 2007–2008, he advised the UK and US governments on the financial crisis, and he developed a new form of auction (the Product Mix auction) to help the [[Bank of England]] alleviate the liquidity crisis.<ref>[http://regulation2point0.org/2010/08/auction-magic/ Auction Magic, Regulation2point0]</ref> The Bank Governor, Sir Mervyn King, told the Economist that "The Bank of England's use of Klemperer auctions in our liquidity insurance operations is a marvellous application of theoretical economics to a practical problem of vital importance to financial markets."<ref>[https://www.economist.com/blogs/freeexchange/2012/10/microeconomics A golden age of micro. The Economist, October 19th 2012]</ref> He subsequently advised other countries' Central Banks.
+
+He advised the US [[Federal Trade Commission]] 1999–2001, was a member of the UK [[Competition Commission]] from 2001–5, and remains on its Panel of Economic Advisors.
+
+He participated in the meeting that drafted the Potsdam Memorandum to the 2007 UN Climate Change Conference in [[Bali]];<ref>[http://www.voxeu.org/article/climate-change-innovation-key What is the top priority on climate change?, VoxEU]</ref> he is on the Environmental Economics Academic Panel to the UK's Department of the Environment (Defra).
+
+== Personal life ==
+
+Klemperer is married to economist [[Margaret A. Meyer]], with whom he has written a number of research articles.<ref>{{Cite news | url=https://www.nytimes.com/1989/07/10/style/dr-margaret-meyer-economist-weds.html | title=Dr. Margaret Meyer, Economist, Weds| newspaper=The New York Times| date=10 July 1989}}</ref>
+
+== Selected publications ==
+=== Books ===
+
+* Auctions: Theory and Practice, [[Princeton University Press]], Princeton, US, 2004.
+* The Economic Theory of Auctions (ed.), [[Edward Elgar]] (pub.), Cheltenham, UK, 2000.
+
+=== Selected articles ===
+
+* {{cite journal | last1 = Bulow| first1 =  Jeremy I.| last2 =  Geanakoplos| first2 =  John D.| last3 =  Klemperer| first3 =  Paul D.| year = 1985 | title = Multimarket Oligopoly: Strategic Substitutes and Complements | journal = Journal of Political Economy | volume = 93 | issue = 488| page = 511 | doi=10.1086/261312| citeseerx = 10.1.1.541.2368| s2cid = 154872708}}
+* {{cite journal | last1 = Cramton| first1 =  Peter| last2 =  Gibbons| first2 =  Robert| last3 =  Klemperer| first3 =  Paul| year = 1987 | title = Dissolving a Partnership Efficiently | journal = Econometrica | volume = 55 | issue = 615| pages =  615–632| doi=10.2307/1913602| jstor =  1913602| citeseerx =  10.1.1.456.4564}}
+* {{cite journal | year = 1987 | title = Markets with Consumer Switching Costs | journal = Quarterly Journal of Economics | volume = 102 | issue = 2| pages = 375–94 | doi=10.2307/1885068 | last1 = Klemperer | first1 = Paul| jstor = 1885068 }}
+* {{cite journal | year = 1989 | title = Supply Function Equilibria in Oligopoly under Uncertainty | journal = Econometrica | volume = 57 | issue = 6| pages = 1243–77 | doi=10.2307/1913707 | last1 = Klemperer | first1 = Paul D. | last2 = Meyer | first2 = Margaret A.| jstor = 1913707 }}
+* {{cite journal | year = 1989 | title = Exchange Rate Pass Through when Market Share Matters | journal = American Economic Review | volume = 79 | pages = 637–54 }}
+* {{cite journal | year = 1990 | title = How Broad should the Scope of Patent Protection Be? | journal = RAND Journal of Economics | volume = 21 | issue = 1| pages = 113–30 | doi=10.2307/2555498 | last1 = Klemperer | first1 = Paul| jstor = 2555498 }} (reprinted in The Economics of Intellectual Property, R. Towse and R. Holzhauer (eds.) 2002).
+* {{cite journal | year = 1995 | title = Competition when Consumers have Switching Costs | url = https://semanticscholar.org/paper/1685b5c77ea246c9ab3dad731fe9cd09eec3b569| journal = Review of Economic Studies | volume = 62 | issue = 4| pages = 515–39 | doi=10.2307/2298075 | last1 = Klemperer | first1 = P.| jstor = 2298075 | s2cid = 13044767 }}
+* {{cite journal | year = 1996 | title = Auctions vs. Negotiations | journal = American Economic Review | volume = 86 | pages = 180–94 }}
+* {{cite journal | year = 1998 | title = Auctions with Almost Common Values | url = http://www.nuff.ox.ac.uk/economics/papers/1998/w3/wallwebb.pdf| journal = European Economic Review | volume = 42 | issue = 3–5| pages = 757–69 | doi=10.1016/s0014-2921(97)00123-2 | last1 = Klemperer | first1 = Paul}}
+* {{cite journal | year = 2002 | title = Prices and the Winner's Curse | journal = RAND Journal of Economics | volume = 33 | issue = 1| pages = 1–21 | doi=10.2307/2696372 | last1 = Bulow | first1 = Jeremy | last2 = Klemperer | first2 = Paul| jstor = 2696372 | citeseerx = 10.1.1.623.4648 }}
+* {{cite journal | last1 = Erdil| first1 =  Aytek| last2 =  Klemperer| first2 =  Paul| year = 2010 | title = A New Payment Rule for Core-Selecting Package Auctions | journal = Journal of the European Economic Association | volume =  8| issue = 2–3| pages =  537–547| doi=10.1111/j.1542-4774.2010.tb00524.x| citeseerx =  10.1.1.151.313| s2cid = 1469564}}
+* {{cite journal | last1 = Klemperer| first1 =  Paul| year = 2010 | title = The Product-Mix Auction: a New Auction Design for Differentiated Goods | journal = Journal of the European Economic Association | volume =  8| issue = 2–3| pages =  526–536| doi=10.1111/j.1542-4774.2010.tb00523.x}}
+
+== Notes ==
+{{Reflist|30em}}
+
+== References ==
+* {{cite news |last=Beattie |first=Alan |url=http://www.paulklemperer.org/PressArticles/bestbids.pdf |title=Best bids guaranteed, Observing microeconomic theory can avoid collusion at government auctions |work=[[Financial Times]] |via=paulklemperer.org |date=8 November 2000}}
+*{{cite journal | last1 = Engelmann | first1 = Dirk | year = 2005 | title = Book review | url = http://www.gqq10.dial.pipex.com/PressArticles/ATP_Review.pdf | archive-url = https://web.archive.org/web/20060218181902/http://www.gqq10.dial.pipex.com/PressArticles/ATP_Review.pdf | url-status = dead | archive-date = 2006-02-18 | journal = Journal of Economic Psychology | volume = 26 | pages = 155–157 | doi = 10.1016/j.joep.2004.10.002 }}
+*{{cite news |last=Giles |first=Chris |title=Bank of England to clarify lending policy |work=[[Financial Times]] |date=11 March 2008}}
+*{{cite web |last1=Hahn |first1=Robert |last2=Passell |first2=Peter |url=http://regulation2point0.org/2010/08/auction-magic/ |title=Auction Magic |website=Regulation2point0 |date=6 August 2010}}
+*{{cite news |last=Harford |first=Tim  |archive-url=https://web.archive.org/web/20110715084836/http://www.gqq10.dial.pipex.com/PressArticles/FT_DearEconomist.pdf |url=http://www.gqq10.dial.pipex.com/PressArticles/FT_DearEconomist.pdf |archive-date=25 September 2005 |title=Dear Economist |work=[[Financial Times]] |pages=Page 12, 15 May 2004 and Page 12, 24/25 September 2005}}
+*{{cite news |last=Harford |first=Tim |url=http://www.paulklemperer.org/PressArticles/HerdInstinct.pdf |title=The herd instinct |work=[[Financial Times]] |issue= 3/4 June 2006}}
+*{{cite news |last=Islam |first=Faisal |url=https://www.theguardian.com/Archive/Article/0,4273,4010925,00.html |title=Sold to the slyest bidder |work=[[Guardian Unlimited]] |date=23 April 2000}}
+*{{cite news |last=Nasar |first=Sylvia |url=http://www.paulklemperer.org/PressArticles/inhale.PDF |title=The Ifs and Buts of the Tobacco Settlement |work=[[The New York Times]] |date=29 November 1998}}
+*{{cite journal |last=Sabbagh |first=Karl |title=Any advance on £22.5 billion? |journal=[[The Times Higher Education Supplement]] |date=16 June 2000}}
+*{{cite news |last=Varian |first=Hal R. |url=https://query.nytimes.com/gst/fullpage.html?res=9F00E6D71F38F932A3575BC0A9649C8B63&sec=&spon=&pagewanted=2 |title=Economic Scene; Tales of manipulation and design flaws from the crypt of auction history |work=[[The New York Times]] |date=1 August 2002}}
+*{{cite news |archive-url=https://web.archive.org/web/20060218181902/http://www.gqq10.dial.pipex.com/PressArticles/ATP_Review.pdf |title=Book Review: ''Auctions: Theory and Practice'' |work=[[Financial Times]] |url=http://www.gqq10.dial.pipex.com/PressArticles/ATP_Review.pdf |date=10 June 2004 |archive-date=10 June 2004}}
+*''[http://www.paulklemperer.org/PressArticles/inhale.PDF When Lawyers inhale], [[The Economist]],'' 22 May 1999
+*''[https://web.archive.org/web/20030519215519/http://www.gqq10.dial.pipex.com/PressArticles/mergers.PDF Mergers; Byers and sellers], [[The Economist]],'' 20 March 1999
+
+== External links ==
+*[http://www.paulklemperer.org/ Personal website]
+*[https://web.archive.org/web/20041207093951/http://www.gqq10.dial.pipex.com/PressArticles/FEN%20Interview.pdf Interview with Paul Klemperer] in ''[[Financial Engineering News]]'', September/October 2004
+*[https://web.archive.org/web/20090816075454/http://www.gqq10.dial.pipex.com/PressArticles/auctions.pdf Assorted News articles concerning Paul Klemperer]
+* [https://www.theguardian.com/science/video/2013/jul/12/geometry-banking-crisis-video? How geometry came to the rescue during the banking crisis] – video clip, online at | News | Science | Mathematics | segment of the UK's Guardian newspaper website
+
+{{Authority control}}
+
+{{DEFAULTSORT:Klemperer, Paul}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:Energy economists]]
+[[Category:British economists]]
+[[Category:Fellows of the British Academy]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Stanford University alumni]]
+[[Category:Fellows of Nuffield College, Oxford]]
+[[Category:Fellows of St Catherine's College, Oxford]]
+[[Category:Alumni of Peterhouse, Cambridge]]
+[[Category:Edgeworth Professors of Economics]]
+[[Category:Fellows of the European Economic Association]]

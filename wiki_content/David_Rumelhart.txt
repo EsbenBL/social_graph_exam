@@ -1,0 +1,76 @@
+{{short description|American psychologist}}
+{{Infobox scientist
+| name              = David E. Rumelhart
+| image             = DavidRumelhart-IJCNNseattle1991-07-08.jpg<!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = David Rumelhart at the International Joint Conference on Neural Networks (IJCNN) in Seattle on 8 July 1991.
+| birth_date              = June 12, 1942
+| birth_place             = [[Wessington Springs]], [[South Dakota]]
+| death_date              = {{death date and age|2011|03|13|1942|06|12}}
+| death_place             = [[Chelsea, Michigan]]
+| residence               = [[Ann Arbor]], [[Michigan]]
+| citizenship             =
+| nationality             = American
+| field                   = [[Psychology]]
+| work_institution        = [[Stanford University]]<br>[[University of California, San Diego]]
+| alma_mater              = 
+| doctoral_advisor        = [[William Kaye Estes]]
+| doctoral_students       = 
+| thesis_title = The Effects of Interpresentation Intervals on Performance in a Continuous Paired-Associate Task
+| thesis_year = 1967
+| thesis_url = http://search.proquest.com/docview/302266839/
+| known_for               = [[Connectionism]]<br>[[Artificial neural network|Artificial neural network modeling]]<br>[[Deep Learning]]<br>Applications of [[backpropagation]]
+| author_abbreviation_bot = 
+| author_abbreviation_zoo = 
+| prizes                  = [[MacArthur Fellowship]] (July 1987)<br>[[United States National Academy of Sciences|National Academy of Sciences]]<br>Warren Medal of the [[Society of Experimental Psychologists]]<br>[[American Psychiatric Association|APA]] Distinguished Scientific Contribution Award<br>[[University of Louisville]] [[Grawemeyer Award]] (2002)
+| religion                = 
+| footnotes               = 
+}}
+'''David Everett Rumelhart''' (June 12, 1942 &ndash; March 13, 2011)<ref name="NYTimes_obituary">{{cite news|last=Carey|first=Benedict|title=David Rumelhart Dies at 68; Created Computer Simulations of Perception|url=https://www.nytimes.com/2011/03/19/health/19rumelhart.html|newspaper=The New York Times|date=March 18, 2011}}</ref> was an American psychologist who made many contributions to the formal analysis of [[cognition|human cognition]], working primarily within the frameworks of [[mathematical psychology]], [[symbolic artificial intelligence]], and [[parallel distributed processing]]. He also admired formal [[Linguistics|linguistic]] approaches to cognition, and explored the possibility of formulating a [[formal grammar]] to capture the structure of stories.
+
+==Biography==
+Rumelhart was born in [[Mitchell, South Dakota]] on June 12, 1942. His parents were Everett Leroy and Thelma Theora (Ballard) Rumelhart.<ref name = Marquis>{{cite news | title = Profile details: David Everett Rumelhart | publisher = Marquis Who's Who }}</ref> He began his college education at the [[University of South Dakota]], receiving a B.A. in [[psychology]] and [[mathematics]] in 1963. He studied mathematical psychology at [[Stanford University]], receiving his Ph.D. in 1967. From 1967 to 1987 he served on the faculty of the Department of Psychology at the [[University of California, San Diego]]. In 1987 he moved to [[Stanford University]], serving as Professor there until 1998. Rumelhart was elected to the [[United States National Academy of Sciences|National Academy of Sciences]] in 1991 and received many prizes, including a [[MacArthur Fellowship]] in July 1987, the Warren Medal of the [[Society of Experimental Psychologists]], and the [[American Psychiatric Association|APA]] Distinguished Scientific Contribution Award. Rumelhart, co-recipient with James McClelland, won the 2002 [[University of Louisville]] [[Grawemeyer Award]] in Psychology.<ref>{{cite web|title=David E. Rumelhart: A Scientific Biography|url=http://rumelhartprize.org/?page_id=10|access-date=2016-02-03|archive-url=https://web.archive.org/web/20131030220027/http://rumelhartprize.org/?page_id=10|archive-date=2013-10-30|url-status=dead}}</ref>
+
+Rumelhart became disabled by [[Pick's disease]], a progressive [[neurodegenerative disease]], and at the end of his life lived with his brother in [[Ann Arbor, Michigan]]. He died in [[Chelsea, Michigan]]. He is survived by two sons.<ref name = Marquis />
+
+==Work==
+Rumelhart was the first author of a highly cited paper from 1986<ref name=backprop>{{Cite journal|last1=Rumelhart|first1=David E.|last2=Hinton|first2=Geoffrey E.|last3=Williams|first3=Ronald J.|date=1986-10-09|title=Learning representations by back-propagating errors|journal=Nature|language=En|volume=323|issue=6088|pages=533–536|doi=10.1038/323533a0|bibcode=1986Natur.323..533R|s2cid=205001834|issn=1476-4687}}</ref> (co-authored by [[Geoffrey Hinton]] and [[Ronald J. Williams]]) that applied the [[Backpropagation|back-propagation algorithm]] (also known as the reverse mode of [[automatic differentiation]] published by [[Seppo Linnainmaa]] in 1970) to multi-layer neural networks. This work showed through experiments that such networks can learn useful [[Knowledge representation|internal representations]] of data. The approach has been widely used for basic cognition researches (e.g., memory, visual recognition) and practical applications. This paper, however, does not cite earlier work of the backpropagation method, such as the 1974 dissertation<ref>{{cite thesis |type=PhD |last=Werbos |first=Paul |date=November 1974 |title=Beyond regression: New tools for prediction and analysis in the behavioral sciences |publisher=Harvard University}}</ref> of [[Paul Werbos]].
+
+In the same year, Rumelhart also published ''Parallel Distributed Processing: Explorations in the Microstructure of Cognition''<ref>{{cite book|author=David E. Rumelhart, James L. McClelland and PDP Research Group|title=Parallel Distributed Processing: Explorations in the Microstructure of Cognition|year=1987|url=https://archive.org/details/paralleldistribu00rume|isbn=9780262680530|access-date=2016-02-03|url-access=registration}}</ref> with [[James McClelland (psychologist)|James McClelland]], which described their creation of computer simulations of perceptron, giving to computer scientists their first testable models of [[neural processing]], and which is now regarded as a central text in the field of [[cognitive science]].<ref name="NYTimes_obituary"/>
+
+Rumelhart's models of [[semantic cognition]] and specific knowledge in a diversity of [[learned domains]] using initially non-hierarchical neuron-like processing units continue to interest scientists in the fields of [[artificial intelligence]], [[anthropology]], [[information science]], and [[decision science]].
+
+In his honor, in 2000 the ''[[Robert J. Glushko and Pamela Samuelson Foundation]]'' created the [[Rumelhart Prize|David E. Rumelhart Prize]] for Contributions to the Theoretical Foundations of Human Cognition.<ref name="NYTimes_obituary"/><ref>{{cite web|publisher=linguistlist.org|title=Message 1: THE RUMELHART PRIZE Announcement and Call for Nominations|url=http://linguistlist.org/issues/11/11-1898.html#1}}</ref> A ''[[Review of General Psychology]]'' survey, published in 2002, ranked Rumelhart as the 88th most cited psychologist of the 20th century, tied with [[John Garcia (psychologist)|John Garcia]], [[James J. Gibson]], [[Louis Leon Thurstone]], [[Margaret Floy Washburn]], and [[Robert S. Woodworth]].<ref>{{cite journal |last1=Haggbloom |first1=Steven J. |display-authors=et al |title=The 100 most eminent psychologists of the 20th century |journal=Review of General Psychology |volume=6 |issue=2 |year=2002 |pages=139–152 |doi=10.1037/1089-2680.6.2.139 |url=http://www.apa.org/monitor/julaug02/eminent.aspx |last2=Warnick |first2=Jason E. |last3=Jones |first3=Vinessa K. |last4=Yarbrough |first4=Gary L. |last5=Russell |first5=Tenea M. |last6=Borecky |first6=Chris M. |last7=McGahhey |first7=Reagan |last8=Powell |first8=John L., III|s2cid=145668721 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.rumelhartprize.org/ David E. Rumelhart Prize]
+* [http://philosophy.uwaterloo.ca/MindDict/rumelhart.html Dictionary of Philosophy of Mind]
+* [https://web.archive.org/web/20051116060238/http://compmem.princeton.edu/pdp.html The PDP-Group]
+* [https://grey.colorado.edu/emergent/index.php/PDP%2B%2B The PDP++ Software Home Page]
+* [https://www.nytimes.com/2011/03/19/health/19rumelhart.html?scp=1&sq=rumelhart&st=cse/ NY Times Obituary]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rumelhart, David E.}}
+[[Category:1942 births]]
+[[Category:2011 deaths]]
+[[Category:Computational psychologists]]
+[[Category:Cognitive neuroscientists]]
+[[Category:Cognitive scientists]]
+[[Category:MacArthur Fellows]]
+[[Category:History of artificial intelligence]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:University of South Dakota alumni]]
+[[Category:Stanford University alumni]]
+[[Category:Stanford University Department of Psychology faculty]]
+[[Category:People from Jerauld County, South Dakota]]
+[[Category:Neurological disease deaths in Michigan]]
+[[Category:Deaths from Pick's disease]]
+[[Category:Fellows of the Cognitive Science Society]]
+[[Category:People from Mitchell, South Dakota]]

@@ -1,0 +1,217 @@
+{{Short description|American economist, statistician, inventor, eugenicist and progressive social campaigner}}
+{{Infobox economist
+ | school_tradition = [[Neoclassical economics]]
+ | image             = Irvingfisher.jpg
+ | caption           = Fisher in 1927
+ | name              = Irving Fisher
+ | birth_date        = {{Birth date|1867|2|27|mf=y}}
+ | birth_place       = [[Saugerties (village), New York|Saugerties, New York]]
+ | death_date        = {{Death date and age|1947|4|29|1867|2|27|mf=y}}
+ | death_place       = [[New York City, New York]]
+ | nationality       = [[United States]]
+ | field             = [[Mathematical economics]]
+ | doctoral_advisor  = [[Josiah Willard Gibbs]]<br>[[William Graham Sumner]]
+ | doctoral_students = 
+ | notable_students  = 
+ | influences        = [[William Stanley Jevons]], [[Eugen von Böhm-Bawerk]]
+ | influenced        = [[Milton Friedman]], [[James Tobin]], [[Franco Modigliani]], [[Ben Bernanke]], [[Scott Sumner]], [[Robert Shiller]], [[Hyman Minsky]], [[Steve Keen]], [[Maurice Allais]]
+ | contributions     = [[Fisher equation]]<br>[[Equation of exchange]]<br>[[Price index]]<br>[[Debt deflation]]<br>[[Phillips curve]]<br>[[Money illusion]]<br>[[Fisher separation theorem]]<br>[[Independent Party of Connecticut]]
+| alma_mater         = [[Yale University]] ([[Bachelor of Arts|BA]]) ([[PhD]]) 
+| spouse             = {{marriage|Margaret Hazard<br>|1893|1940|reason=her death}}
+}}
+{{Macroeconomics sidebar}}
+'''Irving Fisher''' (February 27, 1867 – April 29, 1947)<ref name="IFObit1947"/> was an American [[Economics|economist]], [[statistician]], inventor, [[eugenics|eugenicist]] and [[Progressivism in the United States|progressive]] social campaigner.  He was one of the earliest American [[Neoclassical economics|neoclassical economists]], though his later work on [[debt deflation]] has been embraced by the [[Post-Keynesian economics|post-Keynesian]] school.<ref name="Post-Keynesian">{{cite book |last=Keen |first=Steve |editor-first=J. E. |editor-last=King |title=The Elgar Companion to Post Keynesian Economics |edition = 2nd |publisher=Edward Elgar |pages=271–277 |chapter=Growth Theory |isbn=978-1-84980-318-2|year=2012 }}</ref>  [[Joseph Schumpeter]] described him as "the greatest economist the United States has ever produced",<ref name="Schumpeter">{{cite book |last=Schumpeter |first=Joseph |title=Ten Great Economists from Marx to Keynes|publisher=Oxford University Press |location=New York |year=1951| page=223}}</ref> an assessment later repeated by [[James Tobin]]<ref name="Tobin">{{citation |last=Tobin |first=James |title=Fisher, Irving (1867–1947) |journal=The New Palgrave Dictionary of Economics| pages=369–376 |year=1987 |doi=10.1057/9780230226203.0581|isbn=978-0-333-78676-5 }}</ref> and [[Milton Friedman]].<ref name="Friedman">Milton Friedman, ''Money Mischief: Episodes in Monetary History'', Houghton Mifflin Harcourt (1994) p. 37.  {{ISBN|0-15-661930-X}}</ref>
+
+Fisher made important contributions to [[Utility|utility theory]] and [[General equilibrium theory|general equilibrium]].<ref name="Stigler-I">{{cite journal | author = George Stigler | year = 1950 | title = The Development of Utility Theory. I | journal = Journal of Political Economy | volume = 58 | issue = 4 | pages = 307–327 | jstor=1828885 | doi=10.1086/256962| s2cid = 153732595 | author-link = George Stigler }}</ref><ref name="Stigler-II">{{cite journal | author = George Stigler | year = 1950 | title = The Development of Utility Theory. II | journal = Journal of Political Economy | volume = 58 | issue = 5 | pages = 373–396 | jstor=1825710 | doi=10.1086/256980| s2cid = 222450704 | author-link = George Stigler }}</ref>  He was also a pioneer in the rigorous study of [[intertemporal choice]] in markets, which led him to develop a theory of [[capital (economics)|capital]] and [[interest rate]]s.<ref name="Tobin" /> His research on the [[quantity theory of money]] inaugurated the school of macroeconomic thought known as "[[monetarism]]".<ref name="DeLong">{{cite journal| author=J. Bradford DeLong |title=The Triumph of Monetarism? |journal=Journal of Economic Perspectives |volume=14 | pages=83–94 |year=2000 |jstor=2647052 | issue=1| doi=10.1257/jep.14.1.83|author-link=J. Bradford DeLong |doi-access=free }}</ref>  Fisher was also a pioneer of [[econometrics]], including the development of [[Index (economics)|index numbers]].  Some concepts named after him include the [[Fisher equation]], the [[Fisher hypothesis]], the [[international Fisher effect]], the [[Fisher separation theorem]] and [[Fisher market]].
+
+Fisher was perhaps the first [[celebrity]] economist, but his reputation during his lifetime was irreparably harmed by his public statement, just nine days before the [[Wall Street Crash of 1929]], that the stock market had reached "a permanently high plateau".  His subsequent theory of [[debt deflation]] as an explanation of the [[Great Depression]], as well as his advocacy of [[full-reserve banking]] and [[Alternative currency|alternative currencies]], were largely ignored in favor of the work of [[John Maynard Keynes]].<ref name="Tobin" />  Fisher's reputation has since recovered in academic economics, particularly after his theoretical models were rediscovered in the late 1960s to the 1970s, a period of increasing reliance on mathematical models within the field.<ref name="Tobin" /><ref name="Hirschleifer">{{cite journal| author=Jack Hirshleifer |title=The Theory of Optimal Investment Decisions |journal=Journal of Political Economy |volume=66 | pages=329–352 |year=1958| doi=10.1086/258057| issue=4|s2cid=154033914 |author-link=Jack Hirshleifer }}</ref><ref name="Bernanke">[[Ben Bernanke]], ''Essays on the Great Depression'', (Princeton: Princeton University Press, 2000), p. 24.  {{ISBN|0-691-01698-4}}.</ref> Interest in him has also grown in the public due to an increased interest in debt deflation after the [[2008–2012 global recession|Great Recession]].<ref name="shadow">[http://www.economist.com/businessfinance/displaystory.cfm?story_id=13104022 Out of Keynes's shadow], [[The Economist]], Feb 12th 2009</ref>
+
+Fisher was one of the foremost proponents of the [[full-reserve banking]], which he advocated as one of the authors of [[A Program for Monetary Reform]] where the general proposal is outlined.<ref>{{cite web |last1=Dorn |first1=James A. |title=Irving Fisher's Search for Stable Money: What We Can Learn |url=https://www.cato.org/blog/irving-fishers-search-stable-money-what-we-can-learn |website=Cato Institute |access-date=5 June 2019 |language=en |date=17 January 2019}}</ref><ref>{{Citation|last1=Douglas|first1=Paul H.|title=A Program for Monetary Reform|date=July 1939|url=http://www.economicstability.org/wp/wp-content/uploads/2010/07/A-Program-for-Monetary-Reform-.pdf|archive-url=https://web.archive.org/web/20110726013412/http://www.economicstability.org/wp/wp-content/uploads/2010/07/A-Program-for-Monetary-Reform-.pdf|publisher=(draft proposal – scanned image).|archive-date=2011-07-26|last2=Hamilton|first2=Earl J.|last3=Fisher|first3=Irving|last4=King|first4=Willford I.|last5=Graham|first5=Frank D.|last6=Whittlesey|first6=Charles R.|url-status=dead}}</ref>
+
+==Biography==
+Fisher was born in [[Saugerties (village), New York|Saugerties, New York]]. His father was a teacher and a [[Congregational church|Congregational]] minister, who raised his son to believe he must be a useful member of society. Despite being raised in religious family, he later on became an [[Atheism|atheist]].<ref>{{cite book |title=The Economics of Prohibition |year=2007 |publisher=Ludwig von Mises Institute |isbn=9781610160476 |author=Mark Thornton |page=16 |quote=Fisher's atheism would appear to place him at odds with religious reformers, the principal supporters of prohibition. Still, though Fisher gave up belief in God and religion, he remained convinced of the doctrines and methods of postmillennialist evangelical Protestantism.}}</ref> As a child, he had remarkable mathematical ability and a flair for invention. A week after he was admitted to [[Yale University|Yale College]] his father died, at age 53. Irving then supported his mother, brother, and himself, mainly by tutoring. He graduated first in his class with a B.A degree in 1888, having also been elected as a member of the [[Skull and Bones]] society.<ref>{{cite web |url=http://mssa.library.yale.edu/obituary_record/1925_1952/1946-47.pdf |title=Obituary record of graduates deceased during the year ending July 1, 1947 |publisher=Yale University |year=1948 |access-date=April 20, 2011}}</ref>{{rp|14}}
+
+In 1891, Fisher received the first [[Ph.D.]] in economics granted by Yale.<ref>Shiller, Robert (2011). "[http://www.econ.yale.edu/alumni/conf2011/shiller-presentation.pdf The Yale Tradition in Macroeconomics], {{webarchive |url=https://web.archive.org/web/20110913092424/http://www.econ.yale.edu/alumni/conf2011/shiller-presentation.pdf |date=2011-09-13 }}" (pg. 31). Economic Alumni Conference.</ref> His faculty advisors were the theoretical physicist [[Josiah Willard Gibbs|Willard Gibbs]] and the sociologist [[William Graham Sumner]]. As a student, Fisher had shown particular talent and inclination for mathematics, but he found that economics offered greater scope for his ambition and social concerns. His thesis, published by Yale in 1892 as ''Mathematical Investigations in the Theory of Value and Prices'', was a rigorous development of the [[general equilibrium theory|theory of general equilibrium]]. When he began writing the thesis, Fisher had not been aware that [[Léon Walras]] and his continental European disciples had already covered similar ground. Nonetheless, Fisher's work was a very significant contribution and was immediately recognized and praised as first-rate by such European masters as [[Francis Edgeworth]].
+
+After graduating from Yale, Fisher studied in Berlin and Paris. From 1890 onward, he remained at Yale, first as a tutor, then after 1898 as a professor of political economy, and after 1935 as professor emeritus. He edited the ''Yale Review'' from 1896 to 1910 and was active in many learned societies, institutes, and welfare organizations. He was president of the [[American Economic Association]] in 1918. The [[American Mathematical Society]] selected him as its Gibbs Lecturer for 1929.<ref>{{cite journal |author=Fisher, Irving |title=The application of mathematics to the social sciences |journal=Bull. Amer. Math. Soc. |year=1930 |volume=36 |issue=4 |pages=225–243 |mr=1561927 |doi=10.1090/s0002-9904-1930-04919-8|doi-access=free }}</ref> A leading early proponent of [[econometrics]], in 1930 he founded, with [[Ragnar Frisch]] and [[Charles F. Roos]] the [[Econometric Society]], of which he was the first president.
+
+Fisher was a prolific writer, producing journalism as well as technical books and articles, and addressing various social issues surrounding the First World War, the prosperous 1920s and the depressed 1930s. He made several practical inventions, the most notable of which was an "index visible filing system" which he patented in 1913<ref name="Patent">{{US patent|1048058}}</ref> and sold to Kardex Rand (later [[Remington Rand]]) in 1925. This, and his subsequent stock investments, made him a wealthy man until his personal finances were badly hit by the Crash of 1929.<ref>{{cite book |last1=Dimand |first1=Robert W. |editor1-last=Thirlwall |editor1-first=A.P. |title=Great Thinkers in Economics:Irving Fisher |date=2019 |publisher=Palgrave Macmillan |doi=10.1007/978-3-030-05177-8 |isbn=978-3-030-05176-1 |language=en-gb}}</ref>
+
+Fisher was also an active social and health campaigner, as well as an advocate of [[vegetarianism]], [[prohibition]], and [[eugenics]].<ref name="Fuchs">{{cite journal |author=Victor R. Fuchs |title=Health, Government, and Irving Fisher |journal=American Journal of Economics and Sociology |volume=64 | pages=407–425 |year=2005 |jstor=3488138 |doi=10.1111/j.1536-7150.2005.00370.x | issue=1|s2cid=144164940 |url=http://www.nber.org/papers/w6710.pdf |author-link=Victor R. Fuchs }}</ref>  In 1893, he married Margaret [[Hazard family|Hazard]], a granddaughter of Rhode Island industrialist and social reformer [[Rowland G. Hazard]].<ref name="IFObit1947"/> He died of inoperable colon cancer<ref>{{cite book |last1=Engs |first1=Ruth Clifford |title=The progressive era's health reform movement : a historical dictionary |date=2003 |publisher=Praeger |location=Westport, CT |isbn=978-0275979324 |page=123}}</ref> in New York City in 1947, at the age of 80.<ref name="IFObit1947">{{cite news |title=PROF. IRVING FISHER OF YALE DIES AT 80; Famed, Economist Succumbs Here After 2-Month Illness--On Faculty 45 Years |url=https://timesmachine.nytimes.com/timesmachine/1947/04/30/88780366.html?pageNumber=23 |access-date=13 July 2019 |work=[[The New York Times]] |date=30 April 1947}}</ref>
+
+==Economic theories==
+
+=== Utility theory ===
+[[James Tobin]], writing on the contributions of [[John Bates Clark]] and Irving Fisher to neoclassical theory in America<ref>{{cite journal| last=Tobin| first=James |title=Neoclassical Theory in America: J. B. Clark and Fisher |journal=[[American Economic Review]] |volume=75 | pages=28–38 |year=1985 | issue=6}}</ref>  argues that American economists contributed in their own way to the preparation of a common ground after the neoclassical revolution. In particular Clark and Irving Fisher “brought neoclassical theory into American journals, classrooms, and textbooks, and its analytical tools into the kits of researchers and practitioners.” Already in his doctoral thesis, “Fisher expounds thoroughly the mathematics of utility functions and their maximization, and he is careful to allow for corner solutions.” Already then, Fisher “states clearly that neither interpersonally comparable utility nor cardinal utility for each individual is necessary to the determination of equilibrium."
+
+In reviewing the history of [[utility]] theory, economist [[George Stigler]] wrote that Fisher's doctoral thesis had been "brilliant" and stressed that it contained "the first careful examination of the measurability of the utility function and its relevance to demand theory."<ref name="Stigler-II" />  While his published work exhibited an unusual degree of mathematical sophistication for an economist of his day, Fisher always sought to bring his analysis to life and to present his theories as lucidly as possible.  For instance, to complement the arguments in his doctoral thesis, he built an elaborate hydraulic machine with pumps and levers, allowing him to demonstrate visually how the equilibrium prices in the market adjusted in response to changes in supply or demand.
+
+===Interest and capital===
+[[File:Fisher - Theory of interest as determined by impatience to spend income and opportunity to invest it, 1930 - 5800257.tif|thumb|''Theory of interest as determined by impatience to spend income and opportunity to invest it'', 1930]]
+Fisher is probably best remembered today in neoclassical economics for his theory of [[capital (economics)|capital]], [[investment]], and [[interest rates]], first exposited in his ''The Nature of Capital and Income'' (1906) and elaborated on in ''The Rate of Interest'' (1907). His 1930 treatise, ''The Theory of Interest'', summed up a lifetime's research into capital, [[capital budgeting]], [[credit market]]s, and the factors (including [[inflation]]) that determine interest rates.
+
+Fisher saw that subjective economic value is not only a function of the amount of goods and services owned or exchanged, but also of the moment in time when they are purchased with money. A good available now has a different value than the same good available at a later date; value has a time as well as a quantity dimension. The [[relative price]] of goods available at a future date, in terms of goods sacrificed now, is measured by the [[interest rate]]. Fisher made free use of the standard diagrams used to teach undergraduate economics, but labeled the axes "consumption now" and "consumption next period" (instead of the usual schematic alternatives of [[Apples and oranges|"apples" and "oranges"]]). The resulting theory, one of considerable power and insight, was presented in detail in ''The Theory of Interest''.<ref>For a concise exposition see [https://web.archive.org/web/20080429203224/http://cepa.newschool.edu/het/essays/capital/fisherinvest.htm cepa.newschool.edu].</ref>
+
+This model, later generalized to the case of ''K'' goods and ''N'' periods (including the case of infinitely many periods) has become a standard theory of capital and interest, and is described in Gravelle and Rees,<ref name="Gravelle">Gravelle, H., and Rees, R., 2004. ''Microeconomics'', 3rd ed. Pearson Education, ch. 11.</ref> and Aliprantis, Brown, and Burkinshaw.<ref name="Aliprantis">{{cite book |last1=Aliprantis |first1=Charalambos D. |author-link1=Charalambos D. Aliprantis |last2=Brown |first2=Donald J. |last3=Burkinshaw |first3=Owen |title=Existence and optimality of competitive equilibria |chapter=5 The overlapping generations model (pp.&nbsp;229–271) |publisher=Springer-Verlag |location=Berlin |date=April 1988 |edition=1990 student |pages=xii+284 |isbn=3-540-52866-0 |mr=1075992}}</ref> This theoretical advance is explained in Hirshleifer.<ref name="Hirschleifer"/>
+
+===Monetary economics===
+Fisher's research into the basic theory of prices and interest rates did not touch directly on the great social issues of the day. On the other hand, his [[monetary economics]] ''did'' and this grew to be the main focus of Fisher's mature work.
+
+It was Fisher who (following the pioneering work of [[Simon Newcomb]]) formulated the [[quantity theory of money]] in terms of the "[[equation of exchange]]:" Let ''M'' be the total stock of money, ''P'' the [[price level]], ''T'' the amount of transactions carried out using money, and ''V'' the [[Velocity of money|velocity of circulation]] of money, so that
+
+:<math>M\cdot V = P\cdot T</math>{{Citation needed|reason=statement should be supported by citation to a reliable source. See https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources| date=April 2021}}
+
+Later economists replaced ''T'' by the real output ''Y'' (or ''Q''), usually quantified by the real [[Gross domestic product]] (GDP).
+
+Fisher's ''Appreciation and Interest'' was an abstract analysis of the behavior of [[interest rate]]s when the [[price level]] is changing. It emphasized the distinction between [[real interest rate|real]] and [[nominal interest rate]]s:
+
+:<math>r=\frac{(1+i)}{(1+\pi)}-1 \simeq i - \pi </math><ref>{{Cite web|title=Fisher Equation|url=https://corporatefinanceinstitute.com/resources/knowledge/economics/fisher-equation/|access-date=2021-10-18|website=Corporate Finance Institute|language=en-US}}</ref>
+
+where <math>r</math> is the real interest rate, <math>i</math> is the nominal interest rate, and the inflation <math>\pi</math> is a measure of the increase in the price level. When inflation is sufficiently low, the real interest rate can be approximated as the nominal interest rate minus the expected [[inflation rate]]. The resulting equation is known as the [[Fisher equation]] in his honor.
+
+Fisher believed that investors and savers – people in general – were afflicted in varying degrees by "[[money illusion]]"; they could not see past the money to the goods the money could buy. In an ideal world, changes in the price level would have no effect on production or employment. In the actual world with money illusion, [[inflation]] (and deflation) did serious harm. For more than forty years, Fisher elaborated his vision of the damaging "dance of the dollar" and devised various schemes to "stabilize" money, i.e. to stabilize the price level. He was one of the first to subject [[macroeconomic]] data, including the money stock, interest rates, and the price level, to statistical analyses and tests. In the 1920s, he introduced the technique later called [[distributed lag]]s. In 1973, the ''Journal of Political Economy'' posthumously reprinted his 1926 paper on the statistical relation between [[unemployment]] and [[inflation]], retitling it as "I discovered the [[Phillips curve]]". [[Price index|Index numbers]] played an important role in his monetary theory, and his book ''The Making of Index Numbers'' has remained influential down to the present day.{{Citation needed|reason=statement should be supported by citation to a reliable source. See https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources| date=April 2021}}
+
+Fisher's main intellectual rival was the Swedish economist [[Knut Wicksell]]. Fisher espoused a more succinct explanation of the quantity theory of money, resting it almost exclusively on long run prices. Wicksell's theory was considerably more complicated, beginning with interest rates in a system of changes in the real economy. Although both economists concluded from their theories that at the heart of the business cycle (and economic crisis) was government monetary policy, their disagreement would not be solved in their lifetimes, and indeed, it was inherited by the policy debates between the Keynesians and monetarists beginning a half-century later.<ref>{{cite web |last1=Humphrey |first1=Thomas M. |title=Fisher and Wicksell on the Quantity Theory - Economic Quarterly, Fall 1997 - Federal Reserve Bank of Richmond |url=https://www.richmondfed.org/publications/research/economic_quarterly/1997/fall/humphrey |website=www.richmondfed.org|access-date=15 July 2016}}</ref>
+
+===Debt-deflation===
+{{further|Debt deflation}}
+Following the stock market crash of 1929, and in light of the ensuing [[Great Depression]], Fisher developed a theory of [[economic crises]] called [[debt-deflation]], which attributed the crises to the bursting of a [[credit bubble]]. Initially, during the upswing over-confident economic agents are lured by the prospect of high profits to increase their debt in order to leverage their gains. According to Fisher, once the credit bubble bursts, this unleashes a series of effects that have serious negative impact on the real economy:
+# Debt liquidation and distress selling.
+# Contraction of the money supply as bank loans are paid off.
+# A fall in the level of asset prices.
+# A still greater fall in the net worth of businesses, precipitating bankruptcies.
+# A fall in profits.
+# A reduction in output, in trade and in employment.
+# Pessimism and loss of confidence.
+# Hoarding of money.
+# A fall in nominal interest rates and a rise in deflation-adjusted interest rates.
+
+Crucially, as debtors try to liquidate or pay off their nominal debt, the fall of prices caused by this defeats the very attempt to reduce the real burden of debt. Thus, while repayment reduces the amount of money owed, this does not happen fast enough since the real value of the dollar now rises ('swelling of the dollar').<ref>{{cite journal |last1=Fisher |first1=Irving |title=The debt-deflation theory of great depressions |journal=Econometrica |date=1933 |volume=1 |issue=4 |pages=337–357|doi=10.2307/1907327 |jstor=1907327 | url=https://fraser.stlouisfed.org/title/3596 |via=[[FRASER]]}}</ref>
+
+This theory was largely ignored in favor of [[Keynesian economics]], in part because of the damage to Fisher's reputation caused by his public optimism about the stock market, just prior to the crash. Debt-deflation has experienced a [[Debt deflation#Mainstream interest|revival of mainstream interest]] since the 1980s, and particularly with the [[Late-2000s recession]]. [[Steve Keen]] predicted the 2008 recession by using [[Hyman Minsky]]'s further development of Fisher's work on debt-deflation. Debt-deflation is now the major theory with which Fisher's name is associated.<ref name="shadow" />
+
+==Stock market crash of 1929==
+The stock market [[crash of 1929]] and the subsequent [[Great Depression]] cost Fisher much of his personal wealth and academic reputation. He famously predicted, nine days before the crash, that stock prices had "reached what looks like a permanently high plateau."<ref>{{Cite news|title=FISHER SEES STOCKS PERMANENTLY HIGH; Yale Economist Tells Purchasing Agents Increased Earnings Justify Rise. SAYS TRUSTS AID SALES Finds Special Knowledge, Applied to Diversify Holdings, Shifts Risks for Clients.|date=October 16, 1929|work=New York Times|page=8|id = {{ProQuest|104696595}}}}</ref> Irving Fisher stated on October 21 that the market was "only shaking out of the lunatic fringe" and went on to explain why he felt the prices still had not caught up with their real value and should go much higher. On Wednesday, October 23, he announced in a banker's meeting "security values in most instances were not inflated." For months after the Crash, he continued to assure investors that a recovery was just around the corner. Once the [[Great Depression]] was in full force, he did warn that the ongoing drastic [[deflation (economics)|deflation]] was the cause of the disastrous cascading insolvencies then plaguing the American economy because deflation increased the real value of debts fixed in dollar terms. Fisher was so discredited by his 1929 pronouncements and by the failure of a firm he had started that few people took notice of his "debt-deflation" analysis of the Depression. People instead eagerly turned to the ideas of [[John Maynard Keynes|Keynes]]. Fisher's debt-deflation scenario has since seen a revival since the 1980s.
+
+==Constructive Income Taxation==
+Lawrence Lokken, the University of Miami School of Law professor of economics, credits
+<ref>{{Cite book
+  | last = Lokken
+  | first = Lawrence
+  | author-link = Lawrence Lokken
+  | title = Taxing USA tomorrow. (Unlimited Savings Allowance Tax)
+  | series = Southern Economic Journal
+  | edition = e-document
+  | date = October 1, 1998
+  | location = Chicago
+  | url = http://www.highbeam.com/doc/1G1-21276813.html| archive-url = https://web.archive.org/web/20130517171816/http://www.highbeam.com/doc/1G1-21276813.html| url-status = dead| archive-date = May 17, 2013}}</ref>
+Fisher's 1942 book with the concept behind the [[USA Tax|Unlimited Savings Accumulation Tax]], a reform introduced in the United States Senate in 1995 by Senator Pete Domenici (R-New Mexico), former Senator Sam Nunn (D-Georgia), and Senator Bob Kerrey (D-Nebraska). The concept was that unnecessary spending (which is hard to define in a law) can be taxed by taxing income minus all net investments and savings, and minus an allowance for essential purchases, thus making funds available for investment.
+
+== Social and health campaigns ==
+In 1898, Fisher was diagnosed with [[tuberculosis]], the same disease that had killed his father.  He spent three years in sanatoria, finally making a full recovery.  That experience sparked in him a vocation as a health campaigner.  He was one of the founders of the [[Life Extension Institute]], under whose auspices he co-authored the bestselling book ''How to Live: Rules for Healthful Living Based on Modern Science'', published in 1915.  He advocated regular exercise and the avoidance of [[red meat]], [[tobacco]], and [[Alcoholic beverage|alcohol]].  In 1924, Fisher wrote an [[anti-smoking]] article for the ''[[Reader's Digest]]'', which argued that "tobacco lowers the whole tone of the body and decreases its vital power and resistance ... [it] acts like a narcotic poison, like opium and like alcohol, though usually in a less degree".<ref>{{cite web|url=http://legacy.library.ucsf.edu/tid/fgo81c00/pdf;jsessionid=512902F957843008C40E997C9D0B9A6C.tobacco03 |title=Does tobacco injure the human body? |author=Irving Fisher |date=1924 |work=Readers Digest |url-status=dead |archive-url=https://web.archive.org/web/20140418233913/http://legacy.library.ucsf.edu/tid/fgo81c00/pdf%3Bjsessionid%3D512902F957843008C40E997C9D0B9A6C.tobacco03 |archive-date=2014-04-18 }}</ref>
+
+Fisher supported the legal [[prohibition]] of alcohol and wrote three booklets defending [[prohibition in the United States]] on grounds of public health and economic productivity.<ref>Irving Fisher, Prohibition at Its Worst (New York: Macmillan, 1926); Prohibition Still at Its Worst (New York: Alcohol Information Committee, 1928); The Noble Experiment (New York:  Alcohol Information Committee, 1930).</ref>  As a proponent of Eugenics he helped found the [[Race Betterment Foundation]] in 1906.  He also defended [[eugenics]], serving in the scientific advisory board of the [[Eugenics Record Office]] and as first president of the [[American Eugenics Society]].<ref>{{Cite book | publisher = Greenwood Publishing Group | isbn = 9780275979324 | last = Engs | first = Ruth C.  | title = The Progressive Era's Health Reform Movement: A Historical Dictionary | page = 121 | date = 2003 }}</ref>
+
+When his daughter Margaret was diagnosed with [[schizophrenia]], Fisher had her treated at the [[Trenton Psychiatric Hospital|New Jersey State Hospital at Trenton]], whose director was the psychiatrist [[Henry Cotton (doctor)|Henry Cotton]].  Cotton believed in a "focal [[sepsis]]" theory, according to which [[mental illness]] resulted from infectious material in the roots of teeth, bowel recesses, and other places in the body.  Cotton also claimed that surgical removal of the infected tissue could alleviate the patient's mental disorder.  At Trenton, Margaret Fisher had sections of her [[bowel]] and [[Colon (anatomy)|colon]] removed, which eventually resulted in her death.  Irving Fisher nonetheless remained convinced of the validity of Cotton's treatment.<ref>''[[Madhouse: A Tragic Tale of Megalomania and Modern Medicine]]'', Andrew Scull, Yale University Press, 2005</ref>
+
+==Selected publications==
+Fisher, Irving Norton, 1961. ''A Bibliography of the Writings of Irving Fisher'' (1961). Compiled by Fisher's son; contains 2425 entries.
+* Primary
+** 1892. ''Mathematical Investigations in the Theory of Value and Prices''.<ref>{{cite journal|author=Fiske, Thomas|author-link=Thomas Fiske|title=Review: ''Mathematical Investigations in the Theory of Value and Prices'' by Irving Fisher|journal=Bull. Amer. Math. Soc.|year=1893|volume=2|issue=9|pages=204–211|url=https://www.ams.org/journals/bull/1893-02-09/S0002-9904-1893-00145-6/S0002-9904-1893-00145-6.pdf|doi=10.1090/s0002-9904-1893-00145-6|doi-access=free}}</ref> Scroll to chapter [https://books.google.com/books?id=zMNGyKoJxv8C&printsec=frontcover&cad=0#v=onepage&q&f=false links.]
+** 1896. ''Appreciation and Interest''. [https://books.google.com/books?id=hJHPAAAAMAAJ&printsec=frontcover&dq=%22Appreciation+and+interest%22+fisher Link.]
+** 1906. ''The Nature of Capital and Income''.<ref name="Bidwell1909">{{cite journal|author=Wilson, Edwin Bidwell|author-link=Edwin Bidwell Wilson|title=Review: ''The Nature of Capital and Income'' (1906) and ''The Rate of Interest'' (1907) by Irving Fisher|journal=Bull. Amer. Math. Soc.|year=1909|volume=15|issue=4|pages=169–186|url=https://www.ams.org/journals/bull/1909-15-04/S0002-9904-1909-01728-8/S0002-9904-1909-01728-8.pdf|doi=10.1090/S0002-9904-1909-01728-8|doi-access=free}}</ref> Scroll to chapter [https://books.google.com/books?id=1PVKAAAAYAAJ&pg=PR4#v=onepage&q&f=false links.]
+** 1907. ''The Rate of Interest''.<ref name=Bidwell1909/> [http://www.unc.edu/~salemi/Econ006/Irving_Fisher_Chaper_1.pdf Extracts] from Preface and Appendix to ch. VII.
+** 1910, 1914. ''Introduction to Economic Science''. Section [https://books.google.com/books?id=NegsAAAAYAAJ&printsec=frontcover&dq=%22Introduction+to+Economic+Science%22+fisher#v=onepage&q&f=false  links.]
+** 1911a,<ref>{{cite journal|author=Wilson, Edwin Bidwell|title=Review: ''The Purchasing Power of Money'' by Irving Fisher|year=1914|journal=Bull. Amer. Math. Soc.|volume=20|issue=7|pages=377–381|url=https://www.ams.org/journals/bull/1914-20-07/S0002-9904-1914-02503-0/S0002-9904-1914-02503-0.pdf|doi=10.1090/s0002-9904-1914-02503-0|doi-access=free}}</ref> 1922, 2nd ed. ''The Purchasing Power of Money: Its Determination and Relation to Credit, Interest, and Crises''. Scroll to chapter [http://www.econlib.org/library/YPDBooks/Fisher/fshPPM.html links] from [[Library of Economics and Liberty]] (LE&L). [https://fraser.stlouisfed.org/title/3610 Full text] of 1920 edition online via [[FRASER]]
+** 1911b, 1913. ''Elementary Principles of Economics''. Scroll to chapter [https://books.google.com/books?id=5V9MAAAAIAAJ&printsec=frontcover&dq=%22Elementary+Principles+of+Economics%22+fisher#v=onepage&q&f=false links.]
+** 1915. ''How to Live: Rules for Healthful Living Based on Modern Science'' (with Eugene Lyon Fisk). [https://books.google.com/books?id=ZH0XAAAAYAAJ&printsec=frontcover&dq=false Link.]
+** 1918, "Is 'Utility' the Most Suitable Term for the Concept It is Used to Denote?" ''American Economic Review'', pp.&nbsp;335–37]. [http://socserv2.socsci.mcmaster.ca/~econ/ugcm/3ll3/fisher/utility.htm Reprint.]
+** 1921a.  "Dollar Stabilization," ''Encyclopædia Britannica'' 12th ed.. XXX, pp.&nbsp;852–853. Reprint page [http://www.econlib.org/library/Essays/fshEnc1.html links] from LE&L.
+** 1921b, ''The Best Form of Index Number,'' ''American Statistical Association Quarterly''. 17(133), pp. [https://www.jstor.org/pss/2965310 pp. 533–537].
+** 1922. ''The Making of Index Numbers: A Study of Their Varieties, Tests, and Reliability''.<ref>{{cite journal|author=Crathorne, A. R.|title=Review: ''The Making of Index Numbers'' by Irving Fisher|journal=Bull. Amer. Math. Soc.|year=1924|volume=30|issue=1|pages=82–83|url=https://www.ams.org/journals/bull/1924-30-01/S0002-9904-1924-03859-2/S0002-9904-1924-03859-2.pdf|doi=10.1090/s0002-9904-1924-03859-2|doi-access=free}}</ref> Scroll to chapter [https://books.google.com/books?id=FO9AAAAAYAAJ&printsec=frontcover&cad=0#v=onepage&q&f=false links],
+** 1923, "The Business Cycle Largely a 'Dance of the Dollar'," ''Journal of the American Statistical Association'', 18, pp.&nbsp;1024–28. [https://www.jstor.org/stable/2965663 Link.]
+** 1926, "A Statistical Relation between Unemployment and Price Changes," ''International Labour Review'', 13(6), p [http://heinonline.org/HOL/LandingPage?collection=journals&handle=hein.journals/intlr13&div=43&id=&page= pp. 785–92]. Reprinted as 1973, "I Discovered the Phillips Curve: A Statistical Relation between Unemployment and Price Changes'," ''Journal of Political Economy'', 81(2, Part 1), p [https://www.jstor.org/pss/1830534 pp. 496–502].
+** 1927, "A Statistical Method for Measuring 'Marginal Utility' and Testing the Justice of a Progressive Income Tax" in ''Economic Essays Contributed in Honor of John Bates Clark ''.
+** 1928, The Money Illusion, New York: Adelphi Company. Scroll to chapter-preview [https://books.google.com/books?id=LiyX9Xdk8YAC&printsec=frontcover&dq=%22The+Money+Illusion%22+fisher#v=onepage&q&f=false links.]
+** 1930a. ''The Stock Market Crash and After''.
+** 1930b. ''The Theory of Interest''.<ref>{{cite journal|author=Roos, C. F.|title=Review of ''The Theory of Interest'' by Irving Fisher|journal=Bull. Amer. Math. Soc.|year=1930|volume=36|issue=11|pages=783–784|url=https://www.ams.org/journals/bull/1930-36-11/S0002-9904-1930-05048-X/S0002-9904-1930-05048-X.pdf|doi=10.1090/s0002-9904-1930-05048-x|doi-access=free}}</ref> [http://www.unc.edu/~salemi/Econ006/Irving_Fisher_Chaper_1.pdf Chapter I.] Chapter [http://www.econlib.org/library/YPDBooks/Fisher/fshToI.html links], each numbered by paragraph via LE&L.
+** 1932. ''Booms and Depressions: Some First Principles''. [https://fraser.stlouisfed.org/title/104 full text online] via [[FRASER]].
+** {{cite journal |title=The debt-deflation theory of great depressions |journal=Econometrica |date=1933a |volume=1 |issue=4 |pages=337–357|doi=10.2307/1907327 |jstor=1907327 | url=https://fraser.stlouisfed.org/title/3596 |via=[[FRASER]]|last1=Fisher |first1=Irving }}
+** 1933b. ''Stamp Scrip''. [http://userpage.fu-berlin.de/roehrigw/fisher/ full text online]
+** 1935. ''100% Money''. [http://fisher-100money.blogspot.fr/ full text online]
+** 1942. "Constructive Income Taxation: A Proposal for Reform." New York: Harper & Brothers.
+** 1996. ''The Works of Irving Fisher.'' edited by William J. Barber et al. 14 volumes London : Pickering & Chatto.
+
+== See also ==
+{{cols}}
+* [[Chicago plan]]
+* [[Eugenics in the United States]]
+* [[Ham and Eggs Movement]], California pension reform plan, 1938–40
+* [[Library of Economics and Liberty]]
+* [[Marginalism]]
+* [[2018 Swiss sovereign-money initiative]]
+{{colend}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+* Allen, Robert Loring (1993). ''Irving Fisher: A Biography''
+*Dimand, Robert W. (2020). "[[doi:10.1093/oep/gpaa014|J. Laurence Laughlin versus Irving Fisher on the quantity theory of money, 1894 to 1913.]]" ''Oxford Economic Papers'' 
+* Dimand, Robert W. (2003). "Irving Fisher on the International Transmission of Booms and Depressions through Monetary Standards." ''Journal of Money, Credit & Banking''. Vol: 35#1 pp 49+. [https://www.questia.com/PM.qst?a=o&d=5000634264 online edition]
+* Dimand, Robert W. (1993). "The Dance of the Dollar: Irving Fisher's Monetary Theory of Economic Fluctuations," ''History of Economics Review''  20:161–172.
+* Dimand, Robert W. (1994). "Irving Fisher's Debt-Deflation Theory of Great Depressions," ''Review of Social Economy''  52:92–107
+* {{cite journal | last1 = Dimand | first1 = Robert W | year = 1998 | title = The Fall and Rise of Irving Fisher's Macroeconomics | journal = Journal of the History of Economic Thought | volume = 20 | issue = 2| pages = 191–201 | doi=10.1017/s1053837200001851}}
+* Dimand, Robert W., and Geanakoplos, John (2005). "Celebrating Irving Fisher: The Legacy of a Great Economist" ''American Journal of Economics & Sociology,'' Jan 2005, Vol. 64 Issue 1, pp.&nbsp;3–18
+* {{ill|Dorfman, Joseph|de|Joseph Dorfman (Ökonom)}} (1958). ''The Economic Mind in American Civilization'', vol. 3.
+* Fellner, William, ed. (1967). ''Ten Economic Studies in the Tradition of Irving Fisher''
+* Fisher, Irving Norton (1956). ''My Father Irving Fisher''.
+* {{cite journal | last1 = Sasuly | first1 = Max | year = 1947 | title = Irving Fisher and Social Science | journal = Econometrica | volume = 15 | issue = 4| pages = 255–78 | doi=10.2307/1905330| jstor = 1905330 }}
+* [[Schumpeter, Joseph]] (1951). ''Ten Great Economists'': 222–38.
+* Schumpeter, Joseph (1954). ''A History of Economic Analysis'' (1954)
+* [[Thaler, Richard]] (1999). "[https://wayback.archive-it.org/all/20071202154721/http://gsbwww.uchicago.edu/fac/richard.thaler/research/Irving%20Fisher.pdf Irving Fisher: Behavioral Economist]," ''American Economic Review''.
+* [[Tobin, James]] (1987). "Fisher, Irving,"  ''[[The New Palgrave: A Dictionary of Economics]]'', Vol. 2: 369–76. Reprinted in ''American Journal of Economics and Sociology'', Jan, 2005, 17 [http://findarticles.com/p/articles/mi_m0254/is_1_64/ai_n13798783/?tag=content;col1 pages.]
+* Tobin, James (1985). "Neoclassical Theory in America: J. B. Clark and Fisher" ''American Economic Review'' (Dec 1985) vol 75#6  pp.&nbsp;28–38 [https://www.jstor.org/pss/1914327 in JSTOR]
+
+==External links==
+{{Wikisource author}}
+{{Commons category}}
+{{Wikiquote}}
+* [https://web.archive.org/web/20050324032215/http://socserv2.socsci.mcmaster.ca/~econ/ugcm/3ll3/index.html Archive for the History of Economic Thought] at [[McMaster University]]
+* [[New School for Social Research]] website:
+** [https://web.archive.org/web/20040603160005/http://cepa.newschool.edu/het/profiles/fisher.htm Irving Fisher, 1867–1947.] Includes a photograph of the young Fisher. For a photograph of the older man, see [http://www.york.ac.uk/depts/maths/histstat/people/fisher_i.gif Irving Fisher] on the [http://www.york.ac.uk/depts/maths/histstat/people/welcome.htm Portraits of Statisticians] page.
+** [https://web.archive.org/web/20080429203224/http://cepa.newschool.edu/het/essays/capital/fisherinvest.htm Irving Fisher's Theory of Investment.]
+* Irving Fisher Papers (MS 212). Manuscripts and Archives, Yale University Library.[http://hdl.handle.net/10079/fa/mssa.ms.0212]
+* [http://cowles.econ.yale.edu/P/cd/d12b/d1272.pdf Herbert Scarf, William C.Brainard, "How to Compute Equilibrium Prices in 1891". Cowles Foundation Discussion Paper 1272, August 2000] – for the description of Fisher's hydraulic apparatus.
+* {{Cite encyclopedia |title=Irving Fisher (1867–1947) |url=http://www.econlib.org/library/Enc/bios/Fisher.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+* {{Gutenberg author | id=Fisher,+Irving | name=Irving Fisher}}
+* {{Internet Archive author |sname=Irving Fisher}}
+* [https://fraser.stlouisfed.org/author/134 Works by or about Irving Fisher] on [[FRASER]]
+* {{Find a Grave}}
+
+{{Neoclassical economists}}
+{{Presidents of the American Economic Association}}
+{{Presidents of the Econometric Society}}
+{{Authority control}}
+{{Portal bar|Business and economics|United States|Biography}}
+
+{{DEFAULTSORT:Fisher, Irving}}
+[[Category:American atheists]]
+[[Category:Economists from New York (state)]]
+[[Category:American statisticians]]
+[[Category:Neoclassical economists]]
+[[Category:1867 births]]
+[[Category:1947 deaths]]
+[[Category:American temperance activists]]
+[[Category:Activists from New York (state)]]
+[[Category:Tobacco researchers]]
+[[Category:American eugenicists]]
+[[Category:Presidents of the American Economic Association]]
+[[Category:Presidents of the American Statistical Association]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Yale University alumni]]
+[[Category:People from Saugerties, New York]]
+[[Category:19th-century economists]]
+[[Category:20th-century American economists]]
+[[Category:Mathematicians from New York (state)]]
