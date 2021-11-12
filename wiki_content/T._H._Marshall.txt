@@ -1,0 +1,393 @@
+{{short description|English sociologist (1893–1981)}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox person
+| name          = T.&nbsp;H. Marshall
+| image         = Professor Thomas Humphrey Marshall, c1950.jpg
+| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption       = Marshall {{circa|1950}}
+| birth_name    = Thomas Humphrey Marshall
+| birth_date    = {{birth date|1893|12|19|df=y}}
+| birth_place   = [[London]], England
+| death_date    = {{death date and age|1981|11|29|1893|12|19|df=y}}
+| death_place   = [[Cambridge]], England
+| party         = [[Labour Party (UK)|Labour]]
+| spouse        = <!-- Use article title or common name -->
+| partner       = <!-- (unmarried long-term partner) -->
+| awards        = 
+| module        = {{Infobox academic
+| child             = yes
+| alma_mater        = [[Trinity College, Cambridge]]
+| thesis_title      = 
+| thesis_year       = 
+| school_tradition  = {{hlist | [[Social democracy]]{{sfn|Mason|2009|p=95}} | [[social liberalism]]{{sfn|Murray|2007|p=223}}}}
+| doctoral_advisor  = 
+| academic_advisors = 
+| influences        = {{flatlist|
+* [[Lujo Brentano]]{{sfn|Moses|2019b|p=163}}
+* [[L.&nbsp;T. Hobhouse]]{{sfn|Marshall|1973|p=406}}
+}}
+| era               = 
+| discipline        = [[Sociology]]
+| sub_discipline    = {{hlist | [[Political sociology]] | [[social stratification]]{{sfn|Rocquin|2019|p=87}}}}
+| workplaces        = {{ubl | [[Trinity College, Cambridge]] | [[London School of Economics]]}}
+| doctoral_students = <!--only those with WP articles-->
+| notable_students  = 
+| main_interests    = 
+| notable_works     = "Citizenship and Social Class" (1950)
+| notable_ideas     = [[Social citizenship]]
+| influenced        = [[David Lockwood (sociologist)|David Lockwood]]{{sfn|Rose|1996|p=386}}
+}}
+| signature     = Appletons' Marshall Thomas (planter) - Humphrey signature.png
+| signature_alt = 
+}}
+'''Thomas Humphrey Marshall''' (1893–1981) was an English [[sociologist]] who is best known for his essay "[[T.H. Marshall's Social Citizenship|Citizenship and Social Class]]," a key work on [[citizenship]] that introduced the idea that full citizenship includes civil, political, and social citizenship.
+
+== Biography ==
+T.H. Marshall was born in [[London]] on 19 December 1893 to a wealthy, artistically cultured family (a [[Bloomsbury]] family).{{sfn|Marshall|1973|p=399}} He was the fourth of six children.{{sfn|Marshall|1973|p=399}} His great-grandfather acquired an industrial fortune and his father was a successful architect, leaving Marshall with a privileged upbringing and inheritance.<ref>{{Cite book|last=Halsey|first=A.H.|title=T.H. Marshall: Past and Present 1893-1981: President of the British Sociological Association 1964-1969|publisher=Sage Publications, Inc.|year=1984|pages=1}}</ref> Because of his wealthy background, he obtained a formal education at [[Rugby School]], a preparatory boarding school. {{sfn|Marshall|1973|p=399}} He continued his schooling at [[Trinity College, Cambridge]], where he studied history.{{sfn|Rocquin|2019|p=87}}
+
+Marshall was a civilian prisoner in Germany during the [[First World War]].<ref name=":0" /> He then went on to pursue a fellowship program at Trinity College in October 1919, where he entered into academia as a professional historian.<ref name=":0">{{Cite web|last=Jackson|first=Ben|title=T.H. Marshall|url=https://www.britannica.com/biography/T-H-Marshall|url-status=live|website=Britannica}}</ref> This was interrupted when he became the [[Labour Party (UK)|Labour]] candidate in [[Farnham (UK Parliament constituency)|Farnham]]<ref>{{Cite web|title=T.H. [Thomas] Marshall|url=https://www.isa-sociology.org//en/about-isa/history-of-isa/isa-past-presidents/list-of-presidents/th-thomas-marshall|access-date=2021-10-16|website=www.isa-sociology.org|language=en}}</ref> in the [[1922 United Kingdom general election|1922 election]].{{sfn|Rocquin|2019|p=87}} Despite being unsuccessful in this political campaign, Marshall found his endeavors beneficial because they brought him into close contact with working-class people and exposed him to the injustices and predjudices within the British class system.<ref name=":0" /> In "A British Sociological Career," he recounts that "he knew nothing of work-class life" growing up, therefore marking this experience as a transformative awakening to what would guide his work.<ref>{{Cite journal|last=T.H.|first=Marshall|date=December 1973|title=A British Sociological Career|journal=The British Journal of Sociology|volume=24|pages=399|via=JSTOR}}</ref>
+
+Marshall later became a tutor in [[social work]] at the [[London School of Economics]] in 1925.{{sfn|Bulmer|2007|p=91}}<ref name="Jack Barbalet 1981">Jack Barbalet, "Marshall, Thomas Humphrey (1893–1981)," pp. 2794-96, in George Ritzer (ed.), ''The Blackwell Encyclopedia of Sociology'', 10 Vols. Malden, MA: Blackwell Publishing, 2007, p. 2795.</ref> He was promoted to reader and went on to become the head of the Social Science Department at LSE from 1944 to 1949 and Martin White Professorship of Sociology from 1954 to 1956.{{sfn|Bulmer|2007|p=91}}<ref name="Jack Barbalet 1981"/>
+
+Marshall worked for [[UNESCO]] as the head of the Social Science Department from 1956 to 1960,{{sfn|Blyton|1982|pp=157–158}} possibly contributing to the [[United Nations]] [[International Covenant on Economic, Social and Cultural Rights]], which was drafted in 1954, but not ratified until 1966.
+
+He was the fourth president of the [[International Sociological Association]] (1959–1962).<ref name="presidents">{{cite web |title=ISA Past Presidents |url=https://www.isa-sociology.org/en/about-isa/history-of-isa/isa-past-presidents/list-of-presidents |location=Madrid |publisher=International Sociological Association |access-date=4 December 2020}}</ref>
+
+Marshall died on 29 November 1981 in [[Cambridge]].
+
+==Academic research==
+=== ''Citizenship and Social Class'' ===
+T.H. Marshall wrote a seminal essay on [[citizenship]]– which became his most famous work– titled "Citizenship and Social Class." This was published in 1950 and was based on a lecture given the previous year. British citizenship was originally bestowed upon those of a higher status group with their own civil, political, and social privileges. Yet Marshall argued that, with the expansion of capitalism, a "new kind of citizenship slowly pulled apart the package of privileges hitherto enjoyed exclusively by the well-born."<ref name=":0" /> He analysed the development of citizenship as a development of [[Civil and political rights|civil]], then [[Civil and political rights|political]], then [[Social rights|social]] rights.
+
+Marshall defined the three aspects of citizenship as follows:
+* '''Civil rights''' are "the rights necessary for individual freedom-liberty of the person, freedom of speech, thought and faith, the right to own property and to conclude valid contracts, and the right to justice."<ref name=":1">T. H.Marshall, ''Citizenship and Social Class: And Other Essays.'' Cambridge, Eng.: Cambridge University Press, 1950, p. 10.</ref>
+**This concept of individual civil rights "also undid statutes and customs that constricted the 'right to work.'" Working people could now legally pursue employment, which corresponds with the need of capitalism for labor markets.<ref name=":1" />
+**Marshall also argued that "the principle of civil citizenship contains within itself...a 'drive' toward further equality - political equality."<ref name=":1" /> 
+* '''Political rights''' refer to "the right to participate in the exercise of political power."<ref name="H.Marshall, 1950, p. 11">T. H.Marshall, ''Citizenship and Social Class: And Other Essays.'' Cambridge, Eng.: Cambridge University Press, 1950, p. 11.</ref>
+**Universal Suffrage <ref name=":1" />
+**Electing representatives to Parliament <ref name=":0" />
+* '''Social rights''' include as "the right to a modicum of economic welfare and security to the right to share to the fuIl in the social heritage and to live the life of a civilised being."<ref name="H.Marshall, 1950, p. 11"/> Social rights are usually understood as benefits associated with the modern welfare state and positive freedoms such as [[welfare rights]].{{sfn|Kivisto|2010}}
+
+Marshall also argued that these three aspects of citizenship developed in England in a certain order. Civil rights are broadly assigned with the eighteenth century, political to the nineteenth, and social to the twentieth century.<ref>{{Cite book|last=Marshall|first=T.H.|title=Citizenship and Social Class and Other Essays|publisher=Cambridge University Press|year=1950|location=Cambridge, England|pages=10}}</ref> There is a complex interplay between these conceptions of citizenship. According to Marshall, "once citizens are recognized as full members of society, they also receive undeniable social rights, such as protection against poverty."<ref>{{Cite journal|last=Marc, Hooghe and|first=Oser, Jennifer|date=26 April 2017|title=Social and Political Citizenship in European Public Opinion: An Empirical Analysis of T.H. Marshall’s Concept of Social Rights|url=https://www.cambridge.org/core/services/aop-cambridge-core/content/view/025A5D88E8D08DCBDF1C6C0AD1316566/S0017257X17000112a.pdf/div-class-title-social-and-political-citizenship-in-european-public-opinion-an-empirical-analysis-of-t-h-marshall-s-concept-of-social-rights-div.pdf|journal=Government and Opposition|volume=53|pages=600|via=JSTOR}}</ref>
+
+This expansion of social rights "replaced earlier ideas of providing material assistance only as a matter of charity or, as under earlier social welfare legislation, of making state assistance conditional on recipients forfeiting their civil or political rights."<ref name=":0" />
+
+Social rights are awarded not on the basis of class or need, but rather on the status of citizenship. Marshall claimed that the extension of social rights does not entail the destruction of social classes and inequality. T.H. Marshall was a close friend and admirer of [[Leonard Hobhouse]], and his conception of citizenship emerged from a series of lectures given by Hobhouse at the LSE. Hobhouse is more philosophical, whereas Marshall is under the influence of measures taken by [[William Beveridge|Lord Beveridge]] after the [[Second World War]].{{sfn|Marshall|1973}} All of these people were involved in a turn in liberal thought that was called "[[Social liberalism|new liberalism]]," a liberalism with a [[social conscience]]. T.H. Marshall also talks about industrial citizenship and its relationship with citizenship. He said that social rights are a precursor for political and civil rights.
+
+Among the lasting influences of "Citizenship and Social Class" is its commentary on capitalism in relation to emerging social rights. Marshall noted the "contradiction between social rights and the requirements of a market economy within the dynamic context of welfare-capitalism...where citizenship functioned to contain these conflicts between social classes."<ref name=":2">{{Cite book|last=Turner|first=Bryan, S.|title="Citizenship Today: The Contemporary Relevance of T.H. Marshall"|year=1984|pages=177}}</ref> Class inequality within capitalist societies created tension with Marshall's emerging ideas of citizenship. He argues that the creation of social rights are necessary in reducing this tension between civil, political, economic inequality. Marshall saw this process as a struggle unfolding over many centuries and looked to the future in hopes of a more egalitarian society.<ref name=":0" />
+
+==== Influence ====
+Marshall's work on citizenship influenced other scholars. [[Reinhard Bendix]]’s ''Nation Building and Citizenship'' (1964) is said to owe "much to Marshall and much of it reads like a commentary on Marshall’s own treatment of that theme."<ref name="Jack Barbalet 1981"/>
+
+[[Talcott Parsons]]’s "Full Citizenship for the Negro American?" (1965) <ref>Talcott Parsons, "Full Citizenship for the Negro American? A Sociological Problem." ‘‘Daedalus‘‘ Vol. 94, No. 4, The Negro American (1965): 1009-1054.</ref> is held to draw "enormously from Marshall."<ref name="Jack Barbalet 1981"/>
+
+[[Stein Rokkan]] met Marshall at the London School of Economics and Rokkan's work on citizenship was influenced by Marshall's ideas.<ref>Flora, Peter, "Rokkan, Stein (1921–79)," pp. 744-47, ‘‘International Encyclopedia of the Social & Behavioral Sciences‘‘ 2nd edition, Volume 20 (2001), p. 744; Flora, Peter, “Introduction and Interpretation,” pp. 1–91, in Peter Flora (ed.), ‘‘State Formation, Nation-Building, and Mass Politics in Europe: The Theory of Stein Rokkan‘‘. Oxford, UK: Oxford University Press, 1999, p. 69.</ref>
+
+[[Anthony Giddens]]'s discussion of citizenship in ''The Nation-State and Violence'' (1985) builds on Marshall's distinctions and analysis.<ref>Anthony Giddens, ‘‘A Contemporary Critique of Historical Materialism‘‘. Vol. 2. ‘‘The Nation-State and Violence‘‘. Cambridge: Polity, 1985, Ch. 8.</ref>
+
+Marshall, along with [[Stein Rokkan]], is credited with the establishment of "what has become the standard narrative of the evolution of modern democratic citizenship."<ref>Richard Bellamy. 2015. “Citizenship, Historical Development of”. ''International Encyclopedia of the Social & Behavioral Sciences'', Second Edition, Volume 3: 643–649, p. 647.</ref>
+
+Marshall's emphasis on social rights influenced both theoretical literature and policies pursued in the twentieth century.<ref>{{Cite journal|last=Hooghe, Marc and|first=Oser, Jennifer|date=26 April 2017|title=Social and Political Citizenship in European Public Opinion: An Empirical Analysis of T.H. Marshall’s Concept of Social Rights|url=https://www.cambridge.org/core/services/aop-cambridge-core/content/view/025A5D88E8D08DCBDF1C6C0AD1316566/S0017257X17000112a.pdf/div-class-title-social-and-political-citizenship-in-european-public-opinion-an-empirical-analysis-of-t-h-marshall-s-concept-of-social-rights-div.pdf|journal=Government and Opposition|volume=53|pages=601|via=JSTOR}}</ref>
+
+==== Criticisms ====
+Marshall's analysis of citizenship has been criticised on the basis that it only applies to males in ''England'' (note: England rather than Britain).<ref>{{cite magazine|last1=Fraser|first1=Nancy|last2=Gordon|first2=Linda|date=July–September 1992|title=Contract Versus Charity: Why Is There No Social Citizenship in the United States?|magazine=Socialist Review|volume=23|issue=3|page=49}}</ref> His theories specifically applied within English contexts of social reform and therefore were not subject to comparative analysis.<ref>{{Cite book|last=Bulmer, Martin and Anthony M., Rees|first=|title=Citizenship Today: The Contemporary Relevance of T.H. Marshall|publisher=UCL Press|year=1996|location=London|pages=176–179}}</ref> Marxist critics point out that Marshall's analysis is superficial as it does not discuss the right of the citizen to control economic production, which they argue is necessary for sustained shared prosperity. From a [[feminist]] perspective, the work of Marshall is highly constricted in being focused on men and ignoring the social rights of women and impediments to their realisation.{{sfn|Turner|1993|pp=3–4}}
+
+There is a debate among scholars about whether Marshall intended his historical analysis to be interpreted as a general theory of citizenship or whether the essay was just a commentary on developments within England.{{sfn|Bulmer|Rees|1996|p=270}} The essay has been used by editors to promote more equality in society, including the "Black" vote in the US, and against Mrs. Thatcher in a 1992 edition prefaced by [[Thomas Bottomore|Tom Bottomore]].{{sfn|Kivisto|2018}} {{Page needed|date=October 2021}} It is an Anglo-Saxon interpretation of the evolution of rights in a "peaceful reform" mode, unlike the revolutionary interpretations of [[Charles Tilly]], the other great theoretician of citizenship in the twentieth century, who bases his readings in the developments of the [[French Revolution]].
+
+Although Marshall was specifically concerned about the class inequalities within capitalist societies and their impact on citizenship, [[William Julius Wilson|William Wilson]] and [[Janet Finch]] note his neglect of issues pertaining to race and gender relations.<ref name=":2" />
+
+[[Michael Mann (sociologist)|Michael Mann]] criticized Marshall's theory of citizenship "for being Anglocentric and evolutionist."<ref>Michael Mann, "Ruling Class Strategies and Citizenship". ''Sociology'' 21(3)(1987): 339-354, 339</ref>
+
+Jørgen Møller and Svend-Erik Skaaning argue that Marshall's claim that citizenship rights are extended in a certain order — civil, political, and then social citizenship rights — "is no longer the prevalent one in the developing and transformation countries of the contemporary era."<ref>Jørgen Møller and Svend-Erik Skaaning. 2010. "Marshall Revisited: The Sequence of Citizenship Rights in the Twenty-first Century." ''Government and Opposition'' Vol. 45, No. 4: 457-483, p. 457.</ref>
+
+Other scholars find Marshall's "story of inexorable upward progress" as assuming that all victories for social rights were an "irreversible achievement" rather than the result of "bitter struggles involved in winning basic rights for all."<ref name=":0" />
+
+Marshall's ideas of social citizenship influenced institutions of health and education in addition to setting new rules for minimum wage, hours of labor, working conditions, as well as safety in the workplace and compensation in the event of an accident.<ref name=":3">{{Cite web|title="What is Citizenship and T.H. Marshall's Theory - Analysis"|url=https://www.sociologygroup.com/what-is-citizenship-marshall-theory/|url-status=live|website=Sociology Group}}</ref> However, since capitalism rests on the exploitation and inequality of laborers, the development of social rights challenged this economic system. The state responded to these "opposing interests by granting some rights to the working class" while still preventing them from obtaining greater influence to overthrow the system.<ref name=":3" /> Despite designating social rights to the worker and igniting a questioning of "the righteousness of democracy," Marshall's theory of social citizenship "carries on the capitalist expansionism with the veil of equality."<ref name=":3" />
+
+=== ''Sociology at a Crossroads and Other Essays'' ===
+In 1963, Marshall published another renowned work, ''Sociology at a Crossroads and Other Essays,'' which includes a collection of sixteen essays modeled on the work of Max Weber. He structured the essays under three main titles: Sociology of Today and Tomorrow, Social Class, and Social Welfare.<ref name=":4" />
+
+The first several essays focus on the problems facing Sociology in the present day. Marshall sees the discipline as being at a crossroads where several paths meet. The first leads to "universal laws and ultimate values," whereas the second "leads to a collection of a multitude of facts." Finally, the third is one that Marshall recommends as the ideal direction for Sociology. This path "'leads into a country where sociology can choose units of study of manageable size - not society, progress, morals and civilization - but specific social structures in which the basic processes and functions have determined meanings.'" After indicating this path for Sociology, Marshall goes on to define the discipline as the "analytical and explanatory study of social systems" on a larger-scale, such as nations or states and also smaller systems that function within those societies.<ref name=":4" />
+
+Marshall also elaborates on concepts of "class," "social class," "status," "social status," "prestige," "position," and "role," all of which develop his analysis of social stratification. In writing about social conflict, he encourages reserving the term "conflict" for "'cases in which the common interest shared by the rivals dwindles to vanishing point' and 'little regard is paid even to the accepted rules of warfare.'" <ref name=":4" />
+
+The final essays are dedicated to analyzing the concepts and problems of the Welfare State and Affluent Society in England, France, and Germany.<ref name=":4" />
+
+==== Influence ====
+Marshall's analysis developed a deeper understanding of social phenomena and identified the "time and space limitations of concepts," namely what he refers to as the first and second paths in the crossroads of sociology.<ref name=":4" />
+
+==== Criticisms ====
+There is some disagreement regarding Marshall's very broad definition of "social systems," as some find that it covers too many different entities and therefore blurs "the distinction between society and state, and between the whole and the part."<ref name=":4" />
+
+== Philosophy of social science ==
+Modern political science pioneer [[Seymour Martin Lipset]] argues that Marshall proposed a model of social science based on the [[middle-range theory (sociology)|middle-range theory]] of social structures and institutions, as opposed to grand theories of the purposes of development and modernisation, which were criticised by modern sociologists such as [[Robert K. Merton]] for being too speculative to provide valid results.{{sfn|Lipset|1965|pp=xvii–xviii}} By using such a middle-range approach, Marshall and his mentor [[Leonard Trelawny Hobhouse|L.&nbsp;T. Hobhouse]] believed that rigid class distinctions could be dissolved and middle-class citizenship generalised through a careful understanding of social mechanisms. He also believed this would allow sociology to become an international discipline, helping "to increase mutual understanding between cultures" and further international co-operation.{{sfn|Marshall|1965a|pp=47–48}} While employing some concepts from Marxist [[Conflict theories|conflict theory]], such as social class and revolution, Marshall's analyses are based on [[structural functionalism|functionalist]] concerns with phenomena such as "consensus, the normal, and ''anomie''; co-operation and conflict; structure and growth," within self-contained systems.{{sfn|Marshall|1965b|p=33}} Rather than studying "society," which may include non-systemic elements, Marshall argues that the task of sociology is:
+
+<blockquote>the analytical and explanatory study of social systems....a set of interrelated and reciprocal activities having the following characteristics. The activities are repetitive and predictable to the degree necessary, first, to permit of purposeful, peaceful and orderly behaviour of the members of the society, and secondly to enable the pattern of action to continue in being, that is to say to preserve its identity even while gradually changing its shape.{{sfn|Marshall|1965b|p=28}}</blockquote>Since his work centers around functionalism, Marshall "uses a top-down perspective, by describing how political systems allocate social and political rights to citizens and develop institutions that are in charge of administering these rights."<ref>{{Cite journal|last=Hooghe, Marc and|first=Oser, Jennifer|date=26 April 2017|title=Social and Political Citizenship in European Public Opinion: An Empirical Analysis of T.H. Marshall’s Concept of Social Rights|url=https://www.cambridge.org/core/services/aop-cambridge-core/content/view/025A5D88E8D08DCBDF1C6C0AD1316566/S0017257X17000112a.pdf/div-class-title-social-and-political-citizenship-in-european-public-opinion-an-empirical-analysis-of-t-h-marshall-s-concept-of-social-rights-div.pdf|journal=Government and Opposition|volume=53|pages=603|via=JSTOR}}</ref>
+
+Whereas [[Marxism|Marxists]] point to the [[internal contradictions of capital accumulation]] and class inequality (intra-systemic), Marshall sees phenomena that are anti-systemic as partly "alien" to the social system.{{sfn|Marshall|1965b|p=33}} Anti-system refers to one of the three branches of social phenomena that Marshall defines in ''Sociology at a Crossroads and Other Essays''. It posits that conflict is incompatible with the operation of a social system yet is simultaneously an inevitable part of that system. The other two branches are known as "non-system" and "pro-system."<ref name=":4">{{Cite journal|last=Sharma|first=K.N.|date=1 March 1964|title=Sociology at the Crossroads and Other Essays|journal=International Journal of Comparative Sociology|pages=126}}</ref>
+
+== See also ==
+* {{annotated link|Citizenship}}
+* {{annotated link|T.H. Marshall's Social Citizenship}}
+* {{annotated link|Social citizenship}}
+* {{annotated link|Welfare state}}
+* {{annotated link|Reinhard Bendix}}
+* {{annotated link|Stein Rokkan}}
+
+== References ==
+=== Footnotes ===
+{{reflist|22em}}
+
+=== Works cited ===
+{{refbegin|35em|indent=yes}}
+* {{cite journal
+|last=Blyton
+|first=P.
+|year=1982
+|title=T.H. Marshall, 1893–1981
+|journal=International Social Science Journal
+|volume=91
+|issue=1
+}}
+* {{cite book
+|last=Bulmer
+|first=Martin
+|year=2007
+|chapter=T.&nbsp;H. Marshall
+|editor-last=Scott
+|editor-first=John
+|editor-link=John Scott (sociologist)
+|title=Fifty Key Sociologists: The Formative Theorists
+|location=Abingdon, England
+|publisher=Routledge
+|pages=91–94
+|doi=10.4324/9780203117279
+|isbn=978-0-203-11727-9
+}}
+* {{cite book
+|last1=Bulmer
+|first1=Martin
+|last2=Rees
+|first2=Anthony M.
+|year=1996
+|chapter=Conclusion: Citizenship in the Twenty-First Century
+|editor1-last=Bulmer
+|editor1-first=Martin
+|editor2-last=Rees
+|editor2-first=Anthony M.
+|title=Citizenship Today: The Contemporary Relevance of T.&nbsp;H. Marshall
+|location=London
+|publisher=UCL Press
+}}
+* {{cite book
+|year=2010
+|editor-last=Kivisto
+|editor-first=Peter
+|title=Key Ideas in Sociology
+|publisher=SAGE Publications
+|isbn=978-1-4833-4333-4
+}}
+* {{cite book
+|last=Kivisto
+|first=Peter
+|author-mask={{long dash}}
+|year=2018
+|chapter=Citizenship: T.H. Marshall and Beyond
+|editor1-last=Outhwaite
+|editor1-first=William
+|editor2-last=Turner
+|editor2-first=Stephen
+|editor2-link=Stephen Park Turner
+|title=The SAGE Handbook of Political Sociology
+|location=London
+|publisher=SAGE Publications
+|pages=413–428
+|doi=10.4135/9781526416513.n25
+|isbn=978-1-5264-1651-3
+}}
+* {{cite book
+|contributor-last=Lipset
+|contributor-first=Seymour Martin
+|contributor-link=Seymour Martin Lipset
+|contribution=Introduction
+|last=Marshall
+|first=T.&nbsp;H.
+|year=1965
+|title=Class, Citizenship, and Social Development
+|edition=2nd
+|location=Garden City, New York
+|publisher=Anchor Books
+}}
+* {{cite book
+|last=Marshall
+|first=T.&nbsp;H.
+|year=1965a
+|chapter=International Comprehension in Social Science
+|title=Class, Citizenship, and Social Development
+|edition=2nd
+|location=Garden City, New York
+|publisher=Anchor Books
+}}
+* {{cite book
+|last=Marshall
+|first=T.&nbsp;H.
+|author-mask={{long dash}}
+|year=1965b
+|chapter=Sociology&nbsp;– The Road Ahead
+|title=Class, Citizenship, and Social Development
+|edition=2nd
+|location=Garden City, New York
+|publisher=Anchor Books
+}}
+* {{cite journal
+|last=Marshall
+|first=T.&nbsp;H.
+|author-mask={{long dash}}
+|year=1973
+|title=A British Sociological Career
+|journal=The British Journal of Sociology
+|volume=24
+|issue=4
+|pages=399–408
+|doi=10.2307/589730
+|jstor=589730
+|issn=0007-1315
+}}
+* {{cite book
+|last=Mason
+|first=Ann C.
+|year=2009
+|chapter=Citizenship Scarcity and State Weakness: Learning from the Colombian Experience
+|editor1-last=Raue
+|editor1-first=Julia
+|editor2-last=Sutter
+|editor2-first=Patrick
+|title=Facets and Practices of State-Building
+|pages=75–103
+|location=Leiden, Netherlands
+|publisher=Martinus Nijhoff Publishers
+|doi=10.1163/ej.9789004174030.i-344.28
+|isbn=978-90-474-2749-0
+}}
+* {{cite book
+|last=Moses
+|first=Julia
+|year=2019a
+|chapter=The Reluctant Planner: T.&nbsp;H. Marshall and Political Thought in British Social Policy
+|editor-last=Goldman
+|editor-first=Lawrence
+|editor-link=Lawrence Goldman
+|title=Welfare and Social Policy in Britain Since 1870: Essays in Honour of Jose Harris
+|location=Oxford
+|publisher=Oxford University Press
+|pages=127ff
+|doi=10.1093/oso/9780198833048.003.0007
+|isbn=978-0-19-883304-8
+}}
+* {{cite journal
+|last=Moses
+|first=Julia
+|author-mask={{long dash}}
+|year=2019b
+|title=Social Citizenship and Social Rights in an Age of Extremes: T.&nbsp;H. Marshall's Social Philosophy in the ''Longue Durée''
+|journal=Modern Intellectual History
+|volume=16
+|issue=1
+|pages=155–184
+|doi=10.1017/S1479244317000178
+|doi-access=free
+}}
+* {{cite journal
+|last=Murray
+|first=Georgina
+|year=2007
+|title=Who Is Afraid of T.&nbsp;H. Marshall? Or, What Are the Limits of the Liberal Vision of Rights?
+|url=https://scholarlycommons.law.case.edu/swb/vol2/iss2/4
+|journal=Societies Without Borders
+|volume=2
+|issue=2
+|pages=222–242
+|doi=10.1163/187219107X203577
+|hdl=10072/17742
+|issn=1872-1915
+|access-date=4 December 2020
+|hdl-access=free
+}}
+* {{cite book
+|last=Rocquin
+|first=Baudry
+|year=2019
+|title=British Sociologists and French "Sociologues" in the Interwar Years: The Battle for Society
+|location=Cham, Switzerland
+|publisher=Palgrave Macmillan
+|doi=10.1007/978-3-030-10913-4
+|isbn=978-3-030-10912-7
+}}
+* {{cite journal
+|last=Rose
+|first=David
+|year=1996
+|title=For David Lockwood
+|journal=The British Journal of Sociology
+|volume=47
+|issue=3
+|pages=385–396
+|doi=10.2307/591358
+|issn=1468-4446
+|jstor=591358
+}}
+* {{cite book
+|year=1993
+|editor-last=Turner
+|editor-first=Bryan S.
+|editor-link=Bryan Turner (sociologist)
+|title=Citizenship and Social Theory
+|publisher=SAGE Publications
+}}
+{{refend}}
+
+== Further reading (by Marshall) ==
+* Marshall, T. H. (ed.). 1938. ''Class Conflict and Social Stratification''. London: Le Play House Press.
+* Marshall, T. H. 1950. ''Citizenship and Social Class: And Other Essays''. Cambridge, Eng.: Cambridge University Press.
+* Marshall, T. H. 1963. ''Sociology at the Crossroads and Other Essays''. London: Heinemann.
+* Marshall, T. H. 1973. "A British Sociological Career". ''International Social Science Journal'' 25(1/2): 88–100.
+* Marshall, T. H. 1981. ''The Right to Welfare and Other Essays''. London: Heinemann.
+
+== Further reading (on Marshall) ==
+* Bulmer, Martin, and Anthony Rees (eds). 1996. ''Citizenship Today: The Contemporary Relevance of T. H. Marshall''. London: Routledge. 
+* Crowley, John. 1998. "The National Dimension of Citizenship in T.H. Marshall". ''Citizenship Studies'' 2:2: 165–178.
+* Halsey, A. H. 1984. "T. H. Marshall, past and present: 1893-1981". ''Sociology'' 18: 1–18.
+* Giddens, Anthony. 1982. ''Profiles and Critiques of Social Theory''. Berkeley: University of California Press, Ch. 12, "Class Division, Class Conflict and Citizenship Rights."
+* Mead, Lawrence M. 1997. "Citizenship and Social Policy: T. H. Marshall and Poverty". ''Social Philosophy and Policy'' 14(2): 197–230.
+* Møller, Jørgen, and Svend-Erik Skaaning. 2010. "Marshall Revisited: The Sequence of Citizenship Rights in the Twenty-first Century." ''Government and Opposition'' Vol. 45, No. 4: 457–483. 
+* Rees, Anthony. 1995. "The Other T. H. Marshall". ''Journal of Social Policy'' 24(3): 341–362.
+* Revi, Ben. 2014. "T.H. Marshall and his Critics: Reappraising ‘social citizenship’ in the Twenty-first Century". ''Citizenship Studies'' 18:3-4: 452–464.
+
+== External links ==
+*[http://archives.lse.ac.uk/TreeBrowse.aspx?src=CalmView.Catalog&field=RefNo&key=MARSHALL Catalogue of the Marshall papers held at LSE Archives]
+*[https://www.npg.org.uk/collections/search/portrait/mw47555/Thomas-Humphrey-Marshall?LinkID=mp57275&search=sas&sText=thomas+humphrey+marshall&role=sit&rNo=0 Thomas Humphrey Marshall] at the [[National Portrait Gallery, London]]
+
+{{s-start}}
+{{s-npo|pro}}
+{{s-bef|before=[[Georges Friedmann]]}}
+{{s-ttl|title=President of the [[International Sociological Association]]|years=1959–1962}}
+{{s-aft|after=[[René König]]}}
+{{s-bef | before = [[Barbara Wootton, Baroness Wootton of Abinger|Baroness Wootton of Abinger]] }}
+{{s-ttl | title = President of the [[British Sociological Association]]
+| years = 1964–1969}}
+{{s-aft | after = [[Thomas Bottomore]] }}
+{{end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Marshall, T. H.}}
+[[Category:1893 births]]
+[[Category:1981 deaths]]
+[[Category:20th-century English scientists]]
+[[Category:Academics of the London School of Economics]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:English sociologists]]
+[[Category:Fellows of Trinity College, Cambridge]]
+[[Category:People educated at Rugby School]]
+[[Category:Political sociologists]]

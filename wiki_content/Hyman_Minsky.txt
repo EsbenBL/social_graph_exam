@@ -62,6 +62,19 @@ Minsky argued that a key mechanism that pushes an economy towards a crisis is th
 
 The "hedge borrower" can make debt payments (covering interest and principal) from current cash flows from investments. For the "speculative borrower", the cash flow from investments can service the debt, i.e., cover the interest due, but the borrower must regularly roll over, or re-borrow, the principal. The "Ponzi borrower" (named for [[Charles Ponzi]], see also [[Ponzi scheme]]) borrows based on the belief that the appreciation of the value of the asset will be sufficient to refinance the debt but could not make sufficient payments on interest or principal with the cash flow from investments; only the appreciating asset value can keep the Ponzi borrower afloat.
 
+These 3 types of borrowers manifest into a 3 phased system:
+
+Hedge Phase:
+This phase occurs right after a financial crisis and after recovery, during a point at which banks and borrowers are overtly cautious. This causes loans to be minimal ensuring that the borrower can afford to repay both the initial principal and the interest. Thus, the economy is most likely seeking equilibrium and virtually self-containing. This is the “not too hot not too cold” Goldilocks phase of debt accumulation.
+
+Speculative phase:
+After some progression in the Hedge phase, the Speculative period emerges as confidence in the banking system is slowly renewed. As banks continue this observation, they continue this risky process. Rather than issue loans to borrowers that can pay both principal and interest; loans are issued where the borrower can only afford to pay the interest. This begins the decline to instability
+
+Ponzi Phase:
+As confidence continues to grow in the banking system and banks continue to believe that asset prices will continue to rise, the third stage in the cycle, the Ponzi stage, begins.
+In the final stage of the FIH, the borrower can neither afford to pay the principal nor the interest on the loans which are issued by banks leading to foreclosures and vast debt failures.
+
+
 If the use of Ponzi finance is general enough in the financial system, then the inevitable disillusionment of the Ponzi borrower can cause the system to seize up: when the bubble pops, i.e., when the asset prices stop increasing, the speculative borrower can no longer refinance (roll over) the principal even if able to cover interest payments. As with a line of [[dominoes]], collapse of the speculative borrowers can then bring down even hedge borrowers, who are unable to find loans despite the apparent soundness of the underlying investments.<ref name="working_paper" />
 
 ===Application to the subprime mortgage crisis===

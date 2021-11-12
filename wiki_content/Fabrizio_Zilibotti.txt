@@ -10,7 +10,7 @@
 | birth_place      = [[Bologna]], Italy
 | death_date       =
 | death_place      =
-| nationality      = Italy
+| nationality      = Italian
 | institution      = [[Yale University]]
 | field            = [[Macroeconomics]]<br/>[[Political economics]]<br/>[[Economic Growth]]<br/>[[The Economy of China]]
 | alma_mater       = [[London School of Economics]] <small>(Ph.D., 1994; M.Sc., 1991)</small><br/>[[Yale University]] <small>(honorary M.A. privatim, 2018)</small><br/>[[University of Bologna]] <small>(Laurea cum laude, 1989)</small>
@@ -63,12 +63,10 @@ His research interests include economic growth and development, the economic dev
 
 == Research in progress ==
 * {{cite journal |last1=Agostinelli |first1=Francesco |last2=Doepke |first2=Matthias |last3=Sorrenti |first3=Giuseppe |last4=Zilibotti |first4=Fabrizio |title=It Takes a Village: The Economics of Parenting with Neighborhood and Peer Effects |journal=NBER Working Paper 27050 |date=April 2020 |doi=10.3386/w27050 |url=https://www.nber.org/papers/w27050|doi-access=free }}
-
 * {{cite journal |last1=Koenig |first1=Michael |last2=Song |first2=Zheng |last3=Storesletten |first3=Kjetil |last4=Zilibotti |first4=Fabrizio |title=From Imitation to Innovation: Where is all that Chinese R&D Going? |journal=NBER Working Paper 27404 |date=June 2020 |doi=10.3386/w27404 |s2cid=5029509 |url=https://www.nber.org/papers/w27404}}
 
 == Awards ==
 In 2009, Zilibotti received the [[Yrjö Jahnsson Award]] of the [[European Economic Association]] for “greatly [improving] our understanding of how technological innovation affects economic growth at different stages of economic development. He also contributed to the positive analysis of the welfare state, explaining how economic and political forces interact to shape government redistribution.". Zilibotti  shared the prize with [[John van Reenen (economist)|John van Reenen]] of the [[London School of Economics]].
-<br/>
 
 In 2012, Zilibotti received the Sun Yefang Award of the [[Chinese Academy of Social Science]] for his paper Growing like China (with Zheng Song and Kjetil Storesletten)<ref>{{cite web|last1=CASS|title=Sun Yefang Award 2012|url=http://sunyefang.cass.cn/english/show/135.html|access-date=2015-09-26|archive-url=https://web.archive.org/web/20170514160814/http://sunyefang.cass.cn/english/show/135.html|archive-date=2017-05-14|url-status=dead}}</ref>
 
@@ -77,8 +75,6 @@ In 2012, Zilibotti received the Sun Yefang Award of the [[Chinese Academy of Soc
 
 == External links ==
 * [https://campuspress.yale.edu/zilibotti/ Zilibotti webpage]
-
-
 
 {{Yrjö Jahnsson Award recipients}}
 {{Presidents of the European Economic Association}}

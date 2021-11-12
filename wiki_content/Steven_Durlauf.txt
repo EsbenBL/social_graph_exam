@@ -1,0 +1,77 @@
+{{Infobox scientist
+| name = Steven Neil Durlauf
+| native_name = 
+| native_name_lang = 
+| image = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size = 
+| alt = 
+| caption = 
+| birth_date = {{birth date and age |1958|08|12}}
+| birth_place = Encino, California
+| death_date = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place = 
+| resting_place = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names = 
+| residence = 
+| citizenship = 
+| nationality = 
+| fields = [[Economics]], [[Public Policy]]
+| workplaces = [[University of Chicago]]
+| patrons = 
+| alma_mater = [[Harvard University]] (BA) <br>[[Yale University]] (PhD)
+| thesis_title = 
+| thesis_url = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year = 1986
+| doctoral_advisor = [[Peter C. B. Phillips]]
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences = 
+| influenced = 
+| awards = 
+| signature = <!--(filename only)-->
+| signature_alt = 
+| website = <!--{{URL|www.example.com}}-->
+| footnotes = 
+| spouse = <!--(or | spouses = )-->
+| children = 
+| honorific_prefix = 
+| honorific_suffix = 
+| death_cause = 
+| education = 
+| partner = <!--(or | partners = )-->
+}}
+'''Steven Neil Durlauf''' (born August 12, 1958) is an American social scientist and economist. He is currently Steans Professor in Educational Policy at the [[Harris School of Public Policy Studies]] at the [[University of Chicago]]. Durlauf was previously the [[William F. Vilas]] Research Professor and [[Kenneth J. Arrow]] Professor of Economics at the [[University of Wisconsin-Madison]]. As of 2021, is also a Part Time Professor at the [[New Economic School]].
+
+Durlauf's research spans many topics in microeconomics and macroeconomics. His most important substantive contributions involve the areas of poverty, inequality and economic growth. Much of his research has attempted to integrate sociological ideas into economic analysis. His major methodological contributions include both economic theory and econometrics. He helped pioneer the application of statistical mechanics techniques to the modelling of socioeconomic behavior and has also developed identification analyses for the empirical analogs of these models. Other research has focused on the development of techniques for policy evaluation and the construction of an econometrics of cross country income differences. Durlauf is also known as a critic of the use of the concept of social capital by social scientists and has also challenged the ways that agent-based modelling and complexity theory have been employed by social and natural scientists to study socioeconomic phenomena. Finally, Durlauf has written on issues of fairness and justice, developing normative justifications for "associational redistribution" which refers to the idea that policies such as affirmative action should be understood as redistributing various social and economic ties.
+
+==Education==
+Durlauf received his B.A. in Economics from [[Harvard University]] in 1980, and his Ph.D. in Economics from [[Yale University]] in 1986.
+
+==Honors, awards and positions==
+Durlauf was elected a Fellow of the [[American Academy of Arts and Sciences]] in 2011. He is also a Fellow of the [[Econometric Society]], the Society for Economic Measurement, the Society for the Advancement of Economic Theory and the International Association for Applied Econometrics. He is a Research Associate at the [[National Bureau of Economic Research]]. 
+
+Durlauf is a co-director of the Human Capital and Economic Opportunity Global Working group, an international consortium of researchers designed to further understanding of the determinants of human flourishing.  Durlauf is currently Editor of the ''[[Journal of Economic Literature]]''. He previously served as General Editor of the New Palgrave Dictionary of Economics, the world’s most comprehensive compendium of economic knowledge.
+
+==External links==
+*[https://harris.uchicago.edu/directory/steven-durlauf Faculty Homepage]
+
+==References==
+{{Reflist}}
+{{Authority control}}
+
+{{DEFAULTSORT:Durlauf, Steven Neil}}
+[[Category:Living people]]
+[[Category:1958 births]]
+[[Category:21st-century American economists]]
+[[Category:Yale University alumni]]
+[[Category:Economics journal editors]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Harvard University alumni]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Econometricians]]
+[[Category:University of Chicago Booth School of Business faculty]]

@@ -1,0 +1,70 @@
+{{short description|American sociologist}}
+{{Infobox scientist
+| image                   = 
+| caption                 = 
+| name                    = Ronald Stuart Burt
+| birth_name=
+| birth_date              = 1949
+| birth_place=
+| death_date=
+| death_place=
+| citizenship             = [[United States]]
+| nationality             = [[United States]]
+| field                   = [[Mathematical sociology]], [[social network]]s
+| known_for               = [[Structural hole]]s, network models of [[social capital]]
+| work_institutions       = [[University of Chicago]] (1993– )<br> [[Columbia University]] (1982–1993)<br> [[University of California, Berkeley]] (1976–1983)<ref name="CV">{{cite web |url=http://faculty.chicagobooth.edu/ronald.burt/vita/vita.pdf |title=Curricula Vitae |publisher=University of Chicago |access-date=2 September 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130930174313/http://faculty.chicagobooth.edu/ronald.burt/vita/vita.pdf |archive-date=30 September 2013 }}</ref>
+| alma_mater              = [[Johns Hopkins University]] (B.A., 1971) <br> [[University at Albany, SUNY]] (M.S., 1973) <br> [[University of Chicago]] (Ph.D., 1977)
+| prizes                  = Distinguished Scholar of Organizations and Management Theory, [[Academy of Management]] (2007) <br> Fellow, [[American Academy of Arts and Sciences]] (1993) <br> Fellow, [[Center for Advanced Study in the Behavioral Sciences]] (1984)
+|doctoral_advisor = [[James Samuel Coleman]]
+|doctoral_students = 
+}}
+'''Ronald Stuart Burt''' (born 1949) is an American [[sociology|sociologist]] and the Charles M. Harper Leadership Professor of [[Sociology]] and [[Business strategy|Strategy]] at the [[University of Chicago Booth School of Business]].  He is most notable for his research and writing on [[social network]]s and [[social capital]], particularly the concept of [[structural holes]] in a social network.
+
+==Biography==
+Originally a [[pre-medical]] [[Major (academic)|major]], Burt earned his [[Bachelor of Arts|B.A.]] in social and behavioral sciences from [[Johns Hopkins University]] in 1971 with a focus on social psychology. He earned a [[Master of Arts|M.A.]] in Sociology from [[University at Albany, SUNY|The State University of New York at Albany]] in 1973 working with [[Nan Lin]]. He moved to the [[University of Chicago]] to work with [[mathematical sociology]] professor [[James Samuel Coleman]] and earned his Ph.D. in Sociology in 1977.<ref name="Web">{{cite web|url=http://www.chicagobooth.edu/faculty/directory/b/ronald-s-burt |title=Ronald S. Burt |publisher=The University of Chicago Booth School of Business |access-date=2 September 2013}}</ref> His dissertation committee also included the social network analyst [[Edward Laumann]].
+
+Prior to joining the University of Chicago in 1993, he was a professor of sociology at the [[University of California, Berkeley]] and [[Columbia University]]. He is also the former Shell Professor of [[Human Resources]] at [[INSEAD]] and has held various [[organizational development]] positions at [[Raytheon]].
+
+He currently resides in the [[Chicago, Illinois|Chicago]] metropolitan area.
+
+==Research==
+He is the author of several books on sociology, [[organization behavior]] and [[Social network analysis|network analysis]], including ''Structural Holes: The Social Structure of Competition'' ([[Harvard University Press]], 1992) and ''Brokerage and Closure: An Introduction to Social Capital'' ([[Oxford University Press]], 2005)  His research has been published in numerous academic journals, including ''[[Administrative Science Quarterly]]'', ''[[American Journal of Sociology]]'', ''Journal of Organization Behavior'', ''Organization Science'', ''Social Networks'', ''Sociological Inquiry'', and others.
+
+==Publications==
+
+===Books===
+* {{cite book |last=Burt |first=Ronald S. |year=2010 |title=Neighbor Networks: Competitive Advantages Local and Personal |publisher=Oxford University Press |isbn=978-0199691913}}
+*  {{cite book |last=Burt |first=Ronald S. |year=2005 |title=Brokerage and Closure: An Introduction to Social Capital |publisher=Oxford University Press |isbn=978-0199249152}}
+* {{cite book |last=Burt |first=Ronald S. |title=Structural holes: the social structure of competition |year=1992|publisher=Harvard University Press |isbn=978-0-674-84371-4}}
+* {{cite book |editor1-last=Burt |editor1-first=Ronald S. |editor2-last=Minor |editor2-first=Michael J. |title=Applied Network Analysis: A Methodological Introduction |publisher=Sage Publications |isbn=978-0803919075 |year=1983}}
+* {{cite book |last=Burt |first=Ronald S. |year=1982 |title=Toward a Structural Theory of Action: Network Models of Social Structure, Perception, and Action |publisher=Academic Press |isbn=978-0121471507}}
+
+===Highly-cited articles===
+* {{cite journal|last1=Burt|first1=Ronald S.|title=The Contingent Value of Social Capital|journal=Administrative Science Quarterly|volume=42|issue=2|year=1997|pages=339–365|issn=0001-8392|doi=10.2307/2393923|jstor=2393923}}
+* {{cite journal|last1=Burt|first1=Ronald S.|title=The network structure of social capital|journal=Research in Organizational Behavior|volume=22|year=2000|pages=345–423|issn=0191-3085|doi=10.1016/S0191-3085(00)22009-1}}
+* {{cite journal|last1=Burt|first1=Ronald S.|title=Structural Holes and Good Ideas|journal=American Journal of Sociology|volume=110|issue=2|year=2004|pages=349–399|issn=0002-9602|doi=10.1086/421787|citeseerx=10.1.1.388.2251|s2cid=2152743}}
+* {{cite journal|last1=Burt|first1=Ronald S.|title=Social Contagion and Innovation: Cohesion versus Structural Equivalence|journal=American Journal of Sociology|volume=92|issue=6|year=1987|pages=1287–1335|issn=0002-9602|doi=10.1086/228667|s2cid=22380365}}
+* {{cite journal|last1=Burt|first1=R S|title=Models of Network Structure|journal=Annual Review of Sociology|volume=6|issue=1|year=1980|pages=79–141|issn=0360-0572|doi=10.1146/annurev.so.06.080180.000455}}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.chicagobooth.edu/faculty/directory/b/ronald-s-burt University of Chicago homepage]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Burt, Ronald S.}}
+[[Category:1949 births]]
+[[Category:Living people]]
+[[Category:People from Chicago]]
+[[Category:Johns Hopkins University alumni]]
+[[Category:University at Albany, SUNY alumni]]
+[[Category:University of Chicago alumni]]
+[[Category:American sociologists]]
+[[Category:Network scientists]]
+[[Category:University of Chicago faculty]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+
+
+{{US-sociologist-stub}}

@@ -1,0 +1,148 @@
+{{For|the ice hockey coach|Don Norman (ice hockey)}}
+{{Use mdy dates|date=July 2015}}
+
+{{Infobox scientist
+| name = Don Norman
+| image = Donald Norman at AWF05.jpg
+| image_size = 200px
+| caption = Norman in 2005
+| birth_name = Donald Arthur Norman
+| birth_date = {{birth date and age|mf=yes|1935|12|25}}
+| birth_place = 
+| residence = [[United States]]
+| nationality = [[Americans|American]]
+| field = [[Cognitive science]]<br />[[Usability engineering]]
+| work_institutions = [[Northwestern University]]<br />[[University of California, San Diego]]<br />[[Nielsen Norman Group]]<br />[[KAIST|Korea Advanced Institute of Science and Technology]]
+| alma_mater = [[Massachusetts Institute of Technology|MIT]]<br />[[University of Pennsylvania]]
+| known_for = ''[[The Design of Everyday Things]]''<br />[[Cognitive ergonomics]]<br />[[User-centered design]]
+| thesis_title = Sensory Thresholds And Response Biases In Detection Experiments, A Theoretical And Experimental Analysis
+| thesis_year = 1962
+| doctoral_advisor = [[R. Duncan Luce]]
+| doctoral_students = {{plainlist|1=
+*[[Michael I. Jordan]]<br/>[[Naomi Miyake]]<br/>[[Abigail Sellen]]
+}}
+| website = {{URL|jnd.org}}<ref name="jnd" />
+}}
+
+'''Donald Arthur Norman''' (born December 25, 1935)<ref>{{Cite web|url=https://medium.com/@uxpodcast/design-doing-with-don-norman-6434b022831b|title=Design Doing with Don Norman|last1=Royal-Lawson|first1=James|last2=Axbom|first2=Per|date=2016-08-24|website=Medium|publisher=UX Podcast|language=en|access-date=2019-11-14|quote=Per: Born in 1935. James: Yeah, he actually turned 80 around about the same time as we had a Twitter conversation about this interview. Per: Exactly. It was December 25.}}</ref><ref>{{Cite web|url=http://www.isni.org/isni/0000000122839155|title=ISNI 0000000122839155 - Donald A. Norman ( 1935- )|website=International Standard Name Identifier (ISNI)|access-date=2019-11-14}}</ref> is an American researcher, professor, and author. Norman is the director of The Design Lab at [[University of California, San Diego]].<ref name="Robbins, Gary" /> He is best known for his books on design, especially ''[[The Design of Everyday Things]]''. He is widely regarded for his expertise in the fields of [[design]], [[usability engineering]], and [[cognitive science]].<ref name="Robbins, Gary">{{Cite web|url=https://www.sandiegouniontribune.com/news/science/sdut-don-norman-homecoming-2014oct23-story.html|title=Don Norman has designs on your life|last=Robbins|first=Gary|date=2014|website=San Diego Union Tribune|language=en-US|access-date=2019-02-12}}</ref> He is a co-founder and consultant with the [[Nielsen Norman Group]]. He is also an [[IDEO]] fellow and a member of the Board of Trustees of [[IIT Institute of Design]] in Chicago. He also holds the title of [[Professor Emeritus]] of Cognitive Science at the [[University of California, San Diego]]. Norman is an active [[Distinguished Visiting Professor]] at the [[Korea Advanced Institute of Science and Technology]] (KAIST), where he spends two months a year teaching.{{When|date=February 2019}}
+
+Much of Norman's work involves the advocacy of [[user-centered design]].<ref name="Zachry">{{cite journal | last = Zachry | first = Mark | title = An Interview with Donald Norman | journal = Technical Communication Quarterly | volume = 14 | issue = 4 | date = October 2005 | page = 469 | doi = 10.1207/s15427625tcq1404_5| s2cid = 142989547 }}</ref> His books all have the underlying purpose of furthering the field of design, from doors to computers. Norman has taken a controversial stance in saying that the [[design research]] community has had little impact in the innovation of products, and that while academics can help in refining existing products, it is technologists that accomplish the breakthroughs.<ref>{{ cite web | last = Norman | first = Donald | title = Technology First, Needs Last | url = http://jnd.org/dn.mss/technology_first_needs_last.html | access-date = January 26, 2010 }}</ref> To this end, Norman named his website with the initialism ''[[Just-noticeable difference|JND]]'' (just-noticeable difference) to signify his endeavors to make a difference.<ref name="jnd">{{cite web |url= http://www.jnd.org/about.html#jnd |title= What does ''jnd.org'' mean? |website= Just-Noticeable Difference |access-date= April 20, 2018 |archive-url= https://web.archive.org/web/20140616113957/http://www.jnd.org/about.html#jnd |archive-date= June 16, 2014 |url-status= dead }}</ref>
+
+== Early academics ==
+In 1957, Norman received a [[Bachelor of Science|B.S.]] degree in [[electrical engineering]] from [[Massachusetts Institute of Technology]] (MIT).<ref name=":1">{{Cite web|url=https://www.fi.edu/laureates/donald-norman|title=Donald Norman|date=2014-01-15|website=The Franklin Institute|language=en|access-date=2019-11-13}}</ref> Norman received an [[Master of Science|M.S.]] degree in electrical engineering from the University of Pennsylvania.<ref name=":2">{{Cite web|url=https://fabbs.org/our_scientists/donald-norman-phd/|title=In Honor Of… Donald Norman|website=Federation of Associations in Behavioral & Brain Sciences (FABBS)|language=en|access-date=2019-11-13}}</ref> He received a [[Doctor of Philosophy|PhD]] in [[psychology]] from the [[University of Pennsylvania]].<ref name=":2" /> He was one of the earliest graduates from the [[Mathematical psychology|Mathematical Psychology]] group at University of Pennsylvania and his advisor was [[R. Duncan Luce|Duncan Luce]].<ref name=":2" />
+
+After graduating, Norman took up a postdoctoral fellowship at the Center for Cognitive Studies at [[Harvard University]]<ref>{{Cite web|url=https://uxmastery.com/transcript-chat-don-norman/|title=Transcript: A Chat with Don Norman|date=2017|website=UX Mastery|access-date=2019-11-13}}</ref><ref>{{Cite book|url=https://books.google.com/books?id=3S1XAgAAQBAJ|title=The Open Mind: Cold War Politics and the Sciences of Human Nature|last=Cohen-Cole|first=Jamie|publisher=University of Chicago Press|year=2014|isbn=9780226092331|pages=176, 183|via=Google Books}}</ref> and within a year became a lecturer.
+
+After four years with the Center, Norman took a position as an associate professor in the Psychology Department at [[University of California, San Diego]] (UCSD). Norman applied his training as an engineer and computer scientist, and as an experimental and mathematical psychologist, to the emerging discipline of [[cognitive science]]. Norman eventually became founding chair of the Department of Cognitive Science and chair of the Department of Psychology.
+
+At UCSD, Norman was a founder of the Institute for Cognitive Science and one of the organizers of the [[Cognitive Science Society]] (along with [[Roger Schank]], [[Allan M. Collins|Allan Collins]], and others), which held its first meeting at the UCSD campus in 1979.<ref name="cv">{{cite web|url=http://jnd.org/docs/Don_Norman_Academic_Vita.pdf|title=Donald Norman Curriculum Vitae|last=Norman|first=Donald|url-status=dead|archive-url=https://web.archive.org/web/20100203032311/http://www.jnd.org/docs/Don_Norman_Academic_Vita.pdf|archive-date=February 3, 2010|access-date=January 26, 2010}}</ref>{{Primary source inline|date=November 2019}}
+
+Together with psychologist [[Tim Shallice]], Norman proposed a framework of attentional control of executive functioning.{{When|date=November 2019}} One of the components of the Norman-Shallice model is the [[supervisory attentional system]].<ref name="1a">{{cite book | last = Friedenberg | first = Jay | author2 = Gordon Silverman | title = Cognitive Science: An Introduction of the Study of Mind | year = 2010 | publisher = SAGE Publications | location = United St ates of America | isbn = 978-1-4129-7761-6 | pages = 180–182}}</ref>
+
+== Cognitive engineering career ==
+Norman made the transition from cognitive science to [[cognitive engineering]] by entering the field as a consultant and writer. His article "The truth about Unix: ''The user interface is horrid''"<ref>{{cite news | last1 = Norman | first1 = Don | title = The truth about Unix: The user interface is horrid | volume = 27 | url = http://www.bradleymonk.com/File:The_truth_about_Unix_Don_Norman.pdf | work = Datamation | issue = 12 | date = 1981}}</ref> in ''[[Datamation]]'' (1981) catapulted him to a position of prominence in the computer world.{{Citation needed|date=November 2015}} Soon after, his career took off outside of academia, although he still remained active at UCSD until 1993. Norman continued his work to further [[human-centered design]] by serving on numerous university and government advisory boards such as the [[Defense Advanced Research Projects Agency]] (DARPA). He currently serves on numerous committees and advisory boards like at Motorola, the [[Toyota National College of Technology]], [[TED Conference]], [[Panasonic]], ''[[Encyclopædia Britannica]]'' and many more.
+
+Norman was also part of a select team flown in to investigate the 1979 [[Three Mile Island accident|Three Mile Island nuclear accident]].<ref>{{Cite news|url=http://www.mindflowdesign.com/insights/user-centric-design-the-lessons-of-3-mile-island/|title=User-Centric Design - The Lessons of 3 Mile Island|date=2014-08-06|work=Mindflow Design|access-date=2018-04-14|language=en-US}}</ref>
+
+In 1993, Norman left UCSD to join [[Apple Computer]], initially as an Apple Fellow as a User Experience Architect (the first use of the phrase "[[User Experience]]" in a job title<ref>{{cite web|last1=Lialina|first1=Olia|title=Rich User Experience, UX and Desktopization of War|url=http://contemporary-home-computing.org/RUE/|website=contemporary-home-computing.org|access-date=25 September 2016}}</ref><ref>{{cite web|last1=Merholz|first1=Peter|title=Peter in Conversation with Don Norman About UX & Innovation|url=http://adaptivepath.org/ideas/e000862/|website=Adaptative Path|access-date=25 September 2016}}</ref>{{Citation needed|date=January 2016}}), and then as the Vice President of the [[Apple Advanced Technology Group|Advanced Technology Group]]. He later worked for [[Hewlett-Packard]] before joining with [[Jakob Nielsen (usability consultant)|Jakob Nielsen]] to form the [[Nielsen Norman Group]] in 1998. He returned to academia as a professor of [[computer science]] at [[Northwestern University]], where he was co-director of the [[Segal Design Institute]] until 2010. In 2014, he returned to UCSD to become director of the newly established The Design Lab housed at the [[California Institute for Telecommunications and Information Technology]]. <ref>{{Cite web|url=http://www.sandiegouniontribune.com/news/2014/oct/23/don-norman-homecoming/|title=Don Norman has designs on your life|website=The San Diego Union-Tribune|access-date=2016-05-21}}</ref>
+
+== Awards and honors ==
+Norman has received many awards for his work. He received two [[honorary degree]]s, one "S. V. della laurea ad honorem" in Psychology from the [[University of Padua]] in 1995 and one doctorate in Industrial Design and Engineering from [[Delft University of Technology]].<ref>{{Cite web|url=https://www.unipd.it/en/university/history/honorary-degrees|title=Honorary Degrees|website=Università di Padova|access-date=2019-11-14|quote=01/03/1995 - Honorary degree to Donald A. Norman in "Psychology"}}</ref><ref name=":2" /> In 2001, he was inducted as a [[Fellow]] of the [[Association for Computing Machinery]] (ACM) and won the Rigo Award from [[SIGDOC]], the Association for Computing Machinery's Special Interest Group (SIG) on the Design of Communication (DOC).<ref>{{Cite web|url=http://sigdoc.acm.org/awards/rigo-award/|title=Rigo Award|website=Special Interest Group on Design of Communication|language=en|access-date=2019-11-14}}</ref> In 2006, he received the [[The Franklin Institute Awards|Benjamin Franklin Medal]] in Computer and Cognitive Science.<ref name=":1" /> In 2009, Norman was elected an Honorary Fellow of the [[Design Research Society]]. In 2011 Norman was elected a member of the [[National Academy of Engineering]] for the development of design principles based on human cognition that enhance the interaction between people and technology.{{cn|date=July 2021}}
+
+== Nielsen Norman Group ==
+{{Main|Nielsen Norman Group}}
+Norman, alongside colleague [[Jakob Nielsen (usability consultant)|Jakob Nielsen]], formed the Nielsen Norman Group (NN/g) in 1998.<ref name=":0">{{Cite web|url=https://theblog.adobe.com/where-did-the-term-user-experience-come-from/|title=Where Did the Term "User Experience" Come From?|date=2017-08-28|website=Adobe Blog|language=en-US|access-date=2019-11-13|quote=In 1998, he formed the Nielsen Norman Group alongside Jakob Nielsen, another pioneer of usability methods that remain widely used today, including the 10 Usability Heuristics.}}</ref> The company's vision is to help designers and other companies move toward more human-centered products and internet interactions, and are pioneers in the field of [[usability]].<ref name=":0" />
+
+== User-centered design ==
+In 1986, Norman introduced the term "user-centered design" in the book ''User Centered System Design: New Perspectives on Human-computer Interaction''<ref name=":3">{{Cite book|title=User centered system design : new perspectives on human-computer interaction|date=1986|publisher=L. Erlbaum Associates|others=Norman, Donald A., Draper, Stephen W.|isbn=0-89859-781-1|location=Hillsdale, N.J.|oclc=12665902}}</ref>'','' a book edited by him and by Stephen W. Draper. In the introduction of the book, the idea that designers should aim their efforts at the people who will use the system is introduced:<blockquote>People are so adaptable that they are capable of shouldering the entire burden of accommodation to an artifact, but skillful designers make large parts of this burden vanish by adapting the artifact to the users.<ref name=":3" /></blockquote>In his book ''[[The Design of Everyday Things]]'', Norman uses the term "user-centered design" to describe design based on the needs of the user, leaving aside what he deems secondary considerations, such as [[aesthetics]]. User-centered design involves simplifying the structure of tasks, making things visible, getting the mapping right, exploiting the powers of constraint, designing for error, explaining [[affordance]]s and the [[seven stages of action]].{{Citation needed|date=April 2019}}
+
+In his book ''The Things that Make Us Smart: Defending the Human Attribute in the Age of the Machine'',<ref>{{cite book|url=https://www.amazon.com/exec/obidos/ISBN%3D0201626950/donnormanA/104-2013751-2967137|title=Things That Make us Smart: Defending Human Attributes in the Age of the Machine|last1=Norman|first1=Don|date=1993|publisher=Pursues Book Group}}</ref>{{Better source needed|date=April 2019}} Norman uses the term "cognitive artifacts" to describe "those artificial devices that maintain, display, or operate upon information in order to serve a representational function and that affect human cognitive performance".{{Citation needed|date=April 2019}} Similar to his ''The Design of Everyday Things'' book, Norman argues for the development of machines that fit our minds, rather than have our minds be conformed to the machine.
+
+On the Revised Edition of ''The Design of Everyday Things,'' Norman backtracks on his previous claims about aesthetics and removed the term User-Centered Design altogether. In the preface of the book, he says :<blockquote>The first edition of the book focused upon making products understandable and usable. The total experience of a product covers much more than its usability: aesthetics, pleasure, and fun play critically important roles. There was no discussion of pleasure, enjoyment and emotion, Emotion is so important that I wrote an entire book, [[Emotional Design]], about the role it plays in design.<ref>{{Cite book|title=The design of everyday things|last=Norman, Donald A.|isbn=9780465050659|edition= Revised and expanded |location=New York, New York|oclc=849801329|date = November 5, 2013}}</ref></blockquote>He instead currently uses the term human-centered design and defines it as: "an approach that puts human needs, capabilities, and behavior first, then designs to accommodate those needs, capabilities, and ways of behaving."{{Citation needed|date=April 2019}}
+
+== Bibliography ==
+He is on numerous educational, private, and public sector advisory boards, including the editorial board of ''[[Encyclopædia Britannica]]''. Norman published several important books during his time at UCSD, one of which, ''User Centered System Design'', obliquely referred to the university in the initials of its title. This is a list of select publications.
+
+=== Psychology books ===
+*{{Cite book|title=Learning and Memory|last=Norman|first=Donald A.|publisher=W H Freeman & Co.|year=1983|isbn=0716713004}}
+*{{Cite book|url=https://archive.org/details/humaninformation0000lind|url-access=registration|title=Human information processing: an introduction to psychology|last1=Lindsay|first1=Peter H.|last2=Norman|first2=Donald A.|publisher=Academic Press|year=1972}}<ref>{{cite journal|last1=Oden|first1=Gregg C.|last2=Lopes|first2=Lola L.|year=1997|title=Human Information Processing: An Introduction to Psychology by Peter H. Lindsay, Donald A. Norman|journal=The American Journal of Psychology|volume=110|issue=4|pages=635–641|doi=10.2307/1423414|jstor=1423414}}</ref>
+*{{Cite book|title=Memory and Attention: An Introduction to Human Information Processing|last=Norman|first=Donald A.|publisher=John Wiley & Sons Inc|year=1976|isbn=0471651370|edition= 2|series=Series in Psychology}}
+*{{Cite book|title=Memory and Attention: An Introduction to Human Information Processing|last=Norman|first=Donald A.|publisher=John Wiley & Sons Inc|year=1969|isbn=0471651311}}
+
+=== Usability books ===
+*{{Cite book|title=The Design of Everyday Things|last=Norman|first=Don|publisher=Basic Books|year=2013|isbn=9780465050659|series=Revised and expanded}}
+*{{Cite book|title=Living with Complexity|last=Norman|first=Donald A.|publisher=MIT Press|year=2010|isbn=978-0262014861|location=Cambridge, Mass.}}
+*{{Cite book|title=The Design of Future Things|last=Norman|first=Donald A.|publisher=Basic Books|year=2007|isbn=978-0465002276}}
+*{{Cite book|title=Emotional Design: Why We Love (or Hate) Everyday Things|last=Norman|first=Donald A.|publisher=Basic Books|year=2005|isbn=0465051367}}
+*{{Cite book|title=The Invisible Computer: Why Good Products Can Fail, the Personal Computer Is So Complex, and Information Appliances Are the Solution|last=Norman|first=Donald A.|publisher=MIT Press|year=1998|isbn=9780262140652|location=Cambridge, Mass.}}
+*{{Cite book|title=Turn Signals Are The Facial Expressions Of Automobiles|last=Norman|first=Donald A.|publisher=Basic Books|year=1993|isbn=9780201622362}}
+*{{Cite book|title=Things That Make Us Smart: Defending Human Attributes In The Age Of The Machine|last=Norman|first=Donald A.|publisher=Basic Books|year=1993|isbn=0201626950|series=William Patrick Book}}
+*{{Cite book|title=The Psychology of Everyday Things|last=Norman|first=Donald A.|publisher=Basic Books|year=1988|isbn=0465067093|edition= 1}}
+
+=== Other publications ===
+*''Direct manipulation interfaces'' (1985) about [[direct manipulation interface]]s in collaboration with E. L. Hutchins (first author) and J.D. Hollan
+*''User Centered System Design: New Perspectives on Human-Computer Interaction'' (1986) (editor in collaboration with Stephen Draper)
+*{{Cite AV media|title=Defending Human Attributes in the Age of the Machine|date=1994|last=Norman|first=Donald A.|type=[[CD-ROM]] for Mac|language=en|publisher=[[Voyager Company]]|asin=B000CIQ42I}} Combining his books, ''Design of Everyday Things'', ''Turn Signals Are the Facial Expressions of Automobiles'', ''Things That Make Us Smart'', with various technical reports.
+
+== See also ==
+* [[Cognitive engineering]]
+* [[Executive system]]
+* [[Human action cycle]]
+* [[Human-computer interaction]]
+* [[Human-centered design]]
+* [[User-centered design]]
+* [[Interaction design]]
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Commons category|Donald Norman}}
+{{Wikiquote}}
+*{{Official website|http://jnd.org/}}
+*{{TED speaker}}
+* [https://web.archive.org/web/20050418233410/http://www.interaction-design.org/references/authors/donald_a_norman.html Publications by Donald Norman] from Interaction-Design.org
+* [http://www.usabilityviews.com/userati_don_norman.html Donald Norman at Userati]
+* Video: [https://www.fi.edu/laureates/donald-norman Franklin Institute Award on Donald Norman] from April 2006 by the [[Franklin Institute]]
+*Video: {{YouTube|wQmwEjL6K1U|Lecture by Donald Norman on "The Design of Future Things" (at Stanford University, February 2007)}}
+*Video: [https://www.youtube.com/watch?v=flRuSn0df8Q Living With Complexity], April 2011 talk at Stanford University
+* [https://web.archive.org/web/20140222013504/http://vorkspace.com/blog/index.php/eternal-record-evening-don-norman/ An evening of UX Hacking with Don Norman at Stanford" (Stanford University, December 17, 2013)]
+
+{{S-start}}
+{{S-ach|aw}}
+{{Succession box
+| before = [[Barbara Mirel]]
+| title = [[Association for Computing Machinery|ACM]] [[SIGDOC]] Rigo Award
+| after = [[Stephen Doheny-Farina]]
+| years = 2001
+}}
+{{Succession box
+| before = [[Aravind Joshi]]
+| title = Benjamin Franklin Medal in Computer and Cognitive Science
+| after = [[Stuart Card]]
+| years = 2006
+}}
+{{S-end}}
+
+{{Donald Norman}}
+{{Ambient intelligence}}
+{{Authority control}}
+
+{{DEFAULTSORT:Norman, Donald}}
+[[Category:1935 births]]
+[[Category:Living people]]
+[[Category:Apple Inc. employees]]
+[[Category:Apple Fellows]]
+[[Category:Cognitive scientists]]
+[[Category:MIT School of Engineering alumni]]
+[[Category:University of Pennsylvania School of Engineering and Applied Science alumni]]
+[[Category:Harvard University faculty]]
+[[Category:University of California, San Diego faculty]]
+[[Category:Northwestern University faculty]]
+[[Category:American computer scientists]]
+[[Category:Fellows of the Association for Computing Machinery]]
+[[Category:Human–computer interaction researchers]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:Design researchers]]
+[[Category:Fellows of the Cognitive Science Society]]
+[[Category:Center for Advanced Study in the Behavioral Sciences fellows]]

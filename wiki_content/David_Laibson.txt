@@ -1,5 +1,5 @@
-{{Use mdy dates|date=August 2019}}
 {{Distinguish|David Laidler}}
+{{Use mdy dates|date=August 2019}}
 {{Infobox economist
 | name             = David Laibson
 | school_tradition =
@@ -11,7 +11,7 @@
 | birth_place      =
 | death_date       =
 | death_place      =
-| nationality      = United States
+| nationality      = American
 | institution      = [[Harvard University]]
 | field            = [[Macroeconomics]]<br>[[Behavioral economics]]
 | alma_mater       = [[Harvard University]] ([[Bachelor of Arts|AB]])<br>[[London School of Economics]] ([[Master of Science|MSc]])<br>[[Massachusetts Institute of Technology]] ([[Doctor of Philosophy|PhD]])

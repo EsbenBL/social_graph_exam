@@ -1,0 +1,78 @@
+{{Short description|Economist}}
+{{BLP sources|date=November 2013}}
+{{Infobox economist
+| name             = Stephen E. Morris
+| school_tradition = Neoclassical economics
+
+| image       =
+| image_size       =
+| caption    =
+| birth_date       = {{Birth date and age|1963|10|19}}
+| birth_place      =
+| death_date       = 
+| death_place      = 
+| nationality      = [[United States|American]]
+| institution      = [[Massachusetts Institute of Technology]]
+| field            = [[Economic theory]], [[Game theory]]
+| alma_mater       = [[Cambridge University]] and [[Yale University]]
+| doctoral_advisor = [[John Geanakoplos]]<br>[[Truman Bewley]]
+| doctoral_students = 
+| influences       =
+| influenced       =
+| contributions    = [[global games]]
+| awards           =
+| signature        = <!-- file name only -->
+| repec_prefix =e   | repec_id =pmo9
+}}
+
+'''Stephen Edward Morris''' is an [[Economic theory|economic theorist]] and [[Game theory|game theorist]] especially known for his research in the field of [[global games]]. Since July 2019, he has been Professor of Economics at the [[Massachusetts Institute of Technology]]. Prior to that he taught at [[Princeton University|Princeton]], [[Yale University|Yale]], and the [[University of Pennsylvania]]. He was the editor of [[Econometrica]] for the period 2007–2011, and in 2019 served as president of the [[Econometric Society]].
+
+== Biography ==
+Morris's father was the senior UK diplomat [[Willie Morris (diplomat)|Sir Willie Morris]], who served as the UK's Ambassador to several countries. His mother was Ghislaine Morris.<ref>"Sir Willie Morris, a Diplomat." New York Times, April 19, 1982, https://www.nytimes.com/1982/04/19/obituaries/sir-willie-morris-a-diplomat.html</ref>
+
+Morris obtained a [[Bachelor of Arts|B.A.]] in [[Mathematics]] and [[Economics]] at [[Cambridge University]] in 1985 and a [[Ph.D.]] in Economics at [[Yale University]] in 1991. He became an [[Assistant Professor]] at [[University of Pennsylvania]] in 1991 and an Associate Professor in 1996. In 1998 he moved to Yale as a full professor. In 2005 he became the [[Irving Fisher]] Professor of Economics at Yale. He moved to Princeton University in 2005, where he became the Alexander Stewart 1886 Professor of Economics in 2007. Since 2019, he is the Peter A. Diamond Professor in Economics of Economics at the [[Massachusetts Institute of Technology]].
+
+Morris is the founding editor of the [[Berkeley Electronic Press|BEPress]] Journals of Theoretical Economics and the editor of Econometrica for the period 2007–2011.
+
+Morris is a Fellow of the [[Econometric Society]] since 2002 and was elected a member of the [[American Academy of Arts and Sciences]] in 2005. He held the [[John Simon Guggenheim Fellowship]] for 2005–2006, and was the President of the Econometric Society in 2019.<ref>{{cite web|url=http://www.econometricsociety.org/society/organization-and-governance/executive-committee/past-presidents |title=Past Presidents |publisher=Econometric Society |access-date=20 January 2021 }}</ref>
+In 2021, he was elected member of the U. S. [[National Academy of Sciences]].<ref>{{Cite web|url=http://www.nasonline.org/news-and-multimedia/news/2021-nas-election.html|title=News from the National Academy of Sciences|date=April 26, 2021|access-date=July 5, 2021|quote=Newly elected members and their affiliations at the time of election are: … Morris, Stephen; Peter A. Diamond Professor in Economics, department of economics, Massachusetts Institute of Technology, Cambridge}}, entry in member directory:{{Cite web|url=http://www.nasonline.org/member-directory/members/20051930.html|title=Member Directory|access-date=July 5, 2021|publisher=National Academy of Sciences}}</ref>
+
+== Research contribution ==
+Global coordination games belong to a subfield of [[game theory]] which gained momentum with the article by Morris and Shin (1998). Stephen Morris and [[Hyun Song Shin]] considered a stylized [[currency crises]] model, in which traders observe the relevant fundamentals with small noise, and show that this leads to the selection of a unique equilibrium. This result is in stark contrast with models of [[complete information]], which feature multiple equilibria.
+
+Morris has also made important contributions to the theory of [[mechanism design]]. In his work with Dirk Bergemann on robust mechanism design they relaxed common knowledge assumptions which were prevalent in the early mechanism design literature. By formulating the mechanism design problem more precisely, they showed that simple mechanisms arise endogeneously. This provided a theoretical justification for the relatively simple auction design employed in practice, when compared to the complexity of optimal auctions suggested by the early literature.
+
+==References==
+{{Reflist}}
+
+== Sources ==
+* Stephen Morris and Hyun Song Shin (1998), "Unique Equilibrium in a Model of Self-Fulfilling Currency Attacks," ''[[American Economic Review]]'', 88 (3): 587–97.
+* Dirk Bergemann and Stephen Morris (2005), "Robust Mechanism Design," ''[[Econometrica]]'', 73 (6): 1771–1813
+
+== External links ==
+* [https://www.princeton.edu/~smorris/ Webpage at Princeton]
+* [https://www.princeton.edu/~smorris/cv Curriculum Vitae]
+* {{MathGenealogy |id=108532 |name=Stephen E. Morris }}
+
+{{Neoclassical economists}}
+{{Presidents of the Econometric Society}}
+{{Authority control}}
+
+{{DEFAULTSORT:Morris, Stephen}}
+[[Category:New classical economists]]
+[[Category:Game theorists]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Yale University alumni]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:University of Pennsylvania faculty]]
+[[Category:Yale University faculty]]
+[[Category:Princeton University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Living people]]
+[[Category:Economics journal editors]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]
+[[Category:1963 births]]

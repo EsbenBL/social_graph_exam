@@ -1,0 +1,121 @@
+{{Other people|John McCulloch}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox economist
+|school_tradition = [[Classical economics]]
+|image       = John Ramsay McCulloch by Sir Daniel Macnee detail.jpg
+|caption     = John Ramsay McCulloch by [[Daniel Macnee]]
+|birth_date  = {{Birth date|df=yes|1789|3|1}}
+|birth_place = [[Whithorn]], Wigtownshire
+|death_date  = {{Death date and age|df=yes|1864|11|11|1789|3|1}}
+|death_place = London
+|field   = [[Political economy]]
+|nationality = Scottish
+|influences = [[Adam Smith]], [[David Ricardo]]
+|influenced =
+|contributions =
+}}
+
+'''John Ramsay McCulloch''' (1 March 1789 – 11 November 1864) was a Scottish economist, author and editor, widely regarded as the leader of the [[Ricardian economics|Ricardian]] school of economists after the death of [[David Ricardo]] in 1823. He was appointed the first professor of [[political economy]] at [[University College London]] in 1828.  He wrote extensively on [[economic policy]], and was a pioneer in the collection, [[statistical analysis]] and publication of [[economic data]].
+
+McCulloch was a co-founder, and one of the first editors, of ''[[The Scotsman]]'' newspaper, and worked on the ''[[Edinburgh Review]]''. He edited the 1828 edition of ''[[The Wealth of Nations]]''.<ref>{{cite web|url=http://www.scottish-places.info/people/famousfirst1612.html |title=John Ramsay McCulloch|publisher=[[Gazetteer for Scotland]]|access-date=13 May 2010}}</ref>
+
+==Career==
+McCulloch attended the [[University of Edinburgh]], but did not graduate.<ref>{{cite book|editor=Goring, Rosemary|title=Chambers Scottish Biographical Dictionary|year=1992|publisher=Chambers|location=Edinburgh}}</ref>
+
+McCulloch collected the early literature of [[political economy]], and wrote on the [[Economic methodology|scope and method of economics]] and the [[history of economic thought]].{{sfnp|McCulloch1824}}<ref>J. R. McCulloch, ''Early English Tracts on Commerce.'' London: Political Economy Club (1856); Cambridge [Eng.] University Press, 1954.</ref> After his death his library was purchased by [[Samuel Jones-Loyd, 1st Baron Overstone|Lord Overstone]] and eventually presented to the [[University of Reading]].  He was a participant in the [[Political Economy Club]], London, founded by [[James Mill]]<ref>{{cite web|url=http://cepa.newschool.edu/het/profiles/jamesmill.htm |title="James Mill, 1773–1836", ''New School'' |access-date=2009-04-04 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20080403090755/http://cepa.newschool.edu/het/profiles/jamesmill.htm |archive-date= 3 April 2008 }}</ref> and a circle of friends in 1821 for an ongoing discussion of the fundamental principles of political economy.
+
+McCulloch's works include a textbook, ''Principles of Political Economy'' (Edinburgh 1825). He worked on subsequent editions until his death.  This book contains a memorable discussion of the origins of [[Profit (economics)|profit]] or [[interest]] in the case of a cask of new wine.
+
+:"Suppose that a cask of new wine, which cost £50, is put into a cellar, and that, at the end of twelve months, it is worth £55, the question is: Should the £5 of additional value, given to the wine, be considered as a compensation for the time the £50 worth of capital has been locked up, or should it be considered as the value of additional labour actually laid out in the wine?"
+
+This question is still used in discussions of the [[labour theory of value]] and related issues. McCulloch used it to illustrate that "time cannot of itself produce effect; it merely affords space for really efficient causes to operate, and it is therefore clear it can have nothing to do with value."  Reflecting on discussions in the Political Economy Club, Ricardo had privately expressed his famous opinion about the "non-existence of any measure of absolute value."<ref>Ricardo to Malthus, 15 August 1823. Quoted by Halevy, ''The Growth of Philosophic Radicalism,'' Beacon Press, (1955) p. 352.</ref>
+
+McCulloch died in 1864, and is buried in [[Brompton Cemetery]], London.
+
+== Criticism ==
+McCulloch's theoretical work received harsh criticism from [[Eugen von Böhm-Bawerk]] in the latter's ''History and Critique of Interest Theories'' (1884).
+
+:"But probably no member of the English school has been so unhappy in his treatment of the subject or done the theory of interest such a disservice as McCulloch,"
+
+wrote Böhm-Bawerk.
+
+:"He hovers about the fringes of a number of divergent opinions. He penetrates just far enough into each to become involved in glaring self-contradictions, but he does not expand any one of them sufficiently to form a theory that even approaches consistency."
+
+The labour theory of value is an exception, in that McCulloch seems more insistent about it than about any of the contradictory hypotheses he entertained, Böhm-Bawerk conceded, but the form of that theory McCulloch endorsed was "the most absurd that could possibly occur to a serious thinker."
+
+On the subject of the wine cask, Böhm-Bawerk wrote that there was an "enormous difference between what he was supposed to prove and what he did prove."  Although such examples may prove that the mere passage of time is not enough of a change to produce an increase of value, that hardly helps the labour theory of value.  The physical changes in the wine are produced by the microbes involved in the [[fermentation (food)|fermentation]] process, and the change in [[exchange value]] involves the public's subjective preference for wine over grape juice, and old wine over new.
+
+==Works==
+[[File:McCulloch - Early english tracts on commerce, 1954 - 5889040.tif|thumb|''Early english tracts on commerce'', 1954]]
+* ''An Essay on a Reduction of the Interest of the National Debt'', 1816.
+* "On Ricardo's Principles of Political Economy and Taxation", 1818, ''Edinburgh Review''
+* "Taxation and the Corn Laws", 1820, ''Edinburgh Review''
+* "The Opinions of Messrs. Say, Sismondi and Malthus, on Effects of Machinery and Accumulation", 1821, ''Edinburgh Review''
+* "On Combination Laws, Restraints on Emigration, &c.", 1824, ''Edinburgh Review''
+* "Political Economy", 1824, ''Encyclopædia Britannica''.
+* "French Law of Succession", 1824, ''Edinburgh Review''.
+* {{cite book| last = McCulloch | date = 1824
+| title = A Discourse of the Rise, Progress, Peculiar Objects, and Importance, of Political Economy: containing an Outline of a Course of Lectures on the Principles and Doctrines of that Science
+| location = Edinburgh, London, Liverpool
+| publisher = Archibald Constable & Co, Hurst, Robinson & Co, G. & J. Robinson
+| oclc = 309905804}}<ref name=disc1824MC>''Discourse'' 1824: [http://socserv2.socsci.mcmaster.ca/~econ/ugcm/3ll3/mcculloch/DiscoursePoliticalEconomy.pdf  pdf] at McMaster</ref><ref name=disc1824IA>{{IA|adiscourseonris00mccugoog|name=''Discourse'' 1824}}
+</ref> 2nd ed. 1825. {{OCLC|7391021}}<ref name=disc1825IA>{{IA|adiscourseonris01mccugoog|''Discourse'' 2nd. ed. 1825}}; {{IA|discourseonrisep00mccurich|id.}}</ref>
+* ''The Principles of Political Economy, with a sketch of the rise and progress of the science''. 1825.<ref>[https://archive.org/details/principlespolit01mccugoog ''The Principles of Political Economy'' (1825)] in Google books</ref>
+* ''An Essay on the Circumstances which Determine the Rate of Wages and the Condition of the Working Classes'', 1826.
+* "On Commercial Revulsions", 1826, ''Edinburgh Review''
+* "Abolition of the Corn Laws", 1826, ''Edinburgh Review''
+* "On Poor Laws", 1828, ''Edinburgh Review''
+* "Rise, Progress, Present State, and Prospects of the British Cotton Manufacture", 1827, ''Edinburgh Review''.
+* "Introduction" to ''An Inquiry into the Nature and Causes of the Wealth of Nations'' by Adam Smith, (ed. J.R. McCulloch), 1828.
+* "Jones on the Theory of Rent", ''Edinburgh Review'', 1831.
+* ''Principles, Practice and History of Commerce'', 1831.
+* "Chalmers on Political Economy", 1832, ''Edinburgh Review''.
+* ''A Dictionary, Practical, Theoretical and Historical of Commerce and Commercial Navigation'', 1832.
+* ''A Descriptive and Statistical Account of the British Empire, exhibiting its extent, physical capacities, population, industry, and civil and religious institutions''. 2 volumes, 1837
+* ''Statements Illustrative of the Policy and Probable Consequence of the Proposed Repeal of the Existing Corn Law'', 1841.
+* ''The Literature of Political Economy'', 1845.
+* ''The Works of David Ricardo, Esq. with a notice of the life and writings of the author'' (ed. J.R. McCulloch), 1846.
+* ''A Treatise on the Succession to Property Vacant by Death'', 1848.
+* ''A Treatise on Metallic and Paper Money and Banks'', 1858
+* ''Treatises and Essays'', 1859.
+* ''A Treatise on the Principles and Practical Influence of Taxation and the Funding System'', 1863.
+
+==References==
+
+===Notes===
+<references />
+
+===Sources===
+{{Wikisource author}}
+* Denis P. O'Brien, ''J. R. McCulloch, A Study in Classical Economics,'' George Allen & Unwin (1970). {{ISBN|0-04-330158-4}}.
+* ''Collected works of J R McCulloch, with introductions by Denis O'Brien.'' 8 volumes. Routledge/Thoemmes Press (1995). {{ISBN|978-0415113526}}.
+
+==External links==
+{{Wikiquote}}
+* {{Commons category-inline|John Ramsay McCulloch}}
+* {{Wikiquote-inline}}
+* {{webarchive |url=https://web.archive.org/web/20090226044812/http://cepa.newschool.edu/het/profiles/mcculloch.htm |date=26 February 2009 |title=New School: John Ramsay McCulloch }}
+* [http://www.1902encyclopedia.com/M/MCC/john-ramsay-mcculloch.html 1902 Encyclopædia Britannica: John Ramsay McCulloch]
+
+{{Classical economists}}
+{{History of economic thought}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mcculloch, John Ramsay}}
+[[Category:1789 births]]
+[[Category:1864 deaths]]
+[[Category:19th-century Scottish people]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Academics of University College London]]
+[[Category:Burials at Brompton Cemetery]]
+[[Category:Historians of economic thought]]
+[[Category:People from Dumfries and Galloway]]
+[[Category:Scottish economists]]
+
+[[Category:Classical economists]]
+[[Category:Scottish newspaper editors]]
+[[Category:Scottish non-fiction writers]]
+[[Category:Scottish historians]]
+[[Category:The Scotsman founders]]

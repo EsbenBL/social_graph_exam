@@ -1,0 +1,77 @@
+{{Infobox scientist
+|name              = Duncan Watts
+| image             =Duncan Watts.jpg
+| caption           = Watts presenting at iCitizen 2008
+|birth_date        = {{Birth date and age|1971|02|20}}<ref name="wattsphd">{{cite thesis |degree=PhD |first=Duncan James|last=Watts |title=The structure and dynamics of small-world systems |publisher=Cornell University |date=1997 |author-link=Duncan J. Watts|id={{ProQuest|304342043}}}}</ref>
+|birth_place       = [[Guelph]], [[Ontario]]<ref name="wattsphd"/>
+|death_date        =
+|death_place       =
+|citizenship       = 
+|nationality       = [[Australia]]
+|ethnicity         = 
+|field             = [[Sociology]], [[network science]] 
+|work_institutions = [[Columbia University]]<br />[[Microsoft Research]]<br />[[Santa Fe Institute]]<br>[[Yahoo! Research]]<br>[[Nuffield College, Oxford]]<ref name="Everything is Obvious 2018">{{cite web | title=Everything is Obvious | website=Everything is Obvious | date=2018-04-23 | url=http://everythingisobvious.com/the-author | access-date=2018-07-08}}</ref>
+|alma_mater        = [[University of New South Wales]]<br />[[Cornell University]] (PhD)
+|doctoral_advisor  = [[Steven Strogatz]]<ref name="mathgene">{{MathGenealogy|id=39534}}</ref>
+|doctoral_students = 
+| thesis_title = The structure and dynamics of small-world systems
+| thesis_year = 1997
+| thesis_url = http://search.proquest.com/docview/304342043 
+|known_for         = [[Watts and Strogatz model]]<br>[[Six Degrees: The Science of a Connected Age]]<ref name="Watts2003"/>
+|influences        = 
+|influenced        = 
+|awards =[[Fellows of the Network Science Society|Fellow of the Network Science Society]] (NetSci), 2018.
+|prizes            = 
+|religion          = 
+|footnotes         = 
+| website = {{URL|https://www.asc.upenn.edu/people/faculty/duncan-j-watts-phd}}
+}}
+
+'''Duncan James Watts''' (born February 20, 1971) is a [[sociologist]] and a Professor at the University of Pennsylvania.<ref>{{Cite web|url=https://www.asc.upenn.edu/people/faculty/duncan-watts-phd|title=Duncan Watts, Ph.D. {{!}} Annenberg School for Communication|website=www.asc.upenn.edu|access-date=2019-11-30}}</ref> He was formerly a [[Principal investigator|principal researcher]] at [[Microsoft Research]] in [[New York City]], and is known for his work on [[small-world network]]s.<ref>{{Cite journal | last1 = Watts | first1 = D. J. | title = Networks, Dynamics, and the Small‐World Phenomenon | doi = 10.1086/210318 | journal = American Journal of Sociology | volume = 105 | issue = 2 | pages = 493–527 | year = 1999 | citeseerx = 10.1.1.78.4413 | s2cid = 16479399 }}</ref><ref>{{Cite journal | last1 = Watts | first1 = D. J. | last2 = Dodds | first2 = P. S. | last3 = Newman | first3 = M. E. | doi = 10.1126/science.1070120 | title = Identity and Search in Social Networks | journal = Science | volume = 296 | issue = 5571 | pages = 1302–1305 | year = 2002 | pmid =  12016312|arxiv = cond-mat/0205383 |bibcode = 2002Sci...296.1302W | s2cid = 466762 }}</ref><ref>{{Cite journal | last1 = Watts | first1 = D. J. | title = A simple model of global cascades on random networks | doi = 10.1073/pnas.082090499 | journal = Proceedings of the National Academy of Sciences | volume = 99 | issue = 9 | pages = 5766–5771| year = 2002 | pmid =  16578874| pmc = 122850|bibcode = 2002PNAS...99.5766W | doi-access = free }}</ref><ref>{{Cite journal | last1 = Dodds | first1 = P. S. | last2 = Muhamad | first2 = R. | last3 = Watts | first3 = D. J. | doi = 10.1126/science.1081058 | title = An Experimental Study of Search in Global Social Networks | journal = Science | volume = 301 | issue = 5634 | pages = 827–829 | year = 2003 | pmid =  12907800|bibcode = 2003Sci...301..827D | citeseerx = 10.1.1.222.4643 | s2cid = 11504171 | url = http://www.distcomp.ethz.ch/lectures/fs10/seminar/paper/michael-6.pdf }}</ref><ref>{{Cite journal | last1 = Watts | first1 = D. J. | doi = 10.1146/annurev.soc.30.020404.104342 | title = The "New" Science of Networks | journal = Annual Review of Sociology | volume = 30 | pages = 243–270 | year = 2004 | url = https://zenodo.org/record/894392 }}</ref><ref>{{Cite journal | last1 = Dodds | first1 = P. | last2 = Watts | first2 = D. | doi = 10.1103/PhysRevLett.92.218701 | title = Universal Behavior in a Generalized Model of Contagion | journal = Physical Review Letters | volume = 92 | issue = 21 | pages = 218701 | year = 2004 | pmid =  15245323|arxiv = cond-mat/0403699 |bibcode = 2004PhRvL..92u8701D | s2cid = 2450776 }}</ref><ref>{{Cite journal | last1 = Watts | first1 = D. J. | title = Multiscale, resurgent epidemics in a hierarchical metapopulation model | doi = 10.1073/pnas.0501226102 | journal = Proceedings of the National Academy of Sciences | volume = 102 | issue = 32 | pages = 11157–11162 | year = 2005 | pmid =  16055564| pmc = 1183543|bibcode = 2005PNAS..10211157W | doi-access = free }}</ref><ref name="scopus">{{Scopus|id=7201539502}}</ref><ref>{{cite news
+|author     = Clive Thompson
+|title      = Is the Tipping Point Toast?
+|url        = http://www.fastcompany.com/magazine/122/is-the-tipping-point-toast.html
+|work       = [[Fast Company (magazine)|Fast Company]]
+|date       = February 2008
+|access-date = 2008-02-25 
+}}</ref>
+
+==Education==
+Watts received a [[Bachelor of Science]] degree in physics from the [[University of New South Wales]] and a [[Ph.D.]] from [[Cornell University]], where his advisor was [[Steven Strogatz]].<ref name="wattsphd"/>
+
+==Career==
+Watts joined the faculty of the University of Pennsylvania in July 2019 as a PIK Professor.  He has joint appointments in Engineering, Communications and Business.
+
+Watts was past external faculty member of the [[Santa Fe Institute]] and a former professor of [[sociology]] at [[Columbia University]], where he headed the Collective Dynamics Group.<ref>[http://cdg.columbia.edu/ CDG Collective Dynamics Group] {{webarchive|url=https://web.archive.org/web/20050402022840/http://cdg.columbia.edu/ |date=2005-04-02 }}</ref> He is also author of two books. His first, ''[[Six Degrees: The Science of a Connected Age]]''<ref name=Watts2003>{{cite book
+ | author = Watts, Duncan
+ | year = 2003
+ | title = Six Degrees: The Science of a Connected Age
+ | publisher = W. W. Norton & Company
+ | isbn = 978-0-393-04142-2
+ | url = https://archive.org/details/sixdegrees00dunc
+ }}</ref> is based on the six degrees research in his 1998 paper with [[Steven Strogatz]], in which the two presented a mathematical theory of the [[small world phenomenon]].<ref name=Watts1998>{{Cite journal | last1 = Watts | first1 = D. J. | author-link1 = Duncan J. Watts | last2 = Strogatz | first2 = S. H. | author-link2 = Steven Strogatz | title = Collective dynamics of 'small-world' networks | journal = Nature | volume = 393 | issue = 6684 | pages = 440–442 | doi = 10.1038/30918 | year = 1998 | url = http://labs.yahoo.com/files/w_s_NATURE_0.pdf | pmid = 9623998 | bibcode = 1998Natur.393..440W | s2cid = 4429113 }}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> His second book, ''Everything is Obvious *Once You Know the Answer: How Common Sense Fails Us,''<ref name="obvious">{{cite book|url=https://archive.org/details/everythingisobvi00watt_0|title=Everything Is Obvious: *Once You Know the Answer: How Common Sense Fails Us|author=Watts, Duncan|publisher=Crown Business|year=2011|isbn=978-0-385-53168-9|location=New York}}</ref> explains common errors people make when making decisions especially for groups or organizations, and suggests alternative methods using research and data. He also presents some of his research from Yahoo and Microsoft, and comments on the work of some popular nonfiction writers like [[Malcolm Gladwell]].
+
+Until April 2012, he was a principal research scientist at [[Yahoo! Research]], where he directed the Human Social Dynamics group.<ref name="Herald Sun">{{cite web | author=AllThingsDigital | title=Aussie social-network researcher exits Yahoo | website=[[Herald Sun]] | date=2012-04-29 | url=https://www.heraldsun.com.au/news/breaking-news/australian-social-network-researcher-duncan-watts-leaves-yahoo/news-story/a465dd3687ef2e5d04b46980f8d1b6ae | access-date=2018-07-08}}</ref> Watts joined [[Microsoft Research]] in New York City by its opening on May 3, 2012.<ref name="theatlanticcities">Floridia, Richard. [http://www.theatlanticcities.com/jobs-and-economy/2012/05/why-microsoft-chose-new-york-city/1933/ "Why Microsoft Chose New York City"], ''The Atlantic: Cities'', 2 May 2012. Retrieved on 8 May 2012.</ref><ref>Knies, Rob. [http://research.microsoft.com/en-us/news/features/msrnyc-050212.aspx "Microsoft Research Microsoft Research Debuts N.Y.C. Lab"], ''[[Microsoft Research]]'', 7 May 2012. Retrieved on 8 May 2012.</ref>
+
+Watts describes his research as exploring the "role that network structure plays in determining or constraining system behavior, focusing on a few broad problem areas in social science such as information contagion, [[financial risk management]], and organizational design."<ref>[http://research.yahoo.com/Duncan_Watts Home page of Duncan  Watts at Yahoo Research] {{webarchive|url=https://web.archive.org/web/20091128141431/http://research.yahoo.com/Duncan_Watts |date=2009-11-28 }}</ref>   More recently he has attracted attention for his modern-day replication of [[Stanley Milgram]]'s [[small world experiment]] using email messages and for his studies of popularity and fads in on-line and other communities.
+
+In Watts's early career, from 2002 to 2007, he was a frequent collaborator of [[Peter Sheridan Dodds]], now at the University of Vermont's Vermont Complex Systems Center.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://research.microsoft.com/en-us/people/duncan/ Duncan Watts page at Microsoft]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Watts, Duncan J.}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:Australian physicists]]
+[[Category:Australian sociologists]]
+[[Category:Columbia University faculty]]
+[[Category:Complex systems scientists]]
+[[Category:Cornell University alumni]]
+[[Category:University of New South Wales alumni]]
+[[Category:Network scientists]]

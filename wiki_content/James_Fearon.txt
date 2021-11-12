@@ -1,0 +1,31 @@
+{{for|the Australian-Chinese businessman|James Fearon (businessman)}}
+{{For|the British stage actor|James Fearon (actor)}}
+'''James D. Fearon''' (born {{abbr|c.|circa}} 1963) is the Theodore and Francis Geballe Professor of Political Science at [[Stanford University]]; he is known for his work on the theory of [[civil war]]s, international bargaining, [[war's inefficiency puzzle]], [[audience cost]]s, and [[Constructivism (ethnic politics)|ethnic constructivism]]. According to a 2011 survey of International Relations scholars, Fearon is among the most influential International Relations scholars of the last twenty years.<ref>{{Cite web|url=https://www.wm.edu/offices/itpir/_documents/trip/trip_around_the_world_2011.pdf|title=TRIP AROUND THE WORLD: Teaching, Research, and Policy Views of International Relations Faculty in 20 Countries}}</ref> His 1995 article "Rationalist Explanations for War" is the most assigned journal article in International Relations graduate training at U.S. universities.<ref>{{Cite journal|last=Colgan|first=Jeff D.|date=2016-09-01|title=Where Is International Relations Going? Evidence from Graduate Training|url=https://academic.oup.com/isq/article/60/3/486/2469867|journal=International Studies Quarterly|language=en|volume=60|issue=3|pages=486–498|doi=10.1093/isq/sqv017|issn=0020-8833}}</ref>
+
+Fearon's work on wars emphasizes the need to explain why rationally-led states end up fighting a war instead of bargaining, even though bargaining can make both sides better off ''a priori''. He also elaborates on how democracies are better able to signal intent in war based on domestic audience costs. Fearon has also contributed to the study of [[deliberative democracy]].<ref>{{cite book|author=[[Jon Elster|Elster, Jon]] (editor)|year=1998|title=Deliberative Democracy (Cambridge Studies in the Theory of Democracy)|publisher=[[Cambridge University Press]]|chapter=(see intro by Jon Elster and chpt 2 by Fearon)|isbn=978-0-521-59696-1|ref=CITEREFElster1998}}</ref> Fearon has three basic assumptions about war. First, war is a more costly choice than peace. Second, war is predictably unpredictable. In other words, although neither side may be sure exactly who will win, they can agree on the relatively likelihood each will win. And third, there are no direct benefits from fighting; Fearon calls these pieces [[war's inefficiency puzzle]]. Fearon contends that anarchy by itself cannot explain why rational actors cannot bargain. He offers three explanations for why bargaining breakdowns, and war, occur. First, actors in an anarchic system may suffer from a credible commitment problem, in which there are incentives for either party to renege on their end of an agreement. Second, states may have private information and incentives to misrepresent said information during the bargaining stage. Third, bargaining may be rendered impossible because of what Fearon dubs "issue indivisibility," in which a particular issue in question cannot be divided.<ref>{{Cite journal|last=Fearon|first=James|title=Rationalist Explanations for War|journal=International Organization|volume=379-414|issue=3|pages=379–414|doi=10.1017/s0020818300033324|year=1995}}</ref> 
+
+Fearon was identified by [[constructivism (international relations)|constructivist]] scholar [[Marc Lynch]] as the "leading [[rationalism (international relations)|rationalist]]" in [[international relations theory]] and credited him with resolving (along with constructivist [[Alexander Wendt]]) much of the [[rationalist–constructivist debate|theoretical debate]] between the two camps.<ref>{{cite web|url=http://abuaardvark.typepad.com/abuaardvark/2005/07/ir_constructivi.html|title=Abu Aardvark: IR: Constructivism v Rationalism|last=Lynch|first=Marc|date=July 25, 2007|work=Abu Aardvark|access-date=10 November 2013}}</ref> His 2003 study with David Laitin is considered the "most influential" in modern research on civil war.<ref>{{Cite journal|last1=Cederman|first1=Lars-Erik|last2=Vogt|first2=Manuel|date=2017-07-26|title=Dynamics and Logics of Civil War|journal=Journal of Conflict Resolution|volume=61|issue=9|pages=1992–2016|doi=10.1177/0022002717721385|s2cid=149212588|issn=0022-0027|url=http://discovery.ucl.ac.uk/10040601/}}</ref>
+
+Fearon has a PhD from [[UC Berkeley]] and a BA from [[Harvard University]]. At Berkeley, Kenneth Waltz was Fearon's dissertation advisor.<ref>{{Cite journal|last1=Waltz|first1=Kenneth|last2=Fearon|first2=James|date=2012-06-15|title=A Conversation with Kenneth Waltz|journal=Annual Review of Political Science|language=en|volume=15|issue=1|pages=1–12|doi=10.1146/annurev-polisci-020511-174136|issn=1094-2939|doi-access=free}}</ref><ref>{{Cite web|date=2013-12-16|title=Interview - James Fearon|url=https://www.e-ir.info/2013/12/16/interview-james-fearon/|access-date=2021-06-06|website=E-International Relations|language=en-US}}</ref> He is a [[National Academy of Sciences|NAS]] member since 2012.<ref>https://news.stanford.edu/news/2012/may/nas-new-members-050312.html</ref>
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*[http://fsi.stanford.edu/people/james_d_fearon James Fearon's faculty page]
+*[http://www.theory-talks.org/2008/09/theory-talk-18.html Interview with James Fearon by Theory Talks]
+
+{{Recipients of the Karl Deutsch Award (International Studies Association)}}
+{{Authority control}}
+{{DEFAULTSORT:Fearon, James D.}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:American political scientists]]
+[[Category:Scholars of nationalism]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Harvard University alumni]]
+[[Category:Stanford University Department of Political Science faculty]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Stanford University Freeman Spogli Institute faculty]]
+
+{{polisci-bio-stub}}

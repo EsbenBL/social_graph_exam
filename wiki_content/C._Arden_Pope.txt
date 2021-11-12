@@ -1,0 +1,73 @@
+{{Infobox person
+| name          = C. Arden Pope III
+| image         = Cardenpope uvu.jpg
+| alt           =
+| caption       = Pope, speaking at [[Utah Valley University]], September 18, 2008.
+| birth_date    = <!-- {{Birth date and age|YYYY|MM|DD}} or {{Birth-date and age|birth date†}} for living people supply only the year unless the exact date is already widely published, as per [[WP:DOB]] -->
+| birth_place   =
+| death_date    = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} or {{Death-date and age|death date†|birth date†}} -->
+| death_place   =
+| nationality   = American
+| other_names   =
+| occupation    = Professor
+| years_active  =
+| known_for     = Studies on the health effects of air pollution
+| notable_works = ''Respiratory hospital admissions associated with PM10 pollution in Utah, Salt Lake, and Cache Valleys (1991)'', ''An Association between Air Pollution and Mortality in Six U.S. Cities (1993)'', ''Particulate air pollution as a predictor of mortality in a prospective study of U.S. adults (1995)''.
+| title = Mary Lou Fulton Professor of Economics
+| alma_mater = [[Iowa State University]] (PhD, MS) <br/>[[Brigham Young University]] (BS)
+| employer = Brigham Young University
+}}
+
+'''C. Arden Pope III''' (born c. 1954) is an [[United States|American]] professor of [[economics]] at [[Brigham Young University]] and one of the world's foremost experts<ref>{{cite web|url=http://news.nationalgeographic.com/news/2013/11/131108-lung-cancer-childhood-china-pollution-eight-year-old-girl/|title=A Chinese Child's Lung Cancer Is Linked to Pollution|work=National Geographic|date=10 November 2013|last=Brink|first=Susan|quote=We talked with C. Arden Pope, economics professor at Brigham Young University in Provo, Utah. His research into the effects of air pollution on human health and mortality has been instrumental in establishing federal air quality regulations.}}</ref><ref>{{cite web|url=https://www.nytimes.com/2015/05/31/opinion/sunday/holding-your-breath-in-india.html?_r=0|title=Holding Your Breath in India|work=New York Times|date=29 May 2015|last=Harris|first=Gardiner|quote=C. Arden Pope III, a professor of economics at Brigham Young University and a leading expert on the health consequences of air pollution...}}</ref><ref>{{cite web|url=http://www.timeoutbeijing.com/features/Sports__Fitness-Mind__Body/15375/Is-Beijing-air-as-bad-as-you-think.html|title=Is Beijing air as bad as you think?|work=Time Out Beijing|date=7 May 2014|quote=...Dr C Arden Pope III, one of the world's top environmental science experts...}}</ref> in [[environmental science]]. He received his B.S. from Brigham Young University (BYU) in 1978 and his [[Doctor of Philosophy|Ph.D]]. in economics and [[statistics]] from [[Iowa State University]] in 1981. Although his research includes many papers on topics in the fields in which he was trained—[[environmental economics]], [[resource economics]], and [[agricultural economics]]—he is better known for his cross-disciplinary work in [[environmental epidemiology]] and [[public health]]. He is world-renowned for his seminal work on the effects of [[particulate]] [[air pollution]] on [[wikt:mortality|mortality]] and health. His articles have helped establish the connection between air pollution and health problems, including [[cancer]], [[cardiovascular]], and [[pulmonary disease]]. These research findings have influenced [[environmental policy]] in the United States and Europe, contributing to the establishment of [[emission standard]]s for [[Atmospheric particulate matter|particulate matter]] pollution.
+
+==Air pollution research==
+
+Early in Pope's career he published a paper that made him an academic cornerstone of environmental science and policy called "Respiratory hospital admissions associated with PM10 pollution in Utah, Salt Lake, and Cache Valleys".<ref name="pope91">{{cite journal|doi=10.1080/00039896.1991.9937434 |last=Pope |first=C. A. |title=Respiratory hospital admissions associated with PM10 pollution in Utah, Salt Lake, and Cache Valleys |journal=Archives of Environmental Health |year=1991 |volume=46 |issue=2 |pages=90–97 |pmid=2006899}}</ref> In [[Utah Valley]], the [[Geneva Steel]] Mill generated large quantities of [[particulates|particulate matter]], a byproduct of [[fossil fuel]] consumption. The mill was shut down temporarily. Pope compiled hospital admissions data for the time before, during, and after the temporary closing of the mill and was the first to convincingly show the immediate health harms associated with atmospheric particulate matter.<ref>C.A. Pope, 1989. "Respiratory Disease Associated with Community Air Pollution and a Steel Mill, Utah Valley". ''American Journal of Public Health'', May 1989, Vol. 79, No. 5, 623–628</ref> [[Asthma]], mortality, and [[respiratory]] admissions generally were twice as high while the plant was operating than the year in which it was closed. [[Utah]] made a particularly suitable [[natural experiment]] as the various valleys included in the study trap pollution in the winter months when [[Inversion (meteorology)|temperature inversions]] stifle the escape of pollution. His abstract states:
+
+{{cquote|This study assessed the association between respiratory hospital admissions and PM10 pollution in Utah, Salt Lake, and Cache valleys during April 1985 through March 1989. Utah and Salt Lake valleys had high levels of PM10 pollution that violated both the annual and 24-h standards issued by the Environmental Protection Agency (EPA). Much lower PM10 levels occurred in the Cache Valley. Utah Valley experienced the intermittent operation of its primary source of PM10 pollution: an integrated steel mill. Bronchitis and asthma admissions for preschool-age children were approximately twice as frequent in Utah Valley when the steel mill was operating versus when it was not. Similar differences were not observed in Salt Lake or Cache valleys. Even though Cache Valley had higher smoking rates and lower temperatures in winter than did Utah Valley, per capita bronchitis and asthma admissions for all ages were approximately twice as high in Utah Valley. During the period when the steel mill was closed, differences in per capita admissions between Utah and Cache valleys narrowed considerably. Regression analysis also demonstrated a statistical association between respiratory hospital admissions and PM10 pollution. The results suggest that PM10 pollution plays a role in the incidence and severity of respiratory disease.|20px||C. Arden Pope<ref name="pope91"/>}}
+
+Pope came under hostile political pressure and his findings became a firestorm of controversy.<ref>{{cite news |last1=Cushman, Jr. |first1=John H. |title=Utah Mill Lies at Heart of Fight for Air Pollution Limits |url=https://www.nytimes.com/1997/01/21/us/utah-mill-lies-at-heart-of-fight-for-air-pollution-limits.html |access-date=19 August 2021 |work=The New York Times |date=21 January 1997}}</ref><ref>{{cite book |last1=Phalen |first1=Robert |title=The Particulate Air Pollution Controversy A Case Study and Lessons Learned |date=2007 |publisher=Springer |isbn=9780306482083}}</ref> Intense scrutiny revealed that his results were accurate.
+
+===Six Cities and American Cancer Society studies===
+
+Pope worked with [[Douglas Dockery]] of Harvard University on a 16-year scientific study of air pollution in six major cities in the United States, which published its findings in 1993.<ref>{{cite journal|last1=Dockery|first1=Douglas W.|last2=Pope|first2=C. Arden|last3=Xu|first3=Xiping|last4=Spengler|first4=John D.|last5=Ware|first5=James H.|last6=Fay|first6=Martha E.|last7=Ferris|first7=Benjamin G.|last8=Speizer|first8=Frank E.|title=An Association between Air Pollution and Mortality in Six U.S. Cities|journal=New England Journal of Medicine|date=9 December 1993|volume=329|issue=24|pages=1753–1759|doi=10.1056/NEJM199312093292401|pmid=8179653}}</ref> Known as the [[Harvard Six Cities study]], it proved to be a milestone in establishing the human health effects associated with long-term exposure to fine particulate pollution, and remains one of the most highly citied studies of air pollution ever published.<ref>{{cite web | url=http://harvardmagazine.com/2005/05/clearing-the-air.html | title=Clearing the Air | work=Harvard Magazine | date=May 2005 | accessdate=15 October 2015 | author=Shaw, Jonathan}}</ref> Like Pope's Utah Valley research, the Six Cities study proved intensely controversial.<ref>{{cite web |last1=Grant |first1=Elaine |title=Prevailing winds |url=https://www.hsph.harvard.edu/news/magazine/f12-six-cities-environmental-health-air-pollution/ |publisher=Harvard T.H. Chan School of Public Health |access-date=21 August 2021 |date=Fall 2012}}</ref><ref>{{cite journal |last1=Kaiser |first1=Jocelyn |title=Showdown over clean air science |journal=Science |date=25 July 1997 |volume=277 |issue=5325 |pages=466-469 |url=https://www.jstor.org/stable/2892518}}</ref> The study's conclusions were affirmed in 2000 after a three-year-long independent analysis carried out by the Health Effects Institute.<ref>{{cite book |last1=Krewski |first1=Daniel |title=Reanalysis of the Harvard Six Cities Study and the American Cancer Society Study of Particulate Air Pollution and Mortality |date=July 2000 |publisher=Health Effects Institute |location=Cambridge, MA. |url=https://www.healtheffects.org/system/files/Reanalysis-ExecSumm.pdf |access-date=21 August 2021}}</ref> They have also been supported by numerous follow-up studies.<ref>{{cite journal |last1=Pope |first1=C. Arden |last2=Dockery |first2=Douglas W. |title=Health Effects of Fine Particulate Air Pollution: Lines that Connect |journal=J Air & Waste Manage Assoc |date=2006 |volume=56 |pages=709-742 |doi=10.1080/10473289.2006.10464485 |pmid=16805397 |url=https://pubmed.ncbi.nlm.nih.gov/16805397/ |access-date=19 August 2021}}</ref>
+
+Pope and Dockery also collaborated on a long-term study of the effects of air pollution on over half a million people from 151 urban areas, which published its first results in 1995. Informally known as the American Cancer Society study, it found that long-term exposure to particulates was linked to cardiopulmonary and lung cancer mortality.<ref>{{cite journal |last1=Pope |first1=C. Arden |last2=Thun |first2=M.J. |last3=Namboodiri |first3=M.M. |last4=Dockery |first4=D.W. |last5=Evans |first5=J.S. |last6=Speizer |first6=F.E. |last7=Heath, Jr. |first7=C.W. |title=Particulate air pollution as a predictor of mortality in a prospective study of U.S. adults |journal=Am J Respir Crit Care Med |date=March 1995 |pages=669-74 |doi=10.1164/ajrccm/151.3_Pt_1.669 |pmid=7881654 |url=https://pubmed.ncbi.nlm.nih.gov/7881654/}}</ref>
+
+== Awards ==
+In 2004 Pope was awarded the [[Utah Governor's Medal in Science and Technology]].<ref>{{Cite web|title=C. Arden Pope III|url=https://economics.byu.edu/directory/c-arden-pope-iii|access-date=2021-06-02|website=Economics}}</ref>
+
+In 2006 Pope was recognized as BYU's distinguished faculty, receiving the [[Karl G. Maeser]] award.<ref>{{Cite web|url=https://news.byu.edu/news/byu-honors-outstanding-faculty-staff-annual-university-conference |title=BYU honors outstanding faculty, staff at Annual University Conference |date=2006-08-25}}</ref>
+
+==See also==
+* [[Air quality in Utah]]
+
+==References==
+{{Reflist}}
+
+===Sources===
+* {{cite journal|last=Smart |first=Michael D. |title=Clearing the Air |journal=BYU Magazine |date=Spring 2007 |url=http://magazine.byu.edu/?act=view&a=1990 |accessdate=2007-05-22}}
+
+===Bibliography===
+* {{cite journal|last=Dockery |first=Douglas W. |author2=C. Arden Pope |author3=Xiping Xu |author4=John D. Spengler |author5=James H. Ware |author6=Martha E. Fay |author7=Benjamin G. Ferris |author8=Frank E. Speizer |title=An Association between Air Pollution and Mortality in Six U.S. Cities |journal=[[New England Journal of Medicine|The New England Journal of Medicine]] |volume=329 |issue=24 |pages=1753–1759 |date=December 9, 1993 |url=https://content.nejm.org/cgi/content/abstract/329/24/1753 |pmid=8179653 |accessdate=2008-02-21 |doi=10.1056/NEJM199312093292401}}
+* {{cite journal|last=Pope |first=C. Arden, III |author2=Richard T. Burnett |author3=Michael J. Thun |author4=Eugenia E. Calle |author5=Daniel Krewski |author6=Kazuhiko Ito |author7=George D. Thurston |title=Lung Cancer, Cardiopulmonary Mortality, and Long-term Exposure to Fine Particulate Air Pollution |journal=[[Journal of the American Medical Association]] |volume=287 |issue=9 |pages=1132–1141 |date=March 6, 2002 |doi=10.1001/jama.287.9.1132 |pmid=11879110 |pmc=4037163}}
+* {{cite journal|last=Dockery |first=D. W. |author2=C. A. Pope |title=Acute Respiratory Effects of Particulate Air Pollution |journal=[[Annual Review of Public Health]] |volume=15 |pages=107–132 |date=May 1994 |doi=10.1146/annurev.pu.15.050194.000543 | doi-access=free |pmid=8054077}}
+
+==External links==
+* [https://web.archive.org/web/20130708183346/https://economics.byu.edu/Pages/Faculty/C-Arden-Pope.aspx Faculty page at Brigham Young University]
+* [https://economics.byu.edu/SiteAssets/Pages/Faculty/C-Arden-Pope/A_Pope_VITA_2013_without%20pres.pdf CV]{{dead link|date=August 2018}}
+* [https://web.archive.org/web/20110520041609/http://video.google.com/videoplay?docid=3665914907157343039 Video of 2007 presentation to a local environmental group, Sevier Citizens for Clean Air and Water, in Richfield, Utah]
+* [https://web.archive.org/web/20110716101121/http://www.noaca.org/pmhealtheffects.pdf Evidence Review of Particulate Matter Effects]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pope, C. Arden}}
+[[Category:1950s births]]
+[[Category:Living people]]
+[[Category:Brigham Young University alumni]]
+[[Category:Iowa State University alumni]]
+[[Category:Brigham Young University faculty]]
+[[Category:American Latter Day Saints]]
+[[Category:21st-century American economists]]
+[[Category:American epidemiologists]]
+[[Category:Health economists]]

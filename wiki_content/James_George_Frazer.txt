@@ -1,0 +1,207 @@
+{{Redirect|James Frazer|others with the same or a similar name|James Fraser (disambiguation)}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+
+{{Infobox scientist
+|name              = Sir James George Frazer
+|honorific_suffix  = {{postnominals|country=GBR|OM|FRS|FRSE|FBA|size=100}}
+|image             = JamesGeorgeFrazer.jpg
+|caption           = Sir James George Frazer in 1933
+|birth_date        = {{Birth date|df=yes|1854|1|1}} 
+|birth_place       = [[Glasgow]], Scotland
+|death_date        = {{death date and age|df=yes|1941|5|7|1854|1|1}} 
+|death_place       = [[Cambridge]], England
+|residence         = 
+|field             = [[Social anthropologist]]
+|work_institutions = {{ubl | [[Trinity College, Cambridge]] | [[University of Liverpool]]}}
+|alma_mater        = {{ubl | [[University of Glasgow]] (MA 1874)| [[Trinity College, Cambridge]]}}
+|doctoral_advisor  = 
+|doctoral_students = 
+|known_for         = Research in [[mythology]] and [[comparative religion]]
+|author_abbrev_bot =|author_abbrev_zoo = 
+|influences        = {{hlist | [[Andrew Lang]] | [[Plato]] | [[Edward Burnett Tylor]] | [[Hermann Oldenberg]]}}
+|influenced        = {{hlist | [[Jack Goody]] | [[Ross Nichols]] | [[Bronisław Malinowski]] | [[Aleister Crowley]]<ref>{{Cite book | last = Josephson-Storm | first = Jason | title = The Myth of Disenchantment: Magic, Modernity, and the Birth of the Human Sciences | publisher = University of Chicago Press | date = 2017 | chapter = Chapter 6: The Revival of Magick: Aleister Crowley|url = https://books.google.com/books?id=xZ5yDgAAQBAJ | isbn = 978-0-226-40336-6 }}</ref> | [[T. S. Eliot]]}}
+|prizes            = [[Order of Merit]]<br>[[Fellow of the Royal Society]]<ref name="frs">{{Cite journal | last1 = Fleure | first1 = H. J. | author-link = Herbert John Fleure| title = James George Frazer. 1854-1941 | doi = 10.1098/rsbm.1941.0041 | journal = [[Obituary Notices of Fellows of the Royal Society]] | volume = 3 | issue = 10 | pages = 896–914| year = 1941 | s2cid = 161719297 }}</ref>
+|signature         =
+}}
+{{Anthropology of religion}}
+
+'''Sir James George Frazer''' {{post-nominals|country=GBR|OM|FRS|FRSE|FBA}}<ref name="frs"/> ({{IPAc-en|ˈ|f|r|eɪ|z|ər}}; 1 January 1854 – 7 May 1941) was a Scottish [[social anthropologist]] and [[folklore studies|folklorist]]<ref>Josephson-Storm (2017), Chapter 5.</ref> influential in the early stages of the modern studies of [[mythology]] and [[comparative religion]].<ref>Mary Beard, "Frazer, Leach, and Virgil: The Popularity (and Unpopularity) of the Golden Bough," ''Comparative Studies in Society and History'', '''34'''.2 (April 1992:203–224).</ref> 
+
+==Personal life==
+
+He was born on 1 January 1854 in [[Glasgow]], Scotland, the son of Katherine Brown and Daniel F. Frazer, a chemist.<ref name="RSE">{{cite book|title=Biographical Index of Former Fellows of the Royal Society of Edinburgh 1783–2002|date=July 2006|publisher=The Royal Society of Edinburgh|isbn=0-902-198-84-X|url=https://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp1.pdf}}</ref>
+
+Frazer attended school at Springfield Academy and [[Larchfield Academy]] in [[Helensburgh]].<ref>Jaques Waardenburg. 1999. ''Classical Approaches to the Study of Religion. Aims, Methods and Theories of Research,'' Volume I: ''Introduction and Anthology'', p244. New York : Walter de Gruyter. {{ISBN|3-11-016328-4}}</ref> He studied at the [[University of Glasgow]] and [[Trinity College, Cambridge]], where he graduated with honours in [[classics]] (his dissertation was published years later as ''The Growth of [[Plato]]'s Ideal Theory'') and remained a Classics Fellow all his life.<ref>{{acad|id=FRSR874JG|name=Frazer, James George}}</ref> From Trinity, he went on to study law at the [[Middle Temple]], but never practised.
+
+Four times elected to Trinity's Title Alpha Fellowship, he was associated with the college for most of his life, except for a year, 1907–1908, spent at the [[University of Liverpool]]. He was knighted in 1914, and a [[Frazer Lecture|public lectureship]] in social anthropology at the universities of Cambridge, Oxford, Glasgow and Liverpool was established in his honour in 1921.<ref>[https://archive.org/stream/addresstosirjame00slsn#page/n1/mode/2up Address to Sir James George Frazer on the occasion of the foundation, in his honour, of the Frazer Lectureship in Social Anthropology in the Universities of Oxford, Cambridge, Glasgow and Liverpool (1920)].</ref> He was, if not blind, then severely visually impaired from 1930 on. He and his wife, Lilly, died in [[Cambridge]], England, within a few hours of each other.{{citation needed|date=March 2019}} He died on 7 May 1941.<ref name="RSE"/> They are buried at the [[Ascension Parish Burial Ground, Cambridge|Ascension Parish Burial Ground]] in Cambridge.
+
+His sister Isabella Katherine Frazer married the mathematician [[John Steggall]].<ref>{{cite book|title=Biographical Index of Former Fellows of the Royal Society of Edinburgh 1783–2002|date=July 2006|publisher=The Royal Society of Edinburgh|isbn=0-902-198-84-X|url=https://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp1.pdf}}</ref>
+
+Frazer is commonly interpreted as an atheist in light of his [[criticism of Christianity]] and especially [[Roman Catholicism]] in ''[[The Golden Bough]]''. However, his later writings and unpublished materials suggest an ambivalent relationship with [[Neoplatonism]] and [[Hermeticism]].<ref>Josephson-Storm (2017), Chapter 5.</ref>
+
+In 1896 Frazer married Elizabeth "Lilly" Grove, a writer whose family was from [[Alsace]]. She would later adapt Frazer's ''Golden Bough'' as a book of children's stories, ''The Leaves from the Golden Bough''.<ref name="Ackerman1987">{{cite book|first=Robert|last=Ackerman|title=J G Frazer: His Life and Work|url=https://books.google.com/books?id=s_k4AAAAIAAJ&pg=PA124|date=10 December 1987|publisher=CUP Archive|isbn=978-0-521-34093-9|page=124}}</ref><ref name="Kessler2013">{{cite book|first=Gary|last=Kessler|title=Fifty Key Thinkers on Religion|url=https://books.google.com/books?id=itOoAgAAQBAJ&pg=PA54|date=March 2013|publisher=Routledge|isbn=978-1-136-66241-6|page=54}}</ref><ref>{{cite journal |title=Leaves from the Golden Bough |journal=Nature |date=December 13, 1924 |volume=114 |issue=2876 |pages=854–855 |doi=10.1038/114854b0 |bibcode=1924Natur.114R.854. |s2cid=4110636 }}</ref>
+
+==His work==
+
+The [[mythology|study of myth]] and religion became his areas of expertise. Except for visits to Italy and Greece, Frazer was not widely travelled. His prime sources of data were ancient histories and questionnaires mailed to missionaries and imperial officials all over the globe. Frazer's interest in social anthropology was aroused by reading [[E.&nbsp;B. Tylor]]'s ''Primitive Culture'' (1871) and encouraged by his friend, the biblical scholar [[William Robertson Smith]], who was comparing elements of the Old Testament with early Hebrew folklore.
+
+Frazer was the first scholar to describe in detail the relations between [[myths and rituals]]. His vision of the annual sacrifice of the [[Year-King]] has not been borne out by field studies. Yet ''[[The Golden Bough]]'', his study of ancient cults, rites, and myths, including their parallels in early Christianity, continued for many decades to be studied by modern mythographers for its detailed information.<ref>D Daiches ed., ''Companion to Literature 1'' (1968) p. 194</ref>{{verification needed|date=February 2019}}
+
+The first edition, in two volumes, was published in 1890; and a second, in three volumes, in 1900.<ref>R Fraser Intro, ''The Golden Bough'' (Oxford 2009) p. xl</ref> The third edition was finished in 1915 and ran to twelve volumes, with a supplemental thirteenth volume added in 1936. He published a single-volume abridged version, largely compiled by his wife Lady Frazer, in 1922, with some controversial material on Christianity excluded from the text.<ref>For the history of ''The Golden Bough'' see R. Fraser, ''The Making of The Golden Bough: The Origins and Growth of an Argument'' (London, 1990).</ref> The work's influence extended well beyond the conventional bounds of academia, inspiring the new work of psychologists and psychiatrists. [[Sigmund Freud]], the founder of [[psychoanalysis]], cited ''Totemism and Exogamy'' frequently in his own ''[[Totem and Taboo]]: Resemblances Between the Psychic Lives of Savages and Neurotics''.<ref>Sigmund Freud, ''Totem and Taboo: Resemblances Between the Psychic Life of Savages and Neurotics,'' trans., A.A. Brill (London: Routledge and Sons, 1919), p. 4</ref>
+
+The symbolic cycle of life, death and rebirth which Frazer divined behind myths of many peoples captivated a generation of artists and poets. Perhaps the most notable product of this fascination is [[T.&nbsp;S. Eliot]]'s poem ''[[The Waste Land]]'' (1922).
+
+Frazer's pioneering work<ref>"For those who see Frazer's work as the start of [[Social anthropology|anthropological study]] in its modern sense, the site and the cult of Nemi must hold a particular place: This<!--capitalised in original--> colourful but minor backwater of Roman religion marks the source of the discipline of [[Social anthropology]]", remarks Mary Beard, in noting the critical reassessment of Frazer's work following [[Edmund Leach]], "Frazer, Leach, and Virgil: The Popularity (and Unpopularity) of the Golden Bough," ''Comparative Studies in Society and History'', 34.2 (April 1992:203–224), p. 204.</ref> has been criticised by late-20th-century scholars. For instance, in the 1980s the social anthropologist [[Edmund Leach]] wrote a series of critical articles, one of which was featured as the lead in ''[[Anthropology Today]]'', vol. 1 (1985).<ref>Leach, "Reflections on a visit to Nemi: did Frazer get it wrong?", ''Anthropology Today'' '''1''' (1985)</ref> He criticised ''The Golden Bough'' for the breadth of comparisons drawn from widely separated cultures, but often based his comments on the abridged edition, which omits the supportive archaeological details. In a positive review of a book narrowly focused on the ''[[Cult (religion)|cultus]]'' in the Hittite city of Nerik, J.&nbsp;D. Hawkins remarked approvingly in 1973, "The whole work is very methodical and sticks closely to the fully quoted documentary evidence in a way that would have been unfamiliar to the late Sir James Frazer."<ref>Hawkins, reviewing Volkert Haas, ''Der Kult von Nerik: ein Beitrag zur hethitischen Religionsgeschichte'', in ''Bulletin of the School of Oriental and African Studies, University of London'' 
+'''36'''.1 (1973:128).</ref> More recently, ''The Golden Bough'' has been criticized for what are widely perceived as [[imperialism|imperialist]], [[anti-Catholic]], classist and racist elements, including Frazer's assumptions that European peasants, [[Aboriginal Australians]] and [[Africa|Africans]] represented fossilized, earlier stages of cultural evolution.<ref>Chidester (2014), pp. x–xi, 5, 8; and Chapter 6.</ref>
+
+Another important work by Frazer is his six-volume commentary on the Greek traveller Pausanias' description of Greece in the mid-2nd century AD. Since his time, archaeological excavations have added enormously to the knowledge of ancient Greece, but scholars still find much of value in his detailed historical and topographical discussions of different sites, and his eyewitness accounts of Greece at the end of the 19th century.{{citation needed|date =December 2012}}
+
+===Theories of Religion and Cultural Evolution===
+Among the most influential elements of the third edition of ''The Golden Bough'' is Frazer's theory of [[cultural evolution]] and the place Frazer assigns religion and [[magic (supernatural)|magic]] in that theory. Frazer's theory of cultural evolution was not absolute and could reverse, but sought to broadly describe three (or possibly, four) spheres through which cultures were thought to pass over time.<ref>{{Cite book | last = Carneiro | first = Robert L. | title = Evolutionism in Cultural Anthropology: A Critical History | publisher = University of Chicago Press | date = 2003 | page = 29|url = https://books.google.com/books?id=IJdNDwAAQBAJ&q=Carneiro+Evolutionism | isbn = 0429980302 }}</ref><ref>On the possibility of a fourth stage see Josephson-Storm (2017), pp. 146–147.</ref>  Frazer believed that, over time, culture passed through three stages, moving from magic, to religion, to science. Frazer's classification notably diverged from earlier anthropological descriptions of cultural evolution, including that of [[Auguste Comte]], because he claimed magic was both initially separate from religion and invariably preceded religion.<ref>Chidester (2014), p. 159.</ref><ref>Josephson-Storm (2017), pp. 141–142.</ref> He also defined magic separately from belief in the supernatural and superstition, presenting an ultimately ambivalent view of its place in culture.<ref>Josephson-Storm (2017), pp. 142–143.</ref>
+
+Frazer believed that magic and science were similar because both shared an emphasis on experimentation and practicality; indeed, his emphasis on this relationship is so broad that almost any disproven scientific hypothesis technically constitutes magic under his system.<ref>Malinowski (2014), n. pag.</ref> In contrast to both magic and science, Frazer defined religion in terms of belief in personal, supernatural forces and attempts to appease them. As historian of religion Jason Josephson-Storm describes Frazer's views, Frazer saw religion as "a momentary aberration in the grand trajectory of human thought."<ref>Josephson-Storm (2017), p. 145.</ref> He thus ultimately proposed&nbsp;– and attempted to further&nbsp;– a narrative of [[secularization]] and one of the first social-scientific expressions of a [[disenchantment]] narrative.
+
+At the same time, Frazer was aware that both magic and religion could persist or return. He noted that magic sometimes returned so as to become science, such as when [[alchemy]] underwent a revival in Early Modern Europe and became [[chemistry]]. On the other hand, Frazer displayed a deep anxiety about the potential of widespread belief in magic to empower the masses, indicating fears of and biases against lower-class people in his thought.<ref>Josephson-Storm (2017), pp. 145–147.</ref>
+
+==Origin-of-death stories==
+{{main|Origin-of-death myth}}
+Frazer collected stories from throughout the British Empire and devised four general classifications into which many of them could be grouped:<ref>{{citation |title=Mythology: Myths, Legends and Fantasies |author1=Janet Parker |author2=Alice Mills |author3=Julie Stanton |page=306 |chapter=Myths of Death |isbn=978-1-77007-453-8 |year=2007 |publisher=Struik}}</ref><ref name=jgf>{{citation |title=The Belief in Immortality and The Worship of the Dead |author=J. G. Frazer |isbn=978-1-4400-4514-1 |publisher=Macmillan |year=1913}}</ref>
+
+===The Story of the Two Messengers===
+This type of story is common in Africa.  Two messages are carried from the supreme being to mankind: one of eternal life and one of death.  The messenger carrying the tidings of eternal life is delayed, and so the message of death is received first by mankind.<ref name=jgf/>
+
+The [[Bantu peoples|Bantu]] people of Southern Africa, such as the [[Zulu people|Zulu]], tell that [[Unkulunkulu]], the Old Old One, sent a message that men should not die, giving it to the [[chameleon]].  The chameleon was slow and dawdled, taking time to eat and sleep.  Unkulunkulu meanwhile had changed his mind and gave a message of death to the lizard who travelled quickly and so overtook the chameleon.  The message of death was delivered first and so, when the chameleon arrived with its message of life, mankind would not hear it and so is fated to die.<ref name=jgf/>
+
+Because of this, Bantu people, such as the [[Ngoni people|Ngoni]], punish lizards and chameleons.  For example, children may be allowed to put tobacco into a chameleon's mouth so that the [[nicotine]] poisons it and the creature dies, writhing while turning colours.<ref name=jgf/>
+
+Variations of the tale are found in other parts of Africa.  The [[Kamba people|Akamba]] say the messengers are the chameleon and the [[robin-chat|thrush]] while the [[Ashanti people|Ashanti]] say they are the goat and the sheep.<ref name=jgf/>
+
+The [[Bura-Pabir language|Bura people]] of northern [[Nigeria]] say that, at first, neither death nor disease existed but, one day, a man became ill and died.  The people sent a worm to ask the sky deity, Hyel, what they should do with him.  The worm was told that the people should hang the corpse in the fork of a tree and throw mush at it until it came back to life.  But a malicious lizard, [[Agadzagadza]],<ref>{{citation |author1=Eva M. Thury |author2=Margaret K. Devinney |year=2005 |title=Introduction to Mythology |publisher=[[Oxford University Press]] |isbn=978-0-19-517968-2 |page=95}}</ref> hurried ahead of the worm and told the people to dig a grave, wrap the corpse in cloth, and bury it. The people did this. When the worm arrived and said that they should dig up the corpse, place it in a tree, and throw mush at it, they were too lazy to do this, and so death remained on Earth.<ref>{{citation |title=Encyclopedia of World Mythology |author=Arthur Cotterell |chapter=Death comes into the world |quote=Long ago, there was no such thing as death. All were therefore surprised when a man died. They sent a worm to the sky to ask Hyel, the supreme deity (Bura, Pabir/Nigeria), what they should do. |year=1999 |isbn=978-0-7607-2855-0}}</ref><ref>
+{{citation |last=Scheub |first=Harold |author-link=Harold Scheub |title=The African storyteller: stories from African oral traditions |year=1990 |publisher=Kendall/Hunt Publishing Company |isbn=978-0-8403-6037-3 |page=[https://archive.org/details/africanstorytell0000unse/page/52 52] |quote=the Bura people&nbsp;... had an unusually full system of culture embedded in their folk tales. |url=https://archive.org/details/africanstorytell0000unse/page/52 }}</ref> This Bura story has the common mythic [[motif (narrative)|motif]] of a vital message which is diverted by a [[trickster]].<ref>{{citation |last=Scheub |first=Harold |author-link=Harold Scheub |title=Meanings: Manual for the African Storyteller |year=1994 |publisher=Kendall/Hunt |isbn=978-0-8403-9934-2 |page=27 |quote=The motif is a venerable mythic motif, the interrupted message, and raises the question of what would have happened if only, if only&nbsp;... A worm, in this incarnation of the motif, is to inform the humans that life is everlasting. But a trickster of a lizard overtakes the worm, and gives the wrong message: humans are evanescent. So it is that death comes permanently into the world. And the storyteller adds a scene in which the onus for death is placed entirely on the backs of humans: people are too lazy to retrieve the corpse and hang it on a tree.}}</ref>
+
+In [[Togoland]], the messengers were the dog and the frog, and, as in the Bura version, the messengers go first from mankind to God to get answers to their questions.<ref name=jgf/>
+
+===The Story of the Waxing and Waning Moon===
+[[File:Moon phase calendar 2005.png|thumb|upright|The phases of the moon]]
+The [[lunar phase|moon]] regularly seems to disappear and then return.  This gave primitive peoples the idea that man should or might return from death in a similar way.  Stories that associate the moon with the origin of death are found especially around the [[Pacific Ocean|Pacific]] region.  In [[Fiji]], it is said that the moon suggested that mankind should return as he did. But the rat god, ''Ra Kalavo'', would not permit this, insisting that men should die like rats. In Australia, the [[Wotjobaluk]] aborigines say that the moon used to revive the dead until an old man said that this should stop. The [[Cham people (Asia)|Cham]] have it that the goddess of good luck used to revive the dead, but the sky-god sent her to the moon so she could not do this any more.<ref name=jgf/>
+
+===The Story of the Serpent and His Cast Skin===
+[[File:Nerodia sipedon shedding.JPG|thumb|upright|A snake shedding its skin]]
+Animals which [[moulting|shed their skin]], such as [[snake]]s and [[lizard]]s, appeared to be immortal to primitive people.  This led to stories in which mankind lost the ability to do this.  For example, in [[Vietnam]], it was said that the [[Jade Emperor]] sent word from heaven to mankind that, when they became old, they should shed their skins while the serpents would die and be buried.  But some snakes overheard the command and threatened to bite the messenger unless he switched the message, so that man would die while snakes would be eternally renewed.  For the natives of the island of [[Nias]], the story was that the messenger who completed their creation failed to [[fasting|fast]] and ate bananas rather than crabs. If he had eaten the latter, then mankind would have shed their skins like crabs and so lived eternally.<ref name=jgf/>
+
+===The Story of the Banana===
+[[File:The Lost Gardens of Heligan - geograph.org.uk - 1328024.jpg|thumb|upright|Dead banana plants]]
+The [[banana]] plant bears its fruit on a stalk which dies after bearing.  This gave people such as the Nias islanders the idea that they had inherited this short-lived property of the banana rather than the immortality of the crab.  The natives of [[Poso]] also based their myth on this property of the banana. Their story is that the creator in the sky would lower gifts to mankind on a rope and, one day, a stone was offered to the first couple. They refused the gift as they did not know what to do with it and so the creator took it back and lowered a banana.  The couple ate this with relish, but the creator told them that they would live as the banana, perishing after having children rather than remaining everlasting like the stone.<ref name=jgf/>
+
+==Reputation and criticism==
+
+According to historian [[Timothy Larsen]], Frazer used scientific terminology and analogies to describe ritual practices, and conflated magic and science together, such as describing the "magic wand of science".{{sfn|Larsen|2014|pages=43–44}} Larsen criticizes Frazer for baldly characterized magical rituals as "infallible" without clarifying that this is merely what believers in the rituals thought.{{sfn|Larsen|2014|page=44}} Larsen has said that Frazer's vivid descriptions of magical practices were written with the intention to repel readers, but, instead, these descriptions more often allured them.{{sfn|Larsen|2014|page=46}}
+
+Larsen also criticizes Frazer for applying western European Christian ideas, theology, and terminology to non-Christian cultures. This distorts those cultures to make them appear more Christian.{{sfn|Larsen|2014|pages=46–48}} Frazer routinely described non-Christian religious figures by equating them with Christian ones.{{sfn|Larsen|2014|page=47}} Frazer applied Christian terms to [[functionaries]], for instance calling the elders of the Njamus of [[East Africa]] "equivalent to the [[Levites]] of Israel"{{sfn|Larsen|2014|page=47}} and the [[Dalai Lama|Grand Lama]] of [[Lhasa]] "the Buddhist [[Pope]]... the [[God-man (Christianity)|man-god]] who bore his people's sorrows, the [[Good Shepherd]] who laid down his life for the sheep".{{sfn|Larsen|2014|page=47}} He routinely uses the specifically Christian theological terms "[[born again]]", "new birth", "[[baptism]]", "[[Infant baptism|christening]]", "[[sacrament]]", and "unclean" in reference to non-Christian cultures.{{sfn|Larsen|2014|page=47}}
+
+When Frazer's Australian colleague [[Walter Baldwin Spencer]] requested to use native terminology to describe [[Aboriginal Australians|Aboriginal Australian]] cultures, arguing that doing so would be more accurate, since the Christian terms were loaded with Christian connotations that would be completely foreign to members of the cultures he was describing, Frazer insisted that he should use Judeo-Christian terms instead, telling him that using native terms would be off-putting and would seem pedantic.{{sfn|Larsen|2014|page=47}} A year later, Frazer excoriated Spencer for refusing to equate the non-estrangement of Aboriginal Australian [[totem]]s with the Christian doctrine of [[reconciliation (theology)|reconciliation]].{{sfn|Larsen|2014|pages=47–48}} When Spencer, who had studied the aboriginals firsthand, objected that the ideas were not remotely similar, Frazer insisted that they were exactly equivalent.{{sfn|Larsen|2014|page=48}} Based on these exchanges, Larsen concludes that Frazer's deliberate use of Judeo-Christian terminology in the place of native terminology was not to make native cultures seem less strange, but rather to make Christianity seem more strange and barbaric.{{sfn|Larsen|2014|page=48}}
+
+==Selected works==
+* ''Creation and Evolution in Primitive Cosmogenies, and Other Pieces'' (1935)
+* ''The Fear of the Dead in Primitive Religion'' (1933–36)
+* ''Condorcet on the Progress of the Human Mind'' (1933)
+* ''Garnered Sheaves'' (1931)
+* ''The Growth of Plato's Ideal Theory'' (1930)
+* ''Myths of the Origin of Fire'' (1930)
+* ''[[Fasti (poem)|Fasti]]'', by [[Ovid]] (text, translation and commentary), 5 volumes (1929)
+** one-volume abridgement (1931)
+*** revised by [[G.&nbsp;P. Goold]] (1989, corr. 1996): {{ISBN|0-674-99279-2}}
+* ''Devil's Advocate'' (1928)
+* ''Man, God, and Immortality'' (1927)
+* [https://archive.org/details/in.ernet.dli.2015.14310 ''Taboo and the Perils of the Soul''] (1911) 
+* ''The Gorgon's Head and other Literary Pieces'' (1927)
+* ''The Worship of Nature'' (1926) (from 1923–25 [[Gifford Lectures]],<ref>[http://www.giffordlectures.org/Browse.asp?PubID=TPTWON&Cover=TRUE Gifford Lecture Series – Books<!-- bot-generated title -->] {{webarchive|url=https://web.archive.org/web/20080416173815/http://www.giffordlectures.org/Browse.asp?PubID=TPTWON&Cover=TRUE|date=16 April 2008}} at www.giffordlectures.org</ref>)
+* ''[[Bibliotheca (Pseudo-Apollodorus)|The Library]]'', by Apollodorus (text, translation and notes), 2 volumes (1921): {{ISBN|0-674-99135-4}} (vol. 1); {{ISBN|0-674-99136-2}} (vol. 2)
+* ''[[Folklore in the Old Testament|Folk-lore in the Old Testament]]'' (1918)
+* ''The Belief in Immortality and the Worship of the Dead'', 3 volumes (1913–24)
+* ''[[The Golden Bough]]'', 3rd edition: 12 volumes (1906–15; 1936)
+** 1922 one-volume abridgement: {{ISBN|0-486-42492-8}}
+* ''Totemism and Exogamy'' (1910)
+* ''Psyche's Task'' (1909)
+* ''The Golden Bough'', 2nd edition: expanded to 3 volumes (1900)
+* [https://books.google.com/books?id=pXhfAAAAMAAJ&printsec=frontcover ''Pausanias, and other Greek sketches''] (1900)
+* [https://archive.org/details/pausaniassdescr04frazgoog ''Description of Greece''], by [[Pausanias (geographer)|Pausanias]] (translation and commentary) (1897–) 6 volumes.
+* ''The Golden Bough: a Study in Magic and Religion'', 1st edition (1890)
+* ''[[Totemism]]'' (1887)
+* Jan Harold Brunvard, ''American Folklore; An Encyclopedia'', ''s.v.'' "Superstition" (p 692-697)
+
+==See also==
+{{Columns-list|colwidth=30em|
+*[[Joseph Campbell]]
+*[[Archetypal literary criticism]]
+*[[Mircea Eliade]]
+*[[René Girard]]
+*[[Edward Burnett Tylor]]
+*[[Dying-and-rising deity]]
+*[[Sacred king]]
+*[[Seclusion of girls at puberty]]
+}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{Cite book | last = Ackerman | first = Robert| title = J.&nbsp;G. Frazer: His Life and Work| publisher = Cambridge University Press| date = 1987 |url = https://books.google.com/books?id=s_k4AAAAIAAJ | isbn = 0521340934 }}
+* {{Cite book | last = Ackerman | first = Robert| title = The Myth & Ritual School: J. G. Frazer and the Cambridge Ritualists| publisher = Routledge| location=New York| date = 2002 |url = https://books.google.com/books?id=Zc5EAQAAQBAJ | isbn = 1135371121}}
+* Ackerman, Robert, (2015). [http://www.berose.fr/article598.html “J. G. Frazer and Religion”], in ''BEROSE -  International Encyclopaedia of the Histories of Anthropology'', Paris.
+*Ackerman, Robert, 2018. [http://www.berose.fr/?L-anthropologue-qui-meurt-et-ressuscite-vie-et-oeuvre-de-James-George-Frazer « L’anthropologue qui meurt et ressuscite : vie et œuvre de James George Frazer »] in Bérose - Encyclopédie internationale des histoires de l’anthropologie
+* {{Cite book | last = Chidester | first = David| title = Empire of Religion: Imperialism & Comparative Religion| publisher = University of Chicago Press| location=Chicago| date = 2014 |url = https://books.google.com/books?id=04HfAgAAQBAJ&q=Empire+of+Religion | isbn = 978-0226117577}}
+* {{Cite book | last = Fraser| first = Robert|title = The Making of "The Golden Bough"| publisher = St. Martin's Press| location= New York | date = 1990 |url = https://books.google.com/books?id=4wuwCwAAQBAJ&q=The+Making+of+%22The+Golden+Bough%22+Robert+Fraser | isbn = 1349207209}}
+* {{Cite book | last = Josephson-Storm | first = Jason | title = The Myth of Disenchantment: Magic, Modernity, and the Birth of the Human Sciences | publisher = University of Chicago Press | date = 2017 | chapter = Chapter 5: The Decline of Magic: J.G. Frazer|url = https://books.google.com/books?id=xZ5yDgAAQBAJ | isbn = 978-0-226-40336-6 }}
+* {{citation|last=Larsen|first=Timothy|author-link=Timothy Larsen|date=2014|chapter=James George Frazer|title=The Slain God: Anthropologists and the Christian Faith|url=https://books.google.com/books?id=oQwbBAAAQBAJ&q=James+George+Frazer+criticism|location=Oxford, England|publisher=Oxford University Press|isbn=978-0-19-965787-2|pages=37–79}}
+* {{Cite book | last=Malinowski | first = Bronislaw |title = Magic, Science and Religion and Other Essays | date = 2014 | publisher = Read Books | url = https://books.google.com/books?id=wlF-CgAAQBAJ&q=Frazer+magic+science&pg=PT12 | isbn = 978-1473393127}}
+* [[Giacomo Scarpelli]], ''Il razionalista pagano. Frazer e la filosofia del mito'', Milano, Meltemi 2018 {{ISBN|9788883539053}}
+
+==External links==
+{{wikiquote}}
+{{wikisource author}}
+{{EB1922 Poster|Frazer, Sir James George|James George Frazer}}
+
+* Resources related to research : [http://www.berose.fr/ BEROSE - International Encyclopaedia of the Histories of Anthropology]. "Frazer, James George (1854-1941)", Paris, 2015. (ISSN 2648-2770)
+
+* {{Books and Writers |id=jfrazer |name=James George Frazer}}
+*[http://www.bartleby.com/people/Frazer-S.html Sir James George Frazer Collection] at Bartleby.com
+* {{Gutenberg author |id=Frazer,+James+George | name=James George Frazer}}
+* {{Internet Archive author |sname=James George Frazer}}
+* {{Librivox author |id=4405}}
+*[http://www.trinitycollegechapel.com/about/memorials/brasses/frazer/ Trinity College Chapel: Sir James George Frazer]
+*{{Find a Grave|5935482}}
+*{{NPG name}}
+
+{{FBA 1902}}
+{{Authority control}}
+
+{{DEFAULTSORT:Frazer, James}}
+[[Category:1854 births]]
+[[Category:1941 deaths]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Social anthropologists]]
+[[Category:Anthropologists of religion]]
+[[Category:Lawyers from Glasgow]]
+[[Category:Mythographers]]
+[[Category:Comparative mythology]]
+[[Category:Scottish anthropologists]]
+[[Category:Scottish classical scholars]]
+[[Category:Scottish scholars and academics]]
+[[Category:Scottish writers]]
+[[Category:Scottish lawyers]]
+[[Category:Alumni of the University of Glasgow]]
+[[Category:Academics of the University of Liverpool]]
+[[Category:Fellows of the Royal Society (Statute 12)]]
+[[Category:Fellows of Trinity College, Cambridge]]
+[[Category:Members of the Middle Temple]]
+[[Category:Honorary Fellows of the Royal Society of Edinburgh]]
+[[Category:People from Helensburgh]]
+[[Category:Fellows of the British Academy]]
+[[Category:People educated at Larchfield Academy]]
+[[Category:Researchers of Slavic religion]]
+[[Category:Scottish folklorists]]
+[[Category:Scholars of comparative religion]]
+[[Category:Writers about religion and science]]
+[[Category:Comparative mythologists]]

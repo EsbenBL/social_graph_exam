@@ -1,0 +1,161 @@
+{{Infobox economist
+| school_tradition = [[Chicago School of Economics]]
+| name             = Steven Levitt
+| image            = Steven Levitt, 2012.jpg
+| caption          = Steven Levitt in 2012
+| birth_date       = {{Birth date and age|1967|05|29}}
+| birth_place      = [[Boston]], [[Massachusetts]], U.S.
+| death_date       =
+| death_place      =
+| nationality      = American
+| institution      = [[University of Chicago]]
+| field            = [[Social economics]]<br/>[[Microeconomics|Applied Microeconomics]]
+| alma_mater       = [[Harvard University]] ([[Bachelor of Arts|AB]])<br/>[[Massachusetts Institute of Technology]] ([[PhD]])
+| doctoral_advisor = [[James M. Poterba]]<ref>[https://dspace.mit.edu/handle/1721.1/11964 Four essays in positive political economy]</ref>
+| academic_advisors =
+| doctoral_students =[[Brian Jacob]]
+| notable_students =
+| influences       = [[Gary Becker]]<br/>[[Kevin M. Murphy|Kevin Murphy]]<br/>[[Josh Angrist]]
+| influenced       = [[Roland G. Fryer Jr.|Roland Fryer]]<br/>[[Jesse Shapiro]]
+| contributions    = ''[[Freakonomics]]'', ''[[SuperFreakonomics]]''
+| awards           = [[John Bates Clark Medal]] (2003)
+| signature        = <!-- file name only -->
+| repec_prefix     = e
+| repec_id         = ple59
+}}
+
+'''Steven David Levitt''' (born May 29, 1967) is an American [[economist]] and co-author of the best-selling book ''[[Freakonomics]]'' and its sequels (along with [[Stephen J. Dubner]]). Levitt was the winner of the 2003 [[John Bates Clark Medal]] for his work in the field of crime, and is currently the William B. Ogden Distinguished Service Professor of Economics at the [[University of Chicago]] as well as the Faculty Director and Co-Founder of the Center for Radical Innovation for Social Change at the University of Chicago<ref>{{cite web|title=Bringing math class into the data age|url=https://ed.stanford.edu/news/bringing-math-class-data-age}}</ref>  which incubates the Data Science for Everyone coalition.<ref>{{Cite web|title=Data Science for Everyone|url=https://www.datascience4everyone.org/|access-date=2021-09-28|website=Data Science for Everyone|language=en}}</ref> He was co-editor of the ''[[Journal of Political Economy]]'' published by the [[University of Chicago Press]] until December 2007. In 2009, Levitt co-founded [[TGG Group]], a business and philanthropy consulting company.<ref>[http://www.tgggroup.com/people.htm TGG Group profile]{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}</ref> He was chosen as one of [[Time (magazine)|''Time'' magazine's]] "100 People Who Shape Our World" in 2006.<ref>{{cite web|url=http://content.time.comhttp//content.time.com/time/specials/packages/article/0,28804,1975813_1975846_1976516,00.html?xid=fblike|title=The 2006 Time 100 |access-date=5 December 2016}}{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}</ref> A 2011 survey of economics professors named Levitt their fourth favorite living economist under the age of 60, after [[Paul Krugman]], [[Greg Mankiw]] and [[Daron Acemoglu]].<ref>https://econjwatch.org/file_download/487/DavisMay2011.pdf</ref>
+
+==Career==
+Levitt attended [[St. Paul Academy and Summit School]] in [[St. Paul, Minnesota]]. He graduated from [[Harvard University]] in 1989 with his [[Bachelor of Arts|AB]] in [[economics]] ''summa cum laude'', writing his senior thesis on rational bubbles in horse breeding, and then worked as a consultant at Corporate Decisions, Inc. (CDI) in Boston advising Fortune 500 companies. He received his [[PhD]] in economics from [[MIT]] in 1994.<ref>{{Cite journal|last=Poterba|first=James M.|date=2005|title=Steven D. Levitt: 2003 John Bates Clark Medalist|url=https://www.jstor.org/stable/4134979|journal=The Journal of Economic Perspectives|volume=19|issue=3|pages=181–198|doi=10.1257/089533005774357798|jstor=4134979|issn=0895-3309|doi-access=free}}</ref> He is currently the William B. Ogden Distinguished Service Professor and the director of [[Gary Becker Milton Friedman Institute for Research in Economics]]<ref>{{cite web|url=http://pricetheory.uchicago.edu|title=Untitled Document|access-date=5 December 2016}}</ref> at the [[University of Chicago]]. In 2003 he won the [[John Bates Clark Medal]], awarded every two years by the [[American Economic Association]] to the most promising U.S. economist under the age of 40.
+In April 2005 Levitt published his first book, ''Freakonomics'' (coauthored with [[Stephen J. Dubner]]), which became a [[The New York Times Best Seller list|''New York Times'' bestseller]].  Levitt and Dubner also started a blog devoted to Freakonomics.<ref>{{cite web|url=http://www.freakonomics.com//|title=Freakonomics – The hidden side of everything|access-date=5 December 2016|url-status=dead|archive-url=https://web.archive.org/web/20161204205913/http://freakonomics.com/|archive-date=4 December 2016}}</ref>
+
+==Work==
+His work on various [[economics]] topics, including [[crime]], [[politics]] and [[sport]]s, includes over 60 academic publications. For example, his ''An Economic Analysis of a Drug-Selling Gang's Finances'' (2000) analyzes a hand-written "accounting" of a criminal gang, and draws conclusions about the income distribution among gang members. In his most well-known and controversial paper (''[[The Impact of Legalized Abortion on Crime]]'' (2001), co-authored with [[John J. Donohue III|John Donohue]]), he shows that the legalization of abortion in the US in [[Roe v. Wade|1973]] was followed approximately eighteen years later by a considerable reduction in crime, then argues that unwanted children commit more crime than wanted children and that the legalization of abortion resulted in fewer unwanted children, and thus a reduction in crime as these children reached the age at which many criminals begin committing crimes.
+
+===Crime===
+Among other papers, Levitt's work on crime includes examination of the effects of prison population, police hiring, availability of LoJack anti-theft devices and legal status of abortion on crime rates.
+
+====The impact of legalized abortion on crime====
+{{main|Legalized abortion and crime effect}}
+
+Revisiting a question first studied empirically in the 1960s, [[John J. Donohue III|Donohue]] and Levitt argued that the legalization of abortion could account for almost half of the reduction in crime witnessed in the 1990s.<ref>{{Cite journal|last=Donahue and Levitt|date=May 2001|title=The Impact of Legalized Abortion on Crime|url=http://pricetheory.uchicago.edu/levitt/Papers/DonohueLevittTheImpactOfLegalized2001.pdf|journal=[[The Quarterly Journal of Economics]]|volume=CXVI, Issue 2|issue=2|pages=379–420|doi=10.1162/00335530151144050}}</ref> This paper sparked much controversy, to which Levitt has said
+<blockquote>". . . John Donohue and I estimate maybe that there are 5,000 or 10,000 fewer homicides because of it. But if you think that a fetus is like a person, then that’s a horrible tradeoff. So ultimately I think our study is interesting because it helps us understand why crime has gone down. But in terms of policy towards abortion, you’re really misguided if you use our study to base your opinion about what the right policy is towards abortion"<ref>{{Cite web|last=Lapinski|first=Zack|title=Abortion and Crime, Revisited (Ep. 384)|url=https://freakonomics.com/podcast/abortion/|access-date=2021-04-10|website=Freakonomics|language=en}}</ref></blockquote>
+
+In 2003, Theodore Joyce argued that legalized abortion had little impact on crime, contradicting Donohue and Levitt's results.<ref>{{Cite journal|last=Joyce|first=Ted|date=2004-01-01|title=Did Legalized Abortion Lower Crime?|url=http://jhr.uwpress.org/content/XXXIX/1/1|journal=Journal of Human Resources|language=en|volume=XXXIX|issue=1|pages=1–28|doi=10.3368/jhr.XXXIX.1.1|issn=0022-166X}}</ref> In 2004, the authors published a response,<ref>{{cite web |author=John J. Donohue III & Stephen D. Levitt |publisher=The Journal of Human Resources |year=2004 |url=http://pricetheory.uchicago.edu/levitt/Papers/DonohueLevittReply2004.pdf |title=Further Evidence that Legalized Abortion Lowered Crime: A Reply to Joyce |access-date=2008-12-03}}</ref> in which they claimed Joyce's argument was flawed due to [[omitted-variable bias]].
+
+In November 2005, [[Federal Reserve Bank of Boston]] economist Christopher Foote<ref>{{cite web|url=https://www.bostonfed.org/economic/econbios/foote.htm|title=Christopher Foote – Federal Reserve Bank of Boston|first=Federal Reserve Bank of|last=Boston|access-date=5 December 2016}}</ref> and his research assistant Christopher Goetz, published a paper,<ref name="Christopher L. Foote & Christopher F. Goetz">{{cite web |author=Christopher L. Foote & Christopher F. Goetz |publisher=Federal Reserve Bank of Boston |date=2008-01-31 |url=http://www.bos.frb.org/economic/wp/wp2005/wp0515.pdf |title=The Impact of Legalized Abortion on Crime: Comment |access-date=2008-05-12}}</ref> in which they argued that the results in Donohue and Levitt's paper were due to statistical errors made by the authors. When the corrections were made, Foote and Goetz argued that abortion actually increased violent crime instead of decreasing it.
+
+In January 2006, Donohue and Levitt published a response,<ref>{{cite web |author=John J. Donohue III & Stephen D. Levitt |date=January 2006 |url=http://pricetheory.uchicago.edu/levitt/Papers/ResponseToFooteGoetz2006.pdf |title=Measurement Error, Legalized Abortion, the Decline in Crime: A Response to Foote and Goetz |access-date=2008-12-03}}</ref> in which they admitted the errors in their original paper, but also pointed out that Foote and Goetz's correction was flawed due to heavy [[Regression dilution|attenuation bias]]. The authors argued that, after making necessary changes to fix the original errors, the corrected link between abortion and crime was now weaker but still statistically significant.
+
+In 2019, Levitt and Donohue published a new paper to review the predictions of the original 2001 paper.<ref>{{Cite journal|last1=Donohue|first1=John J.|last2=Levitt|first2=Steven D.|date=2019-05-20|title=The Impact of Legalized Abortion on Crime over the Last Two Decades|url=https://www.nber.org/papers/w25863|language=en}}</ref> The authors concluded that the original predictions held up with strong effects.<ref>{{Cite web|last=Law|date=2019-05-20|title=New paper by Donohue and Levitt on abortion and crime|url=https://marginalrevolution.com/marginalrevolution/2019/05/new-paper-by-donohue-and-levitt-on-abortion-and-crime.html|access-date=2021-04-10|website=Marginal REVOLUTION|language=en-US}}</ref> "We estimate that crime fell roughly 20% between 1997 and 2014 due to legalized abortion. The cumulative impact of legalized abortion on crime is roughly 45%, accounting for a very substantial portion of the roughly 50-55% overall decline from the peak of crime in the early 1990s."
+
+Levitt discusses this paper and the background and history of the original paper (including its criticisms) in an episode of the ''Freakonomics'' podcast.<ref>{{Cite web|last=Lapinski|first=Zack|title=Abortion and Crime, Revisited (Ep. 384)|url=https://freakonomics.com/podcast/abortion/|access-date=2021-04-10|website=Freakonomics|language=en}}</ref>
+
+====Prison population====
+Levitt's 1996 paper on prison population uses [[prison overcrowding]] litigation to estimate that decreasing the prison population by one person is associated with an increase of fifteen Index I crimes per year (Index I crimes include homicide, forcible rape, robbery, aggravated assault, burglary, theft, motor vehicle theft, and arson).<ref>"The Effect of Prison Population Size on Crime Rates: Evidence from Prison Overcrowding Litigation", abstract: "A one-prisoner reduction is associated with an increase of fifteen Index I crimes per year."</ref>
+
+====Police hiring====
+In a 1997 paper on the effect of police hiring on crime rates, Levitt used the timing of mayoral and gubernatorial elections as an [[instrumental variable]] to identify a causal effect of police on crime. Past studies had been inconclusive because of the simultaneity inherent in police hiring (when crime increases, more police are hired to combat crime). The findings of this paper were found to be the result of a programming error. This was pointed out in a comment by Justin McCrary published in the ''American Economic Review'' in 2002.<ref>Justin McCrary, [http://emlab.berkeley.edu/replications/mccrary/clewp35.pdf "Do Electoral Cycles in Police Hiring Really Help us Estimate the Effect of Police on Crime?"] Comment AER, 2002, 92 (4), pp. 1236–43.</ref> In a response published with McCrary's comment Levitt admits to the error and then goes on to offer alternative evidence to support his original conclusions.<ref>Steven D. Levitt, [http://pricetheory.uchicago.edu/levitt/Papers/LevittUsingElectoralCycles2002.pdf "Using Electoral Cycles in Police Hiring to Estimate the Effects of Police on Crime: Reply"] AER, 2002, 92 (4), pp. 1244–50.</ref> Levitt's 1997 paper was also criticized in another comment that demonstrates the weakness of the instrumental variables used in the original study, rendering the interpretation difficult if not impossible.<ref>{{cite journal |last1=Kovandzic |first1=Tomislav |title=Police, crime and the problem of weak instruments: Revisiting the "more police, less crime" thesis |journal=Journal of Quantitative Criminology |date=2016 |volume=32 |issue=1 |pages=133–158 |doi=10.1007/s10940-015-9257-6 |s2cid=56433304 |url=https://link.springer.com/content/pdf/10.1007/s10940-015-9257-6.pdf}}</ref>
+
+====LoJack====
+Ayres and Levitt (1998) used a new dataset on the prevalence of [[LoJack]] automobile anti-theft devices to estimate the social externality associated with its use. They find that the [[Marginal utility|marginal social benefit]] of Lojack is fifteen times greater than the marginal social cost in high crime areas, but that those who install LoJack obtain less than ten percent of the total social benefits.
+
+====Criminal age====
+Another 1998 paper finds that juvenile criminals are at least as responsive to criminal sanctions as adults. Sharp drops in crime at the age of maturity suggest that deterrence plays an important role in the decision to commit a crime.<ref>{{cite journal|last1=Levitt|first1=Steven|title=Juvenile Crime and Punishment|journal=Journal of Political Economy|date=1998|volume=106|issue=6|pages=1156–85|doi=10.1086/250043|s2cid=158207361|url=https://ideas.repec.org/a/ucp/jpolec/v106y1998i6p1156-1185.html}}</ref>
+
+====Finances of a drug gang====
+Levitt and [[Sudhir Alladi Venkatesh]] (2000) analyzed a unique dataset which details the financial activities of a drug-selling street gang. They found that wage earnings in the gang were somewhat higher than legal market alternatives, but did not offset the increased risks associated with selling drugs. They suggested that the prospect of high future earnings is the primary economic motivation for being in a gang.
+
+====Link between drunk driving and accident rates====
+Levitt and Porter (2001) found that drivers with alcohol in their blood are seven times more likely to cause a fatal crash than sober drivers (those above the legal limit are 13 times more likely than sober drivers).  They estimate that the [[externality]] per mile driven by a drunk driver is at least thirty cents, which implies that the proper fine to internalize this cost is roughly $8,000.
+
+====Cheating in sumo wrestling and by teachers in schools====
+Duggan and Levitt (2002) showed how non-linear payoff schemes establish incentives for corruption and the authors used the non-linearity to provide substantial statistical evidence that cheating is taking place in Japanese [[sumo wrestling]]. Brian Jacob and Levitt (2003) developed an algorithm to detect teachers who cheat for their students on standardized tests. They found that the observed frequency of cheating appears to respond strongly to relatively minor changes in incentives.
+
+===Politics===
+Levitt's work on politics includes papers on the effects of campaign spending, on the [[median voter theorem]], and on the effects of federal spending.
+
+Levitt's 1994 paper on campaign spending employs a unique identification strategy to control for the quality of each candidate (which in previous work had led to an overstatement of the true effect). It concludes that campaign spending has a very small impact on election outcomes, regardless of who does the spending. On the subject of federal spending and elections, previous empirical studies were not able to establish that members of Congress are rewarded by the electorate for bringing federal dollars to their district because of omitted variables bias.  Levitt and Snyder (1997) employ an instrument which circumvents this problem and finds evidence that federal spending benefits congressional incumbents; they find that an additional $100 per capita spending is worth as much as 2 percent of the popular vote.
+
+The 1996 paper on the median voter theorem develops a methodology for consistently estimating the relative weights in a senator's utility function and casts doubt on the median voter theorem, finding that the senator's own ideology is the primary determinant of roll-call voting patterns.
+
+===Other studies===
+* Showed that the consumer benefits of ridesharing in the United States is at least $7 billion a year (2015 prices).<ref>Peter Cohen, Robert Hahn, Jonathan Hall, Steven Levitt, Robert Metcalfe. (2016). Using Big Data to Estimate Consumer Surplus: The Case of Uber. NBER Working Paper No. 22627. https://www.nber.org/papers/w22627.</ref>
+* Testing Mixed-Strategy Equilibria When Players Are Heterogeneous: The Case of Penalty Kicks in Soccer (2002): Chiappori, Levitt, and Groseclose use penalty kicks from soccer games to test the idea of mixed strategies, a concept important to game theory.  They do not reject the hypothesis that players choose their strategies optimally.
+* Causes and consequences of distinctively black names (2004): Fryer and Levitt find that the rise in distinctively black names took place in the early 1970s.  While previous studies found having a black name harmful, they conclude that having a distinctively black name is primarily a consequence rather than a cause of poverty and segregation.
+* Discrimination in game shows (2004): Levitt uses contestant voting behavior on the US version of the television show ''Weakest Link'' to distinguish between [[taste-based discrimination]] and information-based discrimination theories of discrimination.  Levitt found no discrimination against females or blacks, while finding taste-based discrimination against the old and information-based discrimination against Hispanics.
+
+==Selected bibliography==
+
+===Academic publications (in chronological order)===
+* [http://dspace.mit.edu/handle/1721.1/11964 "Four essays in positive political economy"] PhD Thesis, DSpace@MIT. Massachusetts Institute of Technology, Dept. of Economics, 1994.
+* [http://pricetheory.uchicago.edu/levitt/Papers/LevittUsingRepeatChallengers1994.pdf "Using Repeat Challengers to Estimate the Effect of Campaign Spending on Election Outcomes in the U.S. House."] ''Journal of Political Economy'', 1994, ''102''(4), pp.&nbsp;777–98.
+* [http://pricetheory.uchicago.edu/levitt/Papers/LevittHowDoSenatorsVote1996.pdf "How Do Senators Vote? Disentangling the Role of Voter Preferences, Party Affiliation, and Senator Ideology."] ''American Economic Review'', 1996, ''86''(3), pp.&nbsp;425–41.
+* [http://pricetheory.uchicago.edu/levitt/Papers/LevittTheEffectOfPrison1996.pdf "The Effect of Prison Population Size on Crime Rates: Evidence from Prison Overcrowding Litigation."] ''Quarterly Journal of Economics'', 1996, ''111''(2), pp.&nbsp;319–51.
+* [http://pricetheory.uchicago.edu/levitt/Papers/LevittTheImpactOfFederalSpending1997.pdf "The Impact of Federal Spending on House Election Outcomes."] ''Journal of Political Economy'', 1997, ''105''(1), pp.&nbsp;30–53. (with Snyder, James M. Jr.).
+* [http://pricetheory.uchicago.edu/levitt/Papers/LevittUsingElectoralCycles1997.pdf "Using Electoral Cycles in Police Hiring to Estimate the Effect of Police on Crime."] ''American Economic Review'', 1997, ''87''(3), pp.&nbsp;270–90.
+* [http://pricetheory.uchicago.edu/levitt/Papers/LevittAyres1998.pdf "Measuring Positive Externalities from Unobservable Victim Precaution: An Empirical Analysis of Lojack."] ''Quarterly Journal of Economics'', 1998, ''113''(1), pp.&nbsp;43–77 (with Ayres, Ian).
+* {{cite journal|title=Juvenile Crime and Punishment|journal=Journal of Political Economy|date=1998|volume=106|issue=6|pages=1156–85|doi=10.1086/250043|url=https://ideas.repec.org/a/ucp/jpolec/v106y1998i6p1156-1185.html|last1=Levitt|first1=Steven D.|s2cid=158207361}}
+* [http://pricetheory.uchicago.edu/levitt/Papers/LevittVenkateshAnEconomicAnalysis2000.pdf "An Economic Analysis of a Drug-Selling Gang's Finances."] ''Quarterly Journal of Economics'', 2000, ''115''(3), pp.&nbsp;755–89. (with Venkatesh, Sudhir A.).
+* [http://pricetheory.uchicago.edu/levitt/Papers/DonohueLevittTheImpactOfLegalized2001.pdf "The Impact of Legalized Abortion on Crime."] ''Quarterly Journal of Economics'', 2001, ''116''(2), pp.&nbsp;379–420. (with Donohue, John J., III).
+* [http://pricetheory.uchicago.edu/levitt/Papers/LevittPorterHowDangerousAre2001.pdf "How Dangerous Are Drinking Drivers?"] ''Journal of Political Economy'', 2001, ''109''(6), pp.&nbsp;1198–237. (with Porter, Jack) .
+* [http://pricetheory.uchicago.edu/levitt/Papers/ChiapporiGrosecloseLevitt2002.pdf "Testing Mixed-Strategy Equilibria When Players Are Heterogeneous: The Case of Penalty Kicks in Soccer."] ''American Economic Review'', 2002, ''92'', pp.&nbsp;1138–51 (With Chiappori, Pierre-Andre and Groseclose, Timothy).
+* [http://pricetheory.uchicago.edu/levitt/Papers/DugganLevitt2002.pdf "Winning Isn't Everything: Corruption in Sumo Wrestling."] ''American Economic Review'', 2002, ''92''(5), pp.&nbsp;1594–605. (with Duggan, Mark).
+* [http://pricetheory.uchicago.edu/levitt/Papers/LevittUsingElectoralCycles2002.pdf "Using Electoral Cycles in Police Hiring to Estimate the Effects of Police on Crime: Reply."] ''American Economic Review'', 2002, ''92''(4), pp.&nbsp;1244–50.
+* [http://pricetheory.uchicago.edu/levitt/Papers/JacobLevitt2003.pdf "Rotten Apples: An Investigation of the Prevalence and Predictors of Teacher Cheating]" ''Quarterly Journal of Economics'', 2003, ''118''(3), pp.&nbsp;843–77. (with Jacob, Brian A.).
+* [http://pricetheory.uchicago.edu/levitt/Papers/FryerLevitt2004.pdf "The Causes and Consequences of Distinctively Black Names."] ''Quarterly Journal of Economics'', 2004, ''119''(3), pp.&nbsp;767–805. (with Fryer, Roland G. Jr.)
+* {{cite journal | author=Levitt, Steven D.  | title=Testing Theories Of Discrimination: Evidence From Weakest Link | journal=Journal of Law and Economics | year=2004 | volume=47 | pages=431–53 | url=http://pricetheory.uchicago.edu/levitt/Papers/LevittTestingTheories2004.pdf  | doi=10.1086/425591 | issue=2| citeseerx=10.1.1.312.2078 }}
+* {{cite journal | author=Levitt, Steven D.  | title=Understanding Why Crime Fell in the 1990s: Four Factors that Explain the Decline and Six that Do Not | journal=Journal of Economic Perspectives | date=Winter 2004 | volume=18 | pages=163–90 | url=http://pricetheory.uchicago.edu/levitt/Papers/LevittUnderstandingWhyCrime2004.pdf  | doi=10.1257/089533004773563485 | citeseerx=10.1.1.210.3073 }}
+
+===Other publications===
+* ''[[Freakonomics]]:  A Rogue Economist Explores the Hidden Side of Everything'' William Morrow, May 2005 (with Stephen Dubner)
+* ''[[SuperFreakonomics|SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance]]'', co-author (2009) ({{ISBN|0-060-88957-8}})
+* ''[[Think Like a Freak|Think Like a Freak: The Authors of Freakonomics Offer to Retrain Your Brain]]'', co-author with Stephen Dubner (2014) ({{ISBN|0-062-21833-6}})
+* ''[[When to Rob a Bank: ...And 131 More Warped Suggestions and Well-Intended Rants]]'', co-author with Stephen Dubner (2015) ({{ISBN|0-062-38532-1}})
+
+==See also==
+* {{Portal-inline|Business and economics}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20131006023527/http://www.harpercollins.com/authors/27846/Steven_D_Levitt/index.aspx?WT.mc_id=WIKI_AUTH_LEVITT_040607 Author profile] at [[HarperCollins]]
+* [https://www.depauw.edu/news/index.asp?id=24477 Ubben Lecture at DePauw University, November 30, 2009]
+* {{TED speaker}}
+* {{C-SPAN|stevenlevitt}}
+* {{Charlie Rose view|962}}
+* {{IMDb name|1912331}}
+* {{Guardian topic|2=Steven D Levitt and Stephen J Dubner}}
+* [https://www.npr.org/templates/story/story.php?storyId=4625392 Audio] of Steven Levitt on NPR's The Motley Fool, April 29, 2005. Duration: 12 mins.
+
+===Press===
+* Stephen Dubner (2003), ''New York Times Magazine'', [https://web.archive.org/web/20050730021700/http://www.stephenjdubner.com/journalism/economist.html The Economist of Odd Questions: Inside the Astonishingly Curious Mind of Steven D. Levitt]
+* [http://timharford.com/2005/04/odd-numbers-interview-with-freakonomist-steven-levitt/ Profile of Steven Levitt in the Financial Times], 23 April 2005
+* [http://www.the-chiefexecutive.com/features/feature1373/ 20 Questions with Levitt in CEO Magazine]
+
+{{UChicago}}
+{{Chiconomists}}
+{{John Bates Clark Medal recipients}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Levitt, Steven}}
+[[Category:American bloggers]]
+[[Category:Economists from Illinois]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Education economists]]
+[[Category:Harvard University alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:People from Oak Park, Illinois]]
+[[Category:University of Chicago faculty]]
+[[Category:American men podcasters]]
+[[Category:American podcasters]]
+[[Category:20th-century American Jews]]
+[[Category:1967 births]]
+[[Category:Living people]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:21st-century American Jews]]

@@ -1,0 +1,69 @@
+{{Short description|American economist}}
+{{more citations needed|date=December 2009}}
+{{Infobox economist
+| name = George W. Stocking Sr.
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| birth_date = {{birth date |1892|9|24|mf=y}}
+| birth_place = [[Clarendon, Texas]]
+| death_date = {{death date and age |1975|6|7 |1892|9|24|mf=y}}
+| death_place = 
+| nationality = [[United States|American]]
+| institution = [[University of Texas at Austin]] <!-- or: | institutions =  -->
+| field = [[Industrial organization]]
+| school_tradition = [[Institutional economics|Institutionalism]]
+| alma_mater = [[Columbia University]]<br>[[University of Texas at Austin]]<br>[[Clarendon College (Texas)|Clarendon College]]
+| doctoral_advisor = [[Thorstein Veblen]]<br>[[Wesley Clair Mitchell]]
+| doctoral_students =
+| contributions = 
+| awards = 
+}}
+
+'''George Ward Stocking Sr.''' (September 24, 1892 – June 7, 1975) was an [[United States|American]] [[economist]], who was one of the pioneers of [[industrial organization]] and an early writer on international [[cartel]]s.
+
+After completing a Ph.D. degree from [[Columbia University]] in 1925, he was professor of economics at the [[University of Texas at Austin]] from 1926 to 1947. During 1933-1943 he held several positions with the federal government, including the Antitrust Division of the [[U.S. Department of Justice]], where he advised Attorney General [[Thurman Arnold]]. He founded and was professor and chair of the Department of Economics at [[Vanderbilt University]] in 1947, where he remained from 1947 to 1963. He was elected President of the [[Southern Economic Association]] in 1952, and of the [[American Economic Association]] in 1958.<ref>{{cite journal |title=In Memoriam: George W. Stocking 1892–1975 |journal=[[American Economic Review]] |volume=66 |issue=3 |year=1976 |pages=453–454 |jstor=1828185 }}</ref>
+
+Stocking was a pioneering economist of [[industrial organization]].  Stocking's most enduring research was published in three volumes: Cartels in Action (1946), Cartels or Competition? (1948), and Monopoly and Free Enterprise (1951). The first two volumes were seminal works in the field of empirical studies of [[price-fixing]] [[cartels]]; in them Stocking synthesized lavish quantitative and qualitative data on international [[cartels]] in eight markets that demonstrated their internal mechanisms, pervasiveness in the economy, and effects on industrial performance. The third volume addressed the problems of [[market power]] in the U.S. economy and public policies to ensure the benefits of free enterprise.
+
+==Education==
+Stocking graduated from [[Clarendon College (Texas)|Clarendon College]] in [[Texas]] (BA 1918), the [[University of Texas]] (BA 1918, MA 1921), and [[Columbia University]] (Ph.D. 1925). His mentors at Columbia were [[Thorstein Veblen]] and [[Wesley Clair Mitchell]].
+
+==Career==
+Stocking's first book was an empirical study of competition in the petroleum industry, in which he had worked as a "roughneck" in the oil fields of western Texas. While teaching at the University of Texas, Stocking had his first taste of public service as a member of the Consumer Advisory Board of the [[National Recovery Administration]] (NRA) in the mid-1930s, where he observed the destructive effects of the brief U.S. legalization of industrial cartels.
+
+When the [[antitrust laws]] were reinstated after about 1937, Stocking served through the early 1940s as an economic adviser to the great head of the Antitrust Division of the Department of Justice, Thurman Arnold. It was Arnold who initiated for the first time a large number of successful U.S. criminal prosecutions of international cartels in the mid-1940s. Information from these prosecutions and from Congressional investigations of the nefarious roles played by cartels in facilitating the economic policies of [[national socialism]] formed the basis of Stocking's two landmark books on international price-fixing cartels.
+
+In the 1950s, Stocking was involved in several issues that had lasting effects on antitrust enforcement. Perhaps Stocking's best-known journal article was a 1955 article in the ''American Economic Review'' that addressed what is now known as the "[[Cellophane Paradox]]." In research on the [[DuPont]] company arising from his student's (Willard F. Mueller) Ph. D. dissertation, Stocking and Mueller pointed out the error of mistaking a monopolist's inability to exercise market power by raising price above the current price for an inability to have already exercised market power by raising price significantly above the competitive price. Courts that use a monopolized product's elevated market price will typically misconstrue a completed anticompetitive act as a lack of [[market power]]. A second issue addressed by Stocking was the extent to which concepts of "[[effective competition|workable competition]]" and the "[[rule of reason]]" should be employed in antitrust enforcement.
+
+==Selected published works==
+*(1946), Cartels In Action (with M.W. Watkins) (Twentieth Century Fund, New York).
+*(1948), {{cite book|author=with M. W. Watkins|title=Cartels or competition?: the economics of international controls by business and government|year=1948|url=https://books.google.com/books?id=5J8LAAAAIAAJ|publisher=Twentieth Century Fund|location=New York}}
+*(1951), Monopoly and Free Enterprise (with M.W. Watkins) (Twentieth Century Fund, New York).
+*(1955), ‘The Cellophane case and the new competition’ (with W.F. Mueller), American Economic Review 65, March, 29–63.<ref>{{cite journal|author1=Stocking, George W.|author2=Willard F. Mueller|title=The Cellophane Case and the New Competition|journal=The American Economic Review|volume= 45| issue =  1|year=1955|pages=29–63|jstor=1811582}}</ref>
+*(1955), ‘The Attorney General’s Committee report: A businessman’s guide through antitrust’, Georgetown Law Review 44(1), November, 1–57.
+*(1961), {{cite book|title=Workable Competition and Antitrust Policy|year = 1961|url=https://books.google.com/books?id=ygtEAAAAIAAJ|publisher=Vanderbilt University Press|location=Nashville, Tenn.|isbn = 9780826510587}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{cite book|author1=H. W. de Jong, ed.|author2=William G. Shepherd, ed.|title=Pioneers of Industrial Organization: How the Economics of Competition and Monopoly Took Shape|url=https://books.google.com/books?id=TpfrPPOFWUIC|year=2007|publisher=Edward Elgar Publishing|isbn= 978-1843764342}}
+*[http://rmoa.unm.edu/docviewer.php?docId=wyu-ah04453.xml George Ward Stocking papers] at the [[University of Wyoming]] - [[American Heritage Center]]
+
+{{instecon}}
+{{Presidents of the American Economic Association}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stocking, George W., Sr.}}
+[[Category:1892 births]]
+[[Category:1975 deaths]]
+[[Category:Vanderbilt University faculty]]
+[[Category:Columbia University alumni]]
+[[Category:University of Vermont faculty]]
+[[Category:Presidents of the American Economic Association]]
+[[Category:People from Clarendon, Texas]]
+[[Category:Economists from Texas]]
+[[Category:20th-century American economists]]

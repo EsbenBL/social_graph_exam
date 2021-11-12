@@ -45,6 +45,10 @@ Quesnay is known for his writings on Chinese politics and society. His book ''Le
 
 Because of his admiration of [[Confucianism]], Quesnay's followers bestowed him with the title "Confucius of Europe."<ref name="Rothbard">{{cite book|author=Murray N. Rothbard|author-link=Murray N. Rothbard|title=Economic Thought Before Adam Smith|year=2006|publisher=[[Ludwig von Mises Institute]]|isbn=978-0-945466-48-2|page=366}}<!--|access-date=26 August 2012--></ref> Quesnay's infatuation for Chinese culture, as described by Jesuits, led him to persuade the son of [[Louis XV]] to mirror the "plowing of sacred land" by the Chinese emperor to symbolize the link between government and agriculture.<ref name="globe">{{cite book|author=Geoffrey C. Gunn|title=First Globalization: The Eurasian Exchange, 1500 to 1800|year=2003|publisher=[[Rowman & Littlefield]]|isbn=978-0-7425-2662-4|pages=148}}<!--|access-date=26 August 2012--></ref>
 
+'''<big>On Taxation</big>'''
+
+Quesnay acknowledged three economic classes in France: the "proprietary" class consisting of only landowners, the "productive" class of agricultural workers, and the "sterile" class of merchants. Quesnay saw no benefit to the sterile class and believed the productive to be all important. Quesnay viewed France's agriculture as backward and unproductive compared to Britain during the time he was residing in the Palace of Versailles [13] . Despite residing in the Palace, Quesnay believed agriculture was the heart of the economy and of special importance to him. Quesnay argued that taxes placed on cultivators are only harmful to society as these taxes will reduce the incentive for agricultural production. Taxing proprietors(property holders) does not destroy the means of production meaning there is no decline in output. Quesnay wanted proprietors to bear the full burden of the tax in the country as taxing cultivators is a negative consequence for everyone. Removing incentive from cultivators reduces agricultural production and the agricultural surplus Quesnay believed to be the heart of the economy [14]. Quesnay also opposed indirect taxes in contrast to direct taxes. These "indirect taxes" are placed on the French public by proprietors whose greed demands immunity from taxation. Direct taxes on proprietors has no impact on reproduction and economic decline [14]. Reducing indirect taxes and increasing direct taxes gives the French a surplus of agriculture and the funding the country needs. However, this opinion was not very popular among the wealthy of which Quesnay spent time regularly with. He spent much of his time worried for his life in the Palace.
+
 ==See also==
 * [[Contributions to liberal theory]]
 * [[History of economic thought]]
@@ -53,7 +57,9 @@ Because of his admiration of [[Confucianism]], Quesnay's followers bestowed him 
 * [[Circular flow of income]]
 
 ==Notes==
-{{Reflist|30em}}
+{{Reflist|30em}}<ref>{{Citation|last=Niall.|first=Kishtainy,|title=A little history of economics|date=℗2017|url=http://worldcat.org/oclc/975679649|publisher=Blackstone Audio|isbn=978-1-4708-1332-1|oclc=975679649|access-date=2021-11-12}}</ref><small>Kishtainy, N. (2018). ''A Little History of Economics.'' New Haven: Yale University Press.</small>
+
+<small><ref>{{Cite journal|last=Pressman|first=Steven|date=1994|title=Quesnay's Theory of Taxation|url=http://dx.doi.org/10.1017/s1053837200001437|journal=Journal of the History of Economic Thought|volume=16|issue=1|pages=86–105|doi=10.1017/s1053837200001437|issn=1053-8372}}</ref>Pressman, S. (1994). Quesnay's Theory of Taxation. ''Journal of the History of Economic Thought'', 86-105</small>
 
 ==References==
 * {{Citation |title=The Eastern Origins of Western Civilization |first=John M. |last=Hobson |publisher=Cambridge University Press |year=2004 |isbn=0-521-54724-5 }}.

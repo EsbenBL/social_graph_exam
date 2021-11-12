@@ -1,0 +1,32 @@
+{{short description|British sociologist}}
+{{For|those of a similar name|Karl May (disambiguation)|Carl Mays}}
+{{BLP primary sources|date=August 2018}}
+
+<!--as Carl May redirects here-->
+'''Carl May''' [[FAcSS]] (born 1961, in [[Farnham]], [[Surrey]]) is a [[United Kingdom|British]] [[sociology|sociologist]]. He researches in the fields of [[medical sociology]] and [[science and technology studies]]. Formerly based at [[University of Southampton|Southampton University]] and [[Newcastle University]], he is now Professor of Medical Sociology at the [[London School of Hygiene & Tropical Medicine|London School of Hygiene and Tropical Medicine]]. Carl May was elected an [[Academician]] of the [[Academy of Learned Societies in the Social Sciences]] in 2006. He was appointed an NIHR{{clarify|What is NIHR?|date=January 2020}} Senior Investigator in 2010. His work falls into two distinct themes.
+
+In [[medical sociology]] he has researched and published mainly on professional-patient interaction and relationships in clinical settings. This work has its roots in  [[social constructionism]] and the social theory of [[Michel Foucault]].<ref>May, C. 1992. "Individual care? Power and subjectivity in therapeutic relationships." Sociology 26:589-602.May, C. 1992. "Nursing Work, Nurses' Knowledge, and the Subjectification of the Patient." Sociology of Health and Illness 14:472-487</ref> Over the past decade his work has become more focused on the ways that interaction processes are embedded in, and represent, their socio-technical contexts.<ref>May, Carl (2007) "The clinical encounter and the problem of context." Sociology 41:29-45.</ref> This led to studies of the interaction between health technologies and their users. These studies have explored the sociology of [[telemedicine]]<ref>May, C.  (2006) "Mobilizing modern facts: Health Technology Assessment and the politics of evidence." Sociology of Health & Illness 28:513-532.</ref><ref>May, C, T Rapley, T Moreira, T Finch, and B Heaven. (2006) "Technogovernance: Evidence, subjectivity, and the clinical encounter in primary care medicine." Social Science & Medicine 62:1022-1030.</ref> In a later paper, he argues that the benefits of telemedicine does not outweigh the additional burden on patients and their social support networks.<ref>{{Cite news|url=https://www.cantechletter.com/2016/02/tech-can-help-solve-rural-canadas-health-care-problems-says-study/|title=Tech can help solve rural Canada’s health care problems, says study|date=2016-02-27|work=[[Cantech Letter]]|access-date=2018-08-01|language=en-US}}</ref><ref>{{Cite journal|last=May|first=Carl R|date=2015-04-23|title=Making sense of technology adoption in healthcare: meso-level considerations|url= |journal=BMC Medicine|language=En|volume=13|issue=1|doi=10.1186/s12916-015-0305-8|issn=1741-7015|pmc=4407548|pmid=25902829}}</ref>
+
+In [[Science and Technology Studies]] his work investigates how innovations become routinely embedded in health care and other organizational systems. This research has led to [[Normalization Process Theory]], developed with Tracy Finch and others, including [[Victor Montori]].<ref>{{Cite journal|last=May|first=Carl R |last2=Mair|first2=Frances|last3=Finch|first3=Tracy|last4=MacFarlane|first4=Anne|last5=Dowrick|first5=Christopher|last6=Treweek|first6=Shaun|last7=Rapley|first7=Tim|last8=Ballini|first8=Luciana|last9=Ong|first9=Bie Nio|date=2009-05-21|title=Development of a theory of implementation and integration: Normalization Process Theory|url= |journal=Implementation Science|language=En|volume=4|issue=1|doi=10.1186/1748-5908-4-29|issn=1748-5908|pmc=2693517}}</ref>  This is a [[sociological theory]] of the [[implementation]], embedding, and integration of new technologies and organizational [[innovations]].<ref>May, C., Finch, T., 2009. Implementation, embedding, and integration: an outline of Normalization Process Theory. Sociology. In Press.</ref><ref>May, C., Innovation and Implementation in Health Technology: Normalizing Telemedicine. In: J. Gabe, M. Calnan, Eds.), The New Sociology of the Health Service. Routledge, London, 2009.</ref><ref>May, C., Mundane Medicine, Therapeutic Relationships, and the Clinical Encounter.' In  (eds.) In: B. Pescosolido, et al., Eds.), Handbook of the Sociology of Health, Illness, and Healing: A Blueprint for the 21st Century. Springer, New York, 2009.</ref> It is founded on, and has superseded, an earlier [[Normalization Process Model]]<ref>May, Carl (2006). "A rational model for assessing and evaluating complex interventions in health care." BMC Health Services Research 6:1-11.[http://www.biomedcentral.com/1472-6963/6/86]</ref><ref>May, C et al. (2007). "Understanding the implementation of complex interventions in health care: the normalization process model." BMC Health Services Research 7 [http://www.biomedcentral.com/1472-6963/7/148]</ref> for evaluating [[randomized controlled trials]], health technologies, and complex interventions  in health care. Most recently,{{when?|date=January 2020}} May and colleagues have applied Normalization Process Theory to explaining patient non-compliance with treatment, proposing that a proportion of non-compliance is structurally induced by healthcare systems themselves as patients are overburdened by treatment. To counter this, they have proposed [[Minimally Disruptive Medicine]],<ref>May C, Montori VM, Mair FS. We need minimally disruptive medicine. BMJ 2009;339:b2803</ref> which seeks to take account of its effects on patients' workload.
+
+==References==
+{{Reflist|33em}}
+
+==External links==
+* [http://www.normalizationprocess.org Normalization Process Theory Website]
+* [https://web.archive.org/web/20100613013940/http://newcastle.academia.edu/CarlMay Carl May's academia.edu page]
+* [https://archive.today/20140423123713/http://carlrmay.weebly.com/ Carl May's personal website]
+* {{Google Scholar id | NSME6xEAAAAJ }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:May, Carl R.}}
+[[Category:1961 births]]
+[[Category:Fellows of the Academy of Social Sciences]]
+[[Category:Academics of Newcastle University]]
+[[Category:British sociologists]]
+[[Category:Medical sociologists]]
+[[Category:People from Farnham]]
+[[Category:Living people]]
+[[Category:Academics of the University of Southampton]]
+[[Category:Science and technology studies scholars]]

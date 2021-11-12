@@ -2,30 +2,28 @@
 {{Use dmy dates|date=July 2021}}
 {{Use British English|date=May 2012}}
 {{Infobox scientist
-| honorific_prefix = [[Professor]]
-| name = William Stanley Jevons
-| honorific_suffix = [[Fellow of the Royal Society|FRS]]
-| image = Picture of jevons.jpg
-| image_size = 
-| caption = 
-| birth_date = {{Birth date|1835|09|01|df=y}}
-| birth_place = [[Liverpool]], [[Lancashire]], England
-| death_date = {{Death date and age|1882|08|13|1835|09|01|df=y}}
-| death_place = [[Bexhill-on-Sea]], [[Sussex]], England
-| residence = 
-| citizenship = 
-| ethnicity = 
-| field = [[Economics]]<br>[[Logic]]
+| honorific_prefix  = [[Professor]]
+| name              = William Stanley Jevons
+| honorific_suffix  = [[Fellow of the Royal Society|FRS]]
+| image             = Picture of jevons.jpg
+| image_size        = 
+| caption           = 
+| birth_date        = {{Birth date|1835|09|01|df=y}}
+| birth_place       = [[Liverpool]], [[Lancashire]], England
+| death_date        = {{Death date and age|1882|08|13|1835|09|01|df=y}}
+| death_place       = [[Bexhill-on-Sea]], [[Sussex]], England
+| residence         = 
+| citizenship       = 
+| field             = [[Economics]]<br>[[Logic]]
 | work_institutions = [[University College London]] (1876–1880)<br>[[Owens College]] (now [[University of Manchester]]) (1863–1875)
-| alma_mater = [[University College London]]
+| alma_mater        = [[University College London]]
 | academic_advisors = [[Augustus De Morgan]]
 | doctoral_students = 
-| known_for = [[Marginal utility theory]]<br>[[Jevons paradox]]
-| influences = [[Jeremy Bentham|Bentham]]{{·}}[[Étienne Bonnot de Condillac|Condillac]]{{·}}[[Antoine Augustin Cournot|Cournot]]{{·}}[[John Stuart Mill|J. S. Mill]]{{·}}[[David Ricardo|Ricardo]]{{·}}[[Adam Smith|Smith]]
-| influenced = [[Irving Fisher|Fisher]]{{·}}[[Alfred Marshall|Marshall]]{{·}}[[Karl Popper|Popper]]
-| religion = 
-| signature = Jevons's signature.jpg
-| footnotes = While not a formal advisor (Jevons never acquired a PhD), De Morgan was his most influential professor.<ref>R. D. Collison Black (1972). "Jevons, Bentham and De Morgan", ''Economica'', New Series, Vol. 39, No. 154, pp. 119–34</ref>
+| known_for         = [[Marginal utility theory]]<br>[[Jevons paradox]]
+| influences        = [[Jeremy Bentham|Bentham]]{{·}}[[Étienne Bonnot de Condillac|Condillac]]{{·}}[[Antoine Augustin Cournot|Cournot]]{{·}}[[John Stuart Mill|J. S. Mill]]{{·}}[[David Ricardo|Ricardo]]{{·}}[[Adam Smith|Smith]]
+| influenced        = [[Irving Fisher|Fisher]]{{·}}[[Alfred Marshall|Marshall]]{{·}}[[Karl Popper|Popper]]{{·}}[[J. K. Mehta]]
+| signature         = Jevons's signature.jpg
+| footnotes         = While not a formal advisor (Jevons never acquired a PhD), De Morgan was his most influential professor.<ref>R. D. Collison Black (1972). "Jevons, Bentham and De Morgan", ''Economica'', New Series, Vol. 39, No. 154, pp. 119–34</ref>
 }}
 '''William Stanley Jevons''' {{post-nominals|country=GBR|size=100%|FRS}} ({{IPAc-en|ˈ|dʒ|ɛ|v|ən|z}};<ref>Daniel Jones, ''Everyman's English Pronouncing Dictionary'' (Dent, Dutton: 13th ed., 1967), p. 266.</ref> 1 September 1835{{spaced en dash}}13 August 1882) was an English [[economist]] and [[logic]]ian.
 

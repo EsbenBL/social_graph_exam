@@ -1,0 +1,136 @@
+{{short description|American economist}}
+{{BLP sources|date=February 2013}}
+{{Infobox economist
+| name             = Robert Emerson Lucas Jr.
+| school_tradition = [[New classical macroeconomics]]
+| image            = 
+| image_size       =452x678
+| caption          =
+| birth_date       = {{Birth date and age|1937|9|15|mf=y}}
+| birth_place      = [[Yakima, Washington]], U.S.
+| death_date       =
+| death_place      =
+| nationality      = American
+| institution      = [[Carnegie Mellon University]]<br>[[University of Chicago]]
+| field            = [[Macroeconomics]]
+| alma_mater       = [[University of Chicago]] {{small|([[Bachelor of Arts|BA]], [[Master of Arts|MA]], [[Doctor of Philosophy|PhD]])}}<br>
+| doctoral_advisor = [[H. Gregg Lewis]]<br>[[Dale W. Jorgenson]]
+| doctoral_students= [[Marcel Boyer]]<br>[[Costas Azariadis]]<br>[[Jean-Pierre Danthine]]<br>[[Boyan Jovanovic]]<br>[[Paul Romer]]<br>[[Benjamin Moll]]
+| contributions    = [[Rational expectations]]<br>[[Lucas critique]]<br>
+| awards           = [[Nobel Memorial Prize in Economic Sciences]] (1995)
+| signature        = <!-- file name only -->
+| repec_prefix = e | repec_id = plu15
+}}
+{{Chicago school sidebar|expanded=People}}
+{{Macroeconomics sidebar}}
+'''Robert Emerson Lucas Jr.''' (born September 15, 1937) is an American [[economist]] at the [[University of Chicago]], where he is currently the John Dewey Distinguished Service Professor Emeritus in Economics and the College. Widely regarded as the central figure in the development of the [[New classical macroeconomics|new classical approach to macroeconomics]],<ref>{{cite book |first1=Brian |last1=Snowdon |first2=Howard R. |last2=Vane |title=Modern Macroeconomics: Its Origin, Development and Current State |location=Cheltenham |publisher=Edgar Elgar |year=2005 |isbn=978-1-84542-208-0 |pages=220–223 |url=https://books.google.com/books?id=2OEPPVsIXcMC&pg=PA220 }}</ref> he received the [[Nobel Memorial Prize in Economic Sciences|Nobel Prize in Economics]] in 1995 "for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy".<ref>{{Cite encyclopedia|url=https://www.britannica.com/biography/Robert-E-Lucas-Jr|title=Robert E. Lucas, Jr. {{!}} American economist|encyclopedia=Encyclopedia Britannica|access-date=2017-08-02|language=en}}</ref><ref>{{cite web|url=http://nobelprize.org/nobel_prizes/economics/laureates/1995/|title=The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 1995|publisher=Nobel Foundation|access-date=2008-10-14}}</ref> He has been characterized by [[N. Gregory Mankiw]] as "the most influential macroeconomist of the last quarter of the 20th century."<ref>{{cite news|last=Mankiw|first=N. Gregory|title=Back In Demand|url=https://online.wsj.com/news/articles/SB10001424052970204518504574417810281734756|newspaper=Wall Street Journal|date=September 21, 2009}}</ref> As of 2020, he ranks as the 11th most cited economist in the world. <ref>{{cite web|url=https://ideas.repec.org/top/top.person.all.html|title = Top 10% Authors, as of August 2020}}</ref>
+
+==Biography==
+Lucas was born in 1937 in [[Yakima, Washington]], and was the eldest child of Robert Emerson Lucas and Jane Templeton Lucas.
+
+Lucas received his [[B.A.]] in [[History]] in 1959 from the [[University of Chicago]]. While he was attending [[University of California, Berkeley]] as a graduate student in 1959, Lucas left Berkeley due to financial reasons and returned to Chicago in 1960, earning a [[Ph.D.]] in [[Economics]] in 1964.<ref>{{Cite web|url=https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1995/lucas-bio.html|title=Robert E. Lucas Jr. - Biographical|website=www.nobelprize.org|access-date=2016-11-16}}</ref> His dissertation "Substitution between Labor and Capital in U.S. Manufacturing: 1929–1958" was written under the supervision of [[H. Gregg Lewis]] and [[Dale Jorgenson]].<ref>{{cite journal |last=Andrada |first=Alexandre F. S. |title=Understanding Robert E. Lucas Jr. His Influence and Influences |year=2014 |ssrn=2515932 }}</ref> Lucas studied economics for his Ph.D. on "quasi-Marxist" grounds. He believed that economics was the true driver of history, and so he planned to immerse himself fully in economics and then return to the history department.<ref>{{cite web |last=Roberts |first=Russ |title=Lucas on Growth, Poverty and Business Cycles |url=http://www.econtalk.org/archives/_featuring/bob_lucas/ |work=[[EconTalk]] |publisher=[[Library of Economics and Liberty]] |author-link=Russ Roberts |date=February 5, 2007}}</ref>
+
+Following his graduation, Lucas taught at the [[Graduate School of Industrial Administration]] (now [[Tepper School of Business]]) at [[Carnegie Mellon University]] until 1975, when he returned to the [[University of Chicago]].<ref>{{cite book |last=Pressman |first=Steven |title=Fifty Major Economists |url=https://archive.org/details/fiftymajoreconom00pres_478 |url-access=limited |pages=[https://archive.org/details/fiftymajoreconom00pres_478/page/n205 193]–197 |location=London |publisher=Routledge |year=1999 |isbn=978-0-415-13481-1 }}</ref>
+
+After his divorce from Rita Lucas, he married [[Nancy Stokey]]. They have collaborated in papers on [[growth theory]], [[public finance]], and [[monetary theory]]. Lucas has two sons: Stephen Lucas and Joseph Lucas.
+
+A collection of his papers is housed at the Rubenstein Library at [[Duke University]].<ref>{{cite web |url=http://library.duke.edu/rubenstein/findingaids/lucasrobert/ |title=Robert E. Lucas Papers, 1960–2004 and undated |publisher=Rubenstein Library, Duke University}}</ref>
+
+==Contributions==
+
+===Rational expectations===
+Lucas is well known for his investigations into the implications of the assumption of the [[rational expectations]] theory. Lucas (1972) incorporates the idea of rational expectations into a dynamic general equilibrium model.  The agents in Lucas's model are rational: based on the available information, they form expectations about future prices and quantities, and based on these expectations they act to maximize their expected lifetime utility. He also provided sound theory fundamental to [[Milton Friedman]] and [[Edmund Phelps]]'s view of the long-run neutrality of money, and provide an explanation of the correlation between output and inflation, depicted by the [[Phillips curve]].
+
+===Lucas critique===
+{{Main|Lucas critique}}
+Lucas (1976) challenged the foundations of macroeconomic theory (previously dominated by the [[Keynesian economics]] approach), arguing that a [[macroeconomic model]] should be built as an aggregated version of [[microfoundations|microeconomic models]] while noting that aggregation in the theoretical sense may not be possible within a given model. He developed the "[[Lucas critique]]" of economic policymaking, which holds that relationships that appear to hold in the economy, such as an apparent relationship between inflation and unemployment, could change in response to changes in economic policy. That led to the development of [[new classical macroeconomics]] and the drive towards [[Microfoundations|microeconomic foundations]] for macroeconomic theory.<ref>{{Cite web|url=http://policonomics.com/lp-ncm-robert-lucas/|title=New Classical Macroeconomics: Robert Lucas {{!}} Policonomics|website=policonomics.com|language=en-US|access-date=2017-08-02}}</ref>
+
+===Other contributions===
+Lucas developed [[Lucas aggregate supply function|a theory of supply]] that suggests people can be tricked by unsystematic monetary policy; the [[Uzawa–Lucas model]] (with [[Hirofumi Uzawa]]) of human capital accumulation; and the "[[Lucas paradox]]", which considers why more capital does not flow from developed countries to developing countries. Lucas (1988) is a seminal contribution in the economic development and growth literature. Lucas and [[Paul Romer]] heralded the birth of [[endogenous growth theory]] and the resurgence of research on [[economic growth]] in the late 1980s and the 1990s.
+
+He also contributed foundational contributions to behavioral economics, and provided the intellectual foundation for the understanding of deviations from the [[law of one price]] based on the irrationality of investors.
+
+In 2003, he stated, about 5 years before the [[Great Recession]], that the "central problem of depression-prevention has been solved, for all practical purposes, and has in fact been solved for many decades."<ref>{{cite news| url=https://www.nytimes.com/2009/01/05/opinion/05krugman.html?_r=0 | work=The New York Times | title=Fighting Off Depression | date=January 4, 2009}}</ref>
+
+He also proposed the [[Lucas Wedge]] which tries to show how much higher GDP would be in the presence of proper policy.
+
+==Bibliography==
+* {{cite journal|author=Lucas, Robert|title=Expectations and the Neutrality of Money|journal=Journal of Economic Theory|year=1972|volume=4|issue=2|pages=103–24|doi=10.1016/0022-0531(72)90142-1|citeseerx=10.1.1.592.6178}}
+* {{cite journal |author=Lucas, Robert |title=Econometric Policy Evaluation: A Critique |journal=Carnegie-Rochester Conference Series on Public Policy |year=1976 |volume=1 |pages=19–46 |doi=10.1016/S0167-2231(76)80003-6|citeseerx=10.1.1.726.1610 }}
+* {{cite journal |author=Lucas, Robert |title=On the Mechanics of Economic Development |journal=Journal of Monetary Economics |year=1988 |volume=22 |issue=1 |pages=3–42 |doi=10.1016/0304-3932(88)90168-7|s2cid=154875771 }}
+* {{cite journal |author=Lucas, Robert |title=Why Doesn't Capital Flow from Rich to Poor Countries |journal=American Economic Review |year=1990 |volume=80 |issue=2 |pages=92–96 |jstor=2006549}}
+* {{cite book |author=Lucas, Robert |title=Studies in Business-Cycle Theory |publisher=MIT Press |year=1981 |isbn=978-0-262-62044-4 |url-access=registration |url=https://archive.org/details/studiesinbusines00luca }}
+* Lucas, Robert (1995) – [https://www.nobelprize.org/uploads/2018/06/lucas-lecture.pdf "Monetary Neutrality" ''Prize Lecture – 1995 Nobel Prize in economics , December 7, 1995'']
+* Stokey, Nancy; Robert Lucas; and Edward Prescott (1989), ''Recursive Methods in Economic Dynamics.'' Harvard University Press, {{ISBN|0-674-75096-9}}.
+*Lucas, Robert E. Jr. "The History and Future of Economic Growth", ''[[The 4% Solution: Unleashing the Economic Growth America Needs]]'', edited by Brendan Miniter. New York: Crown Business. 2012.
+*Lucas, Robert E. Jr. and  Benjamin Moll, 2014, "Knowledge Growth and the Allocation of Time", Journal of Political Economy, University of Chicago Press, vol. 122(1), pages 1 - 51.<ref>{{cite journal |last1=Jucas Jr. |first1=Robert E. |last2=Moll |first2=Benjamin |title=Knowledge Growth and the Allocation of Time |journal=Journal of Political Economy |date=2014 |doi=10.3386/w17495 |url=https://www.nber.org/papers/w17495 |access-date=9 April 2019|doi-access=free }}</ref>
+
+==See also==
+* [[Welfare cost of business cycles]]
+* [[List of economists]]
+* [[Lucas islands model]]
+* [[Uzawa–Lucas model]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+* {{cite book |last=Galbács |first=Peter |title=The Theory of New Classical Macroeconomics. A Positive Critique |location=Heidelberg/New York/Dordrecht/London |publisher=Springer |year=2015 |isbn= 978-3-319-17578-2|doi=10.1007/978-3-319-17578-2|series=Contributions to Economics }}
+* {{cite book |last=Kasper |first=Sherryl |title=The Revival of Laissez-Faire in American Macroeconomic Theory: A Case Study of Its Pioneers |chapter=Robert E. Lucas, Jr and new classical economics |publisher=Edward Elgar |year=2002 |chapter-url=https://www.google.com/books/edition/The_Revival_of_Laissez_faire_in_American/TBUqu6hiHLgC?hl=en&gbpv=1&pg=PA127 }}
+
+==External links==
+{{wikiquote}}
+* [https://web.archive.org/web/20080705164017/http://home.uchicago.edu/%7Esogrodow Robert E. Lucas Jr.'s website at University of Chicago]
+* {{Nobelprize|namn=Robert E. Lucas Jr.}} includes the Prize Lecture on December 7, 1995 ''Monetary Neutrality''
+* [https://web.archive.org/web/20051224133028/http://ca.geocities.com/econ_0909meet/lucas-autobio.html  Robert E. Lucas Jr. – Autobiography]
+* [http://nobelprize.org/nobel_prizes/economics/laureates/1995/press.html Nobel Prize Press Release]
+* [https://ideas.repec.org/e/plu15.html IDEAS/RePEc]
+* [https://web.archive.org/web/20090911005106/http://blogs.channel4.com/snowblog/2009/09/08/chicago-defends-itself-against-keynesian-attacks/ Interview on] [[Channel 4]]
+* [https://www.wsj.com/articles/SB10001424053111904194604576583382550849232?mod=rss_opinion_main/ Chicago Economics on Trial ]
+* {{Cite encyclopedia |title=Robert E. Lucas Jr. (1937– ) |url=http://www.econlib.org/library/Enc/bios/Lucas.html |encyclopedia=[[The Concise Encyclopedia of Economics]] |edition=2nd |series=[[Library of Economics and Liberty]] |publisher=[[Liberty Fund]] |year=2008 }}
+* [https://www.ubs.com/microsites/nobel-perspectives/en/robert-lucas.html Interviews with Robert Lucas as part of the Nobel Perspectives project]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{s-start}}
+{{s-ach|aw}}
+{{s-bef | before = [[John C. Harsanyi]] | before2 = [[John F. Nash Jr.]] | before3 = [[Reinhard Selten]] }}
+{{s-ttl | title = [[List of Nobel Memorial Prize laureates in Economics|Laureate of the Nobel Memorial Prize in Economics]] | years = 1995 }}
+{{s-aft | after = [[James A. Mirrlees]] | after2 = [[William Vickrey]] }}
+{{s-aca}}
+{{s-bef | before = [[Sherwin Rosen]] }}
+{{s-ttl | title = [[American Economic Association#Association presidents|President]] of the [[American Economic Association]] | years = 2002–2003 }}
+{{s-aft | after = [[Peter Diamond]] }}
+{{s-end}}
+
+{{Nobel laureates in economics 1976-2000}}
+{{1995 Nobel Prize winners}}
+{{macroeconomics-footer}}
+{{Neoclassical economists}}
+{{Presidents of the Econometric Society}}
+{{Presidents of the American Economic Association}}
+{{Authority control}}
+{{Portal bar|Biography|Business and economics}}
+
+{{DEFAULTSORT:Lucas, Robert E. Jr.}}
+[[Category:1937 births]]
+[[Category:Living people]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Macroeconomists]]
+[[Category:New classical economists]]
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Nobel laureates in Economics]]
+[[Category:American Nobel laureates]]
+[[Category:University of Chicago alumni]]
+[[Category:University of Chicago faculty]]
+[[Category:People from Yakima, Washington]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Presidents of the Econometric Society]]
+[[Category:Presidents of the American Economic Association]]
+[[Category:Earhart Foundation Fellows]]
+[[Category:Growth economists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:National Bureau of Economic Research]]
+[[Category:Economists from Washington (state)]]
+[[Category:Nancy L. Schwartz Memorial Lecture speakers]]

@@ -15,7 +15,7 @@
 |field             = [[Experimental psychology]]
 |work_institutions = [[Leipzig University]]
 |alma_mater        = [[Leipzig University]]<br /><small>(MD, 1815)</small>
-|doctoral_advisor  = {{link-en|Johann Christian Rosenmüller}}
+|doctoral_advisor  = [[Johann Christian Rosenmüller]]
 |academic_advisors = [[Ernst Chladni]]<br />[[Ludwig Wilhelm Gilbert]]<br />[[Johann Christian August Clarus]]
 |doctoral_students = 
 |notable_students  = [[Hermann Lotze]]
@@ -40,33 +40,33 @@ Weber describes [[just-noticeable difference]] as the following, “in observing
 
 === Weber's Law ===
 
-Weber’s Law, as labeled by [[Gustav Theodor Fechner]], established that sensory events can be related mathematically to measurable relative changes in physical stimulus values.<ref name=History>Murray, David J. A History of Western Psychology. Second ed. Englewood Cliffs, NJ: Prentice-Hall, 1983. Print.</ref> 
-:ΔR/R = k           
+Weber’s Law, as labeled by [[Gustav Theodor Fechner]], established that sensory events can be related mathematically to measurable relative changes in physical stimulus values.<ref name=History>Murray, David J. A History of Western Psychology. Second ed. Englewood Cliffs, NJ: Prentice-Hall, 1983. Print.</ref>
+:ΔR/R = k
 ::ΔR: amount of stimulation that needs to be added to produce a jnd
 ::R: amount of existing stimulation
 ::K: constant (different for each sense)
- 
+
 Weber’s law is invalid as the stimulus approaches the upper or lower limits of a sensory modality. Fechner took inspiration from Weber’s Law and developed what we know today as Fechner’s Law. Fechner’s Law varied and was advanced in the fact that Fechner had developed new methods for measuring just-noticeable differences in different sense modalities, making the measured results more accurate.<ref name=Pioneers/>
 
 === Experimental Psychology ===
 
 For most of his career, Weber worked with his brothers, Wilhelm and Eduard, and partner Gustav Theodor Fechner.<ref name=history>Bringmann, Wolfgang G., and Helmut E. Lück. "Ernst Heinrich Weber." A Pictorial History of Psychology. Chicago: Quintessence Pub., 1997. 97–100. Print</ref> Throughout these working relationships, Weber completed research on the central nervous system, auditory system, anatomy and function of brain, circulation, etc., and a large portion of research on sensory physiology and psychology. The following items are part of Weber’s contributions the [[experimental psychology]]:
-               
+
 ==== Experimental Wave Theory ====
 
 Studied flow and movement of waves in liquids and elastic tubes.<ref name=history>Bringmann, Wolfgang G., and Helmut E. Lück. "Ernst Heinrich Weber." A Pictorial History of Psychology. Chicago: Quintessence Pub., 1997. 97–100. Print</ref>
-               
+
 ==== Hydrodynamics ====
 
-Weber discovered laws and applied them to circulation.<ref name=history>Bringmann, Wolfgang G., and Helmut E. Lück. "Ernst Heinrich Weber." A Pictorial History of Psychology. Chicago: Quintessence Pub., 1997. 97–100. Print</ref> In 1821, Weber launched a series of experiments on the physics of fluids with his younger brother Wilhelm. This research was the first detailed account of hydrodynamic principles in the circulation of blood. Weber continued his research on blood and in 1827, he made another significant finding.  Weber explained the elasticity of blood vessels in the movement of blood in the aorta in a continuous flow to the capillaries and arterioles. 
-               
+Weber discovered laws and applied them to circulation.<ref name=history>Bringmann, Wolfgang G., and Helmut E. Lück. "Ernst Heinrich Weber." A Pictorial History of Psychology. Chicago: Quintessence Pub., 1997. 97–100. Print</ref> In 1821, Weber launched a series of experiments on the physics of fluids with his younger brother Wilhelm. This research was the first detailed account of hydrodynamic principles in the circulation of blood. Weber continued his research on blood and in 1827, he made another significant finding.  Weber explained the elasticity of blood vessels in the movement of blood in the aorta in a continuous flow to the capillaries and arterioles.
+
 ==== Two-point Threshold Technique ====
 
 This technique helped map sensitivity and touch acuity on the body using compass technique. Points of a compass would be set at varying distances in order to see at what distance are the points of the compass perceived as two separate points instead of one single point.<ref name=Psychophysics>Viney, Wayne, D. Brett. King, and William Douglas. Woody. "Psychophysics and the Formal Founding of Psychology." A History of Psychology: Ideas and Context. N.p.: n.p., n.d. 224–27. Print.</ref>  Weber also wrote about and tested other ideas on sensation including a terminal threshold, which is the highest intensity an individual could sense before the sensation could not be detected any longer.
-              
+
 ==== Weber’s Illusion ====
 
-Weber’s Illusion is an "experience of divergence of two points when stimulation is moved over insensitive areas and convergence of two points when moved over sensitive areas".<ref name=Psychophysics>Viney, Wayne, D. Brett. King, and William Douglas. Woody. "Psychophysics and the Formal Founding of Psychology." A History of Psychology: Ideas and Context. N.p.: n.p., n.d. 224–27. Print.</ref> 
+Weber’s Illusion is an "experience of divergence of two points when stimulation is moved over insensitive areas and convergence of two points when moved over sensitive areas".<ref name=Psychophysics>Viney, Wayne, D. Brett. King, and William Douglas. Woody. "Psychophysics and the Formal Founding of Psychology." A History of Psychology: Ideas and Context. N.p.: n.p., n.d. 224–27. Print.</ref>
 Weber’s use of multivariate experiment, precise measurements, and research on sensory psychology and sensory physiology laid the groundwork for accepting experimental psychology as a field and providing new ideas for fellow 19th century psychologists to expand.<ref name=history>Bringmann, Wolfgang G., and Helmut E. Lück. "Ernst Heinrich Weber." A Pictorial History of Psychology. Chicago: Quintessence Pub., 1997. 97–100. Print</ref>
 
 ==Later career==
@@ -74,7 +74,7 @@ In 1817, Weber was appointed as the Dozent of Psychology at Leipzig.  He moved o
 
 ==Publications==
 
-In ''De Tactu'', published in English as ''On touch: anatomical and physiological notes'',<ref name=Introduction>Hergenhahn, B. R., & Henley, Tracy B. (2013). ''An introduction to the history of psychology'', 237–238. Cengage Learning</ref> Weber proposed there was a threshold of sensation in each individual. The [[two-point threshold]], the smallest distance between two points where a person determines that it is two points and not one, was Weber’s first discovery.  
+In ''De Tactu'', published in English as ''On touch: anatomical and physiological notes'',<ref name=Introduction>Hergenhahn, B. R., & Henley, Tracy B. (2013). ''An introduction to the history of psychology'', 237–238. Cengage Learning</ref> Weber proposed there was a threshold of sensation in each individual. The [[two-point threshold]], the smallest distance between two points where a person determines that it is two points and not one, was Weber’s first discovery.
 
 Weber’s work made a significant impact on the field of [[experimental psychology]], as he was one of the first scientist to test his ideas on humans. His meticulous notes and new ideas of testing subjects described in his book ''Der tastsinn und das gemeingefühl'' (English: "The sense of touch and the common sensibility") led [[E. B. Titchener]] to call the work "the foundation stone of experimental psychology".<ref name=Britannica>Ernst Heinrich Weber. (2013). In Encyclopædia Britannica. Retrieved from http://www.britannica.com/EBchecked/topic/638544/Ernst-Heinrich-Weber</ref>
 The book that described blood circulation research, ''Wellenlehre, auf Experimenten gegrϋndet'' (English: "Wave Theory, Founded on Experiments") became instantly recognized as very important to physics and physiology.  This research lead the way for future investigating, although it was not formally published until 1850 with the culmination of the rest of his research on blood in a book entitled, ''Ueber die Anwendung der Wellenlehre auf die Lehre vom Kreislauf des Blutes und insbesondere auf die Pulslehre'' (English: "Concerning the application of the wave theory to the theory of the circulation of the blood and, in particular, on the pulse teaching").<ref name=Clinical>{{cite journal | last1 = Fye | first1 = Bruce W | year = 2000 | title = Emst, Wilhelm, and Eduard Weber | journal = Clinical Cardiology | volume = 23 | issue = 9| pages = 709–710 | doi=10.1002/clc.4960230915| pmid = 11016024 | pmc = 6655061 }}</ref>
@@ -90,7 +90,7 @@ Joint works with his brothers [[Wilhelm Eduard Weber]] and [[Eduard Weber|Eduard
 * ''Annotationes anatomicae et physiologicae'' (1851)
 
 ==Legacy and influence==
-Weber is often cited as the pioneer or father of experimental psychology.  He was the first to conduct true psychological experiments that held validity.  While most psychologists of the time conducted work from behind a desk, Weber was actively conducting experiments, manipulating only one variable at a time in order to gain more accurate results.  This paved the way for the field of psychology as an experimental science and opened the way for the development of even more accurate and intense research methods.<ref name=story>Hunt, M. (1993). The story of psychology. (1st ed., pp. 112–114). New York: Doubleday.</ref> 
+Weber is often cited as the pioneer or father of experimental psychology.  He was the first to conduct true psychological experiments that held validity.  While most psychologists of the time conducted work from behind a desk, Weber was actively conducting experiments, manipulating only one variable at a time in order to gain more accurate results.  This paved the way for the field of psychology as an experimental science and opened the way for the development of even more accurate and intense research methods.<ref name=story>Hunt, M. (1993). The story of psychology. (1st ed., pp. 112–114). New York: Doubleday.</ref>
 One of Weber’s greatest influences was on [[Gustav Fechner]].  Weber was appointed the [[Dozent]] of Psychology at the University of Leipzig the same year that Fechner enrolled.  Weber’s work with sensation inspired Fechner to further the work and go on to develop Weber’s law.  At the time of his sensation work, Weber did not fully realize the implications that his experiments would have on understanding of sensory stimulus and response.<ref name= Great>Watson, R. (1963). The great psychologists: From aristotle to freud. (2nd ed., pp. 234–241). J.B. Lippincott Company.</ref>
 
 == See also ==

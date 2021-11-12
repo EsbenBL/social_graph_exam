@@ -1,0 +1,216 @@
+{{Short description|American philosopher of science (1922-1996)}}
+{{Use mdy dates|date=August 2016}}
+{{Infobox philosopher
+|region = [[Western philosophy]]
+|era = [[20th-century philosophy]]
+|image = Thomas Kuhn.jpg
+|caption = Kuhn in 1973
+|birth_name = Thomas Samuel Kuhn
+|birth_date = {{birth date|1922|7|18}}
+|birth_place = [[Cincinnati]], [[Ohio]], U.S.
+|death_date = {{death date and age|1996|6|17|1922|7|18}}
+|death_place = [[Cambridge, Massachusetts|Cambridge]], [[Massachusetts]], U.S.
+|education = [[Harvard University]] (PhD, 1949)
+|thesis_title = The Cohesive Energy of Monovalent Metals as a Function of Their Atomic Quantum Defects
+|thesis_url = https://ui.adsabs.harvard.edu/abs/1949PhDT........11K/abstract
+|institutions = [[Harvard University]]
+|school_tradition = [[Analytic philosophy|Analytic]]<br>[[Historical turn]]<ref>K. Brad Wray, ''Kuhn's Evolutionary Social Epistemology'', Cambridge University Press, 2011, p. 87.</ref><br>[[Historiographical externalism]]<ref>Alexander Bird, "Kuhn and the Historiography of Science" in Alisa Bokulich and William J. Devlin (eds.), ''Kuhn's Structure of Scientific Revolutions: 50 Years On'', Springer, 2015.</ref>
+|main_interests = [[Philosophy of science]]<br>[[History of science]]
+|notable_ideas = {{flatlist|
+* [[Paradigm shift]]
+* [[Commensurability (philosophy of science)|Incommensurability]]
+* [[Normal science]]
+* Kuhn loss<ref>[https://plato.stanford.edu/entries/thomas-kuhn/ Thomas Kuhn (Stanford Encyclopedia of Philosophy)]: "Not all the achievements of the preceding period of normal science are preserved in a revolution, and indeed a later period of science may find itself without an explanation for a phenomenon that in an earlier period was held to be successfully explained. This feature of scientific revolutions has become known as 'Kuhn-loss'". The term was coined by Heinz R. Post in Post, H. R. (1971), "Correspondence, Invariance and Heuristics," ''Studies in History and Philosophy of Science'', '''2''', 213–255.</ref>
+* [[Transcendental nominalism]]<ref>"Transcendental nominalism" is a position ascribed to Kuhn by [[Ian Hacking]] (see D. Ginev, Robert S. Cohen (eds.), ''Issues and Images in the Philosophy of Science: Scientific and Philosophical Essays in Honour of Azarya Polikarov'', Springer, 2012, p. 313).</ref>
+}}
+|influences = {{flatlist|
+* [[Immanuel Kant]]<ref>Aviezer Tucker (ed.), ''A Companion to the Philosophy of History and Historiography'', Blackwell Publishing, 2011 : "Analytic Realism".</ref>
+* [[Alexandre Koyré]]<ref>Thomas S. Kuhn, ''[[The Structure of Scientific Revolutions]]''. Chicago and London: University of Chicago Press, 1970 (2nd ed.), p. 48.</ref>
+* [[Michael Polanyi]]<ref name=Kuhn44>Thomas S. Kuhn, ''[[The Structure of Scientific Revolutions]]''. Chicago and London: University of Chicago Press, 1970 (2nd ed.), p. 44.</ref>
+* [[John Hasbrouck Van Vleck]]<ref>Robert J. Richards, Lorraine Daston (eds.), ''Kuhn's 'Structure of Scientific Revolutions' at Fifty: Reflections on a Science Classic'', University of Chicago Press, 2016, p. 47.</ref>
+* [[Ludwik Fleck]]<ref name=Kuhnvi>Thomas S. Kuhn, ''[[The Structure of Scientific Revolutions]]''. Chicago and London: University of Chicago Press, 1970 (2nd ed.), p. vi.</ref>
+* [[Ludwig Wittgenstein]]<ref name=Kuhn44/>
+* [[Anneliese Maier]]<ref name=Kuhnvi/>
+* [[Hélène Metzger]]<ref name=Kuhnvi/>
+* [[Émile Meyerson]]<ref name=Kuhnvi/>
+* [[Jean Piaget]]<ref name="Burman, J. T. 2007">{{Cite journal | doi = 10.1177/0959354307079306 | last1 = Burman | first1 = J. T. | year = 2007 | title = Piaget No 'Remedy' for Kuhn, But the Two Should be Read Together: Comment on Tsou's 'Piaget vs. Kuhn on Scientific Progress' | journal = Theory & Psychology | volume = 17 | issue = 5| pages = 721–732 | s2cid = 145497321 }}</ref>
+* [[Karl Popper]]<ref>Thomas S. Kuhn, ''[[The Structure of Scientific Revolutions]]''. Chicago and London: University of Chicago Press, 1970 (2nd ed.), p. 146.</ref>
+* [[Norwood Russell Hanson]]<ref>Thomas S. Kuhn, ''[[The Structure of Scientific Revolutions]]''. Chicago and London: University of Chicago Press, 1970 (2nd ed.), p. 27.</ref>
+* [[Herbert Butterfield]]<ref>Thomas S. Kuhn, ''[[The Structure of Scientific Revolutions]]''. Chicago and London: University of Chicago Press, 1970 (2nd ed.), p. 85.</ref>
+}}
+|influenced = {{flatlist|
+* [[Paul Feyerabend]]
+* [[Imre Lakatos]]
+* [[Philip Kitcher]]
+* [[Martin Cohen (philosopher)|Martin Cohen]]
+}}
+}}
+
+'''Thomas Samuel Kuhn''' ({{IPAc-en|k|uː|n}}; July 18, 1922&nbsp;– June 17, 1996) was an American [[philosophy of science|philosopher of science]] whose 1962 book ''[[The Structure of Scientific Revolutions]]'' was influential in both academic and popular circles, introducing the term ''[[paradigm shift]]'', which has since become an English-language idiom.
+
+Kuhn made several claims concerning the progress of [[science|scientific knowledge]]: that scientific fields undergo periodic "paradigm shifts" rather than solely progressing in a linear and continuous way, and that these paradigm shifts open up new approaches to understanding what scientists would never have considered valid before; and that the notion of scientific truth, at any given moment, cannot be established solely by [[Objectivity (philosophy)|objective]] criteria but is defined by a consensus of a [[scientific community]]. Competing paradigms are frequently [[Commensurability (philosophy of science)|incommensurable]]; that is, they are competing and irreconcilable accounts of reality. Thus, our comprehension of science can never rely wholly upon "objectivity" alone. Science must account for [[Subjectivity|subjective]] perspectives as well, since all objective conclusions are ultimately founded upon the subjective conditioning/worldview of its researchers and participants.
+
+==Life==
+Kuhn was born in [[Cincinnati, Ohio]], to Samuel L. Kuhn, an industrial engineer, and Minette Stroock Kuhn, both Jewish.<ref>http://www.jinfo.org/Philosophers.html</ref>
+
+From kindergarten through fifth grade, he was educated at Lincoln School, a private [[progressive school]] in Manhattan, which stressed independent thinking rather than learning facts and subjects. The family then moved 40 miles north to the small town of [[Croton-on-Hudson, New York|Croton-on-Hudson]] where, once again, he attended a private progressive school – [[Hessian Hills School]]. It was here that, in sixth through ninth grade, he learned to love mathematics.  He left Hessian Hills in 1937. He graduated from [[Taft School|The Taft School]] in Watertown, Connecticut, in 1940.<ref>{{Cite web|url=https://www.famousscientists.org/thomas-kuhn/|title=Thomas Kuhn - Biography, Facts and Pictures|language=en-US|access-date=2019-11-30}}</ref>
+
+He obtained his [[Bachelor of Science|BSc]] degree in [[physics]] from [[Harvard College]] in 1943, where he also obtained [[Master of Science|MSc]] and PhD degrees in physics in 1946 and 1949, respectively, under the supervision of [[John Hasbrouck Van Vleck|John Van Vleck]].{{Citation needed|date=March 2018}} As he states in the first few pages of the preface to the second edition of ''[[The Structure of Scientific Revolutions]]'', his three years of total academic freedom as a [[Harvard Junior Fellow]] were crucial in allowing him to switch from physics to the history and philosophy of science. He later taught a course in the history of science at Harvard from 1948 until 1956, at the suggestion of university president [[James Bryant Conant|James Conant]]. After leaving Harvard, Kuhn taught at the [[University of California, Berkeley]], in both the philosophy department and the history department, being named Professor of the [[history of science]] in 1961. Kuhn interviewed and tape recorded Danish physicist [[Niels Bohr]] the day before Bohr's death.<ref name='bohr'>{{cite web|url=https://www.aip.org/history-programs/niels-bohr-library/oral-histories/4517-5|title=Last interview with Niels Bohr by Thomas S. Kuhn, Leon Rosenfeld, Aage Petersen, and Erik Rudinger at Professor Bohr's Office, Carlsberg, Copenhagen, Denmark Saturday morning, November 17, 1962 |access-date=October 5, 2015 |author=Thomas S. Kuhn |date=November 17, 1962 |work=Oral History Transcript – Niels Bohr |publisher=Center for History of Physics |display-authors=etal}}</ref> At Berkeley, he wrote and published (in 1962) his best known and most influential work:<ref>{{citation |author=Alexander Bird |title=Thomas Kuhn |url=http://plato.stanford.edu/entries/thomas-kuhn/ |publisher=Stanford Encyclopedia of Philosophy |year=2004}}</ref> ''The Structure of Scientific Revolutions''. In 1964, he joined [[Princeton University]] as the M.&nbsp;Taylor Pyne Professor of Philosophy and History of Science. He served as the president of the [[History of Science Society]] from 1969 to 1970.<ref>The History of Science Society [http://www.hssonline.org/about/society_presidents.html "The Society: Past Presidents of the History of Science Society"] {{webarchive|url=https://web.archive.org/web/20131212134009/http://www.hssonline.org/about/society_presidents.html |date=December 12, 2013 }}. Retrieved December 4, 2013</ref> In 1979 he joined the [[Massachusetts Institute of Technology]] (MIT) as the [[Laurance Rockefeller|Laurance S. Rockefeller]] Professor of Philosophy, remaining there until 1991. In 1994 Kuhn was diagnosed with lung cancer. He died in 1996.
+
+Thomas Kuhn was married twice, first to Kathryn Muhs with whom he had three children, then to Jehane Barton Burns (Jehane B. Kuhn).
+
+==''The Structure of Scientific Revolutions''==
+{{Main|The Structure of Scientific Revolutions}}
+''The Structure of Scientific Revolutions'' (''SSR'') was originally printed as an article in the ''[[International Encyclopedia of Unified Science]]'', published by the [[logical positivism|logical positivists]] of the [[Vienna Circle]]. In this book, Kuhn argued that science does not progress via a linear accumulation of new knowledge, but undergoes periodic revolutions, also called "[[paradigm shift]]s" (although he did not coin the phrase, he did contribute to its increase in popularity),<ref>{{cite journal
+ |last        = Horgan
+ |first       = John
+ |title       = Profile: Reluctant Revolutionary
+ |journal     = Scientific American
+ |volume = 264
+ |issue = 5
+ |date        = May 1991
+ |pages       = 40–49
+ |url         = http://lilt.ilstu.edu/gmklass/foi/readings/horgan.htm
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20110920161218/http://lilt.ilstu.edu/gmklass/foi/readings/horgan.htm
+ |archive-date = September 20, 2011
+ |df          = mdy-all
+|doi = 10.1038/scientificamerican0591-40
+ |bibcode = 1991SciAm.264e..40H
+ }}</ref> in which the nature of scientific inquiry within a particular field is abruptly transformed. In general, science is broken up into three distinct stages. Prescience, which lacks a central paradigm, comes first. This is followed by "[[normal science]]", when scientists attempt to enlarge the central paradigm by "puzzle-solving". Guided by the paradigm, normal science is extremely productive: "when the paradigm is successful, the profession will have solved problems that its members could scarcely have imagined and would never have undertaken without commitment to the paradigm".<ref>{{cite book
+|last=Kuhn
+|first=Thomas
+|title=The Structure of Scientific Revolutions
+|year=2000
+|publisher=The University of Chicago Press
+|pages=24–25
+|isbn=978-1-4432-5544-8
+}}</ref>
+
+In regard to experimentation and collection of data with a view toward solving problems through the commitment to a paradigm, Kuhn states: "The operations and measurements that a scientist undertakes in the laboratory are not 'the given' of experience but rather 'the collected with difficulty.' They are not what the scientist sees—at least not before his research is well advanced and his attention focused. Rather, they are concrete indices to the content of more elementary perceptions, and as such they are selected for the close scrutiny of normal research only because they promise opportunity for the fruitful elaboration of an accepted paradigm. Far more clearly than the immediate experience from which they in part derive, operations and measurements are paradigm-determined. Science does not deal in all possible laboratory manipulations. Instead, it selects those relevant to the juxtaposition of a paradigm with the immediate experience that that paradigm has partially determined. As a result, scientists with different paradigms engage in different concrete laboratory manipulations."<ref>https://projektintegracija.pravo.hr/_download/repository/Kuhn_Structure_of_Scientific_Revolutions.pdf</ref>
+
+During the period of normal science, the failure of a result to conform to the paradigm is seen not as refuting the paradigm, but as the mistake of the researcher, contra [[Karl Popper|Popper's]] [[falsifiability]] criterion. As anomalous results build up, science reaches a ''crisis'', at which point a new paradigm, which subsumes the old results along with the anomalous results into one framework, is accepted. This is termed ''revolutionary science''.
+
+In ''SSR'', Kuhn also argues that rival paradigms are [[Commensurability (philosophy of science)|incommensurable]]—that is, it is not possible to understand one paradigm through the conceptual framework and terminology of another rival paradigm. For many critics, for example [[David Stove]] (''[[Popper and After]]'', 1982), this thesis seemed to entail that theory choice is fundamentally [[irrational]]: if rival theories cannot be directly compared, then one cannot make a rational choice as to which one is better. Whether Kuhn's views had such [[Relativism|relativistic]] consequences is the subject of much debate; Kuhn himself denied the accusation of [[relativism]] in the third edition of ''SSR'', and sought to clarify his views to avoid further misinterpretation. [[Freeman Dyson]] has quoted Kuhn as saying "I am not a Kuhnian!",<ref>{{cite book
+|last=Dyson
+|first=Freeman
+|title=The Sun, the Genome, and the Internet: Tools of Scientific Revolutions
+|date=May 6, 1999
+|publisher=Oxford University Press, Inc.
+|pages=[https://archive.org/details/sungenomeinterne00dyso/page/144 144]
+|isbn=978-0-19-512942-7
+|url-access=registration
+|url=https://archive.org/details/sungenomeinterne00dyso/page/144
+}}</ref> referring to the [[relativism]] that some philosophers have developed based on his work.
+
+''The Structure of Scientific Revolutions'' is the single most widely cited book in the social sciences.<ref>{{cite web |last1=Green |first1=Elliott |title=What are the most-cited publications in the social sciences (according to Google Scholar)? |url=https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/12/what-are-the-most-cited-publications-in-the-social-sciences-according-to-google-scholar/ |website=LSE Impact Blog |access-date=27 September 2019 |date=12 May 2016}}</ref> The enormous impact of Kuhn's work can be measured in the changes it brought about in the vocabulary of the philosophy of science: besides "paradigm shift", Kuhn popularized the word "[[paradigm]]" itself from a term used in certain forms of [[linguistics]] and the work of [[Georg Lichtenberg]] to its current broader meaning, coined the term "[[normal science]]" to refer to the relatively routine, day-to-day work of scientists working within a paradigm, and was largely responsible for the use of the term "[[Paradigm shift|scientific revolutions]]" in the plural, taking place at widely different periods of time and in different disciplines, as opposed to a single [[scientific revolution]] in the late Renaissance. The frequent use of the phrase "paradigm shift" has made scientists more aware of and in many cases more receptive to paradigm changes, so that Kuhn's analysis of the evolution of scientific views has by itself influenced that evolution.{{Citation needed|date=February 2008}}
+
+Kuhn's work has been extensively used in social science; for instance, in the [[post-positivist]]/[[positivist]] debate within [[International Relations]]. Kuhn is credited as a foundational force behind the post-[[Robert K. Merton|Mertonian]] [[sociology of scientific knowledge]]. Kuhn's work has also been used in the Arts and Humanities, such as by Matthew Edward Harris to distinguish between scientific and historical communities (such as political or religious groups): 'political-religious beliefs and opinions are not epistemologically the same as those pertaining to scientific theories'.<ref>{{cite book|last=Harris|first=Matthew|title=The notion of papal monarchy in the thirteenth century : the idea of paradigm in church history|year=2010|publisher=Edwin Mellen Press|location=Lewiston, N.Y.|isbn=978-0-7734-1441-9|page=120}}</ref> This is because would-be scientists' worldviews are changed through rigorous training, through the engagement between what Kuhn calls 'exemplars' and the Global Paradigm. Kuhn's notions of paradigms and paradigm shifts have been influential in understanding the history of economic thought, for example the [[Keynesian revolution]],<ref>E.g. Ghanshyam Mehta, ''The Structure of the Keynesian Revolution'', London, 1977</ref> and in debates in political science.<ref>E.g. [[Alan Ryan]], "Paradigms Lost: How Oxford Escaped the Paradigm Wars of the 1960s and 1970s', in Christopher Hood, Desmond King, & Gillian Peele, eds, ''Forging a Discipline'', Oxford University Press, 2014.</ref>
+
+A defense Kuhn gives against the objection that his account of science from ''The Structure of Scientific Revolutions'' results in relativism can be found in an essay by Kuhn called "Objectivity, Value Judgment, and Theory Choice."<ref name="Kuhn 1977 320–39">{{cite book
+|last=Kuhn
+|first=Thomas
+|title=The Essential Tension: Selected Studies in Scientific Tradition and Change
+|year=1977
+|publisher=University of Chicago Press
+|pages=320–39
+|url=https://www.andrew.cmu.edu/user/kk3n/philsciclass/kuhn.pdf
+}}</ref> In this essay, he reiterates five criteria from the penultimate chapter of ''SSR'' that determine (or help determine, more properly) theory choice:
+# ''Accurate'' – empirically adequate with experimentation and observation
+# ''Consistent'' – internally consistent, but also externally consistent with other theories
+# ''Broad Scope'' – a theory's consequences should extend beyond that which it was initially designed to explain
+# ''Simple'' – the simplest explanation, principally similar to [[Occam's razor]]
+# ''Fruitful'' – a theory should disclose new phenomena or new relationships among phenomena
+
+He then goes on to show how, although these criteria admittedly determine theory choice, they are imprecise in practice and relative to individual scientists.  According to Kuhn, "When scientists must choose between competing theories, two men fully committed to the same list of criteria for choice may nevertheless reach different conclusions."<ref name="Kuhn 1977 320–39"/> For this reason, the criteria still are not "objective" in the usual sense of the word because individual scientists reach different conclusions with the same criteria due to valuing one criterion over another or even adding additional criteria for selfish or other subjective reasons. Kuhn then goes on to say, "I am suggesting, of course, that the criteria of choice with which I began function not as rules, which determine choice, but as values, which influence it."<ref name="Kuhn 1977 320–39"/> Because Kuhn utilizes the history of science in his account of science, his criteria or values for theory choice are often understood as descriptive normative rules (or more properly, values) of theory choice for the scientific community rather than prescriptive normative rules in the usual sense of the word "criteria", although there are many varied interpretations of Kuhn's account of science.
+
+==Post-''Structure'' Philosophy==
+Years after the publication of ''The Structure of Scientific Revolutions'', Kuhn dropped the concept of a paradigm and began to focus on the semantic aspects of scientific theories. In particular, Kuhn focuses on the taxonomic structure of scientific kind terms. As a consequence, a scientific revolution is not defined as a 'change of paradigm' anymore, but rather as a change in the taxonomic structure of the theoretical language of science.<ref>Kuhn, T. S. ''The Road Since Structure: Philosophical Essays, 1970–1993''. Chicago: University of Chicago Press, 2000. {{ISBN|0-226-45798-2}}</ref> Some scholars describe this change as resulting from a 'linguistic turn'.<ref>Irzik, G., Grünberg, T., 1998, Whorfian variations on Kantian themes: Kuhn's linguistic turn, ''Studies in History and Philosophy of Science'' 29: 207-221 [https://www.sciencedirect.com/science/article/abs/pii/S003936819800003X?via%3Dihub]</ref><ref>Bird, A., 2002, Kuhn’s wrong turning, ''Studies in History and Philosophy of Science'' 33: 443-463 [https://www.sciencedirect.com/science/article/abs/pii/S0039368102000286]</ref> In their book, Andersen, Barker and Chen use some recent theories in cognitive psychology to vindicate Kuhn's mature philosophy.<ref>Andersen, H., Barker, P., and Chen, X., ''The Cognitive Structure of Scientific Revolutions'', Cambridge University Press, 2006 [http://The%20Cognitive%20Structure%20of%20Scientific%20Revolutions]</ref>
+
+Apart from dropping the concept of a paradigm, Kuhn also began to look at the process of scientific specialisation. In a scientific revolution, a new paradigm (or a new taxonomy) replaces the old one; by contrast, specialisation leads to a proliferation of new specialties and disciplines. This attention to the proliferation of specialties would make Kuhn's model less 'revolutionary' and more 'evolutionary'. Some philosophers claim that Kuhn attempted to describe different kinds of scientific change: revolutions and specialty-creation.<ref>Wray, K. Brad, ''Kuhn's Evolutionary Social Epistemology'', Cambridge University Press, 2011</ref> Others claim that the process of specialisation is in itself a special case of scientific revolutions.<ref>Politi, V., 2018 [https://link.springer.com/article/10.1007/s11229-017-1339-6] Scientific revolutions, specialization and the discovery of the structure of DNA: toward a new picture of the development of the sciences, ''Synthese''195: 2267–2293</ref> It is also possible to argue that, in Kuhn's model, science evolves ''through'' revolutions.<ref>Kuukkanen, J.M., 2012 [https://www.taylorfrancis.com/books/e/9780203103159/chapters/10.4324/9780203103159-14] Revolution as Evolution: The Concept of Evolution in Kuhn’s Philosophy, in Kindi, V., Arabatsis, T. (Eds.) ''Kuhn's The Structure of Scientific Revolutions Revisited''</ref>
+
+==Polanyi–Kuhn debate==
+Although they used different terminologies, both Kuhn and [[Michael Polanyi]] believed that scientists' subjective experiences made science a relativized discipline. Polanyi lectured on this topic for decades before Kuhn published ''The Structure of Scientific Revolutions''.
+
+Supporters of Polanyi charged Kuhn with plagiarism, as it was known that Kuhn attended several of Polanyi's lectures, and that the two men had debated endlessly over [[epistemology]] before either had achieved fame. After the charge of plagiarism, Kuhn acknowledged Polanyi in the ''Second'' edition of ''The Structure of Scientific Revolutions''.<ref name=Kuhn44/> Despite this intellectual alliance, Polanyi's work was constantly interpreted by others within the framework of Kuhn's paradigm shifts, much to Polanyi's (and Kuhn's) dismay.<ref>Moleski, Martin X. [http://polanyisociety.org/TAD%20WEB%20ARCHIVE/TAD33-2/TAD33-2-fnl-pg8-24-pdf.pdf Polanyi vs. Kuhn: Worldviews Apart] The Polanyi Society. Retrieved October 19, 2020.</ref>
+
+==Thomas Kuhn Paradigm Shift Award==
+In honor of his legacy, the "Thomas Kuhn Paradigm Shift Award" is awarded by the [[American Chemical Society]] to speakers who present original views that are at odds with mainstream scientific understanding. The winner is selected based on the novelty of the viewpoint and its potential impact if it were to be widely accepted.<ref>{{cite web | url = http://web2011.acscomp.org/awards/thomas-kuhn-paradigm-shift-award | title = Thomas Kuhn Paradigm Shift Award | publisher = [[American Chemical Society]] | access-date = September 19, 2012}}</ref>
+
+==Honors==
+Kuhn was named a [[Guggenheim Fellowship|Guggenheim Fellow]] in 1954, and in 1982 was awarded the [[George Sarton Medal]] by the [[History of Science Society]]. He also received numerous honorary doctorates.
+
+==Bibliography==
+* Kuhn, T. S. ''[[The Copernican Revolution (book)|The Copernican Revolution: Planetary Astronomy in the Development of Western Thought]]''.  Cambridge: Harvard University Press, 1957. {{ISBN|0-674-17100-4}}
+* Kuhn, T. S.  The Function of Measurement in Modern Physical Science. ''Isis'', 52 (1961): 161–193.
+* Kuhn, T. S. ''[[The Structure of Scientific Revolutions]]''. Chicago: University of Chicago Press, 1962. {{ISBN|0-226-45808-3}}
+* Kuhn, T. S. "The Function of Dogma in Scientific Research". pp.&nbsp;347–69 in A.&nbsp;C.&nbsp;Crombie (ed.). ''Scientific Change'' (Symposium on the History of Science, University of Oxford, July 9–15, 1961).  New York and London: Basic Books and Heineman, 1963.
+* Kuhn, T. S. ''The Essential Tension: Selected Studies in Scientific Tradition and Change''. Chicago and London: University of Chicago Press, 1977. {{ISBN|0-226-45805-9}}
+* Kuhn, T. S. ''[[Black-Body Theory and the Quantum Discontinuity, 1894-1912]]''. Chicago: University of Chicago Press, 1987. {{ISBN|0-226-45800-8}}
+* Kuhn, T. S. ''The Road Since Structure: Philosophical Essays, 1970–1993''. Chicago: University of Chicago Press, 2000. {{ISBN|0-226-45798-2}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* [[Hanne Andersen]], Peter Barker, and Xiang Chen. ''The Cognitive Structure of Scientific Revolutions'', Cambridge University Press, 2006. {{ISBN|978-0521855754}}
+* [[Alexander Bird]]. ''Thomas Kuhn''. Princeton and London: Princeton University Press and Acumen Press, 2000. {{ISBN|1-902683-10-2}}
+* [[Steve Fuller (sociologist)|Steve Fuller]]. ''Thomas Kuhn: A Philosophical History for Our Times''. Chicago: University of Chicago Press, 2000. {{ISBN|0-226-26894-2}}
+* Matthew Edward Harris. ''The Notion of Papal Monarchy in the Thirteenth Century: The Idea of Paradigm in Church History.' Lampeter and Lewiston, NY: Edwin Mellen Press, 2010. {{ISBN|978-0-7734-1441-9}}.
+* [[Paul Hoyningen-Huene]] ''Reconstructing Scientific Revolutions: Thomas S. Kuhn's Philosophy of Science''. Chicago: University of Chicago Press, 1993. {{ISBN|978-0226355511}}
+* Jouni-Matti Kuukkanen, ''Meaning Changes: A Study of Thomas Kuhn's Philosophy''. AV Akademikerverlag, 2012. {{ISBN|978-3639444704}}
+* [[Errol Morris]]. ''[[The Ashtray (Or the Man Who Denied Reality)]]''. Chicago: University of Chicago Press, 2018. {{ISBN|978-0-226-51384-3}}
+* [[Sal Restivo]], The Myth of the Kuhnian Revolution. ''Sociological Theory'', Vol. 1, (1983), 293–305.
+
+==External links==
+{{wikiquote}}
+{{commons category}}
+* [http://facultysites.vassar.edu/brvannor/Asia350/kuhnhelp.html&sa=U&ved=0ahUKEwiI7raS9_LeAhWjVt8KHXWDCPoQFggEMAA&client=internal-uds-cse&cx=001814011871879729902:fppzlo8tuf4&usg=AOvVaw0H8oRYv6N_9uJRfpe6I4Mi Notes for Thomas Kuhn's "The Structure of Scientific Revolutions"]
+* {{cite SEP |url-id=thomas-kuhn |title=Thomas Kuhn |last=Bird |first=Alexander}}
+* James A. Marcum, "[http://www.iep.utm.edu/kuhn-ts/ Thomas S. Kuhn (1922–1996)]", ''Internet Encyclopedia of Philosophy''
+* [http://tech.mit.edu/V116/N28/kuhn.28n.html Thomas S. Kuhn] (obituary, ''[[The Tech (newspaper)|The Tech]]'' p.&nbsp;9 vol 116 no 28, June 26, 1996)
+* [http://www.cs.utexas.edu/users/vl/notes/weinberg.html Review in the New York Review of Books]
+* [http://stanstudio.com/Boston_Photo_Blog/photo-of-thomas-samuel-kuhn Color Portrait]
+* [http://www.philsci.com History of Twentieth-Century Philosophy of Science], BOOK VI: Kuhn on Revolution and Feyerabend on Anarchy –  with free downloads for public use.
+* [http://www.wsws.org/articles/2011/oct2011/kuhn-o28.shtml Thomas S. Kuhn, post-modernism and materialist dialectics]
+* [[Errol Morris]], [http://opinionator.blogs.nytimes.com/2011/03/06/the-ashtray-the-ultimatum-part-1/?scp=1&sq=ashtray&st=cse The Ashtray: The Ultimatum] (Part 1 [of 5 parts]), a critical view and memoir of Kuhn
+* Daniel Laskowski Tozzini, [http://acervodigital.ufpr.br/bitstream/handle/1884/26842/TOZZINI%2c%20Daniel%20-%20Objetividade%20e%20Racionalidade%20na%20Filosofia%20da%20Ciencia%20de%20Thomas%20Kuhn.%202011.pdf?sequence=1&isAllowed=y "Objetividade e racionalidade na filosofia da ciência de Thomas Kuhn"]
+* Thomas S. Kuhn Papers, MC 240. Massachusetts Institute of Technology, Institute Archives and Special Collections, Cambridge, Massachusetts.
+* Maurício Cavalcante Rios,[https://ppgefhc.ufba.br/sites/ppgefhc.ufba.br/files/mauricio_cavalcante_rios_-_dissertacao_-_kuhn_e_a_construcao_social_do_conhecimento.pdf "Thomas S. Kuhn e a Construção Social do Conhecimento Científico]
+* [http://www.informationphilosopher.com/solutions/philosophers/kuhn/ Thomas Kuhn on Information Philosopher]
+* {{Internet Archive author |sname = Thomas Kuhn}}
+{{analytic philosophy}}
+{{philosophy of science}}
+{{positivism}}
+{{Presidents of the History of Science Society}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kuhn, Thomas Samuel}}
+[[Category:Thomas Kuhn| ]]
+[[Category:1922 births]]
+[[Category:1996 deaths]]
+[[Category:Historians of science]]
+[[Category:Philosophers of science]]
+[[Category:Jewish American historians]]
+[[Category:Jewish philosophers]]
+[[Category:20th-century American historians]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American philosophers]]
+[[Category:Taft School alumni]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences faculty]]
+[[Category:Princeton University faculty]]
+[[Category:University of California, Berkeley College of Letters and Science faculty]]
+[[Category:Harvard University faculty]]
+[[Category:Harvard University alumni]]
+[[Category:Scientists from Cincinnati]]
+[[Category:Writers from Berkeley, California]]
+[[Category:Deaths from lung cancer]]
+[[Category:Members of the European Academy of Sciences and Arts]]
+[[Category:Center for Advanced Study in the Behavioral Sciences fellows]]
+[[Category:Philosophers from Ohio]]
+[[Category:Corresponding Fellows of the British Academy]]
+[[Category:Historians from Ohio]]
+[[Category:Historians from California]]
+[[Category:American male non-fiction writers]]
+[[Category:20th-century American Jews]]

@@ -12,7 +12,7 @@
 | death_place = 
 | resting_place = 
 | resting_place_coordinates =  <!-- (use {{coord ...}}) -->
-| nationality = United States
+| nationality = American
 | institutions = 
 * [[University of Maryland, College Park]] (current)
 * [[World Bank]]

@@ -1,0 +1,116 @@
+{{Lead too short|date=April 2020}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Renée Baillargeon
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = <!-- if different from "name" -->
+| birth_date        = {{birth year and age|1954}}
+| birth_place       = Quebec, Canada
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| home_town         =
+| other_names       = 
+| siglum            =
+| pronounce         =
+| citizenship       = 
+| nationality       = Canadian
+| fields            = Psychology
+| workplaces        = University of Illinois Urbana-Champaign
+| patrons           = 
+| education         = McGill University
+| alma_mater        = University of Pennsylvania
+| thesis_title      = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 1981
+| doctoral_advisor  = Rochel Gelman and Elizabeth Spelke
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Development of cognition in infancy
+| influences        = 
+| influenced        = 
+| awards            = Boyd R. McCandless Young Scientist Award from the American Psychological Association
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = [http://www.psychology.illinois.edu/people/rbaillar Renée Baillargeon's Homepage]
+| footnotes         = 
+}}
+
+'''Renée Baillargeon''' ({{IPA-fr|ʁəne bajaʁʒɔ̃|lang}}; born 1954)<ref name=AAAS>{{cite web|title=Book of Members, 1780-2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=American Academy of Arts and Sciences|access-date=5 May 2011}}</ref> is an Alumni [[Distinguished Professor]] of [[Psychology]] at the [[University of Illinois Urbana-Champaign]]. Baillargeon specializes in the [[cognitive development|development of cognition]] in [[infants|infancy]].
+
+==Life & career==
+Born in Quebec, Canada, Baillargeon is the third child of French-Canadian parents.<ref name="Baillargeon Background 1">{{cite web|title=Infant Cognition Laboratory|url=http://internal.psychology.illinois.edu/infantlab/renee.html|website=Infant Cognition Laboratory|publisher=University of Illinois|access-date=3 November 2014}}</ref>   She is best known for her research showing that infants have an intuitive awareness of [[Naïve physics|physical laws]] such as solidity, containment, and occlusion at a young age.<ref>{{cite journal |last=Baillargeon |first=Renee |year=2004 |title=Infants' reasoning about hidden objects: Evidence for event-general and event-specific expectations |journal=Developmental Science |volume=7 |issue=4 |pages=391–424 |url=http://www.psych.uiuc.edu/infantlab/articles/baillargeon2004.pdf.pdf |access-date=2009-05-03 |doi=10.1111/j.1467-7687.2004.00357.x |pmid=15484586|pmc=4215973 }}</ref> However, her research interests encompass a variety of issues in [[Causal Reasoning (Psychology)|causal reasoning]], focusing not only on the physical but also the [[intuitive psychology|psychological]], sociomoral, and biological domains.<ref>{{cite web | title=Renee Baillargeon's research interests| url=http://www.psych.uiuc.edu/infantlab/renee.html  | access-date=3 May 2009}}</ref>  Baillargeon received a [[Bachelor of Arts|B.A.]] in Psychology from [[McGill University]] in 1975 and a [[Ph.D.]] in Psychology from the [[University of Pennsylvania]] in 1981 under the supervision of [[Rochel Gelman]] and [[Elizabeth Spelke]]. Subsequently from 1981 to 1982, Baillargeon completed a [[postdoctoral fellow]]ship at [[MIT]] under the supervision of [[Susan Carey]]. She received her first academic appointment at the [[University of Texas at Austin]] in 1982, a year later she moved to the [[University of Illinois]] where she has remained since.
+
+===Research===
+
+====Causal reasoning domains====
+Baillargeon spends much of her career researching infant development through the lens of domains. Domains are unique frameworks that allow infants to reason and learn about events.<ref name="Baillargeon Background 2">{{cite web|title=Renee L. Baillargeon|url=http://www.psychology.illinois.edu/people/rbaillar|website=Psychology University of Illinois at Urbana-Champaign|publisher=ATLAS|access-date=3 November 2014}}</ref> Baillargeon identifies four causal reasoning domains entitled physical reasoning, psychological reasoning, sociomoral reasoning, and biological reasoning.<ref name="Baillargeon Background 1">{{cite web|title=Infant Cognition Laboratory|url=http://internal.psychology.illinois.edu/infantlab/renee.html|website=Infant Cognition Laboratory|publisher=University of Illinois|access-date=3 November 2014}}</ref> Each of the four domains focus on a specific expectation that infants have when witnessing a phenomenon.
+
+==Improving understanding of infant cognition==
+Baillargeon's research on causal reasoning in infants furthered understanding concerning [[Piaget's theory of cognitive development]]. Piaget's experiments on the development of a concept of [[object permanence]] in infants required the children to manually search for the hidden object by pulling a cover off to reveal the object.<ref name="Infants Learn about World Baillargeon">{{cite journal|last1=Baillargeon|first1=Renee|title=How do infants learn about the world?|journal=Current Directions in Psychological Science|date=1994|volume=3|issue=5|pages=133–140|doi=10.1111/1467-8721.ep10770614|s2cid=144988926}}</ref><ref name="Physical Knowledge Lalonde">{{cite web|last1=Lalonde|first1=Chris|title=Physical Knowledge in Infancy|url=http://web.uvic.ca/~lalonde/Psyc435A/object/|publisher=Dr. Chris Lalonde|access-date=3 November 2014|url-status=dead|archive-url=https://web.archive.org/web/20141110000443/http://web.uvic.ca/~lalonde/Psyc435A/object/|archive-date=10 November 2014}}</ref> Baillargeon argues that Piaget's finding regarding infants' failure to understand object permanence until 8–12 months old was rooted in a lack of motor ability as opposed to inadequate cognitive development.<ref name="Wikibooks Piaget">{{cite web|title=Applied History of Psychology/Cognitive Development|url=http://en.m.wikibooks.org/wiki/Applied_History_of_Psychology/Cognitive_Development|website=Wikibooks|access-date=3 November 2014}}</ref> In an effort to account for infants' lack of motor skills, Baillargeon's studies of object permanence measure infants' fixation times on (ie, how long they spend looking at) impossible versus possible events.<ref name="Physical Knowledge Lalonde">{{cite web|last1=Lalonde|first1=Chris|title=Physical Knowledge in Infancy|url=http://web.uvic.ca/~lalonde/Psyc435A/object/|publisher=Dr. Chris Lalonde|access-date=3 November 2014|url-status=dead|archive-url=https://web.archive.org/web/20141110000443/http://web.uvic.ca/~lalonde/Psyc435A/object/|archive-date=10 November 2014}}</ref> Infants spent longer times looking at events that defied physical laws applied to obscured objects, implying that infants do, indeed, understand object permanence.
+
+A study by Baillargeon and colleague Julie DeVos confirmed the concept of object permanence in infants as young as 3.5 months old.<ref name="Object Permanence In Youth">{{cite journal|last1=Baillargeon|first1=Renee|last2=DeVos|first2=Julie|title=Object permanence in young infants: Further evidence|journal=Child Development|date=1991|volume=62|issue=6|pages=1227–1246|doi=10.2307/1130803|jstor=1130803|pmid=1786712}}</ref> Through the use of an eye tracker, Baillargeon and DeVos concluded that the longer length of time spent looking at the taller carrot showed that 3.5 month old infants knew the existence, height, and direction of the carrot, and they had an expectation to see the tall carrot appear over the short screen.<ref name="Object Permanence In Youth"/> Baillargeon uses the term "violation of expectation paradigm" to account for the surprise which infants show by gazing longer at an impossible event.<ref name=Sammons>{{cite web|last1=Sammons|first1=Aldan|title=Baillargeon: Innate Object Knowledge|url=http://www.psychlotron.org.uk/newResources/cogdev/A2_AQB_cogDev_BaillargeonObjectKnowledge.pdf|website=psychlotron.org.uk|access-date=2 December 2014}}</ref>
+
+Baillargeon expresses contrasting ideas to those of her mentor Elizabeth Spelke. Although both Baillargeon and Spelke believe that children are born with some understanding of the world, Baillargeon claims that this understanding comes in the form of innate learning mechanisms while Spelke argues that infants are born with substantive knowledge regarding objects.<ref name="Infant Learning">{{cite journal|last1=Baillargeon|first1=Renee|title=How do Infants Learn About the Physical World?|journal=Current Directions in Psychological Science|date=1994|volume=3|issue=5|pages=133–140|doi=10.1111/1467-8721.ep10770614|s2cid=144988926}}</ref> Baillargeon claims that infants learn to reason about novel physical phenomena by forming an all or nothing concept, adding discrete and continuous variables that seem to affect the event, and lastly they reason qualitatively and quantitatively.<ref name="Infant Learning">{{cite journal|last1=Baillargeon|first1=Renee|title=How do Infants Learn About the Physical World?|journal=Current Directions in Psychological Science|date=1994|volume=3|issue=5|pages=133–140|doi=10.1111/1467-8721.ep10770614|s2cid=144988926}}</ref>
+
+==Criticisms==
+Baillargeon's research on object permanence met criticism from Gregor Schoner and [[Esther Thelen]]. Schoner and Thelen argued that Baillargeon was overly extrapolating the results of her studies on infants' knowledge regarding object permanence.<ref name=Sammons>{{cite web|last1=Sammons|first1=Aldan|title=Baillargeon: Innate Object Knowledge|url=http://www.psychlotron.org.uk/newResources/cogdev/A2_AQB_cogDev_BaillargeonObjectKnowledge.pdf|website=psychlotron.org.uk|access-date=2 December 2014}}</ref> They believe that the violation of expectation paradigm merely signifies that infants notice a difference between the stimuli, such as more movement or different colors, as opposed to showing surprise at the sight of a seemingly impossible event.<ref name=Sammons>{{cite web|last1=Sammons|first1=Aldan|title=Baillargeon: Innate Object Knowledge|url=http://www.psychlotron.org.uk/newResources/cogdev/A2_AQB_cogDev_BaillargeonObjectKnowledge.pdf|website=psychlotron.org.uk|access-date=2 December 2014}}</ref> Despite these criticisms, Baillargeon's work continues to be influential in developmental psychology.
+
+==Major works==
+*{{cite journal | last1 = Gelman | first1 = R. | last2 = Baillargeon | first2 = R. | year = 1983 | title = A review of some Piagetian concepts | journal = Handbook of Child Psychology | volume = 3 | pages = 167–230 }}
+*{{cite journal | last1 = Baillargeon | first1 = R. | last2 = Spelke | first2 = E. S. | last3 = Wasserman | first3 = S. | year = 1985 | title =  Object permanence in five-month-old infants| journal = Cognition | volume = 20 | issue = 3| pages = 191–208 | doi = 10.1016/0010-0277(85)90008-3 | pmid = 4064606 | s2cid = 204981310 }}
+*{{cite journal | last1 = Baillargeon | first1 = R | year = 1987 | title = Object permanence in 3½-and 4½-month-old infants | journal = Developmental Psychology | volume = 23 | issue = 5| page = 655 | doi = 10.1037/0012-1649.23.5.655 }}
+*{{cite journal | last1 = Baillargeon | first1 = R. | last2 = Onishi | first2 = K. H. | year = 2005 | title = Do 15-Month-Old Infants Understand False Beliefs? | journal = Science | volume = 308 | issue = 5719| pages = 225–258 | doi = 10.1126/science.1107621 | pmid = 15821091 | pmc = 3357322 | bibcode = 2005Sci...308..255O }}
+*{{cite journal | last1 = Baillargeon | first1 = R | year = 2002 | title = The acquisition of physical knowledge in infancy: A summary in eight lessons | journal = Blackwell Handbook of Childhood Cognitive Development | volume = 1 | pages = 46–83 }}
+*{{cite journal | last1 = Baillargeon | first1 = R. | last2 = Scott | first2 = R. M. | last3 = He | first3 = Z. | year = 2010 | title = False-belief understanding in infants | journal = Trends in Cognitive Sciences | volume = 14 | issue = 3| pages = 110–118 | doi = 10.1016/j.tics.2009.12.006 | pmc = 2930901 | pmid = 20106714 }}
+
+==Awards==
+*1989: Boyd R. McCandless Young Scientist Award from the American Psychological Association.<ref name="Baillargeon Background 1">{{cite web|title=Infant Cognition Laboratory|url=http://internal.psychology.illinois.edu/infantlab/renee.html|website=Infant Cognition Laboratory|publisher=University of Illinois|access-date=3 November 2014}}</ref>
+*1991: [[Guggenheim Fellow]].<ref>{{cite web |url=http://www.gf.org/fellows/634-renee-baillargeon |title=Archived copy |access-date=2011-07-03 |url-status=dead |archive-url=https://web.archive.org/web/20120923031620/http://www.gf.org/fellows/634-renee-baillargeon |archive-date=2012-09-23 }}</ref>
+*2007: Elected a Fellow of the [[American Academy of Arts and Sciences]].<ref name=AAAS />
+*2013: Fyssen Foundation International Prize for contributing vast knowledge on the theme “Human Cognitive Development.” <ref name="Faculty Honors">{{cite web|title=Faculty Honors 2014|url=http://www.las.illinois.edu/news/honors/|website=College of Liberal Arts and Sciences: University of Illinois at Urbana-Champaign|publisher=University of Illinois at Urbana-Champaign|access-date=2 December 2014}}</ref>
+*2015: Elected to the [[National Academy of Sciences]].<ref>{{Cite web|url=http://www.nasonline.org/member-directory/members/20035866.html|title=Renee Baillargeon|website=www.nasonline.org|access-date=2016-04-08}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.psych.uiuc.edu/people/showprofile.php?id=54 Faculty Biography, Department of Psychology, University of Illinois]
+*[http://www.psych.uiuc.edu/infantlab/index.html Infant Cognition Lab]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Baillargeon, Renee}}
+[[Category:Living people]]
+[[Category:1954 births]]
+[[Category:American women psychologists]]
+[[Category:American psychologists]]
+[[Category:Canadian women psychologists]]
+[[Category:Canadian psychologists]]
+[[Category:Canadian expatriate academics in the United States]]
+[[Category:Developmental psychologists]]
+[[Category:Cognitive scientists]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:McGill University alumni]]
+[[Category:University of Pennsylvania alumni]]
+[[Category:University of Texas at Austin faculty]]
+[[Category:University of Illinois at Urbana–Champaign faculty]]
+[[Category:Cognitive development researchers]]
+[[Category:Fellows of the Cognitive Science Society]]
+[[Category:Foreign associates of the National Academy of Sciences]]
+[[Category:American women academics]]

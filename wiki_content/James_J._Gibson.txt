@@ -1,0 +1,115 @@
+{{Short description|American psychologist}}
+{{Infobox scientist
+|name = James J. Gibson
+|birth_date = {{birth date|1904|1|27}}
+|birth_place = [[McConnelsville, Ohio]], U.S.
+|death_date = {{death date and age|1979|12|11|1904|1|27}}
+|death_place = [[Ithaca, New York]], U.S.
+|residence =
+|nationality = [[United States|American]]
+|field = [[Experimental psychology]], [[visual perception]]
+|work_insitutions = [[Smith College]], [[Cornell University]]
+|alma_mater = [[Northwestern University]], [[Princeton University]]
+|institutions = [[Cornell University]]
+|doctoral_advisor = [[Herbert Langfeld]]
+|influences = [[Edwin B. Holt]], [[Kurt Koffka]], [[Eleanor J. Gibson]]
+|known_for = Theory of [[affordance]]
+}}
+
+'''James Jerome Gibson''' ({{IPAc-en|ˈ|g|ɪ|b|s|ən}}; January 27, 1904&nbsp;– December 11, 1979), was an [[United States|American]] [[psychologist]] and one of the most important contributors to the field of [[visual perception]]. Gibson challenged the idea that the nervous system actively constructs conscious visual perception, and instead promoted [[ecological psychology]], in which the mind directly perceives environmental stimuli without additional cognitive construction or processing.<ref name="rutherford" /> A ''[[Review of General Psychology]]'' survey, published in 2002, ranked him as the 88th most cited psychologist of the 20th century, tied with [[John Garcia (psychologist)|John Garcia]], [[David Rumelhart]], [[Louis Leon Thurstone]], [[Margaret Floy Washburn]], and [[Robert S. Woodworth]].<ref name="haggbloom" />
+
+==Biography==
+===Early life===
+James Jerome Gibson was born in [[McConnelsville, Ohio]], on January 27, 1904, to Thomas and Gertrude Gibson.<ref name="memoirs" /> He was the oldest of three children and had two younger brothers, Thomas and William.<ref name="nas" /> Gibson's father worked for Wisconsin Central Railroad, and his mother was a schoolteacher.<ref name="kazdin" /> Because his father worked on the railroad, Gibson and his family had to travel and relocate quite frequently, moving throughout the Dakotas and Wisconsin until they finally settled down in the Chicago suburb of [[Wilmette]].<ref name="nas" />
+
+When Gibson was a boy, his father would take him out on train rides. Gibson recalled being absolutely fascinated by the way the visual world would appear when in motion. In the direction of the train, the visual world would appear to flow in the same direction and expand. When Gibson looked behind the train, the visual world would seem to contract. These experiences sparked Gibson's interest in [[optic flow]] and the visual information generated from different modes of transportation. Later in life, Gibson would apply this fascination to the study of visual perception of landing and flying planes.<ref name="kazdin" />
+
+===Education and career===
+Gibson began his undergraduate career at [[Northwestern University]], but transferred after his freshman year to [[Princeton University]], where he majored in [[philosophy]]. While enrolled at Princeton, Gibson had many influential professors including [[Edwin Holt|Edwin B. Holt]] who advocated [[New realism (philosophy)|new realism]], and [[Herbert Langfeld|Herbert S. Langfeld]] who had taught Gibson's experimental [[psychology]] course. After taking Langfeld's course, Gibson decided to stay at Princeton as a graduate student and pursued his Ph.D. in psychology with Langfeld serving as his doctoral adviser.<ref name="kazdin" /> His doctoral dissertation focused on memory of visual forms, and he received his Ph.D. in 1928.<ref name="nas" />
+
+[[E. B. Holt]], who was taught by [[William James]], inspired Gibson to be a radical empiricist.<ref name="empiricism" /> Holt was a mentor to Gibson. While Gibson may not have directly read William James’ work, E. B. Holt was the connecting factor between the two. Holt’s theory of molar behaviorism brought James philosophy of radical empiricism into psychology.  Heft argues that Gibson’s work was an application of William James’.<ref name="empiricism" /> Gibson believed that perception is direct and meaningful. He discussed the meaning of perception through his theory of [[affordances]]. Gibson also was influenced by James' neutral [[monism]], nothing is solely mental or physical.
+
+Gibson started his career at [[Smith College]] where he taught psychology. While at Smith, Gibson encountered two influential figures in his life, one of which was the [[Gestalt psychology|Gestalt]] psychologist [[Kurt Koffka]]. Although Gibson did not agree with Gestalt psychology, he nevertheless agreed with Koffka's belief that the primary investigations of psychology should be problems related to perception.<ref name="obit" /> The other important figure Gibson met during his time at Smith College was his wife, [[Eleanor J. Gibson|Eleanor Jack]], who became a prominent psychologist known for her investigations such as the "[[visual cliff]]."<ref name="nas" /><ref name="pioneers" /> The two were married on September 17, 1932, and later had two children, James Jerome Jr. in 1940 and Jean Grier in 1943.<ref name="nas" />
+
+In 1941, Gibson entered the U.S. Army, where he became the director of a unit for the [[Army Air Forces]]' Aviation Psychology Program during [[World War II]]. Of particular interest to him was the effect flying an aircraft had on visual perception.<ref name="kazdin" /> He used his findings to help develop visual aptitude tests for screening out pilot applicants. He was promoted to the rank of [[lieutenant colonel]] in 1946.<ref name="nas" /> After the war ended, he returned to Smith College for a short period during which he began writing his first book, ''The Perception of the Visual World'', in which he discussed visual phenomena such as retinal texture gradient and retinal motion gradient.<ref name="kazdin" /> Before the book was published in 1950, Gibson moved to [[Cornell University]] where he continued to teach and conduct research for the rest of his life.{{citation needed|date=October 2015}}
+
+===Honors and awards===
+After publication of his book in 1950, Gibson won the Warren Medal as a member of the [[Society of Experimental Psychologists]] in 1952.<ref name="obit" /> He also became a division president for the [[American Psychological Association]] (APA) and for the [[Eastern Psychological Association]]. Among many of Gibson's other honors were receiving the Distinguished Scientific Contribution Award in 1961, becoming a Fulbright fellow at [[Oxford University]], a fellow of the Institute for Advanced Study in Princeton, New Jersey, and a fellow of the Center for Advanced Study in the Behavioral Sciences at [[Stanford University]]. Gibson was elected into the [[National Academy of Sciences]] in 1967.<ref name="obit" /> Gibson received honorary doctorates by Edinburgh and Uppsala Universities.<ref name="obit" />
+
+Gibson died in [[Ithaca, New York]] on December 11, 1979. He was 75 years old.<ref name="obit" />
+
+==Major contributions and works==
+===Gibson's approach to visual perception===
+The question driving Gibson's research on perception was "how do we see the world as we do?". This instigated his empirical research, the environment, and how the individual experiences said environment.<ref name="Gibson" /> There were two primary ways in which James J. Gibson reformed the way psychology views perception. The first is that the templates of our stimulation are affected by a moving organism. This was shown through his research on optic arrays. Secondly, he formulated the idea of three-dimensional space being conceptual. To Gibson, perception is a compilation of the person's environment and how the person interacts with it.<ref name="Neisser" />
+
+James Gibson's major contributions throughout his career were published in three of his major works: ''The Perception of the Visual World'' (1950), ''The Senses Considered as Perceptual Systems'' (1966), and ''The Ecological Approach to Visual Perception'' (1979).<ref name="doorey" />
+
+Much of Gibson's work on perception derives from his time spent in the U.S. Army Air Force. Here, he delved into thoughts on how imperative perception is on daily functions.<ref name="Gibson" /> His work may be the first to show a distinct difference between types of perception. [[Form perception]], on one hand, is a display of two static displays, whereas object perception, involves one of the displays to be in motion.<ref name="Gibson" /> Gibson laid down the base for empirical perception research throughout his lifetime. He did work on adaptation and inspection of curved lines, which became a precursor for perceptual research later.<ref name="Neisser" /> His basic work rejected the perspective that perception in and of itself is meaningless, he instead argued meaning is independent of the perceiver. He claimed that the environment decides perception, and that meaning is in what the environment "affords" the observer.<ref name="Ecological" />
+
+===Major works===
+In his classic work ''The Perception of the Visual World'' (1950) he rejected the then fashionable theory of [[behaviorism]] for a view based on his own experimental work, which pioneered the idea that animals 'sampled' information from the 'ambient' outside world. He studied the concept of [[optical flow]] (later published as part of his theory of affordance). According to Gibson, one determines the optical flow (which can be described as the apparent flow of the movement of objects in the visual field relative to the observer) using the pattern of light on the retina.<ref name="saylor" /> The term '[[affordance]]' refers to the opportunities for action provided by a particular object or environment. This concept has been extremely influential in the field of [[design]] and [[ergonomics]]: see for example the work of [[Donald Norman]] who interacted with Gibson and who adapted Gibson's idea of affordances (with significant conceptual amendments) to industrial design.<ref name="norman" />
+
+In his later work (such as, for example, ''The Ecological Approach to Visual Perception'' (1979)), Gibson became more philosophical and criticised [[Cognitivism (psychology)|cognitivism]] in the same way he had attacked behaviorism before. Gibson argued strongly in favour of [[direct perception]] and [[direct realism]] (as pioneered by the Scottish philosopher [[Thomas Reid]]), as opposed to cognitivist [[indirect realism]]. He termed his new approach [[ecological psychology]]. He also rejected the [[information processing]] view of cognition. Gibson is increasingly influential on many contemporary movements in [[psychology]], particularly those considered to be [[post-cognitivist]].<ref name="Neisser" />
+One of the most important statements in this book is that Gibson maintains that the optical information of an image is not an impression of form and color, but rather of invariants. A fixated form of an object only specifies certain invariants of the object, not its solid form. (p.&nbsp;227) <ref name="Rump" />
+Meaning that there is far more information available to our perceptual systems than we are consciously aware of, which may lead us to puzzle over 'invariances' that our visual or other systems easily solve. Gibson did work on perception with his wife, Eleanor J Gibson. Together they proposed perceptual learning as a process of seeing the differences in the perceptual field around an individual. An early example of this is the classic research study done by [[Eleanor Gibson]] and R. D. Walk, the [[visual cliff]] experiment. In this experiment an infant that was new to crawling was found to be sensitive to depth of an edge.<ref name="Gibson" />
+
+===Ecology and perception===
+Gibson believed that the environment and animals are not separable items.<ref name="Ecological" /> He stated that without the environment animals cannot survive and without animals there is no environment. The environment is what we [[perceive]] at any given moment. All animals are able to perceive. Humans perceive the environment directly.<ref name="empiricism" /><ref name="Heft" /> This is why we are unable to perceive things in the environment that are too small to see, such as an [[atom]].
+
+===Affordances===
+Gibson coined the noun [[affordance]].<ref name="affordances" /> For Gibson the noun affordance pertains to the environment providing the opportunity for action.  Affordances require a relationship in which the environment and the animal can work together. An example is that mankind has changed the environment to better suit our needs. When coming across Earth's natural steep slopes, man designed stairs in order to afford walking. In addition, objects in the environment can also afford many different behaviors, such as lifting or grasping. Gibson argued that when we perceive an object we observe the object's affordances and not its particular qualities. He believed that perceiving affordances of an object is easier than perceiving the many different qualities an object may have. Affordances can be related to different areas of the [[habitat]] as well. Some areas of the world allow for concealing while some allow for [[foraging]].
+
+==Legacy==
+James J. Gibson left a lasting impact on the way that psychologists and philosophers conceptualize perception and action.  He rejected the behaviorists' assumptions that learning involves the formation of associations between stimuli and responses, adopting instead a holistic view related to that of the Gestalt psychologist [[Kurt Koffka]] with whom he had contact.  He argued that the perceived environment is not composed by stitching together such elements as shapes and edges, but rather that the world is made up of meaningful features that are experienced continuously as wholes.<ref name="Gibson" />  He will perhaps be best remembered for his theory of affordances, which some theorists have suggested  provides a fundamental way to understand the duality of mind and external reality.
+
+Previous theories of sensory meaning have argued that perceptions are separate and private from one another.<ref name="Heft" /> This stance placed all of the perceptive meaning on the individual, which meant there was no way to find common ground on individuals' shared experiences. Gibson contended that when stimulus information is being sought out, meaningful properties of that stimulus are also perceived relationally.<ref name="Gibson" />  For instance, a softball affords "throwing" if the observer notices that the ball fits well in a person's hand, and that the weight allows it to be thrown.<ref name="Gibson" /> The training of aviators is a practical application of Gibson's views, which such suggest that training should be as realistic and unconstrained as possible.
+
+Gibson's work indicates the interactivity of observers and the [[natural environment]], and has been dubbed ecological psychology as a result.  Gibson also argued that perceptual experimenters were misguided in their control over physical variables of stimuli, and the display of stimulus information should be manipulated instead.  This stance breaks from traditional thought in that Gibson posited that fundamentally sound experiments could be conducted in the external world without having to construct artificial laboratory settings.{{citation needed|date=October 2015}}
+
+==Publications==
+* Gibson, James Jerome., Crooks, Laurence E. "A theoretical field-analysis of automobile-driving." The American journal of psychology 51.3 (1938): 458 https://doi.org/10.2307/1416145
+* Gibson, J.J. & Gibson, E. (1955). Perceptual learning: differentiation or enrichment? Psyc. Rev., 62, 32–41.
+* Gibson, J.J. (1950). The Perception of the Visual World. Boston: Houghton Mifflin.
+* Gibson, J.J. (1960). The Concept of the Stimulus in Psychology. The American Psychologist 15/1960, 694–703.
+* Gibson, J.J. (1966). The Senses Considered as Perceptual Systems. Boston: Houghton Mifflin. {{ISBN|0-313-23961-4}}
+* Gibson, J.J. (1972). A Theory of Direct Visual Perception. In J. Royce, W. Rozenboom (eds.). The Psychology of Knowing. New York: Gordon & Breach.
+* Gibson, J.J. (1977). [https://monoskop.org/images/c/c6/Gibson_James_J_1977_1979_The_Theory_of_Affordances.pdf The Theory of Affordances] (pp.&nbsp;67–82). In R. Shaw & J. Bransford (eds.). Perceiving, Acting, and Knowing: Toward an Ecological Psychology. Hillsdale, NJ: Lawrence Erlbaum.
+* Gibson, J.J. (1979). The Ecological Approach to Visual Perception. Boston: Houghton Mifflin.{{ISBN|0898599598}} (1986)
+* Gibson, J.J. (1982). Reasons for Realism: Selected essays of James J. Gibson, E. Reed & R. Jones (eds.). Hillsdale, NJ: Lawrence Erlbaum.  {{ISBN|978-0-89859-207-8}}
+
+==References==
+{{reflist|refs=
+<ref name="affordances">{{cite book|last1=Gibson|first1=James|title=The theory of Affordances|url=https://books.google.com/books?id=b9WWAwAAQBAJ&q=James+J+Gibson%27s+&pg=PA56|website=Google Scholar|publisher=Google Scholar|access-date=1 December 2014|isbn=9781317811886|date=2014-04-16}}</ref>
+<ref name="doorey">{{cite web|last1=Doorey|first1=Marie|title=James J. Gibson|url=https://www.britannica.com/biography/James-J-Gibson|website=Encyclopedia Britannica|publisher=Encyclopedia Britannica Inc..|access-date=7 February 2017}}</ref>
+<ref name="Ecological">{{cite book|last1=Gibson|first1=James|title=The Ecological Approach to Visual Perception|url=https://books.google.com/books?id=4qhXmSEOTRQC&q=James+J+Gibson&pg=PR3|website=Google Scholar|publisher=Cornell University|access-date=1 December 2014|isbn=9781135059736|date=2013-05-13}}</ref>
+<ref name="empiricism">{{cite journal|last1=Chemero|first1=Anthony|title=Radical empiricism through the ages|journal=PsycCRITIQUES|date=February 2003|volume=48 | issue = 1 |pages=18–21|doi=10.1037/000698}}</ref>
+<ref name="Gibson">http://www.encyclopedia.com/topic/James_Jerome_Gibson.aspx</ref>
+<ref name="haggbloom">{{cite journal |last1=Haggbloom |first1=Steven J. |title=The 100 most eminent psychologists of the 20th century |journal=Review of General Psychology |volume=6 |issue=2 |year=2002 |pages=139–152 |doi=10.1037/1089-2680.6.2.139 |url=http://www.apa.org/monitor/julaug02/eminent.aspx |first2=Renee|last2=Warnick |last3=Warnick |first3=Jason E. |last4=Jones |first4=Vinessa K. |last5=Yarbrough |first5=Gary L. |last6=Russell |first6=Tenea M. |last7=Borecky |first7=Chris M. |last8=McGahhey |first8=Reagan |last9=Powell |first9=John L., III|s2cid=145668721 | display-authors = 8}}</ref>
+<ref name="Heft">{{cite journal|last1=Heft|first1=Harry|title=An ecological approach to psychology|journal= Review of General Psychology|date=June 2013|volume=17 |issue=2|pages=162–167|doi=10.1037/a0032928|citeseerx=10.1.1.400.9646|s2cid=147335659}}</ref>
+<ref name="kazdin">{{Cite book|title = Encyclopedia of Psychology, Vol. 3|last = Kazdin|first = Alan E., ed. in chief|publisher = Oxford University Press|year = 2000|isbn = 978-1-55798-652-8|location = London|pages = [https://archive.org/details/encyclopediaofps0000unse/page/493 493]|url = https://archive.org/details/encyclopediaofps0000unse/page/493}}</ref>
+<ref name="memoirs">[https://books.google.com/books?id=QmeZhR9sP6MC&pg=PA151&lpg=PA151&dq=%22James+Jerome+Gibson%22+1904+born&source=bl&ots=Tmm3TcguR6&sig=bD18zeuFea5_3cUhNnDGEhe5tIE&hl=en&ei=znkTTdKEI8K88gbFtpy7Dw&sa=X&oi=book_result&ct=result&resnum=8&ved=0CCgQ6AEwBw Office of the Home Secretary, National Academy of Sciences, ''Biographical Memoirs, Volume 63'']</ref>
+<ref name="nas">{{Cite web|url = http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/gibson-james.pdf|title = James Jerome Gibson: 1904–1979|publisher = National Academy of Sciences|last = Hochberg|first = Julian}}</ref>
+<ref name="Neisser">{{cite web|url=http://ai.ato.ms/MITECS/Entry/neisser.html |title=Ecological Psychology |website=MIT Encyclopedia of Cognitive Science |url-status=dead |archive-url=https://web.archive.org/web/20151108192307/http://ai.ato.ms/MITECS/Entry/neisser.html |archive-date=2015-11-08 }}</ref>
+<ref name="norman">D. A. Norman (1999), Affordance, conventions, and design. Interactions (6, 3), 38–43</ref>
+<ref name="Rump">Gerhard Charles Rump (1981), J. J. Gibsons "Ecological Approach to the Visual Perception of Pictures", in: Gerhard Charles Rump: Kunstpsychologie, Kunst und Psychoanlayse, Kunstwissenschaft. pp.82-85.</ref>
+<ref name="obit">{{Cite journal|title = Obituary: James J. Gibson (194–1979)|last = Neisser|first = Ulric|date = 1981|journal = American Psychologist|doi = 10.1037/h0078037 |volume=36|issue = 2|pages=214–215}}</ref>
+<ref name="pioneers">{{Cite book|title = Pioneers of Psychology|last = Fancher, Rutherford|first = Raymond E., Alexandra|publisher = W.W. Norton|year = 2012|isbn = 978-0-393-93530-1|location = New York, NY|pages = 178}}</ref>
+<ref name="rutherford">{{cite book|last1=Rutherford|first1=Raymond E. Fancher, Alexandra|title=Pioneers of psychology : a history|date=2012|publisher=W.W. Norton|location=New York|isbn=978-0-393-93530-1|page=641|edition=4th}}</ref>
+<ref name="saylor">[http://www.saylor.org/site/wp-content/uploads/2011/08/Psych306-Reading-4.3.pdf Alex Huk. (1999) "Seeing Motion: Lecture Notes." pp. 5]</ref>
+}}
+
+==External links==
+* Key JJG resources at: [http://www.trincoll.edu/depts/ecopsyc/isep/index.html International Society for Ecological Psychology (ISEP)]
+* Major centre for direct perception research: [https://web.archive.org/web/19970412101520/http://ione.psy.uconn.edu/ Centre for the Ecological Study of Perception and Action (CESPA)]
+* [http://gombrich.co.uk/gombrichgibson-dispute/ The Gombrich/Gibson Dispute]
+* Donald Norman: [http://jnd.org/dn.mss/affordance_conventions_and_design_part_2.html Affordance, Conventions and Design]
+{{Authority control}}
+
+{{DEFAULTSORT:Gibson, J. J.}}
+[[Category:1904 births]]
+[[Category:1979 deaths]]
+[[Category:American psychologists]]
+[[Category:Environmental psychologists]]
+[[Category:Princeton University alumni]]
+[[Category:People from McConnelsville, Ohio]]
+[[Category:20th-century psychologists]]

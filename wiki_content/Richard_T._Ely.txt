@@ -6,16 +6,16 @@
 | image_size       =
 | caption          = Ely as he appeared in 1903
 | birth_date       = {{Birth date|1854|4|13}}
-| birth_place      = [[Ripley, New York|Ripley]], [[New York (state)|New York]], US
+| birth_place      = [[Ripley, New York]], US
 | death_date       = {{Death date and age|1943|10|4|1854|4|13}}
-| death_place      = [[Old Lyme, Connecticut|Old Lyme]], [[Connecticut]], US
-| institutions     = {{unbulleted list | [[Johns Hopkins University]] | [[University of Wisconsin–Madison]] | [[Northwestern University]]}}
+| death_place      = [[Old Lyme, Connecticut]], US
+| institutions     = {{ubl|[[Johns Hopkins University]]|[[University of Wisconsin–Madison]]|[[Northwestern University]]}}
 | field            = [[Political economy]]
-| alma_mater       = {{unbulleted list | [[Columbia University]] | [[Heidelberg University]]}}
+| alma_mater       = {{ubl|[[Columbia University]]|[[Heidelberg University]]}}
 | doctoral_advisor = [[Karl Knies]]
 | academic_advisors= [[Johann Kaspar Bluntschli|Johann Bluntschli]]
-| doctoral_students= {{hlist | [[Lewis Henry Haney]] | [[Alvin Hansen]] | [[Edward Alsworth Ross]] | [[William A. Scott]] | [[Sidney Sherwood]] | [[Allyn Abbott Young]]}}
-| notable_students = {{hlist | [[John R. Commons]] | [[Woodrow Wilson]]}}
+| doctoral_students= {{hlist|[[Lewis Henry Haney]]|[[Alvin Hansen]]|[[Edward Alsworth Ross]]|[[William A. Scott]]|[[Sidney Sherwood]]|[[Allyn Abbott Young]]|[[David Kinley]]}}
+| notable_students = {{hlist|[[John R. Commons]]|[[Woodrow Wilson]]}}
 | contributions    =
 | signature        = <!-- file name only -->
 }}

@@ -1,0 +1,73 @@
+{{Infobox economist
+| name              = Timothy J. Kehoe
+| image             = 
+| image_size        = 
+| alt               = 
+| caption           = 
+| native_name       = 
+| native_name_lang  = 
+| birth_date        = {{birth date and age|1953|6|13}}
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| resting_place     = 
+| resting_place_coordinates = <!-- (use {{coord …}}) -->
+| nationality       = 
+| citizenship       = [[United States]]
+| spouse            = <!-- or: spouses -->
+| website           = <!-- {{URL|example.com}} -->
+| institution       = [[University of Minnesota]]<br>[[MIT]]<br>[[Wesleyan University]]
+| field             = 
+| school_tradition  = 
+| alma_mater        = [[Yale University]]<br>[[Providence College]]
+| doctoral_advisor  = [[Herbert Scarf]]<br>[[Andreu Mas-Colell]]
+| academic_advisors = 
+| doctoral_students = [[Michael Woodford (economist)|Michael Woodford]]<ref>{{cite thesis |last= Woodford |first= Michael |date= 1983 |title= Essays in intertemporal economics |type= Ph.D. |publisher= [[MIT]] |url= http://library.mit.edu/item/000195202 |access-date= 5 February 2017 }}</ref><br>{{Interlanguage link multi|Raphael Bergoeing|es}}
+| notable_students  = 
+| influences        = 
+| influenced        = 
+| contributions     = {{cite web|title=Citations|url=https://scholar.google.com/citations?user=lhKqeC8AAAAJ&hl=en&oi=ao}}
+| awards            = 
+| memorials         = 
+| repec_prefix      = e
+| repec_id          = pke16
+| module            = 
+| signature         = <!-- filename only -->
+| notes             = <!-- or: footnotes -->
+}}
+'''Timothy Jerome "Tim" Kehoe''' (born June 13, 1953) is an [[United States|American]] [[economist]] and [[professor]] at the [[University of Minnesota]]. His area of specialty is [[macroeconomics]] and [[international economics]].<ref>{{cite web|url=http://www.econ.umn.edu/~tkehoe/|title=Timothy J. Kehoe|website=www.econ.umn.edu|access-date=23 October 2018}}</ref>
+
+He obtained his undergraduate degree from [[Providence College]] in 1975 and his [[Ph.D.]] in economics from [[Yale University]] in 1979.  His Ph.D. supervisor was [[Herbert Scarf]]. Professor Kehoe started his teaching career as a lecturer and then assistant professor at [[Wesleyan University]] from 1978 to 1980.  From 1980 to 1983, he was an assistant professor and then an associate professor at the [[Massachusetts Institute of Technology]].  From 1983 to 1987 he was a university lecturer at the [[University of Cambridge]] and a fellow of [[Clare College]].  Since 1987 he has been a professor at the [[University of Minnesota]]. He was awarded an honorary doctorate by the [[University of Vigo]] in 2008 and by the [[Autonomous University of Barcelona]] in 2016.
+
+Since 2015, Professor Kehoe is the President of the [[Society for Economic Dynamics]].
+
+He was awarded the [[Guggenheim Fellowship]] in 2015.<ref>{{cite web | url=http://www.gf.org/wp-content/uploads/2015/04/NYTimesAd2015.pdf | title=2015 Fellows - United States and Canada | publisher=[[John Simon Guggenheim Memorial Foundation]] | work=[[NYTimes]] | date=2015 | access-date=October 24, 2018}}</ref>
+
+He is a member of the Board of Trustees and the Scientific Council at the [[IMDEA]] Social Sciences Institute.
+
+Kehoe is married to historian [[Jean O'Brien]]. His younger brother, Patrick Kehoe, is also a macroeconomic theorist.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.econ.umn.edu/faculty/tkehoe/index.html Page of Timothy Kehoe at the University of Minnesota]
+*[http://www.econ.umn.edu/~tkehoe Personal page] of Timothy Kehoe at the University of Minnesota
+*[http://www.econ.umn.edu/~tkehoe/papers/shortcv.pdf Biographical sketch] of Timothy Kehoe at the University of Minnesota
+*Timothy J. Kehoe and [[Edward C. Prescott]], editors, [http://www.greatdepressionsbook.com  ''Great Depressions of the Twentieth Century''], Federal Reserve Bank of Minneapolis, 2007.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kehoe, Timothy}}
+[[Category:20th-century American economists]]
+[[Category:21st-century American economists]]
+[[Category:Macroeconomists]]
+[[Category:Fellows of the Econometric Society|Kehoe, Timothy J.]]
+[[Category:Wesleyan University faculty]]
+[[Category:Fellows of Clare College, Cambridge|Kehoe, Timothy J.]]
+[[Category:1953 births]]
+[[Category:Living people]]
+[[Category:Providence College alumni]]
+
+
+{{US-economist-stub}}
