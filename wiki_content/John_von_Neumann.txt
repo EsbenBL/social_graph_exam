@@ -671,7 +671,7 @@ Von Neumann was on his deathbed when he entertained his brother by reciting by h
 
 == See also ==
 {{Portal|Biography|Economics|History of Science|Hungary|Mathematics|Nuclear technology|Physics|World War II}}
-{{div col}}
+{{cols|colwidth=26em}}
 * [[John von Neumann (sculpture)|''John von Neumann'' (sculpture)]], Eugene, Oregon
 * [[John von Neumann Award]]
 * [[List of things named after John von Neumann]]
@@ -689,7 +689,7 @@ Von Neumann was on his deathbed when he entertained his brother by reciting by h
 * [[Von Neumann universe]]
 * [[Von Neumann's trace inequality]]
 * [[The Martians (scientists)]]
-{{div col end}}
+{{colend}}
 
 '''PhD students'''
 * [[Donald B. Gillies]], Ph.D. student<ref name=genealogy>{{MathGenealogy |id=53213}}. Retrieved March 17, 2015.</ref>

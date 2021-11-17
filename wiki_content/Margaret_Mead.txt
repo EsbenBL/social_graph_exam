@@ -3,18 +3,17 @@
 {{pp-pc1|small=yes}}
 {{Use mdy dates|date=December 2020}}
 {{Infobox person
-| name = Margaret Mead
 | image = Margaret Mead (1901-1978).jpg
 | caption = Mead in October 1948
 | birth_date = {{birth date|1901|12|16}}
-| birth_place = [[Philadelphia]], Pennsylvania, US
+| birth_place = [[Philadelphia, Pennsylvania]], US
 | death_date = {{death date and age|1978|11|15|1901|12|16}}
-| death_place = New York City, US
-| alma_mater = {{ublist | [[Barnard College]] | [[Columbia University]]}}
+| death_place = [[New York City]], US
+| education = {{ublist|[[Barnard College]]|[[Columbia University]]}}
 | occupation = [[Anthropologist]]
 | awards = [[Kalinga Prize]] (1970)
 | spouse = {{ublist|{{marriage|[[Luther Cressman]]|1923|1928|end=div}}|{{marriage|[[Reo Fortune]]|1928|1935|end=div}}|{{marriage|[[Gregory Bateson]]|1936|1950|end=div}}}}
-| children = {{nowrap|[[Mary Catherine Bateson|Mary C. Bateson]] (born 1939)}}
+| children = [[Mary Catherine Bateson]]
 }}
 {{Anthropology of kinship |theorists}}
 {{Anthropology}}

@@ -1,0 +1,90 @@
+Richard Julius Herrnstein (May 20, 1930 – September 13, 1994) was an American psychologist at Harvard University. He was an active researcher in animal learning in the Skinnerian tradition. Herrnstein was the Edgar Pierce Professor of Psychology until his death, and previously chaired the Harvard Department of Psychology for five years. With political scientist Charles Murray, he co-wrote The Bell Curve, a controversial 1994 book on human intelligence. He was one of the founders of the Society for Quantitative Analysis of Behavior.
+
+
+== Early life and education ==
+Richard Herrnstein was born on 20 May 1930, in New York City, to a family of Hungarian Jewish immigrants; the son of Flora Irene (née Friedman) and Rezso Herrnstein, a housepainter. He was educated at the High School of Music & Art and the City College of New York, receiving a B.A. from the latter in 1952. In 1955, Herrnstein obtained his Ph.D. at Harvard University, with a thesis titled Behavioral Consequences of the Removal of a Discriminative Stimulus Associated with Variable-Interval Reinforcement. Before joining the Harvard faculty, he worked  for three years in the United States Army.
+
+
+== Research and work ==
+His major research finding as an experimental psychologist is the matching law, the tendency of animals to allocate their choices in direct proportion to the rewards they provide. To illustrate the phenomenon, if there are two sources of reward, one of which is twice as rich as the other, Herrnstein found that animals often chose at twice the frequency the alternative that was seemingly twice as valuable. That is known as  matching, both in quantitative analysis of behavior and mathematical psychology. He also developed melioration theory with William Vaughan, Jr.
+Herrnstein was considered a "star pupil" of B. F. Skinner while working for his PhD at Harvard. He worked with Skinner in the Harvard pigeon lab that he ran until his death. His research greatly contributed to the field of cognitive psychology. In 1965, and with Edwin Boring, Herrnstein wrote A Source Book in the History of Psychology.
+Herrnstein was the Edgar Pierce Professor of Psychology at Harvard University. He was the chairman of the Harvard Department of Psychology from 1967 to 1971. He also acted as the editor of the Psychological Bulletin from 1975 to 1981. In 1977, he was elected a Fellow of the American Academy of Arts and Sciences.Herrnstein's research focused first on natural concepts and human intelligence in the 1970s, and became prominent with the publication of his and Charles Murray's controversial book, The Bell Curve.
+
+
+== Matching law ==
+
+Perhaps his most notable accomplishment was the formulation of the matching law: choices are distributed according to rates of reinforcement for making the choices. An instance for two choices can be stated mathematically as
+
+  
+    
+      
+        
+          
+            
+              R
+              
+                1
+              
+            
+            
+              
+                R
+                
+                  1
+                
+              
+              +
+              
+                R
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              r
+              
+                1
+              
+            
+            
+              
+                r
+                
+                  1
+                
+              
+              +
+              
+                r
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {R_{1}}{R_{1}+R_{2}}}={\frac {r_{1}}{r_{1}+r_{2}}}}
+  ,where R1 and R2 are rates of response for two alternative responses, and r1 and r2 are rates of reinforcement for the same two responses. Behavior conforming to this law is matching, and explanations of matching and of departures from matching are a large and important part of the literature on behavioral choice.
+
+
+== Personal life ==
+Herrnstein married his first wife, Barbara Brodo, in May 1951. The couple had a daughter together, Julia, before their divorce in February 1961. Through his second marriage to Susan Chalk Gouinlock, in November 1961, he fathered two sons named Max and James. Herrnstein died of lung cancer shortly before the book Bell Curve was released.
+
+
+== Selected bibliography ==
+A Source Book in the History of Psychology, Edited by Richard J. Herrnstein, Edwin G. Boring, Harvard 1965 ISBN 0-674-82410-5
+I.Q. in the Meritocracy, Richard J. Herrnstein, Atlantic Monthly Press 1973 (expansion of article, "I.Q. In the Meritocracy", Atlantic Monthly 1971)
+Crime and Human Nature: The Definitive Study of the Causes of Crime,  James Q. Wilson, Richard J. Herrnstein, The Free Press 1985 ISBN 0-684-85266-7
+Herrnstein, Richard J.; Murray, Charles (1994). The Bell Curve: Intelligence and Class Structure in American Life. New York: Free Press. ISBN 0-02-914673-9. Lay summary (19 May 2013).
+The Matching Law: Papers in Psychology and Economics by Richard J. Herrnstein, Edited by Howard Rachlin, David I. Laibson, Harvard  1997 ISBN 0-674-06459-3
+
+
+== References ==

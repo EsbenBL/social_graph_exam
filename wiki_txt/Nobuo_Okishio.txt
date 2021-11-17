@@ -1,0 +1,217 @@
+Nobuo Okishio (置塩 信雄, January 2, 1927 – November 13, 2003) was a Japanese Marxian economist and emeritus professor of Kobe University. In 1979, he was elected President of the Japan Association of Economics and Econometrics, which is now called Japanese Economic Association.
+Okishio studied mathematical economics under Kazuo Mizutani. In 1950 he graduated from Kobe University and later taught there. He soon began to doubt the premises and results of modern economics, and decided to search for alternatives by studying Marxian economics.
+Okishio worked to clarify the logic of Karl Marx’s economic system, offering formal and mathematical proofs for many Marxian theorems. For example, in 1955, he gave the world's first proof of the “Marxian fundamental theorem”, as it was later named by Michio Morishima, which is the theory that the exploitation of surplus labor is the necessary condition for the existence of positive profit. Concerning Marx’s Falling Rate of Profit, Okishio considered that his famous theorem would not deny it.Okishio wrote many papers covering various important fields in modern and Marxian economics, for example value and price, accumulation theory, critical analysis of Keynesian economics, trade cycle theory and on the long run tendency of capitalistic economy.  They were published in over twenty books and two hundred papers, almost all in Japanese. About thirty of his published papers have been translated in English, and much of these materials are collected in the book　 (Nobuo Okishio, Michael Kruger and Peter Flaschel, 1993).
+
+
+== Value and exploitation theory ==
+
+
+=== Formulation of labor embodied value ===
+Okishio showed how Marxian value is determined quantitatively.  The value equation presented by Okishio determines the amount of labor directly and indirectly needed to produce one unit of commodity as follows.
+
+  
+    
+      
+        
+          t
+          
+            i
+          
+        
+        =
+        
+          ∑
+          
+            j
+          
+        
+        
+          a
+          
+            i
+            j
+          
+        
+        +
+        
+          τ
+          
+            i
+          
+        
+        ,
+        
+        i
+        =
+        1
+        ,
+        …
+        ,
+        n
+      
+    
+    {\displaystyle t_{i}=\sum _{j}a_{ij}+\tau _{i},\quad i=1,\ldots ,n}
+  
+where 
+  
+    
+      
+        
+          a
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle a_{ij}}
+   is the amount of 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  -th goods and 
+  
+    
+      
+        
+          τ
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \tau _{i}}
+   is the direct labor input needed to produce one unit of 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  -th goods.  He first got this idea when he was writing “On Exchange Theory” in 1954 in Japanese and a little later in 1955 more clearly wrote in English paper “Monopoly and the Rates of Profits” Kobe University Economic Review.
+
+
+=== Fundamental Marxian theorem ===
+Using this equation Okishio proved Marx’s fundamental proposition that the exploitation of surplus labor is the necessary condition for the existence of positive profit, later called as Fundamental Marxian Theorem by Michio Morishima.  This proof has some characteristics.  First, it does not preclude the acceptance of value theory in advance.  Starting from the existence of profit expressed in price terms, we can deduct the existence of surplus value as a logical consequence.  This is the opposite way to Marx, who started from value and reached price and profit.  Okishio’s proof has effects to persuade the validity of Marxian propositions to much more non-Marxian economists at present.
+
+
+=== Measurement ===
+According to this value equation we can make quantitative measurements using input-output tables developed after World War Two.  Okishio himself tried it at the first time in 1958 in Japanese economy and since then we have many measurement investigations in many countries.  Measurements from 1955 to 1985 in Japanese economy show that values and prices move differently in the short run but in the long run these two magnitudes very much coincidentally move.  Thus at least in the long run values can be said to be playing a gravitating role of prices.
+
+
+== Some propositions of Marxian economics ==
+
+
+=== Transformation problem ===
+Okishio’s work is related to clarifying the logic of Marx’s theory.  First, there is the transformation problem.  Marx argued in Das Kapital Book Three about the transformation from values to prices.  There he discussed that output prices also enter input prices in various sectors.  And he warned us that we could make a mistake if we ignore this fact because there exists some discrepancy between prices and values.  Here, of course, prices mean output prices and values mean input prices at the first stage.  So Marx suggested the need to proceed this iterative transformation process to the end.  Marx showed the transformation formula although he left others to do it.  Okishio executed the iteration process to the end using mathematical tools and proved that it converges to production price equilibrium with positive profits, i.e. equal to Bortkiewicz equation.  One important finding relating this work is that the equilibrium rate of profit and the production prices are determined depending on real wage rate and technologies in basic sectors only.  This result was accepted with surprise, because many economists considered that non-basic sectors also have some relations with the equilibrium rate of profit.  As far as Japan is concerned, some heated arguments are held between Okishio and some other Marxian economists.
+
+
+=== Formal proof of the Marxian theorem ===
+Next is the Marx’s propositions of dynamic movement of capitalistic economy.  In the paper “A Formal Proof of Marx’s Two Theorems” he tried to prove Marx’s two theorems; first, the tendencial falling rate of profit and, second, the tendencial increase in unemployment.  By “formal” Okishio meant whether we can deduct two propositions from Marx’s presumptions of increasing organic composition of production.  He showed that if new technologies with increasing organic composition of production are continuously introduced, then the rate of profit must fall and the unemployment must increase.  Here the crucial assumption is the introduction of increasing organic composition technologies.  Then he proceeds to examine the validity of this assumption from the viewpoint of capitalistic behavior of technical choice.
+
+
+=== Technical change and the rate of profit ===
+In the paper “Technical Change and the Rate of Profit” in 1961 he presented famous Okishio Theorem.  There he showed that if we assume the viability condition, i.e. for the new technology to be introduced, it must be cost reducing, then new technologies never decrease the rate of profit; if it is introduced into basic sectors, the rate of profit will necessarily increase.  His arguments depend on several assumptions: (1) the real wage rate is constant before and after the technical change, (2) the comparison is made about the equilibrium rate of profit, (3) the rate of profit is defined by the reproduction-cost principle.  This theorem was later extended to the case of joint production in Morishima (1974), and later to the case of fixed capital by Nakatani (1978) and Roemer (1979). This work stimulated much discussion about its validity and implications for Marxist theory when it was first published, and has been a hotly debated subject to this day.
+
+
+=== Okishio theorem and the falling rate of profit ===
+Okishio does not believe his famous Okishio's theorem rules out entirely the possibility of the Falling Rate of Profit taking effect. A falling rate of profit might be realized in the long run due to competitive pressures among capitalists, bargaining power of labor, or other reasons.  The crux of Okishio's theorem is that, given constant technological progress in the capitalist system of change, if the rate of profit falls in the long run, real wage rate must be increasing. The real wage rate will change in the process of technical change and it is very much doubtful whether this dynamic process converges to a stationary production price situation.  Nevertheless, Okishio's theorem is relevant because it denies that the FRP is established automatically from technical change by itself.
+
+
+== Critical investigation of Keynes ==
+
+
+=== Keynesian economics compared with classical economics ===
+Okishio critically investigated non-Marxian economists with a lot of energy, especially Keynes and Harrod.  Although Keynes is not sympathetic to Marx, Okishio thought that Keynes is an important criticizer of neoclassical economics inside modern economics, because Keynes denied the harmonic adjusting mechanism of market economy.  Keynes also emphasized the independent and volatile role of investment demand in capitalistic economy.  In these respects Keynes shared the similar viewpoint with Marx.  Recent New Keynesians or Neo-Keynesians have been neglecting these fundamental characteristics of Keynes's original theory.
+
+
+=== Aggregate supply function ===
+Okishio’s critique to Keynes is that he denied the possibility to change the capitalist’s decision making.  As is well known, Keynes devoted almost all his investigation to the demand-side and as far as the supply-side he only said that there remains almost no materials that is not known to us and Keynes left it as technically given.  Okishio examined the capitalistic property of Keynes aggregate supply function Z(N) and showed an alternative way of raising employment by changing Aggregate Supply Function.  His critical examination of Keynesian economics is the jointly published book “Keynesian Economics” in 1957.
+
+
+=== Determination of wage rate ===
+As is well known, one of Keynes's critical points to classical economics is the determined to clear the labor market.  On the contrary in Keynes, the real wage rate is determined in commodity markets.  Many Marxian economists consider real wage rate is affected by labor market.  However labor market can affect the nominal wage rate for the present and the commodity market can affect nominal prices.  So in order to determination of real wage rate.  In classical economics the real wage rate is know how real wage rate move, we have to both markets, namely the economy as a whole.  Okishio investigated the movement of real wage rate in an accumulation process and considered investment demands as the most dominant determinant of real wage rate in the short run and the natural growth rate as determining the long run real wage rate.
+
+
+== Instability of capitalistic accumulation path ==
+
+
+=== Instability ===
+Okishio agreed with Roy F. Harrod that the market economy was not only from a static perspective but also from a dynamic perspectives.  Harrod arguments are necessarily clear, however, about investment decision making.  Okishio wrote many papers to clarify the Harrod instability logic and showed that instability is an inherent characteristic in the accumulation process of the capitalist economy.  Problems examined are (A) to make clear capitalists’ investment decision of Harrod and (B) to investigate the instability postulate taking into consideration other possibilities like substitutive technical changes, changes in saving ratio, and movements in relative prices.  He obtained the conclusion that instability is the robust property of capitalist accumulation.
+
+
+=== Crisis theory ===
+Capitalistic accumulation process displays instability.  However, for one production system to survive for many years, some kind of equilibrium or near equilibrium conditions must be satisfied.  In the short run the economy diverges from the equilibrium growth path due to Harrod instability, but in the long run it satisfies several conditions as shown in Reproduction Formula of Marx Book Two.  Okishio proceeds to investigate the crisis theory by reconciling these two requirements and by introducing crisis theory as a regulating mechanism.  His accumulation theory is published in his main publication CHIKUSEKIRON (“Accumulation Theory” in Japanese).
+
+
+== Competition ==
+
+
+=== Profit and competition ===
+Okishio scrutinized the relation between profits and competition. Okishio's theorem is the proposition obtained by comparing the equilibrium rate of profit before and after the introduction of new technology.  Whether the economic disturbances due to technical change will smoothly converge to new stationary state is very problematic.
+
+
+=== Relating production price ===
+In other words, how can the Marxian production-price constellation be justified in real economy?  Marx considered, of course, that in the long run the average positive rate of profit is realized in capitalistic market economy.  Then what is the logic to guarantee it considering the change of real wage rate?  Adam Smith considered that competition among capitals effects downward pressures on profits.  But as is well known, Ricardo criticized Smith and claimed that competition can only equalize uneven rates of profits among capitals and never affect the level of the rate of profit itself, which is inherited by Marx.  Walras and more clearly Schumpeter asserted that competition sweeps out profits completely.
+
+
+=== Tentative results ===
+Okishio’s tentative conclusion on this problem is that competition can drive the economy to zero-profit equilibrium unless there exist no continuous technical innovations or an increase in labor supply or independent capitalist consumption.  This investigation is still under way.
+
+
+== The long-run processes of a capitalist economy ==
+
+
+=== Two Requirements ===
+On this point Okishio’s argument is composed of the following two propositions. First, in order for the capitalist economy to work effectively, the production power of humankind in that society should exceed some minimum level, but also should not exceed some maximum level.  Second, the production power in the capitalistic economy necessarily advances due to the mechanisms of competition and commercial expansion inherent to the capitalistic mode of production.
+
+
+=== Dialectical materialism ===
+This viewpoint is exactly the same with Marx’s historical dialectic.  If this is correct, the necessity for a capitalistic society to be switched to another economic system can be proved by demonstrating the following two.  First, we have to prove how production power advances in capitalistic society.  Next, we have to show what is the upper bound of production power for a capitalistic economy to be able to work effectively.
+
+
+=== Necessity of a new society ===
+As for the first, the introduction of new technologies are most important as shown by many economists as Schumpeter and others.  As for the latter upper bound, he stresses the controlability of the whole economy.  We are living in the world where even a local economic activity can have effects of global and long lasting consequences in all over the world.  In this sense the production activities are already socialized in their effects.  The decision making, however, is still grasped exclusively by small part of members in the society and it is executed based on profit maximizing principle.  So he considers that in order to guarantee the existence of humankind we have to change the capitalistic economy to an alternative much more socialized economic system, which is called socialistic economy.
+
+
+== Bibliography ==
+
+
+=== Books ===
+Nobuo Okishio ed. (1992), Business cycles : theories and numerical simulation (Dynamische Wirtschaftstheorie; Bd. 12), Peter Lang Publishing.
+Nobuo Okishio, Michael Kruger and Peter Flaschel (1993), Nobuo Okishio-Essays on Political Economy : Collected Papers, Peter Lang Publishing (ISBN 3631435584).
+
+
+=== Articles ===
+“Monopoly and the Rates of Profit”, 1955, Kobe University economic review 1,71–88.
+“Durable Equipment and Equilibrium Growth”, 1958, Kobe University economic review 4,29–40.
+“Technical Changes and the Rate of Profit”, 1961, Kobe University economic review 7,85–99.
+"A Mathematical Note on Marxian Theorems". Weltwirtschaftliches Archiv. 91 (2): 287–297. 1963.
+“Instability of Harrod=Domar's Steady Growth”, 1964, Kobe University economic review 10,19–27.
+“On Mr. N. Kaldor's Growth Model”, 1967, Kobe University economic review 13, 43–58.
+“An Extension of a Discrete Version of Pontryagin's Maximum Principle and its Simple Application”, 1970, Kobe University economic review 16,37–48.
+“A Formal Proof of Marx's Two Theorems”, 1972, Kobe University economic review 18,1–6.
+“Value and Production-Price”, 1974, Kobe University economic review 20,1–19.
+“Fixed Capital and Extended Reproduction”, 1975, Kobe University economic review 21,11–27.
+“Marxian Fundamental Theorem : Joint-Production Case”, 1976, Kobe University economic review 22,1–11.
+“Inflation as an Expression of Class Antagonisms”, 1977, Kobe University economic review 23,17–29.
+“Theorems of Investment Truncation”, The annals of the School of Business Administration, Kobe University 21,73–90,1977.
+"Notes on Technical Progress and Capitalist Society", 1977, Cambridge Journal of Eonomics 1(1), 93–100.
+Three Topics on Marxian Fundamental Theorems", 1978, Kobe University economic review 24,1–18.
+“Dimensional Analysis in Economics”, 1982, Kobe University economic review 28,31–44.
+“The Decision of New Investment, Technique and Rate of Utilization”, 1984, Kobe University economic review 30,15–32.
+“A Measurement of the Rate of Surplus Value in Japan : The 1980 Case”, 1985, Kobe University economic review 31,1–13.
+“Stagflation : Causes and Policies”, 1986, Kobe economic & business review 32,33–54.
+“Theoretical Foundations of International Macro-Economic Model”, 1987, Kobe University economic review 33,1–16.
+“On Marx's Reproduction Scheme”, 1988, Kobe University economic review 34,1–24.
+“Problems and Method of Economics”, 1989, Kobe economic & business review 34,101–108.
+“On the Theories of Determination of the Real Wage Rate”, 1989, Kobe University economic review 35,1–13.
+“The Permissible Range of Relative Prices in the Light of Lavor Values”, 1995, Kobe University economic review 41,1–14.
+“Competition and Production Price”, 2000,Cambridge Journal of Eonomics 25(4), 493–501.

@@ -12,8 +12,10 @@
 | birth_place       = [[Liverpool]], [[Lancashire]], England
 | death_date        = {{Death date and age|1882|08|13|1835|09|01|df=y}}
 | death_place       = [[Bexhill-on-Sea]], [[Sussex]], England
+| Parents           =
 | residence         = 
-| citizenship       = 
+| citizenship       = Britain
+| children          = [[Herbert Stanley Jevons]]
 | field             = [[Economics]]<br>[[Logic]]
 | work_institutions = [[University College London]] (1876–1880)<br>[[Owens College]] (now [[University of Manchester]]) (1863–1875)
 | alma_mater        = [[University College London]]
@@ -21,7 +23,7 @@
 | doctoral_students = 
 | known_for         = [[Marginal utility theory]]<br>[[Jevons paradox]]
 | influences        = [[Jeremy Bentham|Bentham]]{{·}}[[Étienne Bonnot de Condillac|Condillac]]{{·}}[[Antoine Augustin Cournot|Cournot]]{{·}}[[John Stuart Mill|J. S. Mill]]{{·}}[[David Ricardo|Ricardo]]{{·}}[[Adam Smith|Smith]]
-| influenced        = [[Irving Fisher|Fisher]]{{·}}[[Alfred Marshall|Marshall]]{{·}}[[Karl Popper|Popper]]{{·}}[[J. K. Mehta]]
+| influenced        = [[Irving Fisher|Fisher]]{{·}}[[Alfred Marshall|Marshall]]{{·}}[[Karl Popper|Popper]]{{·}}[[J. K. Mehta]]{{·}}[[Herbert Stanley Jevons]] (Son)
 | signature         = Jevons's signature.jpg
 | footnotes         = While not a formal advisor (Jevons never acquired a PhD), De Morgan was his most influential professor.<ref>R. D. Collison Black (1972). "Jevons, Bentham and De Morgan", ''Economica'', New Series, Vol. 39, No. 154, pp. 119–34</ref>
 }}

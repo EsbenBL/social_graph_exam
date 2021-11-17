@@ -44,9 +44,9 @@
 |death_date   = 
 |death_place  = 
 |party        = [[Republican Party (United States)|Republican]]
-|spouse       = {{marriage|Ann Fleischer|1949|1964|end=div}}<br>{{marriage|[[Nancy Kissinger|Nancy Maginnes]]|1974}}
+|spouse       = {{ubl|{{marriage|Ann Fleischer|1949|1964|end=div}}|{{marriage|[[Nancy Kissinger|Nancy Maginnes]]|1974}}}}
 |children     = 2
-|education    = [[City College of New York]]<br>[[Harvard University]] {{small|([[Bachelor of Arts|AB]], [[Master of Arts|AM]], [[Doctor of Philosophy|PhD]])}}
+|education    = [[City College of New York]]<br>[[Harvard University]] ([[Bachelor of Arts|BA]], [[Master of Arts|MA]], [[Doctor of Philosophy|PhD]])
 |awards       = [[Nobel Peace Prize]]
 |signature    = Henry Kissinger Signature 2.svg
 |allegiance   = {{flag|United States}}

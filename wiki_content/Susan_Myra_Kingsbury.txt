@@ -19,7 +19,7 @@
 | resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
 | burial_place       = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
 | burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
-| nationality        = United States
+| nationality        = American
 | education          = A.B., A.M., Ph.D.
 | alma_mater         = [[College of the Pacific]]<br>[[Stanford University]]<br>[[Columbia University]]
 | occupation         = 
@@ -189,6 +189,7 @@ Her published works include:
 
 }}
 {{authority control}}
+
 {{DEFAULTSORT:Kingsbury, Susan Myra}}
 [[Category:1870 births]]
 [[Category:1949 deaths]]

@@ -1,0 +1,23 @@
+Roy Radner (born June 29, 1927) is Leonard N. Stern School Professor of Business at New York University. He is a micro-economic theorist. Radner's research interests include strategic analysis of climate change, bounded rationality, game-theoretic models of corruption, pricing of information goods, statistical theory of data mining. Previously he was a faculty member at the University of California, Berkeley, and a Distinguished Member of Technical Staff at AT&T Bell Laboratories.
+
+
+== Radner equilibrium ==
+Among Radner's various contributions, the one that bears his name, Radner equilibrium (1968), is a model of financial markets. In the traditional approach if the value of an asset or a contingent claim is affordable then it can be achieved. Not so with incomplete market as the payoff has to be replicable by trading of available assets that are now part of the definition of the economy. The first consequence of such a requirement is that budget sets do not fill the available space and are typically smaller than hyperplanes. Because the dimension of vectors orthogonal to the budget set is larger than one there is no reason for the  price systems supporting an equilibrium to be unique up to scaling, likewise the first order conditions no longer implies that  gradient of agents are collinear at equilibrium. Both happen to fail to hold generically: the first theorem of welfare economics is hence the first victim of incompleteness. Pareto-optimality of equilibria generally does not hold. In traditional complete markets any policy would be undone through trading of rational expectation agents. This is no longer the case with incomplete markets as such policy-neutralising trading is no longer necessarily possible. Various policies (tax-related, monetary, etc. ) have an effect when introduced when markets are incomplete. Additionally incompleteness opens the door for a theory of financial innovation with real impact. This was not possible in the traditional complete market general equilibrium model as any contingent claim could be replicated by trading and financial innovation would have no real effect.
+
+
+== Awards and recognition ==
+Member of the U.S. National Academy of Sciences and the American Academy of Arts and Sciences
+Distinguished Fellow of the American Economics Association and the American Association for the Advancement of Science
+Fellow of the Society for the Advancement of Economic Theory
+Fellow and Past-President of the Econometric Society
+
+
+== Selected bibliography ==
+BooksRadner, Roy; McGuire, C.B., eds. (1972). Decision and organization: a volume in honor of Jacob Marschak. Studies in Mathematical and Managerial Economics Series (volume 12). Amsterdam: North-Holland Pub. Co. ISBN 9780720433135.Journal articlesRadner, Roy; Hurwicz, Leonid; Reiter, Stanley (March 1975). "A stochastic decentralized resource allocation process: Part I". Econometrica. 43 (2): 187–221. doi:10.2307/1913581. JSTOR 1913581. Cowles Commission Discussion Paper: Economics No. 2112, (pdf).
+
+
+== References ==
+
+
+== External links ==
+Roy Radner at the Mathematics Genealogy Project

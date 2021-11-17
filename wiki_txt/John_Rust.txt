@@ -1,0 +1,205 @@
+John Philip Rust (born May 23, 1955) is an American economist and econometrician.
+John Rust received his PhD from  MIT in 1983 and taught at the University of Wisconsin, Yale University and University of Maryland before joining Georgetown University in 2012.
+John Rust was awarded Frisch Medal in 1992 
+and became the fellow of Econometric Society in 1993.John Rust is best known as one of the founding fathers of the 
+structural estimation of dynamic discrete choice
+models
+and the developer of the nested fixed point (NFXP) maximum likelihood estimator which is widely used
+in structural econometrics.
+However, he had published papers on broad range of topics including
+equilibrium in the markets of durable goods,
+social security, retirement, disability insurance,
+nuclear power industry, 
+real estate economics, 
+rental car industry,
+transportation research,
+auction markets,
+computational economics, 
+dynamic games.
+
+
+== Education and career ==
+John Rust was born in Wisconsin on May 23, 1955. He graduated from
+Waukesha High School in 1973, completed B.A. in Mathematics in 1977 at the 
+University of Pennsylvania, and received his Ph.D. in Economics from
+Massachusetts Institute of Technology in 1983.
+His dissertation titled “Stationary Equilibrium in a Market for Durable Assets” 
+under the supervision of Daniel McFadden was published as Econometrica article in 1985.After graduating from University of Pennsylvania in 1977, John 
+Rust worked as research analyst for Morgan Stanley in New York City for two years.
+His first academic job was at the University of Wisconsin (assistant professor, 1983-1987, 
+associate professor, 1987-1989, and full professor, 1990-1996), after which he had professorial
+positions at Yale University (1996-2001) and University of Maryland (2001-2011) before 
+starting his current affiliation with Georgetown University.John Rust had been affiliated with a number of governmental bodies, including
+Board of Governors, Federal Reserve System (research consultant, 1995),
+Panel of Expert Reviewers of Social Security Administration’s MINT Model (member, 1998-1999),
+Technical Panel of Social Security Advisory Board (member, 1998-1999),
+Long Term Modeling Advisory Group U.S. Congressional Budget Office (member, 2001-2004),
+Social Security Administration (advisor for demonstration project resulting 
+from the 1999 Work Incentives Improvement Act, 2000-2003).
+He has also been a member of Steering Committee of the Health and Retirement Study at 
+University of Michigan (2000-2002),
+senior advisor at The Brattle Group (since 2004) and
+fellow of TIAA-CREF Institute, New York (since 2005).
+
+
+== Research and contributions ==
+
+
+=== Dynamic discrete choice models ===
+
+Rust is best known for developing methods for analyzing dynamic discrete choice. In his best-known paper, he modeled the decision of Harold Zurcher, superintendent of the Madison, Wisconsin Metropolitan Bus Company, whether and when to replace the engines of buses in his fleet, and developed the nested fixed point algorithm to estimate the model using data on when the buses were replaced. This paper is one of the first dynamic stochastic models of discrete choice estimated using real data, and continues to serve as classical example of the problems of this type. The methods Rust developed have been used to study dynamic economic decisions in other contexts, including retirement and occupational choice.
+
+
+=== Methodological debate ===
+Although John Rust is a prominent structural econometrician,
+in the ongoing debate
+between adepts of the structural and 
+non-structural econometric approaches,
+he has expressed a balanced position.
+
+I really do not understand the widespread antipathy towards structural econometrics. I do not see any basis for the belief that the reduced form approaches adopted by statistical modelers is more justified or legitimate (or is less subjective) than the structural econometric approach adopted by economic modelers. Both types of modelers have to impose strong assumptions, and it seems all that we can say is that these models and the underlying identifying assumptions are just different.
+
+It really isn’t productive to criticize the status quo in economics these days, nor is it productive to try to promote the virtues of structural estimation. Criticism only encourages the practitioners to rally around the flag. I think it is equally a waste of time to try to engage in salesmanship.
+
+Instead, in his review of "The Limits of Inference without Theory" by Kenneth Wolpin
+titled "The Limits of Inference with Theory"
+John Rust brings attention to the limits of inference inherent to any econometric approach, 
+and argues that collection of better data and closer cooperation between structural and the 
+experimental economics will lead to more useful empirical knowledge.
+
+My main message is though there is ample room for getting far more knowledge from limited data (and even more when we have access to “big data” ) by optimally combining inductive and deductive approaches to inference and learning, it is important to recognize that there are a number of inherent limits to inference that may be insuperable. These limits were not adequately addressed in Wolpin’s book, and motivated the title of this review.
+
+John Rust holds a stronger position on the issue of disconnect between theoretical economics and econometrics
+from the real world (empirical) problems.
+At the "Causality in the Social Sciences Conference" held at Stanford University on December 5–6, 2014
+he gave a talk titled 
+""Mostly Useless Econometrics: Measuring the Causal Effect of Econometric Theory" (PDF)."
+where he pointed out that development of complicated econometric theories is rewarded disproportionally
+to their practical usefulness.
+
+
+== Professional service ==
+In 2004 John Rust co-founded the software development company Technoluddities, Inc.
+which operates several web-based software products widely used by the economic profession.
+Technoluddities, Inc. owns trademarks to three of these services, namely Editorial Express, 
+Conference Maker and Head Hunter.
+
+
+=== Editorial Express ===
+Editorial Express 
+is web-based editorial tracking software that can enable 
+"paper-free" operation of the key editorial functions of a journal.
+Some of the features of this system include guaranteed low pricing, secure operations and data 
+encryption, electronic submission of papers and referee reports, easy assignment of editors and referees, built-in email
+notification and automatic reminders, statistical functions and reporting.
+Editorial express is regarded by many as one of the best journal management systems.Editorial Express used by many leading journals in economics including
+Econometrica, 
+Quarterly Journal of Economics,
+RAND Journal of Economics,
+Review of Economic Studies
+Journal of Applied Econometrics,
+International Economic Review,
+Review of Economics and Statistics,
+Journal of Finance and other.
+
+
+=== Conference Maker ===
+Conference Maker
+is web-based software for organizing international conferences.
+Conference Maker allows a program chair (or several co-chairs) and their selected program committee 
+to handle the submission process in a decentralized fashion. All members of the program committee can 
+log in at any time via secure password protected accounts and can view all submissions online. 
+Program committee members are assigned certain subsets of submissions (usually designated by the person making the submission, unless overwritten by program committee members) and can make accept/reject decisions by clicking a button.
+There is also a simple interface for forming sessions, searching for discussants and session chairs, 
+posting/updating the conference program to an automatically generated web page, 
+and sending mass emails to arbitrarily selected subgroups of users.
+Over 625 international conferences have used Conference Maker since it was introduced in 2001, 
+more than 150,000 submissions have been made to Conference Maker for these various 
+conferences and over 290,000 people worldwide have used it.
+
+
+=== Head Hunter ===
+Head Hunter
+is web-based academic recruiting software specially designed as a "back end interface" to the 
+EconJobMarket.org.
+Some of the features of this system include paperless operation, built-in scheduling module,
+easy setup, high security, electronic applications and reference letters.
+Head Hunter is one of the internal interfaces (or "back ends") which facilitate for the 
+departments the work with the applications and reference letters collected by
+EconJobMarket.org centralized application collection system.
+
+
+=== EconJobMarket.org ===
+EconJobMarket.org (EJM)
+is a nonprofit organization that facilitates the flow of information in the economics 
+job market by providing a secure central repository for the files of job-market candidates 
+(including papers, reference letters, and other materials) accessed on line.
+EJM was founded in 2007 by Martin Osborne, John Rust, and Joel Watson, and is 
+run by a group of academic economists who volunteer their time and effort. 
+EconJobMarket.org is endorsed by
+The Econometric Society,
+Canadian Economics Association,
+European Economic Association,
+Eurasia Business and Economics Society,
+Society for Economic Dynamics,
+Verein für Socialpolitik,
+VOX and
+walras.org
+The theoretical foundation for the creation of EconJobMarket.org
+is described in Chapter 7 of The Handbook of Market Design.
+
+EJM does not attempt to fundamentally alter the decentralized “endogenous search and matching” process by which the economics job market currently operates. Since there is unrestricted entry of intermediaries similar to EJM and a number of for-profit and non-profit organizations are currently competing in this market, we discuss the problem of market fragmentation that can occur when too many organizations attempt to intermediate trade in the market. Contrary to conventional wisdom in industrial organization theory, we show that unrestricted entry and competition of intermediaries can result in suboptimal outcomes. We discuss conditions under which the market might be improved if there is sufficient coordination to promote information sharing, such as establishing a dominant information clearinghouse that operates as a non-profit public service — a role EJM is trying to fulfill.
+
+EconJobMarket.org grew in various significant characteristics 
+(number of job adds posted, number of recruiters' accounts, number of applicants' accounts,
+number of applications transmitted, number of recommenders' accounts, number of recommendations transmitted)
+between its inception and 2011 at an average annual rate between 79% and 194%.
+
+
+== Selected publications ==
+
+
+=== Solution and estimation of structural dynamic models ===
+Rust, John (1987). "Optimal Replacement of GMC Bus Engines: An Empirical Model of Harold Zurcher". Econometrica. 55 (5): 999–1033. doi:10.2307/1911259. ISSN 0012-9682. JSTOR 1911259. S2CID 154722645.Rust, John (1988). "Maximum likelihood estimation of discrete control processes" (PDF). SIAM Journal on Control and Optimization. 26 (5): 1006–1024. doi:10.1137/0326056.Rust, John (1994). "Structural estimation of Markov decision processes".  In Engle, R.F.; McFadden, D.L. (eds.). Handbook of Econometrics, Vol. 4. Econometric Theory. chap. 51. Elsevier Science B.V. pp. 3081–3143. doi:10.1017/S0266466600005661.Kapteyn, Arie; Kieffer, Nicholas; Rust, John (1995). "The microeconometrics of dynamic decision making". Journal of Applied Econometrics. 10 (S1): S1–S7. doi:10.1002/jae.3950100502.Rust, John (1997). "Using Randomization to Break the Curse of Dimensionality". Econometrica. 65 (3): 487–516. CiteSeerX 10.1.1.198.7218. doi:10.2307/2171751. ISSN 0012-9682. JSTOR 2171751.Rust, John; Traub, J. F.; Wozniakowski, H. (2002). "Is There a Curse of Dimensionality for Contraction Fixed Points in the Worst Case?". Econometrica. 70 (1): 285–329. CiteSeerX 10.1.1.20.7714. doi:10.1111/1468-0262.00276. ISSN 1468-0262. JSTOR 2692170.Santos, Manuel S; Rust, John (2004). "Convergence properties of policy iteration". SIAM Journal on Control and Optimization. 42 (6): 2094–2115. doi:10.1137/S0363012902399824. S2CID 6989026.Paarsch, Harry J.; Rust, John (2009). "Valuing programs with deterministic and stochastic cycles". Journal of Economic Dynamics and Control. 33 (3): 614–623. doi:10.1016/j.jedc.2008.08.007. ISSN 0165-1889.
+
+
+=== Market equilibrium, durable goods ===
+Rust, John (1985). "Stationary equilibrium in a market for durable assets" (PDF). Econometrica. 53 (4): 783–805. doi:10.2307/1912654. JSTOR 1912654.Rust, John (1986). "When is it optimal to kill off the market for used durable goods?". Econometrica. 54 (1): 65–86. doi:10.2307/1914157. JSTOR 1914157.Rust, John; Hall, George (2003). "Middlemen versus Market Makers: A Theory of Competitive Exchange" (PDF). Journal of Political Economy. 111 (2): 353–403. doi:10.1086/367684. JSTOR 10.1086/367684. S2CID 1266044.
+
+
+=== Retirement and disability ===
+Rust, John (1989). "A dynamic programming model of retirement behavior".  In Wise, David (ed.). The economics of aging. University of Chicago Press. pp. 359–404. ISBN 9780226903224.Rust, John; Phelan, Christopher (1997). "How Social Security and Medicare Affect Retirement Behavior In a World of Incomplete Markets". Econometrica. 65 (4): 781–831. CiteSeerX 10.1.1.369.9071. doi:10.2307/2171940. ISSN 0012-9682. JSTOR 2171940.Benítez-Silva, Hugo; Buchinsky, Moshe; Chan, Hiu Man; Rust, John; Sheidvasser, Sofia (1999). "An empirical analysis of the social security disability application, appeal, and award process". Labour Economics. 6 (2): 147–178. doi:10.1016/s0927-5371(99)00014-7.Benítez-Silva, Hugo; Buchinsky, Moshe; Chan, Hiu Man; Sheidvasser, Sofia; Rust, John (2004). "How Large Is the Bias in Self-Reported Disability?". Journal of Applied Econometrics. 19 (6): 649–670. doi:10.1002/jae.797. JSTOR 25146315. S2CID 145237824.
+
+
+=== Rental cars ===
+Cho, Sungjin; Rust, John (2008). "Is econometrics useful for private policy making? A case study of replacement policy at an auto rental company". Journal of Econometrics. 145 (1–2): 243–257. CiteSeerX 10.1.1.134.390. doi:10.1016/j.jeconom.2008.05.015.Cho, Sungjin; Rust, John (2010). "The Flat Rental Puzzle". The Review of Economic Studies. 77 (2): 560–594. doi:10.1111/j.1467-937x.2009.00556.x. ISSN 0034-6527. JSTOR 40587639. S2CID 53127266.
+
+
+=== Nuclear power plants ===
+Rust, John; Rothwell, Geoffrey (1995). "Optimal Response to a Shift in Regulatory Regime: The Case of the US Nuclear Power Industry". Journal of Applied Econometrics. 10 (Special Issue: The Microeconometrics of Dynamic Decision Making): S75–S118. CiteSeerX 10.1.1.203.2601. doi:10.1002/jae.3950100506. JSTOR 2285015.Rothwell, Geoffrey; Rust, John (1997). "On the Optimal Lifetime of Nuclear Power Plants". Journal of Business & Economic Statistics. 15 (2): 195–208. doi:10.1080/07350015.1997.10524700. JSTOR 1392305. S2CID 14334833.
+
+
+=== Philosophy of science ===
+Rust, John (2010). "Comments on: "Structural vs. atheoretic approaches to econometrics" by Michael Keane". Journal of Econometrics. 156 (1): 21–24. doi:10.1016/j.jeconom.2009.09.004. ISSN 0304-4076.Rust, John (2014). "The Limits of Inference with Theory: A Review of Wolpin (2013)". Journal of Economic Literature. 52 (3): 820–50. doi:10.1257/jel.52.3.820. S2CID 13175008.
+
+
+=== Books ===
+Friedman, Daniel; Rust, John (1993). The double auction market: institutions, theories, and evidence. 14. Westview Press.Amman, Hans M; Tesfatsion, Leigh; Judd, Kenneth L; Kendrick, David A; Rust, John (2006). Handbook of computational economics. Elsevier. ISBN 9780444512536.
+
+
+== See also ==
+List of economists
+
+
+== References ==
+
+
+== External links ==
+John Rust personal webpage
+John Rust at IDEAS.RePeC.org
+NFXP software and manual
+Technoluddities, Inc.
+Editorial Express
+Conference Maker
+Head Hunter
+EconJobMarket.org

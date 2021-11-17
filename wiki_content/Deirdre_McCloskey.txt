@@ -1,35 +1,26 @@
 {{short description|American economist (born 1942)}}
 <!--Per [[Wikipedia:Manual of Style]], use she/her to refer to Deirdre McCloskey throughout her life.-->
 {{Infobox scientist
-| name = Deirdre McCloskey
-| native_name = 
-| native_name_lang = 
-| image = Deirdre McCloskey (15579711609).jpg
-| image_size = 
-| alt = Photograph of McCloskey
-| caption = McCloskey in November 2014
-| birth_name = <!--not notable under birth name; see [[MOS:BIO]]-->
-| birth_date = {{Birth date and age|1942|09|11}}
-| birth_place = [[Ann Arbor, Michigan]]
-| death_date = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
-| death_place = 
-| nationality = 
-| fields = [[Libertarian economics]], [[economic history]], [[Cliometrics]]
-| workplaces = 
-| alma_mater = [[Harvard University]]
-| thesis_title = Economic Maturity and Entrepreneurial Decline: British Iron and Steel, 1870–1913
-| thesis_url = http://id.lib.harvard.edu/aleph/003882993/catalog
-| thesis_year = 1970
-| doctoral_advisor = [[Alexander Gerschenkron]]
-| academic_advisors = 
-| doctoral_students = 
-| notable_students = [[Stephen T. Ziliak]]
-| known_for = {{plainlist|
+|name = Deirdre McCloskey
+|image = Deirdre McCloskey (15579711609).jpg
+|alt = Photograph of McCloskey
+|birth_name = <!--not notable under birth name; see [[MOS:BIO]]-->
+|birth_date = {{birth date and age|1942|9|11}}
+|birth_place = [[Ann Arbor, Michigan]], U.S.
+|death_date = 
+|death_place = 
+|fields = [[Libertarian economics]], [[economic history]], [[Cliometrics]]
+|education = [[Harvard University]] ([[Bachelor of Arts|BA]], [[Master of Arts|MA]], [[Doctor of Philosophy|PhD]])
+|thesis_title = Economic Maturity and Entrepreneurial Decline: British Iron and Steel, 1870–1913
+|thesis_url = http://id.lib.harvard.edu/aleph/003882993/catalog
+|thesis_year = 1970
+|doctoral_advisor = [[Alexander Gerschenkron]]
+|academic_advisors = 
+|doctoral_students = 
+|notable_students = [[Stephen T. Ziliak]]
+|known_for = {{plainlist|
 *[[Economic history of Britain]]
 *[[McCloskey critique]]}}
-| influences = 
-| influenced = 
-| awards = 
 }}
 '''Deirdre Nansen McCloskey''' (born '''Donald N. McCloskey'''; September 11, 1942 in Ann Arbor, Michigan) is the [[Professors in the United States#Distinguished (teaching/research) professor|Distinguished Professor]] of Economics, History, English, and Communication at the [[University of Illinois at Chicago]] (UIC). She is also [[adjunct professor]] of [[Philosophy]] and [[Classics]] there, and for five years was a [[Visiting scholar|visiting Professor]] of philosophy at [[Erasmus University]], [[Rotterdam]]. Since October 2007 she has received six [[Honorary degree|honorary doctorate]]s.<ref name=vitae>{{cite web|last=McCloskey|first=Deirdre|title=Curriculum Vitae of Professor Deirdre Nansen McCloskey|date=May 11, 2011|url=http://www.deirdremccloskey.com/main/vita.php|publisher=Deirdre McLoskey.com|access-date=30 March 2013}}</ref> In 2013, she received the [[Julian L. Simon]] Memorial Award from the [[Competitive Enterprise Institute]] for her work examining factors in history that led to advancement in human achievement and prosperity.<ref>{{cite web|title=Julian L. Simon Memorial Award|url=https://cei.org/julian-l-simon-memorial-award|publisher=Competitive Enterprise Institute|access-date=April 7, 2015|date=2014}}</ref>  Her main research interests include the origins of the modern world, the misuse of [[statistical significance]] in economics and other sciences, and the study of [[capitalism]], among many others.
 

@@ -1,0 +1,77 @@
+Ernst Heinrich Weber (24 June 1795 – 26 January 1878) was a German physician who is considered one of the founders of experimental psychology. He was an influential and important figure in the areas of physiology and psychology during his lifetime and beyond. His studies on sensation and touch, along with his emphasis on good experimental techniques led to new directions and areas of study for future psychologists, physiologists, and anatomists.
+Ernst Weber was born into an academic background, with his father serving as a professor at the University of Wittenberg. Weber became a doctor, specializing in anatomy and physiology. Two of his younger brothers, Wilhelm and Eduard, were also influential in academia, both as scientists with one specializing in physics and the other in anatomy. Ernst became a lecturer and a professor at the University of Leipzig and stayed there until his retirement.
+
+
+== Early life ==
+Ernst Heinrich Weber was born on 24 June 1795 in Wittenberg, Saxony, Holy Roman Empire. He was son to Michael Weber, a professor of theology at the University of Wittenberg. At a young age, Weber became interested in physics and the sciences after being heavily influenced by Ernst Chladni, a physicist often referred to as the “father of acoustics”. Weber completed secondary school at Meissen and began studying medicine at the University of Wittenberg in 1811. He went on to receive his MD in 1815 from the University of Leipzig. The fighting and the aftermath of the Napoleonic wars forced Weber to relocate from Wittenberg. He became an assistant in J.C. Clarus’ medical clinic in Leipzig in 1817 and then a professor in comparative anatomy in 1818 at the University of Leipzig. He became chair of human anatomy at the university in 1821. Ernst Weber’s first direct contribution to psychology came in 1834 when trying to describe the sensation of touch.
+
+
+== Contributions ==
+
+
+=== Just-Noticeable Difference ===
+Weber describes just-noticeable difference as the following, “in observing the disparity between things that are compared, we perceive not the difference between the things, but the ratio of this difference to the magnitude of things compared.” In other words, we are able to distinguish the relative difference, not the absolute difference between items. Or, we can discern between some constant ratio, not some constant difference. Weber’s first work with jnd had to do with differences in weight, in that jnd is the "minimum amount of difference between two weights necessary to tell them apart". For this, Weber found that the finest discrimination between weights was when they differed by 8–10%. For example, if you were holding a 100 g block, the second block would need to weigh at least 108 g in order to notice a difference. Weber also suspected that a constant fraction applied for all senses, but is different for each sense. When comparing the differences in line length, there must be at least 0.01 difference in order to distinguish the two. When comparing music pitch, there must be at least 0.006 vibrations per second difference. So for every sense, some increase in measurement is needed in order to tell a difference.
+
+
+=== Weber's Law ===
+Weber’s Law, as labeled by Gustav Theodor Fechner, established that sensory events can be related mathematically to measurable relative changes in physical stimulus values.
+ΔR/R = k
+ΔR: amount of stimulation that needs to be added to produce a jnd
+R: amount of existing stimulation
+K: constant (different for each sense)Weber’s law is invalid as the stimulus approaches the upper or lower limits of a sensory modality. Fechner took inspiration from Weber’s Law and developed what we know today as Fechner’s Law. Fechner’s Law varied and was advanced in the fact that Fechner had developed new methods for measuring just-noticeable differences in different sense modalities, making the measured results more accurate.
+
+
+=== Experimental Psychology ===
+For most of his career, Weber worked with his brothers, Wilhelm and Eduard, and partner Gustav Theodor Fechner. Throughout these working relationships, Weber completed research on the central nervous system, auditory system, anatomy and function of brain, circulation, etc., and a large portion of research on sensory physiology and psychology. The following items are part of Weber’s contributions the experimental psychology:
+
+
+==== Experimental Wave Theory ====
+Studied flow and movement of waves in liquids and elastic tubes.
+
+
+==== Hydrodynamics ====
+Weber discovered laws and applied them to circulation. In 1821, Weber launched a series of experiments on the physics of fluids with his younger brother Wilhelm. This research was the first detailed account of hydrodynamic principles in the circulation of blood. Weber continued his research on blood and in 1827, he made another significant finding.  Weber explained the elasticity of blood vessels in the movement of blood in the aorta in a continuous flow to the capillaries and arterioles.
+
+
+==== Two-point Threshold Technique ====
+This technique helped map sensitivity and touch acuity on the body using compass technique. Points of a compass would be set at varying distances in order to see at what distance are the points of the compass perceived as two separate points instead of one single point.  Weber also wrote about and tested other ideas on sensation including a terminal threshold, which is the highest intensity an individual could sense before the sensation could not be detected any longer.
+
+
+==== Weber’s Illusion ====
+Weber’s Illusion is an "experience of divergence of two points when stimulation is moved over insensitive areas and convergence of two points when moved over sensitive areas".
+Weber’s use of multivariate experiment, precise measurements, and research on sensory psychology and sensory physiology laid the groundwork for accepting experimental psychology as a field and providing new ideas for fellow 19th century psychologists to expand.
+
+
+== Later career ==
+In 1817, Weber was appointed as the Dozent of Psychology at Leipzig.  He moved on to become Professor of Anatomy the following year (1818).  He held the position for many years, finally moving to Professor of Psychology towards the end of his life.  In his later life, Weber became less involved in testing and experimenting, although he was still interested in sensory physiology. Ernst Heinrich Weber retired from the University of Leipzig in 1871. He continued to work with his brother, Eduard and their work with nerve stimulation and muscle suppression lead to inhibitory responses as a popular therapy of the time.  Ernst Weber died in 1878 in Leipzig, Germany.
+
+
+== Publications ==
+In De Tactu, published in English as On touch: anatomical and physiological notes, Weber proposed there was a threshold of sensation in each individual. The two-point threshold, the smallest distance between two points where a person determines that it is two points and not one, was Weber’s first discovery.
+Weber’s work made a significant impact on the field of experimental psychology, as he was one of the first scientist to test his ideas on humans. His meticulous notes and new ideas of testing subjects described in his book Der tastsinn und das gemeingefühl (English: "The sense of touch and the common sensibility") led E. B. Titchener to call the work "the foundation stone of experimental psychology".
+The book that described blood circulation research, Wellenlehre, auf Experimenten gegrϋndet (English: "Wave Theory, Founded on Experiments") became instantly recognized as very important to physics and physiology.  This research lead the way for future investigating, although it was not formally published until 1850 with the culmination of the rest of his research on blood in a book entitled, Ueber die Anwendung der Wellenlehre auf die Lehre vom Kreislauf des Blutes und insbesondere auf die Pulslehre (English: "Concerning the application of the wave theory to the theory of the circulation of the blood and, in particular, on the pulse teaching").
+Anatomia comparata nervi sympathici (1817)
+De aure et auditu hominis et animalium (1820)
+Tractatus de motu iridis (1821)
+Wellenlehre auf Experimente gegründet (1825)Joint works with his brothers Wilhelm Eduard Weber and Eduard Friedrich Weber:
+
+Zusätze zur Lehre vom Bau und von der Verrichtung der Geschlechtsorgane (1846)
+Die Lehre vom Tastsinn und Gemeingefühl (1851)
+Annotationes anatomicae et physiologicae (1851)
+
+
+== Legacy and influence ==
+Weber is often cited as the pioneer or father of experimental psychology.  He was the first to conduct true psychological experiments that held validity.  While most psychologists of the time conducted work from behind a desk, Weber was actively conducting experiments, manipulating only one variable at a time in order to gain more accurate results.  This paved the way for the field of psychology as an experimental science and opened the way for the development of even more accurate and intense research methods.
+One of Weber’s greatest influences was on Gustav Fechner.  Weber was appointed the Dozent of Psychology at the University of Leipzig the same year that Fechner enrolled.  Weber’s work with sensation inspired Fechner to further the work and go on to develop Weber’s law.  At the time of his sensation work, Weber did not fully realize the implications that his experiments would have on understanding of sensory stimulus and response.
+
+
+== See also ==
+Weberian apparatus
+Weber test
+
+
+== References ==
+
+
+== External links ==
+ Media related to Ernst Heinrich Weber at Wikimedia Commons

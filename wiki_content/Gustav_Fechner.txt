@@ -54,7 +54,7 @@ Fechner published chemical and physical papers, and translated chemical works by
 
 === Elemente der Psychophysik ===
 
-Fechner's epoch-making work was his ''Elemente der Psychophysik'' (1860). He started from the [[Monism|monistic]] thought that bodily facts and conscious facts, though not reducible one to the other, are different sides of one reality. His originality lies in trying to discover an exact mathematical relation between them. The most famous outcome of his inquiries is the law known as the [[Weber–Fechner law]] which may be expressed as follows:
+Fechner's epoch-making work was his ''Elemente der Psychophysik'' (1860). He started from the [[Monism|monistic]] thought that bodily facts and conscious facts, though not reducible one to the other, are different sides of one reality. His originality lies in trying to discover an exact mathematical relation between them. The most famous outcome of his inquiries is the law known as ''Fechner's Law'', which may be expressed as follows:
 
 :"In order that the intensity of a sensation may increase in arithmetical progression, the stimulus must increase in geometrical progression."
 

@@ -1,0 +1,32 @@
+'''Hedwig von Restorff''' (14 December 1906, Berlin – 6 July 1962, Freiburg im Breisgau) is best known for her discovery of the isolation effect [[von Restorff effect|that bears her name]].
+
+Hedwig von Restorff attended the [[University of Berlin]] where she would also obtain her PhD. Von Restorff studied and practiced psychology according to [[Gestalt psychology|Gestalt]] traditions. During her psychological career, von Restorff worked at the University of Berlin as a postdoctoral assistant to [[Wolfgang Köhler]]. During her time at the University of Berlin, von Restorff published two papers. The first touched on her findings of the isolation paradigm experiments ran in 1933, while the second was co-authored with Köhler. Her writings have never been published in English which has caused some work to be lost due to secondary accounts.
+
+==Isolation paradigm==
+
+The isolation paradigm refers to a distinctive feature of an item in a list that differs from the others by way of dimension. Von Restorff was not the first to use the isolation paradigm in a study. Researchers before her used the isolation paradigm to observe the effect of vividness on memory.<ref name=Arenius>{{cite web|last1=Arenius|first1=Marcus|last2=Bengtsgård|first2=Charlotta|last3=Berntsson|first3=Gita|last4=Granqvist|first4=Ludvig|last5=Lagerlöf|first5=David|last6=Praetorius|first6=Gesa|last7=Tjernström|first7=Johan|title=ISOLATE: An alternative interpretation of the von Restorff effect|url=https://www.ida.liu.se/~729G19/projektrapporter/rapporter-07/grupp2.pdf|website=ida.liu.se/|accessdate=4 November 2014}}</ref> However, after her studies, the term isolation paradigm became associated with von Restorff and the study of distinctiveness. The use of the isolation paradigm proves useful in lists that differ among shape, color, the use of numbers and letters, and orientation.<ref name= "Arenius" /> Often the effect has been linked to attention. The distinctive feature separates the item from the others on the list, thus better capturing the participant's attention.
+
+==1933 experiments==
+
+Hedwig von Restorff used the isolation paradigm in the experiments included in her 1933 paper. Her use of the isolation paradigm was to further investigate interference effects. Despite criticism towards the use of nonsense syllables growing in the psychological society at this time, von Restorff dedicated the first page of her published paper to defending her choice in the usage of them. Over her study, von Restorff presented her participants with three lists of items over a span of three days. On the first day, the items on the list were all unrelated and consisted of five different types of materials, ending with eight pairs total. Half of the pairs consisted of nonsense syllables ([[homogeneous]] pairs), while the other half represented the other four types of materials (numbers, words, letters, symbols).<ref name=Hunt>{{cite journal|last1=Hunt|first1=Reed|title=The subtlety of distinctiveness: What von Restorff really did|journal=Psychonomic Bulletin & Review|volume=2|issue=1|pages=105–112|doi=10.3758/BF03214414|pmid=24203592|year=1995|doi-access=free}}</ref> On the next two days, participants were given lists that contained an isolated item among homogeneous items. The isolated item occurred in either the second or third position on the list.<ref>{{cite journal|last1=Kelley|first1=Matthew|last2=Nairne|first2=James|title=von Restorff Revisited: Isolation, Generation, and Memory for Order|journal=Journal of Experimental Psychology: Learning, Memory, and Cognition|year=2001|volume=27|issue=1|pages=54–66|doi=10.1037/0278-7393.27.1.54|pmid=11204107}}</ref> Participants were given specific memory instructions and tested on their recall of the items they were shown.
+
+==Results of von Restorff's studies==
+
+Participants obtained better recall of the isolated materials on the list than they did the homogeneous items. When an isolated item appeared earlier in the list of items, perceptual salience, or information that is the focus on one's attention, was not necessary for creating the isolation effect.<ref name="Hunt" />
+Overall, what the von Restorff experiments found was that the isolation of an item in a list against the homogeneous pairs improves the learning of that isolated item.<ref>{{cite journal|last1=Wallace|first1=William|title=Review of the historical, empirical, and theoretical status of the von Restorff phenomenon|journal=Psychological Bulletin|year=1965|volume=63|issue=6|pages=410–24|doi=10.1037/h0022001|pmid=14314076}}</ref> Von Restorff's findings suggest that for the isolation effect to occur, focused attention on the different or isolated item is necessary. The differentiated attention comes from either the perceptual salience or contextual difference of the isolated item.<ref name="Hunt"/>
+
+==Legacy==
+
+The effect of distinctiveness on memory is a topic that researchers have continued to study. The substantial contribution that von Restorff made to the theory of the isolation effect can still be seen today. It influenced a number of studies expanding on the topic that continue even today. Different perspectives on the von Restorff effect have stemmed from her work, such as [[Hunt and Lamb]] focusing on the balance of the listed items instead of the isolate. A study by [[Fabiani and Donchin]] explored the amount of items recalled based upon whether the participant recalled isolated items or not. They found that the more isolated items a participant recalled, the more overall items they recalled.<ref name="Hunt" /><ref name=Arenius />
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:von Restorff, Hedwig}}
+[[Category:1906 births]]
+[[Category:1962 deaths]]
+[[Category:German psychologists]]
+[[Category:Humboldt University of Berlin alumni]]
+[[Category:20th-century psychologists]]
