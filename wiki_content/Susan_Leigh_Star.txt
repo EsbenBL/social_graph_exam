@@ -1,0 +1,150 @@
+{{short description|American sociologist}}
+{{Infobox academic
+| name               =  Susan Leigh Star 
+| birth_date         = {{birth date|1954|07|3|df=yes}}
+| birth_place        = [[Rhode Island]]
+| death_date         = {{death date and age|2010|3|24|1954|7|3|df=yes}} 
+| death_place        = [[Pittsburgh]], [[Pennsylvania]]
+| occupation         = Professor, Sociologist
+| education          = [[Radcliffe College]] ([[Bachelor of Arts|BA]])<br> [[University of California, San Francisco]]([[Doctor of Philosophy|PhD]])
+| doctoral_advisor   = [[Anselm Strauss]]
+| discipline         = [[Sociology]], [[Science and Technology Studies]], [[Information Science]]
+| notable_works      = Sorting Things Out: Classification and its consequences (With Geoffrey Bowker, 2000)
+}}
+
+'''Susan Leigh Star''' (1954–2010) was an [[United States|American]] [[sociology|sociologist]]. She specialized in the study of [[information]] in modern society; information worlds; [[information infrastructure]]; [[:wikt:classification|classification]] and [[standardization]]; [[sociology of science]]; [[sociology of work]] and the [[history of science]], [[history of medicine|medicine]], [[history of technology|technology]], and  communication/information systems. She commonly used the [[qualitative methods]] methodology and [[feminist theory]] approach. She was also known for developing the concept of [[boundary object]]s and for contributions to [[computer-supported cooperative work]].<ref name="Zachry" />
+
+==Biography==
+
+===Life and education===
+Star grew up in a rural working class area of [[Rhode Island]].<ref name="Balka">{{cite journal |last=Balka |first=Ellen |title=Susan Leigh Star (1954-2010) |journal=Social Studies of Science |volume=40 | issue = 4 |date=July 2010 |page=647 |doi=10.1177/0306312710376010|s2cid=145294632 }}</ref> Her family was of Jewish, English, and Scottish descent and she describes herself as "half-Jewish".<ref>{{cite web|url=https://www.ics.uci.edu/~gbowker/classification/ |title=SORTING THINGS OUT: CLASSIFICATION AND ITS CONSEQUENCES |publisher=[[University of California, San Diego]] |accessdate=2019-10-23}}</ref> Starved for [[philosophy]] she befriended an ex-nun during high school and eventually obtained a scholarship to [[Radcliffe College]] where she began taking philosophy classes.<ref name="Balka" /> Not fitting in and deterred from taking a [[Religion]] degree, Star dropped out, married and moved to [[Venezuela]] where she co-founded an organic [[commune]].<ref name="Balka" /> It was here that Star asked many of the questions that formed the basis of her research. Her work is guided by interests in both technology and [[feminism]], and it was during this time that the [[Women's Movement in the United States (1963-1982)|women's movement]] and [[Kate Millett|Kate Millett's]] ''[[Sexual Politics]]'' inspired her to ask questions about technology and the effects that both good and bad technology have on oneself and on the world.<ref name="Balka" />
+
+Star later returned to school and graduated [[magna cum laude]] from Radcliffe in 1976 with a degree in Psychology and Social Relations.<ref name="Balka" /> She then moved to [[California]] and began graduate school in the philosophy of education at [[Stanford University]]. The program was not the right fit and she pursued her graduate education in sociology at the [[University of California]].<ref name="Balka" /> She completed her dissertation, under [[Anselm Strauss]], in 1983.<ref name="Balka b">{{cite journal |last=Balka |first=Ellen |title=Susan Leigh Star (1954-2010) |journal=Social Studies of Science |volume=40 | issue = 4 |date=July 2010 |page=648 |doi=10.1177/0306312710376010|s2cid=145294632 }}</ref> She became interested in computer science while studying the decision-making process of the scientific community as a metaphor for [[artificial intelligence]] with [[Carl Hewitt]].<ref name="Zachry" />
+
+From 2004 to 2009 she held a position as a professor at the Center for Science, Technology, and Society at [[Santa Clara University]].<ref name="Clarke">{{cite journal |last1=Clarke |first1=Adele E. |title=In Memoriam: Susan Leigh Star (1954-2010) |journal=Science, Technology, & Human Values |date=10 August 2010 |volume=35 |issue=5 |page=584 |doi=10.1177/0162243910378096|s2cid=144471766 }}</ref><ref name="Zachry" />
+
+In 2010, she [https://journals.sagepub.com/doi/abs/10.1177/0306312710376010?journalCode=sssb died] in her sleep of unknown causes. At the time, she held the Doreen Boyce Chair at the [[University of Pittsburgh]] School of Information Sciences and was authoring the book [https://journals.sagepub.com/doi/10.1177/0162243910377624 "This is Not a Boundary Object"] with her husband, [[Geoffrey Bowker]].
+
+===Academic work===
+From 1987 to 1990, Star was an assistant professor at UC Irvine's Department of Information and Computer Science.<ref name="Balka b" /> She taught a variety of subjects including: social analysis of technology and organizations, computers and society, research methods and gender and technology.  In 1987-1988 Star held a fellowship at Centre de Sociologie de l’Innovation in Paris and worked with [[Bruno Latour]] and [[Michel Callon]].<ref name="Balka b" /> They worked on French/American approaches to technology and science.
+
+After Irvine, Star held a Senior Lectureship and the Department of Sociology and Social Anthropology at the University of Keele. In 1992, Star and partner [[Geoff Bowker]] went to the Graduate School of Library and Information Studies at the University of Illinois until 1999.<ref name="Balka b" /> After leaving the University of Illinois, they moved back to California and into the Department of Communication at the University of California San Diego where they remained until 2004. Star and Bowker moved north in 2004 and worked at Santa Clara University's Center for Science, Technology and Society. In 2009 they moved to the University of Pittsburgh's School of Information Sciences, where Star was awarded the Doreen Boyce Chair.<ref name="Balka b" />
+
+In addition, she has been an invited speaker at many universities and industrial firms, such as: Harvard, MIT and Xerox PARC.<ref name="Zachry">{{cite journal |last=Zachry |first=Mark |title=An Interview with Susan Leigh Star |journal=Technical Communication Quarterly |volume=17 | issue = 4 |date=October 2008 |page=437 |doi=10.1080/10572250802329563|s2cid=144431192 }}</ref> She was also co-Editor-in-Chief of Science, Technology, and Human Values and was president of the Society for the Social Studies of Science from 2005-2007.<ref name="Zachry" />
+
+Star has been particularly influential in the area of [[information infrastructure]], frequently noting that although the study of infrastructure often entails examining things that seem commonplace, those everyday items have widespread consequences for humans and human interaction.<ref name="Zachry" /> Star has worked to develop ways of understanding how people communicate about infrastructure, and has helped develop research methods aimed to examine the role infrastructure plays in mediated human activities.<ref name="Zachry" /> But her work extends far beyond the realm of [[information infrastructure]]. Star's interest in the connection between technology and lived experience led her to work in a wide array of disciplines, including library sciences, computer sciences, neuroscience, philosophy and women's studies.<ref name="Balka b" />
+
+====Boundary objects====
+In the article “Institutional Ecology, 'Translations' and Boundary Objects: Amateurs and Professionals in Berkeley's Museum of Vertebrate Zoology, 1907-39”, Star and her co-author Griesemer introduce the concept of [[boundary object]]s. In this article, Star and Griesemer analyze the formative years of the Museum of Vertebrate Zoology by expanding the model of [[interessement]] developed by Latour and Callon, to form their concept of boundary objects.<ref name="Star; Griesemer">{{cite journal|last=Star|first=Susan|author2=Griesemer, James |title=Institutional Ecology, 'Translations' and Boundary Objects: Amateurs and Professionals in Berkeley's Museum of Vertebrate Zoology, 1907-39|journal=Social Studies of Science|year=1989|volume=19|issue=3|pages=387|doi=10.1177/030631289019003001|s2cid=112710658|url=https://semanticscholar.org/paper/df624e5156924ebfe9cc7724583425664032d8c8}}</ref>
+Star and Griesmer initially defined boundary objects as “objects which are both plastic enough to adapt to local needs and the constraints of the several parties employing them, yet robust enough to maintain a common identity across sites...The objects may by abstract or concrete.”<ref name="Star; Griesemer"/>
+For the purpose of this article, Star and Griesmer defined four kinds of boundary objects: “repositories, ideal types, coincident boundaries and standardized forms,”<ref name="Star; Griesemer" /> however Star later commented that she never intended this to be a comprehensive list; rather she imagined the article as starting “a kind of catalog of some of the characteristics of boundary objects”.<ref name="Zachry b">{{cite journal |last=Zachry |first=Mark |title=An Interview with Susan Leigh Star |journal=Technical Communication Quarterly |volume=17 | issue = 4 |date=October 2008 |page=440 |doi=10.1080/10572250802329563|s2cid=144431192 }}</ref>
+
+==Bibliography==
+{{overly detailed|section|date=June 2020}}
+
+=== Books and journal special issues ===
+
+* Linden, Robin Ruth, Darlene R. Pagano, Diana E. H. Russell, Susan Leigh Star. (1982). [[Against Sadomasochism|Against sadomasochism: A radical feminist analysis]]. Frog in the Well.
+* Star, Susan Leigh. (1984). Zone of the free radicals. Berkeley, CA: Running Deer Press.
+* Star, Susan Leigh, Guest ed. (1988). Introduction: The Sociology of Science and Technology Special Issue: Sociology of Science and Technology. Social Problems 35.
+* Star, Susan Leigh. (1989). Regions of the mind: Brain research and the quest for scientific certainty. Stanford: Stanford University Press. Preface and Chapter 1, ix-37.
+* Star, Susan Leigh, ed. (1995)a. Ecologies of knowledge: Work and politics in science and technology. Albany NY: SUNY Press.
+* Star, Susan Leigh, ed. (1995)b. The cultures of computing. Sociological Review Monograph. Oxford: Basil Blackwell.
+* Star, Susan Leigh, Guest ed. (1995)c. Listening for connections: Introduction to the Symposium on the work of Anselm Strauss. Mind, Culture and Activity.
+* Bowker, Geoffrey, Susan Leigh Star, William Turner, and Les Gasser, eds. (1997). Social science, information systems and cooperative work: Beyond the great divide. Mahwah, NJ: Lawrence Erlbaum.
+* Clarke, Adele E., and Susan Leigh Star, Guest eds. (1998). On coming home and intellectual generosity. Introduction to Anselm Strauss Memorial Issue. Symbolic Interaction 21:341-464.
+* Star, Susan Leigh, and Geoffrey Bowker, eds. (1998). Special Issue: How classifications work: Problems and challenges in an electronic age. Library Trends 47:185–340.
+* Star, Susan Leigh, Guest ed. (2000). Introduction: Making music with cases: Improvisation and the work of Howard Becker. Mind, Culture and Activity 7:167-70.
+* Bowker, Geoffrey, and Susan Leigh Star. (2000). Sorting things out: Classification and its consequences. Cambridge, MA: MIT Press.
+* Lampland, Martha, and Susan Leigh Star, eds. (2009). Standards and their stories: How quantifying, classifying and formalizing practices shape everyday life. Ithaca, NY: Cornell University Press.
+* Star, Susan Leigh. (2010). This is not a boundary object: Reflections on the origin of a concept. Science, Technology, & Human Values, 35(5), 601-617.
+
+=== Key articles and chapters ===
+
+* Star, Susan Leigh. (1979)a. The politics of right and left. In Women look at biology looking at women, ed. R. Hubbard, M. S. Henifin, and B. Fried. Cambridge, MA: Schenkman.
+* Star, Susan Leigh. (1979)b. Sex differences and brain asymmetry: Problems, methods and politics in the study of consciousness. In Genes and gender II, ed. M. Lowe and R. Hubbard, 113-30. New York: Gordian Press.
+* Star, Susan Leigh. (1979)c. Feminism and consciousness. Science/ Technology and the Humanities 2:303-8.
+* Star, Susan Leigh. (1981). I want my accent back. Sinister Wisdom 16:20-3.
+* Star, Susan Leigh. (1983). Simplification in scientific work: An example from neuroscience research. Social Studies of Science 13:208-26. Star, Susan Leigh. 1985. Scientific work and uncertainty. Social Studies of Science 15:391-427.
+* Star, Susan Leigh. (1986). Triangulating clinical and basic research: British localizationists, 1870-1906. History of Science XXIV:29- 48.
+* Fujimura, Joan, Susan Leigh Star, and E. Gerson. (1987). Me´thodes de recherche en sociologie des sciences: Travail, pragmatisme et interactionnisme symbolique [Research methods in the sociology of science: Work, pragmatism and symbolic interactionism.]. Cahiers de recherche sociologique 5:65-85.
+* Star, Susan Leigh, and E. M. Gerson. (1987). The management and dynamics of anomalies in scientific work. Sociological Quarterly 28:147-69.
+* Star, Susan Leigh. (1988)a. The structure of ill-structured solutions: Heterogeneous problem-solving, boundary objects and distributed artificial intelligence. In Proceedings of the 8th AAAI Workshop on Distributed Artificial Intelligence, Technical Report, Department of Computer Science, University of Southern California, 1988. Reprinted in Distributed Artificial Intelligence 2, ed. M. Huhns and L. Gasser, 37-54. Menlo Park: Morgan Kauffmann, 1989.
+* Star, Susan Leigh, and James Griesemer. (1989). Institutional ecology, translations, and boundary objects: Amateurs and professionals in Berkeley's Museum of Verterbrate Zoology, 1907-39. Social Studies of Science 19:387-420. Reprinted in The Science Studies Reader, ed. M. Biagioli, 505-24. New York: Routledge.
+* Star, Susan Leigh. (1989). Layered space, formal representations and long-distance control: The politics of information. Fundamenta Scientiae 10:125-55.
+* Hornstein, Gail, and Susan Leigh Star. (1990). Universality biases: How theories about human nature succeed. Philosophy of the Social Sciences 20:421-36.
+* Star, Susan Leigh. (1990). What difference does it make where the mind is? Some questions for the history of neuropsychiatry. Journal of Neurology and Clinical Neuropsychology 2:436-43.
+* Bowker, Geoffrey, and Susan Leigh Star. (1991). Situations vs. Standards in Long-Term, Wide-Scale Decision-Making: The Case of the International Classification of Diseases. Proceedings of the 24th Hawaiian International Conference on Systems Sciences IV, 73-81. Washington, DC: IEEE Computer Society Press.
+* Star, Susan Leigh. (1991)a. Power, technologies and the phenomenology of conventions: On being allergic to onions. In A sociology of monsters: Essays on power, technology and domination, ed. John Law, 26-56. London: Routledge.
+* Star, Susan Leigh. (1991)b. The sociology of the invisible: The primacy of work in the writings of Anselm Strauss. In Social organization and social process: Essays in honor of Anselm Strauss, ed. David R. Maines, 265-83. Hawthorne, NY: Aldine de Gruyter.
+* Star, Susan Leigh. (1991)c. Invisible work and silenced dialogues in representing knowledge. In Women, work and computerization: Understanding and overcoming bias in work and education, ed. I. V. Eriksson, B. A. Kitchenham, and K. G. Tijdens, 81-92. Amsterdam: North Holland.
+* Star, Susan Leigh. (1992)a. Craft vs. commodity, mess vs. transcendence: How the right tools became the wrong one in the case of taxidermy and natural history. In The right tools for the job. At work in the twentieth-century life sciences, ed. Adele E. Clarke and Joan H. Fujimura, 257-86. Princeton, NJ: Princeton University Press.
+* Star, Susan Leigh. (1992)b. The Trojan door: Organizations, work, and the ‘open black box.’ Systems/Practice 5:395-410.
+* Star, Susan Leigh. (1992)c. The skin, the skull, and the self: Toward a sociology of the brain. In So human a brain: Knowledge and values in the neurosciences, ed. Anne Harrington, 204-28. Boston: Birkhauser.
+* Star, Susan Leigh. (1993). Cooperation without consensus in scientific problem solving: Dynamics of closure in open systems. In CSCW: Cooperation or Conflict?, ed. Steve Easterbrook, 93-105. London: Springer-Verlag.
+* Star, S. Leigh. (1995)a. Epilogue: Work and practice in social studies of science, medicine and technology. Science, Technology, & Human Values 20:501-7.
+* Star, Susan Leigh. (1995)b. The politics of formal representations: Wizards, gurus and organizational complexity. In Ecologies of knowledge: Work and politics in science and technology, ed. Susan Leigh Star, 88-118. Albany: SUNY Press.
+* Star, Susan Leigh. (1996). From Hestia to home page: Feminism and the concept of home in cyberspace. In Between monsters, goddesses and cyborgs: Feminist confrontations with science, medicine and cyberspace, ed. Nina Lykke and Rosi Braidotti, 30-46. London: ZED Books. Reprinted in Oxford readings in feminism: Feminism and cultural studies, ed. Morag Shiach, 565-82. Oxford, UK: Oxford University Press, 1999. Also reprinted in The cybercultures reader, ed. David Bell and Barbara Kennedy, 632-43. London: Routledge, 2000.
+* Star, Susan Leigh, and Karen Ruhleder. (1996). Steps toward an ecology of infrastructure: Design and access for large information spaces. Information Systems Research 7:111-34. Reprinted in IT and organizational transformation: History, rhetoric, and practice, ed. JoAnne Yates and John Van Maanen, 305-46. Thousand Oaks, CA: SAGE, 2001.
+* Bowker, Geoffrey, and Susan Leigh Star. (1997). Probable`mes de classification et de codage dans la gestion internationale de l’information. In Cognition et information en societe, ed. B. Conein and L. Thevenot, 283-310. Paris: Editions de l’Ecole des Hautes Etudes en Science Sociales Raisons Pratiques, 8.
+* Star, Susan Leigh. (1997)a. The feminisms question in science projects: Queering the infrastructures. In Technology and democracy: Gender, technology and politics in transition? ed. Ingunn Moser and Gro Hanne Aas, 13–22. Oslo: Center for Technology and Culture TMV Skriftserie.
+* Star, Susan Leigh. (1997)b. Working together: Symbolic interactionism, activity theory and information systems. In Communication and cognition at work, ed. Yrjo Engestrom and David Middleton, 296- 318. Cambridge: Cambridge University Press.
+* Star. Susan Leigh. (1997)c. Anselm Strauss: An appreciation. Sociological Research Online 2. http://www.socresonline.org.uk/socresonline/ 2/1/1.html. Reprinted in Studies in Symbolic Interaction 21:39-48.
+* Bowker, Geoffrey, and Susan Leigh Star. (1998). Building information infrastructures for social worlds: The role of classifications and standards. In Community computing and support systems: Social interaction in networked communities, ed. Toru Ishida, 231-48. Berlin: Springer-Verlag.
+* Kling, Rob, and Susan Leigh Star. (1998). Human centered systems in the perspective of organizational and social informatics. Computers and Society March:22-9.
+* Star. Susan Leigh. (1998). Experience: The link between science, sociology of science and science education. In Thinking practices, ed. Shelley Goldman and James Greeno, 127-46. Hillsdale, NJ: Lawrence Erlbaum.
+* Star, Susan Leigh, and Anselm L. Strauss. (1998). Layers of silence, arenas of voice: The ecology of visible and invisible work. Computer Supported Cooperative Work: The Journal of Collaborative Computing 8:9-30.
+* Star, Susan Leigh. (1998). Grounded classifications: Grounded theory and faceted classifications. Library Trends 47:218-32.
+* Timmermans, Stefan, Geoffrey Bowker, and Leigh Star. (1998). The architecture of difference: Visibility, controllability, and comparability in building a nursing intervention classification. In Differences in medicine: Unraveling practices, techniques and bodies, ed. Marc Berg and Annamarie Mol, 202-25. Durham, NC: Duke University Press.
+* Star, Susan Leigh. (1999). The ethnography of infrastructure. American Behavioral Scientist 43:377-91.
+* Star, Susan Leigh. (2002). Commentary: ‘Betweeness’ in design education. In Computer supported cooperative learning, ed. T. Koschmann, 259-62. Fairfax, VA: TechBooks.
+* Clarke, Adele, and Susan Leigh Star. (2003). Science, technology and medicine studies. In Handbook of symbolic interaction, ed. N. Herman and L. Reynolds, 539-74. Walnut Creek, CA: Alta Mira Press.
+* Star, Susan Leigh. (2003). Computers/information technology and the social study of science and technology. In International encyclopedia of social and behavioral sciences, ed. N. Smelser and P. Baltes. Amsterdam: Elsevier.
+* Star, Susan Leigh. (2004). Infrastructure and ethnographic practice: Working on the fringes. Scandinavian Journal of Information Systems 14:107-22.
+* Star, Susan Leigh, Geoffrey Bowker, and Laura Neumann. (2004). Transparency beyond the individual level of scale: Convergence between information artifacts and communities of practice. In Digital library use: Social practice in design and evaluation, Ed. Ann P. Bishop, Barbara P. Buttenfield, and Nancy Van House, 241-70. Cambridge, MA: MIT Press.
+* Star, Susan Leigh. (2005). Categories and cognition: Material and conceptual aspects of large-scale category systems. In Problems and promises of interdisciplinary collaboration: Perspectives from cognitive science, ed. Sharon Derry and Morton Gernsbacher. Mahwah, NJ: Lawrence Erlbaum.
+* Bowker, Geoffrey, and Susan Leigh Star. (2006). Infrastructure. In Handbook of new media and communication, ed. L. Lievrouw and S. Livingstone, 151-62. London: SAGE.
+* Star, Susan Leigh. (2006). Five answers. In Philosophy of technology, ed. Jan-Kyrre Berg Olsen and Evan Selinger. Copenhagen: Automatic Press/VIP. E-version. http://www.philosophytechnology.com/ Star, Susan Leigh. 2007a. Living grounded theory: Cognitive and emotional forms of pragmatism. In The SAGE handbook of grounded theory, ed. Anthony Bryant and Kathy Charmaz, 75-94. Thousand Oaks, CA: SAGE.
+* Star, Susan Leigh. (2007)b. Interview on The Information Society. Daedalus [in Italian].
+* Star, Susan Leigh, and Geoffrey Bowker. (2007). Enacting silence— Residual categories as a challenge for ethics, information systems, and communication technology. Ethics and Information Technology 9:273-80.
+* Clarke, Adele E., and Susan Leigh Star. (2008). Social worlds/arenas as a theory-methods package. In Handbook of science and technology studies, 2nd ed, ed. Edward Hackett, Olga Amsterdamska, Michael Lynch, and Judy Wacjman, 113-37. Cambridge, MA: MIT Press.
+* Star, Susan Leigh. (2009). Susan's piece: Weaving as method in feminist science studies: The subjective collective. In Special Issue on Feminist Science and Technology Studies: A patchwork of moving subjectivities, ed. Wenda K. Bauschspies and Maria Puig de la Bellacasa. Subjectivity 28:344-46.
+
+==See also==
+* [[Boundary object]]
+* [[Grounded Theory]]
+* [[Articulation work]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{Cite journal|ref=none | last = Clarke | first = Adele E. | title = In Memoriam: Susan Leigh Star (1954-2010) | journal = [[Science, Technology, & Human Values]] | volume = 35 | issue = 5 | pages = 581–600 | doi = 10.1177/0162243910378096 | date = September 2010 | s2cid = 144471766 }}
+* {{Cite journal|ref=none | last1 = Linden | first1 = R. Ruth | title = Remembering Leigh Star: July 3, 1954-March 24, 2010 | journal = [[Sinister Wisdom]] | volume = 87 | pages = 92–102 | location = Amherst, Massachusetts  | date = 2012 | isbn = 9780231541725 | url = http://sinisterwisdom.org/node/121 | oclc = 824545382 }}
+
+==External links==
+* {{cite web|title=iSchool Professor Susan "Leigh" Star Passes Away|url=http://www.ischool.pitt.edu/news/03-25-2010.php|publisher=University of Pittsburgh|archiveurl=https://web.archive.org/web/20140605052426/http://www.ischool.pitt.edu/news/03-25-2010.php|archivedate=2014-06-05 }}
+* [http://rememberingleigh.wordpress.com/about/ Remembering Leigh], memorial blog
+
+{{Authority control}}
+
+{{DEFAULTSORT:Star, Susan Leigh}}
+[[Category:1954 births]]
+[[Category:2010 deaths]]
+[[Category:American feminists]]
+[[Category:American medical historians]]
+[[Category:American people of English descent]]
+[[Category:Jewish American academics]]
+[[Category:American people of Scottish descent]]
+[[Category:American sociologists]]
+[[Category:Historians of science]]
+[[Category:Radical feminists]]
+[[Category:Sociologists of science]]
+[[Category:Medical sociologists]]
+[[Category:University of Pittsburgh faculty]]
+[[Category:American women sociologists]]
+[[Category:American women historians]]
+[[Category:Radcliffe College alumni]]
+[[Category:University of California alumni]]
+[[Category:Jewish feminists]]
+[[Category:21st-century American Jews]]

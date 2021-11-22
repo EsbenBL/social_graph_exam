@@ -1,0 +1,74 @@
+{{Use dmy dates|date=September 2018}}
+{{Infobox officeholder
+| name                = Stefan Ingves
+| image               = Stefan Ingves, Riksbankschef.jpg
+| office              = Governor of [[Sveriges Riksbank]]
+| term_start          = 1 January 2006<ref name=ingves />
+| predecessor         = [[Lars Heikensten]]<ref name=ne-heikensten />
+| deputy              = [[Cecilia Skingsley]]
+| birth_name          = Stefan Nils Magnus Ingves
+| birth_date          = 23 May 1953
+| birth_place         = [[Turku]], {{flag|Finland}}
+| nationality         = {{flag|Sweden|name=Swedish}}<ref name=ne-ingves /><ref group="N" name="Ex-01">[[Nationalencyklopedin]] article about Ingves doesn't mention any nationality which per default means that the individual in question is Swedish. Also according to the [[Constitution of Sweden#Instrument of Government|Instrument of Government]] 1974, [http://www.riksdagen.se/templates/R_PageExtended____6328.aspx Chapter 11: Administration of justice and general administration] {{Webarchive|url=https://web.archive.org/web/20100615123954/http://www.riksdagen.se/templates/R_PageExtended____6328.aspx |date=15 June 2010 }}, Article 9, Paragraph 3 only a Swedish citizen can serve as the head of an agency under the Riksdag. This requirement has been removed from the Constitution from 1 January 2011, and is instead supposed to be regulated in an ordinary law.</ref>
+| occupation          = Banker and civil servant.
+| profession          = Economist.<ref name=ne-ingves />
+| alma_mater          = [[Stockholm School of Economics]]<ref name=ne-ingves />
+}}
+'''Stefan Nils Magnus Ingves''' (born 23 May 1953) is a [[Sweden|Swedish]] banker, economist and civil servant currently serving as the [[Sveriges Riksbank|Governor of Sveriges Riksbank]], the [[central bank]] of Sweden.
+
+==Early life==
+Ingves has a [[Swedish-speaking Finns|Finland Swedish]] background.<ref name=ne-ingves />
+
+In 1984, he earned a Ph.D. in [[Economics]] at the Stockholm School of Economics.<ref>Riksbank, [http://www.riksbank.se/upload/Dokument_riksbank/Kat_publicerat/Direktionen/2011/Stefan%20Ingves%20CV_eng.pdf Ingves CV]</ref>
+
+==Career==
+Ingves was named Governor of [[Sveriges Riksbank]] in 2006.<ref name=ne-ingves />  In response to the Icelandic financial crisis of 2008, Ingves argued that "in times of uncertainty and turmoil, the central banks have a responsibility to cooperate."<ref>Landler, Mark. [https://www.nytimes.com/2008/05/17/business/worldbusiness/17iceland.html?scp=1&sq=stefan%20ingves&st=cse  "3 Nordic Banks Help Iceland Prop Up Currency,"]  ''New York Times.'' 17 May 2008; retrieved 17 August 2011</ref> Ingves confronted the "task of safeguarding macroeconomic and financial stability" in 2008;<ref>[https://www.nytimes.com/2008/05/16/business/worldbusiness/16iht-16iceland.12952388.html?scp=3&sq=stefan%20ingves&st=cse  "Nordic central banks act to support Icelandic currency,"] ''New York Times.'' 16 May 2008; retrieved 17 August 2011</ref> and in 2009, he presided over a decline to the lowest official Swedish interest rate since records began in 1907.<ref>[https://www.nytimes.com/2009/02/11/business/worldbusiness/11iht-11rates.20111879.html?scp=2&sq=stefan%20ingves&st=cse  "Swedish central bank cuts rates to record 1 percent,"] ''New York Times.'' 1 November 2009; retrieved 17 August 2011</ref>
+
+From 2011 until 2019, Ingves served as the Chairman of the [[Basel Committee on Banking Supervision]].<ref>[http://www.bis.org/about/factbcbs.htm Fact sheet - Basel Committee on Banking Supervision] at the Bank for International Settlements website</ref><ref>Caroline Binham (March 7, 2019), [https://www.ft.com/content/c18becce-40df-11e9-b896-fe36ec32aece Bank of Spain governor appointed head of Basel Committee for banks] ''[[Financial Times]]''.</ref>
+
+==Other activities==
+* [[Bank for International Settlements]] (BIS), Ex-Officio Member of the Board of Directors<ref>[https://www.bis.org/about/board.htm?m=1%7C2%7C2 Board of Directors] [[Bank for International Settlements]] (BIS).</ref>
+* [[Financial Stability Board]] (FSB), Ex-Officio Member of the Standing Committee on Supervisory and Regulatory Cooperation 
+* [[International Monetary Fund]] (IMF), Ex-Officio Member of the Board of Governors<ref>[http://www.imf.org/external/np/sec/memdir/members.aspx Board of Governors] [[International Monetary Fund]] (IMF).</ref>
+
+==Selected works==
+In a statistical overview derived from writings by and about Stefan Ingves, [[OCLC]]/[[WorldCat]] encompasses roughly 40+ works in 50+ publications in 3 languages and 150+ library holdings .<ref>[http://www.oclc.org/research/activities/identities/default.htm  WorldCat Identities]: [http://www.worldcat.org/identities/lccn-n83-32830 Ingves, Stefan 1953-  ]</ref>
+{{dynamic list}}
+* ''Den oreglerade kreditmarknaden : en expertrapport från 1980 års kreditpolitiska utredning'' (1981)
+* ''Aspects of Trade Credit'' (1984)
+* ''The Nordic Banking Crisis from an International Perspective'' (2002)
+* ''Issues in the Establishment of Asset Management Companies'' (2004)
+* ''Lessons Learned from Previous Banking Crises: Sweden, Japan, Spain, and Mexico'' (2009)
+* ''Central Bank Management'' (2009)
+
+==Notes==
+<references group="N"/>
+
+==References==
+{{Reflist|refs=
+<ref name=ingves>{{cite web |url=http://www.riksbank.se/templates/Page.aspx?id=26737 |title=Stefan Ingves |publisher=[[Sveriges Riksbank]] |date=4 May 2010 |access-date=2 September 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100827004242/http://www.riksbank.se/templates/Page.aspx?id=26737 |archive-date=27 August 2010 }}</ref>
+
+<ref name=ne-ingves>{{cite encyclopedia | title=Stefan Ingves | encyclopedia=[[Nationalencyklopedin]] | language=Swedish | url=http://www.ne.se/stefan-ingves | accessdate=2 September 2010}} {{subscription required}}</ref>
+
+<ref name=ne-heikensten>{{cite encyclopedia | title=Lars Heikensten | encyclopedia=[[Nationalencyklopedin]] | language=Swedish | url=http://www.ne.se/lars-heikensten | accessdate=2 September 2010}}</ref>
+}}
+
+{{s-start}}
+{{s-gov}}
+|-
+{{s-vac|last=[[Lars Heikensten]]}}
+{{s-ttl|title=Governor of [[Sveriges Riksbank]]|years=2006 - present}}
+{{s-inc}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ingves, Stefan}}
+[[Category:1953 births]]
+[[Category:Swedish economists]]
+[[Category:Governors of Sveriges Riksbank]]
+[[Category:Stockholm School of Economics alumni]]
+[[Category:Swedish civil servants]]
+[[Category:Finnish emigrants to Sweden]]
+[[Category:Swedish-speaking Finns]]
+[[Category:Living people]]

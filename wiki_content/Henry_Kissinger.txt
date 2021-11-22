@@ -6,15 +6,25 @@
 |name         = Henry Kissinger
 |image        = Henry A. Kissinger, U.S. Secretary of State, 1973-1977.jpg
 |office       = 56th [[United States Secretary of State]]
-|president    = [[Richard Nixon]]<br>[[Gerald Ford]]
-|deputy       = [[Kenneth Rush]]<br>[[Robert S. Ingersoll|Robert Ingersoll]]<br>[[Charles W. Robinson|Charles Robinson]]
+|president    = {{ubl|
+[[Richard Nixon]]|
+[[Gerald Ford]]}}
+|deputy       = {{ubl|
+[[Kenneth Rush]]|
+[[Robert S. Ingersoll|Robert Ingersoll]]|
+[[Charles W. Robinson|Charles Robinson]]}}
 |term_start   = September 22, 1973
 |term_end     = January 20, 1977
 |predecessor  = [[William P. Rogers|William Rogers]]
 |successor    = [[Cyrus Vance]]
 |office1      = 8th [[National Security Advisor (United States)|United States National Security Advisor]]
-|president1   = Richard Nixon<br>Gerald Ford
-|deputy1      = [[Richard V. Allen|Richard Allen]]<br>[[Alexander Haig]]<br>Brent Scowcroft
+|president1   = {{ubl|
+Richard Nixon|
+Gerald Ford}}
+|deputy1      = {{ubl|
+[[Richard V. Allen|Richard Allen]]|
+[[Alexander Haig]]|
+Brent Scowcroft}}
 |term_start1  = January 20, 1969
 |term_end1    = November 3, 1975
 |predecessor1 = [[Walt Whitman Rostow|Walt Rostow]]
@@ -25,13 +35,17 @@
 |embed        = yes
 |office2      = Chair of the [[9/11 Commission]]
 |president2   = [[George W. Bush]]
-|deputy2      = [[George J. Mitchell]]<br>[[Lee H. Hamilton]]
+|deputy2      = {{ubl|
+[[George J. Mitchell]]|
+[[Lee H. Hamilton]]}}
 |term_start2  = November 27, 2002
 |term_end2    = December 14, 2002
 |predecessor2 = Position established
 |successor2   = [[Thomas Kean]]
 |office3      = 22nd [[Chancellor of the College of William & Mary]]
-|president3   = [[Timothy J. Sullivan]]<br>[[Gene Nichol]]
+|president3   = {{ubl|
+[[Timothy J. Sullivan]]|
+[[Gene Nichol]]}}
 |term_start3  = July 1, 2000
 |term_end3    = October 1, 2005
 |predecessor3 = [[Margaret Thatcher]]
@@ -46,7 +60,9 @@
 |party        = [[Republican Party (United States)|Republican]]
 |spouse       = {{ubl|{{marriage|Ann Fleischer|1949|1964|end=div}}|{{marriage|[[Nancy Kissinger|Nancy Maginnes]]|1974}}}}
 |children     = 2
-|education    = [[City College of New York]]<br>[[Harvard University]] ([[Bachelor of Arts|BA]], [[Master of Arts|MA]], [[Doctor of Philosophy|PhD]])
+|education    = {{ubl|
+[[City College of New York]]|
+[[Harvard University]] ([[Bachelor of Arts|BA]], [[Master of Arts|MA]], [[Doctor of Philosophy|PhD]])}}
 |awards       = [[Nobel Peace Prize]]
 |signature    = Henry Kissinger Signature 2.svg
 |allegiance   = {{flag|United States}}

@@ -1,0 +1,68 @@
+{{Short description|American economist}}
+{{for|the footballer|Faruk Gül (footballer)}}
+{{Infobox economist
+| name                      = Faruk Gül
+| image                     = 
+| image_size                = 
+| alt                       = 
+| caption                   = 
+| native_name               = 
+| native_name_lang          = 
+| birth_date                = 
+| birth_place               = 
+| death_date                = 
+| death_place               = 
+| resting_place             = 
+| resting_place_coordinates =  
+| nationality               = 
+| institution               = 
+| field                     = 
+| school_tradition          = 
+| alma_mater                = 
+| doctoral_advisor          = [[Hugo F. Sonnenschein]]
+| academic_advisors         =
+| doctoral_students         =
+| notable_students          =
+| influences                = 
+| influenced                = 
+| contributions             = 
+| awards                    = 
+| memorials                 = 
+| spouse                    = 
+| signature                 = 
+| url                       = 
+| module                    = 
+| repec_prefix              = e
+| repec_id                  = pgu73
+| notes                     = 
+}}
+'''Faruk R. Gül''' is a [[Turkish American]] [[economist]], a [[professor]] of [[economics]] at [[Princeton University]]<ref>[https://www.princeton.edu/economics/faculty-members/ Faculty listing], Princeton Economics Department, retrieved 2010-03-01.</ref> and a [[Fellow]] of the [[Econometric Society]].<ref name="cv"/><ref>[http://www.econometricsociety.org/fellows.asp Fellows of the Econometric Society] {{webarchive |url=https://web.archive.org/web/20081210090215/http://www.econometricsociety.org/fellows.asp |date=December 10, 2008 }}, retrieved 2010-03-01.</ref>
+
+Gül did his undergraduate studies at [[Boğaziçi University]], and received his Ph.D. from Princeton in 1986,<ref name="cv">[https://www.princeton.edu/~fgul/CV.pdf Curriculum vitae] from Gül's web site.</ref> where he was a student of [[Hugo F. Sonnenschein]]. He has been on the Princeton faculty since 1995.<ref name="cv"/>
+
+Recently, Gül has specialized in [[Rational choice theory|choice theory]], working with [[Wolfgang Pesendorfer]] on the [[revealed preference]] theory of [[temptation]] and [[self control]].<ref>{{citation |url=http://www.dailytimes.com.pk/default.asp?page=2008\story_29-7-2008_pg5_54 |title=Do economists need brains? |journal=[[Daily Times (Pakistan)|Daily Times]] |date=July 29, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080813194542/http://www.dailytimes.com.pk/default.asp?page=2008%5C07%5C29%5Cstory_29-7-2008_pg5_54 |archive-date=2008-08-13 }}.</ref><ref>{{citation|title=Mind Games|magazine=[[The New Yorker]]|date=September 18, 2006|last=Cassidy|first=John}}.</ref><ref>{{citation|title=Driven to Market|journal=[[Nature (journal)|Nature]]|first=Jonah|last=Lehrer|volume=443|pages=502–504|year=2006|doi=10.1038/443502a|pmid = 17024064|issue=7111|bibcode=2006Natur.443..502L|s2cid=39646856|doi-access=free}}.</ref>
+
+== Selected works ==
+* {{cite journal |first1=Faruk |last1=Gül |first2=Wolfgang |last2=Pesendorfer |title=Temptation and Self-Control |journal=[[Econometrica]] |volume= 69|issue= 6|pages= 1403–1435|year=2001 |doi=10.1111/1468-0262.00252 |citeseerx=10.1.1.399.1999}}
+* {{cite journal |first1=Faruk |last1=Gül |first2=Wolfgang |last2=Pesendorfer |title=Self-Control and the Theory of Consumption |journal=Econometrica |volume= 72|pages= 119–158|year=2004 |doi=10.1111/j.1468-0262.2004.00480.x |citeseerx=10.1.1.583.6727 }}
+* {{cite journal |first1=Faruk |last1=Gül |first2=Wolfgang |last2=Pesendorfer |title=Random Expected Utility |journal=Econometrica |volume= 74|pages= 121–146|year=2006 |doi=10.1111/j.1468-0262.2006.00651.x }}
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* [https://www.princeton.edu/~fgul/ Homepage at Princeton University]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gul, Faruk}}
+[[Category:21st-century American economists]]
+[[Category:Turkish economists]]
+[[Category:Turkish emigrants to the United States]]
+[[Category:Living people]]
+[[Category:Boğaziçi University alumni]]
+[[Category:Princeton University alumni]]
+[[Category:Princeton University faculty]]
+[[Category:American academics of Turkish descent]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Year of birth missing (living people)]]

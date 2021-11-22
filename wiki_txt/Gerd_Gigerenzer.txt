@@ -1,0 +1,75 @@
+Gerd Gigerenzer (born September 3, 1947, Wallersdorf, Germany) is a German psychologist who has studied the use of bounded rationality and heuristics in decision making. Gigerenzer is director emeritus of the Center for Adaptive Behavior and Cognition (ABC) at the Max Planck Institute for Human Development and director of the Harding Center for Risk Literacy, both in Berlin, Germany.
+Gigerenzer investigates how humans make inferences about their world with limited time and knowledge.  He proposes that, in an uncertain world, probability theory is not sufficient; people also use smart heuristics, that is, rules of thumb.  He conceptualizes rational decisions in terms of the adaptive toolbox (the repertoire of heuristics an individual or institution has) and the ability to choose a good heuristics for the task at hand.  A heuristic is called ecologically rational to the degree that it is adapted to the structure of an environment.
+Gigerenzer argues that heuristics are not irrational or always second-best to optimization, as the accuracy-effort trade-off view assumes, in which heuristics are seen as short-cuts that trade less effort for less accuracy.  In contrast, his and associated researchers' studies have identified situations in which "less is more", that is, where heuristics make more accurate decisions with less effort.  This contradicts the traditional view that more information is always better or at least can never hurt if it is free. Less-is-more effects have been shown experimentally, analytically, and by computer simulations.
+
+
+== Biography ==
+
+
+=== Academic career ===
+Gigerenzer received his PhD from the University of Munich in 1977 and became a professor of psychology there the same year. In 1984 he moved to the University of Konstanz and in 1990 to the University of Salzburg. From 1992 to 1995 he was Professor of Psychology at the University of Chicago and has been the John M. Olin Distinguished Visiting Professor, School of Law at the University of Virginia. In 1995 he became director of the Max Planck Institute for Psychological Research in Munich. Since 2009 he has been director of the Harding Center for Risk Literacy in Berlin.
+Gigerenzer was awarded honorary doctorates from the University of Basel and the Open University of the Netherlands. He is also Batten Fellow at the Darden Business School, University of Virginia, Fellow of the Berlin-Brandenburg Academy of Sciences and the German Academy of Sciences Leopoldina, and Honorary Member of the American Academy of Arts and Sciences and the American Philosophical Society.
+
+
+=== Heuristics ===
+With Daniel Goldstein he first theorized the recognition heuristic and the take-the-best heuristic. They proved analytically conditions under which semi-ignorance (lack of recognition) can lead to better inferences than with more knowledge. These results were experimentally confirmed in many experiments, e.g., by showing that semi-ignorant people who rely on recognition are as good as or better than the Association of Tennis Professionals (ATP) Rankings and experts at predicting the outcomes of the Wimbledon tennis tournaments. Similarly, decisions by experienced experts (e.g., police, professional burglars, airport security) were found to follow the take-the-best heuristic rather than weight and add all information, while inexperienced students tend to do the latter. A third class of heuristics, Fast-And-Frugal trees, are designed for categorization and are used for instance in emergency units to predict heart attacks, and model bail decisions made by magistrates in London courts. In such cases, the risks are not knowable and professionals hence face uncertainty. To better understand the logic of Fast-And-Frugal trees and other heuristics, Gigerenzer and his colleagues use the strategy of mapping its concepts onto those of well-understood optimization theories, such as signal-detection theory.
+A critic of the work of Daniel Kahneman and Amos Tversky, Gigerenzer argues that heuristics should not lead us to conceive of human thinking as riddled with irrational cognitive biases, but rather to conceive rationality as an adaptive tool that is not identical to the rules of formal logic or the probability calculus. He and his collaborators have theoretically and experimentally shown that many cognitive fallacies are better understood as adaptive responses to a world of uncertainty—such as the conjunction fallacy, the base rate fallacy, and overconfidence.
+
+
+=== The adaptive toolbox ===
+The basic idea of the adaptive toolbox is that different domains of thought require different specialized cognitive mechanisms instead of one universal strategy. The analysis of the adaptive toolbox and its evolution is descriptive research with the goal of specifying the core cognitive capacities (such as recognition memory) and the heuristics that exploit these (such as the recognition heuristic).
+
+
+=== Risk communication ===
+Alongside his research on heuristics, Gigerenzer investigates risk communication in situations where risks can actually be calculated or precisely estimated. He has developed an ecological approach to risk communication where the key is the match between cognition and the presentation of the information in the environment. For instance, lay people as well as professionals often have problems making Bayesian inferences, typically committing what has been called the base-rate fallacy in the cognitive illusions literature. Gigerenzer and Ulrich Hoffrage were the first to develop and test a representation called natural frequencies, which helps people make Bayesian inferences correctly without any outside help. Later it was shown that with this method, even 4th graders were able to make correct inferences. Once again, the problem is not simply in the human mind, but in the representation of the information. Gigerenzer has taught risk literacy to some 1,000 doctors in their CMU and some 50 US federal judges, and natural frequencies has now entered the vocabulary of evidence-based medicine. In recent years, medical schools around the world have begun to teach tools such as natural frequencies to help young doctors understand test results.
+
+
+== Intellectual background ==
+Intellectually, Gigerenzer's work is rooted in Herbert Simon's work on satisficing (as opposed to maximizing) and on ecological and evolutionary views of cognition, where adaptive function and success is central, as opposed to logical structure and consistency, although the latter can be means towards function.
+Gigerenzer and colleagues write of the mid-17th century "probabilistic revolution", "the demise of the dream of certainty and the rise of a calculus of uncertainty – probability theory". Gigerenzer calls for a second revolution, "replacing the image of an omniscient mind computing intricate probabilities and utilities with that of a bounded mind reaching into an adaptive toolbox filled with fast and frugal heuristics". These heuristics would equip humans to deal more specifically with the many situations they face in which not all alternatives and probabilities are known, and surprises can happen.
+
+
+== Personal ==
+Gigerenzer is a jazz and Dixieland musician. He was part of The Munich Beefeaters Dixieland Band which performed in a TV ad for the VW Golf around the time it came out in 1974. The ad can be viewed on YouTube, with Gigerenzer at the steering wheel and on the banjo.
+He is married to Lorraine Daston, director at the Max Planck Institute for the History of Science and has one daughter, Thalia Gigerenzer.
+
+
+== Awards ==
+Gigerenzer is recipient of the AAAS Prize for Behavioral Science Research for the best article in the behavioral sciences, the Association of American Publishers Prize for the best book in the social and behavioral sciences, the German Psychology Prize, and the Communicator Award of the German Research Association (DFG), among others. (See the German Wikipedia entry, Gerd Gigerenzer, for an extensive list of honors and awards.)
+
+
+== Publications ==
+
+
+=== Books ===
+Cognition as intuitive statistics (1987) with David Murray
+The Empire of Chance: How Probability Changed Science and Everyday Life (1989)
+Simple Heuristics That Make Us Smart (1999)
+Bounded Rationality: The Adaptive Toolbox (2001) with Reinhard Selten
+Reckoning with Risk: Learning to Live with Uncertainty (2002, published in the U.S. as Calculated Risks: How to Know When Numbers Deceive You)
+Gut Feelings: The Intelligence of the Unconscious (2007)
+Rationality for Mortals (2008)
+Heuristics: The Foundation of Adaptive Behavior (2011) with Ralph Hertwig & Torsten Pachur
+Risk Savvy: How to Make Good Decisions (2014)
+Simply Rational: Decision Making in the Real World (2015)
+
+
+== Video ==
+Video on Gerd Gigerenzer's research (Latest Thinking)
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+ Quotations related to Gerd Gigerenzer at Wikiquote
+ Media related to Gerd Gigerenzer at Wikimedia Commons
+Resume
+Books
+Edge.org bio
+Article: Simple tools for understanding risks: from innumeracy to insight
+Harding Center for Risk Literacy
+Gerd Gigerenzer in the German National Library catalogue

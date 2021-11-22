@@ -1,0 +1,74 @@
+{{short description|American mathematician}}
+{{BLP sources|date=February 2013}}
+{{Infobox scientist
+| name = Peter C. Fishburn
+| image = 
+| birth_date = {{birth date|1936|09|02|df=y}}
+| birth_place = Philipsburg, Pennsylvania
+| death_date = {{death date and age|2021|06|10|1936|09|02|df=y}}
+| death_place = Racine, Wisconsin
+| nationality = [[United States|American]]
+| field = [[Decision Theory]]
+| work_institutions = [[AT&T Bell Laboratories]]
+| alma_mater = [[Pennsylvania State University]] (M.S.)<br>[[Case Institute of Technology]] (Ph. D)
+| religion = 
+| doctoral_advisor = [[Russell Ackoff]]
+| doctoral_students = 
+| influences = 
+| influenced = 
+| known_for = [[Decision Theory]]
+| prizes = [[John von Neumann Theory Prize]] <small>(1996)</small><br>Decision Analysis Publication Award<br>Frank P. Ramsey Medal
+}}
+'''Peter Clingerman Fishburn''' (1936-2021) is known as a pioneer in the field of decision-making processes.
+
+==Biography==
+===Intellectual===
+He received his B.S. in [[industrial engineering]] from [[Pennsylvania State University]] in 1958, his M.S. in [[operations research]] in 1961, and a Ph.D. in operations research in 1962, the latter two from the [[Case Institute of Technology]].
+
+In collaboration with [[Steven Brams]], he devised [[approval voting]] in 1977. In 1996, he won the [[John von Neumann Theory Prize]]. He also won the [https://web.archive.org/web/20150912104524/https://www.informs.org/Recognize-Excellence/Community-Prizes-and-Awards/Decision-Analysis-Society/Decision-Analysis-Publication-Award Decision Analysis Publication Award] in 1991 and the [https://web.archive.org/web/20160513203045/https://www.informs.org/Recognize-Excellence/Community-Prizes-and-Awards/Decision-Analysis-Society/Frank-P.-Ramsey-Medal Frank P. Ramsey Medal] in 1987.<ref>{{cite web|title=Peter C. Fishburn|url=http://www.informs.org/Recognize-Excellence/Award-Recipients/Peter-C.-Fishburn|publisher=Institute for Operations Research and Management Sciences|access-date=2012-12-16|archive-url=https://web.archive.org/web/20120905080712/http://www.informs.org/Recognize-Excellence/Award-Recipients/Peter-C.-Fishburn|archive-date=2012-09-05|url-status=dead}}</ref>
+
+He was elected to the 2002 class of [[Fellow]]s of the [[Institute for Operations Research and the Management Sciences]].<ref>{{citation|url=https://www.informs.org/Recognizing-Excellence/Fellows/Fellows-Alphabetical-List|title=Fellows: Alphabetical List|publisher=[[Institute for Operations Research and the Management Sciences]]|access-date=2019-10-09|archive-url=https://web.archive.org/web/20190510220119/https://www.informs.org/Recognizing-Excellence/Fellows/Fellows-Alphabetical-List|archive-date=2019-05-10|url-status=dead}}</ref>
+
+===Personal===
+He has retired after many years of research at [[AT&T Bell Laboratories]] in the state of [[New Jersey]], [[United States]]. He was married to the theologian Janet Forsythe Fishburn. He died on June 10, 2021, in Racine, Wisconsin.<ref>{{Cite web|url=https://www.legacy.com/obituaries/centredaily/obituary.aspx?n=peter-clingerman-fishburn&pid=199009461|title = Peter Clingerman Fishburn Obituary (1936 - 2021) Centre Daily Times}}</ref>
+
+==See also==
+*[[Fishburn set]]
+*[[Fishburn–Shepp inequality]]
+*[[Maximal lotteries]]
+
+==References==
+* Brams, Steven J., and Fishburn, Peter C. (1983), ''Approval Voting''.  Boston: Birkhäuser.  Second edition (2007).  New York: Springer.
+* Fishburn, P.C. (1964), ''Decision and Value Theory''.  Publications in Operations Research, No. 10.  New York: John Wiley and Sons.
+* Fishburn, P.C. (1970), ''Utility Theory for Decision Making''.  Publications in Operations Research, No. 18.  New York: John Wiley and Sons.
+* Fishburn, Peter C. (1972), ''Mathematics of Decision Theory''.  Methods and Models in the Social Sciences, 3.  The Hague: Mouton.
+* Fishburn, Peter C. (1973), ''The Theory of Social Choice''.  Princeton, N. J.: Princeton University Press.
+* Fishburn, Peter C. (1982), ''The Foundations of Expected Utility''.  Theory and Decision Library, Vol. 31.  Dordrecht: D. Reidel.
+* {{cite book|last=Fishburn|first=Peter C.|year=1985|title=Interval Orders and Interval Graphs: A Study of Partially Ordered Sets|series=Wiley-Interscience Series in Discrete Mathematics|location=New York|publisher=John Wiley & Sons}}
+* Fishburn, Peter C. (1988), ''Nonlinear Preference and Utility Theory''.  Baltimore, Md.: Johns Hopkins University Press.
+
+==Notes==
+{{reflist}}
+
+==External links==
+{{Scholia}}
+*{{webarchive |url=https://web.archive.org/web/20120716225150/http://faculty.fuqua.duke.edu/daweb/fishbib.pdf |date=16 July 2012 |title=Bibliography of Peter Fishburn's publications}}
+* [https://www.informs.org/About-INFORMS/History-and-Traditions/Biographical-Profiles/Fishburn-Peter-C Biography of Peter Fishburn] from the Institute for Operations Research and the Management Sciences
+*  {{MathGenealogy |id=251363}}
+
+{{John von Neumann Theory Prize recipients}}
+{{Authority control}}
+
+{{DEFAULTSORT:Fishburn, Peter C.}}
+[[Category:1936 births]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American mathematicians]]
+[[Category:John von Neumann Theory Prize winners]]
+[[Category:Living people]]
+[[Category:American operations researchers]]
+[[Category:Voting theorists]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the Institute for Operations Research and the Management Sciences]]
+
+
+{{US-engineer-stub}}
