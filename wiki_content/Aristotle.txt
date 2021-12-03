@@ -59,7 +59,7 @@
  | influenced={{longitem|Virtually all subsequent [[Western philosophy]], especially [[Aristotelianism]]  e. g. [[Averroes]], [[Thomas Aquinas|Aquinas]]. Also pre-[[Age of Enlightenment|Enlightenment]] science (see [[List of writers influenced by Aristotle]])}}
 }}
 
-'''Aristotle''' ({{IPAc-en|ær|ɪ|ˈ|s|t|ɒ|t|əl}};{{sfn|Collins English Dictionary}} {{lang-grc-gre|Ἀριστοτέλης}} ''Aristotélēs'', {{IPA-grc|aristotélɛːs|pron}}; 384–322&nbsp;BC) was a Greek [[philosopher]] and [[polymath]] during the [[Classical Greece|Classical period]] in [[Ancient Greece]]. Taught by [[Plato]], he was the founder of the [[Lyceum (Classical)|Lyceum]], the [[Peripatetic school]] of philosophy, and the [[Aristotelianism|Aristotelian]] tradition. His writings cover many subjects including [[Physics (Aristotle)|physics]], [[biology]], [[zoology]], [[metaphysics]], [[logic]], [[ethics]], [[aesthetics]], [[Poetics (Aristotle)|poetry]], [[theatre]], [[music]], [[rhetoric]], [[psychology]], [[linguistics]], [[economics]], [[politics]], [[meteorology]], [[History of geology|geology]] and government. Aristotle provided a complex synthesis of the various philosophies existing prior to him. It was above all from his teachings that [[Western civilization|the West]] inherited its intellectual [[lexicon]], as well as problems and methods of inquiry. As a result, his philosophy has exerted a unique influence on almost every form of knowledge in the West and it continues to be a subject of contemporary philosophical discussion.
+'''Aristotle''' ({{IPAc-en|ˈ|ær|ɪ|s|t|ɒ|t|əl}};{{sfn|Collins English Dictionary}} {{lang-grc-gre|Ἀριστοτέλης}} ''Aristotélēs'', {{IPA-grc|aristotélɛːs|pron}}; 384–322&nbsp;BC) was a Greek [[philosopher]] and [[polymath]] during the [[Classical Greece|Classical period]] in [[Ancient Greece]]. Taught by [[Plato]], he was the founder of the [[Lyceum (Classical)|Lyceum]], the [[Peripatetic school]] of philosophy, and the [[Aristotelianism|Aristotelian]] tradition. His writings cover many subjects including [[Physics (Aristotle)|physics]], [[biology]], [[zoology]], [[metaphysics]], [[logic]], [[ethics]], [[aesthetics]], [[Poetics (Aristotle)|poetry]], [[theatre]], [[music]], [[rhetoric]], [[psychology]], [[linguistics]], [[economics]], [[politics]], [[meteorology]], [[History of geology|geology]] and government. Aristotle provided a complex synthesis of the various philosophies existing prior to him. It was above all from his teachings that [[Western civilization|the West]] inherited its intellectual [[lexicon]], as well as problems and methods of inquiry. As a result, his philosophy has exerted a unique influence on almost every form of knowledge in the West and it continues to be a subject of contemporary philosophical discussion.
 
 Little is known about his life. Aristotle was born in the city of [[Stagira (ancient city)|Stagira]] in [[Northern Greece]]. His father, [[Nicomachus (father of Aristotle)|Nicomachus]], died when Aristotle was a child, and he was brought up by a guardian. At seventeen or eighteen years of age he joined [[Plato's Academy]] in [[Athens]] and remained there until the age of thirty-seven (c. 347 BC).{{sfn|Humphreys|2009}} Shortly after Plato died, Aristotle left Athens and, at the request of [[Philip II of Macedon]], tutored [[Alexander the Great]] beginning in 343 BC.{{sfn|Russell| 1972}} He established a library in the [[Lyceum (Classical)|Lyceum]] which helped him to produce many of his hundreds of books on [[papyrus]] [[scrolls]]. Though Aristotle wrote many elegant treatises and dialogues for publication, only around [[Corpus Aristotelicum|a third of his original output has survived]], none of it intended for publication.{{sfn|Barnes|1995|p=9}}
 
@@ -270,7 +270,7 @@ He notes that an animal's structure is well matched to function, so, among birds
 
 Aristotle did not do experiments in the modern sense.{{sfn| Taylor | 1922 | page=42}} He used the ancient Greek term ''pepeiramenoi'' to mean observations, or at most investigative procedures like dissection.{{sfn| Leroi | 2015 | pages=361–65}} In ''Generation of Animals'', he finds a fertilized hen's egg of a suitable stage and opens it to see the embryo's heart beating inside.{{sfn| Leroi | 2011}}{{sfn| Leroi | 2015 | pages=197–200}}
 
-Instead, he practiced a different style of science: systematically gathering data, discovering patterns common to whole groups of animals, and inferring possible causal explanations from these.{{sfn| Leroi | 2015 | pages=365–68}}{{sfn| Taylor | 1922 | page=49}} This style is common in modern biology when large amounts of data become available in a new field, such as [[genomics]]. It does not result in the same certainty as experimental science, but it sets out testable hypotheses and constructs a narrative explanation of what is observed. In this sense, Aristotle's biology is scientific.{{sfn| Leroi | 2015 | pages=365–68}}
+Instead, he practiced a different style of science: systematically gathering data, discovering patterns common to whole groups of animals, and inferring possible causal explanations from these.{{sfn| Leroi | 2015 | pages=365–68}}{{sfn| Taylor | 1922 | page=49}} This style is common in modern biology when large amounts of data become available in a new field, such as [[genomics]]. It does not result in the same certainty as experimental science, but it sets out testable hypotheses and constructs a narrative explanation of what is observed. In this sense, [[Aristotle's biology]] is scientific.{{sfn| Leroi | 2015 | pages=365–68}}
 
 From the data he collected and documented, Aristotle inferred quite a number of [[biological rules|rules]] relating the life-history features of the live-bearing tetrapods (terrestrial placental mammals) that he studied. Among these correct predictions are the following. Brood size decreases with (adult) body mass, so that an elephant has fewer young (usually just one) per brood than a mouse. [[Life expectancy|Lifespan]] increases with [[gestation period]], and also with body mass, so that elephants live longer than mice, have a longer period of gestation, and are heavier. As a final example, [[fecundity]] decreases with lifespan, so long-lived kinds like elephants have fewer young in total than short-lived kinds like mice.{{sfn| Leroi | 2015 | page=408}}{{-}}
 
@@ -583,6 +583,7 @@ The [[Aristotle Mountains]] in [[Antarctica]] are named after Aristotle. He was 
 
 ==See also==
 * [[Aristotelian Society]]
+*[[Aristotle's biology|Aristotle's Biology]]
 * [[Conimbricenses]]
 * [[Perfectionism (philosophy)|Perfectionism]]
 
@@ -663,7 +664,7 @@ The [[Aristotle Mountains]] in [[Antarctica]] are named after Aristotle. He was 
 * {{cite book |last1=Halliwell |first1=Stephen |chapter=Inside and Outside the Work of Art |title=The Aesthetics of Mimesis: Ancient Texts and Modern Problems |date=2002 |pages=152–59 |author-link=Stephen Halliwell (academic) |publisher=Princeton University Press |isbn=978-0-691-09258-4 | chapter-url=https://books.google.com/books?id=R8wctGFg12MC&q=Aristotle+mimesis}}
 * {{cite book |last=Hankinson |first=R.J. |title=Cause and Explanation in Ancient Greek Thought |date=1998 |publisher=Oxford University Press |isbn=978-0-19-823745-7 |doi=10.1093/0199246564.001.0001}}
 * {{cite SEP |last=Hasse |first=Dag Nikolaus |title=Influence of Arabic and Islamic Philosophy on the Latin West |date=2014 | url-id=arabic-islamic-influence}}
-* {{cite book |last=Held |first=Julius |title=Rembrandt's Aristotle and Other Rembrandt Studies |url=https://archive.org/details/rembrandtsaristo0000held | url-access=registration |year=1969 |author-link=Julius S. Held |publisher=Princeton University Press}}
+* {{cite book |last=Held |first=Julius |title=Rembrandt's Aristotle and Other Rembrandt Studies |url=https://archive.org/details/rembrandtsaristo0000held | url-access=registration |year=1969 |author-link=Julius S. Held |publisher=Princeton University Press|isbn=9780691038629 }}
 * {{cite journal |last1=Hladký |first1=V. |last2=Havlíček |first2=J |year=2013 |url=http://ishe.org/wp-content/uploads/2015/04/HEB_2013_28_4_3-11.pdf |title=Was Tinbergen an Aristotelian? Comparison of Tinbergen's Four Whys and Aristotle's Four Causes |journal=Human Ethology Bulletin |volume=28 |issue=4 |pages=3–11}}
 * {{cite journal |last1=Holowchak |first1=Mark |title=Aristotle on Dreaming: What Goes on in Sleep when the 'Big Fire' goes out |date=1996 |pages=405–23 |journal=Ancient Philosophy |volume=16 |issue=2 |url=http://www.pdcnet.org/ancientphil/Ancient-Philosophy |doi=10.5840/ancientphil199616244}}
 * {{cite book |last=Hooker |first=Sir William Jackson |author-link=William Jackson Hooker |title=The British Flora: Comprising the Phaenogamous, Or Flowering Plants, and the Ferns |year=1831 |url=https://books.google.com/books?id=v-IYAAAAYAAJ&pg=PA219 |publisher=Longman |oclc=17317293}}
@@ -841,7 +842,7 @@ The secondary literature on Aristotle is vast. The following is only a small sel
 {{Social and political philosophy}}
 {{Ancient Greece topics}}
 }}
-{{Portal bar|Physics|Astronomy|Stars|Earth sciences|Biology|Psychology|Philosophy|Language|Greece|History of science}}
+{{Portal bar|Physics|Geoscience|Weather|Biology|Psychology|Philosophy|Politics|Economics|Literature|Biography|Ancient Greece|History of science}}
 {{Authority control}}
 
 [[Category:Aristotle| ]]
@@ -876,6 +877,7 @@ The secondary literature on Aristotle is vast. The following is only a small sel
 [[Category:Cultural critics]]
 [[Category:Founders of philosophical traditions]]
 [[Category:Greek male writers]]
+[[Category:Greek geologists]]
 [[Category:Greek meteorologists]]
 [[Category:Greek social commentators]]
 [[Category:Humor researchers]]
@@ -899,6 +901,7 @@ The secondary literature on Aristotle is vast. The following is only a small sel
 [[Category:Philosophers of love]]
 [[Category:Philosophers of psychology]]
 [[Category:Philosophers of science]]
+[[Category:Philosophers of time]]
 [[Category:Philosophers of sexuality]]
 [[Category:Philosophers of technology]]
 [[Category:Philosophical logic]]

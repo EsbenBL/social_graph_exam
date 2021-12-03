@@ -2,7 +2,7 @@
 {{Use dmy dates|date=September 2014}}
 {{Infobox scientist
 | name              = Nikolas Rose
-| image             = NR1.JPG
+| image             = 
 | caption           = 
 | birth_date        = {{birth date and age|df=yes|1947|4|13}}
 | birth_place       = [[London]], [[United Kingdom]]

@@ -14,8 +14,32 @@
 |death_place = [[Paris]], France
 |school_tradition = [[Age of Enlightenment|Enlightenment]]<br/>[[Classical liberalism]]
 |main_interests   = [[Political philosophy]]
-|influences    = [[Aristotle]]<ref>Radhey Shyam Chaurasia, History of Western Political Thought, p. 338.</ref> [[Cicero]], [[Thomas Hobbes]], [[Polybius]], [[René Descartes]], [[Nicolas Malebranche]], [[Jean Bodin]], [[John Locke]], [[Acts of Union 1707|18th-century English constitution]]
-|influenced    = [[David Hume]], [[Thomas Paine]], [[Jean-Jacques Rousseau|Rousseau]], [[Edmund Burke]], [[United States Constitution]] and political system, [[Georg Wilhelm Friedrich Hegel|G.W.F. Hegel]], [[Alexis de Tocqueville]], [[Émile Durkheim]], [[Hannah Arendt]], [[Adam Ferguson]], [[Jean de Sismondi]], [[Prosper de Barante]]<ref>{{cite journal |last1=Ousselin |first1=Edward |title=French Political Thought from Montesquieu to Tocqueville: Liberty in a Levelled Society? (review) |journal=French Studies: A Quarterly Review |date=2009 |volume=63 |issue=2 |page=219 |doi=10.1093/fs/knn212 |s2cid=143571779 |url=https://muse.jhu.edu/article/262695}}</ref>
+|influences    = {{flatlist|
+*[[Aristotle]]<ref>Radhey Shyam Chaurasia, History of Western Political Thought, p. 338.</ref> 
+*[[Cicero]]
+*[[Hobbes]]
+*[[Polybius]]
+*[[Descartes]]
+*[[Nicolas Malebranche|Malebranche]]
+*[[Jean Bodin|Bodin]]
+*[[John Locke|Locke]]
+*[[Acts of Union 1707|18th-century English constitution]]
+}}
+|influenced    = {{flatlist|
+*[[David Hume|Hume]]
+*[[Thomas Paine|Paine]]
+*[[Rousseau]]
+*[[Edmund Burke|Burke]]
+*[[United States Constitution]] and [[Politics of the United States|political system]] 
+*[[Hegel]]
+*[[Tocqueville]]
+*[[Durkheim]]
+*[[Arendt]]
+*[[Adam Ferguson|Ferguson]]
+*[[Sismondi]]
+*[[Barante]]<ref>{{cite journal |last1=Ousselin |first1=Edward |title=French Political Thought from Montesquieu to Tocqueville: Liberty in a Levelled Society? (review) |journal=French Studies: A Quarterly Review |date=2009 |volume=63 |issue=2 |page=219 |doi=10.1093/fs/knn212 |s2cid=143571779 |url=https://muse.jhu.edu/article/262695}}</ref>
+*[[Koneczny]]
+}}
 |notable_ideas = Separation of state powers: [[Executive (government)|executive]], [[legislative]], [[judicial]]; classification of systems of government based on their principles
 |signature = Signatur Charles de Secondat, Baron de Montesquieu.PNG
 }}
