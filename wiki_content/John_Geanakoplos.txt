@@ -12,7 +12,7 @@
 | nationality      = 
 | institution      = [[Yale University]]
 | field            = [[Mathematical economics]]
-| alma_mater       = [[Harvard University]]<br>[[Yale University]]
+| alma_mater       = [[Harvard University]]<br />[[Yale University]]
 | doctoral_advisor = [[Kenneth Arrow]]
 | doctoral_students = [[Stephen Morris (game theorist)|Stephen Morris]]
 | influences       =
@@ -23,7 +23,7 @@
 | repec_prefix =  | repec_id =
 }}
 
-'''John Geanakoplos''' (born March 18, 1955) is an American [[economist]], and the current [[James Tobin]] Professor of Economics at [[Yale University]].<ref>http://cowles.econ.yale.edu/faculty/geanakoplos.htm</ref>
+'''John Geanakoplos''' (born March 18, 1955) is an American [[economist]], and the current [[James Tobin]] Professor of Economics at [[Yale University]].<ref>{{cite web| url = http://cowles.econ.yale.edu/faculty/geanakoplos.htm| title = Welcome {{!}} Cowles Foundation for Research in Economics}}</ref>
 
 ==Background and education==
 John Geanakoplos was born to a [[Greek Americans|Greek-American]] family of scholars. His father was the late Professor Emeritus at Yale [[Deno Geanakoplos]] ({{lang-el|Κωνσταντίνος Γιαννακόπουλος}}), a renowned [[Greek Americans|Greek-American]] historian of Byzantine cultural and religious history, and his mother, Effie Geanakoplos, was an instructor in psychiatry at the Yale Child Study Center.<ref>{{cite web|title=In Memoriam: Deno Geanakoplos|url=http://news.yale.edu/2007/10/11/memoriam-deno-geanakoplos|work=Yale News|publisher=Yale University|accessdate=2017-06-21|date=October 11, 2007}}</ref> In 1970 Geanakoplos won the [[U.S. Open Chess Championship|United States Junior Open Chess Championship]]. He received his B.A. in mathematics from Yale University in 1975 ([[summa cum laude]]), and his M.A. in mathematics and his Ph.D. in economics under [[Kenneth Arrow]] and [[Jerry R. Green|Jerry Green]] from [[Harvard University]] in 1980. In 1980 he became an assistant professor of economics at Yale University, rising to associate professor in 1983, full professor in 1986, and the James Tobin Professor of Economics in 1994.
@@ -45,7 +45,7 @@ Geanakoplos' papers in the 1980s with [[Paul Klemperer]] and [[Jeremy Bulow]] de
 
 Before the [[Late-2000s financial crisis]], Geanakoplos was known primarily for his contributions to [[General equilibrium theory]], particularly [[Incomplete markets]] in general equilibrium theory.<ref>{{cite web|url=http://www.newschool.edu/nssr/het/profiles/geanak.htm |title=Archived copy |accessdate=2011-04-02 |url-status=dead |archiveurl=https://web.archive.org/web/20110524010534/http://www.newschool.edu/nssr/het/profiles/geanak.htm |archivedate=2011-05-24 }}</ref> Geanakoplos and Polemarchakis (1986),<ref>Geanakoplos, J.D. and H.M. Polemarchakis, 1986, Existence, regularity and constrained suboptimality of competitive allocations when the asset structure is incomplete, in: W.P. Hell&, R.M: Starr and D.A. Starrett, eds., Uncertainty, information and communication: Essays in honor of K.J. Arrow. Vol. 3 (Cambridge Universitv Press, New York) 65-95.</ref> for example, establishes key existence and welfare results in a general incomplete markets model.
 
-Since the onset of the [[Late-2000s financial crisis]], Geanakoplos' work on the relationship between [[Debt deflation|leverage]] and asset prices, "The [[Leverage cycle|Leverage Cycle]],"<ref>Geanakoplos, J. (2010) "The Leverage Cycle", in D.Acemoglu, K. Rogoff, and M. Woodford (eds.), NBER Macro-economics Annual 2009, vol. 24, University of Chicago Press, Chicago, 2010, pp. 1-65.</ref> has been prominent in both popular and academic discussions of financial market fluctuations and regulation.<ref>https://www.wsj.com/articles/SB125720159912223873</ref>
+Since the onset of the [[Late-2000s financial crisis]], Geanakoplos' work on the relationship between [[Debt deflation|leverage]] and asset prices, "The [[Leverage cycle|Leverage Cycle]],"<ref>Geanakoplos, J. (2010) "The Leverage Cycle", in D.Acemoglu, K. Rogoff, and M. Woodford (eds.), NBER Macro-economics Annual 2009, vol. 24, University of Chicago Press, Chicago, 2010, pp. 1-65.</ref> has been prominent in both popular and academic discussions of financial market fluctuations and regulation.<ref>{{cite web| url = https://www.wsj.com/articles/SB125720159912223873| title = Crisis Compels Economists To Reach for New Paradigm - WSJ}} </ref>
 
 In 2009, Geanakoplos co-authored a work on credit cards and inflation through the [[Cowles Foundation]].<ref>{{Cite news|url=https://www.forbes.com/sites/moneybuilder/2010/04/27/how-credit-cards-hurt-the-economy/#2fa8f40633c0|title=How Credit Cards Hurt the Economy|last=MoneyBuilder|newspaper=Forbes|access-date=2017-02-02}}</ref> His co-author was the mathematical economist and fellow Yale professor [[Pradeep Dubey]].
 
@@ -119,7 +119,7 @@ The following are selected publications from 1998 to date.<ref>{{cite web |title
 [[Category:Yale University faculty]]
 [[Category:Living people]]
 [[Category:Yale University alumni]]
-[[Category:Harvard University alumni]]
+[[Category:Harvard Graduate School of Arts and Sciences alumni]]
 [[Category:Fellows of the Econometric Society]]
 [[Category:Fellows of the American Academy of Arts and Sciences]]
 [[Category:Santa Fe Institute people]]

@@ -62,7 +62,7 @@ In addition to academic work, Barrett has written two science books for the publ
 ==Professional history==
 
 ===Study of human emotions===
-{{Unreferenced section|date=July 2021}}
+{{BLP unsourced section|date=July 2021}}
 At the beginning of her career, Barrett's research focused on the structure of [[Affect (psychology)|affect]], having developed experience-sampling methods<ref>
 {{cite book   | last = Hektner  | first = Joel M.  |author2=Jennifer A. Schmidt |author3=Mihaly Csikszentmihalyi   | title = ''Experience Sampling Method: Measuring the Quality of Everyday Life.''  | publisher = [[SAGE Publications]]  |date=September 2006  | isbn = 1-4129-4923-8  | page = 37 et al }}
 </ref> and open-source software to study emotional experience. Barrett and members at the Interdisciplinary Affective Science Laboratory study the nature of emotion broadly from social-psychological, [[Psychophysiology|psychophysiological]], [[cognitive science]], and neuroscience perspectives, and take inspiration from anthropology, philosophy, and linguistics. They also explore the role of emotion in vision and other psychological phenomena.
@@ -71,7 +71,6 @@ In 1996, she joined the Psychology Faculty at Boston College. Before that she wa
 
 Her research has focused on the main issues in the science of emotions such as: 
 *
-
 *What are the basic building blocks of emotional life<s>?</s>
 *Building blocks of emotional life
 *Why is it that people quickly and effortlessly perceive anger, sadness, fear in themselves and others, yet scientists have been unable to specify a set of clear criteria for empirically identifying these emotional events?
@@ -80,11 +79,11 @@ Her research has focused on the main issues in the science of emotions such as:
 
 ===Theory of constructed emotion===
 {{Main|Theory of constructed emotion}}
-Barrett developed her current theory of constructed emotion originally during her graduate training. 
+Barrett developed her current theory of constructed emotion originally during her graduate training.
 
 According to Barrett, emotions are "not universal, but vary from culture to culture" (see [[Emotions and culture]]). She says that emotions "are not triggered; you create them. They emerge as a combination of the physical properties of your body, a flexible brain that wires itself to whatever environment it develops in, and your culture and upbringing, which provide that environment."<ref>How Emotions Are Made, 2017, Introduction</ref>
 
-The theory denies "essentialism" of affect, such as the seven [[primary affective systems]] proposed by the affective neuroscientist [[Jaak Panksepp]]. Panksepp summarized the theory of constructed emotion as an "attributional–dimensional constructivist view of human emotions [which] postulates that positive and negative core affects are the basic feelings—the primary processes—from which emotional concepts are cognitively and [[Social constructionism|socially constructed]]".<ref>{{Cite journal|last=Panksepp|first=Jaak|date=2007|title=Neurologizing the Psychology of Affects: How Appraisal-Based Constructivism and Basic Emotion Theory Can Coexist|url=https://www.jstor.org/stable/40212207|journal=Perspectives on Psychological Science|volume=2|issue=3|pages=281–296|issn=1745-6916}}</ref>
+The theory denies "essentialism" of affect, such as the seven primary affective systems proposed by the affective neuroscientist [[Jaak Panksepp]]. Panksepp summarized the theory of constructed emotion as an "attributional–dimensional constructivist view of human emotions [which] postulates that positive and negative core affects are the basic feelings—the primary processes—from which emotional concepts are cognitively and [[Social constructionism|socially constructed]]".<ref>{{Cite journal|last=Panksepp|first=Jaak|date=2007|title=Neurologizing the Psychology of Affects: How Appraisal-Based Constructivism and Basic Emotion Theory Can Coexist|url=https://www.jstor.org/stable/40212207|journal=Perspectives on Psychological Science|volume=2|issue=3|pages=281–296|issn=1745-6916}}</ref>
 
 ==Honors and awards==
 
@@ -162,3 +161,4 @@ The theory denies "essentialism" of affect, such as the seven [[primary affectiv
 [[Category:University of Toronto alumni]]
 [[Category:University of Waterloo alumni]]
 [[Category:American women academics]]
+[[Category:21st-century American women]]
