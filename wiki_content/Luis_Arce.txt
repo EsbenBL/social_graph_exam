@@ -7,23 +7,31 @@
 | name                = Luis Arce
 | image               = Luis Arce (23588020275) (cropped).jpg
 | caption             = 
+<!-- Political Offices -->
 | order               = 67th
 | office              = President of Bolivia
 | term_start          = 8 November 2020
 | term_end            = 
 | predecessor         = [[Jeanine Áñez]]
 | vicepresident       = [[David Choquehuanca]]
-| office1             = [[Minister of Economy and Finance of Bolivia|Minister of Economy and Public Finance]]
+| office1             = [[Ministry of Economy and Public Finance (Bolivia)|Minister of Economy and Public Finance]]
 | term_end1           = 10 November 2019
 | term_start1         = 23 January 2019
 | president1          = [[Evo Morales]]
 | predecessor1        = [[Mario Guillén]]
 | successor1          = [[José Luis Parada Rivero]]
-| term_start2         = 23 January 2006
+| term_start2         = 8 February 2009
 | term_end2           = 24 June 2017
-| president2          = Evo Morales
-| predecessor2        = Waldo Gutiérrez Iriarte
+| president2          = [[Evo Morales]]
+| predecessor2        = Himself
 | successor2          = [[Mario Guillén]]
+| office3             = [[Ministry of Economy and Public Finance (Bolivia)|Minister of Finance]]
+| president3          = [[Evo Morales]]
+| term_start3         = 23 January 2006
+| term_end3           = 8 February 2009
+| predecessor3        = Waldo Gutiérrez Iriarte
+| successor3          = Himself
+<!-- Personal Details -->
 | birth_name          = Luis Alberto Arce Catacora
 | birth_date          = {{birth date and age|1963|9|28|df=y}}
 | birth_place         = [[La Paz]], Bolivia
@@ -45,7 +53,7 @@
 | filename            = Luis Arce - Speech.ogg
 | description         = Inaugural address delivered to the [[Plurinational Legislative Assembly]], 8 November 2020}}
 }}
-'''Luis Alberto Arce Catacora''' (born 28 September 1963), also known as '''Lucho Arce''', is a Bolivian politician serving as the 67th [[President of Bolivia]] since 2020.<ref name="lostiempos.com">{{cite web|url=https://www.lostiempos.com/actualidad/pais/20201023/copa-anuncia-que-arce-sera-posesionado-8-noviembre|title=Copa announces that Arce will be inaugurated on November 8|date=23 October 2020|language=es}}</ref> He served as [[Minister of Economy and Finance of Bolivia|Minister of Economy and Public Finance]] from 2006 to 2017 and in 2019 during the administration of [[Evo Morales]].<ref>{{cite web|url=https://www.cronista.com/internacionales/Quien-es-Luis-Arce-el-presidente-electo-de-Bolivia-20201019-0024.html|title=Who is Luis Arce, the President Elect of Bolivia?|language=es|date=19 October 2020}}</ref> He is a member of the [[Movement for Socialism (Bolivia)|Movement for Socialism]] (MAS-IPSP) political party.
+'''Luis Alberto Arce Catacora''' (born 28 September 1963), often referred to as '''Lucho Arce''', is a Bolivian economist and politician serving as the 67th [[president of Bolivia]] since 2020.<ref name="lostiempos.com">{{cite web|url=https://www.lostiempos.com/actualidad/pais/20201023/copa-anuncia-que-arce-sera-posesionado-8-noviembre|title=Copa announces that Arce will be inaugurated on November 8|date=23 October 2020|language=es}}</ref> A member of the [[Movement for Socialism (Bolivia)|Movement for Socialism]], Arce previously served as [[Ministry of Economy and Public Finance (Bolivia)|minister of finance]] from 2006 to 2017 and in 2019.<ref>{{cite web|url=https://www.cronista.com/internacionales/Quien-es-Luis-Arce-el-presidente-electo-de-Bolivia-20201019-0024.html|title=Who is Luis Arce, the President Elect of Bolivia?|language=es|date=19 October 2020}}</ref>
 
 Arce was born in [[La Paz]] to a middle-class family. He graduated as an accountant from Institute of Banking Education in La Paz in 1984 before obtaining degrees in economics at the [[Higher University of San Andrés]] and the [[University of Warwick]] in England. He spent most of the 1990s as a public official in a succession of posts and teaching economics at various universities. In 2006 he was appointed Minister of Finance by the newly elected president, Evo Morales. Arce oversaw a period of [[economic growth]] in Bolivia, and as a member of MAS gained a reputation for being a [[technocrat]].
 
@@ -171,14 +179,13 @@ Arce was married to Jéssica Mosqueira with whom he had three children; Luis Mar
 |title=Offices and distinctions
 |list1=
 {{s-start}}
-{{s-ppo}}
-{{s-bef|before=[[Evo Morales]]}}
-{{s-ttl|title=[[Movement for Socialism (Bolivia)|Movement for Socialism]] nominee<br>for President of Bolivia|years=[[2020 Bolivian general election|2020]]}}
-{{s-aft|after=Most recent}}
-{{s-break}}
 {{s-off}}
 {{s-bef|before=Waldo Gutiérrez Iriarte}}
-{{s-ttl|title=[[Ministry of Economy and Public Finance (Bolivia)|Minister of Economy and Public Finance]]|years=2006–2017}}
+{{s-ttl|title=[[Ministry of Economy and Public Finance (Bolivia)|Minister of Finance]]|years=2006–2009}}
+{{s-aft|after=Himself}}
+{{s-break}}
+{{s-bef|before=Himself}}
+{{s-ttl|title=[[Ministry of Economy and Public Finance (Bolivia)|Minister of Economy and Public Finance]]|years=2009–2017}}
 {{s-aft|after=[[Mario Guillén]]}}
 {{s-break}}
 {{s-bef|before=[[Mario Guillén]]}}
@@ -188,6 +195,11 @@ Arce was married to Jéssica Mosqueira with whom he had three children; Luis Mar
 {{s-bef|before=[[Jeanine Áñez]]}}
 {{s-ttl|title=[[President of Bolivia]]|years=2020–present}}
 {{s-inc}}
+{{s-break}}
+{{s-ppo}}
+{{s-bef|before=[[Evo Morales]]}}
+{{s-ttl|title=[[Movement for Socialism (Bolivia)|Movement for Socialism]] nominee<br>for President of Bolivia|years=[[2020 Bolivian general election|2020]]}}
+{{s-aft|after=Most recent}}
 {{s-end}}
 }}
 {{Heads of state of republics}}
@@ -203,9 +215,10 @@ Arce was married to Jéssica Mosqueira with whom he had three children; Luis Mar
 [[Category:Alumni of the University of Warwick]]
 [[Category:Bolivian economists]]
 [[Category:Candidates in the 2020 Bolivian presidential election]]
+[[Category:Evo Morales administration cabinet members]]
+[[Category:Finance ministers of Bolivia]]
 [[Category:Government ministers of Bolivia]]
 [[Category:Higher University of San Andrés alumni]]
-[[Category:Ministers of Economics and Finance of Bolivia]]
 [[Category:Movement for Socialism (Bolivia) politicians]]
 [[Category:People from La Paz]]
 [[Category:Presidents of Bolivia]]

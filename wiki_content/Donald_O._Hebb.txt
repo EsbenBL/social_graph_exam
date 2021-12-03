@@ -12,8 +12,11 @@
 |field = Psychology
 |work_institution = [[Montreal Neurological Institute]],<br />[[Queen's University at Kingston|Queen's University]],<br />[[Yerkes National Primate Research Center|Yerkes Laboratories of Primate Biology]],<br />[[McGill University]]<ref>[https://www.mcgill.ca/hebb/biographies/ Biographies of Donald Olding Hebb<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20111125121637/http://www.mcgill.ca/hebb/biographies/ |date=November 25, 2011 }}</ref>
 |alma_mater =  [[Dalhousie University]] ([[Bachelor of Arts|BA]], 1925), <br />[[McGill University]] ([[Master of Arts|MA]], 1932), <br />[[Harvard University]] ([[PhD]], 1936)
-|doctoral_advisor =
-|doctoral_students =
+|doctoral_advisor = [[Karl Spencer Lashley]]
+|thesis_title = The innate organization of visual perception in the rat
+|thesis_year = 1936
+|thesis_url = http://www.worldcat.org/oclc/1235395715
+|doctoral_students = [[Brenda Milner]]
 |known_for =  [[Hebbian theory|Cell assembly theory]]
 |prizes = [[Fellow of the Royal Society]]<ref name="frs">{{Cite journal | last1 = Milner | first1 = P. M. | last2 = Milner | first2 = B. | author-link2 = Brenda Milner| doi = 10.1098/rsbm.1996.0012 | title = Donald Olding Hebb. 22 July 1904-20 August 1985 | journal = [[Biographical Memoirs of Fellows of the Royal Society]] | volume = 42 | pages = 192–204 | year = 1996 | pmid =  11619332| s2cid = 20555128 }}</ref>
 |religion =

@@ -8,7 +8,7 @@
 | native_name        = 
 | native_name_lang   = 
 | birth_name         = <!-- use only if different from full/othernames -->
-| birth_date         = {{birth date and age|1913|11|27}}
+| birth_date         = {{birth date|1913|11|27}}
 | birth_place        =
 | death_date         = {{death date and age|2003|07|08|1913|11|27}}<ref name="obit" />
 | death_place        = 

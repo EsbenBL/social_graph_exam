@@ -1,26 +1,26 @@
 {{Short description|Technology writer}}
 {{Use mdy dates|date=July 2013}}
 {{Infobox person
-| image = George Gilder handwaving at CHM Apr 2005.jpg
-| caption = Gilder in 2005
-| name = George Gilder
-| birth_name = George Franklin Gilder<ref>{{Cite book|url=https://books.google.com/books?id=xklWAAAAMAAJ&q=%22George+Franklin+Gilder%22|title=American ancestors and cousins of the Princess of Wales: the New England, Mid-Atlantic and Virginia forebears, near relatives, and notable distant kinsmen, through her American great-grandmother, of Lady Diana Frances Spencer, now Her Royal Highness the Princess of Wales|first1=Gary Boyd|last1=Roberts|first2=William Addams|last2=Reitwiesner|date=June 24, 1984|publisher=Genealogical Pub. Co.|isbn=9780806310855|access-date=April 24, 2020|via=Google Books}}</ref>
-| birth_date = {{Birth date and age|1939|11|29}}
-| birth_place = New York City, New York, U.S.
-| death_date = <!-- {{Death date and age|YYYY|MM|DD|1939|11|29}} -->
+| image       = George Gilder handwaving at CHM Apr 2005.jpg
+| caption     = Gilder in 2005
+| name        = George Gilder
+| birth_name  = George Franklin Gilder<ref>{{Cite book|url=https://books.google.com/books?id=xklWAAAAMAAJ&q=%22George+Franklin+Gilder%22|title=American ancestors and cousins of the Princess of Wales: the New England, Mid-Atlantic and Virginia forebears, near relatives, and notable distant kinsmen, through her American great-grandmother, of Lady Diana Frances Spencer, now Her Royal Highness the Princess of Wales|first1=Gary Boyd|last1=Roberts|first2=William Addams|last2=Reitwiesner|date=June 24, 1984|publisher=Genealogical Pub. Co.|isbn=9780806310855|access-date=April 24, 2020|via=Google Books}}</ref>
+| birth_date  = {{Birth date and age|1939|11|29}}
+| birth_place = New York City, U.S.
+| death_date  = <!-- {{Death date and age|YYYY|MM|DD|1939|11|29}} -->
 | death_place = 
-| education = [[Phillips Exeter Academy]]
-| alma_mater = [[Harvard University]]
-| occupation = Author, editor-in-chief of ''Gilder Technology Report''<br />Chairman, Gilder Publishing LLC<br />Senior Fellow [[Discovery Institute]]
-| module = {{Infobox military person
-| allegiance = {{Flagdeco|United States|1960}} United States of America
-| branch = {{Flagcountry|United States Marine Corps|size=23px}}
-| embed = yes}} 
+| education   = [[Phillips Exeter Academy]]
+| alma_mater  = [[Harvard University]]
+| occupation  = Author, editor-in-chief of ''Gilder Technology Report''<br />Chairman, Gilder Publishing LLC<br />Senior Fellow, [[Discovery Institute]]
+| module      = {{Infobox military person
+| allegiance  = {{Flagdeco|United States|1960}} United States of America
+| branch      = {{Flagcountry|United States Marine Corps|size=23px}}
+| embed       = yes}} 
 }}
 '''George Franklin Gilder''' ({{IPAc-en|ˈ|ɡ|ɪ|l|d|ər}}; born November 29, 1939) is an American investor, author, economist, [[technological utopianism|techno-utopian]] advocate,{{citation needed lead|date=December 2019}} and co-founder of the [[Discovery Institute]]. His 1981 international bestseller, ''[[Wealth and Poverty]]'', advanced a case for [[supply-side economics]] and [[capitalism]] during the early months of the [[Reagan administration]]. He is the chairman of George Gilder Fund Management, LLC.
 
 ==Early years and personal life==
-Gilder was born in [[New York City]] and raised in [[New York (state)|New York]] and [[Massachusetts]].<ref>{{cite web|url=https://www.newyorker.com/magazine/2000/05/29/the-gilder-effect-2|title=The Gilder Effect|work=The New Yorker|access-date=25 September 2019}}</ref> He is a great-grandson of designer [[Louis Comfort Tiffany]].<ref>{{Cite web|url=https://books.google.com/books?id=AStXAAAAYAAJ&q=%22George+Franklin+Gilder%22|title=Nexus: The Bimonthly Newsletter of the New England Historic Genealogical Society|date=April 24, 1984|publisher=The Society|access-date=April 24, 2020|via=Google Books}}</ref> His father, Richard Watson Gilder, was killed flying in the [[United States Army Air Forces]] in World War II when Gilder was two years old.{{cn|date=October 2021}}
+Gilder was born in New York City and raised in [[New York (state)|New York]] and [[Massachusetts]].<ref>{{cite web|url=https://www.newyorker.com/magazine/2000/05/29/the-gilder-effect-2|title=The Gilder Effect|work=The New Yorker|access-date=25 September 2019}}</ref> He is a great-grandson of designer [[Louis Comfort Tiffany]].<ref>{{Cite web|url=https://books.google.com/books?id=AStXAAAAYAAJ&q=%22George+Franklin+Gilder%22|title=Nexus: The Bimonthly Newsletter of the New England Historic Genealogical Society|date=April 24, 1984|publisher=The Society|access-date=April 24, 2020|via=Google Books}}</ref> His father, Richard Watson Gilder, was killed flying in the [[United States Army Air Forces]] in World War II when Gilder was two years old.{{cn|date=October 2021}}
 
 He spent most of his childhood with his mother, Anne Spring (Alsop), and his stepfather, Gilder Palmer, on a dairy farm in [[Tyringham, Massachusetts]]. Gilder, a college roommate of his father, was deeply involved with his upbringing.<ref name="MacFarquhar">{{Citation
 | last = MacFarquhar
@@ -45,7 +45,7 @@ In the 1960s Gilder served as a speechwriter for several prominent officials and
 With his college roommate, [[Bruce Chapman]], he wrote an attack on the [[anti-intellectualism|anti-intellectual]] policies of the 1964 Republican presidential candidate [[Barry Goldwater]], ''The Party That Lost Its Head'' (1966). He later recanted this attack: "The far Right&nbsp;— the same men I dismissed as extremists in my youth&nbsp;— turned out to know far more than I did. At least the 'right-wing extremists', as I confidently called them, were right on almost every major policy issue from welfare to Vietnam to Keynesian economics and defense&nbsp;— while I, in my Neo-Conservative sophistication, was nearly always wrong."<ref>{{Citation | last=Gilder|first=George|title=Why I am Not a Neo-Conservative|journal=National Review|date=March 5, 1982|volume=34|issue=4|pages=219–20}}</ref>
 
 ===Supply-side economics===
-[[Supply-side economics]] was formulated in the mid-1970s by [[Jude Wanniski]] and [[Robert L. Bartley]] at ''[[The Wall Street Journal]]'' as a counterweight to the reigning "demand-side" [[Keynesian economics]]. At the center of the concept was the [[Laffer curve]], the idea that high tax rates reduce government revenue. Its opponents often refer to it as "[[trickle-down economics]]". Inspired by Wanniski and by the works of [[free market|free-market]] economists like [[Murray Rothbard]], [[Ludwig von Mises]], [[Milton Friedman]] and [[Friedrich Hayek]] and writer [[Ayn Rand]],<ref>[[Jonathan Chait|Chait, Jonathan]] (September 14, 2009) [http://www.tnr.com/article/books-and-arts/wealthcare-0 Wealthcare], ''[[The New Republic]]''</ref> 
+[[Supply-side economics]] was formulated in the mid-1970s by [[Jude Wanniski]] and [[Robert L. Bartley]] at ''[[The Wall Street Journal]]'' as a counterweight to the reigning "demand-side" [[Keynesian economics]]. At the center of the concept was the [[Laffer curve]], the idea that high tax rates reduce government revenue. Its opponents often refer to it as "[[trickle-down economics]]". Inspired by Wanniski and by the works of [[free market|free-market]] economists like [[Murray Rothbard]], [[Ludwig von Mises]], [[Milton Friedman]] and [[Friedrich Hayek]] and writer [[Ayn Rand]].<ref>[[Jonathan Chait|Chait, Jonathan]] (September 14, 2009) [http://www.tnr.com/article/books-and-arts/wealthcare-0 Wealthcare], ''[[The New Republic]]''</ref> 
 
 Gilder wrote a book extending the ideas of his ''Visible Man'' (1978) into the realm of economics, to balance his theory of poverty with a theory of wealth.<ref>{{Citation
 | last = Gilder
@@ -54,7 +54,7 @@ Gilder wrote a book extending the ideas of his ''Visible Man'' (1978) into the r
 | publisher = ICS Press
 | page = xi
 | isbn = 1-55815-240-7
-| year = 1993}}</ref> The book, published as the best-selling ''Wealth and Poverty'' in 1981, communicated the ideas of supply-side economics to a wide audience in the United States and the world.{{sfn|Gilder|1993|p=xv}}
+| year = 1993}}</ref> The book, published as the best-selling ''Wealth and Poverty'' in 1981, communicated the ideas of supply-side economics to a wide audience in the United States and the world.{{sfn|Gilder|1993|p=xv}}{{Non-primary source needed|date=November 2021}}
 
 Gilder also contributed to the development of supply-side economics when he served as Chairman of the Lehrman Institute's Economic Roundtable, as Program Director for the Manhattan Institute, and as a frequent contributor to Laffer's economic reports and the editorial page of ''[[The Wall Street Journal]]''.<ref>{{Cite web|url=https://www.discovery.org/p/gilder/|title=George Gilder|first=George|last=Gilder|website=Discovery Institute|access-date=April 24, 2020}}</ref>
 
@@ -127,7 +127,7 @@ After completing ''Visible Man'' in the late 1970s Gilder began writing "The Pur
 
 In ''Wealth and Poverty'', Gilder extended the sociological and anthropological analysis of his early books in which he had advocated for the socialization of men into service to women through work and marriage. He wove these sociological themes into the economic policy prescriptions of [[supply-side economics]]. In his eyes the breakup of the nuclear family and the policies of [[demand-side economics]] led to poverty, while family and supply-side policies led to wealth.
 
-In reviewing the problems of the immediate past—the inflation, recession, and urban problems of the 1970s—and proposing his supply-side solutions, Gilder argued not just the practical but the moral superiority of supply-side capitalism over the alternatives. "Capitalism begins with giving," he asserted, while [[New Deal]] liberalism created moral hazard. It was work, family, and faith that created wealth out of poverty. "It is this supply-side moral vision that underlies all the economic arguments of ''Wealth and Poverty,''" he wrote.{{sfn|Gilder|1993|p=xxii}}
+In reviewing the problems of the immediate past—the inflation, recession, and urban problems of the 1970s—and proposing his supply-side solutions, Gilder argued not just the practical but the moral superiority of supply-side capitalism over the alternatives. "Capitalism begins with giving," he asserted, while [[New Deal]] liberalism created moral hazard. It was work, family, and faith that created wealth out of poverty. "It is this supply-side moral vision that underlies all the economic arguments of ''Wealth and Poverty,''" he wrote.{{sfn|Gilder|1993|p=xxii}}{{Primary source inline|date=November 2021}}
 
 In 1994 Gilder wrote that the poor in America are “ruined by the overflow of American prosperity” and “moral decay” and that they are in need of "Christian teaching from the churches."<ref name="acton">{{Citation| last = Gilder	| first = George| title = Freedom from Welfare Dependency| journal = Religion & Liberty| date = March–April 1994| url = http://www.acton.org/pub/religion-liberty/volume-4-number-2/freedom-welfare-dependency}}</ref>
 

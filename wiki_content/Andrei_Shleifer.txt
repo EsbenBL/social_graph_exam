@@ -9,16 +9,16 @@
 | death_date       =
 | death_place      =
 | nationality      = [[Russian American]]
-| institution      = [[Harvard University]] <br> [[University of Chicago]]
-| field            = [[Behavioral finance]] <br> [[Law and economics]] <br> [[Development economics]]
-| alma_mater       = [[Massachusetts Institute of Technology|MIT]]<br>Harvard University
-| doctoral_advisor = [[Peter A. Diamond]]<ref name="advisor">{{cite thesis |last= Shleifer |first= Andrei |date= 1986 |title= The business cycle and the stock market |type= Ph.D. |publisher= [[MIT]] |url= https://dspace.mit.edu/bitstream/handle/1721.1/80447/15666311-MIT.pdf?sequence=2 |access-date= 21 May 2017 }}</ref><br>[[Franklin M. Fisher]]<ref name="advisor" />
+| institution      = [[Harvard University]] <br /> [[University of Chicago]]
+| field            = [[Behavioral finance]] <br /> [[Law and economics]] <br /> [[Development economics]]
+| alma_mater       = [[Massachusetts Institute of Technology|MIT]]<br />Harvard University
+| doctoral_advisor = [[Peter A. Diamond]]<ref name="advisor">{{cite thesis |last= Shleifer |first= Andrei |date= 1986 |title= The business cycle and the stock market |type= Ph.D. |publisher= [[MIT]] |url= https://dspace.mit.edu/bitstream/handle/1721.1/80447/15666311-MIT.pdf?sequence=2 |access-date= 21 May 2017 }}</ref><br />[[Franklin M. Fisher]]<ref name="advisor" />
 | academic_advisors=
-| doctoral_students= [[Sendhil Mullainathan]]<br>[[Matthew Gentzkow]]<br>[[Jesse Shapiro]]<br>[[Emily Oster]]<br>[[Ulrike Malmendier]]<br>[[John Friedman]]
+| doctoral_students= [[Sendhil Mullainathan]]<br />[[Matthew Gentzkow]]<br />[[Jesse Shapiro]]<br />[[Emily Oster]]<br />[[Ulrike Malmendier]]<br />[[John Friedman]]
 | notable_students =
-| influences       = [[Lawrence Summers]] <br> [[Milton Friedman]]<ref>{{cite web|url=http://scholar.harvard.edu/shleifer/publications/age-milton-friedman|title = The Age of Milton Friedman | author = Andrei Shleifer | access-date = 2013-10-19}}</ref>
-| influenced       = [[Rafael La Porta]] <br> [[Jesse Shapiro]]
-| contributions    =  [[Legal origins theory]] <br> [[Big push model]]
+| influences       = [[Lawrence Summers]] <br /> [[Milton Friedman]]<ref>{{cite web|url=http://scholar.harvard.edu/shleifer/publications/age-milton-friedman|title = The Age of Milton Friedman | author = Andrei Shleifer | access-date = 2013-10-19}}</ref>
+| influenced       = [[Rafael La Porta]] <br /> [[Jesse Shapiro]]
+| contributions    =  [[Legal origins theory]] <br /> [[Big push model]]
 | awards           = [[John Bates Clark Medal]] (1999)
 | signature        = <!-- file name only -->
 | repec_prefix = e | repec_id = psh93
@@ -50,7 +50,7 @@ During the early 1990s, Andrei Shleifer headed a Harvard project under the auspi
 
 In 1997, the U.S. Agency for International Development (USAID) canceled most of its funding for the Harvard project after investigations showed that top HIID officials Andrei Shleifer and Jonathan Hay had used their positions and insider information to profit from investments in the Russian securities markets. Among other things, the Institute for a Law Based Economy (ILBE) was allegedly used to assist Shleifer's wife, [[Nancy Zimmerman]], who operated a hedge fund which speculated in Russian bonds.<ref name="McClintick2006"/>
 
-In August 2005, Harvard University, Shleifer and the Department of Justice reached an agreement under which the university paid $26.5 million to settle the five-year-old lawsuit. Shleifer was also responsible for paying $2 million worth of damages, though he did not admit any wrongdoing.<ref name="Bombardieri2006" /><ref>http://www.prnewswire.com/news-releases/harvard-defendants-pay-over-31-million-to-settle-false-claims-act-allegations-reports-us-attorney-54649792.html</ref>
+In August 2005, Harvard University, Shleifer and the Department of Justice reached an agreement under which the university paid $26.5 million to settle the five-year-old lawsuit. Shleifer was also responsible for paying $2 million worth of damages, though he did not admit any wrongdoing.<ref name="Bombardieri2006" /><ref>http://www.prnewswire.com/news-releases/harvard-defendants-pay-over-31-million-to-settle-false-claims-act-allegations-reports-us-attorney-54649792.html {{Bare URL inline|date=November 2021}}</ref>
 
 ==Works==
 * {{cite book |title=Privatizing Russia |last=Boycko |first=Maxim |author2=Shleifer, Andrei |author-mask2=2 |author3=Vishny, Robert |year=1995 |publisher=MIT Press |location=Cambridge, MA |isbn=978-0-262-02389-4 |url-access=registration |url=https://archive.org/details/privatizingrussi00boyc }}

@@ -81,7 +81,7 @@ Athey has been personally named in a group of class actions, notably ''Zakinov v
 * Fisher-Shultz Lecture, Econometric Society (2011)
 *Jean-Jacques Laffont Prize (2016)<ref>{{Cite web|date=2018-06-05|title=Jean-Jacques Laffont Prize|url=https://www.tse-fr.eu/jjl-prize|access-date=2020-12-03|website=TSE|language=en}}</ref>
 *[[John von Neumann Award]] (2019) <ref>{{Cite web|url=https://www.eventbrite.com/e/digitization-and-the-economy-john-von-neumann-award-ceremony-susan-athey-tickets-77640774647|title=Digitization and the Economy - John von Neumann Award Ceremony: Susan Athey}}</ref>
-*[[CME Group]] - [[Mathematical Sciences Research Institute|MSRI]] Prize (2019)<ref>{{Cite web|last=MSRI|title=Mathematical Sciences Research Institute|url=http://www.msri.org/|access-date=2021-06-07|website=www.msri.org}}</ref>
+*[[CME Group]] - [[Mathematical Sciences Research Institute|MSRI]] Prize (2019)<ref>{{Cite web|title=Mathematical Sciences Research Institute|url=http://www.msri.org/|access-date=2021-06-07|website=www.msri.org}}</ref>
 
 === Non-academic ===
 
@@ -106,9 +106,9 @@ Athey has been personally named in a group of class actions, notably ''Zakinov v
 * {{cite journal |last=Athey|first=Susan|author-mask=1 |author2=Bagwell, Kyle |author3=Sanchirico, Chris |author3-link=Chris William Sanchirico |year=2004 |title=Collusion and Price Rigidity |journal=[[Review of Economic Studies]] |volume=71 |issue=2 |pages=317–349 |doi=10.1111/0034-6527.00286 |citeseerx=10.1.1.25.2035}}
 * {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Haile, Philip |year=2002 |title=Identification in Standard Auction Models |journal=Econometrica |volume=70 |issue=6 |pages=2107–2140 |doi=10.1111/1468-0262.00371  |citeseerx=10.1.1.217.1365}}
 * {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Stern, Scott |year=2002 |title=The Impact of Information Technology on Emergency Health Care Outcomes |journal=RAND Journal of Economics |volume=33 |issue=3 |pages=399–432 |doi= 10.2307/3087465|url=http://www.rje.org/abstracts/abstracts/2002/Autumn_2002._pp._Athey.html |pmid=12585298 |jstor=3087465 |citeseerx=10.1.1.15.1325|s2cid=6398638}}
-* {{cite journal |author=——— |year=2002 |title=Monotone Comparative Statics Under Uncertainty |journal=[[Quarterly Journal of Economics]] |volume=117 |issue=1 |pages=187–223 |doi=10.1162/003355302753399481 |url= http://nrs.harvard.edu/urn-3:HUL.InstRepos:3372263}}
+* {{cite journal |author= |year=2002 |title=Monotone Comparative Statics Under Uncertainty |journal=[[Quarterly Journal of Economics]] |volume=117 |issue=1 |pages=187–223 |doi=10.1162/003355302753399481 |url= http://nrs.harvard.edu/urn-3:HUL.InstRepos:3372263}}
 * {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Bagwell, Kyle |year=2001 |title=Optimal Collusion with Private Information |journal=RAND Journal of Economics |volume=32 |issue=3 |pages=428–465 |doi= 10.2307/2696363|url=http://www.rje.org/abstracts/abstracts/2001/Autumn_2001._pp._Athey.html |jstor=2696363 |hdl=1721.1/63939|citeseerx=10.1.1.727.384}}
-* {{cite journal |author=——— |year=2001 |title=Single Crossing Properties and the Existence of Pure Strategy Equilibria in Games of Incomplete Information |journal=Econometrica |volume=69 |issue=4 |pages=861–890 |doi=10.1111/1468-0262.00223  |citeseerx=10.1.1.35.2 }}
+* {{cite journal |author= |year=2001 |title=Single Crossing Properties and the Existence of Pure Strategy Equilibria in Games of Incomplete Information |journal=Econometrica |volume=69 |issue=4 |pages=861–890 |doi=10.1111/1468-0262.00223  |citeseerx=10.1.1.35.2 }}
 * {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Levin, Jonathan |year=2001 |title=Information and Competition in U.S. Forest Service Timber Auctions |journal=[[Journal of Political Economy]] |volume=109 |issue=2 |pages=375–417 |doi=10.1086/319558 |url= http://nrs.harvard.edu/urn-3:HUL.InstRepos:3612768|hdl=1721.1/63772|s2cid=158932760}}
 * {{cite journal |last=Athey|first=Susan|author-mask=1|author2=Schmutzler, Armin |year=2001 |title=Investment and Market Dominance |journal=RAND Journal of Economics |volume=32 |issue=1 |pages=1–26 |doi= 10.2307/2696395|url=http://www.rje.org/abstracts/abstracts/2001/Spring_2001._pp._Athey.html |jstor=2696395 |citeseerx=10.1.1.190.4998}}
 * {{cite journal |last=Athey|first=Susan|author-mask=1 |author2=Avery, Chris |author3=Zemsky, Peter |year=2000 |title=Mentoring and Diversity |journal=[[American Economic Review]] |volume=90 |issue=4 |pages=765–786 |doi= 10.1257/aer.90.4.765|url=http://www.e-aer.org/archive/9004/90040765.pdf }}
@@ -151,3 +151,4 @@ Athey has been personally named in a group of class actions, notably ''Zakinov v
 [[Category:Nancy L. Schwartz Memorial Lecture speakers]]
 [[Category:20th-century American women]]
 [[Category:Corresponding Fellows of the British Academy]]
+[[Category:21st-century American women]]

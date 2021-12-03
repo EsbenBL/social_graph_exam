@@ -14,7 +14,9 @@
 | nationality      = [[Chile]]an
 | institution      = [[Massachusetts Institute of Technology]]<br/>[[Columbia University]]
 | field            = [[Macroeconomics]]
-| alma_mater       = Massachusetts Institute of Technology
+| alma_mater       = [[Pontificia Universidad Católica de Chile]] ([[B.S.]])<br>
+[[Pontificia Universidad Católica de Chile]] ([[M.A.]])<br>
+[[Massachusetts Institute of Technology]] ([[Ph.D.]])
 | doctoral_advisor = [[Olivier Blanchard]]<ref name="Thesis Supervisors">{{cite thesis |last= Caballero |first= Ricardo J. |date= 1988 |title= The Stochastic Behavior of Consumption and Savings |type= Ph.D. |publisher= [[MIT]] |url= https://dspace.mit.edu/bitstream/handle/1721.1/99793/20002978-MIT.pdf?sequence=1#page=4 |access-date= 17 October 2016 }}</ref><br>[[Stanley Fischer]]<ref name="Thesis Supervisors" />
 | academic_advisors= 
 | doctoral_students= [[Emmanuel Farhi]]<ref>{{cite thesis |last= Farhi |first= Emmanuel |date= 2006 |title= Three essays in macroeconomics |type= Ph.D. |publisher= [[MIT]] |url= https://dspace.mit.edu/bitstream/handle/1721.1/37412/123029488-MIT.pdf?sequence=2 |access-date= 20 Jun 2017 }}</ref>
@@ -26,7 +28,7 @@
 | signature        = <!-- file name only -->
 | repec_prefix = e | repec_id = pca44
 }}
-'''Ricardo Jorge Caballero''' (born 20 October 1959) is a [[Chile]]an [[macroeconomics|macroeconomist]] who holds the Ford International chair of economics at the [[Massachusetts Institute of Technology]]. He is a director of the World Economic Laboratory at MIT and an NBER Research Associate.  Caballero received his PhD from MIT in 1988,<ref>Caballero, Ricardo Jorge (1988), ''The Stochastic Behavior of Consumption and Savings''. Ph.D. dissertation, Massachusetts Institute of Technology.</ref> and he taught at [[Columbia University]] before returning to the MIT faculty.
+'''Ricardo Jorge Caballero''' (born 20 October 1959) is a [[Chile]]an [[macroeconomics|macroeconomist]] who holds the Ford International chair of economics at the [[Massachusetts Institute of Technology]]. He is a director of the World Economic Laboratory at MIT and an NBER Research Associate.  Caballero received his PhD from MIT in 1988,<ref>Caballero, Ricardo Jorge (1988), ''The Stochastic Behavior of Consumption and Savings''. Ph.D. dissertation, Massachusetts Institute of Technology.</ref> and he taught at [[Columbia University]] before returning to the [[Massachusetts Institute of Technology|MIT]] faculty.
 
 Recently, Caballero's work has focused on Risk-Centric Macroeconomics and Safe Assets. He has also studied the [[aggregate behavior]] of economies with [[heterogeneous agents]],<ref>{{Cite journal |first1=R. |last1=Caballero |first2=E. |last2=Engel |year=1999 |title=Explaining investment dynamics in US manufacturing: a generalized (S,s) approach |journal=[[Econometrica]] |volume=67 |issue=4 |pages=783–826 |doi= 10.1111/1468-0262.00053|s2cid=158174490 |url=http://www.nber.org/papers/w4887.pdf }}</ref> the [[macroeconomic]] effects of irreversible investment in firm-specific assets,<ref>{{Cite journal |first1=R. |last1=Caballero |name-list-style=amp |first2=M. |last2=Hammour |year=1998 |title=The macroeconomics of specificity |journal=[[Journal of Political Economy]] |volume=106 |issue=4 |pages=724–767 |doi= 10.1086/250028|s2cid=85507019 |url=http://dspace.mit.edu/bitstream/1721.1/63896/1/macroeconomicsof00caba.pdf }}</ref> and [[Joseph Schumpeter|Schumpeterian]] theories of technological progress through [[creative destruction]].<ref>{{Cite journal |first1=R. |last1=Caballero |name-list-style=amp |first2=M. |last2=Hammour |year=1996 |title=On the timing and efficiency of creative destruction |journal=[[Quarterly Journal of Economics]] |volume= 111|issue= 3|pages=805–852 |doi= 10.2307/2946673 |jstor=2946673 |s2cid=17836698 |url=http://www.nber.org/papers/w4768.pdf }}</ref>
 
@@ -34,7 +36,7 @@ Recently, Caballero's work has focused on Risk-Centric Macroeconomics and Safe A
 
 In 2002, Caballero was awarded the [[Econometric Society]]'s [[Frisch Medal]] with [[Eduardo Engel]] for their paper ''Explaining Investment Dynamics in U.S. Manufacturing: A Generalized (S, s) Approach''.<ref>{{Cite web|url=https://www.econometricsociety.org/society/awards|title=Awards {{!}} The Econometric Society|website=www.econometricsociety.org|access-date=2019-01-19}}</ref>  He was awarded the Smith Breeden Prize by the American Finance Association  for “Collective Risk Management in a Flight to Quality Episode”, Journal of Finance, 63(5), October 2008 (joint with Arvind Krishnamurthy) and the Journal of Finance 2014 Brattle Group Prize for distinguished papers for “Fire Sales in a Model of Complexity,” joint with Alp Simsek.
 
-In April 1998, Caballero was elected a Fellow of the Econometric Society and subsequently of the American Academy of Arts and Sciences in April 2010.
+In April 1998, Caballero was elected a [[Fellow of the Econometric Society]] and subsequently of the [[American Academy of Arts and Sciences]] in April 2010.
 
 ==Selected Readings==
 * Reach for Yield and Fickle Capital Flows (with Alp Simsek) ''AEA Papers and Proceedings'' (2018): 493-498<ref>http://economics.mit.edu/files/15083</ref>

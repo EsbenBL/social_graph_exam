@@ -29,19 +29,17 @@
 | patrons = 
 | education = 
 | alma_mater = [[McGill University]]
-| thesis_title = <!--(or  | thesis1_title =  and  | thesis2_title = )-->
-| thesis_url = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
-| thesis_year = <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
-| doctoral_advisor = <!--(or  | doctoral_advisors = )-->
-| academic_advisors = [[Brenda Milner]]
-| doctoral_students = 
+| thesis_title = Visual and auditory perception after temporal-lobe damage
+| thesis_url = http://www.worldcat.org/oclc/893210704
+| thesis_year = 1961
+| doctoral_advisor = [[Brenda Milner]]
+| academic_advisors = Woodburn Heron 
+| doctoral_students = [[Liisa Galea]]
 | notable_students = 
 | known_for = 
 | influences = 
 | influenced = 
 | awards = Donald O. Hebb Award for Distinguished Contributions to Canadian Psychology as a Science
-| author_abbrev_bot = 
-| author_abbrev_zoo = 
 | spouse = <!--(or | spouses = )-->
 | partner = <!--(or | partners = )-->
 | children = 1

@@ -193,17 +193,18 @@ His works and writings were collected in {{Cite book |title=The works and corres
 * [[Critique of political economy]]
 
 == References ==
+=== Citations ===
+{{Reflist}}
 
-===Notes===
-{{Reflist|30em}}
-
-===Bibliography===
+=== Sources ===
 {{Library resources box|by=yes|about=yes}}
-* {{citation |last1=Case |first1=Karl E. |last2=Fair |first2=Ray C. |year=1999 |title=Principles of Economics |edition= 5th |publisher=Prentice-Hall |isbn=0-13-961905-4}}
+{{refbegin}}
+* {{citation |last1 = Case |first1 = Karl E. |last2 = Fair |first2 = Ray C. |year = 1999 |title = Principles of Economics |edition = 5th |publisher = Prentice-Hall |isbn = 0-13-961905-4 }}
 * [[Samuel Hollander]] (1979). ''The Economics of David Ricardo''. [[University of Toronto Press]].
-* G. de Vivo (1987). "Ricardo, David," ''[[The New Palgrave: A Dictionary of Economics]]'', v. 4, pp.&nbsp;183–98
-* {{citation|doi=10.1016/B0-08-043076-7/00324-7|chapter=Ricardo, David (1772–1823)|title=International Encyclopedia of the Social & Behavioral Sciences|pages=13330–13334|year=2001|last1=Samuelson|first1=P.A.|author-link=Paul Samuelson|isbn=9780080430768}}
-* {{in lang|fr}} [[Éric Pichet]], [https://web.archive.org/web/20071012163459/http://www.lesiecle.fr/economiste_david_riccarddo.html ''David RICARDO, le premier théoricien de l'économie''], Les éditions du siècle, 2004*
+* G. de Vivo (1987). "Ricardo, David," ''[[The New Palgrave: A Dictionary of Economics]]'', v. 4, pp.&nbsp;183–98.
+* {{citation |doi = 10.1016/B0-08-043076-7/00324-7 |chapter = Ricardo, David (1772–1823) |title = International Encyclopedia of the Social & Behavioral Sciences |pages = 13330–13334 |year = 2001 |last = Samuelson |first = P. A. |author-link = Paul Samuelson |isbn = 9780080430768 }}
+* {{in lang|fr}} [[Éric Pichet]], [https://web.archive.org/web/20071012163459/http://www.lesiecle.fr/economiste_david_riccarddo.html ''David RICARDO, le premier théoricien de l'économie''], Les éditions du siècle, 2004.
+{{refend}}
 
 ==External links==
 {{Commons category}}

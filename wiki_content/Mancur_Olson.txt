@@ -42,12 +42,12 @@ To honor Olson's many contributions, the [[American Political Science Associatio
 ==Selected works==
 
 ===Books===
-* {{cite book|title=The Logic of Collective Action: Public Goods and the Theory of Groups|date=1965|publisher=Harvard University Press|location=Cambridge, MA|isbn=0-674-53751-3|url=https://archive.org/details/logicofcollectiv00olso_0}}
-* {{cite book|title=The No-growth society|date=1974|publisher=Norton|location=New York, NY|isbn=0-393-01111-9}}
-* {{cite book|title=A New approach to the economics of health care|date=1981|publisher=American Enterprise Institute for Public Policy Research|location=Washington, D.C.|isbn=0-844-72212-X}}
-* {{cite book|title=The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities|date=1982| publisher=Yale University Press|location=New Haven|isbn=978-0300030792|url=https://books.google.com/books?id=vKxxtjJz--wC}}
-* {{cite book|title=A Not-so-dismal Science: A Broader View of Economies and Societies|date=2000|publisher=Oxford University Press|location=Oxford; New York|isbn=0-198-29369-0}}
-* {{cite book|title=Power and Prosperity: Outgrowing Communist and Capitalist Dictatorships|date=2000|publisher=Basic Books|location=New York|isbn=0-465-05195-2|url = https://books.google.com/books?id=BnZrRB5e8n4C}}
+* {{Cite book |url=https://archive.org/details/logicofcollectiv00olso_0 |title=The Logic of Collective Action: Public Goods and the Theory of Groups |date=1965 |publisher=Harvard University Press |isbn=0-674-53751-3 |location=Cambridge, MA}}
+* {{Cite book |url=https://www.google.com/books/edition/The_No_Growth_Society/KcZ_AAAAQBAJ |title=The No-Growth Society |date=1974 |publisher=Norton |isbn=0-393-01111-9 |location=New York, NY}}
+* {{Cite book |url=https://www.google.com/books/edition/_/U3oHlwEACAAJ |title=A New Approach to the Economics of Health Care |date=1981 |publisher=American Enterprise Institute for Public Policy Research |isbn=0-844-72212-X |location=Washington, D.C.}}
+* {{Cite book |url=https://books.google.com/books?id=vKxxtjJz--wC |title=The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities |date=1982 |publisher=Yale University Press |isbn=978-0300030792 |location=New Haven}}
+* {{Cite book |url=https://www.google.com/books/edition/A_Not_so_dismal_Science/xScTDAAAQBAJ |title=A Not-so-dismal Science: A Broader View of Economies and Societies |date=2000 |publisher=Oxford University Press |isbn=0-198-29369-0 |location=Oxford; New York}}
+* {{Cite book |url=https://www.google.com/books/edition/Power_And_Prosperity/VJejswEACAAJ |title=Power and Prosperity: Outgrowing Communist and Capitalist Dictatorships |date=2000 |publisher=Basic Books |isbn=0-465-05195-2 |location=New York}}
 
 ===Articles===
 * {{cite journal|title=Towards a Mature Social Science|journal=International Studies Quarterly|date=March 1983|volume=27|issue=1|pages=29–37|jstor=2600617|doi=10.2307/2600617|last1=Olson|first1=Mancur}}
