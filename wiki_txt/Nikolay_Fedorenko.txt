@@ -1,0 +1,63 @@
+Nikolay Prokofyevich Fedorenko (Russian: Никола́й Проко́фьевич Федоренко) (26 April/28 April 1917 – 1 April 2006) was a Russian economist and chemist. He was the head of the Central Economic Mathematical Institute (CEMI) in Moscow from 1963 to 1985.
+
+
+== Biography ==
+Fedorenko graduated from Moscow Institute of Fine Chemical Technologies.
+His name is associated with an economic planning methodology used in the former Soviet Union and known as the System of Optimal Functioning of the Economy (SOFE). During the Soviet period SOFE was a controversial approach using mathematical planning methods in order to improve the central planning system (see Jürgen Drzymalla (1991), pp. 239 and pp. 297). These methods were based on the idea of linear programming or "optimal planning", associated with L.V. Kantorovich.
+In 1971 N.P. Fedorenko presented a system of 'objective-directed' plan models, consisting of 17 components:
+1. Long-run forecasts, 
+2. Objectives
+3. Elaboration of programmes,
+4. Resources,
+5. 'Objective-oriented' programmes,
+6. Requirements in resources,
+7. Evaluation of programmes from the point of view of objectives and resources ,
+8. Adoption of programmes,
+9. Elaboration of resource-programmes,
+10. Resource programmes,
+11. 'Complex-system' plan,
+12. Models of sub-optimization, sectoral and regional,
+13. Macro-models of overall optimization (national economy), 
+14. System of intersectoral and interregional models, including the intersectoral and interregional 'balance',
+15. Social balance of plans. 
+16. Extra-economic resources,
+17. The system's operation.
+(Source:  N.P. Fedorenko, in EMM [Economika i matemateskie metody], 4 (1971), quoted by Alfred Zauberman (1975), p. 491)
+Alfred Zauberman presents a graphical design of this complex planning system with boxes and relation arrows.
+The SOFE approach was sharply criticized by Soviet economists such as Bojarskij, who was a Soviet mathematical economist (see Pekka Sutela (1984), p.95). Many of them saw the mathematical methods as being too close to Western economic approaches. They were afraid that Soviet political economic theory would disappear behind the mathematical formulas, and that the Soviet economic theory would finally be assimilated into Western economic theory, which also uses well known mathematical formulas in microeconomics, macroeconomics, game theory, distribution theory and others.
+M. Bor and S. Logvinov wrote in an article in the GOSPLAN (the former Soviet planning authority's) journal, that SOFE had to be condemned as: 
+"an attempt to introduce a special concept of 'optimal planning', calculated to supplant the supposedly non-scientific system of empirical planning; striving to unite vulgar utility theory with the labour theory of value, to present price as a measure of utility; ignoring the principle of democratic centralism as the basis of the socialist theory, exchanging it for the so-called principle of hierarchical structure; borrowing notions from bourgeois theories (marginal utility theory, the notion of market socialism and the theory of factors of production, the ideal of automatic regulation of the socialist economy by 'optimal plan prices'); denying the laws of reproduction; and gradually exchanging the Marxist-Leninist theory of reproduction for the bourgeois theory of equilibrium". (see M. Bor and S. Logvinov (1975), quoted by Pekka Sutela (1991), p. 87)
+Another Soviet planning economist N.Baibakov regarded SOFE as a suspect theoretical construct. (see N. Baibakov (1974), quoted by Sutela Pekka pp.86)
+It should be mentioned, that Karl Marx has also used mathematical methodes in order to analyze the capitalist economic system. For example, he discussed the form of goods circulation with simple formulas W-G-W or G-W-G (see Karl Marx (2020), pp, 149), or the ratio of added value m/c or m/(c+v) (see pp. 210) and the exploitation level of work force, as well as ratio and mass of additional value  M = m/v x V; k x a´/a x n (see pp. 292). These formulas are far away to be really complex, but Karl Marx used them in order to get a better understanding, how - according to his ideas - the capitalist system works. Nobody can imagine, how political economics without any formulas could really work.
+We come back to Soviet economics and the SOFE concept.
+An innovative feature of the SOFE approach was its vision of connecting together the different levels of the national economy with computers, which would carry out the calculation of the mathematical planning formulas. This was a precursor of the use of the internet. The idea of using mathematical planning methods and computers remains valid even in today's globalized economy. The corona crisis in 2020 also requires mathematical analysis and forecasting at national, regional and global level.
+Despite all ideological attacks Fedorenko remained in his position in CEMI. A Doctor of Economic Sciences, he also was an Honorary Director of CEMI since 1992, a member of the American Econometric Society (from 1966), a member of the International Economical Society (from 1967) and an Honorary Director of the Warsaw School of Planning and Statistics.
+He has written several books and many articles on optimal planning and SOFE, mostly in Russian, some translated into English.
+The periodical EMM Ekonomika i matematiceskie metody still exists and is issued by the Russian Academy of Sciences now.
+
+
+== See also ==
+Econometrics
+
+
+== References ==
+
+
+== Further reading ==
+Baibakov, N,  'Dalneyshee sovershenstvovanie planirovaniya - vazhneyshaya narodnokhoziaistvennaya zadach', Planovoe Khzyaistvo, 1974m 4, 5-13, quoted by Sutela Pekka (1991), p. 177.
+Bor M. and Logvinov S., 'O Knigakh 'Kompleksnoe narodnokhozyaistvennoe planirovanie' i 'Problemy planirovaniya i prognozirovaniya', Planovoe Khozyaistvo, 1975:9, 134-141, quoted by Sutela Pekka (1991), p. 177.
+Drzymalla, Jürgen (1991), Planung im sowjetischen Wirtschaftssystem,(Diss.), Frankfurt/M., Bern, New York, Paris 1991.
+Fedorenko, N.P., EMM [Ekonomika i matematiceskie metody] 4 (1971), p. 491, quoted by Alfred Zauberman (1975), p. 49.
+Feodorenko, N.P., Nekotorye voprosy teorii i praktiki planirovanija i upravlenia, Moskva 1979.
+Fedorenko, N.P., Ju. V. Ovsienko, N. Ja. Petrakov (1983), Vvedenie v teoriju i metodologiju sistemy optimal'nogo funkcionirovanija socialisticeskoj ekonomiki, Moskva 1983.
+Fedorenko,N.P., N. Ja. Petrakov (1984), Modelirovanie v processach upravlenija narodnym chozjajstvom, Moskva 1984.
+Fedorenko, N.P., I.P. Subkinaja (1983), Ekonomiko-matematiceskie modeli v sisteme upravlenia predprijatijami, Moskva 1983.
+Götz, Roland (1972), Preis und optimale Planung. Zur Diskussion in der Sowjetunion, (Diss.), München 1972.
+Marx, Karl (2020), Das Kapital, Munich 2020.
+Sutela, Pekka (1984), Socialism, Planning and Optimality: A Study in Soviet Economic Thought, Helsinki 1984.
+Sutela, Pekka (1991), Economic Thought and Economic Reform in the Soviet Union, Cambridge University Press 1991.
+Zaubermann, Alfred (1975), The Mathematical Revolution in Soviet Economics, London, New York, Toronto 1975.
+
+
+== External links ==
+Webpage of the Russian Academy of Sciences, devoted to Fedorenko

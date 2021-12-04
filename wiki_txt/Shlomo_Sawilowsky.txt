@@ -1,0 +1,60 @@
+Shlomo S. Sawilowsky was professor of educational statistics and Distinguished Faculty Fellow at Wayne State University in Detroit, Michigan, where he has received teaching, mentoring, and research awards.
+
+
+== Academic career ==
+Sawilowsky obtained his Ph.D. in 1985 at the University of South Florida. He was inducted into the USF chapter of the Phi Kappa Phi honor society on May 17, 1981, when he received his M.A. In 2008 Sawilowsky served as president of the American Educational Research Association Special Interest Group/Educational Statisticians. He served as an Assistant Dean in the College of Education at WSU. Along with Miodrag Lovric (Serbia) and C. R. Rao (India), he was nominated for the 2013 Nobel Peace Prize for his contributions to the International Encyclopedia of Statistical Science.
+
+
+== Contributions to applied statistics and social/behavioral sciences ==
+In 2000, the AMSTAT News, a publication of the American Statistical Association, described Professor Sawilowsky's award of Distinguished Faculty Fellow "in recognition of Sawilowsky's outstanding scholarly achievements in applied statistics, psychometrics, and experimental design in education and psychology."
+
+
+=== Applied statistics ===
+He is the author of a statistics textbook that presents statistical methods via Monte Carlo simulation methods, editor of a volume on real data analysis published by the American Educational Research Association SIG/Educational Statisticians, and author of over a hundred articles in applied statistics and social sciences journals. Sawilowsky has also authored 24 entries in statistics encyclopedias.
+His presentation titled "The Rank Transform," with co-author R. Clifford Blair, was awarded the 1985 Florida Educational Research Association & 1986 American Educational Research Association State/Regions Distinguished Paper Award. Many of his publications are related to rank-based nonparametric statistics. For example, an examination of the robustness and comparative power properties of the rank transform statistic was called a "major Monte Carlo study". Hettmansperger and McKean stated that Sawilowsky provided "an excellent review of nonparametric approaches to testing for interaction" (p. 254-255).Sawilowsky's Monte Carlo work has been cited as an exemplar for designing simulation studies. His work has been cited on a variety of statistical issues, such as
+
+demonstrating sequential procedures of testing underlying assumptions of parametric tests, commonly recommended in textbooks and statistics software user manuals, "increases the rate of Type I error";
+rounding down degrees of freedom when using tabled critical values decreases statistical power;
+alternatives to the winsorized sample standard deviation can be invoked to increase the statistical power of Yuen's confidence interval;
+maximum likelihood methods (e.g., one-step Huber) are superior to trimming in constructing robust estimators;
+using effect sizes obtained when the null hypothesis has been retained inflates Type I errors in meta-analysis; and
+setting the standards for an appropriate Monte Carlo simulation.
+
+
+=== Psychometrics ===
+In psychological testing, Sawilowsky is a co-author of two self-determination  assessment batteries; an instrument designed to assess locus of control, self-esteem, and self-concept among at-risk adolescents; an instrument "which measures future orientation, knowledge of the realities of child rearing, personal intentions, and sexual self-efficacy;" and a college well-being instrument. Sawilowsky was the initial proponent in favor of psychometric theory (reliability refers to the test) over datametric theory (reliability refers to the data), a controversy with implications for test theory, role of tests in expert testimony, test validity, etc. The debate was discussed in Educational and Psychological Measurement and elsewhere. Although the issue has not been resolved, the current non-aligned opinion "lean[s] toward the Sawilowsky position." In classical test theory, he developed the Sawilowsky I test, a statistical test used to help demonstrate evidence of construct validity in the multitrait-multimethod matrix.
+
+
+=== Experimental design ===
+Sawilowsky's Monte Carlo work on comparing randomized vs quasi-experimental design has been described as "one of the strongest examples" demonstrating limitations of quasi-experimental design, and "provides possibly one of the strongest cases for the superiority of randomized designs."
+
+
+== Mentorship ==
+In 1998, the AMSTAT News reported Sawilowsky's Awards for Excellence in Teaching, and Graduate Mentorship, and noted "Professor Sawilowsky's exceptional record as an academician is reflected in the excellence with which he mentors graduate students." He has mentored 109 doctoral dissertations as major professor according to the Mathematics Genealogy Project.ProQuest indicates he has chaired dissertations in many other fields, such as kinesiology, nursing education, and teacher education; and co-chaired a dissertation on process drama. He also served as 2nd advisor on many doctoral dissertations, and numerous more as a committee member.
+
+
+== Editorship ==
+Sawilowsky is the founder and editor of the Journal of Modern Applied Statistical Methods. It was created to provide an outlet for research using Monte Carlo and other resampling methods, nonparametric and other robust methods, permutation and other exact or approximately exact methods, and statistical algorithms.
+
+
+== Publications ==
+Books
+
+2007. (Ed.) Real data analysis. A Volume in Quantitative Methods in Education and the Behavioral Sciences: Issues, Research, and Teaching, American Educational Research Association Educational, Educational Statisticians. Greenwich, CT: Information Age Publishing.
+2007. (With editorial assistance by Yechiel Conway.) Making the Shabbos kitchen.  Lakewood, NJ: Pirchei Shoshanim.
+2002. (With G. F. Fahoome). Statistics via Monte Carlo simulation with Fortran. Rochester Hills, MI: JMASM.Selected Articles [1]
+
+
+== Rabbinical studies and contributions to the Judaica literature ==
+After graduating from the Rabbinical College of America in 1979, Sawilowsky was the emissary of the Grand Rabbi of Lubavitch, Rabbi Menachem Mendel Schneerson, to Pinellas County, Florida. He also obtained a rabbinical degree from Yeshivas Pirchei Shoshanim (Jerusalem, Israel) in 2004, after having studied with the first group of students ever to receive strictly Orthodox Rabbinical ordination curricula on the laws of the Jewish Sabbath delivered via e-mail.Sawilowsky is the author of a textbook written in dialogue format for preparing food and other matters related to the kitchen for the Sabbath. It is based on the Talmud, Code of Jewish Law (Shulchan Aruch), and Ashkenaz, Sephardi, and Chabad customs. He has published articles on Bible commentary and related topics in the annual journal of Pirchei Shoshanim.
+
+
+=== Selected Judaica ===
+
+
+== References ==
+
+
+== External links ==
+Shlomo Sawilowsky at the Mathematics Genealogy Project
+Journal of Modern Applied Statistical Methods
