@@ -21,7 +21,7 @@
 |known_for         = [[Parenting styles]]
 |author_abbrev_bot =
 |author_abbrev_zoo =
-|influences        = [[Theodor Adorno]]<br>[[Else Frenkel-Brunswik]]<br>[[Daniel J. Levinson]]<br>[[Nevit Sanford]]<br>[[Egon Brunswik]]<br>[[David Krech]]<br>[[Richard S. Crutchfield]]
+|influences        = [[Theodor Adorno]]<br>[[Else Frenkel-Brunswik]]<br>[[Egon Brunswik]]<br>[[David Krech]]
 |influenced        =
 |awards            =<ref name="death">{{cite web |last1=Raguso |first1=Emilie |title=Elderly driver who killed renowned psychologist in crash to appear in court |url=https://www.berkeleyside.com/2020/02/24/elderly-driver-who-killed-renowned-berkeley-psychologist-in-crash-to-appear-in-court |website=Berkeleyside |accessdate=25 February 2020 |date=24 February 2020}}</ref>
 |religion          =
@@ -31,8 +31,7 @@
 
 '''Diana Blumberg Baumrind''' (August 23, 1927 &ndash; September 13, 2018)<ref>{{cite web |last1=Vande Kemp |first1=Hendrika |title=Diana Baumrind death 9/13/2018 |url=https://groups.google.com/forum/#!topic/cheiron-forum/SasIGlHuzt8 |website=Cheiron Forum: Google Groups |accessdate=25 February 2020 |date=19 September 2018}}</ref> was a [[clinical psychology|clinical]] and [[developmental psychology|developmental psychologist]] known for her research on [[parenting styles]] and for her [[critique]] of the [[Deception#In psychological research|use of deception in psychological research]].
 
-==Life==
-
+==Early life and education==
 Baumrind was born into a Jewish community in [[New York City]], the first of two daughters of Hyman and Mollie Blumberg. She completed her B.A. in Psychology and Philosophy at [[Hunter College]] in 1948, and her M.A. and Ph.D. in Psychology at the [[University of California, Berkeley]].<ref name="ParenthoodInAmerica"/>  Her doctoral dissertation was entitled "Some personality and situational determinants of behavior in a discussion group".<ref>{{Cite journal
   |author=Diana Baumrind
   |title=Some personality and situational determinants of behavior in a discussion group
@@ -46,6 +45,7 @@ Baumrind was born into a Jewish community in [[New York City]], the first of two
   | page = 133
   }}</ref>
 
+==Career==
 After being awarded her doctorate she served as a staff psychologist at [[Cowell Memorial Hospital]] in [[Berkeley, California|Berkeley]].  She was also director of two [[United States Public Health Service|U. S. Public Health Service]] projects and a consultant on a [[California]] state project.  From 1958-1960 she also had a private practice in Berkeley.<ref>{{cite magazine
   | title = The Authors
   | magazine = Children
@@ -67,7 +67,7 @@ Baumrind defined three parenting styles:
 
 Baumrind studied the effects of [[Corporal punishment in the home|corporal punishment]] on children, and concluded that mild spanking, in the context of an authoritative (''not'' authoritarian) parenting style, is unlikely to have a significant detrimental effect, if one is careful to control for other variables such as socioeconomic status.<ref>{{cite news |title= Findings Give Some Support To Advocates of Spanking |url=https://www.nytimes.com/2001/08/25/us/findings-give-some-support-to-advocates-of-spanking.html |work=[[The New York Times]] |date=2001-08-25 |accessdate=2008-04-07 | first=Erica | last=Goode}}</ref>  She observed that previous studies demonstrating a correlation between corporal punishment and bad outcomes failed to control for variables such as socioeconomic status.  Low-income families are more likely to employ corporal punishment compared with affluent families.  Children from low-income neighborhoods are more likely to commit violent crimes compared with children from affluent neighborhoods.  But Baumrind believed that when appropriate controls are made for family income and other independent variables, mild corporal punishment per se does not increase the likelihood of bad outcomes.<ref>{{cite journal |vauthors=Baumrind D, Larzelere RE, Cowan PA |title=Ordinary physical punishment: is it harmful? Comment on Gershoff (2002) |journal=Psychol Bull |volume=128 |issue=4 |pages=580–9 |date=July 2002 |pmid=12081082 |doi=10.1037/0033-2909.128.4.580 |url=http://www.apa.org/journals/releases/bul1284580.pdf}}</ref>  This assertion has in turn attracted criticism and counterpoints from other researchers in the same publication, for example:  Whether harmful or not, there is still no consistent evidence of beneficial effects.<ref>{{cite journal |last=Gershoff |first=Elizabeth |year=2002  |title=Corporal Punishment, Physical Abuse, and the Burden of Proof: Reply to Baumrind, Larzelere, and Cowan (2002), Holden (2002), and Parke (2002) |journal=Psychological Bulletin |volume=128 |issue=4 |pages=602–611 |url=http://www.apa.org/journals/releases/bul1284602.pdf |doi=10.1037/0033-2909.128.4.602}}</ref>
 
-She was influenced in her studies by [[Theodor Adorno]], [[Else Frenkel-Brunswik]], [[Daniel J. Levinson]], [[Nevit Sanford]], [[Egon Brunswik]], [[David Krech]], [[Richard S. Crutchfield]]<ref name="ParenthoodInAmerica">{{Cite encyclopedia
+She was influenced in her studies by [[Theodor Adorno]], [[Else Frenkel-Brunswik]], [[Egon Brunswik]], and [[David Krech]]<ref name="ParenthoodInAmerica">{{Cite encyclopedia
   | first1 = Hendrika
   | last1 = Vande Kemp
   | title = Baumrind, Diana Blumberg

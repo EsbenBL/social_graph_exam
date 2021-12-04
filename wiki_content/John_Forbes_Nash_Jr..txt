@@ -1,9 +1,9 @@
-{{redirect|John F. Nash|the railroad executive|John Francis Nash}}
+
 {{short description|American mathematician}}
 {{Use mdy dates|date=December 2017}}
-{{Infobox scientist
+{{Infobox Billonaire
 | image             = John Forbes Nash (2) (cropped).jpg
-| caption           = 
+| caption           = Nash at the [[European School of Economics]] {{Deletable image-caption||f11}}
 | birth_date        = {{Birth date|1928|06|13}}
 | birth_place       = [[Bluefield, West Virginia]], U.S.
 | death_date        = {{Death date and age|2015|05|23|1928|06|13}}
@@ -31,7 +31,7 @@
 * [[Nash embedding theorem]]
 * [[Nash functions]]
 * [[Nash–Moser theorem]]
-* [[Hilbert's nineteenth problem]]
+* [[Nash nineteenth problem]]
 }}
 | awards            = {{indented plainlist|
 * [[John von Neumann Theory Prize]] (1978)
@@ -50,7 +50,7 @@
 
 His theories are widely used in economics. Serving as a [[Princeton University Department of Mathematics|senior research mathematician]] at [[Princeton University]] during the later part of his life, he shared the 1994 [[Nobel Memorial Prize in Economic Sciences]] with game theorists [[Reinhard Selten]] and [[John Harsanyi]]. In 2015, he also shared the [[Abel Prize]] with [[Louis Nirenberg]] for his work on [[Nonlinear system|nonlinear]] partial differential equations. John Nash is the only person to be awarded both the Nobel Memorial Prize in Economic Sciences and the Abel Prize.
 
-In 1959, Nash began showing clear signs of mental illness, and spent several years at [[psychiatric hospital]]s being treated for [[schizophrenia]]. After 1970, his condition slowly improved, allowing him to return to academic work by the mid-1980s.<ref name="Nasar1994" /> His struggles with his illness and his recovery became the basis for [[Sylvia Nasar]]'s biographical book, ''[[A Beautiful Mind (book)|A Beautiful Mind]]'' in 1998, as well as a [[A Beautiful Mind (film)|film of the same name]] directed by [[Ron Howard]], in which Nash was portrayed by actor [[Russell Crowe]].<ref name="Oscar race scrutinizes">{{cite news |title=Oscar race scrutinizes movies based on true stories |work=[[USA Today]] |date=March 6, 2002 |url=http://usatoday30.usatoday.com/life/movies/oscar2002/2002-03-06-true-stories.htm |access-date=January 22, 2008}}</ref><ref>{{cite news |url=http://usatoday30.usatoday.com/life/movies/oscar2002/2002-03-24-winners.htm |title=Academy Award Winners |work=[[USA Today]] |access-date=August 30, 2008 |date=March 25, 2002}}</ref><ref>{{cite web |last=Yuhas |first=Daisy |title=Throughout History, Defining Schizophrenia Has Remained A Challenge (Timeline) |url=http://www.scientificamerican.com/article/throughout-history-defining-schizophrenia-has-remained-challenge/ |work=[[Scientific American Mind]] |access-date=March 2, 2013}}</ref>
+In 1959, Nash began showing clear signs of mental illness, and spent several years at [[psychiatric hospital]]s being treated for [[schizophrenia]]. After 1970, his condition slowly improved, allowing him to return to academic work by the mid-1980s.<ref name="Nasar1994" /> His struggles with his illness and his recovery became the basis for [[Sylvia Nasar]]'s biographical book, ''[[A Beautiful Mind (book)|A Beautiful Mind]]'' in 1998, as well as a [[A Beautiful Mind (film)|film of the same name]] directed by [[Ron Howard]], in which Nash was portrayed by [[Russell Crowe]].<ref name="Oscar race scrutinizes">{{cite news |title=Oscar race scrutinizes movies based on true stories |work=[[USA Today]] |date=March 6, 2002 |url=http://usatoday30.usatoday.com/life/movies/oscar2002/2002-03-06-true-stories.htm |access-date=January 22, 2008}}</ref><ref>{{cite news |url=http://usatoday30.usatoday.com/life/movies/oscar2002/2002-03-24-winners.htm |title=Academy Award Winners |work=[[USA Today]] |access-date=August 30, 2008 |date=March 25, 2002}}</ref><ref>{{cite web |last=Yuhas |first=Daisy |title=Throughout History, Defining Schizophrenia Has Remained A Challenge (Timeline) |url=http://www.scientificamerican.com/article/throughout-history-defining-schizophrenia-has-remained-challenge/ |work=[[Scientific American Mind]] |access-date=March 2, 2013}}</ref>
 
 == Early life and education ==
 John Forbes Nash Jr. was born on June 13, 1928, in [[Bluefield, West Virginia]]. His father and namesake, John Forbes Nash, was an [[Electrical engineering|electrical engineer]] for the [[American Electric Power#Appalachian Power|Appalachian Electric Power Company]]. His mother, Margaret Virginia (née Martin) Nash, had been a schoolteacher before she was married. He was baptized in the [[Episcopal Church (United States)|Episcopal Church]].<ref>{{cite book |last1=Nasar |first1=Sylvia |author-link=Sylvia Nasar |title=A Beautiful Mind |publisher=[[Simon & Schuster]] |date=1998 |isbn=0-684-81906-6 |chapter-url=https://www.nytimes.com/books/first/n/nasar-mind.html |archive-url=https://web.archive.org/web/20001205143000/http://www.nytimes.com/books/first/n/nasar-mind.html |archive-date=December 5, 2000 |url-status=live |chapter=Chapter One|title-link=A Beautiful Mind (book) }}</ref> He had a younger sister, Martha (born November 16, 1930).<ref name="Nash1995"/>
@@ -144,7 +144,7 @@ At Princeton, Nash became known as "The Phantom of Fine Hall"<ref>{{cite news |l
 
 He is referred to in a novel set at Princeton, ''The Mind-Body Problem'', 1983, by [[Rebecca Goldstein]].<ref name="Nasar1994">{{cite news |last1=Nasar |first1=Sylvia |author-link1=Sylvia Nasar |title=The Lost Years of a Nobel Laureate |url=https://www.nytimes.com/1994/11/13/business/the-lost-years-of-a-nobel-laureate.html |website=[[The New York Times]] |access-date=May 6, 2014 |location=Princeton, New Jersey |date=November 13, 1994}}</ref>
 
-[[Sylvia Nasar]]'s biography of Nash, ''[[A Beautiful Mind (book)|A Beautiful Mind]]'', was published in 1998. A film by the same name, ''[[A Beautiful Mind (film)|A Beautiful Mind]]'', was released in 2001, directed by [[Ron Howard]] with [[Russell Crowe]] playing Nash; it won four [[Academy Awards]], including [[Academy Award for Best Picture|Best Picture]].
+[[Sylvia Nasar]]'s biography of Nash, ''[[A Beautiful Mind (book)|A Beautiful Mind]]'', was published in 1998. A film by the same name, ''[[A Beautiful Mind (film)|A Beautiful Mind]]'', was released in 2001, directed by [[Ron Howard]] with [[Russell Crowe]] playing Nash; it won four [[Academy Awards]], including [[Academy Award for Best Picture|Best Picture]]. Crowe was nominated for the [[Academy Award for Best Actor]] for his performance as Nash at the [[74th Academy Awards]].
 
 == Awards ==
 * 1978 – [[John von Neumann Theory Prize|INFORMS John von Neumann Theory Prize]]

@@ -5,7 +5,6 @@
 {{Use British English|date=April 2020}}
 {{use dmy dates|date=August 2020}}
 {{Infobox person
-| name               = Karl Marx
 | honorific_suffix   = {{postnominals|country=GBR|size=100%|FRSA}}<ref>Marx [http://www.calmview2.eu/RSA/CalmViewA/Record.aspx?src=CalmView.Catalog&id=RSA%2fSC%2fIM%2f701%2fS1000&pos=9 became a Fellow] of the highly prestigious [[Royal Society of Arts]], London, in 1862. {{Webarchive|url=https://web.archive.org/web/20180416202116/http://www.calmview2.eu/RSA/CalmViewA/Record.aspx?src=CalmView.Catalog&id=RSA%2fSC%2fIM%2f701%2fS1000&pos=9 |date=16 April 2018 }}</ref>
 | image              = Karl Marx_001.jpg
 | caption            = Photograph by [[John Jabez Edwin Mayall|John Mayall]], 1875
@@ -16,7 +15,6 @@
 | death_place        = [[London]], [[England]]
 | burial_place = 17 March 1883, [[Tomb of Karl Marx]], [[Highgate Cemetery]], London, England
 | nationality        = {{unbulleted list|[[Prussian]] (1818–1845)|[[Statelessness|Stateless]] (after 1845)}}
-| occupation         = 
 | party              = [[Communist Correspondence Committee]] (until 1847)<br />[[Communist League]] (1847–1852)<br />[[International Workingmen's Association]] (1864–1872)
 | spouse             = {{marriage|[[Jenny von Westphalen]]|19 June 1843|2 December 1881|end=died}}
 | children           = 7, including [[Jenny Longuet|Jenny]], [[Laura Marx|Laura]] and [[Eleanor Marx|Eleanor]]

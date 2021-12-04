@@ -1,0 +1,118 @@
+{{Infobox economist
+| name = Charles F. Manski
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| native_name = 
+| native_name_lang = 
+| birth_date = {{birth date and age|1948|11|27}}
+| birth_place = 
+| death_date = 
+| death_place = 
+| resting_place = 
+| resting_place_coordinates =  <!-- (use {{coord ...}}) -->
+| citizenship = [[United States]]
+| nationality = 
+| institution = [[Northwestern University]]<br>[[University of Wisconsin-Madison]]<br>[[Hebrew University of Jerusalem]]<br>[[Carnegie-Mellon University]]
+| field = [[Econometrics]]
+| school_tradition = 
+| alma_mater = [[Massachusetts Institute of Technology]]<br>[[Boston Latin School]]
+| doctoral_advisor = [[Franklin M. Fisher]]
+| academic_advisors =
+| doctoral_students = [[Francesca Molinari]]
+| notable_students =
+| influences = 
+| influenced = 
+| contributions = 
+| awards = 
+| memorials = 
+| spouse =            <!-- or: | spouses =  -->
+| signature =         <!-- filename only -->
+| url = 
+| module = 
+| repec_prefix = e
+| repec_id = pma111
+| notes = 
+}}
+'''Charles Frederick Manski''' (born November 27, 1948 in Boston), is Professor of [[Economics]] at [[Northwestern University]], an econometrician in the realm of [[rational choice theory]], and an innovator in the arena of [[identification (parameter)|parameter identification]].<ref name = "partialidentification">Charles Manski, Partial Identification of Probability Distributions, New York: Springer-Verlag, 2003.</ref> His research spans [[econometrics]], judgment and [[decision making|decision]], and the analysis of [[social policy]] (such as work on [[school choice]]). A specialist in [[prediction]] and [[decision making|decision]], he is known within the economics field for landmark work on [[partial identification]], identification of [[discrete choice]] models, and identification of [[social interactions]]. He has also performed substantial empirical research on measurement of expectations in surveys.
+
+Manski was predicted to win the Nobel Prize in 2015 by [[Reuters]] along with two other economists.  Chicago economist [[John A. List]] for his work on field experiments and English economist [[Richard Blundell]], for his work on labor markets were also listed as favorites to win a future Nobel Prize.
+
+== Early life ==
+He is the son of Holocaust survivor and [[Chiune Sugihara|Sugihara]] visa recipient Samuil Manski<ref>{{cite book |last=Manski |first=Samuil |title=With God's Help |year=1990 |url=http://faculty.wcas.northwestern.edu/~cfm754/with_god's_help.html |access-date=2019-06-16}}</ref> and Estelle Zonn Manski. He grew up in Dorchester and West Roxbury, both in Massachusetts, attended [[Boston Latin School]], and spent many afternoons in the family diner.<ref>{{Cite web|url = http://www.charlesmanski.com/|title = CharlesManski.com|access-date = October 9, 2015}}</ref> One day, while leading a [[Torah]] reading, he had an epiphany that led him away from religious studies and towards scientific skepticism:<blockquote>"[I] learned something about why dogmas can be tenacious and irreconcilable. Many doctrines pose nonrefutable hypotheses. That is, they make statements about the world that are impossible to disprove. For example, it is impossible to disprove the hypothesis that the god of the Torah created the universe in six days and then rested on the seventh day. It is similarly impossible to disprove the hypothesis that the universe was created by the [[Flying Spaghetti Monster]]."<ref>{{Cite journal|url = http://faculty.wcas.northwestern.edu/~cfm754/unlearning&discovery.pdf|title = Unlearning and Discovery|last = Manski|first = Charles|date = Spring 2010|journal = The American Economist|volume = 55|pages = 9–18|doi = 10.1177/056943451005500102|s2cid = 33759962|access-date = October 9, 2015}}</ref></blockquote>
+
+==Personal life==
+Manski is married to Catherine Manski, a lecturer in the Department of Education at the University of Illinois at Chicago.<ref>{{Cite web|url = http://tigger.uic.edu/depts/engl/index.html|title = UIC English Department|archive-url = https://web.archive.org/web/20090202082059/http://tigger.uic.edu/depts/engl/index.html|archive-date = 2009-02-02|url-status = dead}}</ref> He has two children, educator Rebecca Manski and sociologist [[Ben Manski]], and three grandchildren.<ref>{{Cite web|title = Charles F. Manski: About Charles Manski|url = http://www.charlesmanski.com/p/about-charles-manski.html|website = www.charlesmanski.com|access-date = 2015-10-10}}</ref>
+
+==Academic career==
+
+He received his B.S. and Ph.D. in economics from [[MIT]] in 1970 and 1973. He first taught at [[Carnegie Mellon University]] (1973–80), moving on to the [[Hebrew University of Jerusalem]] (1978–1983), and joining the faculty of the [[University of Wisconsin–Madison]] (U.W., 1983–1998). While at the U.W., Manski served as Director of the Institute for Research on Poverty (1988–1991) and as Chair of the Board of Overseers of the Panel Study of Income Dynamics (1994–1998). Since 1997 Manski has been Board of Trustees Professor in Economics at [[Northwestern University]].<ref name="bio">{{cite web |title=Charles Manski biography at Northwestern |url=http://faculty.wcas.northwestern.edu/~cfm754/charles_manski_bio.pdf |access-date=2019-06-16}}</ref>
+
+Manski has served as a member of the [[United States National Research Council|National Research Council]]'s (NRC) Committee on National Statistics (1996–2000), and the Commission on Behavioral and Social Sciences and Education (1992–1998). At the NRC, he has been Chair of the Committee on Data and Research for Policy on Illegal Drugs (1998–2001) and a member of the Board on Mathematical Sciences and their Applications (2004–2007) and the Committee on Law and Justice (2009–). Manski is an elected fellow of the [[Econometric Society]], [[The American Academy of Arts and Sciences]], and the [[American Association for the Advancement of Science]].<ref name="bio"/> In 2009, Manski was elected to the [[United States National Academy of Sciences|National Academy of Sciences]]; he is one of 2 economists elected to the body in 2009 and one of about 60 economists elected up to that point.<ref>[http://www.northwestern.edu/newscenter/stories/2009/05/manskihonor.html "Charles Manski Elected to National Academy of Sciences"] {{webarchive |url=https://web.archive.org/web/20090923195700/http://www.northwestern.edu/newscenter/stories/2009/05/manskihonor.html |date=September 23, 2009 }} April 29, 2009</ref> In 2014 he was elected a [[British Academy#Fellowship|Corresponding Fellow of the British Academy]].<ref name="BA Fellow">{{cite web | url=http://www.timeshighereducation.co.uk/news/british-academy-announces-42-new-fellows/2014585.article | title=British Academy announces 42 new fellows | publisher=Times Higher Education | date=18 July 2014 | access-date=18 July 2014}}</ref>
+
+=== War on Drugs ===
+
+Manski served on the NRC's Committee on Data and Research for Policy on Illegal Drugs, which studied the [[war on drugs]]. The committee report found that existing studies on efforts to address drug usage and smuggling, from US military operations to eradicate coca fields in [[Colombia]], to domestic drug treatment centers, have all been inconclusive, if the programs have been evaluated at all: "The existing drug-use monitoring systems are strikingly inadequate to support the full range of policy decisions that the nation must make....  It is unconscionable for this country to continue to carry out a public policy of this magnitude and cost without any way of knowing whether and to what extent it is having the desired effect."<ref>{{Cite web |url=http://www.dpeg.org/dpeg_2001_spg.pdf |title=No Data on Effectiveness |access-date=September 27, 2013 |archive-url=https://web.archive.org/web/20081205024427/http://www.dpeg.org/dpeg_2001_spg.pdf |archive-date=December 5, 2008 |url-status=bot: unknown }}, Drug Policy Education Group, Vol. 2 No.1, Spring/Summer 2001, p.5</ref> The study was mentioned by the press but was initially ignored by policymakers, leading Manski to conclude, as one observer noted, that "the drug war has no interest in its own results."<ref>[http://www.drugsense.org/dsw/2001/ds01.n215.html "Weekly News in Review"], DrugSense Weekly, August 31, 2001 #215</ref>
+
+==Research==
+Manski's work in [[econometrics]] includes the development of tools for [[partial identification]], the [[maximum score estimator]] for [[discrete choice]] models, and work on the "reflection problem" in models of [[peer effects]].
+
+As of 2007, Manski's research interests focus primarily on the field of formation of social policy with partial knowledge of treatment response. Economists and doctors alike share a common interest in gauging the effect of various "treatments" delivered to "patients."<ref>{{cite web |title=Charles Manski biography at Institute for Policy Research |url=http://www.northwestern.edu/ipr/people/manski.html}}</ref> Since research on treatment response rarely provides sufficient information to determine effectiveness, how should the available evidence be employed in choosing future treatments?<ref>C. Manski, Social Choice with Partial Knowledge of Treatment Response, Princeton: Princeton University Press, 2005.
+C. Manski, "Diversified Treatment under Ambiguity," International Economic Review, 2009, forthcoming.</ref>
+
+===Election predictions===
+In 2004, Manski challenged the theoretical basis for statements in the popular media "that markets can predict an election better than polls and experts can."<ref>Stix, Gary. [http://www.sciam.com/article.cfm?id=markets-predict-outcome-better-than-polls&page=3 "Super Tuesday: Markets Predict Outcome Better Than Polls"]; Scientific American, February 2008</ref>
+
+==Selected publications==
+;Partial identification
+* C. Manski, Partial Identification of Probability Distributions, New York: Springer-Verlag, 2003.
+* C. Manski, Identification for Prediction and Decision: Cambridge, Harvard University Press, 2007.
+
+;Identification of discrete choice models
+* C. Manski, "Maximum Score Estimation of the Stochastic Utility Model of Choice," Journal of Econometrics, Vol. 3, No. 3, 1975, pp.&nbsp;205–228.
+* "Identification of Binary Response Models," Journal of the American  Statistical Association, Vol. 83, No. 403, 1988, pp.&nbsp;729–738.
+
+;Identification of social interactions
+* C. Manski, "Identification of Endogenous Social Effects: The Reflection Problem," Review of Economic Studies, Vol. 60, No. 3, 1993, pp.&nbsp;531–542.
+
+;Measurement of expectations in surveys
+* C. Manski, "Measuring Expectations," Econometrica, Vol. 72, No. 5, 2004, pp.&nbsp;1329–1376.
+
+;Other
+*C. Manski, Social Choice with Partial Knowledge of Treatment Response, Princeton: Princeton University Press, 2005.
+*C. Manski, "Diversified Treatment under Ambiguity," International Economic Review, 2009, forthcoming.{{update inline|date=January 2020}}
+
+==References==
+{{reflist|colwidth=33em}}
+
+==Further reading==
+* {{cite book | last=Bowmaker | first=Simon | title=The art and practice of economics research : lessons from leading minds | publisher=Edward Elgar | year=2012 | isbn=978-1-84980-846-0 | oclc=798411564 |chapter=Interview with Charles Manski |chapter-url=http://simonbowmaker.com/s/Manski.pdf}}
+
+==External links==
+*[http://www.drugsense.org/dsw/2001/ds01.n215.html Website on drug policy]
+*Manski, Charles F. "Why Polls Are Fickle;" ''The New York Times''. Op-Ed 4 [2000]
+*[http://faculty.wcas.northwestern.edu/~cfm754/ Manski webpage]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Manski, Charles F.}}
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:21st-century American economists]]
+[[Category:20th-century American economists]]
+[[Category:20th-century American Jews]]
+[[Category:Econometricians]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:Boston Latin School alumni]]
+[[Category:Carnegie Mellon University faculty]]
+[[Category:Hebrew University of Jerusalem faculty]]
+[[Category:University of Wisconsin–Madison faculty]]
+[[Category:Northwestern University faculty]]
+[[Category:Fellows of the Econometric Society]]
+[[Category:Fellows of the American Statistical Association]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Distinguished Fellows of the American Economic Association]]
+[[Category:Corresponding Fellows of the British Academy]]
+[[Category:21st-century American Jews]]
